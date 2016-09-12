@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2011-08-08"
+last_updated: "2016-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
+CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -469,7 +469,7 @@ XXXI.- Solicitar en términos de la Ley aplicable la expropiación de bienes por
 
 XXXII.- Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
 
-XXXIII.- Nombrar al titular de la Policía Preventiva Municipal y Tránsito; y (sic)
+XXXIII.- Nombrar al titular de la Policía Preventiva Municipal y Tránsito; y
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
 
@@ -2219,15 +2219,45 @@ I.- Oficina del Presidente Municipal;
 
 II.- Secretaría del H. Ayuntamiento;
 
-III.- Tesorería Municipal;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-IV.- Dirección de Planeación, Obras y Servicios Públicos Municipales;
+III.- Dirección de Seguridad Pública y Vialidad;
 
-V.- Dirección de Desarrollo Social;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-VI.- Contraloría Municipal; y
+V (sic). Dirección de Finanzas y Administración;
 
-VII.- Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IV (sic). Dirección Jurídica;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Dirección de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Dirección de Servicios Públicos Municipales y Mantenimiento;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Dirección de Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IX.- Contraloría Municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Sistema para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Instancia Municipal de las Mujeres; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XII.- Subdelegación del INAPAM.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2257,19 +2287,23 @@ I.- Oficina del C. Presidente Municipal:
 
 a).- Secretaría Particular;
 
-b).- Coordinación de asesores;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-c).- Coordinación de comunicación social y relaciones públicas;
+b).- Departamento de Atención a la ciudadanía;
 
-d).- Coordinación de comunidades y colonias;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-e).- Departamento de atención ciudadana y giras;
+c).- Departamento de Comunicación Social y Relaciones Públicas;
 
-f).- Delegado municipal de Emiliano Zapata;
+d).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
 
-g).- Subdelegado municipal de las Ánimas; y
+e).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
 
-h).- Comisarios municipales.
+f).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
+
+g).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
+
+h).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
 
 II.- Secretaría del H. Ayuntamiento:
 
@@ -2289,81 +2323,137 @@ a.2.- Subdirección de Policía Vial;
 
 a.3.- Departamento de Profesionalización;
 
-b).- Departamento Jurídico y de Reclutamiento;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+b).- Departamento de Reglamentos y Licencias;
 
 c).- Departamento de Regulación Sanitaria;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-d).- Departamento de Acción Cívica y Reclutamiento;
+d).- Departamento de Acción Cívica y Logística;
 
-e).- Departamento de Reglamentos y Licencias;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-f).- Consejo Municipal de Protección Civil;
+e).- Departamento de Protección Civil;
 
-III.- Tesorería Municipal:
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-a).- Subdirección de ingresos:
+f).- Departamento de Sistemas Informáticos.
 
-a.1.- Departamento de Control catastral;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-a.2.- Departamento de Recaudación Municipal.
+III.- Dirección de Finanzas y Administración:
 
-b).- Subdirección de Egresos y Administración:
+a).- Subdirección Administrativa:
 
-b.1).- Departamento de Control Patrimonial;
+a.1.- Departamento de Compras y Servicios Generales;
 
-b.2).- Departamento de Recursos Humanos;
+a.2.- Departamento de Capital Humano.
 
-b.3).- Departamento de Contabilidad;
+b).- Subdirección de Finanzas:
 
-c).- Subdirección de Finanzas;
+b.1).- Departamento de Contabilidad;
 
-IV.- Dirección de Planeación, Obras y Servicios Públicos Municipales:
+b.2).- Departamento de Control Presupuestal;
 
-a).- Subdirección de Planeación y Desarrollo urbano:
+b.3).- Departamento de Recaudación;
 
-a.1).- Departamento de Control Urbano;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-a.2).- Departamento de Ecología;
+III (sic).- Dirección Jurídica.
 
-b).- Subdirección de Obras y Servicios Públicos:
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-b.1).- Departamento de Proyectos y Presupuestos;
+V.- Dirección (sic) Obras Públicas y Desarrollo Urbano:
 
-b.2).- Departamento de Licitación, Supervisión y Control;
+a).- Subdirección de Obras Púbicas (sic):
 
-b.3).- Departamento de Servicios Públicos;
+a.1). Departamento de Costos y Licitaciones;
 
-V.- Dirección de Desarrollo Social:
+a.2).- Departamento de Proyectos;
 
-a).- Departamento de Educación, Recreación y Deporte;
+a.3).- Departamento de Supervisión;
 
-b).- Departamento de Programas Coordinados;
+b).- Subdirección de Desarrollo Urbano:
 
-c).- Departamento de Brigadas;
+b.1).- Departamento de Desarrollo Urbano;
 
-VI. Contraloría municipal:
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-a).- Departamento de Auditoría Administrativa y Financiera;
+VI.- Dirección de Servicios Púbicos (sic) Municipales y Mantenimiento:
 
-b).- Departamento de Auditoria de Obra Pública;
+a).- Departamento de Alumbrado Público;
 
-c).- Departamento de Responsabilidades;
+b).- Departamento del Servicio de Limpia;
 
-VII.- Desarrollo Integral de la Familia:
+c).- Departamento de Parques, Jardines y Panteones;
 
-a).- Secretaria particular de la Presidenta (sic);
+d).- Departamento de Ecología;
 
-b).- Director;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-c).- Departamento Jurídico;
+VII.- Dirección de Desarrollo Social:
 
-d).- Departamento de Servicios Médicos;
+a).- Subdirección de Desarrollo Social:
 
-e).- Departamento de la Senectud;
+a.1).- Departamento de Programas Coordinados;
 
-f).- Departamento de Coordinación del Voluntariado.
+a.2).- Departamento de Fomento a la Cultura;
+
+a.3).- Departamento de Fomento al Deporte;
+
+a.4).- Departamento de Desarrollo Rural;
+
+a.5).- Representación del INJUVE;
+
+b).- Subdirección de Desarrollo Económico:
+
+b.1).- Departamento de Fomento a la Inversión, Empleo y Desarrollo Emprendedor;
+
+b.2).- Departamento de Turismo;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VIII.- Contraloría Municipal:
+
+a).- Departamento de Obra Pública;
+
+b).- Departamento de Auditoria Administrativa y Financiera;
+
+c).- Departamento de Seguimiento, Responsabilidades y Control Patrimonial;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IX.- Sistema para el Desarrollo Integral de la Familia:
+
+a).- Presidencia;
+
+b).- Dirección;
+
+c).- Coordinación de Atención;
+
+d).- Coordinación de Programas;
+
+e).- Coordinación de Servicios Médicos y Salud Menta (sic);
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Instancia Municipal de las Mujeres:
+
+a).- Coordinación;
+
+b).- Coordinación Operativa;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Subdelegación del INAPAM:
+
+a).- Coordinación de Programas;
+
+b).- Coordinación de Asistencia y Servicios Médicos; y
+
+c).- Coordinación de Clubes de la Tercera Edad.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2467,9 +2557,9 @@ XV.- Elaborar los manuales de organización, acuerdos, circulares y demás dispo
 
 XVI.- Formular los anteproyectos de leyes, reglamentos y acuerdos, así como opinar sobre los ya existentes que correspondan a sus respectivas áreas y materias y remitirlos al Presidente Municipal para los efectos procedentes;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XVII.- Constatar periódicamente que el inventario de los bienes que se encuentran bajo su responsabilidad o resguardo, corresponde a los registros, notificando al Departamento de Control Patrimonial en caso de faltantes o deterioro para los efectos conducentes;
+XVII.- Constatar periódicamente que el inventario de los bienes que se encuentran bajo su responsabilidad o resguardo, corresponde a los registros, notificando al Departamento de Seguimiento, Responsabilidades y Control Patrimonial en caso de faltantes o deterioro para los efectos conducentes;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2477,7 +2567,7 @@ XVIII.- Rendir anualmente un informe al Presidente Municipal sobre las actividad
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-XIX.- Presentar su declaración de situación patrimonial, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado; y (sic)
+XIX.- Presentar su declaración de situación patrimonial, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado; y
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
 
@@ -2537,39 +2627,9 @@ VII.- Apoyar al Presidente Municipal en el desarrollo de sus funciones, y
 
 VIII.- Las demás que el Presidente Municipal le encomiende.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 ###### ARTICULO 210.
 
-Corresponde a la Coordinación de asesores:
-
-I.- Realizar estudios e investigaciones sobre las diversas áreas de la administración pública municipal;
-
-II.- Integrar un banco de datos estadísticos de los principales indicadores sociodemográficos del municipio;
-
-III.- Realizar diagnósticos sobre el funcionamiento general de la administración pública municipal;
-
-IV.- Proponer al Presidente la contratación de estudios y proyectos determinados a efecto de optimizar el funcionamiento de la administración pública municipal;
-
-V.- Supervisar, a solicitud del Presidente Municipal, los documentos que deban ser suscritos por éste, así como la realización de los diversos actos y actividades públicos;
-
-VI.- Establecer diversas áreas de asesoría en aquellas materias que se requiera fortalecer en las dependencias administrativas de la Presidencia;
-
-VII.- Proponer sistemas, modelos y procedimientos para optimizar el funcionamiento de la Presidencia y la eficiencia de sus diversos órganos;
-
-VIII.- Procurar que todos los actos de la administración pública municipal estén apegados al principio de legalidad, y conforme a los procedimientos administrativos establecidos por la ley;
-
-IX.- Definir y establecer las políticas en materia de informática que deberán de observar las dependencias y entidades de la Administración Pública Municipal;
-
-X.- Apoyar los programas de Modernización Administrativa sustentados en la Información Tecnológica que sean de su competencia;
-
-XI.- Proporcionar el servicio de diseño, desarrollo e implementación de sistemas computacionales que requieran las dependencias de la Administración Pública Municipal;
-
-XII.- Instrumentar cursos, manuales y bancos de datos para optimizar el manejo y utilización de la información;
-
-XIII.- Establecer los criterios para el uso y operación de los sistemas de aplicación administrativa y uso genérico; y
-
-XIV.- Las demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2605,59 +2665,57 @@ XIII.- Mantener actualizada la página web del Municipio, con la información qu
 
 XIV.- Las demás que se les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 ###### ARTICULO 212.
 
-Corresponde a la Coordinación de comunidades y colonias:
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
 
-I.- Establecer la coordinación de las actividades de los delegados, subdelegados y comisarios municipales;
-
-II.- Supervisar el funcionamiento de las delegaciones, subdelegaciones y comisarías municipales;
-
-III.- Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
-
-IV.- Rendir informe de las funciones desempeñadas al Presidente y al regidor o síndico del ramo;
-
-V.- Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados;
-
-VI.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes;
-
-VII.- Formular y proponer al Presidente los proyectos de Planes y Programas que les correspondan;
-
-VIII.- Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal;
-
-IX.- Mantener permanente comunicación con el Departamento de Atención ciudadana y demás Dependencias Municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
-
-X.- Observar las normas que la Coordinación de Comunicación Social y Relaciones Públicas emita respecto a toda comunicación oficial que se genere en las áreas de su competencia; y
-
-XI.- Las demás que el Presidente Municipal le encomiende.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 213.
 
-Corresponde al Departamento de Atención Ciudadana y Giras:
+Corresponde al Departamento de Atención a la Ciudadanía:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Establecer sistemas para la recepción de las audiencias del Presidente Municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Definir y diseñar métodos y formatos para la recepción de quejas, denuncias y opiniones de la ciudadanía respecto de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Organizar la realización de los miércoles ciudadanos y domingos comunitarios;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Proponer el establecimiento de módulos de información al público respecto a los diversos servicios que presta la Presidencia Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Coordinar, conjuntamente con la Coordinación de Comunicación Social y Relaciones Públicas, la oficina de transparencia y acceso a la información pública de la Presidencia Municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Servir de enlace entre la ciudadanía, la Presidencia Municipal y las dependencias o entidades del gobierno federal o estatal que operen en el municipio; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Proponer al Presidente Municipal el programa anual de giras y eventos públicos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VIII.- Proveer de todos los requerimientos técnicos y estratégicos necesarios para que la realización de los eventos públicos que realice el Presidente Municipal se lleve a cabo con sumo decoro y calidad;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Establecer sistemas de captación de demandas populares en las giras que realice el Presidente Municipal y dar seguimiento a las mismas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Verificar los itinerarios y recorridos de las giras que realice el Presidente por las comunidades del municipio; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Las demás que el Presidente Municipal le encomiende.
 
@@ -2681,7 +2739,9 @@ IV.- Certificar y entregar Cartas de Residencia;
 
 V.- Controlar la prestación del Servicio Militar Nacional en el municipio;
 
-VI.- Opinar y resolver sobre los aspectos jurídicos del ejercicio de la función de gobierno;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Dirigir, organizar y supervisar el funcionamiento de los juzgados calificadores de seguridad pública y vialidad;
 
 VII.- Administrar el archivo general municipal;
 
@@ -2701,51 +2761,115 @@ XIV.- Coordinar la realización de los actos cívicos, en los que se conmemoren 
 
 XV.- Coordinar la formulación del informe anual de labores;
 
-XVI.- Actualizar a las dependencias de la Administración Municipal en el conocimiento de las diferentes leyes, el presente Código y demás decretos y reglamentos que se promulguen, que guarden relación con las funciones que realizan;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XVII.- Expedir las copias, credenciales y demás certificaciones que acuerde el Ayuntamiento;
+XVI.- Expedir las copias, credenciales y demás certificaciones que acuerde el Ayuntamiento;
 
-XVIII.- Certificar copias de los documentos originales que obren en los expedientes o archivos del Municipio y dar constancia de actos realizados por las autoridades municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XIX.- Expedir las licencias para realizar las actividades comerciales, industriales y de prestación de servicios;
+XVII.- Certificar copias de los documentos originales que obren en los expedientes o archivos del Municipio y dar constancia de actos realizados por las autoridades municipales;
 
-XX.- Autorizar la ampliación del horario de los establecimientos que venden bebidas alcohólicas, por un día o días determinados, previo pago de los derechos correspondientes;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXI.- Expedir los permisos y/o autorizaciones para la ocupación temporal de la vía pública, para la realización de actividades comerciales o de prestación de servicios;
+XVIII.- Expedir las licencias para realizar las actividades comerciales, industriales y de prestación de servicios;
 
-XXII.- Ordenar las visitas de inspección o verificación en las materias de su competencia;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXIII.- Iniciar, sustanciar y desahogar el procedimiento de clausura de establecimientos comerciales, industriales y de servicios, en los casos previstos por las leyes y reglamentos vigentes;
+XIX.- Autorizar la ampliación del horario de los establecimientos que venden bebidas alcohólicas, por un día o días determinados, previo pago de los derechos correspondientes;
 
-XXIV.- Conocer y calificar las infracciones en materia de sanidad, Comercio, Industria y prestación de servicios, así como en materia de faltas cívicas y de vialidad, éstas a través de los jueces calificadores, cuando se incurra en violaciones a los preceptos de la Ley y el presente Código e imponer las sanciones correspondientes;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXV.- Llevar la Inspección y Regulación Sanitaria de los giros de competencia Municipal, de acuerdo con la Ley de Salud del Estado y los convenios que en la materia se realicen con el Instituto de Salud del Estado;
+XX.- Expedir los permisos y/o autorizaciones para la ocupación temporal de la vía pública, para la realización de actividades comerciales o de prestación de servicios;
 
-XXVI.- Llevar la inspección y/o verificación del funcionamiento de los Giros municipales reglamentados;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXVII.- Establecer medidas de control y evaluar sanitariamente el ejercicio de la prostitución en el Municipio;
+XXI.- Ordenar las visitas de inspección o verificación en las materias de su competencia;
 
-XXVIII.- Aplicar medidas de seguridad para el debido control sanitario;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXIX.- Constatar que se realicen los servicios de revisión médica e inspección sanitaria a las personas que ejercen la prostitución y a los establecimientos;
+XXII.- Iniciar, sustanciar y desahogar el procedimiento de clausura de establecimientos comerciales, industriales y de servicios, en los casos previstos por las leyes y reglamentos vigentes;
 
-XXX.- Operar el Registro e Inscripción de personas que ejercen la prostitución y de los establecimientos en donde se practique;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXXI.- Vigilar el cumplimiento de las obligaciones de las personas que ejercen la prostitución y los establecimientos destinados a este giro, conforme a lo dispuesto por este Código, imponiendo en su caso las sanciones correspondientes;
+XXIII.- Conocer y calificar las infracciones en materia de sanidad, Comercio, Industria y prestación de servicios, así como en materia de faltas cívicas y de vialidad, éstas a través de los jueces calificadores, cuando se incurra en violaciones a los preceptos de la Ley y el presente Código e imponer las sanciones correspondientes;
 
-XXXII.- Cancelar los registros de personas que ejercen la prostitución y de los establecimientos cuando proceda;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXXIII.- Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubiertos los impuestos y/o derechos municipales;
+XXIV.- Llevar la Inspección y Regulación Sanitaria de los giros de competencia Municipal, de acuerdo con la Ley de Salud del Estado y los convenios que en la materia se realicen con el Instituto de Salud del Estado;
 
-XXXIV.- Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la ley general de salud; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXXV.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXV.- Llevar la inspección y/o verificación del funcionamiento de los Giros municipales reglamentados;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXVI.- Establecer medidas de control y evaluar sanitariamente el ejercicio de la prostitución en el Municipio;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXVII.- Aplicar medidas de seguridad para el debido control sanitario;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXVIII.- Constatar que se realicen los servicios de revisión médica e inspección sanitaria a las personas que ejercen la prostitución y a los establecimientos;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXIX.- Operar el Registro e Inscripción de personas que ejercen la prostitución y de los establecimientos en donde se practique;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXX.- Vigilar el cumplimiento de las obligaciones de las personas que ejercen la prostitución y los establecimientos destinados a este giro, conforme a lo dispuesto por este Código, imponiendo en su caso las sanciones correspondientes;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXI.- Cancelar los registros de Personas que ejercen la prostitución y de los establecimientos cuando proceda;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII.- Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubiertos los impuestos y/o derechos municipales;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIII.- Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la ley general de salud;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIV.- Realizar y fomentar las tareas de acción cívica y social;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXV.- Proponer al H. Ayuntamiento el proyecto de calendario cívico y social anual y una vez aprobado, ejecutarlo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXVI.- Organizar las conmemoraciones del calentado (sic) cívico y social e intervenir en la logística de los demás actos oficiales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXVII.- Promover en las comunidades del municipio eventos cívicos, sociales y culturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXVIII.- Promover la difusión de los eventos cívicos, sociales y culturales del municipio, así como los temas que eleven la conciencia cívica de la población;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIX.- Coordinarse con instituciones educativas, asociaciones civiles y particulares para la realización y promoción de actos cívicos, sociales y culturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XL.- Coordinar las acciones de protección civil en el municipio, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XLI.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 #### SECCION TERCERA. De la Tesorería Municipal
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 215.
 
@@ -2813,27 +2937,67 @@ XXX.- Las demás que le otorguen las leyes, el presente Código o le encomiende 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. De la Dirección de Planeación, Obras y Servicios Públicos Municipales
+#### SECCIÓN CUARTA. De la Dirección Jurídica
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 216 BIS.- Corresponde a la Dirección Jurídica:
+
+I.- Asesorar jurídicamente al Presidente Municipal, al Secretario del Ayuntamiento y a los demás directores y funcionarios de la Administración Pública Municipal;
+
+II.- Elaborar y revisar en su caso los proyectos de iniciativas de leyes, reglamentos, bandos, códigos o disposiciones de carácter general que emita el Ayuntamiento, así como las reformas a los mismos;
+
+III.- Revisar todos los documentos de carácter jurídico del municipio previo a la firma del presidente municipal;
+
+IV.- Vigilar el cumplimiento de los preceptos constitucionales, legales y reglamentarios, por parte los funcionarios de la Administración Pública Municipal:
+
+V.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Presidente Municipal o de los titulares de las dependencias de la Administración Pública;
+
+VI.- Intervenir en auxilio de Síndico Municipal en todos los asuntos litigiosos en que el Municipio sea parte y en los juicios de amparo que se interpongan en contra de cualquier autoridad del municipio;
+
+VII.- Recopilar y mantener actualizada la normatividad vigente en materia municipal y particularmente la relacionada con el Municipio de Pabellón de Arteaga;
+
+VIII.- Tramitar la publicación en el Periódico Oficial del Estado de los acuerdos o disposiciones administrativas del municipio que por ley deben publicarse;
+
+IX.- Participar en la elaboración y supervisar jurídicamente el contenido de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal, el Estado, otros municipios o con los particulares; y
+
+X.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 216.
 
-Corresponde a la Tesorería Municipal:
+Corresponde a la Dirección de Finanzas y Administración:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Coordinar la administración de la Hacienda Pública Municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Efectuar la recaudación y cobro de impuestos, contribuciones especiales, derechos, productos, aprovechamientos, participaciones y aportaciones federales para fines específicos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Formular conjuntamente con las dependencias y entidades municipales el proyecto de presupuesto de Egresos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Formular en coordinación con las dependencias y entidades municipales el proyecto de Ley de Ingresos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Establecer un control mensual del flujo de efectivo;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Celebrar reuniones mensuales para evaluar lo programado tanto en gasto como ingreso, para proponer los ajustes y transferencias al presupuesto a fin de continuar operando los programas de mayor impacto y rentabilidad social;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- Informar al ayuntamiento mensualmente el estado que guardan las finanzas municipales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- Vigilar el cumplimiento de las disposiciones contenidas en las leyes fiscales municipales, y en especial, para ordenar:
 
@@ -2845,13 +3009,23 @@ c) Se exija, en el domicilio de los contribuyentes, la exhibición de los elemen
 
 d) Se efectúen toda clase de investigaciones con los datos, informes o documentos solicitados a los contribuyentes o a los terceros;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IX.- Imponer las multas derivadas de infracciones a las disposiciones fiscales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 X.- Ordenar la clausura de los establecimientos, en los términos de la legislación aplicable;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XI.- Autorizar a los delegados municipales, en los términos de la Ley, para efectuar la recaudación de los fondos provenientes del cumplimiento de las leyes fiscales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XII.- Determinar la existencia de obligaciones fiscales, dar las bases para su liquidación o fijarlas en cantidad líquida; cerciorarse del cumplimiento de las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIII.- Practicar revisiones en el establecimiento o dependencias de los sujetos pasivos, de los responsables solidarios, de los responsables objetivos y de los terceros, a efecto de que:
 
@@ -2860,6 +3034,8 @@ a) Se proceda a la verificación física, clasificación, valuación o comprobac
 b) Se solicite de los sujetos pasivos, responsables solidarios, responsables objetivos o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales; y
 
 c) Se recabe de los servidores públicos y de los fedatarios, los informes y datos que posean, con motivo de sus funciones;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIV.- Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces, para hacer cumplir sus determinaciones:
 
@@ -2871,145 +3047,255 @@ c) La denuncia ante el Ministerio Público, para la consignación respectiva, po
 
 d) El embargo precautorio de los bienes, el establecimiento o la negociación, cuando el contribuyente no atienda tres requerimientos de la autoridad, por una misma omisión. El embargo quedará sin efectos, cuando el contribuyente cumpla con la obligación de que se trate, o dos meses después de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XV.- Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Tesorería Municipal, tendrá el mismo valor probatorio que la ley relativa concede a las actas de la Policía Judicial; la propia Tesorería, a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVI.- Comprobar los ingresos de los contribuyentes. A este efecto, se presumirá, salvo prueba en contrario, que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezca sin su nombre o a nombre de otra persona;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XVII.- Determinar estimativamente la base gravable o el monto de los ingresos, en el caso de que los contribuyentes no puedan comprobar los correspondientes al período objeto de revisión. En este caso, la determinación será efectuada, con base en los elementos de que dispongan las autoridades fiscales a la base gravable o ingreso estimado presuntamente, se aplicará la tarifa, tasa o cuota que corresponda;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVIII.- Hacer efectiva al sujeto pasivo o responsable solidario, que haya incurrido en la omisión de presentación de una declaración para el pago de impuestos, una cantidad igual al impuesto que hubiese determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o en la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsiguiente para el pago de impuestos propios o retenidos. Este impuesto provisional podrá ser rectificado por las propias autoridades fiscales y su pago no libera a los obligados de presentar la declaración omitida;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIX.- Fijar las cuotas o porcentajes que cubrirán los contribuyentes por cualquiera de los conceptos de ingresos que se establezcan en la Ley, de conformidad con las tarifas de mínimos y máximos que se señalen en las leyes de ingresos municipales; así como para, modificar en el curso del año, las cuotas de pago periódico de impuestos y derechos, dentro de dichos límites, cuando no correspondan a la importancia del negocio o del servicio prestado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XX.- Llevar el inventario y control del patrimonio municipal, en el que se clasifiquen los bienes del dominio público y privado del municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXI.- Coordinar las actividades que tienen por objeto el reclutamiento, la contratación, las remociones, las renuncias, las licencias, las jubilaciones, la capacitación, el desarrollo y el control del personal de la Presidencia Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXII.- Preparar de los tabuladores de sueldos y demás percepciones que correspondan a los servidores públicos del municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXIII.- Manejar Promociones al personal ligadas a incrementos de productividad;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXIV.- Coordinar el servicio civil de carrera;
 
 Instruir los procedimientos disciplinarios en que se vean involucrados los servidores públicos municipales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXV.- Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio, y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Órganos Descentralizados;
-
-XXVI.- Adquirir, administrar y abastecer los recursos materiales necesarios para el desarrollo de sus funciones, a las unidades administrativas de la Presidencia;
-
-XXVII.- Generar los análisis y programas tendientes a lograr el desarrollo organizacional de la administración municipal;
-
-XXVIII.- Dirigir las acciones que tiendan a proporcionar a las dependencias de la Presidencia Municipal, los elementos de trabajo necesarios para el desarrollo de sus funciones;
-
-XXIX.- Fungir como Secretario Técnico del Comité Municipal de Adquisiciones y administrar todas las compras y suministros municipales, con base en el presupuesto de egresos;
-
-XXX.- Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
-
-XXXI.- Controlar los almacenes municipales;
-
-XXXII.- Implantar políticas y desarrollar programas para el mejor aprovechamiento de vehículos, combustibles y todo lo relacionado con su mantenimiento;
-
-XXXIII.- Intervenir en la elaboración de presupuestos de las Dependencias Municipales, y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
-
-XXXIV.- Desarrollar y establecer planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo;
-
-XXXV.- Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejora al servicio público;
-
-XXXVI.- Definir y establecer los mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de le (sic) eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
-
-XXXVII.- Elaborar y mantener actualizados los manuales de organización, de procedimientos y el Directorio de trámites y servicios públicos de la administración municipal;
-
-XXXVIII.- Establecer y coordinar los sistemas y procesos informáticos que habrán de emplearse en el municipio; y
-
-XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION QUINTA. De la Dirección de Desarrollo Social
+XXVI.- Adquirir, administrar y abastecer los recursos materiales necesarios para el desarrollo de sus funciones, a las unidades administrativas de la Presidencia;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEXTA. De la Contraloría Municipal
+XXVII.- Generar los análisis y programas tendientes a lograr el desarrollo organizacional de la administración municipal;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXVIII.- Dirigir las acciones que tiendan a proporcionar a las dependencias de la Presidencia Municipal, los elementos de trabajo necesarios para el desarrollo de sus funciones;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXIX.- Fungir como Secretario Técnico del Comité Municipal de Adquisiciones y administrar todas las compras y suministros municipales, con base en el presupuesto de egresos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXX.- Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXI.- Controlar los almacenes municipales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXII.- Implantar políticas y desarrollar programas para el mejor aprovechamiento de vehículos, combustibles y todo lo relacionado con su mantenimiento;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXIII.- Intervenir en la elaboración de presupuestos de las Dependencias Municipales, y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXIV.- Desarrollar y establecer planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXV.- Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejora al servicio público;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXVI.- Definir y establecer los mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de le (sic) eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXVII.- Elaborar y mantener actualizados los manuales de organización, de procedimientos y el Directorio de trámites y servicios públicos de la administración municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXVIII.- Establecer y coordinar los sistemas y procesos informáticos que habrán de emplearse en el municipio; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN QUINTA. De la Dirección de Obras Públicas y Desarrollo Urbano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEXTA. De la Dirección de Servicios Públicos Municipales y Mantenimiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 217.
 
-Corresponde a la Dirección de Planeación, Obras y Servicios Públicos Municipales en materia de planeación y Desarrollo Urbano:
+Corresponde a la Dirección de Obras Públicas y Desarrollo Urbano:
 
-I.- Elaborar el proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-II.- Coordinar la elaboración de los programas de Desarrollo Urbano de la Cabecera y Comunidades de Pabellón de Arteaga;
+I.- Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
 
-III.- Desarrollar el Marco Normativo Ecológico Municipal, involucrando a todas las Dependencias necesarias para la aplicación y regulación del mismo;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-IV.- Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
+II.- Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes de acuerdo a la legislación vigente en la materia;
 
-V.- Organizar los Programas Operativos Anuales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-VI.- Preparar los proyectos derivados del programa operativo anual;
+III.- Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas;
 
-VII.- Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-VIII.- Realizar Diagnósticos Municipales;
+IV.- Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Asesorar técnicamente a los Comités Vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; I.- (sic) Elaborar el proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Coordinar la elaboración de los programas de Desarrollo Urbano de la Cabecera y Comunidades de Pabellón de Arteaga;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VIII.- Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Promover la creación de reservas territoriales en el municipio;
 
-X.- Recopilar y Mantener actualizada la información estadística necesaria para la planeación municipal;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XI.- Relacionar la administración pública municipal con los ciudadanos, a fin de que estos participen del proceso de planeación democrática del desarrollo;
+X.- Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
 
-XII.- Construir y operar las bases de datos estadísticos municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XIII.- Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
+XI.- Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de Construcciones y de protección al ambiente;
 
-XIV.- Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de Construcciones y de protección al ambiente;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XV.- Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de Condominios, creación de Fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+XII.- Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de Condominios, creación de Fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
 
-XVI.- Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano y la Ley Municipal del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XVII.- Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código Urbano;
+XIII.- Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano y la Ley Municipal del Estado de Aguascalientes;
 
-XVIII.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XIX.- Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
+XIV.- Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código Urbano;
 
-XX.- Inspeccionar obras, edificios y construcciones en general;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXI.- Verificar el uso que sé esta dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
+XV.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
-XXII.- Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXIII.- Ordenar la realización de visitas de inspección, la aplicación de medidas de seguridad;
+XVI.- Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
 
-XXIV.- Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXV.- Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
+XVII.- Inspeccionar obras, edificios y construcciones en general;
 
-XXVI.- Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXVII.- Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
+XVIII.- Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
 
-XXVIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XIX.- Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
 
-#### SECCION SEPTIMA. Del Comité para el Desarrollo Integral de la Familia
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XX.- Ordenar la realización de visitas de inspección, la aplicación de medidas de seguridad;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXI.- Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXII.- Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII.- Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV.- Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal; y
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXV.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+
+XXVI.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
+
+XXVII.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
+
+XXVIII.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN SÉPTIMA. De la Dirección de Desarrollo Social
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 218.
 
-Corresponde a la Dirección de Planeación, Obras y Servicios Públicos Municipales en materia de Servicios Públicos:
+Corresponde a la Dirección de Servicios Públicos Municipales y Mantenimiento:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Difundir y dirigir las acciones tendientes a obtener una adecuada educación ambiental de los ciudadanos del municipio, en colaboración con las instituciones educativas y culturales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos en el municipio, buscando en todo el desarrollo municipal sustentable;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Promover campañas de reciclaje ecológico limpieza de ríos y afluentes, que aseguren la preservación de este vital recurso natural;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Mantener, de manera subsidiaria, la limpieza de calles, avenidas y lotes baldíos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Conservar la limpieza, de los bienes municipales y realizar los servicios de intendencia en los edificios públicos municipales;
 
@@ -3049,99 +3335,175 @@ n) Informar a los habitantes de cada zona sobre los horarios, días y condicione
 
 o) Verificar que el personal de los vehículos recolectores traten al público con toda corrección;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- Establecer a los particulares los horarios, días, lugares y condiciones en los que podrá depositar los residuos sólidos;
-
-VIII.- Diseñar programas y campañas de limpieza a realizarse dentro del Municipio;
-
-IX.- Coordinar con las autoridades estatales y federales las medidas sanitarias y programas, que deben de operar los sitios de tratamiento y disposición finales de residuos domésticos;
-
-X.- Autorizar el diseño, resistencia y características de los contenedores para el depósito de residuos domésticos;
-
-XI.- Realizar inspecciones periódicas a los establecimientos que generen residuos peligrosos;
-
-XII.- Denunciar ante las autoridades federales, a las empresas o establecimientos que generen residuos peligrosos y no cumplan con las disposiciones normativas aplicables;
-
-XIII.- Exigir a mercados particulares, hospitales y demás establecimientos que así lo requieran, la adquisición o construcción de depósitos apropiados y especiales para el almacenamiento temporal de residuos sólidos no peligrosos;
-
-XIV.- Recomendar, y cuando fuere necesario, obligar a las personas físicas o morales, la clasificación de desechos sólidos que generen, en orgánicos, inorgánicos y confinables, para su aprovechamiento;
-
-XV.- Realizar campañas de concientización y promoción del manejo adecuado de la basura y de mantener limpia la ciudad;
-
-XVI.- Realizar el mantenimiento preventivo y correctivo de luminarias y equipos de alumbrado y electrificación públicos;
-
-XVII.- Instalar nuevas luminarias para ampliar la cobertura de alumbrado público;
-
-XVIII.- Realizar las instalaciones eléctricas en obras municipales;
-
-XIX.- Recibir las instalaciones de electrificación pública que realicen los particulares;
-
-XX.- Ejecutar la instalación de los equipos disponibles de luz y sonido en eventos municipales;
-
-XXI.- Efectuar las acciones de mantenimiento de parques, plazas, camellones y jardines públicos;
-
-XXII.- Proyectar y equipar nuevas áreas verdes municipales;
-
-XXIII.- Apoyo a diversos servicios que en materia de parques y jardines realice el municipio;
-
-XXIV.- Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
-
-XXV.- Limitar, restringir o prohibir giros comerciales o de servicios en los mercados que están ubicados en lugares inadecuados, o que por su naturaleza representan un riesgo para la seguridad de los locatarios y del público en general;
-
-XXVI.- Llevar el control y padrón de los locatarios actualizado;
-
-XXVII.- Mantener en buen estado las instalaciones e inmuebles de los mercados públicos;
-
-XXVIII.- Determinar horarios y ubicaciones, según los giros comerciales;
-
-XXIX.- Atender quejas de los locatarios, vecinos y público en general, y levantar actas administrativas e imponer infracciones por el incumplimiento del presente capítulo;
-
-XXX.- Mantener la seguridad y el orden público dentro de los mercados, así como en buen estado y funcionamiento el servicio sanitario;
-
-XXXI.- Otorgar licencias para uso de los locales de los mercados, así como concesionar el servicio sanitario;
-
-XXXII.- Establecer programas de regularización del padrón de locatarios, en los cuales se especificarán las formas y términos en que habrán de realizarse;
-
-XXXIII.- Controlar los espacios públicos destinados a cementerio, así como los espacios destinados a la inhumación de cadáveres;
-
-XXXIV.- Aplicar, en el ámbito de competencia municipal, la legislación en materia de inhumaciones y exhumaciones;
-
-XXXV.- Expedir títulos de propiedad, permisos de exhumación, inhumación, y construcción en los cementerios municipales; y
-
-XXXVI.- Realizar el mantenimiento preventivo y correctivo en los cementerios y, supletoriamente, en las fosas tumbas y criptas de propiedad o en uso de particulares.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-#### SECCION PRIMERA. Del Consejo Directivo
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
-
-###### ARTICULO 219.
-
-Corresponde a la Dirección de Planeación, Obras y Servicios Públicos Municipales en materia de Obras Públicas:
-
-I.- Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
-
-II.- Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes de acuerdo a la legislación vigente en la materia;
-
-III.- Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas;
-
-IV.- Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
-
-V.- Asesorar técnicamente a los Comités Vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
-
-VI.- Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y
-
-VII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEGUNDA. Del Consejo Consultivo
+VIII.- Diseñar programas y campañas de limpieza a realizarse dentro del Municipio;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION TERCERA. Del Director General
+IX.- Coordinar con las autoridades estatales y federales las medidas sanitarias y programas, que deben de operar los sitios de tratamiento y disposición finales de residuos domésticos;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+X.- Autorizar el diseño, resistencia y características de los contenedores para el depósito de residuos domésticos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XI.- Realizar inspecciones periódicas a los establecimientos que generen residuos peligrosos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XII.- Denunciar ante las autoridades federales, a las empresas o establecimientos que generen residuos peligrosos y no cumplan con las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XIII.- Exigir a mercados particulares, hospitales y demás establecimientos que así lo requieran, la adquisición o construcción de depósitos apropiados y especiales para el almacenamiento temporal de residuos sólidos no peligrosos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XIV.- Recomendar, y cuando fuere necesario, obligar a las personas físicas o morales, la clasificación de desechos sólidos que generen, en orgánicos, inorgánicos y confinables, para su aprovechamiento;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XV.- Realizar campañas de concientización y promoción del manejo adecuado de la basura y de mantener limpia la ciudad;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XVI.- Realizar el mantenimiento preventivo y correctivo de luminarias y equipos de alumbrado y electrificación públicos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XVII.- Instalar nuevas luminarias para ampliar la cobertura de alumbrado público;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XVIII.- Realizar las instalaciones eléctricas en obras municipales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XIX.- Recibir las instalaciones de electrificación pública que realicen los particulares;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XX.- Ejecutar la instalación de los equipos disponibles de luz y sonido en eventos municipales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXI.- Efectuar las acciones de mantenimiento de parques, plazas, camellones y jardines públicos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXII.- Proyectar y equipar nuevas áreas verdes municipales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXIII.- Apoyo a diversos servicios que en materia de parques y jardines realice el municipio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXIV.- Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXV.- Limitar, restringir o prohibir giros comerciales o de servicios en los mercados que están ubicados en lugares inadecuados, o que por su naturaleza representan un riesgo para la seguridad de los locatarios y del público en general;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXVI.- Llevar el control y padrón de los locatarios actualizado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXVII.- Mantener en buen estado las instalaciones e inmuebles de los mercados públicos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXVIII.- Determinar horarios y ubicaciones, según los giros comerciales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXIX.- Atender quejas de los locatarios, vecinos y público en general, y levantar actas administrativas e imponer infracciones por el incumplimiento del presente capítulo;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXX.- Mantener la seguridad y el orden público dentro de los mercados, así como en buen estado y funcionamiento el servicio sanitario;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXI.- Otorgar licencias para uso de los locales de los mercados, así como concesionar el servicio sanitario;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXII.- Establecer programas de regularización del padrón de locatarios, en los cuales se especificarán las formas y términos en que habrán de realizarse;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXIII.- Controlar los espacios públicos destinados a cementerio, así como los espacios destinados a la inhumación de cadáveres;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXIV.- Aplicar, en el ámbito de competencia municipal, la legislación en materia de inhumaciones y exhumaciones;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+XXXV.- Expedir títulos de propiedad, permisos de exhumación, inhumación, y construcción en los cementerios municipales; y
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXVI.- Realizar el mantenimiento preventivo y correctivo en los cementerios y, supletoriamente, en las fosas tumbas y criptas de propiedad o en uso de particulares; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXXVII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+
+#### SECCIÓN OCTAVA. De la Contraloría Municipal
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 219.
+
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN NOVENA. Del Sistema para el Desarrollo Integral de la Familia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCIÓN DÉCIMA. De la Instancia Municipal de las Mujeres
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 222 BIS.- Corresponde a la Instancia Municipal de las Mujeres:
+
+I.- Proponer programas y proyectos orientados a promover el desarrollo integral de las mujeres en el ámbito laboral, educativo, económico, social y cultural en coordinación con las Instancias Federal y Estatal, sectores privados y organizaciones de la sociedad civil;
+
+II.- Impulsar la creación de fuentes de empleo y el financiamiento de créditos dirigidos a mejorar las condiciones de vida de las mujeres en el municipio, en coordinación con los sectores públicos, privados y asociaciones civiles;
+
+III.- Impulsar la profesionalización de las mujeres y el acceso a programas sociales, educativos, deportivos y culturales en la Administración Pública Municipal;
+
+IV.- Ejecutar los programas que implemente el Instituto Estatal de la Mujer y sean transferidos al municipio:
+
+V.- Participar en los programas y acciones que emprendan las Instancias Federal y Estatal en materia de combate a la pobreza, discriminación, migración, trata de personas, violencia y exclusión de las mujeres, en las comunidades rurales;
+
+VI.- Promover, en coordinación con las instancias educativas del municipio, cursos, y talleres de capacitación en materia de género, igualdad entre mujeres y hombres y prevención de la violencia familiar;
+
+VII.- Establecer mecanismos que favorezcan la erradicación de la violencia de género en instituciones educativas, centros laborales privados y públicos, mediante convenios o acuerdos establecidos para tal efecto;
+
+VIII.- Difundir en el municipio los contenidos de las leyes de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, y sus reglamentos, así como de los instrumentos internacionales en materia de los derechos de las mujeres;
+
+IX.- Elaborar el Programa Municipal de Atención y Participación de las Mujeres de acuerdo a la metodología que establezca el Plan de Desarrollo Municipal;
+
+X.- Capacitar en materia de género, derechos humanos de las mujeres y violencia familiar, a las servidoras y servidores públicos de las dependencias municipales;
+
+XI.- Brindar orientación a las Mujeres que así lo requieran, por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas; y
+
+XII.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o le sean delegadas por las instancias federal o estatal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 220.
 
@@ -3189,11 +3551,43 @@ XX.- Promover y difundir las actividades artesanales, maquilas de mano de obra, 
 
 XXI.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADA [ N. DE E. REFORMADA EN SU NÚMERAL], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-#### SECCION CUARTA. Del Comisario
+#### SECCIÓN DÉCIMA SEGUNDA (SIC). De la Subdelegación de INAPAM
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 222 TER.- Corresponde a la Subdelegación de INAPAM:
+
+I.- Procurar el desarrollo humano integral de las personas adultas mayores, mediante el empleo y la asistencia social;
+
+II.- Implementar campañas en contra de la discriminación de las personas adultas mayores para evitar desigualdades e inequidades;
+
+III.- Promover la formación de clubes con el fin de agrupar a los adultos mayores y apoyarlos para que lleven una vida activa y productiva reincorporándolos a la sociedad con actividades manuales, recreativas, deportivas y culturales;
+
+IV.- Gestionar la realización de convenios de descuento a los titulares de la credencial de INAPAM, tanto con instituciones del sector público, como del privado;
+
+V.- Brindar asesoría a los adultos mayores en materia de canalización para agilizar y/o conducir al lugar correcto en donde solicitan hacer su gestión, brindándoles el apoyo o beneficio según sea la problemática que presentan, procurando en los sitios de alta demanda, se establezca una ventanilla para ellos;
+
+VI.- Organizar conferencias, cursos, pláticas y reuniones informativas para brindar información sobre diversos temas relacionados con la salud y el bienestar de los adultos mayores;
+
+VII.- Realizar visitas domiciliarias a los adultos mayores, a efecto de promover los programas del INAPA (SIC);
+
+VIII.- Implementar programas de apoyo alimentario a los adultos mayores para contribuir a su economía;
+
+IX.- Atender al adulto mayor que no cuenta con recursos económicos, con consultas medicas y distribución de medicamentos;
+
+X.- Promover que los adultos mayores ingresen en los sistemas institucionales de alfabetización y educación básica y que obtengan su certificado, manteniendo y aumentando sus capacidades intelectuales;
+
+XI.- Estar en relación con empresas privadas e instituciones públicas para aumentar la ocupación de personas de edad en diversas áreas, aprovechando sus habilidades y capacidades;
+
+XII.- Apoyar con pláticas de autoestima al adulto mayor y a los familiares, favoreciendo el desarrollo psicosocial, promoviendo la salud mental y emocional previniendo comportamientos y actitudes negativas en los adultos;
+
+XIII.- Promover la visita de los funcionarios de la Administración Púbica (sic) Municipal y personas caracterizadas de la comunidad a los clubes, con el fin de motivar a los adultos mayores, conocer sus inquietudes y aptitudes, así como verificar las actividades y el desarrollo del mismo; y
+
+XIV.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o las instancias federal y estatal.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 221.
 
@@ -3247,53 +3641,73 @@ XX.- Turnar a las diferentes unidades administrativas las denuncias de los parti
 
 XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-#### SECCION PRIMERA. Definiciones
+#### SECCION PRIMERA. Del Consejo Directivo
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 222.
 
-Corresponde al Comité para el Desarrollo Integral de la Familia:
+Corresponde al Sistema para el Desarrollo Integral de la familia:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Coordinar los programas de asistencia social que correspondan al municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Ejecutar los programas básicos del sistema estatal y nacional para el desarrollo integral de la familia;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Realizar investigaciones y encuestas para detectar a menores en estado de desnutrición con el objeto de apoyar a la familia;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Establecer programas de capacitación a efecto de promover la superación personal y familiar de las madres de familia;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Realizar actividades tendientes a la integración social de las personas con capacidades diferentes;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Brindar orientación y apoyo jurídico a las personas que lo requieran con el objeto de solucionar problemas intrafamiliares;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Implementar programas de orientación psicológica dirigida a los niños y padres;
 
-VIII.- Organizar las actividades para la integración y dignificación de los senectos;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-IX.- Promover campañas para el mejoramiento integral de la salud de las familias Pabellonenses;
+VIII.- Promover campañas para el mejoramiento integral de la salud de las familias Pabellonenses;
 
-X.- Realizar acciones de orientación y difusión en materia de salud sexual, métodos anticonceptivos y prevención de cáncer en la mujer; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+IX.- Realizar acciones de orientación y difusión en materia de salud sexual, métodos anticonceptivos y prevención de cáncer en la mujer; y
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+XI.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+#### SECCION SEGUNDA. Del Consejo Consultivo
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+#### SECCION TERCERA. Del Director General
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+#### SECCION CUARTA. Del Comisario
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 #### SECCION PRIMERA. Definiciones
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
-#### SECCION SEGUNDA. De la Amonestación
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-#### SECCION TERCERA. Del Arresto
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-#### SECCION CUARTA. El Cambio de Adscripción
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -3355,11 +3769,11 @@ Los delegados municipales deben ser designados por el Ayuntamiento a propuesta d
 
 Para nombrar a los delegados el Ayuntamiento podrá convocar a consulta para conocer la opinión de los ciudadanos, conforme a las bases y el procedimiento que acuerde el pleno.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 231.
 
-Los delegados municipales deben asesorarse de la Secretaría del Ayuntamiento y de la coordinación de comunidades y colonias en todos los asuntos de competencia de la delegación y sólo pueden ejercer las funciones propias de su cargo dentro de los límites que el ayuntamiento señale para la delegación de que se trate.
+Los delegados municipales deben asesorarse de la Secretaría del Ayuntamiento en todos los asuntos de competencia de la delegación y sólo pueden ejercer las funciones propias de su cargo dentro de los límites que el ayuntamiento señale para la delegación de que se trate.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -3541,11 +3955,11 @@ El Plan Municipal de Desarrollo y los programas que de él se derivan, deberán 
 
 El Presidente Municipal puede promover ante el Ayuntamiento las modificaciones y adecuaciones que estime pertinentes al Plan Municipal de Desarrollo y los programas derivados de él en cualquier tiempo, cuando sea suficientemente justificado, siguiendo el mismo procedimiento establecido para su aprobación.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 251.
 
-Corresponde a la Dirección de Planeación, Obras y Servicios Públicos Municipales proponer al Presidente Municipal los proyectos a que se refiere el artículo anterior, para los efectos de su presentación al Ayuntamiento.
+Corresponde a la Dirección de Obras Públicas y Desarrollo Urbano proponer al Presidente Municipal los proyectos a que se refiere el artículo anterior, para los efectos de su presentación al Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -3765,11 +4179,11 @@ Las opiniones de las representaciones de obreros, campesinos, Comités de coloni
 
 Los representantes de los grupos a que se refiere el artículo anterior, participarán como órganos de consulta permanente para la planeación democrática, en las cuestiones relacionadas con su actividad, y a través de los foros de consulta popular que al efecto se convoquen.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 284.
 
-El Presidente Municipal, por sí o a través de la Dirección de Planeación, Obras y Servicios Públicos y demás dependencias integradas en el Comité de Planeación para el Desarrollo Municipal, podrá concertar la realización de las acciones previstas en el Plan y en los programas, con la representación de los grupos sociales o con los particulares interesados.
+El Presidente Municipal, por sí o a través de la Dirección de Obras Públicas y Desarrollo Urbano y demás dependencias integradas en el Comité de Planeación para el Desarrollo Municipal, podrá concertar la realización de las acciones previstas en el Plan y en los programas, con la representación de los grupos sociales o con los particulares interesados.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -4613,7 +5027,7 @@ e).- Fondo Histórico: Está integrado por la documentación que concluyó su vi
 
 Corresponde al Archivo General Municipal:
 
-I.- Planear, programar, organizar, dirigir (sic) controlar y evaluar el desarrollo de las funciones correspondientes al Archivo de los documentos municipales;
+I.- Planear, programar, organizar, dirigir controlar y evaluar el desarrollo de las funciones correspondientes al Archivo de los documentos municipales;
 
 II.- Dictar las políticas generales de administración y funcionamiento del archivo y de los diferentes resguardos documentales a cargo de las dependencias municipales;
 
@@ -4989,11 +5403,11 @@ V.- Por el Municipio y la Federación; y
 
 VI.- Por el Municipio, el Estado y la Federación.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 404.
 
-Corresponde a la Dirección de Planeación, Obras y Servicios Públicos Municipales la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios Públicos Municipales.
+Corresponde a la Dirección de Servicios Públicos Municipales y Mantenimiento la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios Públicos Municipales.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5192,6 +5606,12 @@ I.- Postes de concreto o tubulares de la Comisión Federal de Electricidad;
 II.- Arbotantes octagonal, hexagonal, cuadrado, cónico o tubular, en alturas de siete a doce metros; y
 
 III.- Los arbotantes y brazos para instalar los luminarios deberán de estar pintados con fondo y esmalte anticorrosivo en el color que sea señalado por la Dirección de Planeación, Obras y Servicios Públicos.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. DEL 12 DE SEPTIEMBRE DE 2016, QUE REFORMA LA PRESENTE FRACCIÓN SE ADVIERTE QUE EL CONTENIDO DE ESTA SE ENCUENTRA EN LA FRACCIÓN III DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Los arbotantes y brazos para instalar las luminarias deberán de estar pintados con fondo y esmalte anticorrosivo en el color que sea señalado por la Dirección de Servicios Públicos y Mantenimiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5431,11 +5851,11 @@ V.- Distancias interpostales: treinta y cinco metros máxima; y
 
 VI.- Distribución: unilateral, bilateral tres bolillo y bilateral pareada.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 455.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales podrá autorizar la instalación de faroles con requerimientos distintos a los señalados en el artículo anterior siempre y cuando las características de la calle lo justifiquen y exista un dictamen técnico favorable.
+La Dirección de Servicios Públicos Municipales y Mantenimiento podrá autorizar la instalación de faroles con requerimientos distintos a los señalados en el artículo anterior siempre y cuando las características de la calle lo justifiquen y exista un dictamen técnico favorable.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5455,11 +5875,11 @@ III.- Camellones, Triángulos y Glorietas; y
 
 IV.- Banquetas y Andadores Arbolados.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 457.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales es la instancia encargada de construir, contratar o concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas. Lo anterior comprende la selección de especies, su propagación, plantación, riego, poda, fertilización, control de plagas y demás actividades necesarias para el buen desarrollo de las especies vegetales de dichas áreas verdes.
+La Dirección de Servicios Públicos Municipales y Mantenimiento es la instancia encargada de construir, contratar o concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas. Lo anterior comprende la selección de especies, su propagación, plantación, riego, poda, fertilización, control de plagas y demás actividades necesarias para el buen desarrollo de las especies vegetales de dichas áreas verdes.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5479,31 +5899,41 @@ Las acciones de derribo y remoción de vegetación, así como la disposición de
 
 La adecuada forestación de banquetas, camellones y aquellas áreas de donación que el Municipio determine en el proceso de autorización de Fraccionamientos de nueva creación, deberá ser por cuenta del fraccionador y se apegará a lo siguiente:
 
-I.- Utilizar sólo especies adecuadas según el Manual que emita la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Utilizar sólo especies adecuadas según el Manual que emita la Dirección de Servicios Públicos Municipales y Mantenimiento;
 
 II.- La planta utilizada deberá cumplir las características en cuanto a tamaño, salud y estado físico, que marque el mencionado Manual; y
 
 III.- Las dimensiones y distancia entre las cepas, la preparación de las mismas, y la tierra a utilizar deberá ser según lo marca dicho Manual de Forestación y Manejo de Áreas Verdes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 461.
 
-El derribo, poda, extracción o remoción de vegetación de un área verde pública sólo podrá efectuarse en los siguientes casos, previa autorización de la Dirección de Planeación, Obras y Servicios Públicos:
+El derribo, poda, extracción o remoción de vegetación de un área verde pública sólo podrá efectuarse en los siguientes casos, previa autorización de la Dirección de Servicios Públicos Municipales y Mantenimiento:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Cuando se ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Cuando se halla comprobado que el vegetal está muerto o en caso de enfermedad o plaga severa y con riesgos de contagio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Cuando la imagen urbana se vea afectada significativamente; y
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Cuando se compruebe que es de utilidad pública.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 462.
 
-Para efectos de la autorización a que se refiere el Artículo anterior los interesados deberán presentar solicitud por escrito, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Planeación, Obras y Servicios Públicos, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
+Para efectos de la autorización a que se refiere el Artículo anterior los interesados deberán presentar solicitud por escrito, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Servicios Públicos Municipales y Mantenimiento realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5535,19 +5965,21 @@ En el camellón de las Avenidas sólo deberá plantarse de una a tres especies, 
 
 La distancia entre los árboles no deberá ser menor que la anchura de sus copas en estado de madurez, excepto en el caso de setos o cortinas rompevientos, para lo cual deberá consultarse el Manual de Forestación y Manejo de Áreas Verdes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 468.
 
-La Dirección de Planeación, Obras y Servicios Públicos autorizará y supervisará el derribo y desrame de árboles en espacios públicos y en predios urbanos de propiedad particular, condicionando la autorización a la reposición del doble de la cobertura vegetal perdida.
-
-La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en el Manual mencionado en el artículo anterior.
+La Dirección de Servicios Públicos Municipales y Mantenimiento autorizará y supervisará el derribo y desrame de árboles en espacios públicos y en predios urbanos de propiedad particular, condicionando la autorización a la reposición del doble de la cobertura vegetal perdida.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
+La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en el Manual mencionado en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 469.
 
-Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tomando como base las reportadas en el Manual de Forestación y Manejo de Áreas Verdes emitido por la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tomando como base las reportadas en el Manual de Forestación y Manejo de Áreas Verdes emitido por la Dirección de Servicios Públicos Municipales y Mantenimiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5573,13 +6005,17 @@ Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura,
 
 ### CAPITULO TERCERO. De la Limpia, Recolección, Traslado, Tratamiento y Disposición Final de Residuos
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 473.
 
-El Servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos constituye un servicio público municipal; cuya prestación será realizada directamente por el H. Ayuntamiento a través de la Dirección de Planeación, Obras y Servicios Públicos por medio de su Departamento de Servicios Públicos.
+El servicio de limpia, recolección, traslado, tratamiento y disposición final de residuos constituye un servicio público municipal, cuya prestación será realizada directamente por el H. Ayuntamiento a través de la Dirección de Servicios Públicos Municipales y Mantenimiento por medio de su departamento del Servicio de Limpia.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 Para cumplir lo establecido en el presente capítulo, el Departamento de Servicios Públicos, se coordinará con las autoridades sanitarias municipales, la Subdirección de Planeación y Desarrollo Urbano, el Instituto de Medio Ambiente y la Procuraduría de Protección al Ambiente en el Estado, Procuraduría Federal de Protección al Medio Ambiente, organizaciones sociales y particulares en general, para celebrar convenios de concertación, mismos que serán publicados por el H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 La limpieza física y la sanidad municipal son responsabilidad tanto del Ayuntamiento, como de los ciudadanos, mismos que tendrán la obligación de colaborar en la conservación y mantenimiento del aseo público del municipio, así como de dar cumplimiento a las normas de la materia previstas en el presente Código.
 
@@ -5697,7 +6133,7 @@ IV.- RESIDUOS SOLIDOS ORGÁNICOS DOMICILIARIOS.- Son los desperdicios de comida,
 
 V.- RESIDUO SOLIDO RECICLABLE.- Todo residuo sólido que por razones económicas y por no significar un riesgo para la salud, es susceptible de ser reutilizado con o sin transformación física de sus características; y
 
-VI.- RESIDUOS URBANOS.- Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley (sic) como residuos de otra índole.
+VI.- RESIDUOS URBANOS.- Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
@@ -5745,17 +6181,25 @@ VIII.- Los vehículos particulares que cumplan con los requisitos señalados en 
 
 IX.- Los vehículos particulares y comerciales que transporten envases de vidrio, tales como botellas, garrafones, etcétera, deberán traer consigo los implementos necesarios para recoger los fragmentos que llegasen a tirarse en la vía pública accidentalmente; y
 
-X.- Todo vehículo registrado y autorizado por la Dirección de Planeación, Obras y Servicios Públicos, deberá llevar una bitácora del transporte y recepción de sus residuos sólidos, con objeto de garantizar el destino final de los mismos por medio del control de recepción en los sitios de depósito final que sean autorizados por el Departamento de Servicios Públicos, donde se fijarán las condiciones del servicio.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Todo vehículo registrado y autorizado por la Dirección de Servicios Públicos Municipales y Mantenimiento, deberá llevar una bitácora del transporte y recepción de sus residuos sólidos, con objeto de garantizar el destino final de los mismos por medio del control de recepción en los sitios de depósito final que sean autorizados por el departamento del Servicio de Limpia, donde se fijarán las condiciones del servicio.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
-ARTICULO 478 Bis (sic).- En el destino, utilización y procesamiento de la basura se observará lo siguiente:
+###### ARTICULO 478 Bis.
 
-I.- La Dirección de Planeación, Obras y Servicios Públicos Municipales determinará la ubicación de los centros de acopio para la disposición final de los residuos clasificados que se colecten;
+En el destino, utilización y procesamiento de la basura se observará lo siguiente:
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- La Dirección de Servicios Públicos Municipales y Mantenimiento determinará la ubicación de los centros de acopio para la disposición final de los residuos clasificados que se colecten;
 
 II.- La existencia de cualquier tiradero de residuos sólidos y/o basura no autorizado, será clausurado de inmediato y a las personas que lo hayan propiciado, se les aplicarán las sanciones previstas en el Presente Código.
 
-III.- en los sitios de disposición final de residuos sólidos y en la zona de protección que señale el Ayuntamiento, la Subdirección de Planeación y desarrollo Urbano, prohibirá la instalación de viviendas e instalaciones comerciales; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- En los sitios de disposición final de residuos sólidos y en la zona de protección que señale el Ayuntamiento, la Dirección de Obras Públicas y Desarrollo Urbano, prohibirá la instalación de viviendas e instalaciones comerciales, y
 
 IV.- Los residuos sólidos recolectados, podrán ser comercializados o industrializados por el Ayuntamiento, o por quién éste disponga, o en su caso, destinarlos a un relleno sanitario.
 
@@ -5799,7 +6243,9 @@ XV.- Mantener, los propietarios y operadores de vehículos de servicio público 
 
 XVI.- Depositar, en los predios o casas particulares, los desechos sólidos acumulados dentro de recipientes cerrados;
 
-XVII.- Respetar los horarios establecidos por la Dirección de Planeación, Obras y Servicios Públicos, para el depósito de desechos sólidos domésticos en los contenedores;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XVII.- Respetar los horarios establecidos por la Dirección de Servicios Públicos Municipales y Mantenimiento, para el depósito de desechos sólidos domésticos en los contenedores;
 
 XVIII.- Depositar los desechos sólidos dentro de los contenedores en bolsa cerrada;
 
@@ -5809,7 +6255,9 @@ XX.- Informar sobre el destino final de los residuos sólidos que se generen;
 
 XXI.- Entregar los residuos sólidos limpios y separados, en bolsas que posean características de resistencia y fácil manejo, mismas que deberán entregar bien cerradas, salvo que esto no fuese posible a juicio de la autoridad responsable. Las bolsas deberán mantenerse dentro del predio del ciudadano que lo habita, sólo se sacarán al lugar indicado el tiempo necesario para su recolección el día y hora señalados por el Servicio de Limpia;
 
-XXII.- Contar con contenedores comunes las oficinas, unidades habitacionales o desarrollos multifamiliares, en los que se alojarán debidamente limpios y separados los residuos sólidos producidos por sus habitantes. La Dirección de Planeación, Obras y Servicios Municipales no otorgará ningún permiso de construcción sin que en los planos aparezcan las instalaciones a que se refiere este artículo. Los contenedores deberán ser dispuestos de acuerdo al número de familias y la producción de residuos sólidos clasificados producidos por las mismas. Dichos contenedores serán recolectados por el Departamento de Servicios Públicos, los días y horarios fijados previamente por éste y deberán reunir los requisitos que para tales disposiciones establezca el Servicio de Limpia.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXII.- Contar con contenedores comunes las oficinas, unidades habitacionales o desarrollos multifamiliares, en los que se alojarán debidamente limpios y separados los residuos sólidos producidos por sus habitantes. La Dirección de Servicios Públicos Municipales y Mantenimiento no otorgará ningún permiso de construcción sin que en los planos aparezcan las instalaciones a que se refiere este artículo. Los contenedores deberán ser dispuestos de acuerdo al número de familias y la producción de residuos sólidos clasificados producidos por las mismas. Dichos contenedores serán recolectados por el departamento del Servicio de Limpia, los días y horarios fijados previamente por éste y deberán reunir los requisitos que para tales disposiciones establezca el Servicio de Limpia.
 
 XXIII.- Disponer de un área específica con colectores especiales para depositar ya clasificados sus residuos sólidos, las industrias y los centros comerciales, así como los hospitales y demás sitios donde se produzcan grandes volúmenes de residuos sólidos;
 
@@ -5817,7 +6265,9 @@ XXIV.- Transportar por cuenta propia o a través de terceros, autorizados debida
 
 XXV.- Manejar, confinar y disponer directamente sus residuos peligrosos, de acuerdo a la normatividad existente, las personas físicas o morales que los generen. Los propietarios o administradores a que se refiere el artículo anterior podrán si así lo desean hacer uso del servicio de Limpia, en caso de que se tenga la capacidad para brindar alguna modalidad del servicio;
 
-XXVI.- Mantener completamente limpias las áreas que colinden con vialidad o zonas comunes, los propietarios de predios baldíos. Para hacer exigible la anterior obligación, la Dirección de Planeación, Obras y Servicios Públicos deberá notificar al propietario concediéndole el término de quince días naturales, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de limpieza y bardeo se harán por parte de la Dirección de Planeación, Obras y Servicios Públicos a costa del propietario, quien además se hará acreedor a la multa que en su caso corresponda en términos de este Código, y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXVI.- Mantener completamente limpias las áreas que colinden con vialidades o zonas comunes, los propietarios de predios baldíos. Para hacer exigible la anterior obligación, la Dirección de Servicios Públicos Municipales y Mantenimiento deberá notificar al propietario concediéndole el término de quince días naturales, transcurridos los cuales sin que se cumpla con dicha obligación, los trabajos de limpieza y bardeo se harán por parte de la Dirección de Obras Públicas y Desarrollo Urbano a costa del propietario, quién además se hará acreedor a la multa que en su caso corresponda en términos de este Código, y
 
 Las demás que del presente Código se desprendan en materia de limpia y aseo público.
 
@@ -5865,7 +6315,9 @@ XVIII.- Arrojar basura o escombro en terrenos baldíos;
 
 XIX.- Depositar la basura en los contenedores en horarios distintos establecidos por el Departamento de Servicios Públicos;
 
-XX.- Fijar o pintar anuncios en paredes, pasos peatonales, postes y puentes; en su caso, se solicitará autorización ante la Dirección de Obras y Servicios Públicos Municipales, para instalar mamparas para tal efecto;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XX.- Fijar o pintar anuncios en paredes, pasos peatonales, postes y puentes; en su caso, se solicitará autorización ante la Dirección de Servicios Públicos Municipales y Mantenimiento, para instalar mamparas para tal efecto; y
 
 XXI.- En general, cualquier conducta que provoque el desaseo de la vía pública.
 
@@ -5875,51 +6327,77 @@ ARTICULO 480 BIS.- El Ayuntamiento a través del Departamento de Ecología, tien
 
 Las acciones directas de aseo público y de conservación de las condiciones higiénicas y de salubridad en el municipio se fortalecerán con campañas preventivas dirigidas a obtener la participación y colaboración de la población.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-ARTÍCULO 480 TER.- Cualquier persona puede efectuar denuncia acerca de la violación a lo dispuesto por el presente capítulo, ante el Departamento de Servicios Públicos, si se trata de acciones de los ciudadanos, y ante la Contraloría Municipal, si se trata de actos del personal de limpia. Será suficiente para darle curso, el señalamiento de los datos necesarios que permitan identificar o localizar la ubicación del problema, así como el nombre y domicilio del denunciante.
+ARTICULO 480 TER.- Cualquier persona puede efectuar denuncia acerca de la violación a lo dispuesto por el presente capítulo, ante el departamento del Servicio de Limpia, si se trata de acciones de los ciudadanos, y ante la Contraloría Municipal, si se trata de actos del personal de limpia. Será suficiente para darle curso, el señalamiento de los datos necesarios que permitan identificar o localizar la ubicación del problema, así como el nombre y domicilio del denunciante.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 El Servicio de Limpia una vez recibida la denuncia, procederá por los medios que resulten conducentes a identificar al denunciante y en su caso, hará saber de la denuncia a la persona o personas a quienes se imputen los hechos denunciados, o a quienes puedan efectuar el resultado de la acción emprendida.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+
 El servicio de Limpia, efectuará las diligencias necesarias para la comprobación de los hechos denunciados, así como para la evaluación técnica correspondiente. Si los hechos no fueran de su competencia, esta dirección turnará la denuncia ante la autoridad competente y promoverá ante la misma, la ejecución de las medidas que conforme a derecho resulten procedentes.
-
-El Servicio de Limpia, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquella y, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
-
-La Dirección de Planeación, Obras y Servicios Municipales, otorgará a la ciudadanía las suficientes instancias de recepción de que disponga durante días hábiles y horarios de oficina, para atender las denuncias que presente la ciudadanía, ya sea: Personalmente, Telefónicamente, Telégrafo, Correo, Fax o Correo Electrónico.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
-ARTÍCULO 480 QUATER.- El Ayuntamiento, a través de la Comisión de Parques, Jardines, Limpia y Recolección de Basura vigilará, que el Departamento de Servicios Públicos, cumpla con su función de manera eficiente.
+El Servicio de Limpia, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquella y, dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
 
-La vigilancia del cumplimiento a las disposiciones de este Capítulo, queda a cargo de los Departamentos de Servicios Públicos y de Ecología, mediante la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, calificación de infracciones administrativas y sanciones, así como procedimientos y recursos administrativos cuando se refiere a asuntos de su competencia; son órganos auxiliares en esta materia:
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+La Dirección de Servicios Públicos Municipales y Mantenimiento, otorgará a la ciudadanía las suficientes instancias de recepción de que disponga durante días hábiles y horarios de oficina, para atender las denuncias que presente la ciudadanía, ya sea: Personalmente, Telefónicamente, Telégrafo, Correo, Fax o Correo Electrónico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 480 QUATER.- El Ayuntamiento, a través de la Comisión de parques, jardines, Limpia y Recolección de Basura vigilará, que el departamento del Servicio de Limpia, cumpla con su función de manera eficiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+La vigilancia del cumplimiento a las disposiciones de este Capítulo, queda a cargo de los Departamentos del Servicio de Limpia y de Ecología, mediante la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, calificación de infracciones administrativas y sanciones, así como procedimientos y recursos administrativos cuando se refiera a asuntos de su competencia; son órganos auxiliares en esta materia:
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
 
 I.- Los inspectores del Departamento de Ecología;
 
-II.- Los miembros del Departamento de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Los miembros de la Subdirección de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
 
 III.- Los inspectores honorarios;
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
 IV.- Los ciudadanos del Municipio;
 
-V.- Los inspectores del Departamento de Servicios Públicos;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Los inspectores del departamento del Servicio de Limpia;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
 
 VI.- Los inspectores de Reglamentos; y
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
+
 VII.- Los inspectores de Regulación Sanitaria.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 481.
 
-La Dirección de Planeación, Obras y Servicios Públicos, contará con inspectores, mismos que tendrán la facultad de verificar el debido cumplimiento de las disposiciones de este Código.
+La Dirección de Servicios Públicos Municipales y Mantenimiento, contará con inspectores, mismos que tendrán la facultad de verificar el debido cumplimiento de las disposiciones de este Código.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 Para tal efecto los particulares tendrán la obligación de prestar todas las facilidades a los inspectores para que cumplan con su cometido, permitir el acceso al lugar o lugares sujetos a inspección, así como proporcionar toda clase de información que conduzca a la verificación del sitio. En caso de negativa por parte de las personas, físicas o morales, se podrá facultar el auxilio de la fuerza pública.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-ARTÍCULO 481 BIS.- Para los actos de inspección y vigilancia, el personal autorizado por la Dirección de Planeación, Obras y Servicios Municipales, deberá estar provisto del documento oficial que lo acredite como tal.
+ARTICULO 481 BIS.- Para los actos de inspección y vigilancia, el personal autorizado por la Dirección de Servicios Públicos Municipales y Mantenimiento, deberá estar provisto del documento oficial que lo acredite como tal.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
 El personal autorizado a que se refiere el artículo anterior, al realizar las visitas de inspección o verificación, se apegará a lo dispuesto por las normas relativas establecidas en el presente Código.
 
@@ -5929,15 +6407,21 @@ ARTICULO 481 TER.- El servicio de Limpia podrá formar comités de limpia públi
 
 El cargo de inspector honorario será de servicio social y el vecino a quien se le confiera lo cumplirá en el horario que le resulte más conveniente.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-ARTÍCULO 481 QUATER.- Corresponde a los inspectores honorarios:
+ARTICULO 481 QUATER.- Corresponde a los inspectores honorarios:
 
-I.- Informar al Departamento de Servicios Públicos y al Departamento de Ecología, sobre la existencia de sitios no autorizados en los que se deposite basura y/o residuos sólidos a efecto de que se tomen las medidas pertinentes para su recolección, ya sea instalado y/o colocando contenedores, notificando las fechas y horarios de recolección u orientado a la población sobre la ubicación de los centros de acopio autorizados;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Informar al departamento del Servicio de Limpia y al Departamento de Ecología, sobre la existencia de sitios no autorizados en los que se deposite basura y/o residuos sólidos a efecto de que se tomen las medidas pertinentes para su recolección, ya sea instalando y/o colocando contenedores, notificando las fechas y horarios de recolección u orientando a la población sobre la ubicación de los centros de acopio autorizados;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2007)</small>
 
 II.- Comunicar al Departamento de Ecología, los nombres o datos que sirvan para identificar a las personas que depositen basura y/o residuos sólidos, escombro o desperdicios, en sitios no autorizados. La dirección verificará en todos los casos la veracidad de la información; y
 
-III.- Informar al Departamento de Servicios Públicos, sobre las deficiencias o carencias del servicio en su zona.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Informar al departamento del Servicio de Limpia, sobre las deficiencias o carencias del servicio en su zona.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5993,11 +6477,11 @@ El funcionamiento de los mercados y Tianguis constituye un servicio público de 
 
 Los derechos derivados del permiso deberán ser ejercidos en forma personal y directa por el titular; en caso de ausencia éste podrá ser sustituido ocasionalmente por cualquiera de los suplentes acreditados.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 486.
 
-Los permisos de suspensión de actividades serán otorgados por un máximo de tres meses al año, justificando el motivo de la suspensión; en tal caso, el local quedará a disposición del Departamento de Servicios Públicos para utilizarlo durante el lapso del permiso.
+Los permisos de suspensión de actividades serán otorgados por un máximo de tres meses al año, justificando el motivo de la suspensión; en tal caso, el local quedará a disposición del Municipio para utilizarlo durante el lapso del permiso.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6015,13 +6499,19 @@ I.- Renovar su licencia y/o permiso anualmente, dentro de los tres primeros mese
 
 II.- Tener la licencia o el permiso municipal vigente y recibos correspondientes en un lugar visible;
 
-III.- Respetar los horarios que serán de las 7:00 a las 20:00 horas de lunes a sábado y de 7:00 a 18:00 horas los domingos. En caso de requerir ampliación de horario, para días o fechas especiales, será necesario solicitarlo por escrito para su autorización ante el Departamento de Servicios Públicos, con el consenso de la mayoría;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Respetar los horarios que serán de las 07:00 a las 20:00 horas de lunes a sábado y de 07:00 a 18:00 horas los domingos. En caso de requerir ampliación de horario, para días o fechas especiales, será necesario solicitarlo por escrito para su autorización ante la Secretaría del H. Ayuntamiento, con el consenso de la mayoría;
 
 IV.- Mantener aseados sus locales y áreas donde ejecuten su actividad comercial;
 
-V.- Cumplir con los pagos correspondientes de Agua y Energía Eléctrica, así como el pago de derechos de uso de piso, ante la Dirección de Finanzas;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-VI.- Contar con la autorización de las autoridades competentes para la utilización de básculas, las cuales podrán ser supervisadas por los verificadores de la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+V.- Cumplir con los pagos correspondientes de Agua y Energía Eléctrica, así como el pago de derechos de uso de piso, ante la Dirección de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Contar con la autorización de las autoridades competentes para la utilización de básculas, las cuales podrán ser supervisadas por los verificadores de la Dirección de Servicios Públicos Municipales y Mantenimiento;
 
 VII.- Fijar en lugar visible la lista de precios autorizados, para la venta de sus productos;
 
@@ -6053,7 +6543,9 @@ XVIII.- Presentar los documentos que le requiera el personal de verificación de
 
 Se prohíbe a los locatarios:
 
-I.- Realizar modificaciones a los locales o piedras, mismas que deberán de tener la forma, color y dimensiones que determine el Departamento de Servicios Públicos, sin embargo, cualquier modificación en las instalaciones de gas, de electricidad, conexiones de drenajes, tomas de agua sólo podrá realizarse con la previa y expresa autorización del Departamento de Servicios Públicos;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Realizar modificaciones a los locales o piedras, mismas que deberán de tener la forma, color y dimensiones que determine (sic) Dirección de Obras Públicas y Desarrollo Urbano, sin embargo, cualquier modificación en las instalaciones de gas, de electricidad, conexiones de drenajes, tomas de agua sólo podrá realizarse con la previa y expresa autorización del Departamento de Panteones;
 
 II.- Vender cualquier especie de animales, sin el permiso respectivo de las autoridades competentes;
 
@@ -6093,13 +6585,13 @@ III.- Cuando el locatario observe mala conducta o realice actos o hechos delictu
 
 ### CAPITULO TERCERO. De los Tianguis
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 491.
 
-Corresponde al Municipio a través de la Dirección de Planeación, Obras y Servicios Públicos, autorizar la instalación de tianguis en la vía pública y otros espacios de propiedad municipal, así como ordenar su cancelación o reubicación.
+Corresponde al Municipio a través de la Secretaría del H. Ayuntamiento, autorizar la instalación de tianguis en la vía pública y otros espacios de propiedad municipal, así como ordenar su cancelación o reubicación.
 
-Los límites del tianguis quedarán definidos por la autoridad municipal mismos que serán señalados en la vía pública y sólo se permitirá su crecimiento previo acuerdo de la Dirección de Planeación, Obras y Servicios Públicos Municipales y del H. Ayuntamiento.
+Los límites del tianguis quedarán definidos por la autoridad municipal mismos que serán señalados en la vía pública y sólo se permitirá su crecimiento previo acuerdo de la Secretaría del H. Ayuntamiento y del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6121,29 +6613,43 @@ IV.- De 16:00 a 17:00 horas para la recolección y limpieza de la zona.
 
 El horario anterior podrá ser modificado por la Dirección de Planeación, Obras y Servicios Públicos Municipales de acuerdo a las condiciones y temporadas comerciales del tianguis.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 494.
 
-Para la autorización de nuevos tianguis o su reubicación, se deberá contar con el dictamen de la Dirección de Planeación, Obras y Servicios Públicos Municipales y con la aprobación del H. Cabildo, además de agotar los requisitos siguientes:
+Para la autorización de nuevos tianguis o su reubicación, se deberá contar con el dictamen de la Secretaría del H. Ayuntamiento y con la aprobación del H. Cabildo, además de agotar los requisitos siguientes:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Contar con la aceptación de dos terceras partes de los vecinos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Contar con servicio de sanitarios públicos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Considerar alternativas de vialidad;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- No invadir áreas verdes, banquetas, glorietas, camellones, pasillos o pasos peatonales señalados por la autoridad competente; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Evitar molestias a los transeúntes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 495.
 
-Las altas y bajas de tianguistas y comerciantes se regulan por la Dirección de Planeación, Obras y Servicios Públicos Municipales, por conducto del Departamento de Servicios Públicos, bajo las siguientes normas:
+Las altas y bajas de tianguistas y comerciantes se regulan por la Secretaría del H. Ayuntamiento, por conducto del Departamento de Reglamentos y Licencias, bajo las siguientes normas:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Para obtener un lugar en los tianguis saturados, el solicitante debe estar anotado en una lista de espera; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- La lista de espera, es la lista de comerciantes eventuales con derecho a un lugar dentro del tianguis cuando haya lugares disponibles en cada ocasión; y además tendrá derecho a un lugar fijo cuando se presente una baja.
 
@@ -6241,13 +6747,21 @@ VI.- Párvulo: A los restos de niños pequeños considerados de entre los cero a
 
 VII.- Osario: Al lugar dentro del panteón en el cual se reúnen aquellos restos áridos que son exhumados de un nicho, fosa o gaveta en los casos en que se establece dentro del presente Capitulo;
 
-VIII.- Titular de los derechos de uso a perpetuidad: A la persona que aparece registrada en los libros de la Dirección de Planeación, Obras y Servicios Públicos Municipales, como propietaria de una fosa, gaveta o nicho de un panteón y que cuenta con un Título de Propiedad expedido por dicha dependencia u otra de la Presidencia Municipal.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-IX.- Propiedad: A la fosa, gaveta o nicho adquirido con derecho de uso a perpetuidad por una persona cuyos datos se encuentran asentados en los registros de la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+VIII.- Titular de los derechos de uso a perpetuidad: A la persona que aparece registrada en los libros del Departamento de Panteones, como propietaria de una fosa, gaveta o nicho de un panteón y que cuenta con un Título de Propiedad expedido por dicha dependencia u otra de la Presidencia Municipal.
 
-X.- Título de propiedad: Al documento oficial expedido por la Dirección de Planeación, Obras y Servicios Públicos Municipales u otra de la Presidencia Municipal; que confiere el derecho de uso a perpetuidad de una fosa, gaveta o nicho;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XI.- Inhumación: A la acción de depositar un cadáver en una fosa o gaveta, determinada por un familiar del finado o por el personal de la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+IX.- Propiedad: A la fosa, gaveta o nicho adquirido con derecho de uso a perpetuidad por una persona cuyos datos se encuentran asentados en los registros del Departamento de Panteones;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Título de propiedad: Al documento oficial expedido por el Departamento de Panteones u otra de la Presidencia Municipal; que confiere el derecho de uso a perpetuidad de una fosa, gaveta o nicho;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Inhumación: A la acción de depositar un cadáver en una fosa o gaveta, determinada por un familiar del finado o por el personal del Departamento de Panteones;
 
 XII.- Exhumación: A la acción de extraer un cadáver o sus restos, de una fosa, gaveta o nicho;
 
@@ -6259,9 +6773,15 @@ XV.- Permiso de construcción: A la autorización para que el titular de los der
 
 XVI.- Cambio de nombre: Al trámite mediante el cual se registra en la Dirección de Planeación, Obras y Servicios Públicos Municipales el acto jurídico por el cual una persona le cede la propiedad a otra con sus derechos y obligaciones de un lote de terreno que se ubique dentro de algún panteón;
 
-XVII.- Duplicado de título: A la expedición en caso de extravío del título o si éste se encuentra muy dañado y sólo lo podrá tramitar el titular de la propiedad. La expedición del duplicado, invalida el título anterior en caso de que reaparezca;
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. DEL 12 DE SEPTIEMBRE DE 2016, QUE REFORMA LA PRESENTE FRACCIÓN SE ADVIERTE QUE EL CONTENIDO DE ESTA SE ENCUENTRA EN LA FRACCIÓN XVI DEL PRESENTE ARTÍCULO.]</small>
 
-XVIII.- Constancia de registro: A la expedición de una constancia de información existente en los registros de la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XVII.- Cambio de nombre: Al trámite mediante el cual se registra en el Departamento de Panteones el acto jurídico por el cual una persona le cede la propiedad a otra con sus derechos y obligaciones de un lote de terreno que se ubique dentro de algún panteón;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII.- Constancia de registro: A la expedición de una constancia de información existente en los registros del Departamento de Panteones; Y
 
 XIX.- Adquirir en propiedad: A la compra de una propiedad ofertada por el municipio dentro de algún panteón, a cambio de una cantidad de dinero previamente establecida en la Ley de Ingresos del Municipio de Pabellón de Arteaga, Ags que se encuentre en vigencia.
 
@@ -6347,11 +6867,11 @@ X.- Procurar el buen estado de los jardines que se encuentran dentro de los pant
 
 VII (sic).- Retirar o derrumbar con cargo al propietario los monumentos o cualquier otra construcción que no se encuentre dentro del alineamiento que debe tener la fosa o cripta.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 509.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales recabará por semana los informes que le rindan los encargados de los Panteones.
+El Departamento de Panteones recabará por semana los informes que le rindan los encargados de los Panteones.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6383,11 +6903,11 @@ Los panteones deben estar limpios de basura o desperdicios, ya sea en las calzad
 
 La administración de los panteones, dependiente de la Dirección de Planeación, Obras y Servicios Públicos Municipales, deberá tener vigilancia las 24 horas del día.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 515.
 
-Se permitirá que el velador asignado al Panteón Municipal tenga su vivienda en las instalaciones dedicadas a oficina, siempre que lo permita la función propia de la administración, y por autorización expresa de la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Se permitirá que el velador asignado al Panteón Municipal tenga su vivienda en las instalaciones dedicadas a oficina, siempre que lo permita la función propia de la administración, y por autorización expresa del Departamento de Panteones.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6414,6 +6934,8 @@ VIII.- En su caso, hacer constar la identidad de los restos o de las cenizas hum
 IX.- Cerciorarse de que la caja mortuoria en que va a hacerse la inhumación, contiene el cadáver, los restos humanos o las cenizas respectivas;
 
 X.- Mantener abiertas constantemente las fosas necesarias para el servicio;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 XI.- Rendir informe semanal a la Dirección de Planeación, Obras y Servicios Públicos Municipales del movimiento registrado en el panteón de que se trate;
 
@@ -6471,25 +6993,39 @@ Los restos humanos remitidos a los panteones de interés social para su inhumaci
 
 Los cadáveres deberán embalsamarse, inhumarse, incinerarse o cremarse dentro de las 48 horas posteriores al fallecimiento, salvo autorización de la autoridad sanitaria, disposición del Ministerio Público o de la Autoridad Judicial.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 525.
 
-La administración del Panteón al dar entrada a un cadáver para inhumación, deberá llenar un informe escrito, proporcionado a la Dirección de Planeación, Obras y Servicios Públicos Municipales, el que contendrá los siguientes datos:
+La administración del Panteón al dar entrada a un cadáver para inhumación, deberá llenar un informe escrito, proporcionado al Departamento de Panteones, el que contendrá los siguientes datos:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Nombre y domicilio del fallecido;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Causa de la muerte;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Número del acta o boleta del Certificado de Defunción;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Oficina del Registro Civil que la expida;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Fecha y hora de deceso; y
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Fecha y hora de la inhumación.
 
-Dicho informe será conservado por la Dirección de Planeación, Obras y Servicios Públicos Municipales para su consulta o expedición de copias a solicitud de parte interesada.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+Dicho informe será conservado por el Departamento de Panteones para su consulta o expedición de copias a solicitud de parte interesada.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6575,11 +7111,11 @@ La falta de alguno de los requisitos señalados en el artículo precedente para 
 
 La exhumación prematura de cadáveres podrá efectuarse cuando su traslado vaya a realizarse dentro del mismo panteón debiendo procederse de inmediato a la reinhumación en cuya operación no deberá excederse del término de una hora a partir de concluida la primera.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 537.
 
-La exhumación prematura mencionada en el artículo anterior, podrá efectuarse después de las dieciocho horas de haber sido inhumado y requerirá de la previa autorización de la Dirección de Planeación, Obras y Servicios Públicos Municipales, quien podrá designar un comisionado para que intervenga en el procedimiento.
+La exhumación prematura mencionada en el artículo anterior, podrá efectuarse después de las dieciocho horas de haber sido inhumado y requerirá de la previa autorización del Departamento de Panteones, quien podrá designar un comisionado para que intervenga en el procedimiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6593,11 +7129,11 @@ II.- Descubierta la bóveda, se inyectará en ella una solución de cloro nacien
 
 III.- Se hará circular el mismo cloro naciente u otra sustancia antiséptica y desinfectante por el ataúd. Este procedimiento podrá dispensarse en los casos en que el cadáver haya sido preparado o embalsamado y que no hayan transcurrido treinta días a partir de la fecha de la inhumación.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 539.
 
-Cuando la exhumación se verifique después del plazo de cinco años, o sea, que se trate de restos áridos, sólo se requerirá autorización de la Dirección de Planeación, Obras y Servicios Públicos Municipales o del registro civil y los restos deberán ser depositados en el lugar que señalen los deudos, o en el osario común si se tratan de restos no reclamados por persona alguna.
+Cuando la exhumación se verifique después del plazo de cinco años, o sea, que se trate de restos áridos, solo se requerirá autorización del Departamento de Panteones o del registro civil y los restos deberán ser depositados en el lugar que señalen los deudos, o en el osario común si se tratan de restos no reclamados por persona alguna.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6715,11 +7251,11 @@ Los derechos sobre inspección y vigilancia de las exhumaciones, de las operacio
 
 Los gastos que originen las inhumaciones, exhumaciones, conservación y traslado de cadáveres, inspección de panteones y en general todos los que cause la aplicación de este Código, serán por cuenta de las personas interesadas y se cubrirán en los términos que determine la Ley de Ingresos del Municipio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 557.
 
-Para los servicios de inhumación, exhumación y reinhumación, la Dirección de Planeación, Obras y Servicios Públicos tendrá la facultad de negar el servicio si la documentación proporcionada por el interesado o solicitante no coincide con los registros que obran en la misma, o bien si se detecta que estos se encuentran alterados o son notoriamente falsos.
+Para los servicios de inhumación, exhumación y reinhumación, el Departamento de Panteones tendrá la facultad de negar el servicio si la documentación proporcionada por el interesado o solicitante no coincide con los registros que obran en la misma, o bien si se detecta que estos se encuentran alterados ó son notoriamente falsos.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6765,29 +7301,35 @@ V.- Justificar por escrito la causa por la cual se solicita el duplicado del tí
 
 Las ventas de lotes o concesiones a perpetuidad serán otorgadas por medio de Títulos de Propiedad a Perpetuidad, los que deberán contener el derecho de uso para fines de inhumación, el nombre del propietario y los de los familiares o personas que podrán usar del mismo en orden prioritario.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 562.
 
-Los títulos de terrenos para sepulcros a perpetuidad se extenderán por la Dirección de Planeación, Obras y Servicios Públicos Municipales. Se tendrá especial cuidado de poner con claridad el nombre y apellido de la persona que debe ser inhumada; y si es lote para familia, el nombre y apellido de los adquirentes, los derechos y las fechas, haciéndose las anotaciones respectivas en el libro especial de cementerios.
+Los títulos de terrenos para sepulcros a perpetuidad se extenderán por el Departamento de Panteones. Se tendrá especial cuidado de poner con claridad el nombre y apellido de la persona que debe ser inhumada; y si es lote para familia, el nombre y apellido de los adquirentes, los derechos y las fechas, haciéndose las anotaciones respectivas en el libro especial de cementerios.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 563.
 
-Para adquirir el derecho de uso a perpetuidad de alguna fosa, gaveta o nicho, será necesario presentar ante la Dirección de Planeación, Obras y Servicios Públicos Municipales lo siguiente:
+Para adquirir el derecho de uso a perpetuidad de alguna fosa, gaveta o nicho, será necesario presentar ante el Departamento de Panteones lo siguiente:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- El recibo expedido por la Tesorería Municipal del Municipio de Pabellón de Arteaga, Ags., que consigne el pago del valor de lo que se adquiere a perpetuidad;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Estado de cuenta en donde se indican los datos de la propiedad como el número de serie, número de la fosa y nombre del panteón, autorizada por el encargado del panteón correspondiente; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Identificación oficial del nuevo propietario.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 564.
 
-El ciudadano que requiera verificar los registros que obran en los panteones con el objeto de obtener una propiedad, lo podrá realizar por conducto del personal de la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+El ciudadano que requiera verificar los registros que obran en los panteones con el objeto de obtener una propiedad, lo podrá realizar por conducto del personal del Departamento de Panteones.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6795,11 +7337,11 @@ El ciudadano que requiera verificar los registros que obran en los panteones con
 
 Una vez realizada la compra de los derechos de uso a perpetuidad de una propiedad, el adquiriente tendrá la obligación de mantenerla en óptimas condiciones para prestarse el servicio, en casos particulares de la condiciones del panteón, realizar los pagos de mantenimiento correspondientes, los cuales aplican para el mantenimiento de áreas comunes tales como andadores, pasillos, fuentes, así como áreas verdes de los mismos; el pago de mantenimiento se realizará por lote indicando la cantidad de lotes que forman cada propiedad.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 566.
 
-En el caso de que algún titular de derechos de uso de perpetuidad sobre una propiedad, cambie su domicilio o régimen de sociedad conyugal, deberá notificar por escrito a la Dirección de Planeación, Obras y Servicios Públicos Municipales, para que ésta actualice los datos que obran en sus registros.
+En el caso de que algún titular de derechos de uso de perpetuidad sobre una propiedad, cambie su domicilio o régimen de sociedad conyugal, deberá notificar por escrito al Departamento de Panteones, para que ésta actualice los datos que obran en sus registros.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6837,11 +7379,11 @@ El permiso se extenderá con un tiempo de vigencia según el trabajo a realizar,
 
 Si al realizar la construcción, arreglo o mejora se genera escombro o cualquier otro tipo de residuo, será obligación del solicitante retirarlo, por lo menos cada ocho días hasta que termine la construcción.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 573.
 
-En caso de que el titular del permiso otorgado para la obra o algún tercero se encuentren realizando un trabajo distinto al establecido en la autorización, la Dirección de Planeación, Obras y Servicios Públicos Municipales procederá a cancelarlo e impondrá una multa o la sanción correspondiente.
+En caso de que el titular del permiso otorgado para la obra o algún tercero se encuentren realizando un trabajo distinto al establecido en la autorización, el Departamento de Panteones procederá a cancelarlo e impondrá una multa o la sanción correspondiente.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6869,17 +7411,17 @@ VI.- Fecha de vencimiento; y
 
 VII.- Descripción del trabajo a realizar y donde aplique el plano que especifique el trabajo y sus características.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 576.
 
-Cualquier mejora, modificación o construcción en el interior del panteón, será supervisada por personal de la Dirección de Planeación, Obras y Servicios Públicos Municipales, quien tendrá atribuciones para suspender dicho trabajo en el evento de no cumplir con las especificaciones señaladas en el permiso.
+Cualquier mejora, modificación o construcción en el interior del panteón, será supervisada por personal del Departamento de Panteones, quien tendrá atribuciones para suspender dicho trabajo en el evento de no cumplir con las especificaciones señaladas en el permiso.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 577.
 
-Si se realizare alguna construcción que se salga de los lineamientos establecidos en el presente Reglamento, la Dirección de Planeación, Obras y Servicios Públicos Municipales procederá a removerlo con cargo al propietario y; en su caso, aplicar la sanción correspondiente. En caso de que el particular se niegue a pagar los cargos o incumplir con las sanciones a que se haga acreedor, la autoridad levantará un acta de requerimiento de pago.
+Si se realizare alguna construcción que se salga de los lineamientos establecidos en el presente Reglamento, el Departamento de Panteones procederá a removerlo con cargo al propietario y; en su caso, aplicar la sanción correspondiente. En caso de que el particular se niegue a pagar los cargos o incumplir con las sanciones a que se haga acreedor, la autoridad levantará un acta de requerimiento de pago.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6923,11 +7465,11 @@ En los párvulos las medidas deberán ser de 0.65 m. de ancho por 1.10 m. de lar
 
 Queda estrictamente prohibida la instalación de barandales de cualquier material en los panteones.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 585.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales será responsable de la plantación de los árboles, pero en el caso de que los particulares soliciten permiso para realizar plantaciones junto a su propiedad, se tendrá que solicitar permiso a ésta, expresando en su petición el tipo de árbol que pretende plantar, debiéndose otorgar el permiso siempre y cuando el tipo de la especie de árbol no afecte la estructura subterránea de las fosas o instalaciones de tipo inmueble ubicadas en los panteones. Dichas plantaciones podrán ser retiradas o modificadas por la Dirección de Planeación, Obras y Servicios Públicos Municipales en los casos de afectaciones o en mejoras al panteón.
+El Departamento de Panteones será responsable de la plantación de los árboles, pero en el caso de que los particulares soliciten permiso para realizar plantaciones junto a su propiedad, se tendrá que solicitar permiso a ésta, expresando en su petición el tipo de árbol que pretende plantar, debiéndose otorgar el permiso siempre y cuando el tipo de la especie de árbol no afecte la estructura subterránea de las fosas o instalaciones de tipo inmueble ubicadas en los panteones. Dichas plantaciones podrán ser retiradas o modificadas por la Dirección de Planeación, Obras y Servicios Públicos Municipales en los casos de afectaciones o en mejoras al panteón.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -6935,47 +7477,47 @@ La Dirección de Planeación, Obras y Servicios Públicos Municipales será resp
 
 Para la construcción de capillas se deberá contar con tres lotes contiguos, con gavetas en ambos lados de un tiro o espacio central y que dichos lotes linden a un pasillo, para facilitar los servicios.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 587.
 
-Antes de realizar la construcción de la capilla se deberá de presentar el proyecto a la administración del Panteón o en su caso directamente en la Dirección de Planeación, Obras y Servicios Públicos Municipales para su aprobación.
+Antes de realizar la construcción de la capilla se deberá de presentar el proyecto a la administración del Panteón o en su caso directamente en el Departamento de Parques, Jardines y Panteones para su aprobación.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 588.
 
-Con el fin de conservar la armonía y cuidar de la estética y buena imagen de los panteones, se vigilará el uso de materiales y colores aprobados por la Dirección de Planeación, Obras y Servicios Públicos Municipales tales como canteras, mármoles, granito, concretos y materiales pétreos aparentes, en cuanto a los colores, serán claros y definidos, de preferencia cálidos.
+Con el fin de conservar la armonía y cuidar de la estética y buena imagen de los panteones, se vigilará el uso de materiales y colores aprobados por el Departamento de Parques, Jardines y Panteones tales como canteras, mármoles, granito, concretos y materiales pétreos aparentes, en cuanto a los colores, serán claros y definidos, de preferencia cálidos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 589.
 
-Será responsabilidad del propietario darle mantenimiento a su propiedad. Si está tiene un deterioro mayor, ruina, amenaza o peligro en la seguridad de los visitantes, el panteón a través de la Dirección de Planeación, Obras y Servicios Públicos Municipales requerirá al propietario para que lo repare. En el caso de que éste no se encontrara o por negligencia hiciera caso omiso a los requerimientos, la Dirección de Planeación, Obras y Servicios Públicos Municipales podrá realizar la reparación con cargo al propietario a fin de proteger la integridad física de los visitantes.
+Será responsabilidad del propietario darle mantenimiento a su propiedad. Si está tiene un deterioro mayor, ruina, amenaza o peligro en la seguridad de los visitantes, el panteón a través del Departamento de Parques, Jardines y Panteones requerirá al propietario para que lo repare. En el caso de que éste no se encontrara o por negligencia hiciera caso omiso a los requerimientos, el Departamento de Parques, Jardines y Panteones podrá realizar la reparación con cargo al propietario a fin de proteger la integridad física de los visitantes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 590.
 
-En los casos en que se contrataran los servicios de algún trabajador de la Dirección de Planeación, Obras y Servicios Públicos Municipales para realizar construcción, mejora o arreglo de cualquier propiedad particular, éste la realizará fuera de su horario de trabajo, deslindándose la Dirección de Planeación, Obras y Servicios Públicos Municipales de cualquier responsabilidad sobre dicho trabajo.
+En los casos en que se contrataran los servicios de algún trabajador del Departamento de Panteones para realizar construcción, mejora o arreglo de cualquier propiedad particular, éste la realizará fuera de su horario de trabajo, deslindándose el Departamento de Parques, Jardines y Panteones de cualquier responsabilidad sobre dicho trabajo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 591.
 
-En los casos en que el particular quiera retirar algún accesorio de cualquier monumento, deberá informar con anticipación a la administración del panteón o en su caso a la Dirección de Planeación, Obras y Servicios Públicos Municipales, acreditando el derecho sobre dicha propiedad, par (sic) que éste sea autorizado.
+En los casos en que el particular quiera retirar algún accesorio de cualquier monumento, deberá informar con anticipación a la administración del panteón o en su caso al Departamento de Parques, Jardines y Panteones, acreditando el derecho sobre dicha propiedad, par (sic) que éste sea autorizado.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 592.
 
-Se restringe cualquier arreglo o remodelación en las tumbas que tengan setenta años o más de antigüedad, por ser consideradas patrimonio histórico de los panteones. En caso de ser necesaria la realización de remodelación o mejoras en determinada tumba con la antigüedad antes señalada, se deberá de solicitar un permiso especial que será expedido por la Dirección de Planeación, Obras y Servicios Públicos Municipales, quien será la encargada de evaluar la importancia de la tumba en cuanto a su estructura, así como el tipo de remodelación que vaya acorde a la imagen del panteón.
+Se restringe cualquier arreglo o remodelación en las tumbas que tengan setenta años o más de antigüedad, por ser consideradas patrimonio histórico de los panteones. En caso de ser necesaria la realización de remodelación o mejoras en determinada tumba con la antigüedad antes señalada, se deberá de solicitar un permiso especial que será expedido por el Departamento de Parques, Jardines y Panteones, quien será la encargada de evaluar la importancia de la tumba en cuanto a su estructura, así como el tipo de remodelación que vaya acorde a la imagen del panteón.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 593.
 
-Todos los Panteones deberán aceptar visitas desde las ocho hasta las dieciocho horas diariamente, y las inhumaciones y demás servicios deberán prestarse de ocho a doce horas y de catorce a dieciocho horas, atendiendo el horario legal laboral, con excepción de las festividades que se lleven a cabo con motivo de la celebración del día de muertos, en donde podrá ampliarse el horario de visita, según lo determine la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Todos los Panteones deberán aceptar visitas desde las ocho hasta las dieciocho horas diariamente, y las inhumaciones y demás servicios deberán prestarse de ocho a doce horas y de catorce a dieciocho horas, atendiendo el horario legal laboral, con excepción de las festividades que se lleven a cabo con motivo de la celebración del día de muertos, en donde podrá ampliarse el horario de visita, según lo determine el Departamento de Parques, Jardines y Panteones.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7027,21 +7569,27 @@ Todos los visitantes deberán cuidar de las instalaciones de los panteones. A la
 
 Todos los titulares de derechos de uso a perpetuidad sobre propiedades en los panteones, deberán mantenerlas limpias y seguras; lo anterior, con la finalidad de hacer del panteón un lugar seguro para todos los visitantes al mismo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 601.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales no se hará responsable de cualquier daño o accidente que sufra el visitante dentro del panteón, con la excepción de que por negligencia de la Dirección de Planeación, Obras y Servicios Públicos Municipales el daño se hubiere causado, para lo cual se realizará un avalúo de los daños generados y la manera de cómo se realizaron los mismos para posteriormente deslindar responsabilidades.
+El Departamento de Panteones Parques, Jardines y (sic) no se hará responsable de cualquier daño o accidente que sufra el visitante dentro del panteón, con la excepción de que por negligencia del Departamento (sic) Parques, Jardines y de Panteones el daño se hubiere causado, para lo cual se realizará un avalúo de los daños generados y la manera de cómo se realizaron los mismos para posteriormente deslindar responsabilidades.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 602.
 
-Las infracciones a lo dispuesto en el presente capítulo cometidas por los responsables de la aplicación de este ordenamiento y que no tengan señalada sanción especial, serán clasificadas por la Dirección de Planeación, Obras y Servicios Públicos Municipales o el H. Ayuntamiento, y podrán castigarse con las siguientes sanciones:
+Las infracciones a lo dispuesto en el presente capítulo cometidas por los responsables de la aplicación de este ordenamiento y que no tengan señalada sanción especial, serán clasificadas por el Departamento de Parques, Jardines y Panteones ó el H. Ayuntamiento, y podrán castigarse con las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Destitución del cargo;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Multa hasta por el equivalente de diez días del salario mínimo vigente; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Arresto hasta por 36 horas.
 
@@ -7155,7 +7703,7 @@ I.- Corroborar la veracidad de los datos proporcionados por el solicitante;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-II.- Conocer las circunstancias que la CAPAPA considere necesarias para determinar sobre la prestación de los servicios públicos y el presupuesto correspondiente; y (sic)
+II.- Conocer las circunstancias que la CAPAPA considere necesarias para determinar sobre la prestación de los servicios públicos y el presupuesto correspondiente; y
 
 III.- Estimar el presupuesto que comprenderá el importe del material necesario y la mano de obra, ruptura y reposición de banqueta, guarnición y pavimento si lo hubiese, así como cualquier otro trabajo que se requiera para estar en condiciones de prestar los servicios públicos solicitados; y
 
@@ -7485,9 +8033,9 @@ VI.- El personal técnico y administrativo que se requiera para su funcionamient
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION QUINTA. De la Suspensión Temporal
+#### SECCION PRIMERA. Definiciones
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 623.
 
@@ -7719,7 +8267,7 @@ Para la remoción de cualquiera de los integrantes del Consejo Directivo que inc
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION SEXTA. De la Pérdida de Grado
+#### SECCION SEGUNDA. De la Amonestación
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7785,7 +8333,7 @@ IX.- Las demás que le señale el presente Título o les delegue el H. Ayuntamie
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION SEPTIMA. De la Rescisión o Destitución
+#### SECCION TERCERA. Del Arresto
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7865,9 +8413,9 @@ XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCION CUARTA. El Cambio de Adscripción
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 633.
 
@@ -8591,11 +9139,11 @@ I.- El ordenamiento ecológico es el proceso mediante el cual se obtiene el diag
 
 II.- La evaluación del impacto ambiental está enfocada a evitar la realización de obras o actividades públicas y privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en la Legislación Ambiental Federal, Estatal, así como en el presente Título, y en las normas técnicas ecológicas emitidas por otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 677.
 
-El Ayuntamiento, a través de la Dirección de planeación, Obras y Servicios Públicos y a su vez por conducto del Departamento de Ecología, establecerá las acciones y restricciones que en materia ecológica deba aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental.
+El Ayuntamiento, a través de la Dirección de Servicios Públicos y Mantenimiento y a su vez por conducto del Departamento de Ecología, establecerá las acciones y restricciones que en materia ecológica deba aplicarse en el territorio del Municipio que permitan realizar la prevención, control y mitigación de contaminantes, así como señalar los requisitos que habrán de observarse para evitar el deterioro ambiental.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -8697,7 +9245,7 @@ I.- Los usos productivos del suelo no deben alterar el equilibrio de los ecosist
 
 II.- La degradación, erosión y contaminación de los suelos, así como la disminución de su productividad, tiene en la sobre generación y en el deficiente manejo de los residuos sólidos, una de sus principales causas; por consiguiente, para mantener e incrementar la productividad y preservación del suelo, se debe regular, corregir y sancionar toda acción o actividad que al generar o manejar residuos sólidos, conlleve a la disminución de las características del mismo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPITULO DECIMO PRIMERO. De la Protección del Aire y la Atmósfera
 
@@ -8705,21 +9253,37 @@ II.- La degradación, erosión y contaminación de los suelos, así como la dism
 
 ###### ARTICULO 686.
 
-La protección del suelo y el manejo de los residuos sólidos municipales corresponde al Ayuntamiento, el cual a través de la Dirección de plantación, Obras y Servicios Públicos por conducto del departamento de Ecología, o su similar ejecutará las siguientes actividades:
+La protección del suelo y el manejo de los residuos sólidos municipales corresponde al Ayuntamiento y por conducto del departamento de Ecología, ejecutará las siguientes actividades:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Vigilar que los servicios municipales no propicien o generen residuos sólidos sin control;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Formular y conducir la política municipal en materia de prevención y control de la contaminación del suelo;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Operar o concesionar condicionadamente el establecimiento del Servicio Municipal de Limpia, de acopio, reciclaje y disposición final de los residuos sólidos municipales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Controlar y vigilar que se cumpla el horario permitido para el depósito de basura en los contenedores;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Denunciar ante la autoridad competente las fuentes generadoras de residuos sólidos peligrosos que existan dentro del territorio municipal y que operen sin permiso;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Celebrar acuerdos y convenios de coordinación con los Ayuntamientos de los municipios colindantes, excepto con los de otras entidades federativas, a fin de recibir o enviar residuos sólidos No peligrosos para su disposición final en sitios que previamente sean autorizados por el Municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- Integrar y mantener actualizado el Registro Municipal de Generadores de Residuos Sólidos; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- Controlar y Prevenir que los residuos sólidos o cualquier otro tipo de contaminación de procedencia comercial, doméstica, industrial, agropecuaria o de cualquier otra especie, se acumulen, depositen o infiltren en el suelo o subsuelo, o en la red del sistema municipal de drenaje y alcantarillado.
 
@@ -8749,7 +9313,7 @@ I.- En los centros urbanos, sin descuidar los de características rurales, el ai
 
 II.- La contaminación atmosférica es resultado, tanto de las emisiones provocadas por fuentes naturales, como de aquéllas provenientes de fuentes artificiales, fijas y móviles, a las que hace alusión el artículo 646 de este Título, por lo que éstas deben prevenirse y controlarse, con el fin de asegurar la calidad del aire en beneficio de la comunidad.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPITULO DECIMO TERCERO. Protección de la Flora, Fauna Terrestre y Acuática
 
@@ -8757,25 +9321,39 @@ II.- La contaminación atmosférica es resultado, tanto de las emisiones provoca
 
 ###### ARTICULO 690.
 
-Para promover y efectuar el saneamiento atmosférico, el Ayuntamiento a través de la Dirección de Planeación, Obras y servicios Públicos por conducto del departamento de Ecología, podrá:
+Para promover y efectuar el saneamiento atmosférico, el Ayuntamiento a través del departamento de Ecología, podrá:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Formular y conducir la política municipal en materia de prevención y control de la contaminación atmosférica en el ámbito de su competencia;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Requerir en el ámbito de su competencia, a todas aquellas personas físicas o morales, públicas o privadas, que realicen actividades contaminantes de la atmósfera, la instalación de los equipos de control pertinentes, o de la aplicación de medios necesarios para reducir o eliminar las emisiones contaminantes;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Previo acuerdo de coordinación con las autoridades estatales, implementar y operar en el territorio municipal, el sistema de verificación obligatorio de emisiones de gases, humos y partículas contaminantes de los vehículos automotores que circulen en el Municipio, con el objeto de conservar la calidad del aire; y
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Integrar y mantener actualizado el inventario de fuentes emisoras de contaminantes a la atmósfera, que estén ubicadas en el territorio del Municipio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 691.
 
-El Ayuntamiento, a través de la Dirección (sic) Planeación, Obras y Servicios Públicos, por conducto del departamento de Ecología, vigilará e inspeccionará las siguientes fuentes emisoras de contaminantes atmosféricos:
+El Ayuntamiento, a través del departamento de Ecología, vigilará e inspeccionará las siguientes fuentes emisoras de contaminantes atmosféricos:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Las fijas, que incluyen talleres, giros comerciales y de prestación de servicios, así como giros industriales previo convenio con la autoridad estatal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Diversas; como depósitos o quema a cielo abierto de residuos sólidos en el municipio; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Coadyuvará previo acuerdo o convenio con el Estado, con las móviles, como vehículos automotores de combustión interna, motocicletas y similares, salvo el transporte federal.
 
@@ -8937,7 +9515,7 @@ II.- Respetar las medidas que el Ayuntamiento ha determinado para la preservaci�
 
 III.- Coadyuvar con las autoridades del Ayuntamiento en la preservación de bosques y evitar la tala clandestina y el deterioro de áreas verdes, denunciando a la persona o personas que incurran en estos delitos;
 
-IV.- Presentar él (sic) o los análisis de la autoridad competente en los términos que señalen las leyes o reglamentos aplicables en la materia, los establecimientos industriales, comerciales o de servicios que generen emisiones a la atmósfera y/o descarga de aguas servidas a la red municipal de drenaje;
+IV.- Presentar él o los análisis de la autoridad competente en los términos que señalen las leyes o reglamentos aplicables en la materia, los establecimientos industriales, comerciales o de servicios que generen emisiones a la atmósfera y/o descarga de aguas servidas a la red municipal de drenaje;
 
 V.- Presentar a la autoridad municipal el comprobante de la disposición final de sus desechos sólidos, o bien el manifiesto tratándose de residuos peligrosos, los establecimientos industriales, comerciales o de servicios;
 
@@ -10113,7 +10691,9 @@ III.- Proporcionalidad: que el uso de la fuerza sea adecuado y corresponda a la 
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
+#### SECCION QUINTA. De la Suspensión Temporal
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 780.
 
@@ -10277,9 +10857,9 @@ Las solicitudes que tengan los elementos operativos, las elevarán por los condu
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION TERCERA. De las Faltas Contra la Salubridad General
+#### SECCION SEXTA. De la Pérdida de Grado
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 802.
 
@@ -10347,9 +10927,9 @@ Asimismo la conclusión del servicio por cualquiera de sus causas será registra
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+#### SECCION SEPTIMA. De la Rescisión o Destitución
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 807.
 
@@ -10452,6 +11032,10 @@ XLIV.- Por no proporcionar al superior jerárquico de quien dependan, el domicil
 XLV.- Por las demás infracciones a la Ley o el presente Código que no ameriten la imposición de otro correctivo disciplinario.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 809.
 
@@ -10557,6 +11141,8 @@ i) Por usar el uniforme, salvo instrucciones expresas de la superioridad, fuera 
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
+#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
+
 ###### ARTICULO 810.
 
 Se impondrá el correctivo disciplinario de cambio de adscripción por las siguientes infracciones o faltas:
@@ -10572,6 +11158,10 @@ IV.- Por temor fundado de que pueda ser sujeto de represalias por parte de delin
 V.- Por requerirse para mantener una buena relación e imagen con la comunidad donde se desempeña.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+#### SECCION TERCERA. De las Faltas Contra la Salubridad General
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 811.
 
@@ -10604,6 +11194,10 @@ XI.- Por Aceptar obsequios de sus subalternos o permitir que se promuevan o cole
 Si el elemento operativo suspendido no resulta responsable de los hechos, éste será reinstalado en su puesto en los términos del Artículo 118 tercer párrafo de la Ley de Seguridad Pública para el Estado.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 812.
 
@@ -11045,7 +11639,7 @@ I.- Debe expresar los números de expediente de cada uno de ellos;
 
 II.- El hecho o hechos realizados por el elemento operativo en cada caso;
 
-III.- las (sic) personas que fueren afectadas en cada uno de los expedientes, si los hubiere;
+III.- las personas que fueren afectadas en cada uno de los expedientes, si los hubiere;
 
 IV.- El origen de las causas de cada uno de ellos; y
 
@@ -11139,7 +11733,7 @@ IV.- Solicitar al elemento operativo de la Dirección un informe pormenorizado d
 
 V.- Solicitar al Director la suspensión temporal del elemento operativo. Para el caso concreto con relación a la suspensión temporal y separación del cargo se estará a lo dispuesto por el presente Código;
 
-VI.- Presentar el dictamen para premiar a elementos operativos que se haga acreedor (sic) a algún estímulo, reconocimiento o condecoración; y
+VI.- Presentar el dictamen para premiar a elementos operativos que se haga acreedor a algún estímulo, reconocimiento o condecoración; y
 
 VII.- Verificar que en todo momento se siga puntualmente el procedimiento previsto por la ley y se garanticen en su caso, al indiciado sus garantías individuales.
 
@@ -12307,7 +12901,7 @@ Son Funciones del Secretario Técnico:
 
 I.- Coordinar los trabajos operativos que apoyen la realización, instrumentación y evaluación del programa Municipal de Protección Civil;
 
-II.- Organizar los eventos que apoyen la formulación de los programas elaborados por el Consejo Municipal de Protección Civil; y (sic)
+II.- Organizar los eventos que apoyen la formulación de los programas elaborados por el Consejo Municipal de Protección Civil; y
 
 III.- Informar a los miembros del Consejo respecto del avance de los programas que integra el Sistema Municipal de Protección Civil.
 
@@ -12679,7 +13273,9 @@ IV.- Coordinar el programa Municipal con el Estatal y Nacional de Desarrollo Urb
 
 V.- Promover y determinar conjuntamente con el Gobierno del Estado, con base en los programas de desarrollo urbano y de vivienda, la adquisición y administración de reservas territoriales, para la ejecución de dichos programas;
 
-VI.- Coordinar con la SEDESO y la SOP Estatal la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Coordinar con las dependencias estatales la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
 
 VII.- Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
 
@@ -12825,13 +13421,13 @@ XIII.- Anexo gráfico: que expresará en una forma descriptiva y clara el conten
 
 La estructura y contenido de los programas de desarrollo urbano tendrán que adecuarse a las características del ámbito territorial o sectorial de su aplicación, así como a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 989.
 
-El Programa Estatal de desarrollo urbano, tendrán (sic) por objetivo el desarrollo urbano integral de todo el Municipio, de los centros de población y sus áreas suburbanas.
+El Programa Municipal de desarrollo urbano, tendrán (sic) por objetivo el desarrollo urbano integral de todo el Municipio, de los centros de población y sus áreas suburbanas.
 
-Estos programas contendrán la zonificación y las líneas de acción específicas para la ordenación y regulación de los centros de población del Municipio respectivo.
+Estos programas contendrán la zonificación y las líneas de acción específicas para la ordenación y regulación de los centros de población del Municipio.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -12891,7 +13487,9 @@ III.- Las respuestas a los planteamientos improcedentes y las modificaciones del
 
 IV.- Cumplidas las formalidades para su aprobación, el programa respectivo o sus modificaciones serán publicadas en el Periódico Oficial del Gobierno del Estado y en un Periódico de mayor circulación; y
 
-V.- Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la SEDESO y oficina municipal correspondiente.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en dependencias estatal y municipal correspondientes.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13005,7 +13603,7 @@ I.- La determinación de las áreas de expansión futura de los centros de pobla
 
 II.- La participación del Estado y de los municipios en la formulación, aprobación y ejecución de los programas parciales, a través de los cuales se incorporen porciones de la reserva a la expansión urbana y se regule su crecimiento;
 
-III.- Los mecanismos para la adquisición, por parte del Estado y de los municipios, con la participación de los sectores social y privado, de predios ubicados en las áreas a que se refieren las fracciones anteriores, a efecto de satisfacer oportunamente las necesidades de tierra que plantee la dinámica de crecimiento de los centros de población, en los términos de este Código; y (sic)
+III.- Los mecanismos para la adquisición, por parte del Estado y de los municipios, con la participación de los sectores social y privado, de predios ubicados en las áreas a que se refieren las fracciones anteriores, a efecto de satisfacer oportunamente las necesidades de tierra que plantee la dinámica de crecimiento de los centros de población, en los términos de este Código; y
 
 IV.- La utilización actual de suelo y sus características peculiares tomando las medidas que correspondan, tratándose de áreas naturales protegidas, zonas inundables, zonas minadas por sobreexplotación de cualquier género y áreas afectadas por fallas geológicas; y
 
@@ -13223,19 +13821,29 @@ Todo inmueble consignado como vía pública en algún plano o registro oficial e
 
 Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a (sic) algún servicio público se considerarán, por ese sólo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro para que hagan los registros y las cancelaciones respectivas para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro e Impuesto a la Propiedad Raíz para que hagan los registros y las cancelaciones respectivas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1024.
 
-Se requiere permiso o autorización expreso de la Dirección de Planeación, Obras y Servicios Públicos Municipales para:
+Se requiere permiso o autorización expreso de la Dirección de Obras Públicas y Desarrollo Urbano para:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Realizar obras, modificaciones o reparaciones en la vía pública;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Ocupar la vía pública con instalaciones de servicio público, comercios semifijos, construcciones provisionales o mobiliario urbano;
 
-III.- Ocupar la vía pública con escombros o materiales de construcción en los horarios y condiciones que establezca la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Ocupar la vía pública con escombros o materiales de construcción en los horarios y condiciones que establezca la Dirección de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Romper el pavimento o hacer cortes en las banquetas y guarniciones de la vía pública para la ejecución de obras públicas o privadas; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Alojar instalaciones subterráneas en la vía pública.
 
@@ -13265,31 +13873,33 @@ V.- Para construir comercios semifijos en vías públicas; y
 
 VI.- Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1027.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Planeación, Obras y Servicios Públicos Municipales señale. Si este plazo fuese sobre excedido, la misma Dirección de Planeación, Obras y Servicios Públicos Municipales realizará los trabajos con cargo al dueño, independientemente de las sanciones que conforme al libro noveno del presente Código, sean aplicables.
+Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Obras Públicas y Desarrollo Urbano señale. Si este plazo fuese sobre excedido, la misma Dirección de Obras Públicas y Desarrollo Urbano bano (sic) realizará los trabajos con cargo al dueño, independientemente de las sanciones que conforme al libro noveno del presente Código, sean aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1028.
 
-Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones. Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Planeación, Obras y Servicios Públicos Municipales podrá autorizar la Construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras lo requiera.
+Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones. Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Obras Públicas y Desarrollo Urbano podrá autorizar la Construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras lo requiera.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 Para los efectos de este Artículo, deberá respetarse la normatividad respectiva que dicten los Reglamentos referentes al tipo de instalación que correspondan.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1029.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+La Dirección de Obras Públicas y Desarrollo Urbano fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1030.
 
-Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Dirección de Planeación, Obras y Servicios Públicos Municipales determinará la forma en que se lleven a cabo los trabajos.
+Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Dirección de Obras Públicas y Desarrollo Urbano determinará la forma en que se lleven a cabo los trabajos.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13299,11 +13909,11 @@ Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre po
 
 Dichos postes se colocarán dentro de la acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1032.
 
-En las vías públicas en que no existen aceras, los interesados solicitarán a la Dirección de Planeación, Obras y Servicios Públicos Municipales de Obras Públicas Municipales, el trazo de la guarnición.
+En las vías públicas en que no existen aceras, los interesados solicitarán a la Dirección de Obras Públicas y Desarrollo Urbano, el trazo de la guarnición.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13311,11 +13921,11 @@ En las vías públicas en que no existen aceras, los interesados solicitarán a 
 
 Las ménsulas, las alcayatas así como cualquier otro apoyo que se use, para ascenso a los postes o a las instalaciones, deberán colocarse a no menos de dos metros cincuenta centímetros de altura sobre el nivel de la acera. Igual tratamiento se dará a cualquier obstáculo en vía pública.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1034.
 
-Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13323,11 +13933,11 @@ Los postes y las instalaciones deberán ser identificados por sus propietarios c
 
 Los propietarios de postes o instalaciones colocados en la vía pública, están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1036.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Dirección de Planeación, Obras y Servicios Públicos Municipales lo ejecutará a costa de dichos propietarios.
+La Dirección de Obras Públicas y Desarrollo Urbano podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Dirección de Obras Públicas y Desarrollo Urbano lo ejecutará a costa de dichos propietarios.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13335,11 +13945,13 @@ La Dirección de Planeación, Obras y Servicios Públicos Municipales podrá ord
 
 No se permitirá colocar postes o instalaciones en aceras, cuando con ellos se impida la entrada a un predio. Si el acceso al predio se construye estando ya colocados el poste o la instalación, deberán ser cambiados de lugar por el propietario de los mismos, pero los gastos serán por cuenta del propietario del predio.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1038.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales determinará las zonas de protección a lo largo de los servicios subterráneos tales como viaductos, pasos a desnivel, e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados.
+La Dirección de Obras Públicas y Desarrollo Urbano determinará las zonas de protección a lo largo de los servicios subterráneos tales como viaductos, pasos a desnivel, e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
@@ -13347,7 +13959,7 @@ La reparación de los daños que se ocasionen en esas zonas, correrán a cargo d
 
 ### CAPITULO PRIMERO. De la Licencia de Construcción
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1039.
 
@@ -13393,25 +14005,35 @@ I.- En intersección de dos vialidades, un mínimo de cuatro placas; y
 
 II.- En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1044.
 
-Los promoventes de vivienda y fraccionadores, deberán presentar ante la Dirección de Planeación, Obras y Servicios Públicos Municipales, la propuesta de nomenclatura y vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la Comisión Estatal de Desarrollo Urbano o a la Secretaría de Planeación del Estado, según sea el caso.
+Los promoventes de vivienda y fraccionadores, deberán presentar ante la Dirección de Obras Públicas y Desarrollo Urbano, la propuesta de nomenclatura y vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la Comisión Estatal de Desarrollo Urbano o a la Secretaría de Planeación del Estado, según sea el caso.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1045.
 
-Dirección de Planeación, Obras y Servicios Públicos Municipales, tomará en cuenta la propuesta del promovente o fraccionador al momento de determinar sobre la nomenclatura, debiéndose apegar a lo siguiente:
+Dirección de Obras Públicas y Desarrollo Urbano, tomará en cuenta la propuesta del promovente o fraccionador al momento de determinar sobre la nomenclatura, debiéndose apegar a lo siguiente:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Análisis de la propuesta de los promoventes y fraccionadores, expresando las razones que se tomaron en cuenta para estimar o desestimar dicha opinión;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Velar porque exista una adecuada jerarquía vial y compatibilidad en el contexto urbano con la nomenclatura;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Evitar la duplicidad con la nomenclatura existente;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Cuando se trate de la prolongación de vialidades por la dimensión de su traza o por la importancia de su uso sean jerarquizadas como primarias o secundarias, deberá de permanecer con su nomenclatura existente; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Cuando se trate de la prolongación de vialidades que por la dimensión de su traza o por la importancia de su uso sean jerarquizadas como colectoras o locales, hasta en tanto no conecten con una vialidad primaria o secundaria, deberá permanecer con su nomenclatura existente.
 
@@ -13485,7 +14107,9 @@ IX.- Las placas de numeración deberán colocarse en una altura mínima de dos m
 
 X.- Cuando existan manzanas con diferente longitud, deberá prevalecer la numeración progresiva que dicte la manzana de mayor longitud;
 
-XI.- Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Planeación, Obras y Servicios Públicos Municipales; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Obras Públicas y Desarrollo Urbano; y
 
 XII.- Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una sólo (sic) centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
 
@@ -13501,11 +14125,11 @@ II.- Cuando se trate de propietarios de predios individuales, copia certificada 
 
 III.- Cuando el promovente o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1052.
 
-La Dirección de Planeación, Obras y Servicios Públicos autorizará números oficiales al solicitante, cuando el fraccionador o promovente haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal en el ámbito de su competencia y de la legislación urbana aplicable;
+La Dirección de Obras Públicas y Desarrollo Urbano autorizará números oficiales al solicitante, cuando el fraccionador o promovente haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal en el ámbito de su competencia y de la legislación urbana aplicable;
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13533,19 +14157,17 @@ III. Constancia de alineamiento y compatibilidad urbanística; y
 
 IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1055.
 
-Son causas de Ratificación de número oficial:
+Son causas de Ratificación de número oficial cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Obras Públicas y Desarrollo Urbano, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
-Cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Planeación, Obras y Servicios Públicos Municipales, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1056.
 
-Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Planeación, Obras y Servicios Públicos Municipales procederá a expedir un documento en el en el (sic) que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
+Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Obras Públicas y Desarrollo Urbano procederá a expedir un documento en el en el (sic) que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13559,41 +14181,71 @@ Una vez satisfechos los requisitos que establece el presente Capítulo, la Direc
 
 ###### ARTICULO 1057.
 
-Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Planeación, Obras y Servicios Públicos Municipales con anterioridad al inicio de la obra.
-
-Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
+Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Obras Públicas y Desarrollo Urbano con anterioridad al inicio de la obra.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
+Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 1058.
 
-Son facultades de la Dirección de Planeación y Servicios Públicos Municipales en materia de construcciones:
+Son facultades de la Dirección de Obras Públicas y Desarrollo Urbano en materia de construcciones:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y el uso de la vía pública;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Llevar un registro de Peritos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Inspeccionar obras, edificios y construcciones en general;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Verificar que el uso que se está dando a un predio, edificio o construcción, se ajuste a las características previamente registradas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, insalubres o que causen molestias;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Ordenar la suspensión temporal o la clausura de obras en ejecución o terminadas y la desocupación de los inmuebles en los casos previstos por este Libro;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VIII.- Aplicar medidas de seguridad en edificios o construcciones peligrosas;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Ordenar y ejecutar demoliciones de edificios en los casos previstos por este Libro;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Autorizar o negar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Libro;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Imponer sanciones a las que se hagan acreedores los infractores;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XII.- Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus disposiciones;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIII.- Expedir normas técnicas complementarias para el debido cumplimiento del presente Libro; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIV.- Asignar Peritajes por Servicio Social a los Peritos Responsables de Obra y Especializados, en los casos que prevé este Libro.
 
@@ -13633,7 +14285,9 @@ VIII.- Divisiones interiores prefabricadas en pisos de despachos o comercios, cu
 
 IX.- Impermeabilización y reparación de azoteas sin afectar elementos estructurales;
 
-X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Planeación, Obras y Servicios Públicos Municipales dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Obras Públicas y Desarrollo Urbano dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
 
 XI.- Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivo, si esta desocupado y sin afectar la estabilidad del resto de las construcciones;
 
@@ -13669,23 +14323,29 @@ Las solicitudes para este tipo de licencias, se presentarán con la firma del pr
 
 El tiempo de vigencia de las licencias de construcción que expida la Secretaria estará en relación con la naturaleza y magnitud de la obra por ejecutar.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1064.
 
-La propia Dirección de Planeación, Obras y servicios Públicos, tendrá facultad para fijar el plazo de vigencia de cada licencia de construcción de acuerdo con las siguientes bases:
+La propia Dirección de Obras Públicas y Desarrollo Urbano, tendrá facultad para fijar el plazo de vigencia de cada licencia de construcción de acuerdo con las siguientes bases:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario; y
 
-III.- Se tendrá opción a solicitar a la Dirección de Planeación, Obras y Servicios Públicos Municipales, dentro del plazo de vigencia de la Licencia, a una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+III.- Se tendrá opción a solicitar a la Dirección de Obras Públicas y Desarrollo Urbano, dentro del plazo de vigencia de la Licencia, a (sic) una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1065.
 
-En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Planeación, Obras y Servicios Públicos Municipales y el dictamen del Instituto Nacional de Antropología e Historia.
+En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Obras Públicas y Desarrollo Urbano y el dictamen del Instituto Nacional de Antropología e Historia.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13699,11 +14359,11 @@ Los requisitos establecidos en el presente capítulo son exigibles para todas la
 
 Los propietarios de fincas ubicadas dentro de la zona de monumentos históricos en el centro histórico de la ciudad o si la misma esta catalogado como monumento histórico fuera de esta zona o colinda con alguno de estos, se deberá presentar la autorización del Instituto Nacional de Antropología e Historia.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1068.
 
-Los propietarios de fincas que se hubieren subdividido o si es resultado de la fusión de dos o más predios, o si se prevé construir ocupando dos o mas lotes contiguos, deberá presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la ventanilla de la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Los propietarios de fincas que se hubieren subdividido o si es resultado de la fusión de dos o más predios, o si se prevé construir ocupando dos o mas lotes contiguos, deberá presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la ventanilla de la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13711,15 +14371,21 @@ Los propietarios de fincas que se hubieren subdividido o si es resultado de la f
 
 Los propietarios de fincas que se encuentra en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberá presentarse un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1070.
 
-Para otorgar licencia de construcción para construcciones, reparaciones, o ampliaciones menores de sesenta metros cuadrados de superficie en una casa habitación unifamiliar se requiere que el particular presente a la Dirección de Planeación, Obras y Servicios Públicos Municipales:
+Para otorgar licencia de construcción para construcciones, reparaciones, o ampliaciones menores de sesenta metros cuadrados de superficie en una casa habitación unifamiliar se requiere que el particular presente a la Dirección de Obras Públicas y Desarrollo Urbano:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Planos arquitectónicos y/o croquis con medidas del estado actual de la finca y de lo propuesto, indicando la ubicación del predio y firmados por el propietario;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Presentar recibo de pago o contrato de los servicios de agua potable y alcantarillado del predio; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Solicitud de licencia de construcción y bitácora de obra debidamente llenas y firmadas por el propietario, un Perito Responsable de Obra y un Perito Especializado, registrados y vigentes ante la Presidencia Municipal, así como el original del carnet de los peritos, en los casos que se requieran según lo prevé el presente libro de acuerdo a las siguientes especificaciones:
 
@@ -13743,21 +14409,33 @@ c) Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento h
 
 d) Si la construcción o ampliación contiene algún espacio destinado para uso no habitacional, por ejemplo: para local comercial, consultorio, lonchería, bodega, etc. o se prevé para un uso habitacional multifamiliar, deberá presentar en este caso la constancia de compatibilidad urbanística autorizada para tal uso incluyendo el habitacional.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1071.
 
-Para el otorgamiento de licencias para construcciones, reparaciones, o ampliaciones mayores de sesenta metros cuadrados de superficie en una vivienda; o construcción en serie de una o varias viviendas de cualquier superficie o proyectos tipo se requiere presentar a la Dirección de Planeación, Obras y Servicios Públicos Municipales:
+Para el otorgamiento de licencias para construcciones, reparaciones, o ampliaciones mayores de sesenta metros cuadrados de superficie en una vivienda; o construcción en serie de una o varias viviendas de cualquier superficie o proyectos tipo se requiere presentar a la Dirección de Obras Públicas y Desarrollo Urbano:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Copia de la boleta del número oficial del predio donde se pretende construir;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Copia de constancia de propiedad, ya sean escrituras con sellos de inscripción ante el Registro Público de la Propiedad, contrato de compraventa notariado o constancia notarial;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Copia del recibo al corriente de pago del impuesto a la propiedad raíz;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 V.- Solicitud de licencia de construcción y bitácora de obra debidamente llenas y firmadas por un Perito responsable de Obra y los Peritos Especializados de requerirse estos últimos conforme al Libro de Construcciones;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VI.- Memoria de cálculo estructural en original y copia firmada por el Perito Responsable de Obra y el Perito Especializado, en los casos que se requieran de este último conforme al presente Libro de Construcciones con el siguiente contenido:
 
@@ -13769,17 +14447,31 @@ Análisis de cargas;
 
 c) Dimensionamiento y cálculo de: Cimentación, Columnas y/o muros, entrepisos y techos, trabes y/o vigas y/o armaduras. Todo lo anterior, debe respetar lo estipulado en el título de requisitos estructurales del presente Libro de Construcciones. Si el predio está ubicado dentro de la zona de mediano riesgo de alguna falla geológica, se deberá anexar a la memoria de cálculo, el análisis y diseño por sismo de la estructura con los coeficientes que se establecen en el presente libro; y
 
-VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados en caso de requerir estos últimos conforme al presente Libro de Construcciones vigentes ante la Dirección de Planeación, Obras y Servicios Públicos Municipales, conteniendo lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados en caso de requerir estos últimos conforme al presente Libro de Construcciones vigentes ante la Dirección de Obras Públicas y Desarrollo Urbano, conteniendo lo siguiente:
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 a) Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles de la finca incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, etc. Indicando también su ubicación respecto del predio, y el uso o destino de cada espacio;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 b) Corte sanitario general longitudinal o transversal indicando registros sanitarios, pendientes mínimas dos por ciento y diámetros de la tubería de drenaje, altura de entrepisos y la altura total de la finca con respecto a los niveles de las banquetas;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 c) Alzados o fachadas de la finca indicando la altura de esta con respecto al nivel de banquetas;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 d) Croquis de localización del predio indicando las medidas de éste, distancia hacia la esquina más próxima, las calles que circundan la manzana, y el norte magnético;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 e) Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, nombre número y firma en original del perito responsable de la obra, escalas y acotaciones; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- No se admitirán correcciones, enmendaduras, ni añadiduras de ningún tipo en los planos y memoria de cálculo. El proyecto deberá cumplir con lo estipulado en el titulo de proyecto arquitectónico del presente Libro de Construcciones.
 
@@ -13791,7 +14483,11 @@ Además, en los casos de construcción de casas en serie, se deberá presentar:
 
 I.- Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por el organismo municipal regulador del agua potables (sic) y alcantarillado, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Planeación, Obras y Servicios Públicos Municipales el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
 
-II.- En sustitución del requisito del punto número dos; un convenio escrito con el organismo municipal regulador del agua potables (sic) y alcantarillado de que el constructor y/o propietario se compromete a no entregar ninguna vivienda sino hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. DEL 12 DE SEPTIEMBRE DE 2016, QUE REFORMA LA PRESENTE FRACCIÓN SE ADVIERTE QUE EL CONTENIDO DE ESTA SE ENCUENTRA EN LA FRACCIÓN I DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por el organismo municipal regulador del agua potables (sic) y alcantarillado, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Obras Públicas y Desarrollo Urbano el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
 
 III.- Copia de un contrato temporal por consumo de agua para la construcción de las viviendas; y
 
@@ -13809,19 +14505,29 @@ II.- Cuando el predio se ubique en una zona no regularizada como fraccionamiento
 
 III.- Cuando se trate de usos habitacional multifamiliar, dúplex, etc.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1074.
 
-Para el otorgamiento de licencias de construcción para edificios de oficinas comercios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar a la Dirección de Planeación, Obras y Servicios Públicos Municipales:
+Para el otorgamiento de licencias de construcción para edificios de oficinas comercios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar a la Dirección de Obras Públicas y Desarrollo Urbano:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Solicitud de licencia de construcción y bitácora debidamente llenas y firmadas por el perito responsable de obra y los Peritos Especializados de requerirse estos últimos conforme al presente Libro;
 
-II.- Copia de la boleta del numero oficial obtenida en la ventanilla correspondiente del Departamento de Licencias;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Copia de la boleta del numero oficial obtenida en la ventanilla correspondiente de la Subdirección de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-IV.- Copia de la constancia de Alineamiento y Compatibilidad Urbanística obtenida en la ventanilla de compatibilidad urbana de la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Copia de la constancia de Alineamiento y Compatibilidad Urbanística obtenida en la ventanilla de compatibilidad urbana de la Dirección de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Memoria de cálculo estructural y planos estructurales en dos tantos firmados por el Perito Responsable de Obra y el Perito Especializado (en los casos que se requieran de este último conforme al Libro de Construcciones) con el siguiente contenido:
 
@@ -13835,7 +14541,11 @@ d) Dimensionamiento y cálculo de: Cimentación, Columnas y/o muros, Entrepisos 
 
 e) Todo lo anterior, debe respetar lo estipulado en los requisitos estructurales del presente Libro;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Corresponsiva de peritos especializados en los casos que prevé como requisito el Libro de Construcciones. En cada caso los Peritos signarán la solicitud de licencia, bitácora de obra y demás documentos acorde a la especialidad; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados vigentes ante la Dirección de Planeación, Obras y Servicios Públicos Municipales, en caso de requerir estos últimos conforme al presente Libro, conteniendo lo siguiente:
 
@@ -13859,43 +14569,77 @@ i) Se requerirá la autorización del proyecto por parte de la Secretaría de Pl
 
 j) Autorización del Instituto de Salud del Estado de Aguascalientes para la construcción, remodelación, ampliación o modificación de clínicas, hospitales, centros de salud, laboratorios, rayos X y similares.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1075.
 
-Para otorgar licencia de construcción para estaciones de servicio o gasolineras se requiere presentar a la Dirección de Planeación, Obras y Servicios Públicos Municipales:
+Para otorgar licencia de construcción para estaciones de servicio o gasolineras se requiere presentar a la Dirección de Obras Públicas y Desarrollo Urbano:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Solicitud y bitácora llenas y firmadas por perito responsable de obra, perito especializado en mecánica de suelos y perito especializado en estructuras;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-III.- Copia de la boleta del numero oficial obtenida en la ventanilla correspondiente del Departamento de Licencias;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-IV.- Copia de la constancia de Alineamiento y Compatibilidad Urbanística obtenida en la ventanilla de la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+III.- Copia de la boleta del numero oficial obtenida en la ventanilla correspondiente del (sic) Subdirección de Desarrollo Urbano;
 
-V.- Deberá presentar el dictamen de impacto ambiental autorizado ante la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Copia de la constancia de Alineamiento y Compatibilidad Urbanística obtenida en la ventanilla de la Dirección de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Dictamen de impacto ambiental;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VI.- Memoria de cálculo estructural y planos estructurales, firmados por el Perito Responsable de Obra y por un Perito Especializado en Estructuras;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VII.- El plano de cimentaciones deberá suscribirse además por el perito especializado en mecánica de suelos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- Estudio de mecánica de suelos firmado por perito responsable de obra y perito especialista en mecánica de suelos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IX.- Plano del proyecto con la autorización de Pemex;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 X.- Planos de la instalación hidráulica y sanitaria autorizados por el organismo municipal rector del agua potable y alcantarillado;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XI.- Plano del proyecto indicando accesos, salidas y circulaciones interiores con la autorización de la Subcomisión de Vialidad, de la Secretaría de Planeación del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XII.- Planos de planta de conjunto indicando, drenajes, registros, areneros, trampas de grasas y aceites, indicando detalles en planta y corte, rejillas, trincheras, pendientes y diámetros, extinguidores y sistema contra incendio, firmados por el perito responsable de obra;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIII.- Planos de planta de conjunto indicando accesos, salidas, circulaciones de auto-tanques, circulaciones vehiculares y peatonales, estacionamientos, detalles en planta y corte de rampas de accesos, salidas y banquetas exteriores, firmados por el perito responsable de obra;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIV.- Planos arquitectónicos de conjunto indicando, área de tanque de almacenamiento, área de oficinas, baño, vestidores, dormitorios y comercios, área de despacho, de combustible, áreas jardinadas, etc. firmados por el perito responsable de obra;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XV.- Planos arquitectónicos con instalación sanitaria incluyendo plantas, cortes sanitarios y fachadas de el edificio administrativo firmados por el perito responsable de obra; y
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XVI.- Presentar Dictamen de Impacto Ambiental autorizado por las instancias correspondientes;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVII.- Además de lo anterior:
 
@@ -13907,15 +14651,21 @@ c) Cuando el proyecto presente algún espacio o espacios que carezcan de ventila
 
 d) Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la constancia de Alineamiento y Compatibilidad Urbanística.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1076.
 
-Para que se den licencias de demolición, se deberán presentar ante la Dirección de Planeación, Obras y Servicios Públicos Municipales los siguientes documentos:
+Para que se den licencias de demolición, se deberán presentar ante la Dirección de Obras Públicas y Desarrollo Urbano los siguientes documentos:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Recibo de pago o contrato de servicios de agua potable y alcantarillado correspondiente al predio donde se ubica la finca a demoler;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Croquis o dibujo especificando la superficie de techos o en su caso la longitud total de muros a demoler; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Para demoliciones mayores a cincuenta metros cuadrados deberá presentar además:
 
@@ -13937,7 +14687,9 @@ Para obras de reposición y/o modificación de banquetas se requiere presentar:
 
 I.- Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
-II.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -13947,7 +14699,9 @@ Para obras de cepas para alojar instalaciones se requiera presentar:
 
 I.- Recibo de pago o contrato de servicio de agua potable y alcantarillado;
 
-II.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Obras Públicas y Desarrollo Urbano;
 
 III.- Obtener las especificaciones constructivas en la Secretaría de Obras Publicas Municipales;
 
@@ -13985,11 +14739,13 @@ Todo anuncio, propaganda o publicidad que sea colocado en el Centro Histórico y
 
 No se permitirán en el centro histórico los anuncios comerciales que se instalen sobre azoteas; ni los letreros en manta, cartón o cualquier otro material que se pretenda colocar de paramento sobre una calle, entre arcos, postes o fachadas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1084.
 
 En las demás zonas, colonias y fraccionamientos que conforman la ciudad y las áreas rurales y poblados del Municipio de Pabellón de Arteaga, se sujetará la colocación de anuncios a la jerarquía de las vialidades que a continuación se detalla:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- En vialidades de tipo local:
 
@@ -14011,6 +14767,8 @@ Las dimensiones máximas del anuncio que deberán cumplirse son:
 
 - Espesor 0.14 cmts.
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- En vialidades colectoras:
 
 Se entenderá por vialidad colectora: aquellas calles y avenidas que se interceptan con las calles locales y que conducen el tránsito de una zona específica, debiendo estar conectadas con el sistema de vialidades secundarias.
@@ -14029,6 +14787,8 @@ Las dimensiones máximas permitidas que deberán respetarse son:
 
 - Espesor 0.14 cms.
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Las vialidades secundarias:
 
 Son todas aquellas arterias y avenidas que sirven como red vial para el movimiento del tránsito de paso de un área a otra dentro del ámbito urbano. Permite un enlace directo entre los generadores del tránsito primarios, zonas y centros comerciales, de negocios, centros de empleo principalmente. Estas vías de comunicación permiten el enlace de zonas habitacionales con vialidades de tipo primario.
@@ -14037,7 +14797,11 @@ En este tipo de vialidad secundaria se permiten los anuncios de tipo: Adosado, p
 
 El tipo de material permitido podrá ser: rotulación en muro, manta, acrílicos y luminosos.
 
-Las características permitidas varían de acuerdo a previo estudio que realice la Dirección de Planeación, Obras y Servicios Públicos, conforme a lo dispuesto por este Código y el Código Urbano.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+Las características permitidas varían de acuerdo a previo estudio que realice la Dirección de Obras Públicas y Desarrollo Urbano, conforme a lo dispuesto por este Código y el Código Urbano.
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Las vialidades de tipo primario:
 
@@ -14123,11 +14887,15 @@ VII.- Refrendar su calidad de Perito el mes de enero de cada año actualizando s
 
 Las funciones del Perito Responsable de Obra y en su caso del Perito Especializado, en aquellas obras para las que haya dado su responsiva profesional, terminarán:
 
-I.- Cuando ocurra cambio, suspensión, abandono o retiro del Perito Responsable de Obra y en su caso del Perito Especializado. En este caso se deberá levantar un acta asentado en detalle el avance de la obra hasta ese momento, la cual será suscrita por una persona designada por la Dirección de Planeación, Obras y Servicios Públicos Municipales, por el Perito Responsable y por el propietario de la obra; El cambio de Perito Responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Dirección de Planeación, Obras y Servicios Públicos Municipales ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo Perito;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Cuando ocurra cambio, suspensión, abandono o retiro del Perito Responsable de Obra y en su caso del Perito Especializado. En este caso se deberá levantar un acta asentado en detalle el avance de la obra hasta ese momento, la cual será suscrita por una persona designada por la Dirección de Obras Públicas y Desarrollo Urbano, por el Perito Responsable y por el propietario de la obra; El cambio de Perito Responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Dirección de Obras Públicas y Desarrollo Urbano ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo Perito;
 
 II.- Cuando no ha refrendado su calidad de Perito Responsable de Obra y en su caso del Perito Especializado. En este caso se suspenderán las obras en proceso de ejecución para las que haya dado responsiva profesional; y
 
-III.- Cuando la Dirección de Planeación, Obras y Servicios Públicos Municipales autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Cuando la Dirección de Obras Públicas y Desarrollo Urbano autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -14135,7 +14903,9 @@ III.- Cuando la Dirección de Planeación, Obras y Servicios Públicos Municipal
 
 Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres años de la terminación de la obra.
 
-Dentro del mismo lapso, la Dirección de Planeación, Obras y Servicios Públicos Municipales podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+Dentro del mismo lapso, la Dirección de Obras Públicas y Desarrollo Urbano podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -14293,17 +15063,25 @@ En estos casos, la proyección horizontal del vano libre del domo o tragaluz, po
 
 Se aceptará la ventilación cenital, siempre y cuando la superficie libre cumpla con el cinco por ciento del área del local.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1109.
 
 Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 I.- Todos los locales de un edificio deberá (sic) tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
 
-II.- El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II.- El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Los pasillos y los corredores no deberán tener salientes o tropezones que disminuya su anchura, a una altura inferior a dos metros cincuenta centímetros; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- La altura mínima de los barandales, cuando se requieran, será de noventa centímetros y se construirán de manera que impidan el paso de niños a través de ellos. En caso de edificios para habitación colectiva y escuelas de primera y segunda enseñanza, los barandales calados deberán ser solamente de elementos verticales, con excepción del pasamano, cuyo diseño impedirá que sirva de asiento.
 
@@ -14443,11 +15221,11 @@ Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales
 
 Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1125.
 
-Cuando se utilicen plafones a base de materiales que no sea a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Cuando se utilicen plafones a base de materiales que no sea (sic) a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -14585,7 +15363,9 @@ V.- De no existir servicio público de drenaje sanitario, las aguas negras deber
 
 VI.- Las tuberías de ramaleo interior, de la instalación sanitaria de las edificaciones, deberán tener como mínimo un diámetro de cincuenta y un milímetros si conducen exclusivamente aguas jabonosas y de setenta y seis milímetros como mínimo si conducen aguas pluviales y/o aguas negras.
 
-VII.- Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -14721,11 +15501,13 @@ En el proyecto de las viviendas, deberá tomarse en cuenta el crecimiento de és
 
 La vivienda progresiva deberá contar en un principio con un área mínima de 33 metros cuadrados.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1153.
 
-Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Planeación, Obras y Servicios Públicos Municipales, con el fin de que armonicen con el conjunto.
+Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Obras Públicas y Desarrollo Urbano, con el fin de que armonicen con el conjunto.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
 
@@ -15109,11 +15891,13 @@ Los estacionamientos deberán tener ventilación natural por medio de vanos con 
 
 En los estacionamientos de servicio privado no se exigirá que tengan carriles separados, áreas para recepción y entrega de vehículos, servicios sanitarios ni casetas de control.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1203.
 
-Los edificios e inmuebles destinados a estacionamientos de vehículos deberán contar, además de las protecciones señaladas en este Capítulo con recipientes con arena cuyo número, capacidad y colocación sean a juicio de la Dirección de Planeación, Obras y Servicios Públicos Municipales los necesarios para el control de incendios en los vehículos. Cada recipiente contará con un artefacto que posibilite la aplicación de la arena.
+Los edificios e inmuebles destinados a estacionamientos de vehículos deberán contar, además de las protecciones señaladas en este Capítulo con recipientes con arena cuyo número, capacidad y colocación sean a juicio de la Dirección de Obras Públicas y Desarrollo Urbano los necesarios para el control de incendios en los vehículos. Cada recipiente contará con un artefacto que posibilite la aplicación de la arena.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 No se permitirá el uso de materiales combustibles o inflamables en ninguna construcción o instalación de los estacionamientos.
 
@@ -15365,7 +16149,7 @@ II.- Boquillas de inyección para distribuir el agua tratada y de succión para 
 
 III.- Rejillas de succión distribuidas en la parte honda de la alberca, en número y dimensión necesarios para que la velocidad de salida del agua sea la adecuada para evitar accidentes a los nadadores;
 
-IV.- Andadores a las orillas de la alberca, con anchura mínima de un metro cincuenta centímetros. con (sic) superficie áspera o de materia antiderrapante, construidos de tal manera que se eviten los encharcamientos;
+IV.- Andadores a las orillas de la alberca, con anchura mínima de un metro cincuenta centímetros. con superficie áspera o de materia antiderrapante, construidos de tal manera que se eviten los encharcamientos;
 
 V.- Un escalón en muro perimetral de la zona profunda de la alberca de diez centímetros de ancho a una profundidad de un metro veinte centímetros con respecto a la superficie del agua de la alberca. La transición de profundidades se hará gradualmente;
 
@@ -15659,11 +16443,11 @@ II.- Para combinaciones de acciones que incluyan acciones permanentes, variables
 
 III.- Para acciones o fuerzas internas cuyo efecto sea favorable a la resistencia o a la estabilidad de la estructura, se aplicará un factor de carga igual a cero punto nueve; además, en estos casos se tomará como intensidad de la acción el valor mínimo probable de acuerdo con lo establecido en el ARTICULO correspondiente a intensidad de las acciones del capítulo de Acciones. Para la revisión de estados límite de servicio en las estructuras, se aplicará en todos los casos un factor de carga unitaria.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1270.
 
-Se podrán emplear criterios de diseño diferentes de los especificados en este Libro y en sus Normas Técnicas Complementarias Supletorias si se justifica, a satisfacción de la Dirección de Planeación, Obras y Servicios Públicos Municipales, que dichos criterios dan lugar a niveles de seguridad iguales o mayores que los establecidos en este Capítulo.
+Se podrán emplear criterios de diseño diferentes a los especificados en este Libro y en sus Normas Técnicas Complementarias Supletorias si se justifica, a satisfacción de la Dirección de Obras Públicas y Desarrollo Urbano, que dichos criterios dan lugar a niveles de seguridad iguales o mayores que los establecidos en este Capítulo.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16191,15 +16975,17 @@ I.- En las construcciones destinadas a Recreación, según la clasificación de 
 
 II.- Cuando no exista suficiente evidencia teórica o experimental para juzgar en forma confiable el grado de seguridad de la estructura de que se trate;
 
-III.- Cuando existan dudas a juicio de la Dirección de Planeación, Obras y Servicios Públicos Municipales en cuanto a la calidad y resistencia de los materiales de que se esté construida una estructura o en cuanto a los procedimientos constructivos empleados; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Cuando existan dudas a juicio de la Dirección de Obras Públicas y Desarrollo Urbano en cuanto a la calidad y resistencia de los materiales de que se esté construida una estructura o en cuanto a los procedimientos constructivos empleados; y
 
 IV.- En los casos previstos en el artículo de Obras Provisionales de este Libro.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1331.
 
-Con toda oportunidad se someterán a la aprobación de la Dirección de Planeación, Obras y Servicios Públicos Municipales, el procedimiento que se pretenda emplear en una prueba de carga así como el tipo de resultados que se esperan obtener, tales como deflexiones, vibraciones, agrietamientos, etc.
+Con toda oportunidad se someterán a la aprobación de la Dirección de Obras Públicas y Desarrollo Urbano, el procedimiento que se pretenda emplear en una prueba de carga así como el tipo de resultados que se esperan obtener, tales como deflexiones, vibraciones, agrietamientos, etc.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16247,11 +17033,11 @@ L = claro libre del elemento en metros si se tiene apoyo en ambos extremos o dos
 
 h = peralte total del elemento en las mismas unidades que L.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1337.
 
-En el caso de que los resultados de una prueba de carga no sean satisfactorios a criterio del Perito Responsable de Obra o de los Peritos Responsables de Obra según este Libro, se deberá presentar a la Dirección de Planeación, Obras y Servicios Públicos Municipales un nuevo estudio proponiendo las modificaciones pertinentes para efectuar una prueba de carga.
+En el caso de que los resultados de una prueba de carga no sean satisfactorios a criterio del Perito Responsable de Obra o de los Peritos Responsables de Obra según este Libro, se deberá presentar a la Dirección de Obras Públicas y Desarrollo Urbano un nuevo estudio proponiendo las modificaciones pertinentes para efectuar una prueba de carga.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16291,25 +17077,27 @@ Durante la ejecución de cualquier construcción, el Perito Responsable de Obra,
 
 Deberán usarse redes de seguridad o cinturones de seguridad con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1342.
 
-Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Planeación, Obras y Servicios Públicos Municipales. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la Dirección de Planeación, Obras y Servicios Públicos Municipales para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Obras Públicas y Desarrollo Urbano. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la Dirección de Obras Públicas y Desarrollo Urbano para cualquier aclaración, solicitud de modificación o ampliación de éstas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1343.
 
-El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Planeación, Obras y Servicios Públicos Municipales.
-
-El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
+El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
+El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 1344.
 
-Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Planeación, Obras y Servicios Públicos Municipales. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
+Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Obras Públicas y Desarrollo Urbano. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16373,11 +17161,11 @@ En las obras de construcción, deberán proporcionarse a los trabajadores servic
 
 La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y en los planos constructivos y deberán satisfacer las normas de calidad establecidas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1353.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
+La Dirección de Obras Públicas y Desarrollo Urbano exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16391,11 +17179,11 @@ El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que
 
 Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos, químicos o biológicos que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1356.
 
-Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Planeación, Obras y Servicios Públicos Municipales para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
+Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Obras Públicas y Desarrollo Urbano para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16403,13 +17191,15 @@ Cuando se proyecte utilizar en una construcción un material nuevo que no esté 
 
 Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados.
 
-Para los efectos de este artículo, deberá presentarse ante la Dirección de Planeación, Obras y Servicios Públicos Municipales la autorización por escrito del propietario del predio en cuestión.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Para los efectos de este artículo, deberá presentarse ante la Dirección de Obras Públicas y Desarrollo Urbano la autorización por escrito del propietario del predio en cuestión.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1358.
 
-Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Planeación, Obras y Servicios Públicos Municipales, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Obras Públicas y Desarrollo Urbano, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16429,11 +17219,11 @@ Los propietarios estarán obligados a reponer por su cuenta las banquetas y guar
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella, se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1362.
 
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16463,13 +17253,17 @@ II.- De marquesinas; cuando los trabajos se ejecuten a más de diez metros de al
 
 III.- Fijos: En las obras que se ejecuten en un predio a una distancia menor de diez metros de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una faja anexa hasta de cincuenta centímetros sobre la banqueta. Previa solicitud, podrá concederse mayor superficie de ocupación de banqueta; y
 
-IV.- De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquellas en que la invasión de la acera lo amerite, la Dirección de Planeación, Obras y Servicios Públicos Municipales podrá exigir, que se construya un paso cubierto, además del tapial.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+IV.- De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquellas en que la invasión de la acera lo amerite, la Dirección de Obras Públicas y Desarrollo Urbano podrá exigir, que se construya un paso cubierto, además del tapial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1366.
 
-Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de la señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Planeación, Obras y Servicios Públicos Municipales su traslado provisional a otro lugar.
+Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de la (sic) señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Obras Públicas y Desarrollo Urbano su traslado provisional a otro lugar.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
 
@@ -16493,7 +17287,7 @@ Los rótulos o anuncios sobre los tapiales se sujetarán a las disposiciones del
 
 ### CAPITULO QUINTO. De las Mediciones y Trazos
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1369.
 
@@ -16513,13 +17307,13 @@ Durante el proceso de demolición se tomarán las precauciones necesarias para e
 
 Los trabajadores deberán efectuar los trabajos de demolición usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro que sea necesario de acuerdo con el tipo de demolición.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1372.
 
-Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Planeación, Obras y Servicios Públicos Municipales podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
+Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Obras Públicas y Desarrollo Urbano podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
 
-La autorización que la Dirección de Planeación, Obras y Servicios Públicos Municipales otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+La autorización que la Dirección de Obras Públicas y Desarrollo Urbano otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16527,13 +17321,15 @@ La autorización que la Dirección de Planeación, Obras y Servicios Públicos M
 
 Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+La Dirección de Obras Públicas y Desarrollo Urbano señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.,
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1374.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
+La Dirección de Obras Públicas y Desarrollo Urbano podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16543,7 +17339,7 @@ La Dirección de Planeación, Obras y Servicios Públicos Municipales podrá ord
 
 ###### ARTICULO 1375.
 
-En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el Perito Responsable de Obra considere necesario o la Dirección de Planeación, Obras y Servicios Públicos Municipales lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
+En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el Perito Responsable de Obra considere necesario o la Dirección de Obras Públicas y Desarrollo Urbano lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16557,11 +17353,11 @@ En los planos de cimentación se deberán indicar si se requiere el registro de 
 
 Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1378.
 
-Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Planeación, Obras y Servicios Públicos Municipales. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
+Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Obras Públicas y Desarrollo Urbano. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16587,11 +17383,11 @@ Si en el proceso de una excavación se encuentran restos fósiles o arqueológic
 
 Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de Mecánica de Suelos particular para cada caso.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1382.
 
-Previa autorización de la Dirección de Planeación, Obras y Servicios Públicos Municipales, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
+Previa autorización de la Dirección de Obras Públicas y Desarrollo Urbano, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16785,11 +17581,11 @@ La ejecución de las estructuras de madera deberá ajustarse a las especificacio
 
 Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1408.
 
-Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16943,7 +17739,9 @@ Los elementos de concreto simple, reforzado o presforzado que se encuentren expu
 
 Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias.
 
-Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Planeación, Obras y Servicios Públicos Municipales.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Obras Públicas y Desarrollo Urbano.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16951,7 +17749,9 @@ Los materiales que se utilicen en la construcción de estructuras metálicas deb
 
 En el montaje de las estructuras se observará lo siguiente:
 
-I.- El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas; Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección General de Seguridad Pública y Vialidad Municipal y notificar a la Dirección de Planeación, Obras y Servicios Públicos Municipales;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas; Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección General de Seguridad Pública y Vialidad Municipal y notificar a la Dirección de Obras Públicas y Desarrollo Urbano;
 
 II.- Anclajes.- Antes de iniciar la colocación de la estructura, el Perito Responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
@@ -17155,23 +17955,29 @@ V.- Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruid
 
 VI.- Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1451.
 
-La Dirección de Planeación, Obras y Servicios Públicos Municipales podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia.
+La Dirección de Obras Públicas y Desarrollo Urbano podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia.
 
-En construcciones ya ejecutadas, la Dirección de Planeación, Obras y Servicios Públicos Municipales podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+En construcciones ya ejecutadas, la Dirección de Obras Públicas y Desarrollo Urbano podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1452.
 
-Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece en artículo anterior, la Dirección de Planeación, Obras y Servicios Públicos Municipales ordenará, con base en dictamen técnico lo siguiente:
+Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece en (sic) artículo anterior, la Dirección de Obras Públicas y Desarrollo Urbano ordenará, con base en dictamen técnico lo siguiente:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- La restitución de inmediato al uso aprobado, si esto puede hacerse sin la necesidad de ejecutar obras; y
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sean necesarios para el correcto funcionamiento del inmueble y restitución al uso aprobado, dentro del plazo que para ello se señale.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 Lo anterior independientemente de las sanciones a que se haga acreedor conforme a este Libro.
 
@@ -17301,7 +18107,9 @@ V.- Mencionar el giro específico, respecto del cual solicita la licencia;
 
 VI.- Tratándose de puestos fijos o semifijos establecidos en la vía pública, se requiere el permiso expreso para ocupar la vía pública, con la determinación exacta del lugar autorizado; y
 
-VII.- Acompañar constancia expedida por la Dirección de Planeación, Obras y Servicios Públicos Municipales en la que señale la procedencia del uso del suelo y que no se afecta el equilibrio ecológico o el medio ambiente con la operación del negocio.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Acompañar constancia expedida por la Dirección de Obras Públicas y Desarrollo Urbano en la que señale la procedencia del uso del suelo y que no se afecta el equilibrio ecológico o el medio ambiente con la operación del negocio.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17473,7 +18281,9 @@ Todos los comerciantes, ya sean permanentes o temporales así como los industria
 
 Para obtener el empadronamiento se requiere:
 
-I.- Presentar una solicitud en las formas aprobadas por la Tesorería Municipal, debiéndose asentar en ella de manera verídica los datos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Presentar una solicitud en las formas aprobadas por la Dirección de Finanzas y Administración, debiéndose asentar en ella de manera verídica los datos siguientes:
 
 a) Nombre del contribuyente o razón social;
 
@@ -17483,7 +18293,9 @@ c) Fecha de iniciación de las operaciones.
 
 II.- Tendrán preferencia para obtener el empadronamiento los vecinos de este municipio; y
 
-III.- Una vez autorizado el respectivo empadronamiento deberán liquidar los derechos establecidos en la ley de ingresos del municipio a la Dirección de Administración y Finanzas.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Una vez autorizado el respectivo empadronamiento deberán liquidar los derechos establecidos en la ley de ingresos del municipio a la Dirección de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19125,7 +19937,7 @@ En punto de la hora anunciada para el inicio del festejo en los programas, el Ju
 
 ###### ARTICULO 1637.
 
-Al salir la res del toril, no deberá haber subalterno alguno en el ruedo, ni se (sic) llamará su atención, hasta que se haya “enterado”. Queda prohibido hacerla rematar en tablas. Cuando un diestro se vea precisado a saltar la barrera o a ocultarse en el burladero, procurará hacer desaparecer el engaño con toda rapidez, impidiendo en todo momento que el animal se estrelle contra el burladero o la barrera.
+Al salir la res del toril, no deberá haber subalterno alguno en el ruedo, ni se llamará su atención, hasta que se haya “enterado”. Queda prohibido hacerla rematar en tablas. Cuando un diestro se vea precisado a saltar la barrera o a ocultarse en el burladero, procurará hacer desaparecer el engaño con toda rapidez, impidiendo en todo momento que el animal se estrelle contra el burladero o la barrera.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19393,7 +20205,7 @@ A ninguna persona le será permitido sacar el estoque, ahondarlo y herir o moles
 
 ###### ARTICULO 1674.
 
-Previo permiso del Juez de Plaza, podrá obsequiarse una o más reses, las que siempre deberán ser de las reservas de este festejo. Si éstas han salido, sólo se permitirá la lidia de las que llenen los requisitos de este Código, jugándose al final de la lidia ordinaria y respetándose en su lidia los ARTICULOs (sic) respectivos del mismo.
+Previo permiso del Juez de Plaza, podrá obsequiarse una o más reses, las que siempre deberán ser de las reservas de este festejo. Si éstas han salido, sólo se permitirá la lidia de las que llenen los requisitos de este Código, jugándose al final de la lidia ordinaria y respetándose en su lidia los ARTICULOs respectivos del mismo.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20345,7 +21157,7 @@ La violación de los artículos relativos a la celebración de actos mediante au
 
 ###### ARTICULO 1779.
 
-Para la organización del ( sic) la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, el Patronato designará los coordinadores que crea pertinente entre los cuales se considerarán los siguientes:
+Para la organización del (sic) la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, el Patronato designará los coordinadores que crea pertinente entre los cuales se considerarán los siguientes:
 
 I.- Coordinador de promoción, difusión y relaciones públicas;
 
@@ -20903,11 +21715,11 @@ Los inspectores o verificadores deberán evitar en todo momento el hostigamiento
 
 Del acta de inspección se dará vista al funcionario que la ordenó, quien determinará la posible comisión de una falta administrativa e iniciará en su caso el procedimiento para la imposición de sanciones o medidas de seguridad.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1847.
 
-En el Municipio de Pabellón de Arteaga existirá un cuerpo de Jueces Calificadores de Seguridad Pública y Vialidad, que dependerá de la Secretaría del H. ayuntamiento, a efecto de llevar a cabo el procedimiento para la imposición de sanciones por faltas cívicas y de vialidad.
+En el Municipio de Pabellón de Arteaga existirá un cuerpo de Jueces Calificadores de Seguridad Pública y Vialidad, que dependerá de la Dirección Jurídica, a efecto de llevar a cabo el procedimiento para la imposición de sanciones por faltas cívicas y de vialidad.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21539,7 +22351,9 @@ Al infractor se le notificará que cuenta con el término de treinta días natur
 
 En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá como abandonadas y se procederá, por conducto del Juez calificador a su donación y entrega del Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
 
-Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Secretaría de Finanzas del Municipio de Pabellón de Arteaga. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Dirección de Finanzas y Administración del Municipio de Pabellón de Arteaga. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
 
 > <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21969,11 +22783,11 @@ En caso de la comisión de una falta no flagrante, que sea denunciada ante el Ju
 
 Cuando una persona resulte responsable de dos o más violaciones a las disposiciones del presente Código, se le aplicarán las sanciones que correspondan a cada violación.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1948.
 
-Cuando la imposición de la sanción o medidas de seguridad implique el pago de una cantidad, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico-coactivo, remitiéndole copia de la resolución a la Dirección (sic) Finanzas y Administración para hacerla efectiva.
+Cuando la imposición de la sanción o medidas de seguridad implique el pago de una cantidad, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico-coactivo, remitiéndole copia de la resolución a la Dirección de Finanzas y Administración para hacerla efectiva.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22023,11 +22837,11 @@ Si la resolución determina procedente la cancelación y una vez que haya causad
 
 En caso de que haya existido la clausura como medida de seguridad, adquirirá en la resolución el carácter de definitiva.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1957.
 
-Si existiere una condena en cantidad líquida, se enviará copia de la resolución a la Secretaría de Finanzas, para que proceda hacerla efectiva a través del procedimiento económico coactivo.
+Si existiere una condena en cantidad líquida, se enviará copia de la resolución a la Dirección de Finanzas y Administración, para que proceda hacerla efectiva a través del procedimiento económico coactivo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22227,11 +23041,11 @@ Si a consideración del Juez el menor se encontrara en situación de riesgo, lo 
 
 Si después de iniciada la audiencia, el probable infractor acepta la responsabilidad en la comisión de la infracción imputada tal y como se le atribuye, el Juez dictará de inmediato su resolución e impondrá la menor de las sanciones para la infracción de que se trate, excepto en los casos previstos en los artículos 199, 1992 y 1993. Si el probable infractor no acepta los cargos, se continuará el procedimiento.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1981.
 
-El Juez determinará la sanción aplicable en cada caso concreto, tomando en cuenta la naturaleza y las consecuencias individuales y sociales de la infracción, las condiciones en que ésta se hubiere cometido y las circunstancias personales del infractor, pudiendo solicitar a la Secretaría del H. Ayuntamiento la condonación de la sanción, en los casos en que las especiales circunstancias físicas, psicológicas, económicas y, en general, personales del infractor lo ameriten, de acuerdo a su consideración y a petición expresa del mismo o de persona de su confianza.
+El Juez determinará la sanción aplicable en cada caso concreto, tomando en cuenta la naturaleza y las consecuencias individuales y sociales de la infracción, las condiciones en que ésta se hubiere cometido y las circunstancias personales del infractor, pudiendo solicitar a la Dirección Jurídica la condonación de la sanción, en los casos en que las especiales circunstancias físicas, psicológicas, económicas y, en general, personales del infractor lo ameriten, de acuerdo a su consideración y a petición expresa del mismo o de persona de su confianza.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22521,27 +23335,33 @@ V.- Cuando no cuente con la respectiva licencia de construcción, o la obra no s
 
 VI.- Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 2014.
 
-En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Código y las demás disposiciones legales aplicables, la Dirección de Planeación, Obras y Servicios Públicos, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Código y las demás disposiciones legales aplicables, la Dirección de Obras Públicas y Desarrollo Urbano, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 2015.
 
-Si el propietario o poseedor del predio en el que la Dirección de Planeación, Obras y Servicios Públicos Municipales se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Tesorería Municipal efectuará su cobro por medio del procedimiento económico coactivo.
+Si el propietario o poseedor del predio en el que la Dirección de Obras Públicas y Desarrollo Urbano se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Tesorería Municipal efectuará su cobro por medio del procedimiento económico coactivo.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 2016.
 
-Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección de Planeación, Obras y Servicios Públicos podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
+Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección de Obras Públicas y Desarrollo Urbano podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Cuando la obra se haya ejecutado sin licencia;
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Cuando la obra se haya ejecutado alterando el proyecto aprobado fuera de los límites de tolerancia o sin sujetarse a lo previsto por este Libro; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Cuando se use una construcción o parte de ella para un uso diferente del autorizado.
 
@@ -22587,11 +23407,17 @@ c) Por la falta de placa del perito responsable.
 
 II.- Grupo Dos:
 
-a) Por tener escombro en la vía pública sin el permiso correspondiente de la Dirección de Planeación, Obras y Servicios Públicos;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-b) Por tirar escombro en los lugares no autorizados por la Dirección de Planeación, Obras y Servicios Públicos;
+a) Por tener escombro en la vía pública sin el permiso correspondiente de la Dirección de Obras Públicas y Desarrollo Urbano;
 
-c) Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas o sin el permiso de la Dirección de Planeación, Obras y Servicios Públicos;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+b) Por tirar escombro en los lugares no autorizados por la Dirección de Obras Públicas y Desarrollo Urbano;
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+c) Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas ó sin el permiso de la Dirección de Obras Públicas y Desarrollo Urbano;
 
 d) Por falta de visitas a la obra y firma de bitácora correspondiente, por parte del perito responsable;
 
@@ -22631,17 +23457,25 @@ Las infracciones especificadas en el artículo anterior serán aplicables indist
 
 Para toda violación a las normas y disposiciones municipales en materia de construcciones, no especificadas de manera expresa en el presente capítulo, se aplicará una Multa de cinco a cien veces el salario mínimo independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 2023.
 
-La Dirección de Planeación, Obras y Servicios Públicos podrá revocar la licencia de construcción cuando:
+La Dirección de Obras Públicas y Desarrollo Urbano podrá revocar la licencia de construcción cuando:
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Se hayan dictado con base en informes o documentos falsos o erróneos o emitidos con dolo o error, una vez comprobado lo anterior;
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Se hayan dictado en contravención al texto expreso de alguna disposición de este Libro;
 
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Se hayan emitido por Autoridad incompetente, y acatando disposición judicial en ese sentido; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- La revocación de Licencia será pronunciada por la Autoridad que haya emitido el acto o resolución de que se trate o en su caso, por el superior jerárquico de dicha Autoridad.
 
@@ -22665,7 +23499,7 @@ II.- Multa de DIEZ DÍAS DE SALARIO MÍNIMO POR:
 
 a) Permitir que en el interior de sus establecimientos comerciales y de servicios se fijen leyendas, anuncios impresos o propaganda que sean atentatorias a la moral o a las buenas costumbres;
 
-b) Permitir el consumo de bebidas alcohólicas dentro del establecimiento, tratándose de abarrotes o misceláneas; y (sic)
+b) Permitir el consumo de bebidas alcohólicas dentro del establecimiento, tratándose de abarrotes o misceláneas; y
 
 c) No tener a la vista del público las tarifas de precios de los servicios que se proporcionen.
 
@@ -22809,7 +23643,7 @@ V.- Sanción de SUSPENSION DE EVENTO O ESPECTACULO POR:
 
 a) Por no contar con el permiso correspondiente de la autoridad municipal;
 
-b) Por alteración del orden que ponga en peligro la seguridad de los asistente; y (sic)
+b) Por alteración del orden que ponga en peligro la seguridad de los asistente; y
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
 
@@ -23428,3 +24262,15 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
