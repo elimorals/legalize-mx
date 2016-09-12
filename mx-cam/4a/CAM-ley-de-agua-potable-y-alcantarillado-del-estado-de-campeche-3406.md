@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-agua-potable-y-alcantarillado-del-estado-de-campeche-340
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-21"
-last_updated: "2012-12-13"
+last_updated: "2016-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 1992.
 
@@ -59,7 +59,17 @@ III. La organización y funcionamiento de los organismos operadores del Sistema 
 
 IV. La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento del Sistema de Agua Potable y Alcantarillado; y
 
-V. El servicio al público de conducción, suministro, potabilización, distribución o transporte de agua que presten particulares.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V. El funcionamiento y atribuciones de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI. El servicio al público de conducción, suministro, potabilización, distribución o transporte de agua que presten particulares.
 
 ###### ARTICULO 3.
 
@@ -241,7 +251,7 @@ II. Constituir personas morales a las que se pudiera otorgar en concesión o con
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 15 bis.- El Estado y los Municipios, en el ámbito de sus respectivas competencias, con el objeto de promover el cuidado y uso racional del agua, llevarán a cabo las siguientes acciones:
+ARTICULO 15 BIS.- El Estado y los Municipios, en el ámbito de sus respectivas competencias, con el objeto de promover el cuidado y uso racional del agua, llevarán a cabo las siguientes acciones:
 
 l. Difundir mediante programas los costos y beneficios socioeconómicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua;
 
@@ -613,13 +623,21 @@ Lo dispuesto en este Capítulo será independiente de que el Congreso del Estado
 
 ### CAPITULO III. Comisión de Agua Potable y Alcantarillado del Estado de Campeche
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 40.
 
-Se crea la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, y con domicilio en la Capital del Estado.
+Se crea la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, identificado también con el acrónimo "CAPAE", como un organismo público descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propios, para el cumplimiento de sus atribuciones, objetivos y fines, sectorizado a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura, que tendrá su sede en la capital del Estado, sin perjuicio de establecer oficinas en los municipios de la Entidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 41.
 
-La Comisión de Agua Potable y Alcantarillado tiene por objeto:
+La Comisión de Agua Potable y Alcantarillado del Estado de Campeche tiene por objeto:
 
 I. Intervenir en la planeación y presupuestación del sector hidráulico estatal;
 
@@ -713,57 +731,113 @@ Los bienes de la Comisión, afectados directamente en la prestación del servici
 
 Los bienes muebles del organismo destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 44.
 
-La Comisión de Agua Potable y Alcantarillado del Estado de Campeche contará con:
+La administración de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche estará a cargo de:
 
-I. Una Junta de Gobierno;
+I. La Junta de Gobierno; y
 
-II. Un Consejo Consultivo;
+II. Del Director General.
 
-III. Un Director General; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV. Un Comisario publico.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 44 BIS.- La Junta de Gobierno de la Comisión tendrá las siguientes atribuciones:
+
+I. Suscribir convenios de coordinación o concertación con autoridades de los tres niveles de gobierno, instituciones privadas y sociales y organismos internacionales que no sean facultad exclusiva del gobernador del Estado, para el impulso de programas y acciones que busquen el mejoramiento de los servicios de agua potable y alcantarillado en la Entidad;
+
+II. Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la Comisión;
+
+III. Aprobar los planes, programas y presupuestos de la Comisión, así como sus modificaciones;
+
+IV. Expedir y modificar el Reglamento Interior de la Comisión, así como los manuales de organización, procedimientos y servicios;
+
+V. Aprobar anualmente, los estados financieros de la Comisión y autorizar la publicación de los mismos;
+
+VI. Aprobar las políticas y programas generales que regulen los convenios, contratos o acuerdos, que deba celebrar la Comisión con terceros, en obras públicas, adquisiciones, arrendamiento y prestación de servicios relacionados con bienes muebles e inmuebles;
+
+VII. Autorizar la creación de Comités de Apoyo;
+
+VIII. Establecer, con sujeción a las disposiciones legales, las normas y bases necesarias para la adquisición, arrendamiento y enajenación de inmuebles que la Comisión requiera, con excepción de aquellos de su propiedad, en términos de lo que disponga la Ley de Bienes del Estado de Campeche y sus Municipios;
+
+IX. Designar y remover, a propuesta del Director General, a los servidores públicos de primer nivel, así como concederles licencia;
+
+X. Cumplir y hacer cumplir las disposiciones contenidas en este ordenamiento; y
+
+XI. Las demás que señale este ordenamiento, su Reglamento Interior y demás disposiciones aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 45.
 
-La Junta de Gobierno se integra por los siguientes miembros:
+La Junta de Gobierno es el órgano superior de gobierno y administración de la Comisión y se integrará por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+I. Un presidente, que lo será el Secretario de Desarrollo Urbano, Obras Públicas e Infraestructura; y
 
-II. Cuatro representantes designados por el Ejecutivo del Estado;
+II. Cinco vocales que serán:
 
-III. Dos representantes de los organismos operadores municipales o intermunicipales, que serán designados democráticamente por ellos mismos, y que serán los presidentes de sus respectivas Juntas de Gobierno;
+a) El Secretario de Finanzas;
 
-IV. Dos representantes, en su caso, de los Ayuntamientos de los municipios en los que preste la Comisión directamente los servicios de agua potable y alcantarillado;
+b) El Secretario de la Contraloría;
 
-V. Un representante de la Comisión Nacional del Agua; y
+c) El Secretario de Desarrollo Económico;
 
-VI. El Presidente y el Vicepresidente del Consejo Consultivo de la Comisión.
+d) El Secretario de Salud; y
 
-Los representantes a que se refieren las fracciones III y IV serán designados en la forma y por el período que se señale en el Reglamento Interior de la Comisión.
+e) El Secretario de Desarrollo Social y Humano
 
-Por cada representante propietario se designará al respectivo suplente.
+Por cada miembro de la Junta, con excepción del Presidente, habrá un suplente designado por el propietario.
 
-Se podrán invitar a formar parte de la Junta a representantes de las Dependencias Federales, Estatales o Municipales, cuando se trate de algún asunto que por su competencia o jurisdicción, deban de participar, así como a representantes de los usuarios que formen parte del Consejo Consultivo.
+El cargo de miembro de la Junta de Gobierno será honorífico, por lo que no dará derecho a la percepción de alguna retribución en numerario o en especie por su desempeño.
+
+La Junta sesionará de forma ordinaria cuando menos una vez cada trimestre y de forma extraordinaria cuantas veces sea necesario.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 45 BIS.- Para que las sesiones de la Junta tengan validez, se requerirá la presencia de la mitad más uno de los integrantes y los acuerdos se tomarán por mayoría de votos. En caso de empate el presidente tendrá voto de calidad.
+
+La Junta por conducto de su presidente, podrá invitar a las sesiones que al efecto se celebren a autoridades del ámbito federal, estatal o municipal que guarden relación con el objeto de la Comisión, quienes únicamente tendrán derecho a voz.
+
+El Reglamento Interior de la Comisión establecerá las disposiciones necesarias para que se lleven a cabo las sesiones de la Junta de Gobierno, además de las bases de organización, así como las atribuciones de las distintas unidades administrativas que integran el organismo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 46.
 
-La Junta de Gobierno y el Director General tendrán a su cargo, en lo conducente, las atribuciones que se señalen respectivamente en los artículos 26 y 31 de esta Ley.
+El Director General será designado por el Gobernador del Estado o, a indicación de éste, por el titular de la dependencia coordinadora de sector, debiendo reunir al momento de su nombramiento los siguientes requisitos:
 
-El Presidente de la Junta nombrará y removerá al Director General de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche.
+I. Ser ciudadano mexicano, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-El Comisario publico se designará por el Ejecutivo del Estado de Campeche.
+II. Haber desempeñado cargos de alto nivel decisorios, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y
 
-El Consejo Consultivo se integrará a nivel estatal con los representantes de los sectores social y privado de los usuarios de los servicios de agua potable y alcantarillado en el Estado. En su integración y funcionamiento se aplicará en lo conducente lo dispuesto en los artículos 29 y 30 de la presente ley, así como lo que señale al efecto el Reglamento Interior de la Comisión.
+III. No encontrarse en alguno de los casos de impedimento que para ser miembro de la junta de gobierno señalan las fracciones II, III y IV del artículo 19 de la Ley de la Administración Pública Paraestatal del Estado de Campeche.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 47.
 
-Las relaciones laborales de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, se regirán por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes, Municipio e Instituciones Descentralizadas del Estado de Campeche.
+La Comisión de Agua Potable y Alcantarillado del Estado de Campeche estará integrada también por un comisario público propietario y un suplente, ambos designados por la Secretaría de Contraloría de conformidad con lo dispuesto por la Ley de la Administración Pública Paraestatal del Estado de Campeche, además del órgano interno de control previsto por la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 48.
 
-En lo no previsto en este capítulo, se aplicara en lo conducente, lo dispuesto en los capítulos anteriores del presente Título.
+Las relaciones laborales de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, se regirán por las disposiciones establecidas en la Ley Federal del Trabajo.
 
 ## TITULO TERCERO. PARTICIPACION DEL SECTOR PRIVADO Y SOCIAL EN EL SERVICIO PUBLICO DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE
 
@@ -1450,3 +1524,13 @@ P.O. 13 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 77 POR EL QUE SE "REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 2 Y SE REFORMAN LOS ARTÍCULOS 40, 41, 44, 45, 46, 47 Y 48 TODOS DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE" Y "SE ADICIONAN LOS ARTÍCULOS 44 BIS Y 45 BIS A LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Junta de Gobierno de la Comisión de Agua Potable y Alcantarillado del Estado de Campeche, deberá celebrar su sesión de instalación dentro de los noventa días naturales siguientes a la fecha de entrada en vigor del presente decreto.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
