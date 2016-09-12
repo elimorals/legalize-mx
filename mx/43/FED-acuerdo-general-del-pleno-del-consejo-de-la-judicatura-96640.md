@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-08-31"
+last_updated: "2016-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,21 +19,15 @@ issue_date: "2013-11-12"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE REGLAMENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 31 DE AGOSTO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
-
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.]</small>
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, PUBLICADO EN EL D.O.F. DE 11 DE MARZO DE 2016, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA AL SISTEMA BIOMÉTRICO DE REGISTRO DE ASISTENCIA DE PROCESADOS EN LIBERTAD PROVISIONAL (SIBAP), SE ENTENDERÁN HECHAS AL SISE CONTROL BIOMÉTRICO (SISE CB).]</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES.
 
@@ -109,9 +103,11 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Reglamento conjunto de transparencia: Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo y demás que sean autorizadas por el Pleno.
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones, direcciones generales, Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, así como la Unidad de Transparencia, la Dirección para el Trámite de Solicitudes de Acceso a la Información, el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -277,9 +273,11 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales y personal subalterno del Pleno.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales, Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -305,13 +303,17 @@ XVI. Suscribir los nombramientos de los servidores públicos comprendidos en los
 
 XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVIII. Definir, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las directrices de los programas en dichas materias;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+XVIII. Definir, por conducto de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las directrices de los programas en dichas materias;
 
-XIX. Determinar, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las acciones del Consejo en dichas materias; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Determinar, por conducto de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las acciones del Consejo en dichas materias; y
 
 XX. Las demás que establezca el Pleno mediante acuerdos generales.
 
@@ -331,9 +333,11 @@ III. Dirección General de Asuntos Jurídicos;
 
 IV. Dirección General de Comunicación Social;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V. Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V. Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
 
 VI. Dirección General de la Presidencia; y
 
@@ -1207,9 +1211,11 @@ Las ausencias temporales o definitivas de los titulares de áreas administrativa
 
 I. Las de los secretarios ejecutivos por cualquier otro servidor público que designe la Comisión respectiva, o el Pleno cuando la ausencia sea mayor a quince días; y
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. La del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, de los titulares de los órganos auxiliares y de las coordinaciones, así como de los directores generales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II. La del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, de los titulares de los órganos auxiliares y de las coordinaciones, así como de los directores generales y del Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
 
 En los casos de ausencias que ameriten la suplencia, es obligación de los titulares de las áreas administrativas dar aviso al Pleno, al Presidente o a la Comisión respectiva, según corresponda, a efecto de que se haga la designación correspondiente.
 
@@ -2107,6 +2113,10 @@ XII. Las demás que le confieran el Pleno y las Comisiones.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 99.
 
 Para el ejercicio de sus funciones, el Consejo contará con los órganos auxiliares determinados en el artículo 88 de la Ley y demás disposiciones legales aplicables, a fin de propiciar una organización administrativa que permita el tratamiento especializado y eficaz de los asuntos de su competencia. Dichos órganos contarán con la estructura y personal determinado por el Pleno y el presupuesto asignado.
@@ -2623,7 +2633,11 @@ El Visitador General y los visitadores no son recusables, pero de existir algún
 
 La calificación del impedimento del Visitador General o de los visitadores judiciales "A" será competencia de la Comisión de Disciplina; la calificación del impedimento de los visitadores judiciales "B" corresponderá al Visitador General. En todo caso, la calificación será de plano, admitiéndola o desechándola, dentro del plazo de tres días, si se trata de visita ordinaria, y de inmediato, en caso de extraordinaria.
 
-### CAPÍTULO NOVENO. DE LAS DIRECCIONES GENERALES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO NOVENO. DE LAS DIRECCIONES GENERALES Y LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES
 
 #### SECCIÓN PRIMERA. DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO
 
@@ -2631,15 +2645,23 @@ La calificación del impedimento del Visitador General o de los visitadores judi
 
 ###### Artículo 140.
 
-Para el adecuado y eficaz funcionamiento del Consejo existirán direcciones generales, a fin de ejecutar las funciones administrativas, de control, informáticas y todas aquellas que determine el Pleno.
+Para el adecuado y eficaz funcionamiento del Consejo existirán direcciones generales y una Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a fin de ejecutar las funciones administrativas, de control, informáticas y todas aquellas que determine el Pleno.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 141.
 
-Las direcciones generales tendrán como titular a un director general, quien asumirá la dirección técnica y administrativa y será el responsable ante las autoridades superiores de su correcto funcionamiento. Los titulares serán auxiliados por los servidores públicos que se requieran y fije el presupuesto.
+Las direcciones generales tendrán como titular a un director general, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, un coordinador, quienes asumirán la dirección técnica y administrativa y serán los responsables ante las autoridades superiores de su correcto funcionamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 142.
 
-Para ser Director General se requiere:
+Para ser Director General y Coordinador de Derechos Humanos, Igualdad de Género y Asuntos Internacionales se requiere:
 
 I. Ser de nacionalidad mexicana;
 
@@ -2653,23 +2675,37 @@ V. Gozar de buena reputación; y
 
 VI. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 143.
 
-Corresponde a los titulares de las direcciones generales las siguientes atribuciones:
+Corresponde a los titulares de las direcciones generales y de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, las siguientes atribuciones:
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 I. Ejecutar, en el ámbito de su competencia, los acuerdos del Pleno, de las Comisiones, del Presidente, o de su superior jerárquico;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Formular el Programa Anual de trabajo de la Dirección General a su cargo y someterlo a la consideración de su superior jerárquico;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+II. Formular el Programa Anual de trabajo de la unidad administrativa a su cargo y someterlo a la consideración de su superior jerárquico;
 
 III. Participar, en el ámbito de su competencia, en la elaboración del Anteproyecto de Presupuesto del Poder Judicial de la Federación, en términos de las disposiciones aplicables;
 
-IV. Ejercer el presupuesto asignado a la Dirección General a su cargo, conforme a las normas establecidas por el Consejo, así como llevar el control respectivo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V. Planear, programar, organizar, dirigir y evaluar el desarrollo de los programas y actividades encomendadas a las áreas que integran la Dirección General a su cargo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Ejercer el presupuesto asignado a la unidad administrativa a su cargo, conforme a las normas establecidas por el Consejo, así como llevar el control respectivo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V. Planear, programar, organizar, dirigir y evaluar el desarrollo de los programas y actividades encomendadas a las áreas que integran la unidad administrativa a su cargo;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -2683,11 +2719,17 @@ VIII. Proponer al superior jerárquico, para autorización, los nombramientos de
 
 IX. Previo acuerdo con su superior jerárquico, plantear al Instituto de la Judicatura, las necesidades de capacitación para el personal a su cargo;
 
-X. Coordinar con los titulares de las otras direcciones generales, cuando así se requiera, las acciones para el desarrollo de las atribuciones que les correspondan;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Formular y presentar a su superior jerárquico, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la Dirección General a su cargo, acuerdos generales, normas, reglas, bases generales, lineamientos y políticas relacionadas con las atribuciones de su unidad administrativa;
+X. Coordinar con los titulares de las otras unidades administrativas, cuando así se requiera, las acciones para el desarrollo de las atribuciones que les correspondan;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Formular y presentar a su superior jerárquico, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la unidad administrativa a su cargo, acuerdos generales, normas, reglas, bases generales, lineamientos y políticas relacionadas con las atribuciones de dicha unidad;
 
 XII. Participar en los comités, comisiones, representaciones y suplencias que le sean asignados;
 
@@ -2695,15 +2737,25 @@ XIII. Participar, cuando sea requerido, en los eventos que promueva el Consejo;
 
 XIV. Presentar al superior jerárquico, el Informe Anual de Labores correspondiente a su cargo;
 
-XV. Registrar y controlar los bienes asignados a la Dirección General a su cargo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Registrar y controlar los bienes asignados a la unidad administrativa a su cargo;
 
 XVI. Proporcionar información, datos; asesoría o cooperación técnica que les sean requeridos por las áreas administrativas;
 
-XVII. Certificar los documentos que obren en los archivos de la Dirección General a su cargo, que sean expedidos en el ejercicio de sus funciones. La atribución de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrán delegar de conformidad con lo previsto en la fracción XIV del artículo 68 de este Acuerdo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XVIII. Rendir, a través del superior jerárquico, los informes a que estén obligados, los cuales deberán ser firmados por ambos titulares, salvo las direcciones generales dependientes del Presidente, las cuales rendirán los informes respectivos directamente al mismo;
+XVII. Certificar los documentos que obren en los archivos de la unidad administrativa a su cargo, que sean expedidos en el ejercicio de sus funciones. La atribución de certificar documentos relacionados con la competencia y atribuciones de la unidad a su cargo, la podrán delegar de conformidad con lo previsto en la fracción XIV del artículo 68 de este Acuerdo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Rendir, a través del superior jerárquico, los informes a que estén obligados, los cuales deberán ser firmados por ambos titulares, salvo las unidades administrativas dependientes del Presidente, las cuales rendirán los informes respectivos directamente al mismo;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3225,17 +3277,21 @@ XXII. Vigilar el cumplimiento de los lineamientos de identidad institucional del
 
 XXIII. Las demás que establezca el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 163.
 
-La Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, será la responsable de auxiliar al Presidente en la ejecución de las acciones que se determinen en dichas materias.
+La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, será la responsable de auxiliar al Presidente en la ejecución de las acciones que se determinen en dichas materias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 164.
 
-El titular de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, tendrá las siguientes atribuciones:
+El titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
@@ -3467,13 +3523,17 @@ XXI. Elaborar las propuestas de prórroga de las plazas de adscripción temporal
 
 XXII. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular de las áreas administrativas, o implementar el trámite correspondiente previa verificación de la existencia de recursos presupuestales disponibles;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares y direcciones generales, respecto del personal a su cargo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, respecto del personal a su cargo;
 
-XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares y direcciones generales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
 
 XXV. Operar, los cambios de rango de sueldo autorizados de las plazas de subdirector de área y jefe de departamento, a solicitud de los titulares de las áreas administrativas correspondientes, previo cumplimiento de las disposiciones establecidas;
 
@@ -4493,9 +4553,13 @@ Los impedimentos del Visitador General y de los visitadores se regularán por lo
 
 Los secretarios ejecutivos, titulares de los órganos auxiliares y visitadores judiciales rendirán la protesta constitucional ante el Pleno en sesión extraordinaria pública.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 217.
 
-Los secretarios técnicos de Comisión Permanente, los coordinadores y los directores generales rendirán la protesta constitucional por escrito ante el Presidente.
+Los secretarios técnicos de Comisión Permanente, los coordinadores, los directores generales, y el titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, rendirán la protesta constitucional por escrito ante el Presidente.
 
 ###### Artículo 218.
 
@@ -4565,11 +4629,13 @@ Toda licencia deberá solicitarse por escrito ante el área administrativa corre
 
 La autorización de la licencia será por escrito, con copia dirigida a la Secretaría Ejecutiva de Administración.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 231.
 
-Las licencias con o sin goce de sueldo, hasta por treinta días de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales y personal subalterno del Pleno serán resueltas por el Presidente; las que excedan de este término será el Pleno quien resuelva.
+Las licencias con o sin goce de sueldo, hasta por treinta días de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales, Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno serán resueltas por el Presidente; las que excedan de este término será el Pleno quien resuelva.
 
 ###### Artículo 232.
 
@@ -5494,3 +5560,23 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES”.]
+
+PRIMERO. El presente Acuerdo surtirá efectos de conformidad con lo que señala el punto 38.- GEN./013 de la sesión ordinaria treinta del Pleno del Consejo de la Judicatura Federal.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales mantendrá los recursos humanos, materiales y financieros asignados a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
+
+Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional para que analice la estructura orgánica de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a fin de que, en su caso, proponga los cambios y ajustes correspondientes en las plazas con que cuenta, tomando en consideración que esta unidad administrativa deja de ser una Dirección General.
+
+QUINTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén a cargo de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, serán atendidos con su nueva denominación, es decir Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
+
+SEXTO. Las referencias que se hagan a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, se entenderán hechas a la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
