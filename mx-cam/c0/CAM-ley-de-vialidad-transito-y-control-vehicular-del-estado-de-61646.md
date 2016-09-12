@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2014-12-05"
+last_updated: "2016-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -377,7 +377,17 @@ III. Cuando se compruebe que la información proporcionada para su expedición s
 
 IV. Cuando mediante dictamen pericial se compruebe que el conductor ha quedado imposibilitado física o mentalmente para conducir vehículos; y
 
-V. Los que señale el reglamento
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+V. Cuando sea sancionado por segunda vez en un periodo de un año, por conducir un vehículo en estado de ebriedad
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Las que señale el reglamento
 
 En el supuesto de haber sido cancelada o durante el término de suspensión del permiso o de la licencia para conducir, no procederá su reexpedición. En el primer caso, el titular deberá reintegrarla en un término de cinco días a partir de la respectiva notificación a la autoridad que la expidió; misma que realizará las anotaciones correspondientes en el registro público de transito.
 
@@ -394,6 +404,12 @@ III. Cuando el titular sea sorprendido conduciendo en estado de ebriedad o bajo 
 IV. Los que señale el reglamento
 
 La suspensión, en el caso de la fracción I, será por el tiempo que indique la sentencia; en los otros casos, podrá ser de uno a tres meses. En el expediente del titular de la licencia o permiso se anotarán las suspensiones en que incurra. El titular de la licencia estará obligado a entregarla a la autoridad en un plazo no mayor de cinco días naturales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+En el caso de la fracción III, el conductor sancionado deberá acudir ante el Consejo Estatal Contra las Adicciones, a recibir información y orientación para concientizarlo contra el consumo de bebidas alcohólicas y de cualquier otra sustancia psicoactiva, lo que será requisito para la reexpedición del permiso o licencia para conducir. El Consejo Estatal Contra las Adicciones expedirá la constancia respectiva.
 
 ###### Artículo 39.
 
@@ -627,7 +643,11 @@ a) Bicicletas y triciclos;
 
 b) Bicimotos hasta de cincuenta centímetros cúbicos;
 
-c) Motocicletas, motonetas y cuatrimotos de más de cincuenta centímetros cúbicos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+c) Motocicletas, motonetas, cuatrimotos de más de cincuenta centímetros cúbicos y motocicletas adaptadas para personas con discapacidad;
 
 d) Triciclos automotores;
 
@@ -1356,3 +1376,11 @@ PRIMERO.- El presente decreto entrará en vigor el primero de enero del 2015, pr
 SEGUNDO.- El registro vehicular a que se hace referencia será obligatorio hasta el segundo año fiscal siguiente al de la entrada en vigor de este decreto. Hasta en tanto, el Registro Público Vehicular se tramite voluntariamente, estará libre del pago de los derechos a que se refiere este decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 76 POR EL QUE "SE REFORMA SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL PRIMER PÁRRAFO DEL ARTÍCULO 37; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 38 Y SE REFORMA EL INCISO C) DE LA FRACCIÓN II DEL ARTÍCULO 61, TODOS DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
