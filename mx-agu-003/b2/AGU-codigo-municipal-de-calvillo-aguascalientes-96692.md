@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2015-10-26"
+last_updated: "2016-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -1167,7 +1167,7 @@ La Comisión podrá reunirse también en virtud de convocatoria que se notifique
 
 ###### Artículo 115.
 
-Para toda Sesión conjunta de Comisiones la citación será hecha de común acuerdo por los respectivos Presidentes; en caso se (sic) disenso, resolverá el Presidente Municipal.
+Para toda Sesión conjunta de Comisiones la citación será hecha de común acuerdo por los respectivos Presidentes; en caso se disenso, resolverá el Presidente Municipal.
 
 ###### Artículo 116.
 
@@ -18733,9 +18733,13 @@ Corresponde a la Secretaría del Ayuntamiento regular y controlar el funcionamie
 
 El servicio que otorguen los estacionamientos a los particulares deberá ajustarse a las disposiciones de este apartado y a las que determine el Ayuntamiento conforme a las leyes y el presente Código.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 1861.
 
 Corresponde al Ayuntamiento fijar las tarifas de pago y horario de servicio de los estacionamientos.
+
+A falta de lo no regulado en este código, véase el reglamento de estacionamientos del Municipio de Calvillo, Aguascalientes.
 
 ## TÍTULO TERCERO. DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
@@ -24084,3 +24088,13 @@ Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del
 Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+> <small>[N. DE E. ARTÍCULOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 1861 DEL CÓDIGO MUNICIPAL DE CALVILLO”.]</small>
+
+Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Cuarto.- Cúmplase.ado (sic) en el Salón de Cabildo del Honorable Ayuntamiento de Calvillo, Aguascalientes, a los tres días del mes de Agosto del año de dos mil dieciséis.
