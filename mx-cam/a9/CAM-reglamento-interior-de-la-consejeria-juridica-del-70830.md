@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-consejeria-juridica-del-70830"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-22"
-last_updated: "2009-09-22"
+last_updated: "2016-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL GOBERNADOR DEL ESTADO DE CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL GOBERNADOR DEL ESTADO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 22 de septiembre del 2009.
 
@@ -398,3 +400,17 @@ DADO EN EL PALACIO DE GOBIERNO, RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA
 LIC. FERNANDO EUTIMIO ORTEGA BERNES, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ALVARO ARCEO CORCUERA, CONSEJERO JURIDICO DEL GOBERNADOR.- RUBRICAS.
 
 La presente hoja de firmas corresponde al Reglamento Interior de la Consejería Jurídica del Gobernador del Estado de Campeche.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Consejería Jurídica del Gobernador del Estado de Campeche publicado en el Periódico Oficial del Estado de fecha veintidós de septiembre del año dos mil nueve.
+
+Tercero.- Los lineamientos de las Comisiones deberán ser emitidos en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente reglamento.
+
+Cuarto.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente reglamento.
