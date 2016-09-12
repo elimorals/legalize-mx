@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-la-universidad-politecnica-de-108683"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-15"
-last_updated: "2015-06-15"
+last_updated: "2016-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de junio de 2015.
 
@@ -125,9 +125,17 @@ r. Actividades Deportivas y Culturales;
 
 s. Promoción y Difusión;
 
-t. Comunicación, y
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
-u. Bolsa de Trabajo y Seguimiento a Egresados.
+t. Comunicación;
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+u. Bolsa de Trabajo y Seguimiento a Egresados; y
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+v. Superación Docente.
 
 XIX. Los profesores de tiempo completo y los de asignatura;
 
@@ -797,7 +805,7 @@ El jefe del departamento del Centro de Información dependerá del Director de P
 
 I. Planear, dirigir y administrar el Centro de Información con que cuenta la Universidad, actualizando el acervo bibliográfico del plantel, a fin de proporcionar al personal docente y alumnado una fuente de consulta e investigación acorde a las necesidades de los mismos;
 
-II. Mantener actualizado el acervo bibliográfico de la Universidad, mediante la adquisición de bibliografía moderna, de acuerdo a la evolución de las ciencias, con objeto de facilitar una consulta veraz y oportuna y, con base en la requisición de material bibliográfico que hagan los Directores de (sic) Programa Académico;
+II. Mantener actualizado el acervo bibliográfico de la Universidad, mediante la adquisición de bibliografía moderna, de acuerdo a la evolución de las ciencias, con objeto de facilitar una consulta veraz y oportuna y, con base en la requisición de material bibliográfico que hagan los Directores de Programa Académico;
 
 III. Mantener el acervo bibliográfico clasificado y catalogado, mediante los sistemas de clasificación, las reglas de catalogación, la tabla de corte, los encabezamientos de materia, con su respectiva etiqueta, lámina magnética y colocando la ubicación correspondiente en la estantería;
 
@@ -929,6 +937,32 @@ V. Ofertar candidatos egresados de la Universidad que cubran las necesidades que
 
 VI. Promover el uso de servicio de bolsa de trabajo de la Universidad entre el personal egresado por medio de llamadas telefónicas, correo electrónico o aplicación de encuestas.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 39 Bis.
+
+El Jefe de Departamento de Superación Docente, dependerá del Secretario Académico y tendrá las siguientes funciones y atribuciones:
+
+I. Diseñar, organizar coordinar y supervisar las actividades relacionadas con el Programa de Formación y Actualización Docente;
+
+II. Diseñar, organizar, coordinar y supervisar las actividades relacionadas con el Programa de Evaluación Docente;
+
+III. Realizar investigación educativa respecto a la caracterización del profesorado;
+
+IV. Establecer el diseño, elaboración, difusión, aplicación y actualización de los procedimientos académicos relacionados con la formación, actualización y evaluación docente;
+
+V. Evaluar el proceso específico de implantación del modelo educativo en los diferentes programas académicos, en sus modalidades escolarizada, no escolarizada y mixta;
+
+VI. Establecer los criterios y lineamientos para la investigación educativa y proponer el desarrollo de programas de investigación educativa;
+
+VII. Elaborar el Programa Operativo Anual y Programa de Trabajo Anual de Coordinación de Desarrollo Docente, con base en los lineamientos establecidos y presentarlos a la Secretaría Académica para lo conducente;
+
+VIII. Participar en la evaluación de competencias docentes del profesorado para el ingreso, la promoción y permanencia;
+
+IX. Participar en la determinación de lineamientos de la evaluación y de competencias docentes del profesorado al ingreso, promoción y permanencia del personal académico; y
+
+X. Presentar reportes periódicos de las actividades desarrolladas a la Secretaría Académica, emitir constancias de asistencia a cursos, diseñar la metodología de evaluación de desempeño docente del profesorado, emitir dictámenes de competencias docentes, emitir reporte de evaluación docente y administrar el presupuesto para capacitación docente.
+
 ###### ARTÍCULO 40.
 
 Los profesores de tiempo completo y los de asignatura tendrán las atribuciones y funciones indicadas en el Reglamento de Ingreso Promoción y Permanencia de Personal Académico y en las demás disposiciones jurídicas aplicables.
@@ -952,3 +986,13 @@ Aguascalientes, Ags. A veintiocho de mayo del 2015.
 RECTOR DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES,
 
 M.C. Eulogio Monreal Ávila.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE “REFORMAS AL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
