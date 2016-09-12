@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-08-25"
+last_updated: "2016-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,15 @@ issue_date: "2014-01-09"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACION PATRIMONIAL, CONTROL Y RENDICION DE CUENTAS]
 
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
-
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS.
 
@@ -141,9 +141,9 @@ XXX. Secretaría: Secretaría Ejecutiva de Disciplina del Consejo de la Judicatu
 
 XXXI. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación; y
 
-> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
-XXXII. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, Coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones o de Comités, direcciones generales, las Administraciones de los Centros de Justicia Penal, así como la Unidad de Enlace del Consejo y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
+XXXII. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, Coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones o de Comités, direcciones generales, la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, las Administraciones de los Centros de Justicia Penal, así como la Unidad de Transparencia, la Dirección para el Trámite de Solicitudes de Acceso a la Información, y el Archivo General del Consejo, y cualquier otro órgano administrativo creado por ley o acuerdo general del Pleno.
 
 ### CAPÍTULO SEGUNDO. MEDIDAS PREVENTIVAS
 
@@ -3070,3 +3070,23 @@ Aquellos que estén a cargo de la Unidad para la Implementación de la Reforma P
 SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES".]
+
+PRIMERO. El presente Acuerdo surtirá efectos de conformidad con lo que señala el punto 38.- GEN./013 de la sesión ordinaria treinta del Pleno del Consejo de la Judicatura Federal.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales mantendrá los recursos humanos, materiales y financieros asignados a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
+
+Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional para que analice la estructura orgánica de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a fin de que, en su caso, proponga los cambios y ajustes correspondientes en las plazas con que cuenta, tomando en consideración que esta unidad administrativa deja de ser una Dirección General.
+
+QUINTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén a cargo de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, serán atendidos con su nueva denominación, es decir Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
+
+SEXTO. Las referencias que se hagan a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, se entenderán hechas a la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
