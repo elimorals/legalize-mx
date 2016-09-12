@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-educacion-de-80421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-15"
-last_updated: "2011-03-15"
+last_updated: "2016-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION DE QUINTANA ROO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintan Roo, el martes 15 de marzo de 2011.
 
@@ -796,3 +798,21 @@ SECRETARIO DE GOBIERNO
 PROF. EDUARDO JOSÉ PATRÓN AZUETA
 
 SECRETARIO DE EDUCACIÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Educación, publicado en el Periódico Oficial del Estado el 15 de Marzo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efecto todas las disposiciones legales que (sic) igual o menor jerarquía que se opongan al presente Reglamento.
