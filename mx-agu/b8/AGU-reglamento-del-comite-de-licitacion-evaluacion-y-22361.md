@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-comite-de-licitacion-evaluacion-y-22361"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-29"
-last_updated: "2001-10-29"
+last_updated: "2016-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO DEL COMITE DE LICITACION, EVALUACION Y ADJUDICACION DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL INSTITUTO DE VIVIENDA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL REGLAMENTO DEL COMITÉ DE LICITACIÓN, EVALUACIÓN Y ADJUDICACIÓN DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de octubre de 2001.
 
@@ -341,3 +343,11 @@ Autorizó:
 ARQ. BENITO GUTIERREZ FEMAT,
 
 Director General del IVEA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "REGLAMENTO DEL COMITÉ DE LICITACIÓN, EVALUACIÓN Y ADJUDICACIÓN DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- Se abroga el Reglamento del Comité de Licitación, Evaluación y Adjudicación de Obras Públicas y Servicios Relacionados del Instituto de Vivienda del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado (Segunda Sección) del 29 de octubre de 2001.
