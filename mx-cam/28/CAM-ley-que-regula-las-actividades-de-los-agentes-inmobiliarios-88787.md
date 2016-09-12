@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-regula-las-actividades-de-los-agentes-inmobiliarios-887
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-09"
-last_updated: "2012-07-09"
+last_updated: "2016-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES INMOBILIARIOS REGISTRADOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 9 de julio de 2012.
 
@@ -55,7 +55,11 @@ Las disposiciones de esta Ley son de orden público, de interés social y tienen
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Secretaría.- La Secretaría de Desarrollo Industrial y Comercial;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+I. Secretaría.- La Secretaría de Desarrollo Económico;
 
 II. Agente Inmobiliario.- La persona física o moral que se dedique, de forma habitual y retribuida, dentro del Estado de Campeche, a asesorar a un tercero que desee celebrar un acto jurídico en el que se transmita el dominio, uso o goce temporal de un bien inmueble, y que cuente con la acreditación vigente expedida por la Secretaría;
 
@@ -111,15 +115,23 @@ X. Las demás que esta Ley y su Reglamento le otorguen.
 
 La Secretaría de Gobierno, a través de la Unidad de Control Notarial, actuará como órgano de apoyo técnico de la Secretaría en relación con la aplicación de esta Ley, de conformidad con las atribuciones que le confiera la misma y el reglamento respectivo.
 
-Los Notarios Públicos deberán dar aviso a la Secretaría cuando la persona que participó como intermediario en un acto jurídico de carácter inmobiliario, sea un agente inmobiliario registrado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+Los Notarios Públicos deberán dar aviso a la Secretaría cuando la persona que participó como intermediario en un acto jurídico de carácter inmobiliario, sea un agente inmobiliario no registrado.
 
 ### CAPÍTULO II. DE LA INSCRIPCIÓN EN EL REGISTRO Y OBTENCIÓN DE LA ACREDITACIÓN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 6.
 
-La inscripción en el Registro no es obligatoria. Sólo los agentes inmobiliarios que lo deseen y cumplan con los requisitos establecidos, podrán solicitar su inscripción en el Registro y quedarán sujetos a las disposiciones de esta Ley.
+La Secretaría llevará el Registro de los agentes inmobiliarios.
 
-El agente inmobiliario registrado sólo podrá ostentarse como tal, cuando cuente con la acreditación que le proporcione la Secretaría a partir de su inscripción en el Registro.
+El agente inmobiliario registrado sólo podrá ostentarse como tal, cuando cuente con la acreditación que le proporcione la Secretaría a partir de su inscripción en el Registro. Los agentes inmobiliarios podrán solicitar su inscripción en el Registro y quedarán sujetos a las disposiciones de esta ley, para operar en el Estado.
 
 ###### ARTÍCULO 7.
 
@@ -275,7 +287,11 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa de 30 a 500 veces el salario mínimo general diario vigente en el Estado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+
+III. Multa de 30 a 500 Unidades de Medida y Actualización;
 
 IV. Suspensión de la acreditación otorgada de 3 a 90 días hábiles; y
 
@@ -434,3 +450,13 @@ C. Gloria del Carmen Gutiérrez Ocampo, Diputada Presidenta.- C. Silvia María A
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, a los veinticinco días del mes de junio del año dos mil doce.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- LA SECRETARIA "A" DE GOBIERNO ENCARGADA DEL DESPACHO DE LA SECRETARIA DE GOBIERNO, MTRA. PERLA KARINA CASTRO FARIAS.- RUBRICAS.
+
+P.O. 12 DE SEPTIEMBRE DE 2016.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 75 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, EL ARTÍCULO 6 Y LA FRACCIÓN III DEL ARTÍCULO 17 DE LA LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES INMOBILIARIOS REGISTRADOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
