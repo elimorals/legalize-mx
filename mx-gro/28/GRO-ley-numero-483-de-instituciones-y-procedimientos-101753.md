@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2014-06-30"
+last_updated: "2016-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -65,61 +65,89 @@ VI. Las sanciones aplicables por incumplimiento o violación de esta Ley y dispo
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Actos de campaña: Son aquellas reuniones públicas o privadas, asambleas, y en general aquellos actos en que los candidatos o voceros de los partidos políticos, coaliciones o candidatos independientes se dirigen al electorado para promover el voto;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Boletas Electorales: Los documentos aprobados por el Consejo General del Instituto Electoral, para la emisión del voto;
+I. Consejos Distritales: Los Consejos Distritales del Instituto Electoral;
 
-III. Campaña Electoral: Conjunto de actividades que llevan a cabo los partidos políticos, coaliciones o candidatos independientes registrados para la obtención del voto;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Candidatura independiente: La postulación de los ciudadanos a un cargo de elección popular, dejando satisfechos los requisitos de elegibilidad constitucional y legalmente establecidos y sin pertenecer a un partido político ya existente, ni requerir de su intervención.
+II. Consejo General: El Consejo General del Instituto Electoral;
 
-V. Cartografía Electoral: Elementos de referencia geo-electoral de apoyo que utiliza el Instituto Electoral para planear y aplicar programas relativos a organización y capacitación electoral clasificados por entidad, distrito, municipio y sección electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Casilla: La Mesa Directiva de Casilla;
+III. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
-VII. Ciudadano: La persona que teniendo la calidad de mexicano reúna los requisitos determinados en los artículos 34 de la Constitución Federal y 19 de la Constitución Local.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Cómputo de elección: Es el procedimiento mediante el cual los consejos General y distritales, determinan la suma de los resultados anotados en las actas de escrutinio y cómputo de las casillas, y la votación obtenida en cada uno de los municipios o distritos del estado;
+IV. Constitución Local: La Constitución Política del Estado Libre y Soberano de Guerrero;
 
-IX. Consejo Distrital: El Consejo Distrital del Instituto Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-X. Consejo General: El Consejo General del Instituto Electoral y de Participación
+V. Distrito: Distrito electoral local uninominal;
 
-Ciudadana del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+VI. Estatuto del Servicio: El Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa emitido por el Instituto Nacional Electoral;
 
-XII. Constitución Local: La Constitución Política del Estado Libre y Soberano de
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Guerrero;
+VII. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero;
 
-XIII. Distrito: Distrito electoral local uninominal;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XIV. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero;
+VIII. Instituto Nacional: El Instituto Nacional Electoral;
 
-XV. Instituto Nacional: Instituto Nacional Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XVI. Ley de Partidos: Ley General de Partidos Políticos.
+IX. Ley de Partidos: La Ley General de Partidos Políticos;
 
-XVII. Ley General Electoral: Ley General de Instituciones y Procedimientos
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Electorales;
+X. Ley General Electoral: La Ley General de Instituciones y Procedimientos Electorales;
 
-XVIII. Ley: Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XIX. Lista Nominal: Las listas nominales de electores, expedidas por el Registro Federal de Electores del Instituto Nacional;
+XI. Ley: La Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero;
 
-XX. Organización de ciudadanos: La organización de ciudadanos que pretenda constituirse como partidos políticos estatales.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXI. Padrón: El padrón electoral integrado por el Registro Federal de Electores del Instituto Nacional;
+XII. Lista Nominal: Las listas nominales de electores, expedidas por el Registro Federal de Electores del Instituto Nacional;
 
-XXII. Partido Político: Los partidos políticos nacionales o estatales acreditados y registrados conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXIII. Precampaña: Al conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos a candidaturas a cargos de elección popular debidamente registrados por cada partido;
+XIII. Organización de Ciudadanos: La organización de ciudadanos que pretenda constituirse como partidos políticos locales;
 
-XXIV. Secretario Ejecutivo: Es el Secretario Ejecutivo del Instituto Electoral y del Consejo General del Instituto Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXV. Tribunal: Tribunal Electoral del Estado de Guerrero;
+XIV. Padrón: El padrón electoral integrado por el Registro Federal de Electores del Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Partido Político: Los partidos políticos nacionales o locales acreditados o registrados conforme a las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Secretario Ejecutivo: El Secretario Ejecutivo del Instituto Electoral y Secretario del Consejo General del Instituto Electoral; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Tribunal: Tribunal Electoral del Estado de Guerrero.
+
+XVIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+XIX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+XX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+XXI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+XXII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+XXIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+XXIV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+XXV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 3.
 
@@ -169,67 +197,17 @@ VIII. Participar como Observadores Electorales; y
 
 IX. Las demás que establezca la Constitución Local, la presente Ley y demás disposiciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 7.
 
-Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en la forma y términos que establece la Ley General Electoral, las reglas, lineamientos, criterios y formatos que determine el Instituto Nacional. El Instituto participará en los términos y condiciones que establezcan dichas disposiciones.
+Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en la forma y términos que establece la Ley General Electoral, las reglas, lineamientos, criterios y formatos que determine el Instituto Nacional. El Instituto Electoral participará en los términos y condiciones que establezcan dichas disposiciones.
 
-1. Los ciudadanos que deseen ejercer su derecho como observadores electorales deberán sujetarse a las bases siguientes:
+1. (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-I. Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando fotocopia de su credencial para votar, y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad y sin vínculos a partido u organización política alguna;
-
-III. La solicitud de registro para participar como observadores electorales, podrá presentarse en forma personal o a través de la organización a la que pertenezcan, ante el presidente del consejo local o distrital correspondiente a su domicilio, a partir del inicio del proceso electoral y hasta el 30 de abril del año de la elección. Los presidentes de los consejos locales y distritales, según el caso, darán cuenta de las solicitudes a los propios consejos, para su aprobación, en la siguiente sesión que celebren. La resolución que se emita deberá ser notificada a los solicitantes. El Instituto Electoral garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte de los ciudadanos o las organizaciones interesadas;
-
-III (SIC). Sólo se otorgará la acreditación a quien cumpla, además de los que señale la autoridad electoral, los siguientes requisitos:
-
-a). Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-b). No ser, ni haber sido miembro de dirigencias nacionales, estatales o municipales de organización o de partido político alguno en los tres años anteriores a la elección;
-
-c). No ser, ni haber sido candidato a puesto de elección popular en los tres años anteriores a la elección, y
-
-d). Asistir a los cursos de capacitación, preparación o información que impartan el Instituto Electoral, el Instituto Nacional o las propias organizaciones a las que pertenezcan los observadores electorales bajo los lineamientos y contenidos que dicten las autoridades competentes del Instituto, las que podrán supervisar dichos cursos. La falta de supervisión no imputable a la organización respectiva no será causa para que se niegue la acreditación;
-
-IV. Los observadores se abstendrán de:
-
-a). Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones, e interferir en el desarrollo de las mismas;
-
-b). Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
-
-c). Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos, y
-
-d). Declarar el triunfo de partido político o candidato alguno;
-
-V. La observación podrá realizarse en cualquier ámbito territorial de la República
-
-Mexicana;
-
-VI. Los ciudadanos acreditados como observadores electorales podrán solicitar, ante los órganos electorales que correspondan, la información electoral que requieran para el mejor desarrollo de sus actividades. Dicha información será proporcionada siempre que no sea reservada o confidencial en los términos fijados por la ley y que existan las posibilidades materiales y técnicas para su entrega;
-
-VII. En los contenidos de la capacitación que el Instituto Electoral imparta a los funcionarios de las mesas directivas de casilla, debe preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación;
-
-VIII. Los observadores electorales podrán presentarse el día de la jornada electoral con sus acreditaciones e identificaciones en una o varias casillas, así como en el local de los consejos correspondientes, pudiendo observar los siguientes actos:
-
-a. Instalación de la casilla;
-
-b. Desarrollo de la votación;
-
-c. Escrutinio y cómputo de la votación en la casilla;
-
-d. Fijación de resultados de la votación en el exterior de la casilla;
-
-e. Clausura de la casilla;
-
-f. Lectura en voz alta de los resultados en el consejo distrital, y
-
-g. Recepción de escritos de incidencias y protesta;
-
-IX. Los observadores podrán presentar, ante la autoridad electoral, informe de sus actividades en los términos y tiempos que para tal efecto determine el Consejo General. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
-
-Las organizaciones a las que pertenezcan los observadores electorales, a más tardar treinta días después de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Instituto Electoral.
-
-La violación a lo establecido por este artículo y demás relativos, dará lugar a la aplicación de las sanciones que para el efecto señala esta ley.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 8.
 
@@ -589,9 +567,13 @@ Durante los procesos electorales en que se renueven el titular del Poder Ejecuti
 
 a) Los aspirantes al cargo de Gobernador del Estado, ante el Presidente o Secretario Ejecutivo del Instituto Electoral;
 
-b) Los aspirantes al cargo de diputado por el principio de mayoría relativa, ante el Presidente o Secretario del consejo distrital correspondiente; y,
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-c) Los aspirantes a miembros de Ayuntamiento, ante el Presidente o Secretario del consejo distrital correspondiente.
+b) Los aspirantes al cargo de diputado por el principio de mayoría relativa, ante el Presidente o Secretario Técnico del consejo distrital correspondiente; y
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+c) Los aspirantes a miembros de ayuntamiento, ante el Presidente o Secretario Técnico del consejo distrital correspondiente.
 
 Una vez hecha la comunicación a que se refiere el párrafo primero de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
 
@@ -891,7 +873,9 @@ b) Respetar y acatar los acuerdos que emita el órgano electoral competente;
 
 c) Respetar y acatar los topes de gastos de campaña en los términos de la presente Ley;
 
-d) Proporcionar al Instituto la información y documentación que éste solicite, en los términos de la presente Ley;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+d) Proporcionar al Instituto Electoral la información y documentación que éste solicite, en los términos de la presente Ley;
 
 e) Ejercer las prerrogativas y aplicar el financiamiento exclusivamente para los gastos de campaña;
 
@@ -917,7 +901,7 @@ h) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones
 
 i) Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros candidatos, partidos políticos, personas, instituciones públicas o privadas;
 
-j) Insertar en su propaganda de manera visible la leyenda: “candidato independiente”;
+j) Insertar en su propaganda de manera visible la leyenda: "candidato independiente";
 
 k) Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos nacionales o locales;
 
@@ -937,19 +921,21 @@ Los candidatos independientes que incumplan con la normatividad electoral que le
 
 #### SECCIÓN SEGUNDA. DE LOS REPRESENTANTES ANTE LOS ÓRGANOS DEL INSTITUTO ELECTORAL
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 63.
 
-Los candidatos independientes, de conformidad con lo previsto por los reglamentos de sesiones de los consejos General y distritales aprobados por el Consejo General, podrán designar representantes ante los órganos del Instituto Electoral, en los términos siguientes:
+Los candidatos independientes podrán designar representantes ante los órganos del Instituto Electoral, en los términos siguientes:
 
-a) Los candidatos independientes a Gobernador del Estado, ante el Consejo General y la totalidad de los consejos distritales;
+a) Los candidatos independientes a Gobernador del Estado, ante el Consejo General y los consejos distritales;
 
-b) Los candidatos independientes a diputados, ante el consejo distrital por la cual se quiera postular;
+b) Los candidatos independientes a diputados, ante el consejo distrital por el que se postula; y
 
-c) Los candidatos independientes a miembros de Ayuntamientos, ante el consejo distrital al que pertenezca el municipio por el cual se quiera postular;
+c) Los candidatos independientes a miembros de Ayuntamientos, ante el consejo distrital al que pertenezca el municipio por el que se postula.
 
-La acreditación de representantes ante los órganos central y distritales se realizará dentro de los quince días posteriores al de la aprobación de su registro como aspirante a candidato independiente.
+La acreditación de representantes ante los Consejos General y distritales se realizará dentro de los quince días posteriores al de la aprobación de su registro como aspirante a candidato independiente.
 
-Si la designación no se realiza en el plazo previsto en el párrafo anterior perderá este derecho.
+Si la designación no se realiza en el plazo previsto en el párrafo anterior, perderá este derecho.
 
 #### SECCIÓN SEGUNDA (SIC). DE LOS REPRESENTANTES ANTE MESA DIRECTIVA DE CASILLA
 
@@ -1199,9 +1185,11 @@ IV. Constancia del órgano competente donde se señalen los nombres de los titul
 
 V. Señalar domicilio en el lugar sede del Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 96.
 
-El Consejo General del Instituto resolverá sobre la solicitud de acreditación de registro de un partido político nacional dentro de los quince días naturales siguientes a la fecha de su presentación.
+El Consejo General resolverá sobre la solicitud de acreditación de un partido político con registro nacional dentro de los quince días naturales siguientes a la fecha de su presentación.
 
 La acreditación de los partidos políticos nacionales ante el Instituto Electoral, deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
@@ -2283,13 +2271,29 @@ VII. En todo tiempo deberá garantizarse al partido político de que se trate el
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 173.
 
-El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero es el organismo público local, autoridad en materia electoral, responsable de la función estatal de organizar las elecciones locales y los procesos de participación ciudadana conforme a la ley de la materia.
+El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero es un organismo público autónomo, de carácter permanente, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, responsable de la función estatal de organizar las elecciones locales y los procesos de participación ciudadana, conforme a esta Ley y a la Ley de Participación Ciudadana del Estado de Guerrero.
 
-A dicho instituto corresponde garantizar el ejercicio del derecho de votar y ser votado en las elecciones y demás instrumentos de participación ciudadana y de promover la participación política de los ciudadanos a través del sufragio universal, libre, secreto y directo.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-El Instituto Electoral ejercerá sus atribuciones y funciones en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes generales de Instituciones y Procedimientos Electorales, de Partidos Políticos, esta ley y demás ordenamientos aplicables, según corresponda.
+Al Instituto Electoral le corresponde garantizar el ejercicio del derecho de votar y ser votado en las elecciones y demás instrumentos de participación ciudadana y, de promover la participación política de los ciudadanos a través del sufragio universal, libre, secreto y directo.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Todas las actividades del Instituto Electoral se regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Para el desempeño de sus actividades, contará con un cuerpo de servidores públicos en sus órganos ejecutivos y técnicos, integrados en un Servicio Profesional Electoral Nacional que se regirá por el Estatuto del Servicio y demás normativa que para el efecto emita el Instituto Nacional, así como con personal de la rama administrativa regulado por la normativa interna del Instituto Electoral.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+El Instituto Electoral ejercerá sus atribuciones y funciones en términos de lo dispuesto por la Constitución Federal, la Constitución Local, la Ley General Electoral, la Ley de Partidos, esta Ley y demás ordenamientos aplicables, según corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 En su caso, asumirá las funciones que el Instituto Nacional le delegue en términos de Ley.
 
@@ -2319,23 +2323,25 @@ X. Fomentar la participación ciudadana; y
 
 XI. Los demás que se deriven de la Constitución Local, esta Ley y demás normatividad electoral.
 
-Todas las actividades del Instituto Electoral se regirán por los principios de certeza, legalidad, imparcialidad, máxima publicidad, objetividad e independencia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Para el desempeño de sus actividades, el Instituto Electoral contará con un cuerpo de funcionarios regulados por el Servicio Profesional Electoral Nacional.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Adicionalmente, el Instituto contará con personal adscrito a una rama administrativa, para el óptimo desempeño de las funciones electorales.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 175.
 
-El Instituto Electoral, es un organismo público autónomo, de carácter permanente, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, responsable de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias en materia electoral; así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, guíen las actividades de los organismos electorales; encargado de coordinar, preparar, desarrollar y vigilar los procesos electorales estatales y municipales, ordinarios y extraordinarios, así como los procesos de participación ciudadana, en los términos de la legislación aplicable.
+El patrimonio del Instituto Electoral se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el presupuesto de egresos del Estado, los remanentes del presupuesto, así como con los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de las leyes aplicables.
 
-El patrimonio del Instituto Electoral se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado, los remanentes del presupuesto, los activos que se obtengan por la liquidación de los partidos políticos, las multas que se impongan a los partidos políticos, personas físicas o morales por la comisión de alguna infracción a la Ley, así como con los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de las leyes aplicables.
-
-Los recursos presupuestarios destinados al financiamiento público de los partidos políticos no forman parte del patrimonio del Instituto, por lo que éste no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten conforme a la presente Ley.
+Los recursos presupuestarios destinados al financiamiento público de los partidos políticos no forman parte del patrimonio del Instituto Electoral, por lo que este no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten conforme a la presente Ley.
 
 El Instituto Electoral se regirá para su organización, funcionamiento y control, por las disposiciones constitucionales relativas y las leyes aplicables a la materia.
 
-El Instituto Electoral elaborará, administrará y ejercerá en forma autónoma su presupuesto de egresos que enviará por conducto del Ejecutivo y directamente al Congreso del Estado para su aprobación.
+El Instituto Electoral elaborará, administrará y ejercerá en forma autónoma su presupuesto de egresos.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 176.
 
@@ -2353,11 +2359,15 @@ V. Aprobar por las dos terceras partes de los integrantes del Consejo General de
 
 VI. No comprometer bajo ninguna circunstancia el patrimonio del Instituto Electoral por periodos mayores al de su encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 177.
 
-Corresponde al Instituto Electoral ejercer funciones en las siguientes materias:
+El Instituto Electoral tendrá a su cargo las atribuciones siguientes:
 
-a) Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos, que en ejercicio de sus facultades le confiere la Constitución Federal y Local, las leyes generales Electoral y de Partidos Políticos, esta Ley, y el Instituto Nacional;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+a) Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos, que en ejercicio de sus facultades le confiere la Constitución Federal y Local, la Ley General Electoral, la Ley de Partidos, esta Ley y el Instituto Nacional Electoral;
 
 b) Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos, sus candidatos y los candidatos independientes;
 
@@ -2373,9 +2383,13 @@ g) Imprimir los documentos y producir los materiales electorales, en términos d
 
 h) Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo en el Estado, con base en los resultados consignados en las actas de cómputos distritales y municipales;
 
-i) Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos así como la constancia de asignación a las fórmulas de representación proporcional de las legislaturas locales, conforme al cómputo y declaración de validez que efectúe el propio Instituto Estatal;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-j) Efectuar el cómputo de la elección del titular del Poder Ejecutivo en el Estado;
+i) Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional del Congreso del Estado, conforme al cómputo y declaración de validez que efectúe el Instituto Electoral;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+j) Efectuar el cómputo de la elección de Gobernador en el Estado;
 
 k) Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
 
@@ -2383,131 +2397,235 @@ l) Verificar el cumplimiento de los criterios generales que emita el Instituto N
 
 m) Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en el Estado, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
-n) Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-ñ) Organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana que se prevean en la ley;
+n) Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos que emita el Instituto Nacional;
 
-o) Supervisar las actividades que realicen los órganos distritales locales en el Estado, durante el proceso electoral;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+ñ) Organizar, desarrollar y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana que se prevean en la Ley de la materia;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+o) Supervisar las actividades que realicen los consejos distritales, durante el proceso electoral;
 
 p) Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
 
 q) Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales del Instituto Nacional, sobre el ejercicio de las funciones que le hubiera delegado dicho Instituto, conforme a lo previsto por la Ley General Electoral y demás disposiciones que emita el Consejo General, y
 
-r) Las demás que determine la Ley General Electoral, esta Ley y aquéllas no reservadas al Instituto Nacional, que se establezcan en la ley local.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Además de las anteriores, el Instituto Electoral, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado de Guerrero y la Ley General de Instituciones y Procedimientos Electorales, contará con las siguientes atribuciones:
+r) Fiscalizar el origen, monto y destino de los recursos erogados por las organizaciones de ciudadanos que pretendan constituirse como partido político local;
 
-1. Suscribir Convenio con el Instituto Nacional para que éste asuma la organización total de las elecciones locales;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-2. Ejercer directamente la realización de las actividades propias de la función electoral local que el Instituto Nacional le delegue;
+s) Convenir con el Instituto Nacional para que este asuma la organización integral del proceso electoral del Estado, en los términos que establezcan las leyes respectivas; y
 
-3. Solicitar al Instituto Nacional que asuma la realización total o parcial de las actividades propias de la función electoral local que corresponde al Instituto Electoral, conforme a las reglas establecidas en la Ley General Electoral.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-4. Solicitar al Instituto Nacional la atracción de cualquier asunto de la competencia del Instituto Electoral, cuando su trascendencia así lo amerite o para sentar un criterio de interpretación.
+t) Las demás que determine la Ley General Electoral, esta Ley y aquellas no reservadas al Instituto Nacional.
 
-El Instituto Electoral podrá solicitar al Congreso del Estado el presupuesto suficiente para prepararse con las capacidades profesionales, técnicas, humanas y materiales para ejercitar facultades delegadas por el Instituto Nacional. En su defecto, podrá solicitar las ampliaciones presupuestales respectivas al gobierno del Estado.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II (SIC). En caso de que el Instituto Electoral ejerza facultades delegadas por el Instituto Nacional, se sujetará a lo previsto por la Ley General Electoral, la Ley de Partidos, los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional. Además se sujetará a la supervisión del ejercicio de dichas facultades delegadas por parte de la Junta Local Ejecutiva del Instituto Nacional.
+Las atribuciones del Instituto Nacional que, en su caso, se deleguen por disposición legal o por acuerdo de su Consejo General, consistentes en:
 
-III. En el caso de que los contenidos de esta ley sobre atribuciones originarias del Instituto Nacional en elecciones locales se opongan a la Ley General Electoral, la Ley de Partidos, los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional, conforme a sus atribuciones, prevalecerán éstas últimas.
+a) La capacitación electoral;
+
+b) La geografía electoral, así como el diseño y determinación de los distritos electorales y división del territorio en secciones electorales;
+
+c) La ubicación de las casillas y la designación de los funcionarios de sus mesas directivas;
+
+d) Las reglas, lineamientos, criterios y formatos en materia de resultados preliminares; encuestas o sondeos de opinión; observación electoral; conteos rápidos; impresión de documentos y producción de materiales electorales; y
+
+e) La fiscalización de los ingresos y egresos de los partidos políticos locales, coaliciones y candidatos.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de que el Instituto Electoral ejerza facultades delegadas por el Instituto Nacional, se sujetará a lo previsto por la Ley General Electoral, la Ley de Partidos, los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional.
+
+II (SIC). (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+III. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+El Instituto Electoral solicitará al Congreso del Estado, el presupuesto suficiente para ejercer las facultades delegadas por el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Además de las anteriores, el Instituto Electoral, en los términos que establece la Constitución Federal y la Ley General Electoral, contará con las siguientes atribuciones:
+
+a) Solicitar al Instituto Nacional que asuma la organización integral o parcial de los procesos electorales del Estado, con base en el convenio que celebren, en el que se establecerá de manera fehaciente las circunstancias de tiempo, modo y lugar que justifique la solicitud; y
+
+b) Solicitar al Instituto Nacional la atracción de cualquier asunto de la competencia del Instituto Electoral, cuando su trascendencia así lo determine o para sentar un criterio de interpretación.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 178.
 
-El Instituto Electoral, tiene su domicilio en la Ciudad de Chilpancingo, Guerrero, y ejercerá sus funciones en todo el territorio estatal, conforme a la siguiente estructura orgánica:
+El Instituto Electoral, tiene su domicilio en la Ciudad de Chilpancingo de los Bravo, Guerrero, y ejercerá sus funciones en todo el territorio estatal.
 
-I. Un Consejo General;
+> <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO 238 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
 
-II. Una Junta Estatal;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-III. Un Consejo Distrital Electoral en cada distrito electoral, que funcionará durante el proceso electoral; y
+## TÍTULO SEGUNDO. DE LA ESTRUCTURA DEL INSTITUTO ELECTORAL
 
-IV. Mesas Directivas de Casilla.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-## TÍTULO SEGUNDO. DE LOS ÓRGANOS CENTRALES
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO I. DEL CONSEJO GENERAL Y DE SU PRESIDENCIA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 179.
 
-Los Órganos Centrales del Instituto Electoral son:
+El Instituto Electoral se integra conforme a la siguiente estructura:
 
 I. El Consejo General;
 
-II. La Presidencia del Consejo General;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-III. La Junta Estatal; y
+II. La Junta Estatal;
 
-IV. La Secretaría Ejecutiva.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL
+III. La Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Las Direcciones Ejecutivas y Unidades Técnicas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+V. La Contraloría Interna;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Un Consejo Distrital Electoral en cada Distrito Electoral, que funcionará durante el proceso electoral; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Mesas Directivas de Casilla.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Atendiendo a su misión y visión, el Instituto Electoral podrá contar con Unidades Desconcentradas Regionales, de acuerdo a las necesidades del servicio y a la disponibilidad presupuestal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. DE LA INTEGRACIÓN DEL CONSEJO GENERAL
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 180.
 
-El Consejo General del Instituto Electoral, es el órgano de dirección superior, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, guíen todas las actividades del Instituto Electoral.
+El Consejo General, es el órgano de dirección superior, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, guíen todas las actividades del Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 181.
 
-El Consejo General del Instituto Electoral se integra por un Consejero Presidente, seis consejeros electorales, con derecho a voz y voto, un Secretario Ejecutivo y representantes de los partidos políticos con registro nacional o estatal, quienes concurrirán a las sesiones sólo con derecho a voz.
+El Consejo General se integra por un Consejero Presidente, seis Consejeros Electorales, con derecho a voz y voto; un Secretario Ejecutivo y representantes de los partidos políticos con registro nacional o local, quienes concurrirán a las sesiones solo con derecho a voz.
 
 Los requisitos para ser consejero electoral serán los previstos en el artículo 100 de la Ley General Electoral.
 
-La elección y remoción de los consejeros Electorales se hará en términos de lo dispuesto por los artículos 125 de la Constitución Política Local y del 100 al 103 de la Ley General de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-El Secretario Ejecutivo, será nombrado y removido por las dos terceras partes del Consejo General a propuesta del Consejero Presidente, debiendo reunir los mismos requisitos que se establecen para los consejeros Electorales, salvo el previsto en el artículo 100, párrafo 2, inciso k) de la Ley General Electoral; Además deberá ser Licenciado en Derecho con título legalmente expedido, durará en su cargo seis años y podrá ser reelecto por una sola vez.
+El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional, en los términos previstos por la Ley General Electoral.
 
-Los consejeros electorales y el Secretario General, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-La retribución que reciba el Consejero Presidente y los consejeros electorales del Consejo General del Instituto será acorde a sus funciones en términos del presupuesto aprobado.
+Los Consejeros Electorales tendrán un periodo de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde a sus funciones en términos del presupuesto aprobado, y podrán ser removidos por el Consejo General del Instituto Nacional, por las causas que establezca la Ley General Electoral.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+De producirse una ausencia definitiva del Consejero Presidente o Consejero Electoral, el Consejo General del Instituto Nacional hará la designación correspondiente en términos de la Ley General Electoral. Si la vacante se verifica durante los primeros cuatro años del encargo, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá un Consejero para un nuevo periodo.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+El Secretario Ejecutivo, será nombrado y removido por al menos el voto de cinco Consejeros Electorales a propuesta del Consejero Presidente, debiendo reunir los requisitos establecidos en el artículo 200 de la presente Ley. Durará en su encargo seis años y podrá ser reelecto por una sola vez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 182.
 
-El Consejo General del Instituto, se reunirá en sesión ordinaria cada mes. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los consejeros Electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
+Los Consejeros Electorales y el Secretario Ejecutivo están sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución Federal.
 
-Para la preparación del proceso electoral, el Consejo General del Instituto, se reunirá en la primera semana del mes de septiembre del año anterior a la elección. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General se reunirá en sesión ordinaria, por lo menos una vez al mes.
+> <small>(DEROGADOS SEGUNDO Y TERCER PÁRRAFOS, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Cuando deban celebrarse elecciones extraordinarias, el Presidente del Consejo General del Instituto convocará a los demás integrantes a las sesiones previas que estime necesarias.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 183.
 
-Para que el Consejo General del Instituto Electoral pueda sesionar, es necesario que estén presentes la mayoría de los consejeros, entre los que deberá estar el Consejero Presidente, quien será suplido en sus ausencias momentáneas por el Consejero que él mismo designe. En el supuesto de que el Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo designará a uno de los consejeros electorales presentes para que presida.
+Cada partido político, a través de sus órganos de dirección en el Estado facultados para ello, designará un representante propietario y un suplente ante el Consejo General. Los representantes de los partidos políticos iniciarán sus funciones una vez que hayan sido acreditados formalmente ante el Instituto Electoral.
 
-En el caso de ausencia definitiva del Presidente del Consejo, los consejeros electorales nombrarán, de entre ellos mismos, a quién deba sustituirlo provisionalmente, comunicando de inmediato lo anterior al Consejo General del Instituto Nacional, a fin de que se designe al Consejero Presidente, siguiendo el procedimiento señalado en el artículo 101 de la Ley General de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-El Secretario Ejecutivo del Consejo General del Instituto Electoral, asistirá a las sesiones con voz, pero sin voto. En caso de ausencia del Secretario Ejecutivo a la sesión, sus funciones serán realizadas por alguno de los integrantes de la Junta Estatal que al efecto designe el Consejo General del Instituto para esa sesión.
+Los representantes, propietario y suplente, podrán ser sustituidos en todo tiempo por el órgano directivo facultado para su designación.
 
-En caso de que no se reúna la mayoría a que se refiere el primer párrafo, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros y representantes que asistan.
+> <small>(DEROGADOS TERCERO, CUARTO Y QUINTO PÁRRAFOS, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Las resoluciones se tomarán por mayoría de votos, en caso de empate el del Presidente será de calidad.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA PRESIDENCIA, CONSEJEROS ELECTORALES Y DE LA SECRETARÍA GENERAL DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL
+### CAPÍTULO III. DEL FUNCIONAMIENTO DEL CONSEJO GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 184.
 
-El Consejo General del Instituto Electoral, independientemente de las comisiones permanentes establecidas en el artículo 192 de esta Ley, integrará las Comisiones que considere necesarias para el desempeño de sus atribuciones, con el número de miembros que para cada caso acuerde, que siempre serán presididas por un consejero electoral.
+Durante los procesos electorales y fuera de estos, el Consejo General sesionará en forma ordinaria una vez al mes. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
 
-El Secretario Ejecutivo del Consejo, colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-El Consejo General del Instituto Electoral, de acuerdo con la disponibilidad presupuestal del Instituto Electoral, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
+Las sesiones se desarrollarán conforme a lo dispuesto en el Reglamento de Sesiones de los Consejos General y Distritales del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 185.
 
-Las ausencias temporales de los consejeros electorales, mayores a quince días durante el proceso electoral y de treinta durante el periodo de receso electoral, requerirá de licencia otorgada por el Consejo General del Instituto Nacional. En aquellos casos en que la ausencia sea por periodos menores a los señalados el Consejo General del Instituto Electoral conocerá en sesión sobre la solicitud de licencia. Para el caso del Consejero Presidente se seguirá el mismo procedimiento.
+Para que el Consejo General pueda sesionar es necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar por lo menos cuatro de los Consejeros, incluyendo al Presidente, quien será suplido en sus ausencias momentáneas por el Consejero que él mismo designe. En el supuesto de que el Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo General designará a unos de los Consejeros Electorales presentes para que presida.
 
-Para garantizar el desarrollo óptimo en las sesiones permanentes que celebren los consejos General y distritales, los representantes propietarios o suplentes de los partidos políticos podrán actuar en las mismas indistintamente.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En el caso de ausencia definitiva del Presidente del Consejo General, los Consejeros Electorales nombrarán, de entre ellos mismos, a quien deba sustituirlo provisionalmente, comunicando de inmediato lo anterior al Consejo General del Instituto Nacional Electoral, a fin de que se designe al Consejero Presidente, siguiendo el procedimiento señalado en el artículo 101 de la Ley General Electoral.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+El Secretario del Consejo General asistirá a las sesiones con voz, pero sin voto. En caso de ausencia del Secretario Ejecutivo a la sesión, sus funciones serán realizadas por alguno de los integrantes de la Junta Estatal que al efecto designe el Consejo General para esa sesión.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de que no se reúna la mayoría a que se refiere el párrafo primero de este artículo, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los Consejeros Electorales y representantes que asistan.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de que una vez instalada la sesión, se retiraran algunos de sus integrantes, ello no afectará su desarrollo, debiéndose asentar dicha circunstancia, salvo que se retire el Presidente sin designar a quien deba suplirlo o cuatro de los consejeros, en cuyo caso se suspenderá la sesión para continuar dentro de las veinticuatro horas siguientes.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Las resoluciones se tomarán por mayoría de votos, salvo las que conforme a esta Ley requieran de una mayoría calificada. En caso de empate el voto del Presidente será el de calidad.
 
 ###### ARTÍCULO 186.
 
 El Consejero Presidente, los consejeros Electorales, el Secretario Ejecutivo y los directores Ejecutivos, deberán abstenerse en el ejercicio de sus funciones de emitir juicios de valor o propiciarlos, respecto de partidos políticos, dirigentes o candidatos.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 187.
 
-El Consejo General del Instituto Electoral, ordenará la publicación en el Periódico Oficial del Gobierno del Estado, de los reglamentos, acuerdos y resoluciones de carácter general que pronuncie, y de aquellos que así lo determine, así como los nombres de los miembros de los consejos distritales designados en los términos de esta Ley. El servicio que proporcione el Periódico Oficial del Gobierno del Estado al Instituto Electoral será gratuito.
+El Consejo General ordenará la publicación en el Periódico Oficial del Gobierno del Estado, de los reglamentos, acuerdos y resoluciones de carácter general que pronuncie, y de aquellos que así lo determine, así como los nombres de los miembros de los consejos distritales designados en los términos de esta Ley. El servicio que proporcione el Periódico Oficial del Gobierno del Estado al Instituto Electoral será gratuito.
 
-### CAPITULO IV. DE LAS COMISIONES DEL INSTITUTO ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DEL CONSEJO GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 188.
 
-El Consejo General del Instituto Electoral, tiene las siguientes atribuciones:
+El Consejo General tiene las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de la Legislación en materia electoral y las disposiciones que con base en ella se dicten;
 
@@ -2515,27 +2633,47 @@ II. Aclarar las dudas que se susciten con motivo de la interpretación y aplicac
 
 III. Expedir los reglamentos necesarios para el buen funcionamiento del Instituto Electoral y para el adecuado ejercicio de sus atribuciones y funciones, originarias o delegadas;
 
-IV. Designar al Secretario Ejecutivo por el voto de las dos terceras partes de sus miembros, conforme a la propuesta que presente su Presidente;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-V. Designar a los directores ejecutivos y a los titulares de las unidades técnicas del Instituto Electoral; asimismo a los servidores públicos que no pertenezcan al cuerpo de servicio profesional electoral nacional;
+IV. Designar al Secretario Ejecutivo por al menos el voto de cinco Consejeros Electorales, conforme a la propuesta que presente el Consejero Presidente;
 
-VI. Aprobar la estructura de las direcciones y demás órganos del Instituto Electoral conforme a las necesidades del servicio y los recursos presupuestales autorizados;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VII. Vigilar la oportuna integración y adecuado funcionamiento de los órganos electorales del Instituto Electoral, y conocer, por conducto de su Presidente y de sus comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General del Instituto estime necesario solicitarles;
+V. Designar a los Directores Ejecutivos y a los titulares de las Unidades Técnicas por al menos el voto de cinco Consejeros Electorales, conforme a la propuesta que presente el Consejero Presidente;
 
-VIII. Designar por las dos terceras partes, a más tardar la primer semana de noviembre del año anterior a la elección, de entre las propuestas que al efecto haga el Consejero Presidente, a los consejeros electorales de los consejos distritales, a que se refiere el artículo 216 de esta Ley, derivado de la convocatoria pública expedida;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IX. Resolver sobre las consultas y controversias que le sometan los partidos políticos, coaliciones o candidatos, relativas a la integración o funcionamiento de los organismos electorales y demás asuntos de su competencia;
+VI. Aprobar la estructura de las Direcciones y demás órganos del Instituto Electoral, el Estatuto del Servicio, las necesidades del servicio y la disponibilidad presupuestal;
 
-X. Proporcionar a los consejos distritales electorales, la documentación, las formas que apruebe para las actas del proceso electoral y los elementos y útiles necesarios para sus funciones, conforme a las reglas, lineamientos, criterios y formatos en materia de impresión de documentos y producción de materiales electorales que acuerde el Consejo General del Instituto Nacional;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Resolver en los términos de la Ley General de Partidos Políticos y demás disposiciones aplicables, el otorgamiento del registro, así como, la pérdida del mismo por los partidos políticos estatales, emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial del Gobierno del Estado;
+VII. Vigilar la oportuna integración y adecuado funcionamiento de los órganos electorales del Instituto Electoral, y conocer, por conducto de su Presidente y de sus comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesarios solicitarles;
 
-XII. Resolver sobre el cambio de nombre de los partidos políticos estatales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Designar por al menos el voto de cinco Consejeros Electorales a más tardar la primer semana de noviembre del año anterior a la elección, de entre las propuestas que al efecto haga el Consejero Presidente, a los Consejeros Electorales de los consejos distritales, a que se refiere el artículo 219 de esta Ley, derivado de la convocatoria pública expedida;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Resolver sobre las consultas y controversias que le sometan los partidos políticos, coaliciones o candidatos, relativas a la integración o funcionamiento de los órganos electorales del Instituto Electoral y demás asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+X. Proporcionar a los consejos distritales, la documentación, las formas que apruebe para las actas del proceso electoral y los elementos y útiles necesarios para sus funciones, conforme a las reglas, lineamientos, criterios y formatos en materia de impresión de documentos y producción de materiales electorales que acuerde el Consejo General del Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Resolver en los términos de la Ley de Partidos y demás disposiciones aplicables, el otorgamiento del registro, así como la pérdida del mismo por los partidos políticos locales, emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Resolver sobre el cambio de nombre de los partidos políticos locales;
 
 XIII. Registrar supletoriamente los nombramientos de los representantes de los partidos políticos, coaliciones o candidaturas independientes;
 
-XIV. Resolver sobre los convenios de fusión, frente y coalición que celebren los partidos políticos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Resolver sobre los convenios de fusión, frente, coaliciones y candidaturas comunes que celebren los partidos políticos;
 
 XV. Registrar la plataforma electoral que para cada proceso electoral, deben presentar los partidos políticos, coaliciones o candidaturas independientes en los términos de esta Ley;
 
@@ -2555,7 +2693,9 @@ XXII. Establecer y difundir las reglas a las que se sujetarán los partidos pol�
 
 XXIII. Investigar por los medios legales pertinentes, de conformidad con el procedimiento ordinario o especial sancionador, según corresponda, todos aquellos hechos relacionados con el proceso electoral y de manera especial, los que denuncie un partido político, coalición, candidato, consejero electoral u órgano del Instituto Electoral, que impliquen violación a la Ley, por parte de las autoridades o de otros partidos, coaliciones o candidato;
 
-XXIV. Conocer y en su caso ratificar los convenios que el Presidente del Consejo General del Instituto Electoral, celebre con el Instituto Nacional en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes, así como en materia de fiscalización de los recursos de los partidos políticos para tener acceso a la información bancaria, fiscal y fiduciaria correspondiente;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Conocer, y en su caso ratificar, los convenios que el Presidente del Consejo General celebre con el Instituto Nacional en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes;
 
 XXV. Ordenar la suspensión inmediata de la propaganda o campaña que se esté realizando por los partidos políticos, coaliciones, candidatos o terceros en contra de alguno de estos en contravención a lo dispuesto por esta Ley y la Ley de Imprenta;
 
@@ -2569,117 +2709,221 @@ XXIX. Cumplir con las resoluciones o acuerdos emitidos por la autoridad jurisdic
 
 XXX. Informar dentro de los tres días siguientes a la conclusión de los medios de impugnación, al H. Congreso Local sobre el otorgamiento de las constancias de asignación de diputados electos por los principios de mayoría relativa y de representación proporcional, así como de los Ayuntamientos;
 
-XXXI. Aprobar el calendario de elecciones extraordinarias propuesto por el Consejero Presidente;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXXII. Elaborar su presupuesto anual y someterlo a la consideración del Congreso Local, así como aprobar el anteproyecto de presupuesto del organismo electoral que le proponga el Presidente del propio Consejo y siguiendo el mismo procedimiento elaborar y aprobar el presupuesto para la organización y desarrollo de los procesos de participación ciudadana, cuando se presente la solicitud correspondiente;
+XXXI. Aprobar el calendario de las actividades del proceso electoral ordinario, y en su caso extraordinario, propuesto por el Consejero Presidente;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII. Aprobar anualmente el anteproyecto de presupuesto del Instituto Electoral que le proponga el Presidente del Consejo General y una vez aprobado, someterlo a consideración del Congreso del Estado, así como remitirlo al titular del Poder Ejecutivo del Estado para su inclusión en el proyecto de presupuesto de egresos del Estado, y siguiendo el mismo procedimiento elaborar en su caso, los presupuestos que vía ampliación presupuestal sean necesarios para la organización y desarrollo de actividades extraordinarias que por disposición legal deban desarrollar;
 
 XXXIII. Designar en caso de ausencia del Secretario Ejecutivo, de entre los integrantes de la Junta Estatal, a la persona que fungirá como Secretario del Consejo en la sesión;
 
 XXXIV. Publicar en el Periódico Oficial del Gobierno del Estado y dos periódicos de mayor circulación en el Estado, su integración y la de los consejos distritales;
 
-XXXV. Aprobar el financiamiento público ordinario para actividades permanentes, extraordinario para actividades de campaña electoral y específico para actividades adicionales, que se entregará a los partidos políticos, coaliciones o candidaturas independientes en los términos que dispone la presente Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXXVI. Realizar, por delegación del Instituto Nacional, la fiscalización de los ingresos y egresos de los partidos políticos locales, coaligados o candidaturas independientes a cargos de elección popular;
+XXXV. Aprobar el financiamiento público para actividades ordinarias permanentes, gastos de campaña y para actividades específicas, que se entregará a los partidos políticos o candidaturas independientes en los términos que dispone la presente Ley y demás disposiciones aplicables;
 
-XXXVII. Solicitar en su caso, a través del Órgano Técnico de Fiscalización del Instituto Nacional a la Comisión Bancaria y de Valores, información sobre operaciones bancarias o financieras de personas físicas o morales que estén involucradas en procedimientos de investigación por la interposición de quejas en materia de fiscalización ante el Consejo General del Instituto;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXXVIII. Solicitar en su caso, a través del Órgano Técnico de Fiscalización del Instituto Nacional, a la Secretaría de Hacienda y Crédito Público, información respecto a la facturación de bienes o servicios que presenten los partidos políticos locales, coaligados o candidaturas independientes en sus informes financieros, de personas físicas o morales que en el desarrollo de sus actividades empresariales hayan expedido;
+XXXVI. Solicitar información a personas físicas o morales sobre cualquier elemento que obre en su poder y que permita sustanciar las quejas administrativas en materia electoral;
 
-XXXIX. Solicitar información a personas físicas o morales sobre cualquier elemento que obre en su poder y que permita sustanciar las quejas administrativas en materia electoral que haya interpuesto un partido político o coalición fundamentalmente en materia de fiscalización;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XL. Aprobar el modelo de las boletas, actas de la jornada electoral y los formatos de la demás documentación, así como del material electoral, para ser proporcionado a los organismos electorales del estado, de conformidad con los lineamientos que al respecto emita el Instituto Nacional;
+XXXVII. Aprobar el modelo de las boletas, actas de la jornada electoral y los formatos de la demás documentación, así como del material electoral, para ser proporcionado a los consejos distritales, de conformidad con los lineamientos que al respecto emita el Instituto Nacional;
 
-XLI. Requerir a los partidos políticos debidamente registrados y acreditados ante este Consejo General del Instituto Electoral, para que dentro del plazo de 15 días previos a la instalación de los consejos distritales electorales, registren de manera supletoria a sus representantes propietarios y suplentes;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XLII. Registrar de manera supletoria las fórmulas de candidatos a diputados por el principio de mayoría relativa;
+XXXVIII. Requerir a los partidos políticos debidamente registrados y acreditados ante el Consejo General, para que dentro del plazo de 15 días previos a la instalación de los consejos distritales electorales, registren de manera supletoria a sus representantes propietarios y suplentes;
 
-XLIII. Registrar supletoriamente las planillas a candidatos a miembros de los Ayuntamientos y listas de candidatos a regidores de representación proporcional;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XLIV. Hacer el cómputo general de la elección de Gobernador y expedir la constancia de mayoría del candidato que resulte triunfador; así como la declaración de validez de la elección y de elegibilidad del candidato triunfador;
+XXXIX. Registrar de manera supletoria las fórmulas de candidatos a diputados por el principio de mayoría relativa;
 
-XLV. Conocer las actividades institucionales y los informes de las comisiones administrativas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XLVI. Aprobar, en caso de que el Instituto Nacional delegue esta atribución al Instituto Electoral, los plazos y tiempos a que se sujetara lo relativo al padrón electoral, listas nominales de electores con fotografía y credencial para votar, en ocasión del proceso electoral local, en términos de la legislación aplicable;
+XL. Registrar supletoriamente las planillas a candidatos a miembros de los Ayuntamientos y listas de candidatos a regidores de representación proporcional;
 
-XLVII. Suscribir previa justificación y dictamen técnico del Pleno del Consejo General del Instituto, convenio de colaboración con el Instituto Nacional, para la organización de los procesos electorales que les corresponda desarrollar de forma coincidente. El convenio, deberá establecer las actividades que ejecutará cada uno de los órganos electorales, y las que realizarán de forma conjunta para garantizar la organización eficaz de los procesos electorales coincidentes;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-El convenio establecerá las bases bajo las cuales se organizará el proceso electoral.
+XLI. Hacer el cómputo general de la elección de Gobernador y expedir la constancia de mayoría del candidato que resulte triunfador; así como la declaración de validez de la elección y de elegibilidad del candidato triunfador;
 
-XLVIII. Aprobar los programas anuales de las Direcciones Ejecutivas y los dictámenes que presenten las respectivas Comisiones sobre el cumplimiento de los mismos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XLIX. Aprobar en caso de que el Instituto Nacional delegue esta atribución al Instituto Electoral, el programa de cursos de capacitación que deberá impartir la Dirección de Organización y Capacitación Electoral a los funcionarios de las mesas directivas de casilla y de selección y evaluación de capacitadores electorales conforme a los lineamientos establecidos por el Instituto Nacional;
+XLII. Conocer las actividades institucionales y los informes de las Comisiones;
 
-L. Recibir y aprobar las solicitudes y las modalidades de actuación de los observadores electorales, según lo establecido en la presente ley y en la Ley General de Instituciones y Procedimientos Electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LI. Aprobar la integración de las comisiones y de los comités del Instituto Electoral;
+XLIII. Autorizar al Consejero Presidente y al Secretario del Consejo General, celebren convenio de colaboración con el Instituto Nacional, para la organización de los procesos electorales que les corresponda desarrollar de forma coincidente, así como de los procesos extraordinarios. El convenio, deberá establecer las actividades que ejecutará cada uno de los órganos electorales, y las que realizarán de forma conjunta para garantizar la organización eficaz de los procesos electorales coincidentes.
 
-LII. Conocer los informes financieros semestrales y anual que rinda el Secretario Ejecutivo, previa la validación de la Comisión de Administración del Instituto Electoral;
+El convenio establecerá las bases bajo las cuales se organizará el proceso electoral;
 
-LIII. Fijar las políticas y los programas generales del Instituto Electoral a propuesta de la Junta Estatal;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LIV. Fijar las políticas generales, del programa y los procedimientos administrativos del Instituto Electoral;
+XLIV. Aprobar los programas anuales de las Direcciones Ejecutivas y Unidades Técnicas y los dictámenes que presenten las respectivas Comisiones sobre el cumplimiento de los mismos;
 
-LV. Acordar el orden del día de sus sesiones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LVI. Contar con el auxilio de la fuerza pública necesaria para garantizar el desarrollo del proceso electoral en los términos de esta Ley;
+XLV. Atender las solicitudes de los observadores electorales, de conformidad con lo que establece la Ley General Electoral y los lineamientos que para el efecto emita el Instituto Nacional;
 
-LVII. Remitir al Congreso del Estado, dentro de los tres días siguientes a la entrega de la constancia de mayoría, la documentación correspondiente a la calificación de la elección de Gobernador;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LVIII. Expedir los nombramientos a los integrantes de los consejos distritales Electorales;
+XLVI. Aprobar la integración de las Comisiones y de los Comités del Instituto Electoral;
 
-LIX. Efectuar estudios, encuestas y sondeos de opinión orientados a recoger la opinión pública respecto de temas diversos en materia político-electoral y publicarlos cuando corresponda;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LX. Autorizar a instituciones, organizaciones o empresas especializadas, la realización de encuestas o sondeos de opinión pública respecto de tendencias de preferencia o votación durante los procesos electorales en el estado así como los plazos y términos que para el efecto se determinen, conforme a las reglas, lineamientos y criterios que emita el Instituto Nacional;
+XLVII. Crear Comisiones Temporales y Comités para el adecuado funcionamiento del Instituto Electoral;
 
-LXI. Enviar al Ejecutivo del Estado a más tardar el día 15 del mes de octubre de cada año, su presupuesto de egresos el cual deberá comprender partidas específicas para cubrir las prerrogativas a que los partidos políticos tienen derecho para su incursión en el presupuesto de egresos del estado, y posterior aprobación por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXII. En el supuesto de que en el transcurso de un ejercicio fiscal aprobado, se registren o inscriban nuevos partidos políticos ante el Instituto Electoral, éste solicitará la ampliación de las partidas presupuestales a efecto de cubrir las administraciones respectivas;
+XLVIII. Conocer los informes financieros semestrales y anual que rinda el Secretario Ejecutivo, previa la validación de la Comisión de Administración del Instituto Electoral;
 
-LXIII. Celebrar los convenios conducentes tanto con instituciones públicas como privadas, con la finalidad de generar imparcialidad y equidad en la información que se difunda a la ciudadanía en materia político-electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXIV. Confirmar la vigencia del registro ante el Instituto Nacional de los partidos políticos que tengan derecho a participar en las elecciones de diputados por los principios de mayoría relativa y de representación proporcional, Gobernador del Estado y Ayuntamientos, en los términos que establece esta Ley;
+XLIX. Fijar las políticas y los programas generales del Instituto Electoral a propuesta de la Junta Estatal;
 
-LXV. Expedir la convocatoria pública para la selección de los consejeros electorales distritales, y en su caso, de Capacitadores-Asistentes electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXVI. Recibir y dictaminar la solicitud de procedencia de los procedimientos de participación ciudadana, así como encargarse de su organización y desarrollo, en términos de la Ley de Participación Ciudadana del Estado de Guerrero;
+L. Acordar el orden del día de sus sesiones;
 
-LXVII. Supervisar el cumplimiento de lo dispuesto en los artículos 191 numeral 1, fracciones III y IV de la Constitución Política del Estado y acatar lo señalado en el artículo 174 fracción VII de esta Ley, imponiendo la sanción administrativa que corresponda y dando vista a las autoridades competentes para que en su caso apliquen la normatividad respectiva;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXVIII. Aprobar los manuales de organización y operación financiera del Instituto Electoral;
+LI. Contar con el auxilio de la fuerza pública necesaria para garantizar el desarrollo del proceso electoral en los términos de esta Ley;
 
-LXIX. Vigilar que la Junta Estatal de cumplimiento con las disposiciones legales en materia de transparencia y acceso a la información pública en el Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXX. Solicitar al Instituto Nacional el otorgamiento de los tiempos de estado que les corresponde a los partidos políticos y al Instituto Electoral del Estado, así como los que requiera para los procesos electorales locales, en términos de lo dispuesto por la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales;
+LII. Remitir al Congreso del Estado, dentro de los tres días siguientes a la entrega de la constancia de mayoría, la documentación correspondiente a la calificación de la elección de Gobernador;
 
-LXXI. Aprobar los lineamientos, acuerdos, resoluciones y todo aquello que resulte necesario en las diversas materias relacionadas con los procesos electorales para determinar los procedimientos, calendarización y actividades que se requieran, así como instrumentar los convenios y/o anexos técnicos que celebren o suscriban con las autoridades electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXXII. Aprobar los ajustes necesarios a los plazos establecidos en la presente ley, conforme a la Ley General de Instituciones y Procedimientos Electorales, criterios, lineamientos y demás ordenamientos aplicables que determine el Instituto Nacional;
+LIII. Expedir los nombramientos a los integrantes de los consejos distritales;
 
-LXXIII. Aprobar por la mayoría de los consejeros, el que se solicite al Instituto Nacional, ejerza su facultad de atracción, fundando y motivando en los términos de la Ley General Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXXIV. Solicitar por la mayoría de los consejeros, al Instituto Nacional, ejerza su facultad de asunción total o parcial, fundando y motivando en los términos de la Ley General Electoral;
+LIV. Efectuar estudios, encuestas y sondeos de opinión orientados a recoger la opinión pública respecto de temas diversos en materia político-electoral y publicarlos cuando corresponda;
 
-LXXV. En los procesos en que se realicen elecciones federales y locales concurrentes en el Estado, el Consejo General del Instituto Electoral hará los ajustes necesarios a los procedimientos electorales de esta Ley armonizando los términos de la casilla única que defina el Consejo General del Instituto Nacional;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXXVI. Aprobar una estrategia para preparar al Instituto Electoral con las capacidades profesionales, técnicas, humanas y materiales para ejercer funciones delegadas por el Instituto Nacional;
+LV. Autorizar a instituciones, organizaciones o empresas especializadas, la realización de encuestas o sondeos de opinión pública respecto de tendencias de preferencia o votación durante el proceso electoral en el Estado, así como los plazos y términos que para el efecto se determinen, conforme a las reglas, lineamientos y criterios que emita el Instituto Nacional;
 
-LXXVII. Aprobar un proyecto de presupuesto para solicitar al Congreso del Estado los recursos suficientes para prepararse con las capacidades profesionales, técnicas, humanas y materiales con el propósito de ejercitar funciones delegadas por el Instituto Nacional,
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXXVIII. Vigilar, en caso de que esta atribución sea delegada por el Instituto Nacional al Instituto Electoral, que los recursos de los partidos políticos locales y candidaturas independientes tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en la ley;
+LVI. Enviar al Ejecutivo del Estado a más tardar el día 15 del mes de octubre de cada año, su anteproyecto de presupuesto de egresos el cual deberá comprender partidas específicas para cubrir las prerrogativas a que los partidos políticos tienen derecho para su incursión en el presupuesto de egresos del Estado, y posterior aprobación por el Congreso del Estado;
 
-LXXIX. Comunicar al Instituto Nacional, el número de diputaciones de mayoría relativa que integrarán el Congreso del Estado para los efectos de la determinación de los distritos electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-LXXX. Vigilar, en su caso, que los recursos de los partidos políticos locales y candidaturas independientes tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en la ley; y,
+LVII. Celebrar los convenios conducentes tanto con instituciones públicas como privadas, con la finalidad de generar imparcialidad y equidad en la información que se difunda a la ciudadanía en materia político-electoral;
 
-LXXXI. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en esta Ley.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LVIII. Confirmar la vigencia del registro ante el Instituto Nacional de los partidos políticos que tengan derecho a participar en las elecciones de diputados por los principios de mayoría relativa y de representación proporcional, Gobernador del Estado y Ayuntamientos, en los términos que establece esta Ley;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LIX. Expedir la convocatoria pública para la selección de los consejeros distritales electorales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LX. Recibir y dictaminar la solicitud de procedencia de los procedimientos de participación ciudadana, así como encargarse de su organización y desarrollo, en términos de la Ley de Participación Ciudadana del Estado de Guerrero;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXI. Supervisar el cumplimiento de lo dispuesto en los artículos 191 numeral 1, fracciones III y IV de la Constitución Política del Estado y acatar lo señalado en el artículo 174 fracción VII de esta Ley, imponiendo la sanción administrativa que corresponda y dando vista a las autoridades competentes para que en su caso apliquen la normativa respectiva;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXII. Aprobar los manuales de organización y operación financiera del Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXIII. Vigilar que la Junta Estatal dé cumplimiento con las disposiciones legales en materia de transparencia y acceso a la información pública en el Estado;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXIV. Solicitar al Instituto Nacional el otorgamiento de los tiempos de Estado que les corresponde a los partidos políticos y al Instituto Electoral así como los que requiera para el proceso electoral local, en términos de lo dispuesto por la Constitución Federal y la Ley General Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXV. Aprobar los lineamientos, acuerdos, resoluciones y todo aquello que resulte necesario en las diversas materias relacionadas con los procesos electorales para determinar los procedimientos, calendarización y actividades que se requieran, así como instrumentar los convenios y/o anexos técnicos que celebren o suscriban con las autoridades electorales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXVI. Aprobar los ajustes necesarios a los plazos establecidos en la presente Ley, conforme a la Ley General Electoral, criterios, lineamientos y demás ordenamientos aplicables que determine el Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXVII. Solicitar con la aprobación de la mayoría de los consejeros, al Instituto Nacional, ejerza su facultad de atracción, fundando y motivando en los términos de la Ley General Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXVIII. Solicitar con la aprobación de la mayoría de los consejeros, al Instituto Nacional, ejerza su facultad de asunción total o parcial, fundando y motivando en los términos de la Ley General Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXIX. En los procesos en que se realicen elecciones federales y locales coincidentes en el Estado, el Consejo General hará los ajustes necesarios a los procedimientos electorales de esta Ley;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXX. Comunicar al Instituto Nacional, el número de diputaciones de mayoría relativa que integrarán el Congreso del Estado para los efectos de la determinación de los distritos electorales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXXI. Aprobar la creación de nuevas Direcciones, Unidades Técnicas y Administrativas, así como la creación de Unidades Desconcentradas Regionales para el mejor funcionamiento, cumplimiento y necesidades del servicio del Instituto Electoral, a propuesta del Consejero Presidente.
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXXII. Aprobar en el mes de enero, para el ejercicio fiscal correspondiente, el presupuesto de ingresos y egresos del Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXXIII. En materia del Servicio Profesional Electoral Nacional:
+
+a) Supervisar las actividades que realicen los miembros del Servicio Profesional Electoral Nacional adscritos al Instituto Electoral, e informar sobre ellas al Instituto Nacional por conducto de la Unidad Técnica de Enlace;
+
+b) Realizar nombramientos, promociones y actos relacionados con el Servicio Profesional Electoral Nacional, conforme a lo dispuesto por el Estatuto del Servicio y la demás normativa aplicable;
+
+c) Hacer cumplir las normas y procedimientos previstos en el Estatuto del Servicio y la demás normativa aplicable;
+
+d) Atender los requerimientos que formule el Instituto Nacional;
+
+e) Informar al Instituto Nacional sobre el presupuesto asignado a incentivos y promociones que se otorguen a miembros del Servicio Profesional Electoral Nacional adscritos al Instituto Electoral;
+
+f) Designar al funcionario que fungirá como autoridad instructora para efectos del Procedimiento Laboral Disciplinario previsto en el Estatuto del Servicio;
+
+g) Resolver los recursos de inconformidad que se presenten contra resoluciones emitidas por la autoridad resolutora del Procedimiento Laboral Disciplinario previsto en el Estatuto del Servicio;
+
+h) Las demás que en materia del Servicio Profesional Electoral Nacional se deriven del Estatuto del Servicio y demás normativa aplicable; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+LXXIV. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en esta Ley.
+
+LXXV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+LXXVI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+LXXVII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+LXXVIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+LXXIX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+LXXX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+LXXXI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
 El Consejo General del Instituto, en ocasión de la celebración de los procesos electorales estatales, podrá invitar y acordar las bases y criterios en que habrá de atenderse e informar a los visitantes extranjeros que acudan a conocer las modalidades de su desarrollo en cualquiera de sus etapas.
 
-### CAPITULO V. DE LA JUNTA ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES DEL CONSEJERO PRESIDENTE, CONSEJEROS ELECTORALES Y DEL SECRETARIO DEL CONSEJO GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 189.
 
-Corresponden al Consejero Presidente del Consejo General del Instituto Electoral, las atribuciones siguientes:
+Son atribuciones del Consejero Presidente:
 
 I. Velar por la unidad y cohesión de las actividades de los Órganos del Instituto Electoral;
 
@@ -2693,11 +2937,17 @@ V. Ordenar, en su caso, la publicación en el Periódico Oficial del Gobierno de
 
 VI. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo;
 
-VII. Proponer al Consejo General del Instituto el nombramiento del Secretario Ejecutivo y de los Directores del Instituto Electoral, de estos últimos, en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Someter al Consejo General del Instituto, las propuestas para la creación de nuevas Direcciones o Unidades Técnicas y Administrativas para el mejor funcionamiento del Instituto Electoral;
+VII. Proponer al Consejo General el nombramiento del Secretario Ejecutivo, de los Directores Ejecutivos y de los titulares de las Unidades Técnicas del Instituto Electoral;
 
-IX. Proponer al Consejo General del Instituto los nombramientos de los ciudadanos que ocuparán los cargos de presidente y consejeros electorales de los consejos distritales, derivados del procedimiento de selección establecido en el artículo 221 de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Someter al Consejo General las propuestas para la creación de nuevas Direcciones, Unidades Técnicas y Administrativas, así como la creación de Unidades Desconcentradas Regionales para el mejor funcionamiento, cumplimiento y necesidades del servicio del Instituto Electoral, de acuerdo a su disponibilidad presupuestal;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Proponer al Consejo General los nombramientos de los ciudadanos que ocuparán los cargos de presidente y consejeros electorales de los consejos distritales, derivados del procedimiento de selección establecido en el artículo 219 de esta Ley;
 
 X. Proponer anualmente a consideración del Consejo General del Instituto, el anteproyecto de presupuesto del Instituto Electoral para su aprobación;
 
@@ -2709,47 +2959,81 @@ XIII. Establecer los vínculos entre el Instituto Electoral y las autoridades fe
 
 XIV. Celebrar con el Instituto Nacional, los convenios y acuerdos necesarios para el desarrollo de las actividades y funciones del Instituto Electoral, y supervisar el cumplimiento de los mismos;
 
-XV. Recibir las solicitudes de registro de candidatos a Gobernador del Estado y las listas de los candidatos a diputados por el principio de representación proporcional y someterlas al Consejo General para su registro;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XVI. Remitir al Poder Ejecutivo para que sea considerado en el Decreto de Presupuesto de Egresos del Estado del ejercicio fiscal que corresponda, y para su envío al Congreso del Estado, el proyecto de presupuesto de egresos del Instituto Electoral aprobado por el Consejo General del Instituto;
+XV. Recibir las solicitudes de registro de candidatos a Gobernador del Estado y las listas de los candidatos a diputados por el principio de representación proporcional y someterlas al Consejo General para su aprobación;
 
-XVII. Supervisar el cumplimiento de los programas de capacitación electoral y educación cívica del Instituto Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XVIII. Dar cuenta al Consejo General del Instituto Electoral, con los informes que sobre las elecciones reciba de los consejos distritales Electorales;
+XVI. Remitir al Poder Ejecutivo, a más tardar el día 15 del mes de octubre de cada año, el proyecto de presupuesto de egresos del Instituto Electoral aprobado por el Consejo General, para que sea considerado en el Decreto de Presupuesto de Egresos del Estado del ejercicio fiscal que corresponda;
 
-XIX. Ordenar, previo acuerdo del Consejo General del Instituto, la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral. Los resultados de dichos estudios solo podrán ser difundidos cuando así lo autorice el Consejo General del Instituto, en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XX. Presentar a consideración del Consejo General del Instituto, el proyecto de dictamen de pérdida de registro del partido político que se encuentre en cualquiera de los supuestos del artículo 167 de esta Ley, a más tardar el último día del mes siguiente a aquel en que concluya el proceso electoral;
+XVII. Supervisar el cumplimiento de los programas de educación cívica del Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Enviar al Congreso del Estado, para su discusión y aprobación, el proyecto de presupuesto de egresos del Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Ordenar, previo acuerdo del Consejo General, la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral. Los resultados de dichos estudios solo podrán ser difundidos cuando así lo autorice el Consejo General, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XX. Presentar a consideración del Consejo General, el proyecto de dictamen de pérdida de registro del partido político local que se encuentre en cualquiera de los supuestos del artículo 167 de esta Ley, a más tardar el último día del mes siguiente a aquel en que concluya el proceso electoral;
 
 XXI. Dar a conocer la estadística electoral, por sección, municipio y distrito, una vez concluido el proceso electoral;
 
-XXII. Informar al Consejo General del Instituto Electoral de los resultados obtenidos por los integrantes del Servicio Profesional Electoral, una vez que el Instituto Nacional le haya remitido;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXIII. Fijar los procedimientos administrativos, conforme a las políticas y programas generales del Instituto Electoral;
+XXII. Informar al Consejo General los resultados de la Evaluación del aprovechamiento del Programa de Formación obtenidos por los miembros del Servicio Profesional Electoral Nacional del Instituto Electoral, una vez que el Instituto Nacional los haya remitido;
 
-XXIV. Enviar directamente al Poder Legislativo, para su discusión y aprobación el proyecto de presupuesto del Instituto Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXV. Supervisar el cumplimiento de los convenios que al efecto se celebren con el Instituto Nacional;
+XXIII. Supervisar el cumplimiento de los convenios que al efecto se celebren con el Instituto Nacional;
 
-XXVI. Recibir supletoriamente las solicitudes de registro de candidatos a diputados de mayoría relativa y de las planillas de candidatos a miembros de los Ayuntamientos, listas de regidores y someterlas al Consejo General del Instituto Electoral para su registro;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXVII. Vigilar el cumplimiento del mecanismo para la difusión inmediata, del programa de resultados electorales preliminares de las elecciones de Gobernador del Estado, diputados y Ayuntamientos, conforme a las reglas de operación emitidas por el Instituto Nacional;
+XXIV. Recibir supletoriamente las solicitudes de registro de candidatos a diputados de mayoría relativa y de las planillas de candidatos a miembros de los Ayuntamientos, listas de regidores y someterlas al Consejo General para su aprobación;
 
-XXVIII. Someter al conocimiento y, en su caso, la aprobación del Consejo General del Instituto Electoral los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXIX. Convenir con autoridades electorales federales y de otros estados para el apoyo y colaboración en el cumplimiento de la función electoral, en el ámbito de competencia de cada una de ellas, previo acuerdo del Consejo General del Instituto Electoral;
+XXV. Vigilar el cumplimiento del mecanismo para la difusión inmediata, del programa de resultados electorales preliminares de las elecciones de Gobernador del Estado, Diputados y Ayuntamientos, conforme a las reglas de operación emitidas por el Instituto Nacional;
 
-XXX. Ejercer las facultades y cumplir las obligaciones que al Instituto Electoral correspondan en los convenios que en materia electoral celebre con el Instituto Nacional, con otros organismos públicos electorales y las demás autoridades de cualquier orden de gobierno;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXXI. Presidir la Junta Estatal e informar al Consejo General del Instituto Electoral de los trabajos de la misma; y
+XXVI. Convenir con autoridades electorales federales y de otros estados para el apoyo y colaboración en el cumplimiento de la función electoral, en el ámbito de competencia de cada una de ellas, previo acuerdo del Consejo General;
 
-XXXII. Las demás que le confiera esta Ley o le encargue el pleno del Consejo General.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-El Presidente convocará a sesiones cuando lo estime necesario o lo solicite la mayoría de los consejeros electorales o de los representantes de los partidos políticos, coaliciones o candidatos independientes. Las convocatorias se harán por escrito, la cual deberá ser entregada (sic) cuando menos con veinticuatro horas de anticipación acompañando la respectiva orden del día, salvo casos excepcionales, en que se podrá convocar sin cumplir con los requisitos anteriores, cuando por la premura del tiempo, así lo amerite.
+XXVII. Ejercer las facultades y cumplir las obligaciones que al Instituto Electoral correspondan en los convenios que en materia electoral celebre con el Instituto Nacional, con otros organismos públicos electorales y las demás autoridades de cualquier orden de gobierno;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXVIII. Convenir con autoridades federales, estatales y municipales para el apoyo y colaboración en el cumplimiento de sus funciones en materia de participación ciudadana, en el ámbito de competencia de cada una de ellas, previo acuerdo del Consejo General;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIX. Presidir la Junta Estatal e informar al Consejo General los trabajos de la misma;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXX. Designar a los servidores públicos de la rama administrativa del Instituto Electoral, conforme al Estatuto del Servicio, los lineamientos y disposiciones que al respecto se emitan; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXXI. Las demás que le confiera esta Ley o le encomiende el Consejo General.
+
+XXXII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 190.
 
-Corresponde a los consejeros electorales del Consejo General del Instituto.
+Son atribuciones de los Consejeros Electorales:
 
 I. Asistir con voz y voto a las sesiones ordinarias y extraordinarias del Consejo General y de las comisiones de las que formen parte;
 
@@ -2767,579 +3051,807 @@ VII. Presentar iniciativas y propuestas de programas de trabajo al Consejo Gener
 
 VIII. Participar en la elaboración del orden del día para las sesiones del Consejo General;
 
-IX. Presentar en el mes de diciembre de cada año, a través del Secretario Ejecutivo el informe anual de actividades de la comisión que presida;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-X. Presentar un informe al Consejo General sobre el resultado de las comisiones realizadas en representación del Instituto Electoral, en el interior como en el exterior del Estado;
+IX. Informar en el mes de diciembre de cada año, al Consejo General sobre las actividades desarrolladas de la comisión que presida;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+X. Informar al Consejo General sobre el resultado de las comisiones realizadas en representación del Instituto Electoral, en el interior como en el exterior del Estado;
 
 XI. Mantener con discreción la información que con motivo de su cargo tengan en su poder y no obtener beneficio de ella ni para sí o para terceros;
 
 XII. Informar al pleno del Consejo General en el mes de diciembre de cada año, sobre los trabajos desarrollados en forma individual en su calidad de consejeros electorales; y
 
-XIII. Las demás que señale este ordenamiento y disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Solicitar a los titulares de las Direcciones Ejecutivas o Unidades Técnicas, el apoyo que requieran para el cumplimiento de sus atribuciones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Las demás que señale esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 191.
 
-El Secretario Ejecutivo, es un auxiliar del Consejo General del Instituto, para el trámite o ejecución de sus acuerdos o de los que dicte el Presidente del mismo.
+Son atribuciones del Secretario del Consejo General:
 
-Además, corresponde al Secretario Ejecutivo:
+I. Auxiliar al Consejo General y a su Presidente en el ejercicio de sus atribuciones;
 
-I. Auxiliar al propio Consejo General y a su Presidente en el ejercicio de sus atribuciones;
+II. Preparar el orden del día de las sesiones del Consejo General, declarar la existencia del quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación de los Consejeros Electorales presentes;
 
-II. Preparar el orden del día de las sesiones del Consejo General, declarar la existencia del quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación de los consejeros electorales presentes;
+III. Convocar, previo acuerdo del Presidente, a las sesiones ordinarias o extraordinarias del Consejo General, excepto en los casos en que esta Ley señale momento expreso, caso en el cual no se requerirá convocatoria;
 
-III. Recibir poderes a nombre del Instituto Electoral para actos de dominio, de administración y para representarlo ante cualquier autoridad administrativa o judicial, o ante particulares.
+IV. Dar cuenta con los proyectos de dictamen de las comisiones;
 
-IV. Convocar, previo acuerdo del Presidente a las sesiones ordinarias o extraordinarias del Consejo General, excepto en los casos en que esta Ley señale momento expreso, caso en el cual no se requerirá convocatoria;
+V. Informar sobre el cumplimiento de los acuerdos del Consejo General;
 
-V. Dar cuenta con los proyectos de dictamen de las Comisiones;
+VI. Firmar, junto con el Consejero Presidente, todos los acuerdos y resoluciones que emita el Consejo General;
 
-VI. Informar sobre el cumplimiento de los acuerdos del Consejo General;
+VII. Dar cuenta al Consejo General de los informes que sobre el desarrollo de la jornada electoral reciba de los consejos distritales;
 
-VII. Firmar, junto con el Presidente del Consejo General, todos los acuerdos y resoluciones que emita el propio Consejo;
+VIII. Recibir y dar el trámite previsto en la Ley de la materia, a los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo General, informándole sobre los mismos en la sesión inmediata;
 
-VIII. Conocer de las notificaciones que formulen los ciudadanos que pretendan constituirse como partidos políticos y realizar las actividades pertinentes;
+IX. Recibir, para efectos de información y estadísticas electorales, copias de los expedientes de todas las elecciones;
 
-IX. Recibir las solicitudes de registro, de los ciudadanos que pretendan constituirse como partidos políticos estatales; que hayan cumplido los requisitos establecidos en esta Ley e integrar el expediente respectivo para que el Presidente lo someta a la consideración del Consejo General;
+X. Integrar los expedientes con la documentación necesaria a fin de que el Consejo General, efectúe los cómputos que conforme a la Ley debe realizar;
 
-X. Inscribir en el libro respectivo el registro de partidos, cambio de nombre, así como los convenios de fusión, frentes y coaliciones;
+XI. Informar al Consejo General de las resoluciones que le competan dictadas por las autoridades jurisdiccionales;
 
-XI. Llevar el registro de los representantes de los partidos políticos, coaliciones y candidaturas independientes acreditados ante los órganos electorales;
+XII. Preparar, para la aprobación del Consejo General, el proyecto de calendario de las actividades del proceso electoral ordinario, y en su caso extraordinario; y
 
-XII. Proveer a los órganos electorales, de los elementos necesarios para el cumplimiento de sus funciones;
+XIII. Las demás que le sean conferidas por esta Ley, el Consejo General y su Presidente.
 
-XIII. Recabar de los consejos distritales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XIV. Organizar en la etapa de preparación del proceso electoral, reuniones regionales de orientación y capacitación a funcionarios electorales y coordinar las que con carácter distrital se celebren, así como formular los instructivos de capacitación para los funcionarios electorales;
+### CAPÍTULO VI. DE LAS COMISIONES DEL CONSEJO GENERAL
 
-XV. Auxiliar al Presidente del Consejo General, en la recepción de las solicitudes de registro de candidatos que competan al Consejo General del Instituto e informar de esos registros, por la vía más rápida a los consejos distritales electorales;
-
-XVI. Llevar los libros de registro de los candidatos a puestos de elección popular;
-
-XVII. Preparar los proyectos de la documentación electoral y proveer lo necesario para su impresión, distribución y recolección, conforme a los lineamientos que establezca el Instituto Nacional;
-
-XVIII. Participar en los convenios que se celebren con el Instituto Nacional, respecto a la información y documentos que habrá de aportar en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes;
-
-XIX. Dar cuenta al Consejo General del Instituto de los informes que sobre el desarrollo de la jornada electoral reciba de los consejos distritales Electorales;
-
-XX. Recibir y dar trámite a los recursos de apelación que se interpongan en contra de los actos o resoluciones del Consejo General en términos de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado, informándole sobre los mismos en la sesión inmediata;
-
-XXI. Recibir, para efectos de información y estadísticas electorales, copias de los expedientes de todas las elecciones;
-
-XXII. Integrar los expedientes con la documentación necesaria a fin de que el Consejo General del Instituto, efectúe el cómputo que conforme a la ley debe realizar, resuelva sobre los registros de constancias de mayoría y sobre las asignaciones de diputados de representación proporcional;
-
-XXIII. Informar al Consejo General de las resoluciones que le competan dictadas por las autoridades jurisdiccionales;
-
-XXIV. Preparar, para la aprobación del Consejo General, el proyecto de calendario para las elecciones ordinarias y en su caso, las extraordinarias cuando éstas deban celebrarse;
-
-XXV. Proveer lo necesario, a fin de que se hagan oportunamente las publicaciones que ordena la Ley y las que disponga el Consejo General del Instituto Electoral;
-
-XXVI. Llevar el archivo del Consejo General del Instituto;
-
-XXVII. Ejercer y atender oportunamente la función de Oficialía Electoral por si o por conducto de los secretarios de los consejos distritales u otros servidores públicos del Instituto Electoral, en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral. El Secretario Ejecutivo podrá delegar la atribución en servidores públicos a su cargol (sic);
-
-XXVIII. Ser fedatario de los actos o hechos exclusivamente de naturaleza electoral y expedir las certificaciones que se requieran y;
-
-XXIX. Orientar y coordinar las acciones de las Direcciones y demás Órganos del Instituto Electoral, informando permanentemente al Presidente del Consejo;
-
-XXX. Ejercer las partidas presupuestales aprobadas, llevando la administración y finanzas del Instituto Electoral, con estricto apego al presupuesto aprobado por el Consejo General del Instituto y bajo la supervisión de la Comisión de Administración y la Contraloría Interna;
-
-XXXI. Rendir al Consejo General del Instituto y a la Junta Estatal Informes financieros semestrales y un anual sobre el cierre del ejercicio fiscal;
-
-XXXII. Organizar, dirigir y controlar la administración de los recursos materiales, humanos y financieros así como la prestación de los servicios generales en el Instituto Electoral;
-
-XXXIII. Establecer y operar los sistemas administrativos para el ejercicio y control presupuestal;
-
-XXXIV. Con la supervisión de la Comisión de Organización Electoral, integrar y difundir la estadística electoral por casilla, sección, municipio y distrito, de las elecciones de Gobernador del Estado, diputados y Ayuntamientos, una vez calificadas;
-
-XXXV. Presentar al Presidente, para la aprobación del Consejo General del Instituto, los proyectos de convenios a celebrarse con autoridades federales, en relación con la información y documentos que habría de aportar en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes, así como también aquellos que pueda celebrar con instituciones académicas para impartir cursos de formación, capacitación y actualización, para los aspirantes y miembros titulares del servicio profesional electoral;
-
-XXXVI. En ausencia del Presidente, recibir las solicitudes de registro de candidatos y hacerlas del conocimiento del Presidente para su trámite correspondiente;
-
-XXXVII. Informar de manera expedita, a los consejos distritales acerca del registro que de manera directa o supletoria se hagan ante el Consejo General del Instituto;
-
-XXXVIII. Supervisar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas;
-
-XXXIX. Sustanciar el procedimiento de pérdida del registro de los partidos políticos estatales que se encuentre en los supuestos previstos en esta Ley y de la Ley General de Partidos Políticos, hasta dejarlo en estado de proyecto de dictamen y resolución;
-
-XL. Coordinar el desarrollo del servicio profesional electoral, en términos de la normativa aplicable;
-
-XLI. Informar a la Junta Estatal y al Consejo General del Instituto sobre la coordinación del Servicio Profesional Electoral;
-
-XLII. Informar a los distintos órganos y direcciones del Instituto Electoral sobre los acuerdos adoptados por el Consejo General del Instituto para su conocimiento general;
-
-XLIII. Preparar los proyectos de dictamen y resolución de las quejas o denuncias que se presenten al Consejo General del Instituto para su atención, siguiendo el procedimiento establecido en el artículo 423 de esta Ley;
-
-XLIV. Sustanciar los procedimientos administrativos sancionadores ordinarios y especiales establecidos en esta Ley con el apoyo de la Unidad Técnica de lo Contensioso (sic) Electoral y coadyuvar en todo lo que requiera la Unidad Técnica de Fiscalización en los procedimientos de competencia. En dicha tramitación el Consejo General, los consejos distritales, la Junta Estatal y las Direcciones Ejecutivas del Instituto, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares; y
-
-XLV. Las demás que le sean conferidas por esta Ley, el Consejo General del Instituto y su Presidente.
-
-Para el mejor desempeño de sus funciones, el Secretario Ejecutivo organizará las unidades administrativas del Instituto Electoral y las que determine su Consejero Presidente.
-
-La Secretaría Ejecutiva tendrá adscrita una Unidad Técnica de lo Contencioso Electoral que será competente para la tramitación de los procedimientos sancionadores y demás que determine esta Ley y las disposiciones aplicables.
-
-En el ejercicio de la función de oficialía electoral, el Secretario Ejecutivo, los secretarios de los consejos distritales, así como los demás funcionarios en quien se delegue esta función tendrán las siguientes atribuciones, las cuales deberán realizar de manera oportuna:
-
-a) A petición de los partidos políticos, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
-
-b) A petición de los órganos del Instituto, constatar hechos que influyan o afecten la organización del proceso electoral;
-
-c) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales o federales, y
-
-d) Las demás que establezca la ley y demás disposiciones aplicables.
-
-### CAPÍTULO VI. DE LAS DIRECCIONES EJECUTIVAS DEL INSTITUTO ELECTORAL
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 192.
 
-El Consejo General del Instituto, integrará de manera permanente las siguientes comisiones:
+Para el desempeño de sus atribuciones, cumplimiento de obligaciones y supervisión del adecuado desarrollo de las actividades de los órganos del Instituto Electoral, el Consejo General cuenta con el auxilio de comisiones de carácter permanente.
 
-I. Fiscalización;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Prerrogativas y Partidos Políticos;
-
-III. Organización Electoral;
-
-IV. Capacitación Electoral y Educación Cívica;
-
-V. De Administración;
-
-VI. Del Programa de Resultados Electorales Preliminares;
-
-VII. De Quejas y Denuncias.
-
-En proceso electoral se fusionarán las comisiones de Capacitación Electoral y Educación Cívica, y de Organización Electoral, a fin de integrar la Comisión de Capacitación y Organización Electoral; el Consejo General designará en septiembre del año previo al de la elección, a sus integrantes y al Consejero Electoral que la presidirá.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 193.
 
-Las comisiones serán integradas con un máximo de tres consejeros electorales con voz y voto, quienes podrán participar hasta en 3 de las comisiones antes mencionadas por un periodo de 3 años, la presidencia será rotativa de forma anual entre sus integrantes.
+Las comisiones serán integradas con un máximo de tres consejeros electorales con voz y voto, quienes podrán participar hasta en 3 de las comisiones por un periodo de 3 años, la presidencia será rotativa de forma anual entre sus integrantes.
 
-Podrán participar en las comisiones, con voz pero sin voto, los representantes de los partidos políticos, excepto en las de Fiscalización y de Quejas y Denuncias.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Las comisiones permanentes contarán con un Secretario Técnico que será el titular de la Dirección Ejecutiva correspondiente. El titular de la Dirección Ejecutiva podrá ser suplido en sus funciones de Secretario Técnico por el servidor público de nivel inmediato inferior que determine.
+Podrán participar en las comisiones, solo con derecho a voz, los representantes de los partidos políticos, excepto en las de Quejas y Denuncias y de Seguimiento al Servicio Profesional Electoral Nacional.
 
-Además se podrán integrar las comisiones especiales que se consideren necesarias para el desempeño de las atribuciones del Consejo General del Instituto Electoral, integrándose con el número de miembros que acuerde el mismo Consejo.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-En todos los asuntos que les encomienden, las comisiones deberán presentar al Consejo General del Instituto un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine esta Ley o el Consejo General.
+Las comisiones permanentes contarán con un Secretario Técnico que será el titular de la Dirección Ejecutiva o Unidad Técnica correspondiente, quien asistirá a las sesiones solo con derecho a voz. El titular de la Dirección Ejecutiva o Unidad Técnica podrá ser suplido en sus funciones de Secretario Técnico por el servidor público de nivel inmediato inferior que determine.
 
-El Secretario Ejecutivo, colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Además, se podrán integrar las comisiones especiales, de carácter temporal, que se consideren necesarias para el desempeño de las atribuciones del Consejo General, integrándose con el número de miembros que acuerde el Consejo General.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de que una comisión especial continué en funciones por más de un año, la presidencia será rotativa de forma anual entre sus integrantes.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En todos los asuntos que les encomienden, las comisiones deberán presentar al Consejo General un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine esta Ley o los reglamentos y acuerdos del Consejo General.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Si por razón de su competencia, un asunto tuviera que ser conocido por dos o más comisiones, estas actuarán unidas y dictaminarán conjuntamente.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 194.
 
-En caso de que se delegue la atribución de la fiscalización por parte del Instituto Nacional al Instituto Electoral, la Comisión de Fiscalización, para el desarrollo de sus funciones podrá contar con el apoyo de especialistas externos en el área contable y de fiscalización, así como del órgano técnico de fiscalización del Instituto Nacional, previa autorización del pleno del Consejo General del Instituto y en términos de la Ley General de Partidos Políticos.
+El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto Electoral, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO 238 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, MODIFICÓ LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO PASANDO DE SEIS A CINCO FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 195.
 
-La Comisión de Prerrogativas y Partidos Políticos, tendrá las siguientes atribuciones:
+El Consejo General integrará de manera permanente las siguientes comisiones:
 
-I. Coadyuvar en la vigilancia del cumplimiento de los derechos y las obligaciones de los partidos políticos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Dar seguimiento y revisar el expediente que se integre en virtud de las solicitudes de registro como partido político estatal, que presenten al Instituto Electoral los ciudadanos;
+I. Prerrogativas y Organización Electoral;
 
-III. Elaborar el proyecto de dictamen que resuelva lo relativo a las solicitudes de registro de partidos políticos estatales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Coadyuvar en el cálculo del financiamiento público para los partidos políticos o coaliciones;
+II. Educación Cívica y Participación Ciudadana;
 
-V. Informar en el mes de diciembre de cada año, al Consejo General del Instituto sobre las actividades desarrolladas; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Las demás atribuciones que le confiera la Ley y demás ordenamientos.
+III. Administración;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Quejas y Denuncias; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+V. Seguimiento al Servicio Profesional Electoral Nacional.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO 238 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, MODIFICÓ LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO PASANDO DE DIECIOCHO A SIETE FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 196.
 
-La Comisión de Organización Electoral, tendrá las siguientes atribuciones:
+Son atribuciones de las comisiones:
 
-I. Implementar y operar lo relativo a la organización electoral, de conformidad con esta ley y las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional, conforme lo establezca la ley;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Vigilar la debida integración y funcionamiento de los órganos electorales del Instituto Electoral;
+I. Analizar, discutir y aprobar los dictámenes, proyectos de acuerdo o de resolución, y en su caso, los informes que deban ser presentados al Consejo General, así como conocer los informes que sean presentados por los Secretarios Técnicos en los asuntos de su competencia;
 
-III. Revisar el diseño, impresión y distribución de la documentación y material electoral a los consejos distritales electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Dar seguimiento a las solicitudes del registro de observadores electorales y promover su acreditación;
+II. Vigilar y dar seguimiento, en el ámbito de su competencia, a las actividades de los órganos del Instituto Electoral y tomar las decisiones conducentes para su buen desempeño;
 
-V. Coordinar la entrega-recepción de los paquetes electorales en los distritos electorales y ante el Instituto Electoral, al concluir la calificación de las elecciones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Coadyuvar en la integración de la estadística de las elecciones;
+III. Formular recomendaciones y sugerir directrices a los órganos del Instituto Electoral;
 
-VII. Promover entre la ciudadanía el ejercicio de sus derechos y el cumplimiento de sus obligaciones durante el desarrollo de los procesos electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Recabar y dar seguimiento a la información que sobre el desarrollo del proceso electoral se genere en los órganos del Instituto Electoral;
+IV. Hacer llegar a la Junta Estatal, por conducto de su Presidente, propuestas para la elaboración de las políticas y programas generales;
 
-IX. Resolver las consultas que en materia de organización electoral y jurídica se sometan a consideración del Instituto Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-X. Coadyuvar en la elaboración de los dictámenes que se presentan al Consejo General del Instituto;
+V. Solicitar información a otras comisiones o a cualquier órgano del Instituto Electoral que pudiera considerarse necesaria para el mejor desempeño de sus actividades;
 
-XI. Auxiliar al Consejo General del Instituto en el cumplimiento de las resoluciones emitidas por los organismos jurisdiccionales electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XII. Dar seguimiento al desarrollo de la Jornada electoral y atender las incidencias que se presenten;
+VI. Solicitar información a autoridades diversas al Instituto Electoral, por conducto del Consejero Presidente, y a particulares por conducto del Secretario Ejecutivo del Instituto Electoral; y
 
-XIII. Vigilar y participar en la instrumentación de los procesos de referéndum y plebiscito, y coadyuvar en la aplicación de otros instrumentos de participación ciudadana, en los términos de la normativa aplicable;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XIV. En caso de que se delegue esta atribución por el Instituto Nacional al Instituto Electoral, informar sobre la actualización del padrón y lista nominal de electores a cargo del Instituto Nacional;
+VII. Las demás que deriven de la presente Ley, reglamentos y acuerdos del Consejo General y demás disposiciones aplicables.
 
-XV. En caso de que se delegue esta atribución por el Instituto Nacional al Instituto Electoral, intervenir en el proceso de Insaculación de los ciudadanos que integrarán las mesas directivas de casilla;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XVI. En caso de que se delegue esta atribución por el Instituto Nacional al Instituto Electoral, intervenir en la determinación del número y ubicación de casillas electorales;
+### CAPÍTULO VII. DE LA JUNTA ESTATAL
 
-XVII. Informar en el mes de diciembre de cada año, al Consejo General del Instituto sobre las actividades desarrolladas; y
-
-XVIII. Las demás que le confiera la Ley, la normatividad electoral o el Consejo General del Instituto.
-
-### CAPÍTULO VII. DE LA CONTRALORÍA INTERNA DEL INSTITUTO ELECTORAL
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 197.
 
-La Comisión de Capacitación Electoral y Educación Cívica tiene las atribuciones siguientes:
+La Junta Estatal es el órgano encargado de velar por el buen desempeño y funcionamiento administrativo de los órganos del Instituto Electoral. Así como de supervisar la administración de los recursos financieros, humanos y materiales del Instituto Electoral.
 
-I. Colaborar en el desarrollo del procedimiento de insaculación de los ciudadanos que integrarán las mesas directivas de casilla, en caso de que se delegue esta atribución al Instituto Electoral;
+I. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-II. Coadyuvar en el diseño del programa de capacitación electoral que se aplicará a los candidatos a funcionarios de casilla y para la selección y evaluación de los capacitadores electorales, en caso de que se delegue esta atribución al Instituto Electoral;
+II. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-III. Coadyuvar en la elaboración de los lineamientos para el diseño de un programa informático de acopio de información que sistematice el avance del proceso de capacitación de los candidatos a funcionarios de casilla, en caso de que se delegue esta atribución al Instituto Electoral;
+III. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-IV. Supervisar permanentemente la aplicación del programa de capacitación electoral a los ciudadanos, en caso de que se delegue esta atribución al Instituto Electoral;
+IV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-V. Revisar el diseño del material didáctico y los instructivos electorales, que se utilizarán en el programa de capacitación electoral a los ciudadanos, en caso de que se delegue esta atribución al Instituto Electoral;
+V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-VI. Diseñar un programa de promoción del voto y de difusión de la cultura política y de la educación cívica;
+VI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-VII. Establecer los vínculos con diversas instituciones para la implementación conjunta de los programas de difusión de la cultura política-democrática y educación cívica;
+VII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-VIII. Supervisar el procedimiento de selección de capacitadores electorales y llevar un registro de su desempeño, en caso de que se delegue esta atribución al Instituto Electoral;
+VIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-IX. Aclarar las dudas que sobre los materiales didácticos y de capacitación se susciten en los órganos electorales del Instituto Electoral, en caso de que se delegue esta atribución al Instituto Electoral;
+IX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-X. Evaluar periódicamente durante el proceso electoral, la aplicación del programa de capacitación electoral a los ciudadanos y proponer la emisión de los acuerdos necesarios, para garantizar la integración de las mesas directivas de casilla, en caso de que se delegue esta atribución al Instituto Electoral;
+X. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-XI. Preparar los informes que se darán a conocer al Consejo General del Instituto sobre los avances de las etapas de capacitación electoral, en caso de que se delegue esta atribución al Instituto Electoral;
+XI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-XII. Coadyuvar en la integración de las mesas directivas de casilla y vigilar su difusión en los términos establecidos en la Ley, en caso de que se delegue esta atribución al Instituto Electoral;
+XII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-XIII. Informar en el mes de diciembre de cada año, al Consejo General del Instituto sobre las actividades desarrolladas; y
+XIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
 
-XIV. Las demás que le confiera la Ley, los ordenamientos electorales y el Consejo General del Instituto.
+XIV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Se integra por el Consejero Presidente, quien funge como Presidente de la Junta Estatal, el Secretario Ejecutivo, el Consejero Presidente de la Comisión de Administración, el Contralor Interno y con los Directores Ejecutivos de Prerrogativas y Organización Electoral, de Educación Cívica y Participación Ciudadana y de Administración, así como con los titulares de las Unidades Técnicas que determine el Consejo General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 198.
 
-La Comisión de Administración tiene las siguientes atribuciones:
+La Junta Estatal se reunirá por lo menos una vez al mes. Las sesiones serán convocadas y conducidas por el Consejero Presidente.
 
-I. Vigilar el cumplimiento de las disposiciones legales en la aplicación del presupuesto;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Establecer conjuntamente con la Junta Estatal y la Contraloría interna los sistemas administrativos para el ejercicio y control presupuestal;
+Las sesiones se desarrollarán conforme a lo dispuesto en el Reglamento de Sesiones de la Junta Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
 
-III. Emitir las bases para la elaboración de las convocatorias públicas, para las licitaciones y concurso para la adquisición de bienes y servicios en los términos que establezca la normatividad aplicable;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Vigilar la organización y control de la administración de los recursos materiales, humanos y financieros del Instituto Electoral;
+Sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad. Los acuerdos de la Junta Estatal deberán firmarse por todos sus integrantes.
 
-V. Evaluar las necesidades del Instituto Electoral, respecto de los recursos materiales, financieros y humanos para el cumplimiento de sus fines;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Vigilar que los recursos del Consejo se ejerzan bajo los principios de honestidad, disciplina, racionalidad, transparencia y austeridad;
+El Secretario de la Junta tiene a su cargo vigilar que se cumplan los acuerdos adoptados por la Junta Estatal.
 
-VII. Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros y materiales (sic) emita el Consejo General del Instituto;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Coadyuvar en la elaboración del manual de organización y operación del Instituto Electoral en materia financiera y presentarlo para su aprobación al Consejo General del Instituto;
+Cuando el tratamiento de los asuntos de la Junta Estatal así lo requiera, podrá solicitarse la intervención de servidores públicos del Instituto Electoral o invitados especiales, únicamente con derecho a voz.
 
-IX. Informar en el mes de diciembre de cada año, al Consejo General del Instituto sobre las actividades desarrolladas; y
-
-X. Las demás que le confiera la Ley, la normatividad aplicable y el Consejo General del Instituto.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 199.
 
-La Comisión del Programa de Resultados Electorales Preliminares, tiene las siguientes atribuciones:
+Son atribuciones de la Junta Estatal:
 
-I. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
-
-II. Diseñar la estrategia para la difusión de los resultados electorales preliminares de las elecciones locales;
-
-III. Aplicar la normatividad que regulará la operación del programa de resultados electorales preliminares;
-
-IV. Garantizar que los partidos políticos o coaliciones y candidatos independientes tengan acceso a través de medios informáticos a los resultados electorales preliminares;
-
-V. Dar seguimiento a la operación del programa de resultados electorales preliminares en los órganos del Instituto Electoral;
-
-VI. Garantizar la efectividad y eficacia del programa de resultados electorales preliminares, respecto de los resultados electorales finales;
-
-VII. Realizar acopio de las actas de escrutinio y cómputo de las casillas correspondiente al Programa de Resultados Electorales Preliminares, de las elecciones para resguardo documental de los resultados preliminares;
-
-VIII. Implementar un mecanismo de recepción ágil de las actas de escrutinio y cómputo de las casillas en los consejos distritales, para trasmitirse en el programa de resultados electorales preliminares;
-
-IX. Entregar dentro del término de cinco días siguientes al cierre del programa de resultados electorales preliminares, los resultados del mismo;
-
-X. Capacitar al personal que operará el programa de resultados electorales preliminares;
-
-XI. Informar en el mes de diciembre de cada año, al Consejo General del Instituto sobre las actividades desarrolladas; y
-
-XII. Las demás que le confiera la Ley, la normatividad aplicable y el Consejo General del Instituto.
-
-### CAPÍTULO I. DE SU INTEGRACIÓN
-
-###### ARTÍCULO 200.
-
-La Comisión de Quejas y Denuncias, tiene las siguientes atribuciones:
-
-I. Recibir y valorar los proyectos de resolución que presente la Unidad Técnica de lo Contencioso Electoral, de la Secretaría Ejecutiva;
-
-II. Realizar observaciones a la Unidad Técnica de lo Contencioso Electoral, respecto de los proyectos de resolución en caso de que éstos sean devueltos;
-
-III. Determinar la procedencia de la implementación de medidas cautelares, en términos de la presente ley;
-
-IV. Turnar al Consejo General para su estudio los proyectos de imposición de sanción, desechamiento o sobreseimiento de las investigaciones, o bien devolver a la Secretaría Ejecutiva para que por conducto de la Unidad Técnica de lo Contencioso Electoral proceda a su revalorización (sic) aquéllos en los que considere que no se encuentran agotadas las líneas de investigación;
-
-V. Dictar las medidas cautelares dentro de los procedimientos administrativos sancionadores electorales que procedan, a petición y valoración expresa de la Unidad Técnica de lo Contencioso Electoral;
-
-VI. Informar en el mes de diciembre de cada año, al Consejo General del Instituto sobre las actividades desarrolladas; y
-
-VII. Las demás que le confiera la presente ley, su reglamento y demás normatividad aplicable.
-
-La Comisión podrá sesionar cualquier día del año para efectos de tomar, en los plazos que fijen la ley y el reglamento correspondientes, las medidas cautelares a que haya lugar cuando se presente alguna queja o denuncia en la que, a juicio de la Unidad Técnica de lo Contencioso Electoral de la Secretaría Ejecutiva, proceda tomar dichas medidas.
-
-###### ARTÍCULO 201.
-
-La Junta Estatal del Instituto Electoral será presidida por el Presidente del Instituto Electoral, y se integrará con el Secretario Ejecutivo, el Presidente de la Comisión de Administración, el Contralor Interno del Instituto Electoral y con los Directores Ejecutivos de Organización y Capacitación Electoral; Jurídico; de Prerrogativas y Partidos Políticos; de Administración y el de Informática, Sistemas y Estadística.
-
-###### ARTÍCULO 202.
-
-La Junta Estatal se reunirá por lo menos una vez al mes, siendo sus atribuciones las siguientes:
-
-I. Proponer al Consejo General del Instituto las políticas y los programas generales;
+I. Proponer al Consejo General las políticas y los programas generales del Instituto Electoral;
 
 II. Fijar los procedimientos administrativos, conforme a las políticas y programas generales del Instituto Electoral;
 
-III. Supervisar y dar seguimiento al cumplimiento de los convenios celebrados con el Instituto Nacional referente al Registro Federal de Electores y para las elecciones concurrentes, en su caso, así como con otras autoridades;
+III. Supervisar y dar seguimiento al cumplimiento de los convenios celebrados con el Instituto Nacional para el proceso electoral local;
 
 IV. Integrar con el Secretario Ejecutivo los expedientes relativos a las faltas administrativas, y en su caso los de imposición de sanciones en los términos que establece esta Ley;
 
-V. Supervisar el cumplimiento de las normas aplicables a los partidos políticos con registro nacional o estatal y las prerrogativas de ambos;
+V. Vigilar el procedimiento de evaluación del desempeño de los integrantes de los consejos distritales;
 
-VI. Vigilar el procedimiento de evaluación del desempeño de los integrantes de los consejos distritales, para en el caso de los últimos determinar su recontratación;
+VI. Supervisar el cumplimiento de los programas de educación cívica y de participación ciudadana;
 
-VII. Supervisar el cumplimiento de los programas de capacitación electoral y educación cívica del Instituto Electoral;
+VII. Elaborar el proyecto de dictamen de pérdida de registro del partido político local que se encuentre en cualquiera de los supuestos del artículo 167 de esta Ley;
 
-VIII. Presentar a consideración del Consejo General del Instituto el proyecto de dictamen de pérdida de registro del partido político que se encuentre en cualquiera de los supuestos del artículo 167 de esta Ley;
+VIII. Dictar las medidas necesarias para el ejercicio de los recursos económicos conforme a las partidas presupuestales;
 
-IX. Dictar las medidas necesarias para el ejercicio de los recursos económicos conforme a las partidas presupuestales;
+IX. Recibir oportunamente del Secretario Ejecutivo los informes financieros semestral y el anual para su revisión previa, para posterior presentación a la Comisión de Administración para su validación;
 
-X. Recibir oportunamente del Secretario Ejecutivo los informes financieros semestral y el anual para su revisión previa, que presentará al Consejo General del Instituto;
+X. Integrar el Comité de Adquisiciones del Instituto Electoral;
 
-XI. Integrar el Comité de Adquisiciones del Instituto Electoral;
+XI. Vigilar el proceso de adquisiciones que se realicen en el Instituto Electoral;
 
-XII. Vigilar el proceso de adquisiciones que se realicen en el Instituto Electoral;
+XII. Vigilar que los recursos se ejerzan bajo los principios de honestidad, disciplina, racionalidad, transparencia y austeridad;
 
-XIII. Vigilar que los recursos se ejerzan bajo los principios de honestidad, disciplina, racionalidad, transparencia, y austeridad;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XIV. Otorgar la información que le sea solicitada y que no tenga el carácter de confidencial, en términos de la Ley de Acceso a la Información Pública del Estado;
+### CAPÍTULO VIII. DE LA SECRETARÍA EJECUTIVA
 
-XV. Recibir informes del Contralor Interno respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto; y
+> <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO 238 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, MODIFICÓ LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO.]</small>
 
-XVI. Las demás que le encomiende esta Ley, el Consejo General del Instituto o su Presidente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS CONSEJOS DISTRITALES ELECTORALES
+###### ARTÍCULO 200.
 
-###### ARTÍCULO 203.
+El Secretario Ejecutivo tiene a su cargo coordinar, conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos del Instituto Electoral. Los requisitos para ser designado titular de la Secretaría Ejecutiva son los siguientes:
 
-El Instituto Electoral, contará con las siguientes Direcciones:
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-I. Dirección Ejecutiva de Organización y Capacitación Electoral;
+I. Ser ciudadano mexicano además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Dirección Ejecutiva Jurídica;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-III. Dirección Ejecutiva de Prerrogativas y Partidos Políticos;
+II. Estar inscrito en el registro Federal de Electores y contar con Credencial para Votar vigente;
 
-IV. Dirección Ejecutiva de Administración; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-V. Dirección Ejecutiva (sic) Informática, Sistemas y Estadística.
+III. Tener más de treinta años de edad al día de la designación;
 
-###### ARTÍCULO 204.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-En cada una de las direcciones del Instituto Electoral, habrá un Director Ejecutivo, quien será nombrado por el Consejo General del Instituto.
+IV. Poseer al día de la designación, título profesional de nivel licenciatura, con antigüedad mínima de cinco años, y contar con los conocimientos y experiencia probadas que les permitan el desempeño de sus funciones;
 
-El Consejo General del Instituto Electoral, hará los nombramientos a que se refiere el párrafo anterior, de conformidad con lo dispuesto en la fracción V del artículo 188 de esta Ley.
-
-###### ARTÍCULO 205.
-
-Los directores ejecutivos deberán satisfacer los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento y que no haya adquirido otra nacionalidad;
-
-II. Estar en pleno ejercicio de sus derechos políticos;
-
-III. Tener más de treinta años de edad, el día de la designación;
-
-IV. Poseer el día de la designación, con antigüedad mínima de tres años, Título y Cédula Profesional de nivel licenciatura y los conocimientos que le permitan el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 V. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
-VI. Haber residido en el Estado durante los últimos dos años, salvo el caso de ausencia por desempeñar un cargo público;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VII. No desempeñar ni haber desempeñado cargo de dirigencia nacional, estatal o municipal de un partido político, en los cuatro años anteriores a la designación;
+VI. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
 
-VIII. No estar inhabilitado para ocupar cargo público de cualquier nivel;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IX. No desempeñar ni haber desempeñado el cargo de representante de partido político ante cualquier organismo electoral en los últimos cuatro años anteriores a su designación;
+VII. No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
 
-X. Haber acreditado el examen o concurso de oposición aplicado por la autoridad competente, en términos de la normatividad aplicable;
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XI. No pertenecer al estado eclesiástico, ni ser ministro de culto religioso, durante los últimos cuatro años anteriores a su designación; y
+VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cuatro años anteriores a la designación;
 
-XII. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cuatro años.
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IX. No ser secretario de Estado, ni Fiscal General de la República, Procurador de Justicia de alguna Entidad Federativa, subsecretario u oficial mayor en la Administración Pública Federal o estatal, Jefe de Gobierno del Distrito Federal, Gobernador, Secretario de Gobierno o cargos similares u homólogos en cuanto a la estructura de cada una de las entidades federativas, ni ser Presidente municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+X. No desempeñar ni haber desempeñado el cargo de representante de partido político ante cualquier organismo electoral en los últimos cuatro años anteriores al de su designación; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XI. No pertenecer al estado eclesiástico, ni ser ministro de culto religioso, durante los últimos cuatro años anteriores a su designación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 201.
+
+Son atribuciones del Secretario Ejecutivo:
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+I. Recibir poderes a nombre del Instituto Electoral para actos de dominio, de administración y para representarlo ante cualquier autoridad administrativa o judicial, o ante particulares;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+II. Conocer de las notificaciones que formulen los ciudadanos que pretendan constituirse como partidos políticos locales y realizar las actividades pertinentes;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+III. Recibir las solicitudes de registro de los ciudadanos que pretendan constituirse como partidos políticos locales; que hayan cumplido los requisitos establecidos en esta Ley e integrar el expediente respectivo para que el Presidente lo someta a la consideración del Consejo General;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Inscribir en el libro respectivo el registro de partidos, cambio de nombre, así como los convenios de fusión, frentes, coaliciones y candidaturas comunes;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+V. Llevar el registro de los representantes de los partidos políticos, coaliciones y candidaturas independientes acreditados ante los órganos electorales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Proveer a los órganos electorales de los elementos necesarios para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Colaborar con las comisiones del Consejo General para el cumplimiento de las tareas que se les hayan encomendado;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Organizar en la etapa de preparación del proceso electoral, reuniones regionales de orientación y capacitación a servidores púbicos electorales y coordinar las que con carácter distrital se celebren, así como formular los instructivos de capacitación para los servidores públicos electorales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Auxiliar al Presidente, en la recepción de las solicitudes de registro de candidatos que competan al Consejo General e informar de esos registros, por la vía más rápida a los consejos distritales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+X. Llevar los libros de registro de los candidatos a puestos de elección popular;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Preparar los proyectos de la documentación electoral y proveer lo necesario para su impresión, distribución y recolección, conforme a los lineamientos que establezca el Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Participar en los convenios que se celebren con el Instituto Nacional, respecto a la información y documentos que se generen en las diversas materias relacionadas con el proceso electoral local;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Proveer lo necesario, a fin de que se hagan oportunamente las publicaciones que ordena la Ley y las que disponga el Consejo General.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Llevar el Archivo General del Instituto Electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Ejercer y atender oportunamente la función de Oficialía Electoral por sí o por conducto de los secretarios técnicos de los consejos distritales u otros servidores públicos del Instituto Electoral, en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral. El Secretario Ejecutivo podrá delegar la atribución en servidores públicos a su cargo;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Ser fedatario de los actos o hechos exclusivamente de naturaleza electoral y expedir las certificaciones que se requieran;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Orientar y coordinar las acciones de las Direcciones Ejecutivas y demás órganos del Instituto Electoral, informando permanentemente al Presidente del Consejo General;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Ejercer las partidas presupuestales aprobadas, llevando la administración y finanzas del Instituto Electoral, con estricto apego al presupuesto aprobado por el Consejo General y bajo la supervisión de la Comisión de Administración y la Contraloría Interna;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Rendir a la Junta Estatal los informes financieros semestrales y un anual sobre el cierre del ejercicio fiscal; así como al Consejo General previa validación de la Comisión de Administración;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XX. Organizar, dirigir y controlar la administración de los recursos materiales, humanos y financieros, así como la prestación de los servicios generales en el Instituto Electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXI. Establecer y operar los sistemas administrativos para el ejercicio y control presupuestal;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXII. Con la supervisión de la Comisión de Prerrogativas y Organización Electoral, integrar y difundir la estadística electoral por casilla, sección, municipio y distrito, de las elecciones de Gobernador del Estado, Diputados y Ayuntamientos, una vez calificadas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII. Presentar al Consejero Presidente, para la aprobación del Consejo General, los proyectos de convenios a celebrarse con autoridades para el apoyo y colaboración en el cumplimiento de la función electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. En ausencia del Presidente, recibir las solicitudes de registro de candidatos y hacerlas del conocimiento del Presidente para su trámite correspondiente;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXV. Informar de manera expedita, a los consejos distritales acerca del registro que de manera directa o supletoria se hagan ante el Consejo General;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXVI. Supervisar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXVII. Sustanciar el procedimiento de pérdida del registro de los partidos políticos locales que se encuentre en los supuestos previstos en la Ley de Partidos y esta Ley, hasta dejarlo en estado de proyecto de dictamen y resolución;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXVIII. Instruir a la Unidad de Enlace el cambio de adscripción, por necesidades del Servicio Profesional Electoral Nacional, en los casos, expresamente previstos en el Estatuto del Servicio;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIX. Fungir como autoridad resolutora del Procedimiento Laboral Disciplinario del Personal del Servicio Profesional Electoral Nacional, conforme a lo dispuesto por el Estatuto del Servicio y demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXX. Informar a los órganos del Instituto Electoral sobre los acuerdos adoptados por el Consejo General para su conocimiento general;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXXI. Preparar los proyectos de resolución de las quejas o denuncias que se presenten al Consejo General para su atención, siguiendo el procedimiento establecido en el Capítulo II del Título VI de la Presente Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII. Tramitar y sustanciar los procedimientos administrativos sancionadores ordinarios y especiales establecidos en esta Ley, a través de la Unidad Técnica de lo Contencioso Electoral; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIII. Las demás que le sean conferidas por esta Ley, el Consejo General y su Presidente.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Para el mejor desempeño de sus funciones, el Secretario Ejecutivo organizará las unidades administrativas del Instituto Electoral y las que determine su Consejero Presidente.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+La Secretaría Ejecutiva tendrá adscrita una Unidad Técnica de lo Contencioso Electoral que será competente para la tramitación de los procedimientos sancionadores y demás que determine esta Ley y las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En el ejercicio de la función de oficialía electoral, el Secretario Ejecutivo, los secretarios técnicos de los consejos distritales, así como los demás servidores públicos en quien se delegue esta función tendrán las siguientes atribuciones, las cuales deberán realizar de manera oportuna:
+
+a) A petición de los partidos políticos, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
+
+b) A petición de los órganos del Instituto Electoral, constatar hechos que influyan o afecten la organización del proceso electoral;
+
+c) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales; y
+
+d) Las demás que establezca esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 202.
+
+Las Direcciones Ejecutivas tienen a su cargo la ejecución en forma directa y en los términos aprobados por el Consejo General de las actividades y proyectos contenidos en los programas institucionales, en su ámbito de competencia y especialización.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO IX. DE LAS DIRECCIONES EJECUTIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 203.
+
+Al frente de cada Dirección Ejecutiva habrá un titular, nombrado por el Consejo General.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Los Directores Ejecutivos deberán satisfacer los mismos requisitos que los establecidos en el artículo 200 de esta Ley para el Secretario Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 204.
+
+El Instituto Electoral contará con las Direcciones Ejecutivas de:
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+I. Prerrogativas y Organización Electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+II. Educación Cívica y Participación Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+III. Administración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 205.
+
+Son atribuciones de la Dirección Ejecutiva de Prerrogativas y Organización Electoral:
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+I. Elaborar el Proyecto de programa operativo anual de trabajo de la dirección;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+II. Conocer de los avisos que formulen las organizaciones de ciudadanos que pretendan constituirse como partidos políticos locales y realizar las actividades pertinentes;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+III. Recibir las solicitudes de registro de organizaciones de ciudadanos que hayan cumplido los requisitos establecidos en esta Ley para constituirse como partido político local e integrar el expediente respectivo, para que el presidente de la Comisión de Prerrogativas y Organización Electoral lo someta a la consideración del Consejo General;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Llevar en el libro respectivo el registro de partidos políticos, cambios de nombre, así como los convenios de fusión, frentes, coaliciones y candidaturas comunes;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+V. Determinar los montos del financiamiento público al que tiene derecho los partidos políticos y candidaturas independientes conforme a lo establecido en esta Ley;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Apoyar las gestiones de los partidos políticos para hacer efectivas las prerrogativas que tienen conferidas;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Llevar a cabo los trámites necesarios para que los partidos políticos y candidatos independientes ejerzan sus prerrogativas de acceso a los tiempos de radio y televisión, en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Llevar el libro de registro de los integrantes de los órganos directivos de los partidos políticos y de sus representantes acreditados ante el Consejo General y los Consejos Distritales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Coadyuvar en la realización de debates en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+X. Establecer los mecanismos de registro de candidatos a cargos de elección popular;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Realizar los estudios necesarios para la determinación de topes de gastos de precampaña y campaña, para la aprobación del Consejo General;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Apoyar, coordinar y supervisar la integración, instalación y funcionamiento de los Consejos Distritales del Instituto Electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Elaborar el diseño y coordinar la producción de la documentación y materiales electorales para el proceso electoral local y, en su caso, los relativos a mecanismos de participación ciudadana, con base en lo establecido por esta Ley y en los lineamientos que al efecto emita el Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Recabar de los consejos distritales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Recabar la documentación necesaria a fin de que el Secretario Ejecutivo integre el expediente para que el Consejo General efectúe los cómputos que le competen conforme a esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Llevar y coordinar la estadística de las elecciones ordinarias, extraordinarias y, en su caso, de los mecanismos de participación ciudadana para su procesamiento, análisis y difusión;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Instrumentar y coordinar los trámites para la recepción de solicitudes de los ciudadanos que quieran participar como observadores electorales, de conformidad con los lineamientos que para el efecto emita el Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Apoyar en la logística para el acompañamiento de los consejos distritales con los órganos desconcentrados del Instituto Nacional, en los recorridos y visitas de examinación a los lugares donde se instalarán las casillas electorales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XX. Establecer los procedimientos a seguir para la instalación y operación de las bodegas y de los espacios de custodia, así como los procedimientos para la recepción, resguardo, conteo, sellado, enfajillado y distribución de la documentación y materiales electorales a los presidentes de mesa directiva de casilla;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXI. Dar cuenta de la información que se genere el día de la jornada electoral, a través del sistema de información que al respecto se genere por el Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXII. Coordinar y supervisar la recolección de la documentación y expedientes de la casilla para su entrega a los consejos distritales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII. Establecer y coordinar la logística y operatividad para el cómputo de los resultados de las elecciones y, en su caso, de los mecanismos de participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Verificar que se lleve a cabo la entrega de las listas nominales a los partidos políticos locales acreditados y, en su caso, a los candidatos independientes acreditados ante el Instituto Electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXV. Coordinar y vigilar la destrucción de la documentación y materiales electorales utilizados y sobrantes del proceso electoral local ordinario, extraordinario y, en su caso, de los mecanismos de participación ciudadana, así como el confinamiento de líquido indeleble; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXVI. Las demás que le confiera esta Ley, el Reglamento Interior y demás normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 206.
 
-La Dirección Ejecutiva de Organización y Capacitación Electoral, tiene las siguientes atribuciones:
+Son atribuciones de la Dirección Ejecutiva de Educación Cívica y Participación Ciudadana:
 
-I. Apoyar en la integración, instalación y funcionamiento de los consejos distritales del Instituto Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Cuando esta atribución sea delegada por el Instituto Nacional al Instituto Electoral, elaborar los formatos de la documentación electoral, para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo General del Instituto;
+I. Elaborar el Proyecto de programa operativo anual de trabajo de la dirección;
 
-III. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Recabar de los consejos distritales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
+II. Elaborar y coordinar el programa de educación cívica del Instituto Electoral;
 
-V. Recabar la documentación necesaria e integrar el expediente a fin de que el Consejo General del Instituto efectúe el cómputo que conforme a esta Ley debe realizar;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Elaborar y proponer los Programas de Educación Cívica y Capacitación Electoral que se desarrollen por los órganos electorales, de acuerdo a los lineamientos del Instituto Nacional;
+III. Vigilar el cumplimiento del programa de educación cívica del Instituto Electoral;
 
-VII. Coordinar y vigilar el cumplimiento de los programas a que se refiere la fracción anterior;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Preparar el material didáctico y los instructivos electorales;
+IV. Elaborar y coordinar estrategias, así como campañas de promoción del voto y de difusión de la cultura democrática;
 
-IX. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-X. Coadyuvar en las acciones necesarias para exhortar a los ciudadanos que no hubiesen cumplido con las obligaciones establecidas en la presente Ley, en particular las relativas a inscribirse en el Registro Federal de Electores y las de voto, a que lo hagan;
+V. Diseñar y distribuir el material didáctico y los instructivos electorales que difundan la educación cívica;
 
-XI. Actuar como Secretario Técnico de las Comisiones de Capacitación Electoral y Educación Cívica y la de Organización Electoral.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XII. Acordar con el Secretario Ejecutivo del Consejo General del Instituto, los asuntos de su competencia;
+VI. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político - electorales;
 
-XIII. Llevar la estadística de los resultados de las elecciones que organiza el Instituto Electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XIV. Diseñar y distribuir el material didáctico y los instructivos electorales que difundan la cultura política y la educación cívica; y
+VII. Diseñar campañas de educación cívica para la prevención de delitos electorales en coordinación con la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Guerrero;
 
-XV. Las demás que le confiera esta Ley o le encarguen el Consejo General del Instituto, su Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Realizar y coordinar estudios e investigaciones para identificar aspectos a incluir en el programa de educación cívica;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Coordinar la vinculación en materia de educación cívica con las instituciones en el Estado, para el diseño e implementación de acciones a realizar de forma conjunta para fomentar la cultura democrática;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+X. Promover la suscripción de convenios en materia de educación cívica con instituciones y autoridades nacionales y locales, orientados a la promoción de la cultura democrática y la construcción de ciudadanía;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Elaborar y coordinar el programa de participación ciudadana del Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Vigilar el cumplimiento del programa de participación ciudadana del Instituto Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Formular y coordinar la capacitación, educación y asesoría para la promoción de los mecanismos de participación ciudadana previstos en la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIV. Elaborar los proyectos de convocatoria que deba emitir el Instituto Electoral, con motivo del desarrollo de los mecanismos de participación ciudadana previstos en la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Elaborar los procedimientos y estrategias relativas al desarrollo y ejecución de mecanismos de participación ciudadana en el Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Elaborar los contenidos y materiales que contribuyan al desarrollo y ejecución de los mecanismos de participación ciudadana previstos en la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Promover y difundir la cultura de participación ciudadana de acuerdo con los principios rectores contenidos en esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Impulsar la creación de una cultura de participación ciudadana, compromiso con la democracia, tolerancia y equidad de género;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Impulsar vínculos institucionales con el sector educativo, autoridades gubernamentales y organizaciones civiles para la promoción de intereses comunitarios y desarrollo de los principios de la participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XX. Diseñar propuestas de mejoras al marco normativo de participación ciudadana en el Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXI. Dirigir la integración, instalación y funcionamiento de las mesas receptoras de votación para los mecanismos de participación ciudadana, en términos de lo que disponga la Ley de Participación Ciudadana del Estado; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXII. Las demás que le confiera esta Ley, el Reglamento Interior y demás normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 207.
 
-La Dirección Ejecutiva Jurídica, tiene las siguientes atribuciones:
+Son atribuciones de la Dirección Ejecutiva de Administración:
 
-I. Llevar los libros de registro de los candidatos a puestos de elección popular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Coadyuvar en la recepción y trámite de los medios de impugnación que se interpongan en contra de los actos o resoluciones de los consejos General y distritales en términos de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado;
+I. Elaborar el Proyecto de programa operativo anual de trabajo de la dirección;
 
-III. Actuar como Secretario Técnico de la Comisión de Quejas y Denuncias, tener fe pública en los actos que realice dentro de la misma;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Elaborar los proyectos de acuerdos, dictámenes y de resoluciones de su competencia;
+II. Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros, materiales y humanos del Instituto Electoral;
 
-V. Revisar el cumplimiento de los requisitos de los candidatos a cargos de elección popular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Elaborar el proyecto de programa anual de trabajo de la dirección;
+III. Organizar, dirigir y controlar la administración de los recursos materiales, financieros y humanos, así como la prestación de los servicios generales del Instituto Electoral;
 
-VII. Llevar la defensa legal que requiera el Consejo General del Instituto Electoral, su Presidente o el Secretario Ejecutivo; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Las demás que les confiera esta Ley o la reglamentación correspondiente, el Consejo General del Instituto, su Presidente y el Secretario Ejecutivo.
+IV. Formular el anteproyecto anual del Presupuesto de Egresos del Instituto Electoral;
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA PRESIDENCIA Y DE LA SECRETARÍA TÉCNICA
-
-###### ARTÍCULO 208.
-
-La Dirección Ejecutiva de Prerrogativas y Partidos Políticos, tiene las siguientes atribuciones:
-
-I. Conocer de las solicitudes que formulen los ciudadanos que pretendan constituirse como partidos políticos estatales y realizar las actividades pertinentes;
-
-II. Recibir las solicitudes de registro de las organizaciones de ciudadanos que hayan cumplido los requisitos establecidos en esta Ley para constituirse como partido político estatal, e integrar el expediente respectivo, para que el Presidente de la Comisión competente lo someta a la consideración del Consejo General del Instituto;
-
-III. Inscribir en el libro respectivo el registro de partidos políticos, y cambios de nombre, así como los convenios de fusión, frentes, coaliciones y acuerdos de participación;
-
-IV. Determinar los montos del financiamiento público al que tienen derecho los partidos políticos, coaliciones y candidaturas independientes conforme a lo señalado en esta Ley;
-
-V. Apoyar las gestiones de los partidos políticos para hacer efectivas las prerrogativas que tienen conferidas en materia fiscal;
-
-VI. Tomar las medidas necesarias para que los partidos políticos y candidaturas independientes ejerzan sus prerrogativas y puedan acceder a los tiempos en radio y televisión, en los términos de la legislación aplicable;
-
-VII. Llevar el libro de registro de los integrantes de los Órganos Directivos de los partidos políticos y de sus representantes acreditados ante los Órganos del Instituto Electoral a nivel Estatal y Distrital;
-
-VIII. Actuar como Secretario Técnico de la Comisión de Prerrogativas y Partidos Políticos;
-
-IX. Elaborar el proyecto de programa anual de trabajo de la dirección;
-
-X. Elaborar el manual de procedimientos que deben observar los partidos políticos, coaliciones y candidaturas independientes en la presentación de sus informes de los egresos del financiamiento público;
-
-XI. Llevar el resguardo de los informes de finanzas y recursos de los partidos políticos, coaliciones y candidaturas independientes y presentarlos al Consejo General para los efectos conducentes;
-
-XII. Recibir de los partidos políticos, coaliciones y candidaturas independientes, sus informes financieros, mismos que se hará del conocimiento al Consejo General del Instituto para los efectos legales conducentes;
-
-XIII. Acordar con el Secretario Ejecutivo del Instituto, los asuntos de su competencia;
-
-XIV. Coadyuvar en la realización de debates en términos de la legislación aplicable; y
-
-XV. Las demás que les confiera esta Ley o la reglamentación correspondiente, el Consejo General del Instituto, su Presidente y el Secretario Ejecutivo.
-
-###### ARTÍCULO 209.
-
-La Dirección Ejecutiva de Administración, tiene las siguientes atribuciones:
-
-I. Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros, materiales y humanos del Instituto;
-
-II. Organizar, dirigir y controlar la administración de los recursos materiales, financieros y humanos, así como la prestación de los servicios generales del Instituto;
-
-III. Formular el anteproyecto anual del Presupuesto de Egresos del Instituto Electoral;
-
-IV. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal que formará parte del Instituto, así como de la evaluación, promoción, ascensos, incentivos y sanciones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 V. Diseñar y ejecutar los programas de capacitación del personal de la rama administrativa;
 
-VI. Formular, diseñar e implementar los planes, programas, estrategias y líneas de acción para los puestos de la rama administrativa;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-VII. Establecer y operar los sistemas administrativos para el ejercicio y control presupuestales y elaborar los informes que deban presentarse al Consejo General del Instituto, a la Comisión de Administración, a la Junta Estatal y a la Auditoría General del Estado acerca de su aplicación;
+VI. Formular, diseñar e implementar los planes, programas, estrategias y líneas de acción para los puestos de la rama administrativa; someterlos a consideración de la Junta Estatal y enviarlo para su aprobación al Consejo General;
 
-VIII. Elaborar el proyecto de manual de organización y el catálogo de cargos y puestos del Instituto de la rama administrativa, someterlo a consideración de la Junta Estatal y enviarlo para su aprobación al Consejo General;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IX. Atender las necesidades administrativas de los Órganos del Instituto Electoral;
+VII. Establecer y operar los sistemas administrativos para el ejercicio y control presupuestales y elaborar los informes que deban presentarse al Consejo General, a la Comisión de Administración, a la Junta Estatal y a la Auditoria General del Estado acerca de su aplicación;
 
-X. Presentar al Consejo General del Instituto, por conducto del Secretario Ejecutivo, los informes financieros semestrales respecto del ejercicio presupuestal del Instituto;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Actuar como Secretario Técnico de la Comisión de Administración;
+VIII. Elaborar el proyecto de manual de organización y el catálogo de cargos y puestos de la rama administrativa del Instituto Electoral, someterlo a consideración de la Junta Estatal y enviarlo para su aprobación al Consejo General;
 
-XII. Elaborar el proyecto de programa anual de trabajo de la dirección;
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XIII. Atender las auditorías internas y externas que se le practiquen al Instituto;
+IX. Atender las necesidades administrativas de los órganos del Instituto Electoral;
 
-XIV. Acordar con el Secretario Ejecutivo, los asuntos de su competencia; y
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XV. Las demás que le confiera esta Ley o le encomienden el Consejo General del Instituto, su Presidente o el Secretario Ejecutivo.
+X. Presentar al Consejo General, por conducto del Secretario Ejecutivo, los informes financieros semestrales respecto del ejercicio presupuestal del Instituto Electoral;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Atender las auditorías internas y externas que se le practiquen al Instituto Electoral; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Las demás que le confiera esta Ley, el Reglamento Interior y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPÍTULO X. DE LAS UNIDADES TÉCNICAS
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 208.
+
+El Consejo General podrá crear unidades técnicas para el mejor funcionamiento y logros de los fines del Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 209.
+
+Al frente de cada Unidad Técnica habrá un titular nombrado por el Consejo General.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Los titulares de las unidades técnicas deberán satisfacer los mismos requisitos que los establecidos para el Secretario Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 210.
 
-La Dirección Ejecutiva de Informática, Sistemas y Estadística, tiene las siguientes atribuciones:
+Para efectos administrativos y orgánicos, las Unidades Técnicas dependerán del Consejero Presidente y la Secretaría Ejecutiva, de acuerdo con su naturaleza y en lo dispuesto por el Reglamento Interior del Instituto Electoral.
 
-I. Diseñar las bases de datos de registro de personal y partidos políticos existentes, y las que sean necesarias para mantenerlas actualizadas;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Recopilar y sistematizar la información proporcionada por las unidades administrativas y técnicas que integran el Instituto y elaborar las estadísticas respectivas;
+Las atribuciones y estructura de las Unidades Técnicas serán determinadas en la normativa interna del Instituto Electoral.
 
-III. Coadyuvar en la elaboración de los informes diarios sobre el avance en las tareas de Capacitación Electoral, Distribución y Recolección de paquetería electoral;
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Organizar y/o supervisar el Programa de Resultados Electorales Preliminares, para lo cual podrá asesorarse de expertos en la materia;
-
-V. Diseñar un mecanismo para la integración de la estadística de las elecciones;
-
-VI. Llevar la estadística de las elecciones locales;
-
-VII. Mantener en operación el centro de cómputo y de información virtual del Instituto;
-
-VIII. Implementar los programas de difusión de la estadística de las elecciones por Casilla, Sección, Municipio, Distrito y Estado;
-
-IX. Administrar, coordinar y racionalizar los recursos técnicos que requieran los órganos del Instituto Electoral;
-
-X. Proponer la adquisición de equipos y programas de cómputo que permitan el cumplimiento de los requerimientos del Instituto;
-
-XI. Diseñar, actualizar y mantener en funcionamiento la página web del Instituto Electoral;
-
-XII. Establecer mecanismos de seguridad de la información del Instituto;
-
-XIII. Coadyuvar en la ejecución de las pruebas que sean necesarias al programa de resultados electorales preliminares, para garantizar su funcionamiento;
-
-XIV. Apoyar en su caso en la capacitación del personal que operará el sistema del Programa de Resultados Electorales Preliminares de acuerdo a los lineamientos que regulen su funcionamiento;
-
-XV. Las demás que le confiera esta Ley o le encomienden el Consejo General del Instituto, su Presidente o el Secretario Ejecutivo.
-
-### CAPÍTULO I. DE SU INTEGRACIÓN
+### CAPÍTULO XI. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 211.
 
@@ -3347,7 +3859,9 @@ El Instituto Electoral contará con un Órgano Fiscalizador de sus ingresos y eg
 
 I. A treinta días de que concluya el cargo del Contralor interno el Congreso del Estado emitirá una convocatoria pública dirigida a los profesionales en Contaduría Pública, Economía, Derecho, Administración u otra área afín a la gestión y control de recursos públicos, interesados en participar en el concurso de selección del Contralor;
 
-II. En la convocatoria se incluirán los requisitos que se deben de cumplir, que no deberán ser menores a los que se requiere para ser Director Ejecutivo del Instituto Electoral con excepción de lo establecido en la fracción X, del artículo 205, de esta Ley, y adicionalmente deberá cumplir con los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+II. En la convocatoria se incluirán los requisitos que se deben de cumplir, que no deberán ser menores a los que se requiere para ser Director Ejecutivo del Instituto Electoral, y adicionalmente deberá cumplir con los siguientes:
 
 a) No ser consejero electoral de cualquiera de los consejos del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
 
@@ -3377,7 +3891,9 @@ El contralor podrá ser sancionado por responsabilidad administrativa, mediante 
 
 Procede la aplicación de sanciones cuando se configuren las siguientes causas graves:
 
-a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la Ley en la materia;
 
 b) Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
 
@@ -3461,49 +3977,75 @@ Durante el desahogo de los procedimientos administrativos tendentes, en su caso,
 
 ## TÍTULO TERCERO. DE LOS CONSEJOS DISTRITALES ELECTORALES
 
-### CAPÍTULO II. DE SUS ATRIBUCIONES
+### CAPÍTULO I. DE SU INTEGRACIÓN
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 217.
 
-Los consejos distritales Electorales, son los organismos encargados de la preparación, desarrollo y vigilancia del proceso electoral, dentro de sus respectivas jurisdicciones, conforme a esta Ley y a las disposiciones que dicte el Consejo General del Instituto Electoral. Los consejos distritales participarán en las elecciones de Gobernador, diputados y Ayuntamientos.
+Los consejos distritales son los órganos desconcentrados del Instituto Electoral, encargados de la preparación, desarrollo y vigilancia del proceso electoral, dentro de sus respectivas jurisdicciones, conforme a esta Ley y a las disposiciones que dicte el Consejo General. Los consejos distritales participarán en las elecciones de Gobernador, Diputados y Ayuntamientos.
 
 ###### ARTÍCULO 218.
 
 En cada una de las cabeceras de los distritos electorales del Estado, funcionará un Consejo Distrital Electoral, el cual se integrará de la manera siguiente:
 
-Un Presidente, cuatro consejeros electorales, con voz y voto, designados por las dos terceras partes de votos del Consejo General del Instituto Electoral; un representante de cada partido político, coalición o candidatura independiente y una Secretaría Técnica, todos ellos con voz pero sin voto.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Un Presidente, cuatro Consejeros Electorales, con voz y voto; un representante de cada partido político, coalición o candidato independiente y un Secretario Técnico, todos ellos con voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+La designación de los consejeros electoral (sic) de los consejos distritales deberán ser aprobadas por al menos el voto de cinco consejeros electorales del Consejo General.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 219.
 
-Los consejeros distritales electorales serán electos conforme a las bases siguientes:
+Los consejeros electorales de los consejos distritales serán electos conforme al siguiente procedimiento:
 
-I. El Consejo General del Instituto en la sesión de inicio del proceso electoral aprobará una convocatoria pública, que será ampliamente difundida, con la finalidad de hacer acopio de propuestas de ciudadanos que quieran participar como consejeros electorales distritales;
+I. El Consejo General, en la sesión de inicio del proceso electoral aprobará una convocatoria pública, que será ampliamente difundida, con la finalidad de hacer acopio de propuestas de ciudadanos que quieran participar como consejeros electorales de los consejos distritales;
 
-II. La convocatoria contendrá las bases bajo las cuales se elegirán a los consejeros electorales distritales;
+II. La convocatoria contendrá las bases a que se sujetará el procedimiento de selección y designación, las etapas que integrarán el procedimiento, los requisitos que deberán cumplir los aspirantes, el domicilio en que habrá de recibirse la documentación, así como los criterios y parámetros para la evaluación y la entrevista;
 
-III. Las solicitudes y los expedientes que presenten los candidatos a consejeros electorales serán recibidas por la Secretaría Ejecutiva del Instituto y remitidos a la conclusión del término de recepción, a la Comisión de Organización Electoral para la revisión del cumplimiento de los requisitos de Ley y análisis de la documentación;
+III. Las solicitudes y los expedientes que presenten los candidatos a consejeros electorales de los consejos distritales serán recibidas por la Secretaría Ejecutiva y remitidos a la conclusión del término de recepción, a la Comisión de Prerrogativas y Organización Electoral para la revisión del cumplimiento de los requisitos de Ley y análisis de la documentación;
 
-IV. Revisada la documentación presentada, la Comisión de Organización Electoral, elaborará una lista de las personas que cumplieron con los requisitos legales establecidos y los convocará para la práctica de una entrevista personal y una evaluación de conocimientos por escrito, sobre temas preestablecidos;
+IV. Revisada la documentación presentada, la Comisión de Prerrogativas y Organización Electoral, elaborará una lista de las personas que cumplieron con los requisitos legales establecidos y la publicará en los estrados y en la página web del Instituto Electoral; asimismo, los convocará para que asistan a una evaluación de conocimientos por escrito, sobre temas preestablecidos y a la realización de una entrevista personal. El Consejo General emitirá los parámetros para la evaluación y los criterios para la realización de la entrevista, mismos que serán difundidos en la convocatoria.
 
-La evaluación la realizarán los integrantes del Consejo General del Instituto.
+La evaluación y la entrevista la realizarán los integrantes del Consejo General.
 
-V. Obtenidos los resultados de la evaluación, se integrará una lista final en orden de los mejores promedios y se elaborará un dictamen individual de los aspirantes;
+V. Conforme a los resultados obtenidos de la evaluación, se integrará una lista final en orden de los mejores promedios y se elaborará un dictamen individual de los aspirantes;
 
-VI. La lista se pondrá a consideración del Consejo General del Instituto para que se designe por las dos terceras partes de sus integrantes a los consejeros distritales propietarios y suplentes, considerando a los mejores promedios y a los que demuestren experiencia práctica en la materia electoral; y
+VI. La lista final se pondrá a consideración del Consejo General para que designe por al menos el voto de cinco consejeros electorales del Consejo General, a los consejeros electorales propietarios y suplentes de los consejos distritales, considerando a los mejores promedios y a los que demuestren experiencia práctica en la materia electoral; y
 
-VII. El Consejo General del Instituto emitirá los criterios para la realización de la entrevista y los parámetros para la evaluación, mismos que serán difundidos en la convocatoria.
+VII. Para la designación de los consejeros electorales de los consejos distritales se deberá tomar en consideración como mínimo los siguientes criterios:
+
+a) Compromiso democrático;
+
+b) Paridad de género;
+
+c) Prestigio público y profesional;
+
+d) Pluralidad cultural del Estado;
+
+e) Conocimiento de la materia electoral; y
+
+f) Participación comunitaria o ciudadana.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 220.
 
-El Consejo General elegirá de entre los consejeros al Presidente del consejo distrital.
+El Consejo General elegirá de entre los consejeros electorales propietarios al Presidente del consejo distrital.
 
 ###### ARTÍCULO 221.
 
 Los consejeros electorales y el Presidente durarán en su encargo dos procesos electorales ordinarios, pudiendo ser ratificados para un proceso electoral más, bajo los lineamientos que, en su oportunidad, apruebe el Consejo General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 222.
 
-Se considerarán ausencias definitivas de los consejeros distritales, las que se susciten por:
+Se considerarán ausencias definitivas de los consejeros electorales de los consejos distritales, las que se susciten por:
 
 I.- La renuncia expresa al cargo;
 
@@ -3511,19 +4053,29 @@ II.- La inasistencia a más de tres sesiones acumuladas sin causa justificada;
 
 III.- La incapacidad para ejercer el cargo; y
 
-IV.- La declaración que establezca la procedencia de juicio por delitos intencionales del orden común.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- La condena por delito intencional sancionado con pena corporal; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+V. El fallecimiento.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 223.
 
-Para cubrir las vacantes que se generen en el cargo de consejero electoral distrital, será llamado el suplente según el orden de prelación en que fueron designados por el Consejo General del Instituto.
+Para cubrir las vacantes que se generen en el cargo de consejero electoral del consejo distrital, será llamado el suplente según el orden de prelación en que fueron designados por el Consejo General.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 224.
 
-Los consejeros distritales electorales, deberán reunir los siguientes requisitos:
+Los consejeros electorales de los consejos distritales, deberán reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar con fotografía, con inscripción en el Estado;
+II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar con fotografía;
 
 III. No tener más de sesenta y cinco años de edad ni menos de treinta, el día de la designación;
 
@@ -3531,41 +4083,47 @@ IV. Gozar de buena reputación y no haber sido condenado por delito alguno, salv
 
 V. Tener residencia efectiva de cinco años en el Estado;
 
-VI. No haber sido registrado como candidato a cargo alguno de elección popular, en los cinco años anteriores a la designación;
+VI. No haber sido registrado como candidato a cargo alguno de elección popular, en los tres años anteriores a la designación;
 
-VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político, en los cinco años anteriores a la designación;
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político, en los tres años anteriores a la designación;
 
-VIII. No tener antecedentes de una militancia activa o pública en algún partido político, cuando menos cinco años anteriores a la fecha de la designación;
+VIII. No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
 
-IX. No desempeñar cargo de servidor público con mando medio o superior federal, estatal o municipal ni de los poderes legislativo y judicial federal o estatal, al menos que se separe del cargo un año antes al día de la designación;
+IX. No tener antecedentes de una militancia activa o pública en algún partido político, cuando menos tres años anteriores a la fecha de la designación;
 
-X. Poseer el día de la designación, preferentemente, Título Profesional en cualquiera de las carreras incluidas dentro de las ciencias sociales, o en su caso acreditar la educación media superior terminada.
+X. No desempeñar cargo de servidor público con mando medio o superior federal, estatal o municipal ni de los poderes legislativo y judicial federal o estatal, al menos que se separe del cargo un año antes al día de la designación;
 
-XI. Acreditar conocimientos en materia político-electoral mediante las evaluaciones que se le apliquen;
+XI. Poseer el día de la designación, título y cédula profesional, o en su caso, acreditar la educación media superior terminada;
 
-XII. No desempeñar al momento de la designación el cargo de Consejero Electoral en los Órganos del Instituto Nacional; y
+XII. Acreditar conocimientos en materia político-electoral mediante las evaluaciones que se le aplique; y
 
-XIII. No ser ministro de culto religioso alguno.
+XIII. No desempeñar al momento de la designación el cargo de consejero electoral en los órganos del Instituto Nacional y no ser ministro de culto religioso alguno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 225.
 
-El Secretario Técnico, será nombrado por las dos terceras partes de los consejeros Electorales, a propuesta del Presidente de cada Consejo Distrital y deberá poseer Título de Licenciado en Derecho legalmente expedido; debiendo reunir los requisitos que señala el artículo anterior, con excepción de la fracción X.
+El Secretario Técnico, será nombrado por al menos el voto de tres consejeros electorales del consejo distrital, a propuesta del Presidente de cada Consejo Distrital, debiendo reunir los requisitos señalados en el artículo anterior de la presente Ley.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 226.
 
-Los consejos distritales electorales, se instalarán a más tardar en el mes de noviembre del año anterior a la elección.
+Los consejos distritales, se instalarán a más tardar en el mes de noviembre del año anterior a la elección.
 
-A partir de su instalación y hasta la conclusión del proceso, los consejos sesionarán por lo menos una vez al mes, entrando en receso al concluir el proceso electoral respectivo.
+A partir de su instalación y hasta la conclusión del proceso electoral, los consejos distritales sesionarán por lo menos una vez al mes, entrando en receso al concluir el proceso electoral respectivo. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los consejeros electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
 
-Para que los consejos distritales puedan sesionar válidamente, es necesaria la presencia de la mayoría de los consejeros, entre los que deberá estar el Presidente, quien será suplido en sus ausencias momentáneas por el Consejero Electoral que él mismo designe. En el supuesto de que el Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo Distrital designará a uno de los consejeros Electorales presentes para que presida.
+Para que los consejos distritales puedan sesionar válidamente, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberán estar por lo menos tres consejeros electorales, incluyendo al Presidente, quien será suplido en sus ausencias momentáneas por el consejero electoral que él mismo designe. En el supuesto de que el Presidente no asista o se ausente en forma definitiva de la sesión, el consejo distrital designará a uno de los consejeros electorales presentes para que presida.
 
-En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros y representantes de los partidos o coaliciones que asistan.
+En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros y representantes que asistan. En el supuesto de que una vez instalada la sesión, se retiraran algunos de sus integrantes, ello no afectará su desarrollo, debiéndose asentar dicha circunstancia, salvo que se retire el Presidente sin designar a quien deba suplirlo o tres de los consejeros, en cuyo caso se suspenderá la sesión para continuar dentro de las veinticuatro horas siguientes.
 
-En caso de ausencia del Secretario Técnico, sus funciones serán cubiertas por la persona que designe el Consejo Distrital a propuesta del Presidente.
+En ausencia del secretario técnico, sus funciones serán cubiertas por la persona que designe el consejo distrital a propuesta del Presidente.
 
 Tomarán sus resoluciones por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS CONSEJOS DISTRITALES ELECTORALES
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO 238 PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, MODIFICÓ LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO PASANDO DE TREINTA A VEINTICUATRO FRACCIONES.]</small>
 
 ###### ARTÍCULO 227.
 
@@ -3607,9 +4165,13 @@ XVII. Hacer el cómputo distrital de los votos emitidos en las elecciones de dip
 
 XVIII. Hacer el cómputo distrital, de los votos emitidos en la elección de Gobernador del Estado;
 
-XIX. Hacer el cómputo distrital de los votos emitidos en las elecciones de diputados de representación proporcional;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XX. Enviar al Consejo General del Instituto Electoral, copia de las actas de cómputo municipal y distrital que hayan efectuado;
+XIX. Remitir al término de los cómputos correspondientes, los paquetes electorales de las elecciones de Ayuntamientos, de diputados de mayoría relativa y de Gobernador del Estado al Consejo General;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XX. Informar al Consejo General, el desarrollo de los asuntos de su competencia y los resultados de las comisiones realizadas;
 
 XXI. Expedir las constancias de mayoría y validez a la planilla de los Ayuntamientos que correspondan al distrito y a la fórmula de candidatos a diputados de mayoría relativa que hayan obtenido la mayoría de votos. Asimismo se les expedirá a los partidos o coaliciones a quienes se les asignen regidores de representación proporcional en los municipios que correspondan al distrito;
 
@@ -3617,21 +4179,11 @@ XXII. Remitir al término de los cómputos correspondientes, los paquetes electo
 
 XXIII. Informar al Consejo General del Instituto, el desarrollo de los asuntos de su competencia y los resultados de las comisiones realizadas;
 
-XXIV. Solicitar el auxilio de la fuerza pública estatal o municipal para garantizar en el distrito el desarrollo del proceso electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-XXV. Cuando esta atribución sea delegada por el Instituto Nacional al Instituto Electoral, intervenir previo cumplimiento del procedimiento de selección y evaluación aprobado por el Consejo General del Instituto, designar o supervisar a los capacitadores-asistentes electorales, que capacitaran a los ciudadanos que integraran las mesas directivas de casilla;
+XXIV. Las demás que les confiera esta Ley o les encomiende el Consejo General.
 
-XXVI. Cuando esta atribución sea delegada por el Instituto Nacional al Instituto Electoral, designar, en su caso, a las personas que se desempeñarán como asistentes electorales;
-
-XXVII. Conforme a los lineamientos que expida el Instituto Nacional, acreditar a los ciudadanos mexicanos que hayan presentado su solicitud para participar como observadores electorales durante el proceso electoral.
-
-XXVIII. Publicar mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos distritales y de los Ayuntamientos de los Municipios que integran el Distrito;
-
-XXIX. Realizar los recuentos parciales o total de votos en los casos previstos por esta Ley; y
-
-XXX. Las demás que les confiera esta Ley o les encargue el Consejo General del Instituto Electoral.
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA PRESIDENCIA Y DE LA SECRETARÍA TÉCNICA
 
 ###### ARTÍCULO 228.
 
@@ -3649,7 +4201,9 @@ V. Proponer al Consejo Distrital, el nombramiento del Secretario Técnico;
 
 VI. Coordinar las actividades del Consejo Distrital y distribuir entre las Comisiones que se integren, los asuntos de su competencia;
 
-VII. Coadyuvar con el Consejo General del Instituto, en los términos de la estrategia de coordinación que se establezca con el Instituto Nacional, en lo relativo a las diferentes materias electorales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Coadyuvar con el Consejo General, en los términos de la estrategia de coordinación que se establezcan con el Instituto Nacional, en lo relativo a las diferentes materias electorales;
 
 VIII. Informar mensualmente al Secretario Ejecutivo del Instituto Electoral, sobre el desarrollo de las actividades del Consejo Distrital que preside;
 
@@ -3659,13 +4213,17 @@ X. Recibir las solicitudes de registro de las planillas, para la elección de Ay
 
 XI. Recibir las solicitudes de registro de candidaturas de diputados de mayoría relativa;
 
-XII. Cuando esta atribución sea delegada por el Instituto Nacional al Instituto Electoral, proveer lo necesario, para que se publiquen las listas de integración de las Mesas Directivas de Casilla y su ubicación;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Proveer lo necesario para que se publiquen las listas de integración de las Mesas Directivas de Casilla y su ubicación;
 
 XIII. Informar al Consejo Distrital sobre la integración de las Mesas Directivas de las Casillas de sus respectivas jurisdicciones;
 
 XIV. Expedir en su caso, la identificación de los representantes de los partidos, coaliciones o candidaturas independientes, en un plazo máximo de cuarenta y ocho horas a partir de su registro y en todo caso, ocho días antes de la jornada electoral;
 
-XV. Recibir las solicitudes de acreditación que presenten los ciudadanos mexicanos para participar como observadores durante el proceso electoral;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Recibir las solicitudes de acreditación que presenten los ciudadanos mexicanos para participar como observadores durante el proceso electoral, en los términos que para el efecto emita el Instituto Nacional;
 
 XVI. Acreditar a los ciudadanos mexicanos que hayan presentado su solicitud para participar como observadores electorales durante el proceso electoral.
 
@@ -3683,7 +4241,9 @@ XXII. Expedir la constancia de mayoría a la fórmula de candidatos a diputados 
 
 XXIII. Recibir y dar trámite a los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Distrital, en los términos previstos en la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado;
 
-XXIV. Dar cuenta al Presidente del Consejo General del Instituto Electoral, de los cómputos correspondientes, del desarrollo de las elecciones y de los medios de impugnación interpuestos, dentro de los cuatro días siguientes a la sesión del cómputo; así como al Tribunal Electoral del Estado, en los términos del Libro Cuarto, Título Quinto de este ordenamiento;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Dar cuenta al Presidente del Consejo General, de los cómputos correspondientes, del desarrollo de las elecciones y de los medios de impugnación interpuestos, dentro de los cuatro días siguientes a la sesión del cómputo; así como al Tribunal Electoral del estado, en los términos del Libro Cuarto, Título Quinto de este ordenamiento;
 
 XXV. Integrar y remitir a la autoridad electoral competente, los expedientes que procedan en los plazos y términos que establezca la presente Ley;
 
@@ -3715,7 +4275,9 @@ VI. Firmar, junto con el Presidente del Consejo Distrital, todos los acuerdos y 
 
 VII. Auxiliar al Presidente del Consejo Distrital, en la recepción de las solicitudes de registro de candidatos que les competan, e informar de esos registros, por la vía más rápida al Consejo General del Instituto Electoral;
 
-VIII. Auxiliar al Presidente en la entrega a los Presidentes de las Mesas Directivas de Casilla, de la documentación aprobada, útiles y elementos necesarios para el desempeño de sus tareas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Auxiliar al Presidente en la vigilancia de la entrega de la documentación aprobada, útiles y elementos necesarios para el desempeño de sus tareas, a los Presidentes de las Mesas Directivas de Casilla;
 
 IX. Proveer lo necesario para la distribución y recolección de la documentación electoral autorizada;
 
@@ -3739,7 +4301,7 @@ XVIII. Las demás que le sean conferidas por el Presidente y Secretario Ejecutiv
 
 ## TÍTULO CUARTO. DE LAS MESAS DIRECTIVAS DE CASILLA
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO I. DE SU INTEGRACIÓN
 
 ###### ARTÍCULO 230.
 
@@ -3783,7 +4345,7 @@ VIII. Saber leer y escribir y no tener más de setenta años el día de la elecc
 
 IX. No ser comisario propietario, suplente o vocal de la comisaría.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
+### CAPÍTULO II. DE SUS ATRIBUCIONES
 
 ###### ARTÍCULO 233.
 
@@ -3857,7 +4419,7 @@ IV. Las demás que les confiera esta Ley.
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO II. DE LAS CAMPAÑAS ELECTORALES
+### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 238.
 
@@ -3931,7 +4493,7 @@ De los horarios que fijen los consejos distritales, informarán al Presidente de
 
 DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR Y LAS PRECAMPAÑAS ELECTORALES.
 
-### CAPÍTULO III. DE LAS ENCUESTAS, DE LOS CONTEOS RÁPIDOS Y DE LOS DEBATES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 247.
 
@@ -4087,7 +4649,7 @@ Cualquier infracción a las disposiciones contenidas en el presente Libro será 
 
 ## TÍTULO SEGUNDO. DEL PROCESO ELECTORAL
 
-### CAPÍTULO IV. DE LA SUSPENSIÓN DE LA DIFUSIÓN DE LOS PROGRAMAS DE GOBIERNO
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 267.
 
@@ -4119,7 +4681,7 @@ Atendiendo al principio de definitividad que rige en los procesos electorales, o
 
 ## TÍTULO TERCERO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
-### CAPÍTULO V. DE LOS PROCEDIMIENTOS PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPÍTULO I. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
 
 ###### ARTÍCULO 269.
 
@@ -4257,7 +4819,7 @@ III. En los casos en que la renuncia del candidato fuera notificada por éste al
 
 Las sustituciones de candidatos a que se refiere este artículo, deberán ser aprobadas por el Consejo Electoral correspondiente y publicadas en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO VI. DEL REGISTRO DE REPRESENTANTES
+### CAPÍTULO II. DE LAS CAMPAÑAS ELECTORALES
 
 ###### ARTÍCULO 278.
 
@@ -4399,7 +4961,7 @@ Los partidos políticos o coaliciones que realicen o permitan la realización de
 
 Con independencia de la sanción a que se hagan acreedores quienes realicen actos anticipados de campaña, el Consejo General del Instituto está facultado para ordenar de oficio en todo momento la suspensión inmediata de los actos que constituyan campaña anticipada.
 
-### CAPÍTULO VII. DE LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
+### CAPÍTULO III. DE LAS ENCUESTAS, DE LOS CONTEOS RÁPIDOS Y DE LOS DEBATES
 
 ###### ARTÍCULO 289.
 
@@ -4449,7 +5011,7 @@ La transmisión de los debates por los medios de comunicación será gratuita y 
 
 El Consejo General del Instituto emitirá las disposiciones normativas generales a las que se sujetarán los debates públicos, sin perjuicio de que éstas sean adicionadas por propuestas de los partidos políticos, coaliciones y candidatos, las cuales también serán aprobadas por el Consejo General del Instituto a través de acuerdo.
 
-### CAPÍTULO VIII. DE LA IMPRESIÓN DE DOCUMENTOS Y PRODUCCIÓN DE MATERIALES
+### CAPÍTULO IV. DE LA SUSPENSIÓN DE LA DIFUSIÓN DE LOS PROGRAMAS DE GOBIERNO
 
 ###### ARTÍCULO 291.
 
@@ -4461,7 +5023,7 @@ El Consejo General del Instituto vigilara que se dé cumplimiento al contenido d
 
 Cualquier infracción a las disposiciones contenidas en los Capítulos II, III y IV del presente Título, será sancionada en los términos de esta Ley, la Ley General de Delitos Electorales y de las demás leyes aplicables.
 
-### CAPÍTULO I. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
+### CAPÍTULO V. DE LOS PROCEDIMIENTOS PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTÍCULO 293.
 
@@ -4559,7 +5121,7 @@ Para la integración de la Mesa Directiva y ubicación de las Casillas Especiale
 
 En cada distrito electoral, se podrán instalar hasta cinco casillas especiales; el número y ubicación serán determinados por la autoridad competente en atención a la cantidad de municipios comprendidos en su ámbito territorial, a su densidad poblacional y a sus características geográficas y demográficas.
 
-### CAPÍTULO II. DE LA VOTACIÓN
+### CAPÍTULO VI. DEL REGISTRO DE REPRESENTANTES
 
 ###### ARTÍCULO 299.
 
@@ -4689,7 +5251,7 @@ De estos nombramientos se formará una lista que deberá entregarse a los Presid
 
 Para garantizar a los representantes generales, el ejercicio de los derechos que les otorga esta Ley, se imprimirá al reverso del nombramiento, el texto de los artículos que correspondan.
 
-### CAPÍTULO III. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
+### CAPÍTULO VII. DE LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
 
 ###### ARTÍCULO 308.
 
@@ -4731,7 +5293,7 @@ Si un partido político o coalición no participa con candidatos propios en la c
 
 Queda prohibido incluir en las boletas las fotografías, imágenes o siluetas de los candidatos registrados, por constituir un acto de proselitismo electoral el día de la jornada electoral.
 
-### CAPÍTULO IV. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DEL EXPEDIENTE
+### CAPÍTULO VIII. DE LA IMPRESIÓN DE DOCUMENTOS Y PRODUCCIÓN DE MATERIALES
 
 ###### ARTÍCULO 309.
 
@@ -4827,7 +5389,7 @@ Los consejos distritales, darán publicidad a la lista de los lugares en que hab
 
 ## TÍTULO CUARTO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO V. DE LAS GARANTÍAS DEL PROCESO ELECTORAL
+### CAPÍTULO I. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
 ###### ARTÍCULO 318.
 
@@ -4911,7 +5473,7 @@ V. El Consejo Distrital, así lo disponga, por causa de fuerza mayor o caso fort
 
 Para los casos señalados en el párrafo anterior, la Casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
 
-### CAPÍTULO I. DE LA RECEPCIÓN DE LOS PAQUETES ELECTORALES
+### CAPÍTULO II. DE LA VOTACIÓN
 
 ###### ARTÍCULO 323.
 
@@ -5037,7 +5599,7 @@ II. Causa por la que se cerró antes o después de las 18:00 horas.
 
 III. Registro de incidentes que se hayan presentado.
 
-### CAPÍTULO II. DE LOS RESULTADOS ELECTORALES PRELIMINARES
+### CAPÍTULO III. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
 
 ###### ARTÍCULO 333.
 
@@ -5167,7 +5729,7 @@ Por fuera del paquete a que se refiere el cuarto párrafo del artículo anterior
 
 Cumplidas las acciones a que se refiere el artículo anterior, los presidentes de las mesas directivas de casilla, fijarán avisos en lugar visible del exterior de las mismas, con los resultados de cada una de las elecciones, los que serán firmados por el presidente y los representantes que así deseen hacerlo.
 
-### CAPÍTULO III. DEL CÓMPUTO DE LAS ELECCIONES
+### CAPÍTULO IV. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DEL EXPEDIENTE
 
 ###### ARTÍCULO 344.
 
@@ -5201,7 +5763,7 @@ Se considerará que existe causa justificada, para que los paquetes con los expe
 
 El Consejo Distrital, hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 351 de esta Ley, las causas que se invoquen para el retraso en la entrega de los paquetes.
 
-### CAPÍTULO IV. DE LOS CÓMPUTOS EN LOS CONSEJOS DISTRITALES Y DE LA DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN DE AYUNTAMIENTOS, DIPUTADOS Y GOBERNADOR
+### CAPÍTULO V. DE LAS GARANTÍAS DEL PROCESO ELECTORAL
 
 ###### ARTÍCULO 346.
 
@@ -5279,7 +5841,7 @@ i) Presentar solicitud conforme a la convocatoria que se expida, acompañando lo
 
 ## TÍTULO QUINTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN, LOS RESULTADOS ELECTORALES, DE LOS CÓMPUTOS ELECTORALES Y DEL RECUENTO DE VOTOS
 
-### CAPÍTULO V. DEL CÓMPUTO ESTATAL DE LA ELECCIÓN DE GOBERNADOR
+### CAPÍTULO I. DE LA RECEPCIÓN DE LOS PAQUETES ELECTORALES
 
 ###### ARTÍCULO 351.
 
@@ -5301,7 +5863,7 @@ Simultáneamente a la recepción del paquete electoral se entregarán al persona
 
 De la recepción de los paquetes que contengan los expedientes de Casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta Ley.
 
-### CAPÍTULO VI. DEL CÓMPUTO ESTATAL DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
+### CAPÍTULO II. DE LOS RESULTADOS ELECTORALES PRELIMINARES
 
 ###### ARTÍCULO 352.
 
@@ -5343,7 +5905,7 @@ El pleno del Consejo General del Instituto conociendo la opinión técnica de lo
 
 Si la operación del programa es a través de un tercero, se ajustará a la normatividad que emita el Consejo General del Instituto Electoral.
 
-### CAPÍTULO VII. DEL RECUENTO PARCIAL Y TOTAL DE VOTOS DE UNA ELECCIÓN EN LOS CONSEJOS DISTRITALES
+### CAPÍTULO III. DEL CÓMPUTO DE LAS ELECCIONES
 
 ###### ARTÍCULO 357.
 
@@ -5365,7 +5927,7 @@ De no contar con algún ejemplar de estas actas, se tomaran los resultados de la
 
 Para celebrar el cómputo de una elección aplicando el procedimiento previsto en los párrafos primero y segundo de este artículo se verificará que las actas de escrutinio y cómputo de la casilla, no tengan huellas de alteración en el apartado correspondiente a la votación de los partidos políticos, coaliciones, candidaturas comunes o candidatos independientes.
 
-### CAPÍTULO VIII. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO IV. DE LOS CÓMPUTOS EN LOS CONSEJOS DISTRITALES Y DE LA DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN DE AYUNTAMIENTOS, DIPUTADOS Y GOBERNADOR
 
 ###### ARTÍCULO 361.
 
@@ -5541,7 +6103,7 @@ Los Presidentes de los consejos distritales, conservarán en su poder una copia 
 
 Asimismo, los Presidentes tomarán las medidas necesarias, para que dentro de los tres días siguientes al cómputo, se envíen al Consejo General del Instituto, los sobres que contienen la documentación de diputados de mayoría relativa, de representación proporcional y de Gobernador del Estado a que se refiere el artículo 341 de esta Ley, el cual los tendrá en depósito hasta la conclusión del proceso electoral. Hecho que sea esto a la conclusión del proceso electoral, el Consejo General, procederán a la destrucción de la documentación prevista en el párrafo segundo del mismo artículo; acto en el cual podrán estar presentes los representantes de los partidos.
 
-### CAPÍTULO IX. DEL VOTO DE LOS GUERRERENSES EN EL EXTRANJERO
+### CAPÍTULO V. DEL CÓMPUTO ESTATAL DE LA ELECCIÓN DE GOBERNADOR
 
 ###### ARTÍCULO 377.
 
@@ -5589,9 +6151,7 @@ II. Remitir al Tribunal Electoral del Estado cuando se hubiese interpuesto el Ju
 
 EL Consejero Presidente del Consejo General del Instituto, conservará en su poder una copia certificada de todas las actas y documentación del expediente del Cómputo Estatal.
 
-### CAPÍTULO I
-
-DE LAS FALTAS ADMINISTRATIVAS, SANCIONES Y DEL PROCEDIMIENTO PARA SU TRÁMITE.
+### CAPÍTULO VI. DEL CÓMPUTO ESTATAL DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
 
 ###### ARTÍCULO 384.
 
@@ -5627,7 +6187,7 @@ Concluida la asignación de diputados por el Principio de representación propor
 
 El Presidente del Consejo General del Instituto, fijará en el exterior del local al término de la sesión de asignación de diputados por el principio de representación proporcional, el resultado obtenido.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO PARA EL CONOCIMIENTO DE FALTAS Y APLICACIÓN DE SANCIONES ADMINISTRATIVAS
+### CAPÍTULO VII. DEL RECUENTO PARCIAL Y TOTAL DE VOTOS DE UNA ELECCIÓN EN LOS CONSEJOS DISTRITALES
 
 ###### ARTÍCULO 390.
 
@@ -5705,7 +6265,7 @@ Para el recuento de votos de una elección, el consejo distrital correspondiente
 
 Realizado un recuento parcial o total en el consejo distrital respectivo, el partido, coalición o candidatura independiente quedará impedido para solicitar un nuevo recuento sobre las mismas casillas ante el órgano jurisdiccional y de hacerlo será improcedente.
 
-### CAPÍTULO III. DE LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES
+### CAPÍTULO VIII. DISPOSICIONES COMPLEMENTARIAS
 
 ###### ARTÍCULO 400.
 
@@ -5727,7 +6287,7 @@ Una vez que hayan sido declaradas firmes las elecciones de diputados por los pri
 
 Recibida la notificación que refiere el artículo anterior de esta Ley, el Congreso del Estado o la Comisión Permanente, en su caso, expedirá el Bando solemne para dar a conocer la declaración de Gobernador Electo que realizó el Consejo General del Instituto, el cual será publicado en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO IX. DEL VOTO DE LOS GUERRERENSES EN EL EXTRANJERO
 
 ###### ARTÍCULO 404.
 
@@ -5737,7 +6297,9 @@ El Consejo General del Instituto Electoral proveerá lo conducente para la adecu
 
 ## TÍTULO SEXTO. DEL REGIMEN SANCIONADOR Y DISCIPLINARIO INTERNO
 
-### CAPÍTULO V. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO I
+
+DE LAS FALTAS ADMINISTRATIVAS, SANCIONES Y DEL PROCEDIMIENTO PARA SU TRÁMITE.
 
 ###### ARTÍCULO 405.
 
@@ -5971,6 +6533,8 @@ Los precandidatos que hayan obtenido la nominación para ser postulado como cand
 
 El candidato a Gobernador, diputados, planilla de Ayuntamiento y lista de regidores, que hayan obtenido el triunfo, y de la fiscalización de los informes de campaña se determina que se rebasaron los topes máximos de gastos de campaña de la elección de que se trate, será sancionado en términos de lo dispuesto por el artículo 416 de la presente Ley, sin perjuicio de lo que dispongan otros ordenamientos.
 
+### CAPÍTULO II. DEL PROCEDIMIENTO PARA EL CONOCIMIENTO DE FALTAS Y APLICACIÓN DE SANCIONES ADMINISTRATIVAS
+
 ###### ARTÍCULO 423.
 
 Para los efectos de determinar la existencia de faltas y de responsabilidad en materia administrativa electoral las autoridades electorales seguirá (sic), según corresponda, el procedimiento ordinario o especial sancionador, para el conocimiento y aplicación de sanciones.
@@ -6179,6 +6743,10 @@ III. Rechazar el proyecto de resolución y ordenar a la Unidad Técnica de lo Co
 
 Los términos previstos en este capítulo podrán ser ampliados por el Consejo General del Instituto, siempre que se justifique plenamente la necesidad de su ampliación o la imposibilidad de concluir los trabajos dentro de los mismos plazos.
 
+### CAPÍTULO III. DE LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES
+
+### CAPÍTULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+
 ###### ARTÍCULO 439.
 
 Dentro de los procesos electorales, la Secretaría Ejecutiva del Instituto, por conducto de la Unidad Técnica de lo Contencioso Electoral, instruirá el procedimiento especial, cuando se denuncie la comisión de conductas que:
@@ -6322,6 +6890,8 @@ Las notificaciones personales podrán realizarse por comparecencia del interesad
 La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes a aquél en que se dicten, entregando al denunciante y al denunciado copia certificada de la resolución.
 
 Los plazos se contarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de las quejas que se inicien antes del proceso electoral, los plazos se computarán por días hábiles, respecto de las que se presenten una vez iniciado aquél, por días naturales.
+
+### CAPÍTULO V. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### ARTÍCULO 446.
 
@@ -6532,3 +7102,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. JESÚS MARTÍNEZ GARNELO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 238 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, deberá ajustar su normativa interna, en un plazo no mayor a noventa días hábiles contado a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Publíquese este Decreto en el Periódico Oficial del Estado y en los medios electrónicos de que dispone el Congreso del Estado para la debida y amplia divulgación de este Decreto entre sus destinatarios.
+
+CUARTO.- Remítase este Decreto, al Titular del Poder Ejecutivo para los efectos legales conducentes.
