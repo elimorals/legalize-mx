@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2016-09-07"
+last_updated: "2016-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1410,6 +1410,8 @@ La suspensión condicional del proceso a prueba no revocada, extingue la acción
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 16 DE JUNIO DE 2016)</small>
 
 ### CAPITULO XVII. NO EJERCICIO DE LA ACCIÓN PENAL
+
+(NOTA: EL 19 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE JUNIO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2016)</small>
 
@@ -3117,11 +3119,15 @@ En los casos de reincidencia del delito de incumplimiento de obligaciones alimen
 
 Al integrante de un núcleo familiar que haga uso de la violencia física o moral en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas, o cause menoscabo en sus derechos, bienes o valores de algún integrante del núcleo familiar, se le impondrán de tres a siete años de prisión y de doscientos a seiscientos días multa y tratamiento psicoterapéutico, psicológico, psiquiátrico o reeducativo, sin perjuicio de las penas que correspondan por otros delitos que se consumen.
 
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de que existan datos que establezcan que se han cometido amenazas o advertencias de causar algún daño, en contra de la víctima, denunciante o terceros, derivado de la noticia criminal que se haya hecho del conocimiento de la autoridad, la pena se incrementará hasta en una mitad.
+
 Por núcleo familiar debe entenderse el lugar en donde habitan o concurran familiares o personas con relaciones de familiaridad en intimidad, o el vínculo de mutua consideración y apoyo que existe entre las personas con base en la filiación o convivencia fraterna.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2016)</small>
 
-Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad, incapaces o adultos mayores; en cuyo caso, se perseguirá de oficio.
+Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad, incapaces, mujeres o adultos mayores; en cuyo caso, se perseguirá de oficio.
 
 El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
@@ -6294,3 +6300,11 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 125.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES Y SE REFORMA EL PÁRRAFO TERCERO QUE PASA A SER CUARTO PÁRRAFO DEL ARTÍCULO 218 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
