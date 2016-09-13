@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-109369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-14"
-last_updated: "2016-01-11"
+last_updated: "2016-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-07"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 2015.
 
@@ -683,213 +683,61 @@ Participación de Representantes en comisiones.
 
 No tendrán derecho a votar en la toma de decisiones de las comisiones.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)</small>
+
 XI. DE LA SESIÓN DE CÓMPUTO DISTRITAL
 
 ###### ARTÍCULO 29.
 
-Lugar donde se celebrará la sesión.
-
-1. En el caso de los cómputos distritales, el Consejo Distrital previo proceso de planeación conjunta con sus integrantes podrá acordar que se habilite un espacio alterno cuando no sea posible realizar el recuento parcial o total dentro de la sede del órgano distrital ante las circunstancias de falta de espacio. Asimismo, el Presidente deberá informar de dicha situación, con antelación, al Consejo Local correspondiente y al Consejo General. El proceso de planeación incluirá la logística y las medidas de seguridad correspondientes a la habilitación de los espacios para la realización de los recuentos.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 30.
 
-De los actos previos a la sesión de Cómputo Distrital.
-
-1. Previo al inicio de la sesión, el Presidente garantizará que en las sesiones de Cómputos Distritales los integrantes del Consejo Distrital cuenten con copias legibles de las actas de casilla. Para tal efecto sólo se considerarán las actas disponibles, de conformidad con lo dispuesto en el párrafo 3 del artículo 36 de este Reglamento, y no las que se encuentren dentro de los paquetes electorales.
-
-2. Las actas deberán estar disponibles en las sedes de los Consejos Distritales a partir de las 10:00 horas del martes siguiente al día de la Jornada Electoral, para consulta de los Consejeros y Representantes.
-
-3. El Presidente citará, en la convocatoria a la sesión de Cómputo Distrital, a los integrantes de los Consejos, a una reunión de trabajo que se celebrará a partir de las 10:00 horas del martes siguiente al día de la elección, a efecto de que los Representantes presenten sus copias de las actas de escrutinio y cómputo de casilla, con el objeto de identificar las que no sean legibles y las faltantes.
-
-4. El Presidente ordenará la expedición, en su caso, de copias simples impresas o en medios electrónicos, de las actas ilegibles o faltantes a cada Representante, las cuales deberán ser entregadas el mismo día.
-
-5. Lo dispuesto en los párrafos anteriores no será obstáculo para que, en ejercicio de sus derechos, los Representantes soliciten copias simples o certificadas de la totalidad de las actas de las casillas instaladas en el distrito. En ese caso, el Presidente garantizará en primer término que cada uno de los Representantes acreditados cuente con un juego completo de actas legibles para fines de verificación de datos durante el desarrollo de los Cómputos Distritales e inmediatamente después, atenderá otras solicitudes.
-
-6. El Presidente presentará un análisis preliminar sobre la clasificación de los paquetes electorales con y sin muestras de alteración; de las actas de casilla que no coincidan; de aquellas en que se detectaran alteraciones, errores o inconsistencias evidentes en los distintos elementos de las actas; de aquellas en las que no exista en el expediente de casilla ni obre en poder del Presidente el acta de escrutinio y cómputo; y en general, de aquellas en las que exista causa para la realización del escrutinio y cómputo distrital de los votos.
-
-7. Los Representantes podrán presentar su propio análisis preliminar sobre los rubros a que se refiere el párrafo anterior, sin perjuicio de que puedan realizar observaciones y propuestas al del Presidente.
-
-8. Lo dispuesto en los dos párrafos anteriores, no limita el derecho de los integrantes del Consejo Distrital a presentar sus respectivos análisis durante el desarrollo de la sesión de cómputos.
-
-9. El Secretario deberá levantar desde el inicio un acta que deje constancia de las actividades desarrolladas en la reunión de trabajo previa a la Sesión de Cómputo Distrital, misma que será firmada al margen y al calce por todos aquellos que intervinieron. Asimismo, agregará los informes que presente el Presidente del Consejo, así como los análisis preliminares que, en su caso, presenten los Representantes.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 31.
 
-Del procedimiento de Cómputo Distrital.
-
-1. Para realizar el Cómputo Distrital de cada una de las elecciones, se seguirá el orden y procedimiento establecido por los artículos 309 al 315 de la Ley Electoral.
-
-2. El Presidente garantizará que cada uno de los cómputos se desarrolle de manera sucesiva e ininterrumpida, en los términos establecidos en la Ley Electoral y en la normatividad que para tal efecto emita el Consejo General.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 32.
 
-Desarrollo de la sesión.
-
-1. Para el desarrollo de la sesión de cómputo distrital se estará a lo siguiente:
-
-a) El Presidente será suplido en sus ausencias momentáneas en los términos establecidos en el artículo 17, párrafo 2 del Reglamento.
-
-b) En sesión previa a la Jornada Electoral, los Consejos Distritales podrán acordar que el Secretario del Consejo sea sustituido en sus ausencias por algún miembro del Servicio Profesional Electoral Nacional de la Junta Distrital respectiva.
-
-c) Asimismo, los Consejeros y los Representantes podrán acreditar en sus ausencias a sus suplentes.
-
-d) En caso de ausencia de los Consejeros a la sesión, el Presidente deberá requerir la presencia de los Consejeros propietarios o suplentes, a fin de garantizar el quórum, sin suspender la sesión.
-
-e) No será aplicable lo dispuesto en el párrafo 4 del artículo 14 del Reglamento.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 33.
 
-Mecanismos de deliberación en la sesión de Cómputo Distrital.
-
-1. Instalada la sesión, se pondrá a consideración del Consejo Distrital el contenido del orden del día.
-
-2. Como primer punto del orden del día el Presidente informará de los Acuerdos tomados en la reunión de trabajo del día anterior, con base en el acta referida en el artículo 30, párrafo 9 del presente Reglamento; acto seguido consultará a los Representantes si desean ejercer el derecho que les concede el artículo 311, párrafo 2 del de la Ley Electoral, en caso de que se actualice el supuesto previsto por la referida disposición legal.
-
-3. En la sesión de Cómputo Distrital, para la discusión de los asuntos en general de su desarrollo, serán aplicables las reglas de participación previstas por el artículo 18 del presente Reglamento.
-
-4. En el caso del debate sobre el contenido específico del acta de escrutinio y cómputo de casilla se sujetará a las reglas siguientes:
-
-a) Se abrirá una primera ronda de intervenciones de tres minutos para exponer su argumentación, correspondiente al asunto respectivo;
-
-b) Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso se abrirá una segunda ronda de intervenciones de dos minutos para réplicas y posteriormente se procederá a votar.
-
-5. En el caso de la validez o nulidad de los votos reservados para ser dirimidos en el pleno del Consejo Distrital, se sujetará a las siguientes reglas:
-
-a) Se abrirá una primera ronda de intervenciones de dos minutos por cada boleta reservada para exponer su argumentación;
-
-b) Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso, se abrirá una segunda ronda de intervenciones de hasta por un minuto para réplicas; y
-
-c) Una vez que concluya la segunda ronda, el Presidente solicitará se proceda a tomar la votación correspondiente.
-
-6. Durante el desarrollo de la sesión de cómputos, a efecto de salvaguardar los derechos de todos los integrantes del Consejo y para garantizar el adecuado curso de las deliberaciones, el Presidente cuidará que los oradores practiquen la moderación en el ejercicio de su derecho al uso de la palabra.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 34.
 
-De las causas para realizar el recuento parcial de votos.
-
-1. Se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose la correspondiente Acta de Escrutinio y Cómputo de Casilla en el Consejo Distrital, en los casos siguientes:
-
-a) Cuando no coincidan los resultados del acta de escrutinio y cómputo contenida en el expediente de casilla, con los resultados que de la misma obre en poder del Presidente o de los Representantes;
-
-b) Cuando se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla;
-
-c) Cuando no exista el acta de escrutinio y cómputo en el expediente de la casilla, ni obre en poder del Presidente;
-
-d) Cuando existan errores o inconsistencias evidentes en los distintos elementos de las actas, salvo que puedan corregirse o aclararse con otros elementos a satisfacción plena de quien lo haya solicitado;
-
-e) Cuando el número de votos nulos sea mayor a la diferencia entre los candidatos ubicados en el primero y segundo lugar en la votación; y
-
-f) Cuando todos los votos hayan sido depositados a favor de un mismo partido.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 35.
 
-Del recuento parcial de votos en Grupos de Trabajo.
-
-1. El Consejo General emitirá, previo a la Jornada Electoral, los Lineamientos para determinar la creación y funcionamiento de Grupos de Trabajo para el recuento parcial de votos, cuando estime que existe el riesgo de que la sesión de cómputo distrital no concluya antes del domingo siguiente al de la Jornada Electoral.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 36.
 
-Del recuento de votos en la totalidad de las casillas.
-
-1. Cuando en una elección exista indicio de que la diferencia de votos en un distrito entre los candidatos que ocupen el primero y el segundo lugar sea igual o menor a un punto porcentual y el Representante que postuló al candidato que ocupa el segundo lugar, solicite al inicio de la sesión de Cómputo Distrital el recuento de votos en la totalidad de las casillas, el Consejo Distrital procederá a realizarlo.
-
-2. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo Distrital de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito.
-
-3. Para poder determinar la diferencia porcentual a que se refiere el presente artículo, el Consejo Distrital deberá acudir a los datos obtenidos:
-
-a) De la información preliminar de los resultados;
-
-b) De la información contenida en las actas destinadas al Programa de Resultados Electorales Preliminares;
-
-c) De la información obtenida de las copias de las actas de escrutinio y cómputo de casilla de la elección correspondiente que obre en poder del Presidente; y
-
-d) De la información obtenida de las copias de las actas de escrutinio y cómputo de casilla de la elección correspondiente que obren en poder de los Representantes.
-
-4. Cuando el Consejo Distrital tenga duda fundada de la autenticidad de alguna de las copias de las actas presentadas por los Representantes a que se refiere el inciso d) del párrafo anterior, podrá acudir a mecanismos diversos para corroborar su valor de indicio, tales como verificar que reúnan los requisitos de los formatos aprobados por el Consejo General, si presentan datos y firmas que concuerden con los de las Actas de la Jornada Electoral de la misma casilla, u otros adicionales.
-
-5. Si al término del cómputo, de los resultados contenidos en el Acta de Cómputo Distrital se desprende que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar, es igual o menor a un punto porcentual y el Representante del partido que postuló al candidato que ocupa el segundo lugar solicita el recuento de votos en la totalidad de las casillas instaladas en el distrito, el Consejo Distrital deberá proceder a realizar dicho recuento. En este caso, se excluirán del procedimiento las casillas que ya hubiesen sido objeto de recuento.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 37.
 
-De los actos preventivos para la integración de Grupos de Trabajo.
-
-1. Si de la verificación de los resultados preliminares de la elección el Presidente contempla la posible actualización del supuesto a que se refiere el artículo 311, párrafo 4, de la Ley Electoral, o si se advierte la necesidad de un recuento parcial amplio, informará a los integrantes del Consejo Distrital de la procedencia del recuento en Grupos de Trabajo.
-
-Los partidos políticos podrán acreditar a sus Representantes por cada Grupo de Trabajo a través de la propia representación ante el Consejo Distrital o por la autoridad estatutaria competente, de conformidad con los Lineamientos que para tal efecto apruebe el Consejo General. Los partidos políticos serán los responsables de convocar a sus Representantes y, en su caso, de garantizar su presencia.
-
-2. De igual manera, convocará por escrito a los Consejeros suplentes para que asistan a la sesión de Cómputo Distrital, informándoles de las funciones que podrían desempeñar en apoyo de los respectivos Consejos Distritales.
-
-3. El Consejo General acordará mediante los Lineamientos respectivos que los Grupos de Trabajo cuenten con el personal adscrito a la Junta Distrital o Local Ejecutivas necesario para apoyar su funcionamiento; asimismo determinará la cantidad y funciones específicas que deban desempeñar. Este personal será propuesto por el Presidente y aprobado por el Consejo Distrital al menos un mes antes de la Jornada Electoral para su oportuna y debida capacitación.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 38.
 
-Del funcionamiento de los Grupos de Trabajo.
-
-1. En el caso de recuento total o parcial de votos de las casillas instaladas en un distrito, los Grupos de Trabajo se integrarán para su funcionamiento con un Vocal de la Junta Distrital Ejecutiva que los presidirá, al menos un Consejero propietario o suplente convocado para tal fin y los Representantes que hubieran sido acreditados. Asimismo, podrán ser auxiliados en sus funciones por personal de la Junta Distrital Ejecutiva, personal técnico y administrativo, supervisores y capacitadores asistentes electorales, y de ser necesario, de la Junta Local Ejecutiva, con la finalidad de garantizar la continuidad del Cómputo Distrital hasta su conclusión.
-
-El personal que designe oficialmente el Consejo Distrital para este fin, deberá portar gafete de identificación con fotografía. El personal de la Junta Local y de las Juntas Distritales Ejecutivas, así como el personal técnico, administrativo, supervisores y capacitadores asistentes electorales a que se refiere el párrafo anterior, podrán auxiliar al Vocal que presida el Grupo de Trabajo, en la instrumentación y desarrollo operativo de los recuentos, bajo la supervisión de éste y de los consejeros conforme a los Lineamientos que al efecto emita el Consejo General, en las siguientes actuaciones:
-
-a) Colaborar en la apertura de la bodega y traslado de los paquetes electorales a los Grupos de Trabajo;
-
-b) Auxiliar, de ser necesario, a los funcionarios encargados del recuento de votos
-
-c) Registrar y suscribir los resultados del recuento de votos de cada casilla sujeta a este procedimiento en los formatos que acuerde el Consejo General para este fin;
-
-d) Turnar, para su integración al acta circunstanciada, el registro de resultados de cada paquete electoral recontado;
-
-e) Validar la información de cada registro con los datos integrados al acta circunstanciada;
-
-f) Reintegrar la documentación a los paquetes electorales de origen y trasladarlos a la bodega del Consejo Distrital.
-
-2. El Presidente llevará a cabo las acciones necesarias para convocar y facilitar la oportuna acreditación de los Representantes en dichos grupos. En todo caso, la falta de acreditación o asistencia de los Representantes al momento en que se haya acordado el inicio de las actividades de los Grupos de Trabajo, no impedirá el funcionamiento de éstos. No se negará el acceso de los Representantes acreditados ante los Grupos de Trabajo.
-
-3. Para realizar el recuento total o parcial de los votos respecto de una elección determinada, el Consejo Distrital podrá crear hasta cinco Grupos de Trabajo.
-
-4. Si durante el recuento de votos realizado en los Grupos de Trabajo se encuentran en el paquete votos de una elección distinta, serán apartados a efecto de que sean contabilizados para la elección de que se trate al momento de que se realice el cómputo respectivo.
-
-5. En caso de que en los Grupos de Trabajo existiera controversia entre sus miembros sobre la validez o nulidad de alguno o algunos de los votos, éstos se reservarán y deberán ser sometidos a consideración y votación del pleno del Consejo para que éste resuelva en definitiva.
-
-6. El Vocal comisionado para presidir cada grupo, levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla, el resultado que arroje la suma de votos por cada partido y candidato, así como el detalle de cada uno de los votos que fueron reservados para que el Consejo se pronuncie sobre su validez o nulidad, identificando la casilla y sección a que pertenecen.
-
-7. Al término del recuento, el Vocal que hubiera presidido cada grupo deberá entregar de inmediato el acta al Presidente, así como un ejemplar a cada uno de los integrantes del Grupo de Trabajo, para que sea entregado al Representante en funciones ante el Consejo Distrital. En este momento, y para todo fin, se considerarán concluidos los trabajos y la integración de los propios grupos.
-
-8. Una vez que el Consejo Distrital haya decidido en definitiva sobre la validez o nulidad de los votos que hubieran sido reservados, el Presidente realizará en sesión plenaria la suma de los resultados consignados en el acta de cada Grupo de Trabajo y, previa verificación de ésta por los integrantes del Consejo Distrital, asentará el resultado en el Acta Final de Escrutinio y Cómputo de la elección de que se trate.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 39.
 
-Previsiones Logísticas
-
-1. Los Consejos Distritales deberán contar con los recursos humanos, materiales, técnicos, logísticos, tecnológicos y financieros necesarios para la realización de los Cómputos Distritales, conforme al presupuesto asignado.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 40.
 
-Análisis de elegibilidad de candidatos a diputados y senadores, y declaratoria de validez de la elección.
-
-1. Una vez concluido el Cómputo Distrital o de entidad federativa, se hará constar en el acta circunstanciada de la sesión lo siguiente:
-
-a) Los resultados obtenidos;
-
-b) Los incidentes que ocurrieren durante la sesión;
-
-c) La declaración de validez de la elección, para lo cual se verificará el cumplimiento de los requisitos formales de la elección; y
-
-d) La elegibilidad de los candidatos de la fórmula que hubiese obtenido la mayoría de los votos.
-
-2. Para el análisis de la elegibilidad de los candidatos, los Consejos Locales y Distritales verificarán el cumplimiento de los requisitos establecidos en los artículos 55 y 58 de la Constitución Política de los Estados Unidos Mexicanos y 10 de la Ley Electoral.
-
-En el caso de los registros supletorios de las fórmulas de candidatos a Senadores y Diputados por el principio de mayoría relativa que realiza el Consejo General, el Secretario de dicho consejo deberá remitir, en original o copia certificada, el expediente correspondiente al registro del candidato de que se trate al Consejo respectivo, para que éste pueda realizar la revisión de los requisitos de elegibilidad, con base en la documentación que le haya sido proporcionada.
-
-Tal remisión deberá realizarse antes del inicio de la sesión de cómputo correspondiente y con la oportunidad debida a efecto de que el consejo competente se encuentre en aptitud de revisar dicha documentación y determinar lo conducente.
-
-La determinación que al respecto adopten los Consejos Distritales y Locales deberá estar fundada y motivada.
-
-3. Una vez emitida la declaración de validez de la elección correspondiente, el Presidente expedirá la constancia de mayoría y validez a quien hubiese obtenido el triunfo, salvo el caso de que los integrantes de la fórmula fueren inelegibles.
-
-4. El contenido de este artículo aplicará también para la sesión de Cómputo de entidad federativa a cargo de los Consejos Locales, en el caso de la elección de Senadores.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 ###### ARTÍCULO 41.
 
-1. Cuando se presente alguna consulta popular, los Consejos Locales y Distritales realizaran el cómputo de la consulta correspondiente de conformidad con lo establecido en la sección sexta, capítulo tercero de la Ley Federal de Consulta Popular, así como en lo dispuesto en los Acuerdos y/o Lineamientos que, en su caso, emita el Consejo General para llevar a cabo la organización y desarrollo de los mismos.
+(DEROGADO POR EL PUNTO QUINTO Y EL TRANSITORIO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, D.O.F. 13 DE SEPTIEMBRE DE 2016)
 
 XII. DE LAS REFORMAS AL REGLAMENTO
 
@@ -930,3 +778,119 @@ Tercero.- Se instruye a la Secretaría Ejecutiva para que notifique el presente 
 Cuarto.- Los partidos políticos locales y los candidatos independientes locales tendrán representación ante los Consejos Locales y Distritales del Instituto una vez que hayan obtenido su acreditación ante los mismos.
 
 Quinto.- Publíquese de inmediato el presente Acuerdo en el Diario Oficial de la Federación, así como en la página de internet del Instituto.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2016.
+
+> <small>[N. DE E. PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL”.]</small>
+
+Primero. Se aprueba el Reglamento de Elecciones y sus anexos en los términos que se presenta.
+
+Segundo. Se aprueban los siguientes anexos que forman parte integral del Reglamento:
+
+1. Rubros que deberán considerarse como materia de coordinación con los OPL y estructura de los instrumentos de coordinación del INE con los OPL
+
+2. Procedimiento para el resguardo de formatos de credencial para votar por Proceso Electoral Federal
+
+3. Criterios generales de carácter científico, aplicables en materia de encuestas por muestreo, encuestas de salida y/o conteos rápidos no institucionales
+
+4.1 Documentos y materiales electorales
+
+4.2 Procedimiento de verificación de las medidas de seguridad en la documentación electoral y el líquido indeleble
+
+5. Bodegas electorales y Procedimiento para el conteo, sellado y agrupamiento de boletas electorales
+
+6.1 Solicitud de acreditación de observadores electorales
+
+6.2 Solicitud de ratificación de observadores electorales
+
+6.3 Constancia de acreditación ante el Consejo Distrital
+
+6.4 Constancia de acreditación ante el Consejo Local
+
+6.5 Gafete de observador electoral
+
+7. Solicitud de acreditación de visitante extranjero
+
+8.1 Manual de ubicación, integración y funcionamiento de casillas electorales
+
+8.2 Causas por las que un elector en tránsito no puede votar.
+
+8.3 Formato de acreditación para Operador del equipo de cómputo responsable/auxiliar de la casilla especial de la sección
+
+8.4 Formato de gafete de acreditación como Operador Responsable/Auxiliar del equipo de cómputo de la casilla especial instalada en la sección
+
+9.1 Especificaciones Técnicas de los emblemas de Partidos Políticos con registro estatal o de candidatos independientes
+
+9.2 Formatos de nombramientos de representantes generales y ante MDC y ratificaciones correspondientes
+
+9.3 Modelo de relación de representantes ante MDC
+
+10.1 Procedimiento para la captura en el Sistema Nacional de Registro de Precandidatos y Candidatos
+
+10.2 Plan y Calendario integral de capacitación respecto al uso del Sistema Nacional de Registro de Precandidatos y Candidatos
+
+11.1 Modelo único de estatutos para asociaciones civiles constituidas para la postulación de candidatos independientes
+
+11.2 Formato de manifestación de intención
+
+11.3 Formato de manifestación de voluntad de ser registrado como candidato independiente
+
+11.4 Formato de escrito de no aceptación de recursos de procedencia ilícita
+
+11.5 Formato de escrito de conformidad para que el INE fiscalice cuenta bancaria
+
+11.6 Formato de solicitud de registro de candidatura independiente
+
+12 Mecanismos de recolección de la documentación electoral al término de la Jornada Electoral.
+
+13 Lineamientos del Programa de Resultados Electorales Preliminares (PREP)
+
+14 Criterios para la recepción de los Paquetes Electorales en las sedes de los órganos competentes del Instituto y de los OPL, al término de la Jornada Electoral.
+
+15 Lineamientos para el diseño de las tablas de resultados electorales de los OPL para su incorporación al sistema de consulta de la estadística electoral.
+
+16 Procedimiento para la destrucción de documentación electoral
+
+16.1 Formatos 1 a 3
+
+Tercero. Se abrogan los Acuerdos: INE/CG187/2014, INE/CG25/2014, INE/CG170/2016, INE/CG12/2015, INE/CG266/2014, INE/CG1064/2015, INE/CG865/2015, INE/CG269/2014, INE/CG333/2014, INE/CG948/2015, INE/CG61/2016, INE/CG87/2015, INE/CG183/2014, INE/CG839/2015, INE/CG876/2015, INE/CG112/2014, INE/CG237/2015, INE/CG257/2014, INE/CG38/2016, INE/CG259/2014, INE/CG57/2015, INE/CG828/2015, INE/CG952/2015, INE/CG950/2015, INE/CG920/2015, INE/CG1075/2015, INE/CG101/2014, INE/CG841/2015, INE/CG842/2015, INE/CG917/2015, INE/CG92/2014, INE/CG995/2015, INE/CG188/2014, INE/CG220/2014, INE/CG238/2015, INE/CG131/2015, INE/CG90/2014, INE/CG122/2016, INE/CG164/2014, INE/CG934/2015, INE/CG204/2014, INE/CG229/2014, INE/CG1013/2015, INE/CG114/2014, INE/CG112/2015, INE/CG262/2015, INE/CG263/2016, INE/CG155/2014, INE/CG111/2015, INE/CG1070/2015, INE/CG/1082/2015, INE/CG211/2014, INE/CG120/2016, INE/CG308/2014, INE/CG209/2014, INE/CG210/2014, INE/CG273/2014, INE/CG343/2014, INE/CG48/2015, INE/CG223/2014, INE/CG193/2016, INE/CG133/2014, INE/CG228/2015, INE/CG985/2015, INE/CG89/2014, INE/CG951/2015, INE/CG/230/2014, INE/CG1012/2015, INE/CG935/2015, INE/CG331/2014, INE/CG15/2015, INE/CG306/2015, INE/CG921/2015, INE/CG957/2015, INE/CG209/2015, INE/CG1074/2015, INE/CG11/2015, INE/CG89/2015, INE/CG804/2015, INE/CG175/2016, INE/CG174/2016, INE/CG107/2016, INE/CG318/2015, INE/CG840/2015, INE/CG1069/2015, INE/CG02/2016, INE/CG351/2014, INE/CG928/2015, INE/CG1073/2015, INE/CG1080/2015, INE/CG108/2016, INE/CG1014/2015, INE/CG198/2015, INE/CG1016/2015, INE/CG192/2016, INE/CG282/2016 e INE/CG264/2016, INE/CG260/2014, INE/CG900/2015, así como los anexos que deriven de los mismos.
+
+Cuarto. Se abroga el REGLAMENTO PARA EL EJERCICIO DE LAS ATRIBUCIONES ESPECIALES VINCULADAS A LA FUNCIÓN ELECTORAL EN LAS ENTIDADES FEDERATIVAS.
+
+Quinto. Se deroga el apartado XI De la Sesión de Cómputo Distrital, del Reglamento de Sesiones de los Consejos locales y distritales del Instituto Nacional Electoral.
+
+Sexto. El Reglamento y sus anexos entrarán en vigor a partir de su aprobación y junto con este Acuerdo deberán publicarse de inmediato en el Diario Oficial de la Federación
+
+Séptimo. Notifíquese de inmediato a los organismos públicos locales y a los demás sujetos obligados a través de la página de Internet de este órgano administrativo.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL”.]</small>
+
+PRIMERO. El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General.
+
+SEGUNDO. Con la entrega (sic) en vigor del presente Reglamento, queda abrogado el Reglamento del Instituto Nacional Electoral para el Ejercicio de las Atribuciones Especiales vinculadas a la Función Electoral en las Entidades Federativas.
+
+TERCERO. Con la entrada en vigor de este Reglamento, se deroga el Capítulo XI del Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto Nacional Electoral, denominado De la Sesión de Cómputo Distrital.
+
+CUARTO. A partir de la entrada en vigor de este Reglamento, quedan abrogados los acuerdos emitidos por el Consejo General precisados en el acuerdo por el cual se aprobó este ordenamiento.
+
+QUINTO. A más tardar en el mes de noviembre de 2016, la Comisión de Vinculación con Organismos Públicos Locales deberá presentar para su aprobación en el Consejo General, los lineamientos para regular los flujos de información entre el Instituto Nacional Electoral y los Organismos Públicos Locales de las entidades federativas, en formatos y bases de datos homogéneos que permitan su incorporación a la RedINE.
+
+Una vez aprobados, dichos lineamientos deberán incorporarse como anexos a este Reglamento.
+
+SEXTO. A más tardar en el mes de diciembre de 2016, la Comisión del Registro Federal de Electores deberá presentar para su aprobación en el Consejo General, los procedimientos para la generación, entrega, reintegro, borrado seguro y destrucción de las listas nominales de electores para revisión, así como los procedimientos para la generación, impresión, entrega, devolución y destrucción de las listas nominales de electores para su uso en las jornadas electorales. Una vez aprobados, dichos procedimientos deberán incorporarse como anexos a este Reglamento.
+
+SÉPTIMO. La modalidad de voto electrónico para mexicanos residentes en el extranjero será aplicable en los procesos electorales, siempre que se cumpla con lo establecido en el Libro Sexto de la LGIPE.
+
+OCTAVO. A más tardar, antes del inicio del próximo proceso electoral federal, la Junta General Ejecutiva deberá presentar al Consejo General para su aprobación, los lineamientos a través de los cuales se determine el procedimiento para la realización del voto de los mexicanos residentes en el extranjero en todas sus modalidades. Una vez aprobados, dichos lineamientos deberán incorporarse al anexo correspondiente de este Reglamento.
+
+NOVENO. En el punto de acuerdo vigésimo noveno del acuerdo INE/CG934/2015, se estableció que a más tardar el 30 de octubre de 2016, el Consejo General aprobaría, a propuesta de la Comisión de Organización Electoral, los lineamientos generales para la acreditación y desarrollo de las actividades de los ciudadanos mexicanos que actuarán como observadores electorales durante los procesos electorales federales y locales, concurrentes o no y, en su caso, de las consultas populares y demás formas de participación ciudadana que se realicen. No obstante, dada la aprobación del presente Reglamento, tal mandato se deja sin efectos.
+
+DÉCIMO. Conforme a las disposiciones constitucionales, internacionales y legales reconocidas por el Estado Mexicano en materia de eliminación de toda forma de discriminación contra las personas con alguna discapacidad, la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica presentará al Consejo General para su aprobación, un protocolo de actuación institucional respecto a la participación de las personas con discapacidad en la integración de mesas directivas de casilla, antes del inicio de la próxima campaña electoral correspondiente al primer proceso electoral local 2016-2017. Una vez aprobado, dicho protocolo deberá incorporarse al anexo correspondiente de este Reglamento.
+
+DÉCIMO PRIMERO. A más tardar, antes del inicio del próximo proceso electoral federal, la Comisión de Prerrogativas y Partidos Políticos deberá presentar al Consejo General para su aprobación, los lineamientos a través de los cuales se establezca el procedimiento para la verificación del porcentaje de apoyo ciudadano que se requiere para el registro de candidaturas independientes. Una vez aprobados, dichos lineamientos deberán incorporarse al anexo correspondiente de este Reglamento.
+
+DÉCIMO SEGUNDO. A más tardar en el mes de octubre de 2016, la Comisión de Organización Electoral, a propuesta de la Dirección Ejecutiva de Organización Electoral, deberá presentar al Consejo General para su aprobación, las bases generales que regulen el desarrollo de las sesiones especiales de cómputo correspondientes a las elecciones locales. Asimismo, conforme a dichas bases generales, a más tardar el treinta y uno de enero de 2017, los Organismos Públicos Locales que celebren elecciones en esa anualidad, deberán emitir lineamientos a través de los cuales se regule el desarrollo de las sesiones especiales de cómputo.
+
+DÉCIMO TERCERO. A más tardar el treinta y uno de agosto de 2017, la Comisión de Organización Electoral, a propuesta de la Dirección Ejecutiva de Organización Electoral, deberá presentar al Consejo General para su aprobación, los lineamientos generales a través de los cuales se regule el desarrollo de sesiones especiales de cómputo correspondientes a las elecciones federales. En la señalada temporalidad, todos los Organismos Públicos Locales en cuyas entidades federativas se celebren elecciones en 2018, deberán emitir o ajustar, según corresponda, los lineamientos a través de los cuales se regule el desarrollo de las sesiones especiales de cómputo de sus elecciones.
+
+DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al inicio de vigencia de este Reglamento, por las distintas áreas y direcciones del Instituto y de los Organismos Públicos Locales, en el ámbito de sus competencias, así como aquéllas cuya ejecución se contemple antes del inicio de los procesos electorales locales 2016-2017, deberán ajustarse, en lo conducente, a las reglas y disposiciones previstas en este Reglamento.
