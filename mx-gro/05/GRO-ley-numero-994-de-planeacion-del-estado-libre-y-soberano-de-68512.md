@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-994-de-planeacion-del-estado-libre-y-soberano-de-685
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-26"
-last_updated: "2015-08-25"
+last_updated: "2016-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2008.
 
@@ -41,13 +41,17 @@ LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1o.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto reglamentar los Artículos 25 y 26 de la Constitución Política de los Estados Unidos Mexicanos y 117 párrafo tercero, de la Constitución Política del Estado Libre y soberano de Guerrero.
+Las disposiciones de esta Ley son de orden público e interés social y tiene por objeto reglamentar los artículos 25 y 26 de la Constitución Política de los Estados Unidos Mexicanos y 91 fracción IX, 154, 155, 156, 157, 158 y 159 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 2o.
 
-El objetivo de la planeación será mejorar la eficiencia y efectividad del Gobierno del Estado y de los Gobiernos Municipales; así como de los organismos paraestatales. De esa forma, se asegurará a las mujeres y hombres de Guerrero, el respeto pleno a las garantías individuales y los derechos civiles, políticos, económicos, sociales y culturales que se consagran en la Constitución Política de los Estados Unidos Mexicanos, los compromisos internacionales en materia de Derechos Humanos, la Constitución Política del Estado Libre y Soberano de Guerrero, y todo el marco jurídico que nos rige.
+El objetivo de la planeación será para mejorar la eficiencia y efectividad del Gobierno del Estado y de los gobiernos municipales; así como de los organismos paraestatales. De esa forma, se asegurará a las mujeres y hombres de Guerrero, el respeto pleno a los derechos humanos, civiles, políticos, económicos, sociales y culturales que se consagran en la Constitución Política de los Estados Unidos Mexicanos, los compromisos internacionales en materia de Derechos Humanos, la Constitución Política del Estado Libre y Soberano de Guerrero, y todo el marco jurídico que nos rige.
 
 Los principios generales de esta Ley son:
 
@@ -67,7 +71,9 @@ d) Consistencia. Con el fin de asegurar la estabilidad macroeconómica y financi
 
 e) Prioridad de la inversión social. Para asegurar la consolidación progresiva del bienestar general y el mejoramiento de la calidad de vida de la población, se deberá tener como criterio especial, en la distribución geográfica del gasto público, el número de personas con necesidades básicas insatisfechas, en especial salud y educación, la población y la eficiencia fiscal y administrativa; además, se deberá priorizar el gasto público social sobre cualquier otra asignación;
 
-f) Equidad de Género. El plan Estatal de Desarrollo y los Planes Municipales deberán tener en consideración las diferencias mujeres (sic) y hombres en la distribución del gasto; a fin de asegurar la igualdad entre mujeres y hombres y la no discriminación y el respeto a la libertad y la dignidad de las personas;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+f). Igualdad de Género. El Plan Estatal de Desarrollo y los Planes Municipales en la distribución del gasto, deberán de asegurar la igualdad entre mujeres y hombres y la no discriminación y el respeto a la libertad y la dignidad de las personas.
 
 g) Continuidad. El gobierno del Estado y los gobiernos municipales deberán garantizar que se ejecuten los proyectos y programas que se consideren en el Plan Estatal de Desarrollo y los Planes Municipales;
 
@@ -477,7 +483,7 @@ El plan de inversiones incluirá principalmente:
 
 a) La proyección de los recursos financieros disponibles para su ejecución y su armonización con los planes de gasto público;
 
-b) La descripción de los principales programas y subprogramas, con indicación de sus objetivos y metas y los proyectos prioritarios de inversión; así, como las entidades y organismos que serán responsables de ejecutarlos. Dentro de estos programas se contemplarán la promoción de la igualdad de oportunidades para mujeres y hombres, en especial en los servicios de salud y el acceso a la educación, la prevención de la violencia de género hacia las mujeres y la promoción de la vigencia de los derechos humanos, y (sic)
+b) La descripción de los principales programas y subprogramas, con indicación de sus objetivos y metas y los proyectos prioritarios de inversión; así, como las entidades y organismos que serán responsables de ejecutarlos. Dentro de estos programas se contemplarán la promoción de la igualdad de oportunidades para mujeres y hombres, en especial en los servicios de salud y el acceso a la educación, la prevención de la violencia de género hacia las mujeres y la promoción de la vigencia de los derechos humanos, y
 
 c) Los presupuestos plurianuales mediante los cuales se proyectarán en los costos de los programas más importantes de inversión pública contemplados en la parte general; y
 
@@ -577,9 +583,11 @@ VII. Las Dependencias y Entidades de la Administración Pública Federal que tie
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Estatal de Planeación Democrática a que deberán sujetarse las actividades conducentes a la formulación, aprobación, ejecución, control y evaluación de los planes y programas a que la misma se refiere.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 27.
 
-A la Secretaría de Desarrollo Social le corresponde:
+A la Secretaría de Planeación y Desarrollo Regional le corresponde:
 
 I. Integrar el Plan Estatal de Desarrollo, así como el programa operativo anual para la ejecución del mismo, tomando en cuenta los planes municipales de desarrollo y las propuestas de las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como las de los grupos sociales organizados y de los particulares;
 
@@ -597,13 +605,45 @@ VII. Evaluar los resultados de la ejecución de los Programas presentados en el 
 
 VIII. Coordinar las actividades relacionadas con la generación, captación y procesamiento de la información estadística y geográfica que se produzca, a fin de consolidar el Sistema Estatal vinculado a los sistemas nacionales de estadística y de información geográfica.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 27 BIS.- El Comité Estatal de Información Estadística y Geográfica, se constituye como órgano colegiado de participación y consulta, en donde confluyen los representantes de las áreas administrativas con actividades estadísticas y geográficas, los ayuntamientos y la representación del Instituto Nacional de Información Estadística y Geografía (INEGI), para la ejecución y cumplimiento de los principios, bases y normas establecidos en el Sistema, de conformidad con lo dispuesto por el artículo 8 de la Ley del Sistema Nacional de Información Estadística y Geográfica (LSNIEG) y de acuerdo a las Bases para la Organización de los Comités Estatales de Información Estadística y Geográfica (BOCEIEG).
+
+El Comité deberá elaborar su Programa Anual de Trabajo (PAT), alineado al Programa Estatal de Estadística y Geografía (PEEG), y en el marco de los Documentos Programáticos del Sistema vigente; dentro de los dos últimos meses del año inmediato anterior al periodo que abarca cada programa.
+
+El Comité estará integrado de la siguiente manera:
+
+I. Por un Presidente, que será el Secretario de Planeación y Desarrollo Regional del Estado de Guerrero.
+
+II. Por un Secretario Técnico, que será el Representante del INEGI en la entidad.
+
+III. Por un Secretario de Actas, que será el servidor público del Gobierno del Estado que el Presidente del Comité designe como tal.
+
+IV. Se considerarán vocales todas las entidades del sector central y paraestatal del gobierno del estado y los ayuntamientos.
+
+V. El Comité establecerá un calendario de sesiones, celebrando cuando menos dos sesiones ordinarias al año.
+
+El Comité Estatal de Información Estadística y Geográfica, tendrá las funciones siguientes:
+
+I. Ejecutar y cumplir los principios, bases y normas establecidos en el Sistema Nacional de Información Estadística y Geográfica.
+
+II. Elaboración del Programa Estatal de Estadística y Geografía, que contribuya a la integración y desarrollo del Sistema Nacional de Información Estadística y Geográfica.
+
+III. Promover el conocimiento y aplicación de las normas técnicas entre sus participantes en los términos previstos en la LSNIEG; y,
+
+IV. Las demás que le confieran otros ordenamientos legales aplicables.
+
 ###### ARTÍCULO 28.
 
 A la Secretaría de la Mujer le corresponde:
 
-I. Establecer los lineamientos de planeación en materia de equidad de género que deberán ser aplicados, de manera transversal en el Plan de Desarrollo Estatal y todos los planes y programas que de él se deriven, bajo los principios del respeto a la dignidad de las mujeres, la igualdad entre mujeres y hombres, el respeto al derecho de las mujeres a una vida libre de violencia y, en general de los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
-II. Coordinar los programas especiales, en materia de equidad y género, de las entidades de la administración pública estatal;
+I. Establecer los lineamientos de planeación en materia de igualdad de género que deberán ser aplicados, en el Plan de Desarrollo Estatal y todos los planes y programas que de él se deriven, bajo los principios del respeto a la dignidad de las mujeres, la igualdad entre mujeres y hombres, el respeto al derecho de las mujeres a una vida libre de violencia y, en general de los derechos humanos de las mujeres;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+II. Coordinar los programas especiales, en materia de igualdad (sic) género de las entidades de la administración pública estatal.
 
 III. Formular propuestas a las dependencias de la administración pública estatal, paraestatal y a los municipios, sobre la asignación de recursos que requieran los programas para promover la igualdad entre hombres y mujeres.
 
@@ -619,15 +659,23 @@ III. Procurar el cumplimiento de los objetivos y prioridades del Plan Estatal y 
 
 IV. Garantizar el equilibrio fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-La Contraloría del Estado ejercerá el control y la vigilancia de los recursos del Estado destinados a la consecución de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven; disponiendo las medidas necesarias para su correcta aplicación, de conformidad con lo que dispongan los ordenamientos respectivos.
+La Secretaría de Contraloría y Transparencia Gubernamental, ejercerá el control y la vigilancia de los recursos del Estado destinados a la consecución de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven; disponiendo las medidas necesarias para su correcta aplicación, de conformidad con lo que dispongan los ordenamientos respectivos.
 
 Asimismo fiscalizará los recursos federales que sean transferidos al Estado y los que éste canalice hacia los Municipios en los términos de los convenios o acuerdos de coordinación que se celebren, fortaleciendo el Sistema Estatal de Control y Evaluación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 31.
 
-El Comité de Planeación para el Desarrollo del Estado de Guerrero es un órgano administrativo desconcentrado sin personalidad jurídica ni patrimonio propio, y subordinado jerárquicamente al titular del Ejecutivo Estatal. Se integrará de la siguiente manera:
+El Comité de Planeación para el Desarrollo del Estado de Guerrero es un órgano administrativo desconcentrado, sin personalidad jurídica ni patrimonio propio; y subordinado jerárquicamente al titular del Poder Ejecutivo Estatal.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE PÁRRAFO CORRESPONDÍA A LA PARTE FINAL DEL PRIMER PÁRRAFO, VÉASE PÁGINA 21, P.O. 13 DE SEPTIEMBRE DE 2016.]</small>
+
+Se integrará de la siguiente manera:
 
 I. Por un Presidente o presidenta, que será el Gobernador o gobernadora del Estado;
 
@@ -673,7 +721,9 @@ VI. Colaborar con la Secretaría de Finanzas y Administración en la elaboració
 
 VII. Promover la celebración de acuerdos de cooperación entre el sector público y la ciudadanía para contribuir al desarrollo del Estado;
 
-VIII. Contribuir con la Secretaría de Desarrollo Social en la elaboración del diagnóstico de la situación socioeconómica del Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Contribuir con las Secretarías de Desarrollo Social y de Planeación y Desarrollo Regional en la elaboración del diagnóstico de la situación socioeconómica del Estado;
 
 IX. Brindar asesoría técnica a los municipios y entidades que lo soliciten en la elaboración de los Programas y Planes que desarrollen;
 
@@ -697,7 +747,9 @@ Corresponde a las Dependencias de la Administración Pública Estatal:
 
 I. Intervenir, respecto de las materias que le competen, en la elaboración del Plan Estatal de Desarrollo;
 
-II. Elaborar programas sectoriales, tomando en cuenta el diagnóstico que se presente en el Plan Estatal de Desarrollo, el Banco de Programas y Proyectos de inversión, las propuestas que presenten las entidades del sector y los ayuntamientos, así como las opiniones de la ciudadanía; al mismo tiempo, deberán enviar a la Secretaría de Finanzas y Administración la propuesta de inversión, con sus respectivos expedientes técnicos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+II. Elaborar programas sectoriales, tomando en cuenta el diagnóstico que se presente en el Plan Estatal de Desarrollo, el Banco de Programas y Proyectos de inversión, las propuestas que presenten las entidades del sector y los ayuntamientos, así como las opiniones de la ciudadanía; al mismo tiempo, deberán enviar a la Secretaría de Finanzas y Administración la propuesta de inversión y a la Secretaría de Planeación y Desarrollo Regional los respectivos expedientes técnicos para su análisis y validación correspondiente;
 
 III. Asegurar la congruencia de los programas sectoriales con el Plan Estatal, con los planes municipales y con los programas que de ellos se deriven;
 
@@ -708,6 +760,10 @@ V. Coordinar las actividades de planeación con las entidades paraestatales que 
 VI. Vigilar que las entidades del sector que coordinan conduzcan sus actividades conforme al Plan Estatal de Desarrollo y al programa sectorial correspondiente;
 
 VII. Verificar periódicamente la relación que guarden los programas y presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar en su caso los programas respectivos.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Evaluar el desarrollo de los programas y acciones concertados entre la Federación y el Estado, e informar de los resultados al Ejecutivo Estatal, y al gobierno federal.
 
 ###### ARTÍCULO 37.
 
@@ -769,7 +825,9 @@ Cuidar que el Plan Municipal y los programas que se generen en el sistema, mante
 
 Los Ayuntamientos dictarán los lineamientos generales de planeación, considerando los Sistemas Nacional y Estatal de Planeación y deberán:
 
-I. Adecuar sus bases reglamentarias en materia de planeación, en el Bando de Policía y Buen Gobierno;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+I. Adecuar sus bases reglamentarias en materia de planeación, en el Bando de Policía y Gobierno;
 
 II. Constituir el Comité de Planeación Municipal y vincularlo al Comité de Planeación para el Desarrollo del Estado de Guerrero (COPLADEG);
 
@@ -785,13 +843,15 @@ Las autoridades comunales y ejidales tendrán la obligación de elaborar el Banc
 
 No se podrá excluir a las comunidades y ejidos de las acciones y obras que se programen para cada ejercicio fiscal.
 
-Los Comisarios Municipales y los Presidentes de los Comisariados Ejidales y de Bienes Comunales, cuando no se observe lo prevenido en el Artículo 102 de la Constitución Política del Estado, podrán acudir al Tribunal de lo Contencioso Administrativo en los términos de la propia Ley; para que imponga las sanciones que contempla la Ley de Justicia Administrativa y la Ley de Responsabilidades de los Servidores Públicos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 44.
 
 Para las actividades estatales de planeación se prevé un proceso que lo constituyan cinco etapas fundamentales: formulación y aprobación, instrumentación, ejecución, control y evaluación. En todas ellas se vigilará la promoción del desarrollo sustentable con perspectiva de género:
 
-I. De formulación y aprobación La elaboración del proyecto del Plan Estatal de Desarrollo, que debe ser sometido por el Gobierno al Congreso del Estado durante los cuatro meses siguientes a la iniciación del periodo gubernamental, se podrá adelantar conforme a las disposiciones siguientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+I. De formulación y aprobación, la elaboración del proyecto del Plan Estatal de Desarrollo, que debe ser sometido por el Gobierno al Congreso del Estado durante los seis meses siguientes a la iniciación del periodo gubernamental, se podrá adelantar conforme a las disposiciones siguientes.
 
 Una vez que sea electo el Gobernador o Gobernadora del Estado, todas las dependencias de la administración y en particular, las autoridades de planeación, le prestarán el apoyo administrativo, técnico y de información que sea necesaria para adelantar las gestiones que permitan iniciar la formulación del plan de desarrollo.
 
@@ -807,7 +867,9 @@ En la elaboración del programa operativo anual y en la programación del gasto 
 
 Los planes y programas que ejecuten las entidades estatales con asiento en los municipios deberán ser consultados previamente con las respectivas autoridades de planeación, de acuerdo con sus competencias.
 
-Con las propuestas de las entidades estatales y paraestatales, el Comité de Planeación para el Desarrollo del Estado de Guerrero, elaborará y mantendrá actualizado el Banco de Programas y Proyectos de Inversión Estatal. El Banco de Programas y Proyectos de Inversión Estatal es un instrumento para la planeación que registra los programas y proyectos viables técnica, ambiental y socioeconómicamente, susceptibles de financiación con recursos del Presupuesto del Estado.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Con las propuestas de las dependencias y entidades paraestatales, la Secretaría de Planeación y Desarrollo Regional, elaborará y mantendrá actualizado el Banco de Programas y Proyectos de Inversión Estatal. El Banco de Programas y Proyectos de Inversión Estatal es un instrumento para la planeación que registra los programas y proyectos viables técnica, ambiental y socioeconómicamente, susceptibles de financiación con recursos del Presupuesto del Estado.
 
 III. De ejecución, es la puesta en marcha del Plan estatal y los programas emanados del mismo, de acuerdo con la asignación de recursos y responsabilidades a las dependencias y entidades ejecutoras.
 
@@ -827,7 +889,9 @@ Los titulares de las Dependencias de la Administración Pública Estatal y Organ
 
 Para las actividades municipales de planeación se prevé un proceso de cinco etapas: formulación y aprobación, instrumentación, ejecución, control y evaluación. En todas ellas se vigilará la promoción del desarrollo sustentable con perspectiva de género:
 
-I.- De formulación y aprobación La elaboración del proyecto del Plan Municipal de Desarrollo, que debe ser sometido por el Presidente Municipal al Cabildo, durante los cuatro meses siguientes a la iniciación del periodo gubernamental, se podrá adelantar conforme a las disposiciones siguientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+
+I.- De formulación y aprobación, la elaboración del proyecto del Plan Municipal de Desarrollo, que debe ser sometido por el Presidente Municipal al Cabildo, durante los cuatro meses siguientes a la aprobación del Plan Estatal de Desarrollo del Estado se podrá adelantar conforme a las disposiciones siguientes.
 
 Una vez que sea electo el presidente municipal, todas las dependencias de la administración y en particular, las autoridades de planeación, le prestarán el apoyo administrativo, técnico y de información que sea necesario para adelantar las gestiones que permitan iniciar la formulación del plan de desarrollo.
 
@@ -941,7 +1005,7 @@ Rúbrica.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 25 DE AGOSTO DE 2016.
+P.O. 25 DE AGOSTO DE 2015.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 848 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO, Y SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
 
@@ -952,3 +1016,21 @@ SEGUNDO. El titular del Poder Ejecutivo del Estado expedirá, el Reglamento de l
 TERCERO. Remítase el presente Decreto al Poder Ejecutivo del Estado, para sus efectos legales conducentes.
 
 CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el Portal Web de este Poder Legislativo, para su conocimiento general.
+
+P.O. 13 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo del Gobierno del Estado y el Presidente del Instituto Nacional de Información Estadística y Geografía, mediante la firma de un convenio reconocerán al Comité Estatal de Información Estadística y Geografía como instancia colegiada.
+
+Una vez firmado el convenio de constitución del Comité, éste contará con un plazo máximo de 90 días naturales para su instalación e inicio de operaciones.
+
+Instalado el Comité, éste contará con un plazo no mayor a 180 días naturales para presentar su Programa Estatal de Estadística y Geografía (PEEG), alineado al Plan Estatal de Desarrollo y en el marco de los Documentos Programáticos del Sistema vigentes, se reconocerá al Comité como instancia colegiada.
+
+TERCERO. Comuníquese al Titular del Poder Ejecutivo para su conocimiento y efectos legales conducentes.
+
+CUARTO. Se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
