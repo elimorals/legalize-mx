@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2016-08-03"
+last_updated: "2016-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.]</small>
+
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -3176,6 +3176,14 @@ I). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XI. Pagos realizados a personas físicas por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 59 Bis.
+
+Los contribuyentes del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal que generen empleos nuevos en el Estado de México para trabajadores de 60 años de edad o mayores, para personas que hubieren concluido una carrera terminal, técnica, tecnológica o profesional, en los últimos tres años, así como las empresas que teniendo fuentes de empleo en cualquier entidad federativa distinta al Estado de México, las cambien a la entidad, gozarán de un subsidio del 100% en el pago de este impuesto, por los 36 meses posteriores a su generación o cambio.
+
+Los contribuyentes que contraten personal que acceda por primera vez al mercado laboral, gozarán del subsidio señalado en el párrafo anterior, por los 24 meses posteriores a su contratación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -17925,10 +17933,20 @@ Tercero.- Hágase del conocimiento de las Dependencias de la Administración Pú
 
 G.G. 3 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 107.- POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTICULO 8.46 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO. SE REFORMA EL PÁRRAFO SÉPTIMO DE LA FRACCIÓN II DEL ARTÍCULO 95 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 107.- POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTICULO 8.46 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO. SE REFORMA EL PÁRRAFO SÉPTIMO DE LA FRACCIÓN II DEL ARTÍCULO 95 DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 126.- POR EL QUE SE ADICIONA EL ARTÍCULO 59 BIS AL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las presentes reformas deberán estar armonizadas en los reglamentos que correspondan, noventa días después de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
