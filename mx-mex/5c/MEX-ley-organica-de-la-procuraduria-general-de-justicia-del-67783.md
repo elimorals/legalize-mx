@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2016-06-16"
+last_updated: "2016-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -149,7 +149,11 @@ El Ministerio Público tendrá además de las funciones, atribuciones y obligaci
 
 I. Promover los mecanismos alternativos de solución de controversias, conforme a la legislación aplicable y los acuerdos que para tal efecto emita el Procurador;
 
-II. En los casos de denuncia de hechos no constitutivos de delito y en los supuestos que a continuación se indican, el Ministerio Público debe abstenerse de dar inicio a la carpeta de investigación cuando:
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2016)</small>
+
+II. Atender al denunciante, por sí o por conducto del servidor público competente, en un plazo que no exceda de dos horas, contados (sic) a partir de que reciba el turno correspondiente; recabando la denuncia en términos de la legislación aplicable.
+
+En los casos de denuncia de hechos no constitutivos de delito y en los supuestos que a continuación se indican, el Ministerio Público debe abstenerse de dar inicio a la carpeta de investigación cuando:
 
 a) Se trate de hechos respecto de los cuales el Código Nacional le permita abstenerse de investigar o la aplicación de algún criterio de oportunidad.
 
@@ -1212,3 +1216,27 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. Respecto a las adiciones a los artículos 70 y 70 Bis del Código Penal del Estado de México, el otorgamiento del beneficio estará condicionado además a la disponibilidad de los dispositivos electrónicos y a la suficiencia presupuestal para su ejecución.
+
+G.G. 13 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 127.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría General de Justicia del Estado de México, implementará el sistema de turno de atención, en un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, el titular del ejecutivo dispondrá de los recursos necesarios para la implementación del sistema para recibir denuncias en un plazo no mayor a ciento ochenta días naturales.
+
+###### ARTICULO CUARTO.
+
+La Procuraduría General de Justicia del Estado de México, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá emitir las adecuaciones a su normatividad interna para garantizar su cumplimiento.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
