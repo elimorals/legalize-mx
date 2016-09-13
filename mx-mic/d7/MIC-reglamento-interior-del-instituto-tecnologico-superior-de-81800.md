@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-81800
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-17"
-last_updated: "2011-06-17"
+last_updated: "2016-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LOS REYES, MICHOACAN
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LOS REYES, MICHOACAN
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS REYES, MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS REYES, MICHOACÁN, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el 17 de junio de 2011.
 
@@ -358,3 +360,13 @@ La Secretaria de Educación
 Graciela Carmina Andrade García Peláez
 
 (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LOS REYES, MICHOACÁN”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de los Reyes, Michoacán, publicado en la Quinta Sección, Tomo CLI, número 94 del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 17 de junio de 2011, y se dejan sin efecto todas las disposiciones de carácter administrativo en lo que se oponga al presente Reglamento.
