@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2016-04-22"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -519,45 +519,47 @@ o) Conocer del procedimiento para que el gobierno estatal asuma una función o s
 
 p) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-II.- Comisión de Legislación y Puntos Constitucionales:
+II. Comisión de Legislación:
+
+a) La interpretación de la legislación del Estado, mediante la expedición de normas de carácter general;
+
+b) La iniciación ante el Congreso de la Unión de las leyes que a éste competan, así como su reforma o derogación;
+
+c) La resolución sobre la conveniencia de secundar las iniciativas hechas por las Legislaturas de otras Entidades Federativas;
+
+d) La reclamación sobre las leyes del Congreso de la Unión y de las Legislaturas, cuando ataquen la soberanía o independencia del Estado, o que por cualquier otro motivo se consideren anticonstitucionales;
+
+e) Las reformas a la Ley de Gobierno Municipal y a las bases generales a las que se sujetan los Ayuntamientos;
+
+f) Las reformas relativas a la Ley Orgánica del Poder Legislativo y su Reglamento;
+
+g) La expedición y reforma a la legislación civil, en su aspecto sustantivo y adjetivo;
+
+h) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
+
+i) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
+
+j) La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra Comisión; y
+
+k) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+III. Comisión de Puntos Constitucionales.
 
 a) Las reformas a la Constitución Política de los Estados Unidos Mexicanos;
 
-b) Las reformas a la Constitución Política del Estado;
+b) Las reformas a la Constitución Política del Estado Libre y Soberano de Nuevo León;
 
-c) La interpretación de la legislación del Estado, mediante la expedición de normas de carácter general;
+c) Las leyes orgánicas y reglamentarias a que se refieren los artículos 45, 63 fracción XIII, 94 y 95 de la Constitución Política del Estado y los que la Constitución Política de los Estados Unidos Mexicanos autorice a las Legislaturas de los Estados reglamentar; y
 
-d) La iniciación ante el Congreso de la Unión de las leyes que a éste competan, así como su reforma o derogación;
+d) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-e) La resolución sobre la conveniencia de secundar las iniciativas hechas por las Legislaturas de otras Entidades Federativas;
+> <small>[N. DE E. REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016]</small>
 
-f) La reclamación sobre las leyes del Congreso de la Unión y de las Legislaturas, cuando ataquen la soberanía o independencia del Estado, o que por cualquier otro motivo se consideren anticonstitucionales;
-
-g) Las reformas a la Ley Orgánica Municipal y a las bases generales a las que se sujetan los Ayuntamientos;
-
-h) Las reformas relativas a la Ley Orgánica del Poder Legislativo y su Reglamento;
-
-i) Las leyes orgánicas y reglamentarias de los dispositivos de la Constitución Política del Estado y los que la Constitución Política de los Estados Unidos Mexicanos autorice a las Legislaturas de los Estados reglamentar;
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
-
-j) La expedición y reforma a la legislación civil, en su aspecto sustantivo y adjetivo;
-
-k) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
-
-l) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
-
-m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
-
-n) La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra Comisión; y
-
-ñ) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
-
-III.- Comisión de Justicia y Seguridad Pública:
+IV.- Comisión de Justicia y Seguridad Pública:
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -597,9 +599,9 @@ l) La expedición y reforma de las leyes en materia de responsabilidades de los 
 
 m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+(REFORMADA, P.O. 1 DE OCTUBRE DE 2003) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-IV.- Desarrollo Social y Derechos Humanos:
+V.- Desarrollo Social y Derechos Humanos:
 
 a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos;
 
@@ -625,15 +627,21 @@ i) Dar cauce y contestación a las peticiones de personas que soliciten la inter
 
 j) Las iniciativas y asuntos relativos a los derechos y al mejoramiento de la calidad de vida de los indígenas del Estado;
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-k) Las iniciativas y asuntos relativos a la protección y derechos humanos de los niños, niñas y adolescentes del Estado; y
+k) Las iniciativas y asuntos relativos a los derechos y al mejoramiento de la calidad de vida de los indígenas del Estado;
 
-l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+l) Los asuntos e iniciativas en materia de migrantes; y
 
-V.- Comisión para la Igualdad de Género
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+m) Los demás asuntos e iniciativas que el Pleno del Congreso encomiende.
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+VI.- Comisión para la Igualdad de Género
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
@@ -655,9 +663,9 @@ d) Las iniciativas que respondan a los mecanismos internacionales, para la elimi
 
 e) Los demás asuntos e iniciativas que el Pleno le encomiende.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-VI.- Comisión de Educación, Cultura y Deporte:
+VII.- Comisión de Educación, Cultura y Deporte:
 
 a) Las reformas a la Ley de Educación del Estado;
 
@@ -687,9 +695,9 @@ h) Organizar y llevar a cabo anualmente el Parlamento Infantil del Estado de Nue
 
 i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-VII.- Comisión de Medio Ambiente:
+VIII.- Comisión de Medio Ambiente:
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -719,9 +727,9 @@ f) Coordinarse con otra u otras comisiones para tratar temas comunes o relaciona
 
 g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-VIII.- Comisión de Desarrollo Urbano:
+IX.- Comisión de Desarrollo Urbano:
 
 a) La legislación relativa a asentamientos humanos, ordenamiento territorial y vivienda en el Estado;
 
@@ -733,9 +741,9 @@ d) Lo concerniente al desarrollo y planificación de centros de población alter
 
 e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-IX.- Comisión de Transporte:
+X.- Comisión de Transporte:
 
 a) Legislar en lo relativo al transporte, así como lo que se refiera al tránsito de todo tipo de vehículos;
 
@@ -743,9 +751,9 @@ b) La legislación relativa a la construcción y funcionamiento de las vías de 
 
 c) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-X.- Comisión de Fomento Económico:
+XI.- Comisión de Fomento Económico:
 
 a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo;
 
@@ -763,31 +771,61 @@ g) Las iniciativas en materia del desarrollo del servicio público de carrera; y
 
 h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-XI.- Fomento al Campo y Desarrollo Rural;
+XII.- Fomento al Campo, Energía y Desarrollo Rural;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos de las zonas rurales del Estado; así como el desarrollo regional del mismo;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
 b) Las iniciativas que conlleven y coadyuven a un fortalecimiento en las actividades agrícolas, ganaderas, así como todas las relacionadas con el aprovechamiento del campo;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 c) Lo concerniente a los asuntos Agropecuarios del Estado que estimulen su desarrollo económico, dentro de la competencia Estatal;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
 d) Los asuntos relacionados con el seguimiento, vigilancia y promoción de los recursos destinados al apoyo de las actividades agropecuarias en el Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 e) Los asuntos relacionados con el fomento al cultivo, producción y comercialización de productos y subproductos agrícolas y agroindustriales de las diferentes regiones del Estado;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
 f) Los asuntos relacionados con el fomento a la cría, engorda, reproducción y comercialización de las diversas especies animales en las diferentes regiones del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 g) Gestionar en su caso, ante las distintas autoridades de los tres niveles de Gobierno, los beneficios de los programas sectoriales para el fomento del campo y el desarrollo rural;
 
-h) Las iniciativas relativas al establecimiento de acciones o programas tendientes a desarrollar una mejor calidad de vida para los habitantes de las comunidades rurales; y
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+h) Las iniciativas relativas al establecimiento de acciones o programas tendientes a desarrollar una mejor calidad de vida para los habitantes de las comunidades rurales;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-XII.- Comisión de Desarrollo Sustentable:
+i) Las iniciativas y asuntos que contribuyan al fortalecimiento del sector energético fomentando el desarrollo e inversión del mismo, de manera ordenada, sostenible, con responsabilidad social y ambiental;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+j) Generar los vínculos de cooperación con las autoridades federales, con las empresas productivas del Estado, y con otros entes e instituciones;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+k) Incentivar en coordinación con los órdenes de gobierno la atracción de inversiones en el sector energético en el Estado; y
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+l) Los demás asuntos e iniciativas que el Pleno le encomiende.
+
+(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+XIII.- Comisión de Desarrollo Sustentable:
 
 a) Las iniciativas sobre la promoción y fomento del desarrollo sustentable de los sectores social y productivo en el Estado;
 
@@ -807,9 +845,9 @@ h) Coordinarse con otra u otras comisiones para tratar temas comunes o relaciona
 
 i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-XIII.- Comisión de Juventud:
+XIV.- Comisión de Juventud:
 
 a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los jóvenes del Estado;
 
@@ -833,9 +871,9 @@ h) Organizar y llevar a cabo anualmente el Parlamento de Jóvenes del Estado de 
 
 i) Los demás asuntos e iniciativas que el Congreso le encomiende.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2006) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
-XIV. Comisión de Salud y Atención a Grupos Vulnerables:
+XV. Comisión de Salud y Atención a Grupos Vulnerables:
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -883,9 +921,75 @@ k) Los asuntos relacionados con el fortalecimiento de los vínculos entre los tr
 
 l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomienden.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-XV.- Comisión de Hacienda del Estado:
+XVI. Comisión de Hacienda del Estado:
+
+a) Lo relativo a la revisión y en su caso aprobación de las Cuentas Públicas del Gobierno Central, entidades paraestatales, Poder Legislativo, Poder Judicial del Estado y los diversos organismos autónomos;
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+XVII.- Comisión Primera de Hacienda y Desarrollo Municipal:
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Guadalupe, Iturbide, Mier y Noriega, y Monterrey, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+XVIII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Allende, Apodaca, Cadereyta Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+(REFORMADA, P.O. 9 DE ABRIL DE 1999) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+XIX.- Comisión Tercera de Hacienda y Desarrollo Municipal:
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Anáhuac, Bustamante, General Escobedo, Lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Vallecillo y Villaldama, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+XX.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Agualeguas, Cerralvo, China; Doctor Coss; Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás y Pesquería, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+XXI.- Comisión Quinta de Hacienda y Desarrollo Municipal:
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
+
+XXII.- Comisión Anticorrupción:
+
+a) Dictaminar los asuntos en matéria de Juicio Político o Declaración de Procedencia, cuando no se nombre una Comisión Jurisdiccional; y
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso encomiende.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII.- Comisión de Presupuesto.
 
 a) Lo concerniente a la expedición de la Ley de Ingresos y del Presupuesto de Egresos del Estado;
 
@@ -895,69 +999,33 @@ c) La expedición y reforma de la Ley de Hacienda del Estado y cualquier otra qu
 
 d) La autorización en su caso, para contratar empréstitos, cuando en garantía se afecten los bienes inmuebles del Estado;
 
-e) Lo relativo a la revisión y en su caso aprobación de la Cuenta Pública del Estado;
+e) La propuesta que haga el Ejecutivo para el nombramiento del Secretario de Finanzas y Tesorero General del Estado; y
 
-f) La propuesta que haga el Ejecutivo para el nombramiento del Secretario de Finanzas y Tesorero General del Estado; y
+f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+XXIV.- Comisión de Desarrollo Metropolitano
 
-XVI.- Comisión Primera de Hacienda y Desarrollo Municipal:
+a) Las iniciativas de ley y asuntos relacionados con la materia de desarrollo metropolitano, conurbación, infraestructura, el establecimiento de acuerdos y evaluación de las políticas públicas, a fin de establecer los mecanismos necesarios de coordinación y de suma de esfuerzos para generar condiciones que permitan el desarrollo de las zonas metropolitanas;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+b) Promover e impulsar en el ámbito de las competencias legislativas, el desarrollo armonioso y sustantivo y fortalecimiento de las zonas conurbadas y metropolitanas;
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Guadalupe, Iturbide, Mier y Noriega, y Monterrey, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+c) Conocerá de los planes y programas tendientes al desarrollo e integración regional o metropolitano y de todas aquellas acciones tendientes a la creación de medidas legislativas y administrativas para fortalecer los procesos de desarrollo de áreas conurbadas;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+d) Participar con las autoridades del Ejecutivo Estatal y de los Ayuntamientos, en las acciones que promuevan el desarrollo de zonas metropolitanas;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+e) Los asuntos que le sean turnados en materia de los requerimientos generados por las conurbaciones y zonas metropolitanas;
 
-XVII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
+f) Las iniciativas y asuntos relacionados con la creación de instituciones que garantices (sic) la planeación y coordinación intergubernamental en el ámbito metropolitano;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+g) Coordinar el estudio, revisión y adecuación del marco legislativo vigente en los temas vinculados al Desarrollo Metropolitano, con el fin de que se pueda establecer una adecuada coordinación entre el Gobierno del Estado y los Municipios Metropolitanos para la ejecución de políticas públicas;
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Allende, Apodaca, Cadereyta Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
+h) Adecuar los instrumentos legales que se requieren para propiciar y facilitar el acceso del Estado de Nuevo León a mayores beneficios de todos los Fondos de Recursos Federales tendientes a promover ordenadamente el Desarrollo Metropolitano;
 
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+i) Promover la mejoría en la coordinación Interinstitucional entre los tres órdenes de gobierno, así como con la sociedad civil, mediante el intercambio de experiencias e información que permita trazar acciones concretas para ordenar el crecimiento entre los Municipios Metropolitanos; y
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
-
-XVIII.- Comisión Tercera de Hacienda y Desarrollo Municipal:
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Anáhuac, Bustamante, General Escobedo, Lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Vallecillo y Villaldama, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
-
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
-
-XIX.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Agualeguas, Cerralvo, China; Doctor Coss; Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás y Pesquería, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
-
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
-
-XX.- Comisión Quinta de Hacienda y Desarrollo Municipal:
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
-
-b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
-
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
-
-XXI.- Comisión Anticorrupción:
-
-a) Dictaminar los asuntos en matéria de Juicio Político o Declaración de Procedencia, cuando no se nombre una Comisión Jurisdiccional; y
-
-b) Los demás asuntos e iniciativas que el Pleno del Congreso encomiende.
+j) Los demás asuntos e iniciativas que el Pleno del Congreso del (sic) encomiende.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
@@ -2556,3 +2624,11 @@ P.O. 22 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚM. 104. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 Y LA FRACCIÓN V DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 143. POR EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Una vez que entre en vigor el presente Decreto la Oficialía Mayor tendrá un plazo improrrogable de 15 días para hacer el returno de los asuntos correspondientes a las comisiones.
