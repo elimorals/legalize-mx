@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-fondo-morelos-antes-ley-del-instituto-morelense-69623"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-12"
-last_updated: "2016-08-10"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL FONDO MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE AGOSTO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE SEPTIEMBRE DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de agosto de 2009.
 
@@ -175,19 +175,25 @@ Los bienes inmuebles adjudicados judicial o extrajudicialmente por el Fondo More
 
 #### SECCIÓN TERCERA. DE LA ESTRUCTURA ORGÁNICA DEL FONDO MORELOS
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
-
-Artículo 8 (Sic). Para el cumplimiento de su objeto, el Fondo Morelos contará con los siguientes órganos:
-
-I. Un Consejo Directivo;
-
-II. Un Director General, y
-
-III. Un Órgano Interno de Control.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+(ADICIONADO, P.O. 21 DE JULIO DE 2016) (F. DE E., P.O. 14 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 9.
+
+Para el cumplimiento de su objeto, el Fondo Morelos contará con los siguientes órganos:
+
+> <small>(F. DE E., P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+IV (SIC).- Un Consejo Directivo;
+
+> <small>(F. DE E., P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Un Director General, y
+
+> <small>(F. DE E., P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Un Órgano Interno de Control.
+
+> <small>(F. DE E., P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
 Para el cumplimiento y desarrollo de sus funciones, el Fondo Morelos contará con las unidades administrativas que se determinen en el Estatuto Orgánico y sus Manuales Administrativos correspondientes, conforme a la disponibilidad presupuestal autorizada para ello.
 
