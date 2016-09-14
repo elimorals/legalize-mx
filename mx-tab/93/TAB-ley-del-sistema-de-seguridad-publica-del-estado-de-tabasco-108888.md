@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-de-seguridad-publica-del-estado-de-tabasco-1088
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-27"
-last_updated: "2015-06-27"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de junio del 2015.
 
@@ -1015,7 +1015,7 @@ XI. Celebrar convenios con los Municipios para coordinar la función de segurida
 
 XII. Llevar el control, verificación y administración de los registros estatales y municipales de personal, de armamento y equipo, de conformidad con el reglamento respectivo;
 
-XIII. Elaborar, coordinar, planear y dirigir las acciones necesarias para establecer el Sistema Estatal de información sobre seguridad pública y de Inteligencia Policial;
+XIII. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
 XIV. Coordinar y supervisar las acciones y operativos que en materia de seguridad pública e intercambio de información se realicen con los Municipios del Estado, entidades federativas, Distrito Federal y la Federación;
 
@@ -2735,7 +2735,9 @@ En los términos de la ley de la materia, la información que se obtenga a trav�
 
 Adscripción
 
-El Centro de Mando y Comunicaciones formará parte de la estructura orgánica de la Secretaría de Seguridad Pública, y será la instancia encargada de la operación y coordinación del Sistema Estatal de Información sobre Seguridad Pública.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+El Centro de Mando y Comunicaciones será un órgano administrativo de naturaleza desconcentrada, dependiente de la Secretaría de Gobierno, que contará con la autonomía técnica y de gestión necesaria para el debido ejercicio de sus funciones; y será la instancia encargada de la operación y coordinación del Sistema Estatal de Información sobre Seguridad Pública. El titular del órgano administrativo del Centro de Mando y Comunicaciones será designado por el Gobernador del Estado.
 
 Es responsabilidad de las Instituciones de Seguridad Pública, así como del Centro de Mando y Comunicaciones, mantener permanentemente actualizada la información relativa a los registros y bases de datos en materia de Seguridad Pública.
 
@@ -3187,7 +3189,7 @@ Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimie
 
 EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DOCE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL QUINCE.
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+“SUFRAGIO EFECTIVO. NO REELECCIÓN”
 
 LIC. ARTURO NÚÑEZ JIMÉNEZ
 
@@ -3200,3 +3202,19 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 027 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 164, Y SE DEROGA LA FRACCIÓN XIII DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 48, AMBOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor de 180 días a partir de la publicación de este Decreto, se deberá emitir el Reglamento Interior del Órgano Administrativo Desconcentrado Centro de Mando y Comunicaciones.
+
+TERCERO.- Los recursos humanos, financieros y materiales que actualmente se encuentran asignados al Centro de Mando y Comunicaciones como parte de la estructura orgánica de la Secretaría de Seguridad Pública, pasarán a formar parte del nuevo Órgano Administrativo Desconcentrado que se crea, dependiente de la Secretaría de Gobierno, en un plazo que no exceda de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El personal que se transfiere al Órgano Desconcentrado, deberán (sic) someterse a los procedimientos de evaluación y control de confianza que el Centro Estatal respectivo, aplique conforme a los lineamientos emitidos por el Centro Nacional de Certificación y Acreditación.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
