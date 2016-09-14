@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2014-12-13"
+last_updated: "2016-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -507,7 +507,9 @@ XVII. Participar, con las Dependencias, Entidades y Sectores involucrados en la 
 
 XVIII. Vigilar que se cumplan las normas existentes en materia de seguridad e higiene en el trabajo, verificar que en los centros de trabajo se cumpla con las condiciones que establece la Ley Federal del Trabajo y las normas que de ellas se deriven; así como participar en la formulación y ejecución del Programa Estatal de Empleo, Capacitación y Formación para el trabajo, en coordinación con las dependencias involucradas en la materia;
 
-XIX. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2014)
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Coordinar, operar e impulsar la mejora continua del sistema de información, reportes y registros de datos en materia de criminalidad; desarrollar las políticas, normas y sistemas para el debido suministro permanente e intercambio de información en temas de seguridad pública entre las autoridades competentes; y establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención social de la violencia y la delincuencia, mediante métodos que garanticen el estricto respeto de los derechos humanos;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -991,7 +993,7 @@ XXXV. Las demás que se prevean en otras disposiciones o le sean encomendadas po
 
 ###### ARTÍCULO 32.
 
-A la Secretaría de Salud le corresponde (sic) los siguientes asuntos:
+A la Secretaría de Salud le corresponde los siguientes asuntos:
 
 I. Regular, instrumentar, coordinar, supervisar, difundir y evaluar los programas de salud de la Entidad;
 
@@ -1946,3 +1948,17 @@ SEGUNDO. El Pleno del Tribunal o el Consejo de la Judicatura, en su caso, realiz
 Del mismo modo, realizarán las gestiones necesarias ante los Poderes Ejecutivo y Legislativo del Estado, para atender adecuadamente las necesidades presupuestales derivadas de la entrada en vigor de este Decreto.
 
 TERCERO. Se derogan las demás disposiciones legales de igual naturaleza y aquellas reglamentarias que se opongan a la presente Ley.
+
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 027 POR EL QUE “SE ADICIONA LA FRACCIÓN XIX, DEL ARTÍCULO 27, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor de 180 días a partir de la publicación de este Decreto, se deberá emitir el Reglamento Interior del Órgano Administrativo Desconcentrado Centro de Mando y Comunicaciones.
+
+TERCERO.- Los recursos humanos, financieros y materiales que actualmente se encuentran asignados al Centro de Mando y Comunicaciones como parte de la estructura orgánica de la Secretaría de Seguridad Pública, pasarán a formar parte del nuevo Órgano Administrativo Desconcentrado que se crea, dependiente de la Secretaría de Gobierno, en un plazo que no exceda de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El personal que se transfiere al Órgano Desconcentrado, deberán someterse a los procedimientos de evaluación y control de confianza que el Centro Estatal respectivo, aplique conforme a los lineamientos emitidos por el Centro Nacional de Certificación y Acreditación.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
