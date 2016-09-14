@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-08-17"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -103,7 +103,7 @@ El Código reconoce la conveniencia de regular en forma específica, para atenua
 
 Puesto que las causas mencionadas excluyen la existencia del delito, y habida cuenta de que los órganos del Estado se hallan gobernados por un estricto principio de legalidad, que supone, entre otras cosas, la no intervención penal cuando no haya delito que perseguir o persona responsable de él, se ha previsto que dichas causas sean investigadas y resueltas de oficio, no sólo a petición de parte (artículo 24). Esta disposición se dirige tanto al Ministerio Público con motivo de la averiguación que realiza, como al juzgador, dentro del juicio que conduce. También se precisa que las excluyentes benefician tanto al imputable como al inimputable, en sus casos.
 
-6.- El Título Cuarto del Libro Primero regula uno de los temas más relevantes del Derecho penal, en el que se expresan las convicciones sociales acerca del control social por la más intensa vía jurídica: la sanción. El Código se refiere precisamente a sanciones, consecuencias jurídicas de la conducta antisocial, sin tomar partido, que sería innecesario, en el deslinde entre penas y medidas de seguridad. Por supuesto, en el conjunto campea la idea de readaptación social, considerando la terminante norma constitucional que dispone organizar el sistema penal en el sentido de la readaptación social del delincuente (segundo párrafo del artículo 18). Esta es una de las más importantes guías para el quehacer punitivo del Estado.
+6.- El Título Cuarto del Libro Primero regula uno de los temas más relevantes del Derecho penal, en el que se expresan las convicciones sociales acerca del control social por la más intensa vía jurídica: la sanción. El Código se refiere precisamente a sanciones, consecuencias jurídicas de la conducta antisocial, sin tomar partido, que sería innnecesario, en el deslinde entre penas y medidas de seguridad. Por supuesto, en el conjunto campea la idea de readaptación social, considerando la terminante norma constitucional que dispone organizar el sistema penal en el sentido de la readaptación social del delincuente (segundo párrafo del artículo 18). Esta es una de las más importantes guías para el quehacer punitivo del Estado.
 
 En el primer Capítulo de ese Título figura el catálogo de sanciones: tanto las tradicionales como las renovadas, y aquellas otras que sólo recientemente han ingresado en el Derecho mexicano, principalmente por obra de las reformas penales y penitenciarias de los últimos lustros (artículo 26). Queda claro que los llamados sustitutivos de la pena privativa de libertad pueden funcionar, asimismo, como penas autónomas en aquellos casos que determina el Libro Segundo del Código. Así se recoge una sana tendencia abierta por el proyecto de Código Penal para Veracruz del Instituto Nacional de Ciencias Penales, en 1979, y proseguida por el ordenamiento de esa entidad y por las reformas de 1983 al Código de la Federación y el Distrito Federal.
 
@@ -229,7 +229,7 @@ Dicho en términos muy generales, un Código Penal es el catálogo de las conduc
 
 Se estima necesario revisar esa sistemática. Si el ser humano es el eje de la vida social, el depositario de los más altos valores políticos y morales, la razón de ser de la sociedad y el Estado, resulta natural que el catálogo de los delitos se inicie con aquéllos que afectan a la persona humana, y ante todo con los que vulneran el bien jurídico de más alto rango: la vida. Es por ello que estas conductas aparecen en la primera porción del Libro Segundo. Posteriormente figuran, en sendos agrupamientos típicos, los delitos contra el orden familiar, contra la sociedad y contra el Estado. De este modo se sigue una ordenación lógica consecuente con el compromiso humanista de la sociedad mexicana, al que sirve, en su propio espacio, el ordenamiento penal.
 
-También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título y capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
+También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título o capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
 
 Se obedece a la moderna tendencia de ampliar, en términos razonables, el número de los delitos perseguibles por instancia del ofendido o de la persona legitimada para formular querella. Con ello se procura concentrar la actuación oficiosa del Estado en las conductas ilícitas más graves, donde el interés social persecutorio prevalece sobre cualquier otra consideración particular. La persecución por querella permite evitar la vía jurisdiccional cuando es conveniente y razonable hacerlo, y promover, al través de la composición legítima entre la víctima y el victimario, una solución juiciosa al litigio penal, tomando en cuenta, sobre todo, la posibilidad de satisfacción de los intereses del ofendido.
 
@@ -2006,6 +2006,12 @@ I. Se apodere de documentos u objetos de cualquier clase;
 II. Reproduzca dichos documentos u objetos; o
 
 III. Utilice medios técnicos para escuchar, observar, transmitir, grabar o reproducir la imagen o el sonido.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 150 BIS.- Se aplicarán las penas previstas en el artículo anterior, a quien, sin consentimiento del sujeto pasivo, utilizando cualquier medio, divulgue contenido erótico sexual en perjuicio de quien aparezca en el mismo.
+
+Si la imagen o video obtenidos sin consentimiento, muestra al sujeto pasivo desnudo, se acredita por ese sólo hecho, los propósitos señalados en el párrafo anterior.
 
 ### CAPITULO III. HOSTIGAMIENTO Y ACOSO SEXUAL
 
@@ -4743,7 +4749,7 @@ DECRETO NÚMERO DOS MIL CIENTO CINCUENTA Y SEIS, POR EL QUE SE REFORMA LOS ARTÍ
 
 ###### ARTÍCULO PRIMERO.
 
-Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los articulas 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTICULO SEGUNDO.
 
@@ -4842,3 +4848,11 @@ P.O. 17 DE AGOSTO DE 2016.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SETENTA POR EL QUE SE ADICIONA UN ARTÍCULO 150 BIS AL TÍTULO SEXTO “DELITOS CONTRA LA INTIMIDAD PERSONAL O FAMILIAR", CAPÍTULO I “VIOLACIÓN DE LA INTIMIDAD PERSONAL" DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
