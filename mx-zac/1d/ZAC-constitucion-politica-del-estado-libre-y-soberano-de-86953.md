@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2016-05-31"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -2129,9 +2129,11 @@ El Tribunal de Conciliación y Arbitraje se integra con tres Magistrados, por lo
 
 El Municipio Libre es la unidad jurídico-política constituida por una comunidad de personas, establecida en un territorio delimitado, con personalidad jurídica y patrimonio propio, forma de gobierno democrático, representativo, de elección popular directa, y autónomo en su régimen interno, que tiene como fin el desarrollo armónico e integral de sus habitantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 117.
 
-La división política y administrativa del territorio del Estado comprende los siguientes Municipios:
+La división política y administrativa del territorio del estado comprende los siguientes Municipios:
 
 1. Apozol,
 
@@ -2161,7 +2163,9 @@ La división política y administrativa del territorio del Estado comprende los 
 
 13. Fresnillo,
 
-14. Trinidad García de la Cadena,
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+14. Trinidad García de la Cadena (con su cabecera en La Estanzuela),
 
 15. Genaro Codina,
 
@@ -3520,3 +3524,13 @@ Sexto. El Instituto Zacatecano de Transparencia, Acceso a la Información y Prot
 Con motivo del presente decreto, los servidores públicos que actualmente prestan sus servicios en la referida Comisión serán transferidos al Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, y conservarán la totalidad de sus derechos laborales y de seguridad social.
 
 Séptimo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 644.- SE REFORMA EL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. El Honorable Ayuntamiento de Trinidad García de la Cadena, emitirá los Acuerdos de Cabildo respectivos, a efecto de adecuar el Bando de Policía y Buen Gobierno y sus reglamentos a lo previsto en este Decreto.
+
+Artículo tercero. Este Decreto deberá notificarse al Instituto Nacional de Estadística y Geografía (INEGI) y al Instituto Nacional para el Federalismo y el Desarrollo Municipal (INAFED), lo anterior para los efectos legales a que haya lugar.
