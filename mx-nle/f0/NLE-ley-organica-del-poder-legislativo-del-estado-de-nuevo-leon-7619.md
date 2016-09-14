@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2016-05-06"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -913,9 +913,9 @@ a) Las que designe el Pleno del Congreso para la resolución de un asunto espec�
 
 Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-Cada Diputado formará parte de hasta seis Comisiones de Dictamen Legislativo.
+Cada Diputado formará parte de hasta siete Comisiones de Dictamen Legislativo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -963,79 +963,93 @@ Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Co
 
 Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
-I.- Gobernación y Organización Interna de los Poderes;
+I. Gobernación y Organización Interna de los Poderes;
 
-II.- Legislación y Puntos Constitucionales;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-III.- Justicia y Seguridad Pública;
+II. Legislación;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+III. Puntos Constitucionales;
+
+IV. Justicia y Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-IV.- Desarrollo Social y Derechos Humanos;
+V. Desarrollo Social y Derechos Humanos;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-V.- Para la Igualdad de Género;
+VI. Para la Igualdad de Género;
 
-VI.- Educación, Cultura y Deporte;
+VII. Educación, Cultura y Deporte;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VII.- Medio Ambiente;
+VIII. Medio Ambiente;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-VIII.- Desarrollo Urbano;
+IX. Desarrollo Urbano;
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-IX.- Transporte;
+X. Transporte;
 
-X.- Fomento Económico;
+XI. Fomento Económico;
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-XI.- Fomento al Campo y Desarrollo Rural;
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
-
-XII.- Desarrollo Sustentable;
+XII. Fomento al Campo, Energía y Desarrollo Rural;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XIII.- Juventud;
+XIII. Desarrollo Sustentable;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XIV.- Salud y Atención a Grupos Vulnerables;
+XIV. Juventud;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XV.- Hacienda del Estado;
+XV. Salud y Atención a Grupos Vulnerables;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVI.- Primera de Hacienda y Desarrollo Municipal;
+XVI. Hacienda del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVII.- Segunda de Hacienda y Desarrollo Municipal;
+XVII. Primera de Hacienda y Desarrollo Municipal;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XVIII.- Tercera de Hacienda y Desarrollo Municipal;
+XVIII. Segunda de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XIX. Tercera de Hacienda y Desarrollo Municipal;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-XIX.- Cuarta de Hacienda y Desarrollo Municipal;
+XX. Cuarta de Hacienda y Desarrollo Municipal;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-XX.- Quinta de Hacienda y Desarrollo Municipal; y
+XXI. Quinta de Hacienda y Desarrollo Municipal;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-XXI.- Anticorrupción.
+XXII. Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII. Presupuesto; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Desarrollo Metropolitano.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
@@ -1687,7 +1701,13 @@ P.O. 12 DE OCTUBRE DE 2005.
 
 Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-716 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
+P.O. 14 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 143. POR EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Una vez que entre en vigor el presente Decreto la Oficialía Mayor tendrá un plazo improrrogable de 15 días para hacer el returno de los asuntos correspondientes a las comisiones.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-717 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
