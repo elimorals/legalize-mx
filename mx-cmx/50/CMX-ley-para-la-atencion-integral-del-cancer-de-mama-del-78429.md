@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-atencion-integral-del-cancer-de-mama-del-78429"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2014-03-14"
+last_updated: "2016-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78429&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY PARA LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -74,9 +74,17 @@ V. Realizar acciones de promoción de la salud para fomentar una cultura de prev
 
 VI. Llevar a cabo acciones de prevención y atención de casos de cáncer de mama en hombres;
 
-VII. Brindar acompañamiento psicológico a las mujeres y, en su caso, hombres cuyo resultado indique sospecha, alta sospecha o confirmación de cáncer de mama, y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Realizar acciones encaminadas a la atención médica y rehabilitación integral de las mujeres y, en su caso, hombres con diagnóstico sospechoso, altamente sospechoso y confirmado de cáncer de mama.
+VII. Brindar acompañamiento psicológico a las mujeres y, en su caso, hombres cuyo resultado indique sospecha, alta sospecha o confirmación de cáncer de mama;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Realizar acciones encaminadas a la atención médica y rehabilitación integral de las mujeres y, en su caso, hombres con diagnóstico sospechoso, altamente sospechoso y confirmado de cáncer de mama; y
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Brindar atención médica referente a la reconstrucción mamaria como rehabilitación para las personas de bajos recursos económicos que lo requieran y que sean candidatas, mediante estudios socioeconómicos, a quienes se les haya realizado una mastectomía como tratamiento del cáncer de mama.
 
 ###### Artículo 4°.
 
@@ -136,9 +144,17 @@ VIII. Instrumentar acciones para la formación, capacitación y actualización d
 
 IX. Programar y ejercer el presupuesto asignado para el Programa de Atención Integral del Cáncer de Mama del Distrito Federal;
 
-X. Diseñar un programa de fortalecimiento de la infraestructura para satisfacer la demanda y cobertura de las acciones contempladas en el Programa de Atención Integral del Cáncer de Mama del Distrito Federal, y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Las demás necesarias para la aplicación de la presente Ley.
+X. Diseñar un programa de fortalecimiento de la infraestructura para satisfacer la demanda y cobertura de las acciones contempladas en el Programa de Atención Integral del Cáncer de Mama del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+XI. La prestación de servicios de atención médica necesarios para dar respuesta a las y los pacientes de cáncer de mama, incluyendo la reconstrucción mamaria como rehabilitación para las personas de bajos recursos económicos que lo requieran y que sean candidatas, mediante estudios socio-económicos, y a quienes se les haya realizado una mastectomía como tratamiento del cáncer de mama; y
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Las demás necesarias para la aplicación de la presente Ley.
 
 ###### Artículo 9°.
 
@@ -336,7 +352,13 @@ Para dar cumplimiento a esta disposición, podrá suscribir convenios con instit
 
 Todas las personas con tratamiento dentro del Programa de Atención Integral del Cáncer de Mama, deberán recibir una evaluación para determinar el tipo de rehabilitación integral que requieren, de acuerdo a los lineamientos establecidos en la Norma Oficial Mexicana en materia de cáncer de mama.
 
-La Secretaría de Salud del Distrito Federal, para dar cumplimiento a esta disposición, podrá suscribir convenios con instituciones de salud a nivel federal, en los términos a los que se refiere el artículo 8° de la presente Ley.
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+La rehabilitación incluirá la reconstrucción mamaria para las personas de bajos recursos económicos que lo requieran y que sean candidatas, mediante estudios socio-económicos, y a quienes se les haya realizado una mastectomía como tratamiento del cáncer de mama.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+La Secretaría de Salud del Distrito Federal, para dar cumplimiento a esta disposición, podrá suscribir convenios con instituciones de salud a nivel federal, en los términos a los que se refiere el artículo 8 de la presente Ley.
 
 ## TÍTULO CUARTO. DEL CONTROL Y VIGILANCIA EPIDEMIOLÓGICA DEL CÁNCER DE MAMA EN EL DISTRITO FEDERAL
 
@@ -520,7 +542,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los diecinueve días 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de enero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LOPEZ CARDENAS.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTI BATRES GUADARRAMA.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 7 DE AGOSTO DE 2013.
 
@@ -535,3 +557,15 @@ G.O. 14 DE MARZO DE 2014.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO: Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación.
+
+TERCERO. El Gobierno de la Ciudad de México establecerá mecanismos para que se doten los recursos necesarios para iniciar en el año 2017 la aplicación del presente Decreto, en apego a lo establecido por el artículo 3 de la Ley de Salud del Distrito Federal, a efecto de que la Secretaría de Salud del Distrito Federal cuente con la infraestructura física, recursos humanos altamente capacitados e insumos que resulten necesarios para operar dicho programa.
+
+CUARTO.- El Gobierno de la Ciudad de México, por conducto de la Secretaría de Salud, deberá entregar a la Asamblea Legislativa, en el mes de julio de cada año, un informe detallado en el que emita los avances de los indicadores de evaluación y atención de reconstrucción mamaria, para proyectar las necesidades presupuestales para el siguiente ejercicio fiscal.
