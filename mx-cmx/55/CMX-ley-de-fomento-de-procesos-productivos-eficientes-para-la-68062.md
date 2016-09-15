@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-de-procesos-productivos-eficientes-para-la-68062
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2014-11-28"
+last_updated: "2016-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68062&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-04-22"
 
 LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -86,7 +86,7 @@ X. Secretaria del Medio Ambiente.- La Secretaría del Medio Ambiente del Distrit
 
 ###### Artículo 4.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que se prescribe este (sic) ordenamiento, se estará a lo dispuesto por la ley Ambiental del Distrito Federal, la Ley de Residuos Sólidos del Distrito Federal y a la Ley de Procedimiento Administrativo del Distrito Federal.
+A falta de disposición expresa y en cuanto no se oponga a lo que se prescribe (sic) este ordenamiento, se estará a lo dispuesto por la ley Ambiental del Distrito Federal, la Ley de Residuos Sólidos del Distrito Federal y a la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ###### Artículo 5.
 
@@ -118,23 +118,29 @@ El Gobierno del Distrito Federal deberá formular políticas fiscales e impositi
 
 El Gobierno y Delegaciones, así como las dependencias, tendrán la responsabilidad de formular e implementar políticas de desarrollo industrial y tecnológico benéficas, así como políticas de difusión, y asumir medidas de supervisión y administración que conduzcan a la implementación de procesos productivos eficientes.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-La Secretaría así como las Delegaciones, deberán formular planes para la popularización de procesos productivos eficientes, conjuntamente con la Secretaría del Medio Ambiente.
+La Secretaría así como las Delegaciones, deberán formular planes para la popularización de procesos productivos eficientes, conjuntamente con la Secretaría del Medio Ambiente, los cuales deberán concebir la utilización de medios electrónicos con la finalidad de disminuir la huella ecológica.
 
 ###### Artículo 11.
 
 El Gobierno y Delegaciones deberán formular planes de manera racional para desarrollar anteproyectos económicos regionales y reajustar la estructura industrial a fin de impulsar la adopción a una economía del reciclaje que promueva activamente la cooperación empresarial en la utilización total de los recursos y minimice el desperdicio de productos, con el objeto de asegurar una mayor eficiencia en la utilización y reciclaje de los recursos.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-La Secretaría, así como las dependencias y Delegaciones, deberán llevar a cabo esfuerzos organizacionales a través de convenios para dar soporte al establecimiento de sistemas de información para procesos productivos limpios, así como una consultoría técnica y un sistema de servicios para dar al público información referente a metodologías y tecnologías relacionadas con procesos productivos eficientes, y la información y servicios relativos a la oferta y demanda de desechos de productos renovables y reciclables y políticas de producción eficiente.
+La Secretaría, así como las dependencias y Delegaciones, deberán llevar a cabo esfuerzos organizacionales a través de convenios para dar soporte al establecimiento de sistemas de información para procesos productivos limpios, así como una consultoría técnica y un sistema de servicios para dar al público información referente a metodologías y tecnologías relacionadas con procesos productivos eficientes, y la información y servicios relativos a la oferta y demanda de desechos de productos renovables y reciclables como el papel y el cartón, entre otros y políticas de producción eficiente.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 13.
 
-La Secretaría, de manera conjunta con áreas afines del Gobierno y Delegaciones, periódicamente deberá emitir catálogos donde se oriente a cerca (sic) de tecnologías, procesos, equipo y productos a favor de procesos productivos eficientes.
+La Secretaría, de manera conjunta con áreas afines del Gobierno y Delegaciones, periódicamente deberá emitir catálogos donde se oriente acerca de tecnologías, procesos, equipo y productos a favor de procesos productivos eficientes.
 
-Las dependencias deberán organizar la compilación de guías para procesos productivos eficientes en la industria y regiones específicas, o manuales técnicos que ilustren métodos para la implementación de procesos productivos eficientes.
+Las dependencias deberán organizar la compilación de guías para procesos productivos eficientes en la industria y regiones específicas, o manuales técnicos que ilustren métodos para la implementación de procesos productivos eficientes, con el objeto de lograr la disminución de la huella ecológica de sus actividades.
 
 ###### Artículo 14.
 
@@ -355,3 +361,11 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL; DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL; DE LA LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL; DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL Y DE LA LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
