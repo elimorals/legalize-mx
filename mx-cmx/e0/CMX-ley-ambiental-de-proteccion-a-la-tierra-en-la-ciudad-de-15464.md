@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2015-11-18"
+last_updated: "2016-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -359,6 +359,10 @@ FUENTES NATURALES DE CONTAMINACIÓN: las de origen biogénico, de fenómenos nat
 GARANTÍA DE REGENERACIÓN DE LA TIERRA: Responsabilidad a cargo de las autoridades competentes en la materia y de la sociedad, en armonía consistente en garantizar las condiciones necesarias para que los diversos sistemas de vida de la Tierra puedan absorber, daños, adaptarse a las perturbaciones y regenerarse sin alterar significativamente sus características de estructura y funcionalidad, reconociendo que los sistemas de vida tienen límites en su capacidad de regenerarse, y que la humanidad tienen límites en su capacidad de revertir sus acciones;
 
 GACETA OFICIAL: La Gaceta Oficial del Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+HUELLA ECOLÓGICA: Es el indicador de sustentabilidad que mide el grado de impacto que ejerce cierta comunidad humana, persona, organización, país, región o ciudad sobre el ambiente. Es considerada además una herramienta para determinar los espacios terrestres, aéreos, acuáticos y marinos que se necesitan para producir todos los recursos y bienes, así como la superficie para absorber todos los desechos que se generan, usando la tecnología actual.
 
 IMPACTO AMBIENTAL: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
 
@@ -4625,3 +4629,11 @@ TERCERO.- El Jefe de Gobierno del Distrito Federal contará con sesenta días po
 CUARTO.- Las Secretarías del Medio Ambiente y de Desarrollo Económico del Gobierno del Distrito Federal así como las Delegaciones, deberán diseñar e implementar una campaña permanente para dar a conocer a la ciudadanía en general, la forma de operación y participación en los sistemas de intercambio de residuos sólidos por productos en especie tratados en el presente Decreto; previéndose las partidas presupuestales pertinentes para llevar a cabo las mencionadas acciones en medios electrónicos e impresos.
 
 QUINTO.- La Secretaría de Medio Ambiente del Gobierno del Distrito Federal, deberá solicitar la suficiencia presupuestal suficiente con el fin de iniciar y hacer cumplir las modificaciones que indica el presente Decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+[N. E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL; DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL; DE LA LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL; DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL Y DE LA LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
