@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2014-12-18"
+last_updated: "2016-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -120,7 +120,11 @@ XXII. “Certificado Electrónico”: el documento firmado electrónicamente por
 
 > <small>(ADICIONADA, G.O. 31 DE MARZO DE 2011)</small>
 
-XXIII. “Firma Electrónica Notarial”: “Firma Electrónica Notarial”: (sic) La firma electrónica en términos de la Ley de la Firma Electrónica del Distrito Federal, asignada a un notario de esta entidad con motivo de sus funciones, con igual valor jurídico que su firma autógrafa y su sello de autorizar, en términos de la normatividad aplicable.
+XXIII. “Firma Electrónica Notarial”: “Firma Electrónica Notarial”: La firma electrónica en términos de la Ley de la Firma Electrónica del Distrito Federal, asignada a un notario de esta entidad con motivo de sus funciones, con igual valor jurídico que su firma autógrafa y su sello de autorizar, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. “Jornada Notarial”: Programa obligatorio y continuo anual que se organiza en la Ciudad de México en los meses de febrero y marzo de forma conjunta por el Colegio y las Autoridades Competentes, mediante el cual se otorgan importantes reducciones en impuestos, derechos y honorarios notariales, para la escrituración de inmuebles y la tramitación de sucesiones.
 
 ###### Artículo 3.
 
@@ -274,9 +278,11 @@ V. Solicitar y obtener el original o copia certificada de los documentos con los
 
 Las autoridades podrán requerir de los notarios la prestación de sus servicios para atender asuntos de orden público o de interés social. En estos casos las autoridades y el colegio convendrán los honorarios correspondientes.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 17.
 
-Los notarios participarán también, con tarifas reducidas y convenidas por el Colegio con las autoridades correspondientes, en programas de fomento a la vivienda y regularización de la tenencia de la propiedad inmueble.
+Los notarios participarán también, con tarifas reducidas y convenidas por el Colegio con las Autoridades Correspondientes, en programas de fomento a la vivienda, programas de regularización de la tenencia de la propiedad inmueble y el programa de Jornada Notarial.
 
 > <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2005)</small>
 
@@ -2144,7 +2150,7 @@ Cuando se trate de visitas que deban practicarse a notarios asociados o suplente
 
 ###### Artículo 222.
 
-Los notarios son responsables por los delitos o faltas que cometan en el ejercicio de su función, en los términos que previenen las leyes penales y procesales penales que sean aplicables al Distrito Federal, y en su caso, las del fuero federal. De la responsabilidad civil en que incurran los notarios en el ejercicio de sus funciones conocerán los Tribunales. De la responsabilidad administrativa en que incurran los notarios por violación a los preceptos de esta ley, conocerán las Autoridades competentes. De la responsabilidad colegial conocerá la Junta de Decanos, que estimará si amerita el asunto encausarse a través la (sic) Comisión de Arbitraje, Legalidad y Justicia. De la responsabilidad fiscal en que incurra el notario en ejercicio de sus funciones, conocerán las autoridades tributarias locales o federales, según el caso. Salvo los casos expresamente regulados por las leyes, la acción para exigir responsabilidad administrativa a un notario, prescribe en ocho años.
+Los notarios son responsables por los delitos o faltas que cometan en el ejercicio de su función, en los términos que previenen las leyes penales y procesales penales que sean aplicables al Distrito Federal, y en su caso, las del fuero federal. De la responsabilidad civil en que incurran los notarios en el ejercicio de sus funciones conocerán los Tribunales. De la responsabilidad administrativa en que incurran los notarios por violación a los preceptos de esta ley, conocerán las Autoridades competentes. De la responsabilidad colegial conocerá la Junta de Decanos, que estimará si amerita el asunto encausarse a través (sic) la Comisión de Arbitraje, Legalidad y Justicia. De la responsabilidad fiscal en que incurra el notario en ejercicio de sus funciones, conocerán las autoridades tributarias locales o federales, según el caso. Salvo los casos expresamente regulados por las leyes, la acción para exigir responsabilidad administrativa a un notario, prescribe en ocho años.
 
 Cuando se promueva algún proceso por responsabilidad en contra de un notario, el juez podrá admitir como medio de prueba o prueba pericial profesional, si así se ofreciere y fuere pertinente, la opinión del colegio.
 
@@ -2881,3 +2887,17 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los actos jurídicos en materia notarial iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal tomará las providencias presupuestales necesarias para que se cumpla con lo dispuesto en este Decreto.
+
+QUINTO.- Túrnese a la Consejería Jurídica y de Servicios Legales del Distrito Federal para que en un plazo no mayor a 30 días naturales se acople y adopte la reglamentación necesaria para el buen desarrollo del Programa Jornada Notarial.
