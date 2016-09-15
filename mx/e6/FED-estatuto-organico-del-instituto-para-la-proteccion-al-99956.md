@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2016-03-15"
+last_updated: "2016-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -265,9 +265,9 @@ El Director General Adjunto de Presupuesto y Contabilidad será suplido en sus a
 
 El Director General de Planeación Estratégica y Procesos será suplido en sus ausencias por el titular de la Dirección General Adjunta de Planeación Estratégica y Procesos.
 
-> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
 
-El Director General de Comunicación Social y Relaciones Institucionales será suplido en sus ausencias por el titular de la Dirección de Información, por el titular de la Dirección de Difusión, por el titular de la Dirección de Análisis, o por el titular de la Dirección de Transparencia e Información Pública, en el orden indicado.
+El Director General de Comunicación Social y Relaciones Institucionales será suplido en sus ausencias por el titular de la Dirección de Información, por el titular de la Dirección de Difusión, o por el titular de la Dirección de Análisis, en el orden indicado.
 
 El Director General de Tecnologías de la Información será suplido en sus ausencias por el titular de la Dirección de Infraestructura Tecnológica, por el titular de la Dirección de Sistemas, o por el titular de la Dirección de Gestión de Tecnologías de la Información, en el orden indicado.
 
@@ -369,9 +369,17 @@ VII. Formular los proyectos de resolución y resolver los recursos administrativ
 
 VIII. Representar a los Vocales de la Junta de Gobierno, al Secretario Ejecutivo y a cualquier servidor público del Instituto, ante particulares y toda clase de autoridades, incluyendo las judiciales, administrativas y del trabajo, en materia de la competencia de dichos servidores públicos;
 
-IX. Resolver los recursos de revisión que se interpongan en contra de las sanciones impuestas por el Instituto, en términos de la Ley, la Ley de Instituciones de Crédito, el presente Estatuto y el Reglamento del Instituto, y
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
 
-X. Suscribir, conjuntamente con el titular de la Secretaría Adjunta de Administración y Presupuesto, los acuerdos de coordinación que celebre el Instituto, conforme al artículo 149 de la Ley de Instituciones de Crédito.
+IX. Resolver los recursos de revisión que se interpongan en contra de las sanciones impuestas por el Instituto, en términos de la Ley, la Ley de Instituciones de Crédito, el presente Estatuto y el Reglamento del Instituto;
+
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
+
+X. Suscribir, conjuntamente con el titular de la Secretaría Adjunta de Administración y Presupuesto, los acuerdos de coordinación que celebre el Instituto, conforme al artículo 149 de la Ley de Instituciones de Crédito, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Coordinar la atención de las solicitudes de información conforme a la normativa aplicable.
 
 ###### ARTÍCULO 15.
 
@@ -917,7 +925,9 @@ II. Analizar, en coordinación con las unidades administrativas competentes, los
 
 III. Elaborar estudios jurídicos y resolver consultas sobre asuntos competencia del Instituto, que le sean encomendados por la Junta de Gobierno o por cualquiera de los titulares de las unidades administrativas;
 
-IV. Recibir o dar seguimiento a las consultas efectuadas por terceros, sobre asuntos concernientes a la competencia del Instituto, cuya gestión o trámite no estén asignados expresamente a otra unidad administrativa, a fin de canalizarlas a las unidades administrativas competentes para su atención;
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Recibir o dar seguimiento a las consultas efectuadas por terceros, sobre asuntos concernientes a la competencia del Instituto, cuya gestión o trámite no estén asignados expresamente a otra unidad administrativa, a fin de canalizarlas a las unidades administrativas competentes para su atención, así como apoyar al Secretario Adjunto Jurídico en la atención a las solicitudes de información conforme a la normativa aplicable;
 
 V. Elaborar, en coordinación con las unidades administrativas del Instituto, los proyectos de Estatuto Orgánico y de condiciones generales de trabajo, y sus modificaciones;
 
@@ -1125,7 +1135,9 @@ VII. Realizar el seguimiento a la información difundida en medios de comunicaci
 
 VIII. Planear, diseñar, ejecutar y evaluar, conforme a las disposiciones aplicables, las campañas de difusión de interés para el Instituto con la colaboración de las unidades administrativas correspondientes;
 
-IX. Coordinar la atención a las solicitudes de información del público en general, en su ámbito de competencia, y de los medios de comunicación, sobre temas relacionados con el Instituto;
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Coordinar la atención a los medios de comunicación sobre temas relacionados con el Instituto;
 
 X. Coordinar las relaciones institucionales y públicas del Instituto en materia de comunicación social;
 
@@ -1153,7 +1165,7 @@ XVII. Llevar a cabo análisis de información y brindar apoyo a los servidores p
 
 > <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
-XVIII. Elaborar, en coordinación con las unidades administrativas del Instituto, materiales de información sobre el objeto y fines del Instituto para su difusión a través de medios de comunicación, conforme a la normativa aplicable.” (sic)
+XVIII. Elaborar, en coordinación con las unidades administrativas del Instituto, materiales de información sobre el objeto y fines del Instituto para su difusión a través de medios de comunicación, conforme a la normativa aplicable.”
 
 ###### ARTÍCULO 30.
 
@@ -1274,5 +1286,15 @@ D.O.F. 15 DE MARZO DE 2016.
 PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las unidades administrativas a que se refiere el presente Acuerdo, deberán relizar (sic) los ajustes que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
+
+D.O.F. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO”.
+
+PRIMERO.- Las presentes reformas al Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las unidades administrativas a que se refiere el presente Acuerdo, deberán realizar los ajustes que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
 
 TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
