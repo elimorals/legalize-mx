@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-81715"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-16"
-last_updated: "2011-06-16"
+last_updated: "2016-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81715&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-06-15"
 ---
 # LEY DE MITIGACION Y ADAPTACION AL CAMBIO CLIMATICO Y DESARROLLO SUSTENTABLE PARA LA CIUDAD DE MEXICO -- ANTES LEY DE MITIGACION Y ADAPTACION AL CAMBIO CLIMATICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL --
 
-LEY DE MITIGACION Y ADAPTACION AL CAMBIO CLIMATICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL
+LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de junio de 2011.
 
@@ -90,6 +90,10 @@ XIV. Fondo: El Fondo Ambiental para el Cambio Climático. Es la base de captaci�
 
 XV. GEI: Gases de Efecto Invernadero. Gases de origen antropogénico, que absorben y emiten radiación infrarroja, cuyo incremento en sus concentraciones atmosféricas son causantes del Cambio Climático;
 
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+XV Bis. Huella Ecológica: Es el indicador de sustentabilidad que mide el grado de impacto que ejerce cierta comunidad humana, persona, organización, país, región o ciudad sobre el ambiente. Es considerada además una herramienta para determinar los espacios terrestres, aéreos, acuáticos y marinos que se necesitan para producir todos los recursos y bienes, así como la superficie para absorber todos los desechos que se generan, usando la tecnología actual.
+
 XVI. Instituto de Ciencia y Tecnología: Instituto de Ciencia y Tecnología del Distrito Federal.
 
 XVII. INVEADF: El Instituto de Verificación Administrativa del Distrito Federal, organismo descentralizado del Gobierno del Distrito Federal, que tiene personalidad jurídica y patrimonio propio de acuerdo con la ley del Instituto de Verificación Administrativa del Distrito Federal;
@@ -122,7 +126,7 @@ XXX. Protocolo de Kioto: Tratado internacional ligado a la Convención Marco que
 
 XXXI. Reducciones Certificadas de Emisión: Disminución de emisiones de gases de efecto invernadero a la atmósfera expresados en toneladas de bióxido de carbono equivalente, logradas por alguna actividad o proyecto y que han sido certificadas por alguna entidad autorizada para dichos efectos;
 
-XXXII. Registro de emisiones: Registro de Emisiones del Distrito Federal, instrumento de registro a cargo de la Secretaría de (sic) Medio Ambiente del Distrito Federal, de las fuentes de emisiones, los proyectos de reducción de emisiones así como las transacciones de reducciones certificadas y de permisos de emisión.
+XXXII. Registro de emisiones: Registro de Emisiones del Distrito Federal, instrumento de registro a cargo de la Secretaría de Medio Ambiente del Distrito Federal, de las fuentes de emisiones, los proyectos de reducción de emisiones así como las transacciones de reducciones certificadas y de permisos de emisión.
 
 XXXIII. Riesgo: Probabilidad de que se produzca un daño, originado por un fenómeno perturbador;
 
@@ -342,7 +346,7 @@ XII. Informar periódicamente al Jefe de Gobierno del Distrito Federal, los avan
 
 XIII. Plantear y, en su caso, establecer Subcomisiones o Grupos de Trabajo que considere necesarias para el mejor cumplimiento de sus atribuciones, para atender y dar seguimiento a las acciones específicas contenidas en el Programa de Acción Climática o los Programas de Acción Climática subsecuentes, y especialmente las acciones de mitigación de gases de efecto invernadero, de adaptación a los efectos del cambio climático y de comunicación y educación para la población; las Subcomisiones y Grupos de Trabajo deberán presentar informes MRV de sus actividades a la Comisión, en el marco de las sesiones periódicas.
 
-XIV. Coordinar los trabajos para coadyuvar con la Secretaría de (sic) Medio Ambiente en la integración del inventario de GEI de conformidad con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre.
+XIV. Coordinar los trabajos para coadyuvar con la Secretaría de Medio Ambiente en la integración del inventario de GEI de conformidad con las directrices del IPCC para los inventarios de emisiones de GEI, así como la guía para las buenas prácticas y la gestión de incertidumbre.
 
 XV. Aprobar su Reglamento Interno.
 
@@ -352,7 +356,7 @@ XVII. Las demás necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 12.
 
-La Comisión será presidida por el Jefe de Gobierno del Distrito Federal, en su ausencia lo suplirá el titular de la Secretaria de (sic) Medio Ambiente del Distrito Federal.
+La Comisión será presidida por el Jefe de Gobierno del Distrito Federal, en su ausencia lo suplirá el titular de la Secretaria de Medio Ambiente del Distrito Federal.
 
 La Comisión se integrará por los titulares de:
 
@@ -444,7 +448,7 @@ IV. Inspección y verificación así como auditorias sobre la información repor
 
 Cada Delegación designará una oficina con las siguientes atribuciones, entre otras:
 
-I. Participar en la elaboración del Programa de Acción Climática de la Ciudad de México a través de la formulación de comentarios y propuestas presentadas ante el al (sic) Jefe de Gobierno para su aprobación; y (sic)
+I. Participar en la elaboración del Programa de Acción Climática de la Ciudad de México a través de la formulación de comentarios y propuestas presentadas ante el al (sic) Jefe de Gobierno para su aprobación; y
 
 II. Participar en la elaboración o modificación de los Programas Delegacionales considerando los programas enfocados al Cambio Climático.
 
@@ -478,9 +482,11 @@ IV. Sistemas para MRV.
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 19.
 
-En la definición de los objetivos y metas de adaptación y mitigación, el Jefe de Gobierno, la Secretaría, las delegaciones y la Comisión Interinstitucional, deberán tomar en cuenta las evaluaciones de impacto económico, la inserción de los costos ambientales no considerados en las economías, atlas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático.
+En la definición de los objetivos y metas de adaptación y mitigación, las autoridades locales de gobierno de la Ciudad de México y la Comisión Interinstitucional, deberán tomar en cuenta las evaluaciones de impacto económico, la inserción de los costos ambientales no considerados en las economías, atlas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático, con el objeto de lograr la disminución de la huella ecológica de sus actividades.
 
 ###### Artículo 20.
 
@@ -594,7 +600,7 @@ El Registro de Emisiones de la Ciudad de México es el instrumento de inscripci�
 
 I. Cuantificación de las Emisiones directas e indirectas que pueden estar certificadas por organismos independientes y que sean generadas en el territorio del Distrito Federal;
 
-II. Programas y proyectos de reducción o captura de emisiones públicos o privados; y (sic)
+II. Programas y proyectos de reducción o captura de emisiones públicos o privados; y
 
 III. Padrón de las transacciones de reducciones certificadas de Emisiones provenientes de los programas, proyectos y actividades de reducción o captura de Emisiones públicos o privados.
 
@@ -795,3 +801,13 @@ Se derogan las disposiciones legales, reglamentarias y administrativas que contr
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dos días del mes de diciembre del año dos mil diez. - POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO (Firmas)
 
 En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los quince días del mes de junio del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- LA SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+[N. DE E TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL; DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL; DE LA LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL; DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL Y DE LA LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
