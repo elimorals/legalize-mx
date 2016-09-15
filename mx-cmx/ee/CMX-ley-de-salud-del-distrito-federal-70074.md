@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2016-01-19"
+last_updated: "2016-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -873,6 +873,10 @@ VII. Cumplir con los requisitos y lineamientos contenidos en la Norma Oficial Me
 VIII. Limitar el uso de la sirena y las luces de emergencia estrictamente a la necesidad de solicitar paso preferente al acudir al llamado de una urgencia o durante el traslado de un paciente en estado grave o critico. Las luces de emergencia, podrán emplearse de manera independiente, con o sin el uso de la sirena siempre que exista un paciente a bordo de la ambulancia, dependiendo de su condición o estado de salud, y
 
 IX. No realizar base fija en la vía pública que obstaculice la circulación vehicular.
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+X. Contar cuando menos con un Desfibrilador Automático Externo en óptimas condiciones, así como con las soluciones, medicamentos, insumos y demás equipo médico, tal como lo indican las Normas Oficiales aplicables como parte de los recursos médicos de apoyo e indispensables para afrontar y mitigar situaciones de riesgo en las que esté en peligro la vida de las personas y que garantice la oportuna e integral atención prehospitalaria.
 
 > <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
 
@@ -3187,3 +3191,13 @@ CUARTO.- El Programa "El Médico en tu Casa" será aplicado en concordancia con 
 QUINTO. La Secretaría de Salud por conducto de la Secretaría de Finanzas del Gobierno del Distrito Federal, deberá entregar a la Asamblea Legislativa del Distrito Federal, en el mes de julio de cada año, un informe que señale la evolución de los costos de atención de la Salud de las principales enfermedades y padecimientos de la población del Distrito Federal.
 
 SEXTO. El Gobierno del Distrito Federal por conducto de la Secretaría de Salud deberá entregar a la Asamblea Legislativa, en el mes de julio de cada año, un informe detallado en el que emita los avances de los indicadores de evaluación y desempeño que proyecte los alcances del programa para el siguiente año.
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY DE SALUD DEL DISTRITO FEDERAL”.]
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo.- La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Las ambulancias de la Ciudad de México deberán contar con los requerimientos de equipo e insumos incluyendo los Desfibriladores Automáticos Externos, conforme la Ley de Salud del Distrito Federal y las Normas Oficiales aplicables.
