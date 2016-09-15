@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2015-09-17"
+last_updated: "2016-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -654,11 +654,11 @@ V.- Proponer políticas de financiamiento, estímulos y fomento para la particip
 
 ### Capítulo III. De la licitación pública
 
-> <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 26.
 
-Las adquisiciones, arrendamientos y prestación de servicios, se llevarán a cabo, por regla general, a través de licitaciones públicas mediante convocatoria pública, para que libremente se presenten propuestas solventes en sobre cerrado, que serán abiertos públicamente, a fin de asegurar a la Administración Pública del Distrito Federal las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de conformidad con lo establecido en la presente Ley.
+Las adquisiciones, arrendamientos y prestación de servicios, se llevarán a cabo, por regla general, a través de licitaciones públicas mediante convocatoria pública, para que libremente se presenten propuestas solventes en sobre cerrado, que serán abiertos públicamente, a fin de asegurar a la Administración Pública del Distrito Federal las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de conformidad con lo establecido en la presente Ley. Toda propuesta técnica y económica presentada por los licitantes, deberá tomar en consideración la utilización del papel reciclado y cartón, así como el fomento de medios electrónicos para la disminución de los anteriores elementos.
 
 > <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -1801,3 +1801,11 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 TERCERO.- El Jefe de Gobierno tendrá 30 días para establecer el proceso o mecanismo y/o condiciones adicionales para habilitar el Registro de Proveedores Salarialmente Responsables de la Ciudad de México.
 
 CUARTO.- Se abrirá un plazo inicial de 90 días para los proveedores que opten por obtener la condición de salarialmente responsable y con ello sean potencialmente beneficiados en los procesos de adjudicación y contratación que ejecuta la administración pública.
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL; DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL; DE LA LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL; DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL Y DE LA LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
