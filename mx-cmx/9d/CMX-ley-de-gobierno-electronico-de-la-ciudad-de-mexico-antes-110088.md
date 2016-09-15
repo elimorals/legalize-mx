@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-gobierno-electronico-de-la-ciudad-de-mexico-antes-110088
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-07"
-last_updated: "2015-10-07"
+last_updated: "2016-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-14"
 
 LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 7 de octubre de 2015.
 
@@ -52,9 +52,11 @@ LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto establecer los principios que regirán las comunicaciones entre los ciudadanos y las Dependencias, Órganos Desconcentrados, Órganos Político- Administrativos y Entidades de la Administración Pública del Distrito Federal, a través del uso y aprovechamiento de las tecnologías de la información y comunicaciones; y, determinar las bases y componentes que sirvan para el diseño, regulación, implementación, desarrollo, mejora y consolidación del Gobierno Electrónico en el Distrito Federal.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto establecer los principios que regirán las comunicaciones entre los ciudadanos y las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública del Distrito Federal, a través del uso y aprovechamiento de las tecnologías de la información y comunicaciones; no sólo para determinar las bases y componentes que sirvan para el diseño, regulación, implementación, desarrollo, mejora y consolidación del Gobierno Electrónico en el Distrito Federal, sino también para limitar el uso del papel y sus derivados en beneficio del medio ambiente.
 
 ###### Artículo 2.
 
@@ -433,3 +435,13 @@ CUARTO. El Jefe de Gobierno emitirá el reglamento de la presente Ley, en un té
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de abril del año dos mil quince.- POR LA MESA DIRECTIVA.- DIP. MANUEL ALEJANDRO ROBLES GÓMEZ, PRESIDENTE.- DIP. ORLANDO ANAYA GONZÁLEZ, SECRETARIO.- DIP. ALEJANDRO RAFAEL PIÑA MEDINA, SECRETARIO.- FIMAS (SIC).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de agosto del año dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTÉS, FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜÍ RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE TURISMO, MIGUEL TORRUCO MÁRQUES.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARÍA ALEJANDRA BARRALES MAGDALENO.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL; DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL; DE LA LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL; DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL Y DE LA LEY DE GOBIERNO ELECTRÓNICO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
