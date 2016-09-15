@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2016-08-30"
+last_updated: "2016-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -1692,9 +1692,13 @@ XXIX. Suplir al Jefe de Gobierno del Distrito Federal en sus ausencias en las se
 
 XXX. En el caso darse (sic) lo señalado en la fracción anterior, deberá coordinar las acciones en materia de prevención social de las violencias que ejecutan las unidades de gasto del Gobierno del Distrito Federal, según la programación operativa, con el objeto de alcanzar los mejores resultados de su aplicabilidad.
 
-> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
 
-XXXI. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
+XXXI. Realizar en coordinación con la Dirección General de Regularización Territorial, y en coordinación con el Colegio de Notarios del Distrito Federal y con las autoridades fiscales, la Jornada Notarial a que se refiere la fracción XXIV del artículo 2 de la Ley del Notariado del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
 
 ### CAPITULO III. De los Organos Político Administrativos de las Demarcaciones Territoriales y demás Organos Desconcentrados
 
@@ -2679,3 +2683,17 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan en algún sentido lo aprobado en esta reforma.
+
+G.O. 15 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los actos jurídicos en materia notarial iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal tomará las providencias presupuestales necesarias para que se cumpla con lo dispuesto en este Decreto.
+
+QUINTO.- Túrnese a la Consejería Jurídica y de Servicios Legales del Distrito Federal para que en un plazo no mayor a 30 días naturales se acople y adopte la reglamentación necesaria para el buen desarrollo del Programa Jornada Notarial.
