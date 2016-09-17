@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2016-05-07"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -143,9 +143,11 @@ IV. Permitir a la sociedad en general, el acceso permanente y abierto a la infor
 
 Las personas atendidas por la Comisión no podrán ser obligados a pagar cantidad alguna, ni a realizar acciones en contraprestación, por los actos que realice en su defensa el personal de la Comisión. Cualquier contravención a esta disposición es causa grave de responsabilidad.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 11.
 
-Queda estrictamente prohibido al personal de la Comisión recibir cualquier tipo de regalo, prestación, servicio o bien de parte de las personas usuarias de la Comisión, cuando el valor del mismo rebase tres salarios mínimos diarios. Cualquier contravención a esta disposición es causa grave de responsabilidad.
+Queda estrictamente prohibido al personal de la Comisión recibir cualquier tipo de regalo, prestación, servicio o bien, de parte de las personas usuarias de la Comisión, cuando el valor del mismo rebase el equivalente a tres días de la Unidad de Medida y Actualización. Cualquier contravención a esta disposición es causa grave de responsabilidad.
 
 ###### ARTICULO 12.
 
@@ -679,7 +681,7 @@ Las mismas reglas aplicadas para seleccionar a las y los consejeros titulares, s
 
 ###### ARTICULO 47.
 
-Todas las y los consejeros serán designadas (sic) por el Congreso del Estado y durarán cuatro años en su cargo. Las personas Consejeras serán electas en el mismo procedimiento de elección y designación de la persona titular de la Presidencia.
+Todas las y los consejeros serán designadas por el Congreso del Estado y durarán cuatro años en su cargo. Las personas Consejeras serán electas en el mismo procedimiento de elección y designación de la persona titular de la Presidencia.
 
 ###### ARTICULO 48.
 
@@ -1047,13 +1049,17 @@ Esta Dirección tiene como objeto central facilitar las tareas sustantivas de la
 
 De la Contraloría Interna.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 78.
 
-La Contraloría Interna es el órgano de la Comisión que tiene encomendada la función y control y vigilancia de los servidores públicos de ésta, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
+La Contraloría Interna es el órgano de la Comisión que tiene encomendada la función de control y vigilancia de los servidores públicos de ésta, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 En el ejercicio de sus atribuciones la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos de los servidores de la Comisión.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 La Contraloría Interna contará con las siguientes atribuciones:
 
@@ -1069,9 +1075,17 @@ V. Dictaminar los estados financieros de la Dirección de Administración, y ver
 
 VI. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles de la Comisión;
 
-VII. Informar oportunamente a los servidores públicos acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley, y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal; contratación de servicios, adquisiciones, obra, enajenaciones, arrendamientos, usos y conservación del patrimonio de la Comisión, en su caso.
+VII. Informar oportunamente a los servidores públicos acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal; contratación de servicios, adquisiciones, obra, enajenaciones, arrendamientos, usos y conservación del patrimonio de la Comisión, en su caso, y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Rendir anualmente al Congreso del Estado en el mes de enero de cada año, un informe de labores que explique sobre el cumplimiento de las responsabilidades que le consigna esta Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
@@ -1339,7 +1353,7 @@ El expediente de gestión se llevará a cabo por la Dirección de Canalización,
 
 ###### ARTICULO 117.
 
-La Comisión, a través de la Dirección de Canalización Gestión y Quejas, bajo la aplicación del Principio de Inmediatez, desde el momento en que se reciba (sic) quejas o denuncias de hechos violatorios de Derechos Humanos, hará contacto inmediato con la autoridad señalada como presunta responsable, con el fin de:
+La Comisión, a través de la Dirección de Canalización Gestión y Quejas, bajo la aplicación del Principio de Inmediatez, desde el momento en que se reciba quejas o denuncias de hechos violatorios de Derechos Humanos, hará contacto inmediato con la autoridad señalada como presunta responsable, con el fin de:
 
 I. Conseguir una primera versión de la autoridad respecto de los hechos;
 
@@ -1702,3 +1716,19 @@ P.O. 7 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0212.- SE ADICIONA EL ARTÍCULO 85 BIS, A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO”.]
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 0385.- SE REFORMA EL ARTÍCULO 78 EN SU PÁRRAFO PRIMERO, Y EN SUS FRACCIONES, VII, Y VIII; Y ADICIONA AL MISMO ARTÍCULO 78 LA FRACCIÓN IX, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 0386. SE REFORMA EL ARTÍCULO 11, LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ; Y EL ARTÍCULO 59 EN SU FRACCIÓN III, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
