@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2015-05-26"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -1085,7 +1085,9 @@ I. Amonestación;
 
 II. Trabajo comunitario en favor de las personas adultas mayores, en instituciones públicas o privadas dedicadas a su atención, y
 
-III. Multa equivalente de entre veinte a trescientos días de salario mínimo vigente en la Entidad.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+III. Multa equivalente de entre veinte a trescientos días de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -1166,3 +1168,11 @@ P.O. 26 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETOS (SIC) 0386. SE REFORMA EL ARTÍCULO 11, LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ; Y EL ARTÍCULO 59 EN SU FRACCIÓN III, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
