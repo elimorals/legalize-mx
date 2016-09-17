@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2015-06-18"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -639,15 +639,29 @@ VI. Asesorar contínua y permanente sobre la tramitación de los procedimientos 
 
 VII. Impulsar la especialización de los procesos productivos y productos con ventajas competitivas;
 
-VIII. Proporcionar Información estadística, sectorial y económica para la toma de decisiones;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Proporcionar, para la toma de decisiones, información sectorial, económica y estadística. La Secretaría de manera obligatoria proporcionará estadísticas acerca de:
+
+a) Aumento de producción y empleo generado por las MIPYMES.
+
+b) Principales causas del cierre de las MIPYMES;
 
 IX. Garantizar las condiciones para la creación y consolidación de las cadenas productivas de MIPYMES, o de éstas como proveedoras de la gran empresa;
 
 X. Promover la cultura emprendedora, a través de los programas educativos y de incubadoras de empresas, para impulsar la constitución de nuevas empresas y la consolidación de las existentes;
 
-XI. Impulsar la participación de los municipios, y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-XII. Las demás que emanen de las atribuciones del Consejo y el reglamento.
+XI. Impulsar la participación de los municipios;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas, y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
 ###### ARTÍCULO 65.
 
@@ -802,3 +816,13 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0381.- SE REFORMA EL ARTÍCULO 64 EN SUS FRACCIONES VIII, XI, Y XII; Y ADICIONA AL MISMO ARTÍCULO 64 LA FRACCIÓN XIII, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ.”]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
