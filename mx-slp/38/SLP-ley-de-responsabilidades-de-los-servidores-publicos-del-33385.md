@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2014-07-02"
+last_updated: "2016-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -527,9 +527,9 @@ XXII. Supervisar que los servidores públicos sujetos a su dirección cumplan co
 
 XXIII. Proporcionar en forma oportuna y veraz la información y datos solicitados por la institución a la que legalmente le compete la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y obligaciones que le correspondan;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-XXIII BIS. Proporcionar en forma oportuna y veraz, la información y datos solicitados en materia financiera, administrativa y legal, a las instituciones a quienes legalmente competa la vigilancia, o fiscalización, en su caso, del ejercicio de los recursos públicos estatales, municipales, así como de los organismos autónomos, con el objetivo de que aquéllas puedan cumplir con las facultades y obligaciones que les correspondan;
+XXIII BIS. Proporcionar de manera oportuna y veraz, con las formalidades de la ley, la información y datos solicitados en materia financiera, administrativa y legal, a las instituciones a quienes legalmente competa la vigilancia, o fiscalización, en su caso, del ejercicio de los recursos públicos estatales, municipales, así como de los organismos autónomos, con el objetivo de que aquéllas puedan cumplir con las facultades y obligaciones que les correspondan;
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1194,3 +1194,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
 
 CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETOS 0380.- SE REFORMA EL ARTÍCULO 39 EN SUS PÁRRAFOS, PRIMERO, TERCERO, CUARTO, Y SEXTO, DE LA LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ; Y, SE REFORMA EL ARTÍCULO 56 EN SU FRACCIÓN XXIII BIS, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
