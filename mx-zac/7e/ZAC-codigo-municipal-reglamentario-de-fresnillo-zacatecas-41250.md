@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-municipal-reglamentario-de-fresnillo-zacatecas-41250"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-09-11"
-last_updated: "2016-08-31"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41250&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # CODIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, ZACATECAS
 
-CODIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, ZACATECAS
+CÓDIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 11 de septiembre de 2004.
 
@@ -109,7 +109,9 @@ XI.- Proveer los medios para la aplicación de la justicia en el marco de su com
 
 XII.- Proponer y propiciar el desarrollo integral y sustentable;
 
-XIII.- Todos los demás que señalen las Leyes y Reglamentos Federales, Estatales y Municipales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+XIII.- Garantizar la protección, promoción y ejecución de los derechos de los niños, niñas y adolescentes en el municipio, en correlación con las legislaciones federales y estatales vigentes.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
 
@@ -787,7 +789,9 @@ h).- Formar parte de las brigadas de trabajo social en su comunidad;
 
 i).- Participar en el diseño y ejecución de obras y servicios de beneficio social, mediante las formas o mecanismos previstos por la Ley, este Código Municipal Reglamentario, así como las que el Ayuntamiento establezca;
 
-j).- Enviar a sus hijos o a quienes se encuentren bajo su patria potestad o tutela, a los centros de enseñanza incorporados a la Secretaría de Educación Pública para que reciban la instrucción pre-escolar, primaria y secundaria; así como proporcionarles atenciones de salud; y
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+j).- Enviar a sus hijos o a quienes se encuentren bajo su patria potestad o tutela, a los centros de enseñanza incorporados a la Secretaria de Educación Pública para que reciban la instrucción pre-escolar, primaria y secundaria; así como proporcionarles atenciones siempre priorizando su salud en lo físico, psicológico, emocional, social y demás acordes a su menoría de edad; y
 
 k).- Los demás que prevea este Código Municipal Reglamentario y otras disposiciones legales y reglamentarias
 
@@ -5339,25 +5343,37 @@ IX.- Causar daños a vecinos, transeúntes o vehículos por omitir las medidas n
 
 ### CAPÍTULO VII. DE LAS FALTAS CONTRA LA INTEGRIDAD DE LAS PERSONAS Y LA SEGURIDAD DE SU PATRIMONIO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 561.
 
-Son faltas contra la integridad de las personas en su seguridad, tranquilidad, y propiedades particulares, y se sancionarán con multa de tres a diez días de salario mínimo general vigente en el Estado o arresto hasta por treinta y seis horas, las siguientes:
+Son faltas contra la integridad de las personas en su salud, seguridad, tranquilidad y propiedades particulares y se sancionarán con multa de tres a diez días de salario mínimo general vigente en el estado o arresto hasta por treinta y seis horas, las siguientes:
 
 I.- Provocar a un perro o cualquier otro animal para que ataque a otra persona;
 
-II.- Causar molestias por cualquier medio, que impida él legitimo uso o disfrute de un inmueble;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Causar molestias por cualquier medio, que impida el legítimo uso o disfrute de un inmueble;
 
 III.- Dejar el encargado de la guarda o custodia de un enfermo mental que este ambule libremente en lugar público;
 
 IV.- Arrojar contra una persona líquidos, polvos u otras sustancias que puedan mojarla, ensuciarla, mancharla o causarle malestar;
 
-V.- Turbar la tranquilidad de las personas con gritos, música o ruidos, aún cuando estos los provoquen animales domésticos, de la pertenencia o bajo el cuidado de quién debiendo impedirlo no lo haga;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Turbar la tranquilidad de las personas con gritos, música o ruidos, aun cuando éstos los provoquen animales domésticos, de la pertenencia o bajo el cuidado de quién debiendo impedirlo no lo haga;
 
 VI.- Hacer bromas indecorosas o mortificantes, o en cualquier otra forma, moleste a una persona mediante el uso del teléfono;
 
-VII.- Dirigirse a una persona con frases o ademanes groseros que afecten su pudor, asediarlo o impedirle su libertad de acción en cualquier forma; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Dirigirse a una persona con frases o ademanes groseros que afecten su pudor, asediarlo o impedirle su libertad de acción en cualquier forma;
 
 VIII.- Maltratar o ensuciar los vehículos automotores o cualquier otro bien mueble de propiedad privada.
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+IX.- Permitir que los menores de edad carguen sus mochilas con exceso de peso entendiéndose éste como tal, cuando el contenido del material que exista al interior de la mochila sea mayor al diez por ciento del peso corporal del menor.
 
 ### CAPÍTULO VIII. DE LAS FALTAS CONTRA LA INTEGRIDAD MORAL DEL INDIVIDUO
 
@@ -9016,3 +9032,7 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 P.O. 31 DE AGOSTO DE 2016.
 
 > <small>[N. DE E. EL DECRETO DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, ZAC.”, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL DEL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+> <small>[N. DE E. EL DECRETO DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, FRESNILLO, ZAC.”, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL DEL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
