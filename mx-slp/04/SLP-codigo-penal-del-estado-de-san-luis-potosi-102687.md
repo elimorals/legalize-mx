@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2015-09-05"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1531,19 +1531,33 @@ Cuando en la comisión de un delito de homicidio intervengan dos o más personas
 
 ### CAPÍTULO II. Feminicidio
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 135.
 
-Comete el delito de feminicidio quien priva de la vida a una persona del sexo femenino por razones de género. Se considera que existen razones de género cuando ocurra cualquiera de las siguientes circunstancias:
+Comete el delito de feminicidio, quien priva de la vida a una mujer por razones de género. Se considera que existen razones de género cuando ocurra cualquiera de las siguientes circunstancias:
 
-I. Exista o haya existido una relación de parentesco; afecto; docente; o laboral, o cualquier otra que implique amistad, confianza, subordinación o superioridad, entre la víctima y el agresor;
+I. Exista, o haya existido una relación de parentesco; afecto; docente; o laboral, o cualquier otra que implique amistad, confianza, subordinación, o superioridad, entre la víctima y el agresor;
 
-II. Existan en la víctima signos de violencia sexual de cualquier tipo;
+II. Exista en la víctima signos de violencia sexual de cualquier tipo;
 
-III. Se halla infligido a la víctima, lesiones, o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia, y
+III. Se haya infligido a la víctima, lesiones, o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida; o actos de necrofilia; o que generen sufrimiento.
 
-IV. Existan antecedentes de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, producidas en el ámbito familiar; laboral; o escolar, del sujeto activo en contra de la víctima.
+IV. Existan antecedentes de violencia, sexual, física, psicológica, patrimonial, económica, o de cualquier indicio de amenaza, producidas en el ámbito, familiar; laboral; o escolar, del sujeto activo en contra de la víctima;
 
-Este delito se sancionará con una pena de veinte a cincuenta años de prisión, y sanción pecuniaria de dos mil a cinco mil días de salario mínimo.
+V. Existan datos que establezcan que hubo amenazas, acoso o violencia sexual, relacionados con el hecho delictuoso, del sujeto activo en contra de la víctima;
+
+VI. La víctima haya sido incomunicada, o privada de su libertad, cualquiera que sea el tiempo previo a la privación de la vida, y
+
+VII. El cuerpo de la víctima sea expuesto de cualquier forma, depositado, o arrojado en un lugar público.
+
+Este delito se sancionará con una pena de veinte a cincuenta años de prisión, y sanción pecuniaria de dos mil a cinco mil unidades de Medida de Actualización.
+
+Además de las sanciones señaladas en el presente artículo, el sujeto activo perderá los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+Igualmente al servidor público que retarde o entorpezca maliciosamente, o por negligencia la procuración o impartición de justicia, tratándose de este delito, se le impondrá pena de prisión de cuatro a ocho años, y multa de quinientos a mil unidades de Medida de Actualización, además será destituido, e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión público.
+
+En el caso de que no se acredite el delito de feminicidio, se aplicarán las reglas del delito de homicidio.
 
 ### CAPÍTULO III. Lesiones
 
@@ -3912,3 +3926,11 @@ DECRETO NÚMERO 1190, POR EL QUE SE ADICIONA PÁRRAFO SÉPTIMO AL ARTÍCULO 105,
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0383.- SE REFORMA EL ARTÍCULO 135, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Esta (sic) Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
