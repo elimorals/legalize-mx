@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-instituto-de-desarrollo-humano-y-social-de-los-8646
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2015-09-05"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2011.
 
@@ -391,11 +391,7 @@ El número total de integrantes del Consejo Consultivo será determinado por la 
 
 Si el representante titular del Instituto es hombre, el suplente de éste será mujer, y viceversa.
 
-(NOTA: EL 8 DE MARZO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 31/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2014)</small>
-
-ADEMÁS, SE INTEGRARÁ AL CONSEJO CONSULTIVO, A LOS DIPUTADOS DE LA COMISIÓN DE ASUNTOS INDÍGENAS DEL HONORABLE CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 28.
 
@@ -540,6 +536,14 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETOS 0379.- SE DEROGA EL PÁRRAFO QUINTO DEL ARTÍCULO 27, DE LA LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
