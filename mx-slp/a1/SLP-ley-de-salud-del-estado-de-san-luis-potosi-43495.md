@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2016-07-14"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -145,9 +145,9 @@ II. La atención médica ginecológica a todas las mujeres, en especial a las qu
 
 III. La atención e información sobre el ejercicio responsable de la sexualidad y reproducción humanas, métodos anticonceptivos, planificación familiar desde sexto año de primaria, y en las clínicas y hospitales de todos los niveles;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Los servicios integrales de salud mental;
+IV. La salud mental y los trastornos alimenticios;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -671,7 +671,7 @@ II. La prevención y el control de las enfermedades transmisibles de atención p
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-III. La atención médica, que comprende actividades preventivas, curativas, cuidados paliativos y de rehabilitación, incluyendo la atención de urgencias~ (sic)
+III. La atención médica, que comprende actividades preventivas, curativas, cuidados paliativos y de rehabilitación, incluyendo la atención de urgencias
 
 IV. La atención materno-infantil;
 
@@ -1264,6 +1264,10 @@ ARTICULO 71 TER. Para efectos de esta Ley entiéndase por inducir, consejo o ins
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ARTICULO 71 QUÁTER. Los profesionales de la medicina que ejerzan en forma pública o privada las actividades y especialidades referidas en este capítulo, deben contar con cédula profesional que ampare sus estudios como médico general o especialista en la materia, expedida por instituciones debidamente reconocidas por la autoridad en materia de educación superior, y con certificación vigente del registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, de igual forma, deberán de ser autorizados por las autoridades federales sanitarias en los términos que correspondan.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 71 QUINQUE. Las personas que ejerzan en forma pública y/o privada la enfermería, deberán contar con certificación vigente otorgada por organismos debidamente reconocidos por la autoridad en materia de educación superior, así como por las autoridades federales y estatales sanitarias, en los términos que correspondan.
 
 ### CAPITULO UNICO
 
@@ -4099,7 +4103,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 19 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0073.-REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE HACIENDA PARA EL ESTADO; SE REFORMA EL ARTÍCULO 31, DE LA LEY DE SALUD DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0073.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE HACIENDA PARA EL ESTADO; SE REFORMA EL ARTÍCULO 31, DE LA LEY DE SALUD DEL ESTADO".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4132,6 +4136,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0253.- SE REFORMAN LOS ARTÍCULOS 51 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I, Y 54 EN SU FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS 0376.- SE ADICIONA EL ARTÍCULO 71 QUINQUE, A LA LEY DE SALUD DEL ESTADO DE SAN LUÍS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS (SIC) 0377.- SE REFORMA EL ARTÍCULO 5° EN SU APARTADO A LA FRACCIÓN IV, DE LA LEY DE SALUD EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
