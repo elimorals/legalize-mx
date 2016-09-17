@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2014-11-11"
+last_updated: "2016-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -713,27 +713,29 @@ Para el contenido e integración de las cuentas públicas, los entes auditables 
 
 En todo caso, la Auditoría Superior del Estado solicitará la información general que permita el análisis de los resultados, en la que se incluyan los datos económicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 39.
 
-La Cuenta Pública del Estado que se integra con la información debidamente clasificada de los poderes del Estado, deberá presentarse al Congreso, y en sus recesos a la Diputación Permanente, en forma anual, a más tardar el último día del mes de febrero del año siguiente al que corresponda su ejercicio.
+La Cuenta Pública del Estado que se integra con la información debidamente clasificada de los poderes del Estado, deberá presentarse al Congreso, y en sus recesos, a la Diputación Permanente, en original con copia certificada y en su respectivo soporte en medios electrónicos, en forma anual, a más tardar el último día del mes de febrero del año siguiente al que corresponda su ejercicio.
 
 Además, se rendirá a más tardar el día quince del mes siguiente al periodo de que se trate, un informe de la situación financiera de forma trimestral, conforme lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-Las cuentas públicas municipales anuales se entregarán al Congreso del Estado y, en sus recesos, a la Diputación Permanente, previa su aprobación por los ayuntamientos respectivos, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio; salvo que se trate del último año del ejercicio de las administraciones municipales pues, en tal caso, las cuentas públicas se presentarán durante la última semana del periodo constitucional de los ayuntamientos, debiendo además señalar domicilio para oír notificaciones una vez que concluya el encargo. El periodo del que hubiera dejado de informarse deberá incluirse en la primera cuenta pública del ayuntamiento entrante.
+Las cuentas públicas municipales anuales se entregarán al Congreso del Estado y, en sus recesos, a la Diputación Permanente, previa su aprobación por los ayuntamientos respectivos, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio, en original con copia certificada y en su respectivo soporte en medios electrónicos; salvo que se trate del último año del ejercicio de las administraciones municipales pues, en tal caso, las cuentas públicas se presentarán durante la última semana del periodo constitucional de los ayuntamientos, debiendo además señalar domicilio para oír notificaciones una vez que concluya el encargo. El periodo del que hubiera dejado de informarse deberá incluirse en la primera cuenta pública del ayuntamiento entrante.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-Los organismos constitucionales autónomos, los descentralizados de los ayuntamientos, y los demás entes auditables, deberán entregar al Congreso sus respectivas cuentas públicas, a más tardar el quince de febrero del año siguiente a su ejercicio.
+Los organismos constitucionales autónomos, los descentralizados de los ayuntamientos, y los demás entes auditables, deberán entregar al Congreso sus respectivas cuentas públicas; a más tardar el quince de febrero del año siguiente a su ejercicio, en original con copia certificada y en su respectivo soporte en medios electrónicos
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 Los ayuntamientos y sus organismos descentralizados, en los términos de las leyes respectivas, deberán enviar para su revisión sus estados financieros mensuales, así como los expedientes técnicos y financieros de las obras y acciones terminadas.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-El Congreso, a través de la comisión, turnará las cuentas públicas y los estados e informes financieros, a la Auditoría Superior del Estado.
+El Congreso, a través de la comisión, turnará las cuentas públicas y los estados e informes financieros, a la Auditoría Superior del Estado, dejando para su archivo, las cuentas públicas recibidas.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1412,3 +1414,11 @@ P.O. 11 DE NOVIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETOS (SIC) 0380.- SE REFORMA EL ARTÍCULO 39 EN SUS PÁRRAFOS, PRIMERO, TERCERO, CUARTO, Y SEXTO, DE LA LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA EL ARTÍCULO 56 EN SU FRACCIÓN XXII BIS, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará, en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
