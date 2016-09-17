@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2016-05-07"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -541,9 +541,17 @@ IV. La participación informada y responsable de la sociedad, será la base para
 
 V. El aprovechamiento del agua debe realizarse con racionalidad y eficiencia y debe promoverse su reuso y recirculación;
 
-VI. La cultura del agua construida a partir de los anteriores principios de política hídrica, así como con las tesis derivadas de los procesos de desarrollo social y económico, y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
 
-VII. El uso doméstico tendrá preferencia en relación con cualesquier otro uso.
+VI. La cultura del agua construida a partir de los anteriores principios de política hídrica, así como con las tesis derivadas de los procesos de desarrollo social y económico;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+VII. El uso doméstico tendrá preferencia en relación con cualesquier otro uso, y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Deberá atender los criterios de disponibilidad, calidad, seguridad, aceptabilidad, accesibilidad y asequibilidad.
 
 ###### ARTICULO 17.
 
@@ -3380,6 +3388,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 7 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0211.- SE REFORMA EL ARTÍCULO 3° EN SU FRACCIÓN V; SE ADICIONA EL ARTÍCULO 180 BIS; Y SE DEROGA DEL ARTÍCULO 180 EL PÁRRAFO ÚLTIMO, DE Y A LA LEY DE AGUAS PARA EL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETOS 0378.- SE REFORMA EL ARTÍCULO 16 EN SUS FRACCIONES, VI, Y VII; Y ADICIONA AL MISMO ARTÍCULO 16 LA FRACCIÓN VIII, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
