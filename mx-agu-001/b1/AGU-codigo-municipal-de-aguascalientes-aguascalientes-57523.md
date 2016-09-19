@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2016-04-11"
+last_updated: "2016-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1109,7 +1109,7 @@ Secretaría de Servicios Públicos;
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Secretaría (sic) Seguridad Pública; y
+Secretaría Seguridad (sic) Pública; y
 
 Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
@@ -12447,7 +12447,7 @@ De 100 hasta 200 4 4 ----
 
 personas
 
-} Cada 200 2 2 ----
+Cada 200 2 2 ----
 
 adicionales o
 
@@ -19759,13 +19759,21 @@ Será potestativo del propietario de cualquier establecimiento, mientras dure la
 
 Las disposiciones de este Título son de interés público y de observancia general en el Municipio de Aguascalientes, y tienen como finalidad la administración de la actividad comercial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1357.
 
-Corresponde a la Dirección de Mercados, Estacionamientos y Áreas Comerciales la administración del comercio en los mercados y la vía pública y la regulación y administración de los estacionamientos del Municipio de Aguascalientes.
+Corresponde a la Dirección de Mercados, Estacionamientos y Áreas Comerciales la administración y regulación del comercio en los mercados, vía pública y estacionamientos del Municipio de Aguascalientes.
 
 En el caso de los comercios establecido (sic) cuyo mobiliario ocupe parte de la vía pública, la autorización emitida por la Secretaría de Desarrollo Urbano deberá contar con el aval de la Dirección de Mercados.
 
-De igual manera, la Dirección de Mercados deberá contar con la autorización del área encargada de imagen urbana dentro de la Secretaría de Desarrollo Urbano para el otorgamiento de permisos en el centro histórico de la ciudad.
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+Queda prohibido otorgar permisos para ejercer cualquier tipo de actividad comercial en la vía pública dentro de las zonas o bienes que hayan sido declarados como patrimonio histórico por parte del Gobierno Federal, Estatal o Municipal.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+De igual manera, la Dirección de Mercados deberá contar con la autorización del área encargada de imagen urbana dentro de la Secretaría de Desarrollo Urbano para el otorgamiento de permisos nuevos en la vía pública, considerando que la ubicación solicitada se encuentre fuera de las restricciones que contempla el artículo 1384 del Código Municipal de Aguascalientes.
 
 ###### ARTÍCULO 1358.
 
@@ -19907,6 +19915,10 @@ IV. Es facultad exclusiva de la Dirección de Mercados, Estacionamientos y Área
 
 Para los locatarios de los mercados, los derechos derivados de la licencia, deberán ser ejercidos en forma personal y directa por el titular; en caso de ausencia éste podrá ser sustituido ocasionalmente por cualquiera de los suplentes acreditados. Salvo lo establecido en el artículo 1368 de éste Código y en la presente disposición, son intransferibles por cualquier otro acto jurídico.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+El titular de la Licencia y/o permiso, podrá nombrar a dos suplentes, ya sea, su cónyuge o los consanguíneos en línea directa y demuestren que dependen económicamente del titular.
+
 Será nulo de pleno derecho y no producirá efecto jurídico alguno, los actos o hechos que se realicen en contravención del presente artículo.
 
 La autoridad municipal, procederá desde luego con audiencia de los afectados a la cancelación de la licencia o permiso que otorgue cuando la sustitución de los titulares de los establecimientos, se realice en fraude, abuso de confianza o en abuso del espíritu de ésta disposición.
@@ -19923,17 +19935,25 @@ Los locatarios de los mercados, podrán efectuar cambio de giro que será de act
 
 Los locatarios tendrán derecho de hacer uso adecuado de las instalaciones con que se cuenta en los mercados, además gozarán de servicio de aseo y limpieza de áreas comunes, de reparaciones y mantenimiento del equipamiento del mercado, y de vigilancia o seguridad.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1368.
 
-La autoridad municipal podrá autorizar el traspaso de la licencia única y exclusivamente en los casos previstos en este artículo, debiendo realizar el pago correspondiente al municipio en los siguientes casos:
+La autoridad municipal podrá autorizar traspaso de la licencia única y exclusivamente en los casos previstos en este artículo, debiendo realizar el pago correspondiente, cuando se trate de familiares en primer grado o en línea directa, y de conformidad con la Ley de Ingresos (sic) cubra el pago correspondiente al municipio.
 
-I. Cuando el locatario titular presente deterioro en su estado de salud previo diagnostico médico que justifique el impedimento para ejercer la actividad.
+Cuando se trate de supuestos distintos al mencionado con anterioridad, para poder realizar el traspaso de los derechos del permiso dentro del mercado deberá de cumplir con cualquiera de los siguientes casos:
 
-II. Cuando el locatario titular sobrepase los sesenta años de edad y/o más de quince años dedicado a la actividad comercial en ese sitio.
+I.- Por fallecimiento del titular;
 
-En casos distintos quedará al frente el suplente.
+II.- Cuando el titular del permiso dentro del mercado presente deterioro en su estado de salud, previo justificante medico expedido por cualquier dependencia de salud pública, donde justifique el impedimento para ejercer la actividad;
 
-Los casos de traspaso a familiares consanguíneos o en primer grado, ya por incapacidad o incluso por fallecimiento del locatario, se efectuarán a petición de la parte interesada y no causarán el pago de derechos correspondientes, una vez acreditada la transacción a satisfacción de la autoridad municipal correspondiente.
+III.- Cuando el titular sobrepase los sesenta años de edad y/o más de quince años dedicado a la actividad comercial en ese sitio.
+
+En casos distintos quedara al frente la Dirección de Mercados, Estacionamientos y Áreas Comerciales, para que esta a su vez re-asigne el lugar conforme a la lista de espera.
+
+Por ningún motivo se permitirá transmitir en más de una ocasión un mismo permiso dentro del mercado en un periodo menor de 365 días.
+
+El titular del permiso dentro del mercado, podrá efectuar cambio de giro que será de actividad legal, previa autorización de la autoridad municipal
 
 ###### ARTÍCULO 1369.
 
@@ -19963,7 +19983,9 @@ IX. Respetar los límites de sus locales o lugar y no utilizar áreas comunes ni
 
 X. Permitir el libre acceso a los inspectores y/o verificadores.
 
-XI. Cumplir con las normas de: seguridad, protección civil, sanidad e higiene y demás que le impongan otras autoridades municipales, estatales y federales competentes.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+XI. El titular de la Licencia de Funcionamiento en un local o piedra en los Mercados Públicos Municipales, deberá de contar un máximo de 3 giros por Licencia autorizada, y estos giros deberá (sic) de ser autorizados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes, y se hará de conformidad a las necesidades del Mercado, así como por compatibilidad entre los mismos.
 
 XII. En los puestos, en donde se expenda comida, deberán cumplir con todas las normas de seguridad e higiene señaladas para este tipo de comercio, en las disposiciones contenidas en las leyes y reglamentos vigentes en materia de salubridad.
 
@@ -20019,6 +20041,8 @@ XIII. Expender bebidas embriagantes. No se considerarán para los efectos de és
 
 ### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1371.
 
 Será autoridad para la aplicación de las presentes disposiciones:
@@ -20055,9 +20079,13 @@ II. Promover y ejecutar programas de reordenamiento del comercio en vía públic
 
 III. Reubicar a los comerciantes a zonas distintas cuando hubiere necesidad de realizar obras de construcción, conservación, reparación, mejoras de los servicios públicos, en beneficio de la comunidad o cuando por interés público se requiera.
 
-IV. Expedir y/o revocar las licencias de funcionamiento para el ejercicio del comercio en la vía pública, de conformidad con lo establecido en el presente ordenamiento y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá tomar en cuenta que no se afecte a terceros al autorizar la venta de productos repetidos o que ya otro comerciante, ya sea establecido o informal, se encuentre expendiendo con anterioridad, en todo caso se deberá de establecer el comerciante a una distancia de ciento cincuenta metros lineales entre un giro similar y otro. Este precepto no es aplicable en lo referente a mercados y tianguis.
+IV. Expedir y/o revocar las licencias de funcionamiento y/o permisos para el ejercicio del comercio en la vía pública, de conformidad con lo establecido en el presente ordenamiento y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá tomar en cuenta que no se afecte a terceros al autorizar la venta de productos repetidos o que ya otro comerciante, ya sea establecido o informal, se encuentre expendiendo con anterioridad, en todo caso se deberá de establecer el comerciante a una distancia de ciento cincuenta metros lineales entre un giro similar y otro. Este precepto no es aplicable en lo referente a mercados y tianguis. En caso de que se trate de ejercer cualquier giro en la vía pública no deberá de exceder de 3 giros por permiso autorizado, y estos deberán de ser autorizados conforme a las zonas, ubicaciones y compatibilidad que determine la autoridad;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -20113,31 +20141,59 @@ I. Realizar acciones preventivas y/o correctivas con el objeto de mantener la se
 
 II. Auxiliar a las autoridades facultadas para la aplicación del presente Código en el ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1373.
 
-Son requisitos para ejercer el comercio en vía pública:
+Son requisitos para solicitar el permiso en vía pública:
 
 I. Acreditar la mayoría de edad.
 
 II. Ser persona física o moral en pleno uso de sus derechos.
 
-III. Registrarse en el Padrón de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, obteniendo su credencial o gafete.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Acreditar el curso de manejo de alimentos, impartido por Salubridad en su caso; el cual será previo a la presentación de la solicitud y cumplir lo establecido en el artículo 1394, fracción VIII del presente Código.
+III. Acreditar la necesidad de dedicarse a la actividad comercial en la vía pública;
 
-V. Sujetar los puestos a las condiciones específicas del área correspondiente y que se determinará en el permiso tales como horario, giro y metraje.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Cubrir el pago del gafete y los derechos correspondientes por el uso de piso, además de los pagos que determine la Ley de Ingresos y demás disposiciones fiscales.
+IV. Solicitar el trámite de apertura ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, el cual consistirá en:
 
-VII. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+a) La integración de la Lista de Firmas de aceptación o de conformidad por parte de los vecinos casa/habitación, oficinas, establecimientos o locales comerciales cuya instalación en la vía publica pudiese afectarles;
 
-VIII. En caso de que se utilice un vehículo para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta.
+b) Copia simple de Identificación Oficial;
+
+c) Croquis de la ubicación comercial en la vía publica solicitada;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+V. Dictamen de Factibilidad que a tal efecto deberá de ser expedido por la Secretaria de Desarrollo Urbano y la Secretaria de Seguridad Pública y Tránsito Municipal.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Acreditar el curso de manejo de alimentos, impartido por Salubridad en su caso; el cual será previo a la presentación de la solicitud;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VII. El metraje máximo que se deberá de autorizar para ejercer el comercio en la vía pública, será de 3 metros de frente por 2 metros de fondo;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. La ubicación solicitada deberá de estar fuera de las restricciones que contempla el artículo 1384 del Código Municipal de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Cuando el comerciante con puesto fijo o semifijo se encuentre en esquina con una avenida primaria o principal, deberá recorrerse a una distancia de cinco metros de dicha avenida principal, exceptuando a los vendedores de periódicos y revistas; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+X. El horario para ejercer la actividad comercial en la vía pública, no deberá de exceder de ocho horas continuas por día.
 
 ### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1374.
 
-Para los tianguis, la dimensión máxima de un puesto será de cuatro metros de frente por tres de fondo, y la mínima de un metro, alineándose siempre por el frente. La altura máxima será determinada en cada tianguis.
+Para los tianguis, la dimensión máxima de un puesto será de seis metros de frente por tres de fondo, y la mínima de un metro, alineándose siempre por el frente. La altura máxima será determinada en cada tianguis.
 
 ###### ARTÍCULO 1375.
 
@@ -20153,6 +20209,10 @@ IV. De dieciséis a diecisiete horas para la recolección y limpieza de la zona.
 
 Este horario podrá ser modificado por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, de acuerdo a las condiciones y temporadas comerciales del tianguis.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+Por ningún motivo se podrá autorizar ningún horario fuera al estipulado en las fracciones anteriores, queda prohibida la autorización para el establecimiento de tianguis nocturnos, cuando se trate de tianguis navideños, las condiciones y horarios serán estipulados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes.
+
 ###### ARTÍCULO 1376.
 
 Los límites del tianguis quedarán definidos por el Cabildo mismos que serán señalados en la vía pública y sólo se permitirá su crecimiento previo acuerdo de la Dirección de Mercados, Estacionamientos y Áreas Comerciales y del H. Ayuntamiento.
@@ -20161,17 +20221,53 @@ Los límites del tianguis quedarán definidos por el Cabildo mismos que serán s
 
 Para la autorización de nuevos tianguis o su reubicación en la vía pública, se deberá contar con el dictamen de la Dirección de Mercados, Estacionamientos y Áreas Comerciales y con la aprobación del Cabildo, además de agotar los requisitos siguientes:
 
-I. Contar con la aceptación de dos terceras partes de los vecinos.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-II. Contar con servicio de sanitarios públicos.
+I. Contar con un mínimo de 60 comerciantes tianguistas que constituyan el nuevo tianguis público municipal. Mismo que deberá de acreditarse por medio de lista de integración la cual contendrá, nombre y domicilio particular de cada uno de los solicitantes;
 
-III. Considerar alternativas de vialidad.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-IV. No invadir áreas verdes, banquetas, glorietas, camellones, pasillos o pasos peatonales señalados por la autoridad competente.
+II. Contar con la aceptación del 75% de los vecinos al área afectada por la instalación del nuevo tianguis público municipal;
 
-V. Evitar molestias a los transeúntes.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Croquis de las calles de su instalación.
+III. Contar con servicio de sanitarios públicos;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Considerar alternativas de vialidad;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+V. No invadir áreas verdes, banquetas, glorietas, camellones, pasillos o pasos peatonales señalados por la autoridad competente;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Evitar molestias a los transeúntes;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Croquis de las calles de su instalación;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Presentar estudio de Mercado y Viabilidad Comercial para su creación; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+IX. La ubicación solicitada para la instalación de un nuevo tianguis así como para su ampliación deberá de estar fuera de las restricciones que contempla el artículo 1384 del presente Código Municipal de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+Además se deberá considerar para la autorización de nuevos tianguis o su reubicación en la vía pública, una distancia no menor a un kilómetro entre un tianguis y otro.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+A falta de uno o más requisitos que enlista el presente artículo se tomara por no presentada la solicitud.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+Así mismo, para solicitar una ampliación en cualquier tianguis, además de cumplir con la fracción IX del presente artículo, deberá de presentar el Estudio de Necesidad y Viabilidad Comercial, además de presentar ante la autoridad firmas de aceptación o de conformidad por parte de los comerciantes que se encuentren ejerciendo la actividad comercial y de los vecinos al área afectada por la ampliación de dicho tianguis.
 
 ###### ARTÍCULO 1378.
 
@@ -20235,29 +20331,61 @@ El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la S
 
 ### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1383.
 
 Todos los comerciantes tienen los mismos derechos y obligaciones ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, pero siempre tendrán preferencia los nativos y/o residentes del Municipio de Aguascalientes, las personas con capacidades especiales, los pensionados y personas de la tercera edad y personas que atraviesen por una situación económica apremiante para solicitar un permiso de tianguista, en algún mercado, o como comerciante ambulante, fijo o semifijo.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+Lo anterior, siempre y cuando la ubicación solicitada se encuentre fuera de las restricciones para ejercer la actividad comercial en la vía pública que contempla el artículo 1384 del Código municipal de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1384.
 
-No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como centro histórico de la Ciudad de Aguascalientes. Para los ya existentes se respetará en sus términos otorgados.
+No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como Poligonal del Centro Histórico así como las zonas o bienes que hayan sido declarados como Patrimonio Cultural Histórico por parte del Gobierno Federal, Estatal o Municipal.
+
+De igual forma, no se podrán otorgar permisos para comerciantes en vía pública:
+
+I. Sobre avenidas o cruceros principales;
+
+II. En los accesos y frente a instituciones religiosas, públicas o de salud;
+
+III. A menos de cien metros de coladeras, caimanes y contenedores;
+
+IV. A menos de cinco metros de distancia de una avenida primaria o principal;
+
+V. Exceptuando a los vendedores de periódicos y revistas.
 
 ### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 1385.
 
-El permiso para tianguista, o para comerciante ambulante o de fiestas tradicionales, deberá ser expedido por la coordinación de tianguis y de ambulantaje respectivamente o por las delegaciones municipales según sea el caso, observando las siguientes disposiciones:
+El permiso para tianguista, o para comerciante ambulante o de fiestas tradicionales, deberá ser expedido por el Director de Mercados, Estacionamientos y Áreas Comerciales el cual tendrá la facultad de delegar dicha atribución a la Jefatura de Áreas Comerciales y/o Delegaciones Municipales según sea el caso, observando las siguientes disposiciones:
 
-I. Presentar solicitud de apertura ante la dependencia correspondiente.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-II. Acta de verificación.
+I. Integración del expediente;
 
-III. Demostrar la necesidad de la actividad solicitada.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Cumplir con los demás requisitos que le imponen otras disposiciones reglamentarias y lo estipulado en el artículo 1373 de este Código.
+II. Verificación del debido cumplimiento a todas y cada uno de los requisitos contemplados en el artículo 1373 del Código Municipal de Aguascalientes;
 
-En el caso de los refrendos de los permisos otorgados a comerciantes de fiestas tradicionales especialmente en la zona centro, en ningún caso constituirán precedente de obligatoriedad para el municipio, y habrán de ajustarse a las necesidades urbanísticas del momento.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+III. Emitir la Resolución en donde se determine la procedencia o improcedencia de la solicitud;
+
+IV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+En casos de renovación de los permisos otorgados a comerciantes fijos, semifijos, ambulantes, fiestas tradicionales ubicados dentro y/o En (sic) En casos de renovación de los permisos otorgados a comerciantes fijos, semifijos, ambulantes, fiestas tradicionales ubicados dentro y/o fuera de la Zona Centro, en ningún caso constituirán precedente de obligatoriedad para el municipio para renovar el permiso, y habrán de ajustarse a las necesidades urbanísticas del momento.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+Para los comercios ambulantes, fijos o semifijos, la dimensión máxima de un puesto será de tres metros de frente por dos metros de fondo, alineándose siempre por el frente, en cuanto a la altura no deberá de exceder de 2 metros.
 
 ###### ARTÍCULO 1386.
 
@@ -20279,9 +20407,13 @@ I. Para el pago de permisos temporales, de eventos especiales, de fiestas tradic
 
 II. Para el pago de permisos de comerciantes ambulantes, será dentro de los primeros cinco días de mes.
 
-III. El pago también podrá ser hasta por todo el año calendario sin que ello lo exima del cumplimiento de las obligaciones que le impone el presente Código.
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-IV. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
+III. El cobro del permiso para ejercer la actividad comercial en la vía pública será por metro autorizado, y deberá de hacerse por día; y
+
+IV. El pago también podrá ser hasta por todo el año calendario sin que ello lo exima del cumplimiento de las obligaciones que le impone el presente Código.
+
+V. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
 
 ### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
 
@@ -20297,19 +20429,31 @@ Será nulo de pleno derecho y no producirá efecto jurídico alguno, los actos o
 
 La autoridad municipal procederá desde luego con audiencia de los afectados a la cancelación del permiso que otorgue cuando la sustitución de los titulares de los establecimientos, se realice en fraude, abuso de confianza o en abuso del espíritu de esta disposición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1389.
 
-El titular del permiso autorizado podrá nombrar a dos suplentes, ya sea, su cónyuge o los consanguíneos en línea directa y demuestren que dependen económicamente del titular, y quienes lo podrán cubrir ocasionalmente, debiendo acreditarlo ante el Departamento de Áreas Comerciales. Se podrá cambiar suplentes a solicitud del titular firmando la petición por escrito y aprobación del Departamento de Áreas Comerciales.
+El titular del permiso autorizado podrá nombrar a dos suplentes quienes lo podrán cubrir ocasionalmente en los casos de enfermedad o por causa fortuita o de fuerza mayor, debiendo acreditarlo ante el Departamento de Áreas Comerciales. Se podrá cambiar suplentes a solicitud del titular firmando la petición por escrito y aprobación del Departamento de Áreas Comerciales. El titular del permiso podrá efectuar traspaso de los derechos del mismo, cuando se trate de familiares en primer grado o en línea directa, y de conformidad con la Ley de Ingresos (sic) cubra el pago correspondiente al municipio.
 
-El titular del permiso podrá efectuar traspaso de los derechos del mismo, siempre y cuando de conformidad con la Ley de Ingresos respectiva cubra el pago correspondiente al municipio en los siguientes casos:
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-I. Cuando el titular del permiso manifieste no tener familiares en línea directa o de segundo grado.
+Cuando se trate de supuestos distintos al mencionado con anterioridad, para poder realizar el traspaso de los derechos del permiso deberá de cumplir con cualquiera de los siguientes casos:
 
-II. Cuando el titular del permiso presente deterioró en su estado de salud, previo diagnostico médico que justifique el impedimento para ejercer la actividad.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-III. Cuando el titular sobrepase los sesenta años de edad y/o más de quince años dedicado a la actividad comercial en ese sitio.
+I.- Por fallecimiento del titular;
 
-En casos distintos quedará al frente el suplente.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Cuando el titular del permiso presente deterioro en su estado de salud, previo justificante medico expedido por cualquier dependencia de salud pública, donde justifique el impedimento para ejercer la actividad; y
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Cuando el titular sobrepase los sesenta años de edad y/o más de quince años dedicado a la actividad comercial en ese sitio.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+En casos distintos quedara al frente la Dirección de Mercados, Estacionamientos y Áreas Comerciales, para que esta a su vez re-asigne el lugar conforme a la lista de espera.
 
 Los casos de traspaso a familiares consanguíneos o en primer grado, ya por incapacidad o por fallecimiento del titular, se efectuarán a petición de la parte interesada y no causarán el pago de derechos correspondientes, una vez acreditada la transacción a satisfacción de la autoridad municipal.
 
@@ -20329,43 +20473,71 @@ El comerciante, deberá renovar su credencial o gafete cada año, dentro de los 
 
 Para el caso de que algún comerciante pierda o extravíe el permiso respectivo, se deberá solicitar la reposición a su costa.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1393.
 
-Los permisos de suspensión de actividades, serán otorgados por un máximo de cuarenta y cinco días del año calendario, justificando el motivo de la suspensión.
+Los permisos de suspensión de actividades en áreas comerciales y tianguis públicos municipales, serán otorgados en base a los siguientes casos:
+
+I.- Si se lleva acabo (sic) la actividad comercial en la vía pública de 1 a 7 días a la semana, la suspensión de actividades será por un máximo de 45 días laborables;
+
+II.- Si se lleva acabo (sic) la actividad comercial en la vía pública de 1 a 5 días a la semana, la suspensión de actividades será por un máximo de 32 días laborables;
+
+III.- Si se lleva acabo (sic) la actividad comercial en la vía pública de 1 a 3 días a la semana, la suspensión de actividades será por un máximo de 19 días laborables; y
+
+IV.- Si se lleva acabo (sic) la actividad comercial en la vía publica 1 día a la semana, la suspensión de actividades será por un máximo de 6 días laborables.
 
 ###### ARTÍCULO 1394.
 
 Son obligaciones de los comerciantes y tianguistas en la vía pública, las siguientes:
 
-I. No ejercer actividades comerciales en avenidas o cruceros principales, así como en los accesos a instituciones religiosas, públicas o de salud; Cuando el comerciante con puesto fijo o semifijo se encuentre en esquina con una avenida primaria o principal, deberá recorrerse a una distancia de cinco metros de dicha avenida principal, exceptuando a los vendedores de periódicos y revistas.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-II. Responder de los daños y perjuicios que ocasionen por sujetar cuerdas y tirantes de las ventanas, árboles y postes, o cuando los ocasionen de cualquier forma con motivo de su actividad comercial.
+I. Responder de los daños y perjuicios que ocasionen por sujetar cuerdas y tirantes de las ventanas, árboles y postes, o cuando los ocasionen de cualquier forma con motivo de su actividad comercial;
 
-III. Asear su puesto, y de las áreas anexas a él.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-IV. No exceder, el volumen del sonido de los alto parlantes, estéreos, radios, que produzcan sonidos estridentes o molestos a los vecinos o al público.
+II. Asear su puesto, y de las áreas anexas a él;
 
-V. Contar con la autorización de las autoridades competentes, para la utilización de básculas.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-VI. No colgar mercancía en los pasillos, fuera del local, puesto o establecimiento.
+III. No exceder, el volumen del sonido de los altos parlantes, estéreos, radios, que produzcan sonidos estridentes o molestos a los vecinos o al público;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Contar con la autorización de las autoridades competentes, para la utilización de básculas;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+V. No colgar mercancía en los pasillos, fuera del local, puesto o establecimiento;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Cumplir con las normas de seguridad, sanidad y otras establecidas por las dependencias municipales, estatales y federales competentes;
 
 VII. Cumplir con las normas de seguridad, sanidad y otras establecidas por las dependencias municipales, estatales y federales competentes.
 
-VIII. Los comerciantes de vía pública que se dediquen a la venta de alimentos o bebidas de consumo humano, deberán cubrir los siguientes requisitos:
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-a) Contar con el documento o constancia de salud expedida por las autoridades sanitarias correspondientes.
+VIII. Sujetar los puestos a las condiciones específicas del área correspondiente y que se determinará en el permiso tales como horario, giro y metraje;
 
-b) Los muebles y los instrumentos que se utilicen no obstruirán las arterias públicas y permitirán la mayor higiene posible en sus mercancías.
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-c) De preferencia se utilizará material desechable y se contará con los recipientes necesarios para el depósito de sobrantes y residuos que se produzcan por el consumo de alimentos y bebidas.
+IX. Cubrir el pago del gafete y los derechos correspondientes por el uso de piso, además de los pagos que determine la Ley de Ingresos y demás disposiciones fiscales;
 
-d) Deberán contar con el agua potable suficiente para mantener aseo absoluto de empleados y utensilios.
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-e) Deberán mantener en perfecto estado estufas, quemadores e instalaciones de gas y eléctricas para garantizar la máxima seguridad a los consumidores, comerciantes y comunidad en general.
+X. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+XI. En caso de que se utilice un vehículo para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta.
 
 Los puestos que se instalen en un tianguis, en donde se expenda comida, deberán cumplir con todas las normas de seguridad e higiene señaladas para este tipo de comercio, en las disposiciones contenidas en las leyes y reglamentos vigentes en materia de salubridad.
 
-Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se implanten como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se impongan como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad, por un máximo de cuarenta y cinco días del año calendario, justificando el motivo de la suspensión.
 
 ### CAPÍTULO IX. De los Estacionamientos y Pensiones
 
@@ -21715,7 +21887,9 @@ IV. Facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones
 
 V. Dictar todas las resoluciones por escrito de cuanta petición se les formule. Dichas resoluciones deberán dictarse una vez que estén debidamente integrados los requisitos que exige este Código para el otorgamiento de los permisos o licencias solicitados por el particular, hecho lo anterior se levantará certificación por la autoridad y se notificará por estrados al solicitante; a partir de dicha notificación la autoridad está obligada a resolver en un término no mayor de diez días hábiles, en caso de no emitir la resolución en dicho término se entenderá concedido el permiso o licencia solicitado por el particular.
 
-VI. En caso de licencias reglamentadas el plazo será de quince días, se entiende por licencias reglamentadas aquellas establecidas en el capítulo primero del libro séptimo.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VI. En caso de que el particular se niegue a ser notificado dentro del término que refiere la fracción anterior, se procederá a razonar en la resolución la negativa del mismo, fijando hora, fecha, media filiación y la negativa del particular a ser notificado, una vez hecho lo anterior, se publicara por medio de estrados que guarde la dependencia municipal de que se trate y se detendrá el termino perentorio a la que hace referencia la fracción anterior.
 
 VII. En caso de controversia entre dos o más particulares, y en cualquier estado que forme el asunto o procedimientos administrativo (sic) en que intervengan, podrá citar a las partes para su avenimiento.
 
@@ -22063,9 +22237,9 @@ III. La magnitud del daño ocasionado.
 
 IV. Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-V. Analizar los hechos imputados y determinar sobre la procedencia o improcedencia de la infracción;
+V. La reincidencia en la falta.
 
 ###### ARTÍCULO 1556.
 
@@ -22739,6 +22913,8 @@ c) No comenzar el espectáculo a la hora señalada o presentar una variedad dist
 
 ### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1590.
 
 Las infracciones que se cometan en materia de espectáculos taurinos el juez de plaza podrá imponer las sanciones previstas por este Código y adicionalmente se podrán aplicar las siguientes:
@@ -22781,7 +22957,7 @@ Para efectos de la aplicación de sanciones, empresarios y ganaderos son solidar
 
 ###### ARTÍCULO 1594.
 
-Se sancionará de uno a diez veces el salario mínimo general vigente en el Municipio de Aguascalientes, suspensión, y/o cancelación de las actividades del giro, según amerite el caso, cuando:
+Se sancionará de uno a cuarenta veces el salario mínimo general vigente en el Municipio de Aguascalientes, suspensión, y/o cancelación de las actividades del giro, según amerite el caso, cuando:
 
 I. Algún comerciante se encuentre ejerciendo el comercio en la vía pública sin el correspondiente permiso o credencial que acredite el uso de piso.
 
@@ -22795,9 +22971,11 @@ V. El comerciante o tianguista, cambie el giro, sin autorización de la Direcci�
 
 VI. El ejercicio de la actividad comercial represente un peligro a la seguridad, comodidad, salud y buenas costumbres de las personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1595.
 
-La suspensión deberá perdurar hasta que el infractor realice el pago de la o las infracciones impuestas, o en su caso, hasta que tramite el permiso correspondiente.
+La suspensión deberá perdurar hasta que se cumpla con el interregno señalado en la resolución o acta de verificación correspondiente, una vez cumplido con lo anterior, el infractor deberá de realizar el pago de la o las infracciones impuestas, o en su caso, hasta que tramite el permiso correspondiente para poder reanudar la actividad comercial.
 
 Cuando se compruebe que el infractor es personal de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, se le aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y en lo conducente el presente Código.
 
@@ -23928,3 +24106,9 @@ P.O. 11 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA DE LOS ARTÍCULOS 637, 639 Y 643 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO: La presente reforma al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE “MODIFICACIONES Y ADICIONES A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, ASÍ COMO AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
