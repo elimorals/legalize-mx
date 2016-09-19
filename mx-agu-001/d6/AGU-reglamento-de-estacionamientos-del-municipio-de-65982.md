@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estacionamientos-del-municipio-de-65982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-12"
-last_updated: "2012-04-09"
+last_updated: "2016-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2009.
 
@@ -181,15 +181,21 @@ VII. Documento en el que la Dirección de la Unidad Municipal de Protección Civ
 
 VIII. Licencia sanitaria correspondiente;
 
-IX. En su caso, presente copia certificada de la póliza de seguro contra siniestros, incendios, daños y/o robo de vehículos, en los términos del presente Reglamento;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Presentar copia certificada de la póliza de seguro contra siniestros, incendios, daños y/o robo de vehículos, en los términos del presente Reglamento;
 
 X. Documento que acredite el pago de los derechos que corresponda, emitido por la Secretaría de Finanzas Públicas Municipales;
 
 XI. Deberá señalar un domicilio para oír y recibir notificaciones; y
 
-XII. Contar con la firma del solicitante.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-En el caso de renovación, la solicitud deberá contar con los requisitos de las fracciones II, III, VII, IX y X.
+XII. Contar con la firma del solicitante; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Presentar alta en la Secretaria de Hacienda y Crédito Público, en el caso de renovación, la solicitud deberá contar con los requisitos de las fracciones II, III, VII, IX y X.
 
 Si faltare alguno de los requisitos, será aplicable la prevención establecida en los artículos 24 y 43 de la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
@@ -293,7 +299,9 @@ V.- Las tarifas de las calcomanías que exenten a los usuarios de parquímetros 
 
 VI.- Las tarifas máximas por hora de los estacionamientos públicos de la primera, segunda y tercera categorías que cuenten con póliza de seguros; y
 
-VII.- Las tarifas máximas por hora de los estacionamientos públicos comerciales y que serán diferenciadas atendiendo a las categorías contenidas en la fracción VIII del artículo 6° del presente Reglamento.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Las tarifas máximas por hora de los estacionamientos públicos comerciales y que serán diferenciadas atendiendo a las categorías contenidas en la fracción VII del artículo 6° del presente Reglamento:
 
 La Comisión Consultiva de Tarifas de Estacionamientos tendrá la obligación de proponer las tarifas de las diferentes categorías de los estacionamientos públicos. La primera, segunda o tercera categoría del estacionamiento público de que se trate será determinada por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, atendiendo a la clasificación del artículo 6° del presente ordenamiento. Todo estacionamiento público deberá estar categorizado por dicha Dirección.
 
@@ -962,3 +970,9 @@ P.O. 9 DE ABRIL DE 2012.
 ## [N. DE E. TRANSITORIO DEL ACUERDO DE “REFORMA AL ARTÍCULO 15 DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 [EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
+
+P.O. 19 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE MODIFICACIONES AL "REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
