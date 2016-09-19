@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2016-06-09"
+last_updated: "2016-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -117,7 +117,9 @@ XVII.- Los programas contra el alcoholismo, el tabaquismo y la ludopatía;
 
 XVII BIS. La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
 
-XVIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. La promoción, prevención y control del cáncer cérvico-uterino; y
 
 > <small>(ADICIONADA, B.O. 7 DE JULIO DE 2003)</small>
 
@@ -1265,6 +1267,10 @@ ARTICULO 142 BIS 2.- Se entiende por farmacodependencia, el estado psíquico y a
 
 ARTICULO 142 BIS 3.- Se entiende por ludopatía el trastorno del comportamiento, entendiéndose éste como expresión de la psicología del individuo, consistente en la pérdida de control en relación con un juego de apuestas o más, tanto si incide en las dificultades que supone para el individuo dejar de jugar cuando está apostando, como en mantenerse sin apostar definitivamente en el juego, distorsionándose de esta manera el pensamiento, las emociones y la comunicación con las personas que lo rodean.
 
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 142 BIS 4.- Se entiende por cáncer cérvico-uterino o cáncer del cuello del útero, la enfermedad en la cual se encuentran células cancerosas malignas en los tejidos del cuello uterino.
+
 > <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 128.
@@ -1395,9 +1401,9 @@ El Patronato o Junta Directiva podrá autorizar a cualesquiera de sus integrante
 
 En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituidas y registradas ante la Junta de Asistencia Privada.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
-## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD, DIABETES Y CÁNCER CÉRVICO-UTERINO
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2013)</small>
 
@@ -1533,6 +1539,8 @@ IV.- Los efectos de la ludopatía en los ámbitos familiar, social, laboral, psi
 
 El Ejecutivo del Estado deberá destinar recursos suficientes para el cumplimiento de este programa.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 147.
 
 El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
@@ -1552,6 +1560,44 @@ IV. Promoverán y llevarán a cabo campañas permanentes de información y orien
 A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2008)</small>
+
+### CAPITULO VI. DEL PROGRAMA DE ATENCIÓN INTEGRAL CONTRA EL CÁNCER CÉRVICO-UTERINO
+
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 148 TER 2.- Las mujeres que residan en el Estado tienen derecho a la atención integral del cáncer cérvico-uterino. El Ejecutivo del Estado de Sonora tiene la obligación de establecer un Programa que garantice el ejercicio de este derecho y su acceso de manera eficiente, oportuna y de calidad, conforme a los lineamientos establecidos en las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 148 TER 3.- El Programa comprende acciones de promoción de la salud, prevención, consejería, detección, diagnóstico, tratamiento y rehabilitación integral.
+
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 148 TER 4.- Para el desarrollo de acciones en materia de promoción de la salud, prevención, consejería y detección, además de las que se establezcan en la presente Ley, en los lineamientos de operación del Programa y en las normas oficiales correspondientes, las autoridades desarrollarán las siguientes actividades:
+
+I.- Estudios de Papanicolau y Papiloma, en unidades móviles y clínicas, previa autorización y certificación de las mismas;
+
+II.- Jornadas de salud en las diversas regiones del Estado, Centros Femeniles de Readaptación Social del Estado y en clínicas;
+
+III.- Pláticas sobre detección oportuna de cáncer cérvico-uterino;
+
+IV.- Entregas de estudios de Papanicolau y Papiloma;
+
+V.- Seguimiento a las mujeres con resultados no concluyentes, sospechosos y altamente sospechosos de cáncer cérvico-uterino;
+
+VI.- Llamadas telefónicas a mujeres con resultados no concluyentes, sospechosos o altamente sospechosos para proporcionarles citas de seguimiento médico;
+
+VII.- Visitas domiciliarias a mujeres con sospecha de cáncer cérvico-uterino que no se localicen vía telefónica;
+
+VIII.- Acompañamiento psicológico individual a las mujeres con sospecha de cáncer cérvico-uterino;
+
+IX.- Conformación de grupos de apoyo psicológico para las mujeres con casos confirmados de cáncer cérvico-uterino; y
+
+X.- Campañas de información sobre prevención y detección oportuna de cáncer cérvico-uterino.
+
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 148 TER 5.- Las acciones de diagnóstico, tratamiento y rehabilitación integral serán las que determinen la Secretaría, de conformidad a lo establecido en la presente Ley, los lineamientos de operación del Programa y las normas oficiales correspondientes.
 
 ### CAPITULO UNICO
 
@@ -1589,11 +1635,11 @@ ARTICULO 154 BIS G.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONAC
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
+
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
-
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
@@ -1603,13 +1649,11 @@ ARTICULO 154 BIS G.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONAC
 
 ### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
-### CAPITULO V. SERVICIO DE LIMPIA
-
 ## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. SERVICIO DE LIMPIA
 
 ###### ARTICULO 149.
 
@@ -1649,17 +1693,17 @@ Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de
 
 ## TITULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
+### CAPITULO VI. RASTROS
+
 ### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
+## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+
 ### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
-
-## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
-
-### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
 
 ###### ARTICULO 155.
 
@@ -1729,7 +1773,7 @@ La autoridad sanitaria competente publicará en el Boletín Oficial del Gobierno
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
 
 ###### ARTICULO 162.
 
@@ -1749,7 +1793,7 @@ Los vendedores, locatarios y personas cuya actividad esté vinculada con los mer
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 165.
 
@@ -1789,7 +1833,7 @@ Los propietarios o poseedores de los establecimientos están obligados a ejecuta
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO XIII. GASOLINERAS
+### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 173.
 
@@ -1833,7 +1877,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 Los procedimientos de refrigeración, exhumación, cremación de cadáveres y embalsamamiento deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
+### CAPITULO XIII. GASOLINERAS
 
 ###### ARTICULO 179.
 
@@ -1873,9 +1917,7 @@ La autoridad municipal, proveerá de depósitos de basura en los parques, jardin
 
 Para toda la actividad relacionada con este Capítulo, se estará a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
 
 ###### ARTICULO 185.
 
@@ -1913,7 +1955,9 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios que de
 
 El sacrificio de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
-### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
+### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 193.
 
@@ -1955,7 +1999,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos a ríos, acueductos, corrientes o canales por donde fluyan aguas destinadas a uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
 ###### ARTICULO 202.
 
@@ -1989,7 +2033,7 @@ Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se r
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 207.
 
@@ -2013,9 +2057,7 @@ Los responsables de los reclusorios, centros de readaptación social y Centros d
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO III. CERTIFICADOS
-
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 211.
 
@@ -2037,7 +2079,9 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
+
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 214.
 
@@ -2055,7 +2099,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 217.
 
@@ -2073,7 +2117,7 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 221.
 
@@ -2085,7 +2129,7 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 223.
 
@@ -2109,7 +2153,7 @@ Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 227.
 
@@ -2123,7 +2167,7 @@ Previo a las obras de edificación y a la obtención de licencias, permisos o au
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 230.
 
@@ -2146,6 +2190,8 @@ Las autoridades sanitarias mantendrán campañas permanentes a fin de orientar a
 ###### ARTICULO 234.
 
 Queda prohibido poseer animales domésticos en aquellos edificios de condominios, o departamentos, en los que deben utilizarse pasillos, escaleras o elevadores comunes.
+
+### CAPITULO V. PRESCRIPCION
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
@@ -3062,3 +3108,11 @@ B.O. 9 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 19 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 86, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
