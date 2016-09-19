@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-817
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-31"
-last_updated: "2011-03-31"
+last_updated: "2016-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE SONORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL B.O. DE 19 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2011.
 
@@ -744,3 +746,21 @@ EL SECRETARIO DE GOBIERNO
 HÉCTOR LARIOS CÓRDOVA
 
 > <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION II DEL B.O. DE 31 DE MARZO DEL 2011, PAGINA 23.</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 19 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Gobierno publicado en el Boletín Oficial del Gobierno del Estado de Sonora, Número 26, Sección II, de fecha 31 de marzo de 2011, el Decreto que Reforma y Adiciona diversas disposiciones del Reglamento Interior de la Secretaría de Gobierno publicado en el Boletín Oficial del Gobierno del Estado de Sonora, Número 52, Sección IV de fecha 28 de junio del 2012 y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán de expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior, quedando facultado el Secretario para resolver las cuestiones que se presenten en tanto se expiden los mencionados manuales.
