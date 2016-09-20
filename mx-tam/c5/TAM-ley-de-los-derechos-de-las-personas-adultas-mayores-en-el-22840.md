@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2014-07-09"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -477,9 +477,21 @@ Es obligación de las dependencias y entidades de la Administración Pública Es
 
 La Secretaría de Desarrollo Económico y del Empleo promoverá la celebración de convenios con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
-### CAPITULO UNICO. DE LA ASISTENCIA SOCIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO IV. DEL PROGRAMA DE APOYO DIRECTO AL ADULTO MAYOR
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 26 BIS.- El Ejecutivo del Estado aprobará el Programa de Apoyo Directo al Adulto Mayor aplicable a las personas mayores de 65 años o más de edad, que vivan en condiciones de pobreza y vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 26 TER.- Para tener acceso a los beneficios del Programa de Apoyo Directo al Adulto Mayor, los sujetos de apoyo deberán reunir los requisitos establecidos en las reglas de operación correspondientes.
 
 ## TITULO SEPTIMO
+
+### CAPITULO UNICO. DE LA ASISTENCIA SOCIAL
 
 ###### ARTICULO 27.
 
@@ -527,6 +539,122 @@ Todas las instituciones públicas, privadas y sociales que presten asistencia a 
 
 Toda contravención a lo establecido en la presente ley, por las instituciones de asistencia social, será hecha del conocimiento del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, a efecto de que actúe en consecuencia.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+## TITULO OCTAVO. DE LA PROCURADURIA DE LA DEFENSA DEL ADULTO MAYOR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 33.
+
+Se crea la Procuraduría de la Defensa del Adulto Mayor, como un Órgano Administrativo Desconcentrado, jerárquicamente subordinado al Organismo Público Descentralizado denominado "Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas".
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 34.
+
+la Procuraduría de la Defensa del Adulto Mayor tendrá como objeto la atención a las personas adultas mayores en situación de riesgo y desamparo, coadyuvando con el Sistema para el Desarrollo Integral de la Familia del Estado (sic) Tamaulipas, en el cumplimiento de las atribuciones que le confiere el artículo 13 de esta ley.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 35.
+
+Para el cumplimiento de su objeto, la Procuraduría de la Defensa del Adulto Mayor tendrá las siguientes atribuciones:
+
+I.- Impulsar y promover el reconocimiento y ejercicio pleno de los derechos de las personas adultas mayores;
+
+II.- Orientar, asesorar y asistir gratuitamente en materia legal cualquier asunto en que la persona adulta mayor tenga un interés jurídico directo, en especial aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y sucesorio;
+
+III.- Procurar la defensa y representación de los derechos consignados a favor de las personas adultas mayores en su persona, bienes y derechos ante cualquier autoridad competente, promoviendo todos los medios legales que conforme a derecho procedan;
+
+IV.- Coadyuvar con la Procuraduría General de Justicia del Estado, cuando las personas adultas mayores sean víctimas de cualquier conducta tipificada como delito; en los casos en que se trate de faltas administrativas;
+
+V.- Asesorar vía los Métodos Alternos para la prevención y la solución de conflictos, a las personas adultas mayores en cualquier procedimiento legal en el que sean partes interesadas;
+
+VI.- Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando la persona adulta mayor por falta de medios económicos o por impedimento físico no pueda valerse por sí misma y requiera apoyo para llevar a cabo dichos actos;
+
+VII.- Recibir quejas, denuncias e informes sobre la violación de los derechos de las personas adultas mayores, haciéndolas del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+
+VIII.- Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de discriminación, maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que les perjudique a las personas adultas mayores;
+
+IX.- Citar u ordenar con auxilio de autoridad competente, la presentación de los involucrados en los asuntos de su competencia;
+
+X.- Expedir a la autoridad competente copias certificadas de los documentos que obren en los archivos sobre asuntos de su competencia, siempre y cuando sea legalmente procedente;
+
+XI.- Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio dictados por autoridad competente que establece la presente ley; y
+
+XII.- Las demás que le determine el Titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, el Reglamento Interior y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE LA PROCURADURIA DE LA DEFENSA DEL ADULTO MAYOR
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 36.
+
+La Procuraduría de la Defensa del Adulto Mayor estará a cargo de una o un Procurador, el cual será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado, de una terna presentada por el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 37.
+
+Para ser Procurador de la Defensa del Adulto Mayor, se requiere:
+
+I.- Ser mexicano por nacimiento;
+
+II.- Licenciado en Derecho con título debidamente registrado, con cédula profesional y tres años mínimo de ejercicio profesional;
+
+III.- Mayor de treinta años; y
+
+IV.- Ser de reconocida honorabilidad
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 38.
+
+El Procurador de la Defensa del Adulto Mayor tendrá las siguientes facultades y obligaciones:
+
+I.- Dirigir, ordenar y dar seguimiento a las labores de las distintas áreas operativas de la Procuraduría de la Defensa del Adulto Mayor;
+
+II.- Representar a la Procuraduría de la Defensa del Adulto Mayor ante cualquier autoridad, organismo descentralizado federal, estatal o municipal, personas físicas o morales de derecho público o privado;
+
+III.- Aprobar los manuales de organización y de procedimientos administrativos de la Procuraduría de la Defensa del Adulto Mayor;
+
+IV.- Rendir un informe bimestral de actividades de la Procuraduría de la Defensa del Adulto Mayor a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y al Comité Técnico para la Atención a los Adultos Mayores;
+
+V.- Observar las disposiciones que le señalen esta Ley y su Reglamento Interior;
+
+VI.- Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones y análisis que considere necesarios para el buen desarrollo de las labores normativas y rectoras de la Procuraduría de la Defensa del Adulto Mayor, apoyándose en la estructura administrativa prevista en su Reglamento Interior;
+
+VII.- Someter a aprobación de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, el Reglamento Interior y la estructura orgánica de la Procuraduría de la Defensa del Adulto Mayor;
+
+VIII.- Las demás que le determine el Titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, el Reglamento Interior y las disposiciones legales aplicables; y
+
+IX.- En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 39.
+
+La Procuraduría de la Defensa del Adulto Mayor contará con las unidades administrativas que se determinen en su Reglamento Interior, el cual regulará la organización y funcionamiento del citado Órgano Administrativo Desconcentrado y deberá ser aprobado por la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 40.
+
+La Procuraduría de la Defensa del Adulto Mayor para hacer cumplir sus determinaciones podrá emplear cualquiera de los siguientes medios de apremio dictados por autoridad competente:
+
+I.- Apercibimiento;
+
+II.- Auxilio de la fuerza pública; y
+
+III.- Cateo y arresto hasta por 36 horas.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -568,6 +696,14 @@ P.O. 16 DE DICIEMBRE DE 2010.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-996 MEDIANTE EL CUAL SE ADICIONA UN CAPÍTULO IV AL TÍTULO SEXTO Y SE ADICIONA EL TÍTULO OCTAVO A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
