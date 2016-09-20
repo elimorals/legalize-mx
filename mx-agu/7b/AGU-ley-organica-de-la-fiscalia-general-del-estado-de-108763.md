@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-108763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-22"
-last_updated: "2015-06-22"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -445,7 +445,9 @@ XIV. Vigilar que el imputado que sea puesto a su disposición no sea retenido po
 
 Desde el momento en que tenga a su disposición al imputado, le hará saber los motivos de su detención, así como su derecho a guardar silencio y demás prerrogativas que en su favor consagra el artículo 20, de la Constitución Federal;
 
-XV. Informar a la víctima u ofendido del delito, desde el momento en que se presente o comparezca ante él los derechos que le otorga la Constitución, los Tratados Internacionales suscritos y ratificados por el Estado Mexicano y las disposiciones jurídicas aplicables, así como el alcance de esos derechos;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Informar a la víctima u ofendido del delito, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución Federal, los Tratados Internacionales suscritos y ratificados por el Estado Mexicano y las disposiciones jurídicas aplicables, así como el alcance de esos derechos;
 
 XVI. Aplicar los criterios de oportunidad que autoriza esta Ley y el Código Nacional, cuando ello sea procedente;
 
@@ -541,7 +543,9 @@ LXI. Administrar y disponer de los fondos propios que le asigne o faculte la Ley
 
 LXII. Participar activamente en el combate de los delitos en materia electoral y ambiental en el Estado, implementando los órganos y mecanismo (sic) necesarios para tales fines;
 
-LXIII. Vigilar el cumplimiento de los deberes que su cargo establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+LXIII. Cumplir las obligaciones que a su cargo establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
 
 LXIV. Certificar los documentos materia de su competencia que obren en sus archivos y garantizar que se dé fe de las diligencias que se practiquen, de conformidad con las disposiciones jurídicas vigentes;
 
@@ -1229,7 +1233,9 @@ La Fiscalía General deberá proporcionar la protección y auxilio a las persona
 
 La Fiscalía General, en materia de atención a víctimas tendrá las siguientes obligaciones:
 
-I. Proporcionar a las víctimas u ofendidos del delito o de conductas tipificadas como tales, los servicios de asesoría jurídica gratuita, asistencia médica, psicológica y psiquiátrica de urgencia;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+I. Proporcionar a las víctimas u ofendidos del delito o de conductas tipificadas como tales, los servicios de asistencia médica, psicológica y psiquiátrica de urgencia; así mismo, canalizar a dichas víctimas u ofendidos a la Secretaría General de Gobierno, para recibir los servicios de asesoría jurídica gratuita;
 
 II. Solicitar la colaboración de las dependencias e instituciones, así como la de particulares, para el debido cumplimiento de sus objetivos;
 
@@ -1714,3 +1720,15 @@ Dip. Verónica Sánchez Alejandre,
 SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de junio de 2015.- Carlos Lozano de la Torre.- Rúbrica.- Sergio Javier Reynoso Talamantes, Secretario de Gobierno, en suplencia del Jefe de Gabinete de conformidad con el Artículo 50 de la Constitución Política del Estado de Aguascalientes.- Rúbrica.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE ADICIONA UN ARTÍCULO 29 BIS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el efecto de cumplir con lo dispuesto en el presente Decreto las autoridades administrativas competentes tendrán un término de 180 días contados a partir de su publicación en el Periódico Oficial del Estado, para realizar las adecuaciones administrativas y reglamentarias necesarias a fin de garantizar la operatividad de lo dispuesto en la presente reforma.
