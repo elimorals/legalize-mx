@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2016-06-16"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -345,6 +343,8 @@ XXXVII. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de De
 
 XXXVIII. Participar e impulsar las acciones que se acuerden en la Conferencia Nacional de Secretarios de Seguridad Pública;
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".]</small>
+
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
 
 XXXIX. Coordinar e impulsar, a través del titular de la Subsecretaría de Reinserción Social del Estado, las acciones que se acuerden en la Conferencia Nacional del Sistema Penitenciario;
@@ -509,11 +509,17 @@ II.- La Policía de (sic) Auxiliar;
 
 III.- Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-IV.- Los cuerpos de vigilancia, custodia y seguridad de los Centros de Reintegración Social y Familiar para Adolescentes; y
+IV.- Los cuerpos de vigilancia, custodia y seguridad de los Centros de Reintegración Social y Familiar para Adolescentes;
 
-V.- Cualquiera otra que así lo decrete el titular del Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+V.- La Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Cualquiera otra que así lo decrete el titular del Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -741,13 +747,37 @@ XI. Las demás que le confieran otras disposiciones jurídicas aplicables o sus 
 
 2. El personal operativo de la Policía Auxiliar apoyará a las demás instituciones policiales, estatales o municipales, cuando así se requiera, previa autorización del Secretario de Seguridad Pública o del Subsecretario de Operación Policial.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO VI. DE LA POLICIA ESPECIAL DE TAMAULIPAS
+### CAPITULO VI. DE LA DIRECCIÓN DE SEGURIDAD A PERSONAL E INSTALACIONES Y EDIFICIOS PÚBLICOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 26.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
+1.- La Secretaría de Seguridad Pública del Estado contará con una Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos, que sujeta a la presente ley y demás disposiciones aplicables, será la encargada de la seguridad y protección del Gobernador del Estado, así como de los servidores públicos, personas residentes o visitantes que así lo requieran en virtud de sus funciones, representatividad o responsabilidades, con base en la evaluación de riesgo que realice la propia Secretaría de Seguridad Pública, y de las instalaciones y edificios públicos.
+
+2.- La Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos, estará constituida por el mando y el número de elementos que se requiera para el cumplimiento de sus funciones, conforme a la disponibilidad del Presupuesto de Egresos del Estado.
+
+3.- El Titular de la Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos, será designado y removido libremente por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 26 BIS.
+
+La Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos, tendrá las obligaciones y facultades siguientes:
+
+I.- Proporcionar la seguridad y protección al Gobernador del Estado, a quien haya desempeñado dicho cargo, servidores públicos, previo dictamen emitido por la Secretaría de Seguridad Pública; y a otras personas nacionales o extranjeras que por la importancia de su encargo o encomienda, o por determinada circunstancia imperante, expresamente así lo disponga el Gobernador del Estado. En todo caso, para brindar este servicio, la Secretaría de Seguridad Pública realizará la evaluación inherente a la o las personas que deban ser objeto de protección y seguridad;
+
+II.- Brindar la seguridad a instalaciones y edificios públicos, así como de los inmuebles donde el Gobernador del Estado, resida o labore habitual o transitoriamente, y los vehículos donde sea trasladado;
+
+III.- Integrar y analizar la información necesaria para el adecuado y oportuno cumplimiento de sus funciones;
+
+IV.- Contribuir, en su caso, a la planeación y organización de giras y actos públicos del Gobernador del Estado, proporcionando los recursos humanos y materiales que se requieran en apoyo de sus actividades;
+
+V.- Llevar a cabo las tareas logísticas que requiera el cumplimiento de sus funciones; y
+
+VI.- Las demás que le asignen las leyes y la normatividad relativa a su objeto y funciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -2137,6 +2167,8 @@ P.O. 16 DE JUNIO DE 2016.
 
 > <small>[N. DE E. TRANSITORIOS DEL“DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007".]</small>
 
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-989, MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO TERCERO Y LOS ARTÍCULOS 20 PÁRRAFO 1, FRACCIONES IV Y V Y 26; Y SE ADICIONAN LA FRACCIÓN VI AL PÁRRAFO 1, DEL ARTÍCULO 20 Y EL ARTÍCULO 26 BIS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -2144,3 +2176,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En cumplimiento del presente Decreto, se faculta al Ejecutivo Estatal para reorganizar la estructura de la Secretaría de Seguridad Pública; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas correspondientes del Presupuesto de Egresos del Estado para el ejercicio fiscal de 2016, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos y materiales, que hasta la entrada en vigor del presente Decreto, estuvieran asignados o comisionado (sic) a la seguridad y protección de cualquier persona de las mencionadas en la fracción I del artículo 26 Bis, o de cualquier mueble o inmueble propiedad de las mismas y que no formen parte de la Secretaría de Seguridad Pública del Estado, deberán ser transferidos a dicha dependencia, y su plaza laboral será asignada a la Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos. Lo anterior, no afectará los derechos adquiridos por los trabajadores de las dependencias y entidades que se transfieran a la Secretaría de Seguridad Pública del Estado.
+
+Sin demérito de lo establecido en el párrafo que antecede, los elementos que formen parte de la Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos, deberán acreditar los exámenes de evaluación de control y confianza, que para tal efecto se determinen para ocupar dicho perfil.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
