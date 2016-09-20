@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2016-06-23"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1627,7 +1627,7 @@ Este delito se perseguirá por querella.
 
 ### CAPITULO VI. ADMINISTRACION FRAUDULENTA
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 134.
 
@@ -1941,7 +1941,7 @@ Se impondrá de seis meses a diez años de prisión y hasta quinientos días mul
 
 ###### ARTICULO 155.
 
-Al que por cualquier razón tuviera a su cargo la administración o el cuidado de bienes ajenos, y con ánimo de lucro perjudique al Titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, se le impondrá pena de tres a cinco años de prisión.
+Al que por cualquier razón tuviera a su cargo la administración o el cuidado de bienes ajenos, y con ánimo de lucro perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, se le impondrá las penas previstas para el delito de fraude.
 
 ### CAPITULO III. ABANDONO DE NIÑOS, NIÑAS Y ADOLESCENTES
 
@@ -2701,7 +2701,7 @@ Si el agente se valiese de una función pública se le impondrá de seis meses a
 
 ### CAPITULO IV. TRAFICO DE INFLUENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 200.
 
@@ -2837,9 +2837,7 @@ Para los efectos de este Código, servidor público es toda persona que desempe�
 
 Los Servidores Públicos que cometan alguno de los delitos previstos en el presente Título, además de las penas de prisión y de multa que en cada caso se señalen, serán privados del cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad, a partir de la extinción de ésta.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-Los delitos previstos en este Título, sólo podrán perseguirse por querella de la parte ofendida, con excepción de aquellos en los que se disponga lo contrario.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPITULO I. FRAUDE PROCESAL
 
@@ -2875,7 +2873,7 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ###### ARTICULO 209.
 
-Se impondrá de seis meses a cinco años de prisión y de treinta a trescientos días multa, al servidor público que por sí o por interpósita persona:
+Se impondrá de seis meses a seis años de prisión y de treinta a trescientos días multa, al servidor público que por sí o por interpósita persona:
 
 I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, o
 
@@ -2895,11 +2893,13 @@ Al particular que de manera espontánea dé u ofrezca dinero o cualquier otra d�
 
 El Juez podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el párrafo anterior, o a su juicio, eximirlo de las mismas, cuando aquél denuncie espontáneamente el delito cometido o cuando hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar, de gratitud o dependencia.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 212.
 
-Al particular que estando obligado legalmente a la custodia, administración o aplicación de recursos del Estado y Municipios, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le aplicará de seis meses a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+Al particular que estando obligado legalmente a la custodia, administración o aplicación de recursos del Estado y Municipios, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le aplicará de seis meses a seis años de prisión y de cincuenta a doscientos cincuenta días multa.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
 
@@ -3137,7 +3137,7 @@ El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las carac
 
 ### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 235.
 
@@ -3165,7 +3165,7 @@ VI.- Como defensor sea particular o de oficio sólo se concrete a aceptar el car
 
 ### CAPITULO II. PECULADO
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 236.
 
@@ -3213,7 +3213,7 @@ Cuando en uso de funciones usurpadas se cause un daño a la administración púb
 
 ### CAPITULO IV. INTIMIDACION
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 240.
 
@@ -3305,7 +3305,7 @@ Las sanciones previstas por este capítulo se impondrán sin detrimento de la re
 
 ###### ARTICULO 252.
 
-Se impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa, a los servidores públicos que en uso de las facultades, medios, atribuciones o recursos que les fueron conferidos:
+Se impondrá de dos a diez años de prisión y de cincuenta a quinientos días multa, a los servidores públicos que en uso de las facultades, medios, atribuciones o recursos que les fueron conferidos:
 
 I.- Obtenga bajo cualquier pretexto, para sí o para cualquier persona, parte del sueldo de uno o más de sus subalternos, dádivas y otros servicios;
 
@@ -3363,7 +3363,7 @@ Se impondrá de seis meses a tres años de prisión y de diez a cincuenta días 
 
 ###### ARTICULO 256.
 
-Se impondrá de uno a cinco años de prisión y de veinticinco a doscientos cincuenta días multa, al Servidor Público, comisionado o persona encargada de un servicio público Estatal o Municipal, centralizado o descentralizado, que para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa pertenecientes al Estado, al Organismo Centralizado o Descentralizado, al Municipio o a un particular, si por razones de su función o cargo los hubiere recibido en administración, en depósito o por otra causa.
+Se impondrá de uno a diez años de prisión y de veinticinco a doscientos cincuenta días multa, al servidor público, comisionado o persona encargada de un servicio público Estatal o Municipal, centralizado o descentralizado, que para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa pertenecientes al Estado, al Organismo Centralizado o Descentralizado, al Municipio o a un particular, si por razones de su función o cargo los hubiere recibido en administración, en depósito o por otra causa.
 
 ###### ARTICULO 257.
 
@@ -3375,7 +3375,7 @@ Lo dispuesto en el artículo anterior, se aplicará también a los encargados o 
 
 ###### ARTICULO 259.
 
-Al servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o por un tercero, denuncie, formule querella o aporte información relativa a la presunta comisión de un delito, se le aplicará de seis meses a tres años de prisión y de treinta a ciento cincuenta días multa.
+Al servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o por un tercero, denuncie, formule querella o aporte información relativa a la presunta comisión de un delito, se le aplicará de dos a siete años de prisión y de treinta a trescientos cincuenta días multa.
 
 ## TITULO DECIMO. DELITOS EN MATERIA ELECTORAL
 
@@ -3623,7 +3623,7 @@ P.O. 1 DE DICIEMBRE DE 2008.
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO NUMERO. 155, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 148, 148 BIS, 148 TER, 149, 149 BIS, 149 TER Y 149 QUÁTER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NUMERO 155, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 148, 148 BIS, 148 TER, 149, 149 BIS, 149 TER Y 149 QUÁTER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3685,7 +3685,7 @@ TRANSITORIO:
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NUMERO 291, POR EL QUE SE REFORMA EL ARTÍCULO 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 291, POR EL QUE SE REFORMA EL ARTÍCULO 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3894,3 +3894,9 @@ P.O. 23 DE JUNIO DE 2016.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 002 POR EL QUE SE REFORMAN LOS ARTÍCULOS 155, 209 PRIMER PÁRRAFO, 212 PRIMER PÁRRAFO, 252 PRIMER PÁRRAFO, 256 Y 259; Y SE DEROGA EL CUARTO PÁRRAFO DEL ARTÍCULO 206; TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
