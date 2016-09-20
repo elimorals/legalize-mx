@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-centro-estatal-de-mediacion-del-estado-de-puebla-97474"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2013-12-30"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Trigésima Octava Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -110,6 +110,10 @@ La mediación busca fomentar entre los miembros de la sociedad, una cultura de p
 ###### ARTÍCULO 4.
 
 Podrán someterse al Procedimiento de Mediación, los derechos y obligaciones susceptibles de transacción o convenio entre particulares, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecte derechos de terceros. La autoridad jurisdiccional, hará del conocimiento de las partes, la existencia de la mediación como un medio alternativo por medio del cual pueden dirimir un conflicto de intereses, sin necesidad de agotar un proceso ante los órganos jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+No podrá ser utilizado el procedimiento de mediación en aquellos casos que impliquen la existencia de elementos que presuman violencia de género o cualquier otro que represente un desequilibrio entre los intervinientes, por estar alguno de ellos en una situación de especial vulnerabilidad.
 
 En las controversias que se encuentren jurisdiccionalmente radicadas, se someterá al Procedimiento de Mediación tal como se refiere el artículo 837 del Código de Procedimientos.
 
@@ -502,3 +506,13 @@ CUARTO.- El Pleno del Honorable Tribunal Superior de Justicia del Estado de Pueb
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil trece.- Diputado Presidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- FÉLIX SANTOS BACILIO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DE LA LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
