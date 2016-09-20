@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2016-03-29"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -1687,7 +1685,25 @@ III.- Los integrantes de la familia tienen derecho a que los demás miembros res
 
 IV.- Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o por persona que habite el mismo domicilio o con la cual haya tenido algún vínculo familiar o afectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica.
 
-Por violencia contra las mujeres en el ámbito familiar se entiende el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho; y
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Por violencia contra las mujeres en el ámbito familiar se entiende el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+En estos casos, la autoridad competente podrá emitir los actos de protección y de urgente aplicación de manera precautoria o cautelar, en función del interés superior de la víctima.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Las órdenes de protección se emitirán de conformidad con la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla y demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que se ocasionen con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Cuando cause ejecutoria una sentencia que determine la existencia de un hecho ilícito, civil o penal, derivado de la violencia familiar o de género, se comunicará a la autoridad que sea competente para el control de la estadística correspondiente; y
 
 V.- Todo menor, mujer, enfermo, incapaz, anciano o persona discapacitada, privado temporal o permanentemente de su medio familiar o cuyo interés haga necesario que no permanezca en él, podrá ser acogido por el Sistema Estatal para el Desarrollo Integral de la Familia o alguna otra institución con objeto similar, las que proveerán su protección y cuidado hasta en tanto se den las condiciones mínimas necesarias en su seno familiar para ser restituido o, en su caso, se le encuentre un hogar sustituto.
 
@@ -1787,9 +1803,17 @@ VIII.- El alcoholismo crónico, la impotencia física incurable para entrar en e
 
 IX.- El uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquier otra substancia que altere la conducta y produzca farmacodependencia;
 
-X.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XI.- La locura.
+X.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- La violencia por condición de género en cualquiera de sus tipos o modalidades de un pretendiente hacia el otro; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XII.- La locura.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
@@ -2637,25 +2661,19 @@ Los ex cónyuges, que hayan obtenido el divorcio, podrán contraer nuevamente ma
 
 #### Sección Segunda.- Divorcio administrativo
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 436.
 
-Los cónyuges que pretendan divorciarse administrativamente deben:
+Los cónyuges que pretendan divorciarse administrativamente deberán cumplir lo siguiente:
 
-I.- Ser mayores de edad;
+I.- No haber procreado ni adoptado hijos:
 
-II.- No haber procreado ni adoptado hijos;
+II.- Estar sometidos a separación de bienes, como régimen económico actual de su matrimonio o, en caso de ser ese régimen el de sociedad conyugal presentar convenio de liquidación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+III.- No estar la mujer encinta; y
 
-III.- Estar sometidos a separación de bienes, como régimen económico actual de su matrimonio o, en caso de ser ese régimen el de sociedad conyugal presentar convenio de liquidación.
-
-IV.- No estar la mujer encinta;
-
-V.- Tener su domicilio familiar actual dentro del territorio del Estado de Puebla, y haberlo tenido en él los seis meses anteriores a su promoción;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-VI.- Tener al menos un año de casados.
+IV.- Tener su domicilio familiar actual dentro del territorio del Estado de Puebla.
 
 ###### Artículo 437.
 
@@ -3168,6 +3186,10 @@ El Estado debe dar alimentos a los menores, mayores incapaces, enfermos graves y
 ###### Artículo 497.
 
 Los alimentos comprenden comida, vestido, habitación y asistencia en caso de enfermedad y, en el supuesto del artículo 499, libros y material de estudio necesarios.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Además, los alimentos comprenderán la atención médica y hospitalaria del embarazo y parto, en cualquier caso, del padre hacia la madre.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -20414,3 +20436,11 @@ P.O. 29 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DE LA LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
