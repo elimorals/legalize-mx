@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2016-08-09"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COA"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 7 DE OCTUBRE DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -268,6 +266,10 @@ XIX.- La estricta aplicación de las leyes, normas, reglamentos, planes y progra
 XX.- La conservación y mejoramiento del ambiente que conforma los asentamientos humanos; y
 
 XXI.- Impedir el establecimiento de asentamientos humanos irregulares y fraccionamientos, condominios o conjuntos habitaciones (sic) al margen de lo dispuesto por esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XXII.- Verificar que los nuevos asentamientos humanos, sus remodelaciones o ampliaciones cuenten con rampas o accesos fáciles para personas que presenten alguna discapacidad.
 
 ###### ARTICULO 6.
 
@@ -951,7 +953,7 @@ II.- Diagnóstico, en el que se analizarán la situación actual y las tendencia
 
 III.- Objetivos, en los que se contemplarán los propósitos o finalidades que se pretenden alcanzar con la ejecución del programa respectivo;
 
-IV.- Metas, en las que se precisarán las acciones, obras o servicios que deban llevarse a cabo o prestarse de acuerdo con los objetivos planteados en el corto, el mediano y el largo plazos (sic);
+IV.- Metas, en las que se precisarán las acciones, obras o servicios que deban llevarse a cabo o prestarse de acuerdo con los objetivos planteados en el corto, el mediano y el largo plazos;
 
 V.- Estrategias, en las que se establecerán los lineamientos y políticas del programa y las alternativas para la ejecución del mismo;
 
@@ -1253,7 +1255,7 @@ En la formulación de estos planes y programas deberán participar, invariableme
 
 ###### ARTICULO 65.
 
-Para los efectos de lo dispuesto en el artículo que antecede, los planes y programas subregionales de desarrollo urbano, contendrán en lo procedente, los elementos que se especifican en el artículo 43 (sic) esta ley y aquellos correspondientes a los planes y programas regionales, cuando así proceda.
+Para los efectos de lo dispuesto en el artículo que antecede, los planes y programas subregionales de desarrollo urbano, contendrán en lo procedente, los elementos que se especifican en el artículo 43 esta ley y aquellos correspondientes a los planes y programas regionales, cuando así proceda.
 
 ###### ARTICULO 66.
 
@@ -1279,7 +1281,7 @@ Si la opinión a que se refiere el párrafo anterior es contraria al plan o prog
 
 ###### ARTICULO 71.
 
-El programa estatal de desarrollo urbano y los de (sic) él se deriven conforme a esta ley, serán aprobados por el Gobernador del Estado, previa opinión del Consejo Consultivo de Desarrollo Urbano del Estado.
+El programa estatal de desarrollo urbano y los (sic) de él se deriven conforme a esta ley, serán aprobados por el Gobernador del Estado, previa opinión del Consejo Consultivo de Desarrollo Urbano del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2037,7 +2039,7 @@ En los fraccionamientos en que se requiera caseta de vigilancia, de acuerdo con 
 
 ###### ARTICULO 161.
 
-El fraccionador deberá adquirir la superficie necesaria para infraestructura y derechos de vía en las obras de liga, entre el predio en que se pretenda hacer un fraccionamiento y otras zonas urbanizadas, cuando dichas obras se estimen convenientes para el futuro crecimiento de esas (sic) zona, conforme a las previsiones de los planes y programas de desarrollo urbano.
+El fraccionador deberá adquirir la superficie necesaria para infraestructura y derechos de vía en las obras de liga, entre el predio en que se pretenda hacer un fraccionamiento y otras zonas urbanizadas, cuando dichas obras se estimen convenientes para el futuro crecimiento de esas zona (sic), conforme a las previsiones de los planes y programas de desarrollo urbano.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2009)</small>
 
@@ -3552,3 +3554,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 487.- SE ADICIONA LA FRACCIÓN XXII DEL ARTÍCULO 5 DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
