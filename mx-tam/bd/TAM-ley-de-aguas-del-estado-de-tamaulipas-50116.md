@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2016-07-14"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -241,121 +241,129 @@ XLV. Prestador de los Servicios: La dependencia, entidad o particular responsabl
 
 XLVI. Reincidencia: Cada una de las subsecuentes infracciones a un mismo precepto, cometida por un mismo usuario;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XLVII. Reuso de las aguas residuales: La utilización de las aguas residuales sin sanear en diferentes usos, antes de entregarse a los cuerpos receptores;
+XLVII. Reúso: La explotación, uso o aprovechamiento de aguas residuales con o sin tratamiento previo;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XLVIII. Reuso de las aguas residuales tratadas: La utilización de las aguas saneadas en diferentes usos, antes de entregarse a los cuerpos receptores;
+XLVIII. Reúso de las aguas residuales: La utilización de las aguas residuales sin sanear en diferentes usos, antes de entregarse a los cuerpos receptores;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XLIX. Saneamiento: La acción de sanear las aguas residuales para que cumplan con ciertas características de calidad, con el fin de evitar la contaminación de los cuerpos receptores y coadyuvar en la preservación del medio ambiente. Para efectos de esta ley, el proceso de saneamiento está conformado por las descargas sanitarias y los sistemas de desalojo, recolección y tratamiento de las aguas residuales;
+XLIX. Reúso de las aguas residuales tratadas: La utilización de las aguas saneadas en diferentes usos, antes de entregarse a los cuerpos receptores;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-L. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas;
+L. Saneamiento: La acción de sanear las aguas residuales para que cumplan con ciertas características de calidad, con el fin de evitar la contaminación de los cuerpos receptores y coadyuvar en la preservación del medio ambiente. Para efectos de esta Ley, el proceso de saneamiento está conformado por las descargas sanitarias y los sistemas de desalojo, recolección y tratamiento de las aguas residuales;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LI. Sistema Estatal de Información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector;
+LI. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LII. Sistema de Almacenamiento: La infraestructura hidráulica utilizada para almacenar agua potable con objeto de entregarla al sistema de distribución. Puede ser utilizada también para regular presiones en el sistema de distribución que forma parte de la línea de producción de los servicios de agua potable;
+LII. Sistema Estatal de información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su (sic) proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LIII. Sistema de Captación: La infraestructura hidráulica utilizada para extraer agua cruda de los cuerpos receptores, que forma parte de la línea de producción de los servicios de agua potable;
+LIII. Sistema de Almacenamiento: La infraestructura hidráulica utilizada para almacenar agua potable con objeto de entregarla al sistema de distribución. Puede ser utilizada también para regular presiones en el sistema de distribución que forma parte de la línea de producción de los servicios de agua potable;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LIV. Sistema de Conducción: La infraestructura hidráulica utilizada para transportar el agua desde el sistema de captación hasta el sistema de potabilización; o del sistema de potabilización al sistema de almacenamiento; o del sistema de captación al sistema de almacenamiento, que forma parte de la línea de producción de los servicios de agua potable;
+LIV. Sistema de Captación: La infraestructura hidráulica utilizada para extraer agua cruda de los cuerpos receptores, que forma parte de la línea de producción de los servicios de agua potable;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LV. Sistema de Desalojo: La infraestructura sanitaria utilizada para transportar el agua residual por las calles de los asentamientos humanos, a la cual se conectan las descargas sanitarias, y que entrega el agua residual a los cuerpos receptores o al sistema de recolección y que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+LV. Sistema de Conducción: La infraestructura hidráulica utilizada para transportar el agua desde el sistema de captación hasta el sistema de potabilización; o del sistema de potabilización al sistema de almacenamiento; o del sistema de captación al sistema de almacenamiento, que forma parte de la línea de producción de los servicios de agua potable;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LVI. Sistema de Drenaje Pluvial: La infraestructura hidráulica utilizada para trasportar el agua pluvial de los centros de población o asentamientos humanos hacia los cuerpos receptores;
+LVI. Sistema de Desalojo: La infraestructura sanitaria utilizada para transportar el agua residual por las calles de los asentamientos humanos, a la cual se conectan las descargas sanitarias, y que entrega el agua residual a los cuerpos receptores o al sistema de recolección y que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LVII. Sistema de Distribución: La infraestructura hidráulica utilizada para transportar el agua por las calles de los asentamientos humanos hasta el frente de cada predio. Este sistema puede estar conectado al Sistema de Almacenamiento o directamente al sistema de captación, conducción o potabilización y entrega el (sic) agua a las tomas domiciliarias, que forma parte de la línea de producción de los servicios de agua potable;
+LVII. Sistema de Drenaje Pluvial: La infraestructura hidráulica utilizada para trasportar el agua pluvial de los centros de población o asentamientos humanos hacia los cuerpos receptores;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LVIII. Sistema de Potabilización: La infraestructura hidráulica utilizada para dar tratamiento al agua cruda para que cumpla con las condiciones de calidad que establecen las Normas Oficiales Mexicanas relativas al uso público urbano, que forma parte de la línea de producción de los servicios de agua potable;
+LVIII. Sistema de Distribución: La infraestructura hidráulica utilizada para transportar el agua por las calles de los asentamientos humanos hasta el frente de cada predio. Este sistema puede estar conectado al Sistema de Almacenamiento o directamente al sistema de captación, conducción o potabilización y entrega el agua a las tomas domiciliarias, que forma parte de la línea de producción de los servicios de agua potable;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LIX. Sistema de Recolección: La infraestructura sanitaria utilizada para transportar el agua residual a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+LIX. Sistema de Potabilización: La infraestructura hidráulica utilizada para dar tratamiento al agua cruda para que cumpla con las condiciones de calidad que establecen las Normas Oficiales Mexicanas relativas al uso público urbano, que forma parte de la línea de producción de los servicios de agua potable;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LX. Sistema de Reuso de las Aguas Residuales: La infraestructura sanitaria utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas;
+LX. Sistema de Recolección: La infraestructura sanitaria utilizada para transportar el agua residual a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXI. Sistema de Reuso de las Aguas Residuales Tratadas: La infraestructura hidráulica utilizada para transportar las aguas residuales tratadas hasta los predios donde serán utilizadas;
+LXI. Sistema de Reúso de las Aguas Residuales: La infraestructura sanitaria utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXII. Sistema de Tratamiento: La infraestructura sanitaria utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales;
+LXII. Sistema de Reúso de las Aguas Residuales Tratadas: La infraestructura hidráulica utilizada para transportar las aguas residuales tratadas hasta los predios donde serán utilizadas;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXIII. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica y sanitaria que conforma los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años;
+LXIII. Sistema de Tratamiento: La infraestructura sanitaria utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXIV. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta ley;
+LXIV. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica y sanitaria que conforma los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXV. Tarifa: El tabulador autorizado para la determinación del pago por los servicios públicos, considerando los niveles de consumo y el tipo de usuario;
+LXV. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta Ley;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXVI. Toma Domiciliaria: La infraestructura conectada al sistema de distribución de agua potable utilizada para suministrarla a los predios. Esta infraestructura incluye el aparato medidor de volúmenes de agua, llaves y válvulas necesarias para que el prestador de los servicios públicos pueda realizar las funciones de toma de lectura, mantenimiento a los aparatos medidores de volúmenes de agua y de reducción o suspensión del servicio;
+LXVI. Tarifa: El tabulador autorizado para la determinación del pago por los servicios públicos, considerando los niveles de consumo y el tipo de usuario;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXVII. Uso Agrícola: El área agrícola que cuenta con infraestructura y sistema de riego, distinta de un distrito de riego y comúnmente de menor superficie de aquél que puede integrarse por asociaciones de usuarios u otras figuras de productores organizados que se asocian entre sí libremente para prestar el servicio de riego con sistemas de gestión autónoma y operar las obras de infraestructura hidráulica para la captación, derivación, conducción, regulación, distribución y desalojo de las aguas nacionales destinadas al riego agrícola, y cuya administración compete a la Comisión Nacional del Agua;
+LXVII. Toma Domiciliaria: La infraestructura conectada al sistema de distribución de agua potable utilizada para suministrarla a los predios. Esta infraestructura incluye el aparato medidor de volúmenes de agua, llaves y válvulas necesarias para que el prestador de los servicios públicos pueda realizar las funciones de toma de lectura, mantenimiento a los aparatos medidores de volúmenes de agua y de reducción o suspensión del servicio;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 LXVIII. Unidad de Riego: La aplicación de agua para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productores no hayan sido objeto de transformación;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXIX. Uso comercial y de servicios: La utilización del agua de uso público urbano en establecimientos y oficinas, dedicadas a la compra y venta de bienes y prestación de servicios;
+LXIX. Uso: Aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXX. Uso de Infraestructura: El precio que cobra el prestador de los servicios públicos por la incorporación de un nuevo asentamiento humano, comercial, de servicios o industrial a la línea de producción de los servicios;
+LXX. Uso Agrícola: El área agrícola que cuenta con infraestructura y sistema de riego, distinta de un distrito de riego y comúnmente de menor superficie de aquél que puede integrarse por asociaciones de usuarios u otras figuras de productores organizados que se asocian entre sí libremente para prestar el servicio de riego con sistemas de gestión autónoma y operar las obras de infraestructura hidráulica para la captación, derivación, conducción, regulación, distribución y desalojo de las aguas nacionales destinadas al riego agrícola, y cuya administración compete a la Comisión Nacional del Agua;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXI. Uso doméstico: La utilización de agua de uso público urbano para uso particular de las personas y el hogar;
+LXXI. Uso comercial y de servicios: La utilización del agua de uso público urbano en establecimientos y oficinas, dedicadas a la compra y venta de bienes y prestación de servicios;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXII. Uso industrial: La utilización de agua en el proceso productivo de las empresas, industrias o parques industriales;
+LXXII. Uso de Infraestructura: El precio que cobra el prestador de los servicios públicos por la incorporación de un nuevo asentamiento humano, comercial, de servicios o industrial a la línea de producción de los servicios;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXIII. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos;
+LXXIII. Uso doméstico: La utilización de agua de uso público urbano para uso particular de las personas y el hogar;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXIV. Usuarios: Las personas físicas o morales que reciban los servicios públicos; y
+LXXIV. Uso industrial: La utilización de agua en el proceso productivo de las empresas, industrias o parques industriales;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXXV. Indicadores de Gestión: Cifras que permiten de manera objetiva medir y evaluar el desempeño de una organización.
+LXXV. Indicadores de Gestión: Cifras que permiten de manera objetiva medir y evaluar el desempeño de una organización;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+LXXVI. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+LXXVII. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -819,7 +827,7 @@ La vigilancia de la Comisión estará a cargo de un Comisario, designado por la 
 
 4. No obstante lo dispuesto en los párrafos anteriores, el Ejecutivo del Estado podrá, en los casos de riesgo, siniestro o desastres graves que impidan la prestación de estos servicios, aplicar las medidas que fueren necesarias para preservar la continuidad y eficiencia de los mismos, o para hacer frente a estas contingencias por el tiempo necesario. Asimismo, podrá disponer de los recursos públicos que fueren necesarios para la solución de los problemas, dando cuenta posteriormente al Congreso del Estado, el cual ratificará o modificará las medidas tomadas por el Ejecutivo y expedirá las disposiciones correspondientes en el decreto respectivo.
 
-###### Articulo 18.
+###### Artículo 18.
 
 Cuando los servicios públicos sean prestados directamente por los municipios, éstos tendrán a su cargo:
 
@@ -869,9 +877,19 @@ XX. Otorgar los permisos de descargas de aguas residuales a los sistemas alcanta
 
 XXI. Aplicar las sanciones por las infracciones que se cometan a esta ley y sus reglamentos;
 
-XXII. Llevar a cabo campañas continuas de cultura del agua entre la población, primordialmente para promover el uso racional del agua, evitar su contaminación y colaborar en el cuidado y preservación de los servicios públicos; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XXIII. Las demás atribuciones que les otorguen ésta u otras disposiciones legales.
+XXII. Llevar a cabo campañas continuas de cultura del agua entre la población, primordialmente para promover el uso racional del agua, evitar su contaminación y colaborar en el cuidado y preservación de los servicios públicos;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XXIII. Transmitir el uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XXIV. Aprobar los términos, condiciones y contraprestaciones correspondientes a la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable; y
+
+XXV. Las demás atribuciones que les otorguen ésta u otras disposiciones legales.
 
 ###### Artículo 19.
 
@@ -957,9 +975,17 @@ XIII. Remitir a la Comisión, para efectos de su notificación y cobranza, en lo
 
 XIV. Coadyuvar con la Comisión, previo convenio, en el ejercicio de funciones operativas relacionadas con otros usos del agua;
 
-XV. Realizar todas las acciones que se requieran directa o indirectamente, para el cumplimiento de sus objetivos; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XVI. Las demás que le asigne la presente ley, su decreto de creación, la legislación y los reglamentos aplicables.
+XV. Realizar todas las acciones que se requieran directa o indirectamente, para el cumplimiento de sus objetivos;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Transmitir el uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable; y
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Las demás que le asigne la presente Ley, su decreto de creación, la legislación y los reglamentos aplicables.
 
 2. Los organismos operadores descentralizados podrán contratar los empréstitos o los créditos ordinarios o extraordinarios que requieran, respondiendo de sus adeudos con su propio patrimonio y con los ingresos que perciban, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente ley y la Ley de Deuda Pública Estatal y Municipal.
 
@@ -1103,7 +1129,15 @@ XVII. Verificar la generación de información para actualizar el Sistema Estata
 
 XVIII. Nombrar y remover al Gerente General del Organismo;
 
-XIX. Las demás que le asignen la presente ley, su decreto de creación, la legislación y los reglamentos aplicables.
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XIX. Autorizar la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XX. Aprobar los términos, condiciones y contraprestaciones correspondientes a la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable; y
+
+XXI. Las demás que le asignen la presente ley, su decreto de creación, la legislación y los reglamentos aplicables.
 
 ###### Artículo 33.
 
@@ -2247,7 +2281,7 @@ d. Por la reconexión de servicios cancelados;
 
 e. Por la realización de trabajos especializados;
 
-f. Por la elaboración de proyectos; y (sic)
+f. Por la elaboración de proyectos; y
 
 g. Por el mantenimiento correctivo a la infraestructura hidráulica o sanitaria cuando el daño haya sido imputable al usuario;
 
@@ -2413,7 +2447,7 @@ IV. Flujo esperado de aguas residuales que se viertan al sistema de alcantarilla
 
 ###### Artículo 158.
 
-1. Solamente los usuarios industriales o comerciales que tengan plantas de tratamiento de aguas residuales debidamente certificadas por el prestador de los servicios y las autoridades competentes, podrán solicitar el suministro de agua residual cuando las normas y políticas aplicables permita (sic) la utilización del agua residual en sus procesos productivos.
+1. Solamente los usuarios industriales o comerciales que tengan plantas de tratamiento de aguas residuales debidamente certificadas por el prestador de los servicios y las autoridades competentes, podrán solicitar el suministro de agua residual cuando las normas y políticas aplicables permita la utilización del agua residual en sus procesos productivos.
 
 2. Cuando no exista la infraestructura adecuada para suministrar el agua residual a un predio, el prestador de los servicios públicos suscribirá un convenio con el usuario solicitante a fin de instalar la infraestructura necesaria para la prestación del servicio.
 
@@ -2431,11 +2465,17 @@ Los usuarios mencionados en el artículo anterior no podrán enajenar o comercia
 
 ### CAPITULO II. DEL TRATAMIENTO DE LAS AGUAS RESIDUALES Y EL REUSO DE LAS AGUAS RESIDUALES TRATADAS
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 161.
 
-1. El prestador de los servicios públicos mantendrá el derecho de uso de las aguas residuales tratadas hasta que estas no sean depositadas en los cuerpos receptores propiedad de la nación o el Estado.
+1. A efecto de promover el reúso de las aguas residuales de naturaleza estatal, los prestadores de los servicios públicos podrán transmitir a terceros el uso de las aguas residuales tratadas o no tratadas antes de que las mismas lleguen al punto de descarga que corresponda conforme a los títulos de concesión o asignación del prestador de los servicios, o en los permisos de descarga correspondientes, siempre y cuando se cumpla con las normas oficiales mexicanas y las condiciones particulares de descarga. Para llevar a cabo la transmisión del uso de aguas residuales no será necesaria concesión o seguir las formalidades contenidas en el artículo 48 o 61 de esta Ley.
 
-2. En el Estado es obligatorio el uso de las aguas residuales tratadas en los usos que de acuerdo a la calidad del agua sean permitidos por las leyes, reglamentos y demás normas aplicables.
+2. Tratándose del reúso de las aguas residuales de naturaleza nacional, los prestadores de los servicios públicos podrán transmitir el derecho de uso de las aguas residuales tratadas o no tratadas antes de que las mismas lleguen al punto de descarga que corresponda, conforme a lo que se establezca en la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable.
+
+3. Los prestadores del servicio, conforme a lo dispuesto por esta Ley y demás legislación aplicable, establecerán las condiciones especiales de cada solicitud de reúso de las aguas residuales, las cuales serán consideradas en el convenio respectivo que al efecto se celebre con el solicitante. En el convenio se especificarán, además, las cuotas y tarifas por el uso en los términos mencionados en este artículo y las condiciones específicas de descarga de las aguas residuales reusadas.
+
+4. En el Estado es obligatorio el uso de las aguas residuales tratadas en los usos que de acuerdo a la calidad del agua sean permitidos por las leyes, reglamentos y demás normas aplicables.
 
 ###### Artículo 162.
 
@@ -2447,7 +2487,9 @@ II. Los propietarios de predios utilizados como áreas verdes donde, de acuerdo 
 
 III. Los propietarios o poseedores de predios que se dediquen al cultivo de productos agrícolas que, de acuerdo a las normas aplicables, puedan ser regados con agua residual tratada.
 
-2. Ningún usuario mencionado en el párrafo anterior podrá enajenar o comercializar en forma alguna el agua residual tratada que reciba del prestador de los servicios públicos, salvo por el otorgamiento de la concesión correspondiente en los términos de esta ley y sus reglamentos.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+2. Los usuarios de los servicios públicos de reúso que adquieran de los municipios u organismos operadores aguas residuales con o sin tratamiento previo, estarán facultados para hacer uso de dichas aguas sin la necesidad de obtener concesión u observar las formalidades contenidas en el artículo 48 o 61 de esta Ley.
 
 ###### Artículo 163.
 
@@ -3016,3 +3058,15 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-990, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2 FRACCIONES XLVII A LA LXXV, 18 FRACCIÓN XXII, 25 PÁRRAFO 1, FRACCIÓN XV, 161 Y 162 PÁRRAFO 2; Y SE ADICIONAN LAS FRACCIONES LXXVI Y LXXVII DEL ARTÍCULO 2, XXIII Y XXIV, RECORRIÉNDOSE LA ACTUAL XXIII PARA SER XXV DEL ARTÍCULO 18, XVI RECORRIÉNDOSE LA ACTUAL PARA SER XVII DEL PÁRRAFO 1 DEL ARTÍCULO 25, Y FRACCIONES XIX Y XX, RECORRIÉNDOSE LA ACTUAL XIX PARA SER XXI DEL ARTÍCULO 32 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
