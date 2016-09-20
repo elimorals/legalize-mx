@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2016-05-12"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -2811,7 +2811,9 @@ El registro estatal expedirá, a quienes las soliciten, copias certificadas de l
 
 Procederá aplicar como medida de seguridad el retiro de la circulación de un vehículo, mismo que será puesto bajo resguardo de los depósitos autorizados, ya sean públicos o concesionados para esos fines, en los siguientes casos:
 
-I. Circule sin placas, o que éstas se encuentren alteradas, por cualquier medio, incluyendo los que obstruyan su vista total o parcialmente, dobladas, o sin el permiso o autorización según sea su caso; de igual forma, tratándose de trasporte público, deberán coincidir los elementos de identificación de las concesiones, permisos y autorizaciones, con los que presente el vehículo en cuestión;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+I. Circule sin las dos placas a la vista y en el lugar dispuesto por el fabricante del vehículo, o que alguna de éstas se encuentren alteradas o doblada, u ocultas total o parcialmente por cualquier medio, incluyendo aditamentos de cualquier material, micas o etiquetas o calcomanías que obstruyan o distorsionen su vista total o parcialmente, o se encuentren en la vía pública sin el permiso o autorización según sea su caso; de igual forma, tratándose de transporte público, deberán coincidir los elementos de identificación de las concesiones, permisos y autorizaciones, con los que presente el vehículo en cuestión;
 
 II. El vehículo porte placas sobrepuestas;
 
@@ -2903,21 +2905,25 @@ Los elementos de la policía vial no están autorizadas (sic) para recoger al op
 
 ### Capítulo II. De las sanciones administrativas en materia de movilidad y transporte
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 174.
 
-Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente, se harán constar por medio de cédula de notificación de infracción por la Secretaría de Movilidad, por conducto de la policía vial, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
+Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente y se harán constar por medio de cédula de notificación de infracción por conducto de la policía vial estatal o de tránsito municipal, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
 
 El monto de las sanciones se determina en días de salario mínimo general, vigente en la zona económica en donde se cometan las infracciones, de la siguiente manera:
 
-Las infracciones dispuestas en los artículos 175, 176, 177, 178, 179, y 180 se aplicara una sanción de 1 a 5 días de salarios mínimos.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-Las infracciones dispuestas en los artículos 182, 183, 184, 185, 190, 191 y 192 se aplicaran una sanción de 10 a 30 días de salarios mínimos.
+Las infracciones dispuestas en los artículos 175, 176, 177 excepto la fracción VIII, 178, 179 y 180 se aplicará una sanción de 1 a 5 veces el valor de la Unidad de Medida y Actualización.
 
-Las infracciones dispuestas en los artículos 181, 186 y 187 se aplicaran una sanción de 150 a 200 días de salarios mínimos.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Las infracciones dispuestas en los artículos 182 excepto su fracción II, 183, 184, 185, 190, 191 y 192 se aplicará una sanción de 10 a 30 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Las infracciones dispuestas en los artículos 177, fracción VIII, 181, 182, fracción II, 186 y 187 se aplicará una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización.
 
 En el caso donde proceda sanción pecuniaria, arresto administrativo inconmutable o trabajo comunitario, o aplique suspensión o cancelación de licencia o gafete, se observara lo dispuesto en la presente ley.
 
@@ -3688,3 +3694,11 @@ QUINTO. La identificación de los vehículos destinados a la prestación del ser
 En tanto culmine el proceso de adquisición e implementación de los mismos, se dispone un periodo de transición en el cuál el vehículo destinado a la prestación del servicio de transporte bajo demanda mediante aplicaciones móviles, deberá portar en sustitución temporal de aquél y de forma visible un comprobante del registro realizado ante la Secretaría en el que se muestre un código '"QR" con el número de folio, que permita su verificación con la base de datos del Registro que obre en esa dependencia.
 
 Una vez que la Secretaría de Movilidad cuente con los elementos técnicos necesarios para la instalación de los dispositivos de identificación vehicular mediante radiofrecuencia, deberá notificar a los titulares de las autorizaciones el plazo y lugar para la instalación de los mismos por parte de dicha dependencia; la cual será notificada mediante publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25862/LXI/16 QUE REFORMA LOS ARTÍCULOS 169, FRACCIÓN I Y 174 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Envíese copia del presente decreto a los 125 honorables ayuntamientos de los municipios del estado de Jalisco, para su conocimiento y observancia, a efecto que modifiquen los ordenamiento (sic) que sean contrarios a las disposiciones contenidas en este mismo.
