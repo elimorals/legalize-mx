@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-sistema-para-el-desarrollo-integral-856
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-13"
-last_updated: "2012-01-13"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 20 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE SEPTIEMBRE DE 2016 (DEROGADO).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 13 de enero de 2012.
 
@@ -435,7 +437,7 @@ XI. Actuar en representación del Sistema con facultades generales para actos de
 
 XII. Rendir anualmente en la fecha y con las formalidades que la Junta de Gobierno por conducto de su Presidente señale, el Informe General de Actividades del Sistema: así como las cuentas de su administración;
 
-XIII. Aprobar por mandato de la Junta de Gobierno, los manuales de organización, de procedimientos y reglamentos específicos del Sistema; así como el Manual de Trámites y Servicios al Público; y (sic)
+XIII. Aprobar por mandato de la Junta de Gobierno, los manuales de organización, de procedimientos y reglamentos específicos del Sistema; así como el Manual de Trámites y Servicios al Público; y
 
 XIV. Otorgar con autorización de la Junta de Gobierno acuerdos delegatorios de funciones y responsabilidades a favor de determinados funcionarios del Sistema dadas las labores y funciones que desempeñen. Dichos acuerdos deberán de publicarse en la Gaceta Oficial del Estado;
 
@@ -591,7 +593,7 @@ XII. Fomentar la participación del personal del SEDIF en actos académicos, ya 
 
 XIII. Promover el trabajo conjunto de capacitación y profesionalización con el Sistema Nacional DIF, con objeto de contribuir a la permanente actualización y superación profesional de sus miembros;
 
-XIV. Informar al Director General, permanentemente, respecto a su funcionamiento y al desahogo de los asuntos de su competencia, y (sic)
+XIV. Informar al Director General, permanentemente, respecto a su funcionamiento y al desahogo de los asuntos de su competencia, y
 
 XV. El Centro de Capacitación y Desarrollo Humano será el ente responsable de todas las Capacitaciones al interior del Sistema, por lo cual las áreas que necesiten capacitación deberán de solicitarla y coordinarse con dicho centro; y
 
@@ -1063,7 +1065,7 @@ IV. Difundir a todo el personal las políticas de trabajo establecidas por el Si
 
 V. Proponer a la Dirección General las medidas de mejoramiento operativo y/o administrativo, para el eficaz cumplimiento de las funciones encomendadas;
 
-VI. Vigilar la adecuada aplicación de los recursos humanos, materiales y financieros del área bajo su responsabilidad; y (sic)
+VI. Vigilar la adecuada aplicación de los recursos humanos, materiales y financieros del área bajo su responsabilidad; y
 
 VII. Catalogar, clasificar, conservar, ordenar y organizar los documentos y archivos que generen y se encuentren en su resguardo con la finalidad de permitir y facilitar en todo momento su disponibilidad, exceptuando la información reservada o de acceso restringido, así como publicar y mantener actualizada la información pública contenida en el Artículo 8 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave.
 
@@ -1118,3 +1120,21 @@ Para los efectos legales procedentes se expide la presente en la ciudad de Xalap
 Licenciado Pedro Manuel Solís García
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. Para los asuntos no previstos en la Ley o en el presente Reglamento, se sujetarán a lo que al efecto establezca la Dirección General y la Junta de Gobierno.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+TERCERO. Se deroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia publicado en (sic) Gaceta Oficial del estado de Veracruz número extraordinario 16 de 13 de enero de 2012 y se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO. Túrnese a la Contraloría General del Estado de Veracruz para efectos del registro del presente ordenamiento de acuerdo a lo establecido en el artículo 34 fracción XIV de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz.
+
+QUINTO. Se establece un término de 180 días, para actualizar y publicar los manuales administrativos de las áreas que integran el Sistema para el Desarrollo Integral de la Familia del Estado de Veracruz.
+
+SEXTO. Que en la Segunda Sesión Ordinaria del ejercicio 2016 de la Junta de Gobierno, celebrada el 10 de agosto, fue presentado y aprobado el presente ordenamiento mediante Acuerdo JG-009/2/16-O.
