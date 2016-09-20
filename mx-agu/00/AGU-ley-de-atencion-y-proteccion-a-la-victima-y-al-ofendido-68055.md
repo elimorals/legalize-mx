@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-atencion-y-proteccion-a-la-victima-y-al-ofendido-68055"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-20"
-last_updated: "2015-08-03"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA Y AL OFENDIDO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 20 de abril de 2009.
 
@@ -87,7 +87,9 @@ Los mecanismos, medidas y procedimientos establecidos en esta Ley, serán diseñ
 
 Las definiciones establecidas en el Artículo 6° de la Ley General y demás conceptos y principios previstos en ésta, serán aplicables en lo conducente a la presente Ley, además de los siguientes:
 
-I. Asesoría Jurídica: Asesoría Jurídica de Atención a Víctimas u Ofendidos del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+l. Asesoría Jurídica: El organismo desconcentrado denominado Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, dependiente a la Secretaría General de Gobierno;
 
 II. Asesor Jurídico: Asesor Jurídico Estatal de Atención a Víctimas u Ofendidos;
 
@@ -105,9 +107,17 @@ VIII. Fiscalía: Fiscalía General del Estado;
 
 IX. Fondo: El Fondo de Atención a Víctimas u Ofendidos del Delito;
 
-X. Ley: Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Ley General: Ley General de Víctimas.
+X. Ley: Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Ley General: Ley General de Víctimas; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Secretaría: La Secretaría General de Gobierno.
 
 ###### Artículo 4°.
 
@@ -133,17 +143,17 @@ La calidad de Víctima o de Ofendido, es independiente de que se identifique, ap
 
 Las víctimas o los ofendidos por la comisión de un hecho punible tipificado como delito en el Código Penal, así como las víctimas de violaciones de derechos humanos, tendrán los derechos que en ese carácter les otorga la Ley General, así como acceso a las diversas medidas de ayuda inmediata, alojamiento y alimentación, transporte, asesoría jurídica y demás previstas en la propia Ley General.
 
-### CAPITULO III. Del Órgano Encargado de la Atención y Protección a la Víctima u Ofendido
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO III. De los Órganos Encargados de la Atención y Protección Integral a la Víctima u Ofendido
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 7°.
 
-La atención y protección a que se refiere esta Ley, estará a cargo de la Fiscalía, la cual será responsable de su aplicación, quien constituirá el Sistema de Atención a Víctimas u Ofendidos de Aguascalientes, el cual podrá participar en el Sistema Estatal para la Erradicación de la Violencia de Género contra las Mujeres, para el caso de los hechos punibles tipificados como delitos donde las víctimas sean mujeres.
+La atención y protección a que se refiere esta Ley, estará a cargo de la Fiscalía y de la Secretaría, quienes serán responsables de su aplicación; constituirán el Sistema de Atención a Víctimas u Ofendidos de Aguascalientes, el cual podrá participar en el Sistema Estatal para la Erradicación de la Violencia de Género contra las Mujeres, para el caso de los hechos punibles tipificados como delitos donde las víctimas sean mujeres.
 
-La Fiscalía, para la administración y operación de los programas de atención y protección a las víctimas u ofendidos dispondrá de los recursos presupuestales asignados que para tal fin prevé el Presupuesto de Egresos del Estado.
+La Fiscalía y la Secretaría, para la administración y operación de los programas de atención y protección a las víctimas u ofendidos que les correspondan, y en el ámbito de sus facultades, dispondrán de los recursos presupuestales asignados que para tal fin prevé el Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente.
 
 ###### Artículo 8°.
 
@@ -175,7 +185,9 @@ II. Proponer al Fiscal la incorporación a través de los medios legales, de ins
 
 III. Recibir, atender, tramitar y resolver las solicitudes sobre medidas de atención y protección a víctimas u ofendidos, gestionando ante las dependencias e instituciones públicas estatales o municipales los apoyos necesarios, y en casos urgentes atendiéndolos de manera directa o por contratación de particulares siempre y cuando se cumpla con lo previsto por el Artículo 8° de la presente Ley;
 
-IV. Elaborar y ejecutar programas especiales para brindar protección y auxilio a las víctimas u ofendidos en las áreas de psicología, jurídica, social y de salud;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Elaborar y ejecutar programas especiales para brindar protección y auxilio a las víctimas u ofendidos en las áreas de psicología, social y de salud;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -191,13 +203,13 @@ VIII. Realizar el trámite necesario ante la autoridad ministerial o jurisdiccio
 
 IX. Solicitar a cualquier autoridad dentro del territorio del Estado la información que requiera para una mejor atención a la Víctima u Ofendido;
 
-X. Elaborar y publicar semestralmente, el padrón de particulares en las áreas psicológica, jurídica, social y de salud, que para efectos de atención inmediata a la Víctima u Ofendido sean contratados;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X. Elaborar y publicar semestralmente, el padrón de particulares en las áreas psicológica, social y de salud, que para efectos de atención inmediata a la Víctima u Ofendido sean contratados;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Proporcionar la atención psicológica, jurídica y los servicios victimológicos que requiera la Víctima;
+XI. Proporcionar la atención psicológica y los servicios victimológicos que requiera la Víctima;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -235,9 +247,11 @@ c) Cualquier otro beneficio que proceda, en términos de la Ley General y de la 
 
 XVI. Las demás que le confieren esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-La Dirección contará con el personal especializado en las áreas psicológica, jurídica y social, que resulten necesarios para el cumplimiento de las atribuciones que le confiere la presente Ley.
+La Dirección contará con el personal especializado en las áreas psicológica y social, que resulte necesario para el cumplimiento de las atribuciones que le confiere la presente Ley.
 
 ###### Artículo 13.
 
@@ -255,9 +269,11 @@ V. La Víctima u Ofendido deje de acudir sin causa justificada, por más de seis
 
 VI. Por sentencia absolutoria que haya causado ejecutoria en la que no se demuestre que existe Daño Material y/o Moral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Las dependencias e instituciones públicas estatales y municipales que presten servicios de salud, jurídicos y sociales deberán auxiliar a la Dirección cuando ésta se los requiera.
+Las dependencias e instituciones públicas estatales y municipales que presten servicios de salud, psicológicos y sociales deberán auxiliar a la Dirección cuando ésta se los requiera.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -321,17 +337,17 @@ Toda atención psicológica y jurídica que sea proporcionada, deberá considera
 
 ### CAPITULO V. Del Procedimiento para el Otorgamiento de Beneficios a las Víctimas u Ofendidos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-Los agentes del Ministerio Público, así como los de la policía, al inicio de la investigación o en cualquier etapa del procedimiento penal, darán a conocer a la Víctima u Ofendido, los derechos y beneficios establecidos por la presente Ley, a quienes informarán el derecho que tienen para solicitarlos, debiendo dejar constancia en la carpeta de investigación y remitir dicha actuación a la Asesoría Jurídica y a la Dirección para su conocimiento y efectos correspondientes.
+Los agentes del Ministerio Público, así como los de la policía, al inicio de la investigación o en cualquier etapa del procedimiento penal, darán a conocer a la Víctima u Ofendido, los derechos y beneficios establecidos por la presente Ley, a quienes informarán el derecho que tienen para solicitarlos, debiendo dejar constancia en la carpeta de investigación y remitir dicha actuación a la Secretaría y a la Dirección para su conocimiento y efectos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
 
-La Dirección al ser notificada por el Agente del Ministerio Público de la existencia de una Víctima del hecho punible tipificado como delito, ofrecerá a la misma los servicios victimológicos, para garantizar los derechos de las víctimas, proporcionando sin dilación alguna, si así lo permite la Víctima, la asistencia jurídica y psicoemocional que proceda.
+La Dirección al ser notificada por el Agente del Ministerio Público de la existencia de una Víctima del hecho punible tipificado como delito, ofrecerá a la misma los servicios victimológicos, para garantizar los derechos de las víctimas, proporcionando sin dilación alguna, si así lo permite la Víctima, la asistencia psicoemocional que proceda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -349,25 +365,23 @@ Si con motivo de la comisión del hecho punible tipificado como delito la Vícti
 
 La Dirección, una vez reunida la información documental y demás datos señalados en el último párrafo del Artículo anterior, procederá a asentar si la Víctima u Ofendido cuenta con asesor jurídico particular, en cuyo caso se estará a lo dispuesto en el Artículo 13 de esta Ley, y si los servicios médicos serán a costa de la seguridad social o de la aseguradora que tuviese la Víctima. Cesarán los servicios victimológicos por lo que hace a la atención médica cuando la seguridad social o los servicios de la aseguradora de la Víctima cubran íntegramente la atención médica que requiera, lo cual deberá notificarse personalmente a la Víctima u Ofendido.
 
-Se podrá continuar con la atención legal y psicoterapéutica en dicha Dirección, a cargo de los psicoterapeutas especializados, con que cuente, para la víctima u ofendido, observándose en su caso los lineamientos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Se podrá continuar con la atención psicoterapéutica en dicha Dirección, a cargo de los psicoterapeutas especializados, con que cuente, para la víctima u ofendido, observándose en su caso los lineamientos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes; en lo que respecta al servicio de asesoría jurídica, se deberá canalizar a la víctima u ofendido a la Secretaría para recibir dicha asesoría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 21.
 
-Cuando se otorgue protección a la Víctima u Ofendido, la Fiscalía se subrogará los derechos a la reparación de los daños por el costo total de la protección otorgada en contra del obligado, o en su caso, de la compañía afianzadora o aseguradora. La Fiscalía deberá de realizar los trámites correspondientes para la recuperación de los recursos erogados con cargo al Fondo, ante la autoridad ministerial o jurisdiccional; la Fiscalía para estos efectos representará al Estado en términos de lo previsto por el Código Nacional.
+Cuando se otorgue protección a la Víctima u Ofendido, la Fiscalía se subrogará los derechos a la reparación de los daños por el costo total de la protección otorgada en contra del obligado, o en su caso, de la compañía afianzadora o aseguradora; debiendo realizar los trámites necesarios ante la autoridad correspondiente para la recuperación de los recursos erogados con cargo al Fondo; la Fiscalía representará al Estado en términos de lo previsto por el Código Nacional
 
 En todos los casos, el Fondo solidariamente con la Víctima, sufragará el costo de su atención.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 22.
 
-El Fiscal emitirá las reglas mínimas del trámite que habrá de seguir la Dirección para efectos de otorgar la atención y protección a la Víctima u Ofendido, sujetándose a las bases generales que establece la presente Ley.
+El Fiscal emitirá las reglas mínimas del trámite que habrá de seguir la Dirección para que, en el ámbito de sus atribuciones, otorgue la atención y protección a la Víctima u Ofendido, sujetándose a las bases generales que establecen la presente Ley y la Ley General.
 
 ###### Artículo 23.
 
@@ -637,23 +651,21 @@ Tratándose de becas para víctimas u ofendidos, se estará a lo dispuesto en el
 
 ### CAPÍTULO X. Asesoría Jurídica de Atención a Víctimas u Ofendidos del Estado de Aguascalientes
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 43.
 
-Se crea la Asesoría Jurídica que gozará de independencia técnica y operativa, la cual estará adscrita a la Fiscalía en términos del Artículo 165, párrafo tercero de la Ley General.
+Se crea la Asesoría Jurídica, la cual estará adscrita a la Secretaría, en términos del artículo 165, párrafo tercero de la Ley General.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 44.
 
 La Asesoría Jurídica estará integrada por Asesores Jurídicos de atención a víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas u ofendidos y podrá solicitar para sus funciones el auxilio de cualquier autoridad Estatal o Municipal.
 
-Contará con una Junta Directiva, un Director General y las unidades administrativas que requiera para el desempeño de sus funciones; en los términos que señalen las disposiciones reglamentarias aplicables. El Director General será designado en términos de las disposiciones reglamentarias aplicables y deberá cumplir los requisitos que éstas establezcan.
+Contará con un Consejo, un Director General y las unidades administrativas que requiera para el desempeño de sus funciones; en los términos que señalen las disposiciones reglamentarias aplicables. El Director General será designado en términos de las disposiciones reglamentarias aplicables y deberá cumplir los requisitos que éstas establezcan.
+
+Los integrantes del Consejo tendrán el carácter de honorífico.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -671,7 +683,9 @@ III. Generar y administrar el padrón de profesionistas facultados para represen
 
 IV. Designar por cada Agencia del Ministerio Público, órgano jurisdiccional en materia penal y en la CEDHA, cuando menos a un Asesor Jurídico y al personal de auxilio necesario;
 
-V. Celebrar a través de la Fiscalía, convenios de coordinación con todos aquellos que pueden coadyuvar en la defensa de los derechos de las víctimas u ofendidos; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+V. Celebrar, a través de la Secretaría, convenios de coordinación con todos aquéllos que pueden coadyuvar en la defensa de los derechos de las víctimas u ofendidos; y
 
 VI. Las demás que se requiera para la defensa de los derechos de las víctimas u ofendidos.
 
@@ -747,33 +761,25 @@ III. No haber sido condenado por delito doloso con sanción privativa de liberta
 
 El Asesor Jurídico será asignado inmediatamente por la Asesoría Jurídica, sin más requisitos que la solicitud formulada por la Víctima u Ofendido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 50.
 
-El Director General de la Asesoría Jurídica, los Asesores Jurídicos y el personal técnico de la Asesoría Jurídica serán considerados servidores públicos de confianza.
+El Director General de la Asesoría Jurídica, los asesores jurídicos y el personal técnico de la misma, serán considerados servidores públicos de confianza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
-La Junta Directiva de la Asesoría Jurídica estará integrada por el Fiscal quien la presidirá, el Director General de la Asesoría Jurídica, quien fungirá como secretario técnico, así como por tres profesionales del Derecho de reconocido prestigio, nombrados por la propia Dirección General de la Asesoría Jurídica, a propuesta del Fiscal.
+La integración del Consejo de la Asesoría Jurídica será de conformidad con la normatividad reglamentaria aplicable.
 
-Los miembros de la Junta Directiva de la Asesoría Jurídica que no sean servidores públicos, realizarán sus funciones de manera personal e indelegable y durarán en su cargo dos años y podrán ser reelectos por otros dos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 52.
 
-La Junta Directiva de la Asesoría Jurídica podrá sesionar con un mínimo de tres miembros y tomará sus decisiones por mayoría de votos de los presentes. En caso de empate el Fiscal tendrá voto de calidad.
+El Consejo de la Asesoría Jurídica sesionará de conformidad con la normatividad reglamentaria aplicable.
 
-Las sesiones ordinarias se verificarán cuando menos cada dos meses, sin perjuicio de que puedan convocarse por el Fiscal o el Director General o mediante solicitud que a éste formulen por lo menos tres miembros de la Junta Directiva de la Asesoría Jurídica, cuando se estime que hay razones de importancia para ello.
+Las sesiones ordinarias se verificarán cuando menos cada seis meses, las extraordinarias las veces que fuere necesario de conformidad con el Reglamento que expida el Poder Ejecutivo del Estado.
 
 TRANSITORIOS:
 
@@ -918,3 +924,15 @@ Para el efecto de cumplir con lo dispuesto en el presente Decreto las autoridade
 ###### ARTÍCULO TERCERO.
 
 La constitución del Fondo a que hace referencia el Artículo 28 del presente Decreto, se hará de conformidad con la disponibilidad presupuestaria que autorice el Congreso del Estado en los posteriores Ejercicios Fiscales.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 369 POR EL QUE “SE REFORMA EL ARTÍCULO 3°, EN SUS FRACCIONES I, X, XI Y SE LE ADICIONA UNA FRACCIÓN XII; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III PARA QUEDAR COMO "DE LOS ÓRGANOS ENCARGADOS DE LA ATENCIÓN Y PROTECCIÓN INTEGRAL A LA VÍCTIMA U OFENDIDO"; SE REFORMAN LOS ARTÍCULOS 7°; 11 EN SUS FRACCIONES IV, X Y XI; 12; 14, PÁRRAFO PRIMERO; 18; 19, PÁRRAFO PRIMERO; 20, PÁRRAFO SEGUNDO; 21, PÁRRAFO PRIMERO; 22; 43; 44; 45, EN SU FRACCIÓN V; 50; 51 Y 52 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA Y AL OFENDIDO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el efecto de cumplir con lo dispuesto en el presente Decreto las autoridades administrativas competentes tendrán un término de 180 días contados a partir de su publicación en el Periódico Oficial del Estado, para realizar las adecuaciones administrativas y reglamentarias necesarias a fin de garantizar la operatividad de lo dispuesto en la presente reforma.
