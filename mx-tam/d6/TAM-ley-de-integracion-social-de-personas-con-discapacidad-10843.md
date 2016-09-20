@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2015-12-17"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -335,9 +335,9 @@ III.- Impulsar y consolidar programas y acciones que garanticen la integración 
 
 IV.- Establecer vínculos de coordinación con los Ayuntamientos y los organismos públicos municipales, en torno a las acciones que apoyen a las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-V.- Alentar y fortalecer los proyectos y programas que promuevan los sectores social y privado a favor de la integración de las personas con discapacidad;
+V.- Firmar en el primer mes de cada ejercicio fiscal un convenio con el sector privado, en que establezcan los puestos de trabajo disponibles para las personas con discapacidad, el perfil del personal que califique para esos puestos y los estímulos fiscales que se otorgarán a los empleadores;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
@@ -353,13 +353,17 @@ VIII.- Promover la adopción de compromisos para la prevención y atención de l
 
 IX.- Celebrar foros e impulsar el desarrollo de la investigación de la asistencia social para las personas con discapacidad, a fin de que la prestación de estos servicios se realice adecuadamente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-X.- Determinar un programa de becas orientado al fomento de actividades educativas, culturales, deportivas, artísticas, tecnológicas que faciliten la integración social de las personas con discapacidad; y
+X.- Determinar un programa de becas orientado al fomento de actividades educativas, culturales, deportivas, artísticas, tecnológicas que faciliten la integración social de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Difundir y publicar los resultados de la información generada por el Registro Nacional de Información de Población con Discapacidad; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XI.- Las demás que le señale esta Ley y otras disposiciones legales.
+XII.- Las demás que le señale esta Ley y otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -807,11 +811,9 @@ En los lugares que por la naturaleza de su construcción sea imposible realizar 
 
 En las intersecciones o cruces de aceras o calles que se encuentren construidas a diferentes niveles, las superficies de ambas deberán llevarse al mismo nivel mediante el uso de rampas, con la finalidad de hacer factible el tránsito a personas con discapacidad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO XVI
-
-DEL DERECHO A LA ACCESIBILIDAD Y DE LAS BARRERAS ARQUITECTÓNICAS EN LA VÍA PÚBLICA.
+### CAPITULO XVI. DEL DERECHO A LA ACCESIBILIDAD, DE LAS BARRERAS ARQUITECTÓNICAS EN LA VÍA PÚBLICA Y LA LIBERTAD DE EXPRESIÓN, OPINIÓN Y ACCESO A LA INFORMACIÓN
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -821,7 +823,7 @@ Las personas con discapacidad tienen derecho a la Accesibilidad universal.
 
 Las dependencias y entidades de la administración pública, estatal y municipal, vigilarán el cumplimiento de las disposiciones que en materia de Accesibilidad, y desarrollo urbano se establezcan a favor de las personas con discapacidad en la normatividad aplicable vigente.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ARTICULO 56 BIS.- Para que las personas con discapacidad puedan vivir en forma independiente y participar plenamente en todos los aspectos de la vida, las autoridades estatales y municipales deberán garantizar la Accesibilidad, en igualdad de condiciones con las demás, en todo el territorio del Estado.
 
@@ -829,9 +831,9 @@ Para tal efecto, de manera progresiva y de acuerdo a su disponibilidad de presup
 
 I.- Identificar y eliminar obstáculos y barreras de acceso en edificios públicos y aquellos que presten servicios públicos, las vías públicas, el transporte, otras instalaciones exteriores e interiores como escuelas, instalaciones médicas y lugares de trabajo, así como también en los servicios de información, comunicaciones y de otro tipo, incluidos los servicios electrónicos y de emergencia;
 
-II.- Dotar a los edificios públicos de señalización en formatos susceptibles de ser comprendidos por las personas con discapacidad, para facilitar su acceso a dichos edificios; y
+II.- Dotar a los edificios públicos de sistemas, tecnologías, información, ayudas técnicas y señalización en formatos susceptibles de ser comprendidos por las personas con discapacidad, para facilitar su acceso a dichos edificios; y
 
-III.- Contar entre su personal, con un intérprete del Lenguaje de Señas Mexicana, para el mismo fin que la fracción anterior.
+III.- Contar entre su personal y tecnologías, con un intérprete del Lenguaje de Señas Mexicana y sistema braille, para el mismo fin que la fracción anterior.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -856,6 +858,22 @@ Para tal efecto las autoridades municipales en coordinación con los Sistemas DI
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 56 SEXIES.- Las aceras de la vía pública deberán construirse con materiales resistentes y antiderrapantes; asimismo, las que hagan esquina deberán permitir que las personas con discapacidad puedan descender o ascender en forma independiente y segura; las juntas deberán encontrarse selladas y libres de arena o piedras sueltas. Las pendientes preferentemente no deberán ser mayores del seis por ciento.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 56 SEPTIES.- Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y facilitar información mediante cualquier forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población.
+
+Para tales efectos, las autoridades competentes establecerán entre otras, las siguientes medidas:
+
+I.- Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, en formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad;
+
+II.- Promover la utilización de la Lengua de Señas Mexicana, el Sistema Braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido Internet;
+
+III.- Las instituciones a cargo de servicios y programas sociales en materia de discapacidad proporcionarán la información y la asesoría requerida para favorecer su desarrollo e integración social; y
+
+IV.- Los medios de comunicación y las instituciones del sector privado que prestan servicios y suministran información al público en general, la proporcionarán en formatos accesibles y de fácil comprensión a las personas con discapacidad.
+
+Para lograr un mejor servicio de acuerdo a las fracciones anteriores, todas las oficinas, dependencias, instituciones públicas o privadas donde se brinden servicios de atención al público, destinarán un área especial y ofrecerán un trato preferente en la atención de personas con discapacidad. En el caso de la primera, se ubicará estratégicamente para el fácil acceso y con los señalamientos necesarios para su rápida localización.
 
 ###### ARTICULO 57.
 
@@ -1148,6 +1166,14 @@ P.O. 17 DE DICIEMBRE DE 2014.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-997 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 11 PÁRRAFO PRIMERO FRACCIONES V Y X, EL CAPÍTULO XVI DENOMINÁNDOSE “DEL DERECHO A LA ACCESIBILIDAD, DE LAS BARRERAS ARQUITECTÓNICAS EN LA VÍA PÚBLICA Y LA LIBERTAD DE EXPRESIÓN, OPINIÓN Y ACCESO A LA INFORMACIÓN” Y EL ARTÍCULO 56 BIS; Y SE ADICIONAN LA FRACCIÓN XI RECORRIÉNDOSE LA ACTUAL PARA SER XII DEL ARTÍCULO 11 Y EL ARTÍCULO 56 SEPTIES, DE LA LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD”.]
 
 ###### ARTÍCULO ÚNICO.
 
