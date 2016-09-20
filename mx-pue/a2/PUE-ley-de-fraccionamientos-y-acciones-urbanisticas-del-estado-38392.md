@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fraccionamientos-y-acciones-urbanisticas-del-estado-3839
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2004-02-25"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE FRACCIONAMIENTOS Y ACCIONES URBANISTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-LEY DE FRACCIONAMIENTOS Y ACCIONES URBANISTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Puebla, el miércoles 25 de febrero de 2004.
 
@@ -221,6 +221,10 @@ XXIX. División.- La partición de un predio hasta en diez fracciones, que no re
 
 XXX. Equipamiento urbano.- El conjunto de inmuebles, instalaciones y construcciones utilizadas para prestar a la población los servicios urbanos, y desarrollar actividades económicas, culturales, educativas, de esparcimiento, deportivas y asistenciales, entre otras;
 
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XXX Bis. Energías limpias. Aquéllas, cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por la humanidad, que se regeneran naturalmente, entre las que se encuentran el viento, la radiación solar, el movimiento del agua en cauces, el calor de los yacimientos geotérmicos, y los bioenergéticos.
+
 XXXI. Estado.- El Estado Libre y Soberano de Puebla;
 
 XXXII. Estructura urbana.- Conjunto de componentes que actúan interrelacionados, suelo, vialidad, transporte, vivienda, equipamiento, infraestructura, imagen urbana y medio ambiente, que constituyen la ciudad;
@@ -297,6 +301,14 @@ LXVII. Vía rápida.- Carretera troncal dividida, para tráfico continuo en la c
 
 LXVIII. Zonificación.- La determinación de áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Por accesibilidad se entenderá lo dispuesto en la Ley para las Personas con Discapacidad del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+El equipamiento, mobiliario, así como la infraestructura urbana contarán con elementos de accesibilidad para las personas con discapacidad.
+
 ###### ARTÍCULO 4.
 
 Quedan sujetas a las disposiciones de esta Ley, las personas físicas o jurídicas, que pretendan fraccionar, dividir, subdividir, segregar, fusionar, lotificar o relotificar inmuebles, así como realizar modificaciones, para los fines que señala este ordenamiento, independientemente del régimen de propiedad a que estén sujetos.
@@ -351,9 +363,17 @@ IV.- Administrar y regular el registro de Directores Responsables y Corresponsab
 
 V.- Expedir cuando sea procedente, la constancia de compatibilidad urbanística;
 
-VI.- Informar a los Municipios de la relación actualizada de personas físicas y jurídicas que se encuentre (sic) inscritas en el listado de Responsables y Corresponsables de Obra, para los términos de la presente Ley; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-VII.- Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
+VI.- Informar a los Municipios de la relación actualizada de personas físicas y jurídicas que se encuentre inscritas en el listado de Responsables y Corresponsables de Obra, para los términos de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Fomentar la instalación y uso de mecanismos de captación para el aprovechamiento de energías limpias en áreas privativas como en públicas, en beneficio de los propietarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+VIII.- Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -367,7 +387,9 @@ I.- Regular el control y vigilancia, así como otorgar las autorizaciones corres
 
 II.- Recibir, analizar y dictaminar los expedientes relativos a la autorización de fraccionamientos, desarrollos en régimen de propiedad y condominio, división, subdivisión, segregación, fusión, lotificación, relotificación y modificación de terrenos, previo los dictámenes que al efecto emitan las autoridades y órganos auxiliares competentes y verificando que se reúnan los requisitos establecidos en esta Ley, sus reglamentos y demás disposiciones jurídicas aplicables;
 
-III.- Verificar que los fraccionamientos, desarrollos en régimen de propiedad y condominio, divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, relotificaciones y modificaciones de terrenos, cumplan con lo dispuesto en las leyes, planes, programas, reglamentos, normas de desarrollo urbano, protección civil y al ambiente natural aplicables;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Verificar que los fraccionamientos, desarrollos en régimen de propiedad y condominio, divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, relotificaciones y modificaciones de terrenos, cumplan con lo dispuesto en las Leyes, planes, programas, reglamentos, normas de desarrollo urbano, protección civil, protección al ambiente natural y desarrollo sustentable;
 
 IV.- Constatar que se hayan realizado las donaciones respectivas para los efectos de la fracción VI del presente artículo;
 
@@ -376,6 +398,10 @@ V.- Aprobar y dictaminar de conformidad con el programa de desarrollo urbano, la
 VI.- Destinar hasta el 50% de la superficie de terreno que reciba en donación gratuita para equipamiento urbano, recreación y/o deporte y el resto para área verde, de conformidad con los planes y programas de desarrollo urbano vigente;
 
 VII.- Verificar el avance, terminación y correcto funcionamiento de las obras de urbanización de los fraccionamientos y desarrollos en régimen de propiedad y condominio;
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Se tendrá que observar la utilización de mecanismos de captación para el aprovechamiento de energías limpias, así como elementos de accesibilidad para las personas con discapacidad;
 
 VIII.- Expedir la constancia de terminación de obra, en términos de la presente Ley;
 
@@ -389,7 +415,9 @@ XII.- Cuidar el buen aspecto de los predios que pertenezcan al Municipio, cumpli
 
 XIII.- Otorgar el permiso para la preventa de lotes en los fraccionamientos, en los términos previstos en esta Ley;
 
-XIV.- Verificar que los servicios públicos de agua potable, drenaje, saneamiento, pavimentos y alumbrado público en los fraccionamientos, divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, relotificaciones y desarrollos en régimen de propiedad y condominio, una vez realizada la entrega recepción de los mismos, sean prestados a los habitantes de manera eficiente;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XIV.- Verificar que los servicios públicos de agua potable, drenaje, saneamiento, pavimentos y alumbrado público en los fraccionamientos, divisiones, subdivisiones, segregaciones, fusiones, lotificaciones, relotificaciones y desarrollos en régimen de propiedad y condominio, una vez realizada la entrega recepción de los mismos, sean prestados a los habitantes de manera eficiente y sustentable; considerando para el servicio de alumbrado público la instalación de mecanismos de captación para el aprovechamiento de energías limpias.
 
 XV.- Celebrar convenios de colaboración con otros Ayuntamientos del Estado y de otras Entidades colindantes, para que de manera coordinada se desempeñen las funciones relacionadas con las atribuciones que les competen en materia de fraccionamientos, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica Municipal y demás disposiciones jurídicas aplicables;
 
@@ -607,7 +635,13 @@ V.- Red para la captación de aguas pluviales, que incluya pozos de absorción e
 
 VI.- Red de distribución de energía eléctrica, de alumbrado público y servicio doméstico, según se trate, de conformidad con las normas técnicas de la Comisión Federal de Electricidad;
 
-VII.- Guarniciones, pavimento en banquetas y calles, previendo espacios para paraderos en vías rápidas y primarias;
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+En su caso, la instalación de mecanismos de captación para el aprovechamiento de energías limpias;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Guarniciones, pavimento en banquetas y calles, previendo espacios para paraderos en vías rápidas y primarias, y contando con elementos de accesibilidad para personas con discapacidad;
 
 VIII.- Nomenclatura visible y uniforme en calles y numeración de lotes;
 
@@ -617,7 +651,9 @@ X.- Las demás obras de infraestructura primaria previstas, que afecten al fracc
 
 XI.- Caseta de vigilancia, en caso de que se requiera, previo dictamen del Ayuntamiento; y
 
-XII.- Mobiliario urbano en las áreas verdes y/o espacios libres del fraccionamiento.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+XII.- Mobiliario urbano en las áreas verdes y/o espacios libres del fraccionamiento, así como mobiliario y obras de accesibilidad para personas con discapacidad.
 
 Donde se incluyan zonas comerciales, el Municipio considerará las disposiciones reglamentarias, aplicables a la zona comercial, incluyéndolas en el proyecto y autorización respectiva.
 
@@ -708,6 +744,10 @@ V.- Andadores. Servirán exclusivamente para el tránsito de peatones, y por med
 VI.- Banquetas. Cuyos anchos mínimos garanticen la seguridad y el libre tránsito de los transeúntes.
 
 El Reglamento de la Ley establecerá los requisitos que garanticen el buen funcionamiento y uso adecuado de los andadores y banquetas.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Las características de las obras señaladas en las fracciones V y VI de este artículo, contarán con elementos de accesibilidad para personas con discapacidad.
 
 ###### ARTÍCULO 35.
 
@@ -1584,3 +1624,13 @@ NOVENO.- Las autoridades municipales en el ámbito de su competencia, podrán im
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los trece días del mes de noviembre de dos mil tres.- Diputado Presidente.- HUMBERTO VÁZQUEZ ARROYO.- Rúbrica.- Diputada Vicepresidenta.- MARÍA LEONOR A. POPÓCATL GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- DANIEL ANTELIZ MAGAÑA.- Rúbrica.- Diputado Secretario.- ELISEO PÉREZ SÁNCHEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de noviembre de dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
