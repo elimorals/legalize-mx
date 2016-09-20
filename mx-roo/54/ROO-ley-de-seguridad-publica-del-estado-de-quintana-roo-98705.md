@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-98705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2016-06-29"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -921,11 +921,11 @@ Las Corporaciones de Servicio Municipal, únicamente podrán ser creadas o supri
 
 ### CAPÍTULO SEXTO. DEL SERVICIO PÚBLICO DE ESCOLTA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 47.
 
-Es de interés público proteger la integridad física de los servidores públicos del Poder Ejecutivo, Legislativo y Judicial por la naturaleza propia de su encomienda, esto en razón de que generen o hayan generado acciones de investigación, persecución y legislación de delitos, administración e impartición de justicia y mantenimiento del orden y la paz pública, así como administración de recursos públicos y personal, durante el ejercicio del encargo, para tal efecto se constituye el servicio público de escolta.
+Es de interés público garantizar la seguridad para preservar la vida y la integridad física de los servidores públicos del Poder Ejecutivo y Judicial del Estado que acrediten encontrarse en situación de riesgo por virtud del desempeño y naturaleza propia de su empleo, cargo o comisión, y que con ello, generen o hayan generado acciones de investigación, persecución de delitos, administración e impartición de justicia y mantenimiento del orden y la paz pública durante el ejercicio del encargo, para tal efecto se constituye el servicio público de escolta.
 
 El servicio público de escolta será una unidad administrativa de la Secretaría de Seguridad Pública.
 
@@ -933,11 +933,11 @@ El servicio público de escolta será una unidad administrativa de la Secretarí
 
 El servicio público de escolta tiene como finalidad proveer la protección que se indica en el artículo que antecede; la organización y funcionamiento del mismo se preverá en el reglamento respectivo que al efecto se expida, atendiendo las disposiciones que se contemplan en la presente ley.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 49.
 
-En el presupuesto del Poder Ejecutivo se contemplarán los recursos pertinentes para proveer el servicio público de escolta de todo lo necesario para desempeñar correctamente la función asignada. Por cuestiones de seguridad, será considerada información reservada o confidencial toda la relacionada a los escoltas asignados a ex funcionarios así como los recursos materiales que les sean asignados.
+En el presupuesto del Poder Ejecutivo se contemplarán los recursos pertinentes para proveer al servicio público de escolta de todo lo necesario para desempeñar correctamente la función asignada.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
 
@@ -949,45 +949,45 @@ El Comité de Autorización de Escoltas para Servidores Públicos que se encuent
 
 El Comité de Autorización de Escoltas para Ex Servidores Públicos se integra con el Secretario de Gobierno, Secretario de Finanzas y Planeación y el Oficial Mayor del gobierno del Estado, presidiendo el primero. Concurren solamente con voz al Comité referido, el Secretario de Seguridad Pública y el Fiscal General.
 
-En todos los casos, el Comité determinará el número de escoltas y recursos materiales que sean asignados a cada ex funcionario de los referidos en el artículo 47.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+En todos los casos, la petición de los interesados para solicitar la protección por medio del servicio público de escolta se deberá dirigir al Comité correspondiente y para otorgarse, se requerirá al menos el voto mayoritario de los integrantes del respectivo Comité.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
-El Gobernador del Estado tendrá derecho a continuar con la protección de manera automática; así como para su cónyuge e hijos, una vez que haya concluido el encargo por un tiempo irrevocable de 15 años.
+El Gobernador del Estado tendrá derecho a continuar con la protección, de manera automática; así como, para su cónyuge e hijos, una vez que haya concluido el encargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 52.
 
-Tendrá derecho a continuar con la protección, cualquier otro ex servidor público del Poder Ejecutivo, Legislativo y Judicial que en razón de los servicios prestados en materia de seguridad pública, procuración e impartición de justicia, legislación sobre delitos o en las Secretarías de Gobierno, Finanzas y Planeación y de la Gestión Pública, que por sus funciones estrechamente vinculadas a los servicios citados anteriormente dentro de la administración pública y los Poderes Legislativo y Judicial del Estado y que tenga la necesidad de ser protegido.
+Tendrá derecho a continuar con la protección, cualquier otro ex servidor público del Poder Ejecutivo y Judicial que, en razón de los servicios prestados en materia de seguridad pública, procuración e impartición de justicia o en la Secretaría de Gobierno que por sus funciones estrechamente vinculadas a los servicios citados anteriormente, dentro de la administración pública del Estado y que tenga la necesidad de ser protegido, previa solicitud que formule al Comité de Autorización respectivo, a más tardar en los quince días naturales posteriores a la conclusión del encargo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+La respuesta y en su caso, el otorgamiento de la protección, deberá producirse dentro de las 48 horas siguientes a la recepción de la solicitud de mérito.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 53.
 
-Los ex servidores públicos para gozar del servicio público de escolta requieren haber desempeñado el cargo durante dos años como mínimo. La protección se otorgará hasta por 8 años.
+Los ex servidores públicos para gozar del servicio público de escolta requieren haber desempeñado el cargo durante dos años como mínimo. La protección se otorgará por un tiempo igual al que se estuvo en funciones, prorrogable por un término igual, en tanto que el interesado acredite ante el comité correspondiente que subsista la necesidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 54.
 
-El número de personal, equipo, vehículos y demás instrumentos para la protección de los ex servidores públicos, no será menor de los que éstos contaban mientras desempeñaron el encargo.
+El número de personal, equipo, vehículos y demás instrumentos para la protección de los ex servidores públicos, no será mayor de la mitad de los que éstos contaban mientras desempeñaron el encargo.
 
-Los miembros de las escoltas y recursos materiales que les sean asignados, únicamente podrán destinarse a funciones de protección, seguridad, custodia y vigilancia de las personas a la (sic) que se le haya asignado en términos del presente capitulo.
+Los miembros de las escoltas y recursos materiales que les sean asignados, únicamente podrán destinarse a funciones de protección, seguridad, custodia y vigilancia de las personas a la (sic) que se le haya asignado en términos del presente capítulo.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+El servicio de escolta se revocará cuando los servidores públicos a que se refiere el presente capítulo:
 
-El Servicio de escolta se revocará cuando concluya el tiempo por el que fueron asignados.
+a) Lo soliciten por escrito al Comité correspondiente;
 
-a) (DEROGADO, P.O. 29 DE JUNIO DE 2016)
+b) Desempeñen otro cargo en materia de seguridad, procuración, administración e impartición de justicia o que por sus funciones tengan derecho a escolta, y
 
-b) (DEROGADO, P.O. 29 DE JUNIO DE 2016)
-
-c) (DEROGADO, P.O. 29 DE JUNIO DE 2016)
+c) Cuando incurran en la comisión de un delito considerado como grave por la Legislación Penal Federal o Estatal.
 
 ### CAPÍTULO SÉPTIMO. DE LA RELACIÓN JURÍDICA ENTRE LAS INSTITUCIONES POLICIALES Y SUS INTEGRANTES
 
@@ -1875,7 +1875,7 @@ B. De Permanencia:
 
 I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
 
-II. Mantener actualizado su Certificado Único Policial, y (sic)
+II. Mantener actualizado su Certificado Único Policial, y
 
 III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
 
@@ -3872,3 +3872,11 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 003 POR EL QUE SE REFORMAN LOS ARTÍCULOS 47 PÁRRAFO PRIMERO, 49, 50 PÁRRAFO CUARTO, 51, 52, 53 Y 54, TODOS DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
