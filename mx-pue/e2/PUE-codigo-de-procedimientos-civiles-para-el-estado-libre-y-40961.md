@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2016-08-02"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -4991,7 +4991,13 @@ II.- Que se acredite la necesidad de recibirlos.
 
 La necesidad siempre se presume en tratándose de menores e incapaces, salvo prueba en contrario.
 
-III.- Que se justifique la posibilidad económica del demandado.
+III.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 688 Bis.
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez de lo Familiar resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
 
 ###### Artículo 689.
 
@@ -6546,3 +6552,11 @@ P.O. 2 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DE LA LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
