@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interno-de-la-comision-de-defensa-de-los-57660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-27"
-last_updated: "2007-11-27"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
 
-REGLAMENTO INTERNO DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 20 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 27 de noviembre de 2007.
 
@@ -529,7 +531,7 @@ V. Atender todos los casos de agravios a periodistas, de representantes y defens
 
 VI. Elaborar los informes y certificar las constancias que obren en los expedientes de queja a su cargo, que deban remitirse a la Comisión Nacional de los Derechos Humanos por la interposición de los recursos previstos en la Ley y el Reglamento de ese Organismo;
 
-VII. Mantener una estrecha comunicación y coordinación con la Visitaduría General y la Secretaría Técnica, en el desempeño de sus funciones, y (sic)
+VII. Mantener una estrecha comunicación y coordinación con la Visitaduría General y la Secretaría Técnica, en el desempeño de sus funciones, y
 
 VIII. Participar como vocal con derecho a voz y voto en el Comité de Adquisiciones;
 
@@ -1476,3 +1478,25 @@ LIC. ÁNGEL MIGUEL SEBASTIÁN RÍOS.
 SECRETARIO TÉCNICO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento Interno de la Comisión de los Derechos Humanos del Estado de Guerrero, que fue aprobado por el H. Consejo Técnico, en sesión extraordinaria de fecha diez de abril del dos mil siete.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los expedientes que se encuentren en trámite al momento de iniciar la vigencia del presente Reglamento, continuarán hasta su conclusión bajo las reglas establecidas en el que se abroga, salvo que este, establezca un mejor derecho a favor de la Persona quejosa.
+
+###### ARTÍCULO CUARTO.
+
+La estructura orgánica de la CDHEG a que se refiere el presente Reglamento, se irá cumplimentando conforme lo permita la disponibilidad presupuestal.
