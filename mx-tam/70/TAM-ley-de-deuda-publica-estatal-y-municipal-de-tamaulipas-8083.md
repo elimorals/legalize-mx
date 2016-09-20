@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2010-04-27"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
+LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -61,9 +61,11 @@ V.- Los Fideicomisos en que el fideicomitente sea alguna de las entidades públi
 
 En lo sucesivo las entidades mencionadas en las fracciones anteriores, que son sujetos de esta ley, genéricamente podrán ser mencionadas como Las Entidades Públicas.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de esta ley, se entiende por financiamiento crediticio la contratación de créditos celebrados por Las Entidades Públicas, siempre que no contravengan lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
+Para los efectos de esta Ley, se entiende por financiamiento crediticio la contratación de créditos celebrados por las Entidades Públicas, siempre que no contravengan lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado así como la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### ARTICULO 4.
 
@@ -91,7 +93,7 @@ Se entiende por Deuda Pública Municipal, la que se deriva de las diferentes mod
 
 Para los efectos de esta Ley, es deuda directa del Estado la que contrate el Gobierno Estatal y deuda contingente son aquellas operaciones que realicen las entidades públicas a las que les hubiere concedido su aval. Es deuda directa de los Municipios, la que contraten por sí mismos y su deuda contingente serán las operaciones en las que hubieran otorgado su aval.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 7.
 
@@ -113,13 +115,13 @@ Son órganos en materia de deuda pública dentro de sus respectivas competencias
 
 Al Congreso del Estado le corresponde:
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-I.- Solicitar los informes necesarios para analizar y aprobar, en su caso, las solicitudes de financiamiento estatal y municipal, en los que se incluirán los de sus organismos descentralizados, empresas de participación mayoritaria estatal o municipal y de sus fideicomisos. Asimismo, podrá otorgar la autorización para la contratación de financiamientos aún y cuando no medie solicitud de parte de las Entidades Públicas, cuando existan circunstancias que así lo requieran o se cuente con recursos suficientes para el pago de sus obligaciones.
+I.- Solicitar los informes necesarios para analizar y aprobar, en su caso, las solicitudes de financiamiento estatal y municipal, en los que se incluirán los de sus organismos descentralizados, empresas de participación mayoritaria estatal o municipal y de sus fideicomisos. Asimismo, podrá otorgar la autorización para la contratación de financiamientos previa solicitud de parte de las Entidades Públicas, cuando existan circunstancias que así lo requieran o se cuente con recursos suficientes para el pago de sus obligaciones.
 
 II.- Aprobar los montos de endeudamiento neto anual a que se refieren las Leyes de Ingresos del Estado y Municipios. El Presupuesto de Egresos del Estado debe incluir las cantidades necesarias para atender el servicio de la deuda previamente contraída.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 III.- Autorizar en los términos de las fracciones anteriores la afectación como fuente o garantía de pago, o ambas, tanto de las participaciones o las aportaciones federales que correspondan al Estado o sus municipios, como las estatales en el caso de los Municipios, así como los bienes muebles e inmuebles y los derechos de cobro propiedad de las entidades públicas, así como los mecanismos necesarios para instrumentar el servicio de la deuda a través de las afectaciones señaladas, mismas que se realizarán de conformidad a la legislación aplicable.
 
@@ -143,7 +145,7 @@ I.- Presentar al Congreso del Estado la iniciativa de Ley de Ingresos en la que 
 
 II.- Informar trimestralmente al Congreso del Estado de la situación de la Deuda Pública del Estado, a más tardar cuarenta y cinco días posteriores al trimestre y ordenar la publicación de los informes en el Periódico Oficial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 12.
 
@@ -185,19 +187,21 @@ XII.- Inscribir en el Registro Estatal de Deuda Pública, las obligaciones finan
 
 XIII.- Solicitar y obtener créditos directos a corto plazo cuyos montos no se considerarán de Deuda Pública y se contraten bajo las condiciones siguientes:
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-a).- Que el saldo total acumulado de estos créditos no exceda del 5% del Presupuesto de Egresos del ejercicio fiscal anual en que se soliciten.
+a).- En todo momento, el saldo insoluto total del monto principal de estos créditos a corto plazo no exceda del 6% de los ingresos totales aprobados en la Ley de Ingresos del Estado, sin incluir Financiamiento Neto, durante el ejercicio fiscal correspondiente;
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-b).- Que el plazo de pago no exceda de un año.
+b).- Que el plazo de pago no exceda de un año, asimismo, deberán quedar totalmente pagados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, no pudiendo contratar nuevas obligaciones a corto plazo durante esos últimos tres meses;
 
-c).- Que no requiera de garantías específicas.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2010)</small>
+c).- Las (sic) créditos a corto plazo deberán ser quirografarios; y
 
-d).- Que su pago se realice dentro del término del plazo pactado. Tratándose del último año del periodo constitucional del Ejecutivo, los pagos se realizarán a más tardar en el mes de diciembre. Se exceptúa de lo anterior los financiamientos que se contraten para la ejecución o para otorgarse en garantía de los proyectos de desarrollo e inversión en infraestructura cuya realización requiera de previsiones presupuestales multianuales, conforme a los términos previstos en el artículo 70 de la Constitución Política del Estado, en cuyo caso, el plazo de pago podrá pactarse hasta el término de la realización del proyecto, siempre y cuando no exceda el plazo de un año, contado a partir de la obtención del financiamiento.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+d).- Se deberán inscribir en el Registro Público Único de la Secretaría de Hacienda y Crédito Público del Gobierno Federal.
 
 XIV.- Concertar, formalizar y aplicar créditos cuando estén contenidos en el programa de financiamiento estatal, salvo las excepciones previstas por esta ley.
 
@@ -237,7 +241,7 @@ II.- Secretario de Desarrollo Social, Cultura y Deporte.
 
 III.- Titular de la Contraloría Gubernamental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 15.
 
@@ -279,11 +283,25 @@ X.- Conocer el planteamiento y desahogo de comunicaciones con las autoridades fe
 
 Las Entidades Públicas, sólo podrán obtener créditos con las limitantes de endeudamiento neto autorizadas por la Legislatura Estatal, con excepción de lo dispuesto en los Artículos 10 y 12 fracción XIII de esta Ley y que cuenten además, con la resolución favorable del Comité Técnico de Financiamiento.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+La autorización de los financiamientos y obligaciones por parte del Congreso del Estado deberá especificar por lo menos lo siguiente:
+
+I.- Monto autorizado de la Deuda Pública u Obligación a incurrir;
+
+II.- Plazo máximo autorizado para el pago;
+
+III.- Destino de los recursos;
+
+IV.- En su caso, la fuente de pago o la contratación de una garantía de pago de la Deuda Pública u Obligación; y
+
+V.- En caso de autorizaciones específicas, establecer la vigencia de la autorización, en cuyo caso no podrá exceder del ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 18.
 
-Los créditos que contraten las entidades públicas, así como las garantías que el Estado otorgue, deberán estar inscritos en el Registro Estatal de Deuda Pública y, en su caso, ante la instancia competente de la Secretaría de Hacienda y Crédito Público, cuando así se requiera en términos de la legislación aplicable.
+Los créditos que contraten las entidades públicas, así como las garantías que el Estado otorgue, deberán estar inscritos en el Registro Estatal de Deuda Pública y, en su caso, ante el Registro Público Único de la Secretaría de Hacienda y Crédito Pública del Gobierno Federal.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
 
@@ -291,17 +309,41 @@ Los créditos que contraten las entidades públicas, así como las garantías qu
 
 Para contraer deuda pública, el Estado y los Municipios, en cumplimiento de. lo previsto por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, deberán sujetarse a lo siguiente:
 
-I.- Unicamente podrán contraerla cuando ésta se destine a inversiones públicas productivas;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+I.- Únicamente podrán contraerla cuando ésta se destine a inversiones públicas productivas y a refinanciamiento o reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas obligaciones y financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+
+Cuando las obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la inversión pública productiva realizada;
 
 II.- Solo podrán emitir bonos y otros títulos de deuda pagaderos en moneda nacional y dentro del territorio de la República, y
 
 III.- Citarán, tanto en el acta de emisión como en los títulos, los fundamentos de la autorización y la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales. Los documentos no tendrán validez si no se consignan dichos datos.
 
-Para efectos de esta ley, deben entenderse por inversiones públicas productivas, todas aquéllas destinadas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos, siempre que en forma directa o indirecta produzcan incremento en los ingresos del Estado, de los Municipios o de sus respectivos organismos descentralizados, empresas públicas o fideicomisos.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+Para efectos de esta Ley, deben entenderse por inversiones públicas productivas, todas aquéllas destinadas a la construcción, mejoramiento, rehabilitación y/o reposición de bienes del dominio público, la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, la adquisición de bienes para la prestación de un servicio público específico, siempre que en forma directa o indirecta produzcan incremento en los ingresos del Estado, de los Municipios o de sus respectivos organismos descentralizados, empresas públicas o fideicomisos.
 
-Cuando el Estado celebre operaciones de sustitución o canje de deuda con base en lo previsto por la fracción VII del artículo 58 de la Constitución Política del Estado, se dará cuenta al Congreso sobre las mejores condiciones financieras que se hubieren contratado y el destino del ahorro para inversiones públicas productivas al remitirse el informe a que se refiere el artículo 11, fracción II, de esta ley.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de dicha autorización, se deberá realizar previamente, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica del Congreso del Estado, siempre y cuando cumplan con las siguientes condiciones:
+
+a).- Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto por el artículo 26, fracción IV de esta Ley, o tratándose de Reestructuraciones exista una mejora en las condiciones contractuales;
+
+b).- No se incremente el saldo insoluto; y
+
+c).- No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, el plazo de duración del pago del principal e intereses del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Una vez celebrados se deberá de inscribir dicho Refinanciamiento o Reestructuración ante el Registro Público Único de la Secretaría de Hacienda y Crédito Público del Gobierno Federal.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+Cuando el Estado celebre operaciones de sustitución o canje de deuda con base en lo previsto en la fracción VII del artículo 58 de la Constitución Política del Estado, se dará cuenta al Congreso del Estado sobre las mejores condiciones financieras que se hubieren contratado y el destino del ahorro para inversiones públicas productivas al remitirse el informe a que se refiere el artículo 11, fracción II, de esta Ley.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO
 
@@ -367,6 +409,30 @@ La inscripción de las obligaciones a cargo de los Municipios confiere a los acr
 
 En tratándose de la garantía y en caso de incumplimiento, el acreditante deberá presentar su solicitud de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente a la entidad pública deudora; la Secretaría confirmará la mora existente y, en su caso, efectuará el pago respectivo con cargo a las participaciones e inclusive, a las aportaciones afectadas, informándolo al Municipio correspondiente.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTICULO 29.
+
+El Secretario de Finanzas, Tesorero Municipal o su equivalente de cada Ente Público, según corresponda a su ámbito de competencia, será el responsable de confirmar que el Financiamiento fue celebrado en las mejores condiciones del mercado.
+
+En el caso de que la Entidad Federativa o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente, o el Municipio o cualquiera de sus Entes Públicos soliciten Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, deberán cumplir con lo siguiente:
+
+I.- Implementar un proceso competitivo con por lo menos cinco diferentes instituciones financieras, del cual obtenga mínimo dos ofertas irrevocables de Financiamiento. La temporalidad de dichas propuestas no deberán (sic) diferir en más de 30 días naturales y deberán tener una vigencia mínima de 60 días naturales;
+
+II.- La solicitud del Financiamiento que se realice a cada institución financiera deberá precisar y ser igual en cuanto a: monto, plazo, perfil de amortizaciones, condiciones de disposición, oportunidad de entrega de los recursos y, en su caso, la especificación del recurso a otorgar como fuente de pago del Financiamiento o Garantía a contratar, de acuerdo con la aprobación del Congreso del Estado. En ningún caso la solicitud podrá exceder de los términos y condiciones autorizados por el Congreso del Estado;
+
+III.- Las ofertas irrevocables que presenten las instituciones financieras deberán precisar todos los términos y condiciones financieras aplicables al Financiamiento, así como la fuente o garantía de pago que se solicite. El Ente Público estará obligado a presentar la respuesta de las instituciones financieras que decidieron no presentar oferta;
+
+IV.- Contratar la oferta que represente las mejores condiciones de mercado para el Ente Público, es decir, el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al Financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, bajo los Lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
+
+V.- Si una sola oferta no cubre el monto a contratar, se considerarán en orden preferente las propuestas que representen las mejores condiciones de mercado para el Ente Público, según los criterios establecidos en la fracción anterior, hasta cubrir el monto requerido.
+
+En caso de fraccionar la contratación del monto de Financiamiento autorizado por parte del Congreso del Estado, se deberá considerar en todo momento el monto total autorizado por parte del Congreso del Estado para los supuestos señalados en el párrafo anterior.
+
+Para acreditar la contratación bajo las mejores condiciones de mercado de los Financiamientos distintos a los señalados en el segundo párrafo del presente artículo, el Ente Público deberá implementar un proceso competitivo con por lo menos dos instituciones financieras y obtener Únicamente una oferta irrevocable, de acuerdo a lo establecido en la fracción I de este artículo.
+
+El Ente Público, en cualquier caso, deberá elaborar un documento que incluya el análisis comparativo de las propuestas, conforme a lo establecido en la fracción IV de este artículo. Dicho documento deberá publicarse en la página oficial de Internet del propio Ente Público, o en su caso, del Gobierno del Estado o Municipio, según se trate.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -387,7 +453,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en la Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes de Diciembre de mil novecientos noventa y cinco.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE DICIEMBRE DE 1996
 
@@ -440,3 +506,15 @@ P.O. 27 DE ABRIL DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXII-986 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3,9 FRACCIÓN I, 12 FRACCIÓN XIII INCISOS A), B), C) Y D); 18 PÁRRAFO PRIMERO Y 19 FRACCIÓN I Y LOS PÁRRAFOS SEGUNDO Y TERCERO; Y SE ADICIONAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17, LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO DEL ARTÍCULO 19 Y EL ARTÍCULO 29, DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo Estatal en un plazo no mayor de 90 días a partir de la entrada en vigor del presente Decreto, emitirá el Reglamento a la Ley de Deuda Pública Estatal y Municipal de Tamaulipas, donde se establecerán las bases para la operación y contratación de Obligaciones y Financiamientos para el Estado y los Municipios, que entre otras cosas deberá incluir los mecanismos de información para el Registro Único de Deuda Pública, así como el proceso de contratación de obligaciones financieras.
