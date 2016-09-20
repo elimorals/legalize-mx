@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2016-07-14"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -881,9 +881,9 @@ El Congreso, en ambos periodos de sesiones, se ocupará del estudio, discusión 
 
 En el desahogo de las atribuciones deliberativas, legislativas y de revisión de los resultados de la gestión pública, el Congreso alentará criterios de planeación para su ejercicio.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-En su oportunidad revisará y calificará la Cuenta Pública del Gobierno del Estado de Tamaulipas y la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado, que le deberán ser remitidas, declarando si las cantidades percibidas y las gastadas se adecuan a las partidas respectivas del presupuesto de egresos, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir alguna responsabilidad. Los poderes del Estado, los Ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales y municipales, y todo ente que reciba recursos públicos, deberán administrar y ejercer dichos recursos con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
+En su oportunidad revisará y calificará la Cuenta Pública del Gobierno del Estado de Tamaulipas y la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado, que le deberán ser remitidas, declarando si las cantidades percibidas y las gastadas se adecuan a las partidas respectivas del presupuesto de egresos, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir alguna responsabilidad. Los poderes del Estado, los Ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales y municipales, y todo ente que reciba recursos públicos, deberán administrar y ejercer dichos recursos, bajo los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
 
 En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá revisarse la recaudación y analizarse si fueron percibidos los recursos del caso en cumplimiento de las disposiciones legales aplicables.
 
@@ -993,7 +993,7 @@ V. Nombrar y remover a sus servidores públicos en los términos que señale la 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2015)</small>
 
-VI.- Revisar la Cuenta Pública del Gobierno del Estado de Tamaulipas así como la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado. La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos en su caso y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
+VI. Revisar la Cuenta Pública del Gobierno del Estado de Tamaulipas así como la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado. La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos en su caso y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -1003,9 +1003,17 @@ Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría
 
 Las cuentas públicas del ejercicio fiscal correspondiente deberán ser presentadas al Congreso, a más tardar, el 30 de abril del año siguiente. Únicamente se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno de Estado de Tamaulipas, cuando medie solicitud del Gobernador suficientemente justificada a juicio del Congreso, previa comparecencia del titular de la dependencia competente, pero la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior de (sic) Estado contará con el mismo tiempo adicional para la presentación del informe de resultados de la revisión de la cuenta pública. El Congreso deberá concluir la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados que emita la Auditoría Superior del Estado, sin demérito de que el trámite de observaciones, recomendaciones o acciones promovidas por la propia Auditoría, seguirá su curso en términos de lo dispuesto por esta Constitución y la ley;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-VII. Fijar las bases para que el Ejecutivo Estatal lleve a cabo la contratación de empréstitos sobre el crédito del Estado, mediante la expedición de la ley correspondiente, con base en las previsiones de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos. En dicha ley se establecerán los elementos para la celebración de contratos en materia de crédito público y su renovación; la afectación en garantía de las participaciones que en ingresos federales le correspondan al Estado, o de los ingresos estatales; la realización de operaciones de sustitución o canje de deuda, incluyéndose la información sobre las condiciones financieras mayormente favorables que se hubieren contratado y el destino del ahorro para inversiones públicas productivas; y, en su caso, el reconocimiento de deuda pública contraída por el Estado, así como las condiciones en que se realizará su pago;
+VII. Fijar las bases para que el Ejecutivo Estatal, Municipios, organismos descentralizados, empresas públicas y fideicomisos, lleven a cabo la contratación de empréstitos sobre el crédito del Estado, con base en las previsiones de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, estableciendo los elementos para la celebración de contratos en materia de crédito público y su renovación; la afectación en garantía de las participaciones que en ingresos federales le correspondan al Estado, o de los ingresos estatales; la realización de operaciones de sustitución o canje de deuda, incluyéndose la información sobre las condiciones financieras mayormente favorables que se hubieren contratado y el destino del ahorro para inversiones públicas productivas; y, en su caso, el reconocimiento de deuda pública contraída por el Estado, así como las condiciones en que se realizará su pago; y se informará de su ejercicio al rendir la cuenta pública.
+
+En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+La legislatura, por el voto de las dos terceras partes de sus miembros presentes, deberán autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Estado y Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del período de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
@@ -1155,7 +1163,7 @@ LIX (sic). Convocar a elecciones en caso de muerte del Gobernador, o cuando por 
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-L.- Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia, y los Consejeros de la Judicatura nombrando en su caso a quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
+L. Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia, y los Consejeros de la Judicatura nombrando en su caso a quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1177,7 +1185,7 @@ LV. Legislar en materia de planeación sobre la formulación, instrumentación, 
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
 
-LVI.- Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar el nombramiento de quien tenga a su cargo esa función en el Gobierno del Estado en términos de ley, y recibir la protesta del titular;
+LVI. Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar el nombramiento de quien tenga a su cargo esa función en el Gobierno del Estado en términos de ley, y recibir la protesta del titular;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -1441,11 +1449,11 @@ Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y l
 
 #### Sección Cuarta. De la Fiscalización Superior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Art. 76.
 
-La función de fiscalización corresponde a la Auditoría Superior del Estado, la cual será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+El Congreso del Estado contará con una entidad de fiscalización denominada Auditoría Superior del Estado, la cual será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad. Asimismo, deberá fiscalizar las acciones del Estado y Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría que emita la Auditoría Superior del Estado tendrán carácter público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -2111,9 +2119,7 @@ IV.- No haber ocupado por lo menos durante el año previo al día de la designac
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 112.
 
@@ -2145,7 +2151,9 @@ II.- De la acción de inconstitucionalidad local, para impugnar normas generales
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 114.
 
@@ -2945,17 +2953,21 @@ V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar
 
 VI. El Congreso del Estado expedirá la ley para hacer efectivo el contenido del presente artículo; asimismo, realizará las adecuaciones que correspondan para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Art. 161.
 
-Los recursos económicos de que dispongan el Estado y los municipios se administrarán con eficiencia, eficacia, economía, transparencia, imparcialidad y honradez para satisfacer los objetivos a los que estén destinados.
+Los recursos económicos de que dispongan el Estado y los Municipios se administrarán bajo los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
 Los resultados del ejercicio de dichos recursos serán evaluados por la instancia técnica que establezca la ley, con objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos con base en los principios previstos en el párrafo anterior, sin menos cabo de lo dispuesto por el segundo párrafo de la fracción VI del artículo 58 y en el artículo 76 de esta Constitución.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
@@ -2963,11 +2975,19 @@ Cuando las licitaciones a que hace referencia el párrafo anterior no sean idón
 
 El manejo de los recursos económicos estatales por parte de los municipios se sujetará a las bases de este artículo y a lo que dispongan las leyes. La evaluación sobre el ejercicio de dichos recursos se realizará por la instancia técnica a que se refiere el párrafo segundo de este artículo.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título XI de esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente del Estado o los municipios, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
@@ -4476,3 +4496,15 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-985 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 45 PÁRRAFO TERCERO, 58 FRACCIÓN VII, 76 PÁRRAFO PRIMERO Y 161 PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+EI Poder Legislativo del Estado, deberá realizar las adecuaciones necesarias a la legislación secundaria para armonizarla con las disposiciones del presente Decreto, en un plazo que no exceda el 27 de octubre del 2016.
