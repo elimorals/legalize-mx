@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2016-02-08"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -586,6 +586,26 @@ LIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los traba
 LIV. Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
 
 LV. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 29 BIS.- Se crea el organismo desconcentrado denominado Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, dependiente a la Secretaría General de Gobierno, cuya integración se hará de acuerdo a las disposiciones reglamentarias, teniendo las siguientes facultades:
+
+I. Organizar, dirigir, evaluar y controlar los servicios de asesoría jurídica a las victimas u ofendidos de hechos delictivos y violación a sus derechos humanos;
+
+II. Garantizar los derechos de las víctimas u ofendidos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local, los Tratados Internacionales de los que México sea parte y la demás normatividad aplicable, a fin de permitir el acceso a la justicia y a la reparación integral;
+
+III. Seleccionar y capacitar a los servidores públicos encargados de brindar el servicio de asesoría jurídica;
+
+IV. Remitir a la Secretaría de Fiscalización y Rendición de Cuentas las quejas que las víctimas presenten en contra del personal encargado de brindar el servicio de asesoría jurídica;
+
+V. Vigilar el cumplimiento de las obligaciones impuestas al personal de asesoría jurídica;
+
+VI. Celebrar convenios de coordinación con las autoridades competentes para la correcta defensa de los derechos de las víctimas u ofendidos;
+
+VII. Coordinarse con la Fiscalía General del Estado y con las demás áreas que presten atención a las víctimas y ofendidos; y
+
+VIII. Ejercer las funciones y facultades que en la materia le encomiendan las disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. De la Secretaría de Seguridad Pública
 
@@ -2216,3 +2236,15 @@ P.O. 8 DE FEBRERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE ADICIONA UN ARTÍCULO 29 BIS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el efecto de cumplir con lo dispuesto en el presente Decreto las autoridades administrativas competentes tendrán un término de 180 días contados a partir de su publicación en el Periódico Oficial del Estado, para realizar las adecuaciones administrativas y reglamentarias necesarias a fin de garantizar la operatividad de lo dispuesto en la presente reforma.
