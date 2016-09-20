@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-09-09"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1175,23 +1175,25 @@ El matrimonio debe celebrarse ante los funcionarios que establece la Ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 145.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los presidentes municipales pueden conceder dispensas de edad por causas graves y justificadas.
+Para contraer matrimonio, tanto el hombre como la mujer, necesitan haber cumplido dieciocho años. Los Presidentes Municipales pueden conceder dispensas de edad por causas graves y justificadas. No se otorgara dispensa a ningún menor de dieciséis años.
 
 ###### ARTICULO 146.
 
 El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 147.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de lo Familiar de la residencia de la persona menor de dieciocho años de edad suplirá el consentimiento.
+Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, a petición de parte, cuando se niegue o revoque el consentimiento el Juez de Primera Instancia de lo Familiar de la residencia de la persona menor de dieciocho años de edad podrá o no suplir el consentimiento.
 
-###### ARTICULO 148.
+###### ARTÍCULO 148.
 
-Los interesados pueden ocurrir al presidente municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2016)
 
 ###### ARTICULO 149.
 
@@ -3425,7 +3427,7 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 ###### ARTICULO 486.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -16426,3 +16428,15 @@ P.O. 9 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 550 MEDIANTE EL CUAL SE APRUEBAN (SIC) LA REFORMA A LOS ARTÍCULOS 145, 147 Y 148 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan el presente Decreto.
