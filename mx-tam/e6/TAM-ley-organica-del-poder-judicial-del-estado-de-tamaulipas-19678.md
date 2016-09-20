@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2016-06-16"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -773,15 +773,17 @@ VII.- Despachar la correspondencia oficial de la Sala, rendir los informes previ
 
 VIII.- Firmar las sentencias, acuerdos de la Sala y actas de sesiones de la misma de manera conjunta con sus demás integrantes ante la fe del Secretario de Acuerdos;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-IX.- Imponer al personal de la Sala, a los Jueces, Secretarios, Coordinadores de las Centrales de Actuarios, a éstos, así como a otros servidores públicos que intervengan en primera instancia, en asuntos de que conozca con motivo del recurso de apelación, las correcciones disciplinarias de amonestación y multa hasta por el importe de un mes de salario mínimo general vigente; sin perjuicio de las que por diversos motivos establezcan las leyes procesales. Si a juicio del magistrado la falta fuere grave no impondrá corrección, pero deberá dar vista al Consejo de la Judicatura.
+IX.- Imponer al personal de la Sala, a los Jueces, Secretarios, Coordinadores de las Centrales de Actuarios, a éstos, así como a otros servidores públicos que intervengan en primera instancia, en asuntos de que conozca con motivo del recurso de apelación, las correcciones disciplinarias de amonestación y multa hasta por el importe de treinta Unidades de Medida y Actualización; sin perjuicio de las que por diversos motivos establezcan las leyes procesales. Si a juicio del magistrado la falta fuere grave no impondrá corrección, pero deberá dar vista al Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 La misma facultad disciplinaria tendrán los magistrados cuando actúen en forma unitaria en sus diversos ámbitos de competencia;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-X.- Imponer las correcciones de apercibimiento y multa hasta por el importe de 30 días de salario mínimo general vigente, a los litigantes, abogados, autorizados, y demás personas que acuden a la Sala y alteren el orden o falten al respeto y consideración a los integrantes de la Sala, ya sea verbalmente o a través de escritos, promociones, conductas o comportamientos inapropiados, que deban ser corregidos;
+X.- Imponer las correcciones de apercibimiento y multa hasta por el importe de 30 Unidades de Medida y Actualización, a los litigantes, abogados, autorizados, y demás personas que acuden a la Sala y alteren el orden o falten al respeto y consideración a los integrantes de la Sala, ya sea verbalmente o a través de escritos, promociones, conductas o comportamientos inapropiados, que deban ser corregidos;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -1057,11 +1059,9 @@ I.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda
 
 II.- De los negocios contenciosos que versen sobre propiedad y demás derechos reales sobre inmuebles; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en que la competencia corresponde a los Jueces de lo Familiar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
-
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo diario general vigente en la capital del Estado, excepto en lo concerniente al derecho familiar. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin exceder la que pueda tramitarse en esta modalidad;
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta Unidades de Medida y Actualización, excepto en lo concerniente al derecho familiar. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin exceder la que pueda tramitarse en esta modalidad;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1361,9 +1361,13 @@ V.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el
 
 Corresponde a los Jueces Menores, lo siguiente:
 
-I.- Conocer de los negocios civiles y mercantiles por el importe hasta ciento cincuenta veces el salario mínimo general vigente; exceptuando los asuntos que son de la competencia de los jueces de primera instancia;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-II.- De conflictos entre vecinos de casa habitación o entre condóminos, cuando de acuerdo con la ley no corresponda conocer a diversa autoridad y la naturaleza de la diferencia tenga carácter patrimonial no mayor a cien veces el salario mínimo general vigente;
+I.- Conocer de los negocios civiles y mercantiles por el importe hasta ciento cincuenta Unidades de Medida y Actualización; exceptuando los asuntos que son de la competencia de los jueces de primera instancia;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+
+II.- De conflictos entre vecinos de casa habitación o entre condóminos, cuando de acuerdo con la ley no corresponda conocer a diversa autoridad y la naturaleza de la diferencia tenga carácter patrimonial no mayor a cien Unidades de Medida y Actualización;
 
 III.- De conflictos entre miembros de una familia que no sean competencia del Juez Familiar o no constituyan conductas delictuosas;
 
@@ -2033,11 +2037,11 @@ El órgano competente para resolver, podrá recibir y desahogar por si, cualquie
 
 III.- El órgano que resuelva tiene la facultad, en cualquier momento, desde la recepción del escrito de queja hasta antes de la conclusión del período probatorio, de proseguir con el procedimiento de manera oficiosa, por razones de interés público;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-IV.- Transcurrido el plazo para el desahogo de las pruebas, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere improcedente, se impondrá al quejoso una multa hasta por el importe de treinta días de salario mínimo general vigente, si se tratare de un Juez de Primera Instancia o Juez Menor y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte días de salario mínimo general vigente si se tratare de cualquier otro servidor público del Poder Judicial.
+IV.- Transcurrido el plazo para el desahogo de las pruebas, se dictará resolución en un término que no podrá exceder de quince días. Si la queja fuere notoriamente improcedente, se impondrá al quejoso una multa hasta por el importe de treinta Unidades de Medida y Actualización, si se tratare de un Juez de Primera Instancia, Juez Menor o Juez de Paz y, de sesenta si se trata de un Magistrado. La multa podrá ser de hasta veinte Unidades de Medida y Actualización, si se tratara de cualquier otro servidor público del Poder Judicial.
 
-No se dará curso a ninguna queja si el interesado o su asesor no acompañan a su escrito inicial certificado por el importe del máximo de la multa, a menos que a juicio del órgano que resuelva, basándose en evidencias o antecedentes, las conductas o hechos denunciados dentro del escrito deban ser objeto del presente procedimiento llevado de manera oficiosa;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 V.- Si el servidor público aceptare su responsabilidad en la realización de los hechos u omisiones objeto de la queja, se procederá de inmediato a dictar resolución, a no ser que quien conoce el procedimiento, disponga la recepción de pruebas para robustecer la veracidad de los hechos. La aceptación de responsabilidad en la comisión de los hechos, podrá tomarse en cuenta, acorde al arbitrio prudencial de quien resuelva, para atenuar la severidad de la sanción a imponer; y
 
@@ -3910,3 +3914,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-1004 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 26 FRACCIONES IX PÁRRAFO PRIMERO Y X, 38 FRACCIÓN III, 51 FRACCIONES I Y II, Y 114 FRACCIÓN IV; Y SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 114 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
