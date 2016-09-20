@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2014-04-08"
+last_updated: "2016-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -63,7 +63,7 @@ IV. Las bases para promover y fomentar la participación activa y responsable de
 
 Para efectos de esta ley tendrán aplicación los siguientes términos:
 
-l. Enunciados conceptuales:
+I. Enunciados conceptuales:
 
 a) Planeación: la ordenación racional y sistemática de las acciones del Gobierno y la sociedad para coadyuvar a mejorar la calidad de vida de la población en el Estado.
 
@@ -123,7 +123,7 @@ IX. Participación Gubernamental y Ciudadana: a partir de la acción sistemátic
 
 Son autoridades, instancias u organismos encargados de la aplicación de esta ley, dentro de su ámbito de competencia:
 
-l. El Titular del Poder Ejecutivo del Estado;
+I. El Titular del Poder Ejecutivo del Estado;
 
 II. El Comité de Planeación para el Desarrollo del Estado;
 
@@ -205,11 +205,13 @@ El proceso de planeación deberá integrarse cuando menos con las etapas de cons
 
 Las dependencias y entidades de la administración pública estatal y municipal, deberán participar en la formulación, evaluación y actualización o sustitución de los planes y programas de gobierno, conforme a lo establecido en esta ley.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 13.
 
-Los planes estatal, municipales y regionales y los programas de gobierno, serán elaborados tomando en cuenta en lo conducente la información que al respecto generen el Instituto de Información, el Instituto Nacional de Estadística, Geografía e Informática y las instituciones de educación superior y de investigación, así como cualquier otra que se considere necesaria para el proceso de planeación.
+Los planes estatal, municipales y regionales y los programas de gobierno, serán elaborados tomando en cuenta en lo conducente la información que al respecto generen el Instituto de Información Estadística y Geográfica del Estado de Jalisco, el Sistema Nacional de Información Estadística y Geográfica y las instituciones de educación superior y de investigación, así como cualquier otra que se considere necesaria para el proceso de planeación.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2013)</small>
 
 La información útil para el proceso de planeación del Estado de Jalisco y sus Municipios será concentrada, sistematizada y ministrada por el Instituto de Información.
 
@@ -910,3 +912,9 @@ SEGUNDO. Lo previsto en el artículo 29-Bis que se adiciona mediante este decret
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25863/LXI/16 QUE REFORMA EL ARTÍCULO 13 DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
