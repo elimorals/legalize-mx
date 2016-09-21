@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2015-12-09"
+last_updated: "2016-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -147,13 +147,17 @@ XII.- Fomentar en los alumnos, docentes y padres de familia, la cultura de la sa
 
 XIII.- Contribuir al desarrollo integral del ser humano, promoviendo la cultura de la legalidad, los valores sociales y éticos, así como la igualdad entre las personas y la equidad de género;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
 
-XIV.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, en aras de lograr educación con calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad, y
+XIV.- Impulsar actitudes que incentiven la investigación y la innovación científicas y tecnológicas, así como su comprensión, aplicación y uso responsables;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
 
-XV.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la presente norma y demás ordenamientos legales que resulten aplicables.
+XV.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, en aras de lograr educación con calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad, y
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+XVI.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la presente norma y demás ordenamientos legales que resulten aplicables.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -271,13 +275,17 @@ XXVIII.- Suscribir convenios de colaboración con instituciones de educación su
 
 XXIX.- De manera concurrente con la autoridad educativa federal, promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentando su enseñanza, diseminación y divulgación en acceso abierto cuando el conocimiento se obtenga mediante financiamiento público o el uso de infraestructura pública, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
 
-XXX.- Impulsar el estudio sobre la conservación y protección del medio ambiente, el aprovechamiento racional y sustentable de los recursos naturales, así como la prevención del cambio climático, para la solución de los problemas económicos, sociales y culturales del Estado, y
+XXX.- De manera concurrente con la autoridad educativa federal, fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, apoyando el aprendizaje de los estudiantes, ampliando sus competencias para la vida, favoreciendo así su inserción en la sociedad del conocimiento;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
 
-XXXI.- Las demás que fijen las leyes o normas aplicables en la materia.
+XXXI.- Impulsar el estudio sobre la conservación y protección del medio ambiente, el aprovechamiento racional y sustentable de los recursos naturales, así como la prevención del cambio climático, para la solución de los problemas económicos, sociales y culturales del Estado, y
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 ###### ARTICULO 10.
 
@@ -1368,3 +1376,9 @@ P.O. 9 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
