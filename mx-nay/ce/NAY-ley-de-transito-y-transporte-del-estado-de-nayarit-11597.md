@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2014-08-18"
+last_updated: "2016-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -96,6 +96,18 @@ VIII. Manuales, son las guías explicativas y ejemplificativas de la Ley de Trá
 IX. Usuarios del transporte, es el público en general que, a condición de cubrir una tarifa, tiene derecho a usar el servicio público de transporte en los tipos y modalidades que previene este ordenamiento.
 
 X. Agente de Tránsito, servidor público de la Dirección que tiene a su cargo las funciones técnicas y operativas que determina esta ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+XI. REPUVE, Registro Público Vehicular.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+XII. UMA, Unidad de Medida y Actualización.
 
 ###### ARTICULO 5°.
 
@@ -317,6 +329,8 @@ VIII.- Aminorar la marcha del vehículo y ceder espacios suficientes para circul
 
 IX.- Detener asimismo la marcha de los vehículos ante la presencia de desfiles, marchas cívicas y cualesquiera otro tipo de actividades masivas en la vía pública, respetando las medidas preventivas que al respecto dicte o establezca la autoridad.
 
+(REPUBLICADO PRIMER PÁRRAFO, 21 DE SEPTIEMBRE DE 2016)
+
 ###### ARTICULO 21.
 
 Queda prohibido a los conductores de vehículos:
@@ -359,9 +373,23 @@ XI.- Abastecer combustible con el motor en marcha;
 
 XII.- Bloquear intersecciones entre calles;
 
-XIII.- Conducir en la vía pública tractores y equipo semejante, contraviniendo el señalamiento vial, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XIV.- Las demás que establezca esta Ley.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+XIII.- Conducir en la vía pública tractores y equipo semejante, contraviniendo el señalamiento vial;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+XIV.- Utilizar aparatos electrónicos de comunicación o cualquier otro análogo que represente un distractor para la conducción segura; exceptuando a los conductores que operen aparatos de radio frecuencia por motivo de su trabajo, así como, los vehículos de seguridad pública y ambulancias, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+XV.- Las demás que establezca esta Ley.
 
 ###### ARTICULO 22.
 
@@ -576,6 +604,12 @@ Los agentes de la Dirección podrán restringir parcialmente o suspender en form
 ###### ARTICULO 48.
 
 Todo vehículo automotor en la vía pública, deberá estar registrado, portar placas, tarjeta de circulación, tenencia, calcomanías vigentes, y póliza de seguro por daños a terceros expedida por institución reconocida por la Comisión Nacional de Seguros y Fianzas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+Así mismo, deberá inscribirse en el REPUVE, portar la calcomanía que acredita su registro y estar actualizado.
 
 ###### ARTICULO 49.
 
@@ -811,6 +845,12 @@ El propietario de un vehículo deberá notificar a la Dirección la inutilizaci�
 
 En caso de robo, pérdida o destrucción de la tarjeta de circulación, el interesado deberá notificar tal circunstancia a la Dirección a efecto de que le sea repuesto dicho documento lo que se realizará previa acreditación de que la tarjeta no se encuentra infraccionada.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de deterioro o pérdida de la calcomanía del REPUVE que contiene el chip de radiofrecuencia, se restituirá presentando la documentación requerida.
+
 ###### ARTICULO 75.
 
 Se cancelará el registro o en su caso cualquier otro trámite, cuando se compruebe que la información proporcionada para el registro o trámite respectivo no es veraz o que la documentación proporcionada sea falsa o apócrifa. En estos casos se dará vista al Ministerio Público para que proceda conforme a sus facultades.
@@ -841,9 +881,13 @@ VI.- Contar con luces de posición que delimiten las dimensiones del vehículo, 
 
 VII.- Luces posteriores que al frenar intensifiquen su luminosidad en forma preventiva.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 79.
 
-Cuando un vehículo cambie de propietario, el vendedor y el adquiriente, deberán comunicarlo a la Dirección dentro de los 30 días siguientes a la operación de compraventa o cesión. De no darse el aviso correspondiente persistirán las obligaciones y responsabilidad de quien aparezca registrado como propietario. El nuevo registro sólo se realizará cuando se haya dado el aviso de baja del anterior, se tramite la alta correspondiente y se efectúe el pago de derechos respectivo.
+Cuando un vehículo cambie de propietario, el vendedor y el adquiriente, deberán comunicarlo a la Dirección dentro de los 30 días siguientes a la operación de compraventa o cesión. De no darse el aviso correspondiente persistirán las obligaciones y responsabilidad de quien aparezca registrado como propietario. El nuevo registro sólo se realizará cuando se haya dado el aviso de baja del anterior, se tramite el alta correspondiente y se efectúe el pago de derechos respectivo, actualizándose los anteriores datos en el REPUVE.
 
 ###### ARTICULO 80.
 
@@ -859,7 +903,7 @@ II.- Prestar el servicio en forma óptima y disponer de un equipo cómodo, funci
 
 III.- Disponer de equipo de emergencia, contando como mínimo de botiquín, linterna, herramienta y señales;
 
-IV.- Llevar al frente, en la parte media superior externa del vehículo una farola blanca o ámbar que indique el servicio que prestan; y (sic)
+IV.- Llevar al frente, en la parte media superior externa del vehículo una farola blanca o ámbar que indique el servicio que prestan; y
 
 V.-. Disponer en la parte interior de un tablero visible a los pasajeros en que se indiquen las tarifas autorizadas.
 
@@ -1077,7 +1121,11 @@ Las licencias para conducir se suspenderán en los siguientes casos:
 
 I.- Por resolución administrativa o judicial;
 
-II.- Por reincidencia en un lapso de tres meses en la comisión de infracción cometida por conducir en estado de ebriedad, bajo los efectos de enervantes o psicotrópicos y exceso de velocidad. Para estos casos, la suspensión podrá ser hasta por seis meses;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Por reincidencia en la infracción de exceso de velocidad en un lapso de tres meses, para este caso la suspensión podrá ser hasta por seis meses, y
 
 III.- Cuando el conductor de un transporte público altere la tarifa autorizada. En este supuesto la suspensión será hasta por un año.
 
@@ -1089,9 +1137,23 @@ I.- Por resolución judicial;
 
 II.- Cuando su titular contraiga enfermedad incurable o impedimento físico irreversible que lo imposibilite para manejar;
 
-III.- Cuando al titular se le hubiere suspendido dos o más veces por las causales señaladas en el artículo anterior, la cancelación será definitiva, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV. Cuando su titular hubiera utilizado el vehículo para la comisión de delito grave.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Cuando al titular se le hubiere suspendido dos o más veces por las causales señaladas en el artículo anterior;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Cuando el titular sea reincidente en la conducción de vehículos bajo los efectos del alcohol o sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Cuando su titular hubiera utilizado el vehículo para la comisión de delito grave.
 
 ###### ARTICULO 108.
 
@@ -1945,27 +2007,61 @@ D.- Se sancionará con multa de treinta hasta cien días de salario mínimo gene
 
 11. Cualquier otra violación a la presente Ley o a las condiciones establecidas en el permiso, cuya sanción no estuviera prevista en forma expresa.
 
-E.- Se aplicará multa de cincuenta hasta cien días de salario mínimo general vigente en el Estado:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+E.- Se aplicará de cincuenta hasta cien días de la UMA:
 
 1. Entorpecer la marcha de tropas, desfiles cívicos, manifestaciones autorizadas y las filas de los escolares que transiten por vías públicas;
 
 2. Omitir dar aviso de cambio de propietario;
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-3. A quien conduzca cualquier vehículo de los señalados en las fracciones I, II y IV del artículo 52 de esta Ley, bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica o tengan una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro, y
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
 
-4. Huir con o sin vehículo del lugar del accidente.
+3. A quien conduzca cualquier vehículo de los señalados en las fracciones I, II y IV del artículo 52 de esta Ley, bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas o tengan una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro, así como, arresto inconmutable de entre veinte y treinta y seis horas;
 
-F.- Se aplicará multa de ochenta hasta cien días de salario mínimo general vigente en el Estado:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+4. Huir con o sin vehículo del lugar del accidente, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+5. Por conducir un vehículo automotor utilizando aparatos electrónicos de comunicación o cualquier otro análogo que representen un distractor para la conducción segura; exceptuando a los conductores que operen aparatos de radio frecuencia por motivo de su trabajo, así como, los vehículos de seguridad pública y ambulancias.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+F.- Se aplicará de ochenta hasta cien días de la UMA:
 
 1. El cambio de carrocería del vehículo, serie o cualquier elemento que altere en forma indebida la identificación legitima del automotor o sus partes;
 
 2. A quien oferte o preste el servicio público de transporte permisionado, sin el respectivo permiso;
 
-3. A quien conduzca bajo los efectos de estupefacientes, psicotrópicos o bebidas alcohólicas, unidades destinadas al servicio público permisionado, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-4. Si la infracción a que se refiere el numeral anterior se comete prestando el servicio, la multa aumentará de cien a ciento veinte días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+3. A quien conduzca unidades destinadas al servicio público permisionado bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas o tengan una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro, así como, arresto inconmutable de entre veinte y treinta y seis horas;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+4. Si la infracción a que se refiere el numeral anterior se comete prestando el servicio, la multa aumentará de cien a ciento veinte días de la UMA, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+
+5. Por conducir un vehículo automotor destinado al servicio público permisionado utilizando aparatos electrónicos de comunicación o cualquier otro análogo que representen un distractor para la conducción segura; exceptuando a los conductores que operen aparatos de radio frecuencia por motivo de su trabajo.
 
 G.- Se aplicará multa de 100 hasta 200 días de salario mínimo general vigente en el Estado a quien altere por cualquier medio, el uso de las placas que correspondan al vehículo que se conduzca o circular con placas sobrepuestas.
 
@@ -1985,13 +2081,13 @@ Contra las resoluciones y actos administrativos de las autoridades que contraven
 
 Si el infractor dentro de los diez días hábiles que sigan a la fecha de la infracción cubre el pago de la sanción impuesta, ésta podrá ser reducida hasta en un cincuenta por ciento.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 198.
 
-A los reincidentes de las infracciones señaladas en el artículo 194 apartados E y F, en su respectivo numeral 3, se aplicará además de la multa correspondiente arresto inconmutable de entre veinte y treinta y seis horas.
-
-Para los efectos del presente ordenamiento se considerará que existe reincidencia, cuando se cometan dos infracciones del mismo tipo dentro de un periodo de seis meses.
+Para los efectos del presente ordenamiento se considerará que existe reincidencia, cuando se cometan dos infracciones idénticas dentro de una temporalidad de dos años.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -2140,3 +2236,13 @@ P.O. 18 DE AGOSTO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Dentro de los 45 días posteriores a la entrada en vigor del presente Decreto, la Comisión Técnica del Transporte deberá presentar al Gobernador del Estado, el Dictamen a que refiere el artículo 14, fracción II, inciso c) que se adiciona, para los efectos conducentes.
+
+P.O. 21 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT".]
+
+Primero.- El presente Decreto entrara en vigor en un plazo de sesenta días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Una vez publicado el presente Decreto las autoridades locales de la materia deberán realizar campañas de difusión a fin de que la población en general tenga conocimiento del mismo.
+
+Tercero.- Los procesos administrativos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto en el cual se apliquen los artículos 106 en su fracción II, 107 en su fracción IV y 198, se regirán bajo las mismas reglas.
