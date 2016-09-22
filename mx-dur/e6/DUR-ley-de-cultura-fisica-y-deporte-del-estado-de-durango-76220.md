@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-76220"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2011-09-25"
+last_updated: "2016-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE DURANGO
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE DURANGO
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2011.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 22 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 22 de julio de 2010.
 
@@ -682,3 +684,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- El Titular del Ejecutivo del Estado expedirá el Reglamento a que se refiere el presente Decreto en un plazo no mayor a cuarenta días hábiles a partir de la entrada en vigor del mismo.
+
+P.O. 22 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 619 QUE CONTIENE LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO”.]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- Se abroga la Ley de Cultura Física y Deporte del Estado de Durango emitida mediante Decreto No. 496, de la LXIV Legislatura, publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 7, de fecha 22 de julio de 2010 y sus reformas posteriores.
+
+Tercero.- El Titular del Poder Ejecutivo Estatal deberá expedir el o los reglamentos de la presente Ley dentro de un término no mayor a ciento ochenta días posteriores a su entrada en vigor.
+
+Cuarto.- En aquellos conceptos en donde esta Ley contempla el concepto en salarios mínimos, las obligaciones a cargo del infractor serán cubiertas al valor que determine el presente Decreto, hasta en tanto no se expida la Ley que establezca una Unidad de Medida y Actualización, de cuenta, o cualquiera que sea su denominación.
+
+Quinto.- En un plazo no mayor a 60 días posteriores a la entrada en vigor este decreto, deberán integrarse el Consejo Estatal del Deporte y la Comisión Especial Contra la Violencia en el Deporte Duranguense.
+
+Sexto.- La Comisión Especial Contra la Violencia en el Deporte Duranguense deberá expedir el Programa Anual de Trabajo para la Prevención de la Violencia en Eventos Deportivos en un plazo que no exceda de 90 días posteriores a la entrada en vigor de este Decreto.
+
+Séptimo.- Los procedimientos y recursos administrativos relativos a la materia deportiva, iniciados con anterioridad a la expedición de este decreto, se tramitarán y resolverán conforme a las disposiciones con las que hayan sido iniciados.
