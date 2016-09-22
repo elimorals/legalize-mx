@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-medios-de-impugnacion-en-materia-electoral-y-de-64673"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2014-07-17"
+last_updated: "2016-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -907,7 +907,9 @@ ARTÍCULO 65
 
 1. El servidor del Instituto que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto.
 
-2. Es requisito de procedibilidad del juicio, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca la ley de la materia, instrumentos que, de conformidad con lo dispuesto por el artículo 25 de la Constitución, norman las relaciones laborales del Instituto con sus servidores.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+2. Es requisito de procedibilidad del juicio, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca la ley de la materia, instrumentos que, de conformidad con lo dispuesto por el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos norman las relaciones laborales del Instituto con sus servidores.
 
 ARTÍCULO 66
 
@@ -1024,3 +1026,11 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 Segundo. Los medios de impugnación en materia electoral y de participación ciudadana que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS “DEL DECRETO NO. 618.- POR EL QUE SE REFORMA EL NUMERAL 2 DEL ARTÍCULO 65 DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA.”]</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
