@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2016-07-04"
+last_updated: "2016-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 22 Y 29 DE SEPTIEMBRE DE 2016, NÚMERO 24 SECCIÓN I Y NÚMERO 26 SECCIÓN II, PÁGINAS 2 Y 3, Y 2 RESPECTIVAMENTE, EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 22 DE SEPTIEMBRE DE 2016.]</small>
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -367,9 +367,9 @@ Los titulares de las dependencias a que se refiere esta ley ejercerán sus funci
 
 El Gobernador del Estado podrá delegar las facultades y obligaciones previstas en la Constitución, al servidor público que éste determine. Esta delegación podrá efectuarse mediante acuerdo u oficio en los casos que el Titular del Ejecutivo así lo considere, salvo aquellas expresamente señaladas en la Constitución que deban ser ejercidas directamente por el Gobernador.
 
-> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2016)</small>
+(ADICIONADO, B.O. 4 DE JULIO DE 2016) (F. DE E., B.O. 22 DE SEPTIEMBRE DE 2016)
 
-Las facultades y obligaciones correspondientes al Gobernador del Estado, previstas en la presente Ley, así como en los ordenamientos de carácter secundario y reglamentario podrán ser delegables mediante oficio suscrito por el Titular del Ejecutivo, sin que medie acuerdo publicado en el Boletín Oficial.
+Las facultades y obligaciones correspondientes al Gobernador del Estado, previstas en la presente Ley, así como en los ordenamientos de carácter secundario y reglamentario podrán ser delegables mediante oficio suscrito por el Titular del Ejecutivo, sin que sea necesario su publicación en el Boletín Oficial para que surta los efectos legales correspondientes.
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -1299,11 +1299,11 @@ XI.- Promover programas relativos al desarrollo integral de los pueblos y las co
 
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-XII. Coordinar las acciones, planes y programas que sean implementados por el Instituto Sonorense de la Mujer, que propicien y faciliten la plena incorporación de la mujer en la vida económica, política, cultural y social.
+XII.- Coordinar las acciones, planes y programas que sean implementados por el Instituto Sonorense de la Mujer, que propicien y faciliten la plena incorporación de la mujer en la vida económica, política, cultural y social.
 
-> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2016)</small>
+(ADICIONADA, B.O. 4 DE JULIO DE 2016) (F. DE E., B.O. 22 DE SEPTIEMBRE DE 2016)
 
-XIII. Coordinar las acciones del Instituto Sonorense de la Juventud, de la Comisión Estatal del Deporte y de la Comisión del Vivienda del Estado.
+XIII.- Coordinar las acciones del Instituto Sonorense de la Juventud, de la Comisión del Deporte del Estado de Sonora y de la Comisión del (sic) Vivienda del Estado.
 
 B. En materia de desarrollo regional:
 
