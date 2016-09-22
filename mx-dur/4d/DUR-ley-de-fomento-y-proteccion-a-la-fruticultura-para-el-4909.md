@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-y-proteccion-a-la-fruticultura-para-el-4909"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-26"
-last_updated: "2015-12-20"
+last_updated: "2016-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE FOMENTO Y PROTECCION A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 22 DE SEPTIEMBRE DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 180 DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.]</small>
+
 LEY DE FOMENTO Y PROTECCIÓN A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 26 de junio de 1988.
 
@@ -184,3 +186,17 @@ P.O. 20 DE DICIEMBRE DE 2015.
 PRIMERO.- La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se contrapongan con las disposiciones de esta Ley.
+
+P.O. 22 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 620.- QUE CONTIENE (SIC) LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los 180 días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los sujetos obligados emitirán el Reglamento para la presente, de conformidad con las bases y principios establecidos en esta Ley. Éste Reglamento deberá ser expedido en un plazo que no exceda de 30 días a partir de la entrada en vigor de la presente Ley.
+
+TERCERO.- Las Asociaciones de Productores Frutícolas actualmente en funciones contarán con un plazo de 60 días contados a partir de la publicación de la presente ley, para realizar su registro ante la Secretaría y de 90 días para realizar los ajustes necesarios a la integración del régimen que dispone esta ley, en sus estatutos y reglamentos.
+
+CUARTO.- Se abroga la Ley de Fomento y Protección a la Fruticultura para el Estado De Durango, publicada mediante decreto 44, de la 57 legislatura, en el Periódico Oficial 51 bis, de fecha 26 de junio de 1988.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
