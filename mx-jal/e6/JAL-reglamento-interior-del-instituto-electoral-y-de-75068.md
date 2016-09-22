@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2016-08-30"
+last_updated: "2016-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -221,55 +221,55 @@ Disposiciones Generales.
 
 3. La estructura, organización y funcionamiento de los órganos del instituto que por su jerarquía no se han establecido en el presente reglamento, se determinarán en los manuales respectivos.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
 1. Para los efectos de este reglamento se entenderá por:
 
-I. Código: Código Electoral y de Participación Ciudadana del Estado de Jalisco;
+I. Código: Código Electoral y de Participación Social del Estado de Jalisco;
 
-II. Consejo General: Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+II. Comisiones: Comisiones permanentes, temporales y especiales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-III. Comisiones: Comisiones permanentes, temporales y especiales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+III. Comités: Comités del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-IV. Constitución: Constitución Política del Estado de Jalisco;
+IV. Consejo General: Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-V. Contraloría: Contraloría General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+V. Consejos Distritales: Consejos Distritales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-VI. Consejos Distritales: Consejos Distritales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+VI. Consejos Municipales: Consejos Municipales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-VII. Consejos Municipales: Consejos Municipales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+VII. Consejeros Distritales: Consejeros Distritales Electorales de los Consejos Distritales;
 
-VIII. Consejeros Distritales: Consejeros Distritales Electorales de los Consejos Distritales;
+VIII. Consejeros Electorales: Consejeros Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-IX. Consejeros Electorales: Consejeros Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+IX. Consejeros Municipales: Consejeros Municipales Electorales de los Consejos Municipales;
 
-X. Consejeros Municipales: Consejeros Municipales Electorales de los Consejos Municipales;
+X. Constitución: Constitución Política del Estado de Jalisco;
 
-XI. Presidente: Consejero Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XI. Contraloría: Contraloría General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XII. Comités: Comités del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XII. Directores: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tienen a su cargo las Direcciones Administrativas;
 
-XIII. Directores: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tienen a su cargo las Direcciones Administrativas;
+XIII. Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XIV. Titulares de Unidad de Área: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tiene a su cargo una unidad de área.
+XIV. Presidente: Consejero Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XV. Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XV. Reglamento: Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XVI. Reglamento: Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XVI. Secretaría Técnica: Secretaría Técnica de Comisiones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XVII. Secretaría Técnica: Secretaría Técnica de Comisiones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XVII. Secretario Ejecutivo: El titular de la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XVIII. Secretario Ejecutivo: El titular de la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XVIII. Titulares de Unidad de Área: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tiene a su cargo una unidad de área;
 
 XIX. La Unidad de Fiscalización: Órgano técnico del Instituto, el cual tendrá la función de la fiscalización de los recursos de las agrupaciones políticas estatales y aquellas que en su caso le delegue el Instituto Nacional Electoral al Instituto, en materia de fiscalización de los partidos políticos;
 
 XX. La Unidad de Prerrogativas: Unidad de Prerrogativas;
 
-XXI. La Unidad de Transparencia; Unidad de Transparencia y Acceso a la Información Pública; y
+XXI. La Unidad de Transparencia: Unidad de Transparencia y Acceso a la Información Pública; y
 
-XXII. La Unidad de Igualdad de Género; Unidad de Igualdad de Género y No Discriminación.
+XXII. La Unidad de Igualdad de Género: Unidad de Igualdad de Género y No Discriminación.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -287,7 +287,9 @@ III. Aquéllos que por causa justificada determine el Consejo General; y
 
 IV. Los días comprendidos en el periodo general de vacaciones del personal del Instituto que sea determinado por el Consejo General.
 
-3. Para el cómputo de los plazos relacionados con mecanismos de participación ciudadana; con la presentación de informes financieros a la Unidad de Fiscalización; con los procedimientos de liquidación y reintegro de activos de partidos políticos que pierdan su registro o acreditación ante el Instituto; así como los relacionados con solicitudes de información relativos a la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus municipios, siempre se computarán como si fuese período no electoral.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+3. Para el cómputo de los plazos relacionados con mecanismos de participación social; con la presentación de informes financieros a la Unidad de Fiscalización; con los procedimientos de liquidación y reintegro de activos de partidos políticos que pierdan su registro o acreditación ante el Instituto; así como los relacionados con solicitudes de información relativos a la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus municipios, siempre se computarán como si fuese período no electoral.
 
 4. Los Servidores Públicos del Instituto tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen durante los procesos electorales, de acuerdo con el presupuesto de egresos del propio organismo electoral.
 
@@ -306,6 +308,8 @@ De la Estructura del Instituto.
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
 ###### Artículo 4.
+
+(REPUBLICADO PRIMER PÁRRAFO, 22 DE SEPTIEMBRE DE 2016)
 
 1. El Instituto ejercerá sus atribuciones a través de:
 
@@ -364,6 +368,10 @@ O. El Comité Técnico de Asesoría Especializada de la Comisión de Adquisicion
 P. El Comité de Clasificación de Información Pública; y
 
 Q. El Comité Editorial;
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+R. Comité de Participación Social
 
 IV. Órganos desconcentrados, que son:
 
@@ -521,7 +529,9 @@ De la Presidencia.
 
 1. La Presidencia es el órgano ejecutivo central de dirección del Instituto, de carácter unipersonal, cuyo titular es el Consejero Presidente.
 
-2. Corresponde al Consejero Presidente, para el debido cumplimiento de sus atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+2. Corresponde al Consejero Presidente:
 
 I. Velar y fomentar la unidad y colaboración institucional, observando los principios rectores en la materia;
 
@@ -545,9 +555,13 @@ X. Coordinar las actividades de vinculación entre el Instituto y el Instituto N
 
 XI. Desarrollar la implementación de sistemas y servicios informáticos y telecomunicaciones;
 
-XII. Proponer al Consejo General para su aprobación, las transferencias entre partidas, ampliaciones y modificaciones al presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
-XIII. Dictar los acuerdos administrativos necesarios para el funcionamiento del Instituto y el cumplimiento de sus atribuciones;
+XII. Proponer al Consejo General para su aprobación, el anteproyecto de presupuesto anual del Instituto, incluyendo una previsión suficiente para la capacitación, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación social;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Presentar al Consejo General, propuestas de transferencia entre partidas, ampliaciones y modificaciones al presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
 
 XIV. Suscribir los convenios con instituciones públicas y privadas que el Consejo General determine convenientes para el cumplimiento de los fines del Instituto;
 
@@ -567,7 +581,9 @@ De la Secretaría Ejecutiva.
 
 1. La Secretaría Ejecutiva es el órgano ejecutivo central de carácter unipersonal, cuyo titular es el Secretario Ejecutivo, quien será el encargado de coadyuvar con la Presidencia, en organizar, dirigir y evaluar las actividades de las distintas áreas del Instituto.
 
-2. Corresponde al Secretario Ejecutivo, para el debido cumplimiento de sus atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+2. Corresponde al Titular de la Secretaría Ejecutiva, para el debido cumplimiento de sus atribuciones:
 
 I. Supervisar la ejecución de las políticas, programas generales y específicos del Instituto;
 
@@ -575,7 +591,9 @@ II. Dar trámite a la correspondencia del Instituto, salvo en los casos que el C
 
 III. Informar al Consejo General del Instituto Nacional Electoral la falta absoluta del Consejero Presidente y/o de los Consejeros Electorales;
 
-IV. Llevar el registro de solicitudes de plebiscito, referéndum e iniciativa popular;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Llevar el registro de solicitudes de mecanismos de participación social;
 
 V. Emitir los acuerdos administrativos que sean necesarios previo a las resoluciones o acuerdos del Consejo General;
 
@@ -583,7 +601,9 @@ VI. Emitir los acuerdos administrativos necesarios para el ejercicio de sus atri
 
 VII. Asignar a los acuerdos que apruebe el Consejo General, una clave de control e identificación, conformada en un primer apartado con las siglas IEPC, seguida de un guion, las siglas ACG, un guion y el número consecutivo que corresponda a partir del 001, al cual seguirá una diagonal "/" y el año que corresponda a su aprobación;
 
-VIII. Establecer los criterios para la elaboración de los anteproyectos de presupuesto de las Direcciones administrativas, de las Unidades, y de la Secretaría Técnica del Instituto;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Establecer los criterios para la elaboración de la propuesta de presupuesto de las Direcciones administrativas, de las Unidades, de la Secretaría Técnica del Instituto;
 
 IX. Establecer los criterios para la elaboración de los manuales, procedimientos y servicios de las Direcciones Administrativas, de las Unidades, y de la Secretaría Técnica del Instituto;
 
@@ -733,11 +753,15 @@ XII. Las demás que en uso de sus atribuciones le confiera el Consejo General, e
 
 ###### Artículo 16.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)
+
 1. La Dirección de Educación Cívica tendrá las atribuciones siguientes:
 
 I. Coadyuvar en la elaboración y desarrollo de los programas de educación cívica del Instituto;
 
-II. Coadyuvar en la elaboración y desarrollo de la estrategia de capacitación de plebiscito y de referéndum, la cual invariablemente deberá contener los lineamientos para la designación y capacitación de los funcionarios de mesas directivas de casilla de los procedimientos de participación ciudadana;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+II. Coadyuvar en la capacitación de los funcionarios de mesas directivas de casilla de los procedimientos de participación social;
 
 III. Coadyuvar en la elaboración e impartición, en su caso, de los cursos de capacitación para el personal del Instituto;
 
@@ -755,29 +779,33 @@ IX. Administrar el Centro de Consulta Cívica y Cómputo Infantil; y
 
 X. Las demás que en uso de sus atribuciones le confiera el Consejo General, el Presidente o el Secretario Ejecutivo.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
 1. La Dirección de Participación Ciudadana tendrá las atribuciones siguientes:
 
-I. Formular y presentar al Secretario Ejecutivo los programas y proyectos relacionados con la promoción de los mecanismos de participación ciudadana previstos en el Código;
+I. Elaborar y ejecutar el Programa Permanente de Capacitación y Socialización de los mecanismos de participación social del Instituto, que deberá presentar a la comisión;
 
-II. Coadyuvar con la Comisión de Participación Ciudadana en la realización del procedimiento de análisis y estudio para determinar la procedencia de las solicitudes de referéndum, plebiscito e iniciativa popular que se presenten ante el Instituto;
+II. Para efectos de la socialización de los mecanismos, la dirección se coordinará con la Presidencia en los términos del artículo 10 párrafo 2, fracción VIII del presente reglamento;
 
-III. Coadyuvar con el Secretario Ejecutivo, y la Dirección Jurídica en la elaboración del calendario de los procesos de referéndum y plebiscito que se declaren procedentes por el Consejo General;
+III. Elaborar, ejecutar y actualizar la estrategia de asesoría para la implementación de los mecanismos de participación social, mediante la metodología respectiva, que deberá presentar a la comisión;
 
-IV. Coadyuvar con el Secretario Ejecutivo y la Dirección de Organización, en el diseño, elaboración y contenido de la documentación y material electoral a utilizarse en la jornada de votación del tema materia de proceso de participación ciudadana a desarrollarse;
+IV. Coadyuvar con la Secretaría Ejecutiva en la elaboración del calendario de los procesos de los mecanismos de participación social que se declaren procedentes por el Consejo General;
 
-V. Auxiliar a las Instancias calificadoras en la realización de los cómputos municipales y al Consejo General durante la calificación de la jornada de votación y la determinación de los resultados finales de los procesos de participación ciudadana;
+V. Coadyuvar con la Secretaría Ejecutiva en el diseño, elaboración y contenido de la documentación y material a utilizarse en la jornada de votación del mecanismo de participación social;
 
-VI. Elaborar el proyecto de informe que se notifique a la autoridad emisora del acto o decisión materia del mecanismo de participación ciudadana desarrollado, a efecto de que conozca el resultado final de la consulta; y
+VI. Auxiliar a las Instancias calificadoras en la realización de los cómputos y al Consejo General durante la calificación de la jornada de votación y la determinación de los resultados finales de los procesos de participación social;
 
-VII. Las demás que le confieran el Código, el Consejo General, el Presidente, el Secretario Ejecutivo u otras disposiciones aplicables.
+VII. Elaborar la propuesta de presupuesto para la implementación de los mecanismos de participación social, el cual será independiente del presupuesto de la Dirección; y
+
+VIII. Las demás que le confieran el Código, el Consejo General, la Presidencia, la Secretaría Ejecutiva u otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
 ###### Artículo 18.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)
 
 1. La Dirección Jurídica tendrá las atribuciones siguientes:
 
@@ -793,7 +821,9 @@ V. Elaborar o, en su caso, revisar los proyectos de dictámenes, informes, acuer
 
 VI. Elaborar y revisar los convenios y contratos en los que intervenga el Instituto;
 
-VII. Coadyuvar en la elaboración del proyecto de Calendario General de cada proceso electoral local, así como de los mecanismos de participación ciudadana en que así proceda;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Coadyuvar en la elaboración del proyecto de Calendario General de cada proceso electoral local, así como de los mecanismos de participación social en que así proceda;
 
 VIII. Coadyuvar con la Secretaría Ejecutiva para la integración y tramitación de los medios de impugnación interpuestos contra actos y resoluciones de los órganos del Instituto;
 
@@ -813,9 +843,13 @@ XIV. Las demás que en uso de sus atribuciones le confiera el Consejo General, e
 
 ###### Artículo 19.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)
+
 1. La Dirección de Organización Electoral tendrá las atribuciones siguientes:
 
-I. Diseñar e implementar la logística para la preparación y ejecución de los procesos electorales, de plebiscito y de referéndum;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+I. Diseñar e implementar la logística para la preparación y ejecución de los procesos electorales y de los mecanismos de participación social;
 
 II. Coadyuvar con el Secretario Ejecutivo en el diseño y supervisión de la elaboración de la documentación y material electoral necesario conforme a los lineamientos que para tal efecto emita el Instituto Nacional Electoral;
 
@@ -1331,9 +1365,13 @@ De las Atribuciones de las Comisiones.
 
 ###### Artículo 44.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)
+
 1. La Comisión de Educación Cívica será la responsable de:
 
-I. Supervisar la estrategia de Capacitación durante los procesos de participación ciudadana, así como evaluar su cumplimiento;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+I. Supervisar en conjunto con la Comisión de Participación Ciudadana la estrategia de capacitación de los funcionarios de mesa de casilla durante los procesos de participación social y evaluar su cumplimiento;
 
 II. Supervisar y evaluar el cumplimiento del Programa de Educación Cívica del Instituto;
 
@@ -1353,11 +1391,15 @@ VIII. Las demás que le confiera el presente reglamento, el Código y demás nor
 
 ###### Artículo 45.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)
+
 1. La Comisión de Organización Electoral tendrá las siguientes atribuciones:
 
 I. Supervisar el cumplimiento de los programas de organización electoral;
 
-II. Conocer el contenido y el sistema de información de la estadística de las elecciones y los procesos de participación ciudadana, que desarrolle la Dirección de Organización Electoral;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+II. Conocer el contenido y el sistema de información de la estadística de las elecciones y los mecanismos de participación social, que desarrolle la Dirección de Organización Electoral;
 
 III. Proponer al Consejo General los estudios para actualizar los procedimientos en materia de Organización Electoral y procurar un mejor ejercicio del sufragio;
 
@@ -1415,17 +1457,23 @@ III. Determinar la procedencia de la implementación de medidas cautelares; y
 
 IV. Las demás que le confiera este reglamento, el Consejo General, el Código y demás normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 48.
 
 1. La Comisión de Participación Ciudadana tendrá las atribuciones siguientes:
 
-I. Proponer al Consejo General en su caso, los lineamientos del procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen las solicitudes de los procedimientos de participación ciudadana, que invariablemente será de manera aleatoria y mediante la adopción de técnicas de muestreo científicamente sustentadas;
+I. Proponer al Consejo General el Programa Permanente de Capacitación y Socialización de los mecanismos de participación social, así como la metodología para la asesoría; atendiendo las recomendaciones que emita el Comité de Participación Social;
 
-II. Conocer de las causas de improcedencia respecto de las solicitudes de referéndum, plebiscito o iniciativa popular y emitir dictamen en lo conducente; y
+II. Dar seguimiento a las actividades relacionadas con la socialización de los mecanismos de participación social;
 
-III. Las demás que le confiera este reglamento, el Consejo General, el Código y demás normatividad aplicable.
+III. Proponer al Consejo General los contenidos de materiales e instructivos en materia de participación social elaborados por el Instituto, así como de su actualización y constante mejora;
+
+IV. Proponer al Consejo General el texto de la convocatoria para la integración de las instancias calificadoras;
+
+V. Proponer al Consejo General la convocatoria para la integración del Comité de Participación Social; y
+
+VI. Las demás que le confiera este reglamento, el Consejo General, el Código y la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1483,19 +1531,21 @@ XIV. Las demás que le confiera este reglamento, el Consejo General, el Código 
 
 De las Atribuciones de los Comités.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
-1. El Instituto se apoyará con los Comités siguientes:
+1. El Instituto se apoyará con los órganos siguientes:
 
-I. Técnico de Asesoría Especializada de la Comisión de Adquisiciones y Enajenaciones;
+I. Comité Técnico de Asesoría Especializada de la Comisión de Adquisiciones y Enajenaciones;
 
-II. Clasificación de Información Pública;
+II. Comité de Clasificación de Información Pública;
 
-III. Editorial; y,
+III. Comité Editorial de la Comisión de Investigación y Estudios Electorales;
 
-IV. Los demás que determine el Consejo General.
+IV. Comité de Participación Social de la Comisión de Participación Ciudadana; y
+
+V. Los demás que determine el Consejo General.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1548,6 +1598,12 @@ IX. Evaluar la producción editorial del Instituto;
 X. Promover la publicación de obras de calidad y relacionadas con la actividad del Instituto, así como de los materiales que resulten de interés general para la divulgación de la cultura democrática la educación cívica y la participación ciudadana; y,
 
 XI. Las demás que deriven del presente reglamento o le confiera la Comisión de Investigación y Estudios Electorales.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 55 Bis.
+
+1. El Comité de Participación Social del Instituto es el órgano consultivo de la Comisión de Participación Ciudadana. Se integrará en los términos señalados en el Código y el Reglamento de la Materia, y tendrá a su cargo las atribuciones y obligaciones que en los mismos se establecen; así como las que les confiera el Consejo General.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1751,7 +1807,7 @@ M. Las demás que le confiera la normatividad aplicable, el Consejo General, el 
 
 2. Para los efectos del cómputo en los Consejos Municipales en que se localice más de un distrito, los paquetes electorales serán archivados por distrito en el orden que corresponda a las secciones electorales.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+(REFORMADO, P.O. 19 DE MAYO DE 2016) (REPUBLICADO, P.O. 22 DE SEPTIEMBRE DE 2016)
 
 # LIBRO TERCERO
 
@@ -1783,67 +1839,39 @@ De la Interpretación.
 
 1. La interpretación de las disposiciones del presente reglamento se hará conforme a los criterios gramatical, sistemático y funcional.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
+## TÍTULO TERCERO
+
+De la Contraloría Social.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-1. Corresponde a los integrantes de los Consejos Municipales, además de las funciones y facultades conferidas en la normatividad aplicable:
+1. La Contraloría Social es el espacio de participación y corresponsabilidad por el que los ciudadanos en general y los organismos del sector social y privado asumen el compromiso de vigilar, evaluar y fiscalizar la transparencia, eficacia y eficiencia de los programas, políticas y el ejercicio del gasto público del Instituto, conforme lo establecido en el Código.
 
-I. Al Consejero Presidente del Consejo Municipal:
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
-A. Convocar a las sesiones previstas en el Código y las que se requieran;
+Artículo 63
 
-B. Supervisar la operatividad de los programas informáticos que se implementen por acuerdo del Consejo General o del Consejo Distrital respectivo;
+1. Los ciudadanos, colegios o asociaciones de profesionistas, las asociaciones civiles, las asociaciones de vecinos, así como otras formas de organización social tendrán derecho de ejercer como Contraloría Social, previa solicitud por escrito, estableciendo el objeto de su actuación.
 
-C. Presentar al Secretario Ejecutivo, un informe final de actividades; y,
+2. Los ciudadanos y los organismos del sector social y privado acreditados para ejercer Contraloría Social se regirán conforme a lo dispuesto en el reglamento de la materia.
 
-D. Las demás que le confiera el Código, el Consejo General y el Consejo Distrital
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
 
-II. A los Consejeros Municipales:
+Artículo 64
 
-A. Cumplir con los acuerdos, lineamientos, procedimientos, programas y demás normatividad emitida por el Consejo General o los Consejos Distritales;
+1. Los ciudadanos y los organismos del sector social y privado acreditados para ejercer Contraloría Social tendrán las siguientes atribuciones:
 
-B. Abstenerse de realizar acciones u omisiones que contravengan los principios rectores de la función electoral;
+I. Solicitar la información que considere necesaria para el desempeño de sus funciones a través de la unidad de transparencia;
 
-C. Asistir a los cursos de capacitación para consejeros municipales;
+II. Vigilar el ejercicio de los recursos públicos y que las acciones del Instituto se realicen conforme a la normativa aplicable;
 
-D. Participar en las pruebas y simulacros del Programa de Resultados Electorales Preliminares y cuando corresponda, de urna electrónica;
+III. Emitir informes sobre el desempeño de los programas y ejecución de los recursos públicos; y
 
-E. Asistir a las sesiones y reuniones de trabajo a que sean convocados;
-
-F. Contribuir al buen desarrollo de las sesiones y reuniones de trabajo del Consejo Municipal y desempeñar sus funciones con eficiencia; y,
-
-G. Las demás que les confiera el Código, así como aquellas que les encomienden el Consejo General, o el Presidente del Consejo Distrital.
-
-III. Al Secretario del Consejo Municipal:
-
-A. Elaborar las actas de las sesiones, , y autorizarlas con su firma junto con la del Consejero Presidente del Consejo Municipal;
-
-B. Emitir las comunicaciones necesarias para el correcto funcionamiento del Consejo Municipal;
-
-C. Elaborar minuta de las reuniones previas y de trabajo en las que participe;
-
-D. Auxiliar al Consejero Presidente del Consejo Municipal en la ejecución de los acuerdos tomados en las sesiones y reuniones de trabajo;
-
-E. Acordar con el Consejero Presidente del Consejo Municipal los asuntos de su competencia;
-
-F. Dar trámite inmediato a la correspondencia, salvo en el caso de que su turno amerite acuerdo expreso del Consejo Municipal;
-
-G. Informar del curso de la correspondencia, a los integrantes del Consejo Municipal en la sesión más próxima que ésta celebre;
-
-H. Legalizar los documentos del Consejo Municipal, certificar copias con su firma y expedirlas cuando le sea solicitado por quienes tengan derecho a ello;
-
-I. Remitir oportunamente los informes, actas de sesiones, minutas, certificaciones y demás documentos al Secretario Ejecutivo del Instituto y cuando corresponda al Secretario del Consejo Distrital;
-
-J. Informar inmediatamente al Secretario Ejecutivo de la presentación de medios de impugnación;
-
-K. Llevar el archivo del Consejo Municipal y un registro de actas, acuerdos y resoluciones aprobadas;
-
-L. Auxiliar al Consejero Presidente del Consejo Municipal en la entrega del archivo, los bienes muebles e inmuebles, informes y cuentas del Consejo Municipal al Instituto; y,
-
-M. Las demás que le confiera la normatividad aplicable, el Consejo General, el Consejo Distrital y/o el Presidente del Consejo Municipal.
-
-2. Para los efectos del cómputo en los Consejos Municipales en que se localice más de un distrito, los paquetes electorales serán archivados por distrito en el orden que corresponda a las secciones electorales.
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+IV. Presentar ante la autoridad competente las quejas y denuncias sobre posibles responsabilidades políticas, administrativas, civiles o penales, derivado de sus actividades de vigilancia.
 
 ## TRANSITORIOS
 
@@ -1884,3 +1912,9 @@ P.O. 30 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO IEPC-ACG-039/2016 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA MODIFICAR LOS ARTÍCULOS 7 Y 33 DEL REGLAMENTO INTERIOR DE ESTE ORGANISMO ELECTORAL”.]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.]</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA REFORMAR EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO (IEPC-ACG-045/2016".]
+
+PRIMERO. Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
