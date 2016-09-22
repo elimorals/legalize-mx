@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-autorizacion-de-uso-de-denominaciones-y-8939
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-14"
-last_updated: "2012-09-14"
+last_updated: "2016-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89394&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-09-13"
 
 REGLAMENTO PARA LA AUTORIZACIÓN DE USO DE DENOMINACIONES Y RAZONES SOCIALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de septiembre de 2012.
 
@@ -165,13 +165,17 @@ I. Proporcionar la información que el Sistema le requiera, incluyendo el nombre
 
 Si pretende constituir una sociedad microindustrial o artesanal conforme a la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, el solicitante deberá seleccionar a un Fedatario Público Autorizado o a un Servidor Público, del catálogo que el Sistema ponga a su disposición, en el entendido que el solicitante, el propio Fedatario Público Autorizado seleccionado o el propio Servidor Público seleccionado, podrán cambiar en cualquier momento, a través del Sistema, al Fedatario Público Autorizado o Servidor Público que se haya elegido.
 
-Tratándose de sociedades cooperativas, la selección de un Fedatario Público Autorizado o a un Servidor Público no será obligatoria, sin embargo, en caso de realizarse, aplicarán las reglas que se prevén en el párrafo anterior para el caso de cambios del Fedatario Público Autorizado o Servidor Público que se haya elegido, y
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2016)</small>
+
+Tratándose de sociedades cooperativas o de Sociedades por Acciones Simplificadas, la selección de un Fedatario Público Autorizado o de un Servidor Público no será obligatoria, sin embargo, en caso de realizarse, aplicarán las reglas que se prevén en el párrafo anterior para el caso de cambios del Fedatario Público Autorizado o Servidor Público que se haya elegido, y
 
 II. Ratificar con su firma electrónica avanzada que conoce y acepta que debe darse el Aviso de Uso en los términos establecidos en el artículo 24 del presente Reglamento a fin de evitar la pérdida de exclusividad en el uso de la Denominación o Razón Social de que se trate, y que conoce y acepta las condiciones a las que esté sujeta la Autorización correspondiente.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 15.
 
-La Sociedad o Asociación solamente podrá constituirse o modificar su Denominación o Razón Social ante el Fedatario Público Autorizado o Servidor Público elegido a través del Sistema conforme al artículo 14 del presente Reglamento.
+Con excepción de la Sociedad por Acciones Simplificada, la Sociedad o Asociación solamente podrá constituirse o modificar su Denominación o Razón Social ante el Fedatario Público Autorizado o Servidor Público elegido a través del Sistema conforme al artículo 14 del presente Reglamento.
 
 ###### Artículo 16.
 
@@ -225,6 +229,10 @@ Cualquier interesado podrá acudir a las oficinas de la Secretaría para llevar 
 
 Las personas que no cuenten con un certificado de firma electrónica avanzada vigente podrán solicitar por escrito libre el apoyo de un servidor público de la Secretaría, que conforme a las disposiciones jurídicas aplicables tenga atribuciones para conocer de los trámites a que se refiere el presente Reglamento, el cual llevará a cabo la solicitud y, en su caso, la reserva de la denominación o Razón Social utilizando su propia firma electrónica avanzada, en nombre y por cuenta de la persona que se lo solicita.
 
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2016)</small>
+
+Lo establecido en el párrafo anterior no será aplicable tratándose de Sociedades por Acciones Simplificadas, considerando lo dispuesto por el artículo 262, fracción IV de la Ley General de Sociedades Mercantiles.
+
 En cualquier caso, lo previsto en este artículo sólo será dentro de los días y horas hábiles en los que operan las oficinas de la Secretaría.
 
 ### Capítulo III. Aviso de Uso
@@ -232,6 +240,10 @@ En cualquier caso, lo previsto en este artículo sólo será dentro de los días
 ###### Artículo 24.
 
 El Fedatario Público Autorizado o Servidor Público que haya sido elegido conforme al artículo 14 de este Reglamento deberá dar el Aviso de Uso correspondiente a través del Sistema, dentro de los ciento ochenta días naturales siguientes a la fecha de la Autorización correspondiente, a fin de hacer del conocimiento de la Secretaría de que ha iniciado el uso de la Denominación o Razón Social Autorizada por haberse constituido la Sociedad o Asociación o formalizado su cambio de Denominación o Razón Social ante su fe.
+
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2016)</small>
+
+En el caso de las Sociedades por Acciones Simplificadas, el Aviso de Uso será emitido por la Secretaría de manera automática, al momento en que la misma valide el contrato social por medio del sistema electrónico de constitución al que se refiere el artículo 263 de la Ley General de Sociedades Mercantiles.
 
 ###### Artículo 25.
 
@@ -290,3 +302,11 @@ La Secretaría de Economía deberá cerciorarse de que las denominaciones o razo
 CUARTO.- La Secretaría de Economía realizará las acciones necesarias para que la implementación del presente Reglamento se realice con cargo a su presupuesto autorizado para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para dicho propósito.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de septiembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LA AUTORIZACIÓN DE USO DE DENOMINACIONES Y RAZONES SOCIALES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
