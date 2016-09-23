@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2016-06-17"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -2227,11 +2227,11 @@ IV.- Relacionar al anverso y al reverso de los documentos, cuando la microfilmac
 
 ARTICULO 197 BIS.- El Centro Estatal de Justicia Alternativa será el órgano auxiliar del Consejo de la Judicatura del Estado, que tendrá a su cargo la prestación de los siguientes servicios:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-I.- Instrumentar y operar servicios de mediación y conciliación extrajudicial, en los asuntos susceptibles de transacción cuyo conocimiento está encomendado por la Ley a los tribunales del Poder Judicial del Estado;
+I.- Instrumentar y operar servicios de mediación y conciliación extrajudicial, en los asuntos susceptibles de transacción cuyo conocimiento está encomendado por la Ley a los tribunales del Poder Judicial del Estado, y en materia penal tramitar los mecanismos de mediación, conciliación y de junta restaurativa en los términos que señala el Código Nacional de Procedimientos Penales y la Ley Nacional de Mecanismos Alternativas de Solución de Controversias Penales;
 
 II.- Substanciar procedimientos de mediación y conciliación que pongan fin a las controversias judiciales, a petición expresa de parte interesada en los términos de la Ley de la materia;
 
@@ -2239,11 +2239,11 @@ III.- Promover la mediación y la conciliación como alternativas de prevención
 
 IV.- Las demás que establezcan los ordenamientos legales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-Los servicios a que aluden las fracciones anteriores también podrán ser prestados por especialistas privados en los términos de la Ley de la materia y las disposiciones reglamentarias que se expidan para este efecto.
+Salvo en la materia penal, los servicios a que aluden las fracciones anteriores también podrán ser prestados por mediadores o conciliadores privados en los términos de esta Ley y la Ley de la materia.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -3582,3 +3582,11 @@ SEXTO.- De acuerdo a lo dispuesto por el artículo tercero transitorio de las re
 SEPTIMO.- Los procesos jurisdiccionales en los que ya se encuentre integrado el Tribunal de Juicio Oral o de enjuiciamiento para adultos de manera colegiada, así continuarán hasta ser culminados.
 
 OCTAVO.- El reglamento al que hace referencia el artículo 244 de este Decreto, deberá expedirse en un plazo de 15 días siguientes a la entrada en vigor de esta reforma.
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 560 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 197 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor en los mismos términos y plazos en que entrará en vigor la Ley Nacional de Mecanismos Alternativos de Solución de Controversias Penales de conformidad con lo que establece su artículo primero transitorio.
+
+SEGUNDO.- El Poder Judicial del Estado deberá observar lo dispuesto por los artículos segundo, tercero, cuarto y quinto transitorios de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias Penales.
