@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-turismo-y-43982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-25"
-last_updated: "2015-08-24"
+last_updated: "2016-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO Y DESARROLLO ARTESANAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 25 de febrero de 2005.
 
@@ -57,11 +57,21 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, así c
 
 I. Dirección General de Turismo.
 
-II. Coordinación Administrativa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 23 DE SEPTIEMBRE DE 2016)</small>
 
-III. Unidad Jurídica.
+II. Dirección General de Turismo de Reuniones.
 
-IV. Contraloría Interna.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 23 DE SEPTIEMBRE DE 2016)</small>
+
+III. Coordinación Administrativa.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 23 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Unidad Jurídica.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 23 DE SEPTIEMBRE DE 2016)</small>
+
+V. Contraloría Interna.
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura aprobada y de la normatividad aplicable.
 
@@ -219,6 +229,50 @@ XIX. (DEROGADA, G.G. 24 DE AGOSTO DE 2015)
 
 XX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
+> <small>(ADICIONADO, G.G. 23 DE SEPTIEMBRE DE 2016)</small>
+
+Artículo 9 bis. Corresponde a la Dirección General de Turismo de Reuniones:
+
+I. Promover el desarrollo del turismo de reuniones en el Estado de México, en coordinación con los sectores público, social y privado.
+
+II. Fomentar la inversión para la ampliación, mejora y diversificación del mercado de reuniones en la Entidad.
+
+III. Identificar zonas de turismo de reuniones en el Estado e impulsar, en su caso, su desarrollo.
+
+IV. Organizar y coordinar eventos para fomentar y difundir el turismo de reuniones en el Estado.
+
+V. Asesorar y apoyar técnicamente a quien solicite la explotación de bienes y servicios relacionados con el turismo de reuniones.
+
+VI. Diseñar, coordinar e instrumentar una estrategia general para fomentar la profesionalización en el área de turismo de reuniones en el Estado.
+
+VII. Formular y proponer su programa anual de actividades y de presupuesto.
+
+VIII. Involucrar y vincular acciones conjuntamente con los sectores público, social y privado, para ejecutar programas y proyectos que propicien el desarrollo de los destinos de reuniones en el Estado de México.
+
+IX. Coordinar las acciones de promoción hacia la industria de reuniones en sus segmentos de mercado.
+
+X. Realizar estudios de mercado que permitan diseñar planes para la atracción de reuniones en el Estado de México.
+
+XI. Contribuir a los esfuerzos de consolidación y protección de las marcas cuya titularidad sea del Estado de México o de la Secretaría, promoviendo las herramientas de promoción y difusión más adecuadas.
+
+XII. Elaborar y proponer la participación del Estado de México en ferias y eventos especializados en la industria de reuniones.
+
+XIII. Postular al Estado de México en competencias para ser sede de Congresos Nacionales e Internacionales, coordinando esfuerzos con los actores provenientes de diversos sectores.
+
+XIV. Detectar, captar y canalizar las oportunidades específicas de negocios en materia de turismo de reuniones, así como dar seguimiento hasta el cierre de los mismos, con destinos y prestadores.
+
+XV. Desarrollar la estrategia especializada de mercadeo a corto y mediano plazo, así como desarrollar una cartera de clientes y asesores relativa a la industria de reuniones.
+
+XVI. Determinar indicadores que promuevan la productividad y eficiencia de la Secretaría, a través de mecanismos de control para la evaluación del desempeño del turismo de reuniones, así como la medición de su impacto en la economía de la entidad.
+
+XVII. Contribuir a fortalecer la industria de reuniones del Estado, por medio de los procesos institucionales para alcanzar sus objetivos.
+
+XVIII. Coadyuvar con los clusters económicos y académicos del Estado de México a fin de atraer eventos de acuerdo a los mercados respectivos.
+
+XIX. Promover la participación de grupos de trabajo con la participación de especialistas en la materia para perfeccionar las estrategias dirigidas a la industria de reuniones
+
+XX. Las demás que le confieren las disposiciones legales y aquellas que le encomiende el Secretario.
+
 ###### Artículo 10.
 
 Corresponde a la Coordinación Administrativa:
@@ -374,6 +428,16 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Acuerdo.
 
 G.G. 24 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Acuerdo.
+
+G.G. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO".]
 
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
