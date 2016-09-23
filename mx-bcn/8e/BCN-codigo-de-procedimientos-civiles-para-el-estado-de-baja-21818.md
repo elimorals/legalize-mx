@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-09-09"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -6325,6 +6325,38 @@ TITULO DECIMOSEXTO
 
 ART. 925.- Todos los problemas inherentes a la familia se consideran de orden público, por constituir la base de la integración de la sociedad.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 925 BIS.- A petición de parte o de oficio, tratándose de actos constitutivos de violencia familiar a través de los cuales se vulnere la integridad física de los miembros de la familia, el juez podrá decretar medidas de protección dentro de las 24 horas siguientes a que tenga conocimiento de los hechos.
+
+Las medidas de protección se mantendrán por el tiempo estrictamente necesario para asegurar la finalidad por la que fueren adoptadas, tomando en cuenta las circunstancias del caso y la naturaleza de la medida.
+
+La imposición de estas medidas deberá estar debidamente fundada y motivada, y será de ejecución inmediata, sin perjuicio del derecho del afectado a acudir ante el Juez durante la ejecución de la medida para su revisión.
+
+Para hacer cumplir sus determinaciones, el juez de lo familiar puede emplear cualquiera de los medios de apremio previstos en el presente Código.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+ART. 925 TER.- Las medidas de protección, a juicio del juez, podrán ser:
+
+I. Desocupación del agresor, o probable responsable, del domicilio que habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento o comodato.
+
+II. Prohibición al agresor, o probable responsable, de acercarse a la víctima, sus ascendientes o descendientes.
+
+III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad.
+
+IV. Prohibición de intimidar o molestar a la víctima, así como a cualquier integrante de su núcleo familiar.
+
+V. Acceso de autoridades policíacas o de personas que auxilien a la víctima, al domicilio en común con el agresor, para tomar las pertenencias personales y familiares de la o de las víctimas que vivan en el domicilio.
+
+VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
+
+VII. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes.
+
+VIII. Las demás que considere necesarias.
+
+En los casos de violencia familiar contra de niñas, niños o adolescentes, las medidas de protección podrán ser también el ingreso a un centro de asistencia social y atención médica inmediata por parte de alguna institución del Sistema Estatal de Salud.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ART. 926.- El Juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad, incapaces y de alimentos, decretando las medidas provisionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor, incluyendo al concebido no nacido, debiendo razonar y sustentar la medida decretada.
@@ -7160,3 +7192,9 @@ P.O. 9 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 555 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 932 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 563 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULOS (SIC) 925 BIS Y DEL ARTÍCULO 925 TER DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
