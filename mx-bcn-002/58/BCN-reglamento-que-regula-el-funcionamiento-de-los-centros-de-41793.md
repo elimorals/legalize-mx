@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-que-regula-el-funcionamiento-de-los-centros-de-41793
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-19"
-last_updated: "2004-11-19"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE DESARROLLO HUMANO INTEGRAL DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de noviembre de 2004.
 
@@ -93,9 +93,17 @@ II.- Organizar y desarrollar proyectos productivos con grupos o sectores de la c
 
 III.- Promover y difundir entre la comunidad los servicios que se presten;
 
-IV.- Impulsar la realización de eventos cívicos, deportivos y culturales, y;
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-V.- Las demás que determine Desom a través de su Departamento.
+IV.- Garantizar que los adultos mayores tengan acceso gratuito a las instalaciones, su participación en los cursos y eventos sea sin costo.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Impulsar la realización de eventos cívicos, deportivos, culturales, y;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+VI.- Las demás que determine DESOM a través de su departamento.
 
 ### CAPÍTULO IV. DEL DEPARTAMENTO
 
@@ -142,3 +150,15 @@ A T E N T A M E N T E
 LIC. LUIS CHIANG RODRÍGUEZ
 
 SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA INICIATIVA DE REFORMA Y ADICIONA UNA FRACCIÓN CUARTA AL ARTÍCULO 8 DEL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE DESARROLLO HUMANO INTEGRAL DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO: PUBLÍQUESE EL PRESENTE ACUERDO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+SEGUNDO: TÓMENSE LAS PREVISIONES CORRESPONDIENTES A EFECTO DE ESTABLECER EN EL ANTEPROYECTO DE LEY DE INGRESOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL 2017, LA GRATUIDAD PARA ADULTOS MAYORES AL ACCESO, CURSOS Y EVENTOS QUE REALICEN LOS CENTROS DE DESARROLLO HUMANO INTEGRAL DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+
+TERCERO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR EN TANTO SE APRUEBE EL ANTEPROYECTO DE LEY DE INGRESOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA PARA EL EJERCICIO FISCAL 2017.
