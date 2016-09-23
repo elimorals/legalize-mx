@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-construccion-para-el-municipio-de-salamanca-89183
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-17"
-last_updated: "2012-08-17"
+last_updated: "2016-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE SALAMANCA, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ORDENAMIENTO Y ADMINISTRACIÓN SUSTENTABLE TERRITORIAL DEL MUNICIPIO DE SALAMANCA, GUANAJUATO, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE CONSTRUCCIÓN PARA EL MUNICIPIO DE SALAMANCA, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2012.
 
@@ -751,7 +753,7 @@ e) Responsiva del Director Responsable de Obra y de los Corresponsables, en su c
 
 f) Memoria descriptiva del procedimiento que se vaya a emplear y la indicación del sitio de disposición donde se va a depositar el material producto de la demolición bajo las condiciones que establecen las autoridades correspondientes en materia de vialidad, transporte y el propio sitio de disposición final, documentos que deberán estar firmados por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
 
-g) Medidas de protección a colindancias, y (sic)
+g) Medidas de protección a colindancias, y
 
 h) Se debe presentar un programa en el que se indicará el orden, volumen estimado y fechas aproximadas en que se demolerán los elementos de la edificación, así como los horarios de trabajos, los cuales estarán sujetos a la aprobación de la Dirección.
 
@@ -1179,7 +1181,7 @@ II. De marquesina: Cuando los trabajos se ejecuten a más de 5 m de altura, se c
 
 III. Fijos: En las obras que se ejecuten en un predio a una distancia menor de 10 m de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Serán de madera, lámina, concreto, mampostería o de otro material que ofrezca garantías de seguridad. Tendrán una altura mínima de 2.40 m; deben estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una franja anexa hasta de 0.50 m sobre la banqueta. Previa solicitud, la Dirección podrá conceder mayor superficie de ocupación de banquetas; siempre y cuando no se impida el paso de peatones incluyendo a personas con discapacidad;
 
-IV. De paso cubierto: En obras cuya altura sea mayor de 5 m y en aquellas en que la invasión de banqueta lo amerite, la Dirección exigirá la construcción de un paso cubierto, además del tapial. Tendrá, cuando menos, una altura de 2.40 m y una anchura libre de 1.20 m, y (sic)
+IV. De paso cubierto: En obras cuya altura sea mayor de 5 m y en aquellas en que la invasión de banqueta lo amerite, la Dirección exigirá la construcción de un paso cubierto, además del tapial. Tendrá, cuando menos, una altura de 2.40 m y una anchura libre de 1.20 m, y
 
 En casos especiales, la Dirección podrá permitir o exigir otro tipo de tapiales diferentes a los especificados en este artículo.
 
@@ -1443,7 +1445,7 @@ II. Acumulen escombro o basura;
 
 III. Se trate de excavaciones profundas;
 
-IV. Impliquen la aplicación de cargas o la transmisión de vibraciones a las edificaciones, mayores a las de diseño autorizado, y (sic)
+IV. Impliquen la aplicación de cargas o la transmisión de vibraciones a las edificaciones, mayores a las de diseño autorizado, y
 
 V. Produzcan humedad, salinidad, gases, humos, polvos, ruidos, cambios importantes de temperatura, malos olores, u otros efectos perjudiciales o molestos que puedan ocasionar daño al medio ambiente, a terceros en su persona, sus propiedades o posesiones.
 
@@ -1944,3 +1946,25 @@ Antonio Ramírez Vallejo
 El Secretario del H. Ayuntamiento.
 
 Lic. Guillermo Lamadrid Álvarez
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ORDENAMIENTO Y ADMINISTRACIÓN SUSTENTABLE TERRITORIAL DEL MUNICIPIO DE SALAMANCA, GTO.”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Con la entrada en vigor del presente Reglamento, se Abrogan los siguientes Reglamentos: Reglamento de Anuncios para el Municipio de Salamanca, Guanajuato, publicado en el Periódico Oficial No. 8 Segunda Parte, en fecha 18 de Enero del 2002; Reglamento de Construcción para el Municipio de Salamanca, Guanajuato, publicado en el Periódico Oficial No. 132 Segunda Parte, en fecha 17 de Agosto del 2012; y Reglamento de Zonificación y Usos del Suelo para el Municipio de Salamanca, Guanajuato, publicado en el Periódico Oficial No. 158 Segunda Parte, en fecha 2 de Octubre del 2012.
+
+Tercero.- Los requisitos para el otorgamiento de los permisos que se otorguen al amparo del presente Reglamento, deberán ser publicados en el Periódico Oficial de Gobierno del Estado de Guanajuato, con 30 treinta días de anticipación a la conclusión de cada año venidero.
+
+Cuarto.- Las Normas Técnicas Complementarias deberán publicarse en el término de 45 cuarenta (sic) días hábiles, contados a partir de que se publique el presente reglamento.
+
+Quinto.- Cualquier referencia a los ordenamientos abrogados, que se realice en Leyes, Reglamentos, Acuerdos, Disposiciones Administrativas de observancia general o cualquier acto jurídico y administrativo emitido por el H. Ayuntamiento o por alguna de sus Dependencias y/o Unidades Administrativas, se entenderá realizada al presente Reglamento.
+
+Sexto.- Las atribuciones, derechos y obligaciones de las Dependencias y entidades municipales que se encontraban vigentes, antes de la entrada en vigor del presente Reglamento, se subrogan en las autoridades competentes y auxiliares del presente Reglamento.
+
+Séptimo.- Todas las facultades y atribuciones contenidas en este Reglamento y correspondientes al IMPLAN, serán ejercitadas por la Dirección hasta en tanto no exista de manera oficial el mismo.
+
+Octavo.- Los procedimientos y trámites administrativos iniciados antes de la entrada en vigor del presente Reglamento, se tramitarán conforme a las disposiciones vigentes en aquel momento hasta su total conclusión.
