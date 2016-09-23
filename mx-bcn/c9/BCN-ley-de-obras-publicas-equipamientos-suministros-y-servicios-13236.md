@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "2013-02-15"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -87,7 +87,9 @@ I.- Dirección: Dirección de Control y Evaluación Gubernamental en el ámbito 
 
 II.- Ejecutivo: Gobernador del Estado y Presidente Municipal.
 
-III.- Secretaría: La Secretaría de Asentamientos Humanos y Obras Públicas dentro del ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado dentro del ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
 
@@ -355,7 +357,9 @@ Las Dependencias o Entidades solo podrán celebrar contratos de obra pública, s
 
 La clasificación a que se refiere el párrafo primero del artículo anterior, deberá ser considerada por las dependencias y entidades en la convocatoria y contratación de la obra pública y de los servicios relacionados con la misma.
 
-Cuando en los Municipios no se tenga integrado dicho Padrón, sus dependencias y entidades solo podrán celebrar contratos de obra pública o servicios relacionados con las mismas, con las personas inscritas en el Padrón elaborado por la Secretaría de Asentamientos Humanos y Obras Públicas.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+Cuando en los Municipios no se tenga integrado dicho Padrón, sus dependencias y entidades solo podrán celebrar contratos de obra pública o servicios relacionados con las mismas, con las personas inscritas en el Padrón elaborado por la Secretaría de Infraestructura y Desarrollo Urbano del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
 
@@ -1300,3 +1304,9 @@ Las presentes reformas entrarán en vigor a partir del día siguiente al de su p
 P.O. 15 DE FEBRERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 556 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4 Y 28 DE LA LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
