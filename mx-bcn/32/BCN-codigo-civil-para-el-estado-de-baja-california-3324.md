@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-09-20"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2257,6 +2257,10 @@ El cónyuge que se haya separado del otro sigue obligado a cumplir con los gasto
 
 ARTICULO 320 BIS.- Toda persona a quien, por su cargo, le corresponda atender la orden de descuento de los alimentos o proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a dar trámite a dichas órdenes de descuento y/o a suministrar los datos exactos que le solicite el juez de lo Familiar, dando respuesta dentro del término de tres días; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+El deudor alimentario deberá de informar al juez de lo familiar y al acreedor alimentista cualquier cambio de condiciones a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
+
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
 ### CAPITULO I. DE LOS HIJOS DE MATRIMONIO
@@ -3103,33 +3107,19 @@ III.- Por la mayor edad del hijo.
 
 IV.- Cuando quienes ejerzan la patria potestad hayan aceptado ante la autoridad judicial la entrega del menor a las instituciones de asistencia pública, siempre y cuando no haya otra persona en quien recaiga, en términos de lo dispuesto en el artículo 411 de este código;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>[N. DE E. PARA LOS SUBSECUENTES PÁRRAFOS VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2016, PÁGINA 7.]</small>
 
-V.- Por el abandono sin causa justificada que el padre, la madre o quien ejerza la patria potestad hiciere de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, por más de tres meses en alguna institución de asistencia pública o privada, siempre y cuando no haya otra persona en quien recaiga, en términos de lo dispuesto en el artículo 411 de este código;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+V.- Cuando se exponga sin causa justificada por más de un día a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, poniendo en riesgo su integridad personal.
 
-VI.- Cuando se exponga por más de un día a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, poniendo en riesgo su integridad personal.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+Se considera expósito a la persona cuyo origen se desconoce menor de dieciocho años de edad o persona que no tengan capacidad para comprender el significado del hecho y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos, esta causal solo procede por Resolución Judicial.
 
-En relación a la fracción V, se tendrá por abandonada, la persona menor de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes; aceptando la posibilidad de que alguna institución pública o privada se haga cargo del mismo.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a las personas menores de dieciocho años de edad desamparados sin asumir de inmediato el ejercicio de los deberes que natural y legalmente se deriven de la relación paterno-filial.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-El abandono en los términos aquí previstos, será acreditado mediante constancia de abandono expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, misma que valorara y resolverá el Juez competente.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Para los efectos de la fracción VI, se considera expósito a la persona menor de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, tendrá atribuciones para promover, en su carácter de tutor, la reintegración inmediata y oportuna de las personas menores de dieciocho años de edad expósitos o abandonados, a un ambiente familiar a través de hogares adoptivos o substitutos.
+El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, tendrá atribuciones para promover, en su carácter de tutor, la reintegración inmediata y oportuna de los menores expósitos a un ambiente familiar a través de hogares adoptivos o substitutos.
 
 ###### ARTICULO 441.
 
@@ -3149,17 +3139,21 @@ III.- Cuando por las costumbres o hábitos de quienes la ejercen, malos tratos o
 
 IV.- Cuando quienes ejercen la patria potestad permitan o toleren que otras personas atenten contra la seguridad e integridad física, emocional y sexual de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho;
 
-V.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-VI.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
+V.- Por el abandono sin causa justificada que el padre, la madre o quien ejerza la patria potestad hiciere de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, por más de tres meses en alguna institución de asistencia pública o privada, siempre y cuando no haya otra persona en quien recaiga, en términos de lo dispuesto en el artículo 411 de este código;
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+Se reputa abandonada la persona menor de dieciocho años de edad cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes; aceptando la posibilidad de que alguna institución pública o privada se haga cargo del mismo.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a las personas menores de dieciocho años de edad desamparados sin asumir de inmediato sin causa justificada, el ejercicio de los deberes que natural y legalmente se deriven de la relación paterno-filial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, podrá promover la pérdida de patria potestad de las personas menores de dieciocho años de edad abandonados y tendrá atribuciones para promover, en su carácter de tutor, la reintegración inmediata y oportuna de estos a un ambiente familiar a través de hogares adoptivos o substitutos.
 
 ###### ARTICULO 442.
 
@@ -16440,3 +16434,21 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 558 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 440 Y 148 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejarán sin efecto los trámites de patria potestad acabada por abandono que no hayan sido resueltos por el juez competente antes de la entrada en vigor del presente decreto. En estos casos se procederá conforme a lo dispuesto en la fracción V del artículo 441 del presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 562 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 320 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
