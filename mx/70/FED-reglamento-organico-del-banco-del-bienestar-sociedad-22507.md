@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-del-bienestar-sociedad-22507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-29"
-last_updated: "2015-08-25"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22507&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-11-27"
 
 REGLAMENTO ORGÁNICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de noviembre de 2001.
 
@@ -109,13 +109,17 @@ La Institución tendrá una duración indefinida.
 
 ### Capítulo II. Del Capital Social
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 7o.
 
-El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $1,497'025,000.00 (MIL CUATROCIENTOS NOVENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.). El capital social pagado es por la cantidad de $1,497'025,000.00 (MIL CUATROCIENTOS NOVENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.).
+El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $1,747’025,000.00 (MIL SETECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.). El capital social pagado es la cantidad de $1,747’025,000.00 (MIL SETECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.).
 
-Dicho capital social estará representado por 98'803,650 (NOVENTA Y OCHO MILLONES OCHOCIENTOS TRES MIL SEISCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie "A", con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.) cada uno y por 50'898,850 (CINCUENTA MILLONES OCHOCIENTOS NOVENTA Y OCHO MIL OCHOCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie "B", con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.) cada uno.
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2016)</small>
+
+Dicho capital social estará representado por 115’303,650 (CIENTO QUINCE MILLONES TRESCIENTOS TRES MIL SEISCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “A”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.), cada uno y por 59’398,850 (CINCUENTA Y NUEVE MILLONES TRESCIENTOS NOVENTA Y OCHO MIL OCHOCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “B”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.) cada uno.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Institución, por acuerdo de la Secretaría y mediante modificación a este Reglamento.
 
@@ -672,3 +676,11 @@ El presente Acuerdo, entrará en vigor el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DISPONE EL AUMENTO DEL CAPITAL SOCIAL DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO Y SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 7o. DEL REGLAMENTO ORGÁNICO DE LA SOCIEDAD".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
