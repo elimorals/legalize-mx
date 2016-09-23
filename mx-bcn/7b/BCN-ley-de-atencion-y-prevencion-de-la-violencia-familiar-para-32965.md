@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2012-12-07"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -309,7 +309,7 @@ Corresponde a la Procuraduría General de Justicia, para el debido cumplimiento 
 
 I. Proporcionar a la víctima de la violencia familiar, la protección y auxilio derivado del artículo 20 apartado C de la Constitución Política de los Estados Unidos Mexicanos, pudiendo gestionar ante otras autoridades aquella que no esté en posibilidades de proporcionar;
 
-II. Brindar asistencia a la víctima de violencia familiar, cuando así lo solicite a través de la unidad administrativa competente, y (sic)
+II. Brindar asistencia a la víctima de violencia familiar, cuando así lo solicite a través de la unidad administrativa competente, y
 
 III. Coadyuvar con los distintos organismos sociales que participan en la protección de las víctimas de la violencia familiar, en las actividades de aquellos centros o sistemas que brindan atención, protección y auxilio a la víctima de la violencia familiar;
 
@@ -353,9 +353,11 @@ El personal de las instituciones públicas o privadas relacionadas con la violen
 
 La capacitación tendrá una estrategia multiplicadora y deberá estar dirigida a la sensibilización y compresión de la complejidad y multicausalidad de la violencia familiar, a la reflexión de cómo pueden perfeccionarse las propuestas de atención y fortalecimiento del compromiso de servicio acorde al objeto de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-Los organismos sociales, las autoridades, dependencias e instituciones señaladas en esta Ley, deberán coordinarse en forma eficiente, rápida e imparcial a través de convenios de colaboración o mediante los mecanismos legales conducentes, a efecto de instrumentar y ejecutar las políticas públicas de prevención que prevé esta Ley.
+Los organismos sociales, las autoridades, dependencias e instituciones señaladas en la Ley, deberán coordinarse en forma eficiente, rápida e imparcial a través de convenios de colaboración o mediante los mecanismos legales conducentes, a efecto de instrumentar y ejecutar las políticas públicas de prevención que prevé esta Ley. Asimismo deberán coordinarse, considerando la disponibilidad presupuestaria, para la realización de campañas de difusión e información a los habitantes del Estado sobre los programas de atención, asistencia y prevención de la violencia familia (sic), debiendo priorizar el interés superior del menor y la familia.
 
 ### CAPÍTULO SEXTO. PROCEDIMIENTO CONCILIATORIO Y SU SEGUIMIENTO
 
@@ -520,3 +522,9 @@ II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día t
 P.O. 7 DE DICIEMBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 564 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 30 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
