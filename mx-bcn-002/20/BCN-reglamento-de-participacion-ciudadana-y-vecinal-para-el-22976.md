@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-participacion-ciudadana-y-vecinal-para-el-22976"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2015-05-15"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA Y VECINAL PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -79,23 +79,31 @@ VII.- Sustentabilidad: Responsabilidad de que las decisiones asumidas en el pres
 
 VIII.- Equidad: Que se refiere a la igualdad de oportunidades entre las personas y a la distribución equitativa de tos bienes económicos y materiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 3.
 
-Para los efectos de este Reglamento se establecen las siguientes abreviaturas:
+Para los efectos de este Reglamento se entiende por:
 
 I.- Constitución: La Constitución Política del Estado Libre y Soberano de Baja California;
 
 II.- Ley: La Ley de Participación Ciudadana del Estado de Baja California;
 
-III.- LIPE: La Ley de Instituciones y Procesos Electorales del Estado de Baja California;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Ley Electoral: La Ley Electoral del Estado de Baja California;
 
 IV.- Reglamento: El Reglamento de Participación Ciudadana y Vecinal para el Municipio de Mexicali, B.C.;
 
 V.- Instituto: El Instituto Estatal Electoral del Estado de Baja California;
 
-VI.- Padrón: El Padrón Estatal Electoral de la Dirección General de Registro Estatal de Electores del Instituto Estatal Electoral;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
-VII.- Lista Nominal: La lista nominal de electores con imagen de la Dirección General del Registro Estatal de Electores del Instituto Estatal Electoral, correspondiente a los ciudadanos registrados en el Municipio de Mexicali, B.C.;
+VI.- Padrón: El padrón electoral elaborado por el Instituto Nacional Electoral en la parte correspondiente al Municipio de Mexicali, Baja California;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+VII.- Lista Nominal: La lista nominal con fotografía elaborada por el Instituto Nacional Electoral en la parte correspondiente al Municipio de Mexicali, Baja California;
 
 VIII.- Periódico Oficial: El Periódico Oficial del Estado de Baja California;
 
@@ -129,17 +137,21 @@ VII. Sistema de Quejas, Denuncias y Sugerencias.
 
 El Ayuntamiento propiciará espacios para la participación de los ciudadanos en la toma de decisiones al interior de la administración pública municipal, para lo cual procurará la integración de representantes no gubernamentales en las juntas de gobierno y consejos directivos de las entidades paramunicipales, conforme lo disponga en los acuerdos de creación de dichos organismos, así como la creación de consejos consultivos ciudadanos por las diferentes materias o ramos de la administración pública.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 6.
 
-A falta de disposición expresa en el presente Reglamento, aplicará lo dispuesto en la Ley y en la LIPE, en lo que resulte conducente.
+A falta de disposición expresa en el presente Reglamento, aplicará lo dispuesto en la Ley y en la Ley Electoral, en lo que resulte conducente.
 
 ### CAPÍTULO SEGUNDO. DE LOS CIUDADANOS Y VECINOS DEL MUNICIPIO
 
 #### SECCIÓN PRIMERA. DE LOS CIUDADANOS Y VECINOS
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 7.
 
-Son vecinos del Municipio los ciudadanos que tengan residencia efectiva en su territorio de por lo menos seis meses.
+Son vecinos del Municipio de Mexicali los ciudadanos que tengan residencia efectiva en su territorio de por lo menos seis meses.
 
 ###### ARTÍCULO 8.
 
@@ -233,7 +245,9 @@ Los cargos que se desempeñen en el Consejo serán honoríficos, por lo que sus 
 
 Los representantes ciudadanos deberán reunir además los siguientes requisitos:
 
-I.- No podrán tener cargo, empleo o comisión en la administración pública federal, estatal o municipal, salvo los académicos y docentes; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+I.- No podrán tener cargo, empleo o comisión en la administración pública federal, estatal o municipal, salvo los académicos, investigadores y docentes; y
 
 II.- No desempeñar o haber desempeñado cargos directivos de partidos o asociaciones políticas ni cargos de elección de popular, o haber contendido como candidato para alguno de ellos, en los seis años inmediatos anteriores a su designación.
 
@@ -245,13 +259,17 @@ Los integrantes del Consejo tendrán derecho a voz y voto en las resoluciones de
 
 El Consejo se considerará legalmente instalado con la asistencia de la mayoría de sus integrantes, siempre y cuando esté presente el Presidente del Consejo y el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-Corresponde al Consejo:
+El Consejo tendrá las siguientes atribuciones:
 
 I.- Promover entre los ciudadanos los instrumentos de participación ciudadana que regula el presente Reglamento;
 
-II.- Impulsar el fortalecimiento de los valores democráticos entre los ciudadanos para que puedan ejercer sus derechos y deberes de manera consciente y plena;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Celebrar convenios con autoridades de los distintos órdenes de gobierno, así como con organismos de la sociedad civil, para impulsar el fortalecimiento de los valores democráticos entre los ciudadanos para que puedan ejercer sus derechos y deberes de manera consiente (sic) y plena;
 
 III.- Determinar la procedencia o improcedencia de las solicitudes de plebiscito y referéndum que presenten los ciudadanos o el Ayuntamiento en su caso;
 
@@ -305,11 +323,13 @@ II.- La exposición de motivos y razones por las cuales el acto se considera tra
 
 III.- Determinación de la circunscripción territorial en la que se pretenda realizar el plebiscito, ya sea todo el Municipio o alguna o algunas de sus demarcaciones territoriales;
 
-IV.- Cuando sea presentada por ciudadanos, deberá contener los datos de cada solicitante como son: nombre completo, clave de la credencial estatal de elector, firma de cada uno de los solicitantes y la designación de un representante común, quien deberá señalar domicilio para oír y recibir notificaciones. En este caso, el Secretario del Consejo verificará los datos aportados.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Cuando se (sic) presentada por ciudadanos, deberá contener los datos de cada solicitante como son: nombre completo, clave de la credencial de elector vigente expedida por el Instituto Nacional Electoral, firma de cada uno de los solicitantes y la designación de un representante común, quien deberá señalar domicilio para oír y recibir notificaciones. En este caso, el Secretario del Consejo verificará los datos aportados.
 
 El representante común designado por los promoventes, tendrá la representación legal para los efectos del presente Reglamento.
 
-Para efectos de la fracción IV del presente artículo, el Secretario del Consejo facilitará al solicitante los formatos oficiales a efecto de que en ellos recabe la información de los ciudadanos que representen el porcentaje que exige este Reglamento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 24.
 
@@ -319,7 +339,9 @@ En un plazo no mayor de veinte días hábiles siguientes a la recepción de la s
 
 A cada proceso de plebiscito precederá una convocatoria pública que se deberá expedir cuando menos sesenta días naturales antes de la fecha de su realización. La convocatoria la hará el Consejo con el apoyo del Instituto, en los términos del convenio respectivo.
 
-La convocatoria se publicará en el Periódico Oficial y se difundirá por los medios de comunicación que se determine, y contendrá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+La convocatoria se publicará en el Periódico Oficial, y por lo menos en uno de los diarios de mayor circulación en el Municipio, debiéndose difundir por los medios de comunicación que se determine incluyendo el portal o página de internet institucional del Ayuntamiento, y contendrá:
 
 I.- El objeto del acto que se somete a plebiscito;
 
@@ -341,11 +363,11 @@ IX.- Lugar y fecha de la emisión de la convocatoria.
 
 El Consejo podrá auxiliarse de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales, u organismos ciudadanizados relacionados con la materia de que trate el plebiscito, para la elaboración de las preguntas que se someterán a consulta.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-En el año en que tengan verificativo elecciones ordinarias, no podrá realizarse plebiscito durante el periodo comprendido entre la preparación de la elección y los sesenta días posteriores a la Jomada Electoral, de conformidad con la LIPE.
-
-No podrá realizarse más de un proceso de plebiscito en el mismo año. En el caso de plebiscitos con circunscripción menor a la municipal el Consejo determinará la posibilidad de que se realice más de uno.
+No podrán realizarse más de dos procesos de plebiscito en el mismo año. En el caso de plebiscitos con circunscripción menor a la municipal el Consejo determinará la posibilidad de que se realicen más de dos.
 
 ###### ARTÍCULO 27.
 
@@ -355,11 +377,19 @@ I.- Tener vecindad en el Municipio, con residencia efectiva de por lo menos seis
 
 II.- Estar inscritos en el Padrón y aparecer en la Lista Nominal, y
 
-III.- Tener Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Tener Credencial de Elector vigente.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 28.
 
-Los resultados del plebiscito tendrán carácter vinculatorio para los actos del Ayuntamiento o sus dependencias y entidades, cuando una de las opciones obtenga la mayoría de votación válidamente emitida, y siempre y cuando hayan participado en el proceso por lo menos el treinta por ciento del número de electores que votaron en la elección de Presidente Municipal inmediata anterior, de acuerdo a la Lista Nominal utilizada en la misma.
+Los resultados del plebiscito tendrán carácter vinculatorio para los actos del Ayuntamiento o sus dependencias y entidades en los siguientes casos cuando:
+
+I.- Tratándose de plebiscitos cuya circunscripción territorial sea todo el municipio, una de las opciones obtenga la mayoría de votación válidamente emitida, y esta corresponda cuando menos al diez por ciento de los ciudadanos incluidos en la lista nominal que corresponda a la circunscripción territorial del municipio.
+
+II.- Tratándose de plebiscitos cuya circunscripción territorial sea alguna o algunas de las demarcaciones territoriales del municipio, una de las opciones alcance mayoría.
 
 ### CAPÍTULO QUINTO. DEL REFERÉNDUM
 
@@ -393,13 +423,17 @@ III.- Régimen interno y de organización del Ayuntamiento y de la Administraci�
 
 IV.- Las demás que determinen las leyes o reglamentos.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 33.
 
-El referéndum puede ser solicitado por los ciudadanos vecinos en el Municipio que representen cuando menos el 1% de los electores de la Lista Nominal.
+El referéndum puede ser solicitado por los ciudadanos vecinos en el Municipio que representen cuando menos el 0.5% de los electores de la Lista Nominal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 34.
 
-Las solicitudes de los ciudadanos para promover referéndum, deberán presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Secretario del Consejo y deberán contener:
+Las solicitudes de los ciudadanos para promover referéndum, deberán contener:
 
 I.- Nombre del representante común de los promoventes;
 
@@ -409,17 +443,27 @@ III.- Indicación de la norma o normas objeto de referéndum;
 
 IV.- Exposición de motivos por los cuales se considera necesario someter la norma o normas a referéndum, y
 
-V.- Nombre completo, firma y clave de la Credencial Estatal de Elector de cada uno de los ciudadanos.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Nombre completo, firma y clave de la Credencial de Elector de cada uno de los ciudadanos.
 
 El Secretario del Consejo verificará la autenticidad y veracidad de los datos.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-La solicitud se deberá presentar dentro de los treinta días hábiles siguientes a la publicación en el Periódico Oficial de la norma o normas objeto de consulta.
+La solicitud se deberá presentar dentro de los sesenta días hábiles siguientes a la publicación en el Periódico Oficial de la norma o normas objeto de consulta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-El Consejo resolverá en un plazo no mayor de veinte días hábiles siguientes a la recepción de la solicitud de referéndum, el cumplimiento de los requisitos de presentación a que se refieren los artículos 32, 33 y 34 del presente ordenamiento. En caso afirmativo notificará a los solicitantes, de lo contrario desechará de plano la solicitud.
+El Consejo resolverá en un plazo no mayor de veinte días hábiles siguientes a la recepción de la solicitud de referéndum, el cumplimiento de los requisitos de presentación a que se refieren los artículos 32, 33 y 34 del presente ordenamiento. En caso afirmativo notificará a los solicitantes, de lo contrario desechará de pleno la solicitud.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+Para el caso de que la solicitud no cumpliera con lo señalado en la fracción I, del Artículo 34 del presente ordenamiento, se notificará a las partes en el domicilio que designaron para oír notificaciones, para que en el término de 3 días, contados a partir de la notificación, se subsane, y en caso de no hacerlo, se procederá en términos de la parte final del párrafo anterior.
 
 ###### ARTÍCULO 37.
 
@@ -429,13 +473,13 @@ A cada proceso de referéndum precederá una convocatoria que se deberá expedir
 
 Corresponde al Consejo, con el auxilio del Instituto en los términos del convenio respectivo, la elaboración de la convocatoria, debiendo publicarse en el Periódico oficial y en los medios de comunicación que se consideren convenientes, y contendrá:
 
-l.- Referencia de la norma o normas qué se propone someter a referéndum;
+I.- Referencia de la norma o normas qué se propone someter a referéndum;
 
 II.- Transcripción clara y sucinta de los motivos a favor o en contra expuestos;
 
 III.- Fecha en que habrá de realizarse la votación;
 
-IV.-Horario de votación;
+IV.- Horario de votación;
 
 V.- Requisitos para participar;
 
@@ -467,15 +511,17 @@ El referéndum sólo tendrá carácter vinculatorio cuando sea rechazado o aprob
 
 #### SECCIÓN PRIMERA. DE LA PROCEDENCIA O IMPROCEDENCIA
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-El Consejo con el voto de cuando menos las dos terceras partes de sus integrantes, previo estudio elaborado por una comisión de entre ellos mismos, determinará si es trascendente para la vida pública del Municipio, debidamente fundado y motivado según sea el caso:
+El Consejo con el voto de cuando menos las dos terceras partes de sus integrantes, previo estudio fundado y motivado, determinará si es trascendente para la vida pública del Municipio, según sea el caso:
 
 I.- El acto del Ayuntamiento, dependencia o entidad municipal, en caso del plebiscito, y
 
 II.- La norma o normas que se propone someter a referéndum.
 
-La Comisión de miembros del Consejo que se integre podrá auxiliarse para la elaboración de su dictamen de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales, u organismos ciudadanizados relacionados con la materia de que se trate.
+El Consejo podrá auxiliarse para la elaboración de su dictamen de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales, u organismos ciudadanizados relacionados con la materia de que se trate.
 
 La resolución del Consejo se ajustará al procedimiento descrito en los artículos siguientes.
 
@@ -487,7 +533,9 @@ I.- La mención del acto que se pretenda someter a plebiscito, o de la norma o n
 
 II.- La exposición de motivos contenida en la solicitud del promovente, y
 
-III.- El plazo que se le otorga, contado a partir del día siguiente de la notificación, para hacer llegar sus consideraciones ante el Consejo.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+III.- El plazo que se le otorga, contado a partir del día siguiente de la notificación, para hacer llegar sus consideraciones ante el Consejo, el cual será determinado según la naturaleza, magnitud e importancia del acto o norma que se trate.
 
 ###### ARTÍCULO 44.
 
@@ -563,9 +611,11 @@ IV.- Declaración de los efectos: comprende desde los resultados y concluye con 
 
 #### SECCIÓN TERCERA. DE LAS MESAS DIRECTIVAS DE CASILLA
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 52.
 
-Las Mesas Directivas de Casilla se integrarán con un Presidente, un Secretario, un escrutador, y dos suplentes generales. Tendrán las atribuciones y obligaciones que les confiere la LIPE, en lo que resulte aplicable y no sea contradictorio a lo que disponga este Reglamento. En la integración de las Mesas Directivas de Casilla no podrán participar los ciudadanos que hubieren solicitado el proceso ni servidores públicos municipales.
+Las Mesas Directivas de Casilla se integrarán con un Presidente, un Secretario, un escrutador, y dos suplentes generales. Tendrán las atribuciones y obligaciones que les confiere la Ley Electoral, en lo que resulte aplicable y no sea contradictorio a lo que disponga este Reglamento. En la integración de las Mesas Directivas de Casilla no podrán participar los ciudadanos que hubieren solicitado el proceso ni servidores públicos municipales.
 
 ###### ARTÍCULO 53.
 
@@ -581,9 +631,11 @@ El Consejo, en atención a las necesidades particulares y específicas de cada p
 
 El proceso de plebiscito o de referéndum se inicia con la publicación en el Periódico Oficial del Acuerdo de Procedencia que emita el Consejo.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 56.
 
-En el proceso de plebiscito o de referéndum, se deberá aplicar en lo conducente y de manera supletoria, las disposiciones relativas a la integración y ubicación de las Mesas Directivas de Casilla, instalación y apertura de las mismas, votación, escrutinio, cómputo y clausura de la casilla, contenidas en la LIPE.
+En el proceso de plebiscito o de referéndum, se deberán aplicar en lo conducente y de manera supletoria, las disposiciones relativas a la integración y ubicación de las Mesas Directivas de Casilla, instalación y apertura de las mismas, votación, escrutinio, cómputo y clausura de la casilla, contenidas en la Ley Electoral.
 
 ###### ARTÍCULO 57.
 
@@ -615,13 +667,21 @@ El Consejo, previamente a la celebración de un proceso de plebiscito o de refer
 
 Durante los ocho días anteriores a la jornada de consulta de los procesos de plebiscito o de referéndum, y hasta el cierre oficial de las consultas, queda prohibida la publicación o difusión, total o parcial, de encuestas, sondeos de opinión o simulacros de votación, así como de las operaciones de simulación del voto, que tengan por objeto dar a conocer las preferencias de los ciudadanos, quedando sujetos, quienes lo hicieren a lo dispuesto por el Código Penal de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 60.
 
-Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o, se observare un ambiente de intimidación para los votantes, el Consejo podrá suspender la realización de la consulta.
+Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o, observare un ambiente de intimidación para los votantes, el Consejo podrá suspender la realización de la consulta.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+
+Una vez que a juicio del Consejo hayan cesado los motivos que dieron lugar a la suspensión de la consulta, deberá de inmediato y bajo su más estricta responsabilidad, determinar la nueva fecha para la celebración de la misma, cumpliendo con todas las formalidades y plazos fijados por el Reglamento.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 61.
 
-Una vez efectuado el cómputo correspondiente, el Consejo dará el resultado final de la votación del proceso de plebiscito o de referéndum, y emitirá la declaratoria de validez, aplicando en lo conducente o establecido en la LIPE.
+Una vez efectuado el cómputo correspondiente, el Consejo dará el resultado final de la votación del proceso del plebiscito o de referéndum, y emitirá la declaratoria de validez, aplicando en lo conducente o establecido en la Ley Electoral.
 
 ###### ARTÍCULO 62.
 
@@ -745,7 +805,7 @@ Los representantes de DESOM estarán presentes en la asamblea vecinal, darán fe
 
 La convocatoria para la elección del Comité será expedida por DESOM con la anticipación de por lo menos tres días al día en que se vaya a verificar la elección, salvo casos extraordinarios en que lo soliciten los mismos vecinos; y deberá contener como mínimo lo siguiente:
 
-l.- Demarcación territorial en que operará el Comité, señalando las colonias, fraccionamientos o poblados que comprende en su caso;
+I.- Demarcación territorial en que operará el Comité, señalando las colonias, fraccionamientos o poblados que comprende en su caso;
 
 II.- Número de integrantes que se requieren para conformar el Comité;
 
@@ -1122,3 +1182,9 @@ Los Comités de Desarrollo Social registrados por DESOM y que actualmente funcio
 P.O. 15 DE MAYO DE 2015.
 
 ÚNICO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 23 DE SEPTIEMBRE DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO SEGUNDO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA Y VECINAL PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]</small>
+
+SEGUNDO: LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
