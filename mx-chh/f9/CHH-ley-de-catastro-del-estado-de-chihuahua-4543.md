@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2008-12-20"
+last_updated: "2016-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -364,6 +364,10 @@ Las autoridades catastrales tendrán en todo tiempo la facultad de realizar la v
 Los propietarios o poseedores de predios podrán solicitar cualquier aclaración respecto de los datos asentados en el Catastro Municipal.
 
 La autoridad catastral correspondiente resolverá en un plazo máximo de diez días hábiles contados a partir de la recepción de la solicitud.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+Los propietarios o poseedores de inmuebles de los regímenes ejidal o comunal podrán solicitar, además, la rectificación y/o actualización de la cédula o clave catrastal (sic); dicha solicitud deberá ser resuelta por la autoridad, en un plazo no mayor a cinco días hábiles, contados a partir de la recepción de la misma.
 
 ###### Artículo 20.
 
@@ -864,3 +868,15 @@ SE TRANSCRIBE UNICAMENTE EL ARTICULO TRANSITORIO DEL DECRETO DE REFORMAS QUE SE 
 ###### ARTÍCULO PRIMERO.
 
 El Artículo Primero entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1402/2016 XV P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 154 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 19, DE LA LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades catastrales municipales, dentro de un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán realizar las acciones necesarias para dar cabal cumplimiento a lo dispuesto por el mismo.
