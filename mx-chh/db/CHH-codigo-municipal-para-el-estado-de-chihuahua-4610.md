@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2016-07-20"
+last_updated: "2016-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2873,9 +2873,11 @@ En el caso de terrenos no empadronados o construcciones no manifestadas ante la 
 
 Toda estipulación privada, relativa al pago del impuesto, que se oponga a lo dispuesto en el presente capítulo, se tendrá como inexistente, por lo que no producirá efecto fiscal alguno
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 154.
 
-La autoridad municipal está obligada a proporcionar al contribuyente, información relativa al impuesto predial respecto a cualquier predio.
+La autoridad municipal está obligada a proporcionar al contribuyente, información relativa al impuesto predial respecto a cualquier predio, incluyendo los sujetos al régimen ejidal o comunal, debiendo la citada autoridad mantener actualizado el Sistema de Información Catastral.
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
@@ -4694,3 +4696,15 @@ P.O. 20 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1402/2016 XV P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 154 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 19, DE LA LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades catastrales municipales, dentro de un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán realizar las acciones necesarias para dar cabal cumplimiento a lo dispuesto por el mismo.
