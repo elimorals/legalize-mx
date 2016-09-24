@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-deuda-publica-para-el-estado-de-chihuahua-y-sus-10345"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-31"
-last_updated: "2011-12-28"
+last_updated: "2016-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 1994.
 
@@ -61,9 +61,11 @@ IV.- Las empresas de participación estatal o municipal mayoritaria; y
 
 V.- Los fideicomisos, en los que alguna de las entidades señaladas anteriormente tenga el carácter de fideicomitente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 3o.
 
-En cualquier caso, los empréstitos y créditos que contraigan y las obligaciones que emitan las entidades a que se refiere el artículo anterior, sólo podrán destinarse a inversiones públicas productivas, debiendo considerarse como tales tanto las de carácter económico como social, siempre que produzcan, de manera directa o indirecta, un incremento en sus ingresos, quedando comprendidas con este carácter, las relativas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos.
+En cualquier caso, los empréstitos y créditos que contraigan y las obligaciones que emitan las entidades a que se refiere el artículo anterior, solo podrán destinarse a inversiones públicas productivas, debiendo considerarse como tales tanto las de carácter económico como social, siempre que produzcan, de manera directa o indirecta, un incremento en sus ingresos, quedando comprendidas con este carácter, las relativas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos, con excepción de las obligaciones a corto plazo.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2005)</small>
 
@@ -75,7 +77,9 @@ En las iniciativas de Ley de Ingresos que se presenten al Congreso, deberán pre
 
 En la iniciativa a que se refiere este artículo el Ejecutivo del Estado acompañará la información relativa al estado que guarda su deuda pública.
 
-Tratándose de créditos contraídos para cubrir necesidades de flujo de efectivo para hacer erogaciones previstas en el presupuesto, no será necesario obtener la autorización del Congreso del Estado, siempre y cuando se amorticen en el mismo ejercicio fiscal en que se contraten.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+Tratándose de créditos contraídos para cubrir necesidades de flujo de efectivo para hacer erogaciones previstas en el presupuesto, no será necesario obtener la autorización del Congreso del Estado, siempre y cuando se amorticen en un plazo menor o igual a un año.
 
 ###### ARTICULO 5o.
 
@@ -387,13 +391,61 @@ Si de la evaluación que realice la Secretaría de Hacienda se desprende que la 
 
 El Estado, por conducto de la Secretaría de Hacienda podrá otorgar créditos a las entidades a que se refieren las fracciones II a V del artículo 2o. de esta Ley, siempre y cuando se restituya su importe y el respectivo costo financiero, dentro de un plazo que no exceda de doce meses a partir de su otorgamiento. Tratándose de municipios deberá estarse al plazo establecido en el artículo 23 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTICULO 34.
 
-Queda prohibido en general realizar cualquier operación de crédito público para financiar gasto corriente, con excepción de lo previsto en el párrafo tercero del artículo 4o. y 23 de esta Ley.
+Las entidades públicas podrán contratar obligaciones a corto plazo sin autorización del Congreso, siempre y cuando se cumplan las siguientes condiciones:
 
-###### ARTICULO 35.
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
 
-Las operaciones de crédito público realizadas en contravención a las disposiciones previstas en la presente Ley son nulas de pleno derecho, sin perjuicio de la responsabilidad en que incurran quienes las lleven a cabo.
+l. En todo momento, el saldo insoluto total del monto principal de estas obligaciones a corto plazo no exceda del 6 por ciento de los Ingresos totales aprobados en su Ley de Ingresos, sin incluir financiamiento neto, de las entidades públicas durante el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+II. Las obligaciones a corto plazo queden totalmente pagadas a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, no pudiendo contratar nuevas obligaciones a corto plazo durante esos últimos tres meses.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+III. Las obligaciones a corto plazo deberán ser quirografarias.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Ser inscritas en los Registros Públicos correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+Para acreditar la contratación bajo las mejores condiciones de mercado de los financiamientos, las entidades públicas deberán implementar un proceso competitivo con, por lo menos, dos diferentes instituciones financieras, del cual obtenga una oferta irrevocable de financiamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+La temporalidad de dicha propuesta no se deberá diferir más de 30 días naturales y deberá tener una vigencia mínima de 60 días naturales.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, emitirán los lineamientos necesarios para el desarrollo del proceso competitivo a que refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 34 BIS.- Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal.
+
+Las entidades públicas presentarán en los informes periódicos a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de las Obligaciones a corto plazo contraídas en los términos del presente Capítulo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+Artículo 34 TER.- Las Obligaciones a corto plazo, a que se refieren los artículos anteriores, no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año, salvo en el caso de las Obligaciones destinadas a Inversión pública productiva y se cumpla con los requisitos previstos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+(NOTA: EL 4 DE MARZO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA “23” DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 35.
+
+Queda prohibido, en general, realizar cualquier operación de crédito público para financiar gasto corriente, con excepción de lo previsto en los artículos 4, párrafo tercero; 23 y 34 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
+
+Las operaciones de crédito público realizadas en contravención a las disposiciones previstas en la presente Ley, son nulas de pleno derecho, sin perjuicio de la responsabilidad en que incurran quienes las lleven a cabo.
 
 ### CAPITULO CUARTO. DEL REGISTRO DE LA DEUDA PUBLICA
 
@@ -465,7 +517,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 18 DE FEBRERO DE 2004.
 
@@ -558,6 +610,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
 
 P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1578/2016 XXI P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN VARIOS ARTÍCULOS Y FRACCIONES DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS”.]
 
 ###### ARTÍCULO ÚNICO.
 
