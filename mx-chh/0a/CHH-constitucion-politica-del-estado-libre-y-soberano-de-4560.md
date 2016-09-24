@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2016-09-10"
+last_updated: "2016-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE SEPTIEMBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2297,15 +2295,11 @@ III. Tener título de Licenciado en Derecho debidamente registrado y cinco años
 
 IV. No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2016)</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE REFORMADO MEDIANTE EL DECRETO 1364/2016 II P.O. DE FECHA 11 DE JUNIO DE 2016. DICHO DECRETO FUE ABROGADO POR EL SIMILAR 1579/2016 XXI P.E. DE FECHA 24 DE SEPTIEMBRE DE 2016.]</small>
 
 ###### Art. 122.
 
-Además de las fiscalías especializadas que determine la ley, habrá una Fiscalía Especializada Anticorrupción, con las atribuciones señaladas en el ordenamiento secundario.
-
-El titular de esta Fiscalía será nombrado y removido por el Fiscal General del Estado; dicha decisión podrá ser objetada por el Congreso del Estado con el voto de las dos terceras partes de los diputados presentes, en un plazo que no podrá exceder los treinta días naturales; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
+(DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO 1579/2016 XXI P.E., P.O. 24 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -4381,11 +4375,11 @@ II.- Los Diputados que integrarán la LXV Legislatura local, durarán en su carg
 
 > <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-III.- Los integrantes de los Ayuntamientos que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016 (sic). Tratándose de las Juntas Municipales y Comisarías de Policía, sus integrantes durarán en su encargo hasta el 9 de septiembre de 2018, iniciando sus funciones una vez que se haya llevado a cabo el proceso de elección de estos órganos municipales.
+III.- Los integrantes de los Ayuntamientos que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016 (sic). Tratándose de las Juntas Municipales y Comisarías de Policía, sus integrantes durarán en su encargo hasta el 9 de septiembre de 2018, iniciando sus funciones una vez que se haya llevado o cabo el proceso de elección de estos órganos municipales.
 
-OCTAVO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político (sic) de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará el año 2018 se realizará el primer domingo de julio.
+OCTAVO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará el año 2018 se realizará el primer domingo de julio.
 
-NOVENO.- Una vez que el presente Decreto sea aprobado, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes de manera inmediata, a fin de dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior del cumplimiento en vías de ejecución.
+NOVENO.- Una vez que el presente Decreto sea aprobado, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes de manera inmediata, a fin de, dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior del cumplimiento en vías de ejecución.
 
 P.O. 21 DE NOVIEMBRE DE 2015.
 
@@ -4469,8 +4463,6 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 P.O. 11 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1364/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 122 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA".]
@@ -4490,3 +4482,19 @@ P.O. 29 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1579/2016 XXI P.E., POR MEDIO DEL CUAL SE ABROGA EL DECRETO NO. 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA, DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, MEDIANTE EL CUAL SE DABA VIDA A LA FISCALÍA ESPECIALIZADA ANTICORRUPCIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+La declaración de invalidez decretada en los resolutivos que recaen a la acción de inconstitucionalidad 58/2016, surtieron sus efectos a partir de su notificación al Congreso del Estado de Chihuahua el día 08 de septiembre del 2016, por ello, ordénese su publicación de manera urgente en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.
