@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2016-05-21"
+last_updated: "2016-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -81,9 +81,7 @@ V. La Dirección: La Dirección de Vialidad.
 
 VI. El Municipio: Cualquiera de los sesenta y siete municipios del Estado de Chihuahua que presten el servicio público de Tránsito.
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-VII. Foto-Infracción: Documento emitido por equipos o sistemas electrónicos certificados que genera la evidencia, mediante imágenes, de los vehículos que sean detectados cometiendo una infracción a la Ley de Vialidad y Tránsito para el Estado de Chihuahua o sus Reglamentos.
+VII. (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 3.
 
@@ -783,7 +781,7 @@ La licencia de la fracción III de esta clasificación, ampara también la condu
 
 De Chofer de Servicio Público:
 
-l. Taxista, que autoriza a la persona a conducir vehículos destinados al transporte en autos de alquiler;
+I. Taxista, que autoriza a la persona a conducir vehículos destinados al transporte en autos de alquiler;
 
 II. Pasajeros, que autoriza a la persona a conducir vehículos destinados al transporte colectivo de personas;
 
@@ -1117,7 +1115,7 @@ Es obligación de la Dirección y/o presidentes municipales la creación y desar
 
 Con el objeto de reducir el número de accidentes viales, el Departamento de Educación y Seguridad Vial diseñará los programas necesarios para difundir el contenido de esta Ley y sus reglamentos, destacando la importancia de su cumplimiento, incluyendo además los temas relativos a:
 
-l. El conocimiento de las señales y dispositivos de control de tránsito;
+I. El conocimiento de las señales y dispositivos de control de tránsito;
 
 II. El manejo de cortesía y a la defensiva;
 
@@ -1147,7 +1145,7 @@ V. Impartición de cursos a personal de empresas e instituciones y particulares 
 
 Las sanciones que se impondrán a las personas que infrinjan las disposiciones de esta Ley o de sus reglamentos serán las siguientes:
 
-l. Amonestación verbal o escrita;
+I. Amonestación verbal o escrita;
 
 II. Multa;
 
@@ -1325,7 +1323,7 @@ En las infracciones de tránsito, las autoridades del ramo notificarán al presu
 
 Para que las boletas de infracciones de tránsito sean válidas, se requiere además que contengan:
 
-l. Nombre y domicilio del conductor, este requisito se exceptuará cuando el conductor se niegue a proporcionarlo o no se encuentre en el vehículo;
+I. Nombre y domicilio del conductor, este requisito se exceptuará cuando el conductor se niegue a proporcionarlo o no se encuentre en el vehículo;
 
 II. Marca, línea, color y matrícula de circulación del vehículo;
 
@@ -1335,35 +1333,9 @@ IV. Nombre y número de identificación del oficial de tránsito que la elaboró
 
 V. La información de si se retuvo algún documento, y en su caso indicar cuál.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2015)</small>
-
 ###### Artículo 99 Bis.
 
-Las infracciones a la Ley o sus Reglamentos, que sean detectadas a través de equipos o sistemas tecnológicos, se harán en una boleta de notificación de infracción y para que sean válidas, además de lo previsto en el artículo anterior, se requiere que se cumpla con los siguientes requisitos:
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-I. Ser emitidas por el Director y/o Delegado de la División de Vialidad y Tránsito, o por el servidor público en el que se delegue esta atribución.
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-II. Precisar el tipo de equipo o sistema tecnológico que se utilizó para determinar la infracción a la Ley o Reglamento e identificar la clave electrónica del equipo correspondiente.
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-III. Adjuntar la imagen, evidencia o constancia generada por el equipo o sistema tecnológico.
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-IV. La firma del servidor público facultado para emitirla.
-
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2015)</small>
-
-V. Además de lo anterior, deberán de instalarse señalamientos en todas las calles o avenidas, en donde se encuentren instalados dispositivos de monitoreo para las “foto infracciones”, sin los cuales no serán válidas las infracciones emitidas y no podrá aplicarse sanción alguna.
-
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2014)</small>
-
-En el caso de las autoridades municipales, estas podrán generar la foto-infracción, así como calificar e imponer las sanciones correspondientes al ámbito de su competencia, para lo cual deberán sujetarse a lo establecido en la presente Ley, al Reglamento de esta y a los reglamentos municipales correspondientes.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 100.
 
@@ -1806,3 +1778,19 @@ P.O. 21 DE MAYO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1574/2016 XXI P.E., POR MEDIO DEL CUAL SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 2 Y EL ARTÍCULO 99 BIS DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorga un plazo para que dentro de los noventa días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo emita las modificaciones a las disposiciones reglamentarias aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las demás disposiciones que se opongan al presente Decreto.
