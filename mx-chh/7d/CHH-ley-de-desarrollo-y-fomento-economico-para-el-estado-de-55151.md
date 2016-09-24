@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-y-fomento-economico-para-el-estado-de-55151"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-14"
-last_updated: "2013-07-20"
+last_updated: "2016-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2007.
 
@@ -77,7 +77,7 @@ IX.- Promover la exportación de bienes y servicios de las unidades económicas 
 
 X.- Fomentar los apoyos a todo tipo de empresas con créditos, de manera directa y/o a través de programas de coordinación con instituciones financieras;
 
-XI.- Impulsar la actividad empresarial dirigida a dar mayor valor agregado a los productos y servicios que se generen en el Estado; y (sic)
+XI.- Impulsar la actividad empresarial dirigida a dar mayor valor agregado a los productos y servicios que se generen en el Estado; y
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
 
@@ -533,91 +533,25 @@ El Consejo para el Desarrollo Económico del Estado de Chihuahua, promoverá los
 
 Los apoyos otorgados a unidades económicas provenientes de diversos fondos, serán coordinados por las Secretarías de Economía y Desarrollo Rural.
 
-### CAPÍTULO VII (SIC). MICRO, PEQUEÑA Y MEDIANA EMPRESA
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+### CAPÍTULO VII (SIC). MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
 ###### Artículo 35.
 
-La Secretaría de Economía deberá coordinar la creación de un programa de apoyo y estímulo a la micro, pequeña y mediana empresa, el cual deberá contener las políticas con visión de largo plazo, para elevar la productividad y competitividad nacional e internacional de las MIPyMES.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 36.
 
-El Programa de Apoyo y Estímulo a la Micro, Pequeña y Mediana Empresa tendrá, entre otros, los siguientes objetivos:
-
-I. Impulsar el crecimiento de las actividades económicas, mediante la mejora continua de los sistemas de producción, centros de distribución y comercialización nacional y de exportación.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
-
-II. Elevar los niveles tecnológicos y de competitividad y promover los esquemas para la modernización, innovación y desarrollo tecnológico de las MIPyMES.
-
-III. Fomentar la eficiencia de los procesos de simplificación administrativa y desconcentración de las unidades de atención del Estado;
-
-IV. Alentar su crecimiento sustentable, para impulsar el desarrollo regional.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2013)</small>
-
-V. Fomentar las actividades que agreguen valor y mejoren la calidad de los productos, servicios y unidades económicas, promoviendo la creación de una cultura empresarial y de procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente de las MIPyMES.
-
-VI. Promover la creación de empleos con mayor remuneración.
-
-VII. En los términos de la ley de la materia, en igualdad de condiciones y tratándose de compras, adquisiciones, arrendamientos y servicios, requeridos para el sector público, se preferirá a proveedores y prestadores de bienes y servicios de la micro, pequeña y mediana empresa.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2013)</small>
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 37.
 
-El titular del Poder Ejecutivo del Estado, a través de sus dependencias competentes, promoverá convenios de coordinación con las Dependencias y Entidades de la Administración Pública Federal relacionadas con la materia, a través de la Ventanilla Única de Gestión; el Sistema de Apertura Rápida de Unidades Económicas y los Centros de Desarrollo Empresarial, con el objeto de simplificar los trámites de registro e inscripción para las unidades económicas y micro, pequeñas y medianas unidades económicas. Así como los que considere necesarios para establecer procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa entre los tres órdenes de gobierno, instituciones educativas y sector privado, para:
-
-I. Propiciar la planeación del desarrollo integral de cada municipio o Región del Estado.
-
-II. El fomento a la constitución de incubadoras de empresas, y a la creatividad de los emprendedores.
-
-III. La formación y certificación de especialistas que presten servicios de consultoría y capacitación a las MIPyMES.
-
-IV. La investigación enfocada a las necesidades específicas de las MIPyMES.
-
-V. La modernización, innovación, desarrollo y fortalecimiento tecnológico de las MIPyMES.
-
-VI. La atracción de inversiones, tanto de capital extranjero como nacional.
-
-VII. El acceso a la información especializada con el objeto de fortalecer las oportunidades de negocios de MIPyMES.
-
-VIII. Fomentar la participación y organización de foros y eventos de innovación y desarrollo tecnológico.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 38.
 
-Los Programas de Apoyo y Estímulo a la Micro, Pequeña y Mediana Empresa, deberán desarrollarse considerando estrategias tendientes a:
-
-I. Elevar la competitividad;
-
-II. Impulsar programas de capacitación y consultoría a todos los niveles;
-
-III. Promover la consolidación de la oferta de productos regionales con parámetros de calidad que fije el CODECH, para su comercialización en los mercados interno y externo;
-
-IV. Impulsar la especialización en procesos, productos y servicios;
-
-V. Promover la generación de valor agregado en los productos, servicios y unidades económicas.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
-
-VI. Promover el acceso al financiamiento para las MIPyMES, la capitalización de las empresas, incremento de la producción, constitución de nuevas empresas y consolidación de las existentes.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
-
-VII. Propiciar las condiciones para la creación y consolidación de las cadenas productivas.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
-
-VIII. Definir esquemas para la modernización, innovación y desarrollo tecnológico de las MIPyMES.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
-
-IX. Impulsar que la creación y desarrollo de las MIPyMES, sea en el marco de la normativa ecológica y que estas contribuyan al desarrollo sustentable y equilibrado de largo plazo.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
-
-X. Propiciar la cooperación y asociación de las MIPyMES, a través de sus organizaciones empresariales en el ámbito nacional, estatal, regional y municipal, así como de sectores productivos y cadenas productivas.
+(DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2016)
 
 ### CAPÍTULO VIII. CENTRO DE INFORMACIÓN ECONÓMICA Y SOCIAL DEL ESTADO
 
@@ -718,6 +652,14 @@ P.O. 12 DE ENERO DE 2008.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE JULIO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 1414/2016 XVI P.E. POR MEDIO DEL CUAL SE “DEROGA EL CAPÍTULO VII ASÍ COMO LOS ARTÍCULOS 35, 36, 37 Y 38, DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
