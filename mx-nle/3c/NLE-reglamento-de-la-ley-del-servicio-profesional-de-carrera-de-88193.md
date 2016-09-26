@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-del-servicio-profesional-de-carrera-de-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-13"
-last_updated: "2016-03-09"
+last_updated: "2016-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 junio de 2012.
 
@@ -415,13 +415,19 @@ d) Renuncia, cese de los efectos del Nombramiento, pensión o jubilación; y
 
 II. Por creación de plazas.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-Artículo 33 bis. El Auditor General podrá autorizar el nombramiento temporal hasta por seis meses para ocupar una vacante del Servicio Profesional de Carrera, sin necesidad de sujetarse al procedimiento de ingreso al Servicio Profesional de Carrera a que se refieren la Ley y el Reglamento, siempre y cuando la persona a quien se designe reúna el perfil del puesto y los requisitos establecidos en el artículo 19 de la Ley, con excepción del enunciado en su fracción VIII. Lo anterior, sin perjuicio de que durante dicho periodo, se lleve a cabo el proceso de ingreso al Servicio Profesional de Carrera para ocupar la vacante en definitiva.
+Artículo 33 bis. El Auditor General podrá autorizar el nombramiento temporal hasta por ocho meses para ocupar una vacante del Servicio Profesional de Carrera, sin necesidad de sujetarse al procedimiento de ingreso al Servicio Profesional de Carrera a que se refieren la Ley y el Reglamento, siempre y cuando la persona a quien se designe reúna el perfil del puesto y los requisitos establecidos en el artículo 19 de la Ley, con excepción del enunciado en su fracción VIII. Lo anterior, sin perjuicio de que durante dicho periodo, se lleve a cabo el proceso de ingreso al Servicio Profesional de Carrera para ocupar la vacante en definitiva.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
 
 La persona que haya sido nombrada temporalmente en los términos del presente artículo, no creará derechos respecto al ingreso al Servicio Profesional de Carrera y no podrá al vencimiento de su nombramiento ocupar temporalmente el mismo puesto, por lo que cesará en sus funciones sin dilación.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
 Una misma persona no podrá ser nombrada conforme a lo previsto en el presente artículo, en distintos puestos dentro del periodo de un año, contado a partir del inicio de su primer nombramiento.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
 
 El servidor público con nombramiento temporal podrá participar en la convocatoria pública y abierta para ocupar el puesto de que se trate, siempre y cuando reúna los requisitos previstos en la Ley, el Reglamento y demás disposiciones aplicables.
 
@@ -1128,3 +1134,11 @@ P.O. 9 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. Las presentes reformas al Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. La presente reforma al Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León entrará en vigor a partir de la fecha de su publicación en Periódico Oficial del Estado.
+
+SEGUNDO. La duración de los nombramientos temporales que hayan sido expedidos con anterioridad a la fecha de entrada en vigor de la presente reforma podrá ampliarse sin exceder a su conclusión el límite de ocho meses que se define en el artículo 33 bis primer párrafo, del Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León.
