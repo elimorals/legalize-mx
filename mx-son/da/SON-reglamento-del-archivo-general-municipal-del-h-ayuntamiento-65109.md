@@ -4,7 +4,7 @@ identifier: "SON-reglamento-del-archivo-general-municipal-del-h-ayuntamiento-651
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-08"
-last_updated: "2008-12-08"
+last_updated: "2016-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DEL H. AYUNTAMIENTO DE QUIRIEGO, SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE QUIRIEGO, SONORA EN EL B.O. DE 26 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DEL H. AYUNTAMIENTO DE QUIRIEGO, SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección VI del Boletín Oficial del Estado de Sonora, el lunes 8 de diciembre de 2008.
 
@@ -310,3 +312,21 @@ ATENTAMENTE
 SECRETARIO DE AYUNTAMIENTO
 
 C. FEDERICO COCOBA SALAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 26 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE QUIRIEGO, SONORA”.]
+
+###### ARTÍCULO PRIMERO
+
+- El presente reglamento entrara en vigor el día hábil siguiente de su publicación en el boletín oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO
+
+- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normativas que contravenga el contenido del presente reglamento.
+
+###### ARTICULO TERCERO
+
+- Se abroga el Reglamento del Archivo Municipal del Ayuntamiento de Quiriego, publicado en el Boletín Oficial del Gobierno del Estado de Sonora, # 46 Sesión VI del día 08 de Diciembre de 2008
