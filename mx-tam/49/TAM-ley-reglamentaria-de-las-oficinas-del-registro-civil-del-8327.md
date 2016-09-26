@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "2010-11-09"
+last_updated: "2016-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -257,23 +257,17 @@ La dispensa de publicaciones o de edad, sólo podrá concederla el Ejecutivo del
 
 El matrimonio se celebrará en acto público y en el día, hora y lugar señalados al efecto; compareciendo ante el Oficial de Registro Civil los contrayentes, personalmente o por apoderado legalmente constituído, con poder ante Notario, en la Oficina o casa determinada, y además estarán acompañados de sus padres o tutores cuando fuere necesario el consentimiento de ellos, y de tres testigos por lo menos, que podrán ser parientes o extraños. Cuando el que conforme a la Ley debe dar su consentimiento no esté presente, podrá dar su conformidad por correo y aún por telégrafo en casos urgentes.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Art. 43.
 
-El Oficial recibirá la formal declaración que hagan los contrayentes de ser su voluntad unirse en matrimonio, y antes de manifestar a los contrayentes que han quedado legítimamente unidos ante la sociedad y las leyes de la Nación, leerá en voz alta y clara lo siguiente:
+El Oficial recibirá la formal declaración que hagan los contrayentes de ser su voluntad unirse en matrimonio, manifestando que los contrayentes han quedado legítimamente unidos ante la sociedad y las leyes de la Nación.
 
-"El matrimonio es la unión y convivencia de un solo hombre con una sola mujer. Para su validez bastará que los contrayentes expresen libremente la voluntad que tienen de unirse.
-
-Los que contraigan matrimonio gozarán de todos los derechos y prerrogativas que las leyes civiles les conceden a los casados.
-
-El matrimonio civil no podrá celebrarse más que por un sólo hombre con una sola mujer. La bigamia y la poligamia son reprobadas por la sociedad.
-
-El matrimonio podrá disolverse por mutuo consentimiento y por divorcio declarado en la forma que previene la ley.
-
-El matrimonio es el único medio moral de fundar la familia, de conservar la especie y de suplir las imperfecciones del individuo que no puede bastarse a sí mismo para llegar a la perfección del género humano. Que éste no existe en la persona, sino en la dualidad conyugal. Que los casados deben ser y serán sagrados el uno para el otro, aún más de lo que es cada uno para sí. Que el hombre, cuyas dotes sexuales son principalmente el valor y la fuerza, debe dar y dará a la mujer protección, alimento y dirección, tratándola siempre como la parte más delicada, sensible y fina de sí mismo, y con la magnanimidad y benevolencia generosa que el fuerte debe al débil, esencialmente cuando éste débil se entrega a él, y cuando por la sociedad se le ha confiado. Que la mujer, cuyas principales dotes son la abnegación, la belleza, la compasión, la perspicacia y la ternura, debe dar y dará al marido obediencia, agrado, asistencia, consuelo y consejo, tratándolo siempre con la veneración que se debe a la persona que nos apoya y defiende, y con la delicadeza de quien no quiere exasperar la parte brusca, irritable y dura de sí mismo. Que el uno y el otro se deben y tendrán respeto, deferencia, fidelidad, constancia y ternura, y ambos procurarán que lo que el uno se esperaba del otro al unirse con él, no vaya a desmentirse con la unión. Que ambos deben prudenciar y atenuar sus faltas. Que nunca se dirán injurias, porque las injurias entre los casados, deshonran al que las vierte y prueban su falta de tino o de cordura en la elección, ni mucho menos se maltratarán (sic) de obra, porque es villano y cobarde abusar de la fuerza. Que ambos deben prepararse con el estudio y amistosa y mutua corrección de sus defectos, a la suprema magistratura de padres de familia, para que cuando lleguen a serlo, sus hijos encuentren en ellos buen ejemplo y una conducta digna de servirles de modelo. Que la doctrina que inspiren a estos tiernos y amados lazos de su afecto, hará su suerte próspera o adversa; y la felicidad o desventura de los hijos, será la recompensa o el castigo, la aventura o la desdicha de los padres. Que la sociedad bendice, considera y alaba a los buenos padres, por el gran bien que le hacen dándole buenos y cumplidos ciudadanos; y la misma, censura y desprecia debidamente a los que por abandono, por mal entendido cariño o por su mal ejemplo, corrompen el depósito sagrado que la Naturaleza les confió concediéndoles tales hijos. Y por último, que cuando la sociedad ve que tales personas no merecían ser elevadas a la dignidad de padres, si no que sólo debían haber vivido sujetas a tutela, como incapaces de conducirse dignamente, se duele de haber consagrado con su autoridad, la unión de un hombre y de una mujer que no han sabido ser libres ni dirigirse por sí mismos hacia el bien".
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Art. 44.
 
-Inmediatamente después de concluido el acto que se expresa en el artículo anterior, se firmará el acta respectiva por los contrayentes, los padres si estuvieren presentes y quisieren y supieren o deban hacerlo por las prescripciones de esta ley, y además por los testigos y personas que voluntariamente desearen firmar, estando presentes.
+Inmediatamente después, se firmará el acta respectiva por los contrayentes, los padres si estuvieren presentes y quisieren y supieren o deban hacerla por las prescripciones de esta ley, y además por los testigos y personas que voluntariamente desearen firmar, estando presentes.
 
 ###### Art. 45.
 
@@ -549,7 +543,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los trece días del mes de septiembre de mil novecientos cuarenta.- Ing. Marte R. Gómez.- P. A. del Srio. Gral. de Gobierno, el Oficial Mayor, Arsenio Saeb.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 25 DE MARZO DE 1953.
 
@@ -557,9 +551,9 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 
 P.O. 10 DE FEBRERO DE 1954.
 
-LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS
+LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 ###### ARTICULO SEXTO.
 
@@ -578,3 +572,15 @@ P.O. 9 DE NOVIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-1003 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 43 Y 44 DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado de Tamaulipas, y entrará en vigor al día siguiente de su publicación en ese órgano informativo oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se oponga a este Decreto.
