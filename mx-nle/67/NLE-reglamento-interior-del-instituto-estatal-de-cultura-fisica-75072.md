@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-estatal-de-cultura-fisica-750
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-13"
-last_updated: "2004-09-13"
+last_updated: "2016-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 13 de septiembre de 2004.
 
@@ -81,7 +81,13 @@ a) De Planeación Estratégica;
 
 b) De Calidad en el Deporte;
 
-c) De Educación y Formación Deportiva.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+c) De Cultura Física;
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+d) Del Centro de Alto Rendimiento.
 
 III. Las demás unidades y personal administrativo, operativo y técnico que sean creadas por acuerdo de la Junta de Gobierno.
 
@@ -263,7 +269,7 @@ XI. Recomendar criterios de operatividad respecto a los objetivos y metas del Or
 
 XII. Proponer criterios para la planeación, ejecución, supervisión y evaluación de las políticas y programas del Organismo, y
 
-XIII. Promover métodos y acciones que permitan al Organismo realizar las actividades operativas conforme a la planeación estratégica y mediante la aplicación de avances tecnológicos que faciliten su ejecución, y (sic)
+XIII. Promover métodos y acciones que permitan al Organismo realizar las actividades operativas conforme a la planeación estratégica y mediante la aplicación de avances tecnológicos que faciliten su ejecución, y
 
 ###### Artículo 21.
 
@@ -279,9 +285,11 @@ IV. Generar estrategias para el empleo de las ciencias aplicadas en el desarroll
 
 V. Generar estrategias para el desarrollo del proceso de selección de los atletas que participan en eventos nacionales e internacionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 22.
 
-Además de las señaladas en el artículo 19 de presente Reglamento Interior, son atribuciones para el Director de Educación y Formación Deportiva:
+Además de las señaladas en el artículo 19 del presente Reglamento Interior, son atribuciones para el Director de Cultura Física:
 
 I. Diseñar estrategias para promover la cultura física en el Estado;
 
@@ -294,6 +302,36 @@ IV. Establecer lineamientos de vinculación y apoyo entre las asociaciones depor
 V. Establecer lineamientos de control para asegurar el buen funcionamiento de las asociaciones deportivas, y
 
 VI. Establecer estrategias para el establecimiento del sistema estatal de capacitación.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+Artículo 22 BIS.- Además de las señaladas en el artículo 19 del presente Reglamento Interior, son atribuciones para el Director del Centro de Alto Rendimiento:
+
+I. Vigilar, regular y organizar el funcionamiento y operación deportiva, asistencial y académica de las instalaciones del Centro de Alto Rendimiento, y áreas comunes;
+
+II. Informar a los usuarios del Centro de Alto Rendimiento sobre los servicios y costos que se proporcionan en el mismo;
+
+III. Regular y en su caso autorizar el uso, cuidado y mantenimiento de las instalaciones del Centro de Alto Rendimiento y áreas comunes;
+
+IV. Planear en coordinación con la Dirección de Planeación Estratégica un programa anual de actividades de mantenimiento de las instalaciones del Centro de Alto Rendimiento y áreas comunes;
+
+V. Establecer los lineamientos generales a observar en relación a las medidas de seguridad, vigilancia y limpieza que se deberán adoptar en las instalaciones del Centro de Alto Rendimiento, y áreas comunes;
+
+VI. Supervisar, custodiar y resguardar el material y equipo deportivo de las instalaciones del Centro de Alto Rendimiento;
+
+VII. Apoyar en la planeación, organización y desarrollo de eventos, cursos, seminarios, clínicas, talleres y conferencias en coordinación con las otras Direcciones;
+
+VIII. Coordinar y reglamentar el uso y acceso a las instalaciones del Centro de Alto Rendimiento y sus áreas comunes;
+
+IX. Generar programas y acciones tendientes a fomentar el deporte y la cultura física en la población del Estado mediante del (sic) uso de las instalaciones deportivas del Centro de Alto Rendimiento;
+
+X. Generar programas y mecanismos de concientización para promover el cuidado del medio ambiente en del (sic) Centro de Alto Rendimiento;
+
+XI. Diseñar estrategias para aplicar servicios de calidad e innovaciones tecnológicas y de infraestructura en las instalaciones, con el objeto de garantizar una mejora;
+
+XII. Generar estrategias de coordinación, colaboración y vinculación con instituciones públicas y privadas para promover y desarrollar el deporte y la cultura física mediante el uso y acceso a las instalaciones que integran el Centro de alto Rendimiento; y
+
+XIII. Atender las demás funciones que dentro del ámbito de su competencia le instruya la Dirección General.
 
 ### Capítulo VII. De la Suplencia de los Titulares
 
@@ -326,3 +364,11 @@ NAPOLEÓN CANTÚ CERNA
 EL C. DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 ÉRIKA MÉLODY FALCÓ DÍAZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN II INCISO C) Y 22 PRIMER PÁRRAFO; SE ADICIONA UN INCISO D) AL ARTÍCULO 4 FRACCIÓN II, Y UN ARTÍCULO 22 BIS, TODOS DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA FÍSICA (SIC)".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
