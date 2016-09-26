@@ -4,7 +4,7 @@ identifier: "HID-reglamento-del-sistema-acusatorio-y-oral-del-poder-judicial-115
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-04"
-last_updated: "2016-07-04"
+last_updated: "2016-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO DEL SISTEMA ACUSATORIO Y ORAL DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE SEPTIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL SISTEMA ACUSATORIO Y ORAL DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE SEPTIEMBRE DE 2016.]</small>
 
 Reglamento publicado en el Alcance Número 28 al Periódico Oficial del Estado de Hidalgo, el martes 4 de julio de 2016.
 
@@ -171,9 +171,13 @@ De las Unidades en los Juzgados Cabeceras de Circuito.
 
 En cada Juzgado Penal Acusatorio y Oral que se constituya como Cabecera de Circuito, funcionarán tres unidades:
 
-I. La Unidad de causas y atención ciudadana, con un titular jefe de unidad, que tendrá a su cargo a los encargados de audiencia, a los notificadores, a los agentes de atención ciudadana, a los auxiliares de audiencia y a los auxiliares administrativos, acorde a las necesidades del servicio;
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-II. unidad de archivo, valores y servicios, que tendrá a su cargo a los enlaces administrativos y auxiliares administrativos, acorde a las necesidades del servicio; y
+l. La Unidad de causas y atención ciudadana, con un titular jefe de unidad, que tendrá a su cargo a los encargados de causas, a los notificadores, a los agentes de atención ciudadana, a los auxiliares de audiencia y a los auxiliares administrativos, acorde a las necesidades del servicio;
+
+> <small>(F. DE E., P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+II. La Unidad de archivo, valores y servicios, que tendrá a su cargo a los enlaces administrativos y auxiliares administrativos, acorde a las necesidades del servicio;
 
 III. La Unidad de informática, que tendrá a su cargo a los auxiliares técnicos multimedia, acorde a las necesidades del servicio.
 
