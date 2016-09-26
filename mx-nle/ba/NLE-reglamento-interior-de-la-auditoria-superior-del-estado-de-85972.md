@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-auditoria-superior-del-estado-de-8597
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-06"
-last_updated: "2016-01-29"
+last_updated: "2016-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de febrero de 2012.
 
@@ -171,7 +171,9 @@ XVI. Expedir reglas de carácter general para la conservación y en su caso, des
 
 XVII. Emitir los lineamientos para la contratación de los despachos certificados, que serán publicados en el portal de internet de la Auditoría Superior del Estado;
 
-XVIII. Formular y entregar al Congreso, por conducto de la Comisión, el Informe del Resultado dentro de los plazos establecidos en la Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Entregar al Congreso, por conducto de la Comisión, el Informe del Resultado dentro de los plazos establecidos en la Ley;
 
 XIX. Imponer en cantidad líquida las multas correspondientes de conformidad con lo dispuesto en la Ley;
 
@@ -285,17 +287,23 @@ V. Analizar y dar el trámite correspondiente a las peticiones, solicitudes y de
 
 VI. Solicitar a los sujetos de fiscalización y en su caso, recabar la información y documentación necesaria para la adecuada planeación del proceso de fiscalización;
 
-VII. Requerir a los sujetos de fiscalización, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Requerir a los sujetos de fiscalización la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos previstos para dicho efecto, y en su caso, resolver sobre la ampliación de los mismos, previa solicitud que formulen los sujetos de fiscalización, acorde con lo establecido en la Ley;
 
 VIII. Incorporar a los expedientes de auditoría, la evidencia suficiente, competente, relevante y pertinente que soporte la función de fiscalización y acredite las observaciones detectadas;
 
-IX. Elaborar y someter a consideración del Auditor General, los resultados de las revisiones practicadas y en su caso, las observaciones preliminares para su comunicación a los sujetos de fiscalización;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(F. DE E., P.O. 18 DE JULIO DE 2012)</small>
+IX. Elaborar, integrar y asegurar el adecuado soporte de los resultados de las revisiones practicadas y de las observaciones preliminares;
 
-X. Comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-XI. Analizar las justificaciones, aclaraciones y la documentación para la solventación de las observaciones preliminares detectadas, que presenten los titulares de los sujetos de fiscalización, o quienes hayan ejercido dicho cargo durante el periodo objeto de revisión, en los casos en que hayan dejado de desempeñar el mismo, y resolver sobre la solventación o no de las mismas;
+X. Emitir y comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Analizar las justificaciones, aclaraciones y la documentación para la solventación de las observaciones preliminares detectadas, a efecto de resolver sobre la solventación o no de las mismas y en su caso, determinar las recomendaciones que a su juicio procedan;
 
 XII. Comunicar para efecto informativo a los entes públicos, previo a la presentación del Informe del Resultado correspondiente, el resultado del análisis de las justificaciones y aclaraciones a las observaciones preliminares, indicándoles las que hayan sido o no solventadas;
 
@@ -305,7 +313,9 @@ XIV. Informar al Auditor General de las irregularidades detectadas en las audito
 
 XV. Poner en conocimiento del Auditor General las conductas u omisiones que sean susceptibles de ser sancionadas con multa, acompañando en su caso, los elementos necesarios para su determinación e imposición en términos de la Ley;
 
-XVI. Acordar con el Auditor General en lo conducente, el contenido de los Informes del Resultado respectivos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Acordar con el Auditor Especial de Municipios y el Auditor Especial de Gobierno del Estado y Organismos Públicos Autónomos según corresponda, el contenido de los Informes del Resultado respectivos;
 
 XVII. Emitir y comunicar a los entes públicos las recomendaciones al desempeño que deriven de las observaciones detectadas;
 
@@ -331,7 +341,9 @@ IV. Analizar y dar el trámite correspondiente a las peticiones, solicitudes y d
 
 V. Solicitar a los sujetos de fiscalización y en su caso, recabar la información y documentación necesaria para la adecuada planeación del proceso de fiscalización;
 
-VI. Requerir a los sujetos de fiscalización, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Requerir a los sujetos de fiscalización la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos previstos para dicho efecto, y en su caso, resolver sobre la ampliación de los mismos, previa solicitud que formulen los sujetos de fiscalización, acorde con lo establecido en la Ley;
 
 VII. Requerir a terceros que hubieren contratado con los entes públicos, obra pública, bienes, servicios o arrendamientos mediante cualquier modalidad legal, y en general a cualquier entidad o persona física o moral, pública o privada que haya ejercido recursos públicos, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
 
@@ -341,13 +353,17 @@ IX. Analizar los informes de situación excepcional y demás actuaciones relacio
 
 X. Incorporar a los expedientes de auditoría, la evidencia que soporte la función de fiscalización, acredite las observaciones e irregularidades detectadas y en su caso, los daños y perjuicios ocasionados a la hacienda o patrimonio de los entes públicos;
 
-XI. Elaborar y someter a consideración del Auditor General, los resultados de las revisiones practicadas y en su caso las observaciones preliminares;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(F. DE E., P.O. 18 DE JULIO DE 2012)</small>
+XI. Elaborar, integrar y asegurar el adecuado soporte de los resultados de las revisiones practicadas y de las observaciones preliminares;
 
-XII. Comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-XIII. Analizar las justificaciones, aclaraciones y la documentación para la solventación de las observaciones preliminares detectadas, que presenten los titulares de los sujetos de fiscalización, o quienes hayan ejercido dicho cargo durante el periodo objeto de revisión, en los casos en que hayan dejado de desempeñar el mismo, y resolver sobre la solventación o no de las mismas;
+XII. Emitir y comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XIII. Analizar las justificaciones, aclaraciones y la documentación para la solventación de las observaciones preliminares detectadas, a efecto de resolver sobre la solventación o no de las mismas y en su caso, determinar las acciones y recomendaciones que a su juicio procedan;
 
 XIV. Comunicar para efecto informativo a los entes públicos, previo a la presentación del Informe del Resultado correspondiente, el resultado del análisis de las justificaciones y aclaraciones a las observaciones preliminares, indicándoles las que hayan sido o no solventadas;
 
@@ -357,7 +373,9 @@ XVI. Informar al Auditor General y dar vista a la Unidad de Asuntos Jurídicos r
 
 XVII. Poner en conocimiento del Auditor General las conductas u omisiones que sean susceptibles de ser sancionadas con multa, acompañando en su caso, los elementos necesarios para su determinación e imposición en términos de la Ley;
 
-XVIII. Acordar con el Auditor General en lo que corresponda, el contenido de los Informes del Resultado respectivos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Elaborar y rendir al Auditor General los Informes del Resultado respectivos, para su entrega al Congreso en los plazos establecidos en la Ley;
 
 XIX. Emitir y comunicar a los entes públicos las recomendaciones a la gestion o control interno, los pliegos presuntivos de responsabilidades y su resolución;
 
@@ -411,7 +429,9 @@ IX. Supervisar la elaboración y levantamiento de las actas circunstanciadas der
 
 X. Solicitar a los sujetos de fiscalización y en su caso, recabar la información y documentación necesaria para la adecuada planeación del proceso de fiscalización;
 
-XI. Requerir a los sujetos de fiscalización, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XI. Requerir a los sujetos de fiscalización la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos previstos para dicho efecto, y en su caso, resolver sobre la ampliación de los mismos, previa solicitud que formulen los sujetos de fiscalización, acorde con lo establecido en la Ley;
 
 XII. Requerir a terceros que hubieren contratado con los entes públicos, obra pública, bienes, servicios o arrendamientos mediante cualquier modalidad legal, y en general a cualquier entidad o persona física o moral, pública o privada que haya ejercido recursos públicos, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
 
@@ -443,9 +463,9 @@ XXIII. Proponer a su superior jerárquico, los lineamientos técnicos y criterio
 
 XXIV. Designar e incorporar al personal encargado de los procesos de revisión y fiscalización;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-XXV. Comunicar en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
+XXV. Emitir y comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -493,15 +513,23 @@ X. Supervisar la elaboración y levantamiento de las actas circunstanciadas deri
 
 XI. Solicitar a los sujetos de fiscalización y en su caso, recabar la información y documentación necesaria para la adecuada planeación del proceso de fiscalización;
 
-XII. Requerir a los sujetos de fiscalización, la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos establecidos por la Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Requerir a los sujetos de fiscalización la información y documentación específica para el cumplimiento de la función de fiscalización, en los plazos previstos para dicho efecto, y en su caso, resolver sobre la ampliación de los mismos, previa solicitud que formulen los sujetos de fiscalización, acorde con lo establecido en la Ley;
 
 XIII. Informar a su superior jerárquico, respecto de las irregularidades detectadas en las auditorías, visitas e inspecciones, que pudieran constituir delitos, responsabilidades administrativas, resarcitorias, o ameriten la promoción de intervención de la instancia de control competente o del ejercicio de la facultad de comprobación fiscal;
 
-XIV. Poner en conocimiento de su superior jerárquico las conductas u omisiones que sean susceptibles de ser sancionadas con multa, acompañando en su caso, los elementos necesarios para su determinación e imposición en términos de la Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-XV. Proponer a su superior jerárquico los análisis de las justificaciones, aclaraciones y la documentación presentados para la solventación de las observaciones preliminares detectadas;
+XIV. Emitir y comunicar, en términos de lo dispuesto en el artículo 46 de la Ley, las observaciones preliminares;
 
-XVI. Elaborar y someter a consideración de su superior jerárquico, los anteproyectos de los Informes del Resultado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XV. Proponer a su superior jerárquico los análisis de las justificaciones, aclaraciones y la documentación presentadas para solventar las observaciones preliminares detectadas; elaborar y someter a su consideración los anteproyectos de los Informes del Resultado;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XVI. Poner en conocimiento de su superior jerárquico las conductas u omisiones que sean susceptibles de ser sancionadas con multa, acompañando en su caso, los elementos necesarios para su determinación e imposición en términos de la Ley;
 
 XVII. Dar seguimiento a las observaciones incluidas en los Informes del Resultado, así como a las recomendaciones al desempeño formuladas a los entes públicos;
 
@@ -1079,27 +1107,43 @@ XXII. Decidir sobre el tratamiento de los datos personales de los servidores pú
 
 XXIII. Las demás que le confieran la Ley, el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean delegadas por el Auditor General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Corresponde al Director de Administración, adscrito a la Unidad General de Administración, el ejercicio de las facultades y atribuciones siguientes:
+Corresponde al Coordinador Administrativo, adscrito a la Unidad General de Administración, el ejercicio de las facultades y atribuciones siguientes:
 
-I. Coordinar la elaboración del anteproyecto del Presupuesto Anual de la Auditoría Superior del Estado y sus modificaciones;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-II. Adquirir los bienes y servicios que requiera la Auditoría Superior del Estado y suministrar los recursos materiales que soliciten las unidades administrativas, con sujeción a las disposiciones legales y presupuestales aplicables;
+I. Supervisar la elaboración de los estados financieros y demás información presupuestaria, contable, programática y adicional que se requiera en materia de contabilidad gubernamental respecto de la Auditoría Superior del Estado, con la periodicidad que al efecto determine la ley de la materia;
 
-III. Implantar y mantener los mecanismos y procedimientos que sean necesarios para salvaguardar los bienes de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Implementar y operar los sistemas de mantenimiento preventivo y correctivo para garantizar el funcionamiento adecuado de los bienes de la Auditoría Superior del Estado;
+II. Asegurar que los registros, procedimientos, criterios e informes de las operaciones presupuestarias, contables y programáticas de la Auditoría Superior del Estado cumplan con las disposiciones normativas;
 
-V. Controlar y salvaguardar el archivo general de la Auditoría Superior del Estado y facilitar su consulta;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Integrar y mantener actualizados los expedientes laborales individuales y de los prestadores de servicios de la Auditoría Superior del Estado;
+III. Auxiliar en la elaboración del proyecto de presupuesto de egresos de la Auditoría Superior del Estado para su revisión por el Titular de la Unidad General de Administración;
 
-VII. Determinar los montos de las contribuciones derivadas del pago de salarios y honorarios, y en su caso, efectuar las retenciones y deducciones conforme a las disposiciones legales aplicables, y hacer los enteros correspondientes;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
 
-VIII. Realizar la requisición, resguardo, manejo y asignación de los bienes muebles necesarios para las actividades del personal de la Auditoría Superior del Estado;
+IV. Efectuar los egresos de los recursos financieros de la Auditoría Superior del Estado conforme el presupuesto o las modificaciones al mismo que hayan sido autorizadas;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+V. Controlar y salvaguardar la documentación que soporte las operaciones contables, presupuestarias y programáticas de la Auditoría Superior del Estado, así como el archivo de trámite de la Unidad General de Administración;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+VI. Coordinar y supervisar las funciones y correcta operación de los procesos de nómina, recursos humanos y contabilidad de la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Determinar los montos de las contribuciones a cargo de la Auditoría Superior del Estado y las derivadas del pago de salarios y honorarios, y en su caso, efectuar las retenciones, deducciones y enteros conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Clasificar, conservar, generar y proporcionar en su caso la información pública del área a su cargo para incluirla en el portal de la Auditoría Superior del Estado;
 
 IX. Levantar y mantener actualizado el inventario general de los bienes de la Auditoría Superior del Estado, tomando las medidas necesarias para su control, cuidado y resguardo;
 
@@ -1107,9 +1151,41 @@ X. Adoptar las medidas necesarias para el cumplimiento de las normas del sistema
 
 XI. Vigilar que se cumplan las medidas de higiene y seguridad que se requieran para el mejor desempeño de las actividades en el edificio de la Auditoría Superior del Estado;
 
-XII. Llevar el control de asistencia del personal de la Auditoría Superior del Estado; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+XII. Coordinar la integración, actualización y conservación de los expedientes laborales y los relativos a los prestadores de servicios de la Auditoría Superior del Estado, incluyendo el soporte de las nóminas, recibos de pago, finiquitos, indemnizaciones y demás relacionada (sic) con los mismos;
 
 XIII. Las demás que le confieran el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
+
+> <small>(ADICIONADO CON LAS FRACCIONES, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 36 Bis.
+
+Corresponde al Coordinador de Adquisiciones y Recursos Materiales, adscrito a la Unidad General de Administración, el ejercicio de las facultades y atribuciones siguientes:
+
+I. Diseñar y operar el Padrón de Proveedores de la Auditoría Superior del Estado, y realizar los actos y gestiones necesarias para su integración y administración.
+
+II. Realizar investigaciones de mercado para diagnosticar recursos y oportunidades para la adecuada toma de decisiones en el proceso de adquisiciones;
+
+III. Promover la transparencia, la modernización y la simplificación administrativa de los procedimientos para la adquisición, arrendamiento de bienes y contratación de servicios;
+
+IV. Efectuar las adquisiciones, arrendamientos y contratación de servicios que soliciten las unidades de la Auditoría Superior del Estado, sus procedimientos respectivos, así como formalizar la gestión de los contratos y documentos correspondientes;
+
+V. Supervisar que la adquisición y suministro de bienes de consumo, inversión y prestación de servicios que contrate la Auditoría Superior del Estado, se den en las mejores condiciones de calidad, oportunidad y precio;
+
+VI. Analizar la programación anual de las adquisiciones y arrendamientos de bienes y contratación de servicios que se requieran para la Auditoría Superior del Estado;
+
+VII. Administrar el parque vehicular de la Auditoría Superior del Estado y suministrar los insumos necesarios para su operación y mantenimiento;
+
+VIII. Atender y gestionar las solicitudes de servicios de conservación y mantenimiento, así como la reparación del mobiliario de las áreas de la Auditoría Superior del Estado;
+
+IX. Participar en la elaboración del programa anual de Adquisiciones de la Auditoría Superior del Estado;
+
+X. Formar parte del Comité de Adquisiciones de la Auditoría Superior del Estado;
+
+XI. Clasificar, conservar, generar y proporcionar en su caso, la Información pública del área a su cargo para incluirla en portal de la Auditoría Superior del Estado; y
+
+XII. Las demás que le confieren el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean encomendadas por su superior jerárquico.
 
 ###### Artículo 37.
 
@@ -1271,6 +1347,8 @@ X. Las demás que les confieran el Reglamento, los manuales de organización y p
 
 ### Capítulo Único. De la Suplencia de los Servidores Públicos de la Auditoría Superior del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 42.
 
 El servidor público de la Auditoría Superior del Estado que se encuentre en alguno de los supuestos enunciados en el artículo 92 de la Ley, deberá formular la excusa correspondiente, y comunicarla por escrito a su superior jerárquico.
@@ -1303,15 +1381,13 @@ III. El servidor público que continúe involucrado en la práctica de las audit
 
 ###### Artículo 47.
 
-Durante las ausencias temporales del Auditor General, el despacho y resolución de los asuntos correspondientes a la Auditoría Superior del Estado, estarán a cargo del Auditor Especial que éste designe. En su defecto, las ausencias serán cubiertas en forma alternada por alguno de los titulares de las Auditorías Especiales señaladas en el artículo 4 del Reglamento, en el orden señalado en el mismo.
+Durante las ausencias temporales del Auditor General, el despacho y resolución de los asuntos correspondientes a la Auditoría Superior del Estado, estarán a cargo del Auditor Especial que éste designe. En su defecto, las ausencias serán cubiertas por el Auditor Especial de Municipios, a falta de éste por el Auditor Especial de Evaluación al Desempeño, y a falta de ambos, por el Auditor Especial de Gobierno del Estado y Organismos Públicos Autónomos.
 
 En caso de ausencia absoluta o renuncia del Auditor General y, en tanto sea designado un nuevo titular conforme a las disposiciones y al procedimiento señalado en la Ley, se observará lo dispuesto en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 Las ausencias temporales, absoluta o por renuncia de los Auditores Especiales, Titulares de Unidad o Directores, serán suplidas por el servidor público que designe el Auditor General, hasta en tanto no se realice en su caso, el nombramiento definitivo correspondiente.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ## TÍTULO V. DE LA CONTRATACIÓN DE DESPACHOS CERTIFICADOS
 
@@ -1366,3 +1442,9 @@ P.O. 29 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
 
 Artículo Primero. La presente reforma al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 26 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
+
+Artículo Único. Las presentes reformas al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
