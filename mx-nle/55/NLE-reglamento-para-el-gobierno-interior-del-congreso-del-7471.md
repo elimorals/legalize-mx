@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2016-09-14"
+last_updated: "2016-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -556,6 +556,12 @@ b) Las reformas a la Constitución Política del Estado Libre y Soberano de Nuev
 c) Las leyes orgánicas y reglamentarias a que se refieren los artículos 45, 63 fracción XIII, 94 y 95 de la Constitución Política del Estado y los que la Constitución Política de los Estados Unidos Mexicanos autorice a las Legislaturas de los Estados reglamentar; y
 
 d) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>[N. DE E. EL PRESENTE INCISO FUE MODIFICADO MEDIANTE DECRETO NO. 143 PUBLICADO EL 14 DE SEPTIEMBRE DE 2016 Y SESIONADO POR EL CONGRESO DEL ESTADO EL 25 DE AGOSTO DE 2016; EL 26 DE SEPTIEMBRE DE 2016 FUE REFORMADO MEDIANTE DECRETO NO. 148 Y SESIONADO POR EL CONGRESO DEL ESTADO EL 6 DE SEPTIEMBRE DE 2016, POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+
+i) (sic) Las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública, privada, de protección civil y bomberos;
 
 > <small>[N. DE E. REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016]</small>
 
@@ -2632,3 +2638,9 @@ P.O. 14 DE SEPTIEMBRE DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Una vez que entre en vigor el presente Decreto la Oficialía Mayor tendrá un plazo improrrogable de 15 días para hacer el returno de los asuntos correspondientes a las comisiones.
+
+P.O. 26 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148. SE REFORMA EL ARTÍCULO 39 FRACCIÓN III INCISO I DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
