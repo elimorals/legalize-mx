@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2016-09-20"
+last_updated: "2016-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -913,9 +913,9 @@ II.- Centro de Estadística, Informática y Computación;
 
 III.- Oficialía de Partes;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-IV.- Centro de Actualización Jurídica e Investigación Procesal;
+IV.- Escuela Judicial;
 
 V.- Dirección de Administración;
 
@@ -1035,9 +1035,9 @@ IV.- Tener práctica profesional de cinco años cuando menos, contados a partir 
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-VI.- Aprobar el examen de conocimientos que al efecto formule el Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
+VI.- Aprobar el examen de conocimientos y evaluación integral que al efecto prevea la Escuela Judicial. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2133,7 +2133,9 @@ III.- Dirección de Contraloría;
 
 IV.- Fondo Auxiliar para la Administración de Justicia;
 
-V.- Centro de Actualización Jurídica e Investigación Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+V.- La Escuela Judicial;
 
 VI.- Dirección de Informática;
 
@@ -2211,7 +2213,9 @@ XIX.- Constituir, modificar, suprimir, aumentar y dirigir los órganos administr
 
 XX.- Examinar los informes mensuales que deberán remitir las Salas y los Juzgados acerca de los negocios pendientes y de los despachados;
 
-XXI.- Coordinar el Centro de Actualización Jurídica e Investigación Procesal, como área responsable de la capacitación y formación permanente de los servidores públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+XXI.- Coordinar la Escuela Judicial, como área responsable de la capacitación, formación, actualización, profesionalización y evaluación de los servidores públicos del Poder Judicial;
 
 XXII.- Organizar, operar y mantener actualizado el Sistema de la Carrera Judicial, el cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
 
@@ -2399,9 +2403,9 @@ VI.- Las demás que le señale el reglamento y el Consejo de la Judicatura.
 
 Para la consecución de sus objetivos, la Contraloría contará con un Director y el apoyo de auditoría indispensable, así como con el personal permanente o temporal, que conforme a las circunstancias se requiera y autorice el Consejo de la Judicatura.
 
-### CAPITULO V. DEL CENTRO DE ACTUALIZACION JURIDICA E INVESTIGACION PROCESAL
+### CAPITULO V. DE LA ESCUELA JUDICIAL
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 133.
 
@@ -2527,7 +2531,7 @@ II.- A la adquisición de mobiliario, equipo, libros de consulta y demás materi
 
 III.- La impartición de toda clase de cursos de capacitación para el mejoramiento profesional de los servidores del Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
 ### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
 
@@ -2535,59 +2539,57 @@ III.- La impartición de toda clase de cursos de capacitación para el mejoramie
 
 ###### ARTICULO 144.
 
-El Centro de Actualización Jurídica e Investigación Procesal para el Desarrollo de la Carrera Judicial dependerá del Consejo de la Judicatura, quien nombrará a su Director.
+La Escuela Judicial es una Institución de Educación Especializada, cuyo propósito específico es la capacitación, formación, actualización y profesionalización, con base en el fortalecimiento de la Carrera Judicial, así como para la realización de Estudios de Posgrado, Capacitación Continua e Investigación. Los programas académicos de capacitación, educación continua y posgrado que desarrolle la Escuela judicial podrán ser cursados además de los servidores judiciales, por todas aquellas personas que cumplan con los requisitos de ingreso que señale el Reglamento Interno y el programa académico respectivo.
+
+Es un órgano dependiente administrativamente del Consejo de la Judicatura, pero con independencia académica para determinar los planes y programas de estudio encaminados a la formación, actualización y evaluación de los aspirantes a ingresar o ser promovidos en cualquiera de las categorías señaladas en esta Ley.
+
+Para el cumplimiento de sus objetivos contará con un departamento de evaluación de desempeño, entorno social y psicológico de los aspirantes a ingresar o ser promovidos en cualquiera de las categorías de la carrera judicial señaladas en esta Ley, cuyas atribuciones estarán definidas en el Reglamento Interno de la Escuela Judicial.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 145.
 
-Las funciones del Centro serán las de adiestrar al personal que deba prestar sus servicios en el Poder Judicial; mejorar las aptitudes del que esté laborando y especializar a los servidores públicos que deseen ocupar puestos superiores en las distintas ramas de la administración de justicia.
+La Escuela Judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia académica, y tendrá como atribuciones, establecer:
+
+I.- Programas de estudio para la profesionalización, capacitación, y actualización de los servidores públicos judiciales;
+
+II.- Cursos y talleres que fortalezcan la vocación de servicio, y el ejercicio de los valores y principios éticos inherentes a la función judicial;
+
+III.- Programas académicos de Educación Superior Especializada orientados a la profesionalización de la función jurisdiccional; así como para habilitar especialistas que desarrollen tareas de asesoría y consultoría en materia de impartición de justicia;
+
+IV.- Planes y programas de estudio que de manera integral, adopten a la función jurisdiccional como centro de desarrollo profesional de la actividad institucional;
+
+V.- Programas de capacitación y formación profesional orientados a la constitución de claustros docentes especializados en materia de impartición de justicia;
+
+VI.- Programas para la selección, formación, evaluación integral y promoción del personal judicial con base en el fortalecimiento de la carrera judicial;
+
+VII.- Proyectos de investigación, procurando su interacción con la docencia, la difusión y la extensión;
+
+VIII.- Medios de difusión de la cultura jurídica y de extensión de los servicios, propiciando corresponsabilidad y colaboración;
+
+IX.- Cursos continuos de formación, actualización y especialización para las distintas categorías de la Carrera Judicial;
+
+X.- Instrumentos para la publicación, divulgación y distribución de revistas, trabajos y obras jurídicas de investigación, legislación, doctrina y jurisprudencia; y
+
+XI.- Todos aquellos procedimientos que se consideren pertinentes para el mejoramiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 146.
 
-Son funciones y responsabilidades del Director del Centro:
+Para ser Director de la Escuela Judicial se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-I.- Formular anualmente, para ser sometido a la aprobación del Consejo de la Judicatura, el programa a desarrollar;
+II.- Tener más de 35 años cumplidos el día de su designación;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+III.- Contar con grado de Maestría en Derecho, cuando menos;
 
-II.- Garantizar que el programa de actualización judicial se elabore con apego a las necesidades del Poder Judicial;
+IV.- Tener amplia experiencia en tareas docentes o de investigación; y
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
 
-III.- Establecer y mantener comunicación permanente con otras dependencias, instituciones educativas y centros de investigación, con el propósito de lograr el mejoramiento académico y práctico de los cursos que se impartan, tomando para ello el acuerdo del Consejo de la Judicatura;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
-
-IV.- Promover, entre el personal del Poder Judicial, cursos de capacitación y actualización que acuerde el Consejo de la Judicatura;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
-
-V.- Realizar los análisis y pruebas que permitan una adecuada selección y contratación de personal en el área judicial, para proponerlos al Consejo de la Judicatura;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VI.- Programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones asignadas a la Dirección a su cargo;
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VII.- Promover el desarrollo de la investigación procesal con base en las actividades de impartición de justicia del personal del Poder Judicial del Estado;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-VIII.- Elaborar un banco de datos del desarrollo y solución de los asuntos de naturaleza civil, familiar, mercantil, penal y justicia para adolescentes;
-
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
-
-IX.- Realizar estudios científicos acerca del desarrollo de la impartición de justicia, para apoyar académicamente la solución de asuntos que se atenderán en el futuro;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
-
-X.- Sustentar estudios de propuestas de reforma legislativa, de aquellas disposiciones materia de la función jurisdiccional y someterlas a la aprobación del Consejo de la Judicatura; y
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
-
-XI.- Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales y reglamentarias le asigne el Consejo de la Judicatura.
+Todos los servidores públicos de la Escuela Judicial serán designados por el Consejo de la Judicatura.
 
 ### CAPITULO VII. DE LA VISITADURIA JUDICIAL
 
@@ -2843,9 +2845,9 @@ V.- Realizar investigaciones, análisis y diagnósticos relacionados con los mec
 
 VI.- Apoyar a las diversas entidades públicas y privadas en la promoción de la cultura de la paz a través de los mecanismos alternativos para la solución de conflictos;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-VII.- Coadyuvar con el Centro de Actualización Jurídica e Investigación Procesal sobre la impartición de cursos de capacitación en métodos alternos para la solución de conflictos;
+VII.- Solicitar a la Escuela Judicial la impartición de cursos de capacitación en mecanismos alternativos para la solución de conflictos;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2927,11 +2929,11 @@ IX.- Rendir los informes que le sean solicitados por el Consejo de la Judicatura
 
 X.- Las demás que se deriven de la Ley y otras disposiciones jurídicas que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 176.
 
-Para ser especialista del Centro o Unidad Regional, se requiere, además de los requisitos establecidos por la ley de la materia, aprobar examen psicológico y de conocimientos teórico prácticos relativos a los procedimientos de mecanismos alternativos para la solución de conflictos, aplicados por el Centro de Actualización Jurídica e Investigación Procesal y por el Centro de Mecanismos Alternativos para la Solución de Conflictos, respectivamente.
+Para ser especialista del Centro o Unidad Regional, se requiere, además de los requisitos establecidos por la ley de la materia, aprobar examen de evaluación integral y de conocimientos teórico prácticos relativos a los procedimientos de mecanismos alternativos para la solución de conflictos, aplicados por la Escuela Judicial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3345,9 +3347,9 @@ IV.- Tener práctica profesional de cinco años cuando menos, contados a partir 
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-VI.- Aprobar el examen de conocimientos que al efecto formule el Consejo de la Judicatura del Estado, por conducto del Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
+VI.- Aprobar el examen de conocimientos y evaluación integral que al efecto formule la Escuela Judicial en coordinación con el Consejo de la Judicatura del Estado. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -3922,3 +3924,15 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-1169 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 114 APARTADO B, FRACCIÓN XX Y 115 PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y LOS ARTÍCULOS 32 FRACCIÓN IV, 36 FRACCIÓN VI, 121 PÁRRAFO NOVENO, FRACCIÓN V, 122 FRACCIÓN XXI, LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO SÉPTIMO, 144, 145, 146, 173 FRACCIÓN VII, 176, Y 209 FRACCIÓN VI DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura emitirá el Reglamento de la Escuela Judicial, donde se establecerán las atribuciones de la Dirección, de los Departamentos y Unidades administrativas de la Escuela Judicial, para determinar el ámbito de responsabilidad de cada una.
