@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2008-09-04"
+last_updated: "2016-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
+LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -33,9 +33,9 @@ Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decr
 
 Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULlPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLlTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-DE C R E T O No. LlX-1093
+DE C R E T O No. LIX-1093
 
 MEDIANTE EL CUAL SE EXPIDE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO.
 
@@ -129,7 +129,9 @@ IV. El Registro Público de Comercio.
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Ser Licenciado en Derecho con título debidamente registrado y con experiencia de 5 años en el ejercicio de la profesión;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+II. Contar con estudios de nivel licenciatura o su equivalente;
 
 III. Ser mayor de 30 años;
 
@@ -393,7 +395,7 @@ IV. Los demás que establezca el Reglamento.
 
 ###### ARTICULO 28.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2008)</small>
 
 1. Todo documento en virtud del cual, conforme al artículo anterior, se solicite el registro deberá incorporar los datos siguientes:
 
@@ -443,7 +445,7 @@ A partir de la fecha de entrada en vigor de la presente ley, los inmuebles respe
 
 Si los bienes inmuebles estuvieren ubicados en varios municipios, se procederá a su inscripción en la Oficina del Registro Público que corresponda respectivamente a cada uno de ellos, en virtud de la competencia territorial y según la forma en que establezca el Reglamento.
 
-#### SECCION TERCERA. DE lA INMATRICULACION
+#### SECCION TERCERA. DE LA INMATRICULACION
 
 ###### ARTICULO 33.
 
@@ -591,7 +593,7 @@ La presentación de los documentos podrá hacerse en forma física o según los 
 
 Cuando proceda, ya sea el notario o el interesado, deberá tramitar el registro de los actos asentados en el protocolo de aquél, y entregar a éste su título con la debida constancia de registro, de acuerdo a lo que establezca el Reglamento.
 
-### CAPÍTULO VIII. DE LA CALlFICACION
+### CAPÍTULO VIII. DE LA CALIFICACION
 
 #### SECCION PRIMERA. DE LA CALlFICACION EN GENERAL
 
@@ -613,7 +615,7 @@ V. Se hayan pagado los derechos registrales; y
 
 VI. En su caso, aquellos otros elementos objetivos que resulten del instrumento.
 
-#### SECCION SEGUNDA. DE LA CALlFICACION DE LAS RESOLUCIONES
+#### SECCION SEGUNDA. DE LA CALIFICACION DE LAS RESOLUCIONES
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2008)</small>
 
@@ -621,7 +623,7 @@ VI. En su caso, aquellos otros elementos objetivos que resulten del instrumento.
 
 El Registrador se abstendrá de enjuiciar la legalidad de las resoluciones administrativas o judiciales que le sean enviadas para su inscripción o anotación.
 
-#### SECCION TERCERA. DEL RESULTADO DE LA CALlFICACION
+#### SECCION TERCERA. DEL RESULTADO DE LA CALIFICACION
 
 ###### ARTICULO 51.
 
@@ -675,7 +677,7 @@ Si la calificación con defecto o denegada no alcanzara a la totalidad de inmueb
 
 ###### ARTICULO 58.
 
-1. Si al solicitarse la inscripción o anotación existieren otras de carácter provisional o certificaciones con reserva de prioridad vigentes, se plasmará en el Registro con la advertencia de la circunstancia que la condiciona, en la forma que lo determine el Regalmento (sic).
+1. Si al solicitarse la inscripción o anotación existieren otras de carácter provisional o certificaciones con reserva de prioridad vigentes, se plasmará en el Registro con la advertencia de la circunstancia que la condiciona, en la forma que lo determine el Regalmento.
 
 2. Cuando la segunda inscripción o anotación obtenga prioridad respecto de la primera, el Registro Público informará de la variación producida, comunicando que la anotación condicional ha adquirido prioridad. En caso contrario, la anotación condicional quedará desplazada por el cumplimiento de los plazos legales de protección de los documentos.
 
@@ -705,7 +707,7 @@ Cuando el documento resulte calificado favorablemente, se procederá al registro
 
 Si como resultado del recurso de inconformidad la calificación es revocada se procederá al registro definitivo.
 
-#### SECCION SEGUNDA. DEL ACCESO A LA JUSTICIA POR DESACUERDO CON LA CALlFICACION
+#### SECCION SEGUNDA. DEL ACCESO A LA JUSTICIA POR DESACUERDO CON LA CALIFICACION
 
 ###### ARTICULO 62.
 
@@ -725,7 +727,7 @@ En caso de que la autoridad judicial ordene el registro, éste surtirá sus efec
 
 2. Esta calificación se entenderá limitada a efecto de conceder o denegar nuevamente la inscripción y no preocupará en manera alguna el juicio que pueda seguirse ante los tribunales sobre la nulidad del mismo título o sobre la falta de representación legal. En contra de dicha resolución no habrá más recurso que el de responsabilidad.
 
-#### SECCION TERCERA. DE LAS DISPOSICIONES COMUNES Al RECURSO DE INCONFORMIDAD Y A LA PETICION ANTE LA JUSTICIA POR DESACUERDO CON LA CALlFICACION
+#### SECCION TERCERA. DE LAS DISPOSICIONES COMUNES Al RECURSO DE INCONFORMIDAD Y A LA PETICION ANTE LA JUSTICIA POR DESACUERDO CON LA CALIFICACION
 
 ###### ARTICULO 66.
 
@@ -943,7 +945,7 @@ Los actos ejecutados o los contratos otorgados en otra entidad federativa sólo 
 
 2. En caso de que en el Registro Público se detectara la circunstancia señalada en el párrafo anterior, se seguirá el procedimiento previsto en el Reglamento, no pudiendo las partes disponer del inmueble hasta que no se dirima judicialmente la titularidad. Se consignará nota en el o los folios involucrados de dicha circunstancia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2008)</small>
 
 ### CAPITULO XVI. DEL CERTIFICADO DE RESERVA DE PRIORIDAD
 
@@ -1519,7 +1521,7 @@ El Reglamento de la presente ley deberá expedirse en un término que no exceda 
 
 Los certificados de reserva de prioridad a que alude el artículo 104 de esta ley, que se hayan solicitado al Registro Público dentro del periodo comprendido del 31 de marzo al 30 de junio de 2008, conservarán su vigencia hasta en tanto sean expedidos, prorrogándose ésta durante 60 días más a partir de su fecha de expedición.
 
-SALO N DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de diciembre del año 2007.- DIPUTADO PRESIDENTE.- JESUS EVERARDO VILLARREAL SALlNAS.- Rúbrica; DIPUTADA SECRETARIA.- AIDA ARACELI ACUÑA CRUZ.- Rúbrica.- DIPUTADO SECRETARIO.- FERNANDO ALEJANDRO FERNANDEZ DE LEON.- Rúbrica.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de diciembre del año 2007.- DIPUTADO PRESIDENTE.- JESUS EVERARDO VILLARREAL SALINAS.- Rúbrica; DIPUTADA SECRETARIA.- AIDA ARACELI ACUÑA CRUZ.- Rúbrica.- DIPUTADO SECRETARIO.- FERNANDO ALEJANDRO FERNANDEZ DE LEON.- Rúbrica.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1527,7 +1529,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE JUNIO DE 2008.
 
@@ -1540,3 +1542,11 @@ P.O. 4 DE SEPTIEMBRE DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-1172 MEDIANTE EL CUAL SE REFORMAN LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, Y LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día 1o. de octubre de 2016.
