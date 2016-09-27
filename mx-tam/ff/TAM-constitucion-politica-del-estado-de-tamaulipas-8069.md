@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2016-09-20"
+last_updated: "2016-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -2285,7 +2285,9 @@ XVIII.- Constituir, modificar, suprimir, aumentar y dirigir los órganos adminis
 
 XIX.- Examinar los informes mensuales que deberán remitir las Salas y los Juzgados acerca de los negocios pendientes y de los despachados;
 
-XX.- Coordinar el Centro de Actualización Jurídica e Investigación Procesal, como área responsable de la capacitación y formación permanente de los servidores públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+XX.- Coordinar la Escuela Judicial, como área responsable de la capacitación, formación, actualización, profesionalización y evaluación de los Servidores Públicos del Poder Judicial;
 
 XXI.- Organizar, operar y mantener actualizado el sistema de la carrera judicial, el cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
 
@@ -2307,11 +2309,11 @@ XXVII.- Dictar las medidas necesarias para la recepción, control y destino de l
 
 XXVIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-###### Art. 115.
+###### ARTÍCULO 115.
 
-La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
+La ley establecerá las bases para la capacitación, formación, actualización, profesionalización y evaluación de los servidores públicos del Poder Judicial. Deberá prever la creación de una Escuela Judicial, para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -4508,3 +4510,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 EI Poder Legislativo del Estado, deberá realizar las adecuaciones necesarias a la legislación secundaria para armonizarla con las disposiciones del presente Decreto, en un plazo que no exceda el 27 de octubre del 2016.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXII-1169 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 114 APARTADO B, FRACCIÓN XX Y 115 PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y LOS ARTÍCULOS 32 FRACCIÓN IV, 36 FRACCIÓN VI, 121 PÁRRAFO NOVENO, FRACCIÓN V, 122 FRACCIÓN XXI, LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO SÉPTIMO, 144, 145, 146, 173 FRACCIÓN VII, 176, Y 209 FRACCIÓN VI DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura emitirá el Reglamento de la Escuela Judicial, donde se establecerán las atribuciones de la Dirección, de los Departamentos y Unidades administrativas de la Escuela Judicial, para determinar el ámbito de responsabilidad de cada una.
