@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2015-07-07"
+last_updated: "2016-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -2144,3 +2146,83 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-1171, MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día 1o. de octubre de 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública para el Estado de Tamaulipas, expedida en el Decreto No. LVIII-1200 del 19 de diciembre del 2004, publicada en el Anexo al Periódico Oficial del Estado No. 152, del 21 de diciembre del mismo año.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento de esta ley, se faculta al Ejecutivo para reorganizar la estructura de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias y, cambiar la sede de las dependencias y entidades para el mejor desarrollo de la administración pública.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en esta Ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por ley anterior, otras leyes especiales, reglamentos o disposiciones generales, dichas atribuciones se considerarán concedidas a la dependencia que determine esta ley y demás disposiciones relativas.
+
+###### ARTÍCULO QUINTO.
+
+Con motivo de creación de las Secretarías de Turismo y de Pesca y Acuacultura, se transferirán a éstas los recursos humanos, activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado por las Secretarías de Desarrollo Económico y Turismo y, de Desarrollo Rural, respectivamente, para los asuntos a su cargo, que serán atendidos por las nuevas dependencias.
+
+También se transferirán dichos recursos y activos de la actual Secretaría del Trabajo y Asuntos Jurídicos, a la Secretaría General de Gobierno, en lo relativo a las materias mencionadas en las fracciones III, XIV, XV, XVIII, XXXI y XXXII del artículo 25 de esta Ley. Así mismo se transferirán los recursos y activos de la actual Secretaría de Desarrollo Económico y Turismo a la Secretaría del Trabajo, en lo relativo a las actividades mencionadas en la fracción VIII del artículo 30 de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los traspasos que con motivo de la expedición de esta ley deban realizarse de una dependencia o entidad a otra, deberán iniciar el 1 de enero de 2017 y concluirán a más tardar dentro de los 30 días siguientes.
+
+Los asuntos que con motivo de esta ley deban pasar de una dependencia o entidad a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que deba atenderlos conforme al ordenamiento que se expide, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las transferencias que con motivo de la expedición de la presente ley deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de la nueva competencia, así como los programas y calendarios financieros.
+
+###### ARTÍCULO OCTAVO.
+
+En el caso de las entidades de la Administración Pública Estatal, el Ejecutivo del Estado emitirá el decreto correspondiente para cambiar su adscripción a la cabeza de sector que corresponda.
+
+###### ARTÍCULO NOVENO.
+
+Las Unidades Administrativas denominadas Oficinas del Gobernador, Coordinación de Asesores y Coordinación de Comunicación Social, se encontrarán adscritas a la Jefatura de la Oficina del Gobernador a partir de la publicación de la presente Ley, para lo cual dentro de los 30 días posteriores el Ejecutivo emitirá los Decretos o Acuerdos correspondientes.
+
+###### ARTÍCULO DÉCIMO.
+
+La asignación presupuestal efectuada a las Unidades Administrativas: Oficinas del Gobernador, Coordinación de Asesores y Coordinación de Comunicación Social, seguirá siendo ejercida en la forma programada, por el Jefe de la Oficina del Gobernador para su ajuste programático.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Cuando con motivo de la presente Ley, las dependencias o entidades deban instrumentar programas o proyectos que requieran ejercer presupuesto, y éste no hubiera sido asignado para el actual ejercicio fiscal, se deberá programar para el ejercicio siguiente.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+En cumplimiento a lo establecido en la fracción XXVI del artículo 25 de ésta Ley, dentro de un plazo de 30 días, el Ejecutivo emitirá el acuerdo a través del cual se establezcan (sic) la modificación de la Comisión de Estudios Jurídicos y establezca las reglas y procedimientos a observar.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Cuando conforme a ésta Ley, un área administrativa sea reubicada de una dependencia o entidad a otra, las áreas involucradas iniciarán el procedimiento de coordinación administrativa a partir de la entrada en vigor de la presente Ley, a efecto de salvaguardar la buena marcha de la administración pública.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La Secretaría de Turismo iniciará funciones el 1 de enero de 2017, por lo que, las funciones encomendadas a ésta en la presente ley, serán ejercidas por la Secretaría de Desarrollo Económico, hasta que la primera asuma las mismas.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+La Secretaría de Pesca y Acuacultura iniciará funciones el 1 de enero de 2017, por lo que, las funciones encomendadas a ésta en la presente ley, serán ejercidas por la Secretaría de Desarrollo Rural, hasta que la primera asuma las mismas.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo estatal a más tardar el 31 de diciembre de 2016, deberá proveer a la emisión del acuerdo por el que se establece la estructura orgánica de las Secretarías de Turismo y de Pesca y Acuacultura.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Los trabajadores de base seguirán conservando sus derechos laborales, los que no se verán afectados con motivo de la expedición de la presente ley.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
