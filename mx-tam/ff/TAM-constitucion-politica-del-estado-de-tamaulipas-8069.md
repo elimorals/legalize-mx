@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2016-09-20"
+last_updated: "2016-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,157 +21,23 @@ state: "TAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ACUERDO POR EL QUE EL CONSEJO GENERAL A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL ESTABLECE EL NÚMERO DE MESAS DE ESCRUTINIO Y CÓMPUTO DE LA VOTACIÓN DE LOS ELECTORES RESIDENTES EN EL EXTRANJERO QUE CADA UNO DE LOS 7 DISTRITOS ELECTORALES DEL DISTRITO FEDERAL ATENDERÁN EL DÍA DE LA JORNADA ELECTORAL EL 1 DE JULIO DE 2012
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
 
-Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 28 de mayo de 2012.
+Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Federal Electoral.- Consejo General.- CG236/2012.
+JOSE MORANTE, Gobernador Provisional del Estado libre y soberano de Tamaulipas, a todos sus habitantes, sabed:
 
-ACUERDO POR EL QUE EL CONSEJO GENERAL A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL ESTABLECE EL NUMERO DE MESAS DE ESCRUTINIO Y COMPUTO DE LA VOTACION DE LOS ELECTORES RESIDENTES EN EL EXTRANJERO QUE CADA UNO DE LOS 7 DISTRITOS ELECTORALES DEL DISTRITO FEDERAL ATENDERAN EL DIA DE LA JORNADA ELECTORAL EL 1 DE JULIO DE 2012.
+Que el H. Congreso del Estado ha decretado lo siguiente:
 
-ANTECEDENTES
+"La XXVII Legislatura del Estado con su carácter de Constituyente, ha tenido a bien expedir la siguiente
 
-I. El 28 de junio de 2005 el Congreso de la Unión aprobó la reforma y adiciones del Código Federal de Instituciones y Procedimientos Electorales relativas al ejercicio del voto de los mexicanos residentes en el extranjero. Reformándose los artículos 1, 9 y los incisos c), d) y e) del párrafo 1 del artículo 250 del Código Federal de Instituciones y Procedimientos Electorales, al tiempo de que se modificó la denominación del Libro Sexto para intitularse “Del voto de los mexicanos residentes en el extranjero”, adicionándose los artículos 273 al 300 del Código comicial. Estas adiciones y reformas entraron en vigencia el 1 de julio de 2005.
+CONSTITUCION POLITICA
 
-II. Con fecha 29 de junio de 2005, mediante Acuerdo CG139/2005, el Consejo General aprobó el Plan Integral del Proceso Federal Electoral 2005-2006 (PIPEF) que establece los objetivos estratégicos, las estrategias, los proyectos y los indicadores de gestión que permitirán dar seguimiento puntual a cada etapa del Proceso Electoral Federal 2005-2006. En dicho documento en el punto 4.5 denominado: “Garantizar el derecho al voto de los mexicanos residentes en el extranjero”, y específicamente en el punto 4.5.3 intitulado “Escrutinio, cómputo y remisión de actas” se plantea el objetivo de integrar, con ciudadanos capacitados, las mesas que realizarán el escrutinio y cómputo de los votos emitidos por los ciudadanos residentes en el extranjero y remitir las actas a los Consejos Distritales de acuerdo con los plazos establecidos en el Código de la materia.
+DEL
 
-III. El 31 de enero de 2006, mediante Acuerdo CG21/2006, el Consejo General del Instituto Federal Electoral aprobó el Programa de Capacitación Electoral e Integración de Mesas de Escrutinio y Cómputo de la Votación de los Electores Residentes en el Extranjero, para el Proceso Electoral Federal 2005-2006.
-
-IV. Con fecha 14 de enero de 2008, fue publicado en el Diario Oficial de la Federación, el Decreto por el que se expidió el nuevo Código Federal de Instituciones y Procedimientos Electorales. Con dicho Decreto, el Libro Sexto “Del Voto de los mexicanos residentes en el extranjero”, quedó comprendido en los artículos del 313 al 339 del Código en cita.
-
-V. En sesión extraordinaria de fecha 23 junio de 2011, el Consejo General del Instituto Federal Electoral aprobó las Políticas y Programas Generales del Instituto Federal Electoral para el año 2012, que establece en los puntos 3 y 4, del Programa de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, específicamente en el subprograma de la Dirección de Capacitación Electoral, los objetivos específicos y las líneas de acción referentes al voto de los mexicanos residentes en el extranjero.
-
-VI. Con fecha 14 de septiembre de 2011, el Consejo General aprobó el Calendario Integral del Proceso Electoral Federal 2011-2012, de conformidad con lo que establece el artículo 118, numeral 1 inciso II) del Código Federal de Instituciones y Procedimientos Electorales y el Plan Integral del Proceso Electoral Federal 2011-2012 (PIPEF) que señala los objetivos estratégicos, las estrategias, los proyectos y los indicadores de gestión que permitirá dar seguimiento puntual a cada etapa del Proceso Electoral Federal 2011-2012 y que el punto 4.3 relativo al Plan en Materia Electoral número 7 (PME7) que consiste en preparar las elecciones de manera eficaz y oportuna, cuyo objetivo es el de Integrar mesas de escrutinio y cómputo con ciudadanos doblemente sorteados para que cuenten y registren los votos de los electores residentes en el extranjero.
-
-VII. Con fecha 14 de noviembre de 2011, mediante Acuerdo CG366/2011, el Consejo General del Instituto Federal Electoral aprobó el Programa de Capacitación Electoral e Integración de Mesas de Escrutinio y Cómputo para contar el Voto de los Mexicanos Residentes en el Extranjero para el Proceso Electoral Federal 2011-2012.
-
-CONSIDERANDO
-
-1. Que en términos de lo establecido en el artículo 5, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, las funciones electorales y censales tienen carácter obligatorio y gratuito.
-
-2. Que de conformidad con el artículo 41, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos la renovación de los Poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas.
-
-3. Que el mismo precepto constitucional en su Base V, párrafos primero y noveno, dispone que la organización de las elecciones federales es una función estatal que se realiza a través de un organismo autónomo denominado Instituto Federal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores; y tendrá a su cargo en forma integral y directa, entre otras, las actividades relativas a la capacitación y educación cívica, preparación de la Jornada Electoral y el cómputo de la elección de Presidente de los Estados Unidos Mexicanos.
-
-4. Que en términos de lo señalado en el artículo 105, numeral 1, incisos a), d), e), f) y g), del Código Federal de Instituciones y Procedimientos Electorales son fines del Instituto entre otros, contribuir al desarrollo de la vida democrática; asegurar a los ciudadanos el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones; garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo de la Unión; velar por la autenticidad y efectividad del sufragio; así como llevar a cabo la promoción del voto y coadyuvar a la difusión de la cultura democrática.
-
-5. Que según lo dispuesto por el artículo 109 del Código Electoral, el Consejo General, en su calidad de órgano superior de dirección del Instituto Federal Electoral, es el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
-
-6. Que de conformidad con lo que establece el artículo 116, numeral 3, del Código Federal Electoral, para cada Proceso Electoral, se fusionarán las comisiones de Capacitación Electoral y Educación Cívica y de Organización Electoral, en este sentido, el 7 de octubre de 2011, el Consejo General integró la Comisión de Capacitación y Organización Electoral.
-
-7. Que el artículo 118, numeral 1, incisos b), h) y z), del mismo ordenamiento, dispone que son atribuciones del Consejo General vigilar el adecuado funcionamiento de los órganos del Instituto y conocer por conducto de su Presidente y de sus comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesarios solicitarles, que las actividades de los partidos políticos nacionales se desarrollen con apego al Código comicial y dictar los acuerdos necesarios para hacer efectivas las atribuciones señaladas en el ordenamiento legal.
-
-8. Que de conformidad con lo que establece el artículo 122, numeral 1, inciso f), del Código Federal de la materia es atribución de la Junta General Ejecutiva supervisar el cumplimiento de los programas de capacitación electoral y educación cívica del Instituto.
-
-9. Que el artículo 130, numeral 1, incisos a) y c), del Código Federal de Instituciones y Procedimientos Electorales, confiere a la Dirección Ejecutiva de Organización Electoral las atribuciones de apoyar la integración, instalación y funcionamiento de las Juntas Ejecutivas Locales y Distritales, así como de proveer lo necesario para la impresión y distribución de la documentación electoral autorizada.
-
-10. Que tal y como lo establece el artículo 132, numeral 1, incisos a) al d), del Código de la materia, es atribución de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, entre otras, elaborar y proponer los programas de educación cívica y capacitación electoral que desarrollen las Juntas Locales y Distritales Ejecutivas, coordinar y vigilar el cumplimiento de dichos programas, preparar el material didáctico y los instructivos electorales, así como orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales.
-
-11. Que el artículo 313 del Código Comicial señala que los ciudadanos que residan en el extranjero podrán ejercer el derecho al voto exclusivamente para la elección de Presidente de los Estados Unidos Mexicanos.
-
-12. Que el numeral 1 del artículo 317 del Código Federal de Instituciones y Procedimientos Electorales indica que las listas nominales de electores residentes en el extranjero son las relaciones elaboradas por la Dirección Ejecutiva del Registro Federal de Electores que contienen el nombre de las personas incluidas en el Padrón Electoral que cuentan con su credencial para votar, que residan en el extranjero y que solicitan su inscripción en dichas listas.
-
-13. Que con base en el artículo 320, párrafos 1 y 2, incisos a) y b) del mencionado código electoral, la Dirección Ejecutiva del Registro Federal de Electores elaborará las listas nominales de electores de residentes en dos modalidades: conforme al criterio de domicilio en el extranjero de los ciudadanos, ordenados alfabéticamente; estas listas serán utilizadas exclusivamente para efectos del envío de las boletas electorales a los ciudadanos inscritos y, conforme al criterio de domicilio en México de los ciudadanos, por entidad federativa, distrito electoral, ordenados alfabéticamente, las cuales serán utilizadas por el Instituto para efectos del escrutinio y cómputo de la votación.
-
-14. Que de conformidad con lo que establece el artículo 329, numeral 1, inciso a) del Código de la materia y con base en la Lista Nominal de Electores Residentes en el Extranjero, conforme al criterio de su domicilio en territorio nacional, el Consejo General determinará el número de mesas de escrutinio y cómputo que correspondan a cada distrito electoral uninominal y que el número máximo de votos por mesa será de 1,500.
-
-15. Que en relación al artículo 329, numeral 1, inciso a) y de conformidad con el artículo 239, numerales 2 y 3 inciso a) del Código Federal de Instituciones y Procedimientos Electorales, en las secciones electorales, por cada 750 electores o fracción, deberá instalarse una casilla electoral para recibir la votación de los ciudadanos residentes en la misma, advirtiendo que de ser dos o más casillas habrán de colocarse en forma contigua y se dividirá la Lista Nominal de Electores en orden alfabético y que en caso de que el número de ciudadanos inscritos en la Lista Nominal de Electores correspondiente a una sección sea superior a 1,500 electores, deberán instalarse en un mismo sitio o local tantas casillas como resulte de dividir el número de ciudadanos inscritos en la lista entre 750.
-
-16. Que teniendo en cuenta los criterios contenidos en los artículos 239 numerales 2 y 3 inciso a), y 329 del Código invocado, en caso de que el número de ciudadanos inscritos en la Lista Nominal de Electores Residentes en el Extranjero correspondiente a un distrito sea superior a 1,500 electores deberán instalarse tantas mesas de escrutinio y cómputo como resulte de dividir el número de ciudadanos inscritos en el listado nominal entre 750. De esta manera una mesa de escrutinio y cómputo contará hasta 750 votos.
-
-17. Que en el Punto Séptimo del Acuerdo CG366/2011 por el que se aprueba el Programa de Capacitación Electoral e Integración de Mesas de Escrutinio y Cómputo para contar el Voto de los Mexicanos Residentes en el Extranjero para el Proceso Electoral Federal 2011-2012, incisos a), b), c) y numeral 1, se establecieron los siguientes criterios:
-
-a. Una mesa de escrutinio y cómputo cuantificará 3 distritos, cada uno por separado, cuando el número de electores en el Listado Nominal de Electores Residentes en el Extranjero este conformada por 1 y hasta 49, independientemente si se reciban o no las boletas.
-
-b. Una mesa de escrutinio y cómputo cuantificará 2 distritos, cada uno por separado, cuando el número de electores en el Listado Nominal de Electores Residentes en el Extranjero sea de 50 y hasta 200.
-
-c. Una mesa de escrutinio y cómputo cuantificará sólo 1 distrito cuando el número de electores en el Listado Nominal de Electores Residentes en el Extranjero se conforme por 201 y hasta 750.
-
-Si el distrito registra en los listados nominales un número de electores residentes en el extranjero superior al máximo anotado en el párrafo anterior, se dividirá el listado entre 750, para establecer el número de mesas de escrutinio y cómputo que se instalarán. En seguida, la Lista Nominal de Electores Residentes en el Extranjero se dividirá entre el número de mesas resultante, para determinar, de manera proporcional, el número de electores que cada mesa atenderá; se considerará a la primera como mesa básica, instalándose las subsiguientes en forma contigua.
-
-1. A propuesta de la Junta General Ejecutiva, el Consejo General determinará cuántas y cuáles mesas y distritos del país competerá a cada uno de los distritos involucrados (5, 14, 21, 23, 24, 25 y 26) instalar y cuantificar el día de la Jornada Electoral.
-
-18. Que la Dirección Ejecutiva del Registro Federal de Electores elaboró con corte al 15 de marzo del año en curso, la Lista Nominal de Electores Residentes en el Extranjero relacionando a un total de 60,426 ciudadanos registrados; con base en el criterio de su residencia en territorio nacional se procedió a realizar las estimaciones del número de Mesas de Escrutinio y Cómputo que se instalarán el día de la Jornada Electoral.
-
-19. Que para determinar el número de Mesas de Escrutinio y Cómputo a instalar se aplicó el criterio de agrupar los distritos electorales, a que corresponden los electores residentes en el extranjero, por el criterio de su domicilio en territorio nacional, por circunscripción plurinominal, en razón de que el procedimiento de cuantificación de los votos se operará por distrito, por estado y por circunscripción.
-
-20. Que derivado del criterio anterior el número total de Mesas de Escrutinio y Cómputo que se propone instalar será de 209 distribuidas de la siguiente manera: en la Primera Circunscripción se instalarán 45 mesas en donde se agruparán a los 60 distritos que la conforman; en la Segunda Circunscripción serán instaladas, 43 mesas correspondientes a los 59 distritos; para la Tercera Circunscripción, 28 mesas para los 60 distritos; para la Cuarta Circunscripción, 51 mesas para los 60 distritos y para la Quinta Circunscripción se instalarán 42 mesas y cubrirán los 61 distritos que la integran, tomando como base el criterio de agrupar en número de 3 los distritos que se encuentran en el rango 1 (de 1 a 49 electores); en número de 2 los distritos que se encuentran en rango 2 (de 50 a 200 electores), en número de 1 los distritos que se encuentran en rango 3 (de 201 a 750 electores), el rango 4 será para los distritos con mesas contiguas.
-
-21. Que tomando en cuenta las dimensiones del Listado Nominal de Electores Residentes en el Extranjero de cada uno de los distritos, en razón del número de electores, así como su proporción de secciones urbanas se realizó la proyección para asignar el número de mesas de escrutinio y cómputo que a cada distrito electoral del Distrito Federal le competerá integrar: a los Distritos 5 y 14 le corresponderá atender a cada uno veintinueve mesas de escrutinio y cómputo; a los Distritos 21 y 25, treinta mesas, al Distrito 23, treinta y uno, al Distrito 24, veintiocho y al Distrito 26, treinta y dos mesas.
-
-22. Que con base al número de ciudadanos inscritos en la Lista Nominal de Electores Residentes en el Extranjero con corte al 15 de marzo de 2012, se ordenó la impresión del material y documentación electoral que se utilizará para atender el voto de los ciudadanos mexicanos residentes en el extranjero, durante el Proceso Electoral Federal 2011-2012, así como la determinación del número de mesas de escrutinio y cómputo. Derivado de lo anterior las 209 mesas que se proponen instalar no podrán ser modificadas, aun cuando la Lista Nominal de Electores Residentes en el Extranjero es de 59,044, ya que el corte del 2 de abril del año en curso determinó el número de solicitudes procedentes.
-
-23. Que de conformidad con el artículo 329, numeral 4 del Código Federal de Instituciones y Procedimientos Electorales, los partidos políticos designarán 2 representantes por cada mesa, un representante general por cada 20 mesas y un representante general para el Computo Distrital.
-
-24. Que entre los objetivos estratégicos del Plan Integral del Proceso Electoral Federal 2011-2012, destaca el relativo a organizar la elección de manera efectiva y transparente, del cual se desprenden proyectos y acciones vinculados al procedimiento para la ubicación, instalación y funcionamiento de las mesas de escrutinio y cómputo.
-
-De conformidad con los antecedentes y considerandos vertidos, con fundamento en lo dispuesto por los artículos 5, párrafo cuarto; 41, párrafo segundo, Base V, párrafos primero y noveno, de la Constitución Política de los Estados Unidos Mexicanos; 105, numeral 1, incisos a), d), e), f) y g); 109; 116, numeral 3; 118, numeral 1, incisos b), h) y z); 122, numeral 1, inciso f); 130, numeral 1, incisos a) y c); 132, numeral 1, incisos a) al d); 239 numerales 2 y 3, inciso a); 313; 317, numeral 1; 320, numerales 1 y 2, incisos a) y b); 329 numeral 1 y 4 del Código Federal de Instituciones y Procedimientos Electorales, el Consejo General emite el siguiente:
-
-ACUERDO
-
-Primero.- Se aprueba la instalación de 209 Mesas de Escrutinio y Cómputo con base en el número de ciudadanos inscritos en la Lista Nominal de Electores Residentes en el Extranjero al 15 de marzo de 2012, mismas que se instalarán en el Local Unico autorizado por la Junta General Ejecutiva que se ubica en las instalaciones del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Ciudad de México.
-
-Segundo.- La clasificación de distritos electorales uninominales del país, por rango de electores residentes en el extranjero registrados en el listado nominal por el criterio de su domicilio en territorio nacional, así como el número de mesas que corresponde a cada rango será la siguiente:
-
-Tipo de rango Número de Número de Número
-
-electores en distritos de Mesas
-
-Listado Nominal electorales
-
-uninominales
-
-Rango 1 01 - 49 22 9
-
-Rango 2 50 - 200 168 85
-
-Rango 3 201 - 750 105 105
-
-Rango 4
-
-Básica y
-
-contigua 751 - 1500 5 10
-
-Total 300 209
-
-Tercero.- El número de mesas de escrutinio y cómputo por circunscripción plurinominal quedará bajo la siguiente distribución:
-
-Circunscripciones Distribución del número de mesas
-
-de escrutinio y cómputo
-
-Total por
-
-circunscripción Rango 1 Rango 2 Rango 3 Rango 4
-
-Primera 45 1 15 29 0
-
-Segunda 43 1 15 27 0
-
-Tercera 28 6 21 1 0
-
-Cuarta 51 0 14 27 10
-
-Quinta 42 1 20 21 0
-
-Total 209 9 85 105 10
-
-Cuarto.- La asignación de Mesas de Escrutinio y Cómputo a cada uno de los 7 Distritos Electorales del Distrito Federal que participan en el Programa de Capacitación Electoral e Integración de Mesas de Escrutinio y Cómputo de la Votación de los Electores Residentes en el Extranjero se hará de la siguiente manera:
-
-> <small>N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 28 DE MAYO DE 2012, PÁGINA 5.</small>
-
-Quinto.- Con base en la Lista Nominal de Electores Residentes en el Extranjero con corte al 15 de marzo y aun cuando hubiese un ajuste a la misma, el número aprobado de mesas de escrutinio y cómputo así como su distribución y clasificación motivo de este acuerdo, no podrán ser modificados.
-
-Sexto.- Se instruye y autoriza a las Direcciones Ejecutivas de Capacitación Electoral y Educación Cívica, de Organización Electoral y del Registro Federal de Electores, así como a la Coordinación del Voto de los Mexicanos Residentes en el Extranjero para que procedan a tomar las medidas pertinentes para la correcta observancia y aplicación del presente Acuerdo, así como para incorporar los contenidos del mismo, en los programas y materiales correspondientes para la adecuada capacitación de los funcionarios de las mesas de escrutinio y cómputo.
-
-Séptimo.- Notifíquese el presente Acuerdo a los presidentes del Consejo Local y de los consejos distritales 5, 14, 21, 23, 24, 25 y 26 del Distrito Federal, para su conocimiento y debido cumplimiento, y publíquese en el Diario Oficial de la Federación.
-
-El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 25 de abril de dos mil doce, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Sergio García Ramírez, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
-
-El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+ESTADO DE TAMAULIPAS
 
 ## TITULO I. DEL ESTADO Y SUS HABITANTES
 
@@ -1015,9 +881,9 @@ El Congreso, en ambos periodos de sesiones, se ocupará del estudio, discusión 
 
 En el desahogo de las atribuciones deliberativas, legislativas y de revisión de los resultados de la gestión pública, el Congreso alentará criterios de planeación para su ejercicio.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-En su oportunidad revisará y calificará la Cuenta Pública del Gobierno del Estado de Tamaulipas y la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado, que le deberán ser remitidas, declarando si las cantidades percibidas y las gastadas se adecuan a las partidas respectivas del presupuesto de egresos, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir alguna responsabilidad. Los poderes del Estado, los Ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales y municipales, y todo ente que reciba recursos públicos, deberán administrar y ejercer dichos recursos con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
+En su oportunidad revisará y calificará la Cuenta Pública del Gobierno del Estado de Tamaulipas y la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado, que le deberán ser remitidas, declarando si las cantidades percibidas y las gastadas se adecuan a las partidas respectivas del presupuesto de egresos, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir alguna responsabilidad. Los poderes del Estado, los Ayuntamientos, los órganos con autonomía de los poderes, las entidades estatales y municipales, y todo ente que reciba recursos públicos, deberán administrar y ejercer dichos recursos, bajo los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
 
 En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá revisarse la recaudación y analizarse si fueron percibidos los recursos del caso en cumplimiento de las disposiciones legales aplicables.
 
@@ -1127,7 +993,7 @@ V. Nombrar y remover a sus servidores públicos en los términos que señale la 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2015)</small>
 
-VI.- Revisar la Cuenta Pública del Gobierno del Estado de Tamaulipas así como la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado. La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos en su caso y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
+VI. Revisar la Cuenta Pública del Gobierno del Estado de Tamaulipas así como la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado. La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos en su caso y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -1137,9 +1003,17 @@ Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría
 
 Las cuentas públicas del ejercicio fiscal correspondiente deberán ser presentadas al Congreso, a más tardar, el 30 de abril del año siguiente. Únicamente se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno de Estado de Tamaulipas, cuando medie solicitud del Gobernador suficientemente justificada a juicio del Congreso, previa comparecencia del titular de la dependencia competente, pero la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior de (sic) Estado contará con el mismo tiempo adicional para la presentación del informe de resultados de la revisión de la cuenta pública. El Congreso deberá concluir la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados que emita la Auditoría Superior del Estado, sin demérito de que el trámite de observaciones, recomendaciones o acciones promovidas por la propia Auditoría, seguirá su curso en términos de lo dispuesto por esta Constitución y la ley;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-VII. Fijar las bases para que el Ejecutivo Estatal lleve a cabo la contratación de empréstitos sobre el crédito del Estado, mediante la expedición de la ley correspondiente, con base en las previsiones de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos. En dicha ley se establecerán los elementos para la celebración de contratos en materia de crédito público y su renovación; la afectación en garantía de las participaciones que en ingresos federales le correspondan al Estado, o de los ingresos estatales; la realización de operaciones de sustitución o canje de deuda, incluyéndose la información sobre las condiciones financieras mayormente favorables que se hubieren contratado y el destino del ahorro para inversiones públicas productivas; y, en su caso, el reconocimiento de deuda pública contraída por el Estado, así como las condiciones en que se realizará su pago;
+VII. Fijar las bases para que el Ejecutivo Estatal, Municipios, organismos descentralizados, empresas públicas y fideicomisos, lleven a cabo la contratación de empréstitos sobre el crédito del Estado, con base en las previsiones de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, estableciendo los elementos para la celebración de contratos en materia de crédito público y su renovación; la afectación en garantía de las participaciones que en ingresos federales le correspondan al Estado, o de los ingresos estatales; la realización de operaciones de sustitución o canje de deuda, incluyéndose la información sobre las condiciones financieras mayormente favorables que se hubieren contratado y el destino del ahorro para inversiones públicas productivas; y, en su caso, el reconocimiento de deuda pública contraída por el Estado, así como las condiciones en que se realizará su pago; y se informará de su ejercicio al rendir la cuenta pública.
+
+En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+La legislatura, por el voto de las dos terceras partes de sus miembros presentes, deberán autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Estado y Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del período de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2006)</small>
 
@@ -1289,7 +1163,7 @@ LIX (sic). Convocar a elecciones en caso de muerte del Gobernador, o cuando por 
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-L.- Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia, y los Consejeros de la Judicatura nombrando en su caso a quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
+L. Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia, y los Consejeros de la Judicatura nombrando en su caso a quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1311,7 +1185,7 @@ LV. Legislar en materia de planeación sobre la formulación, instrumentación, 
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
 
-LVI.- Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar el nombramiento de quien tenga a su cargo esa función en el Gobierno del Estado en términos de ley, y recibir la protesta del titular;
+LVI. Para expedir leyes en materia de impartición de justicia administrativa, mediante órganos dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias de carácter administrativo que se susciten entre los particulares y las autoridades del Estado, de los ayuntamientos y de las entidades estatales y municipales, estableciéndose las normas para su organización, funcionamiento, procedimientos y recursos contra sus resoluciones; así como aprobar el nombramiento de quien tenga a su cargo esa función en el Gobierno del Estado en términos de ley, y recibir la protesta del titular;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -1575,11 +1449,11 @@ Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y l
 
 #### Sección Cuarta. De la Fiscalización Superior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Art. 76.
 
-La función de fiscalización corresponde a la Auditoría Superior del Estado, la cual será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+El Congreso del Estado contará con una entidad de fiscalización denominada Auditoría Superior del Estado, la cual será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad. Asimismo, deberá fiscalizar las acciones del Estado y Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría que emita la Auditoría Superior del Estado tendrán carácter público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -2245,9 +2119,7 @@ IV.- No haber ocupado por lo menos durante el año previo al día de la designac
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 112.
 
@@ -2279,7 +2151,9 @@ II.- De la acción de inconstitucionalidad local, para impugnar normas generales
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 ###### Art. 114.
 
@@ -2411,7 +2285,9 @@ XVIII.- Constituir, modificar, suprimir, aumentar y dirigir los órganos adminis
 
 XIX.- Examinar los informes mensuales que deberán remitir las Salas y los Juzgados acerca de los negocios pendientes y de los despachados;
 
-XX.- Coordinar el Centro de Actualización Jurídica e Investigación Procesal, como área responsable de la capacitación y formación permanente de los servidores públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+XX.- Coordinar la Escuela Judicial, como área responsable de la capacitación, formación, actualización, profesionalización y evaluación de los Servidores Públicos del Poder Judicial;
 
 XXI.- Organizar, operar y mantener actualizado el sistema de la carrera judicial, el cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
 
@@ -2433,11 +2309,17 @@ XXVII.- Dictar las medidas necesarias para la recepción, control y destino de l
 
 XXVIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-###### Artículo 115.
+###### ARTÍCULO 115.
 
-El derecho para formular la querella prescribirá en un año a partir del día en que la parte ofendida tenga conocimiento del delito y, en tres años, independientemente de esta circunstancia.
+La ley establecerá las bases para la capacitación, formación, actualización, profesionalización y evaluación de los servidores públicos del Poder Judicial. Deberá prever la creación de una Escuela Judicial, para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+
+En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Art. 116.
 
@@ -3073,17 +2955,21 @@ V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar
 
 VI. El Congreso del Estado expedirá la ley para hacer efectivo el contenido del presente artículo; asimismo, realizará las adecuaciones que correspondan para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Art. 161.
 
-Los recursos económicos de que dispongan el Estado y los municipios se administrarán con eficiencia, eficacia, economía, transparencia, imparcialidad y honradez para satisfacer los objetivos a los que estén destinados.
+Los recursos económicos de que dispongan el Estado y los Municipios se administrarán bajo los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
 Los resultados del ejercicio de dichos recursos serán evaluados por la instancia técnica que establezca la ley, con objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos con base en los principios previstos en el párrafo anterior, sin menos cabo de lo dispuesto por el segundo párrafo de la fracción VI del artículo 58 y en el artículo 76 de esta Constitución.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
@@ -3091,11 +2977,19 @@ Cuando las licitaciones a que hace referencia el párrafo anterior no sean idón
 
 El manejo de los recursos económicos estatales por parte de los municipios se sujetará a las bases de este artículo y a lo que dispongan las leyes. La evaluación sobre el ejercicio de dichos recursos se realizará por la instancia técnica a que se refiere el párrafo segundo de este artículo.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título XI de esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+
 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente del Estado o los municipios, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
 Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
@@ -4605,43 +4499,29 @@ P.O. 14 DE JULIO DE 2016.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+P.O. 20 DE SEPTIEMBRE DE 2016.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-985 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 45 PÁRRAFO TERCERO, 58 FRACCIÓN VII, 76 PÁRRAFO PRIMERO Y 161 PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
-D.O.F. 5 DE FEBRERO DE 2017.
+###### ARTÍCULO PRIMERO.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS, MEJORA REGULATORIA, JUSTICIA CÍVICA E ITINERANTE Y REGISTROS CIVILES”.]
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO SEGUNDO.
 
-Segundo.- En un plazo que no excederá de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión expedirá las leyes generales a que se refieren las fracciones XXIX-A, XXIX-R, XXIX-Y y XXIX-Z de esta Constitución.
+EI Poder Legislativo del Estado, deberá realizar las adecuaciones necesarias a la legislación secundaria para armonizarla con las disposiciones del presente Decreto, en un plazo que no exceda el 27 de octubre del 2016.
 
-Tercero.- La ley general en materia de registros civiles a que se refiere la fracción XXIX-R del artículo 73 de esta Constitución deberá prever, al menos: la obligación de trabajar con formatos accesibles de inscripción; la estandarización de actas a nivel nacional; medidas de seguridad física y electrónica; la posibilidad de realizar trámites con firmas digitales; de realizar consultas y emisiones vía remota; el diseño de mecanismos alternos para la atención de comunidades indígenas y grupos en situación de especial vulnerabilidad y marginación; mecanismos homologados de captura de datos; simplificación de procedimientos de corrección, rectificación y aclaración de actas.
+P.O. 27 DE SEPTIEMBRE DE 2016.
 
-Los documentos expedidos con antelación a la entrada en vigor de la ley a que se refiere el segundo transitorio del presente Decreto, continuarán siendo válidos conforme a las disposiciones vigentes al momento de su expedición. Asimismo, los procedimientos iniciados y las resoluciones emitidas con fundamento en dichas disposiciones deberán concluirse y ejecutarse, respectivamente, conforme a las mismas.
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXII-1169 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 114 APARTADO B, FRACCIÓN XX Y 115 PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, Y LOS ARTÍCULOS 32 FRACCIÓN IV, 36 FRACCIÓN VI, 121 PÁRRAFO NOVENO, FRACCIÓN V, 122 FRACCIÓN XXI, LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO SÉPTIMO, 144, 145, 146, 173 FRACCIÓN VII, 176, Y 209 FRACCIÓN VI DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
 
-Cuarto.- La legislación federal y local en materia de mecanismos alternativos de solución de controversias continuará vigente hasta en tanto entre en vigor la legislación a que se refiere el presente Decreto, por lo que los procedimientos iniciados y las sentencias emitidas con fundamento en las mismas, deberán concluirse y ejecutarse, conforme a lo previsto en aquéllas.
+###### ARTÍCULO PRIMERO.
 
-Quinto.- La legislación en materia de mecanismos alternativos de solución de controversias de la federación y de las entidades federativas deberá ajustarse a lo previsto en la ley general que emita el Congreso de la Unión conforme al artículo 73, fracción XXIX-A de esta Constitución.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Sexto.- La ley general en materia de mejora regulatoria a que se refiere el artículo 73, fracción XXIX-Y de esta Constitución deberá considerar al menos, lo siguiente:
+###### ARTÍCULO SEGUNDO.
 
-a) Un catálogo nacional de regulaciones, trámites y servicios federales, locales y municipales con el objetivo de generar seguridad jurídica a los particulares.
-
-b) Establecer la obligación para las autoridades de facilitar los trámites y la obtención de servicios mediante el uso de las tecnologías de la información, de conformidad con su disponibilidad presupuestaria.
-
-c) La inscripción en el catálogo será obligatoria para todas las autoridades en los términos en que la misma disponga.
-
-Séptimo.- La ley general en materia de justicia cívica e itinerante a que se refiere el artículo 73, fracción XXIX-Z de esta Constitución deberá considerar, al menos lo siguiente:
-
-a) Los principios a los que deberán sujetarse las autoridades para que la justicia itinerante sea accesible y disponible a los ciudadanos;
-
-b) Las bases para la organización y funcionamiento de la justicia cívica en las entidades federativas, y
-
-c) Los mecanismos de acceso a la justicia cívica e itinerante y la obligación de las autoridades de cumplir con los principios previstos por la ley.
-
-Las legislaturas de las entidades federativas proveerán de los recursos necesarios para cumplir con lo dispuesto en el presente artículo transitorio.
+El Consejo de la Judicatura emitirá el Reglamento de la Escuela Judicial, donde se establecerán las atribuciones de la Dirección, de los Departamentos y Unidades administrativas de la Escuela Judicial, para determinar el ámbito de responsabilidad de cada una.
 
 ###### ARTICULO SEXTO.
 
