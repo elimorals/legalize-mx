@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2016-08-09"
+last_updated: "2016-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -391,9 +391,11 @@ XVII. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus p
 
 Las acciones que se lleven a cabo con motivo de esta Ley, y demás disposiciones aplicables, tienen por objeto la protección y asistencia a las víctimas, o a aquellas en situación de riesgo de violencia y además promover su desarrollo integral y su participación en los ámbitos de la vida pública y privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Las entidades públicas deberán contribuir, en sus respectivas esferas de competencia, al reconocimiento y ejercicio de los derechos y a la aplicación de los principios establecidos en sus obligaciones nacionales e internacionales en materia prevención y erradicación de la violencia en contra de mujeres y, a este fin, deberán, entre otras cosas:
+Las Entidades públicas deberán contribuir, en sus respectivas esferas de competencia, al reconocimiento y ejercicio de derechos y a la aplicación de los principios establecidos en la Declaración sobre la eliminación de la violencia contra la mujer, de la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, de la Ley de Prevención, Asistencia y Atención de la Violencia Familiar, la Ley de Procuración de Justicia y los Códigos Civil y Penal en materia de prevención y erradicación de la violencia en contra de mujeres y, a este fin, entre otras cosas.
 
 I. Fomentar la cooperación internacional, nacional, estatal y municipal con miras a definir estrategias para combatir la violencia, intercambiar experiencias y financiar programas relacionados con la eliminación de la violencia contra la mujer;
 
@@ -407,7 +409,13 @@ V. Alentar la coordinación entre los sectores público, privado y social a fin 
 
 VI. Promover la formulación de directrices o manuales relacionados con la violencia contra la mujer, tomando en consideración las medidas mencionadas en la presente Ley; y
 
-VII. Cooperar con las organizaciones no gubernamentales en todo lo relacionado con el tema de la violencia contra la mujer.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+VIII. Cooperar con las organizaciones no gubernamentales en todo lo relacionado con el tema de la violencia contra la mujer.
 
 ###### Artículo 15.
 
@@ -1736,3 +1744,15 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 535.- SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 14 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto.
