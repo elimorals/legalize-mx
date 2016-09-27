@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2016-08-09"
+last_updated: "2016-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -142,7 +144,7 @@ Toda persona tiene derecho a la información pública. La garantía de acceso a 
 
 I. Su fundamento reside en el estado humanista, social y democrático de derecho que establece esta Constitución.
 
-II. El acceso libre, gratuito, sencillo, antiformal (sic), eficaz, pronto y expedito a la información.
+II. El acceso libre, gratuito, sencillo, antiformal, eficaz, pronto y expedito a la información.
 
 III. La interpretación constitucional más favorable del principio de publicidad, salvo las excepciones que por razones de interés público establezca la ley en sentido estricto.
 
@@ -218,9 +220,9 @@ En el Estado de Coahuila de Zaragoza, el ejercicio de los derechos fundamentales
 
 Corresponde a los poderes públicos del estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la seguridad jurídica, la justicia social y todos los derechos humanos reconocidos en el orden jurídico mexicano, de todas las personas y de los grupos en que se integran; facilitar su participación en la vida política, económica, cultural y social del estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos fundamentales.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-En el Estado de Coahuila de Zaragoza la protección y garantía de los derechos humanos reconocidos a favor de niños y niñas estará a cargo de una Procuraduría y del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas que establecerá los mecanismos de coordinación y participación de los poderes públicos del estado y de los municipios, de los organismos públicos autónomos y la sociedad civil en los términos que determine la ley.
+En el Estado de Coahuila de Zaragoza la protección y garantía de los derechos humanos reconocidos a favor de niños y niñas, estará a cargo de una Procuraduría y del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas, que establecerá los mecanismos de coordinación y participación de los poderes públicos del estado y de los municipios, de los organismos públicos autónomos y la sociedad civil, en los términos que determine la ley, a fin de garantizar el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -234,9 +236,13 @@ La ley establecerá las formas, términos y procedimientos de los instrumentos d
 
 El acceso a la información pública garantiza el derecho a la participación de las personas.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-Toda persona tiene derecho a la libertad de expresión. Este derecho comprende las libertades de opinión y de investigar, recibir o comunicar informaciones o ideas sin censura y sin más límites que los que establece la Constitución Política de los Estados Unidos Mexicanos.
+Toda persona tiene derecho a la libertad de expresión. Este derecho comprende las libertades de opinión y de investigar, recibir o comunicar informaciones o ideas sin censura y a través de cualquier medio, sin más límites que los que establece la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+El acceso a internet y a la banda ancha son derechos reconocidos a todas las personas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables en la materia.
 
 ### CAPITULO III.
 
@@ -908,7 +914,7 @@ VI. El nuevo dictamen se volverá a discutir y a esta segunda discusión podrá 
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
-VII. Si el proyecto devuelto con observaciones por el Ejecutivo, fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto y se enviará de nuevo al Ejecutivo, para (sic) en el término de 10 días naturales siguientes ordene su promulgación y publicación; en caso de no hacerlo, transcurrido dicho plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución.
+VII. Si el proyecto devuelto con observaciones por el Ejecutivo, fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto y se enviará de nuevo al Ejecutivo, para en el término de 10 días naturales siguientes ordene su promulgación y publicación; en caso de no hacerlo, transcurrido dicho plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2014)</small>
 
@@ -2336,7 +2342,7 @@ III. Poseer el día de la designación, con antigüedad mínima de diez años, t
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que. (sic) lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
@@ -3590,9 +3596,9 @@ Para quienes violen lo dispuesto en el párrafo anterior, en los términos que l
 
 El Estado reconoce a la familia como la agrupación primaria, natural y fundamental de la sociedad. A este efecto, dictará las disposiciones necesarias para su seguridad, estabilidad y mejoramiento. La Ley dispondrá la organización del patrimonio familiar, sobre la base de ser inalienable, inembargable y estar exento de toda carga pública.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
-Los menores tienen derecho a una vida sana, a la salud, a la alimentación, a la educación, a la cultura, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia.
+Los menores tienen derecho a una vida sana, a la salud, a la alimentación, a la educación, a la cultura, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia; así como a todos los derechos que la Constitución General, los Tratados Internacionales suscritos por México y los previstos en esta Constitución les confieren. El Estado, los municipios, los poderes legislativo y judicial y demás autoridades, realizarán todas las acciones legislativas, reglamentarias, administrativas y judiciales para garantizar el uso y goce de estos derechos a las niñas y niños en Coahuila, sin menoscabo de lo dispuesto por el Artículo 8° de esta Constitución.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
@@ -4294,7 +4300,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reform
 
 P.O. 28 DE JUNIO DE 1996.
 
-PRIMERO.- El presente decreto entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO.- El presente decreto entrarán (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
@@ -4993,5 +4999,25 @@ P.O. 9 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 480.- SE MODIFICA EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 109 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 538.- SE REFORMA Y ADICIONA EL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En el ámbito de sus atribuciones, de conformidad con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, así como de sus normas reglamentarias en la materia, el Gobierno del Estado coadyuvará en la implementación de la política de inclusión digital universal a cargo del Ejecutivo Federal. Asimismo, realizará las acciones tendientes a garantizar el acceso a Internet de banda ancha en edificios e instalaciones de las dependencias y entidades de la Administración Pública Estatal.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 539.- SE MODIFICA EL CONTENIDO DEL PÁRRAFO TERCERO DEL ARTÍCULO 8 Y SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 173 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
