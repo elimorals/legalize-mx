@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2016-06-16"
+last_updated: "2016-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -1561,7 +1561,9 @@ Los servidores públicos mencionados anteriormente, para efecto de ingresar al S
 
 Para ser designado Procurador, Subprocurador, Coordinador Estatal Antisecuestro, Director General, Fiscal, Director, Visitador, Coordinador de Asuntos Internos, Delegado, Jefe de Departamento y Titular de Unidad, se requiere:
 
-I. Ser ciudadano mexicano, originario de Tamaulipas o tener una residencia efectiva en el Estado de tres años anteriores a su designación;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
+
+I. Ser ciudadano mexicano;
 
 II. Tener cuando menos treinta años de edad;
 
@@ -3672,3 +3674,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-1172 MEDIANTE EL CUAL SE REFORMAN LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, Y LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día 1o. de octubre de 2016.
