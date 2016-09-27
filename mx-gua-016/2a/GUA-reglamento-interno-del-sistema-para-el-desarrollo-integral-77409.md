@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interno-del-sistema-para-el-desarrollo-integral-7740
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-16"
-last_updated: "2010-11-16"
+last_updated: "2016-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE HUANIMARO, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE HUANÍMARO, GTO, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE HUANIMARO, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 16 de noviembre de 2010.
 
@@ -398,3 +400,21 @@ Presidente Municipal
 C. Ing. Héctor Aguirre Cabrera
 
 Secretario del H. Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE HUANÍMARO, GTO".]
+
+PRIMERO.- Este Reglamento entrará en vigor al cuarto día siguiente al de su publicación en le (sic) Periódico Oficial del Gobierno del Estado y deroga todas las disposiciones que lo contravenga (sic).
+
+SEGUNDO.- Por única ocasión el H. Ayuntamiento nombrará a los integrantes de la Junta de Gobierno que marca el artículo 9 dentro de los 10 días naturales contados a partir (sic) la entrada en vigor de este reglamento.
+
+TERCERO.- La Junta de Gobierno expedirá, dentro de los sesenta días naturales posteriores a la entrada en vigor de este reglamento, el Manual de Organización que defina su estructura orgánica operativa.
+
+CUARTO.- Se deroga el artículo 1 del acuerdo para la creación del Sistema para el Desarrollo integral de la Familia del Municipio del (sic) Huanímaro, Guanajuato; Publicado en el Periódico Oficial del Gobierno de Guanajuato, número 65, Segunda Parte de fecha 12 de agosto de 1988.
+
+QUINTO.- El Organismo a que se refiere el artículo 2 de este Reglamento, es subrogatorio de todos los derechos y obligaciones del Organismo del mismo nombre cuyo numeral se deroga en el artículo anterior.
+
+SEXTO.- Se abroga el Reglamento Interno del Sistema para el Desarrollo Integral de la Familia del Municipio de Huanímaro, Guanajuato; publicado en el Periódico Oficial del Gobierno del Estado número 183, Segunda Parte de fecha 16 de noviembre de 2010. De igual forma se derogan todas las disposiciones que se opongan al presente acuerdo.
