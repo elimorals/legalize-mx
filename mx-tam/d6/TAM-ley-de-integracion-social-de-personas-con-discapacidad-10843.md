@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2016-09-20"
+last_updated: "2016-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -1178,3 +1180,27 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-1170, MEDIANTE EL CUAL SE EXPIDE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Integración Social de Personas con Discapacidad, publicada en el Periódico Oficial del Estado el 19 de febrero de 1997, sus reformas adoptadas, así como las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad, deberá integrarse a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto. En su primera sesión, el Presidente del Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad someterá a consideración y aprobación del mismo, los lineamientos para su integración, organización y funcionamiento. El Presidente del Sistema Estatal de Protección Integral realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá elaborarse y aprobarse dentro de los noventa días naturales siguientes a la instalación del Sistema Intersectorial.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal deberá expedir el Reglamento de la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+A partir del siguiente ejercicio fiscal, se deberán destinar partidas presupuestales para el fortalecimiento de las instancias en las que incide la presente Ley; asimismo, el Ejecutivo del Estado gestionará ante el Congreso del Estado y la Secretaría de Finanzas la asignación de partidas presupuestales para el fortalecimiento de las entidades encargadas de la aplicación y observancia de esta Ley.
