@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2014-06-25"
+last_updated: "2016-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1402,6 +1402,10 @@ Se debe entender por Régimen de Convivencia Progresiva, las circunstancias en q
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2016)</small>
+
+Para los efectos de la fracción IV del presente artículo, se podrá establecer un sistema de convivencia supervisada, a través del Centro de Convivencia Familiar o cualquiera de sus unidades de apoyo, en los términos de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, y su Reglamento correspondiente.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -12934,6 +12938,14 @@ DECRETO NÚMERO 1345/2013 XII P.E. POR EL QUE SE REFORMA EL ARTÍCULO 2176 DEL C
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 25 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1448/2016 XX P.E., MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 256 BIS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
