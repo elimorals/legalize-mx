@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-a-los-animales-para-el-estado-de-nuevo-16806"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-16"
-last_updated: "2010-05-26"
+last_updated: "2016-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE NUEVO LEON
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE NUEVO LEON
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 28 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de agosto de 2000.
 
@@ -624,3 +626,17 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 26 DE MAYO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. DE 28 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 154. SE EXPIDE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, se abroga la Ley de Protección a los Animales para el Estado de Nuevo León publicada en el Periódico Oficial del Estado de Nuevo León el día 16 de agosto del 2000.
+
+Tercero.- Los procedimientos instaurados en materia de protección Animal previos a la entrada en vigor de la presente Ley, serán resueltos conforme a la Legislación anterior.
+
+Cuarto.- Las Autoridades Municipales promoverán, en un plazo no mayor a nueve meses a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, en las materias de su competencia, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+
+Quinto.- La Secretaría promoverá, en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, la emisión de un Reglamento que permita la exacta observancia del presente Decreto.
