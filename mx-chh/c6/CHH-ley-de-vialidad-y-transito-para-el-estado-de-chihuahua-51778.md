@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2016-09-24"
+last_updated: "2016-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -791,7 +791,9 @@ III. Carga, que autoriza a la persona a conducir vehículos destinados al transp
 
 IV. Paso Preferencial, que autoriza a conducir vehículos destinados al paso preferencial, ampara también la conducción de vehículos que requieran licencia categoría II y III de la clasificación del servicio particular;
 
-Las licencias tendrán una vigencia de tres y seis años a solicitud del interesado, pero tratándose de las de chofer del transporte público, su duración será de seis años, debiendo refrendarse cada dos años, en los términos precisados en el Reglamento.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2016)</small>
+
+Las licencias tendrán una vigencia de uno, tres y seis años a solicitud del interesado, pero tratándose de las de chofer del transporte público, su duración será de seis años, debiendo refrendarse cada dos años, en los términos precisados en el Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2010)</small>
 
@@ -1794,3 +1796,11 @@ Se otorga un plazo para que dentro de los noventa días naturales a partir de la
 ###### ARTÍCULO TERCERO.
 
 Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1445/2016 XX P.E., MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 54 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
