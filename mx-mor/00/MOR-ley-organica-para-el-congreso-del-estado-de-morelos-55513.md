@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2016-08-17"
+last_updated: "2016-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MOR"
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE SEPTIEMBRE DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -861,7 +863,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 17. Pueblos Indígenas.
 
-18. Equidad de Género.
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2016)</small>
+
+18. Igualdad de Género
 
 19. De la Juventud.
 
