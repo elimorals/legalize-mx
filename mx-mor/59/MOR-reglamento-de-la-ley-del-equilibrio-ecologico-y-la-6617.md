@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-6617"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-28"
-last_updated: "1994-12-28"
+last_updated: "2016-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE PARA LA PREVENCION Y CONTROL DE LA CONTAMINACION GENERADA POR LOS VEHICULOS AUTOMOTORES QUE CIRCULAN POR EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON LAS DISPOSICIONES TRANSITORIAS SEGUNDA DEL REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS, EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR LOS VEHÍCULOS AUTOMOTORES QUE CIRCULAN POR EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en la Sección Primera del Periódico Oficial del Estado de Morelos, el miércoles 28 de diciembre de 1994.
 
@@ -434,3 +436,21 @@ SECRETARIA DE BIENESTAR SOCIAL.
 MARTHA LUZ ARREDONDO RAMIREZ.
 
 RUBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS, EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR LOS VEHÍCULOS AUTOMOTORES QUE CIRCULAN POR EL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente para la Prevención y Control de la Contaminación Generada por los vehículos Automotores que circulan por el Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 3724, de 27 de marzo de 1994; y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+TERCERA. Se instruye a la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal para que, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Reglamento, emita el Manual para Establecer y Operar Centros de Verificación Vehicular en el Estado de Morelos.
+
+CUARTA. Se instruye a la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal para que en coordinación con la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo del Estado de Morelos, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Reglamento, expida la convocatoria correspondiente, a efecto de que se autoricen y establezcan solo doce Centros de Verificación Vehicular en el Estado de Morelos. En lo futuro, para el caso de que se incremente el parque vehicular registrado en el Estado, la Secretaría podrá convocar entre los Centros de Verificación Vehicular autorizados en un determinado municipio, el aumento de una o más líneas de verificación; o bien, convocar para la autorización de un nuevo centro, si así se justifica proporcionalmente con el crecimiento del referido parque vehicular.
+
+QUINTA. Los casos no previstos en el presente Reglamento, que se pudieran generar, los resolverá la Secretaría, de conformidad con la normativa aplicable.
+
+SEXTA. La entrada en vigor del presente Reglamento no modifica la vigencia del "Decreto por el que se suspende la vigencia del Programa de Verificación Vehicular obligatoria para el estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad”, número 5106, segunda sección, de 24 de julio de 2013, ante la vigencia de la Norma Oficial Mexicana de emergencia NOM-EM-167-SEMARNAT-2016"; publicado en el Periódico Oficial "Tierra y Libertad", número 5407, de fecha 30 de junio de 2016, por lo que sus efectos se mantienen incólumes.
