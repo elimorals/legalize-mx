@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-juventud-14770"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-09-01"
-last_updated: "2014-11-18"
+last_updated: "2016-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-08-11"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2016.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 1 de septiembre de 1999.
 
@@ -207,6 +207,8 @@ Asistirán a las sesiones de la Junta Directiva, con voz pero sin voto, el Direc
 
 Los acuerdos que se tomen en las sesiones de la Junta Directiva, quedarán asentados en el libro de actas que deberán firmar el Presidente y el Secretario, quien dará fe.
 
+(REPUBLICADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)
+
 ### CAPITULO TERCERO. DE LA ADMINISTRACION Y ESTRUCTURA ORGANICA
 
 ###### ARTICULO 14.
@@ -215,13 +217,13 @@ Para el cumplimiento de su objeto y el desempeño de las funciones a su cargo, e
 
 I.- Dirección General
 
-II.- Subdirecciones Generales
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
-Bienestar y Servicios Juveniles
+II.- Dirección General Adjunta de Coordinación y Servicios Juveniles
 
-Coordinación y Evaluación
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
-III.- Direcciones y Subdirecciones de Area adscritas a la Dirección General
+III.- Direcciones y Subdirecciones de Área adscritas a la Dirección General
 
 Dirección de Finanzas
 
@@ -231,11 +233,15 @@ Dirección de Asuntos Jurídicos
 
 Dirección de Comunicación Social
 
+Dirección de Evaluación y Control
+
 Subdirección de Asuntos Internacionales
 
 Subdirección de Sistemas
 
-IV.- Direcciones de Area adscritas orgánicamente a las Subdirecciones Generales
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+IV.- Direcciones de Área adscritas orgánicamente a la Dirección General Adjunta de Coordinación y Servicios Juveniles
 
 Dirección de Bienestar y Estímulos a la Juventud
 
@@ -246,8 +252,6 @@ Dirección de Enlace con Organizaciones Juveniles
 Dirección de Investigación y Estudios sobre Juventud
 
 Dirección de Coordinación Sectorial y Regional
-
-Dirección de Evaluación y Control
 
 V.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 1999)
 
@@ -325,17 +329,25 @@ XXVIII.- Resolver las dudas que se susciten con motivo de la interpretación y a
 
 XXIX.- Las demás que le señalen la Ley de creación del Instituto, la Ley Federal de las Entidades Paraestatales y su Reglamento, el presente Estatuto Orgánico y otras disposiciones jurídicas aplicables.
 
-### CAPITULO QUINTO. DE LAS SUBDIRECCIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO QUINTO. DE LA DIRECCIÓN GENERAL ADJUNTA DE COORDINACIÓN Y SERVICIOS JUVENILES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 16.
 
-Al frente de cada Subdirección General habrá un titular, a quien le corresponderá el ejercicio de las siguientes atribuciones genéricas:
+Al frente de la Dirección General Adjunta de Coordinación y Servicios Juveniles habrá un titular, a quien le corresponderá el ejercicio de las siguientes atribuciones genéricas:
 
 I.- Auxiliar al Director General en el ejercicio de sus atribuciones, dentro de la esfera de su competencia;
 
-II.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las labores encomendadas a la Subdirección General a su cargo;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
-III.- Acordar con el Director General, el despacho de los asuntos encomendados a la Subdirección General a su cargo e informarle oportunamente sobre los mismos;
+II.- Planear, programar, organizar y dirigir el funcionamiento de las labores encomendadas;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+III.- Acordar con el Director General, el despacho de los asuntos encomendados e informarle oportunamente sobre los mismos;
 
 IV.- Someter a la aprobación del Director General, los estudios y proyectos que elaboren las unidades a su cargo;
 
@@ -347,7 +359,9 @@ VII.- Atender, conforme a los lineamientos que se establezcan, los asuntos relac
 
 VIII.- Formular los programas y proyectos de presupuesto que le correspondan;
 
-IX.- Ejercer el presupuesto autorizado para la Subdirección General a su cargo, supervisando el desarrollo de los programas, proyectos, convenios, contratos y acuerdos que se relacionen con los asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+IX.- Ejercer el presupuesto autorizado, supervisando el desarrollo de los programas, proyectos, convenios, contratos y acuerdos que se relacionen con los asuntos de su competencia;
 
 X.- Proponer las medidas necesarias para el mejoramiento administrativo de las unidades a su cargo;
 
@@ -355,7 +369,9 @@ XI.- Suscribir los documentos relativos al ejercicio de sus funciones y aquellos
 
 XII.- Proporcionar la información que le sea requerida por las dependencias y entidades de la Administración Pública Federal o por las unidades administrativas del propio Instituto, de acuerdo con las disposiciones legales aplicables y las políticas establecidas a este respecto, previa autorización del Director General, en su caso;
 
-XIII.- Coordinar sus actividades con la otra Subdirección General o Unidades Administrativas, cuando se requiera para el mejor funcionamiento del Instituto;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XIII.- Coordinar sus actividades con las demás Unidades Administrativas, cuando se requiera para el mejor funcionamiento del Instituto;
 
 XIV.- Emitir los dictámenes, opiniones e informes que les sean solicitados por el Director General, y
 
@@ -363,63 +379,13 @@ XV.- Desempeñar las demás funciones que se establezcan en el presente Estatuto
 
 ###### ARTICULO 17.
 
-Compete a la Subdirección General de Bienestar y Servicios Juveniles:
+(DEROGADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)
 
-I.- Establecer programas destinados a la incorporación del joven al sector productivo, con la finalidad de contribuir a su desarrollo integral;
-
-II.- Promover la captación de recursos financieros y/o asesorías de organismos nacionales e internacionales, para el desarrollo de los programas asignados al área;
-
-III.- Establecer y desarrollar, coordinadamente con las instancias respectivas, un sistema de apoyo a empresas juveniles que estimulen la autogestión y el autoempleo;
-
-IV.- Concertar convenios de colaboración con instituciones públicas, privadas y sociales, a fin de generar una oferta de empleo atractiva y conveniente a las necesidades y posibilidades de los jóvenes;
-
-V.- Concertar convenios de colaboración con las instancias estatales y municipales de juventud, a fin de facilitar la aplicación de los programas federales en todo el país en materia de atención a los jóvenes;
-
-VI.- Concertar la realización de cursos de adiestramiento y actualización, para los operadores de los programas del área a nivel nacional;
-
-VII.- Supervisar las acciones que promuevan el reconocimiento a las actividades realizadas por jóvenes en materia de derechos humanos y en diversas áreas del acontecer nacional;
-
-VIII.- Definir acciones y estrategias que coadyuven al mejoramiento de las condiciones de desarrollo de los jóvenes de comunidades indígenas y zonas rurales;
-
-IX.- Establecer y coordinar programas que propicien entre los jóvenes, una cultura de protección del medio ambiente;
-
-X.- Definir acciones y estrategias a favor del sector juvenil que se encuentra en condiciones de exclusión social, así como propiciar la participación igualitaria de las mujeres jóvenes;
-
-XI.- Establecer y coordinar estrategias que permitan la incorporación de la perspectiva de género en los programas dirigidos a la población juvenil;
-
-XII.- Definir líneas de acción que promuevan actividades y campañas en beneficio de la salud integral de los jóvenes y que prevengan conductas de riesgo;
-
-XIII.- Facilitar a los jóvenes, las condiciones adecuadas para el mejor aprovechamiento de su servicio social y prácticas profesionales, en beneficio propio y del de las comunidades donde lo realizan;
-
-XIV.- Proporcionar a los jóvenes, la información requerida sobre la oferta gubernamental existente en materia de programas de juventud;
-
-XV.- Propiciar la creación de mecanismos de participación ciudadana de los jóvenes, fortaleciendo su proceso de organización autónoma;
-
-XVI.- Delinear estrategias de coparticipación entre los tres niveles de gobierno y las organizaciones civiles que dirigen su trabajo a población joven, a fin de optimizar recursos económicos y humanos en programas de desarrollo;
-
-XVII.- Promover la organización de programas de capacitación profesional para jóvenes, sobre sexualidad, salud reproductiva, prevención de conductas adictivas y el respeto a los Derechos Humanos;
-
-XVIII.- Concertar acuerdos de colaboración con instituciones públicas, sociales y privadas, a fin de conjuntar esfuerzos en beneficio de la población juvenil, en el ámbito de su competencia;
-
-XIX.- Definir campañas de información y prevención sobre el VIH/SIDA;
-
-XX.- Mantener una estrecha relación con los tres niveles de gobierno y con las instituciones públicas, privadas y sociales, para concertar y coordinar acciones relativas a los programas que realiza la Subdirección General, vigilando los resultados de su operación;
-
-XXI.- Establecer reuniones y visitas de coordinación y evaluación de proyectos y programas con las instancias estatales correspondientes, en el ámbito de su competencia, y
-
-XXII.- Delinear políticas de atención a jóvenes indígenas, ubicando las particularidades culturales y sociales de la realidad pluriétnica del país.
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
-
-XXIII.- Impulsar la apertura, bajo ciertas normas y estándares, de los Centros Projuventud para jóvenes en el país;
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
-
-XXIV.- Verificar el adecuado funcionamiento y constante mejoramiento de los Centros Projuventud para jóvenes.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 18.
 
-Compete a la Subdirección General de Coordinación y Evaluación:
+Compete a la Dirección General Adjunta de Coordinación y Servicios Juveniles:
 
 I.- Impulsar la creación de instancias independientes de juventud en las entidades del país donde no existan, mediante el trabajo coordinado con los poderes ejecutivo y legislativo locales;
 
@@ -433,11 +399,13 @@ V.- Llevar a cabo, conjuntamente con otras áreas del Instituto y previo acuerdo
 
 VI.- Promover la elaboración de los convenios respectivos;
 
-VII.- Coordinar y evaluar el correcto desarrollo de los proyectos que se realicen conjuntamente con otras instancias, o de manera directa, por las áreas integrantes del Instituto;
+VII.- (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)
 
-VIII.- Coordinar el análisis de posibles desviaciones en los objetivos planteados y proponer alternativas de solución;
+VIII.- (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)
 
-IX.- Brindar asesoría en el marco de su competencia, a las distintas áreas del Instituto o a instancias externas, cuando así lo soliciten, en el diseño, planeación y evaluación de las políticas de juventud;
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+IX.- Coordinar el diseño y planeación de acciones tendientes a la generación y articulación de políticas públicas para promover, fomentar e impulsar el desarrollo integral de las y los jóvenes; así como proponer al Director General los lineamientos para la integración de los documentos correspondientes.
 
 X.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2014)
 
@@ -465,9 +433,59 @@ XXI.- Desarrollar sistemas de actualización y formación para los servidores p�
 
 XXII.- Contribuir a la formulación de un programa nacional de juventud;
 
-XXIII.- Proponer al Director General, los lineamientos para la integración de los documentos e informes de planeación, seguimiento y evaluación de los programas juveniles del sector público, y
+XXIII.- (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)
 
 XXIV.- Coordinar el consejo editorial del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXV.- Establecer programas destinados a la incorporación del joven al sector productivo, promoviendo la captación de recursos financieros y/o asesorías de organismos nacionales e internacionales, así como establecer y desarrollar un sistema de apoyo a empresas juveniles que estimulen la autogestión y el autoempleo;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXVI.- Concertar convenios y acuerdos de colaboración con instituciones públicas, privadas y sociales y con instancias estatales y municipales de juventud, para generar ofertas atractivas de empleo, facilitando la aplicación de los programas federales en materia de juventud;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXVII.- Concertar la realización de cursos de adiestramiento y actualización para los operadores de los programas a nivel nacional, definiendo acciones y estrategias que coadyuven al mejoramiento de las condiciones de desarrollo de los jóvenes de comunidades indígenas y zonas rurales del país;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXVIII.- Supervisar la promoción del reconocimiento de las actividades realizadas por jóvenes en materia de derechos humanos y establecer y coordinar programas que propicien entre los jóvenes una cultura de protección del medio ambiente;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXIX.- Definir acciones y estrategias en favor del sector juvenil que se encuentra en condiciones de exclusión social, fomentando la participación igualitaria e incluyente de las y los jóvenes mediante la incorporación de la perspectiva de género en los programas dirigidos a la población juvenil;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXX.- Definir líneas de acción que promuevan actividades y campañas en beneficio de la salud integral de las y los jóvenes previniendo conductas de riesgo, especialmente de información y prevención sobre drogadicción y VIH/SIDA;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXXI.- Facilitar a los jóvenes las condiciones adecuadas para el mejor aprovechamiento de su servicio social y prácticas profesionales, en beneficio propio y en el de las comunidades donde lo realizan;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII.- Proporcionar a la población juvenil información sobre la oferta gubernamental en materia de programas de juventud, y propiciar la creación de mecanismos de participación ciudadana de las y los jóvenes, fortaleciendo procesos de organización autónoma;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIII.- Delinear estrategias de coparticipación entre los tres niveles de gobierno y las organizaciones civiles que dirigen su trabajo a la población joven, a fin de optimizar recursos económicos y humanos en programas de desarrollo;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXXIV.- Promover la organización de programas de capacitación profesional para jóvenes, sobre sexualidad, salud reproductiva, prevención de conductas adictivas y el respeto a los Derechos Humanos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXXV.- Delinear políticas de atención a jóvenes indígenas, ubicando las particularidades culturales y sociales de la realidad pluriétnica del país;
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+XXXVI.- Impulsar la apertura, funcionamiento y constante mejoramiento, de Centros Projuventud para jóvenes en el país.
+
+(REPUBLICADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)
 
 ### CAPITULO SEXTO. DE LAS DIRECCIONES Y SUBDIRECCIONES DE AREA ADSCRITAS A LA DIRECCION GENERAL
 
@@ -605,6 +623,38 @@ XIII.- Proponer al Director General, la realización de diversas acciones de ima
 
 XIV.- Las demás que las disposiciones legales y administrativas le confieran y que le encomiende el Director General.
 
+> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 23 bis.- Compete a la Dirección de Evaluación y Control:
+
+I.- Dirigir la evaluación del desarrollo de los proyectos que se realicen conjuntamente con otras instancias, o de manera directa, por las áreas integrantes del Instituto;
+
+II.- Supervisar el análisis de posibles desviaciones en los objetivos planteados y proponer alternativas de solución;
+
+III.- Brindar asesoría en el marco de su competencia, a las distintas áreas del Instituto o a instancias externas, cuando así lo soliciten, en materia de diseño, planeación y evaluación de políticas de juventud;
+
+IV.- Integrar y presentar al Director General y a las instancias que así lo requieran, un informe de resultados de la evaluación de las políticas públicas y acciones para el desarrollo integral de las y los jóvenes;
+
+V.- Proponer al Director General, los lineamientos para la integración de los documentos e informes de evaluación y seguimiento de los programas juveniles del sector público;
+
+VI.- Supervisar el diseño y ejecución del SICI (Sistema Interno de Control de Información), para medir y evaluar los resultados de las acciones de los programas del instituto;
+
+VII.- Dirigir las actividades de revisión y emisión de reportes de los resultados obtenidos por el Instituto, necesarios para la evaluación de los programas operados a nivel local, estatal y/o municipal;
+
+VIII.- Supervisar y controlar la aplicación de un sistema de evaluación y seguimiento que posibilite un control adecuado de la gestión interna del Instituto, así como de las instancias de juventud de los estados y municipios de la República Mexicana;
+
+IX.- Dirigir las acciones de evaluación de la calidad de los programas y servicios dirigidos a la Juventud, así como la interpretación de resultados de las encuestas de satisfacción como parte de un proceso de mejora continua;
+
+X.- Vigilar, dirigir, controlar y evaluar el desarrollo de los programas de las áreas integrantes del Instituto, a través del seguimiento de los indicadores del Programa Anual de Trabajo, con base en el análisis entre lo logrado y lo programado;
+
+XI.- Implementar la aplicación de encuestas de autoevaluación para fortalecer del (sic) Sistema de Control Interno Institucional;
+
+XII.- Dirigir y controlar un mecanismo de identificación de riesgos institucionales, proponiendo opciones de solución a las áreas involucradas;
+
+XIII.- Atender, cuando así se requiera, lo establecido en el Programa Anual de Evaluación emitido por el Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL);
+
+XIV.- Las demás que las disposiciones legales y administrativas le confieran y que le encomiende el Director General.
+
 ###### ARTICULO 24.
 
 Compete a la Subdirección de Asuntos Internacionales:
@@ -649,11 +699,15 @@ VIII.- Diseñar el funcionamiento de las redes de informática que se requieran 
 
 IX.- Las demás que las disposiciones legales y administrativas le confieran y que le encomiende el Director General.
 
-### CAPITULO SEPTIMO. DE LAS DIRECCIONES DE AREA ADSCRITAS A LAS SUBDIRECCIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO SEPTIMO. DE LA DIRECCION GENERAL ADJUNTA DE COORDINACION Y SERVICIOS JUVENILES
+
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 26.
 
-Para el mejor despacho de los asuntos competencia de las Subdirecciones Generales, éstas se estructurarán administrativamente con las siguientes Direcciones de Area: Dirección de Bienestar y Estímulos a la Juventud; Dirección de Salud, Equidad y Servicios a Jóvenes; Dirección de Enlace con Organizaciones Juveniles; Dirección de Investigación y Estudios sobre Juventud; Dirección de Coordinación Sectorial y Regional y Dirección de Evaluación y Control, cuyas funciones se determinarán en el Manual General de Organización del Instituto.
+Para el mejor despacho de los asuntos competencia de la Dirección General Adjunta de Coordinación y Servicios Juveniles, se estructurará administrativamente con las siguientes Direcciones de Área: Dirección de Bienestar y Estímulos a la Juventud; Dirección de Salud, Equidad y Servicios a Jóvenes; Dirección de Enlace con Organizaciones Juveniles; Dirección de Investigación y Estudios sobre Juventud y Dirección de Coordinación Sectorial y Regional, cuyas funciones se determinarán en el Manual General de Organización del Instituto.
 
 ### CAPITULO OCTAVO. DE LA CONTRALORIA INTERNA
 
@@ -779,15 +833,21 @@ IX.- El Director General podrá solicitar al presidente o en su ausencia al vice
 
 X.- El Instituto proveerá al Consejo de los espacios físicos, medios materiales y económicos que requiera para el correcto desempeño de sus actividades. Para ello, el Consejo nombrará un Comité de Administración integrado por tres de sus miembros, que será responsable del uso y destino de dichos recursos.
 
+(REPUBLICADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)
+
 ### CAPITULO DECIMO PRIMERO. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 36.
 
-Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos administrativos quedarán a cargo del Subdirector General de Coordinación y Evaluación y, en ausencia de este último, del Subdirector General de Bienestar y Servicios Juveniles.
+Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos administrativos quedarán a cargo del Titular de la Dirección General Adjunta de Coordinación y Servicios Juveniles.
+
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 37.
 
-Los Subdirectores Generales y Directores de Area, serán sustituidos en sus ausencias temporales por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción, que designen el Director General o los Subdirectores Generales o Directores de Area, según el caso, por acuerdo del propio titular de la entidad.
+El Titular de la Dirección General Adjunta de Coordinación y Servicios Juveniles y los Directores de Área, serán sustituidos en sus ausencias temporales por funcionarios de la jerarquía inmediata inferior de su respectiva adscripción, que designen el Director General o el Director General Adjunto de Coordinación y Servicios Juveniles o los Directores de Área, según el caso, por acuerdo con el propio Titular de la entidad.
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2014)</small>
 
@@ -824,3 +884,9 @@ D.O.F. 18 DE NOVIEMBRE DE 2014.
 PRIMERO.- El presente Acuerdo de Modificación del Estatuto Orgánico del Instituto Mexicano de la Juventud entrará en vigor al día siguiente de su aprobación por la Junta Directiva, debiendo publicarse en el Diario Oficial de la Federación.
 
 SEGUNDO.- Previa consideración y, en su caso, aprobación de la Junta Directiva el Director General deberá expedir, en un plazo no mayor de tres meses, contados a partir de la fecha en que entre en vigor este Estatuto, el Manual General de Organización del Instituto; mientras tanto, queda facultado para resolver las cuestiones que sean materia de dicho Manual.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA JUVENTUD".]
+
+ÚNICO.- El presente Acuerdo por el que se Modifica el Estatuto Orgánico del Instituto Mexicano de la Juventud entrará en vigor al día siguiente de su aprobación por la Junta Directiva, debiendo publicarse en el Diario Oficial de la Federación.
