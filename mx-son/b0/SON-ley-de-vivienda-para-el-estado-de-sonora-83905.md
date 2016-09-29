@@ -4,7 +4,7 @@ identifier: "SON-ley-de-vivienda-para-el-estado-de-sonora-83905"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-07"
-last_updated: "2011-11-07"
+last_updated: "2016-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE VIVIENDA PARA EL ESTADO DE SONORA
 
-LEY NUMERO 166 DE VIVIENDA PARA EL ESTADO DE SONORA
+LEY NÚMERO 166 DE VIVIENDA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2011.
 
@@ -781,7 +781,9 @@ III.- La conformación de paquetes de materiales y equipamientos para las famili
 
 Asimismo, la Comisión promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de licencias y permisos de construcción necesarios.
 
-### CAPÍTULO XIII. DE LA ENAJENACIÓN Y ARRENDAMIENTO DE LA VIVIENDA SOCIAL Y DE LOTES DE FRACCIONAMIENTOS POPULARES
+### CAPÍTULO XIII. DE LA TRANSMISIÓN DE PROPIEDAD Y ARRENDAMIENTO DE LA VIVIENDA SOCIAL Y DE LOTES DE FRACCIONAMIENTOS POPULARES
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 61.
 
@@ -815,13 +817,17 @@ El Ejecutivo del Estado y los ayuntamientos, con el fin de impulsar la constituc
 
 La Comisión y las unidades administrativas responsables de las políticas de vivienda en los municipios, realizarán estudios para la creación de lotes de vivienda popular o económica por autoconstrucción, constitución de reservas territoriales y regularización de asentamientos humanos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DEL 2016)</small>
+
 ### CAPÍTULO XIV. DEL SISTEMA ESTATAL DE INFORMACIÓN E INDICADORES DE SUELO Y VIVIENDA
 
 ###### Artículo 68.
 
-Las enajenaciones de viviendas de interés social sujetas a esta ley, así como la constitución del régimen de propiedad en condominio de los conjuntos que, de conformidad con la presente ley, realice el Gobierno del Estado y los ayuntamientos, no requerirán de otorgamiento de escritura ante notario. El documento que contenga la enajenación tendrá el carácter de escritura pública y deberá ser suscrito por el titular del órgano que establezca el reglamento de esta ley.
+La enajenación o la transmisión de propiedad de viviendas de interés social y el otorgamiento de la Declaración Unilateral de Voluntad sujetas a esta ley, así como la constitución del régimen de propiedad en condominio de los conjuntos que, de conformidad con la presente ley, realice la Comisión y los ayuntamientos, no requerirán de otorgamiento de escritura ante notario. El documento o instrumento jurídico que contenga la transmisión de propiedad, tendrá el carácter de escritura pública y deberá ser suscrito por el titular de la Comisión o en su caso, encargado del despacho en turno.
 
-Las enajenaciones de vivienda popular o económica promovida por la Comisión, no requerirán de intervención notarial y podrán inscribirse directamente en el Registro Público de la Propiedad.
+La enajenación, transmisión de propiedad de vivienda de interés social, popular o económica, o el otorgamiento de la Declaración Unilateral de Voluntad promovida por la Comisión, no requerirán de intervención notarial y deberán inscribirse directamente en el Registro Público de la Propiedad.
+
+La Comisión deberá llevar un archivo del registro de los instrumentos a que se refiere el presente artículo.
 
 ###### Artículo 69.
 
@@ -842,6 +848,12 @@ La Comisión y los ayuntamientos, promoverán que las viviendas de interés soci
 ###### Artículo 72.
 
 Cuando las viviendas de interés social y lotes regidos por esta ley se constituyan como patrimonio familiar, conforme a los ordenamientos aplicables, los derechos de inscripción en el registro público de la propiedad se reducirán, por lo menos, en un 50% y se promoverá ante los ayuntamientos el otorgamiento de un tratamiento preferente en tratándose del impuesto predial.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 72 Bis.
+
+Dentro del documento o ínstrumento jurídico que utilice la Comisión de Vivienda del Estado de Sonora para la transmisión de propiedad para vivienda de interés social, popular o económica, deberá incluir la siguiente clausula: “El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno, así mismo quedará constituido el Testamento Público Simplificado de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad”.
 
 ### CAPÍTULO XV. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
 
@@ -1012,3 +1024,13 @@ SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 13 DE OCTUBR
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DE GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.-
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS TRECE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL ONCE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELÍAS.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- HÉCTOR LARIOS CÓRDOVA.- RUBRICA.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 80, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE SONORA"].
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
