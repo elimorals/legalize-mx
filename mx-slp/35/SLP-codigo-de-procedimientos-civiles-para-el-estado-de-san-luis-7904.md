@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2016-06-23"
+last_updated: "2016-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -4173,11 +4173,11 @@ La información se recibirá siempre con citación del Ministerio Público; en l
 
 ART. 921.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1101 del Código Civil por no estar inscrita en el Registro Público de la Propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que se establecen en este Capítulo.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
 
-ART. 922.- Presentada la solicitud, la cual deberá contener la descripción precisa del inmueble de que se trata, y a la que se acompañará precisamente, certificado de las oficinas catastrales que demuestre que los bienes no están inscritos, se mandará publicar un edicto que contenga el extracto de ella, en el Periódico Oficial del Estado y en un diario de los de mayor circulación en el Estado, a juicio del juez, citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo por diez días en la puerta del juzgado y en los demás sitios públicos de costumbre.
+ART. 922.- Presentada la solicitud, la cual deberá contener la descripción precisa del inmueble de que se trata, y a la que se acompañará precisamente, certificado del Registro Público de la Propiedad que demuestre que los bienes no están inscritos, se mandará publicar un edicto que contenga el extracto de ella, en el Periódico Oficial del Estado y en un diario de los de mayor circulación, a juicio del juez, citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo por diez días en la puerta del juzgado y en los demás sitios públicos de costumbre.
 
-El certificado del Catastro deberá comprender los últimos diez años.
+El certificado del Registro Público de la Propiedad deberá comprender los últimos diez años.
 
 ART. 923.- Tres días después de publicados los edictos a que se refiere el artículo anterior, de lo cual se pondrá constancia en los autos, si no se hubiere presentado opositor, el juez señalará día y hora para recibir la información testimonial.
 
@@ -5658,3 +5658,11 @@ P.O. 23 DE JUNIO DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2016.
+
+[N DE E. TRANSITORIOS DEL “DECRETO NO. 0392.- SE REFORMA EL ARTÍCULO 922, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
