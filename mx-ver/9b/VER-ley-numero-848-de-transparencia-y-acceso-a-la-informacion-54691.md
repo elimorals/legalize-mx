@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-848-de-transparencia-y-acceso-a-la-informacion-54691
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-27"
-last_updated: "2013-08-26"
+last_updated: "2016-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DEL 29 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 27 de febrero de 2007.
 
@@ -111,7 +113,7 @@ XVI. Servidores Públicos: Los mencionados en el artículo 78 de la Constitució
 
 XVII. Sujetos Obligados: Los comprendidos en el artículo 5 de la presente ley;
 
-XVIII. Transparencia: Es la obligación que tiene todo ente que posee información pública de hacer visibles sus actos; y (sic)
+XVIII. Transparencia: Es la obligación que tiene todo ente que posee información pública de hacer visibles sus actos; y
 
 XIX. Unidad de Acceso: Unidad de Acceso a la Información Pública;
 
@@ -169,7 +171,7 @@ III. Proteger la información reservada y confidencial, incluyendo los datos que
 
 IV. Integrar, organizar, clasificar y manejar con eficiencia sus registros y archivos;
 
-V. Establecer una Unidad de Acceso a la Información Pública y nombrar a los servidores públicos que la integren; y (sic)
+V. Establecer una Unidad de Acceso a la Información Pública y nombrar a los servidores públicos que la integren; y
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
@@ -301,7 +303,7 @@ XXVIII. Los contratos, convenios y condiciones generales de trabajo que regulen 
 
 XXIX. Los estados financieros del Estado y de los municipios;
 
-XXX. Los montos y nombre de las personas a quienes por cualquier motivo se entregue recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos; y (sic)
+XXX. Los montos y nombre de las personas a quienes por cualquier motivo se entregue recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos; y
 
 XXXI. Toda otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público;
 
@@ -1492,3 +1494,29 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El sistema INFOMEX seguirá vigente, hasta en tanto el Instituto implemente otro sistema.
 
 TERCERO. Se derogan todas las disposiciones que contravengan al presente decreto.
+
+G.O. 29 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el veintisiete de febrero de dos mil siete, y se derogan todas las disposiciones que contravengan la presente Ley.
+
+Tercero. El sistema INFOMEX seguirá vigente, hasta en tanto los sujetos obligados no sean incorporados en la Plataforma Nacional.
+
+Cuarto. El Instituto deberá emitir su Reglamento Interior y el Reglamento del Servicio Profesional de Carrera en un plazo no mayor a ciento ochenta días naturales, contado a partir de la entrada en vigor de la presente Ley.
+
+Quinto. Los sujetos obligados se incorporarán a la Plataforma Nacional de Transparencia, en los términos que establezcan los lineamientos que emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Sexto. Los sujetos obligados deberán cumplir con las obligaciones de transparencia, comunes y específicas, previstas en la presente Ley, a partir de que el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales emita los lineamientos que regulen la forma, términos y plazos para publicar la información generada a partir del día cinco de mayo de dos mil quince.
+
+Séptimo. Los sujetos obligados deberán cumplir con los formatos para el acceso a la información, a partir de que el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales emita los lineamientos correspondientes.
+
+Octavo. Las solicitudes de acceso a la información pública presentadas antes del cinco de mayo del año dos mil dieciséis serán resueltas conforme a la normatividad vigente al momento de su presentación, mientras que las presentadas después de esa fecha y antes del inicio de vigencia de esta Ley, serán atendidas conforme a la Ley General de Transparencia y Acceso a la Información Pública.
+
+Noveno. Las disposiciones de la presente Ley relacionadas con la materia de protección de datos personales, se vincularán con las contenidas en la Ley para la Tutela de los Datos Personales en el Estado de Veracruz de Ignacio de la Llave, en tanto no se expida por el Congreso de la Unión la ley general correspondiente y se realice la adecuación a la legislación estatal en esa materia.
+
+Décimo. Mientras el Congreso de la Unión no emita la legislación secundaria para desarrollar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de anticorrupción, el Congreso del Estado designará, a partir de una propuesta presentada por el Pleno del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, al titular del Órgano de Control Interno de dicho organismo, quien podrá participar en el procedimiento de designación que se realice posteriormente, conforme a la legislación referida.
+
+Décimo Primero. En un plazo que no excederá de sesenta días naturales, contado a partir del inicio de vigencia de esta Ley, el Congreso del Estado realizará las modificaciones necesarias al Código de Derechos para el Estado de Veracruz de Ignacio de la Llave y a la legislación municipal respectiva, a efecto de que las cuotas aplicables a los derechos para acceder a la información pública se correspondan con lo previsto en la presente Ley.
