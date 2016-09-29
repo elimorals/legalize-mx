@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2016-09-22"
+last_updated: "2016-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2016.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 22 DE SEPTIEMBRE DE 2016.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 29 DE SEPTIEMBRE DE 2016.]</small>
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -367,9 +367,9 @@ Los titulares de las dependencias a que se refiere esta ley ejercerán sus funci
 
 El Gobernador del Estado podrá delegar las facultades y obligaciones previstas en la Constitución, al servidor público que éste determine. Esta delegación podrá efectuarse mediante acuerdo u oficio en los casos que el Titular del Ejecutivo así lo considere, salvo aquellas expresamente señaladas en la Constitución que deban ser ejercidas directamente por el Gobernador.
 
-(ADICIONADO, B.O. 4 DE JULIO DE 2016) (F. DE E., B.O. 22 DE SEPTIEMBRE DE 2016)
+(ADICIONADO, B.O. 4 DE JULIO DE 2016) (F. DE E., B.O. 22 DE SEPTIEMBRE DE 2016) (F. DE E., B.O. 29 DE SEPTIEMBRE DE 2016)
 
-Las facultades y obligaciones correspondientes al Gobernador del Estado, previstas en la presente Ley, así como en los ordenamientos de carácter secundario y reglamentario podrán ser delegables mediante oficio suscrito por el Titular del Ejecutivo, sin que sea necesario su publicación en el Boletín Oficial para que surta los efectos legales correspondientes.
+Las facultades y obligaciones correspondientes al Gobernador del Estado, previstas en la presente Ley, así como en los ordenamientos de carácter secundario y reglamentario podrán ser delegables mediante oficio suscrito por el Titular del Ejecutivo, sin que sea necesario su publicación en el Boletín Oficial para que surta los efectos legales correspondientes; en los casos de representación del Gobernador del Estado o delegaciones que éste realice en los órganos descritos en el párrafo tercero, del artículo 3o de esta Ley, las decisiones que apruebe el servidor público en estos casos serán responsabilidad exclusiva de quien ejerce dicha representación.
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
