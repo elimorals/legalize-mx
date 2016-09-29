@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2016-07-05"
+last_updated: "2016-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -213,21 +213,19 @@ II. El segundo fondo constituido con el diez por ciento del total distribuible f
 
 De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 18.
 
-Los municipios participarán en el Fondo de Fiscalización y Recaudación que se distribuirá de acuerdo a lo siguiente:
+Los municipios participarán en el Fondo de Fiscalización y Recaudación, que se distribuirá de acuerdo a lo siguiente:
 
-Del veinte por ciento distribuible entre los municipios se formarán dos fondos:
+Del veinte por ciento distribuible entre los municipios se formará un único fondo que comprenderá el total distribuible, que se asignará de acuerdo a lo siguiente:
 
-l. El primer fondo conformado con un noventa por ciento del total distribuible, que se asignará de acuerdo a lo siguiente: el noventa y cinco por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo publicado por el Instituto Nacional de Estadística, Geografía e Informática; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; y el uno por ciento restante en proporción inversa a las participaciones que por población tenga cada municipio, y
+I. El noventa por ciento con base al número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo publicado por el Instituto Nacional de Estadística y Geografía; el cuatro por ciento de acuerdo al índice municipal de pobreza que se indica en el artículo 35 de la Ley de Coordinación Fiscal; el uno por ciento en proporción inversa a las participaciones que por población tenga cada municipio; y el cinco por ciento restante de acuerdo al factor de eficiencia administrativa del municipio, mismo que será el cociente de la recaudación de impuestos y derechos municipales contenida en la última cuenta pública aprobada por el Congreso del Estado, entre el gasto ejercido en el capítulo 1000, correspondiente a Servicios Personales, para cada uno de los municipios del Estado, y
 
-II. El segundo fondo constituido con el diez por ciento del total distribuible, que se utilizará hasta donde alcance para resarcir a aquéllos municipios que con este nuevo sistema de reparto, lleguen a percibir menos de lo que recibieron en el mismo mes del año inmediatamente anterior al que corresponda la participación. En caso de ser insuficiente este segundo fondo, la distribución de los recursos existentes será proporcional a la diferencia en la percepción.
+II. De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo.
 
-Si al finalizar el año resultare un excedente del segundo fondo distribuible, se repartirá conforme a lo siguiente: el dos por ciento será destinado a los municipios que tuvieren déficit en los términos de las fracciones I y II de este artículo; y el noventa y ocho por ciento restante entre todos los municipios con base a los coeficientes aprobados por la Legislatura del Estado, para cada municipio.
-
-De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
+El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
 ###### ARTICULO 19.
 
@@ -494,3 +492,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El contenido del artículo 13 que deroga el presente Decreto, seguirá aplicándose sólo por lo que se refiere al Impuesto sobre Tenencia y Uso de Vehículos de ejercicios anteriores a 2015, que se encuentran pendientes de pago.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0393.- SE REFORMA EL ARTÍCULO 18, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
