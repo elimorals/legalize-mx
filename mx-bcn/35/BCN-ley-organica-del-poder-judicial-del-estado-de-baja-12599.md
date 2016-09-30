@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2016-09-23"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1897,11 +1897,13 @@ En caso de ausencia del Presidente del Consejo a las sesiones que hubiese convoc
 
 El Pleno se integrará con siete Consejeros; bastará la presencia de la mayoría de sus integrantes para sesionar.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 162.
 
-Las sesiones aprobadas en el calendario anual de actividades colegiadas aprobadas por el Consejo de la Judicatura, serán públicas.
+Las sesiones aprobadas en el calendario anual de actividades colegiadas aprobadas por el Consejo de la Judicatura, serán públicas y excepcionalmente privadas.
+
+El Consejo deberá otorgar el espacio y demás condiciones necesarias para garantizar la publicidad y el acceso al público a las sesiones, además serán transmitidas por el portal oficial de internet del Poder Judicial del Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -3590,3 +3592,9 @@ P.O. 23 DE SEPTIEMBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor en los mismos términos y plazos en que entrará en vigor la Ley Nacional de Mecanismos Alternativos de Solución de Controversias Penales de conformidad con lo que establece su artículo primero transitorio.
 
 SEGUNDO.- El Poder Judicial del Estado deberá observar lo dispuesto por los artículos segundo, tercero, cuarto y quinto transitorios de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias Penales.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 577 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 162 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
