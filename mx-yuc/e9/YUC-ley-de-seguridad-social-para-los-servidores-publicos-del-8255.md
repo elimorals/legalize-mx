@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "2014-07-24"
+last_updated: "2016-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de septiembre de 1976.
 
@@ -39,9 +39,11 @@ LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE S
 
 ### CAPITULO PRIMERO. Objetos y Sujetos de la Ley
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 1o.
 
-Se establece un régimen de Seguridad Social para los servidores públicos del Estado de Yucatán, de sus municipios y de los Organismos Públicos Coordinados y Descentralizados de carácter estatal.
+Esta ley es de orden público, interés social y observancia general en el estado de Yucatán, y tiene por objeto establecer un régimen de seguridad social para los servidores públicos de las dependencias y entidades de la Administración Pública estatal, de los poderes Legislativo y Judicial, de los organismos constitucionales autónomos estatales y de los ayuntamientos que, mediante convenio, se adhieran al régimen.
 
 ###### Artículo 2o.
 
@@ -53,7 +55,9 @@ El régimen de Seguridad Social tiene por objeto garantizar a los servidores pú
 
 Son sujetos de esta Ley, con las obligaciones y derechos que impone:
 
-I.- El Gobierno del Estado de Yucatán, los H.H. Ayuntamientos de sus Municipios, las Instituciones y Organismos Póblicos (sic) Coordinados y Descentralizados de carácter Estatal, siempre que éstos últimos no estén afectos a un régimen distinto de Seguridad Social, a quienes en la presente Ley se les denominará Entidades Públicas;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+I.- El Gobierno del Estado de Yucatán; las entidades de la Administración Pública estatal, los poderes Legislativo y Judicial y los organismos constitucionales autónomos estatales, que no estén afectos a un régimen distinto de seguridad social, y los ayuntamientos de los municipios que, mediante convenio, se adhieran a los derechos y obligaciones previstos en esta ley; los cuales, para efectos de esta ley, se les denominará entidades públicas.
 
 II.- Las personas que mediante nombramientos por escrito de las Entidades Públicas desempeñen un servicio remunerado en los respectivos presupuestos de egresos, a quienes en la presente Ley se les llamará Servidores Públicos;
 
@@ -93,13 +97,15 @@ V.- Préstamos.
 
 VI.- Jubilaciones y pensiones.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 7o.
 
-En casos especiales el Instituto podrá celebrar convenios con las Entidades Públicas para prestar parcial o totalmente los servicios de Seguridad Social consignados en esta Ley, respecto de trabajadores no sujetos a la misma.
+El. Instituto podrá celebrar convenios con entidades públicas o privadas para prestar parcial o totalmente los servicios de seguridad social consignados en esta ley.
 
-En todo momento el Instituto podrá contratar o subrogar los servicios con otras Instituciones o personas cuando esté en imposibilidad de prestarlos directamente.
+El Instituto podrá contratar o subrogar los servicios previstos en esta ley con otras instituciones públicas o privadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 8o.
 
@@ -109,17 +115,17 @@ Para cubrir las obligaciones y compromisos del Instituto, así como para satisfa
 
 I.- Un fondo parcial permanente de un millón de pesos.
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-II.- Las aportaciones ordinarias a título de cuotas a cargo de los servidores públicos en los siguientes términos: un dos por ciento de su sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir los seguros de enfermedades y de maternidad; y un 6 por ciento para tener derecho a las demás prestaciones. Los servidores públicos que perciban por jornada normal de trabajo únicamente el salario mínimo o menos de esa cantidad, quedan relevados del pago de las aportaciones ordinarias que se fijan en esta fracción, mismas que estarán a cargo exclusivo de las entidades públicas estatales. No disfrutarán de este derecho, los servidores públicos cuyo salario se determinen por horas de trabajo.
+II.- Las aportaciones ordinarias a título de cuotas a cargo de los servidores públicos, en los siguientes términos: un dos por ciento de su sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir los seguros de enfermedades y de maternidad; y un seis por ciento para tener derecho a las demás prestaciones. Los servidores públicos que perciban por jornada normal de trabajo únicamente el salario mínimo quedan relevados del pago de las aportaciones ordinarias que se fijan en esta fracción, las cuales estarán a cargo exclusivo de las entidades públicas estatales.
 
 > <small>(REFORMADA, D.O. 24 DE JULIO DE 2014)</small>
 
 III.- Las aportaciones ordinarias de las Entidades Públicas, sobre la base de un 6% del sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir el seguro de enfermedades y de maternidad; un 0.75% para cubrir íntegramente el seguro de riesgos de trabajo; y un 7% más para cubrir todas las demás prestaciones.
 
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-IV.- Las aportaciones ordinarias de las personas jubiladas o pensionadas, a razón de un cuatro por ciento de sus percepciones que se destinarán íntegramente para cubrir el seguro de enfermedades en su favor y de sus familiares, quedando a cargo de las Entidades Públicas la aportación de un cuatro por ciento más para cubrir el sostenimiento de los demás servicios. En los casos en que la pensión sea inferior al salario mínimo, las Entidades Públicas cubrirán íntegramente el ocho por ciento;
+IV.- Las aportaciones ordinarias, a cargo de las entidades públicas, sobre la base de un ocho por ciento de las percepciones de las personas jubiladas o pensionadas, que se destinarán íntegramente para cubrir el seguro de enfermedades en su favor y de sus familiares, así como de los demás servicios.
 
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -153,33 +159,37 @@ XI.- Los bienes muebles o inmuebles cuya propiedad traspasen las Entidades Públ
 
 XII.- El Instituto se reputará de acreditada solvencia y no estará obligado a constituir depósitos ni fianzas legales;
 
-En ningún caso y por autoridad alguna se podrá disponer de los fondos del Instituto, ni aún a título de préstamos (sic) reintegrable.
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+En ningún caso se podrá disponer de los fondos del Instituto, ni aún a título de préstamos reintegrables.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 9o.
 
-Tienen el carácter de obligatorias las aportaciones a cargo de los servidores públicos, los jubilados y los pensionados. Por consiguiente, quedan obligados a consentir los descuentos que realice su pagaduría sobre sus sueldos, pensiones y salarios, en los términos que señala el artículo anterior.
+Tienen el carácter de obligatorias las aportaciones a cargo de los servidores públicos. Por consiguiente, quedan obligados a consentir los descuentos que realice su pagaduría sobre sus sueldos y salarios, en los términos que señala el artículo anterior.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 10.
 
-La mora en el pago de todas o de una de las aportaciones a cargo de los obligados por esta Ley, será causa de la suspensión inmediata de los derechos que la misma les confiere. Tan pronto como se cubra el adeudo se reanudarán los servicios y obligaciones correspondientes. El Consejo Directivo dictará en cada caso resoluciones fundadas al respecto.
+La mora en el pago de todas o de una de las aportaciones a cargo de los obligados por esta ley será causa de la suspensión inmediata de los derechos que esta les confiere. Esta suspensión cesará cuando se cubra el adeudo que la motivó. El Consejo Directivo dictará en cada caso resoluciones fundadas al respecto.
 
 Si la mora en el pago de las aportaciones, es imputable únicamente a la Entidad Pública Estatal, los servidores públicos no serán afectados por la suspensión de sus derechos.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 11.
 
-Todo adeudo por aportaciones ordinarias con plazo mayor de un mes a partir de su vencimiento, causará intereses moratorios a la tasa del 0.75 por ciento mensual a favor del Instituto.
+Las entidades públicas que no enteren al Instituto los adeudos que tengan a su favor, dentro de un plazo de un mes, contado a partir de su vencimiento, deberán cubrir intereses moratorios a la tasa del 1.5 % mensual.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 12.
 
-Las obligaciones de esta Institución con los servidores públicos y los jubilados nacen concomitante con el pago de las aportaciones a que están obligados.
+Las obligaciones de esta Institución con los servidores públicos y los jubilados nacen concomitantes con el pago de las aportaciones a que están obligados.
+
+En los casos en que por resolución judicial el Instituto sea condenado al pago de una obligación, se entenderá que su cumplimiento se realizará previo pago de las aportaciones correspondientes previstas en las fracciones I y II del artículo 8 de esta ley.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -193,11 +203,11 @@ Cuando las aportaciones ordinarias o extraordinarias en favor del Instituto y lo
 
 Las aportaciones de las Entidades Públicas tienen el carácter de obligatorias; por consiguiente, deberán consignarse en la partida o partidas que correspondan a sus respectivos presupuestos de egresos. En el caso de que se incurra en omisión, se entenderá que las aportaciones de que se trata fueron oportunamente presupuestadas y su ejercicio se hará cargo de las partidas generales de gastos.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 15.
 
-Las aportaciones económicas a cargo de las Entidades Públicas, de los servidores públicos y de las personas jubiladas o pensionadas, deberán remitirse al Instituto dentro de los cinco primeros días hábiles de cada mes.
+Las aportaciones económicas a cargo de las entidades públicas y de los servidores públicos deberán cubrirse dentro de los cinco primeros días hábiles siguientes a los respectivos períodos quincenales o mensuales. No se considerarán efectuadas las aportaciones económicas que no estuvieran acompañadas con los listados de aportaciones necesarios para realizar el cálculo correspondiente.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -215,33 +225,47 @@ El Instituto gozará, con respecto a su patrimonio y a los contratos que celebre
 
 Dentro de los diez primeros días hábiles de cada mes el Instituto realizará un estado contable de sus operaciones. Anualmente verificará el balance correspondiente, dictaminado por un contador público. Previa su aprobación por el Consejo Directivo, ese balance anual se publicará en el Diario Oficial del Gobierno del Estado, así como en cualquier otro órgano de información que señale el Consejo.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 19.
 
-El Gobierno del Estado tendrá en todo tiempo la facultad de supervisar por medio de su Dirección General de Haciendo y-o de Inspección Administrativa y Fiscal, las cuentas del Instituto y la administración de su patrimonio a fin de poder precisar con la mayor exactitud posible la situación financiera del mismo.
+El Gobierno del Estado tendrá en todo tiempo la facultad de supervisar por medio del órgano de control interno del Instituto, las cuentas de este y la administración de su patrimonio, a fin de poder precisar, con la mayor exactitud posible, su situación financiera.
 
 ### CAPITULO TERCERO. Seguro de Prestaciones Médicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-Por conducto de su Subdirección Médica el Instituto impartirá los servicios y las ministraciones que se concretan en este capítulo. Los servicios médicos consistirán en:
+El Instituto prestará los siguientes servicios médicos:
 
 a).- Atención médica de enfermedades y de maternidad; estos servicios comprenderán asistencia médica, quirúrgica, farmacéutica y hospitalaria que sean necesarios desde el comienzo de la enfermedad hasta el plazo máximo de cincuenta y dos semanas para la misma enfermedad. En caso de enfermos ambulantes cuyo tratamiento no les impida trabajar, la asistencia médica de una misma enfermedad se continuará hasta su curación. Y el de maternidad se ofrecerá en la forma que señala el artículo 24 de esta Ley.
 
 b).- Atención médica para riesgos de trabajo que comprenderá: asistencia médica, quirúrgica, farmacéutica y hospitalaria, así como los aparatos de prótesis y ortopedia que se requieran.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 21.
 
-La atención médica a que se refiere el artículo anterior se proporcionará por el Instituto en las unidades hospitalarias, clínicas y puestos asistenciales con que cuente en el Estado de Yucatán, pudiéndose realizar también, a juicio del propio Instituto, en establecimientos médicos existentes en la Entidad, propiedad de particulares o de organismos de seguridad social de cualquier naturaleza, los que deberán prestar atención médica a los servidores públicos, en la forma en que la tengan establecida para sus derechohabientes.
+La atención médica a que se refiere el artículo anterior se proporcionará directamente por el Instituto o por medio de las instituciones de salud públicas, con quienes se haya celebrado convenio.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 22.
 
-Cuando se trate de riesgos de trabajo, los servidores públicos tendrán derecho a la atención médica que se precisa en esta Ley y además a la calificación de dichos riesgos, que realizará técnicamente el Instituto, notificando a las Entidades Públicas para los efectos que procedan. No se considerarán riesgos de trabajo los que sobrevengan por algunas de las causas que señala el Artículo 53 de la Ley del Seguro Social.
+Cuando se trate de riesgos de trabajo, los servidores públicos tendrán derecho a la atención médica que se precisa en esta ley y además a la calificación de dichos riesgos, que se realizará por quien determine el Consejo Directivo, notificando a las entidades públicas para los efectos que procedan. No se considerarán riesgos de trabajo, los que sobrevengan por alguna de las causas siguientes:
 
-Los compromisos económicos que puedan derivarse de riesgos de trabajo que sufran los servidores públicos serán cubiertos por el Instituto con la aportación respectiva, establecida en la fracción III del Artículo 8o. de esta Ley, que es a cargo exclusivo de la Entidad Pública correspondiente.
+I.- El accidente ocurra encontrándose el trabajador en estado de embriaguez.
+
+II.- El accidente ocurra encontrándose el trabajador bajo la acción de algún psicotrópico, narcótico o droga enervante, salvo que exista prescripción suscrita por médico titulado y que el trabajador lo hubiera exhibido y hecho del conocimiento de su superior jerárquico.
+
+III.- El trabajador se ocasiona intencionalmente una incapacidad o lesión por sí o de acuerdo con otra persona.
+
+IV.- La incapacidad o siniestro es el resultado de alguna riña o intento de suicidio.
+
+V.- El siniestro es resultado de un delito intencional del que fuera responsable el trabajador asegurado.
+
+Los compromisos económicos que puedan derivarse de riesgos de trabajo que sufran los servidores públicos serán cubiertos por el Instituto con la aportación respectiva, establecida en la fracción III del artículo 8 de esta ley, que es a cargo exclusivo de la entidad pública correspondiente.
 
 ###### Artículo 23.
 
@@ -279,37 +303,21 @@ c).- Una canastilla de maternidad al nacer el hijo.
 
 El trabajador dado de baja por cese o renuncia, pero que haya prestado servicios ininterrumpidos, antes de la separación y durante un mínimo de seis meses, a las Entidades Públicas, continuará recibiendo durante los dos meses siguientes a la baja, los servicios médicos establecidos en esta Ley. De igual beneficio gozarán sus familiares derechohabientes.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 26.
 
-Para la prestación de los servicios médicos establecidos en esta Ley, los servidores públicos y pensionistas llenarán las formas de afiliación individual que ponga en uso el Instituto, el cual proporcionará para efectos de identificación la credencial única a los trabajadores, pensionistas y familiares de unos y otros.
+Para la prestación de los servicios médicos establecidos en esta ley, los servidores públicos y pensionistas deberán presentar debidamente llenadas las formas de afiliación individual que ponga a su disposición el Instituto, el cual proporcionará, para efectos de identificación, la credencial única a los trabajadores, pensionistas y sus familiares.
 
-Las Entidades Públicas se obligan a comunicar al Instituto, tan pronto sucedan, las altas y bajas que ocurran, así como los cambios de adscripción de los trabajadores a su servicio y de los pensionistas. Las Entidades Públicas se comprometen también a remitir al Instituto en el mes de enero de cada año una relación de sus trabajadores, jubilados y pensionistas sujetos a los pagos que señala esta Ley.
-
-De la misma manera comunicarán las modificaciones de los sueldos y pensiones sujetos a descuento.
+Las entidades públicas comunicarán al Instituto, inmediatamente, las altas y bajas que ocurran, así como los cambios de adscripción de los trabajadores a su servicio y de los pensionistas. De la misma manera comunicarán las modificaciones de los sueldos sujetos a descuento.
 
 ###### Artículo 27.
 
-El Departamento Médico dependiente de la Subdirección correspondiente, estará integrado por profesionales de las distintas disciplinas científicas relacionadas con estos servicios; el cuerpo médico de ese Departamento será designado por el Director del Instituto.
-
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 28.
 
-El Director General del Instituto, de acuerdo con el Subdirector Médico del mismo, someterá a la aprobación del Consejo Directivo:
-
-a).- La creación y modificación del cuadro básico de medicamentos;
-
-b).- Los presupuestos de egresos y de los gastos extraordinarios, así como el plan para la administración del Departamento Médico;
-
-c).- La zona de influencia de las unidades que se establezcan para la prestación de servicios y ministraciones;
-
-d).- El nombramiento y la remoción del personal del Departamento Médico y las medidas administrativas de control necesarias para el mejor funcionamiento de la Subdirección Médica;
-
-e).- Las responsabilidades en que incurra el personal de la Subdirección Médica;
-
-f).- El plan de prestación de servicios y ministraciones no comprendidos específicamente en esta Ley o que no se estén prestando por acuerdos generales.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ### CAPITULO CUARTO. Seguro de Cesantía o Separación
 
@@ -333,7 +341,7 @@ Del importe del seguro se deducirán los adeudos por préstamos a corto plazo en
 
 ###### Artículo 32.
 
-Si el servidor público que hubiere hecho efectivo el Seguro de Cesantía o Separación reingresa al servicio antes de diez años a contar de la fecha de su separación, tendrá derecho para los efectos de esta Ley, a que se le acrediten los años de servicios comprendidos en aquel seguro, siempre que pague al Instituto el importe del seguro cobrado, más el interés del nueve por ciento anual, por el período comprendido entre la fecha en que se hizo efectivo el seguro y la de su reingreso.- (sic) El Consejo podrá conceder un préstamo especial para este caso.
+Si el servidor público que hubiere hecho efectivo el Seguro de Cesantía o Separación reingresa al servicio antes de diez años a contar de la fecha de su separación, tendrá derecho para los efectos de esta Ley, a que se le acrediten los años de servicios comprendidos en aquel seguro, siempre que pague al Instituto el importe del seguro cobrado, más el interés del nueve por ciento anual, por el período comprendido entre la fecha en que se hizo efectivo el seguro y la de su reingreso.- El Consejo podrá conceder un préstamo especial para este caso.
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
@@ -375,27 +383,29 @@ No son deducibles del Seguro de Fallecimiento los saldos de los créditos a favo
 
 ### CAPITULO SEXTO. Prestaciones Sociales
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-Dentro del régimen de Seguridad Social que establece este ordenamiento el Instituto realizará actividades especiales y otorgará prestaciones que tiendan a mejorar las condiciones económicas, sociales y culturales de las personas físicas que son sujetos de esta Ley, mediante:
+Dentro del régimen de seguridad social que establece este ordenamiento, el Instituto podrá realizar actividades especiales y otorgará prestaciones que tiendan a mejorar las condiciones económicas, sociales y culturales de las personas físicas que son sujetos de esta ley, mediante:
 
-a).- El establecimiento de almacenes para la venta de artículos domésticos, de alimentación y de vestido;
+I.- El establecimiento de almacenes para la venta de artículos domésticos, electrodomésticos y de alimentación.
 
-b).- La creación de guarderías y estancias infantiles, centros vacacionales y campos deportivos o recreativos;
+II.- El establecimiento de guarderías, centros vacacionales y campos deportivos o recreativos.
 
-c).- Los servicios de hospedaje eventual;
+III.- El establecimiento de bibliotecas, centros de capacitación y de extensión educativa y cultural.
 
-d).- La fundación de bibliotecas, centros de capacitación y de extensión educativa y cultural;
-
-e).- La promoción de viajes recreativos y culturales.
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 39.
 
-El Instituto organizará asociaciones encargadas de fomentar las actividades comprendidas en el artículo anterior. Estos organismos auxiliares también se ocuparán de promover lo necesario para mejorar los lazos de cooperación mutua entre las personas físicas sujetas a esta Ley.
+Para fomentar las actividades comprendidas en el artículo anterior, el Instituto contará con los organismos auxiliares que se establezcan en su estatuto orgánico, los cuales se ocuparán de promover lo necesario para mejorar los lazos de cooperación mutua entre las personas físicas beneficiarias de esta ley.
+
+El Instituto constituirá reservas financieras exclusivas y claramente asignadas en su presupuesto para la operación de estos organismos auxiliares.
 
 ###### Artículo 40.
 
-Se autoriza al Instituto a fundar una Caja de Ahorros preferentemente en favor de los servidores públicos, con la obligación de cubrir a los asociados un interés por las cantidades que aporten.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 41.
 
@@ -410,6 +420,10 @@ El Consejo Directivo del Instituto considerará en su presupuesto anual de egres
 El Instituto concederá a los servidores públicos y a sus jubilados, préstamos a corto plazo, especiales e hipotecarios, utilizando a título de inversión los fondos y las reservas de su patrimonio.
 
 Los jubilados y pensionados por el Gobierno del Estado o las Entidades Públicas Estatales, tendrán derecho a que se les conceda préstamos a corto plazo y especiales, con las modalidades y condiciones que se fijan en esta Ley.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+El Consejo Directivo, a propuesta del Comité de Inversión y Finanzas, determinará la tasa de interés ordinario que habrá de aplicarse a cada tipo de préstamo. Dicha tasa no podrá ser inferior a la tasa promedio ponderada de la deuda pública estatal más seis puntos porcentuales, y deberá apegarse, en la medida de lo posible, a los estándares de mercado.
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
@@ -445,69 +459,57 @@ El préstamo a corto plazo que se conceda a los Servidores Públicos y sus inter
 
 Las anteriores disposiciones, no conceden ni suponen quita ni espera en favor del moroso. El Instituto deberá hacer efectivo el adeudo, en los términos legales que procedan.
 
-> <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 48.
 
-Todo préstamo a corto plazo se considera insoluto cuando el deudor deje definitivamente el servicio y no continúe cubriendo los abonos a que está obligado.
+Para garantizar la recuperación de los préstamos otorgados, se integrará un fondo de garantía, que se constituirá con las primas correspondientes a cargo de los deudores, con el que se cubrirá el monto insoluto de los préstamos, en los casos de invalidez e incapacidad total permanente, muerte e incobrabilidad, conforme lo establezcan los lineamientos que para tal efecto emita el Consejo Directivo de Instituto.
 
-> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2014)</small>
+Para efectos de este artículo, se considerarán insolutos aquellos préstamos cuyos deudores dejen definitivamente el servicio y no continúen cubriendo los abonos a que estén obligados.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 48 Bis.
 
-Será facultad del Consejo Directivo, a consulta expresa y por escrito del Director General del Instituto, autorizar la operación y administración (sic) esquemas optativos y generales de préstamos a corto plazo con descuento en nómina a los derechohabientes del Instituto y a grupos de servidores públicos que presten sus servicios para el Gobierno del Estado de Yucatán y no sean derechohabientes del Instituto. Cuando se trate de servidores públicos que no sean derechohabientes del Instituto, lo anterior deberá hacerse al amparo de un convenio marco que se firme con la institución a la que pertenece dicho grupo de trabajadores, donde el patrón del citado grupo de trabajadores se obligue a retener de la nómina y a pagar puntualmente las obligaciones que los trabajadores adquieran con el Instituto y, en su caso, actuar como aval o garante solidario del trabajador.
+El Consejo Directivo, a propuesta del Comité de Inversión y Finanzas del Instituto, autorizará la operación y administración de esquemas optativos y generales de préstamos a plazo con descuento en nómina a los derechohabientes del Instituto y a grupos de servidores públicos que presten sus servicios en el Gobierno del Estado de Yucatán y no sean derechohabientes del Instituto.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+Cuando se trate de servidores públicos que no sean derechohabientes del Instituto, los descuentos deberán hacerse al amparo de un convenio marco que se suscriba con la institución a la que pertenezcan dichos trabajadores, mediante el cual, el patrón se obligue a retener de la nómina y a pagar puntualmente las obligaciones que los trabajadores adquieran con el Instituto y, en su caso, actuar como aval o garante solidario del trabajador.
 
 ###### Artículo 49.
 
-El préstamo especial con garantía colateral será aquél que llene tal requisito a satisfacción del Director General. Estará destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación económica del servidor público y de su familia. El Director General calificará su procedencia y señalará los términos de la garantía colateral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE JULIO DE 2014)</small>
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 50.
 
-El monto máximo del préstamo especial con garantía colateral que se otorgue al servidor público o al jubilado por el Instituto será la cantidad que resulte de multiplicar por veinticuatro, el 40% de su sueldo o pensión mensual; causará interés ordinario y su pago se efectuará en un plazo máximo de treinta meses mediante pagos periódicos iguales o en una sola exhibición.
-
-> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
-
-El monto máximo del préstamo especial con garantía colateral que se otorgue a los jubilados por el Gobierno del Estado o las Entidades Públicas Estatales, será el importe de cinco meses de su pensión; causará interés ordinario y será cubierto en un plazo de veinticuatro meses, mediante pagos periódicos iguales o en una sola exhibición.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
-
-Todo préstamo especial se documentará con arreglo a los títulos ejecutivos mercantiles.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
-
-Sólo se concederá un nuevo préstamo de esta clase, cuando se encuentre liquidado el anterior. Sin embargo, podrán renovarse en su monto, si ya transcurrieron 15 meses a partir de la fecha de su otorgamiento y se está al corriente en el pago de los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que cause el préstamo renovado.
-
-> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 51.
 
-El Instituto concederá préstamos especiales para la adquisición de productos de consumo duradero, siempre que el solicitante ofrezca garantía suficiente a juicio del Director General y lo amortice en un periodo no mayor de veinticuatro meses, cubriendo un interés ordinario, que se descontará quincenalmente junto con sus intereses.
-
-> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2014)</small>
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 51 Bis.
 
-El Consejo Directivo se reunirá en forma periódica con el Director General para definir la tasa de interés ordinario que habrá de aplicarse a cada tipo de crédito. Dicha tasa no podrá ser en ningún momento menor a la tasa promedio ponderado de la deuda pública estatal más seis puntos porcentuales y deberá apegarse en la medida de lo posible a estándares de mercado.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 52.
 
-Los servidores públicos y los jubilados del Instituto tendrán derecho a obtener préstamos hipotecarios que se otorgarán por acuerdo del Comité de Prestaciones que para tal efecto constituya el Consejo Directivo, en el cual deberán estar representadas las áreas involucradas del Instituto y las personas que designe el propio Consejo Directivo. Esta clase de préstamos se concederán al servidor público con dos años como mínimo de contribución al patrimonio del Instituto, así como al servidor público jubilado. Se destinarán exclusivamente a resolver el problema de la habitación familiar y, por consiguiente, sólo se otorgarán para comprar o construir una casa habitación, incluyendo o no el valor del terreno; para realizar ampliaciones, reparaciones o ambos trabajos, o para redimir gravámenes constituidos sobre la casa habitación propiedad del solicitante.
+Los servidores públicos que hayan realizado aportaciones al Instituto por, cuando menos un año, así como los servidores públicos jubilados tendrán derecho a obtener préstamos hipotecarios para comprar o construir un casa-habitación, incluyendo o no el valor del terreno; la realización de ampliaciones o reparaciones; o para librar gravámenes constituidos sobre la casa-habitación propiedad del solicitante.
+
+Los préstamos a que se refiere este artículo serán otorgados por acuerdo, y bajo las reglas y tasas que determine el Consejo Directivo, a propuesta del Comité de Prestaciones. El Consejo Directivo deberá prever, mediante acuerdo, la integración, atribuciones y funcionamiento del comité de prestaciones.
+
+Adicionalmente, el Instituto, a título de inversión de su patrimonio, podrá construir casas-habitación para enajenarlas a sus derechohabientes, bajo las reglas, tasas y esquemas hipotecarios que determine el Consejo Directivo, a propuesta de los comités de prestaciones, y de inversión y finanzas. En ningún caso, las tasas de interés podrán ser inferiores a las señaladas para los préstamos hipotecarios ordinarios establecidos en esta ley. El Instituto podrá construir estas viviendas por administración directa.
 
 ###### Artículo 53.
 
 El préstamo hipotecario se cubrirá en un plazo que no exceda de 15 años con rentas mensuales de amortización cuyo importe fijará el Consejo Directivo, teniendo en cuenta las tablas respectivas que estarán en relación con el límite de los descuentos que señala el artículo 43.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 54.
 
-En ningún caso el importe del préstamo hipotecario que se conceda, ya sea para una sola persona o dos o más en mancomún, podrá ser mayor del 80 por ciento del que se requiera para la adquisición de un lote urbanizado de 200 metros cuadrados, más 84 a 100 metros cuadrados de construcción de una casa no residencial. El avalúo deberá coincidir con los precios unitarios de las tablas generales que se formularán por órdenes del Consejo Directivo.
+En ningún caso el importe del préstamo hipotecario que se conceda, ya sea para una sola persona o dos en mancomunidad, podrá ser mayor del 80% del avalúo de la vivienda que se pretenda adquirir.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -515,9 +517,11 @@ En ningún caso el importe del préstamo hipotecario que se conceda, ya sea para
 
 El importe del préstamo hipotecario podrá aumentarse con los gastos de la operación notarial correspondiente, cuando se trate de un préstamo para adquirir, construir, reparar o ampliar la casa habitación; la garantía se fincará sobre todo el inmueble incluyendo nuevas obras.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 56.
 
-El Director del Instituto cuidará de la correcta inversión del préstamo hipotecario. El deudor consentirá en esta vigilancia, dando las facilidades que sean necesarias. El importe del préstamo se le entregará a medida que compruebe el monto de las inversiones que se hayan efectuado.
+El Comité de Prestaciones vigilará la correcta inversión del préstamo hipotecario. El deudor consentirá en esta vigilancia, dando las facilidades que sean necesarias. El importe del préstamo se le entregará a medida que compruebe el monto de las inversiones que se hayan efectuado.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -525,23 +529,23 @@ El Director del Instituto cuidará de la correcta inversión del préstamo hipot
 
 Las operaciones hipotecarias que se realicen al amparo de esta Ley, no causarán impuestos ni derechos del Estado o del Municipio.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 58.
 
-Los préstamos hipotecarios se acordarán y despacharán conforme al número progresivo del registro de las solicitudes, obedeciendo al plan de inversiones que anualmente formule el Consejo Directivo. Tendrán preferencia en el orden siguiente: préstamos para redimir gravámenes; préstamos para comprar o construir casa habitación, incluyendo o no el valor del terreno; préstamos destinados a realizar reparaciones y ampliaciones de las casas habitación propiedad de los sujetos de esta Ley; y préstamos para otras finalidades; sólo en casos especiales a juicio del Consejo y, por una causa que se estime fundada, se modificará el orden antes establecido.
+Los préstamos hipotecarios se tramitarán conforme a la finalidad del préstamo y al orden de recepción de las solicitudes. Con respecto a su finalidad, se respetará el siguiente orden: préstamos para liberar gravámenes; préstamos para comprar o construir casas-habitación, incluyendo o no el valor del terreno; préstamos destinados a realizar reparaciones y ampliaciones de las casas-habitación propiedad de los sujetos de esta ley. Solo en casos especiales a juicio del Consejo Directivo y, por una causa que se estime fundada, se modificará el orden antes establecido.
 
-Sólo se concederá un préstamo hipotecario destinado a redimir gravámenes, siempre que se haya constituido con antelación a la solicitud para el préstamo hipotecario y que la garantía real en favor del Instituto sea en primer lugar.
+Solo se concederán préstamos hipotecarios para librar gravámenes cuando estos se hayan constituido con antelación a la solicitud para el préstamo hipotecario y cuando la garantía real en favor del Instituto esté en primer lugar.
 
 ###### Artículo 59.
 
 El solicitante de un préstamo hipotecario estará obligado a cumplir con los requisitos que se exijan para esta operación así como a pagar los gastos del avalúo, notariales y de otra índole. El Instituto queda facultado para deducir el importe de estos gastos del total del préstamo; y en su caso, a ordenar los descuentos que correspondan de las percepciones del deudor.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 60.
 
-Sólo se concederán préstamos hipotecarios sobre inmuebles ubicados en el Estado de Yucatán. Podrán ser ampliados en su importe, pero no prorrogados. La ampliación se otorgará previo examen técnico ordenado por el Instituto, a fin de determinar si resulta aconsejable para mantener en condiciones de habitabilidad el inmueble relacionado con la primitiva operación. Quien haya hecho un préstamo hipotecario no tendrá derecho a que se le conceda otro mientras permanezca insoluto el anterior; y sólo se le otorgará un nuevo préstamo de esta clase si han pasado dos años de haber liquidado el anterior y si el dinero se destina para redimir gravámenes o para ampliar la casa propiedad del solicitante o efectuar reparaciones en ella.
+Solo se concederán préstamos hipotecarios sobre inmuebles ubicados en el estado. Estos préstamos podrán ser ampliados en su importe, pero no prorrogados. La ampliación se otorgará previo examen técnico ordenado por el Instituto, a fin de determinar si resulta aconsejable para mantener en condiciones de habitabilidad el inmueble relacionado con la primitiva operación. Quien haya hecho un préstamo hipotecario no tendrá derecho a que se le conceda otro mientras permanezca insoluto el anterior.
 
 ### CAPITULO OCTAVO. Jubilaciones y Pensiones
 
@@ -549,29 +553,27 @@ Sólo se concederán préstamos hipotecarios sobre inmuebles ubicados en el Esta
 
 Jubilación es la relevación de la obligación del servidor público de seguir desempeñando su empleo en razón de edad, de su tiempo de servicios o por imposibilidad física o mental, con derecho a percibir en calidad de pensión el total o parte de su último sueldo. El Instituto está obligado a pagar las pensiones por jubilación y de otra índole que se consignen en la presente Ley.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 62.
 
-La jubilación o pensión se tramitará a solicitud escrita del interesado, o por acuerdo expreso del Consejo Directivo del Instituto, y se resolverá dentro de los 30 días hábiles siguientes de iniciado el expediente. Sólo por acuerdo del mismo Consejo se podrá ampliar este plazo en los casos en que el interesado no haya satisfecho los requisitos legales a que está obligado para obtener su jubilación o pensión.
+La jubilación o pensión se tramitará a solicitud escrita del interesado, y se resolverá dentro de los 60 días hábiles siguientes de iniciado el expediente. El Instituto podrá ampliar este plazo en los casos en que el interesado no haya satisfecho los requisitos legales a que está obligado para obtener su jubilación o pensión.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 63.
 
 Los servidores públicos adquieren derecho a pensión:
 
-I.- Por jubilación necesaria al cumplir 55 años de edad y 15 o más de servicios, con igual tiempo de aportaciones;
+I.- Por jubilación necesaria al cumplir 55 años de edad y 15 o más años de aportaciones;
 
-II.- Por jubilación voluntaria cuando hayan alcanzado 30 años de servicios, sin límite de edad, con igual tiempo de aportaciones;
+II.- Por jubilación voluntaria cuando hayan alcanzado 30 años de aportaciones, sin límite de edad;
 
-III.- Por inhabilitación, cuando se hayan perdido las facultades físicas o intelectuales necesarias para el desempeño normal del servicio. La obligación para el Instituto queda condicionada a que se hayan pagado íntegra y normalmente las aportaciones por el tiempo de servicios.
+III.- Por inhabilitación, cuando se hayan perdido las facultades físicas o intelectuales necesarias para el desempeño normal del servicio. La obligación para el Instituto queda condicionada a que se hayan pagado íntegra y normalmente las aportaciones por el tiempo de servicios. La inhabilitación podrá ser:
 
-La inhabilitación podrá ser:
+a) A causa de consecuencia del servicio, en cuyo caso el derecho a pensión se adquiere cualquiera que sea el tiempo de aportaciones.
 
-a).- A causa de consecuencia del servicio, en cuyo caso el derecho a pensión se adquiere cualquiera que sea el tiempo de servicios; y
-
-b).- Por causas ajenas al servicio, en cuyo caso el derecho a pensión se adquiere cuando los sujetos de esta Ley hayan alcanzado quince o más años de servicios y hayan cubierto las aportaciones a que están obligados.
+b) Por causas ajenas al servicio, en cuyo caso el derecho a pensión se adquiere cuando los sujetos de esta ley hayan alcanzado quince o más años de aportaciones.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -579,41 +581,45 @@ b).- Por causas ajenas al servicio, en cuyo caso el derecho a pensión se adquie
 
 La cuota de la pensión que se pague al servidor público, a título de jubilación, se fijará como sigue:
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-I.- Por jubilación necesaria o voluntaria, el tanto por ciento del sueldo último, en relación con los años de servicio, conforme a la tabla siguiente:
+I.- Por jubilación necesaria o voluntaria, el tanto por ciento del sueldo último, en relación con los años de aportaciones, conforme a la tabla siguiente:
 
-15 años de servicios.......... 50 %
+Años de Porcentaje
 
-16 años de servicios.......... 52.5 %
+aportaciones
 
-17 años de servicios.......... 55 %
+15 50.00%
 
-18 años de servicios.......... 57.5 %
+16 52.50%
 
-19 años de servicios.......... 60 %
+17 55.00%
 
-20 años de servicios.......... 62.5 %
+18 57.50%
 
-21 años de servicios.......... 65 %
+19 60.00%
 
-22 años de servicios.......... 67.5 %
+20 62.50%
 
-23 años de servicios.......... 70 %
+21 65.00%
 
-24 años de servicios.......... 72.5 %
+22 67.50%
 
-25 años de servicios.......... 77.5 %
+23 70.00%
 
-26 años de servicios.......... 82.5 %
+24 72.50%
 
-27 años de servicios.......... 87.5 %
+25 77.50%
 
-28 años de servicios.......... 90 %
+26 82.50%
 
-29 años de servicios.......... 95 %
+27 87.50%
 
-30 años de servicios..........100 %
+28 90.00%
+
+29 95.00%
+
+30 100.00%
 
 II.- Por inhabilitación parcial a causa o consecuencia del servicio; se tomará como base el sueldo último del servidor público y se aplicará al porcentaje fijado en la tabla de valuación de incapacidades de la Ley Federal del Trabajo;
 
@@ -631,7 +637,9 @@ Los familiares o dependientes económicos del servidor público adquieren el der
 
 I.- Al fallecer el servidor público, si su fallecimiento acaeció a causa o consecuencia del servicio y hubiere pagado normalmente las aportaciones que señala esta Ley;
 
-II.- Al fallecer el servidor público, por causas ajenas al servicio, si tenía 15 o más años de servicios e igual tiempo de aportaciones; y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Al fallecer el servidor público, por causas ajenas al servicio, si tenía 15 o más años de aportaciones; y
 
 III.- Al fallecer el servidor público pensionado.
 
@@ -645,17 +653,15 @@ I.- Por fallecimiento del servidor público a causa o consecuencia del servicio:
 
 II.- Por fallecimiento del servidor público por causas ajenas al servicio; se aplicarán las tablas de la fracción I del artículo 64, disminuyendo la pensión en un 10 por ciento el segundo año y así sucesivamente en los subsecuentes, hasta llegar a la mitad de la pensión original;
 
-III.- Por fallecimiento del servidor público pensionado:
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-a).- Si la pensión se le había concedido por jubilación o inhabilitación a causa o consecuencia del servicio: la última de que hubiere gozado el pensionado, con descuento de un 10 por ciento el segundo año e igual deducción en los años subsecuentes, hasta llegar al 50 por ciento de la pensión original.
+III.- Por fallecimiento del servidor público pensionado, la última pensión que se le había concedido por jubilación o inhabilitación.
 
-b).- Si la pensión la disfrutaba por jubilación o inhabilitación por causas ajenas al servicio: la última de que hubiere gozado el pensionado, con deducción de un 20 por ciento. Esta pensión sólo se pagará durante los seis meses siguientes al fallecimiento.
-
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 67.
 
-Las jubilaciones y pensiones que se paguen conforme a esta Ley serán de carácter móvil. La movilidad consistirá en aumentar su cuota diaria por el mismo tanto por ciento que el Gobierno del Estado de Yucatán otorgue como aumentos generales a las percepciones computables de la mayoría de sus servidores públicos, surtiendo efectos a partir de la fecha en que entre en vigor dicho aumento. No operará la movilidad consignada en este artículo para las jubilaciones y pensiones que alcancen o excedan al tope máximo establecido en el artículo 73 de esta Ley.
+Las jubilaciones y pensiones que se paguen conforme a esta ley se incrementarán en la misma proporción que aumente el salario mínimo general. Los incrementos surtirán efectos a partir de la fecha en que entre en vigor el referido aumento.
 
 ###### Artículo 68.
 
@@ -685,19 +691,21 @@ a).- Los incapacitados en forma total; y
 
 b).- Los que comprueben, a satisfacción del Consejo Directivo, que les es necesaria la pensión para continuar sus estudios profesionales o técnicos. La pensión no podrá extenderse en ningún caso después de los 25 años de edad.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 70.
 
-Para los efectos de esta Ley se considerará como sueldo último el promedio mensual de todas las percepciones computables al servidor público, correspondientes a los seis meses inmediatos anteriores a la fecha del acuerdo del Consejo Directivo que conceda la pensión o jubilación.
-
-Las percepciones computables de que se ocupa el párrafo anterior serán las que correspondan específicamente a la retribución de los servicios prestados a las Entidades Públicas, conforme aparezcan consignadas en las respectivas partidas de sus presupuestos de egresos y sobre las cuales se hayan pagado normal e íntegramente las aportaciones al Instituto. No se considerarán los viáticos, gratificaciones, gastos de representación y otras percepciones semejantes.
+Para los efectos de esta ley, se considerará como sueldo último el promedio mensual de todas las percepciones computables al servidor público, correspondientes a los dos años inmediatos anteriores a la fecha de la baja que emita la entidad pública en la que laboraba.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
+Las percepciones computables de que se ocupa el párrafo anterior serán las que correspondan específicamente a la retribución de los servicios prestados a las Entidades Públicas, conforme aparezcan consignadas en las respectivas partidas de sus presupuestos de egresos y sobre las cuales se hayan pagado normal e íntegramente las aportaciones al Instituto. No se considerarán los viáticos, gratificaciones, gastos de representación y otras percepciones semejantes.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 71.
 
-Los servidores públicos sujetos a escalafón comprobarán la regularidad escalafonaria de sus percepciones, siendo necesaria la justificación de una permanencia mínima de seis meses en cada grado de escalafón, salvo los ascensos que se otorguen en aplicación del Estatuto de los Trabajadores al Servicio del Estado de Yucatán y los correspondientes de los Organismos Públicos Coordinados y Descentralizados de carácter estatal.
+Los servidores públicos sujetos a escalafón comprobarán la regularidad escalafonaria de sus percepciones, por lo que será necesaria la justificación de una permanencia mínima de dos años en cada grado de escalafón, salvo los ascensos que se otorguen en términos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -705,17 +713,15 @@ Los servidores públicos sujetos a escalafón comprobarán la regularidad escala
 
 En percepciones por cátedra o puestos no escalafonarios, se promediarán las vigentes con antigüedad cuando menos de dos años de aportaciones ordinarias al patrimonio del Instituto e inmediatas anteriores a la fecha que se señala en el artículo 70. Sólo podrá computarse hasta un máximo de cuarenta y dos horas semanarias, cuando los empleos que se desempeñen sean exclusivamente de carácter docente, entendiéndose por tales, aquellos que requieran el dictado de clases; y de cuarenta y ocho horas semanarias, si se trata de empleos de carácter docente, desempeñados conjuntamente con otros empleos.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 73.
 
-La cuota diaria de la jubilación o pensión que se conceda conforme a esta Ley en ningún caso será mayor de 8 veces el salario mínimo legal general de la zona Mérida, a la fecha de la jubilación. Ningún servidor público tendrá la obligación de cubrir aportaciones ordinarias que excedan las correspondientes al importe de la máxima jubilación o pensión establecida en el párrafo inicial de este precepto. Los sujetos de esta Ley y el Instituto cuidarán que dichas aportaciones no rebasen el tope antes señalado.
-
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+La cuota diaria de jubilación o pensión que se conceda conforme a esta ley en ningún caso será mayor de ocho veces el salario mínimo general vigente a la fecha de jubilación. Ninguna entidad pública o servidor público tendrá la obligación de cubrir aportaciones ordinarias que excedan las correspondientes al importe de la máxima jubilación o pensión establecida en este artículo. Los sujetos de esta ley y el Instituto cuidarán que dichas aportaciones no rebasen el tope antes señalado.
 
 ###### Artículo 74.
 
-Cuando el total de las percepciones de un servidor público sea inferior al salario mínimo legal general vigente en el lugar donde hubiere laborado durante los últimos seis meses, la cuota diaria de la jubilación o pensión será calculada con base en el sueldo último fijado como se determina en el artículo 70 de esta Ley.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -723,19 +729,21 @@ Cuando el total de las percepciones de un servidor público sea inferior al sala
 
 La inhabilitación o el fallecimiento se reputarán como producidos a causa o consecuencia del servicio, cuando tengan las características de riesgos de trabajo que consigna la Ley Federal del Trabajo en su artículo 473, así como en los demás casos en los que exista jurisprudencia al respecto.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 76.
 
-Los casos de inhabilitación o fallecimiento por riesgos de trabajo se justificarán con examen médico de profesional nombrado por el Consejo, y con la copia certificada de las respectivas diligencias judiciales o administrativas que se hubieren desahogado sobre el caso. Si el interesado no estuviere conforme con aquel dictamen sobre la evaluación de su caso, presentará el dictamen que haya obtenido de su médico particular. Si hubiere discrepancia fundamental, el Consejo designará un tercero, perito médico, escogido de la terna que presentarán los peritos que hubieren intervenido anteriormente.
-
-El dictamen del tercero será decisivo.
+Los casos de inhabilitación o fallecimiento por riesgos de trabajo se justificarán con examen médico de profesional nombrado por el Consejo Directivo, y con la copia certificada de las respectivas diligencias judiciales o administrativas que se hubieran desahogado sobre el caso.
 
 ###### Artículo 77.
 
-La inhabilitación o el fallecimiento provocados por el mismo servidor público, los que resulten de una riña por él provocada o los que sean consecuencia del uso de bebidas alcohólicas, barbitúricos o estupefacientes no generan derecho alguno a jubilación o pensión, si aquellos ocurren antes de cinco años de prestar sus servicios el inhabilitado o fallecido; si ocurren después de cinco años sus derechohabientes recibirán el 50% correspondiente y si ocurren después de los diez años los mismos derechohabientes recibirán el ciento por ciento.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 78.
 
-Al desaparecer la inhabilitación de un servidor público jubilado perderá el derecho a la respectiva pensión, mediante acuerdo fundado del Consejo Directivo. Si el interesado no admite que ha desaparecido su inhabilitación, deberán seguirse los procedimientos que señala el artículo 76 de esta Ley.
+Al desaparecer la inhabilitación de un servidor público jubilado, perderá el derecho a la respectiva pensión, mediante acuerdo fundado del Consejo Directivo.
 
 ###### Artículo 79.
 
@@ -743,7 +751,7 @@ El Instituto queda facultado para examinar y atender los procesos de inhabilitac
 
 ###### Artículo 80.
 
-Cuando un servidor público jubilado por inhabilitación recupere sus facultades deberá ser restituido en su trabajo con su misma categoría. Cuando esto no sea posible, la Entidad Pública le asignará otro puesto, respetándole el sueldo que le corresponda de acuerdo con el escalafón. Cualquier diferencia en su contra será a cargo del Instituto.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 81.
 
@@ -759,11 +767,11 @@ Aceptada la jubilación, el servidor público queda obligado a separarse definit
 
 Cuando existan varias personas que tengan derecho a una pensión, la cuota diaria se dividirá en partes iguales. Al fallecer o perder sus derechos una o varias de aquellas personas, la parte o las partes de la pensión que les correspondía quedará a beneficio del patrimonio del Instituto. Se mantendrá íntegra la cuota diaria total de la pensión, si entre los partícipes con derechos vigentes se encuentra el cónyuge supérstite o la concubina reconocida legalmente.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 83.
 
-La percepción de una pensión concedida por el Instituto, no es incompatible con el desempeño de cualquier cargo remunerado en las Entidades Públicas.
+La pensión o jubilación concedida por el Instituto es única. En tal virtud, el servidor público a quien se haya otorgado una pensión o jubilación no podrá realizar el pago de las aportaciones ordinarias al patrimonio del Instituto para generar el derecho a una nueva pensión o jubilación.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -957,9 +965,11 @@ En el presupuesto anual, el Consejo Directivo señalará el destino en que deban
 
 ### CAPITULO DECIMO. Generalidades
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 98.
 
-Cuando un servidor público tenga que separarse del servicio para desempeñar un puesto de elección popular, con cargos sindicales o con licencia concedida por enfermedad de acuerdo con el Estatuto Jurídico y posteriormente se reincorpore al servicio, el período de su separación se computará como tiempo efectivo de servicios, siempre que haya cubierto mensualmente sus aportaciones para el Patrimonio del Instituto, sobre la base de las percepciones de que disfrutaba al tiempo de su separación transitoria.
+Cuando un servidor público se haya separado del servicio para desempeñar un puesto de elección popular, con cargos sindicales o con licencia concedida por enfermedad, de acuerdo con la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, y posteriormente se reincorpore al servicio, el período de su separación se computará como tiempo efectivo de servicios, siempre que haya cubierto mensualmente sus aportaciones para el patrimonio del Instituto, sobre la base de las percepciones de que disfrutaba al tiempo de su separación transitoria.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -973,13 +983,13 @@ En caso de que un servidor público desempeñe o haya desempeñado simultáneame
 
 En todo cómputo sobre tiempo de servicio, cuando resulte una fracción demás de seis meses, se tomará como un año completo de servicios.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 101.
 
-Toda licencia sin goce de sueldo por un mes o más y siempre que no exceda de seis meses, interrumpirá el disfrute de los derechos y beneficios que conceda esta Ley. Al reanudarse el servicio, el interesado readquirirá los mismos derechos y beneficios.
+Toda licencia sin goce de sueldo por un mes o más, siempre que no exceda de seis meses, interrumpirá el disfrute de los derechos y beneficios que conceda esta ley. Al reanudarse el servicio, el interesado readquirirá los mismos derechos y beneficios.
 
-Si el trabajador falleciere antes de reanudar sus labores y sus familiares o dependientes económicos tuvieren derecho a pensión, para poder disfrutar de ésta deberán cubrir al Instituto la cuota fijada en la parte final de la fracción II del Artículo 8o. de esta Ley, por el tiempo de licencia.
+Si el trabajador falleciera antes de reanudar sus labores y sus familiares o dependientes económicos tuvieran derecho a pensión, para poder disfrutar de esta, deberán cubrir al Instituto la cuota fijada en la parte final de la fracción II del artículo 8 de esta ley, por el tiempo de licencia. Asimismo, la entidad pública cubrirá su parte correspondiente prevista en la fracción III del mismo artículo 8.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -987,7 +997,9 @@ Si el trabajador falleciere antes de reanudar sus labores y sus familiares o dep
 
 Para los efectos de este ordenamiento se considerarán como familiares o dependientes económicos del servidor público o del jubilado:
 
-I.- El cónyuge, los hijos menores de 18 años, los hijos incapacitados física o mentalmente, a juicio del Consejo Directivo y mediante comprobación con dictamen médico, cualquiera que sea su edad;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+I.- El cónyuge; los hijos menores de dieciocho años; y los hijos que hayan sido declarados, por autoridad judicial, con incapacidad físico o mental.
 
 II.- A falta de cónyuge, la concubina, siempre que el servidor público estuviere libre de matrimonio y le hubiere dado el tratamiento de esposa durante los últimos cinco años. En caso de que existan varias concubinas, ninguna de ellas generará derechos;
 
@@ -1007,15 +1019,19 @@ Para los efectos de pago de los Seguros de Cesantía o Separación y de Fallecim
 
 El interesado podrá en todo tiempo modificar, ampliar o sustituir la designación de beneficiarios. A falta de designación, el Instituto tomará en cuenta el orden establecido en el artículo 102.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 105.
 
-Los jefes o encargados de las oficinas pagadoras de percepciones económicas a los sujetos de esta Ley, quedan obligados a efectuar los descuentos requeridos para cubrir las aportaciones a que se refieren las fracciones II, IV y V del artículo 8o. de esta Ley; así como aquellos otros descuentos que fundadamente les solicite el Instituto. El importe de lo retenido lo remitirán dentro de los cinco primeros días hábiles inmediatos siguientes a los respectivos períodos quincenales o mensuales.
+Los jefes o encargados de las oficinas pagadoras de percepciones económicas a los sujetos de esta ley, quedan obligados a efectuar los descuentos requeridos para cubrir las aportaciones a que se refieren las fracciones II, III, IV y V del artículo 8; así como aquellos otros descuentos que fundadamente les solicite el Instituto. El importe de lo retenido lo remitirán dentro de los cinco primeros días hábiles siguientes a los respectivos períodos quincenales o mensuales.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 106.
 
-Las Entidades Públicas remitirán al Instituto dentro de los treinta días hábiles inmediatos siguientes a los movimientos administrativos, los datos necesarios para el registro y control de sus respectivos servidores, y estarán obligados a proporcionar los informes y comprobantes que se les soliciten.
+Las entidades públicas remitirán al Instituto dentro de los treinta días hábiles siguientes a los movimientos administrativos, los datos necesarios para el registro y control de sus respectivos servidores, y estarán obligados a proporcionar los informes y comprobantes que se les soliciten.
+
+El Consejo Directivo establecerá, mediante acuerdo publicado en el diario oficial del estado los procedimientos, formatos y requisitos necesarios, para que las entidades públicas puedan cumplir con lo dispuesto en este párrafo.
 
 ###### Artículo 107.
 
@@ -1029,75 +1045,77 @@ La edad, las relaciones familiares y los demás requisitos que se exijan para ac
 
 Las mensualidades vencidas, por jubilaciones o pensiones, el importe de los seguros y cualesquiera otras prestaciones en dinero a cargo del patrimonio del Instituto, que no se reclamen dentro de los tres años siguientes a la fecha en que resulten exigibles, prescribirán en favor del propio Instituto. El derecho a la jubilación o pensión no prescribe.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 109.
 
-Los créditos a favor del Instituto provenientes de contratos de compraventa de casas y de préstamos hipotecarios, se extinguirán automáticamente a la muerte del deudor. A este efecto, se creará un fondo especial en la forma y términos que señale el reglamento que dicte el Consejo Directivo para responder a esta obligación. Este fondo se constituirá con las primas correspondientes a cargo de los deudores. El reconocimiento de la extinción del crédito se hará ante Notario Público.
+Los créditos a favor del Instituto provenientes de contratos de préstamos hipotecarios se extinguirán automáticamente a la muerte del deudor. El crédito insoluto que llegara a resultar se garantizará mediante la contratación de un seguro de vida para el trabajador, en la forma y términos que determine el Consejo Directivo, a propuesta del Comité de Prestaciones. Este seguro se constituirá con las primas correspondientes a cargo de los deudores. El reconocimiento de la extinción del crédito se hará ante notario público.
 
 CAPITULO DECIMOPRIMERO
 
 Gobierno y Administración
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 110.
 
-Los órganos de Gobierno del Instituto serán:
+El Instituto estará conformado por:
 
-I.- El Consejo Directivo, y
+I.- El Consejo Directivo.
 
-II.- El Director General.
+II.- El director general.
 
-> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+III.- Las unidades administrativas, a cargo de la dirección general, que establezca su estatuto orgánico.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 111.
 
-El Consejo Directivo se compondrá de la siguiente manera:
+El Consejo Directivo será la máxima autoridad del instituto y estará integrada por los siguientes consejeros:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+I.- El gobernador del estado, o la persona que este designe, quien será el presidente.
 
-II.- El Secretario de Gobierno quien suplirá las ausencias del Presidente del Consejo;
+II.- El secretario general de Gobierno.
 
-III.- El Secretario de Planeación y Presupuesto;
+III.- El secretario de Administración y Finanzas.
 
-IV.- El Tesorero General del Estado;
+IV.- El secretario de Educación.
 
-V.- El Secretario de la Contraloría General del Estado, con el carácter de Comisario;
+V.- El secretario de Desarrollo Social.
 
-VI.- Un representante designado por el Ayuntamiento de Mérida;
+VI.- Un representante designado por la Federación de Trabajadores al Servicio del Estado.
 
-VII.- Un representante designado por la Federación de Trabajadores al Servicio del Estado; y
+VII.- Un representante del Sindicato Nacional de Trabajadores de la Educación de la sección que agrupe a los maestros al servicio del estado de Yucatán.
 
-VIII.- Un representante del Sindicato Nacional de Trabajadores de la Educación de la Sección que agrupe a los maestros al servicio del Estado de Yucatán.
+El Consejo Directivo contará con un secretario de actas y acuerdos, quien será designado por el secretario general de Gobierno, el cual, para el desempeño de sus funciones asistirá a las sesiones con derecho a voz, pero no a voto.
 
-Habrá también un Secretario que será designado en los términos de la Ley de Entidades Paraestatales.
-
-> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 112.
 
-Los miembros del Consejo Directivo no podrán ser al mismo tiempo, empleados o funcionarios del Instituto.
+Los consejeros no podrán ser, al mismo tiempo, empleados o funcionarios del Instituto.
 
 ###### Artículo 113.
 
 Los miembros del Consejo Directivo durarán en sus funciones mientras sus nombramientos no sean revocados libremente por quienes los hayan designado.
 
-> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 114.
 
-Por cada miembro propietario del Consejo Directivo se designará un suplente quien lo sustituirá en sus ausencias temporales; con excepción del Gobernador del Estado, quien será sustituido en los términos de esta Ley.
+Los consejeros, a excepción del presidente, quien será suplido por el secretario general de Gobierno, nombrarán, por escrito dirigido al secretario de actas y acuerdos, a sus suplentes, quienes los sustituirán en sus ausencias con las facultades y obligaciones que establezca el estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 115.
 
-Para ser miembro del Consejo Directivo se requiere:
+En ningún caso podrán ser miembros del Consejo Directivo, las personas referidas en el artículo 73 del Código de la Administración Pública de Yucatán.
 
-I.- Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos.
-
-II.- No estar desempeñando cargo alguno de elección popular o sindical.
-
-III.- Ser de reconocida competencia y honorabilidad.
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 116.
 
-Los miembros del Consejo Directivo percibirán por cada sesión a la que asistan los honorarios que señale el Consejo Directivo. Los suplentes no percibirán remuneración mientras no entren en funciones.
+El cargo de consejero del Consejo Directivo es de carácter honorífico, por tanto, quienes lo ocupen no recibirán retribución alguna por su desempeño.
 
 ###### Artículo 117.
 
@@ -1135,25 +1153,23 @@ XI.- Proponer al Ejecutivo del Estado los proyectos de Reforma de esta Ley;
 
 XII.- En general, realizar todos aquellos actos y operaciones autorizadas por esta Ley y que fuesen necesarios para la mejor administración o gobierno del Instituto y prestación de sus servicios.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 118.
 
-El Consejo Directivo sesionará cuantas veces lo estime necesario, pero en ningún caso menos de dos veces al año. Las sesiones serán válidas con asistencia de cuando menos cuatro Consejeros, tres de los cuales deberán ser representantes del Estado. La convocatoria a las sesiones será formulada por el Secretario del Consejo y deberá acompañar el orden del día sugerido y los documentos necesarios para su desahogo, que para tal efecto remita la Dirección General.
+El Consejo Directivo sesionará cuantas veces lo estime necesario, pero, en ningún caso, menos de cuatro veces al año. Las sesiones serán válidas con la asistencia de, por lo menos, la mitad más uno de los consejeros.
 
 ###### Artículo 119.
 
 Los acuerdos del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente o quien haga sus veces, tendrá voto de calidad.
 
-> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
-
 ###### Artículo 120.
 
-A falta del Presidente del Consejo, las sesiones serán dirigidas en los términos del Artículo 111 fracción II de esta Ley.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 121.
 
-Los acuerdos del Consejo Directivo que afecten intereses particulares, podrán recurrirse ante el mismo dentro de los quince días hábiles siguientes, para que sean discutidos nuevamente y, en su caso, ratificados o modificados.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 > <small>(ADICIONADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
 
@@ -1207,23 +1223,33 @@ XV.- Designar a los funcionarios del Instituto que deban formar parte del Comit�
 
 Cuando el Director falte temporalmente al desempeño de sus funciones, el Gobernador del Estado, determinará la persona que lo substituya, si el caso lo amerita.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### Artículo 124.
 
-El Director General podrá ser auxiliado en sus funciones por uno o más subdirectores que nombre el Gobernador del Estado, quienes deberán reunir los requisitos exigidos por el artículo 115 de esta Ley.
+El director general del Instituto, para el mejor desempeño de sus funciones, se auxiliará de las unidades administrativas que establezca el estatuto orgánico y del personal que apruebe el Consejo Directivo, de conformidad con la disponibilidad presupuestal.
 
 ###### Artículo 125.
 
 Los funcionarios y el personal del Instituto serán pagados con cargo al presupuesto de éste, y percibirán la retribución que en el mismo se señale.
 
-> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 126.
 
-Las relaciones de trabajo entre el Instituto y su personal, se regirán por las disposiciones de la Ley de los Trabajadores al Servicio del Estado y los Municipios del Estado de Yucatán.
+Las relaciones laborales entre el Instituto y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en el artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 127.
 
-Un reglamento interior fijará las obligaciones y facultades del personal del Instituto.
+En el estatuto orgánico se deberán establecer las bases para el correcto funcionamiento del Consejo Directivo así como facultades y funciones que correspondan a las distintas áreas que integran el Instituto.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 128.
+
+Las funciones de vigilancia del instituto estarán a cargo de un comisario público, quien será designado por la Secretaría de la Contraloría General y tendrá las facultades y obligaciones necesarias para el desempeño de las funciones de vigilancia que le correspondan, en los términos del Código de la Administración Pública de Yucatán y su reglamento. El comisario público no formará parte del Consejo Directivo, pero podrá asistir a las sesiones únicamente con derecho a voz.
 
 TRANSITORIOS:
 
@@ -1257,7 +1283,7 @@ El Secretario de Gobierno.
 
 Lic. Gaspar Gómez Chacón.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 2 DE ENERO DE 1979.
 
@@ -1352,3 +1378,23 @@ El consejo directivo deberá expedir la normatividad necesaria para el cumplimie
 Décimo. Derogación tácita
 
 Se derogan todas las disposiciones legales y normativas que se opongan al contenido de este decreto.
+
+D.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 410/2016 POR EL QUE SE MODIFICA LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Convenios con los ayuntamientos
+
+Los ayuntamientos de los municipios del estado que deseen adherirse a los derechos y obligaciones previstos en la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal; deberán celebrar o actualizar con el Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán los convenios correspondientes, a más tardar el 01 de enero de 2017.
+
+Tercero. Artículo 83
+
+La reforma al artículo 83 de la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal no será aplicable para aquellos servidores públicos que, a la entrada en vigor de esta disposición, se encuentren en el supuesto previsto por dicho artículo.
+
+Cuarto. Expedición del estatuto orgánico
+
+El Consejo Directivo del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán deberá emitir su estatuto orgánico dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto.
