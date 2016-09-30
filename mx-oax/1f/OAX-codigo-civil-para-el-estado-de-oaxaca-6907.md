@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2016-01-02"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1127,9 +1127,35 @@ El contrato de matrimonio solamente se disuelve por la muerte de alguno de los c
 
 El Estado procurará, por todos los medios que estén a su alcance, que las personas que vivan en concubinato contraigan matrimonio. Para la realización de este fin, que es de orden público, se efectuarán campañas periódicas de convencimiento.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-Hay concubinato cuando un solo hombre y una sola mujer solteros se unen, como si estuvieren casados. Salvo disposición de la ley en otro sentido, cuando este Código hable de concubina o concubino, se entenderá que se refiere a las personas que viven en las condiciones supuestas en este precepto.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 143 Bis.
+
+El concubinato es la unión de hecho, realizada voluntariamente, entre un solo hombre y una sola mujer, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común; situación que sólo podrá demostrarse si han procreado uno o más hijos o han vivido públicamente como marido y mujer durante más de dos años continuos.
+
+Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 143 Ter.
+
+Regirán al concubinato todos los derechos y obligaciones inherentes a la familia y al matrimonio, en lo que le fueren aplicables.
+
+El concubinato genera entre los concubinos derechos alimentarios y sucesorios, independientemente de los demás derechos y obligaciones reconocidos en este código o en otras leyes.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 143 Quáter.
+
+Son aplicables al concubinato las siguientes disposiciones:
+
+I. El concubino y la concubina, desde el inicio de la vida en común, se deben mutuamente alimentos en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión;
+
+II. El concubinato termina por muerte de uno de los concubinos, por voluntad de uno o ambos, o por cualquier otra causa que implique la cesación de la vida en común; y,
+
+III. Los concubinos están obligados a ayudarse de manera equitativa en el cuidado y la educación de sus menores hijos.
 
 ###### Artículo 144.
 
@@ -3177,7 +3203,7 @@ III. Por la exposición que el que, o los que, ejerzan la patria potestad hicier
 
 La patria potestad se pierde o se suspende en los casos de divorcio según las prevenciones del artículo 295 de este código.
 
-(NOTA: EL 24 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD11/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 24 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -8201,6 +8227,10 @@ Las disposiciones contenidas en los artículos 1454 y 1461 se observarán tambi�
 
 El testamento marítimo y el otorgado en país extranjero serán válidos en el Estado, siempre que se hayan observado en ellos las disposiciones federales y del Estado, relativas.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+Artículo 1468 BIS.- El testamento público abierto hecho en el extranjero ante jefe de oficinas consulares en ejercicio de funciones notariales, celebrados dentro de su circunscripción y que estén destinados a surtir efectos en el Estado de Oaxaca, será equivalente al otorgado ante notario del Estado de Oaxaca, en los términos de la Ley del Servicio Exterior Mexicano y su Reglamento, y el testimonio respectivo tendrá plena validez sin necesidad de legalización.
+
 ## TITULO CUARTO. De la sucesión legítima
 
 ### CAPITULO III. De la sucesión de los ascendientes
@@ -8381,7 +8411,9 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 La concubina hereda al concubino y éste a aquélla en las mismas porciones y lugar que establecen los Artículos 1492 al 1497, para el cónyuge supérstite, si reúnen una de las condiciones siguientes:
 
-I. Que el tiempo de vida en común que precedió inmediatamente a la muerte del autor de la herencia haya durado cinco años o más si el supérstite no tuvo hijos con el autor de la sucesión; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+I. Que el tiempo de vida en común que precedió inmediatamente a la muerte del autor de la herencia haya durado dos años o más si el supérstite no tuvo hijos con el autor de la sucesión; y,
 
 II. Que el supérstite haya tenido uno o más hijos del autor de la herencia, cualquiera que haya sido la duración de la vida en común inmediatamente anterior a la muerte de éste.
 
@@ -15934,3 +15966,17 @@ TRANSITORIO:
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Comuníquese al Titular del Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1803.- MEDIANTE EL CUAL SE DEROGAN, ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+UNICO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1804.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 1468 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
