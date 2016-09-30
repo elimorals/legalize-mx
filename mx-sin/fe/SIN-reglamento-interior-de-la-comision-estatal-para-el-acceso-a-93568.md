@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-comision-estatal-para-el-acceso-a-935
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2016-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 27 de marzo de 2013.
 
@@ -920,3 +922,19 @@ Comisionado
 Mtro. José Carlos Álvarez Ortega
 
 Comisionado
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+Primero. El presente reglamento se deberá publicar en el Periódico Oficial “El Estado de Sinaloa”.
+
+Segundo. El presente reglamento entrará en vigor al día hábil siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Tercero. El presente reglamento abroga el Reglamento Interior de la Comisión Estatal para el Acceso a la Información Pública del Estado de Sinaloa aprobado por el Pleno de la misma Comisión en fecha veintiuno de marzo de dos mil trece y publicado en el Periódico Oficial “El Estado de Sinaloa” el día veintisiete de marzo de dos mil trece.
+
+Cuarto. El presente reglamento abroga el Reglamento del Comité de Adquisiciones, Arrendamientos y Servicios de la Comisión Estatal para el Acceso a la Información Pública del Estado de Sinaloa aprobado (sic) Pleno de la misma Comisión en fecha quince de marzo de dos mil once.
+
+Quinto. El presente reglamento abroga (sic) Lineamientos para la Oficialía de Partes de la Comisión Estatal para el Acceso a la Información Pública de Sinaloa, aprobados por el Pleno de la misma el día jueves veintiséis de febrero de dos mil quince.
