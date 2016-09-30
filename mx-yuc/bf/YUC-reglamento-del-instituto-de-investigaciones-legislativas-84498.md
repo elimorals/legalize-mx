@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-instituto-de-investigaciones-legislativas-84498"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-12"
-last_updated: "2012-01-12"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 12 de enero de 2012.
 
@@ -61,6 +61,10 @@ VII.- Director: el Director del IILPLEY, y
 
 VIII.- Investigador: el Investigador del IILPLEY.
 
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+IX.- Unidad: Unidad de Investigación Legislativa en materia de Igualdad de Género.
+
 ### CAPÍTULO II. De su Objeto y Fines
 
 ###### Artículo 3.
@@ -79,7 +83,9 @@ Para el cumplimiento de sus funciones el IILPLEY contará con el personal siguie
 
 I.- Un Director;
 
-II.- Los investigadores necesarios para el cumplimiento de sus funciones;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+II.- Los investigadores necesarios para el cumplimiento de sus funciones; siendo uno de ellas o ellos, con experiencia en materia de igualdad de género, quien será el responsable de la Unidad.
 
 III.- Un Bibliotecario, y
 
@@ -263,9 +269,37 @@ IV.- Las demás atribuciones que el Comité acuerde para el mejoramiento de las 
 
 El Comité tendrá, por lo menos, una reunión mensual con el personal del Instituto, en su caso, para evaluar los trabajos editoriales desarrollados por el IILCEY (SIC).
 
-### CAPÍTULO IX. De la Biblioteca
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPÍTULO X. Del Personal Administrativo del IILPLEY
+### CAPÍTULO VIII BIS. De la Unidad de Investigación Legislativa en materia de Igualdad de Género
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 25-A.
+
+La Unidad tendrá como objeto apoyar técnicamente el trabajo legislativo en la investigación de temas relativos a la igualdad entre mujeres y hombres, procurando la transversalidad en la perspectiva de género; será dependiente del IILPLEY, estará a cargo de una o un investigador quién será responsable de la misma y contará con los recursos humanos y materiales que se destinen, conforme al presupuesto asignado.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 25-B.
+
+La Unidad tendrá las siguientes funciones:
+
+I.- Realizar investigaciones referentes a las iniciativas de ley o de reformas en materia de igualdad de género, a solicitud de las comisiones; aportando elementos objetivos sobre derechos humanos, para lograr la concordancia entre el marco jurídico internacional, nacional y estatal; procurando la transversalidad en la perspectiva de género;
+
+II.- Realizar análisis y estudios, sobre temas referentes a la igualdad de género;
+
+III.- Coordinarse con la Secretaría General del Poder Legislativo para asesorar a las comisiones cuando así lo soliciten, sobre temas de igualdad de género, y
+
+IV.- Promover convenios de colaboración con organizaciones y universidades nacionales y estatales con el fin de desarrollar foros y proyectos para capacitar en materia de igualdad de género.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 25-C.
+
+Para las investigaciones que realice la Unidad, las Comisiones deberán turnar una solicitud acompañada de la iniciativa de ley o de reforma en formato impreso y digital, en la cual se fijará el plazo que determinen para la entrega del mismo.
+
+### CAPÍTULO IX. De la Biblioteca
 
 ###### Artículo 26.
 
@@ -325,11 +359,13 @@ VII.- Mantener actualizado el inventario de altas y bajas del acervo bibliotecar
 
 VIII.- Las demás que expresamente le señale el Director.
 
-### CAPÍTULO XI. De sus Bienes
+### CAPÍTULO X. Del Personal Administrativo del IILPLEY
 
 ###### Artículo 32.
 
 Los servidores públicos de Investigación, Estructura Administrativa y el personal técnico operativo de base que laboren en el IILPLEY estarán adscritos al Congreso, por lo que la relación laboral estará regulada por lo establecido en la legislación correspondiente a los Trabajadores al Servicio del Estado.
+
+### CAPÍTULO XI. De sus Bienes
 
 ###### Artículo 33.
 
@@ -354,3 +390,11 @@ El Director que se encuentre en funciones, al entrar en vigor este reglamento, c
 Todos los actos, convenios y demás obligaciones contraídas por el Instituto de Investigaciones Legislativas quedarán subsistentes a la entrada en vigor de este reglamento.
 
 DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL ONCE.- PRESIDENTE: DIPUTADO CARLOS GERMÁN PAVÓN FLORES.- SECRETARIO.- DIPUTADO PEDRO FRANCISCO COUOH SUASTE.- SECRETARIA.- DIPUTADA LETICIA DOLORES MENDOZA ALCOCER.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE MODIFICA EL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN.”]
+
+Artículo Único.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
