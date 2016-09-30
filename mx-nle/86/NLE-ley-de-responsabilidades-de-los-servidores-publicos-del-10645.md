@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2016-04-15"
+last_updated: "2016-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -711,15 +711,15 @@ En el Poder Legislativo será superior jerárquico, para los efectos de esta Ley
 
 El Auditor General en representación del Congreso del Estado, fincará y determinará responsabilidades a los servidores públicos estatales y municipales, así como a toda persona física o moral imputable, que con dolo o culpa cause daño o perjuicio a la Hacienda Pública Estatal o Municipal o a sus organismos y entidades del sector paraestatal, o no dé cumplimiento a las disposiciones jurídicas vigentes en el Estado, en relación al gasto público, fiscal, obra pública, adquisiciones y demás materias relacionadas con aspectos presupuestales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2004)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2004) (REPÚBLICADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)
 
 ###### Artículo 69.
 
 Será superior jerárquico, para los efectos de esta Ley:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-I. En el Poder Judicial, el Pleno del Tribunal Superior de Justicia para los Magistrados adscritos al mismo y el Consejo de la Judicatura del Poder Judicial para los Jueces de lo Civil, Familiar, Penal, Preparación de lo Penal, Del Juicio Oral Penal, de Jurisdicción Concurrente, de Jurisdicción Mixta, Supernumerarios y Menores; así como Secretarios de Juzgados, Actuarios y demás miembros del Poder Judicial cuyo nombramiento no deba ser realizado por el propio Tribunal, salvo lo que disponga su Ley Orgánica.
+I. En el Poder Judicial, el Pleno del Tribunal Superior de Justicia para los Magistrados adscritos al mismo y el Consejo de la Judicatura del Poder Judicial para los Jueces de Primera Instancia, así como Secretarios de Juzgados, Actuarios y demás miembros del Poder Judicial cuyo nombramiento no deba ser realizado por el propio Tribunal, salvo lo que disponga su Ley Orgánica.
 
 II. En el Tribunal de lo Contencioso Administrativo, el Pleno, respecto a las faltas, infracciones, acciones u omisiones de responsabilidad administrativa cometidas por los Magistrados y demás servidores públicos adscritos al mismo en los términos de la Ley Orgánica correspondiente.
 
@@ -1480,3 +1480,9 @@ P.O. 15 DE ABRIL DE 2016.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Municipios del Estado de Nuevo León, deberán iniciar la regularización de la Certificación con efectos de Patente Policial del personal en activo que no cuente con ella, en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 153, SE REFORMA POR MODIFICACIÓN LA FRACCIÓN I DEL ARTÍCULO 69 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
