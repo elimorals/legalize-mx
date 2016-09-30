@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2015-07-10"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2016 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -179,19 +181,29 @@ El desempeño del cargo se realizará con prioridad, eficacia, eficiencia y honr
 
 ### CAPITULO SEGUNDO. De la Toma de Protesta e Instalación de los Ayuntamientos
 
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 20.
 
-Los Ayuntamientos electos, tomarán protesta solemne y públicamente al rendir su último informe de gobierno el Ayuntamiento saliente respectivo, bajo el siguiente calendario:
+Los Ayuntamientos electos, tomarán protesta solemne y públicamente, bajo el siguiente calendario:
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
 
 I. El del Municipio de Mulegé, será el día 24 de septiembre del año de la elección;
 
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
 II. El del Municipio de Loreto será el día 25 de septiembre del año de la elección,
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
 
 III. El del Municipio de Comondú, será el día 26 de septiembre del año de la elección;
 
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
 IV. El del Municipio de La Paz, será el día 27 de septiembre del año de la elección;
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
 
 V. El del Municipio de Los Cabos, será el día 28 de septiembre del año de la elección.
 
@@ -201,13 +213,19 @@ V. El del Municipio de Los Cabos, será el día 28 de septiembre del año de la 
 
 Primeramente, el Presidente Municipal entrante rendirá la protesta de ley en los siguientes términos:
 
-“Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo de presidente municipal que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la nación, del Estado de Baja California Sur y de este Municipio. Si así no lo hiciere, que el pueblo me lo demande”.
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo de presidente municipal que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la nación, del Estado de Baja California Sur y de este Municipio. Si así no lo hiciere, que el pueblo me lo demande".
 
 Acto seguido, el Presidente Municipal tomará la protesta del resto de los miembros del Ayuntamiento, de la siguiente forma:
 
-“¿Protestan cumplir y hacer cumplir lo Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?”
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-A lo cual, el (sic) Síndicos y Regidores, levantando la mano dirán:
+"¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Baja California Sur y las leyes que de ellas emanen, así como desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?"
+
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+A lo cual, el Síndico y Regidores, levantando la mano dirán:
 
 “Sí, protesto”.
 
@@ -225,11 +243,11 @@ Los integrantes del Ayuntamiento electo que no hayan rendido protesta en términ
 
 En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de actividades del Ayuntamiento saliente, se nombrará una comisión de tres miembros, que fungirá como Comisión Instaladora para el Ayuntamiento electo. La Comisión Instaladora designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo o, en su caso, con la resolución del Tribunal Estatal Electoral, para que acudan a la sesión de instalación formal del mismo, en los términos del artículo que precede.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 25.
 
-La Comisión Instaladora para el Ayuntamiento electo, citará personalmente a los integrantes propietarios y suplentes del mismo para que concurran a la sesión de la instalación el día 30 de septiembre del año de la elección a las 9 horas. Dicha citación deberá hacerse con una anticipación de quince días naturales.
+La Comisión Instaladora para el Ayuntamiento electo, citará personalmente a los integrantes propietarios y suplentes del mismo para que concurran a la sesión de la instalación a las 9 horas del día mandatado por el artículo 20 de esta Ley. Dicha citación deberá hacerse con una anticipación de quince días naturales.
 
 Cuando por causa de fuerza mayor no pueda llevarse a cabo la sesión de instalación en el lugar que se tenía previsto, se podrá realizar en un lugar distinto, previa notificación por escrito de manera fehaciente, cuando menos con tres horas de anticipación a los miembros electos del Ayuntamiento.
 
@@ -239,9 +257,9 @@ La Comisión Instaladora declarará valida la Sesión de instalación, con la pr
 
 El Ayuntamiento saliente a través de la Comisión Instaladora dará posesión física de las oficinas municipales al Ayuntamiento que se instala e inmediatamente procederá a hacer la siguiente declaratoria formal y solemne:
 
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-“Siendo las… horas del día 30 de septiembre del año… se declara que queda legítimamente instalado el Ayuntamiento del Municipio de..., que debera funcionar durante el periodo de...”
+"Siendo las___horas del día __ de septiembre del año___se declara que queda legítimamente instalado el Ayuntamiento del Municipio de____que deberá funcionar durante el periodo de____”.
 
 ###### Artículo 27.
 
@@ -266,6 +284,8 @@ IV.- Proceder a la entrega-recepción de la situación que guarda la Administrac
 #### SECCIÓN II. De las Facultades y Obligaciones del Síndico
 
 ### CAPITULO CUARTO. Del Funcionamiento de los Ayuntamientos
+
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 29.
 
@@ -329,7 +349,7 @@ El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia
 
 ###### Artículo 34.
 
-El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio, el día 30 de abril del año de la elección de los integrantes.
+El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio, de conformidad con el calendario previsto en el artículo 118 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
 
 ###### Artículo 35.
 
@@ -625,7 +645,9 @@ IX.- Vigilar que la recaudación de las contribuciones y demás ingresos propios
 
 X.- Supervisar la administración, registro, control, uso, mantenimiento y conservación del patrimonio municipal;
 
-XI.- Rendir en el mes de abril, en sesión pública y solemne, el informe anual aprobado por el Ayuntamiento, sobre el estado que guarda la Administración Pública Municipal; en términos del artículo 27 de esta Ley;
+> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XI.- Rendir, en Sesión Pública Solemne, durante el plazo del día primero de septiembre al treinta de noviembre de cada año, el informe anual aprobado por el Ayuntamiento sobre el estado que guarda la Administración Pública Municipal; en el último año de la Administración Pública Municipal, lo deberá rendir entre el día primero y el nueve de septiembre.
 
 XII.- Convocar por conducto del Secretario, a las sesiones de Ayuntamiento, conforme al reglamento interior;
 
@@ -2428,3 +2450,9 @@ B.O. 10 DE JULIO DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2371.- SE REFORMAN LOS ARTÍCULOS 20 PÁRRAFO PRIMERO; 21 PÁRRAFOS SEGUNDO, CUARTO Y QUINTO; 25 PÁRRAFO PRIMERO; 26 PÁRRAFO TERCERO; 34 Y 53 FRACCIÓN XI DE LA LEY ORGÁNICA DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
