@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2016-07-29"
+last_updated: "2016-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -101,11 +101,11 @@ II.- Desarrollar una planeación anual de actividades, con metas verificables y 
 
 III.- Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo el liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 5.
 
-El Ejecutivo Estatal en el ámbito de su competencia y atribuciones, está obligado a prestar servicios educativos suficientes a todos los habitantes del Estado para cursar la educación preescolar, primaria y secundaria bajo el criterio de la mayor calidad y equidad.
+El Ejecutivo Estatal en el ámbito de su competencia y atribuciones, está obligado a prestar servicios educativos suficientes a todos los habitantes del Estado para cursar la educación preescolar, primaria, secundaria y media superior bajo el criterio de la mayor calidad y equidad.
 
 I.- Atenderá de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones.
 
@@ -149,23 +149,19 @@ Así mismo fomentará la coordinación entre las autoridades estatales de educac
 
 Las previsiones descritas en este artículo se harán en los presupuestos respectivos.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 6.
 
-Todos los habitantes del Estado tienen derecho a recibir educación de calidad que garantice el máximo logro de aprendizaje de los educandos. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria y secundaria.
+Todos los habitantes del Estado tienen derecho a recibir educación de calidad que garantice el máximo logro de aprendizaje de los educandos. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria, secundaria y media superior.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 7.
 
-Toda la educación que el Estado imparta será gratuita, por lo que queda prohibido condicionar o restringir los derechos del educando, al pago de cuotas o cualquier tipo de contraprestación.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
+Toda la educación que el Estado imparta será gratuita, por lo que queda prohibido condicionar o restringir los derechos del educando, al pago de cuotas o cualquier tipo de contra prestación.
 
 En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 Para garantizar la gratuidad en la educación preescolar, primaria, secundaria y media superior, el Ejecutivo del Estado destinará en el presupuesto de egresos para el ejercicio fiscal correspondiente, los recursos suficientes para el mantenimiento y cuidado de las escuelas de nivel básico y medio superior del sistema educativo del Estado de Baja California.
 
@@ -2082,3 +2078,13 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 516 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL TERCER PÁRRAFO DEL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 579 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 6 Y 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decrete (sic) deberá entrará (sic) en vigor al día siguiente en que después (sic) al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Este ordenamiento deroga todas las disposiciones que se opongan a él.
+
+TERCERO.- Remítase al Titular del Poder Ejecutivo en el Estado para que se ordene su publicación oficial.
