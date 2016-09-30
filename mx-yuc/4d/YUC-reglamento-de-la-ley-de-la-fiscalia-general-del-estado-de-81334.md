@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-la-fiscalia-general-del-estado-de-81334
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2016-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE LA FISCALIA GENERAL DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY DE LA FISCALIA GENERAL DEL ESTADO DE YUCATAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 30 DE SEPTIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 13 de mayo de 2011.
 
@@ -3454,3 +3456,21 @@ SECRETARIO GENERAL DE GOBIERNO
 C. HÉCTOR JOSÉ CABRERA RIVERO
 
 FISCAL GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 411/2016 POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+Se abrogan el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Yucatán y el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, publicados en el diario oficial del estado el 16 de octubre de 2000 y el 13 de mayo de 2011, respectivamente.
+
+Tercero. Vigencia del servicio de escolta pública
+
+El servicio de escolta pública que se regula en el artículo 160 del Reglamento de la Ley de la Fiscalía General del Estado Yucatán, publicado el 13 de mayo de 2011, seguirá prestándose, hasta su conclusión, en los términos previstos en el propio decreto.
