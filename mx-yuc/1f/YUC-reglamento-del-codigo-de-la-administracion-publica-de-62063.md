@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2016-09-09"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1611,7 +1611,7 @@ IV. Llevar el registro de los recursos percibidos de conformidad con las disposi
 
 V. Elaborar y someter a la consideración del Tesorero General del Estado la calendarización y recalendarización de los ingresos públicos, de conformidad con las normas y lineamientos expedidos para tal efecto;
 
-VII. Hacer efectivo los reintegros o sanciones pecuniarias de los servidores públicos de cualquier dependencia o entidad de la Administración Pública del Estado;
+VII (SIC). Hacer efectivo los reintegros o sanciones pecuniarias de los servidores públicos de cualquier dependencia o entidad de la Administración Pública del Estado;
 
 VIII. Diseñar e implementar sistemas de control de los fondos de la Administración Pública del Estado y de aquellos que se encuentren bajo su custodia;
 
@@ -4451,7 +4451,21 @@ B) Dirección de Operativos Viales;
 
 C) Jueces de Vialidad.
 
-V. Dirección General de Administración:
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+V. Subsecretaría de la Policía Estatal de Investigación:
+
+A) Dirección de la Policía Estatal de Investigación:
+
+1. Departamento de Investigaciones y Mandamientos;
+
+2. Departamento de Investigación de Delitos de Alto Impacto, y
+
+3. Departamento de Investigación de Sectores y Foráneas.
+
+B) Dirección de la Policía Estatal de Investigación Especializada en la Escena del Crimen.
+
+VI. Dirección General de Administración:
 
 A) Departamento de Recursos Humanos;
 
@@ -4477,23 +4491,19 @@ K) Departamento de Servicios Médicos, y
 
 L) Departamento de Eventos Especiales.
 
-VI. Dirección Jurídica:
+VII. Dirección Jurídica:
 
 A) Departamento de Asuntos Contenciosos, y
 
 B) Departamento de Trámites Jurídicos y Seguimientos.
 
-VII. Órganos Desconcentrados:
+VIII. Órganos Desconcentrados:
 
 A) Instituto de Capacitación de las Corporaciones de Seguridad Pública, y
 
 B) Patronato Pro-Hijo del Policía.
 
-VIII. Órganos Colegiados:
-
-A) Comisión de Honor y Justicia, y
-
-B) Comité de Servicio de Carrera Policial, Promociones y Deméritos.
+IX. (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 #### SECCIÓN SEGUNDA. De las funciones y atribuciones de las Unidades Administrativas
 
@@ -4507,7 +4517,9 @@ II. Velar por la atención a las víctimas de delitos;
 
 III. Establecer un sistema destinado a obtener, analizar y procesar información para la prevención de los delitos, mediante métodos que garanticen el estricto respeto de los derechos humanos;
 
-IV. Operar, coordinar, dirigir y supervisar a la Policía Estatal Preventiva;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Operar, coordinar, dirigir y supervisar el desempeño de las instituciones policiales bajo su mando;
 
 V. Analizar la problemática de seguridad pública en el Estado e integrar, fomentar y coordinar el desarrollo de proyectos y programas preventivos, tendientes a evitar la comisión de hechos delictivos y transgresiones a normas, leyes y reglamentos, que afecten el orden, la tranquilidad y seguridad pública en el Estado, así como los relativos a la prevención social contra la delincuencia;
 
@@ -4545,7 +4557,7 @@ XXI. Iniciar y asesorar, en el ámbito de su competencia, a los comités y organ
 
 XXII. Proponer al Titular del Poder Ejecutivo los programas, lineamientos, políticas y medidas necesarias para la prevención y combate del delito;
 
-XXIII. Supervisar permanentemente al personal, instalaciones, equipos y operaciones de los cuerpos de seguridad privada y sancionar a las personas físicas o morales que presten servicios de seguridad privada cuando incurran en las infracciones que señalen las disposiciones legales aplicables;
+XXIII. (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2016)
 
 XXIV. Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas, cuando sea requerido para ello;
 
@@ -4553,9 +4565,19 @@ XXV. Diseñar y coordinar planes y estrategias para atender en forma eficaz y op
 
 XXVI. Realizar ante las autoridades competentes los trámites necesarios para obtener permisos o licencias, que se requieran para el cumplimiento de los objetivos de la dependencia;
 
-XXVII. Autorizar la elaboración de las credenciales derivadas de la licencia oficial colectiva de portación de armas, que se asimilan a licencias individuales, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-XXVIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+XXVII. Autorizar la elaboración de las credenciales derivadas de la licencia oficial colectiva de portación de armas que se asimilan a licencias individuales;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XXVIII. Determinar, en términos de la Ley del Sistema Estatal de Seguridad Pública, la prestación del servicio de escolta pública;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XXIX. Conformar y determinar la organización y el funcionamiento de comandancias o grupos, y
+
+XXX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 188.
 
@@ -4605,7 +4627,9 @@ VII. Hacer del conocimiento de los directores y responsables de unidad la inform
 
 VIII. Canalizar a las áreas que corresponda, las quejas de los ciudadanos que se reciban por su conducto;
 
-IX. Coordinarse con la Policía Ministerial del Estado, con las de los municipios y con las de otras entidades federativas cuando así corresponda;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Coordinarse con la Policía Estatal de Investigación, con las policías de los municipios y con las de otras entidades federativas, cuando así corresponda;
 
 X. Mantener informado al Secretario en los casos que así lo ameriten;
 
@@ -4957,7 +4981,9 @@ XV. Llevar al cabo acciones conjuntas con las demás subsecretarías de la Depen
 
 XVI. Coordinar la realización de los operativos de esta Secretaría en el ámbito de su competencia;
 
-XVII. Supervisar los operativos que la Dirección Operativa realice conjuntamente con la Policía Ministerial del Estado cuando ésta lo requiera;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XVII. Supervisar los operativos que la Dirección Operativa realice conjuntamente con la Policía Estatal de Investigación, cuando esta lo requiera;
 
 XVIII. Vigilar y coordinar el adecuado funcionamiento de la Unidad Modelo de Inteligencia Policial, y
 
@@ -5023,7 +5049,9 @@ II. Establecer estrategias operativas en apoyo a los municipios del Estado;
 
 III. Estructurar operativos para la prevención de ilícitos y para combatir la delincuencia;
 
-IV. Efectuar operativos coordinados con los Centros Integrales de Seguridad Pública en apoyo a las policías de los municipios y en su caso a la Policía Ministerial del Estado;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+IV. Efectuar operativos coordinados con los Centros Integrales de Seguridad Pública en apoyo a las policías de los municipios y, en su caso, a la Policía Estatal de Investigación;
 
 V. Elaborar programas de vigilancia y protección para combatir la delincuencia, la comisión de infracciones y de delitos;
 
@@ -5033,7 +5061,9 @@ VII. Implantar operativos de vigilancia en los sitios del Estado que presenten m
 
 VIII. Elaborar y supervisar los operativos de vigilancia y programas conjuntamente con las demás áreas, con el fin de prevenir los delitos que representen alguna amenaza en los bienes y la seguridad de la ciudadanía;
 
-IX. Coordinar operativos con la Policía Ministerial del Estado cuando ésta lo requiera;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Coordinar operativos con la Policía Estatal de Investigación, cuando esta lo requiera;
 
 X. Coordinar el adecuado funcionamiento de la Unidad Modelo de Inteligencia Policial, y
 
@@ -5476,6 +5506,160 @@ XI. Las demás que le otorguen este Reglamento y otras disposiciones normativas 
 ###### Artículo 248.
 
 A los Jueces de Vialidad les corresponde el despacho de los asuntos que le encomienda la Ley de Vialidad del Estado de Yucatán y su Reglamento, y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 248 Bis.
+
+Al Subsecretario de la Policía Estatal de Investigación le corresponde el despacho de los siguientes asuntos:
+
+I. Supervisar la adecuada investigación de los delitos que conozca, en términos de la ley procesal y de las demás disposiciones legales y normativas aplicables;
+
+II. Vigilar el estricto respeto a los derechos humanos reconocidos en la ley;
+
+III. Verificar el oportuno cumplimiento de los mandamientos ministeriales y judiciales que le sean instruidos por las autoridades competentes;
+
+IV. Propiciar la efectiva comunicación con el Ministerio Público, el Instituto de Ciencias Forenses y las demás autoridades que considere para el adecuado ejercicio de sus funciones;
+
+V. Garantizar que el personal a su cargo cuente con los conocimientos y las aptitudes técnicas para efectuar adecuadamente la investigación de los delitos y exponer, cuando se les solicite, los informes o reportes elaborados, así como las observaciones, conclusiones o cualquier otra información que pueda ser de utilidad en el proceso penal;
+
+VI. Colaborar, en el ámbito de su competencia, con las instituciones de seguridad pública de los tres órdenes de gobierno, principalmente, en la investigación de los delitos y en la transferencia de información en la materia, y
+
+VII. Determinar las políticas, los lineamientos y los criterios que regulen la organización y el funcionamiento de la Subsecretaría.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 248 Ter.
+
+Al Director de la Policía Estatal de Investigación le corresponde el despacho de los siguientes asuntos:
+
+I. Coordinar el desempeño de los agentes a su cargo;
+
+II. Recibir denuncias sobre hechos que puedan ser constitutivos de delito e informar, por cualquier medio y de forma inmediata, al Ministerio Público las diligencias practicadas al respecto;
+
+III. Vigilar que durante la investigación de los delitos que conozca y la práctica de las diligencias correspondientes se respeten estrictamente los derechos humanos de los posibles responsables y de las víctimas;
+
+IV. Verificar el adecuado desarrollo de la investigación de los delitos que conozca, en términos de la ley procesal y de las demás disposiciones legales y normativas aplicables;
+
+V. Constatar la veracidad de los datos que conozca de forma anónima, mediante la realización de los actos de investigación que considere necesarios;
+
+VI. Cumplir oportunamente los mandamientos ministeriales y judiciales que le sean instruidos por las autoridades competentes;
+
+VII. Supervisar que la aplicación de la cadena de custodia y el aseguramiento y registro de evidencias que efectúen los agentes a su cargo cumplan con las disposiciones establecidas en la ley procesal para demostrar su valor probatorio;
+
+VIII. Revisar los informes, reportes o registros que elaboren los agentes a su cargo y que sirvan para la integración de las carpetas de investigación, e instruir las adecuaciones o modificaciones que estime pertinentes;
+
+IX. Integrar, sistematizar y analizar la información que resulte del desempeño de la dirección a su cargo y que pueda ser de utilidad para mejorar su funcionamiento o fortalecer las condiciones de seguridad pública o justicia, y
+
+X. Las demás que establezca la ley procesal y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 248 Quater.
+
+Al Jefe del Departamento de Investigaciones y Mandamientos le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, dirigir, coordinar y vigilar el adecuado desarrollo de los operativos de investigación de su competencia;
+
+II. Coordinar la ejecución de las tareas y diligencias de investigación de los delitos de su competencia;
+
+III. Vigilar el adecuado desempeño de las comandancias bajo su mando;
+
+IV. Recibir a los detenidos que sean entregados por los agentes de la Policía Estatal de Investigación y elaborar la documentación necesaria para remitirlos al centro de internamiento o penitenciario correspondiente;
+
+V. Verificar que el área de detenidos cumpla con las disposiciones legales y normativas aplicables relacionadas con las instalaciones y especificaciones técnicas y de seguridad, así como con la separación por categorías que garantice una estancia digna y segura;
+
+VI. Informar sobre las personas detenidas a quien lo solicite;
+
+VII. Colaborar, en el ámbito de su competencia, con las autoridades estatales o federales en la investigación de los delitos que le corresponda;
+
+VIII. Integrar, sistematizar y transferir a las unidades administrativas de información e inteligencia, principalmente, de la Secretaría, los datos que resulten del desempeño del departamento a su cargo;
+
+IX. Mantener estrecha comunicación con las unidades administrativas de información e inteligencia, principalmente, de la Administración Pública estatal, para el adecuado desempeño de sus funciones;
+
+X. Elaborar y presentar al Director de la Policía Estatal de Investigación los informes o reportes que le solicite o que le corresponda en función de su cargo o de las encomiendas que le sean asignadas;
+
+XI. Resguardar, organizar y ser responsable de la entrada y salida en el depósito de los vehículos, del armamento y del equipo de la Policía Estatal de Investigación, así como procurar su debido mantenimiento, y
+
+XII. Verificar que los agentes de la Policía Estatal de Investigación utilicen única y adecuadamente los vehículos, el armamento y el equipo asignados.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 248 Quinquies.
+
+Al Jefe del Departamento de Investigación de Delitos de Alto Impacto le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, dirigir, coordinar y vigilar el adecuado desarrollo de los operativos especiales de investigación de su competencia;
+
+II. Coordinar la ejecución de las tareas y diligencias de investigación de delitos de alto impacto;
+
+III. Vigilar el adecuado desempeño de las comandancias bajo su mando;
+
+IV. Colaborar, en el ámbito de su competencia, con las autoridades federales en la investigación de delitos de alto impacto;
+
+V. Integrar, sistematizar y transferir a las unidades administrativas de información e inteligencia, principalmente, de la Secretaría, los datos que resulten del desempeño del departamento a su cargo;
+
+VI. Mantener estrecha comunicación con las unidades administrativas de información e inteligencia, principalmente, de la Administración Pública estatal, para el adecuado desempeño de sus funciones, y
+
+VII. Elaborar y presentar al Director de la Policía Estatal de Investigación los informes o reportes que le solicite o que le corresponda en función de su cargo o de las encomiendas que le sean asignadas.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 248 Sexies.
+
+Al Jefe del Departamento de Investigación de Sectores y Foráneas le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, dirigir, coordinar y vigilar el adecuado desarrollo de los operativos de investigación de su competencia;
+
+II. Vigilar el adecuado desempeño de las bases sectoriales y foráneas de la Policía Estatal de Investigación;
+
+III. Brindar el apoyo que requieran los departamentos de Investigaciones y Mandamientos, y de Investigación de Delitos de Alto Impacto, para su adecuado desempeño;
+
+IV. Integrar, sistematizar y transferir a las unidades administrativas de información e inteligencia, principalmente, de la Secretaría, los datos que resulten del desempeño del departamento a su cargo;
+
+V. Mantener estrecha comunicación con los departamentos de Investigaciones y Mandamientos, y de Investigación de Delitos de Alto Impacto, así como con las unidades administrativas de información e inteligencia, principalmente, de la Administración Pública estatal, para el adecuado desempeño de sus funciones, y
+
+VI. Elaborar y presentar al Director de la Policía Estatal de Investigación los informes o reportes que le solicite o que le corresponda en función de su cargo o de las encomiendas que le sean asignadas.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 248 Septies.
+
+Al Director de la Policía Estatal de Investigación Especializada en la Escena del Crimen le corresponde el despacho de los siguientes asuntos:
+
+I. Auxiliar a los fiscales a cargo de la conducción de la investigación de los hechos que la ley señale como delito;
+
+II. Efectuar o, en su caso, coordinar el desarrollo de las diligencias para la preservación de la escena del crimen y de la integridad de los indicios o las evidencias que se encuentren en esta, en tanto no asuma la coordinación el personal de la Fiscalía General del Estado;
+
+III. Impedir el acceso a la escena del crimen a toda persona ajena a la investigación, a través de su clausura o aislamiento;
+
+IV. Procesar el lugar de intervención, mediante la fijación, el señalamiento, el levantamiento y el embalaje de los indicios y las evidencias físicas que se encuentren, de conformidad con los protocolos aplicables;
+
+V. Solicitar la intervención de los peritos del Instituto de Ciencias Forenses para el procesamiento de la escena del crimen, cuando se requiera mayor especialización en el desarrollo de las tareas necesarias para tal efecto;
+
+VI. Entregar al Ministerio Público los indicios y las evidencias recolectados y embalados, junto con toda la documentación que se haya elaborado al respecto, cuando dicha institución se lo solicite;
+
+VII. Impedir la consumación de los hechos delictivos y evitar que continúen produciendo consecuencias;
+
+VIII. Realizar las detenciones correspondientes cuando concurran las causales de flagrancia, en términos de la ley procesal, y poner, inmediatamente, a los detenidos a disposición del Ministerio Público;
+
+IX. Prestar el auxilio que requieran las víctimas del delito y canalizarlas a las autoridades competentes;
+
+X. Aplicar el sistema de cadena de custodia, en términos de la ley procesal, los lineamientos que, para tal efecto, expida la Fiscalía General del Estado y las demás disposiciones legales y normativas aplicables;
+
+XI. Verificar que los informes o reportes de las diligencias de investigación practicadas por los agentes a su cargo cumplan con todas las formalidades exigidas por la ley procesal y por el Ministerio Público;
+
+XII. Establecer vínculos de comunicación y coordinación con el Ministerio Público, el Instituto de Ciencias Forenses y las demás autoridades que considere necesarias para su adecuado desempeño;
+
+XIII. Informar en todo momento de sus actuaciones al fiscal y apegarse a las instrucciones que disponga para el desarrollo de la investigación, y
+
+XIV. Las demás que establezca la ley procesal y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 248 Octies.
+
+Los agentes de la Policía Estatal de Investigación tendrán las facultades y obligaciones establecidas en el artículo 132 del Código Nacional de Procedimientos Penales y en las demás disposiciones legales y normativas aplicables.
 
 ###### Artículo 249.
 
@@ -12053,9 +12237,7 @@ V. Proponer la celebración de sesiones extraordinarias;
 
 VI. Proponer la participación de invitados en las sesiones, y
 
-VII. Poner a consideración (sic) Junta de Gobierno o su equivalente, la Orden del
-
-Día de las sesiones.
+VII. Poner a consideración (sic) Junta de Gobierno o su equivalente, la Orden del Día de las sesiones.
 
 ### CAPÍTULO V. De las facultades y obligaciones del Presidente de la Junta de Gobierno o su equivalente
 
@@ -12115,9 +12297,7 @@ Son facultades y obligaciones de los Vocales:
 
 I. Participar con voz y voto en las sesiones de la Junta de Gobierno o su equivalente;
 
-II. Proponer y promover acuerdos orientados al logro de los objetivos de la
-
-Entidad;
+II. Proponer y promover acuerdos orientados al logro de los objetivos de la Entidad;
 
 III. Plantear la celebración de sesiones extraordinarias cuando, por la importancia o urgencia de los asuntos, así se requiera;
 
@@ -12906,3 +13086,19 @@ D.O. 9 DE SEPTIEMBRE DE 2016.
 Único.- Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 413/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+Se abroga el Decreto 183/2014 por el que se crea la Unidad Especializada en la Escena del Crimen, publicado en el diario oficial del estado el 15 de mayo de 2014.
+
+Tercero. Referencia
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Policía Ministerial Investigadora, se entenderá hecha a la Policía Estatal de Investigación.
