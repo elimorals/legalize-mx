@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2016-07-29"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -1021,7 +1021,9 @@ III.- Asesorar al Gobernador en la planeación, programación e instrumentación
 
 IV.- Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Estatal en la materia, así como de las autoridades federales, municipales y de los sectores social y privado cuando así lo requieran;
 
-V.- Promover, coordinadamente con las dependencias y entidades de la Administración Pública Estatal, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y de recreación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+V.- Promover, coordinadamente con las dependencias y entidades de la Administración Pública Estatal, las acciones destinadas a mejorar el nivel de vida de la Juventud, así como sus expectativas sociales, culturales, laborales y de recreación;
 
 VI.- Fungir como representante del Ejecutivo del Estado en materia de la juventud, ante los órdenes de Gobierno Federal y Municipal, organizaciones privadas, sociales y organismos internacionales; así como en foros, convenciones, encuentros y demás reuniones en las que el Gobernador solicite su participación;
 
@@ -1081,7 +1083,9 @@ XXX.- Prestar los servicios que se establezcan en los programas que formulen el 
 
 XXXI.- Planear, colaborar, apoyar o favorecer el desarrollo de actividades artísticas, culturales y la expresión creativa de los jóvenes;
 
-XXXII.- Favorecer la capacitación de los jóvenes en sus empleos e incentivar una actitud empresarial, así como ampliar la información sobre el mercado de trabajo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XXXII.- Favorecer la capacitación de los jóvenes en sus empleos e incentivar una actitud empresarial, así como vincular a jóvenes con fuentes de empleo;
 
 XXXIII.- Desarrollar programas para la adecuada orientación vocacional y profesional, el cabal aprovechamiento del servicio social y la diversificación de los servicios educativos;
 
@@ -1482,3 +1486,7 @@ P.O. 29 DE JULIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de un plazo no mayor al de seis meses, el Instituto de la Juventud del Estado emitirá los criterios para la gestión de becas, créditos y apoyos a que se refiere el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+ÚNICO: Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
