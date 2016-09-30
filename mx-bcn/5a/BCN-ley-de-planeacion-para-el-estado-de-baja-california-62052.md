@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2015-05-15"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -73,7 +73,9 @@ VIII.- Las responsabilidades de los servidores públicos relativas al cumplimien
 
 Para los efectos de esta Ley, se entiende por:
 
-I. PLANEACIÓN ESTATAL DEL DESARROLLO: La previsión ordenada y la ejecución de acciones que fomenten el desarrollo socioeconómico de Baja California, con base en la regulación que los Gobiernos Estatal y Municipales ejercen sobre la vida política, económica, ambiental, social e institucional de la Entidad, incluyendo la colaboración y coordinación con iniciativas de la sociedad civil y de las organizaciones privadas y sociales. La finalidad y objetivo esencial de la planeación y de los programas de desarrollo es mejorar la calidad de vida de la población;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+I. PLANEACIÓN ESTATAL DEL DESARROLLO: La previsión ordenada y la ejecución de acciones que fomenten el desarrollo socioeconómico de Baja California, con base en la regulación que los Gobiernos Estatal y Municipales ejercen sobre la vida política, económica, ambiental, social e institucional de la Entidad, incluyendo la colaboración y coordinación con iniciativas de la sociedad civil y de las organizaciones privadas y sociales. La finalidad y objetivo esencial de la planeación y de los programas de desarrollo es mejorar la calidad de vida de la población. La planeación será democrática y deliberativa;
 
 II. SECRETARÍA.- La Secretaría de Planeación y Finanzas del Estado;
 
@@ -189,9 +191,11 @@ Las dependencias y entidades de la administración pública estatal y municipal,
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE PLANEACIÓN DEL DESARROLLO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-La planeación estatal del desarrollo se llevará a cabo por las dependencias y entidades de la administración pública Estatal y Municipal con la participación de los poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos y los ciudadanos, en los términos de esta Ley, mediante el Sistema Estatal de Planeación.
+La planeación estatal del desarrollo será democrática y deliberativa y se llevará a cabo por las dependencias y entidades de la administración pública Estatal y Municipal con la participación de los poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos y los ciudadanos, en los términos de esta Ley, mediante el Sistema Estatal de Planeación.
 
 El Sistema Estatal de Planeación del Desarrollo es el que integra y vincula a los órganos y autoridades responsables del proceso de formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
 
@@ -227,9 +231,17 @@ XI.- Los Programas Territoriales;
 
 XII.- Los Convenios de Coordinación;
 
-XIII.- Los Convenios de Participación, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-XIV.- Aquellos que por necesidad del desarrollo del Estado se demanden.
+XIII.- Los Convenios de Participación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XIV.- El Plan Estratégico Metropolitano de Tijuana y Mexicali; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XV.- Aquellos que por necesidad del desarrollo del Estado se demanden.
 
 ### CAPÍTULO TERCERO. ATRIBUCIONES DE LAS AUTORIDADES DE PLANEACIÓN
 
@@ -1110,3 +1122,9 @@ SEGUNDO.- Una vez que entren en vigor las presentes reformas, se otorgará un pl
 P.O. 15 DE MAYO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE SEPTIEMBRE DE 2016
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 573 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 12 Y 14 DE LA LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA”.)
+
+ÚNICO.- Las presentes reformas entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
