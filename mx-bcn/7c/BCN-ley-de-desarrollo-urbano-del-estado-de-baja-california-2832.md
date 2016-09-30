@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2015-08-21"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -2403,11 +2403,33 @@ Las dependencias federales, estatales y municipales que proyecten y ejecuten acc
 
 Cuando en un centro de población sea urgente la realización de obras públicas y no se cuente con el Programa de Desarrollo Urbano correspondiente, el Ayuntamiento las autorizará previo dictamen de la Comisión Coordinadora de Desarrollo Urbano del Estado, disponiendo se realicen los estudios indispensables para garantizar su ejecución conforme a las disposiciones de este ordenamiento y las normas de los reglamentos de zonificación y uso del suelo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO TERCERO BIS. De las Acciones de Urbanización para la Prevención y Control de la Contaminación Lumínica
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 212 BIS.- Para los efectos de esta ley se entiende por contaminación lumínica, la emisión de flujo luminoso en la atmosfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales y/o horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+ARTICULO 212 BIS 1.- En materia de prevención y control de la contaminación lumínica, los municipios tendrán las siguientes facultades:
+
+I.- Elaborar, aprobar y publicar programas referentes a los sistemas de iluminación exterior y a la prevención y control de la contaminación lumínica;
+
+II.- Aprobar y emitir lineamientos que establezcan el tipo de luminarias a utilizarse en los sistemas de iluminación de exteriores públicos y privados, permanentes o temporales, así como la zonificación para el uso de los mismos;
+
+III.- Aprobar y emitir lineamientos que establezcan el tipo de fuente luminosas para usos publicitarios públicos y privados, permanentes o temporales, así como la zonificación para el uso de las mismas;
+
+IV.- Promover y fomentar en la ciudadanía el uso correcto y eficiente de iluminación y prevención de la contaminación lumínica;
+
+V.- Integrar y mantener actualizado el inventario de luminarias y coordinarse con el gobierno estatal para la integración del inventario en el Estado;
+
+VI.- Promover convenios de colaboración con organismos de instituciones de investigación local, nacional e internacional, interesados en la preservación de la calidad de la atmosfera; y
+
+VII.- Vigilar el cumplimiento de los requisitos y normas de edificación adecuadas para evitar la contaminación lumínica y para preservar la calidad astronómica del municipio.
+
 ### CAPITULO CUARTO. De las Acciones de Urbanización por Cooperación
-
-### CAPITULO QUINTO. De las Acciones de Urbanización por Plusvalía
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 213.
 
@@ -2419,7 +2441,9 @@ Los proyectos y la ejecución de las obras cumplirán con los requisitos estipul
 
 Las acciones de urbanización por cooperación pueden realizarse con la cooperación parcial de los Ayuntamientos.
 
-### CAPITULO SEXTO. De las Acciones de Urbanización y Reparcelación por Asociación de Interés Público
+### CAPITULO QUINTO. De las Acciones de Urbanización por Plusvalía
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 215.
 
@@ -2433,7 +2457,7 @@ Las acciones de urbanización o edificación por plusvalía se ejecutarán de ac
 
 Las acciones de urbanización o edificación previstas en los Programas Parciales de Desarrollo Urbano de los centros de población que incluyan acciones de conservación, mejoramiento o crecimiento, podrán ser realizadas por este sistema de plusvalía, demostrando que son de utilidad pública y de beneficio social y general.
 
-### CAPITULO SEPTIMO. De las Acciones de Urbanización por Concertación
+### CAPITULO SEXTO. De las Acciones de Urbanización y Reparcelación por Asociación de Interés Público
 
 ###### ARTICULO 217.
 
@@ -2459,7 +2483,7 @@ II. Dicho estudio será presentado a la Comisión Coordinadora de Desarrollo Urb
 
 III. Tanto la aprobación del Programa Parcial de Desarrollo Urbano como el Acuerdo de Autorización de la acción de urbanización se darán en los términos de la presente Ley.
 
-### CAPITULO OCTAVO. De las Acciones de Urbanización por Objetivo Social
+### CAPITULO SEPTIMO. De las Acciones de Urbanización por Concertación
 
 ###### ARTICULO 221.
 
@@ -2473,7 +2497,7 @@ La ejecución de estas acciones de urbanización podrá desarrollarse por el Con
 
 Las acciones que se proyecten realizar mediante esta modalidad, deberán cumplir con las normas definidas en esta Ley y demás disposiciones aplicables.
 
-### CAPITULO PRIMERO. De las Responsabilidades
+### CAPITULO OCTAVO. De las Acciones de Urbanización por Objetivo Social
 
 ###### ARTICULO 223.
 
@@ -2547,9 +2571,7 @@ Cuando las obras de urbanización progresiva se concluyan de conformidad con las
 
 ## TITULO OCTAVO. DE LAS RESPONSABILIDADES, MEDIDAS DE SEGURIDAD, SANCIONES Y DEFENSA DE LOS PARTICULARES
 
-### CAPITULO SEGUNDO. De las Medidas de Seguridad y Sanciones
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+### CAPITULO PRIMERO. De las Responsabilidades
 
 ###### ARTICULO 235.
 
@@ -2579,7 +2601,9 @@ III. Exigir a los particulares, bajo el título de colaboración u otra semejant
 
 Se sancionará a los responsables señalados en el artículo anterior, de acuerdo a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-### CAPITULO TERCERO. De la Defensa de los Particulares
+### CAPITULO SEGUNDO. De las Medidas de Seguridad y Sanciones
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 239.
 
@@ -2626,6 +2650,8 @@ En las disposiciones reglamentarias de esta Ley, se determinarán los casos y el
 ###### ARTICULO 244.
 
 Si las circunstancias así lo exigen, podrá imponerse simultáneamente al infractor las sanciones y las medidas de seguridad que correspondan, sin perjuicio de la responsabilidad penal, civil o administrativa en que incurra.
+
+### CAPITULO TERCERO. De la Defensa de los Particulares
 
 ###### ARTICULO 245.
 
@@ -2786,3 +2812,9 @@ P.O. 27 DE MARZO DE 2015.
 P.O. 21 DE AGOSTO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 572 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL CAPÍTULO TERCERO BIS, QUE COMPRENDE LOS ARTÍCULOS 212 BIS Y 212 BIS 1 A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
