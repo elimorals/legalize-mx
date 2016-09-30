@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2016-04-26"
+last_updated: "2016-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NAY"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.]
+
+[NOTA 2: LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014 Y SU AMPLIACIÓN DE 10 DE OCTUBRE DE 2015, PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.]
+
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.
-
-NOTA 2: LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014 Y SU AMPLIACIÓN DE 10 DE OCTUBRE DE 2015, PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -279,11 +279,19 @@ Las circunstancias calificativas o agravantes de la conducta delictiva son aplic
 
 Las circunstancias personales de alguno o algunos de los sujetos activos o pasivos del delito, cuando sean agravantes o atenuantes del mismo, serán aplicables a todos los que lo cometen teniendo conocimiento de ellas.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
 Se clasifican como delitos que ameritan prisión preventiva oficiosa los previstos en los siguientes artículos de este Código:
 
-I. Homicidio doloso, previsto en el artículo 353, así como el relacionado con los artículos 357, 358, 359, 361 fracción IX y 362;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+I. Homicidio doloso, previsto en el artículo 353, así como el relacionado con los artículos 357, 358, 359 y 362, y el feminicidio previsto en los artículos 361 bis y 361 ter;
 
 II. Delitos contra el orden constitucional del Estado y su integridad territorial, previsto en el artículo 159;
 
@@ -317,9 +325,11 @@ XVI. Filicidio, previsto por el artículo 367;
 
 XVII. Los delitos de amenazas previsto en el artículo 316, asalto tipificado en los artículos 321 y 322, extorsión reconocido en el artículo 328, lesiones en cualquiera de sus modalidades, robo previsto en el artículo 376, abigeato reconocido en el artículo 388, despojo en términos del artículo 405, daño en las cosas, previsto en los artículos 406, 407 y 409, fraccionamiento ilegal de inmuebles previsto en el artículo 413, en todos los casos siempre y cuando los delitos se cometan con medios violentos como armas o explosivos, y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVIII. Tentativa de los delitos de violación, previsto (sic) por los artículos 293 al 295; homicidio doloso, previsto en el artículo 353, así como el relacionado con los artículos 357, 358, 359, 361, fracción IX, y 362; parricidio, previsto en el artículo 366; filicidio previsto en el artículo 367; terrorismo previsto en el artículo 174; tortura, previsto en el artículo 245; y asalto, previsto en los artículos 321 y 322 este último delito siempre y cuando se haya pretendido cometer con medios violentos como armas o explosivos, así como el encubrimiento de los anteriores o los previstos en el tercer párrafo del artículo 417.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+XVIII. Tentativa de los delitos de violación, previsto por los artículos 293 al 295; homicidio doloso, previsto en el artículo 353, así como el relacionado con los artículos 357, 358, 359, 361 y 362; feminicidio previsto en los artículos 361 bis y 361 ter; parricidio, previsto en el artículo 366; filicidio previsto en el artículo 367; terrorismo previsto en el artículo 174; tortura, previsto en el artículo 245; y asalto, previsto en los artículos 321 y 322 este último delito siempre y cuando se haya pretendido cometer con medios violentos como armas o explosivos, así como el encubrimiento de los anteriores o los previstos en el tercer párrafo del artículo 417.
 
 ###### ARTÍCULO 37.
 
@@ -911,7 +921,11 @@ Cuando un solo hecho pueda ser considerado en dos figuras delictivas distintas y
 
 Cuando el responsable de un delito doloso sea miembro de alguna corporación policial pública o de seguridad privada, la sanción impuesta se aumentará hasta en una mitad más; además de imponérsele la destitución e inhabilitación para ejercer empleo, cargo o comisión de la misma naturaleza de manera permanente, cuando así proceda.
 
-El supuesto previsto en el párrafo anterior será aplicable a quien habiendo sido miembro de una corporación policial o de seguridad privada, dentro de los cinco años posteriores a la separación del cargo, cometa alguno de los siguientes delitos: contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 159; conspiración relacionado con el artículo 160; rebelión contemplado en los artículos 161, 162, 163 y 165; sedición y otros desórdenes públicos con relación a los numerales 170 y 173; terrorismo de conformidad con el artículo 174; evasión de presos referido en los artículos 175, 177 y 181; armas prohibidas concerniente a lo dispuesto en el numeral 186; asociaciones delictuosas relativo a los numerales 187, 188, 189 y 190; el previsto en el artículo 216; corrupción y prostitución de menores e incapaces con relación a los artículos 230, 231, 232 y 233; lenocinio previsto en el artículo 234; revelación de secretos relativo a los numerales 239 y 240; ejercicio indebido de funciones tocante al artículo 242; cohecho contemplado en el artículo 247; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 281; usurpación de funciones públicas o de profesión referido en el artículo 285; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 286; violación mencionado en el artículo 293; sustracción y tráfico de menores concerniente al artículo 301; amenazas relacionado con los artículos 316, 317 y 318; chantaje previsto en el artículo 319; allanamiento de morada, oficina o establecimiento mercantil contemplado en el artículo 320; asalto en referencia a los artículos 321 y 322; privación de la libertad personal de conformidad con el artículo 323; extorsión previsto en el artículo 328; desaparición forzada de personas mencionado en el artículo 329; homicidio de conformidad con el numeral 353, 357 y 361; homicidio contra la mujer por razón de misoginia previsto en el artículo 361, fracción IX.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+El supuesto previsto en el párrafo anterior será aplicable a quien habiendo sido miembro de una corporación policial o de seguridad privada, dentro de los cinco años posteriores a la separación del cargo, cometa alguno de los siguientes delitos: contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 159; conspiración relacionado con el artículo 160; rebelión contemplado en los artículos 161, 162, 163 y 165; sedición y otros desórdenes públicos con relación a los numerales 170 y 173; terrorismo de conformidad con el artículo 174; evasión de presos referido en los artículos 175, 177 y 181; armas prohibidas concerniente a lo dispuesto en el numeral 186; asociaciones delictuosas relativo a los numerales 187, 188, 189 y 190; el previsto en el artículo 216; corrupción y prostitución de menores e incapaces con relación a los artículos 230, 231, 232 y 233; lenocinio previsto en el artículo 234; revelación de secretos relativo a los numerales 239 y 240; ejercicio indebido de funciones tocante al artículo 242; cohecho contemplado en el artículo 247; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 281; usurpación de funciones públicas o de profesión referido en el artículo 285; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 286; violación mencionado en el artículo 293; sustracción y tráfico de menores concerniente al artículo 301; amenazas relacionado con los artículos 316, 317 y 318; chantaje previsto en el artículo 319; allanamiento de morada, oficina o establecimiento mercantil contemplado en el artículo 320; asalto en referencia a los artículos 321 y 322; privación de la libertad personal de conformidad con el artículo 323; extorsión previsto en el artículo 328; desaparición forzada de personas mencionado en el artículo 329; homicidio de conformidad con el numeral 353, 357, 361 y feminicidio previsto en los artículos 361 Bis y 361 Ter.
 
 ### CAPÍTULO II. APLICACIÓN DE SANCIONES A LOS DELITOS CULPOSOS
 
@@ -2593,6 +2607,10 @@ A quienes dirijan, organicen o aporten recursos económicos, técnicos o materia
 
 ### CAPÍTULO VII. VIOLENCIA FAMILIAR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 303.
 
 Se impondrá de seis meses a cinco años y multa de tres a quince días de salario al que estando unido a una persona en matrimonio, contraiga otro con las formalidades legales. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio ilegítimo.
@@ -2643,7 +2661,7 @@ Si del abandono resultare algún daño ya sea muerte, lesiones o cualquier otro,
 
 ###### ARTÍCULO 311.
 
-Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o emocional, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones.
+Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica, emocional, patrimonial o económica, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones.
 
 Se considera miembro de la familia:
 
@@ -2654,6 +2672,12 @@ II. Aquella persona con la que el sujeto activo hubiere procreado hijos en comú
 III. Los parientes del sujeto activo en línea recta ascendente o descendente sin límite de grado, el pariente colateral hasta el cuarto grado o por afinidad hasta el segundo grado.
 
 Al responsable del delito de violencia familiar se le impondrá de uno a ocho años de prisión y multa de cien a trescientos días de salario mínimo vigente en la entidad, pudiendo el juez decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que tenga respecto de la víctima.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+Cuando la violencia se ejerza en contra de la mujer por razones de género, se impondrá al responsable del delito una pena de tres a diez años de prisión y multa de cien a trescientos días.
 
 Además de las penas señaladas en el párrafo anterior, la autoridad judicial podrá someter al agresor a tratamiento psicológico especializado en institución pública con sede en el Estado, por el tiempo que la autoridad competente determine, el cual no podrá ser mayor al tiempo impuesto en la pena de prisión.
 
@@ -3071,15 +3095,23 @@ III. Cuando sean varias las lesiones, unas mortales y otras no y se ignore quié
 
 IV. Cuando las lesiones no fueren mortales sino por su número y no se pueda averiguar quiénes las infirieron, se aplicará de cuatro a siete años de prisión, a todos los que hubieren atacado al occiso.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 359.
 
-Salvo el caso de la fracción IX del artículo 361 de este código, al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario mínimo.
+Al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
 ### CAPÍTULO I. ROBO
 
 ###### ARTÍCULO 360.
 
 La riña es la contienda de obra con el ánimo de dañarse recíprocamente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 361.
 
@@ -3105,11 +3137,21 @@ V. Cuando se causen por inundación, incendio, minas, bombas o explosivos;
 
 VI. Cuando se dé tormento al ofendido, o se obre con ensañamiento o crueldad;
 
-VII. Cuando se cometan por motivos de odio por la condición de género, preferencia sexual o religiosa u origen racial;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+VII. Cuando se cometan por motivos de preferencia sexual, religiosa u origen racial;
 
 VIII. Cuando dolosamente se prive de la vida o se cause un menoscabo a la salud o la integridad física de los miembros de corporaciones policiales, fuerzas armadas o de cualquier otro tipo de instituciones de seguridad pública, así como de los servidores públicos encargados de las labores de administración, impartición o procuración de justicia, siempre que se ejecuten a consecuencia del desempeño legítimo de sus funciones, y
 
-IX. Cuando el homicidio contra la mujer se cometa por razones de misoginia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+IX. Cuando las lesiones se comentan (sic) en contra de la mujer por razón de género en términos del artículo 361 bis y 361 ter.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2016, SE ADVIERTE QUE EL CONTENIDO DE LOS SIGUIENTES PÁRRAFOS E INCISOS SON SIMILARES A LOS ACTUALES ARTÍCULOS 361 BIS Y 361 TER.]</small>
 
 Para los efectos de esta fracción, hay razones de misoginia cuando la conducta del activo sea motivada por odio, aversión obsesiva, discriminación o dominio hacia la mujer por la condición de su género, siempre que concurra una o más de las circunstancias siguientes:
 
@@ -3132,6 +3174,54 @@ A quien prive de la vida a una mujer por razones de misoginia se le impondrá un
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad, matrimonio, concubinato, noviazgo, amistad o cualquier otra relación sentimental de hecho, laboral, docente, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja, y se acredita cualquiera de los supuestos anteriores, se impondrán de veinticinco a cincuenta años de prisión.
 
 Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 361 BIS.- Se impondrán de treinta a cincuenta años de prisión y multa de quinientos a mil días de salario mínimo, a quien cometa el delito de feminicidio.
+
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen motivos de género, cuando se acredite alguna de las circunstancias siguientes:
+
+I. La víctima presente signos recientes de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
+
+III. Existan antecedentes o indicios legalmente preconstituidos de amenazas, acoso, hostigamiento, violencia intrafamiliar o lesiones del sujeto activo en contra de la víctima;
+
+IV. El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
+
+V. Cuando el sujeto activo haya cometido sobre la víctima otro delito de tipo sexual;
+
+VI. El homicidio se cometa para ocultar una violación o evitar que se denuncie o sancione dicho ilícito;
+
+VII. La víctima haya sido incomunicada o privada de su libertad, de cualquier forma, o
+
+VIII. Que se cometa por odio, aversión obsesiva, discriminación o dominio hacia la mujer.
+
+En caso que no se acredite el feminicidio se aplicarán las reglas del homicidio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 361 TER.- Se impondrá de treinta y cinco a sesenta años de prisión y multa de seiscientos a mil doscientos días, cuando entre el responsable y la víctima de feminicidio, se actualice alguno de los supuestos siguientes:
+
+I. Que exista o haya existido una relación de parentesco por consanguinidad, matrimonio o concubinato;
+
+II. Que exista una relación de noviazgo, amistad o cualquier otra relación sentimental de hecho, laboral, docente, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja;
+
+III. Que el sujeto activo sea padrastro, hijastro o hermanastro de la víctima, o
+
+IV. Que la víctima se encuentre en estado de gravidez.
+
+Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 361 QUÁTER.- Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia en el delito de feminicidio, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días de multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTÍCULO 362.
 
@@ -3621,9 +3711,11 @@ Se impondrá de tres a siete años de prisión y multa hasta el equivalentes (si
 
 Igual sanción se aplicará a quien no procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa va a cometerse o se estén cometiendo si son de los que se persiguen de oficio.
 
-(REFORMADO, P.O. 3 DE OCTUBRE DE 2015) (F. DE E., P.O. 7 DE NOVIEMBRE DE 2015)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente de cien días de salario, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio doloso, parricidio, filicidio u homicidio contra la mujer por razón de misoginia.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+
+Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente de cien días de salario, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio doloso, parricidio, filicidio o feminicidio.
 
 ###### ARTÍCULO 418.
 
@@ -3834,3 +3926,13 @@ Segundo.- El presente Decreto deberá difundirse mediante Bando Solemne en el Es
 Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las Legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
 
 Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaria Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+P.O. 30 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE FEMINICIDIO”.]
+
+Primero.- El presente Decreto entrará en vigor a los ciento ochenta días contados a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- El artículo 361 fracción IX, del Código Penal para el Estado de Nayarit, seguirá surtiendo efectos en las investigaciones y procesos respecto de los hechos cometidos con anterioridad a la entrada en vigor del presente Decreto.
+
+Tercero.- Antes de la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá integrar la Unidad Especializada en Prevención, Combate y Erradicación de la Violencia contra la Mujer por cuestión de Género, así como emitir el Protocolo de Investigación del Delito de Feminicidio. Para tales efectos, en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2017 deberán realizarse las previsiones presupuestales necesarias.
