@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2016-09-24"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. EL CONGRESO DEL ESTADO DE CHIHUAHUA A TRAVÉS DEL DECRETO 1579/2016 XXI P.E., PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2016, ABROGA EL DECRETO NO. 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE 11 DE JUNIO DE 2016, MEDIANTE EL CUAL SE DABA VIDA A LA FISCALÍA ESPECIALIZADA ANTICORRUPCIÓN, Y EN CONSECUENCIA, TALES PRECEPTOS QUEDAN COMO ESTABAN VIGENTES.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -473,9 +471,11 @@ Los Fiscales Especializados serán designados por el Fiscal General del Estado. 
 
 Los Fiscales Especializados deberán cumplir con los mismos requisitos que la Constitución del Estado exige para ser Fiscal General. Tratándose de la Fiscalía Especializada en Seguridad Pública y Prevención del Delito, podrá tener Licenciatura distinta a la de Derecho. En el caso del Coordinador Ejecutivo de la Comisión Ejecutiva de Atención a Víctimas del Estado, este deberá contar con Licenciatura en Derecho, en Psicología, en Trabajo Social o cualquier otra afín a la naturaleza del cargo.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-Los demás funcionarios y servidores públicos de la Fiscalía eneral (sic) del Estado serán nombrados y removidos libremente por el Fiscal General, salvo los agentes del Ministerio Público y de la Policía Estatal, que estarán sujetos a las disposiciones de la organización y funcionamiento del servicio civil.
+Los demás funcionarios y servidores públicos de la Fiscalía General del Estado serán nombrados y removidos libremente por el Fiscal General, salvo los agentes del Ministerio Público y peritos, así como los integrantes de las Instituciones Policiales del Estado, cuyo ingreso, permanencia, promoción, conclusión, separación y remoción se regirá por las disposiciones relativas de la Ley del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 21.
 
@@ -908,3 +908,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 1573/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor en todo el territorio del Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
