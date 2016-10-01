@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2016-09-10"
+last_updated: "2016-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -217,11 +217,9 @@ VII.- Abstenerse de votar en las sesiones del Congreso o de las Comisiones de qu
 
 VIII.- Contar con el documento e insignia que los acredite como Diputados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
-IX.- Recibir los apoyos financieros, materiales y de recursos humanos que requieran para desempeñar con eficacia su encargo;
+IX.- Recibir los apoyos financieros, materiales y de recursos humanos que requieran para desempeñar con eficacia su encargo, sin que por ningún motivo puedan recibir recursos para la previsión social múltiple ciudadana, apoyos sociales o conceptos similares, por no ser una función inherente a su encargo.
 
 X.- Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
 
@@ -485,11 +483,11 @@ El Presidente y Vicepresidente durarán en sus cargos, un mes pudiendo ser reele
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
-El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, este debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
+El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, éste debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
-En caso de ausencia del Presidente o cuando éste debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
+En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1528,3 +1526,11 @@ P.O. 10 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 152 POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 56, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 158 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN IX DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- La Comisión de Gobierno Interno y Acuerdos Parlamentarios deberá sesionar dentro de los primeros seis días de la entrada en vigor del presente Decreto, con la finalidad de realizar los ajustes administrativos correspondientes para dejar de entregar los recursos asignados bajo el concepto de "previsión social múltiple" a los diputados; debiendo decidir a su vez el destino que se le dará a los recursos originalmente asignados a tal rubro, para lo cual deberán contar con la aprobación de la Asamblea.
