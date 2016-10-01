@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2013-11-02"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE NOVIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -2439,9 +2437,11 @@ El procedimiento caducará si no se efectúa ningún acto procedimental, ni se p
 
 La prescripción y la caducidad procederán de oficio o a solicitud del Integrante.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 215.
 
-La resolución definitiva dictada por la Comisión podrá ser impugnada ante el Tribunal de Justicia Electoral y Administrativa del Estado, en los términos de su ley orgánica.
+Las resoluciones definitivas dictadas por las Comisiones podrán ser impugnadas mediante el Juicio de Oposición ante las Salas de lo Contencioso Administrativo y Fiscal del Tribunal Superior de Justicia del Estado, en la forma y términos especificados en el Código Fiscal del Estado.
 
 ###### Artículo 216.
 
@@ -3037,6 +3037,14 @@ Los particulares autorizados para prestar servicios de seguridad privada, así c
 
 ## TÍTULO NOVENO. DE LAS INSTALACIONES ESTRATÉGICAS
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Artículo 305 (SIC). El Estado proporcionará seguridad y protección personal al Fiscal General del Estado y al Director General de la Policía Estatal Única, previa solicitud de parte, durante los cuatro años siguientes a la conclusión de sus nombramientos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 298.
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a preservar la integridad, estabilidad y permanencia del Estado Mexicano, en los términos de la Ley de Seguridad Nacional y la Ley General.
@@ -3048,6 +3056,28 @@ El Estado y los municipios coadyuvarán con las instancias federales competentes
 ###### Artículo 300.
 
 La Fiscalía General se coordinará con la Federación para el ejercicio de la función a que se refiere el artículo anterior, así como para garantizar la seguridad perimetral y el apoyo operativo en caso necesario.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+## TÍTULO UNDÉCIMO (SIC). DE LA SEGURIDAD Y PROTECCIÓN PERSONAL DE FUNCIONARIOS PÚBLICOS AL CONCLUIR SU ENCARGO O NOMBRAMIENTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 306.
+
+Los elementos policiales que proporcionarán la seguridad y protección personal a que se refiere el artículo anterior, estarán dotados del equipamiento necesario para el ejercicio de su función y serán los pertenecientes a la Policía Estatal Única, para lo cual les serán asignados seis elementos al Fiscal General del Estado, y cuatro elementos al Director General de la Policía Estatal Única.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 307.
+
+Para los efectos a que se refiere el presente Título, la asignación de elementos policiales se considerará comisión para el cumplimiento de un servicio específico, por lo que deberán cumplir con todas las obligaciones y deberes a que se encuentran sujetos de conformidad con las disposiciones de la Ley del Sistema Estatal de Seguridad Pública y del Reglamento del Servicios (sic) Profesional de Carrera de las Instituciones de Seguridad Pública del Estado de Chihuahua y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 308.
+
+El Fiscal General del Estado, así como el Ayuntamiento que corresponda, en su respectivo ámbito de competencia, vigilarán y darán seguimiento al cumplimiento de lo dispuesto en el presente Título, por lo que una vez realizados los supuestos a que se refieren los artículos 305, 306 y 307 de la presente Ley, ordenarán la reincorporación de los elementos policiales a la Institución Policial a la que pertenezcan.
 
 T R A N S I T O R I O S
 
@@ -3116,3 +3146,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los siete días del mes de octubre del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1573/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor en todo el territorio del Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
