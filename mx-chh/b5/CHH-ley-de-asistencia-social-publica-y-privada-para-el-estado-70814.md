@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2015-05-20"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -95,21 +95,29 @@ VI. Madres Jefas de Familia en situación de vulnerabilidad: son aquellas mujere
 
 Son personas sujetas de asistencia social las que se encuentren en situación de vulnerabilidad y su familia, preferentemente:
 
-I. Menores de edad en situación de desamparo, maltrato, omisión de cuidados, de calle, en la calle, explotación en cualquiera de sus modalidades, marginación o pobreza alimentaria;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+I. Niñas, niños y adolescentes en situación de desamparo, maltrato, omisión de cuidados, de calle, en la calle, explotación en cualquiera de sus modalidades, marginación, pobreza alimentaria, migrantes o repatriados.
 
 II. Mujeres en situación de maltrato, explotación en cualquiera de sus modalidades, marginación o pobreza alimentaria;
 
 III. Indígenas en situación de maltrato, explotación en cualquiera de sus modalidades, marginación, exclusión o pobreza alimentaria;
 
-IV. Adultas mayores en situación de desamparo, maltrato, abandono, incapacidad legal, desnutrición, explotación en cualquiera de sus modalidades, marginación o pobreza alimentaria;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+IV. Adultas mayores en situación de desamparo, maltrato, abandono, incapacidad legal, desnutrición, explotación en cualquiera de sus modalidades, marginación, pobreza alimentaria o que ejerzan la patria potestad careciendo de los medios necesarios para la subsistencia y cumplimiento de las obligaciones que derivan de esta última.
 
 V. Las que se encuentren en situación de discapacidad;
 
-VI. Enfermas terminales o adictas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VI. Enfermas terminales o adictas y las niñas, niños y adolescentes que dependan de ellas.
 
 VII. Víctimas del delito;
 
-VIII. Las que se encuentren privadas de su libertad por la comisión de algún delito;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VIII. Las que se encuentren privadas de su libertad por la comisión de algún delito, sus dependientes y los de personas desaparecidas o extraviadas.
 
 IX. Migrantes;
 
@@ -141,9 +149,11 @@ V. Presentar el recurso de inconformidad cuando se les haya restringido, suspend
 
 Las personas sujetas de asistencia social, su familia y las que conforme a la ley tengan obligaciones para con aquéllas, serán corresponsables con las instituciones públicas o privadas de quienes reciban los servicios.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-Esta Ley reconoce a la familia como núcleo fundamental para el desarrollo armónico de la sociedad, con especial interés en las personas menores de edad y adultas mayores, así como el deber que tienen los padres de preservar el derecho de los menores a su cargo, a la satisfacción de sus necesidades y a la salud física y mental.
+Esta Ley reconoce a la familia como núcleo fundamental para el desarrollo armónico de la sociedad, con especial interés en las personas que no han cumplido los dieciocho años de edad y las adultas mayores, así como el deber que tienen los padres de preservar el derecho de niñas, niños y adolescentes a su cargo, a la satisfacción de sus necesidades y a la salud física y mental.
 
 ###### Artículo 8.
 
@@ -163,7 +173,9 @@ A) De promoción:
 
 I. De la participación de los sujetos de asistencia social en los servicios que se lleven a cabo para su propio beneficio;
 
-II. De una cultura de dignificación y respeto a los derechos de las personas menores de edad, adultas mayores o en situación de discapacidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+II. De una cultura de dignificación y respeto a los derechos de niñas, niños, adolescentes, personas adultas mayores o en situación de discapacidad.
 
 III. De la participación social para el trabajo comunitario en beneficio de las personas sujetas de asistencia social;
 
@@ -173,25 +185,33 @@ V. Del conocimiento y comprensión del proceso de envejecimiento;
 
 VI. De una cultura nutricional;
 
-VII. Del desarrollo e integración familiar, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VII. Del desarrollo, fortalecimiento e integración familiar.
 
 VIII. Del desarrollo comunitario en las localidades o zonas de atención prioritaria con personas o grupos en situación de vulnerabilidad.
 
 B) De prevención:
 
-I. Del maltrato, abuso, explotación, desamparo, abandono o negligencia en la atención de las personas menores de edad, adultas mayores y de las que se encuentren en situación de discapacidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+I. Del maltrato, abuso, explotación, desamparo, abandono o negligencia en la atención de niñas, niños y adolescentes, personas adultas mayores y de las que se encuentren en situación de discapacidad.
 
 II. De enfermedades y discapacidades;
 
 III. De la desnutrición;
 
-IV. Del embarazo no deseado en personas menores de edad, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+IV. De embarazos tempranos o no deseados.
 
 V. De adicciones.
 
 C) De protección:
 
-I. A las personas menores de edad, adultas mayores y de las que se encuentren en situación de discapacidad, especialmente las que radiquen dentro de las zonas de atención prioritaria.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+I. A niñas, niños y adolescentes, personas adultas mayores y las que se encuentren en situación de discapacidad, especialmente las que radiquen dentro de las zonas de atención prioritaria.
 
 D) De atención:
 
@@ -203,11 +223,15 @@ III. A mujeres en períodos de gestación o lactancia;
 
 IV. A personas adictas;
 
-V. Mediante la representación jurídica de personas menores de edad, adultas mayores y de quienes se encuentren en situación de discapacidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+V. Mediante la representación jurídica de niñas, niños y adolescentes, personas adultas mayores y de quienes se encuentren en situación de discapacidad.
 
 VI. Para la rehabilitación y capacitación para el trabajo de las personas en situación de discapacidad;
 
-VII. Para la educación especial a personas menores de edad o en situación de discapacidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VII. Para la educación especial a niñas, niños y adolescentes y personas en situación de discapacidad.
 
 VIII. Neurológica, psiquiátrica y psicológica a personas en situación de vulnerabilidad y su familia;
 
@@ -237,11 +261,11 @@ En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, inc
 
 #### SECCIÓN PRIMERA. DEL APOYO A LAS MADRES JEFAS DE FAMILIA
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 14-A.
 
-El Gobierno del Estado, a través de sus dependencias y entidades, implementará y promoverá las políticas públicas y programas de apoyo preferenciales y permanentes, en materia de formación educativa, capacitación de artes u oficios que puedan desarrollar las madres jefas de familia a bajo costo; de asesoría técnica y jurídica, de apoyo y financiamiento de proyectos productivos y de autoempleo, de servicios de salud, de guardería y asistencia social y demás acciones en beneficio de las madres jefas de familia y sus hijos menores de edad.
+El Gobierno del Estado, a través de sus dependencias y entidades, implementará y promoverá las políticas públicas y programas de apoyo preferenciales y permanentes, en materia de formación educativa, capacitación de artes u oficios que puedan desarrollar las madres jefas de familia a bajo costo; de asesoría técnica y jurídica, de apoyo y financiamiento de proyectos productivos y de autoempleo, de servicios de salud, de guardería y asistencia social y demás acciones en beneficio de las madres jefas de familia y de sus hijas e hijos menores de dieciocho años de edad.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 2015)</small>
 
@@ -257,7 +281,9 @@ Para acceder a los beneficios mencionados en el presente Capítulo, las madres j
 
 I. Sean mujeres, que asuman el rol de jefas de familia y se encarguen en forma única y total del sustento económico de sus descendientes en línea recta;
 
-II. Acrediten ser madres solteras mediante un certificado de inexistencia de matrimonio y las actas de nacimiento del hijo o hijos, en su caso;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+II. Acrediten ser madres solteras mediante un certificado de inexistencia de matrimonio y las actas de nacimiento de sus hijas e hijos, en su caso.
 
 III. Acrediten estar en situación de desventaja, mediante un estudio socioeconómico que llevará a cabo el DIF Estatal;
 
@@ -279,7 +305,9 @@ IX. No contar con apoyo económico de otras instituciones públicas, excepto las
 
 Serán motivo de cancelación de los beneficios que se otorguen a las madres jefas de familia, los siguientes supuestos:
 
-I. Cuando los hijos de la madre beneficiada cumplan los 16 años de edad o dejen de estudiar;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+I. Cuando las hijas o hijos de la madre beneficiada cumplan los 16 años de edad o dejen de estudiar.
 
 II. Cuando existan datos fehacientes que acrediten el cambio de situación, mediante estudio socioeconómico que llevará a cabo el DIF Estatal;
 
@@ -287,7 +315,9 @@ III. Cuando proporcionen información falsa;
 
 IV. Cuando se compruebe mediante verificación domiciliaria que tiene pareja y vive en el mismo domicilio, y
 
-V. El maltrato, la violencia física o psicológica, o la explotación económica o social que de sus descendientes en línea recta haga la madre beneficiaria de los apoyos otorgados.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+V. El maltrato, la violencia física o psicológica, la explotación económica o social de que sea objeto la madre beneficiaria, por sus descendientes en línea recta.
 
 ### CAPÍTULO IV. DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL Y HUMANO EN MATERIA DE ASISTENCIA SOCIAL
 
@@ -317,9 +347,17 @@ VIII. Promover la coordinación interinstitucional para la atención de las pers
 
 IX. Propiciar la coordinación de acciones de asistencia social entre los sectores público, social y privado;
 
-X. Fomentar la creación de organizaciones civiles con fines de asistencia social, así como la promoción del voluntariado, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-XI. Los demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
+X. Fomentar la creación de organizaciones civiles con fines de asistencia social, así como la promoción del voluntariado.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XI. Fortalecer la familia como instancia de organización básica y de protección de los derechos de sus integrantes.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XII. Los demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 17.
 
@@ -397,7 +435,9 @@ II. Prestar servicios de asistencia, representación y orientación jurídica;
 
 III. Elaborar las reglas y manuales de procedimientos que deberán seguirse para la prestación de los servicios en los establecimientos de asistencia social pública;
 
-IV. Establecer los lineamientos para garantizar la integralidad y calidad en la prestación de los servicios en los establecimientos de asistencia social privada que atiendan a personas menores de edad, adultas mayores y en situación de discapacidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+IV. Establecer los lineamientos para garantizar la integralidad y calidad en la prestación de los servicios en los establecimientos de asistencia social privada que atiendan a niñas, niños y adolescentes, personas adultas mayores y en situación de discapacidad.
 
 V. Coordinarse con los organismos para la asistencia social pública en los municipios y con los sectores social y privado, procurando la homologación en la calidad de los servicios;
 
@@ -409,11 +449,21 @@ VIII. Promover acciones que contribuyan a la difusión y protección de los dere
 
 IX. Diseñar, elaborar, promover y difundir programas para inculcar el respeto y protección de las personas en situación de vulnerabilidad;
 
-X. Impulsar el desarrollo comunitario en las localidades o zonas con personas o grupos en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-XI. Fomentar hábitos de conducta tendientes al desarrollo de habilidades para la integración familiar;
+X. Impulsar el desarrollo comunitario en las localidades o zonas con personas, familias o grupos en situación de vulnerabilidad;
 
-XII. Realizar acciones de apoyo educativo y de capacitación para el trabajo, para lograr la integración familiar y social de las personas sujetas de asistencia social;
+> <small>(REFORMADA POR DECRETO 1446/216 XX P.E., P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XI. Fomentar y difundir, a través de medios de comunicación masiva, los hábitos de conducta tendientes al desarrollo de habilidades para la integración y el fortalecimiento familiar, así como la promoción de valores;
+
+> <small>(ADICIONADA POR DECRETO 1446/216 XX P.E., P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XI bis. Establecer acciones que promuevan la paternidad y maternidad responsable, a fin de que se propicie el cumplimiento de todos los derechos de las niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XII. Realizar acciones de apoyo educativo y de capacitación para el trabajo, para lograr el fortalecimiento e integración familiar y social de las personas sujetas de asistencia social;
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
 
@@ -425,7 +475,9 @@ XV. Operar un Sistema Estatal de Información para la Asistencia Social, que for
 
 XVI. Promover y apoyar la realización de estudios e investigaciones sobre las causas y efectos de la vulnerabilidad en el Estado;
 
-XVII. Realizar estudios e investigaciones en materia de asistencia social,
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XVII. Realizar estudios e investigaciones en materia de asistencia social y fortalecimiento familiar;
 
 XVIII. Promover la participación del voluntariado y de la comunidad en la prestación de servicios de asistencia social;
 
@@ -481,9 +533,17 @@ I. Junta de Gobierno;
 
 II. Dirección General;
 
-III. Órgano de Vigilancia, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-IV. Procuraduría de Asistencia Jurídica y Social.
+III. Órgano de Vigilancia.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+IV. Procuraduría de Protección.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+V. Centro Estatal de Fortalecimiento Familiar.
 
 ###### Artículo 30.
 
@@ -503,7 +563,9 @@ VI. Conocer y aprobar los convenios de coordinación que deban celebrarse con de
 
 VII. Autorizar las propuestas que habrán de formularse a las Comisiones Estatal e Interinstitucional, ambas para el Desarrollo Social y Humano, en cuanto a planes, programas y proyectos de asistencia social:
 
-VIII. Nombrar y remover, a propuesta de la Dirección General, a las personas que ocupen la titularidad de las dos jerarquías administrativas inferiores a las de aquélla y de la persona que ocupe la titularidad de la Procuraduría de Asistencia Jurídica y Social;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VIII. Nombrar y remover, a propuesta de la Dirección General, a las personas que ocupen la titularidad de las dos jerarquías administrativas inferiores a las de aquella y de la persona que ocupe la titularidad de la Procuraduría de Protección.
 
 IX. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades, y
 
@@ -625,23 +687,33 @@ IV. Asistir, únicamente con derecho a voz, a las sesiones de la Junta de Gobier
 
 V. Las demás previstas en otros ordenamientos legales aplicables.
 
-### CAPÍTULO VII. DE LA PROCURADURÍA DE ASISTENCIA JURÍDICA Y SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO VII. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y DEMÁS PERSONAS SUJETAS DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 41.
 
-El organismo para la asistencia social pública del Estado contará con una Procuraduría de Asistencia Jurídica y Social, que dependerá de la Dirección General, y tendrá como objeto proporcionar los servicios de asesoría, orientación y representación jurídica, así como la defensa y protección de los derechos de las personas sujetas de asistencia social.
+El organismo para la asistencia social pública del Estado contará con una Procuraduría de Protección, que dependerá de la Dirección General, y tendrá como objeto proporcionar los servicios de asesoría, orientación y representación jurídica, así como la defensa y protección de los derechos de las personas sujetas de asistencia social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 42.
 
-La Procuraduría de Asistencia Jurídica y Social, para el cumplimiento de su objeto, contará con:
+La Procuraduría de Protección, para el cumplimiento de su objeto, contará con:
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-I. Una subprocuraduría especializada en atención a personas menores de edad.
+I. Una subprocuraduría especializada en atención a niñas, niños y adolescentes.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-II. Una subprocuraduría especializada en atención a personas adultas mayores, en situación de discapacidad y, en general, a otros sujetos preferentes de asistencia social.
+II. Una subprocuraduría especializada en atención a personas adultas mayores.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+II Bis. Una subprocuraduría especializada en atención a personas en situación de discapacidad y demás sujetos preferentes de asistencia social.
 
 III. Una subprocuraduría auxiliar por cada distrito judicial.
 
@@ -649,27 +721,43 @@ III. Una subprocuraduría auxiliar por cada distrito judicial.
 
 Además, contará con un Consejo Técnico Estatal de Adopciones, como órgano de apoyo en esta materia, el cual coadyuvará en la verificación, la procedencia, improcedencia, revaloración o baja de las solicitudes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 43.
 
-La Procuraduría de Asistencia Jurídica y Social, tendrá las siguientes funciones:
+La Procuraduría de Protección tendrá las siguientes funciones:
 
 I. Prestar servicios de asesoría, representación y orientación jurídica a las personas sujetas de asistencia social;
 
 II. Atender y dar seguimiento a los asuntos que se le planteen sobre la violación de los derechos de las personas en situación de vulnerabilidad, derivados de conductas que impliquen desamparo, malos tratos, violencia física o psicológica, abandono, omisión de cuidados, abuso sexual o explotación en cualquiera de sus modalidades;
 
-III. Representar a las personas menores de edad en juicio y fuera de él, velando siempre porque se respete su interés superior;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-IV. Colaborar con las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a las personas menores de edad;
+III. Representar a niñas, niños y adolescentes en juicio y fuera de él, velando siempre porque se respete el principio de interés superior.
 
-V. Realizar acciones de prevención y protección a personas menores de edad y adultas mayores en desamparo, maltratadas o en estado de abandono, para incorporarlas al núcleo familiar;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-VI. Determinar y, en su caso, aplicar las medidas de protección a las personas menores de edad, adultas mayores o las que se encuentren en situación de discapacidad, conforme a los ordenamientos legales aplicables;
+IV. Colaborar con las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a las personas que no han cumplido dieciocho años de edad.
 
-VII. Coadyuvar en la localización de personas menores de edad y adultas mayores extraviadas o sustraídas del seno familiar;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-VIII. Auxiliar a la autoridad judicial cuando ésta determine que la convivencia de una persona menor de edad con sus familiares; se lleve a cabo bajo supervisión;
+V. Realizar acciones de prevención y protección a niñas, niños, adolescentes y personas adultas mayores en situación de desamparo, maltrato o estado de abandono, para incorporarlas al núcleo familiar.
 
-IX. Gestionar ante el Registro Civil la elaboración de las actas de nacimiento de las personas menores de edad expósitas o abandonadas, en los casos que corresponda;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VI. Determinar y, en su caso, aplicar las medidas de protección a niñas, niños, adolescentes y personas adultas mayores o las que se encuentren en situación de discapacidad, conforme a los ordenamientos legales aplicables.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VII. Coadyuvar en la localización de niñas, niños, adolescentes y personas adultas mayores desaparecidas, extraviadas o sustraídas del seno familiar.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VIII. Auxiliar a la autoridad judicial cuando esta determine que la convivencia de niñas, niños y adolescentes con sus familiares, se lleve a cabo bajo supervisión.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+IX. Gestionar ante el Registro Civil la elaboración de las actas de nacimiento de niñas y niños que se encuentren en calidad de expósito o abandono, en los casos que corresponda.
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -681,11 +769,17 @@ XI. Tramitar ante los tribunales la adopción de personas en los casos que así 
 
 XII. Impulsar la integración de los Consejos Locales de Tutela, así como coordinar y dar seguimiento a su funcionamiento, prestándoles la asesoría y capacitación que requieran para ello;
 
-XIII. Cuidar que quienes tengan la patria potestad, tutela o custodia, cumplan con sus obligaciones para con las personas menores de edad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-XIV. Albergar a personas menores de edad y adultas mayores en instituciones adecuadas para su custodia, en los casos que resulte necesario;
+XIII. Cuidar que quienes tengan la patria potestad, tutela o custodia, cumplan con sus obligaciones para con las niñas, niños y adolescentes.
 
-XV. Coadyuvar con las autoridades educativas para que las personas menores de edad reciban la educación básica y acudan a los planteles educativos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XIV. Albergar a niñas, niños, adolescentes y personas adultas mayores en instituciones adecuadas para su custodia, en los casos que resulte necesario.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XV. Coadyuvar con las autoridades educativas para que niñas, niños y adolescentes reciban la educación básica y acudan a los planteles educativos.
 
 XVI. Prestar a las personas adultas mayores servicios de asesoría legal y asumir la representación jurídica en los juicios del orden civil cuando lo requieran, así como coadyuvar con el Ministerio Público cuando resultaren víctimas u ofendidas por la comisión de un delito;
 
@@ -701,7 +795,9 @@ XXI. Hacer del conocimiento del Ministerio Público los asuntos que sean de su c
 
 XXII. Expedir reglas y disposiciones de carácter general en relación a la metodología, técnicas y procedimientos administrativos para los trámites de adopción;
 
-XXIII. Dictar las medidas específicas que los establecimientos de asistencia social públicos y privados deberán seguir en cada caso, para garantizar la adecuada atención de las personas menores de edad y adultas mayores;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XXIII. Dictar las medidas específicas que los establecimientos de asistencia social públicos y privados deberán seguir en cada caso, para garantizar la adecuada atención de niñas, niños, adolescentes y personas adultas mayores.
 
 XXIV. Coadyuvar con la autoridad competente en la vigilancia de los establecimientos que presten servicios de asistencia social, en especial los albergues y casas hogar, a fin de que las personas en situación de vulnerabilidad reciban la correcta atención;
 
@@ -725,25 +821,37 @@ XXX. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 Para el despacho de los asuntos a que se refiere el presente artículo, la persona titular de la Procuraduría se auxiliará de los servidores públicos con que cuente para tal efecto, en quienes podrá delegar las facultades que por disposición legal o reglamentaria no deba ejercer en forma personal.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 44.
 
-Las subprocuradurías especializadas tendrán las atribuciones conferidas a la Procuraduría de Asistencia Jurídica y Social atendiendo a su denominación, así como las que en forma expresa les señale quien ocupe la titularidad de esta última.
+Las subprocuradurías especializadas tendrán las atribuciones conferidas a la Procuraduría de Protección atendiendo a sus respectivas denominaciones, así como las que en forma expresa les señale quien ocupe la titularidad de esta última.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 45.
 
-Las subprocuradurías auxiliares ejercerán las funciones conferidas a la Procuraduría de Asistencia Jurídica y Social, salvo en aquellos municipios que cuenten con la propia o dependencia equivalente.
+Las subprocuradurías auxiliares ejercerán las funciones conferidas a la Procuraduría de Protección, salvo en aquellos municipios que cuenten con la propia o dependencia equivalente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 46.
 
-Para ocupar la titularidad de la Procuraduría de Asistencia Jurídica y Social, subprocuradurías especializadas o auxiliares, se requiere:
+Para ocupar la titularidad de la Procuraduría de Protección, subprocuradurías especializados o auxiliares, se requiere:
 
 I. Tener la ciudadanía mexicana en pleno ejercicio de sus derechos, con residencia mínima de dos años en el Estado de Chihuahua;
 
 II. Contar como mínimo con el grado de Licenciatura en Derecho;
 
-III. Tener conocimientos y experiencia en materia de asistencia social, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+III. Tener conocimientos y experiencia en materia de asistencia social.
 
 IV. No haber sido condenado por delito doloso o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+V. Radicar en la ciudad o población en que se encuentren las instalaciones respectivas.
 
 ###### Artículo 47.
 
@@ -751,9 +859,25 @@ Los requisitos previstos en el artículo anterior, serán aplicables en el ámbi
 
 Los requisitos previstos en las fracciones II y III del artículo anterior, podrán ser dispensables en los municipios donde se carezca de una persona con el perfil indicado, en cuyo caso se podrá nombrar a quien posea la mayor preparación académica y experiencia afín.
 
-### CAPÍTULO VIII. DEL CONSEJO CONSULTIVO PARA LA ASISTENCIA SOCIAL PÚBLICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO IX. DE LA ASISTENCIA SOCIAL PÚBLICA EN EL ÁMBITO MUNICIPAL
+### CAPÍTULO VII BIS. DEL CENTRO ESTATAL DE FORTALECIMIENTO FAMILIAR
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 47 Bis.
+
+El DIF Estatal contará con un Centro Estatal de Fortalecimiento Familiar, que dependerá de la Dirección General, y tendrá como objeto proporcionar los servicios vinculados a la materia propia de su denominación, de entre los previstos en los artículos 16 y 25 de esta Ley.
+
+Los programas, proyectos y acciones que se implementen para cumplir con su objeto, deberán basarse en un enfoque de derechos humanos, de género e intergeneracional.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 47 Ter.
+
+En sus actividades coadyuvará con la Procuraduría de Protección, a fin de que esta última pueda cumplir con las funciones conferidas en las fracciones V y XVIII del artículo 43 del presente ordenamiento.
+
+### CAPÍTULO VIII. DEL CONSEJO CONSULTIVO PARA LA ASISTENCIA SOCIAL PÚBLICA
 
 ###### Artículo 48.
 
@@ -791,7 +915,7 @@ IV. Las demás que sean necesarias para el ejercicio de las atribuciones anterio
 
 El Consejo Consultivo para la Asistencia Social Pública celebrará las sesiones que estime pertinentes para el cumplimiento de sus atribuciones, conforme lo establezca su reglamento.
 
-### CAPÍTULO I. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA
+### CAPÍTULO IX. DE LA ASISTENCIA SOCIAL PÚBLICA EN EL ÁMBITO MUNICIPAL
 
 ###### Artículo 53.
 
@@ -829,9 +953,7 @@ Las disposiciones contenidas en el presente ordenamiento, que establezcan derech
 
 ## TÍTULO SEGUNDO. DE LA ASISTENCIA SOCIAL PRIVADA
 
-### CAPÍTULO II. DE LA JUNTA DE ASISTENCIA SOCIAL PRIVADA
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+### CAPÍTULO I. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA
 
 ###### Artículo 59.
 
@@ -941,7 +1063,9 @@ IV. Estar representadas ante el Consejo Directivo de la Junta de Asistencia Soci
 
 Las instituciones de asistencia social privada aplicarán los recursos que reciban del erario público directamente a la prestación de servicios de asistencia social, de conformidad con las convocatorias y reglas de operación de los programas o proyectos correspondientes.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN PARA LA ASISTENCIA SOCIAL
+### CAPÍTULO II. DE LA JUNTA DE ASISTENCIA SOCIAL PRIVADA
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 64.
 
@@ -1017,9 +1141,11 @@ XXXI. Coadyuvar con las autoridades federales y estatales en materia de salud, e
 
 XXXII. Las demás que se señalen en la presente Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 66.
 
-Los resultados de las inspecciones realizadas por las autoridades competentes para verificar que la prestación de los servicios de asistencia social privada se realicen conforme a las Normas Oficiales Mexicanas y demás ordenamientos legales aplicables, deberán hacerse del conocimiento de la Procuraduría de Asistencia Jurídica y Social y de sus correlativas en los municipios, en atención al domicilio de quien preste los servicios, así como de la Junta de Asistencia Social Privada.
+Los resultados de las inspecciones realizadas por las autoridades competentes para verificar que la prestación de los servicios de asistencia social privada se realicen conforme a las Normas Oficiales Mexicanas y demás ordenamientos legales aplicables, deberán hacerse del conocimiento de la Procuraduría de Protección y de sus correlativas en los municipios, en atención al domicilio de quien preste los servicios, así como de la Junta de Asistencia Social Privada.
 
 ###### Artículo 67.
 
@@ -1097,7 +1223,9 @@ IV. Quien ocupe la titularidad de la Secretaría de Salud;
 
 V. Quien ocupe la titularidad de la Secretaría de Educación, Cultura y Deporte;
 
-VI. Cuatro personas representantes de las instituciones de asistencia social privada, que serán designadas conforme a la función predominantemente prestada por la institución, atendiendo a los siguientes rubros: personas menores de edad, en situación de discapacidad, adultas mayores y salud o desarrollo comunitario, y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VI. Cuatro personas representantes de las instituciones de asistencia social privada, que serán designadas conforme a la función predominantemente prestada por la institución, atendiendo a los siguientes rubros: niñas, niños y adolescentes, personas en situación de discapacidad, adultas mayores y salud o desarrollo comunitario.
 
 VII. Quien ocupe la titularidad de la Dirección General de la Junta de Asistencia Social Privada.
 
@@ -1211,7 +1339,7 @@ La Secretaría de la Contraloría del Estado, así como la Auditoría Superior d
 
 ## TÍTULO TERCERO. DISPOSICIONES COMUNES A LA ASISTENCIA SOCIAL PÚBLICA Y PRIVADA
 
-### CAPÍTULO II. DEL SUBSISTEMA DE INFORMACIÓN PARA LA ASISTENCIA SOCIAL PRIVADA
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN PARA LA ASISTENCIA SOCIAL
 
 ###### Artículo 83.
 
@@ -1243,7 +1371,7 @@ La información a que se refiere la fracción I del artículo 84, así como la d
 
 Los datos contenidos en el Sistema Estatal de Información para la Asistencia Social, quedarán sujetos a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás ordenamientos aplicables.
 
-### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
+### CAPÍTULO II. DEL SUBSISTEMA DE INFORMACIÓN PARA LA ASISTENCIA SOCIAL PRIVADA
 
 ###### Artículo 87.
 
@@ -1263,23 +1391,31 @@ V. Los informes que realicen las instituciones de asistencia social privada.
 
 Las instituciones de asistencia social privada que se pretendan extinguir y liquidar, deberán notificarlo a la Junta de Asistencia Social Privada, a fin de que proceda a darlas de baja del directorio mencionado en la fracción I del artículo anterior.
 
-### CAPÍTULO IV. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 89.
 
-Toda persona podrá presentar, ante la Procuraduría de Asistencia Jurídica y Social o ante la instancia equivalente en el ámbito municipal, las quejas y denuncias respecto a los hechos, actos u omisiones que constituyan violación a los derechos de las personas sujetas de asistencia social, consagrados en el presente ordenamiento.
+Toda persona podrá presentar, ante la Procuraduría de Protección o ante la instancia equivalente en el ámbito municipal, las quejas y denuncias respecto a los hechos, actos u omisiones que constituyan violación a los derechos de las personas sujetas de asistencia social, consagrados en el presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 90.
 
-La presentación, trámite y resolución de las quejas, denuncias y el recurso de inconformidad que se interpongan ante la Procuraduría de Asistencia Jurídica y Social, se sujetarán a lo dispuesto en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
+La presentación, trámite y resolución de las quejas, denuncias y el recurso de inconformidad que se interpongan ante la Procuraduría de Protección, se sujetarán a lo dispuesto en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
+
+### CAPÍTULO IV. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 91.
 
 La persona que reciba servicios de asistencia social y contravenga las disposiciones de la presente Ley o de la normatividad que regule los programas y proyectos en esta materia, será sancionada conforme a las disposiciones previstas en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 92.
 
-A quien por medio del engaño se haga ilícitamente de alguna cosa u obtenga un lucro indebido en beneficio propio o de un tercero, con el argumento de realizar acciones y servicios de asistencia social, será sancionado por la Procuraduría de Asistencia Jurídica y Social, de la siguiente forma:
+A quien por medio del engaño se haga ilícitamente de alguna cosa u obtenga un lucro indebido en beneficio propio o de un tercero, con el argumento de realizar acciones y servicios de asistencia social, será sancionado por la Procuraduría de Protección, de la siguiente forma:
 
 I. Amonestación pública;
 
@@ -1460,3 +1596,47 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Organismo Público Descentralizado denominado “Desarrollo Integral de la Familia del Estado de Chihuahua” (DIF Estatal), celebrará los acuerdos de coordinación necesarios con la Secretaría de Salud Estatal, a fin de que esta, en el ámbito de sus atribuciones, participe garantizando la prestación de los servicios terapéuticos en los centros de rehabilitación a que se refiere el presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1442/2016 XX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante la Procuraduría de Asistencia Jurídica y Social, se entenderá que continúan su curso ante la Procuraduría de Protección.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales o en cualquier otra disposición, ordenamiento o instrumento legalmente expedido que haga referencia a la Procuraduría de Asistencia Jurídica y Social, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Protección.
+
+###### ARTÍCULO CUARTO.
+
+Las relaciones laborales de los trabajadores con que cuente la Procuraduría de Asistencia Jurídica y Social del DIF Estatal a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen, sin que se vean afectados los derechos laborales de las personas, con motivo de la presente reforma.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1443/2016 XX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS Y UN CAPÍTULO VII BIS DENOMINADO DEL CENTRO ESTATAL DE FORTALECIMIENTO FAMILIAR, DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El reglamento interior, manuales operativos y de servicios del Centro Estatal de Fortalecimiento Familiar, deberán expedirse dentro de los siguientes ciento ochenta días naturales posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Centro Estatal de Fortalecimiento Familiar deberá estar en funcionamiento a más tardar el día primero de enero del año dos mil dieciocho.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1446/2016 XX P.E., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XI Y SE ADICIONA UNA FRACCIÓN XI BIS, AL ARTÍCULO 25 DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
