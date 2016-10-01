@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2016-09-28"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -617,13 +617,23 @@ IV. De demostración; y
 
 V. Para motocicletas.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 45.
 
-Las personas con discapacidad neuromotriz permanente que conduzcan o sean transportados en vehículos particulares, así como las personas invidentes, podrán obtener placas de servicio particular con indicación especial de discapacidad, siempre y cuando cumplan con los requisitos necesarios para la expedición del certificado de discapacidad otorgado por el servicio médico oficial; de igual manera se podrán otorgar este tipo de placas para automotores de servicio social destinados al transporte de personas con discapacidad, lo cual deberá acreditarse ante la delegación municipal correspondiente.
+Podrán obtener placas de servicio particular con indicación especial de discapacidad y hacer uso de los cajones especiales en estacionamientos públicos y privados, siempre y cuando cumplan con los requisitos necesarios para la expedición del certificado de discapacidad otorgado por el servicio médico oficial, las personas que conduzcan o sean transportados en vehículos particulares que:
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2006)</small>
+I. Tengan una discapacidad neuromotriz permanente;
 
-La delegación municipal correspondiente, recibirá la solicitud de permisos especiales con la indicación de discapacidad, con una vigencia de hasta tres años, de las personas con discapacidad neuromotriz e invidentes que requieran ser transportados en cualquier vehículo y hacer uso de los cajones especiales, para lo cual deberá reunir los mismos requisitos que se establecen en el primer párrafo de este artículo y deberán ser autorizados por la Dirección, dicha autorización no deberá de exceder de un término de diez días hábiles contados a partir de la solicitud.
+II. Sean invidentes, y
+
+III. Hayan donado o recibido un órgano vital.
+
+En el caso de la fracción III, las placas de servicio particular con indicación especial de discapacidad, tendrán una vigencia de un año.
+
+También podrán obtener placas de servicio particular con indicación especial de discapacidad, los automotores de servicio social destinados al transporte de personas con discapacidad, lo cual deberá acreditarse ante la delegación del municipio correspondiente.
+
+La delegación municipal correspondiente recibirá la solicitud de permisos especiales con la indicación de discapacidad. Reunidos los requisitos señalados en este artículo, la autorización de la dirección no deberá de exceder de un término de diez días hábiles contados a partir de la solicitud y no deberá de tener una vigencia de más de tres años.
 
 ###### Artículo 46.
 
@@ -731,21 +741,23 @@ Para conducir un vehículo, el interesado deberá obtener la licencia otorgada p
 
 La licencia no contendrá los datos del domicilio y teléfono, salvo que el conductor solicite su inclusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 53.
 
-Para obtener la licencia de conducir en cualquiera de sus modalidades, se requiere que el aspirante reúna cuando menos los siguientes requisitos:
+Requisitos para obtener licencia de conducir. Para obtener la licencia de conducir en cualesquiera de sus modalidades, se requiere que el aspirante reúna, cuando menos, los siguientes requisitos:
 
 1. Tener dieciocho años cumplidos al momento de la solicitud;
 
 2. Saber leer y escribir;
 
-3. Aprobar el examen de aptitudes en la conducción y conocimientos teóricos para manejar;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+3. Aprobar el examen de aptitudes en la conducción, que incluya conocimientos teóricos y prácticos a través de un examen presencial ante peritos de tránsito terrestre de la Dirección de Vialidad y Tránsito;
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-4. Aprobar el examen médico de aptitudes físicas y mentales para la conducción;
+4. Aprobar el examen médico de aptitudes físicas y mentales para la conducción, además cuando se trate de expedición de licencia de chofer de servicio público, el examen médico incluirá uno de tipo toxicológico;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1800,6 +1812,14 @@ Se derogan las demás disposiciones que se opongan al presente Decreto.
 P.O. 28 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1445/2016 XX P.E., MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 54 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1302/2013 II P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 45 Y 53 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
