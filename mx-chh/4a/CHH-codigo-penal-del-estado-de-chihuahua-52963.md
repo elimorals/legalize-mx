@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2016-07-09"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -630,6 +630,36 @@ III. La reparación del daño físico, psicológico, material y moral;
 IV. El resarcimiento de los perjuicios ocasionados; y
 
 V. El pago de salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión, en los términos de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 43 Bis.
+
+Para efectos de este Capítulo se entiende por daño moral, el sufrimiento originado a una persona por causa de un delito, en sus sentimientos, decoro, afectos, creencias, honor, reputación, vida privada o aspecto físico, así como el trastorno mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
+
+La reparación del daño moral será fijada por los Jueces, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de esta, tales como su educación, sensibilidad, afectos, cultura y demás similares que tengan relevancia para la fijación del daño causado, para lo cual se tendrá en cuenta el grado de afectación de la víctima y el tipo de terapia que se requiera.
+
+(NOTA: EL 8 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+ADEMÁS DE LAS PENAS SEÑALADAS EN ESTE CÓDIGO, SE IMPONDRÁ SANCIÓN PECUNIARIA DE CIEN HASTA MIL VECES EL SALARIO MÍNIMO VIGENTE AL MOMENTO DE LA COMISIÓN DEL DELITO, POR CONCEPTO DE REPARACIÓN DEL DAÑO MORAL, SI DE CONFORMIDAD CON LAS CONSTANCIAS PROCESALES ASÍ COMO LAS PRUEBAS APORTADAS, SE DETERMINA QUE POR LA AFECTACIÓN PSICOLÓGICA DE LA VÍCTIMA RESULTARE QUE DEBERÁ PROPORCIONARSE TERAPIA DE APOYO A CORTO PLAZO; SI RESULTA QUE DEBERÁ PROPORCIONARSE PSICOTERAPIA A LARGO PLAZO, SE IMPONDRÁ SANCIÓN PECUNIARIA DE TRESCIENTOS A TRES MIL VECES EL SALARIO MÍNIMO.
+
+En los casos de los delitos contra la libertad y seguridad sexual de las personas, la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamiento psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 43 Ter.
+
+Con independencia del que se pueda causar en otros, se presume la existencia de daño moral en los siguientes delitos:
+
+l. Tráfico de menores cuando se realice a cambio de un beneficio económico;
+
+II. Violencia familiar;
+
+III. Violación en cualquiera de sus formas de comisión;
+
+IV. Abuso sexual mediante violencia o cuando se trate de persona menor de edad o que no tenga la capacidad de comprender el significado del hecho; y
+
+V. Privación de la libertad personal agravada.
 
 ###### Artículo 44.
 
@@ -4321,7 +4351,7 @@ En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSÉ REYES BAEZA TERRAZAS. EL SECRETARIO GENERAL DE GOBIERNO. LIC. FERNANDO RODRÍGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 P.O. 27 DE OCTUBRE DE 2007.
 
@@ -4788,6 +4818,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1392/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 233 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 921/2015 II P.O., POR MEDIO DEL CUAL SE ADICIONAN LOS ARTÍCULOS 43 BIS Y 43 TER AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
