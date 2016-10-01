@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-profesiones-para-el-estado-de-chihuahua-11452"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2010-04-10"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -144,6 +144,26 @@ V.- Firma de la persona o personas autorizadas para suscribirlo conforme a las d
 VI.- Fotografía del interesado.
 
 Cuando los títulos, en sus diferentes tipos, niveles o denominaciones, sean expedidos por personas que no tengan el carácter de autoridades federales o funcionarios de las Entidades Federativas, deberán contener la legalización de las firmas de dichas personas, otorgada por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 12 Bis.
+
+La certificación de profesionistas es la evaluación que acredita el entrenamiento, habilidades, destrezas y califica la pericia que se requiere para el ejercicio de actividades profesionales y, en su caso, el grado de especialidad para el ejercicio de la profesión en una rama en específico.
+
+Para acreditar la vigencia de la misma, en su oportunidad, se deberá llevar a cabo la recertificación, que es el procedimiento de evaluación que pretende hacer constar la capacidad, la experiencia en la práctica de procedimientos y técnicas correspondientes en la materia, y el grado de actualización necesarios para el ejercicio de actividades profesionales o de especialidad.
+
+El documento que acredite la evaluación respectiva deberá contar con el reconocimiento oficial de las autoridades educativas correspondientes y tendrá la vigencia que determinen las mismas.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 12 Ter.
+
+La certificación tendrá como objetivo mejorar las condiciones del ejercicio profesional, para obtener una mayor competitividad y ofrecer servicios con ética y calidad.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 12 Cuáter. Cuando existan lineamientos y procedimientos de evaluación específicos, para la expedición de los documentos que acrediten la certificación en una rama o especialidad profesional determinada, las autoridades educativas, sin perjuicio de la competencia que sobre la materia corresponda, deberán atender a los mismos y, en su caso, considerarán la participación de las demás autoridades en la materia.
 
 ### CAPITULO CUARTO.
 
@@ -319,9 +339,17 @@ DE LOS REQUISITOS, DEBERES, DERECHOS Y RESPONSABILIDADES.
 
 Se entiende por ejercicio profesional, para los efectos de esta ley, la realización habitual a título oneroso o gratuito de todo acto, o la prestación de cualquier servicio propio de cada profesión, aun cuando sólo se trate de simple consulta o de la ostentación de carácter de profesionistas por medio de tarjetas, anuncios, placas, insignias o de cualquier otro medio escrito, gráfico o electrónico.
 
-Para efectos de publicidad, los profesionistas deberán citar en sus despachos, oficinas, centros de trabajo, tarjetas de presentación o en cualquier otra forma de publicidad inherente a su profesión o especialidad, el número de su cédula profesional o autorización correspondiente para el ejercicio de su profesión. Además, exhibirán en lugar visible su título profesional o, en su caso, el diploma de la especialidad. También citará el nombre del colegio al que pertenece, en el supuesto de encontrarse afiliado a alguno, con el fin de que el usuario y la sociedad en general cuenten con la garantía de plena identificación del profesionista.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-Las personas que, sin tener título profesional legalmente expedido, actúen o se ostenten como tales, incurrirán en las infracciones que establecen las leyes de la materia.
+Para efectos de publicidad, los profesionistas deberán citar en sus despachos, oficinas, centros de trabajo, tarjetas de presentación o en cualquier otra forma de publicidad inherente a su profesión o especialidad, el número de su cédula profesional y autorización correspondiente para el ejercicio de su profesión o especialidad. Además, exhibirán en lugar visible su título profesional o, en su caso, el diploma de la especialidad, y solo para las ramas o especialidades que así lo requieran por disposición expresa, los documentos que acrediten su certificación vigente.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+También citará el nombre del colegio al que pertenece, en el supuesto de encontrarse afiliado a alguno, con el fin de que el usuario y la sociedad en general cuenten con la garantía de plena identificación del profesionista.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Las personas que sin tener título profesional, legalmente expedido, o de especialidad en una rama específica y los documentos que acrediten la certificación vigente cuando así se requiera, actúen o se ostenten como tales, incurrirán en las infracciones que establecen esta ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 28.
 
@@ -329,7 +357,9 @@ Para ejercer en el Estado de Chihuahua cualquiera de las profesiones reconocidas
 
 I.- Poseer título, en sus diferentes tipos, niveles o denominaciones, legalmente expedido y debidamente registrado en los términos de esta ley;
 
-II.- Obtener la respectiva cédula o constancia de registro estatal o autorización de ejercicio de la Oficina Estatal de Profesiones, lo cual es de su competencia exclusiva;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+II.- Obtener la respectiva cédula o constancia de registro estatal o autorización de ejercicio de la Oficina Estatal de Profesiones, lo cual es de su competencia exclusiva, y en caso de que una rama o especialidad así lo requiera por disposición expresa, los documentos que acrediten su certificación vigente;
 
 III.- Estar en pleno goce y ejercicio de los derechos civiles. El goce y ejercicio de los derechos políticos será exigible sólo a los mexicanos.
 
@@ -338,6 +368,10 @@ III.- Estar en pleno goce y ejercicio de los derechos civiles. El goce y ejercic
 Toda persona a quien legalmente se le haya expedido título profesional, podrá obtener su cédula o autorización correspondiente de ejercicio con efectos de patente, previo el cumplimiento de los requisitos establecidos en los artículos 15 y 16 de esta ley.
 
 Para ostentarse o ejercer como especialista de una profesión, además de cumplir los requisitos anteriores, el especialista deberá contar con diploma de especialidad expedido por un plantel del sistema educativo nacional y con la autorización de la Oficina Estatal de Profesiones.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Cuando existan lineamientos y procedimientos de evaluación específicos para otorgar la autorización de ejercicio al profesional o al especialista de una rama determinada, se deberá atender a los mismos y, en su caso, considerarán la participación de las demás autoridades en la materia.
 
 ###### ARTICULO 30.
 
@@ -935,7 +969,9 @@ I.- El ejercicio ilegal de la profesión;
 
 II.- La publicidad que un profesionista haga de sus actividades, rebasando los conceptos de ética profesional;
 
-III.- La manifestación de tener estudios de licenciatura, especialidad, maestría o doctorado, sin contar con el título o diploma correspondiente debidamente registrado ante la Oficina Estatal de Profesiones;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+III.- La manifestación de tener estudios de licenciatura, especialidad, maestría o doctorado, o en su caso certificación vigente, sin contar con el título o diploma correspondiente debidamente registrado ante la Oficina Estatal de Profesiones, o sin el documento que acredite la certificación, emitido por las autoridades correspondientes.
 
 IV.- Asesorar, patrocinar o representar, simultáneamente, a quienes tengan intereses contrapuestos, en perjuicio de alguna de las partes;
 
@@ -1025,7 +1061,9 @@ IV.- Contra la resolución que emita la comisión técnica estatal no cabrá rec
 
 Es competencia exclusiva de la Oficina Estatal de Profesiones conocer, dictaminar e imponer sanciones:
 
-I.- Cuando una persona desarrolle alguna actividad profesional cuyo ejercicio requiera título o diploma de especialidad, teniéndolos pero sin haberlos registrado y sin haber obtenido la correspondiente autorización;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+I. Cuando una persona desarrolle alguna actividad profesional cuyo ejercicio requiera título o diploma de especialidad y, en su caso, del documento que acredite la certificación vigente, o teniéndolos pero sin haberlos registrado y sin haber obtenido la correspondiente autorización.
 
 En tal supuesto, se aplicará, la primera vez, una multa de hasta cincuenta veces el importe del salario mínimo.
 
@@ -1140,3 +1178,19 @@ LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
 P.O. 10 DE ABRIL DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1240/2015 I P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el ejercicio de actividades profesionales en el campo de la medicina, y demás señaladas en el artículo 79 de la Ley General de Salud, se otorgará el plazo de dos años para cumplir con el requisito de obtener el documento que acredite la certificación vigente en el ramo de la salud correspondiente, así como el registro ante la Oficina Estatal de Profesiones, contado a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Salud del Estado, participará en el cumplimiento de estas disposiciones y de los demás lineamientos que al efecto emita la Secretaría de Salud Federal, a fin de homologar la calidad técnica e interpersonal de los servicios de salud.
