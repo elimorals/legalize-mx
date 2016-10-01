@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2016-07-16"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL PRIMERO DE OCTUBRE DE 2016.]</small>
-
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE JULIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1089,7 +1085,13 @@ X.- Conocer y, opinar, en su caso, sobre el Reglamento Interior de la Auditoría
 
 XI.- Tener acceso a los documentos de trabajo que se generen con motivo de las revisiones practicadas a los entes fiscalizables por la Auditoría Superior del Estado.
 
-XII.- Las demás que establezcan esta Ley, sus reglamentos y demás disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XII.- Recibir de los Entes Fiscalizables las aclaraciones, información y documentación que estimen pertinentes para solventar las observaciones contenidas en los Informes Técnicos de Resultados.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE OCTUBRE DE 2016)</small>
+
+XIII.- Las demás que establezcan esta Ley, sus reglamentos y demás disposiciones legales aplicables.
 
 ### CAPÍTULO V. DE LOS COMITÉS
 
@@ -2226,3 +2228,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecinueve días del mes de enero del año dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1624/2016 XXII P.E., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XII Y SE ADICIONA CON UNA FRACCIÓN XIII EL ARTÍCULO 114 DE LA NUEVA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, QUE ENTRARÁ EN VIGOR EL 1° DE OCTUBRE DEL 2016”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
