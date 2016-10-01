@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2016-01-09"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -277,9 +275,17 @@ IV.- Las Asociaciones Deportivas Estatales;
 
 V.- Los Consejos Estatales del Deporte Estudiantil.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-VI.- Las Asociaciones y Sociedades que estén reconocidas en términos de esta Ley y su Reglamento.
+VI. La Facultad de Ciencias de la Cultura Física de la Universidad Autónoma de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VII. El Instituto de Ciencias Biomédicas de la Universidad Autónoma de Ciudad Juárez.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+VIII. Las Asociaciones y Sociedades que estén reconocidas en términos de esta Ley y su Reglamento.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -771,9 +777,19 @@ i) Un representante de los deportistas con capacidades diferentes;
 
 j) Un representante de los deportistas del Programa del Adulto Mayor;
 
-k) Un representante del sector privado; y
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+k) Un representante del sector privado.
 
 l) Un representante del sector social.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+m) Un representante de la Facultad de Ciencias de la Cultura Física de la Universidad Autónoma de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+n) Un representante del Instituto de Ciencias Biomédicas de la Universidad Autónoma de Ciudad Juárez.
 
 ###### Artículo 30.
 
@@ -997,17 +1013,17 @@ En caso de que no se arribe a una resolución satisfactoria en el procedimiento 
 
 En ausencia del Presidente, en cualquiera de las sesiones, uno de los miembros del Pleno, a elección de las partes, asumirá sus funciones temporalmente.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 Cuando la ausencia del Presidente sea definitiva, el titular del Ejecutivo Estatal designará de entre los Miembros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Miembros Titulares, el titular del Ejecutivo Estatal, designará a quien deba sustituirlo para que concluya el periodo respectivo.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-A.
 
 El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión. Asimismo, proporcionará anualmente el presupuesto para su funcionamiento.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-B.
 
@@ -1251,19 +1267,27 @@ En caso de que exista alguna controversia en cualquiera de las fases de los proc
 
 Las resoluciones definitivas dictadas por el Consejo Estatal, en relación con la solución de las controversias a que se refiere el párrafo anterior, podrán ser impugnadas mediante el recurso de apelación ante la Comisión.
 
-La Comisión Estatal, terminado el proceso electoral respectivo, expedirá la constancia que corresponda.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+El Consejo Estatal, terminado el proceso electoral respectivo, expedirá la constancia que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 61-C.
 
-la Comisión Estatal se integrará por un Consejero Presidente y dos Consejeros Titulares con sus respectivos suplentes, designados por la Junta Directiva del Instituto.
+El Consejo Estatal se integrará por un Consejero Presidente y dos Consejeros Titulares con sus respectivos suplentes, designados por la Junta Directiva del Instituto.
 
-La designación deberá recaer en personas con profesión de Licenciado en Derecho, conocimiento en el ámbito deportivo, así como reconocido prestigio y calidad moral.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+La designación deberá recaer en personas con profesión de Licenciado en Derecho que posean conocimientos en el ámbito deportivo, así como reconocido prestigio y calidad moral.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su encargo, pudiendo ser ratificados por un periodo más.
 
-El funcionamiento, integración y operación de la Comisión Estatal estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+El funcionamiento y atribuciones del Consejo Estatal estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 #### SECCIÓN TERCERA. DE OTRAS ASOCIACIONES Y SOCIEDADES
 
@@ -2248,6 +2272,14 @@ Las modificaciones necesarias al Reglamento Interior del Instituto se harán den
 P.O. 9 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1030/2015 I P.O., MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 3, ASÍ COMO LOS ARTÍCULOS 31 BIS Y 31 TER, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1444/2016 XX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
