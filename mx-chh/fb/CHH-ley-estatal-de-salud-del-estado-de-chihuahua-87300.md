@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2016-07-16"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -481,6 +481,10 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Tratándose de las personas que deban ser rehabilitadas como consecuencia del cáncer de mama, tendrán que ser evaluadas para determinar el tipo de rehabilitación integral que requieran, conforme a las disposiciones de la Norma Oficial Mexicana correspondiente.
+
 IV.- La atención materno-infantil.
 
 V.- La salud reproductiva.
@@ -532,6 +536,14 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno.
 
 III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas o mentales.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Tratándose de las personas que deban ser rehabilitadas como consecuencia del cáncer de mama, tendrán que ser evaluadas para determinar el tipo de rehabilitación integral que requieran.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Si de la evaluación médica se deprende (sic) que se requiere la reconstrucción de mama, las instituciones públicas de salud en el Estado, llevarán a cabo las acciones para cumplir con esta disposición, en los términos de la Norma Oficial Mexicana correspondiente, para lo cual harán las previsiones presupuestales correspondientes.
 
 IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
@@ -594,6 +606,26 @@ La Secretaría, en coordinación con las autoridades educativas, vigilará, en e
 ###### Artículo 48.
 
 La Secretaría coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Artículo 48 bis.- Los procedimientos médico quirúrgicos de especialidad, serán realizados exclusivamente por profesionales de la salud que cumplan con los requisitos previstos en el artículo 94 de esta Ley.
+
+Para efectos de este artículo, se entenderá por Procedimiento Médico Quirúrgico, cualquier actividad médica que se lleve a cabo en una sala de cirugía de tipo hospital o ambulatorio, en la que se utilice cualquier tipo de anestesia, que requiere de cuidados pre, trans y/o postoperatorios especiales en áreas de hospitalización o, en su caso, en salas de recuperación ambulatoria.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Artículo 48 ter.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud, especializados y certificados en dichas materias, de conformidad con lo que establece esta Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Artículo 48 cuáter.- Se entiende por procedimientos mínimamente invasivos, a aquellos que son diferentes al campo invasivo quirúrgico y que tienden a mejorar el aspecto y la condición de la salud de los pacientes que se conforman por terapias médica y cosmética.
+
+Los profesionales que presten los tratamientos referidos en el párrafo anterior, se regirán de acuerdo al artículo 94 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Artículo 48 quinquies.- La oferta de los servicios a que se refieren los artículos 48 bis, 48 ter y 48 cuáter, que se promuevan a través de cualquier medio de comunicación, deberán contener en su información de publicidad, los requisitos establecidos en dichos preceptos.
 
 ### CAPÍTULO IV. USUARIOS DE LOS SERVICIOS DE SALUD
 
@@ -987,11 +1019,19 @@ III.- Los convenios que al efecto se suscriban entre el Ejecutivo del Estado y l
 
 IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 94.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, señaladas por el artículo 79 de la Ley General de Salud, sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales y los certificados de especialización hayan sido legalmente expedidos y registrados ante las autoridades educativas competentes.
+Quienes ejerzan las actividades profesionales en el campo de la medicina, señaladas por el artículo 79 de la Ley General de Salud, sus ramas y las demás que establezcan otras disposiciones legales aplicables, deberán contar con título y cédula profesional y, en su caso, el grado de especialidad médica.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, establecidos en el referido artículo de la Ley General de Salud, y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Tratándose de especialidades médicas, deberán contar con certificación vigente, mediante la cual acredite el entrenamiento, habilidades, destrezas y calificación de la pericia que se requiere para su ejercicio, de acuerdo a la Lex Artis Ad Hoc de cada profesión y especialidad médica.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+Los documentos señalados, deberán ser expedidos y registrados ante las autoridades educativas y de salud competentes, atendiendo, en su caso, a lo dispuesto en el artículo 81 de la Ley General de Salud.
 
 ###### Artículo 95.
 
@@ -999,11 +1039,13 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 En el caso de que exista convenio entre el Ejecutivo del Estado y el Federal, en materia de registro profesional y expedición de cédulas profesionales, el Ejecutivo Estatal cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 96.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional.
+Quienes ejerzan las actividades profesionales, técnicas, auxiliares y las de grado de especialidad a que se refiere este Capítulo, deberán poner a la vista y a disposición del público, los documentos que señalen la institución que les expidió el título y cédula profesional, el diploma de Especialidad o documentos que acrediten la certificación vigente, de conformidad a lo dispuesto en el artículo 94 de esta Ley.
 
-Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
+Además, estas menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
 ### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
@@ -2715,7 +2757,7 @@ II.- Salones de belleza, aquellos establecimientos dedicados al arreglo estétic
 
 III.- Salas de masaje, aquellos establecimientos dedicados a proporcionar al público servicios de masaje corporal, a través de instrumentos o técnicas físicas. Dentro de estos establecimientos, queda prohibido ofrecer y/o prestar cualquier servicio sexual.
 
-IV.- Medicina estética, aquellos tratamientos que no son invasivos y tienden a mejorar el aspecto y la condición de la salud de los pacientes; se conforma por terapias médica y cosméticas, enmarcándose en maniobras terapéuticas diferentes al campo invasivo quirúrgico.
+IV.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2016)
 
 V.- Embellecimiento físico, los procedimientos que se utilizan para modificar las características externas y superficiales del cuerpo humano, mediante la aplicación de sustancias, preparados de uso externo, productos cosméticos de uso tópico, así como utensilios, herramientas y equipo sin implicaciones médicas, en su caso, y que son destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física, sin que exista intervención quirúrgica ni aplicación de cualquier procedimiento de atención médica.
 
@@ -3634,3 +3676,25 @@ P.O. 16 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 1240/2015 I P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el ejercicio de actividades profesionales en el campo de la medicina, y demás señaladas en el artículo 79 de la Ley General de Salud, se otorgará el plazo de dos años para cumplir con el requisito de obtener el documento que acredite la certificación vigente en el ramo de la salud correspondiente, así como el registro ante la Oficina Estatal de Profesiones, contado a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Salud del Estado, participará en el cumplimiento de estas disposiciones y de los demás lineamientos que al efecto emita la Secretaría de Salud Federal, a fin de homologar la calidad técnica e interpersonal de los servicios de salud.
+
+P.O. 1 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1385/2016 II P.O., POR MEDIO DEL CUAL SE ADICIONAN UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 34, Y LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN III DEL PÁRRAFO PRIMERO DEL ARTÍCULO 40, AMBOS PRECEPTOS DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
