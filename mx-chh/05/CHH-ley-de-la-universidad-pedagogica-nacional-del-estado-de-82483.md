@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-pedagogica-nacional-del-estado-de-82483"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2011-08-06"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE LA UNIVERSIDAD PEDAGOGICA NACIONAL DEL ESTADO DE CHIHUAHUA
 
-LEY DE LA UNIVERSIDAD PEDAGOGICA NACIONAL DEL ESTADO DE CHIHUAHUA
+LEY DE LA UNIVERSIDAD PEDAGÓGICA NACIONAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 6 de agosto de 2011.
 
@@ -51,9 +51,11 @@ LEY DE LA UNIVERSIDAD PEDAGÓGICA NACIONAL DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO ÚNICO. De su Naturaleza y Objeto
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea la Universidad Pedagógica Nacional del Estado de Chihuahua, como un Organismo Público Descentralizado del Gobierno del Estado de Chihuahua, adscrito a la Secretaría de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Capital del Estado.
+Se crea la Universidad Pedagógica Nacional del Estado de Chihuahua, como un Organismo Público Descentralizado del Gobierno del Estado de Chihuahua, adscrito a la Secretaría de Educación y Deporte del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Capital del Estado.
 
 ###### ARTÍCULO 2.
 
@@ -131,7 +133,9 @@ Contará además con un órgano consultivo y de apoyo denominado Consejo Social.
 
 La Junta Directiva es la máxima autoridad de la Universidad Pedagógica Nacional del Estado de Chihuahua, y estará integrada por siete miembros que serán:
 
-I.- El Secretario de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, quien la presidirá;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I.- El Secretario de Educación y Deporte del Poder Ejecutivo del Estado, quien la Presidirá;
 
 II.- El Secretario de Hacienda del Poder Ejecutivo del Estado;
 
@@ -463,15 +467,19 @@ Las agrupaciones de alumnos de la Universidad Pedagógica Nacional del Estado de
 
 ### CAPÍTULO ÚNICO. Del Comisario Público
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 45.
 
-La Universidad Pedagógica Nacional del Estado de Chihuahua, contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de la Contraloría del Estado.
+La Universidad Pedagógica Nacional del Estado de Chihuahua, contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de la Función Pública del Estado.
 
-El Comisario Público evaluará el desempeño general y por funciones de la Universidad Pedagógica Nacional del Estado de Chihuahua; realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría del Estado le asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, la Junta Directiva y el Rector deberán proporcionar la información que solicite el Comisario.
+El Comisario Público evaluará el desempeño general y por funciones de la Universidad Pedagógica Nacional del Estado de Chihuahua; realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado le asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, la Junta Directiva y el Rector deberán proporcionar la información que solicite el Comisario.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 46.
 
-Las facultades y obligaciones del Comisario Público serán las previstas en las leyes aplicables respecto a la Secretaría de la Contraloría del Estado.
+Las facultades y obligaciones del Comisario Público serán las previstas en las leyes aplicables respecto a la Secretaría de la Función Pública del Estado.
 
 ###### ARTÍCULO 47.
 
@@ -489,9 +497,11 @@ Para la liquidación y extinción de la Universidad, se seguirán las mismas for
 
 En su caso, la extinción del organismo será comunicada al Congreso del Estado, mediante formal iniciativa, a fin de que proceda a abrogar el presente Decreto. Para tal efecto, el Ejecutivo deberá proporcionar al Legislativo, toda la información relativa al procedimiento de liquidación y extinción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 50.
 
-En caso de que la Universidad Pedagógica Nacional del Estado de Chihuahua, deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la Secretaría de Educación, Cultura y Deporte y de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquélla.
+En caso de que la Universidad Pedagógica Nacional del Estado de Chihuahua, deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la Secretaría de Educación y Deporte y de la Secretaría de la Función Pública, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquélla.
 
 Así mismo, podrá proponer su fusión o escisión, cuando su actividad combinada o separada redunde en un incremento de eficiencia y productividad, que en su caso deberá ser aprobada por el Congreso del Estado.
 
@@ -580,3 +590,81 @@ LIC. CÉSAR HORACIO DUARTE JÁQUEZ
 LA SECRETARIA GENERAL DE GOBIERNO
 
 LIC. GRACIELA ORTÍZ GONZÁLEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
