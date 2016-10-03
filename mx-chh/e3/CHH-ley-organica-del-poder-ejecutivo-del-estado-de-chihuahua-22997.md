@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2016-06-18"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -279,11 +279,9 @@ I.- Secretaría General de Gobierno;
 
 II.- Secretaría de Hacienda;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-III.- Secretaría de Economía;
+III. Secretaría de Innovación y Desarrollo Económico.
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -291,11 +289,9 @@ IV. Secretaría de Desarrollo Social;
 
 V.- Secretaría de Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-VI.- Secretaría de Educación, Cultura y Deporte;
+VI. Secretaría de Educación y Deporte.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -303,9 +299,9 @@ VI.- Secretaría de Educación, Cultura y Deporte;
 
 VII.- Secretaría del Trabajo y Previsión Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
 
-VIII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+VIII. Secretaría de Cultura.
 
 IX.- Secretaría de Comunicaciones y Obras Públicas;
 
@@ -313,11 +309,13 @@ X.- Secretaría de Desarrollo Urbano y Ecología;
 
 XI.- Secretaría de Desarrollo Rural;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+XII. Secretaría de Desarrollo Municipal.
 
-XIII.- Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIII. Secretaría de la Función Pública.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -325,13 +323,13 @@ XIII.- Secretaría de la Contraloría;
 
 XIV.- Fiscalía General del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XV.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+XV. Coordinación Ejecutiva de Gabinete.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XVI.- (DEROGADA [N. DE. E., REPUBLICADA], P.O. 25 DE SEPTIEMBRE DE 2010)
+XVI. Comisión Estatal para los Pueblos Indígenas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -347,13 +345,17 @@ I.- Los que le encomienda directamente la Constitución Política del Estado;
 
 II.- Conducir los asuntos internos del orden político del Estado;
 
-III.- Conducir y coordinar las relaciones del Poder Ejecutivo con la Federación, con los otros Poderes del Estado, con los Ayuntamientos de la Entidad y los Agentes Consulares, en lo relativo a su competencia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+III.- Conducir y coordinar las relaciones del Poder Ejecutivo con la Federación, con los otros Poderes del Estado, y los Agentes Consulares, en lo relativo a su competencia;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 IV.- Designar a los representantes que integrarán el Jurado, para seleccionar y someter al Pleno del Congreso la terna integrada por los candidatos a Magistrados del Supremo Tribunal de Justicia mejor calificados; asimismo, intervenir en la integración de las ternas para la designación de los Consejos Municipales y demás funcionarios, de conformidad con lo dispuesto por la Constitución Política del Estado;
 
-V.- Asesorar jurídicamente a las dependencias y entidades del Ejecutivo, así como a los Ayuntamientos que lo soliciten;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+V.- Asesorar jurídicamente a las dependencias y entidades del Ejecutivo;
 
 VI.- Atender lo relativo a la remisión de iniciativas de leyes y decretos enviados por el Ejecutivo al Congreso del Estado;
 
@@ -369,9 +371,7 @@ IX.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2004)
 
 X.- Llevar un registro general de firmas de funcionarios y atender todo lo relativo a la legalización de firmas y certificaciones expedidas por el Ejecutivo;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-XI.- Apoyar las actividades de las autoridades municipales y comunicarles los acuerdos del Ejecutivo, inspeccionando su funcionamiento y dictando las medidas preventivas del caso, en los términos de la Constitución;
+XI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
 XII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
@@ -399,29 +399,15 @@ XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en rela
 
 XIX. Ejercer y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones o permisos de servicio público de transporte de personas, de carga o mixto, en las carreteras y demás vías de comunicación de competencia estatal; y
+XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones o permisos de servicio público de transporte de personas, de carga o mixto, en las carreteras y demás vías de comunicación de competencia estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XXI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XXII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
-XXI. Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
-
-Así mismo, dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-XXII. Brindar capacitación permanente a los miembros de los ayuntamientos y de la administración pública municipal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-XXIII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana; participar en comités, consejos y demás órganos de coordinación de la Administración Pública vinculados con la promoción del desarrollo municipal;
+XXIII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -435,11 +421,9 @@ XXIV. Intervenir, en auxilio y coordinación con las autoridades federales, en l
 
 XXV. Fomentar y apoyar la realización de programas de colaboración intermunicipales, para coadyuvar e incidir en la prevención o solución de problemas comunes a más de un municipio o que faciliten la convivencia de sus habitantes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-XXVI. Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población.
+XXVI. Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -667,55 +651,179 @@ XXII.- Administrar el patrimonio de la Beneficencia Pública en materia de salud
 
 XXIII.- Las demás que le fijen expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+ARTICULO 27 TER. A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar y conducir la política cultural del Estado, con la participación de las dependencias y entidades de la Administración Pública estatal que corresponda;
+
+II. Impulsar actividades de difusión y fomento a la cultura;
+
+III. Otorgar a instituciones y particulares becas, subsidios culturales, conforme a los montos autorizados en el Presupuesto de Egresos;
+
+IV. Promover la investigación artística y cultural en el Estado.
+
+V. Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicadas a actividades culturales;
+
+VI. Vigilar y dar el cumplimiento de las leyes y reglamentos en relación a las funciones de fomento cultural, así como vigilar la organización y el funcionamiento de las unidades administrativas e instituciones que ejerzan dicha atribución;
+
+VII. Organizar y dirigir las actividades de los centros de cultura del estado en lo referente a teatros, auditorios, bibliotecas y museos, entre otros;
+
+VIII. Impulsar y apoyar obras y proyectos artísticos para fomentar la oferta cultural;
+
+IX. Conservar y proteger los monumentos y el patrimonio cultural del Estado;
+
+X. Proponer los programas de educación artística a los organismos y entidades estatales;
+
+XI. Conservar el imprescindible vínculo indisoluble entre educación y cultura como elemento sustantivo para la unidad, cohesión social y la reproducción cultural y de identidad del Estado.
+
+XII. Promover y difundir la cultura de los pueblos y comunidades indígenas asentados en el Estado;
+
+XIII. Organizar un sistema de consulta a pueblos y comunidades sobre el impacto o afectación a los bienes culturales tangibles e intangibles, por la construcción, desarrollo, uso, explotación o aprovechamiento de zonas o áreas de jurisdicción del Estado;
+
+XIV. Promover e impulsar las costumbres, tradiciones y el arte popular;
+
+XV. Establecer órganos ciudadanos de asesoría y evaluación de resultados administrativos y programáticos para la toma de decisiones en el ámbito de las distintas ramas artísticas;
+
+XVI. Promover la cultura ciudadana basada en valores cívicos, éticos y de identidad, y
+
+XVII. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 28.
 
-A la Secretaría de Economía corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Innovación y Desarrollo Económico corresponde el despacho de los siguientes asuntos:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 I. Promover, fomentar e impulsar las actividades industriales, forestales, mineras, comerciales y turísticas en la Entidad;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 II. Formular y promover el establecimiento de medidas para fomentar la innovación y competitividad en los procesos productivos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 III. Promover el crecimiento económico de los municipios y las regiones de la Entidad, sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 IV. Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 V. Asesorar y orientar a los inversionistas extranjeros y nacionales para la creación de empresas industriales, forestales, mineras, comerciales y turísticas y demás sectores productivos, a fin de promover fuentes de empleo;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 VI. Establecer un sistema de información integral de los principales sectores productivos del Estado, incluyendo las actividades industrial, comercial, turística, minera, forestal, agroindustrial, frutícola, pecuaria y de todas las que por su importancia se consideren estratégicas para el desarrollo económico, así como los mecanismos necesarios para su difusión;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VII. Elaborar y mantener actualizado el inventario de infraestructura industrial, turístico, forestal y minero;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 VIII. Proporcionar asistencia técnica a la pequeña y mediana industria, en coordinación con los gobiernos federal y municipales, así como con los sectores privado y social;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 IX. Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores industrial, comercial, turístico, minero, agroindustrial, forestal y pecuario y demás sectores productivos;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 X. Promover y apoyar el desarrollo de empresas industrializadoras de productos agrícolas, pecuarios y frutícolas, preferentemente en las zonas rurales de la Entidad, con el fin de impulsar la creación de empleos y contribuir al arraigo de la población;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XI. Apoyar los trámites relativos a la creación, establecimiento, regularización y funcionamiento de las microindustrias en el Estado;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 XII. Fomentar el desarrollo de la industria maquiladora y el de sus proveedores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIII. Promover la participación de los empresarios en la creación de centros de abasto;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 XIV. Proponer acciones y alternativas de solución a la problemática que enfrenta el comercio organizado, conjuntamente con las autoridades federales y municipales y el sector comercio;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XV. Diseñar estrategias e instrumentos de promoción para que el turismo del Estado tenga difusión a nivel nacional e internacional;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 XVI. Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVII. Coordinar las gestiones encaminadas a dotar a las localidades turísticas de infraestructura de comunicaciones y apoyar los servicios públicos y de equipamiento urbano necesarios;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 XVIII. Instrumentar el sistema de información turística estatal, para promover nacional e internacionalmente los destinos turísticos locales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIX. Otorgar la asistencia técnica que en materia turística requieran los prestadores de estos servicios;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 XX. Diseñar proyectos turísticos que involucren directamente a los pobladores en las actividades de inversión para el desarrollo de las regiones;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 XXI. Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la preservación del ambiente natural;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓM, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXII. Ejercer las atribuciones derivadas de los convenios que en materia de desarrollo económico celebre el Gobierno del Estado con el Gobierno Federal o con los municipios de la Entidad, así como con instituciones y personas morales públicas y privadas;
 
@@ -735,13 +843,11 @@ XXV. Los demás que fijen expresamente las leyes y sus reglamentos.
 
 ARTICULO 28 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 29.
 
-A la Secretaría de Educación, Cultura y Deporte corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Educación y Deporte corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
@@ -763,43 +869,31 @@ IV.- Revalidar los estudios, diplomas, grados o títulos equivalentes a la ense�
 
 V.- Coordinar con las universidades e instituciones de educación superior lo relativo al servicio social de pasantes y demás aspectos educativos que se acuerden con ellas;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+VI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
-VI.- Impulsar actividades de difusión y fomento a la cultura;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+VII.- Otorgar a instituciones y particulares becas, subsidios educativos y deportivos, conforme a los montos autorizados en el Presupuesto de Egresos;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-VII.- Otorgar a instituciones y particulares becas, subsidios educativos, culturales y deportivos, conforme a los montos autorizados en el Presupuesto de Egresos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-VIII.- Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicados a actividades deportivas y culturales;
+VIII.- Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicadas a actividades deportivas;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 IX.- Ejercer las atribuciones establecidas en la Ley Estatal de Profesiones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-X.- Dirigir y vigilar el cumplimiento de las leyes y reglamentos en relación a las funciones educativas y de fomento cultural y deportivo, así como vigilar la organización y el funcionamiento de las unidades administrativas e instituciones que ejerzan las atribuciones anteriores;
+X.- Dirigir y vigilar el cumplimiento de las leyes y reglamentos en relación a las funciones educativas y deportivo (sic), así como vigilar la organización y el funcionamiento de las unidades administrativas e instituciones que ejerzan las atribuciones anteriores;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
 XI.- Organizar, coordinar y apoyar las actividades cívico-sociales, para fomentar el civismo y valores entre la población;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+XII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
-XII.- Organizar y dirigir las actividades de los centros de cultura del estado en lo referente a teatros, bibliotecas y museos, entre otros;
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
-
-XIII.- Impulsar y apoyar obras materiales para fortalecer el patrimonio cultural;
+XIII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
@@ -1037,53 +1131,81 @@ XXII. Coordinar, supervisar y evaluar las actividades y resultados de las entida
 
 XXIII. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 34.
 
-A la Secretaría de la Contraloría corresponde el despacho de los siguientes asuntos:
+A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
 
-I.- Realizar auditorías integrales a las dependencias y entidades de la administración pública estatal, con objeto de verificar el ingreso y el gasto público, así como el cumplimiento de los programas del presupuesto de egresos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I.- Realizar auditorías integrales a las dependencias y entidades de la administración pública estatal, con objeto de verificar el ingreso y el gasto público; el cumplimiento de los programas del presupuesto de egresos y la evaluación y mejora de la gestión gubernamental;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 II.- Practicar auditorías, revisiones e inspecciones a los municipios, cuando ejecuten programas financiados con recursos federales o estatales, para verificar la correcta aplicación de los mismos, en los términos de las leyes y de los convenios y acuerdos celebrados;
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 III.- Promover y supervisar el adecuado funcionamiento de los mecanismos de control de los programas de inversión de la administración pública estatal, así como de aquellos programas convenidos por el Estado con la federación, los municipios y los beneficiarios de los mismos;
 
-IV.- Vigilar el cumplimiento de la normatividad que regula la ejecución de obra pública, las adquisiciones, los arrendamientos y la prestación de servicios, así como de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y, en su caso, determinar y aplicar sanciones de índole administrativa, en la forma y términos que determinan las leyes relativas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-V.- Realizar las acciones de fiscalización que se deriven de los convenios o acuerdos celebrados con el gobierno federal en materia de obra pública, con el fin de lograr el ejercicio eficiente, transparente y honesto de los recursos federales asignados a la ejecución de programas concertados con el Estado o municipios;
+IV.- Vigilar el cumplimiento de la normatividad que regula la ejecución de obra pública, las adquisiciones, los arrendamientos y la prestación de servicios.
+
+Así como vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, demás normatividad en materia de Responsabilidades Administrativas, y en su caso, investigar, determinar y aplicar sanciones de índole administrativa, en la forma y términos que determinen las leyes relativas;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+V.- Realizar las acciones de fiscalización que se deriven de los convenios o acuerdos celebrados con el Gobierno Federal, con el fin de revisar el ejercicio eficiente, transparente y honesto de los recursos federales asignados a la ejecución de programas concertados con el Estado o municipios;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 VI.- Promover, en el ámbito de su competencia, la celebración de convenios o acuerdos de coordinación con los ayuntamientos, para impulsar la instrumentación y el fortalecimiento de los sistemas municipales de control de la gestión pública, proporcionándoles la asesoría y el apoyo técnico que en su caso requieran, particularmente por lo que respecta a los recursos concertados con los gobiernos federal y estatal;
 
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 VII.- Recibir y revisar las declaraciones de situación patrimonial de los servidores públicos que corresponda y, en su caso, imponer las sanciones administrativas en la forma y términos que determina la ley de la materia;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 VIII.- Practicar auditorías a las entidades paraestatales y a los municipios cuando utilicen recursos federales o estatales, con motivo del ejercicio de las atribuciones que en esta materia lleve a cabo por sí o por conducto de firmas profesionales independientes;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-IX.- Seleccionar, con la opinión del Titular de la Secretaría de Finanzas y Administración, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
+IX.- Seleccionar, con la opinión del Titular de la Secretaría de Hacienda del Estado, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-X.- Operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos la atención de sus quejas y denuncias;
+X.- Establecer, operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos la atención de sus quejas, solicitudes y denuncias, así como expedir acuerdos, circulares y disposiciones administrativas que implementen las figuras de contralorías sociales y consejos ciudadanos y en general los mecanismos necesarios de participación ciudadana en las dependencias y organismos que integran la Administración Pública Estatal que corresponda, con el objetivo de promover una participación ciudadana activa y eficaz;
 
-XI.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
+XI.- Proponer al Titular del Ejecutivo la expedición o reforma de Reglamentos para mejor proveer de la Administración Pública Estatal y disponer de la infraestructura necesaria para implementar la política de Gobierno Abierto y Transparente de la Administración Pública Estatal;
 
-XIII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XIV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
+XII.- Diseñar, implementar, coordinar y evaluar el Control Interno y mejora de los Procesos de las Dependencias y Organismos de la Administración Pública Estatal, así como, proponer al Titular del Ejecutar (sic) la expedición del Código de Conducta y el Reglamento de Integridad para el ejercicio del servicio público de la Administración Pública Estatal;
 
-XV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIII.- Proponer al Titular del Ejecutivo las bases, principios y lineamientos de coordinación que permitan el cumplimiento de las obligaciones o facultades de los integrantes del Sistema Estatal Anticorrupción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIV.- Informar a los integrantes del Sistema Estatal Anticorrupción y al Titular del Ejecutivo del Estado, los resultados de la evaluación sobre la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos, emitiendo recomendaciones a las autoridades que corresponda, las acciones que puedan corregir las irregularidades detectadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XV.- Conocer e investigar los actos u omisiones de los Servidores Públicos de la Administración Pública Estatal que pudieran constituir Responsabilidades Administrativas, en su caso, calificarlas de graves o no graves, substanciar los procedimientos de responsabilidad correspondientes cuando se trate de actos u omisiones no graves, conforme la ley de la materia, imponer las sanciones que correspondan y cuando se trate de sanciones administrativas graves, elaborar el informe de presunta responsabilidad, y presentarlo ante la autoridad sancionadora para la imposición de las sanciones correspondientes, y cuando se trate de actos u omisiones que pudieran ser constitutiva (sic) de delitos, denunciarlo ante la autoridad investigadora competente, en los términos de las leyes aplicables;
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
 XVI.- En representación del Estado, salvo disposición expresa del Gobernador, formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales, pudiendo conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la administración pública;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1109,17 +1231,13 @@ XX. Planear, desarrollar y mantener la infraestructura de tecnología de informa
 
 XXI. Desarrollar los sistemas informáticos, con excepción de aquellos sistemas y equipos estratégicos bajo la responsabilidad de otras dependencias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
+XXII. Diseñar e implementar el sistema de entrega-recepción en los términos de la ley de la materia;
 
-XXII. Diseñar e implementar el sistema de entrega-recepción en los términos de la ley de la materia.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
-
-> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
-
-XXIII. Intervenir en los supuestos y formas señalados en la Ley de Entrega-Recepción para el Estado de Chihuahua.
+XXIII. Intervenir en los supuestos y formas señalados en la Ley de Entrega-Recepción para el Estado de Chihuahua, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
 
@@ -1223,21 +1341,145 @@ IV. Diseñar la política criminal para la aplicación de las medidas de segurid
 
 V. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-ARTICULO 35 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+ARTICULO 35 BIS. A la Secretaría de Desarrollo Municipal corresponde el despacho de los siguientes asuntos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+I. Coadyuvar al desarrollo de los municipios;
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+II. Elaborar los planes y programas tendientes a apoyar el desarrollo de los Municipios, mediante el mejor aprovechamiento de sus recursos;
+
+III. Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los Municipios para fortalecer el Desarrollo Económico y Social de éstos;
+
+IV. Proponer al Ejecutivo la celebración de convenios de coordinación con los Municipios, para la realización de obras y la prestación de Servicios Públicos;
+
+V. Gestionar el apoyo a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales;
+
+VI. Promover el desarrollo equilibrado de los municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona;
+
+VII. Fomentar e impulsar la participación de los ayuntamientos en los programas que tienen al desarrollo de los mismos;
+
+VII (SIC). Promover la participación ciudadana de forma organizada que impulse el desarrollo comunitario para el cumplimiento de planes y programas de los Municipios;
+
+IX. Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
+
+Así mismo, dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
+
+X. Asesorar, impartir y organizar cursos y talleres de capacitación y actualización administrativa y jurídica para el desempeño de las funciones municipales, y
+
+XI. Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 35 TER.- La Coordinación Ejecutiva del Gabinete será el órgano de la Administración Pública centralizada, que dé seguimiento a las Políticas Públicas y al Plan Estatal de Desarrollo, los acuerdos dictados por el Gobernador del Estado, facilitando la comunicación entre los titulares de las dependencias, que además (sic), las siguientes atribuciones:
+
+I. Coordinar la elaboración del Plan Estatal de Desarrollo y los Informes de Gobierno;
+
+II. Dar seguimiento a los acuerdos y compromisos que instruya el Gobernador;
+
+III. Planificar los asuntos estratégicos y la priorización de las acciones de la Administración Pública estatal;
+
+IV. Realizar estudios y proponer al Gobernador del Estado alternativas de reorganización de los servicios que prestan las distintas dependencias, así como detectar necesidades e implementar acciones de optimización y sinergia de los procesos administrativos internos;
+
+V. Proponer al Gobernador los proyectos de políticas públicas, reglamentos internos, manuales y disposiciones de carácter general para la administración pública centralizada y en el ámbito de su competencia;
+
+VI. Armonizar que los planes, programas y funcionamiento de las dependencias y entidades de la administración pública se ajusten al Plan Estatal de Desarrollo;
+
+VII. Recopilar y sistematizar la información de actividades e informar al Gobernador de los resultados y desempeño de las tareas que lleven a cabo las dependencias de la Administración Pública centralizada, y
+
+VIII. Las demás que expresamente le encomienden las leyes, reglamentos y acuerdos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 35 QUATER. A la Comisión Estatal para los Pueblos Indígenas corresponde el despacho de los siguientes asuntos:
+
+I. Diseñar e instrumentar las políticas públicas para los pueblos y comunidades indígenas sustentadas en el respeto a sus derechos humanos y en la transversalidad intercultural de la acción institucional que responda a la realidad indígena.
+
+II. Diseñar y operar un mecanismo de consulta y participación indígenas, estableciendo los procedimientos técnicos y metodológicos para promover la participación de las autoridades tradicionales y de las comunidades de los pueblos indígenas en la formulación, ejecución, administración y evaluación de los planes y programas de desarrollo social y humano dirigidos a ellas.
+
+III. Actualizar sistemáticamente el diagnóstico de la realidad de los Pueblos y Comunidades Indígenas del Estado, mediante una metodología participativa.
+
+IV. Ser Instancia de participación y consulta para la formulación, ejecución y evaluación de los planes, programas y proyectos de las dependencias y entidades paraestatales de la administración pública estatal, que tengan como objetivo las comunidades indígenas que habitan en el Estado de Chihuahua.
+
+V. Coordinar las políticas y acciones vinculadas con el desarrollo social y humano de las comunidades indígenas que implementen las dependencias y entidades paraestatales de la administración pública estatal.
+
+VI. Instrumentar y operar programas y acciones para el desarrollo social y humano de las comunidades indígenas cuando no correspondan a las atribuciones de otras dependencias y entidades paraestatales de la administración pública estatal.
+
+VII. Implementar un proceso de capacitación y profesionalización de traductores, así como de un cuadro de profesionistas indígenas que se adscriban a las dependencias gubernamentales que realizan proyectos y programas en las comunidades indígenas;
+
+VIII. Formular y establecer un mecanismo de consulta y consentimiento previo, libre e informado en los casos de medidas administrativas y legislativas que sean susceptibles de afectarlos directamente para aplicarse en todas las acciones institucionales públicas que afecten el territorio, la cultura, los derechos y el medio ambiente de las comunidades indígenas.
+
+IX. Proporcionar asesoría jurídica y legal, así como, representación legal en los conflictos que se susciten con las comunidades indígenas por la violación a sus derechos colectivos, así como, en materia fiscal y de auditorías cuando estén constituidas en Ejido o Comunidad Agraria.
+
+X. Establecer un mecanismo de concurrencia y seguimiento para el correcto manejo de los fondos autorizados a los programas y proyectos institucionales que se aplican en las comunidades indígenas.
+
+XI. Celebrar convenios con el Poder Judicial del Estado y el Consejo de la Judicatura Federal con el fin de que los defensores Públicos reciban capacitación en materia de derechos y cultura de los pueblos y comunidades indígenas.
+
+XII. Celebrar convenios de coordinación y colaboración con los ayuntamientos para la atención a los asentamientos urbanos de las familias indígenas migrantes.
+
+XIII. Celebrar convenios con el sector social y privado, que coadyuven en la realización de acciones para el bienestar de las comunidades indígenas.
+
+XIV. Implementar un programa de capacitación sobre las culturas indígenas de la entidad a todo el personal de las dependencias que desarrollen proyectos y acciones institucionales.
+
+XV. Establecer un programa coordinado con otras instituciones de la Administración Pública y de la Iniciativa Privada, de apoyo emergente a las comunidades indígenas afectadas por eventos de desastres naturales;
+
+XVI. Celebrar convenios para la atención de los jornaleros indígenas con el fin de garantizar el respeto a sus derechos y a su diferencia cultural.
+
+XVII. Apoyar los procesos de reconstitución del tejido social de los pueblos indígenas.
+
+XVIII. Publicar un informe anual sobre el desempeño de sus funciones, los avances e impacto de los programas y proyectos de las dependencias y entidades paraestatales de la administración pública estatal.
+
+XIX. Las demás que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 36.
 
-Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación de Comunicación Social, la Coordinación de Relaciones Públicas y la Consejería Jurídica.
+Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación de Comunicación Social, la Coordinación de Relaciones Públicas, Coordinación de Asesores y Proyectos Especiales, Coordinación de Política Digital, Coordinación de Gobierno Abierto y la Consejería Jurídica.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-Para el cumplimiento de sus funciones, y salvo disposición en contrario de la ley, el titular de la Consejería Jurídica será el Abogado del Estado y tendrá las facultades de representación legal del Titular del Poder Ejecutivo más amplias y necesarias para el desahogo de todo tipo de litigios, ante cualquier autoridad federal, estatal o municipal, así como para las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
+A. la Coordinación de Asesores y Proyectos Especiales, tendrá las siguientes atribuciones
+
+I. Coordinar, promover y realizar las investigaciones, estudios y análisis relacionados con la problemática del Estado;
+
+II. Desarrollar, en coordinación con las dependencias y entidades de la Administración Pública Estatal, las acciones necesarias para desarrollar los proyectos que le sean encomendados;
+
+III. Realizar los diagnósticos sociales, políticos y administrativos en torno al desarrollo de los proyectos encomendados;
+
+IV. Dar seguimiento al diseño de los proyectos que le hayan sido encomendados y al desarrollo de los mismos;
+
+V. Proponer al Titular del Ejecutivo programas para el aprovechamiento social, político, económico y comunitario, y de innovación mismos que se estructurarán en coordinación con las áreas involucradas del sector público, social o privado, según sea el caso, y
+
+VI. Determinar las prioridades, analizar y, en su caso, aprobar la formulación de los estudios y proyectos ejecutivos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+B. La Coordinación de Política Digital será la encargada de diseñar e implementar una estrategia que reduzca la brecha digital en la población, modernice los trámites y servicios de las dependencias a través de su digitalización, genere innovación social y propicie el empoderamiento ciudadano a través de herramientas y aplicaciones tecnológicas que instrumente el estado. Para ello tendrá las siguientes atribuciones:
+
+I. Planear y ejecutar acciones que generen más y mejores condiciones de acceso, uso y apropiación de las tecnologías de la información para la población;
+
+II. Elaborar e implementar la estrategia de digitalización de los trámites y servicios de la administración pública;
+
+III. Establecer lineamientos para la optimización de la infraestructura informática del Estado;
+
+IV. Centralizar la operación de las plataformas digitales de las diversas dependencias del gobierno, para su estandarización y cumplimiento de las obligaciones de transparencia respectivas;
+
+V. Consolidar el uso y aprovechamiento de las tecnologías de la información entre los servidores públicos y la ciudadanía para fomentar canales directos de vinculación y solución de las demandas ciudadanas;
+
+VI. Evaluar periódicamente las políticas digitales creadas para las dependencias gubernamentales con miras a su mejoramiento permanente;
+
+VII. Administrar la información generada a través de estos canales, para sistematizar la retroalimentación de la población hacia el gobierno;
+
+VIII. Ser el enlace con la federación, otras entidades gubernamentales, iniciativa privada y con la ciudadanía en general, en materia de política digital;
+
+IX. Detectar las necesidades en materia de Tecnología de la Información y Comunicación de la Administración Pública Estatal y recomendar las acciones para su desarrollo y modernización, y
+
+X. Las demás que expresamente le encomienden los reglamentos y acuerdos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+C. Para el cumplimiento de sus funciones, y salvo disposición en contrario de la ley, el titular de la Consejería Jurídica será el abogado del Estado y tendrá las facultades de representación legal del Titular del Poder Ejecutivo más amplias y necesarias para el desahogo de todo tipo de litigios, ante cualquier autoridad federal, estatal o municipal, así como para las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
 
 Así mismo será la encargada de todos los aspectos propios de su naturaleza relacionados con la asesoría jurídica al Gobernador, y los demás asuntos que le encomiende directamente.
 
@@ -2152,3 +2394,79 @@ Los agentes del Ministerio Público que se desempeñen como Facilitadores de los
 ###### ARTÍCULO DÉCIMO.
 
 Los asuntos en trámite ante los Centros de Justicia Alternativa dependientes de las Fiscalías Especializadas en Investigación y Persecución del Delito de la Fiscalía General del Estado, se proseguirán conforme a las disposiciones legales y reglamentarias vigentes al momento de su inicio.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
