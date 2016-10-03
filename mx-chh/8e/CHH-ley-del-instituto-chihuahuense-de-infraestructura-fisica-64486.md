@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-infraestructura-fisica-64486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2015-01-17"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -47,9 +47,11 @@ LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
 ### CAPÍTULO PRIMERO. DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-La presente Ley es de observancia general en el Estado de Chihuahua, sus disposiciones son de orden público e interés social. Se crea el Instituto Chihuahuense de Infraestructura Física Educativa como un organismo público descentralizado sectorizado a la Secretaría de Educación y Cultura del Poder Ejecutivo del Estado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades; tendrá su domicilio legal en la ciudad de Chihuahua, Chihuahua.
+###### ARTÍCULO 1º.
+
+La presente Ley es de observancia general en el Estado de Chihuahua, sus disposiciones son de orden público e interés social. Se crea el Instituto Chihuahuense de Infraestructura Física Educativa como un organismo público descentralizado sectorizado a la Secretaría de Educación y Deporte del Poder Ejecutivo del Estado, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus objetivos y el ejercicio de sus facultades; tendrá su domicilio legal en la ciudad de Chihuahua, Chihuahua.
 
 ###### ARTÍCULO 2°.
 
@@ -109,11 +111,11 @@ Los usuarios de los servicios educativos podrán solicitar los documentos que ac
 
 Las autoridades en la materia establecerán acciones para atender a los grupos y regiones con mayor rezago educativo, según parámetros estatales y municipales, mediante la creación de programas compensatorios tendientes a ampliar la cobertura y calidad de la infraestructura física educativa.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 9°.
 
-En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE, deberán cumplirse las disposiciones relativas a la Atención de las Personas con Discapacidad. Asimismo, se garantizará la existencia de bebederos suficientes y con suministro continuo de agua potable en cada inmueble de uso escolar, conforme a los lineamientos que emita la Secretaría de Salud, en coordinación con la Secretaría de Educación, Cultura y Deporte; atenderá las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, y tomará en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
+En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE, deberán cumplirse las disposiciones relativas a la Atención de las Personas con Discapacidad. Asimismo, se garantizará la existencia de bebederos suficientes y con suministro continuo de agua potable en cada inmueble de uso escolar, conforme a los lineamientos que emita la Secretaría de Salud, en coordinación con la Secretaría de Educación y Deporte; atenderá las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, y tomará en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
 
 ###### ARTÍCULO 10.
 
@@ -221,7 +223,9 @@ h) Brindar la asesoría técnica necesaria a todas las entidades educativas usua
 
 i) Señalar normas y lineamientos a particulares para la ejecución de obras de carácter educativo, con la responsabilidad de otorgar la licencia respectiva cuando el proyecto cumpla con las especificaciones y normas establecidas para tal fin.
 
-j) Otorgar las facilidades e información que requiera la Secretaría de Educación y Cultura, como coordinadora de sector.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+J) Otorgar las facilidades e información que requiera la Secretaría de Educación y Deporte, como coordinadora de sector.
 
 XXI.- Llevar a cabo los procedimientos de Contratación de Obra Pública, ya sea Licitación Pública, Invitación Restringida o Adjudicación Directa, de acuerdo con las leyes de la materia que sean aplicables;
 
@@ -259,7 +263,9 @@ III.- Las áreas, unidades administrativas o direcciones necesarias para su adec
 
 La Junta de Gobierno se integrará de la siguiente manera:
 
-I.- Un Presidente, y fungirá como tal, el Secretario de Educación y Cultura;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I.- Un Presidente, y fungirá como tal, el Secretario de Educación y Deporte;
 
 II.- Un Secretario Técnico, y fungirá como tal, el Secretario de Comunicaciones y Obras Públicas;
 
@@ -373,15 +379,21 @@ II.- El Director General definirá las políticas de instrumentación de los sis
 
 En su caso, los responsables de los sistemas de control y evaluación internos, podrán participar en las sesiones de la Junta de Gobierno con voz, pero no con voto.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados ambos por la Secretaría de la Contraloría del Estado.
+El Instituto contará con un órgano de vigilancia integrado por un Comisario Público propietario y un suplente, designados ambos por la Secretaría de la Función Pública del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 25.
 
-El Comisario Público desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría y de acuerdo a las siguientes bases:
+El Comisario Público desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública y de acuerdo a las siguientes bases:
 
-I.- Dependerá del Secretario de la Contraloría.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I.- Dependerá del Secretario de la Función Pública.
 
 II.- Realizará sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
 
@@ -412,6 +424,8 @@ El Instituto gozará, respecto a su patrimonio, de las franquicias y prerrogativ
 El Ejecutivo deberá acompañar los estados financieros del Instituto a la cuenta pública anual.
 
 ### CAPÍTULO DÉCIMO. DE LA EXTINCIÓN Y LIQUIDACIÓN DEL INSTITUTO
+
+> <small>[N. DE E. SE ADVIERTE QUE EL DECRETO No. 312/08 111 P.E. PUBLICADO EN P.O. 5 DE NOVIEMBRE DE 2008 PUBLICÓ EN SU ARTÍCULO PRIMERO EL TEXTO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y EN EL ARTÍCULO SEGUNDO LA REFORMA AL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO, POR LO QUE DEL ANÁLISIS DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O. PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, QUE HACE REFERENCIA AL ARTÍCULO 29, ÉSTE CORRESPONDE A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO]</small>
 
 ###### ARTÍCULO 29.
 
@@ -487,10 +501,86 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días de
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P. O. 17 DE ENERO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
