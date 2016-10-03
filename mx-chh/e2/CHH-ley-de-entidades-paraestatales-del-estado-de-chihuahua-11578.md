@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2014-05-14"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -125,9 +125,9 @@ Las entidades paraestatales deberán enviar con una antelación no menor de cinc
 
 Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, a través de la dependencia coordinadora de sector, la información y datos que les soliciten, así como los que les requieran las dependencias del ejecutivo estatal y el H. Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-Para el cumplimiento de lo anteriormente establecido, la dependencia coordinadora de sector, conjuntamente con las Secretarías de Hacienda y de la Contraloría, en el ámbito de sus respectivas competencias, harán compatibles los requerimientos de información que se demanden a las entidades paraestatales racionalizando los flujos de información.
+Para el cumplimiento de lo anteriormente establecido, la dependencia coordinadora de sector, conjuntamente con las Secretarías de Hacienda y de la Función Pública, en el ámbito de sus respectivas competencias, harán compatibles los requerimientos de información que se demanden a las entidades paraestatales racionalizando los flujos de información.
 
 ###### Artículo 10.
 
@@ -185,11 +185,11 @@ El estatuto orgánico deberá inscribirse en el Registro Público de Organismos 
 
 En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación. La ley o decreto de creación respectivo deberá fijar la forma y términos de su extinción y liquidación. La extinción del organismo será comunicada al Congreso del Estado, mediante formal iniciativa, a fin de que proceda a abrogar la ley o decreto de creación. Para tal efecto, el Ejecutivo deberá proporcionar al Congreso toda la información relativa al procedimiento de liquidación y extinción.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 15.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, y de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquél. Así mismo, podrá proponer su fusión o escisión, cuando su actividad combinada o separada redunde en un incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría (sic) Hacienda, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, y de la Secretaría de la Función Pública, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquél. Así mismo, podrá proponer su fusión o escisión, cuando su actividad combinada o separada redunde en un incremento de eficiencia y productividad.
 
 ###### Artículo 16.
 
@@ -283,9 +283,9 @@ IV. Los nombramientos y sustituciones del coordinador general y en su caso de lo
 
 V. Los poderes generales y sus revocaciones;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-VI. El acuerdo de la Secretaría de Hacienda, previa opinión de la Secretaría de la Contraloría y de la dependencia coordinadora de sector, en su caso, que señale las bases de la fusión, escisión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
+VI. El acuerdo de la Secretaría de Hacienda, previa opinión de la Secretaría de la Función Pública y de la dependencia coordinadora de sector, en su caso, que señale las bases de la fusión, escisión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
 
 VII. Los demás documentos o actos que determine el reglamento de este ordenamiento.
 
@@ -317,11 +317,11 @@ Las empresas en que participe de manera mayoritaria el Gobierno Estatal o una o 
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación mercantil o civil aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 30.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto que se señala en el artículo 28, o su funcionamiento no resultare ya conveniente desde el punto de vista de las finanzas públicas del Estado, la Secretaría de Hacienda, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, así como de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la enajenación de la participación estatal o, en su caso, su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Estatal, se procederá en los términos que se disponen en el artículo 71 de esta ley.
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto que se señala en el artículo 28, o su funcionamiento no resultare ya conveniente desde el punto de vista de las finanzas públicas del Estado, la Secretaría de Hacienda, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, así como la Secretaría de la Función Pública, propondrá al Ejecutivo Estatal la enajenación de la participación estatal o, en su caso, su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Estatal, se procederá en los términos que se disponen en el artículo 71 de esta ley.
 
 En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondientes, los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos representativos del capital de los que sea titular el Gobierno Estatal.
 
@@ -359,9 +359,9 @@ Para la designación, facultades, operación y responsabilidades de los órganos
 
 La fusión, escisión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y en la legislación correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica, oyendo la opinión de la Secretaría de la Contraloría, y de conformidad a las normas establecidas al respecto por la Secretaría de Hacienda, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión, escisión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica, oyendo la opinión de la Secretaría de la Función Pública, y de conformidad a las normas establecidas al respecto por la Secretaría de Hacienda, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión, escisión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO IV. DE LAS EMPRESAS PROPIEDAD DEL ESTADO
 
@@ -407,9 +407,11 @@ Las obligaciones establecidas en esta ley a cargo de las instituciones que funja
 
 Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 46.
 
-Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la dependencia coordinadora de sector y oyendo la opinión de la Contraloría del Estado, instruirán al delegado fiduciario para:
+Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la dependencia coordinadora de sector y oyendo la opinión de la Secretaría de la Función Pública del Estado, instruirán al delegado fiduciario para:
 
 I. Someter a la previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución;
 
@@ -545,9 +547,9 @@ XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el coord
 
 XIV. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, de acuerdo con las instrucciones de la dependencia coordinadora del sector correspondiente; y,
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XV. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y a la Secretaría de la Contraloría por conducto de la dependencia coordinadora de sector.
+XV. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y a la Secretaría de la Función Pública por conducto de la dependencia coordinadora de sector.
 
 ###### Artículo 62.
 
@@ -585,11 +587,13 @@ XV. Las que señalen otras disposiciones legales aplicables, con las únicas sal
 
 ### CAPITULO VII. DEL CONTROL Y EVALUACION
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 63.
 
-El órgano de vigilancia de los organismos descentralizados estará integrado por un comisario público propietario y un suplente, designados por la Contraloría del Estado.
+El órgano de vigilancia de los organismos descentralizados estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública.
 
-Los comisarios evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado les asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el coordinador general deberán proporcionar la información que soliciten los comisarios.
+Los comisarios evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado les asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el coordinador general deberán proporcionar la información que soliciten los comisarios.
 
 ###### Artículo 64.
 
@@ -601,9 +605,11 @@ II. Los coordinadores generales definirán las políticas de instrumentación de
 
 III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle y evalúe las operaciones a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 65.
 
-Los órganos internos de control y evaluación serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Contraloría del Estado, y de acuerdo a las siguientes bases:
+Los órganos internos de control y evaluación serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública del Estado, y de acuerdo a las siguientes bases:
 
 I. Dependerán del coordinador general del organismo;
 
@@ -611,9 +617,11 @@ II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cum
 
 III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al coordinador general, al órgano de gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 66.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán órganos de control y evaluación interna, y contarán con los comisarios públicos que designe la Contraloría del Estado en los términos de los artículos precedentes.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán órganos de control y evaluación interna, y contarán con los comisarios públicos que designe la Secretaría de la Función Pública del Estado en los términos de los artículos precedentes.
 
 Lo dispuesto en este capítulo para los organismos descentralizados será aplicable a las empresas propiedad del Estado.
 
@@ -623,9 +631,11 @@ Los fideicomisos públicos a que se refiere el artículo 43 de esta ley se ajust
 
 La dependencia coordinadora de sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o consejos de administración de las entidades paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 68.
 
-La Contraloría del Estado, salvo lo dispuesto en el artículo 3º de esta ley, podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento de los sistemas de control así como el cumplimiento de las responsabilidades a cargo de sus órganos de gobierno y del coordinador general y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que hubieran incurrido.
+La Secretaría de la Función Pública del Estado, salvo lo dispuesto en el artículo 3 de esta ley, podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento de los sistemas de control así como el cumplimiento de las responsabilidades a cargo de sus órganos de gobierno y del coordinador general y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que hubieran incurrido.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
@@ -635,15 +645,17 @@ Sin perjuicio de lo anterior, el Congreso del Estado, en los términos de la Ley
 
 En aquellos casos en los que el órgano de gobierno, consejo de administración o el coordinador general, no dieren cumplimiento a las obligaciones legales que se les atribuyen en este ordenamiento, el Ejecutivo Estatal, por conducto de las dependencias competentes así como de la coordinadora de sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 70.
 
-En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario público que se designe por la Contraloría del Estado oyendo la opinión de la dependencia coordinadora del sector.
+En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario público que se designe por la Secretaría de la Función Pública del Estado oyendo la opinión de la dependencia coordinadora del sector.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 71.
 
-La enajenación de títulos representativos del capital social, propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las instituciones nacionales de crédito de acuerdo con la normatividad federal y estatal aplicable. En su defecto, la enajenación de los títulos se llevará a cabo mediante subasta pública, de acuerdo a los lineamientos que para tal efecto establezcan conjuntamente la Secretaría de Hacienda y la Secretaría de la Contraloría; las que deberán vigilar el debido cumplimiento de lo dispuesto en este artículo.
+La enajenación de títulos representativos del capital social, propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las instituciones nacionales de crédito de acuerdo con la normatividad federal y estatal aplicable. En su defecto, la enajenación de los títulos se llevará a cabo mediante subasta pública, de acuerdo a los lineamientos que para tal efecto establezcan conjuntamente la Secretaría de Hacienda y la Secretaría de la Función Pública; las que deberán vigilar el debido cumplimiento de lo dispuesto en este artículo.
 
 ## TRANSITORIOS
 
@@ -946,3 +958,79 @@ El personal, empleados o servidores públicos, sea cual fuere su categoría en l
 ###### ARTÍCULO SEXTO.
 
 Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
