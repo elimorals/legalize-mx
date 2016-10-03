@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-los-pueblos-indigenas-del-estado-de-95015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-29"
-last_updated: "2014-07-05"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de junio de 2013.
 
@@ -171,7 +171,9 @@ VI. Rescatar, revitalizar, utilizar, fomentar y transmitir a las generaciones fu
 
 VII. Atribuir nombres a sus comunidades, lugares y personas, así como a mantenerlos, pudiendo ser en su idioma, en español o conforme a sus costumbres y tradiciones.
 
-La Secretaría de Educación, Cultura y Deporte, en coordinación con el Instituto Chihuahuense de la Cultura y la Coordinación Estatal de la Tarahumara, con base a la autonomía y el derecho al consentimiento de los pueblos y las comunidades Indígenas, diseñará, ejecutará, instrumentará y dará seguimiento a programas y proyectos tendientes a auxiliar a los pueblos y las comunidades indígenas a ejercer este derecho.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+La Secretaría de Cultura, en coordinación y la Coordinación Estatal para los Pueblos Indígenas, con base a la autonomía y el derecho al consentimiento de los pueblos y las comunidades Indígenas, diseñará, ejecutará, instrumentará y dará seguimiento a programas y proyectos tendientes a auxiliar a los pueblos y las comunidades indígenas a ejercer este derecho.
 
 ###### Artículo 14.
 
@@ -215,7 +217,9 @@ Los integrantes de los pueblos y las comunidades indígenas tienen derecho a rec
 
 Así mismo, a diseñar, implementar y a recibir una educación que garantice la revitalización, permanencia y desarrollo de sus idiomas, cosmovisiones, saberes tradicionales y culturas, sin más restricciones que las que dicten las demás leyes en la materia.
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Educación, Cultura y Deporte, propiciará que esta se imparta por las personas indígenas de su comunidad, así como de acuerdo con sus formas de organización social, económica, cultural y política.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+El Poder Ejecutivo del Estado, a través de la Secretaría de Educación y Deporte, en conjunto con la Secretaría de Cultura, propiciara que esta se imparta por las personas indígenas de su comunidad, así como de acuerdo con sus formas de organización social, económica, cultural y política.
 
 ###### Artículo 21.
 
@@ -267,6 +271,8 @@ V. Proyectos de ley o de decretos que puedan afectar los derechos de los pueblos
 
 VI. Los Planes y Programas de la administración pública central y descentralizada Estatal y municipal.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA COORDINACIÓN ESTATAL DE LA TARAHUMARA, SE ENTENDERÁN REFERIDAS A LA COMISIÓN ESTATAL PARA LOS PUEBLOS INDÍGENAS".]</small>
+
 ###### Artículo 25.
 
 Las instituciones privadas y sociales deberán cumplir con el derecho al consentimiento libre, previo e informado al momento de desarrollar programas, proyectos y acciones dentro de las tierras y territorios de los pueblos y las comunidades indígenas.
@@ -311,6 +317,10 @@ II. El derecho al consentimiento libre, previo e informado de los pueblos y las 
 
 III. Contar con un grupo especializado de personas con conocimiento de la cultura y del Derecho Indígena.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PÚBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA COORDINACIÓN ESTATAL DE LA TARAHUMARA, SE ENTENDERÁN REFERIDAS A LA COMISIÓN ESTATAL PARA LOS PUEBLOS INDÍGENAS".]</small>
+
 ###### Artículo 29.
 
 Al Poder Ejecutivo del Estado, de común acuerdo con los pueblos y las comunidades indígenas y transversalmente, le corresponde:
@@ -323,9 +333,13 @@ III. Promover, a través del Sistema Estatal de Desarrollo Social y Humano, el d
 
 IV. Promover y fomentar la protección, conservación, desarrollo y aprovechamiento sustentable de los recursos naturales y servicios ambientales existentes en las tierras y territorios indígenas.
 
-V. Promover, a través de la Secretaría de Educación, Cultura y Deporte, la inclusión en los programas de educación básica, media superior y superior, materias concernientes al conocimiento de los derechos y cultura de los pueblos y las comunidades indígenas, así como las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo de los diversos idiomas indígenas.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-VI. Supervisar, a través de la Secretaría de Educación, Cultura y Deporte, que en las instituciones educativas de los sectores público y privado se fomente o implemente la interculturalidad, el multilingüismo y el respeto a la diversidad lingüística, así como garantizar que el personal docente que imparta la educación básica bilingüe en las comunidades indígenas hablen y escriban la lengua del lugar y conozcan la cultura del pueblo indígena de que se trate.
+V. Promover, a través de la Secretaría de Educación y Deporte, en conjunto con la Secretaría de Cultura, la inclusión en los programas de educación básica, media superior y superior, materias concernientes al conocimiento de los derechos y cultura de los pueblos y las comunidades indígenas, así como las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo de los diversos idiomas indígenas.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+VI. Supervisar, a través de la Secretaría de Educación y Deporte, en conjunto con la Secretaría de Cultura, que en las instituciones educativas de los sectores público y privado se fomente o implemente la interculturalidad, el multilingüismo y el respeto a la diversidad lingüística, así como garantizar que el personal docente que imparta la educación básica bilingüe en las comunidades indígenas hablen y escriban la lengua del lugar y conozcan la cultura del pueblo indígena de que se trate.
 
 VII. Contribuir, a través del Instituto Chihuahuense de la Cultura, en la preservación, estudio y desarrollo de los idiomas indígenas y su literatura.
 
@@ -340,6 +354,8 @@ XI. Apoyar y establecer los mecanismos financieros y de concertación para el di
 XII. Impulsar, promover y coordinar, a través de los Sistemas Estatal para la Igualdad entre Mujeres y Hombres y para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, los programas, proyectos y acciones que promuevan en las mujeres y hombres integrantes de los pueblos y las comunidades indígenas, el derecho a la igualdad y a una vida libre de violencia.
 
 XIII. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA COORDINACIÓN ESTATAL DE LA TARAHUMARA, SE ENTENDERÁN REFERIDAS A LA COMISIÓN ESTATAL PARA LOS PUEBLOS INDÍGENAS".]</small>
 
 ###### Artículo 30.
 
@@ -446,3 +462,79 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con ciento cuarenta días hábiles para modificar y adecuar a las nuevas disposiciones, el reglamento correspondiente.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
