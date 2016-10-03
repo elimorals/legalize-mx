@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-apoyo-al-desarrollo-tecnologico-antes-1476
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-30"
-last_updated: "2014-05-14"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS NO. 789/03 IX P.E. PUBLICADAS EN EL P.O. DE 22 DE OCTUBRE DE 2003, SE ESTABLECE QUE "... LAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLOGICO QUE ALUDEN AL INALTEC, EN LO SUCESIVO SE ENTENDERA QUE SE REFIEREN AL INSTITUTO DE APOYO AL DESARROLLO TECNOLOGICO, INADET O EL INADET, COMO EFECTO A LA REFORMA A QUE SE REFIERE EL PRESENTE DECRETO".</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 30 de junio de 1999.
 
@@ -149,9 +147,9 @@ La administración del INADET estará a cargo de un Consejo Directivo que será 
 
 El Consejo Directivo se integrará de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-I. Por los CC. Secretarios de Economía y de Educación, Cultura y Deporte del Estado de Chihuahua.
+I. Por los CC. Secretarios de Economía y de Educación y Deporte del Estado de Chihuahua.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -171,13 +169,11 @@ V. Un representante del sector social que será nombrado por el Consejo Directiv
 
 VI. Dos representantes del sector productivo que participen en el financiamiento del INADET, mediante un patronato constituido para apoyar la dirección del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus Estatutos, asistiendo con voz y voto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 5°.
 
-El Consejo Directivo será presidido por el Secretario de Economía o por la persona que este designe y deberá sesionar en forma ordinaria cuando menos cuatro veces por año, y en forma extraordinaria cuando sea necesario para su debido funcionamiento. El Secretario de Educación, Cultura y Deporte será el Secretario del Consejo.
-
-Para sesionar válidamente deberá estar presente la mitad más uno de sus miembros y la mayoría deberá ser del sector público estatal.
+El Consejo Directivo será presidido por el Secretario de Economía o por la persona que este designe y deberá sesionar en forma ordinaria cuando menos cuatro veces por año, y en forma extraordinaria cuando sea necesario para su debido funcionamiento. El Secretario de Educación y Deporte será el Secretario del Consejo.
 
 ###### Artículo 6°.
 
@@ -255,9 +251,9 @@ XVI. Establecer, con sujeción a las disposiciones legales relativas, las normas
 
 XVII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General, con la intervención que corresponda a los Comisarios.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XVIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros a favor del INADET cuando fuere notoria la imposibilidad práctica de su cobro, informando a las Secretarías de Hacienda y de la Contraloría del Estado, por conducto del Presidente del Consejo.
+XVIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros a favor del INADET cuando fuere notoria la imposibilidad práctica de su cobro, informando a las Secretarías de Hacienda y de (sic) Secretaría de la Función Pública del Estado, por conducto del Presidente del Consejo.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -443,23 +439,23 @@ III. Ser persona de solvencia moral y de prestigio profesional.
 
 Para el mejor despacho de los asuntos de la competencia del Director General, quedan adscritos orgánicamente y estarán bajo su directa dependencia los Departamentos de Asuntos Jurídicos, de Planeación y de Vinculación Tecnológica, que tendrán las funciones que se determinen en el Estatuto Orgánico que aprobará y expedirá el Consejo Directivo en los términos de Ley.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 15°.
 
-El órgano de vigilancia del INADET estará integrado por un Comisario Público propietario y un suplente, designados por la Contraloría del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua y las que se determinen en el Estatuto Orgánico que expida el Consejo Directivo.
+El órgano de vigilancia del INADET estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua y las que se determinen en el Estatuto Orgánico que expida el Consejo Directivo.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 16°.
 
-El Comisario evaluará el desempeño general del INADET y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Contraloría le asigne específicamente conforme a la ley.
+El Comisario evaluará el desempeño general del INADET y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne específica mente (sic) conforme a la ley.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 17°.
 
-El Comisario Público desarrollará sus funcionales (sic) conforme a los lineamientos que emita la Secretaría de la Contraloría.
+El Comisario Público desarrollará sus funcionales (sic) conforme a los lineamientos que emita la Secretaría de la Función Pública.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -648,3 +644,79 @@ El personal, empleados o servidores públicos, sea cual fuere su categoría en l
 ###### ARTÍCULO SEXTO.
 
 Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
