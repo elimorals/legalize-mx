@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2016-08-12"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1271,7 +1271,7 @@ Para ser diputado propietario o suplente se requiere:
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
 
-l.- Ser nativo del Estado de Oaxaca con residencia mínima de un año, o vecino de él con residencia mínima de cinco años inmediatamente anteriores a la fecha de la elección;
+I.- Ser nativo del Estado de Oaxaca con residencia mínima de un año, o vecino de él con residencia mínima de cinco años inmediatamente anteriores a la fecha de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1505,6 +1505,10 @@ Si vencido el plazo referido no se hubieren aprobado los proyectos de Ley de Ing
 
 Tratándose de la Ley de Ingresos, el Ejecutivo sólo podrá actualizar los montos, sin aumentar tasas, cuotas o tarifas en los impuestos, derechos o contribuciones; respecto al Presupuesto de Egresos podrá hacer los ajustes que se requieran atendiendo a las necesidades del Estado, en el ejercicio fiscal que corresponda y las derivadas de obligaciones contractuales indexando los montos a la inflación según lo establecido por el Banco de México, en los términos que disponga la ley en la materia, sin afectar los presupuestos del Poder Judicial y de los órganos constitucionales autónomos.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+En el año que corresponda la renovación del titular del Poder Ejecutivo, el Congreso del Estado aprobará la Ley de Ingresos y Decreto de Presupuesto de Egresos del Estado a más tardar el treinta de diciembre.
+
 ###### ARTICULO 54.
 
 (DEROGADO, P.O. 15 DE ENERO DE 1983)
@@ -1642,6 +1646,10 @@ XX. Legislar en lo relativo a justicia administrativa, comprendiendo códigos ad
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
 XXI. A iniciativa del Ejecutivo analizar, discutir y decretar anualmente en primer lugar la Ley de Ingresos del Estado, imponiendo las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas, y posteriormente el Presupuesto de Egresos;
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Tratándose del año que corresponda la renovación del titular del Poder Ejecutivo, aprobar la Ley de Ingresos y el Decreto de Presupuesto de Egresos del Estado a más tardar el treinta de diciembre.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -2320,6 +2328,10 @@ III. (DEROGADA, P.O. 9 DE JULIO DE 1994)
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
 IV. Presentar al Congreso a más tardar el 25 de noviembre de cada año la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, con el contenido y los anexos que determine la ley.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Cuando inicie su encargo en la fecha prevista por el artículo 69, el Ejecutivo Estatal presentará al Congreso la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado, a más tardar el día cinco de diciembre.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
@@ -4796,3 +4808,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Por lo que respecta a la reforma a la fracción XIII del artículo 59 y la reforma a la fracción XV del artículo 79, entrarán en vigor a partir del día primero de diciembre del año dos mil dieciséis
 
 TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2023.- MEDIANTE EL CUAL SE ADICIONA, UN PÁRRAFO CUARTO A LA FRACCIÓN VII DEL ARTÍCULO 53, UN PÁRRAFO SEGUNDO A LA FRACCIÓN XXI DEL ARTICULO 59 Y, UN PÁRRAFO SEGUNDO A LA FRACCIÓN IV DEL ARTÍCULO 80, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
