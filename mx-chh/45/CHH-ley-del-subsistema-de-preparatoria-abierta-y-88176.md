@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-subsistema-de-preparatoria-abierta-y-88176"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-06"
-last_updated: "2014-07-23"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 6 de junio de 2012.
 
@@ -53,13 +53,11 @@ LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO DEL ESTADO DE CHIH
 
 ### CAPÍTULO ÚNICO. De su naturaleza y Objeto
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 1.
 
-Se crea el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, como un Organismo Público Descentralizado del Gobierno del Estado de Chihuahua adscrito a la Secretaría de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Capital del Estado.
-
-Para los efectos de la presente Ley, se entiende como Preparatoria Abierta y Telebachillerato y/o Subsistema de Preparatoria Abierta y Telebachillerato, al Organismo creado mediante la misma, así como al Subsistema Educativo del Nivel Medio Superior en la modalidad Escolarizada, No Escolarizada y/o Mixta en las modalidades definidas por la Reforma Integral de la Educación Media Superior en el Bachillerato General y/o Tecnológico; en los términos convenidos o que se convengan con la Autoridad Educativa Federal.
+Se crea el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, como un Organismo Público Descentralizado del Gobierno del Estado de Chihuahua adscrito a la Secretaría de Educación y Deporte del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Capital del Estado.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
@@ -91,7 +89,9 @@ V. Identificar necesidades de capacitación, aplicación de exámenes y establec
 
 VI. Operar la logística para la solicitud, aplicación y entrega de certificaciones emanadas del Acuerdo 286 publicado en el Diario Oficial de la Federación de fecha 30 de octubre de 2000, o de sus análogos aplicables; para la acreditación del bachillerato general.
 
-VII. Las demás que le confieren las disposiciones legales aplicables y las que el Director General o, en su caso, el Secretario de Educación, Cultura y Deporte le asigne, dentro del ámbito de sus atribuciones.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+VII. Las demás que le confieren las disposiciones legales aplicables y las que el Director General o, en su caso, el Secretario de Educación y Deporte le asigne, dentro del ámbito de sus atribuciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
 
@@ -173,7 +173,9 @@ Para el mejor desempeño de sus funciones, el Organismo contará con las Oficina
 
 La Junta Directiva es la máxima autoridad del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, y estará integrada por siete miembros que serán:
 
-I. El Secretario de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, quien la presidirá.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I. El Secretario de Educación y Deporte del Poder Ejecutivo del Estado, quien la presidirá.
 
 II. El Secretario de Hacienda del Poder Ejecutivo del Estado.
 
@@ -479,17 +481,19 @@ Las agrupaciones de Estudiantes o Usuarios del Subsistema de Preparatoria Abiert
 
 ### CAPÍTULO ÚNICO. Del Comisario Público
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 34.
 
-El Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de la Contraloría del Estado.
+El Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de la Función Pública del Estado.
 
-El Comisario Público evaluará el desempeño general y por funciones del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría del Estado le asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, la Junta Directiva y el Director General deberán proporcionar la información que solicite el Comisario.
+El Comisario Público evaluará el desempeño general y por funciones del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública del Estado le asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, la Junta Directiva y el Director General deberán proporcionar la información que solicite el Comisario.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
-Las facultades y obligaciones del Comisario Público serán las previstas en las leyes aplicables respecto a la Secretaría de la Contraloría del Estado.
+Las facultades y obligaciones del Comisario Público serán las previstas en las leyes aplicables respecto a la Secretaría de la Función Pública del Estado.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
@@ -509,13 +513,11 @@ El Ejecutivo deberá acompañar los estados financieros del Subsistema de Prepar
 
 Para la extinción y liquidación del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, se seguirán las mismas formalidades requeridas para su creación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
-En caso de que el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la Secretaría de Educación, Cultura y Deporte, y de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquella.
-
-Así mismo, podrá proponer su fusión o escisión, cuando su actividad combinada o separada redunde en un incremento de eficiencia y productividad, que deberá ser aprobada por el Congreso del Estado.
+En caso de que el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la Secretaría de Educación y Deporte, y de la Secretaría de la Función Pública, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquella.
 
 ###### ARTÍCULO 39.
 
@@ -602,3 +604,79 @@ Realícense las gestiones administrativas, presupuestales y operativas necesaria
 ###### ARTÍCULO QUINTO.
 
 Regístrese el presente Decreto y realícense las modificaciones a que haya lugar en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 1 P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
