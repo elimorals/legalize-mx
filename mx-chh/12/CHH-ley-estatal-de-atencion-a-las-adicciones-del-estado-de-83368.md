@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-atencion-a-las-adicciones-del-estado-de-83368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2012-09-26"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY ESTATAL DE ATENCION A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
+LEY ESTATAL DE ATENCIÓN A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA
 
-LEY ESTATAL DE ATENCION A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 22 de octubre de 2011.
 
@@ -211,9 +209,11 @@ X.- Proporcionar a la Secretaría información para fines estadísticos sobre la
 
 XI.- Las demás que conforme a este ordenamiento y otras disposiciones aplicables les corresponden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 11.
 
-Corresponde a la Secretaría de Educación, Cultura y Deporte:
+Corresponde a las (sic) Secretaría de Educación y Deporte, en coordinación con la Secretaría de Cultura:
 
 I.- Auxiliar en la elaboración, supervisión y promoción de programas en materia de sensibilización, prevención y educación en contra de las adicciones, en los espacios educativos, con perspectiva de género.
 
@@ -228,6 +228,8 @@ V.- Promover la educación dentro de los Centros de Atención, a través de conv
 VI.- Implementar en el programa educativo, contenido que tenga como fin promover la cultura de la prevención de las adicciones.
 
 VII.- Las demás que le otorgue esta Ley y otras disposiciones legales aplicables.
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO NOVENO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS ATRIBUCIONES Y REFERENCIAS QUE SE HAGAN A LA SECRETARÍA GENERAL DE GOBIERNO O AL SECRETARIO GENERAL DE GOBIERNO QUE EN VIRTUD DEL PRESENTE DECRETO NO FUERON MODIFICADAS, Y CUYAS DISPOSICIONES PREVÉN ATRIBUCIONES Y COMPETENCIAS EN LAS MATERIAS DE DESARROLLO MUNICIPAL QUE SON REGULADAS EN ESTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE DESARROLLO MUNICIPAL O SECRETARIO DE DESARROLLO MUNICIPAL RESPECTIVAMENTE.]</small>
 
 ###### ARTÍCULO 12.
 
@@ -287,7 +289,9 @@ IV.- Un representante del H. Congreso del Estado.
 
 V.- Un representante del Poder Judicial del Estado.
 
-VI.- Un representante de la Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+VI.- Un representante de la Secretaría de Educación y Deporte.
 
 VII.- Un representante de la Fiscalía General del Estado.
 
@@ -507,7 +511,9 @@ XI.- Actuar con estricto apego en el respeto por los derechos humanos en todos l
 
 XII.- Notificar a la Secretaría los reportes que el Ministerio Público les haga sobre el no ejercicio de la acción penal o pretensión punitiva, en los términos del artículo 478 de la Ley General de Salud, a efecto de que aquélla proporcione orientación al sujeto y lo conmine a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma. Al tercer reporte del Ministerio Público, el tratamiento será obligatorio.
 
-Los Centros de Atención que brinden servicios de educación básica a los usuarios, deberán contar con la autorización de la Secretaría de Educación, Cultura y Deporte, para proporcionar dicho servicio.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Los Centros de Atención que brinden servicios de educación básica a los usuarios, deberán contar con la autorización de la Secretaría de Educación y Deporte, para proporcionar (sic)
 
 ### CAPÍTULO IX. RECUPERACIÓN, PREVENCIÓN, EDUCACIÓN Y TRABAJO
 
@@ -517,9 +523,11 @@ La duración de los tratamientos proporcionados será supervisada por la Comisi�
 
 En el caso de los imputados atendidos en relación al Nuevo Sistema de Justicia Penal, la duración del tratamiento se ajustará al tiempo dictaminado por la autoridad judicial, dándole cumplimiento a la Medida Cautelar impuesta.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 33.
 
-Las políticas educativas y la normatividad relativa a la educación vinculada con la escolarización de los usuarios de los Centros de Atención, serán establecidas por la Secretaría de Educación, Cultura y Deporte del Gobierno del Estado en coordinación con la Secretaría.
+Las políticas educativas y la normatividad relativa a la educación vinculada con la escolarización de los usuarios de los Centros de Atención, serán establecidas por la Secretaría de Educación y Deporte del Gobierno del Estado en coordinación con la Secretaría (sic)
 
 ###### ARTÍCULO 34.
 
@@ -664,3 +672,79 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
