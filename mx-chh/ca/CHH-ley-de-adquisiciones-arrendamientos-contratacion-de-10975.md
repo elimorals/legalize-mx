@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2015-07-22"
+last_updated: "2016-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -85,9 +85,9 @@ III. Organismos: las Unidades Descentralizadas, del Estado o de los Municipios, 
 
 IV. Secretaría: la Secretaría de Hacienda;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-V. Contraloría: La Secretaría de la Contraloría;
+V. Función Pública: La Secretaría de la Función Pública
 
 VI. (DEROGADA, P.O. 10 DE AGOSTO DE 2011)
 
@@ -145,27 +145,23 @@ Las adquisiciones, arrendamientos y la contratación de servicios y de obra púb
 
 El gasto de las adquisiciones, arrendamientos y servicios, así como de obra pública, se sujetará a lo previsto en la Constitución Política del Estado, en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado, a las disposiciones específicas previstas en los Presupuestos de Egresos del Estado y de los Municipios, así como en las demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 7.
 
-En el ámbito del Poder Ejecutivo, la Secretaría y la Contraloría dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando cada una en cuenta la opinión de la otra, así como de la Dependencia o Entidad involucradas.
+En el ámbito del Poder Ejecutivo, la Secretaría y la Función Pública dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando cada una en cuenta la opinión de la otra, así como de la Dependencia o Entidad involucradas.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
-
-Lo propio harán el Poder Legislativo en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 8.
 
-El Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, la Secretaría de Comunicaciones y Obras Públicas y la Contraloría, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
+El Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, la Secretaría de Comunicaciones y Obras Publicas y la Función Pública, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
 
 El Congreso del Estado las aplicará a través de sus respectivos órganos de administración, en lo referente a sus adquisiciones, arrendamientos y contratación de servicios y obra pública.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-Los Ayuntamientos las aplicarán por conducto de sus Tesorerías y Oficialías Mayores, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal. Cuando realicen adquisiciones, arrendamientos o contraten servicios u obra pública con subsidios, participaciones o fondos estatales, intervendrán la Secretaría y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
+Los ayuntamientos las aplicarán por conducto de sus Tesorerías y Oficialías Mayores, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal. Cuando realicen adquisiciones, arrendamientos o contraten servicios u obra pública con subsidios, participaciones o fondos estatales, intervendrán la Secretaría y la Función Pública en los términos de esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 9.
 
@@ -259,9 +255,9 @@ VIII. De preferencia la inclusión de insumos, materiales, equipo, sistemas, bie
 
 IX. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones, arrendamientos, servicios u obra pública.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-Los planes y programas a que se refiere este artículo, en el Poder Ejecutivo, deberán formularse de acuerdo con la Secretaría y la Contraloría.
+Los planes y programas a que se refiere este artículo, en el Poder Ejecutivo, deberán formularse de acuerdo con la Secretaría y la Función Pública.
 
 ###### Artículo 20.
 
@@ -325,11 +321,11 @@ El documento que contenga los programas será de carácter informativo; no supon
 
 Por cada Entidad, Dependencia u Organismo existirá un Comité de Adquisiciones, Arrendamientos y Servicios, en el ámbito de competencia estatal. En los Municipios existirá un Comité en cada uno de ellos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 26.
 
-En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios, se integrará por los representantes de la Secretaría y de la dependencia de la administración pública centralizada o entidad que requiera la adquisición, el arrendamiento o la prestación de servicio, así como por un representante de la Contraloría, en su carácter de observador.
+En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios, se integrará por los representantes de la Secretaría y de la dependencia de la administración pública centralizada o entidad que requiera la adquisición, el arrendamiento o la prestación de servicio, así como por un representante de la Función Pública, en su carácter de observador.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
@@ -381,11 +377,11 @@ La dependencia o el Ayuntamiento respectivo, podrá autorizar la creación de co
 
 Los órganos de gobierno de los organismos podrán establecer dichos comités salvo que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique su instalación a juicio de la Secretaría o Ayuntamiento correspondiente.
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 29.
 
-En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios respectivo, mediante disposiciones de carácter general y oyendo la opinión de la Contraloría, en el ámbito estatal, determinará los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar las dependencias de la administración pública centralizada y organismos demandantes del bien o servicio de que se trate, ya sea de manera conjunta o separada, incluso reiterada o periódicamente, con objeto de obtener las mejores condiciones en cuanto a precio y oportunidad, y apoyar de esta manera, en condiciones de competencia, a las áreas prioritarias de desarrollo.
+En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios respectivo, mediante disposiciones de carácter general y oyendo la opinión de la Función Pública, en el ámbito estatal, determinará los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar las dependencias de la administración pública centralizada y organismos demandantes del bien o servicio de que se trate, ya sea de manera conjunta o separada, incluso reiterada o periódicamente, con objeto de obtener las mejores condiciones en cuanto a precio y oportunidad, y apoyar de esta manera, en condiciones de competencia, a las áreas prioritarias de desarrollo.
 
 > <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 1997)</small>
 
@@ -567,7 +563,9 @@ Los requisitos y condiciones que contengan las bases deberán ser los mismos par
 
 No obstante lo dispuesto en el párrafo que antecede, tratándose de proveedores y contratistas con domicilio fuera del Estado, deberán además señalar domicilio dentro del mismo, para recibir notificaciones y llevar a cabo el cumplimiento de las obligaciones contraídas y de sus deberes fiscales estatales.
 
-En el ámbito del Poder Ejecutivo, la Contraloría podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley. Si la Contraloría determina la cancelación del proceso de adjudicación, la dependencia u organismo reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+En el ámbito del Poder Ejecutivo, la Función Pública podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley. Si la Función Pública determina la cancelación del proceso de adjudicación, la dependencia u organismo reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
 ###### Artículo 37.
 
@@ -635,13 +633,15 @@ Asimismo, se podrán dar por terminados anticipadamente los contratos por razone
 
 Los entes públicos se abstendrán de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte. En casos especiales o por razones fundadas, la Contraloría podrá autorizar la celebración del contrato respectivo.
+I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte. En casos especiales y por razones fundadas, la Función Pública podrá autorizar la celebración del contrato respectivo;
 
 Queda exceptuado de lo anterior, el caso de licitación restringida o adjudicación directa a que se refiere la fracción IX del punto "A" del artículo 102 de esta Ley, siempre que se trate de Municipios, que teniendo el carácter de rurales, tengan una población inferior a los 50,000 habitantes de conformidad con el último Censo General de Población y Vivienda y que el monto de cada operación de este tipo no exceda el equivalente a 200 salarios mínimos de la zona económica de que se trate, asimismo que el global de estas operaciones no supere el 3.0% del Presupuesto Total de Egresos del Municipio, para el ejercicio fiscal de que se trate, además de que esta limitante es complementaria a la que establece en este mismo sentido, el artículo 47 de la Ley de Presupuesto de Egresos, contabilidad y Gasto Público del Estado de Chihuahua.
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Función Pública, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 III. Aquellos proveedores o contratistas a quienes, por causas imputables a ellos mismos, se les hubiere rescindido en la vía administrativa un contrato, dentro de un lapso de dos años calendario contado a partir de la rescisión;
 
@@ -649,9 +649,9 @@ IV. Aquellas que hubieren proporcionado información que resulte falsa, o que ha
 
 V. Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellas y que, como consecuencia de ello, haya sido perjudicada gravemente la administración estatal o municipal;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-VI. Las que, en virtud de la información con que cuente la Secretaría, la Contraloría o el Municipio respectivo, hayan celebrado contratos en contravención a lo dispuesto por la Ley;
+VI. Las que, en virtud de la información con que cuente la Secretaría, la Función Pública o el municipio respectivo, hayan celebrado contratos en contravención a lo dispuesto por la Ley.
 
 VII. Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o servicios por causas imputables a ellos mismos así como los contratistas en la ejecución de las obras, respecto al cumplimiento de otro u otros contratos y hayan afectado con ello a algún ente público;
 
@@ -673,11 +673,11 @@ En los procedimientos que lleven a cabo los entes públicos para la contratació
 
 Existiendo igualdad de condiciones, el pedido o contrato se asignará en todo caso a proveedores con domicilio fiscal en el Estado, considerándose que existe igualdad de condiciones, cuando haya como máximo una diferencia del 8% con relación al mejor precio ofertado, siempre y cuando éste haya sido presentado por un proveedor foráneo o que sólo cuente con sucursales en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 44.
 
-Las Dependencias y Organismos no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de los mismos, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Secretaría y de la Contraloría.
+Las Dependencias y Organismos no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de los mismos, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Secretaría y de la Función Pública.
 
 La autorización a que se refiere el párrafo anterior, deberá otorgarse por el Comité de Administración mediante acta, si fuere el Congreso el contratante; y por el Ayuntamiento, si la contratación fuera por el Municipio.
 
@@ -1111,7 +1111,15 @@ El salario mínimo general vigente (SMGV) será el que corresponda a la zona eco
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Ayuntamiento, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la adquisición, arrendamiento, servicio u obra pública.
 
-En el caso de Dependencias y Organismos estatales, y en su caso las municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviarán a la Contraloría y, en su caso, al órgano de gobierno respectivo, un informe acompañando copia del dictamen aludido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+En el caso de Dependencias y Organismos estatales, y en su caso las municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviarán a la Función Pública y, en su caso, al órgano de gobierno respectivo, un informe acompañando copia del dictamen aludido en el párrafo anterior.
+
+> <small>[N. DE E. DEL ANÁLISIS REALIZADO AL PRESENTE PÁRRAFO, SE ADVIERTE QUE ÉSTE ES IDÉNTICO AL PÁRRAFO ANTERIOR PUBLICADO EN EL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., DEL P.O. 3 DE OCTUBRE DE 2016, PÁGINA 5474]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+En el caso de dependencias y organismos estatales, y en su caso las municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviarán a la Función Pública y, en su caso, al órgano de gobierno respectivo, un informe acompañando copia del dictamen aludido en el párrafo anterior.
 
 ###### Artículo 102.
 
@@ -1173,7 +1181,9 @@ En materia de adquisiciones, arrendamientos y servicios, se invitará a personas
 
 Los procedimientos de licitación restringida se sujetarán a lo siguiente:
 
-I. La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero en las Dependencias y Organismos estatales invariablemente se invitará a un representante de la Contraloría;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I. La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero en las dependencias y organismos estatales invariablemente se invitará a un representante de la Función Pública.
 
 II. Para llevar a cabo la evaluación, se deberá contar con el mínimo de proposiciones que establezca el presupuesto de egresos respectivo; y
 
@@ -1197,21 +1207,21 @@ III. Los plazos para las diversas etapas del procedimiento se sujetarán para ca
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 104.
 
-La Secretaría y demás Dependencias y Organismos estatales, deberán remitir a la Contraloría, en la forma y términos que esta última señale, la información relativa a los actos y contratos que regula esta Ley.
+La Secretaría y demás Dependencias y Organismos estatales, deberán remitir a la Función Pública, en la forma y términos que esta última señale, la información relativa a los actos y contratos que regula esta Ley.
 
 De igual manera, lo harán los Municipios cuando la adquisición, el arrendamiento o la contratación del servicio o la obra, se realice con recursos del Estado.
 
 Para tal efecto, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubiere recibido los bienes o las obras; o prestado el servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 105.
 
-La Secretaría y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos, los servicios y la obra pública que lleven a cabo las Dependencias y Organismos estatales, o las municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+La Secretaría y la Función Pública, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos, los servicios y la obra pública que lleven a cabo las Dependencias y Organismos estatales, o las municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
@@ -1219,15 +1229,17 @@ La Secretaría, en el ejercicio de sus facultades, podrá verificar en cualquier
 
 Los Municipios, a través de sus Ayuntamientos, determinarán la Dependencia que en su ámbito de competencia ejecutará las facultades a que se refiere este Título.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 106.
 
-Para los efectos de este capítulo, las Dependencias y Organismos proporcionarán todas las facilidades administrativas necesarias a fin de que la Secretaría y la Contraloría puedan realizar el seguimiento y control físico-financiero correspondiente.
+Para los efectos de este capítulo, las Dependencias y Organismos proporcionarán todas las facilidades administrativas necesarias a fin de que la Secretaría y la Función Pública puedan realizar el seguimiento y control físico-financiero correspondiente.
+
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 107.
 
-La comprobación de la calidad de las especificaciones de los bienes muebles se hará en los laboratorios que determine la Contraloría y que podrán ser aquellos con los que cuente la Dependencia u Organismo adquirente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+La comprobación de la calidad de las especificaciones de los bienes muebles se hará en los laboratorios que determine la Función Pública y que podrán ser aquellos con los que cuente la dependencia u organismo adquirente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor o contratista, según sea el caso, y el representante de la Dependencia u Organismo, si hubieran intervenido.
 
@@ -1247,11 +1259,15 @@ La multa será equivalente a la cantidad de diez a mil veces el salario mínimo 
 
 Los proveedores y contratistas que se encuentren en cualquiera de los supuestos previstas (sic) en las fracciones IV, V, VI, VII y VIII del artículo 42 de la presente ley, podrán ser sancionados, además, según la gravedad del acto u omisión, con la suspensión o cancelación de su registro en el Padrón correspondiente. La suspensión no será menor de seis meses ni mayor a dos años, contados a partir de la fecha en que se aplique.
 
-Para los efectos de este artículo, el Ente Público que imponga una suspensión o cancelación la hará del conocimiento de los Ayuntamientos, la Contraloría y del Congreso, dentro de los diez días naturales siguientes a la fecha en que notifique al proveedor o contratista.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Para los efectos de este artículo, el ente público que imponga una suspensión o cancelación, la hará del conocimiento de los Ayuntamientos, la Función Pública y del Congreso, dentro de los diez días naturales siguientes a la fecha en que notifique al proveedor o contratista.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 110.
 
-En el ámbito del Poder Ejecutivo y su sector paraestatal, así como en el municipal cuando haya inversión de recursos estatales, la Contraloría podrá proponer a las autoridades competentes, la imposición de las sanciones a que se refiere este Capítulo y, en su caso, la suspensión del suministro, de la prestación del servicio o de la ejecución de la obra en que incida la infracción.
+En el ámbito del Poder Ejecutivo y su sector paraestatal, así como en el municipal cuando haya inversión de recursos estatales, la Función Pública podrá proponer a las autoridades competentes, la imposición de las sanciones a que se refiere este Capítulo y, en su caso, la suspensión del suministro, de la prestación del servicio o de la ejecución de la obra en que incida la infracción.
 
 ###### Artículo 111.
 
@@ -1591,7 +1607,9 @@ El fallo de la licitación se notificará a los participantes por escrito.
 
 Los participantes en un procedimiento de licitación podrán promover inconformidad administrativa en contra del mismo, por contravención a las disposiciones de la Ley de Adquisiciones, Arrendamiento, Contratación de Servicios y Obra Pública, a esta Ley y su reglamento, siempre que se trate del mismo procedimiento en el que hayan participado como licitantes.
 
-La inconformidad administrativa se presentará por escrito ante la Secretaría de la Contraloría o el Ayuntamiento, según sea el caso, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación o, en su defecto, al día en que le haya sido notificado el fallo de adjudicación.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+La inconformidad administrativa se presentará por escrito ante la Secretaría de la Función Pública o el Ayuntamiento, según sea el caso, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación o, en su defecto, al día en que le haya sido notificado el fallo de adjudicación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -1866,3 +1884,79 @@ P.O. 22 DE JULIO DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
