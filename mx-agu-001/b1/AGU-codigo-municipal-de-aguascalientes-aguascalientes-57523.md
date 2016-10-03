@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2016-09-19"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1061,7 +1061,7 @@ De la Secretaría Particular
 
 La Presidencia tiene a su cargo el despacho de asuntos que expresamente le confieren la Ley que en materia municipal expida el Poder Legislativo del Estado, los acuerdos que emanen de las Sesiones del H. Ayuntamiento y el presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2011)</small>
+(REFORMADO, P.O. 21 DE FEBRERO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 98.
 
@@ -1591,7 +1591,7 @@ Departamento de Programas Sociales.
 
 Departamento de Mantenimiento.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+(REFORMADA, P.O. 13 DE ENERO DE 2014) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 XVI.- SECRETARÍA DE SEGURIDAD PÚBLICA.
 
@@ -1657,11 +1657,21 @@ Departamento de Implementación y Seguimiento de Programas.
 
 Departamento de Educación Vial.
 
-Dirección de Profesionalización.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LAS REFORMAS PUBLICADA EN EL P.O. 3 DE OCTUBRE DE 2016 TODOS AQUELLOS ORDENAMIENTOS JURÍDICOS MUNICIPALES QUE HAGAN REFERENCIA A LA DIRECCIÓN DE PROFESIONALIZACIÓN SE ENTENDERÁN APLICABLES A LA ACADEMIA DE POLICÍA MUNICIPAL]</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Academia de Policía Municipal.
+
+(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
 
 Coordinación de Seguimiento de Servicio de Carrera Policial.
 
+(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
+
 Departamento de Formación y Capacitación.
+
+(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
 
 Departamento de Evaluación.
 
@@ -7949,7 +7959,7 @@ II. La Operativa.
 
 El Presidente Municipal relevará libremente de sus funciones a todo el personal de la Secretaría de Seguridad Pública que considere necesario, para el mejor funcionamiento de esta Secretaría, respetando en su caso el grado jerárquico y los derechos inherentes a la carrera policial.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 550.
 
@@ -7971,19 +7981,29 @@ VI. Cumplir y velar que las personas integrantes operativas de la Secretaría ac
 
 VII. Resolver las dudas que se susciten internamente sobre las competencias de las Unidades Administrativas de la Secretaría, con motivo de la interpretación o aplicación del presente Código y sobre las situaciones no previstas en el mismo, así como establecer los lineamientos y procedimientos conforme a los cuales deban actuar;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-VIII. Proponer al Presidente o Presidenta Municipal con paridad genérica los siguientes nombramientos:
+VIII. Proponer al Presidente Municipal los nombramientos de:
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
 a) Director (a) de Estado Mayor;
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
 b) Director (a) de Policía Preventiva;
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
 c) Director (a) de Tránsito y Movilidad;
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
 d) Director (a) de Prevención del Delito; y
 
-e) Director (a) de Profesionalización.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+e) Director (a) de la Academia de Policía Municipal.
 
 IX. Recibir y realizar acuerdos directamente con los Directores de la Secretaría para el despacho de los asuntos de su competencia;
 
@@ -8149,11 +8169,11 @@ XVI. Las demás que le confiera el Secretario y las disposiciones legales aplica
 
 La Policía Auxiliar y Comercial es una Jefatura Operativa sujeta al mando del Director de Policía Preventiva, cuyas funciones se dirigen específicamente a la guarda y custodia de personas, valores e instalaciones.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 555.
 
-Los integrantes de la Policía Auxiliar y Comercial están obligados a llevar el programa de formación inicial y los demás que determine la Dirección de Profesionalización, previo acuerdo del Secretario. Asimismo tienen la obligación de incorporarse al Sistema Integral de Desarrollo Policial y de adoptar los principios de actuación, obligaciones, sanciones y correctivos disciplinarios establecidas en el presente Libro.
+Los integrantes de la Policía Auxiliar y Comercial están obligados a llevar el programa de formación inicial y los demás que determine la Academia de Policía Municipal, previo acuerdo del Secretario. Asimismo tienen la obligación de incorporarse al Sistema Integral de Desarrollo Policial y de adoptar los principios de actuación, obligaciones, sanciones y correctivos disciplinarios establecidas (sic) en el presente Libro.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8271,19 +8291,29 @@ XII. Emitir informes mensuales de sus actividades al Secretario; y
 
 XIII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 559.
 
-La Dirección de Profesionalización tendrá las atribuciones siguientes:
+La Academia de Policía Municipal tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Diseñar y coordinar la implementación del Sistema Integral de Desarrollo Policial, así como evaluar los ejes que lo conforman, en los términos que establezca la normativa aplicable;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 II. Definir las políticas, estrategias y procedimientos para la profesionalización del personal de la Secretaria, en coordinación con las otras direcciones;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 III. Formular y operar las políticas relativas al reclutamiento, selección, ingreso, permanencia, estímulos, promoción, reconocimiento y terminación ordinaria del servicio del personal aspirante e integrantes operativos de la Secretaría, conforme a la normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV. Diseñar y proponer los procesos, procedimientos, lineamientos, políticas, convocatorias y criterios institucionales en materia de Servicio Profesional de Carrera Policial, en coordinación con las demás direcciones, así como darles seguimiento y promover su estricta observancia;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 V. Diseñar, implementar y evaluar los planes y programas para la formación inicial y continua de las demás direcciones, en coordinación con instituciones educativas, organismos públicos y privados;
 
@@ -8291,25 +8321,47 @@ V. Diseñar, implementar y evaluar los planes y programas para la formación ini
 
 VI. Diagnosticar las necesidades de profesionalización del personal de la Secretaría, considerándose la importancia de institucionalizar el enfoque de género, la atención en crisis, la violencia de género en sus diferentes modalidades y tipos;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VII. Promover el desarrollo de la investigación académica en materia policial de manera autónoma o en coordinación con instituciones u organismos públicos y privados;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VIII. Proponer la celebración de convenios y bases de colaboración con instituciones u organismos nacionales y extranjeros, públicos y privados, para la profesionalización del personal de la Secretaría;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IX. Otorgar la revalidación de equivalencias de estudios de la profesionalización en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 X. Proponer las etapas, niveles de escolaridad y grados académicos de la profesionalización para los integrantes operativos de la Secretaría, en coordinación con las instancias correspondientes;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XI. Autorizar y expedir documentos derivados de las actividades para la profesionalización y el servicio profesional de carrera policial;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XII. Registrar, administrar y resguardar la información derivada del Sistema Integral de Desarrollo Policial de los integrantes operativos de la Secretaría, en los términos de este Libro;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XIII. Promover el desarrollo obligatorio y permanente del Servicio Profesional de Carrera Policial, en colaboración con las áreas de la Secretaría, en estricto cumplimiento de los principios constitucionales y legales que rigen la labor de la Institución;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIV. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XV. Elaborar e implementar los procedimientos disciplinarios que se instruyan a los participantes de la formación inicial y continua, en los términos que establezca la normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XVI. Emitir informes mensuales de sus actividades al Secretario; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XVII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
@@ -8317,7 +8369,7 @@ XVII. Las demás que le confiera el Secretario y las disposiciones legales aplic
 
 ### CAPÍTULO I. Derechos y Obligaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 560.
 
@@ -8437,7 +8489,7 @@ Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido
 
 ###### ARTÍCULO 565.
 
-Son derechos de las personas integrantes operativas de la Secretaría, quienes por la naturaleza de su grado o cargo les son conferidos en forma implícita o explícita por este Código y demás instrumentos normativos aplicables, los siguientes:
+Son derechos de todos los integrantes operativos de la Secretaría, aquellos que por la naturaleza de su grado o cargo les son conferidos en forma implícita o explícita por este Código y demás instrumentos normativos aplicables, los siguientes:
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8451,9 +8503,9 @@ II. Gozar de un trato digno y respetuoso por parte de sus superiores jerárquico
 
 III. Recibir el respeto y la atención de la comunidad a la que sirve;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-IV. Recibir la formación inicial y continua que para el efecto señale la Dirección de Profesionalización, a través de las áreas correspondientes;
+IV. Recibir la formación inicial y continua que para el efecto señale la Academia de Policía Municipal, a través de las áreas correspondientes;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8859,7 +8911,7 @@ Si el recurso resulta procedente, quedará sin efecto la sanción o correctivo d
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 577.
 
@@ -8897,7 +8949,7 @@ Las sanciones de amonestación y arresto, a que se refiere este artículo serán
 
 ###### ARTÍCULO 580.
 
-Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo profesional, personal, familiar y social de sus integrantes operativos, se establece el Sistema Integral de Desarrollo Policial, su coordinación y vigilancia estará a cargo de la Dirección de Profesionalización de la Secretaría.
+Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo profesional, personal, familiar y social de sus integrantes operativos, se establece el Sistema Integral de Desarrollo Policial, su coordinación y vigilancia estará a cargo de la Academia de Policía Municipal de la Secretaría.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -8917,7 +8969,7 @@ El Sistema Integral de Desarrollo Policial, está conformado por los procesos re
 
 Es necesaria la implementación continua, permanente y progresiva de cada proceso, así como la participación coordinada de las instancias responsables de su operación, para el óptimo funcionamiento del Sistema.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 583.
 
@@ -8941,7 +8993,9 @@ VIII. La realización de evaluaciones propias para la obtención y actualizació
 
 IX. Las demás actividades que sean susceptibles de preverse y que incidan en el desarrollo de los integrantes operativos, favoreciendo además la prestación del servicio de seguridad pública.
 
-Para tal efecto se conformará una junta de planeación, la cual será presidida por el Secretario y coordinada por el Director de Profesionalización, sesionará de manera ordinaria por un periodo al año, contará con las atribuciones que al efecto señale el reglamento correspondiente y deberá operar en base a un manual de procedimientos.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Para tal efecto se conformará una junta de planeación, la cual será presidida por el Secretario y coordinada por el Director (a) de la Academia de Policía Municipal, sesionará de manera ordinaria por un periodo al año, contará con las atribuciones que al efecto señale el reglamento correspondiente y deberá operar en base a un manual de procedimientos.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8949,13 +9003,15 @@ Para tal efecto se conformará una junta de planeación, la cual será presidida
 
 El ingreso es el proceso en el que intervienen los procedimientos de reclutamiento, selección, formación inicial y adscripción como integrante operativo de la Secretaría, este proceso inicia con la recepción de documentos y termina con el otorgamiento de una constancia de grado. Lo anterior, sin omitir el proceso previo de certificación que deberá acreditar todo aspirante y el registro ante el Sistema Nacional de Seguridad Pública, el cual se realizará en dos fases: al ser dado de alta en programa de formación inicial y al ser adscrito.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 585.
 
 Dentro de este procedimiento se atenderá a los siguientes puntos:
 
-I. La Dirección de Profesionalización deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional de Personal de Seguridad Pública y en su caso, en los registros locales, antes de que se autorice su ingreso;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I. La Academia de Policía Municipal deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional de Personal de Seguridad Pública y en su caso, en los registros locales, antes de que se autorice su ingreso;
 
 II. Ninguna persona podrá ingresar a la Secretaría si no ha sido debidamente certificado y registrado en el Sistema Nacional de Seguridad Pública;
 
@@ -9155,11 +9211,11 @@ Las recompensas, en ningún caso, se considerarán como un ingreso fijo, regular
 
 El procedimiento correspondiente para los efectos de aplicar para el otorgamiento de algún estímulo, será definido en el reglamento y manuales correspondientes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 595.
 
-Las condecoraciones consistirán en fistoles o preseas metálicas; la mención honorífica consistirá en un documento oficial, expedido y registrado por la Dirección de Profesionalización por su naturaleza académica, sin que implique la necesidad de ser avalado por otra instancia.
+Las condecoraciones consistirán en fistoles o preseas metálicas; la mención honorífica consistirá en un documento oficial, expedido y registrado por la Academia de Policía Municipal por su naturaleza académica, sin que implique la necesidad de ser avalado por otra instancia.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9199,19 +9255,23 @@ Al concluir el servicio el integrante deberá entregar al servidor público desi
 
 El Servicio Profesional de Carrera Policial es el eje que constituye un sistema obligatorio y permanente que la Secretaría dispone para los integrantes operativos, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, adscripción, formación, control y registro de la certificación, evaluaciones, evaluación, promoción y régimen de estímulos; así como la separación o baja del servicio de los integrantes de la Secretaría.
 
-La Dirección de Profesionalización establecerá un sistema de diagnóstico, evaluación y retroalimentación que permita identificar las áreas de oportunidad, tanto en los procesos como en las capacidades de los integrantes operativos de la Secretaría, con el objeto de implementar programas de mejora continua que promuevan su desarrollo, personal, profesional, familiar y social.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+La Academia de Policía Municipal establecerá un sistema de diagnóstico, evaluación y retroalimentación que permita identificar las áreas de oportunidad, tanto en los procesos como en las capacidades de los integrantes operativos de la Secretaría, con el objeto de implementar programas de mejora continua que promuevan su desarrollo, personal, profesional, familiar y social.
 
 La Carrera Policial comprende el grado policial, la antigüedad, y los estímulos obtenidos, el resultado de los procesos de promoción, y todos los registros derivados de los procedimientos del sistema, incluyendo las sanciones que, en su caso, haya acumulado el integrante operativo.
 
-Será responsabilidad de la Dirección de Profesionalización en los términos de las disposiciones aplicables, controlar, resguardar y actualizar el registro de los datos mencionados en el párrafo anterior en el expediente de seguimiento del Servicio de Carrera Policial de cada integrante operativo y éstos, están obligados a presentar la totalidad de la documentación relativa a su desempeño operativo, académico, personal y profesional para su control y actualización, atendiendo a los instrumentos normativos aplicables. La titulación de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en Coordinación con la Dirección de Profesionalización.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+Será responsabilidad de la Academia de Policía Municipal en los términos de las disposiciones aplicables, controlar, resguardar y actualizar el registro de los datos mencionados en el párrafo anterior en el expediente de seguimiento del Servicio de Carrera Policial de cada integrante operativo y éstos, están obligados a presentar la totalidad de la documentación relativa a su desempeño operativo, académico, personal y profesional para su control y actualización, atendiendo a los instrumentos normativos aplicables. La titulación de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en Coordinación con la Academia de Policía Municipal.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 598.
 
-La Profesionalización es el eje que se conforma por el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y continua, esta última comprende la actualización, la especialización y alta dirección; para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes operativos de la Secretaría. La titularidad de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con la Dirección de Profesionalización.
+La Profesionalización es el eje que se conforma por el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y continua, esta última comprende la actualización, la especialización y alta dirección; para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes operativos de la Secretaría. La titularidad de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con la Academia de Policía Municipal.
 
-Los planes de estudio para la formación se integrarán al interior de la Dirección de Profesionalización.
+Los planes de estudio para la formación se integrarán al interior de la Academia de Policía Municipal.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9273,7 +9333,7 @@ En ningún caso, se otorgarán prestaciones Complementarias de Seguridad Social 
 
 ### CAPÍTULO II. De la Comisión del Servicio Profesional de Carrera Policial
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 604.
 
@@ -9501,9 +9561,9 @@ Contra las determinaciones dictadas por el Secretario Técnico durante la audien
 
 ### CAPÍTULO III. De la Comisión de Normatividad Interna
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
-###### ARTÍCULO 614.
+###### Artículo 614.
 
 La Comisión del Servicio Profesional de Carrera Policial es una instancia colegiada de carácter independiente en su funcionamiento, permanente e imparcial, que se encarga de vigilar la ejecución de los procesos y procedimientos del Servicio Profesional de Carrera Policial.
 
@@ -9515,7 +9575,9 @@ II. Un Secretario Técnico, que contará sólo con voz y será el Coordinador de
 
 III. Ocho vocales con derecho a voz y voto:
 
-a) Director de Profesionalización;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+a) Director (a) de la Academia de Policía Municipal;
 
 b) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos con estudios de nivel superior, perteneciente en su caso, a la unidad operativa de investigación y otro con nivel de escolaridad media básica, perteneciente en su caso, a la unidad operativa de reacción. Ambos deberán contar con al menos cinco años continuos de servicio en la Secretaría;
 
@@ -9527,9 +9589,9 @@ e) Dos representantes del Consejo Municipal de Consulta y Participación ciudada
 
 Esta comisión sesionará con la presencia del Presidente y al menos la mitad más uno de sus vocales. Cada miembro de la Comisión podrá designar, por escrito, a un representante para que lo supla en las sesiones, los que deberán pertenecer a las mismas áreas y cubrir en su caso, los mismos requisitos.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
-###### ARTÍCULO 615.
+###### Artículo 615.
 
 La Comisión, contará con las siguientes atribuciones:
 
@@ -9549,15 +9611,21 @@ VII. Examinar los expedientes de los integrantes de la institución, a fin de de
 
 VIII. Aprobar las convocatorias para los procesos de ingreso y promoción;
 
-IX. Solicitar a la Dirección de Profesionalización, los informes sobre los avances de implementación y cumplimiento de los procedimientos del Servicio Profesional de Carrera Policial;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+IX. Solicitar a la Academia de Policía Municipal, los informes sobre los avances de implementación y cumplimiento de los procedimientos del Servicio Profesional de Carrera Policial;
 
 X. Recomendar ajustes, cuando así lo considere pertinente, sobre los procedimientos, programas, acciones y medidas relacionadas con la operación del Servicio de Carrera;
 
 XI. Conocer y resolver sobre el otorgamiento de constancias de grado jerárquico, cumpliendo escrupulosamente con las formalidades de los procedimientos;
 
-XII. Revisar anualmente los resultados del Servicio Profesional de Carrera Policial, expuestos por la Dirección de Profesionalización;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XIII. Sugerir a la Dirección de Profesionalización programas y actividades académicas para el óptimo desarrollo de los procedimientos de formación inicial y continua, y evaluación para la permanencia de los integrantes de la Secretaría;
+XII. Revisar anualmente los resultados del Servicio Profesional de Carrera Policial, expuestos por la Academia de Policía Municipal;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIII. Sugerir a la Academia de Policía Municipal programas y actividades académicas para el óptimo desarrollo de los procedimientos de formación inicial y continua, y evaluación para la permanencia de los integrantes de la Secretaría;
 
 XIV. Informar al Secretario de aquellos aspectos del Servicio de Carrera, que por su importancia lo ameriten;
 
@@ -9581,6 +9649,8 @@ I. Un Consejero Presidente que será el Secretario de Seguridad Pública, quien 
 
 II. Un Secretario Técnico. Que será el Coordinador de Asuntos Jurídicos;
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+
 III. Ocho Consejeros que serán los siguientes:
 
 a) El Regidor Presidente de la Comisión de Seguridad Pública;
@@ -9591,7 +9661,9 @@ c) El Director de Policía Preventiva;
 
 d) El Director de Tránsito y Movilidad;
 
-e) El Director de Profesionalización;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+e) El Director (a) de la Academia de Policía Municipal;
 
 f) El Director de Prevención del Delito;
 
@@ -9603,17 +9675,19 @@ Dichos consejeros contarán con voz y voto, cuya función principal será la de 
 
 IV. Nueve Vocales que serán nombrados por cada uno de los consejeros, los cuales conformarán el órgano técnico normativo permanente de esta comisión, contando sólo con voz en las sesiones y tendrán como función principal, el desarrollo de los distintos instrumentos. Para su funcionamiento serán coordinados por el secretario técnico.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 617.
 
-Para ser vocal del órgano técnico normativo permanente, representante del Secretario y de las diferentes Direcciones del se requiere:
+Para ser vocal del órgano técnico normativo permanente, representante del Secretario y de las diferentes Direcciones del (sic) se requiere:
 
 I. Contar con estudios a nivel superior.
 
 II. Tener como mínimo dos años de experiencia en Seguridad Pública.
 
-III. Acreditar las evaluaciones que sean elaboradas por la Secretaría Técnica en coordinación con la Dirección de Profesionalización.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+III. Acreditar las evaluaciones que sean elaboradas por la Secretaría Técnica en coordinación con la Academia de Policía Municipal.
 
 ###### ARTÍCULO 618.
 
@@ -24112,3 +24186,13 @@ P.O. 19 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DE “MODIFICACIONES Y ADICIONES A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, ASÍ COMO AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se autoriza a la Academia de Policía Municipal, a utilizar la papelería oficial en la que aparezca la Dirección de Profesionalización hasta la terminación de la misma, que tendrá la validez oficial y surtirá los efectos jurídicos correspondientes; una vez concluido lo anterior, la Academia de Policía Municipal deberá adecuar la documentación oficial que requiera.
+
+TERCERO.- Todos aquellos ordenamientos jurídicos Municipales que hagan referencia a la Dirección de Profesionalización se entenderán aplicables a la Academia de Policía Municipal.
