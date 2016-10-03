@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2016-06-30"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -641,9 +641,11 @@ La Junta es un órgano colegiado que se integrará, inmediatamente después de l
 
 Sus decisiones serán tomadas por voto ponderado, siendo aquél que corresponde de manera proporcional al número de Diputados que representa.
 
+> <small>(REFORMADO P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 43.
 
-La Junta tendrá un Presidente. La Presidencia de la Junta será rotativa entre los Coordinadores de los Grupos Parlamentarios que representen al menos el veinte por ciento del Congreso, con una duración continua y proporcional.
+La Junta tendrá un presidente. La presidencia de la Junta será rotativa entre los Coordinadores de los Grupos Parlamentarios que represente al menos el veinte por ciento del Congreso.
 
 ###### ARTÍCULO 44.
 
@@ -3942,3 +3944,11 @@ El presente Decreto entrará en vigor el día de su aprobación por el Pleno del
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 175.- "SE REFORMA EL ARTÍCULO 43 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
