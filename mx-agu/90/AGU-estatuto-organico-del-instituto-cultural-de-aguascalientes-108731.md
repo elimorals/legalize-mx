@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2015-06-22"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA REFORMA Y ADICIONES AL ESTATUTO ORGÁNICO, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2016, LAS PRESENTES REFORMAS, ENTRAN EN VIGENCIA AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO, CON EXCEPCIÓN DE AQUÉLLAS RELATIVAS AL MUSEO ESPACIO, AL TALLER NACIONAL DE GRÁFICA Y LA SALA DE CONCIERTOS DE LA ORQUESTA SINFÓNICA DE AGUASCALIENTES, LAS CUALES ENTRAN EN VIGOR A PARTIR DE LA FECHA DE QUE LOS INMUEBLES DONDE OPERARÁN SEAN ENTREGADOS AL INSTITUTO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -457,7 +459,9 @@ La Dirección de Museos y Galerías cumple con la función de promover la creaci
 
 Al frente de esta Dirección, se tendrá un titular denominado Director de Museos y Galerías, quien además de las facultades generales a que se refiere este Estatuto Orgánico, tendrá como atribuciones y obligaciones las siguientes:
 
-I. Administrar los museos y galerías adscritos al Instituto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I. Administrar el Museo Espacio y el Taller Nacional de Gráfica, con sede en el Macro Espacio para la Cultura y las Artes, así como los demás museos y galerías adscritos al Instituto;
 
 II. Actuar como gestor cultural para el enriquecimiento del patrimonio artístico y cultural del Instituto;
 
@@ -471,9 +475,21 @@ VI. Registrar la iniciativa de personas y grupos a efecto de promover y difundir
 
 VII. Resguardar el patrimonio del Instituto que se encuentre catalogado dentro de los bienes artísticos y culturales, el cual deberá custodiar y vigilar, así como realizar todas las acciones preventivas y de restauración que resulten necesarias para su conservación;
 
-VIII. Custodiar los inmuebles donde se encuentren albergados los bienes descritos en la fracción que antecede; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-IX. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+VIII. Custodiar los inmuebles donde se encuentren albergados los bienes descritos en la fracción que antecede;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+IX. Vincularse con la Universidad de las Artes para promover el desarrollo de investigaciones teóricas, técnicas y operativas en torno al propio museo, las colecciones que resguarda y sus las (sic) curadurías e interpretaciones, así como a las exposiciones temporales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+X. Vincularse con la Universidad de las Artes para promover la enseñanza del grabado en el nivel profesional; y
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2016)
+
+XI. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
 
 #### SECCIÓN CUARTA. Dirección Editorial y Bibliotecas Públicas
 
@@ -541,9 +557,11 @@ XXVII. Todas las demás facultades y atribuciones que le confiera este Estatuto 
 
 #### SECCIÓN QUINTA. Dirección de Educación Artística Básica
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 32.
 
-La Dirección de Educación Artística Básica cumple con la función de coordinar, aplicar, supervisar y evaluar las políticas y disposiciones administrativas, académicas, de control escolar, promoción cultural y capacitación a docentes para impartir la educación artística básica, en los diferentes Centros de Animación Cultural y Programas del Instituto.
+La Dirección de Educación Artística Básica cumple con la función de coordinar, aplicar, supervisar y evaluar las políticas y disposiciones administrativas, académicas, de promoción cultural y capacitación a docentes para impartir la educación artística básica, en los diferentes Centros de Animación Cultural y Programas del Instituto.
 
 ###### Artículo 33.
 
@@ -563,7 +581,9 @@ VI. Organizar presentaciones artísticas de los diferentes Centros de Animación
 
 VII. Promover grupos de difusión artística básica a nivel municipal, estatal y nacional;
 
-VIII. Coordinar y supervisar las actividades de Control Escolar relacionados con esta Dirección;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+VIII. Coadyuvar con la Dirección de la Universidad de las Artes las actividades de Control Escolar relacionadas con educación artística básica;
 
 IX. Coordinar y supervisar las actividades de Planeación Académica;
 
@@ -583,7 +603,9 @@ Esta Dirección tendrá un titular denominado Director de Promoción y Difusión
 
 I. Establecer en coordinación con las direcciones de área, las estrategias de promoción y difusión de los productos artísticos, grupos de difusión, y espacios del Instituto, a nivel estatal, nacional, e internacional;
 
-II. Producir, distribuir, vender y rentar los productos y servicios artísticos y de promoción cultural del Instituto;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+II. Producir, distribuir y comercializar los productos y servicios artísticos y de promoción cultural del Instituto, así como promover, difundir y administrar la renta de los espacios del mismo;
 
 III. Ser responsable de los teatros y otros espacios culturales del Instituto que le sean designados por el Director General;
 
@@ -629,13 +651,23 @@ VII. Representar a la Orquesta Sinfónica ante terceros a nivel nacional e inter
 
 VIII. Promover la superación individual y colectiva de los músicos que integran la Orquesta Sinfónica;
 
-IX. Colaborar en actividades de difusión, vinculación y relaciones públicas que contribuyan a una mayor proyección de la Orquesta hacia todos los sectores de la sociedad; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
 
-X. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+IX. Administrar la Sala de Conciertos de la Orquesta, con sede en el Macro Espacio para la Cultural (sic) y las Artes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+X. Colaborar en actividades de difusión, vinculación y relaciones públicas que contribuyan a una mayor proyección de la Orquesta hacia todos los sectores de la sociedad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XI. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 38.
 
-La Dirección de la Orquesta Sinfónica, contará con un Coordinador General, quien será supervisado por el Director de la Orquesta Sinfónica, y tendrá como función el auxiliar en las funciones administrativas inherentes a la Orquesta Sinfónica, acorde a las disposiciones aplicables.
+La Dirección de la Orquesta Sinfónica, contará con un Gerente, quien será supervisado por el Director de la Orquesta Sinfónica, y tendrá a su cargo el auxilio de las funciones administrativas inherentes a la Orquesta Sinfónica, acorde a las disposiciones aplicables.
 
 #### SECCIÓN OCTAVA. La Dirección de la Universidad de las Artes
 
@@ -650,6 +682,10 @@ El funcionamiento docente, técnico y administrativo de la Universidad de las Ar
 Al frente de la Universidad, se encuentra un Director el cual será el responsable de vigilar el cumplimiento de las disposiciones vigentes; quien para el desempeño de sus funciones contará con el personal docente y administrativo necesario, de conformidad con la disponibilidad presupuestaria.
 
 La Dirección de la Universidad de las Artes cumple con la función de promover, coordinar y supervisar el nivel de educación artística media superior que sea impartido por el Instituto por medio de la Universidad de las Artes, para lo cual deberá tomar las decisiones necesarias para este efecto así como vigilar el cumplimiento de los procedimientos y la normatividad académica y administrativa vigente.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Además de lo anterior, la Dirección de la Universidad es la responsable de llevar el control escolar de la educación artística básica, media y superior impartida por el Instituto.
 
 ###### Artículo 41.
 
@@ -679,9 +715,25 @@ XI. Planear los programas de difusión de la Universidad de las Artes, para part
 
 XII. Gestionar la creación de nuevos programas académicos a nivel técnico, licenciatura y postgrado;
 
-XIII. Crear programas académicos extracurriculares, como diplomados, cursos, talleres, entre otros; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-XIV. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+XIII. Crear programas académicos extracurriculares, como diplomados, cursos, talleres, entre otros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIV. Coordinar y supervisar las actividades de Control Escolar relacionados con educación artística básica, media y superior, con la coadyuvancia de la Dirección de Educación Artística Básica;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XV. Vincularse con el Museo Espacio, por medio de la Dirección de Museos y Galerías, para promover el desarrollo de investigaciones teóricas, técnicas y operativas en torno al propio museo, las colecciones que resguarda y sus curadurías e interpretaciones, así como a las exposiciones temporales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XVI. Vincularse con el Taller Nacional de Gráfica para promover la enseñanza del grabado en el nivel profesional; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XVII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
 
 ###### Artículo 42.
 
@@ -791,37 +843,147 @@ III. Los demás servidores públicos de la entidad responderán dentro del ámbi
 
 El órgano de control es parte integrante de la estructura del Instituto, sus acciones tienen por objeto apoyar la función directiva y promover el mejoramiento de la gestión de la entidad, y será desempeñado por medio de la figura del Contralor Interno.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 57.
 
-El Contralor Interno, será designado y removido por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+El Contralor Interno, será designado y removido por el Gobernador del Estado, quien escuchará las propuestas que le formule la Secretaría de Fiscalización y Rendición de Cuentas del Estado, y deberá cumplir con los siguientes requisitos:
+
+I.- Tener título de Contador Público, Licenciado en Administración o áreas afines.
+
+II.- Tener experiencia en procesos de auditoría, control interno, elaboración de manuales de procedimientos y conocimientos básicos de derecho;
+
+III.- Contar con capacidad de liderazgo, toma de decisiones, manejo de personal, negociación, manejo de conflictos y comunicación; y
+
+IV.- Contar con reconocida capacidad profesional y honorabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 58.
 
-El Contralor Interno del Instituto depende directamente del Director General, y contará con las siguientes atribuciones y obligaciones:
+El Contralor Interno del Instituto depende directamente del Director General, y contará con las siguientes atribuciones, facultades y obligaciones:
 
-I. Realizar sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
+I.- Realizar sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
 
-II. Examinar y evaluar los sistemas, mecanismos y procedimientos de control interno;
+II.- Examinar y evaluar los sistemas, mecanismos y procedimientos de control interno;
 
-III. Efectuar revisiones y auditorías internas del Instituto;
+III.- Efectuar revisiones y auditorías internas del Instituto;
 
-IV. Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
+IV.- Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
 
-V. Presentar al Director General, a la Junta Directiva y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas;
+V.- Presentar al Director General, a la Junta Directiva y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas;
 
-VI. Recibir las quejas que le sean turnadas y que puedan constituir violación de derechos humanos;
+VI.- Recibir las quejas que le sean turnadas y que puedan constituir violación de derechos humanos;
 
-VII. Aplicar las sanciones correspondientes a los servidores públicos por el indebido ejercicio de sus funciones;
+VII.- Aplicar las sanciones correspondientes a los servidores públicos por el indebido ejercicio de sus funciones;
 
-VIII. Sujetar su actuación a los lineamientos que para tal efecto emita la Secretaría de Fiscalización y Rendición de Cuentas; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-IX. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, la Ley para el Control de las Entidades Paraestatales, la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, así como las que otorgue el Director General del Instituto, o la Junta Directiva.
+VIII.- Sujetar su actuación a los lineamientos que para tal efecto emita la Secretaría de Fiscalización y Rendición de Cuentas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+IX.- Acordar y resolver los asuntos de la competencia de la Contraloría Interna a su cargo;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+X.- Ordenar las diligencias necesarias para comprobar el cumplimiento de las disposiciones legales en el ejercicio de las funciones de los servidores públicos del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XI.- Requerir a las direcciones, o unidad que resulte aplicable, la información, documentación y su colaboración para el cumplimiento de sus funciones y atribuciones;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XII.- Someter a consideración del titular de la Secretaría de Fiscalización y Rendición de Cuentas los asuntos que así lo ameriten;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIII.- Practicar auditorías, revisiones, visitas de inspección y verificación a las distintas direcciones, o unidades que resulten aplicables que se requieran para verificar la eficacia, economía y eficiencia de las operaciones de éstas, la confiabilidad de su información financiera y operacional y el debido cumplimiento de las leyes, reglamentos y políticas aplicables.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIV.- Informar al Director General y a la Secretaría de Fiscalización y Rendición de Cuentas sobre los resultados de las auditorías, revisiones y visitas de inspección o verificación efectuadas para que se tomen las medidas pertinentes de carácter preventivo y correctivo;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XV.- Vigilar la aplicación oportuna de las medidas correctivas y recomendaciones derivadas de las auditorías y/o revisiones practicadas;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XVI.- Identificar, investigar y determinar las responsabilidades de los servidores públicos en relación con las auditorías practicadas, así como imponer las sanciones administrativas a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XVII.- Recibir, atender, radicar, llevar el registro y substanciar los procedimientos de quejas y denuncias que sean formuladas en contra de servidores públicos del Instituto, y practicar investigaciones sobre sus actos a fin de fincar en su caso, la responsabilidad a que haya lugar, imponer las sanciones que procedan, turnar los asuntos a la Secretaría de Fiscalización y Rendición de Cuentas que le sean requeridos o que por su interés o trascendencia así lo ameriten, así como dar vista a la autoridad que corresponda de acuerdo a su competencia de los asuntos que pudiera derivar responsabilidad penal;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XVIII.- Dictar las resoluciones en los recursos de revocación interpuestos por los servidores públicos, respecto de la imposición de sanciones administrativas, así como realizar la defensa jurídica de las resoluciones que emita ante las diversas instancias jurisdiccionales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIX.- Vigilar que la actuación de los servidores públicos sea en estricto apego a la legislación aplicable, así como el cumplimiento exacto de las disposiciones que expida la Secretaría de Fiscalización y Rendición de Cuentas, y en los casos de infracción normativa, iniciar el procedimiento administrativo correspondiente;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XX.- Recibir, substancias (sic) y resolver las inconformidades expuestas por los actos derivados de cumplimiento o incumplimiento de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, y realizar cuando lo considere conveniente, investigaciones de oficio a partir de las inconformidades de que haya conocido, en términos de dicho ordenamiento;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXI.- Tramitar y resolver los procedimientos administrativos correspondientes e imponer las sanciones o multas a quienes infrinjan las disposiciones contenidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXII.- Dar trámite a los recursos que se hagan valer en contra de las resoluciones de inconformidades, así como en contra de las resoluciones por las que se impongan sanciones o multas a quienes infrinjan las disposiciones contenidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios e inhabilitaciones a proveedores en términos de la citada legislación;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXIII.- Vigilar y hacer cumplir la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, así como la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en los casos de proveedores participantes en los procedimientos de adquisiciones, arrendamientos y prestaciones de servicios dentro del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXIV.- Realizar por sí, o por conducto de los notificadores que designe, las notificaciones de resoluciones, determinaciones o de acuerdos que se dicten en los procedimientos administrativos y medios de impugnación que correspondan al ámbito de atribuciones de la Contraloría Interna;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXV.- Atender y sustanciar los procedimientos que inicien las diversas direcciones, áreas y unidades administrativas del Instituto;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXVI.- Solicitar a la Dirección General Jurídica de la Secretaría de Fiscalización y Rendición de Cuentas, la asesoría jurídica necesaria para dar cabal cumplimiento a las atribuciones, facultades y obligaciones a su cargo;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXVII.- Intervenir y fungir como testigo de calidad en el levantamiento de actas de Entrega-Recepción por cambio de titulares, hasta el nivel de Jefe de Departamento y de aquel personal que maneje valores, bienes y recursos materiales, financieros y humanos, o que sea considerado como de confianza de conformidad con la Ley Federal del Trabajo;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXVIII.- Asistir y participar en los procedimientos de adquisiciones y prestación de servicios en los términos de lo establecido por la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXIX.- Vigilar el cumplimiento exacto de las políticas, lineamientos y disposiciones que expida la Secretaría de Fiscalización y Rendición de Cuentas;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXX.- Certificar y en su caso expedir copias de los documentos que obren en los archivos de la Contraloría Interna;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXXI.- Atender en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas los requerimientos de las autoridades fiscalizadores (sic) como el Órgano Superior de Fiscalización, la Secretaría de la Función Pública y la Auditoría Superior de la Federación; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XXXII.- Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, así como las que otorgue la Secretaría de Fiscalización y Rendición de Cuentas; el Director General del Instituto, o la Junta Directiva.
 
 ### CAPÍTULO III. Del Órgano de Vigilancia
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 59.
 
-El órgano de vigilancia estará integrado por un Comisario Público Propietario y un Suplente, designados y removidos por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+El órgano de vigilancia estará integrado por un Comisario Público Propietario y un Suplente, designados y removidos por el Gobernador del Estado, de acuerdo a la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
 ###### Artículo 60.
 
@@ -914,3 +1076,21 @@ PRIMER REPRESENTANTE DE LA COMUNIDAD CIVIL DEL ESTADO DE AGUASCALIENTES.
 C.P. Patricia Morales Zamarripa,
 
 COMISARIO PÚBLICO PROPIETARIO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA Y ADICIONES AL ESTATUTO ORGÁNICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Estatuto Orgánico, entrará (sic) en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de aquellas relativas al Museo Espacio, al Taller Nacional de Gráfica y la Sala de Conciertos de la Orquesta Sinfónica de Aguascalientes, las cuales entrarán en vigor a partir de la fecha de que los inmuebles donde operarán sean entregados al Instituto.
+
+###### ARTÍCULO SEGUNDO.
+
+Los acuerdos, circulares y demás disposiciones emitidas previamente a la entrada en vigor de las reformas y adiciones al presente Estatuto Orgánico del Instituto Cultural de Aguascalientes, tendrán plena validez siempre y cuando no contravengan las disposiciones de éste.
+
+###### ARTÍCULO TERCERO.
+
+Las diversas Direcciones, contarán con un plazo de treinta días naturales para asumir las atribuciones que les han sido señaladas en las reformas al Estatuto Orgánico y que a la fecha se encuentren siendo atendidas por otras áreas.
