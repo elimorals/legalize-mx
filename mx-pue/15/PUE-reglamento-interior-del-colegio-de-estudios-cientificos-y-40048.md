@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-colegio-de-estudios-cientificos-y-40048
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-14"
-last_updated: "2004-06-14"
+last_updated: "2016-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE PUEBLA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE PUEBLA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 14 de junio de 2004.
 
@@ -31,7 +33,9 @@ ACUERDO de la Junta Directiva del Colegio de Estudios Científicos y Tecnológic
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Gobierno del Estado de Puebla.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En mérito de lo anteriormente expuesto y con fundamento en lo que dispone el artículo 45 de la Ley Orgánica de la Administración Pública del Estado de Puebla y en ejercicio de las atribuciones que le confiere a la Junta Directiva el artículo 9 fracciones III y IV del Decreto de Creación del Colegio de Estudios Científicos y Tecnológicos del Estado de Puebla, tiene a bien expedir el siguiente:
 
@@ -310,3 +314,15 @@ PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 Con fundamento en el artículo 12 fracciones XIX y XXI del Decreto que crea al Colegio de Estudios Científicos y Tecnológicos del Estado de Puebla, publicado en el Periódico Oficial del Estado con fecha 4 de julio de 1997, el Lic. Carlos Alfredo Lozano Díaz, Director General del citado Colegio, somete a consideración de los miembros de la H. Junta Directiva y siendo una de sus facultades consagradas por el artículo 9 fracciones III y IV, y toda vez que con Acta de la Tercera Sesión Ordinaria (acuerdo CECyTE/41(9-12-03) se aprobó el REGLAMENTO INTERIOR y en este mismo sentido se requiere el REFRENDO de los integrantes de la H. Junta Directiva para su publicación en el Periódico Oficial del Estado y a su vez solicitado por la Dirección General de Asuntos Jurídicos de la Secretaría de Gobernación, siendo además un requisito indispensable para los efectos legales que procedan.- Suplente del LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER, Presidente de la H. Junta Directiva.- LICENCIADO HÉCTOR ROMERO Y VARGAS.- Rúbrica.- Suplente del LICENCIADO FRANCISCO BÁRCENA COMPEÁN, Representante del Gobierno del Estado.- LICENCIADO J. RODOLFO FLORES ROJAS.- Rúbrica. - Representantes del Gobierno Federal: Suplente del M.C. ROBERTO LAGARDA LAGARDA.- CONTADOR PÚBLICO JULIO RAMÍREZ DOMINGUEZ.- Rúbrica.- Suplente del LICENCIADO ALFONSO VICENTE DÍAZ.- PROFESORA LEONOR LUNA VARGAS.-Rúbrica.- Representante del Sector Social.- INGENIERO MIGUEL A. GAMIZ RODRÍGUEZ.-Rúbrica.- Representantes del Sector Productivo: Suplente de la LICENCIADA MA. DEL REFUGIO REYES RODRÍGUEZ.- LICENCIADO RODRIGO CASTILLO RUÍZ.- Rúbrica.- INGENIERO LUCIO ZAVALA GUTIÉRREZ.- Rúbrica.- En representación del CONTADOR PÚBLICO EDUARDO BRETON ESCAMILLA, Delegado de la SEDECAP en el Sector Educativo.- LICENCIADO RAÚL LÓPEZ ROLDÁN.- Rúbrica.- Director General del CECyTE Puebla.- LICENCIADO CARLOS ALFREDO LOZANO DIAZ.- Rúbrica.- Secretaria de Actas.- PROFESORA MA. DEL CARMEN ALVAREZ RODRÍGUEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Puebla, publicado en el Periódico Oficial del Estado el catorce de junio de dos mil cuatro.
+
+TERCERO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Reglamento.
