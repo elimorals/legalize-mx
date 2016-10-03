@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-colegio-de-chihuahua-46826"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-29"
-last_updated: "2005-10-29"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL COLEGIO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 29 de octubre de 2005.
 
@@ -49,11 +49,11 @@ LEY DEL COLEGIO DE CHIHUAHUA
 
 ### CAPÍTULO I. DE SU OBJETO Y FUNCIONES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 1°.
 
-"El Colegio de Chihuahua" es un Organismo Público Descentralizado del Poder Ejecutivo del Estado, cuya cabeza de sector es la Secretaría de Educación y Cultura, dotado de plena capacidad jurídica y patrimonio propio; autónomo en el ejercicio de sus funciones académico-científicas, que dictará sus propios ordenamientos, organizará su funcionamiento y aplicará sus recursos en la forma en que lo establezcan el presente ordenamiento y sus órganos de gobierno.
-
-Para los efectos de la presente Ley, siempre que se haga referencia al "Colegio" o al "Organismo", se entenderá que se trata de "El Colegio de Chihuahua".
+“El Colegio de Chihuahua” es un Organismo Público Descentralizado del Poder Ejecutivo del Estado, cuya cabeza de sector es la Secretaría de Educación y Deporte, dotado de plena capacidad jurídica y patrimonio propio; autónomo en el ejercicio de sus funciones académico-científicas, que dictará sus propios ordenamientos, organizará su funcionamiento y aplicará sus recursos en la forma en que lo establezcan el presente ordenamiento y sus órganos de gobierno.
 
 ###### ARTÍCULO 2°.
 
@@ -107,7 +107,9 @@ IV. El Comisario Público.
 
 La Junta de Gobierno será el órgano máximo de "El Colegio de Chihuahua" y estará compuesta por:
 
-I. El Secretario de Educación y Cultura del Poder Ejecutivo del Estado, quien la presidirá;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I. El Secretario de Educación y Deporte del Poder Ejecutivo del Estado, quien la presidirá;
 
 II. Los Secretarios de Administración y de Finanzas del Poder Ejecutivo del Estado;
 
@@ -159,9 +161,11 @@ X. Definir las bases conforme a las cuales podrá otorgar reconocimiento de vali
 
 ### CAPÍTULO IV. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 9°.
 
-El Director General de "El Colegio de Chihuahua" será nombrado por el Gobernador del Estado, de entre una terna propuesta por el Secretario de Educación y Cultura, acordada y votada en sesión de la Junta de Gobierno por al menos las dos terceras partes de sus integrantes.
+El Director General de "El Colegio de Chihuahua" será nombrado por el Gobernador del Estado, de entre una terna propuesta por el Secretario de Educación y Deporte, acordada y votada en sesión de la Junta de Gobierno por al menos las dos terceras partes de sus integrantes.
 
 El Director General durará en su encargo cuatro años, pudiendo ser ratificado para un único y siguiente periodo igual.
 
@@ -257,13 +261,15 @@ II. Compartir opiniones y juicios críticos constructivos en torno a la metodolo
 
 III. Hacer todo tipo de recomendaciones para el cumplimiento cabal del objeto del Colegio.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-Del órgano de vigilancia. Estará integrado por un Comisario Público Titular y por un Suplente, ambos designados por la Secretaría de la Contraloría del Estado, y tendrá como facultades las que se deriven del presente Ordenamiento, de la Ley de Entidades Paraestatales del Estado, así como de aquellas normas que resulten aplicables.
+Del órgano de vigilancia. Estará integrado por un Comisario Público Titular y por un Suplente, ambos designados por la Secretaría de la Función Pública del Estado, y tendrá como facultades las que se deriven del presente Ordenamiento, de la Ley de Entidades Paraestatales del Estado, así como de aquellas normas que resulten aplicables.
 
 ### CAPÍTULO VI. DEL PATRIMONIO
 
-###### Artículo 18.
+###### ARTÍCULO 18.
 
 El patrimonio de "El Colegio de Chihuahua" se integrará por:
 
@@ -279,13 +285,13 @@ V. Las cuotas recaudadas por bienes o servicios que preste el Colegio; y
 
 VI. Por cualquier otro ingreso que por cualesquier título o causa se le asigne o le corresponda a título legal.
 
-###### Artículo 19.
+###### ARTÍCULO 19.
 
 Los bienes inmuebles, patrimonio de "El Colegio de Chihuahua", son inalienables, inembargables e imprescriptibles y sobre ellos no podrá constituirse ningún gravamen mientras estén destinados a la realización de sus funciones.
 
 La Junta de Gobierno, ante la obsolescencia o falta de aptitud para el aprovechamiento de los bienes adquiridos, podrá autorizar su enajenación o gravamen una vez que se declare que ya no son aptos para el aprovechamiento del Colegio. En su momento, la Junta de Gobierno emitirá el reglamento correspondiente.
 
-###### Artículo 20.
+###### ARTÍCULO 20.
 
 "El Colegio de Chihuahua" gozará, respecto de su patrimonio, de las franquicias y prerrogativas concedidas a los fondos y bienes del Estado. Dichos bienes, así como los actos y contratos que celebre el Colegio, quedarán exentos de toda clase de impuestos y derechos estatales.
 
@@ -390,3 +396,81 @@ LIC. JOSÉ REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
