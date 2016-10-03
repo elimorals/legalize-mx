@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2016-03-26"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2016.
-
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3897,9 +3897,9 @@ En caso de no mostrar la orden escrita que autoriza la instalación, puesto de s
 
 209.- Se aplicará destitución de empleo e inhabilitación para obtener otro cargo por un término de un año y multa de cinco mil a veinticinco mil pesos, a quienes cometan la violación de que habla la fracción XXII del Artículo anterior.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión, e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI, XXXVII y XLII, del artículo que precede.
+Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión, e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones II, III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI, y XXXVII y XLII, del artículo que precede.
 
 Se aplicará prisión de seis meses a seis años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo o comisión, inhabilitación por dos años para ocupar otro, a los que cometan los delitos señalados en las Fracciones I, IV, V, VII, VIII, IX, XIV, XVIII, XIX, XX, XXI, XXVIII, XXIX, XXX y XXXI del Artículo anterior.
 
@@ -4351,7 +4351,7 @@ Abuso, hostigamiento y acoso sexual, estupro y violación.
 
 241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.]</small>
 
 La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
 
@@ -4370,6 +4370,10 @@ III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de siete a doce años de prisión y multa de trescientos a setecientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo primero, será inhabilitado, destituido o suspendido, de su empleo público o profesión.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -5981,7 +5985,7 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 
 423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 
-ARTICULOS TRANSITORIOS:
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ## TITULO VIGESIMO.
 
@@ -6016,6 +6020,24 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 ## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+## TITULO VIGESIMO QUINTO. Delitos contra la Libertad de Expresión
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+424.- Se aplicará la pena de seis meses a cuatro años de prisión y multa de cincuenta a doscientas unidades de medida de actualización:
+
+I. A quien por sí o por interpósita persona, utilizando la violencia física o moral, evite que se ejerza la actividad del periodista. Para efectos de esta fracción se entenderá por periodista toda persona que hace del ejercicio de las libertades de expresión y/o información su actividad principal o complementaria, entendida como la actividad de buscar y difundir información a la sociedad, y
+
+II. A quien por sí o por interpósita persona obstaculice, impida o por cualquier medio reprima la publicación, producción, distribución, circulación o difusión de algún medio de información escrito, impreso, digital o radiofónico.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+425.- Si quien realiza el acto fuera un servidor público se aumentará la sanción un año.
+
+Los delitos contenidos en este Título se perseguirán por querella.
+
+ARTICULOS TRANSITORIOS:
 
 ###### ARTICULO 1o.
 
@@ -6493,74 +6515,14 @@ P.O. 26 DE MARZO DE 2016.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES”.]
+P.O. 3 DE OCTUBRE DE 2016.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2025.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 209 Y SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 241 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
+P.O. 3 DE OCTUBRE DE 2016.
 
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2026.- MEDIANTE EL CUAL SE ADICIONA, EL TÍTULO VIGÉSIMO QUINTO DENOMINADO “DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN” Y LOS ARTÍCULOS 424 Y 425 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
-
-En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
-
-Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
-
-Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
-
-Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
-
-El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
-
-A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
-
-Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
-
-Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
-
-El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
-
-Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
-
-Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
-
-El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
-
-Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
-
-Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
-
-Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
-
-D.O.F. 27 DE FEBRERO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 23 Y 25 DE LA LEY GENERAL DE PARTIDOS POLÍTICOS Y UN ARTÍCULO 19 TER A LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
