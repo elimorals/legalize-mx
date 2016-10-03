@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2015-07-22"
+last_updated: "2016-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -93,7 +93,9 @@ IV. Secretaría: La Secretaría de Comunicaciones y Obras Públicas;
 
 V. Hacienda: La Secretaría de Hacienda;
 
-VI. Contraloría: La Secretaría de la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+VI. Función Pública: La Secretaría de la Función Pública del Estado;
 
 VII. (DEROGADA, P.O. 10 DE AGOSTO DE 2011)
 
@@ -157,23 +159,25 @@ La obra pública y servicios relacionados con la misma, con cargo total o parcia
 
 El gasto de la obra pública y servicios relacionados con la misma, se sujetará a lo previsto en la Constitución Política del Estado, en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Publico del Estado, a la Ley de Ingresos, a las disposiciones específicas previstas en los Presupuestos de Egresos del Estado y de los Municipios, así como en las demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 7.
 
-En el ámbito del Poder Ejecutivo, la Secretaría, escuchando la opinión de la Contraloría dictará las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley. Cuando estas sean de carácter general deberán publicarse en el Periódico Oficial del Estado.
+En el ámbito del Poder Ejecutivo, la Secretaría, escuchando la opinión de la Función Pública dictará las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley. Cuando estas sean de carácter general deberán publicarse en el Periódico Oficial del Estado.
 
 Lo propio harán el Poder Legislativo y Judicial en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 8.
 
-El Poder Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, Hacienda y la Contraloría, así como sus Organismos en el ámbito de su respectiva competencia, por lo que respecta a su obra pública o servicios relacionados con la misma.
+El Poder Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, Hacienda y la Función Pública, así como sus Organismos en el ámbito de su respectiva competencia, por lo que respecta a su obra pública o servicios relacionados con la misma.
 
 Los Poderes Legislativo y Judicial las aplicarán a través de sus respectivos Órganos de Administración.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-Los Ayuntamientos las aplicarán por conducto de sus Tesorerías, Oficialías Mayores y sus Organismos. Cuando realicen obra pública o servicios relacionados con la misma, con subsidios, participaciones o fondos estatales, intervendrán Hacienda y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
+Los Ayuntamientos las aplicarán por conducto de sus Tesorerías, Oficialías Mayores y sus Organismos. Cuando realicen obra pública o servicios relacionados con la misma, con subsidios, participaciones o fondos estatales, intervendrán Hacienda y la función Pública en los términos de esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 9.
 
@@ -323,7 +327,7 @@ En las edificaciones y proyectos futuros, se deberán incluir mecanismos, equipo
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de "Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales", sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
+Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de “Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales”, sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
 
 ###### ARTICULO 20.
 
@@ -389,9 +393,11 @@ Sólo se podrán celebrar contratos de obra pública y servicios relacionados co
 
 Los contratistas interesados en inscribirse en el Padrón Único de Contratistas, deberán solicitarlo por escrito al Comité, acompañando la información y documentación que se señale en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 28.
 
-El registro en el Padrón tendrá vigencia indefinida, siempre y cuando se cumpla con la obligación de revalidarlo anualmente y no se incurra en alguna de las causales de suspensión o cancelación. El Comité y la Contraloría podrán verificar en cualquier tiempo la veracidad de la información o de la documentación que los contratistas hubieren aportado para su registro.
+El registro en el Padrón tendrá vigencia indefinida, siempre y cuando se cumpla con la obligación de revalidarlo anualmente y no se incurra en alguna de las causales de suspensión o cancelación. El Comité y la función Pública podrán verificar en cualquier tiempo la veracidad de la información o de la documentación que los contratistas hubieren aportado para su registro.
 
 ###### ARTICULO 29.
 
@@ -403,7 +409,9 @@ Así mismo, deberán comunicar por escrito al Comité dentro de un plazo de diez
 
 El Comité, dentro de un plazo que no excederá de diez días naturales, contados a partir de la recepción de la solicitud que incluya toda la información requerida, resolverá sobre la inscripción, aceptándola o negándola.
 
-En el caso de que no se obtenga respuesta se dará intervención a la Contraloría.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+En el caso de que no se obtenga respuesta se dará intervención a la Función Pública.
 
 ###### ARTICULO 31.
 
@@ -411,9 +419,11 @@ En el mes de Julio de cada año, el Comité publicará en el Periódico Oficial 
 
 En el reglamento de esta Ley, se regulará el uso y difusión electrónica del Padrón.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 32.
 
-La Contraloría por sí misma o a solicitud del Ente Público contratante podrá suspender el registro del contratista, en los casos siguientes:
+La Función Pública por sí misma o a solicitud del Ente Público contratante podrá suspender el registro del contratista, en los casos siguientes:
 
 I. Ser declarado en estado de quiebra, suspensión de pagos o sujeto a concurso de acreedores;
 
@@ -423,15 +433,21 @@ III. No manifestar oportunamente modificaciones a su empresa que alteren los dat
 
 IV. Ser declarada judicialmente su incapacidad para contratar; y,
 
-V. Negarse a dar facilidades al Comité o a la Contraloría para que estas ejerzan funciones de comprobación, inspección y vigilancia, en relación con la información proporcionada para su inscripción en el Padrón Único de Contratistas.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+V. Negarse a dar facilidades al Comité o a la Función Pública para que estas ejerzan funciones de comprobación, inspección y vigilancia, en relación con la información proporcionada para su inscripción en el Padrón Único de Contratistas.
 
 En ningún caso la suspensión podrá ser menor a seis meses, ni mayor a dos años.
 
-Cuando cesen las causas que hubiesen motivado la suspensión del registro, el contratista lo acreditará ante la Contraloría, la que dispondrá lo conducente, a fin de que el registro del interesado vuelva a surtir todos sus efectos legales, previo pago de las sanciones y de los daños y perjuicios por los actos u omisiones imputables al contratista si estos se hubieren originado y de acuerdo al procedimiento que se establezca en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Cuando cesen las causas que hubiesen motivado la suspensión del registro, el contratista lo acreditará ante la Función Pública, la que dispondrá lo conducente, a fin de que el registro del interesado vuelva a surtir todos sus efectos legales, previo pago de las sanciones y de los daños y perjuicios por los actos u omisiones imputables al contratista si estos se hubieren originado y de acuerdo al procedimiento que se establezca en el Reglamento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 33.
 
-La Contraloría podrá cancelar el registro en el Padrón Único de Contratistas, sin perjuicio de exigir las responsabilidades correspondientes por la vía que proceda, cuando:
+La Función Pública podrá cancelar el registro en el Padrón Único de Contratistas, sin perjuicio de exigir las responsabilidades correspondientes por la vía que proceda, cuando:
 
 I. La información que hubiese proporcionado para su inscripción resultare falsa, o haya procedido con dolo o mala fe en cualquiera de las fases de un concurso o en la ejecución de la obra;
 
@@ -625,7 +641,9 @@ II. Con aquellas personas en que el servidor público que intervenga en cualquie
 
 III. Las sociedades en las que el servidor público o las personas que tienen impedimento, conforme a las fracciones I y II de este Artículo, formen o hayan formado parte;
 
-IV. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades de las que dichas personas formen o hayan formado parte, sin la autorización previa y específica de la Contraloría, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio publico;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+IV. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades de las que dichas personas formen o hayan formado parte, sin la autorización previa y específica de la Función Pública, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 V. Aquellos contratistas a quienes, por causas imputables a ellos mismos, se les hubiere rescindido en la vía administrativa un contrato, dentro de un lapso de dos años calendario contados a partir de la rescisión;
 
@@ -639,11 +657,13 @@ IX. Aquellas a las que se les declare en estado de quiebra o suspensión de pago
 
 X. Respecto de la ejecución de la obra pública o servicios relacionados con la misma, las que realicen o vayan a realizar por sí o a través de empresas, que formen parte del mismo grupo empresarial, trabajos de coordinación, supervisión y control de obra e instalaciones, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y de resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o la elaboración de cualquier otro documento para la licitación de la adjudicación del contrato de la misma obra;
 
-XI. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y el Ente Publico;
+XI. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y el Ente Público;
 
 XII. Aquellos contratistas que hayan sido demandados ante autoridad competente por algún Ente Público, mientras se resuelve su situación jurídica;
 
-XIII. Las que se encuentren inhabilitadas por resolución de la Contraloría, en los términos del Artículo 90 de esta Ley; y,
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XIII. Las que se encuentren inhabilitadas por resolución de la Función Pública, en los términos del Artículo 90 de esta Ley; y
 
 XIV. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
@@ -659,11 +679,11 @@ DE LOS PROCEDIMIENTOS Y CONTRATOS DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON L
 
 Se crea la Comisión Consultiva Estatal de Obra Pública, como Órgano de enlace con la Cámara Mexicana de la Industria de la Construcción, que tendrá por objeto emitir opiniones relacionadas con las materias de esta Ley, las cuales tendrán carácter de recomendaciones no vinculatorias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 46.
 
-La Comisión Consultiva de Obra Pública estará integrada por representantes de la Secretaría, Secretaría General de Gobierno, Hacienda, Secretaría de Desarrollo Urbano y Ecología, Contraloría y Cámara Mexicana de la Industria de la Construcción.
+La Comisión Consultiva de Obra Pública estará integrada por representantes de la Secretaría, Secretaría General de Gobierno, Hacienda, Secretaría de Desarrollo Urbano y Ecología, Función Pública y Cámara Mexicana de la Industria de la Construcción.
 
 El Secretario de Comunicaciones y Obras Públicas o la persona que éste designe, fungirá como Presidente.
 
@@ -689,9 +709,9 @@ IV. Constituir Subcomités dentro de las Dependencias y Organismos, cuando por l
 
 V. Aquellas otras que de manera especifica señale esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-En el Poder Ejecutivo y sus Organismos, el Comité se integrará con representantes designados por los titulares de la Secretaría, la Secretaría General de Gobierno, Hacienda, así como del ente público convocante. La Contraloría, podrá participar en el Comité en calidad de observador.
+En el Poder Ejecutivo y sus Organismos, el Comité se integrará con representantes designados por los titulares de la Secretaría, la Secretaría General de Gobierno, Hacienda, así como del ente público convocante. La Función Pública, podrá participar en el Comité en calidad de observador.
 
 El representante de la Secretaría fungirá como Presidente del Comité.
 
@@ -883,7 +903,9 @@ Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de
 
 Para efectos de la revisión y ajuste de los costos, la fecha de origen de los precios será la del acto de presentación y apertura de proposiciones;
 
-II. Los incrementos o decrementos de los costos de los insumos, serán calculados con base en los relativos o las variaciones en el índice que determine la Contraloría, en el ámbito del Poder Ejecutivo y sus Organismos; y,
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+II. Los incrementos o decrementos de los costos de los insumos, serán calculados con base en los relativos o las variaciones en el índice que determine la Función Pública, en el ámbito del Poder Ejecutivo y sus Organismos; y
 
 III. Los precios pactados en el contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante la vigencia del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés propuesta.
 
@@ -919,9 +941,11 @@ No serán aplicables los límites que se establecen en este artículo cuando se 
 
 Para los efectos de este artículo las reprogramaciones en el plazo de ejecución de los contratos, no se consideraran modificatorios, cuando se hagan por caso fortuito o causa de fuerza mayor.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 71.
 
-Los Entes Públicos podrán suspender temporalmente, terminar anticipadamente o rescindir en todo o en parte, los trabajos contratados por cualquier causa justificada. Los titulares consignarán en el contrato respectivo, a los servidores públicos facultados para resolver cualquiera de estos supuestos. De estos actos, en el ámbito del Poder Ejecutivo, sus Organismos y los Ayuntamientos cuando ejecuten obra pública con recursos estatales, deberán invariablemente dar aviso por escrito a la Secretaria y a la Contraloría, dentro de los ocho días naturales siguientes a que se tome el acuerdo respectivo.
+Los Entes Públicos podrán suspender temporalmente, terminar anticipadamente o rescindir en todo o en parte, los trabajos contratados por cualquier causa justificada. Los titulares consignarán en el contrato respectivo, a los servidores públicos facultados para resolver cualquiera de estos supuestos. De estos actos, en el ámbito del Poder Ejecutivo, sus Organismos y los Ayuntamientos cuando ejecuten obra pública con recursos estatales, deberán invariablemente dar aviso por escrito a la Secretaría y a la Función Pública, dentro de los ocho días naturales siguientes a que se tome el acuerdo respectivo.
 
 ###### ARTICULO 72.
 
@@ -1109,7 +1133,9 @@ El salario mínimo general vigente (SMGV) será el que corresponda a la zona eco
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la obra o servicio.
 
-En el caso de Dependencias y Organismos Estatales, y en el caso las Municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviaran a la Contraloría y a la Secretaria y, en su caso, al Órgano de Gobierno respectivo, un informe, acompañando copia del dictamen aludido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+En el caso de Dependencias y Organismos Estatales, y en el caso las Municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviarán a la Función Pública y a la Secretaría y, en su caso, al Órgano de Gobierno respectivo, un informe, acompañando copia del dictamen aludido en el párrafo anterior.
 
 ###### ARTICULO 80.
 
@@ -1197,33 +1223,35 @@ Los Entes Públicos que realicen obra pública por administración directa o med
 
 ### CAPITULO UNICO. DE LA INFORMACION Y VERIFICACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 86.
 
-Las Dependencias y Organismos Estatales, deberán remitir a la Secretaría, a Hacienda y a la Contraloría, en la forma y términos que éstas señalen, la información relativa a los actos y contratos que regula esta Ley.
+Las Dependencias y Organismos Estatales, deberán remitir a la Secretaría, a (sic) Hacienda y a la Función Pública, en la forma y términos que éstas señalen, la información relativa a los actos y contratos que regula esta Ley.
 
 De igual manera, lo harán los municipios cuando la obra o servicio, se realice con recursos del Estado.
 
 Para tal efecto, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubieren recibido las obras, o prestado el servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 87.
 
-La Secretaría, Hacienda y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que la obra pública y los servicios relacionados con la misma, que lleven a cabo las Dependencias y Organismos Estatales, o las Municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+La Secretaría, Hacienda y la Función Pública, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que la obra pública y los servicios relacionados con la misma, que lleven a cabo las Dependencias y Organismos Estatales, o las Municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
 El Poder Legislativo, Judicial y los Municipios a través de sus Ayuntamientos, determinarán la dependencia que en su ámbito de competencia ejecutará las facultades a que se refiere este Título.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 88.
 
-Para los efectos de este capítulo, las Dependencias y Organismos, así como los Municipios cuando corresponda, proporcionarán todas las facilidades administrativas necesarias a fin de que la Secretaría, Hacienda y la Contraloría, puedan realizar el seguimiento y control físico-financiero correspondiente.
+Para los efectos de este capítulo, las Dependencias y Organismos, así como los Municipios cuando corresponda, proporcionarán todas las facilidades administrativas necesarias a fin de que la Secretaría, Hacienda y la Función Pública, puedan realizar el seguimiento y control físico-financiero correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 89.
 
-La comprobación de la calidad de las especificaciones de los bienes muebles se hará en los laboratorios que determine la Contraloría y que podrán ser aquellos con los que cuente la Dependencia u Organismo o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+La comprobación de la calidad de las especificaciones de los bienes muebles se hará en los laboratorios que determine la Función Pública y que podrán ser aquellos con los que cuente la Dependencia u Organismo o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor o contratista, según sea el caso, y el representante de la Dependencia u Organismo, si hubieran intervenido. La falta de firma del proveedor o contratista no invalidará dicho dictamen.
 
@@ -1231,13 +1259,15 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-###### ARTICULO 90.
+###### ARTÍCULO 90.
 
-Las infracciones a las disposiciones contenidas en esta ley serán sancionadas con suspensión o cancelación en el Padrón Único de Contratistas y/o multa. En el Poder Ejecutivo y sus Organismos, las sanciones se impondrán por la Contraloría y se ejecutarán por la Secretaría o por Hacienda, según corresponda; en el Poder Legislativo y Judicial, así como en los Municipios, por sus órganos de control correspondientes.
+Las infracciones a las disposiciones contenidas en esta ley serán sancionadas con suspensión o cancelación en el Padrón Único de Contratistas y/o multa. En el Poder Ejecutivo y sus Organismos, las sanciones se impondrán por la Función Pública y se ejecutarán por la Secretaría o por Hacienda, según corresponda; en el Poder Legislativo y Judicial así como en los Municipios, por sus órganos de control correspondientes.
 
-La Contraloría llevará para su información un padrón, en el que se incluyan las personas físicas y morales que hayan sido sancionadas por infracciones a esta Ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+La Función Pública llevará para su información un padrón, en el que se incluyan las personas físicas y morales que hayan sido sancionadas por infracciones a esta Ley.
 
 La multa será equivalente a la cantidad de diez a mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción. Constituye crédito fiscal a favor del Estado o del Municipio, según corresponda, y se hará efectiva mediante el procedimiento administrativo de ejecución, en los términos de las disposiciones aplicables del Código Fiscal del Estado y del Código Municipal.
 
@@ -1263,9 +1293,13 @@ No se impondrán sanciones cuando se haya incurrido en la infracción por causa 
 
 En el procedimiento para la aplicación de las sanciones a que se refiere este Capítulo, se observarán las siguientes reglas:
 
-I. La Contraloría comunicará por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días naturales, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes; y,
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-II. La Contraloría, pronunciará su resolución, debidamente fundada y motivada, en un término que no excederá de veinte días naturales, y la comunicará por escrito al infractor y al Ente Público que corresponda.
+I. La Función Pública comunicará por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días naturales, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes; y
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+II. La Función Pública, pronunciará su resolución, debidamente fundada y motivada, en un término que no excederá de veinte días naturales, y la comunicará por escrito al infractor y al Ente Público que corresponda
 
 ###### ARTICULO 95.
 
@@ -1311,9 +1345,13 @@ En su escrito, el inconforme deberá manifestar, bajo protesta de decir verdad, 
 
 La manifestación de hechos falsos se sancionará conforme a las disposiciones legales aplicables.
 
-La inconformidad se substanciará y resolverá por la Contraloría en el ámbito del Poder Ejecutivo y sus Organismos; en los Poderes Legislativo y Judicial, por sus Órganos competentes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-En el ámbito del Municipio, conocerá su órgano de control, salvo el caso de que ejecuten obra con cargo a recursos estatales, en cuyo caso conocerá la Contraloría.
+La inconformidad se substanciará y resolverá por la Función Pública en el ámbito del Poder Ejecutivo y sus Organismos; en los Poderes Legislativo y Judicial, por sus Órganos competentes.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+En el ámbito del Municipio, conocerá su órgano de control, salvo el caso de que ejecuten obra con cargo a recursos estatales, en cuyo caso conocerá la Función Pública.
 
 Transcurridos los plazos establecidos en este artículo sin que se haya manifestado inconformidad alguna, precluye para los interesados el derecho a inconformarse, sin perjuicio de que los órganos competentes puedan actuar en cualquier tiempo en los términos de esta Ley.
 
@@ -1522,3 +1560,79 @@ P.O. 22 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
