@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proyectos-de-inversion-publica-a-largo-plazo-del-81358"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-11"
-last_updated: "2011-05-11"
+last_updated: "2016-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROYECTOS DE INVERSION PUBLICA A LARGO PLAZO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el folleto anexo al Periódico Oficial del estado de Chihuahua, el miércoles 11 de mayo de 2011.
 
@@ -75,7 +75,9 @@ d) Comisión: Comisión Intersecretarial o, en su caso, Comisión Municipal, par
 
 e) Congreso: H. Congreso del Estado Libre y Soberano de Chihuahua;
 
-f) Contraloría: La Secretaría de la Contraloría del Estado de Chihuahua;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+f) Función Pública: La Secretaría de la Función Pública del Estado de Chihuahua
 
 g) Contrato: Instrumento jurídico a través del cual se formaliza la realización de un proyecto de inversión pública a largo plazo celebrado entre una autoridad contratante y un inversionista prestador, en virtud del cual se comprometen recursos públicos de ejercicios fiscales presentes y futuros, y en el cual se establece la obligación a cargo del inversionista prestador de ejecutar a largo plazo, alguno o todos los actos señalados en el artículo 5 de la presente Ley, con activos que éste construya sobre inmuebles propios o de un tercero, incluyendo los activos de la autoridad contratante, así como la obligación de pago a cargo de la dependencia o entidad contratante;
 
@@ -131,9 +133,11 @@ III. El inversionista prestador será responsable de la inversión y financiamie
 
 Las autoridades contratantes serán responsables, a través del administrador del proyecto, de instrumentar las medidas conducentes para la realización de un proyecto de inversión pública a largo plazo, incluyendo la celebración del contrato correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-Por cada proyecto de inversión pública a largo plazo, existirá el administrador del proyecto, el cual tendrá la responsabilidad de integrar un grupo de trabajo que fungirá como órgano de consulta, evaluación y apoyo, tomando en consideración las facultades de los servidores públicos designados conforme al Reglamento Interior de las autoridades contratantes, así como su competencia. El grupo de trabajo se deberá integrar con los técnicos o profesionistas en la materia del proyecto y cuando menos con un servidor público de la Contraloría y otro del área jurídica de la autoridad contratante.
+Por cada proyecto de inversión pública a largo plazo, existirá el administrador del proyecto, el cual tendrá la responsabilidad de integrar un grupo de trabajo que fungirá como órgano de consulta, evaluación y apoyo, tomando en consideración las facultades de los servidores públicos designados conforme al Reglamento Interior de las autoridades contratantes, así como su competencia. El grupo de trabajo se deberá integrar con los técnicos o profesionistas en la materia del proyecto y cuando menos con un servidor público de la Función Pública y otro del área jurídica de la autoridad contratante.
 
 En el caso del Municipio, se integrará al grupo de trabajo a un servidor público de la Sindicatura.
 
@@ -191,7 +195,9 @@ b) Secretaría General de Gobierno, y
 
 c) De la Dependencia o Entidad que requiera el proyecto, y un representante por cada una de las Secretarías del ramo atendiendo a la naturaleza del mismo.
 
-Un representante de la Secretaría de la Contraloría y otro de la Consejería Jurídica se integrarán a la Comisión, como asesores, con derecho a voz.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+Un representante de la Secretaría de la función Pública y otro de la Consejería Jurídica se integrarán a la Comisión, como asesores, con derecho a voz.
 
 ###### Artículo 13.
 
@@ -623,7 +629,11 @@ La declaración de encontrarse el inversionista proveedor en concurso mercantil,
 
 Los participantes en un procedimiento de licitación podrán promover inconformidad administrativa en contra del mismo, por contravención a las disposiciones de la Ley de Adquisiciones, Arrendamiento, Contratación de Servicios y Obra Pública, a esta Ley y su reglamento, siempre que se trate del mismo procedimiento en el que hayan participado como licitantes.
 
-La inconformidad administrativa se presentará por escrito ante la Secretaría de la Contraloría o el Ayuntamiento, según sea el caso, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación o, en su defecto, al día en que le haya sido notificado el fallo de adjudicación.
+> <small>[N. DE E. DEL ANÁLISIS REALIZADO AL PRESENTE PÁRRAFO, SE OBSERVA QUE ÉSTE ES IDÉNTICO AL SEGUNDO PÁRRAFO DEL ARTÍCULO 141 DEL ARTÍCULO TRIGÉSIMO DEL DECRETO No. LXV/RFLEY/0003/2016 I P.O. PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 5498. DICHO ARTÍCULO NO PERTENECE AL PRESENTE ORDENAMIENTO]</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+La inconformidad administrativa se presentará por escrito ante la Secretaría de la Función Pública o el Ayuntamiento, según sea el caso, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación o, en su defecto, al día en que le haya sido notificado el fallo de adjudicación.
 
 ###### Artículo 60.
 
@@ -655,11 +665,15 @@ La inconformidad administrativa suspenderá el procedimiento de adjudicación o 
 
 El inconforme siempre deberá garantizar, a entera satisfacción de la autoridad contratante, según sea el caso, los daños o perjuicios que se puedan ocasionar a la hacienda pública o al licitante que haya resultado ganador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 63.
 
-La Secretaría de la Contraloría o el Ayuntamiento, según sea el caso, deberán requerir información a las autoridades contratantes, quienes deberán remitirla dentro del plazo de cinco días hábiles siguientes a la recepción del requerimiento correspondiente.
+La Secretaría de la Función Pública o el Ayuntamiento, según sea el caso, deberán requerir información a las autoridades contratantes, quienes deberán remitirla dentro del plazo de cinco días hábiles siguientes a la recepción del requerimiento correspondiente.
 
-La Secretaría de la Contraloría o el Ayuntamiento, según sea el caso, notificarán la interposición de la inconformidad administrativa a los licitantes que hayan resultado ganadores, para que dentro del plazo de cinco días hábiles, concurran a exponer lo que a sus intereses convenga.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+La Secretaría de la Función Pública o el Ayuntamiento, según sea el caso, notificarán la interposición de la inconformidad administrativa a los licitantes que hayan resultado ganadores, para que dentro del plazo de cinco días hábiles, concurran a exponer lo que a sus intereses convenga
 
 La instancia de inconformidad prevista en este Capítulo, deberá resolverse en plazo máximo de treinta días hábiles siguientes al en que se hubiere presentado el escrito de inconformidad.
 
@@ -684,3 +698,81 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los cuatro días del mes de mayo del año dos mil once.
 
 El GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO. LIC. GRACIELA ORTIZ GONZÁLEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
