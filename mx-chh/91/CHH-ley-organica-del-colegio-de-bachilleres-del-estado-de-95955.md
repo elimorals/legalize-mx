@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-colegio-de-bachilleres-del-estado-de-95955"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-09-21"
-last_updated: "2013-09-21"
+last_updated: "2016-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de septiembre de 2013.
 
@@ -51,9 +51,11 @@ LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-El Colegio de Bachilleres del Estado de Chihuahua, es un Organismo Público Descentralizado, dotado de personalidad jurídica y patrimonio propios, con domicilio en la Ciudad (sic) Chihuahua, Chihuahua, sectorizado a la Secretaría de Educación, Cultura y Deporte del Poder Ejecutivo del Estado de Chihuahua.
+El Colegio de Bachilleres del Estado de Chihuahua, es un Organismo Público Descentralizado, dotado de personalidad jurídica y patrimonio propios, con domicilio en la Ciudad (sic) Chihuahua, Chihuahua, sectorizado a la Secretaría de Educación y Deporte del Poder Ejecutivo del Estado de Chihuahua.
 
 ###### ARTÍCULO 2.
 
@@ -153,7 +155,9 @@ La Junta de Gobierno será el órgano máximo del "COBACH" y estará integrada p
 
 I. Tres representantes designados por el Titular del Ejecutivo, que serán:
 
-a) El Secretario de Educación, Cultura y Deporte de Gobierno del Estado, quien la presidirá.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+a) El Secretario de Educación y Deporte de Gobierno del Estado, quien la presidirá.
 
 b) El Secretario de Hacienda de Gobierno del Estado.
 
@@ -415,7 +419,9 @@ Asimismo será el encargado de todos los aspectos propios de su naturaleza y rel
 
 El "COBACH" contará con una Contraloría Interna, órgano interno de control, cuyo titular tendrá las siguientes atribuciones:
 
-I. Establecer coordinación para la óptima operación del Sistema Estatal de Control y Evaluación con la Secretaría de la Contraloría del Estado.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+I. Establecer coordinación para la óptima operación del Sistema Estatal de Control y Evaluación con la Secretaría de la Función Pública del Estado.
 
 II. Elaborar el Programa Anual de Actividades que sea de su competencia, de acuerdo a las normas y lineamientos establecidos.
 
@@ -443,7 +449,9 @@ XIII. Informar permanentemente al Director General de las actividades realizadas
 
 XIV. Iniciar el procedimiento administrativo cuando se presente una queja o denuncia formulada en contra del personal de confianza del "COBACH" que incurra en responsabilidades administrativas.
 
-XV. Proponer, por conducto del Director General, al Presidente de la Junta de Gobierno la aplicación de sanciones administrativas al personal del "COBACH" y notificar de ello a la Secretaría de la Contraloría del Estado.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
+XV. Proponer, por conducto del Director General, al Presidente de la Junta de Gobierno la aplicación de sanciones administrativas al personal del "COBACH" y notificar de ello a la Secretaría de la Función Pública del Estado.
 
 XVI. Elaborar las actas y llevar a cabo los procedimientos de entrega-recepción de los funcionarios del "COBACH".
 
@@ -591,11 +599,13 @@ Las relaciones de trabajo entre el "COBACH" y sus trabajadores se regirán por l
 
 #### SECCIÓN 3. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 46.
 
-El órgano de vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Estado y tendrá además las facultades previstas en esta Ley.
+El órgano de vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública del Estado y tendrá además las facultades previstas en esta Ley.
 
-El Comisario evaluará el desempeño general del "COBACH" y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Contraloría le asigne específicamente conforme a la Ley.
+El Comisario evaluará el desempeño general del "COBACH" y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne específicamente conforme a la Ley.
 
 ###### ARTÍCULO 47.
 
@@ -747,9 +757,11 @@ Para la liquidación y extinción del Colegio de Bachilleres del Estado de Chihu
 
 En su caso, la extinción del COBACH será comunicada al Congreso del Estado mediante formal iniciativa, a fin de que proceda a abrogar el presente Decreto. Para tal efecto, el Ejecutivo deberá proporcionar al Congreso toda la información relativa al procedimiento de liquidación y extinción.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 63.
 
-En caso de que el Colegio de Bachilleres del Estado de Chihuahua deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de las Secretarías de Educación, Cultura y Deporte, y de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquella.
+En caso de que el Colegio de Bachilleres del Estado de Chihuahua deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de las Secretarías de Educación y Deporte, y de la Función Pública, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquella.
 
 ###### ARTÍCULO 64.
 
@@ -800,3 +812,81 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecinueve días del mes de agosto del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, CULTURA Y DEPORTE. LIC. PABLO ESPINOZA FLORES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Chihuahuense de la Cultura, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Instituto Chihuahuense de la Cultura continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+###### ARTÍCULO OCTAVO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura respectivamente.
+
+###### ARTÍCULO NOVENO.
+
+Las atribuciones y referencias que se hagan a la Secretaría General de Gobierno o al Secretario General de Gobierno que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de desarrollo municipal que son reguladas en este Decreto se entenderán referidas a la Secretaría de Desarrollo Municipal o Secretario de Desarrollo Municipal respectivamente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley de la Coordinación Estatal de la Tarahumara.
+
+Se autoriza al Poder Ejecutivo para que la Coordinación Estatal de la Tarahumara se transforme en la Comisión Estatal para los Pueblos Indígenas, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Comisión, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Coordinación Estatal de la Tarahumara, se entenderán referidas a la Comisión Estatal para los Pueblos Indígenas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga el ACUERDO No. 139 del C. Gobernador Constitucional del Estado, mediante el cual se crea con carácter permanente una unidad administrativa denominada COORDINACIÓN DE PROYECTOS ESPECIALES, publicado en el Periódico Oficial del Estado el 22 de febrero de 2012.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la coordinación de Proyectos Especiales, se transfieran a la Coordinación de Asesoría y Proyectos Especiales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se autoriza al Poder Ejecutivo para reasignar, de acuerdo a los ajustes previstos en el presente Decreto, las partidas presupuestales, los recursos materiales, así como el personal de las distintas dependencias de la Administración Pública centralizada.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las atribuciones y referencias que se hagan a la Secretaría de Economía o al Secretario de Economía, que en virtud del presente Decreto no fueron modificadas y cuyas disposiciones prevén atribuciones y competencias en las materias de innovación y desarrollo económico que son reguladas en este Decreto, se entenderán referidas a la Secretaría de Innovación y Desarrollo Económico o Secretario de Innovación y Desarrollo Económico respectivamente.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
