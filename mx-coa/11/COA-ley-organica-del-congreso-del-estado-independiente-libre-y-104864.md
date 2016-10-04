@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2016-08-09"
+last_updated: "2016-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -831,7 +831,7 @@ XV. Las demás que le confiera esta ley.
 
 ###### ARTÍCULO 73.
 
-En las sesiones de la Junta de Gobierno, sus integrantes tendrán voto ponderado, en relación directa al número de diputados que representen. Consecuentemente, el voto de cada coordinador valdrá tantos votos como diputados integren el Grupo Parlamentario al que pertenece (sic).
+En las sesiones de la Junta de Gobierno, sus integrantes tendrán voto ponderado, en relación directa al número de diputados que representen. Consecuentemente, el voto de cada coordinador valdrá tantos votos como diputados integren el Grupo Parlamentario al que pertenece.
 
 ###### ARTÍCULO 74.
 
@@ -2119,7 +2119,9 @@ Que el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zarago
 
 Dado en el Salón de Sesiones del Congreso del Estado (lugar, fecha y firmas del Presidente y Secretarios). IMPRIMASE, COMUNÍQUESE y OBSÉRVESE
 
-(Lugar, fecha y firmas del Gobernador, Secretario de Gobierno, y en su caso, la de las o los Secretarios del Ramo)".
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
+
+(Lugar, fecha y firmas del Gobernador y del Secretario de Gobierno).
 
 ###### ARTÍCULO 177.
 
@@ -2321,7 +2323,7 @@ I. Cada miembro del Congreso, comenzando por el lado derecho de la mesa de la pr
 
 II. Una o Un Secretario apuntará los que aprueben y otro los que estén en contra;
 
-III. Concluido este acto, una o un Secretario preguntará dos veces en voz alta si falta algún miembro del Congreso por votar; y no faltando ninguno, votarán los y las (sic) Secretarios y la o el Presidente; y
+III. Concluido este acto, una o un Secretario preguntará dos veces en voz alta si falta algún miembro del Congreso por votar; y no faltando ninguno, votarán los y las Secretarios y la o el Presidente; y
 
 IV. Las o los Secretarios harán enseguida la computación de los votos, y leerán el resultado.
 
@@ -3128,3 +3130,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 549.- SE REFORMA EL ARTÍCULO 6 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 176 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
