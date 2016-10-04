@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2016-03-04"
+last_updated: "2016-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE OCTUBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -648,177 +648,181 @@ VIII. Cambio Climático;
 
 IX. Ciencia y Tecnología;
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE OCTUBRE DE 2016)</small>
 
-X. Competitividad;
-
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
-
-XI. Comunicaciones;
+X. Ciudad de México
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XII. Cultura y Cinematografía;
+XI. Competitividad;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XIII. Defensa Nacional;
+XII. Comunicaciones;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XIV. Deporte;
+XIII. Cultura y Cinematografía;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XV. Derechos de la Niñez;
+XIV. Defensa Nacional;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XVI. Derechos Humanos;
+XV. Deporte;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XVII. Desarrollo Metropolitano;
+XVI. Derechos de la Niñez;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XVIII. Desarrollo Municipal;
+XVII. Derechos Humanos;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XIX. Desarrollo Rural;
+XVIII. Desarrollo Metropolitano;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XX. Desarrollo Social;
+XIX. Desarrollo Municipal;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXI. Desarrollo Urbano y Ordenamiento Territorial;
+XX. Desarrollo Rural;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXII. Economía;
+XXI. Desarrollo Social;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXIII. Educación Pública y Servicios Educativos;
+XXII. Desarrollo Urbano y Ordenamiento Territorial;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXIV. Energía;
+XXIII. Economía;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
+XXIV. Educación Pública y Servicios Educativos;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
+XXV. Energía;
 
 > <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXV. Fomento Cooperativo y Economía Social;
+XXVI. Fomento Cooperativo y Economía Social;
 
 > <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXVI. Fortalecimiento al Federalismo;
+XXVII. Fortalecimiento al Federalismo;
 
 > <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXVII. Ganadería;
+XXVIII. Ganadería;
 
 > <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXVIII. Gobernación;
+XXIX. Gobernación;
 
 > <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXIX. Hacienda y Crédito Público;
+XXX. Hacienda y Crédito Público;
 
 > <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXX. Igualdad de Género;
+XXXI. Igualdad de Género;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXI. Infraestructura;
+XXXII. Infraestructura;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXII. Justicia;
+XXXIII. Justicia;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXIII. Juventud;
+XXXIV. Juventud;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXIV. Marina;
+XXXV. Marina;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXV. Medio Ambiente y Recursos Naturales;
+XXXVI. Medio Ambiente y Recursos Naturales;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXVI. Pesca;
+XXXVII. Pesca;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXVII. Población;
+XXXVIII. Población;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXVIII. Presupuesto y Cuenta Pública;
+XXXIX. Presupuesto y Cuenta Pública;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XXXIX. Protección Civil;
+XL. Protección Civil;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XL. Puntos Constitucionales;
+XLI. Puntos Constitucionales;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLI. Radio y Televisión;
+XLII. Radio y Televisión;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLII. Recursos Hidráulicos;
+XLIII. Recursos Hidráulicos;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLIII. Reforma Agraria;
+XLIV. Reforma Agraria;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLIV. Relaciones Exteriores;
+XLV. Relaciones Exteriores;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLV. Salud;
+XLVI. Salud;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLVI. Seguridad Pública;
+XLVII. Seguridad Pública;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLVII. Seguridad Social;
+XLVIII. Seguridad Social;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLVIII. Trabajo y Previsión Social;
+XLIX. Trabajo y Previsión Social;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-XLIX. Transparencia y Anticorrupción;
+L. Transparencia y Anticorrupción;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-L. Transportes;
+LI. Transportes;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-LI. Turismo, y
+LII. Turismo, y
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-LII. Vivienda.
+LIII. Vivienda.
 
 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
 
@@ -838,7 +842,7 @@ b) Dictaminar las propuestas que se presenten en esta materia y en lo referente 
 
 c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias.
 
-3. La Comisión del Distrito Federal tiene a su cargo tareas de dictamen legislativo y de información para el ejercicio de las atribuciones de la Cámara previstas en el apartado A del artículo 122 constitucional.
+3.- (DEROGADO, D.O.F. 4 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2001)</small>
 
@@ -2611,3 +2615,11 @@ D.O.F. 4 DE MARZO DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Cámara de Diputados, dentro de los 60 días siguientes a la publicación del presente Decreto, hará las modificaciones correspondientes al Estatuto de la Organización Técnica y Administrativa y del Servicio de Carrera de la Cámara de Diputados.
+
+D.O.F. 4 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 39 Y 40 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que la mesa directiva de la Cámara de Diputados hubiera turnado a la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto se entenderán como materias a resolver por la Comisión de la Ciudad de México. Lo mismo sucederá con todos los trámites sobre recursos administrativos, financieros, materiales y humanos, así como los distintos asuntos que desarrolle y que no estén sujetos a dictamen.
