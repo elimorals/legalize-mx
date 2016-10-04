@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2016-09-27"
+last_updated: "2016-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -988,7 +988,9 @@ Dado en el Salón de Sesiones del Congreso del Estado.
 
 IMPRIMASE, COMUNIQUESE Y OBSERVESE.
 
-(Lugar, fecha y firmas del Gobernador, Secretario de Gobierno y, en su caso, la del o los Secretarios del Ramo)."
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
+
+(Lugar, fecha y firmas del Gobernador y del Secretario de Gobierno)."
 
 ### CAPITULO IV.
 
@@ -1712,11 +1714,13 @@ III. Estar en pleno ejercicio de sus derechos; y
 
 IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 88.
 
-Las Leyes y Decretos expedidos por el Congreso del Estado que sean promulgados por el Gobernador, así como, los reglamentos, decretos, acuerdos y circulares que éste expida, serán refrendados por el Secretario de Gobierno y por los Secretarios del Ramo a que el asunto corresponda.
+Los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, serán refrendados por los Secretarios del Ramo a que el asunto corresponda.
+
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Secretario de Gobierno.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
@@ -5021,3 +5025,11 @@ P.O. 27 DE SEPTIEMBRE DE 2016.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 540.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 66 Y EL ARTÍCULO 88 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publiquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
