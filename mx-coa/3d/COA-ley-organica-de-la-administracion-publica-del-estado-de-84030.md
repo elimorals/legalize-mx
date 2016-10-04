@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2016-04-15"
+last_updated: "2016-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -87,9 +87,15 @@ Para el despacho de los asuntos que le competan, el gobernador se auxiliará de 
 
 El gobernador podrá convenir con el gobierno federal, con otras entidades federativas, con los municipios y con los sectores social y privado, en los términos previstos por la Constitución Política del Estado y demás disposiciones aplicables, el ejercicio de funciones, la prestación de servicios públicos y la ejecución o atención de obras que favorezcan el desarrollo del estado.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 6.
 
-Todas las leyes promulgadas por el gobernador, así como los reglamentos, decretos, acuerdos y circulares que expida, serán refrendados por quien sea titular de la Secretaría de Gobierno y los titulares de las secretarías del ramo a los que el asunto corresponda y en su caso, por quien ocupe la titularidad de la Procuraduría General de Justicia; sin este requisito no surtirán efectos legales. El refrendo actualiza la responsabilidad que pueda resultar del mismo.
+Todos los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, serán refrendados por los titulares de las secretarías del ramo a los que el asunto corresponda y, en su caso, por quien ocupe la titularidad de la Procuraduría General de Justicia.
+
+Tratándose de los actos promulgatorios de las Leyes o Decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Secretario de Gobierno.
+
+Sin este requisito de refrendo, los instrumentos señalados en los párrafos anteriores, no surtirán efectos legales. El refrendo actualiza la responsabilidad que pueda resultar del mismo.
 
 Los instrumentos señalados en este artículo deberán ser publicados en el Periódico Oficial del Estado; sin este requisito de publicidad carecerán de validez y obligatoriedad.
 
@@ -1980,3 +1986,11 @@ OCTAVO.- Las unidades administrativas adscritas a la Secretaría de Gestión Urb
 Una vez realizado la adecuación de los reglamentos a que se refiere el párrafo anterior, quedará derogado el Reglamento Interior de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
 
 NOVENO.- En un plazo de quince días posteriores a la entrada en vigor del presente decreto, se deberá realizar la adecuación de los reglamentos interiores y demás disposiciones aplicables de las secretarías, conforme a las nuevas atribuciones que les otorga la presente reforma.
+
+P.O. 4 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 549.- SE REFORMA EL ARTÍCULO 6 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 176 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
