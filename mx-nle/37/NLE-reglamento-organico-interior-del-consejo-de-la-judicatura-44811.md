@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2016-06-08"
+last_updated: "2016-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -207,6 +207,10 @@ c) Informática y Estadística;
 
 d) Contraloría Interna.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+f) (sic) Control Disciplinario.
+
 VII.- El Archivo Judicial.
 
 ###### Artículo 4.
@@ -215,7 +219,9 @@ Las notificaciones de las resoluciones del Pleno y de las Comisiones, en su caso
 
 ## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
-### CAPITULO PRIMERO (SIC). DEL PLENO
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+### CAPITULO I. DEL PLENO
 
 ###### Artículo 5.
 
@@ -345,7 +351,9 @@ XXI.- Expedir los reglamentos y los acuerdos generales y especiales necesarios p
 
 XXII.- Calificar las excusas por impedimento legal de sus integrantes;
 
-XXIII.- Conocer de las quejas y denuncias que se presenten en contra de servidores públicos del Poder Judicial, a excepción de los Magistrados del Tribunal, del personal de este y de las áreas a su cargo, proveyendo lo conducente con relación al procedimiento administrativo y la resolución en los términos de la Ley de Responsabilidades;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+XXIII.- Ejercer las facultades que le asigna la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, en materia de responsabilidad administrativa, con excepción de los Magistrados del Tribunal Superior de Justicia, del personal de éste y de las áreas a su cargo, en los términos del Reglamento respectivo;
 
 XXIV.- Designar a los miembros del jurado que examinaran a los aspirantes seleccionados en la aplicación del examen oral y público a que se refiere la fracción III del artículo 131 de la Ley Orgánica;
 
@@ -369,7 +377,9 @@ XXXIII.- Establecer las medidas necesarias para promover y propiciar la carrera 
 
 XXXIV.- Aprobar y vigilar el cumplimiento de los programas de investigación, preparación, capacitación y actualización, así como los mecanismos de evaluación del Instituto;
 
-XXXV.- Designar a propuesta del presidente al Administrador y Tesorero del Consejo, al Director de la Revista, al Director de Informática y Estadística, al Contralor Interno, al Director del Instituto, al Visitador General, y al Director del Centro Estatal de Métodos Alternos, autorizando la expedición del nombramiento correspondiente.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+XXXV. Designar a propuesta del presidente al Administrador y Tesorero del Consejo, así como a los Titulares de las Direcciones de Área del Consejo, autorizando la expedición del nombramiento correspondiente; y
 
 XXXVI.- Designar a propuesta del presidente al personal técnico y administrativo de cada uno de los órganos auxiliares, direcciones, departamentos y áreas del Consejo;
 
@@ -379,7 +389,7 @@ XXXVIII.- Otorgar licencias a los Consejeros, al personal adscrito al Consejo o 
 
 XXXIX.- Conocer de las solicitudes de vacaciones, licencias y renuncias de los jueces y demás personal del Poder Judicial, y resolver lo conducente, a excepción de los Magistrados, el personal del Tribunal y las áreas a su cargo;
 
-XL.- Admitir o desechar las quejas administrativas y denuncias que se presenten en contra de los servidores públicos del Poder Judicial, excepción hecha de los Magistrados del Tribunal y de las áreas a su cargo, y
+XL.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
 
 XLI.- Las demás que se deriven de los ordenamientos jurídicos aplicables y de los acuerdos que emanen de Consejo.
 
@@ -395,7 +405,9 @@ II.- Designar a un Consejero ponente para que someta un asunto dudoso o trascend
 
 III.- Presidir el Pleno, dirigir los debates y mantener el orden en las sesiones plenarias;
 
-IV.- Proponer al Pleno los nombramientos de los titulares de los órganos auxiliares del Consejo, Administrador y Tesorero, Director de informática y Estadística, Director de Centro Estatal de Métodos Alternos, Director de la Contraloría Interna, Director de la Revista Jurídica, Secretario General, Coordinadores de Área, miembros del Comité Académico y demás personal del Consejo, y en su caso expedirles el nombramiento correspondiente;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+IV.- Proponer al Pleno los nombramientos de los titulares de los órganos auxiliares del Consejo, Administrador y Tesorero, de las Direcciones de Área, Secretario General, Coordinadores de Área, miembros del Comité Académico y demás personal del Consejo, y en su caso expedirles el nombramiento correspondiente;
 
 V.- Vigilar por sí o a través de las Comisiones respectivas, el funcionamiento de los órganos auxiliares y demás unidades administrativas que integran el Consejo;
 
@@ -405,13 +417,15 @@ VII.- Firmar las resoluciones del Pleno, con los Consejeros que hayan participad
 
 VIII.- Firmar las actas que se levanten con motivo de las sesiones ordinarias y extraordinarias del Pleno del Consejo, con el Secretario General;
 
-IX- Instruir en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, el procedimiento de responsabilidad administrativa que se inicie en virtud de queja o denuncia contra servidores públicos del Poder Judicial, así como los que sean de oficio, hasta la etapa del cierre de la instrucción;
+IX.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
 
-X.-Turnar al Consejero ponente o a la Comisión de Disciplina en su caso, por conducto de la Secretaría General, el expediente relativo al procedimiento de responsabilidad administrativa a que se refiere la fracción anterior, para el efecto de que elabore el proyecto de resolución correspondiente que someterá a la aprobación del Pleno;
+X.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
 
-XI.- Tomar la protesta de ley en sesión extraordinaria que podrá ser pública, si así lo determina el Pleno, a los titulares de los Órganos Auxiliares, al Administrador y Tesorero, Director de informática, Director de Centro Estatal de Métodos Alterno, Director de la Contraloría Interna, Director de la Revista Jurídica, al Secretario General, Directores de Área y Visitadores Judiciales, y por escrito al resto de los empleados del Consejo;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-XII.- Dictar las providencias oportunas para la corrección o remedio inmediato de los hechos motivo de una queja o denuncia administrativas en los términos previstos en el artículo 83, fracción III, de la Ley de Responsabilidades, informando al Pleno de dichas medidas;
+XI.- Tomar la protesta de ley en sesión extraordinaria que podrá ser pública, si así lo determina el Pleno, a los titulares de los Órganos Auxiliares, al Administrador y Tesorero, Director de Informática, Director de Centro Estatal de Métodos Alternos, Director de la Contraloría Interna, Director de la Revista Jurídica, al Secretario General, Directores de Área y Visitadores Judiciales, y por escrito al resto de los empleados del Consejo;
+
+XII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
 
 XIII.- Convocar al Pleno a sesiones ordinarias y extraordinarias, por si o por conducto del Secretario General;
 
@@ -575,7 +589,9 @@ I.- Conocer de las conductas de los servidores públicos y del funcionamiento de
 
 II.- (DEROGADA, P.O. 2 MAYO DE 2005)
 
-III.- Someter a consideración del Pleno, para su aprobación definitiva, los proyectos de resolución de procedimientos administrativos de responsabilidad en los que se determine la existencia de faltas administrativas que le hayan sido encomendadas directamente por éste;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+III.- Ejercer las funciones que este Reglamento y los Acuerdos Generales del Consejo establecen con relación al procedimiento de responsabilidad administrativa;
 
 IV.- Proponer al Pleno para su aprobación, los dictámenes relativos a las actas circunstanciadas levantadas con motivo de las visitas de inspección ordinarias y extraordinarias, en los que se determine la existencia de una probable falta administrativa;
 
@@ -587,11 +603,11 @@ VII.- Proponer al Pleno hacer las recomendaciones a los titulares y personal de 
 
 VIII.- Proponer al Pleno, para su aprobación, los sistemas que permitan evaluar el desempeño y honorabilidad de los visitadores judiciales, así como ejecutarlos y dar cuenta a aquél con su resultado;
 
-IX.- Supervisar el funcionamiento de la Visitaduría Judicial;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+IX.- Supervisar el funcionamiento de la Visitaduría Judicial y el de la Dirección de Control Disciplinario;
 
 X.- Conocer de aquellos asuntos generales que sean sometidos por el Pleno a su consideración, cuyo trámite se estime dudoso o trascendental;
-
-XI.- Supervisar el funcionamiento del Sistema de Información Estadística del Poder Judicial presentando al pleno el informe correspondiente;
 
 XII.- Presentar al Pleno un dictamen bimestral sobre el análisis de los informes mensuales remitidos al Consejo por las Salas del Tribunal y los juzgados;
 
@@ -883,7 +899,7 @@ II.- Planear, programar, coordinar e implementar la celebración de las visitas 
 
 III.- Vigilar que los visitadores o hacerlo por sí mismo, envíen con la oportunidad debida los oficios de aviso a los titulares de los distintos órganos jurisdiccionales, para que comuniquen al público lo concerniente a la visita conforme a lo previsto por el artículo 109 de la ley;
 
-IV.- Solicitar al Presidente del Consejo o al Pleno, que determine las medidas provisionales que por su naturaleza y urgencia así lo ameriten, en caso de que durante el desarrollo de alguna visita de inspección se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
+IV.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
 
 V.- Cuidar que los procedimientos de inspección y las actas que se levanten, se ajusten a los lineamientos a que se refieren la ley, este Reglamento, los acuerdos del Pleno, así como las disposiciones relativas;
 
@@ -891,11 +907,13 @@ VI.- Remitir al Consejo por conducto del Presidente, el acta de las visitas con 
 
 VII.- Rendir los informes que le sean requeridos por el Pleno, Consejeros o comisiones del Consejo;
 
-VIII.- Proponer al Pleno, cuando exista razón fundada, la investigación de algún hecho o acto concreto, relacionado con la conducta o el desempeño de cualquier Juez de Primera Instancia o Menor, que pudiera ser constitutivo de causa de responsabilidad administrativa;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+VIII.- Cuando exista razón fundada de la comisión de un hecho o acto concreto, relacionado con la conducta o el desempeño de cualquier servidor público que se encuentre sujeto a las facultades disciplinarias del Consejo y que pudiera ser constitutivo de responsabilidad administrativa, hacerlo del conocimiento inmediato de la Dirección de Control Disciplinario.
 
 IX.- Proponer al Pleno, cuando exista razón fundada, la investigación de un hecho o acto concreto, relacionado con la conducta o el desempeño de servidores públicos, diversos a los mencionados en la fracción anterior, de algún Juzgado de Primera Instancia o Menor;
 
-X.- Ordenar el cumplimiento o cumplir por sí mismo, el acuerdo emitido por el Pleno, para la investigación de un hecho relacionado con algún servidor público de Juzgados de Primera Instancia o Menor;
+X.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
 
 XI.- Velar por que impere el orden y el respeto entre los integrantes de la Visitaduría y de éstos hacia el personal de los órganos visitados;
 
@@ -1084,6 +1102,28 @@ VIII. Rendir un informe semestral de actividades y estudios al Pleno del Consejo
 IX. Proponer planes, políticas, estrategias y programas para impulsar la reestructura de los órganos jurisdiccionales del Consejo de la Judicatura orientados a su modernización y eficiencia; y
 
 X. Las demás que determine el Pleno del Consejo, sus Comisiones, o que se establezcan en las disposiciones legales o reglamentarias aplicables.
+
+> <small>(ADICIONADA, CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Sección 8ª
+
+DE LA DIRECCIÓN DE CONTROL DISCIPLINARIO
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Artículo 60 Bis X.- La Dirección de Control Disciplinario es un órgano del Consejo de la Judicatura, que tendrá las facultades de desarrollar e implementar estrategias en materia de disciplina y de ética judicial que le encomienden la Comisión de Disciplina y/o el Pleno del propio Consejo, de conformidad con este Reglamento y los Acuerdos Generales que se emitan.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Artículo 60 Bis XI.- La Dirección de Control Disciplinario, en términos del reglamento respectivo, será responsable de la recepción e investigación de quejas y denuncias por responsabilidad administrativa que se presenten contra servidores públicos del Poder Judicial que se encuentren sujetos a la potestad disciplinaria del Consejo de la Judicatura, en términos del Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Artículo 60 Bis XII.- El Director de Control Disciplinario deberá reunir los mismos requisitos que para ser juez de primera instancia.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Artículo 60 Bis XIII.- La Dirección de Control Disciplinario contará con el personal jurídico y administrativo que determine el Pleno del Consejo de la Judicatura.
 
 ### CAPITULO VIII (SIC). DE LA ADMINISTRACIÓN Y TESORERIA
 
@@ -1461,9 +1501,11 @@ Para el desarrollo de dichas visitas, el titular del órgano jurisdiccional visi
 
 En las visitas de inspección, los visitadores, deberán abstenerse de exigir a los titulares y al personal del órgano jurisdiccional, cualquier tipo de acto que no sea propio del servicio público.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 68.
 
-La materia de las visitas se limitará a los aspectos contemplados en la Ley, en este Reglamento y en los acuerdos del Pleno del Consejo. Por tanto, si durante el desarrollo de las mismas se presentare alguna queja o denuncia por escrito, el visitador asentará en el acta dicha circunstancia y la remitirá junto con la misma al Visitador General, para que a su vez la haga llegar al Presidente del Pleno, y en caso que la queja o denuncia se haya formulado verbalmente, levantará por separado un acta que remitirá a la Visitaduría para los fines antes señalados, circunstancia que también deberá quedar asentada en el acta de visita.
+La materia de las visitas se limitará a los aspectos contemplados en la Ley, en este Reglamento y en los acuerdos del Pleno del Consejo. Por tanto, si durante el desarrollo de las mismas se presentare alguna queja o denuncia por escrito, el visitador asentará en el acta dicha circunstancia y la remitirá junto con la misma al Visitador General, quien hará llegar la queja a la Dirección de Control Disciplinario para que determine lo correspondiente y en caso que la queja o denuncia se haya formulado verbalmente, levantará por separado un acta que remitirá a la Visitaduría para los fines antes señalados, circunstancia que también deberá quedar asentada en el acta de visita.
 
 ###### Artículo 69.
 
@@ -1753,67 +1795,67 @@ El contenido del acta de visita podrá ser capturado en el programa de computaci
 
 ### CAPITULO II. DE LA FUNCION DE DISCIPLINA
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 95.
 
-Las quejas y denuncias formuladas en contra de los servidores públicos del Poder Judicial, se les dará el trámite previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones legales aplicables, con la excepción prevista en la fracción V del artículo 18 de la Ley Orgánica del Poder Judicial, para que conozca el Consejo de la Judicatura.
+Las quejas y denuncias formuladas en contra de los servidores públicos del Poder Judicial que se encuentren sujetos a la potestad disciplinaria del Consejo de la Judicatura, se tramitarán de conformidad con lo (sic) disposiciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, en el Reglamento emitido por este Consejo para regular su procedimiento, en términos del artículo 79 de la referida legislación, así como en las demás disposiciones legales aplicables.
 
 ###### Artículo 96.
 
-El Consejo de la Judicatura en uso de las facultades constitucionales, relativas a la aplicación de sanciones administrativas a los servidores públicos del Poder Judicial, incluyendo al personal del Consejo, y con exclusión del personal del Tribunal Superior de Justicia y áreas de su adscripción, actuará como órgano de investigación, instrucción y decisión del procedimiento de responsabilidad administrativa previsto en la Ley de Responsabilidades, concluyendo con la resolución que contenga la sanción a imponer.
-
-En las quejas o denuncias presentadas contra servidores públicos del Consejo, éste fungirá como órgano instructor y sancionador.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 97.
 
-Las quejas y denuncias que no sean de carácter administrativo, las que no reúnan los requisitos de ley y las anónimas deberán ser desechadas de plano por el Pleno mediante el acuerdo respectivo.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 98.
 
-El procedimiento de responsabilidad administrativa se podrá iniciar con motivo de una queja o denuncia, o bien de oficio, cuando el Pleno del Consejo estime que existen elementos de prueba que hagan presumir la existencia de alguna conducta prevista en el artículo 50 de la Ley de Responsabilidades, y en otras disposiciones legales.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 99.
 
-Al momento de admitir la queja o denuncia, durante la tramitación, o bien al pronunciarse la resolución dentro del procedimiento de responsabilidad administrativa, el Presidente del Consejo podrá dictar las medidas que estime convenientes para la corrección o remedio inmediato de la irregularidad o irregularidades imputadas al servidor público en contra de quien se integró aquél.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 100.
 
-En los casos en que solicite contestación o informe a un servidor público cuya adscripción ya no corresponda a la que se hace referencia en el escrito de queja o denuncia, éste podrá solicitar la ampliación del término hasta por diez días hábiles más, con el objeto de recabar las pruebas que estime pertinente para apoyarlo. Con el mismo objeto se concederá un término adicional hasta de quince días más para rendir contestación o el informe en aquellos casos en que la queja o denuncia se promueva contra un ex servidor público del Poder Judicial.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 101.
 
-Las audiencias que se celebren en el procedimiento de responsabilidad administrativa se levantarán en la forma y términos previstos en la Ley de Responsabilidades.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 102.
 
-Cuando sea procedente la aplicación de una sanción administrativa, el Consejero ponente y el Pleno se circunscribirán a analizar la conducta u omisión imputada exclusivamente en el ámbito administrativo a efecto de determinar responsabilidad al servidor público, la cual deberá quedar plenamente acreditada a través de procedimiento administrativo que se siga de acuerdo a la Ley de Responsabilidades y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 103.
 
-Para la valoración y sanción de las faltas administrativas conforme a los criterios previstos en el artículo 86 de la Ley de Responsabilidades, se tendrá a la vista el expediente administrativo del servidor público y si el Pleno lo estima conveniente, se agregarán al sumario las constancias que se consideren necesarias de dichos expedientes, debidamente certificadas por el Secretario General.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 104.
 
-Se estimará que existe reincidencia en las causas de responsabilidad, en aquellos casos en que un servidor público haya sido sancionado con anterioridad por la comisión de la misma irregularidad.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 105.
 
-En caso de que el Consejero al que le fue turnado el expediente relativo al procedimiento de responsabilidad administrativa para la elaboración del proyecto de resolución, considere necesaria la práctica de algunas investigaciones por no existir elementos para resolver o bien porque advierta otros que impliquen nueva responsabilidad administrativa, emitirá un dictamen que someterá a la aprobación del Pleno, para que éste determine la práctica de las investigaciones, así como la forma en que deben llevarse a cabo, asimismo, el Pleno podrá decretar la práctica de diligencias para mejor proveer.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 106.
 
-En los casos en que se estén substanciando varias quejas o denuncias formuladas por una o diversas personas en contra de un mismo servidor público por los mismos hechos, se acumularán aquéllas en que no se hubiere pronunciado resolución, debiendo conocer de ellas el Consejero que tenga el asunto que primero se hubiera turnado.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 107.
 
-A cada Consejero le corresponde elaborar el proyecto de la resolución de los asuntos que por turno le sean encomendados por el Presidente, para someterla a la aprobación del Pleno.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 108.
 
-Las quejas o denuncias contra uno de los Consejeros serán instruidas y resueltas por el Pleno del Consejo de la Judicatura.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ###### Artículo 109.
 
-El Pleno del Consejo ordenará agregar al expediente administrativo del servidor público copia de la queja o denuncia y de la resolución recaída a la misma, en los casos en que sea procedente la responsabilidad administrativa. Igual determinación tomará cuando la resolución derive de un procedimiento de responsabilidad administrativa instaurado de oficio.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2016)
 
 ### CAPITULO III. DE LA CARRERA JUDICIAL
 
@@ -2422,3 +2464,11 @@ P.O. 8 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO GENERAL 11/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA POR EL CUAL SE REFORMA EL ARTÍCULO 115 DEL REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN, QUE SE INTEGRA EN EL CAPÍTULO III "DE LA CARRERA JUDICIAL", SECCIÓN PRIMERA "DEL INGRESO Y PROMOCIÓN”.]
 
 PRIMERO.- Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y para su mayor difusión publíquese en el Boletín Judicial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NÚMERO 15/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO, POR EL CUAL SE REFORMA EL REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO (SIC)".]
+
+PRIMERO: Vigencia. El presente Acuerdo General, entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Estado.
+
+SEGUNDO: Publicación. Se ordena la publicación del presente Acuerdo General, por una sola vez, en el Periódico Oficial del Estado, en el Boletín Judicial del Estado, así como en el portal electrónico oficial del Poder Judicial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
