@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2014-12-24"
+last_updated: "2016-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -1267,9 +1267,9 @@ I.- Se llamará al suplente y si éste no asumiera el encargo o estuviera impedi
 
 II.- Si no fuera procedente realizar elecciones extraordinarias, el Ayuntamiento por mayoría simple de votos propondrá al Congreso o a la Diputación Permanente para su designación, al Regidor que fungirá como Presidente o Síndico Sustituto por el tiempo que restare.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-ARTICULO 90 E.- En el caso de faltas absolutas de algún Regidor, se llamará a su suplente o al que siga en la lista, y si por cualquier causa el suplente no asumiera el cargo, ni fuera procedente convocar a elecciones, se declarará la vacante.
+ARTICULO 90 E.- En el caso de faltas absolutas de algún Regidor, se llamará a su suplente, y si por cualquier causa el suplente no asumiera el cargo, ni fuera procedente convocar a elecciones, se declarará la vacante.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3752,3 +3752,9 @@ Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su 
 P.O. 24 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 90 E DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT".
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
