@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2014-12-18"
+last_updated: "2016-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -95,6 +95,10 @@ VI. Geriatría.- El servicio brindado para la atención de la salud de las perso
 VII. Gerontología.- Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial; y
 
 VIII. Integración social.- El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Distrito Federal y la Sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral.
+
+> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2016)</small>
+
+IX. Clínica de Atención Geriátrica: Clínica de Atención Geriátrica de la Ciudad de México. Espacio de atención médica para los adultos mayores, para así garantizar su bienestar a través servicios especializados en geriatría y gerontología.
 
 ## TITULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
@@ -196,7 +200,7 @@ A ser sujetos de programas de asistencia social cuando se encuentren en situaci�
 
 G) Del acceso a los servicios:
 
-I. A tener una atención preferente en los establecimientos públicos y privados que prestan servicios públicos. Al efecto la totalidad de dichos establecimientos deberá contar en sus reglas de operación o funcionamiento con mecanismos expeditos para que esta atención incluya asientos y cajas, ventanillas o filas, así como lugares especiales en los servicios de autotransporte para las personas adultas mayores; (sic)
+I. A tener una atención preferente en los establecimientos públicos y privados que prestan servicios públicos. Al efecto la totalidad de dichos establecimientos deberá contar en sus reglas de operación o funcionamiento con mecanismos expeditos para que esta atención incluya asientos y cajas, ventanillas o filas, así como lugares especiales en los servicios de autotransporte para las personas adultas mayores;
 
 ## TITULO TERCERO
 
@@ -274,7 +278,7 @@ III. Proporcionar asesoría jurídica y representación legal a las personas adu
 
 ###### Artículo 12.
 
-Corresponde a la Secretaría de Salud del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables:
+Corresponde a la Secretaria de Salud del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables:
 
 I. Garantizar el acceso a la atención médica en las clínicas y hospitales con una orientación especializada para las personas adultas mayores;
 
@@ -296,11 +300,17 @@ d) Movilización;
 
 e) Atención personalizada en caso de encontrarse postrados.
 
+> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2016)</small>
+
+VI. Administrar, dotar de recursos, personal y material para el funcionamiento de la Clínica de Atención Geriátrica de la Ciudad de México.
+
 Se entenderá por atención médica al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
+
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 13.
 
-La Secretaría de Salud del Distrito Federal, implementará programas y concertará convenios con las instituciones de salud del Gobierno Federal y las de iniciativa privada a fin de que las personas adultas mayores puedan tener acceso a los servicios de atención médica que proporcione el Sistema de Salud.
+La Secretaria de Salud de la Ciudad de México, implementará programas y concertará convenios con las instituciones de salud del Gobierno Federal y las de iniciativa privada, a fin de que las personas adultas mayores puedan tener acceso a los servicios de atención médica que proporcione el Sistema de Salud, incluida la Clínica de Atención Geriátrica de la Ciudad de México.
 
 ###### Artículo 14.
 
@@ -474,7 +484,7 @@ V. Proponer la participación ciudadana en actividades y proyectos dirigidos a l
 
 VI. Proponer mecanismos de concertación y de coordinación en materia de desarrollo social;
 
-VII. Elaborar un informe anual que se remitirá a las Comisiones correspondientes de la Asamblea Legislativa del Distrito Federal para su conocimiento; y (sic)
+VII. Elaborar un informe anual que se remitirá a las Comisiones correspondientes de la Asamblea Legislativa del Distrito Federal para su conocimiento; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE DICIEMBRE DE 2008)</small>
 
@@ -679,3 +689,15 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL Y DE LA LEY DE SALUD DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Secretaria de Finanzas de la Ciudad de México, destinará para el ejercicio 2016 los recursos necesarios para que la Secretaria de Salud de la Ciudad de México, pueda cumplir con lo dispuesto en el presente decreto.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal autorizará para el ejercicio fiscal 2017, los recursos presupuestales necesarios para que la Secretaria de Salud de la Ciudad de México pueda cumplir con lo dispuesto en el presente decreto.
