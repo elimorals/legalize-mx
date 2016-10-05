@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2016-09-26"
+last_updated: "2016-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1113,11 +1113,9 @@ Cuando una Comisión considere que un asunto que le ha sido turnado no es de su 
 
 Para que el dictamen de cualquiera de las Comisiones pueda ser sometido a la Asamblea deberá presentarse suscrito por la mayoría de los Diputados que integren la comisión correspondiente y ser entregado con una anticipación de veinticuatro horas a los Diputados, salvo los casos en que el asunto haya sido recibido con el carácter de urgente, por acuerdo del Pleno, a solicitud del orador o de algún otro Diputado, o por un Acuerdo Legislativo. Si algún Diputado disintiera del criterio sustentado, podrá formular su voto particular, que dará a conocer por su lectura íntegra en la misma sesión, inmediatamente después de que sea leído el dictamen de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-Previa autorización de los Diputados, la entrega de dictámenes podrá hacerse en archivo electrónico a través del sistema interno de transmisión y comunicación de información del Congreso denominado intranet, debiendo quedar constancia de su recepción, a cuyo efecto, la Oficialía mayor recabará los recibos que confirmen que el archivo electrónico de que se trate ha quedado a disposición de los interesados.
+La entrega de dictámenes se hará en archivo electrónico a través del sistema interno de transmisión y comunicación de información del Congreso denominado intranet, debiendo quedar constancia de su recepción, a cuyo efecto, la Oficialía mayor recabará los recibos que confirmen que el archivo electrónico de que se trate ha quedado a disposición de los interesados.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -1285,11 +1283,9 @@ I.- Asistir, a través de su titular, a las sesiones del Pleno del Congreso, as�
 
 II.- Atender los encargos que le solicite el Presidente de la Directiva para el ejercicio de las atribuciones de ésta y de su Presidente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-III.- Ser conducto para la entrega de dictámenes, proyectos de dictámenes y convocatorias a los Diputados para las sesiones de las Comisiones y de los Comités, así como para otros casos que le indiquen el Presidente de la Directiva o los Presidentes de los otros Órganos Legislativos. Para cumplir con este cometido, previa autorización de los Diputados a quienes se dirigirá la información, la Oficialía Mayor podrá enviarlo en archivo electrónico mediante el sistema interno de transmisión y comunicación de información denominado intranet, de que disponga el Congreso, debiendo recabar la constancia de recepción correspondiente;
+III.- Ser conducto para la entrega de dictámenes, proyectos de dictámenes y convocatorias a los Diputados para las sesiones de las Comisiones y de los Comités, así como para otros casos que le indiquen el Presidente de la Directiva o los Presidentes de los otros Órganos Legislativos. La Oficialía Mayor enviará dicha información en archivo electrónico mediante el sistema interno de transmisión y comunicación de información denominado intranet, de que disponga el Congreso, debiendo recabar la constancia de recepción correspondiente;
 
 IV.- Formular y preparar la documentación que requiera el Congreso para el desarrollo del trabajo legislativo, incluyendo la correspondencia oficial de la que se deba dar cuenta en las sesiones, de acuerdo a las instrucciones que le gire la Secretaría de la Directiva;
 
@@ -1301,7 +1297,9 @@ VII.- Dar seguimiento a las resoluciones del Pleno del Congreso y atender las in
 
 VIII.- Elaborar y custodiar las actas de las sesiones y el Diario de Debates del Pleno del Congreso;
 
-IX.- Informar a la Directiva, mensualmente y por escrito, sobre la asistencia de los Diputados a las sesiones del Pleno del Congreso, así como a las de las Comisiones y Comités de que formen parte;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+IX.- Informar a la Directiva, mensualmente y en archivo electrónico, sobre la asistencia de los Diputados a las sesiones del Pleno del Congreso, así como a las de las Comisiones y Comités de que formen parte;
 
 X.- Organizar y supervisar la realización de reuniones de información y audiencia, foros y consultas populares por instrucciones de la Directiva o de las Comisiones;
 
@@ -1687,9 +1685,11 @@ Se otorgará el uso de la palabra a los Diputados que inicien un tema, hasta por
 
 Para llevar a cabo el orden de discusiones, se atenderá en lo conducente lo dispuesto por los artículos 99 Bis, 126, 127, párrafos segundo y tercero, y 129 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 92.
 
-De toda sesión se formulará una acta, la cual será aprobada en la siguiente sesión:
+De toda sesión se formulará una acta, la cual será aprobada en la siguiente sesión.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1993)</small>
 
@@ -1699,7 +1699,13 @@ Las Actas se enumerarán en orden progresivo en cada Legislatura y contendrán e
 
 Por separado se llevará el Diario de Debates del Congreso del Estado, que contendrá el señalamiento de qué Diputado preside la Sesión y además la transcripción literal del desarrollo de la Sesión.
 
-Las actas de la última sesión Ordinaria, la de un Período Extraordinario o la última de la Diputación Permanente, invariablemente serán aprobadas en la siguiente sesión del Pleno o de la Diputación Permanente según sea el caso, para lo cual con toda oportunidad la Secretaría hará llegar copia del Acta a los integrantes de la Legislatura, para que formulen las aclaraciones y correcciones pertinentes.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+Las actas de la última sesión Ordinaria, la de un Período Extraordinario o la última de la Diputación Permanente, invariablemente serán aprobadas en la siguiente sesión del Pleno o de la Diputación Permanente según sea el caso, para lo cual con toda oportunidad la Secretaría hará llegar el acta en archivo electrónico a través del sistema interno de transmisión y comunicación de información del Congreso denominado intranet a los integrantes de la Legislatura, para que formulen las aclaraciones y correcciones pertinentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2016)</small>
+
+La Oficialía Mayor deberá recabar la constancia de recepción correspondiente.
 
 ###### Artículo 93.
 
@@ -1835,11 +1841,11 @@ Posteriormente se discutirá el dictamen en lo general y se someterá a votació
 
 El Pleno del Congreso, a petición del orador o de algún otro Diputado, podrá acordar que los dictámenes que hayan sido programados por la Oficialía Mayor, para su presentación en el Pleno y que hayan sido circulados a los integrantes de la Legislatura con al menos veinticuatro horas de anticipación, podrán recibir la dispensa de su lectura o determinarse que únicamente se lean los resolutivos, procediéndose de inmediato a su discusión y votación.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-Para efecto de lo dispuesto por el presente artículo los Grupos Legislativos, y en su caso los Diputados que no formen parte de un Grupo Legislativo, deberán contar con un reloj fechador en sus respectivas oficinas, a través del cual se llevará el registro oficial de la fecha y hora de circulación de los dictámenes.
+Para efecto de lo dispuesto por el presente artículo los Grupos Legislativos, y en su caso los Diputados que no formen parte de un Grupo Legislativo, llevarán el registro oficial de la fecha y hora de circulación de los dictámenes a través del sistema interno de transmisión y comunicación de información del Congreso denominado intranet.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 Para que proceda la dispensa el Secretario deberá dar fe de que del registro oficial de la fecha y hora en que se circularon los dictámenes, se desprende que han transcurrido las veinticuatro horas a que hace referencia el párrafo primero del presente artículo.
 
@@ -2644,3 +2650,11 @@ P.O. 26 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148. SE REFORMA EL ARTÍCULO 39 FRACCIÓN III INCISO I DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 147. SE REFORMAN POR MODIFICACIÓN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; ASÍ COMO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO AMBOS DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- El H. Congreso del Estado de Nuevo León, deberá hacer las adecuaciones necesarias a sus procedimientos, en un plazo no mayor a 60 días hábiles, a partir de la entrada en vigor del presente Decreto.
