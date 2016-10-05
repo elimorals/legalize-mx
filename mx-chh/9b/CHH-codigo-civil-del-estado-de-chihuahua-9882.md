@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2016-09-28"
+last_updated: "2016-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -235,9 +235,9 @@ El Ejecutivo del Estado, previo convenio con los Ayuntamientos, podrá delegar e
 
 36.- En las poblaciones en que así lo exige el servicio, podrá el Ejecutivo, de acuerdo con el Presupuesto de Egresos, establecer las oficinas del registro civil que considere convenientes, nombrando a las personas que deban quedar al frente de ellas, estando sujetas, en el ejercicio de sus funciones, a la vigilancia y dirección del Departamento, en los términos que establezca la Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-El Jefe del Departamento del Registro Civil dispondrá las medidas necesarias para que cuando menos dos veces al año, se efectúen en las Comunidades Indígenas del Estado, campañas registrales, en coordinación con las instituciones que por la naturaleza de sus funciones se vinculen a la atención de los indígenas, y posteriormente los Oficiales del mismo Registro efectúen igual número de visitas a dichas comunidades, a efecto de que en las mismas se presten los servicios a que se refiere el presente título.
+El Jefe del Departamento del Registro Civil dispondrá las medidas necesarias para que cuando menos dos veces al año, se efectúen en las Comunidades Indígenas y Zonas Rurales del Estado, campañas registrales, en coordinación con las instituciones que por la naturaleza de sus funciones se vinculen a la atención de los indígenas, y posteriormente los Oficiales del mismo Registro efectúen igual número de visitas a dichas comunidades, a efecto de que en las mismas se presten los servicios a que se refiere el presente título.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -12950,3 +12950,19 @@ P.O. 28 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1449/2016 XX P.E., MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL Y DEL CÓDIGO CIVIL, AMBOS VIGENTES PARA EL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Segundo del presente Decreto entrará en vigor el mismo día en que lo haga el Decreto No. 1304/2013 II P.O. que expide la Ley del Registro Civil para el Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Cuando entre en vigor la Ley del Registro Civil para el Estado de Chihuahua, se deroga el Artículo Primero del presente Decreto, prevaleciendo la reforma establecida en el Artículo Segundo del Decreto No. 1304/2013 II P.O. que modifica el artículo 36 del Código Civil del Estado de Chihuahua.
