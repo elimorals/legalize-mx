@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2016-09-15"
+last_updated: "2016-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -154,11 +154,11 @@ XIII. La protección contra los riesgos sanitarios.
 
 XIV. El libre acceso al agua potable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 6.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta Ley se entiende por:
 
 I. Ley General: a la Ley General de Salud;
 
@@ -210,9 +210,9 @@ XVII. Firma Grafométrica.- Entiéndase ésta como la digitalización del gesto 
 
 XVIII. Digitalizador de firmas.- Dispositivo que registra el trazo de la firma autógrafa de una persona, las firmas registradas se almacenan en un repositorio central para integrarse con el Expediente Clínico Electrónico
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE OCTUBRE DE 2016)</small>
 
-XIX. "El Médico en tu Casa".- Programa a través del cual se brindan servicios de salud a domicilio a mujeres embarazadas, personas adultas mayores, enfermos postrados o terminales y personas con discapacidad.
+XIX. Clínica de Atención Geriátrica: Clínica de Atención Geriátrica de la Ciudad de México. Espacio de atención médica para los adultos mayores, para así garantizar su bienestar a través servicios especializados en geriatría y gerontología.
 
 ###### Artículo 7.
 
@@ -302,11 +302,13 @@ XX. Una atención terminal humanitaria, y en su caso, en los términos dispuesto
 
 XXI. No ser sometidos a medios, tratamientos o procedimientos médicos que pretendan prolongar innecesariamente su vida, protegiendo en todo momento su dignidad como persona, de conformidad a lo establecido en la Ley General de Salud y la Ley de Voluntad Anticipada del Distrito Federal, y
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE OCTUBRE DE 2016)</small>
 
-XXII. Las mujeres embarazadas, personas adultas mayores, personas en situación de abandono, enfermos postrados o terminales y personas con discapacidad podrán también recibir los servicios de salud a través del programa "El Médico en tu Casa".
+XXII. Recibir atención en la Clínica de Atención Geriátrica;
 
-Para efectos de lo señalado en la presente fracción se entenderá por personas en situación de abandono, aquéllas que por su situación social y familiar viven abandonadas por sus familiares en su domicilio y son apoyadas por algún vecino
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE OCTUBRE DE 2016)</small>
+
+XXIII. Los demás que le sean reconocidos en el funcionamiento de los sistemas de salud.
 
 ###### Artículo 12.
 
@@ -526,7 +528,11 @@ bb) Determinar las políticas a que se sujetarán el Centro de Inteligencia y Pr
 
 cc) La prestación de servicios de salud para la protección contra los riesgos sanitarios, y
 
-dd) Las demás que le reconozca la Ley General de Salud y la presente Ley.
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2016)</small>
+
+dd) La prestación de servicios de geriatría, a través de la Clínica de Atención Geriátrica; y
+
+ee) Las demás que le reconozca la Ley General de Salud y la presente Ley.
 
 II.- Impulsar y promover la consolidación, funcionamiento, organización y desarrollo del Sistema de Salud del Distrito Federal, procurando su participación programática en el Sistema Nacional de Salud y coadyuvando a su consolidación y funcionamiento;
 
@@ -3201,3 +3207,15 @@ Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 Segundo.- La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Las ambulancias de la Ciudad de México deberán contar con los requerimientos de equipo e insumos incluyendo los Desfibriladores Automáticos Externos, conforme la Ley de Salud del Distrito Federal y las Normas Oficiales aplicables.
+
+G.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL Y DE LA LEY DE SALUD DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Secretaria de Finanzas de la Ciudad de México, destinará para el ejercicio 2016 los recursos necesarios para que la Secretaria de Salud de la Ciudad de México, pueda cumplir con lo dispuesto en el presente decreto.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal autorizará para el ejercicio fiscal 2017, los recursos presupuestales necesarios para que la Secretaria de Salud de la Ciudad de México pueda cumplir con lo dispuesto en el presente decreto.
