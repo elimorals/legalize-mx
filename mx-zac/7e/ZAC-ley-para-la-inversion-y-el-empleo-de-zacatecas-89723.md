@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inversion-y-el-empleo-de-zacatecas-89723"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-29"
-last_updated: "2013-03-23"
+last_updated: "2016-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2012.
 
@@ -121,7 +121,9 @@ VI. Cuota: Salario mínimo general diario para el área geográfica "C".
 
 VII. Desarrollo económico sustentable: Crecimiento que concilia el desarrollo económico, social y ambiental en una economía productiva y competitiva, que favorezca el empleo de calidad, la igualdad de oportunidades y la cohesión social, y que garantice el respeto al medio ambiente y el uso racional de los recursos naturales, de forma que permita satisfacer las necesidades de las generaciones presentes sin comprometer las posibilidades de las generaciones futuras para atender sus propias necesidades.
 
-VIII. Discapacitado: Persona que padece alguna deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que puede ser agravada por el entorno económico y social, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+VIII. Persona con Discapacidad: Persona que padece alguna deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que es agravada por el entorno económico y social, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria.
 
 IX. Empresa: Persona física o moral legalmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o el intercambio de bienes o servicios en el mercado.
 
@@ -190,6 +192,10 @@ XVII. Fomentar el desarrollo y formación del capital humano competitivo y calif
 XVIII. Estimular una cultura laboral competitiva en la que predomine el diálogo, el respeto, la productividad y el progreso; y
 
 XIX. Promover el equilibrio entre la oferta y demanda laboral.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+XX. Promover la inclusión laboral de los grupos vulnerables, en particular las personas con discapacidad.
 
 ###### Artículo 7.
 
@@ -329,9 +335,11 @@ Los sectores estratégicos para el desarrollo económico determinados por el Pod
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, a través de sus dependencias y entidades, procurarán un desarrollo económico sustentable en el Estado.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 27.
 
-Para efectos del artículo anterior se promoverá la mejora del entorno económico, la calidad del marco regulatorio, la simplificación administrativa, la asociación público privada, la responsabilidad social de las empresas, el desarrollo de las condiciones laborales, el uso de las nuevas tecnologías, la sustentabilidad medioambiental y el uso de energías renovables.
+Para efectos del artículo anterior se promoverá la mejora del entorno económico, la calidad del marco regulatorio, la simplificación administrativa, la asociación público privada, la responsabilidad social de las empresas, el desarrollo de las condiciones laborales, el uso de las nuevas tecnologías, la sustentabilidad medioambiental, la inclusión laboral y el uso de energías renovables.
 
 ###### Artículo 28.
 
@@ -373,6 +381,10 @@ h. Las remuneraciones para técnicos, profesionistas, tecnólogos e investigador
 
 i. Los demás que considere necesarios para alcanzar los objetivos que establece la presente Ley.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+j. Competencias y habilidades laborales sobre grupos vulnerables.
+
 II. Estrategias y acciones para:
 
 a. Desarrollar en los niveles educativos inicial, básico y medio, alumnos con valores, actitudes y habilidades genéricas suficientes en comunicación, solución de problemas y trabajo efectivo;
@@ -410,6 +422,10 @@ p. Instrumentar un procedimiento de evaluación y acreditación de competencias;
 q. Comunicar a la población las carreras técnicas y profesionales que demanda el sistema productivo y social; y
 
 r. Las demás que considere necesarias para alcanzar los objetivos que establece la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+s. Promover la inclusión laboral para grupos vulnerables.
 
 ###### Artículo 31.
 
@@ -513,7 +529,9 @@ II. Un Presidente Ciudadano Ejecutivo que será el ciudadano que designe el Gobe
 
 III. Un Secretario Técnico que será el Titular de la Secretaría.
 
-IV. Cuatro vocales del sector público:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+IV. Cinco vocales del sector público:
 
 a. El Titular de la Secretaría de Finanzas;
 
@@ -525,7 +543,11 @@ b. El Titular de la Secretaría de Educación;
 
 c. El Titular de la Secretaría del Campo;
 
-d. El Titular de la Secretaría de Turismo; (sic)
+d. El Titular de la Secretaría de Turismo;
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+e. El Titular de la Secretaría de Desarrollo Social;
 
 V. Cuatro vocales del sector social:
 
@@ -873,7 +895,11 @@ X. Establecer si una determinada actividad económica se encuentra dentro de su 
 
 XI. Gestionar y obtener fondos para financiar sus proyectos; y
 
-XII. Los demás que establezca la presente Ley y su Reglamento.
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+XII. Promover la inclusión laboral de los grupos vulnerables, a través de estrategias y programas que potencien o agreguen competencias laborales y habilidades, a través de la capacitación para el trabajo y la educación técnica, y
+
+XIII. Los demás que establezca la presente Ley y su Reglamento.
 
 #### SECCIÓN TERCERA. FUNCIONAMIENTO
 
@@ -1043,6 +1069,14 @@ f. Otorgamiento mediante donación, venta, permuta, arrendamiento, comodato o co
 
 g. Realización total o parcial de las obras de infraestructura que propicien el asentamiento, instalación o expansión de la empresa, por parte de las dependencias o entidades del Estado.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+h. Apoyos económicos para la accesibilidad del entorno laboral de las personas con discapacidad, a través de ajustes razonables, así como para la capacitación, educación técnica y toma de conciencia en las empresas;
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+i. Apoyos económicos para el financiamiento de pequeñas y microempresas constituidas por personas con discapacidad.
+
 III. Incentivos no monetarios:
 
 a. Asesoría para la instalación, puesta en marcha y operación de la empresa o su expansión;
@@ -1058,6 +1092,10 @@ e. Capacitación y adiestramiento a trabajadores que suministre la autoridad;
 f. Acciones para la internacionalización de la empresa; y
 
 g. Acciones para el desarrollo de proveedores.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+h. Asesoría para la inclusión laboral en las empresas de personas con discapacidad, así como para diseñar estrategias de accesibilidad, a través de ajustes razonables.
 
 ###### Artículo 101.
 
@@ -1143,7 +1181,9 @@ La Comisión considerará y razonará sus resoluciones en materia de otorgamient
 
 I. La cantidad de empleos permanentes y directos a generar;
 
-II. Cantidad de empleos directos a generar para discapacitados y adultos mayores;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+II. Cantidad de empleos directos a generar para personas con discapacidad y adultos mayores;
 
 III. La remuneración promedio de los nuevos empleos;
 
@@ -1219,7 +1259,7 @@ b. Cambios en la inversión que afecten los factores a que refiere el artículo 
 
 c. Motivos que lo obliguen a incumplir en cualquier medida, las condiciones que lo hicieron merecedor del incentivo; y
 
-d. Actos jurídicos que repercutan en la inversión como la fusión, escisión, transformación o extinción de la empresa; (sic)
+d. Actos jurídicos que repercutan en la inversión como la fusión, escisión, transformación o extinción de la empresa;
 
 VIII. Reintegrar y pagar los incentivos indebidamente recibidos o incorrectamente aprovechados; y
 
@@ -1268,6 +1308,10 @@ VI. Los incentivos a que se refiere la presente Ley estarán sujetos al saldo di
 VII. Hasta el 10% de los recursos económicos que ingresen al Fondo podrán destinarse a programas, proyectos y acciones que tengan por objeto promover al Estado como destino de inversiones; y
 
 VIII. El Poder Ejecutivo creará un Fideicomiso o instrumento similar para la mejor administración del Fondo, en cuya constitución, administración y operación se le concederán atribuciones suficientes a la Secretaria para que asegure el cumplimiento de las obligaciones del Estado en materia de incentivos.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+IX. Por lo menos, el 3% de los recursos económicos que ingresen al Fondo, podrán destinarse a programas, proyectos, estrategias y acciones que tengan por objeto la inclusión laboral de las personas con discapacidad.
 
 #### SECCIÓN SÉPTIMA. INCENTIVOS EN SITUACIONES EXTRAORDINARIAS
 
@@ -1374,6 +1418,10 @@ IX. Generar procedimientos y protocolos comunes;
 X. Capacitar a los servidores públicos; y
 
 XI. Compartir mejores prácticas de gestión de gobierno.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+XII. Promover la inclusión laboral de las personas con discapacidad, así como la cultura del emprendedor en beneficio de este sector social.
 
 ###### Artículo 132.
 
@@ -1578,3 +1626,9 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 608.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
