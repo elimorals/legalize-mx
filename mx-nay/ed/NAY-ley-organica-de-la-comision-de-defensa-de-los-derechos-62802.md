@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2015-04-04"
+last_updated: "2016-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -299,13 +299,21 @@ XXXII. Dar seguimiento, por conducto de su Presidente, Visitador General, Visita
 
 XXXIII. Promover propuestas de orden legislativo ante el Congreso del Estado en materia de su competencia;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-XXXIV. Solicitar al Pleno de la Cámara de Diputados, o en sus recesos, a la Diputación Permanente que citen a las autoridades o servidores públicos que hayan sido señalados como responsables en las recomendaciones para que comparezcan a efecto de que expliquen el motivo de su negativa, y
+XXXIV. Solicitar al Pleno de la Cámara de Diputados, o en sus recesos, a la Diputación Permanente que citen a las autoridades o servidores públicos que hayan sido señalados como responsables en las recomendaciones para que comparezcan a efecto de que expliquen el motivo de su negativa;
 
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-XXXV. Las demás que le confiera esta ley u otras disposiciones aplicables.
+XXXV. Verificar la observancia y respeto a los Derechos Humanos de las niñas, niños y adolescentes; para tal efecto la Comisión deberá:
+
+a) Contar con áreas especializadas para el desarrollo y ejecución de programas que permitan la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+
+b) Integrar y mantener actualizados los registros que deriven de los reportes realizados por las autoridades estatales y municipales, así como los órganos constitucionales autónomos, en los términos de la Ley de los Derechos de las niñas, niños y adolescentes para el Estado de Nayarit.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+XXXVI. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. LA ESTRUCTURA DE LA COMISIÓN
 
@@ -1526,3 +1534,9 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 4 DE ABRIL DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
