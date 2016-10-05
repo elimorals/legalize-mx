@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-electoral-para-el-estado-de-nayarit-76203"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2013-04-27"
+last_updated: "2016-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 5 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -1124,3 +1126,17 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 27 DE ABRIL DE 2013.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT".]
+
+Primero.- El presente decreto entrará en vigor el mismo día en que entre en funciones el Tribunal Electoral del Estado de Nayarit, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Se abroga la Ley de Justicia Electoral para el Estado de Nayarit publicada el dieciocho de agosto del año dos mil diez en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Tercero.- El Congreso del Estado, deberá realizar el procedimiento para nombrar a los magistrados supernumerarios, previo al inicio del proceso electoral.
+
+Cuarto.- Para los efectos previstos en el artículo 15 párrafo segundo de la presente ley, el Congreso del Estado contará con un plazo que no exceda de noventa días contados a partir del día siguiente de la entrada en vigor del presente decreto, para designar al titular del órgano al que el mismo precepto se refiere.
+
+Quinto.- El Tribunal Estatal Electoral deberá expedir su Reglamento Interior dentro de los sesenta días naturales, contados a partir de su entrada en funcionamiento.
