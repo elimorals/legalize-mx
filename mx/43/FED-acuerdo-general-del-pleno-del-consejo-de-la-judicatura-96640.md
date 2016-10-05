@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-09-12"
+last_updated: "2016-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -4021,6 +4021,32 @@ VIII. Otorgar a la Secretaría Ejecutiva del Pleno las facilidades necesarias pa
 
 La Oficialía de Partes y Certificación del Edificio Sede del Consejo funcionará en días hábiles, de las nueve a las dieciocho horas para recibir todo tipo de promociones y hasta las veinticuatro horas para recibir promociones de término.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELACIONADO CON LA OPERACIÓN DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO, D.O.F. 5 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 190 Bis.
+
+Para la recepción de cualquier documentación, no será impedimento que la denominación del destinatario esté escrita incorrectamente, siempre y cuando el asunto de que trate sea competencia del Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELACIONADO CON LA OPERACIÓN DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO, D.O.F. 5 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 190 Ter.
+
+La documentación que se reciba cerrada será abierta para su turno, con excepción de la que esté dirigida a los Consejeros, a la Contraloría del Poder Judicial de la Federación, a las Secretarías Ejecutivas de Disciplina; de Vigilancia, Información y Evaluación; así como aquella que se dirija a cualquier área administrativa que esté rotulada con las leyendas de “confidencial” o “reservada”.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELACIONADO CON LA OPERACIÓN DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO, D.O.F. 5 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 190 Quater.
+
+Recibida la documentación se turnará por competencia o en su caso por destinatario.
+
+En el caso de que el área administrativa receptora considere no ser competente, deberá devolver el asunto a la Oficialía de Partes y Certificación del Edificio Sede del Consejo, dentro de las veinticuatro horas siguientes.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELACIONADO CON LA OPERACIÓN DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO, D.O.F. 5 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 190 Quinquies.
+
+Para los efectos de la fracción V del artículo 189 de este Acuerdo, las áreas administrativas, previa entrega de documentación para su envío, deberán capturar la información correspondiente en el Sistema de Apoyo a la Operación de la Oficialía de Partes y Certificación del Edificio Sede."
+
 ###### Artículo 191.
 
 Se establece como domicilio oficial del Consejo, el edificio ubicado en la avenida Insurgentes Sur número 2417, colonia San Ángel, Código Postal 01000, Delegación Álvaro Obregón, en la Ciudad de México, Distrito Federal.
@@ -5580,3 +5606,11 @@ QUINTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén a carg
 SEXTO. Las referencias que se hagan a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, se entenderán hechas a la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELACIONADO CON LA OPERACIÓN DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
