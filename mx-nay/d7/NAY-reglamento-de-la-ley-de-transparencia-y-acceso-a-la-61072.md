@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-ley-de-transparencia-y-acceso-a-la-61072"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-07"
-last_updated: "2008-05-07"
+last_updated: "2016-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Novena del Periódico Oficial del Estado de Nayarit, el viernes 7 de mayo de 2008.
 
@@ -874,3 +876,15 @@ Los entes públicos tienen un plazo de sesenta días contados a partir de la ent
 JOSÉ MIGUEL MADERO ESTRADA, PRESIDENTE.- Rúbrica.- CONSEJO DEL ITAI, C. YOLANDA CRUZ TAPIA.- Rúbrica.- LIC. J. JESÚS PARRA ALTAMIRANO.- Rúbrica.- MTRO. JOSÉ LUIS LÓPEZ RAMIREZ.- Rúbrica.- C. JOSÉ DE JESÚS BARAJAS HERNÁNDEZ.- Rúbrica.- MTRO. ALFONSO NAMBO CALDERA, SECRETARIO EJECUTIVO.- Rúbrica.
 
 DADO en la sala de juntas del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, en Tepic, Nayarit, el día 30 treinta de abril de dos mil ocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, de fecha siete de mayo de dos mil ocho.
+
+Tercero. Todas aquellas disposiciones contenidas en el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit relativas a archivos, permanecerán vigentes hasta en tanto se emita la ley correspondiente.
