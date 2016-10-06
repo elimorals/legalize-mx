@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2016-06-02"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -409,45 +409,37 @@ La Administración del Centro deberá observar las disposiciones en materia de s
 
 Los órganos jurisdiccionales privilegiarán el uso del sistema de videoconferencias en términos de las disposiciones aplicables y en respeto al principio de inmediación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, D.O.F. 6 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO SÉPTIMO. ACCESO A VIDEOGRABACIONES
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, D.O.F. 6 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 40.
+
+El Juez encargado de desahogar cualquier audiencia pública, deberá garantizar que en la misma no sean expuestos aquellos datos que, aún bajo la publicidad del proceso, deben ser objeto de protección en términos de lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública y en el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, D.O.F. 6 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 41.
 
-…
+El acceso a las videograbaciones de las audiencias se formulará a través de una solicitud de acceso a la información.
 
-I. …
-
-a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, así como en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: cinco puntos;
-
-b) a e) …
-
-…
-
-…
-
-II. …
-
-a) a g) …
-
-h) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
-
-i) Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de juez de control o de juez de enjuiciamiento; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
-
-j)…
-
-III. …
-
-a) a g) …
-
-…
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, D.O.F. 6 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 42.
 
-…
+El Juez Administrador será el encargado de tramitar los requerimientos que se generen con motivo de las solicitudes de acceso a la información, y en su caso, pronunciarse sobre la clasificación de reservada o confidencial.
 
-I. a II. …
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, D.O.F. 6 DE OCTUBRE DE 2016)</small>
 
-II. Bis. Proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal;
+###### Artículo 43.
 
-III. a XIII. …
+El acceso a la información contenida en la videograbación de las sesiones se desarrollará, previa determinación de su publicidad, en el espacio destinado para tal efecto dentro de las instalaciones del Centro de Justicia seleccionado por el peticionario.
+
+Durante la proyección de la videograbación, se contará con la presencia de personal del Centro de Justicia que corresponda, quien tomará por escrito la declaración al peticionario de que, bajo protesta de decir verdad, no grabará ni reproducirá mediante medio tecnológico alguno la videograbación, apercibiéndolo de que en caso de hacerlo se procederá en los términos previstos en las legislaciones aplicables.
+
+Al finalizar la proyección, se levantará acta para constancia del acceso a la información, suscrita por el solicitante y el personal que intervino.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -500,6 +492,36 @@ IV. …
 IV. Bis. Asistente de Constancias y Registro de juez de control o juez de enjuiciamiento; y
 
 V. a VI. …
+
+###### Artículo 41.
+
+…
+
+I. …
+
+a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, así como en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: cinco puntos;
+
+b) a e) …
+
+…
+
+…
+
+II. …
+
+a) a g) …
+
+h) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+
+i) Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de juez de control o de juez de enjuiciamiento; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+
+j)…
+
+III. …
+
+a) a g) …
+
+…
 
 ###### Artículo 51.
 
@@ -629,6 +651,16 @@ I. a XIV. …
 
 XV. Unidades administrativas: Las ponencias de los Consejeros, Oficialía Mayor, secretarías ejecutivas, coordinaciones, Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, secretarías técnicas de Comisiones, direcciones generales, así como la Unidad de Enlace del Consejo; el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
 
+###### Artículo 42.
+
+…
+
+I. a II. …
+
+II. Bis. Proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal;
+
+III. a XIII. …
+
 ###### Artículo 162.
 
 …
@@ -756,3 +788,11 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. Todos los jueces de Distrito especializados en el sistema penal acusatorio que funjan como Administradores de los Centros de Justicia Penal Federal al 31 de diciembre de 2016, independientemente de la fecha de su designación, concluirán sus funciones de administración en dicha fecha.
 
 CUARTO. El orden en que los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores, a partir del 1º de enero de 2017, será determinado antes del 31 de diciembre de 2016.
+
+D.O.F. 6 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
