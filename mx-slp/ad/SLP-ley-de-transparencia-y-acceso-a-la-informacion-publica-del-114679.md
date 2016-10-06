@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2016-05-09"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -2895,6 +2895,10 @@ DÉCIMO SEGUNDO. El Consejo Consultivo de la CEGAIP será electo por el Congreso
 
 DÉCIMO TERCERO. Los comisionados que hoy integran la CEGAIP se mantendrán por los periodos para los que fueron electos y la comisión se renovará de manera escalonada, conforme a la secuencia con que han sido nombrados, a partir del año 2008.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2016)</small>
+
+DÉCIMO CUARTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio.
+
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
 D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el cuatro de mayo de dos mil dieciséis.
@@ -2916,3 +2920,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0399.- SE ADICIONA ARTÍCULO DÉCIMO CUARTO TRANSITORIO, A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
