@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2016-07-02"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -469,7 +469,9 @@ III. Colaborar en el fortalecimiento del desarrollo rural; al incremento de la p
 
 IV. Acordar la colaboración con otros municipios, con el Estado, o con los particulares, sobre programas de beneficio a la población, así como de asesoría y de acciones administrativas, contables, jurídicas, logísticas y demás que resulten necesarias para el cumplimiento eficiente de las funciones y servicios a su cargo;
 
-V. Autorizar mediante el acuerdo de por lo menos las dos terceras partes de sus integrantes, los empréstitos, gravámenes o enajenaciones de los bienes municipales, y en general las deudas que puedan pagarse dentro de su ejercicio o fuera de éste con aprobación del Congreso del Estado, observando en todo caso lo previsto en la Ley de Deuda Pública Municipal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
+
+V. Autorizar mediante el acuerdo de por lo menos las dos terceras partes de sus integrantes, los empréstitos, gravámenes o enajenaciones de los bienes municipales, y en general las deudas que puedan pagarse dentro del periodo constitucional de su administración o fuera de éste con aprobación del Congreso, observando en todo caso lo previsto en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí;
 
 VI. Autorizar mediante el acuerdo de por lo menos las dos terceras partes de sus integrantes, los contratos, concesiones de obras o servicios municipales, en los términos de lo dispuesto en la Constitución Política del Estado y demás ordenamientos aplicables, solicitando en su caso la aprobación del Congreso del Estado;
 
@@ -585,7 +587,9 @@ XIII. (DEROGADA, P.O. 22 DE MAYO DE 2014)
 
 XIV. Intervenir en la regularización de la tenencia de la tierra urbana en los términos que establezca la ley;
 
-XV. Señalar un destino diverso a las partidas presupuestales no agotadas, cumpliendo en todo caso con lo previsto en la Ley de Deuda Pública Municipal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
+
+XV. Señalar un destino diverso a las partidas presupuestales no agotadas, cumpliendo en todo caso con lo previsto en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí;
 
 XVI. Celebrar convenios para la seguridad social de sus trabajadores con las instituciones del ramo;
 
@@ -1349,13 +1353,17 @@ X. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen 
 
 XI. Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
 
-XII. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal, y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la constitución Política del Estado, y
+XII. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal, y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la constitución Política del Estado;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
 
-XIII. Las demás que le señalen las leyes y reglamentos municipales.
+XIII. Confirmar que los financiamientos que se contraten se celebren en las mejores condiciones del mercado, y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2016)</small>
+
+XIV. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO VI. De la Oficialía Mayor
 
@@ -2896,3 +2904,23 @@ P.O. 2 DE JULIO DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0400.- SE EXPIDE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 81 Y SE ADICIONA AL ARTÍCULO 81 LA FRACCIÓN XIV, DE Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 73 EN SU PÁRRAFO PRIMERO; ADICIONA AL ARTÍCULO 73 PÁRRAFO TERCERO; Y DEROGA EL ARTÍCULO 75, DE Y A LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí, expedida mediante Decreto Legislativo No. 562, publicada en el Periódico Oficial del Estado el 27 de diciembre de 2008.
+
+TERCERO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en este Decreto.
+
+CUARTO. La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de la ley que se expide, a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrada, otorgada o notificados con anterioridad a la fecha de entrada en vigor de la ley que se expide, se regirá por la legislación y los decretos correspondientes a su autorización.
+
+QUINTO. Los sujetos de esta Ley deberán inscribir todas sus obligaciones o empréstitos vigentes, en el Registro Único de Obligaciones y Empréstitos del Estado de San Luis Potosí, dentro de un plazo de sesenta días a partir de la fecha de su vigencia.
+
+SEXTO. La Secretaría de Finanzas, a través de la Dirección de Financiamiento, Deuda y Crédito Público, llevará el registro y control de contratos de prestación de servicios y arrendamientos a largo plazo, el cual estaba a cargo de la Oficialía Mayor, a fin de integrarlo al Registro Estatal.
+
+SÉPTIMO. El Ejecutivo del Estado deberá emitir el reglamento de esta Ley, a más tardar ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
