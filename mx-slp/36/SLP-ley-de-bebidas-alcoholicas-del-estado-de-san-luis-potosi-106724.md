@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2016-07-21"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -437,7 +437,9 @@ IV. Depósitos, agencias, distribuidoras y destilerías: de 10:00 a 23:00 horas;
 
 V. Supermercados, minisupers, tiendas departamentales, tiendas de conveniencia, abarrotes, misceláneas, tendajones, licorerías y vinaterías: de 9:00 a 23:00 horas;
 
-VI. Restaurantes y restaurantes-bar, cuya actividad preponderante sea la transformación y venta de alimentos: de 11:00 a 1:00 horas del día siguiente;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
+
+VI. Restaurantes y restaurantes - bar, cuya actividad preponderante sea la transformación y venta de alimentos: de 11:00 a 2:00 horas del día siguiente;
 
 VII. Fondas, cines, cafés, cenadurías, taquerías, antojerías y similares: de 11:00 a 1:00 horas del día siguiente;
 
@@ -792,3 +794,11 @@ P.O. 21 DE JULIO DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0398.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 27, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
