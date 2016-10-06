@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2012-06-12"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -89,7 +89,7 @@ m) Licitante: la persona física o moral del sector privado que participe en cua
 
 n) Programa: el Programa Estatal de Infraestructura;
 
-o) Proyecto: el proyecto para la prestación de servicios desarrollado por una dependencia o entidad, mediante la contratación de un inversionista-proveedor que se obliga a prestar a largo plazo uno o más servicios, incluyendo descriptivamente el diseño, disponibilidad de espacios, operación, mantenimiento y administración de bienes, sean propiedad del Gobierno del Estado, de cualquiera de sus Municipios o de alguna entidad estatal o municipal, o bienes muebles o inmuebles que el inversionista-proveedor construya o provea por sí o a través de un tercero, a cambio de una contraprestación por el servicio prestado y conforme a su desempeño; y (sic)
+o) Proyecto: el proyecto para la prestación de servicios desarrollado por una dependencia o entidad, mediante la contratación de un inversionista-proveedor que se obliga a prestar a largo plazo uno o más servicios, incluyendo descriptivamente el diseño, disponibilidad de espacios, operación, mantenimiento y administración de bienes, sean propiedad del Gobierno del Estado, de cualquiera de sus Municipios o de alguna entidad estatal o municipal, o bienes muebles o inmuebles que el inversionista-proveedor construya o provea por sí o a través de un tercero, a cambio de una contraprestación por el servicio prestado y conforme a su desempeño; y
 
 p) Secretaría: la Secretaría de Finanzas del Gobierno del Estado.
 
@@ -837,6 +837,8 @@ La dependencia o entidad sólo podrá compensar cantidades que adeuden al invers
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 64.
 
 Ejecución del contrato
@@ -917,19 +919,23 @@ Para el caso de pago de eventuales indemnizaciones, la dependencia o entidad pre
 
 ### Capítulo Único
 
-###### Artículo 73.
+###### ARTÍCULO 73.
 
-Compete a la Contraloría General del Estado o del Ayuntamiento de que se trate, en su caso, llevar el Registro de Contratos de Proyectos para la Prestación de Servicios.
+Compete a la Secretaría, a través de la Dirección de Financiamiento, Deuda y Crédito Público, tener a su cargo la organización, funcionamiento y servicio del Registro de Contratos de Proyectos para la Prestación de Servicios.
 
 En el Registro se inscribirán todos los actos jurídicos relacionados con los proyectos para la prestación de servicios, la inscripción de los inversionistas-proveedores que participen en dichos proyectos y los procedimientos de adjudicación previstos en esta ley, así como la información inherente al seguimiento y control administrativo de cada proyecto.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2016)</small>
+
+Existe la obligación de inscribir todos los contratos de proyectos para la prestación de servicios, en el Registro Público Único a cargo de la Secretaría de Hacienda y Crédito Público, en términos del Capítulo VI del Título Tercero de la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí.
 
 ###### Artículo 74.
 
 Los particulares que así lo soliciten podrán consultar el Registro a que se refiere el primer párrafo del artículo anterior, salvo los documentos que sean información de acceso restringido en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
-###### Artículo 75.
+###### ARTÍCULO 75.
 
-La Contraloría Gubernamental tendrá a cargo la organización, funcionamiento y servicio del Registro previsto en este Capítulo, con base en las disposiciones generales que establezca el Ejecutivo del Estado mediante Reglamento o Decreto.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2016)
 
 ## TÍTULO OCTAVO. De la información y la verificación
 
@@ -1098,3 +1104,25 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0400.- SE EXPIDE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 81 Y SE ADICIONA AL ARTÍCULO 81 LA FRACCIÓN XIV, DE Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 73 EN SU PÁRRAFO PRIMERO; ADICIONA AL ARTÍCULO 73 PÁRRAFO TERCERO; Y DEROGA EL ARTÍCULO 75, DE Y A LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí, expedida mediante Decreto Legislativo No. 562, publicada en el Periódico Oficial del Estado el 27 de diciembre de 2008.
+
+TERCERO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan (sic) de cualquier forma contravengan lo previsto en este Decreto.
+
+CUARTO. La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de la ley que se expide, a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrada, otorgada o notificados con anterioridad a la fecha de entrada en vigor de la ley que se expide, se regirá por la legislación y los decretos correspondientes a su autorización.
+
+QUINTO. Los sujetos de esta Ley deberán inscribir todas sus obligaciones o empréstitos vigentes, en el Registro Único de Obligaciones y Empréstitos del Estado de San Luis Potosí, dentro de un plazo de sesenta días a partir de la fecha de su vigencia.
+
+SEXTO. La Secretaría de Finanzas, a través de la Dirección de Financiamiento, Deuda y Crédito Público, llevará el registro y control de contratos de prestación de servicios y arrendamientos a largo plazo, el cual estaba a cargo de la Oficialía Mayor, a fin de integrarlo al Registro Estatal.
+
+SÉPTIMO. El Ejecutivo del Estado deberá emitir el reglamento de esta Ley, a más tardar ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
