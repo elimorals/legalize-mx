@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-65664"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-27"
-last_updated: "2008-12-30"
+last_updated: "2016-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 6 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE DICIEMBRE DE 2008.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de diciembre de 2008.
 
@@ -642,3 +642,25 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0400.- SE EXPIDE LA LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 81 Y SE ADICIONA AL ARTÍCULO 81 LA FRACCIÓN XIV, DE Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 73 EN SU PÁRRAFO PRIMERO; ADICIONA AL ARTÍCULO 73 PÁRRAFO TERCERO; Y DEROGA EL ARTÍCULO 75, DE Y A LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí, expedida mediante Decreto Legislativo No. 562, publicada en el Periódico Oficial del Estado el 27 de diciembre de 2008.
+
+TERCERO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en este Decreto.
+
+CUARTO. La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de la ley que se expide, a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrada, otorgada o notificados con anterioridad a la fecha de entrada en vigor de la ley que se expide, se regirá por la legislación y los decretos correspondientes a su autorización.
+
+QUINTO. Los sujetos de esta Ley deberán inscribir todas sus obligaciones o empréstitos vigentes, en el Registro Único de Obligaciones y Empréstitos del Estado de San Luis Potosí, dentro de un plazo de sesenta días a partir de la fecha de su vigencia.
+
+SEXTO. La Secretaría de Finanzas, a través de la Dirección de Financiamiento, Deuda y Crédito Público, llevará el registro y control de contratos de prestación de servicios y arrendamientos a largo plazo, el cual estaba a cargo de la Oficialía Mayor, a fin de integrarlo al Registro Estatal.
+
+SÉPTIMO. El Ejecutivo del Estado deberá emitir el reglamento de esta Ley, a más tardar ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
