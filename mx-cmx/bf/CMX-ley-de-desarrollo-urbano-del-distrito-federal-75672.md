@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2015-03-24"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -1072,6 +1072,14 @@ Los programas y la reglamentación de esta Ley, establecerán las medidas apropi
 
 La Secretaría se encargará de publicar los catálogos de los elementos afectos al patrimonio cultural urbano en los programas a través de listados en los que se define la condición patrimonial que guardan los inmuebles relacionados. La actualización de los catálogos se reflejará en el Sistema de Información Geográfica del Registro de los Planes y Programas, así como en el Sistema de Información y Evaluación del Desarrollo Urbano. Será labor de la Secretaría la elaboración de políticas de fomento para la conservación del patrimonio cultural urbano del Distrito Federal para lo cual se coordinará con otras dependencias competentes para el otorgamiento de estímulos fiscales, administrativos y normativos. Asimismo coadyuvará en la puesta en valor del patrimonio cultural urbano a través de la difusión de los valores culturales de dichos elementos.
 
+> <small>(ADICIONADO, G.O. 6 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 67 Bis.
+
+Se otorgará un estímulo fiscal a los propietarios de inmuebles con valor patrimonial por la restauración que efectúen sobre ellos.
+
+El estímulo fiscal será equivalente al cien por ciento del impuesto predial, y podrá ser aplicado durante el año fiscal o años fiscales en los que se lleven al cabo las acciones de restauración.
+
 ### Capítulo Octavo. Del Ordenamiento del Paisaje Urbano
 
 ###### Artículo 68.
@@ -1545,3 +1553,13 @@ El Jefe de Gobierno del Distrito Federal, en uso de su facultad reglamentaria de
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Desarrollo Urbano y Vivienda deberá instrumentar la expedición de Certificados Únicos de Zonificación de Uso del Suelo Digitales, en un plazo de 365 días, para lo cual se le deberá de asignar los recursos necesarios para su implementación.
+
+G.O. 6 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 67 BIS A LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO: Los diputados de la Asamblea Legislativa del Distrito Federal, presentarán ante el Pleno, en un plazo máximo de 90 días, una iniciativa de decreto por el que se reforma el Código Fiscal para el Distrito Federal con objeto de armonizar, en lo conducente, las disposiciones adicionadas mediante el presente decreto.
+
+SEGUNDO: El presente decreto entrará en vigor el mismo día en que lo haga, a su vez, el relativo al Código Fiscal para el Distrito Federal, señalado en el artículo transitorio anterior.
+
+TERCERO: Publíquese en la Gaceta Oficial del Distrito Federal.
