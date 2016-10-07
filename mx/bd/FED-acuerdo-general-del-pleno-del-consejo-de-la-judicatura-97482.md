@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-09-12"
+last_updated: "2016-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -1441,11 +1441,27 @@ El Pleno o la Comisión podrán ordenar la reposición del procedimiento al órg
 
 El Consejero ponente o el titular de la Contraloría someterán el proyecto de resolución a la aprobación del Pleno o de la Comisión, conforme a lo siguiente:
 
-I. Tratándose de faltas graves de magistrados de circuito y jueces de distrito, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público resolverá el Pleno; y
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+I. Tratándose de faltas graves de magistrados de circuito y jueces de distrito, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público resolverá el Pleno.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+En caso de que el Pleno determine que no son aplicables las sanciones de destitución o inhabilitación temporal, devolverá el asunto a la Comisión de Disciplina para que ésta determine lo conducente.
 
 II. En todos los demás casos resolverá la Comisión.
 
-Lo anterior, salvo lo dispuesto en el artículo 113 de este Acuerdo, relativo a los procedimientos de responsabilidad administrativa iniciados con motivo de la declaración de situación patrimonial.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+Lo anterior, salvo lo dispuesto en las fracciones I y III del artículo 113 de este Acuerdo, relativo a los procedimientos de responsabilidad administrativa iniciados con motivo de la declaración de situación patrimonial.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+Cuando la Comisión de Disciplina determine en un procedimiento de responsabilidad sometido a su consideración, que por la gravedad de las infracciones, las sanciones aplicables, contrario a lo propuesto, puedan ser las de destitución o la inhabilitación temporal de un juzgador, remitirá el asunto al Pleno.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+El Presidente del Consejo también podrá solicitar a la Comisión eleve a la consideración del Pleno la resolución de algún procedimiento de responsabilidad instaurado a titulares, en el que estime aplicables las sanciones de destitución o inhabilitación temporal.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
@@ -1459,27 +1475,39 @@ Las resoluciones de los procedimientos de responsabilidad administrativa a que s
 
 La ejecución de las sanciones se llevará a cabo cuando la resolución haya causado estado, con excepción de aquellas en que se imponga como sanción la destitución del puesto o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 154.
 
-Los Consejeros que previo a la discusión de un asunto, tuvieren observaciones de forma o de fondo sobre el proyecto sometido a su consideración, podrán hacerlas del conocimiento del Consejero Ponente, lo anterior, con independencia de las que puedan generarse con motivo de la discusión en la sesión respectiva.
-
-Los asuntos presentados al Pleno o a la Comisión, podrán ser retirados o aplazados. Los aplazados quedarán listados para la siguiente sesión en los mismos términos en que fueron presentados o, en su caso, precisando las modificaciones realizadas.
-
-Los asuntos serán retirados cuando el órgano competente sostenga consideraciones o un sentido diverso al que se propone en el proyecto, lo cual deberá hacerse del conocimiento del Consejero ponente o el titular de la Contraloría de manera motivada, para que cuente con los elementos suficientes para determinar si subsiste su sentido o procede a realizar la modificación respectiva, lo cual deberá acontecer dentro de los quince días hábiles siguientes.
-
-Una vez iniciada la votación sobre un asunto éste no podrá retirarse o aplazarse.
-
-Ningún asunto puede retirarse o aplazarse por más de dos ocasiones a menos que el Consejero ponente se encuentre ausente y ninguno de los Consejeros lo haga suyo.
+Los Consejeros que previo a la discusión de un asunto, tuvieren observaciones de forma o de fondo sobre el proyecto sometido a su consideración, podrán hacerlas del conocimiento del Consejero ponente, lo anterior, con independencia de las que puedan generarse con motivo de la discusión en la sesión respectiva.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
+Los asuntos presentados al Pleno o a la Comisión, podrán ser retirados o aplazados. Los aplazados quedarán listados para la siguiente sesión en los mismos términos en que fueron presentados o, en su caso, precisando las modificaciones realizadas.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+Los asuntos serán retirados cuando el órgano competente sostenga consideraciones o un sentido diverso al que se propone en el proyecto, lo cual deberá hacerse del conocimiento del Consejero ponente, o del titular de la Contraloría de manera motivada, para que cuente con los elementos suficientes para determinar si subsiste su sentido o procede a realizar la modificación respectiva, lo cual deberá acontecer dentro de los quince días hábiles siguientes.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+Una vez iniciada la votación sobre un asunto éste no podrá retirarse o aplazarse.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+
+Ningún asunto puede retirarse o aplazarse por más de dos ocasiones a menos que el Consejero ponente se encuentre ausente y ninguno de los Consejeros lo haga suyo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
+Cuando se presente un proyecto ante la Comisión de Disciplina y no sea aprobado, ya sea parcial o totalmente, si el Consejero ponente no forma parte de ese órgano y realiza la modificación o cambios sugeridos pero no está conforme con lo determinado, podrá hacer constar que realizó el engrose en términos de lo acordado por la Comisión y si lo desea, incluir como adendum el proyecto original.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 155.
 
-En caso de que el segundo proyecto presentado por el Consejero ponente sea desechado, será returnado a otro Consejero que por razón de turno corresponda, para que elabore un nuevo proyecto, lo que deberá acontecer dentro de los treinta días hábiles siguientes. La Secretaría tomará las medidas necesarias para que se equilibre el turno de los asuntos.
+Cuando el Consejero ponente estime que no procede realizar la modificación sugerida por la Comisión o el Pleno, insista que debe subsistir el sentido propuesto o no sea aprobado el segundo proyecto presentado, el asunto será returnado a otro Consejero que por razón de turno corresponda, para que elabore un nuevo proyecto, lo que deberá acontecer dentro de los treinta días hábiles siguientes. La Secretaría tomará las medidas necesarias para que se equilibre el turno de los asuntos.
 
-Lo mismo se observará cuando no se logre la mayoría calificada exigida en el artículo 152 de este Acuerdo.
+Lo mismo se observará cuando no se logre la mayoría calificada exigida en el artículo 152 de este Acuerdo, en el caso de las determinaciones del Pleno.
 
 ###### Artículo 156.
 
@@ -3090,3 +3118,15 @@ QUINTO. Los asuntos que a la entrada en vigor del presente Acuerdo estén a carg
 SEXTO. Las referencias que se hagan a la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, se entenderán hechas a la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El presente Acuerdo será también aplicable a los procedimientos en trámite o pendientes de resolución iniciados con posterioridad a la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reforma y adiciona el similar que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, publicado en el Diario Oficial de la Federación el veintiocho de mayo de dos mil quince.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
