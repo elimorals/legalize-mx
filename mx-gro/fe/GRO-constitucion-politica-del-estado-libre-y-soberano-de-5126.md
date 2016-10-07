@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2016-06-10"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -3107,19 +3107,31 @@ Los municipios ejercerán sus competencias a través de un órgano representativ
 
 3. La administración pública municipal se conformará y organizará según determine la ley respectiva.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 172.
 
-Los Ayuntamientos se integrarán por un presidente municipal, síndicos y regidores, en los términos dispuestos en la ley y abrirán válidamente sus sesiones con la mayoría de sus integrantes.
+Los Ayuntamientos se integrarán por un Presidente Municipal, Síndicos y Regidores, en los términos dispuestos en la ley y abrirán válidamente sus sesiones con la mayoría de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Satisfecho el quórum de asistencia, las resoluciones del Ayuntamiento se tomarán conforme al principio de mayoría, salvo cuando esta Constitución o la ley determinen una votación distinta;
 
-2. Los Ayuntamientos contarán con consejos de participación ciudadana, que coadyuvarán a la mejor atención de las materias de interés vecinal;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2016)</small>
+
+2. Con sujeción a la Ley y siempre que se reúnan los requisitos que la misma establezca, en las localidades más importantes de cada municipio, habrá comisarias municipales de elección popular directa.
+
+Los Ayuntamientos también contarán con Consejos de Participación Ciudadana, que coadyuvarán a la mejor atención de las materias de interés vecinal;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. La seguridad pública estará a cargo de una policía preventiva bajo el mando del Presidente Municipal en los términos de la ley estatal correspondiente, con excepción de los convenios celebrados en la materia con los gobiernos Federal y Estatal. La policía acatará las órdenes que el Gobernador del Estado le transmita en los casos que juzgue como de fuerza mayor o alteración grave del orden público;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 4. Los Presidentes municipales rendirán ante el Ayuntamiento un informe anual sobre el estado que guarda la administración pública municipal. El informe tendrá carácter público; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 5. Una ley orgánica regulará lo relativo a la organización, integración, funcionamiento y ámbito de competencia de los municipios y sus Ayuntamientos.
 
@@ -4722,3 +4734,15 @@ TERCERO. En un plazo de 60 días naturales a la entrada en vigor del presente de
 CUARTO. Remítase este Decreto al Licenciado Héctor Astudillo Flores, Gobernador Constitucional del Estado de Guerrero, para su conocimiento y efectos procedentes.
 
 QUINTO. Publíquese el presente Decreto para el conocimiento general en el Periódico Oficial del Gobierno del Estado, en el portal Web del Congreso del Estado y difúndase a través de los medios de comunicación.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 106 POR EL QUE SE REFORMA EL ARTÍCULO 172 NUMERAL DOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos de la entidad para efecto de lo dispuesto por la fracción III del numeral 1 del Artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase la Declaratoria respectiva conforme a lo dispuesto por el numeral 2 del mismo artículo.
+
+SEGUNDO. Una vez emitida la Declaratoria por el Congreso del Estado, la presente reforma constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+TERCERO. Remítase este Decreto al Licenciado Héctor Astudillo Flores, Gobernador Constitucional del Estado de Guerrero, para su conocimiento y efectos procedentes.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento Oficial del Gobierno del Estado de Guerrero, en el portal Web del Congreso del Estado.
