@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-09-23"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -12055,13 +12055,11 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
+###### ARTÍCULO 2191.
 
-###### ARTICULO 2191.
-
-La enajenación de bienes inmuebles, así como la constitución o transmisión de derechos reales o que garanticen un crédito, para su validez se otorgarán en escritura pública.
+La enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 10,000 el importe del salario mínimo diario vigente en el Estado de Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez o Registro Público de la Propiedad o Catastro Municipal.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
@@ -12081,11 +12079,11 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público, quien lo inscribirá en los términos de la Fracción III, del Artículo 2878 de este Código, siempre y cuando se acompañe dictamen de perito valuador legalmente autorizado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2016)</small>
 
-###### ARTICULO 2194.
+###### ARTÍCULO 2194.
 
-Los actos jurídicos a que se refiere el párrafo primero del artículo 2191 que antecede, para su validez se harán en escritura pública, salvo lo dispuesto por los artículos 2121 y 2191 párrafo segundo y tercero de este ordenamiento.
+Si el valor del inmueble excede de 10,000 salarios mínimos general vigente en el Estado de Baja California, su venta se hará en escritura pública, salvo, lo dispuesto por los artículos 2121 y 2191, segundo párrafo, de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
@@ -16437,7 +16435,7 @@ Se derogan todas las disposiciones que contravengan el presente Decreto.
 
 P.O. 23 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 558 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 440 Y 148 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 558 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 440 Y 148 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -16452,3 +16450,13 @@ P.O. 23 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 562 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 320 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL PUNTO PRIMERO DEL “DECRETO NO. 590 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2191 Y 2194 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO NO. 590 PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2016.]</small>
+
+CUARTO.- No se aprueban las reformas a los artículos 1480, 1481, 1482, 1451 BIS, 671, 672, 1387, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 2868 del Código Civil para el Estado de Baja California; 866, 867, 868 del Código de Procedimientos Civiles para el Estado de Baja California y 173 de la Ley de Hacienda del Estado de Baja California, por los argumentos vertidos en el cuerpo del presente Dictamen.
