@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-04-22"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -125,7 +125,7 @@ La ley garantizará que los partidos políticos, cuenten de manera equitativa co
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-El financiamiento para los partidos políticos, que conserven su registro después de cada elección, se compondrá de financiamiento público permanente para el sostenimiento de sus actividades ordinarias, las de campaña electoral tendientes a la obtención del voto y las de carácter específico, relativas a la educación, capacitación, investigación socioeconómica y política, así como las tareas editoriales en los términos de la Ley.
+El financiamiento para los partidos políticos que conserven su registro después de cada elección, se compondrá de financiamiento público permanente para el sostenimiento de sus actividades ordinarias, las de campaña electoral tendientes a la obtención del voto y las de carácter específico, relativas a la educación, capacitación, investigación socioeconómica y política, así como las tareas editoriales en los términos de la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -509,9 +509,9 @@ Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantiz
 
 La competitividad es el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2016)</small>
 
-Las leyes facultarán al Ejecutivo a establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación del desarrollo; y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
+Las leyes facultarán al Ejecutivo a establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación del desarrollo; y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. La planeación será democrática y deliberativa. Mediante los mecanismos de participación que establezca la ley, recogerá las aspiraciones y demandas de la sociedad para incorporarlas a los planes y los programas de desarrollo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -4226,3 +4226,9 @@ NOVENO.- Los asuntos que se encuentren en trámite ante el Instituto de Transpar
 DÉCIMO.- Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, incluyendo todos sus bienes y los derechos vigentes, pasarán a formar parte del patrimonio del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
 
 DÉCIMO PRIMERO.- Los trabajadores de base que se encuentren prestando sus servicios en el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, a la entrada en vigor del presente decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 582 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
