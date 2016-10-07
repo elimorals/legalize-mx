@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-en-materia-de-evaluaciones-del-centro-de-95559"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-13"
-last_updated: "2013-08-13"
+last_updated: "2016-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO EN MATERIA DE EVALUACIONES DEL CENTRO DE EVALUACION Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE EVALUACIONES DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO EN MATERIA DE EVALUACIONES DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de agosto de 2013.
 
@@ -506,3 +508,21 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 El SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 170, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE EVALUACIONES DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Decreto Gubernativo Número 45, mediante el cual se expide el Reglamento en Materia de Evaluaciones del Centro de Evaluación y Control de Confianza del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado, número 129, Tercera Parte, del 13 de agosto del 2013.
+
+Procesos en trámite
+
+Artículo Tercero. Los procesos de evaluación que actualmente estén pendientes de emisión de resultado, se tramitarán con base en el dispositivo que se abroga, hasta su terminación.
