@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-notariado-para-el-estado-de-baja-california-22116"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2015-05-29"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 14 de septiembre de 2001.
 
@@ -1229,11 +1229,11 @@ Siempre que se otorgue un testamento público abierto, los Notarios lo harán sa
 
 El otorgante que declare falsamente en una escritura, incurrirá en la pena que señala el Código Penal del Estado, para la falsa declaración.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 145.
 
-Las enajenaciones de bienes inmuebles, así como la constitución o trasmisión de derechos reales o que garanticen un crédito, a que se refiere el párrafo primero del artículo 2191 del Código Civil del Estado de Baja California, para su validez deberán constar en escritura pública ante notario.
+Las enajenaciones de bienes inmuebles, la constitución o trasmisión de derechos reales, así como la garantía de un crédito cuyo valor convencional o catastral exceda la cantidad que establece el artículo 2191 del Código Civil vigente en el Estado de Baja California, para su validez deberán constar en escritura ante notario.
 
 ###### ARTICULO 146.
 
@@ -2310,3 +2310,9 @@ SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entra
 OCTAVO.-Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
 
 NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 590 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2191 Y 2194 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
