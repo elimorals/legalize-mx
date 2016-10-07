@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2016-04-19"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-07-08"
 ---
 # LEY DE MOVILIDAD DE LA CIUDAD DE MEXICO -- ANTES LEY DE MOVILIDAD DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
+
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE OCTUBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -47,8 +49,6 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL.
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley de Movilidad del Distrito Federal, para quedar como sigue:
-
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
@@ -548,13 +548,19 @@ LVI. Desarrollar, en coordinación con Seguridad Pública, políticas en materia
 
 LVII. Asignar la jerarquía y categoría de las vías de circulación en el Distrito Federal, de acuerdo a la tipología que corresponda;
 
-LVIII. Emitir manuales y lineamientos técnicos para el diseño de la infraestructura y equipamiento para la movilidad;
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2016)</small>
 
-LIX. Coadyuvar con el Instituto de Verificación Administrativa para iniciar procedimientos administrativos por posibles incumplimientos a las resoluciones administrativas emitidas en materia de impacto de movilidad;
+LVIII. Emitir manuales o lineamientos técnicos para el diseño de la infraestructura y equipamiento para la movilidad, que considere el impacto ambiental;
 
-LX. Disponer un centro de atención al usuario que se encuentra en funcionamiento las veinticuatro horas del día para la recepción de denuncias y solicitudes de información; y
+> <small>(ADICIONADA, G.O. 7 DE OCTUBRE DE 2016)</small>
 
-LXI. Aquellas que con el carácter de delegables, le otorgue el Jefe de Gobierno y las demás que le confieran la Ley Orgánica de la Administración Pública del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables.
+LIX. Emitir, en coordinación con dependencias del Gobierno de la Ciudad de México y delegacionales los mecanismos necesarios para hacer eficiente la circulación vehicular, mejorar la seguridad de los peatones y coadyuvar al cuidado del medio ambiente;
+
+LX. Coadyuvar con el Instituto de Verificación Administrativa para iniciar procedimientos administrativos por posibles incumplimientos a las resoluciones administrativas emitidas en materia de impacto de movilidad;
+
+LXI. Disponer un centro de atención al usuario que se encuentra en funcionamiento las veinticuatro horas del día para la recepción de denuncias y solicitudes de información; y
+
+LXII. Aquellas que con el carácter de delegables, le otorgue el Jefe de Gobierno y las demás que le confieran la Ley Orgánica de la Administración Pública del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 13.
 
@@ -2074,7 +2080,7 @@ La publicidad se clasifica en:
 
 I. Denominativa: Cuando contenga nombre o razón social, profesión o actividad a la que se dedica la persona física o moral de que se trate;
 
-II. Identificativa: Ya sea de una negociación o un producto como los son (sic) logotipos de propaganda, marcas, productos, eventos, servicios o actividades análogas, para promover su venta, uso o consumo;
+II. Identificativa: Ya sea de una negociación o un producto como los son logotipos de propaganda, marcas, productos, eventos, servicios o actividades análogas, para promover su venta, uso o consumo;
 
 III. Cívica: Cuando se refiera a las pautas mínimas de comportamiento social que nos permiten convivir en colectividad; y,
 
@@ -2328,7 +2334,7 @@ Las dependencias, organismos y particulares responsables de la administración d
 
 ###### Artículo 190.
 
-La Administración Pública deberá establecer en coordinación con las entidades federales (sic) colindantes, las áreas de transferencia para el transporte en las zonas limítrofes del Distrito Federal que permitan la correcta operación del Sistema Integrado de Transporte.
+La Administración Pública deberá establecer en coordinación con las entidades federales colindantes, las áreas de transferencia para el transporte en las zonas limítrofes del Distrito Federal que permitan la correcta operación del Sistema Integrado de Transporte.
 
 ###### Artículo 191.
 
@@ -2959,3 +2965,15 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal par
 TERCERO.- En el Presupuesto de Egresos para el Distrito Federal ejercicio 2016, deberán aprobarse recursos presupuestales suficientes para la aplicación del presente Decreto.
 
 CUARTO.- El Fondo Público de Atención al Ciclista y al Peatón, deberá ser instalado dentro de los noventa días naturales siguientes a la publicación del presente Decreto, de conformidad con las reglas generales que emita la Secretaría de Movilidad.
+
+G.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL Y DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El programa mencionado en el artículo 22, fracción IV, inciso "d" de la Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para el Distrito Federal será coordinado por la Secretaría de Obras y Servicios de conformidad a las facultades que le confiere el artículo 27 de la Ley Orgánica de la Administración Pública del Distrito Federal, con la asesoría técnica de las Secretarías de Ciencia, Tecnología e Innovación y de Movilidad, todas del Distrito Federal y las 16 Delegaciones Políticas; el cual deberá ser emitido dentro de los 180 días naturales posteriores a la publicación del presente Decreto.
+
+TERCERO.- La emisión de manuales que hace referencia el artículo 12, fracción LVIII de la Ley de Movilidad del Distrito Federal, estará a cargo de la Secretaría de Movilidad del Distrito Federal, con la asesoría técnica de la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
+
+CUARTO. Los lineamientos y/o manuales que hace referencia el artículo 12, fracción LVIII de la Ley de Movilidad del Distrito Federal, deberán ser remitidos para su operación a las 16 Delegaciones del Distrito Federal para vías secundarias y a las instancias competentes del Gobierno del Distrito Federal para el caso de las vías primarias; los cuales deberán ser emitidos dentro de los 180 días naturales posteriores a la publicación del presente Decreto.
