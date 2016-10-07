@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2015-06-12"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "BCN"
 ---
 # LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+
+> <small>[N. DE E. LA REFORMA PUBLICADA EN EL DECRETO NO. 590 DE FECHA 7 DE OCTUBRE DE 2016, NO APLICA AL ARTICULADO DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.]</small>
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -3216,3 +3220,9 @@ NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anter
 P.O. 12 DE JUNIO DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO NO. 590]</small>
+
+CUARTO.- No se aprueban las reformas a los artículos 1480, 1481, 1482, 1451 BIS, 671, 672, 1387, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 2868 del Código Civil para el Estado de Baja California; 866, 867, 868 del Código de Procedimientos Civiles para el Estado de Baja California y 173 de la Ley de Hacienda del Estado de Baja California, por los argumentos vertidos en el cuerpo del presente Dictamen.
