@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-08-09"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY PARA EL DESARROLLO E INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -117,9 +117,9 @@ XXV. Perro guía o animal de servicio. Aquel que habiendo pasado pruebas de sele
 
 XXVI. Persona competente en lengua de señas mexicana: Es la persona que su nivel de lengua de señas, le permite tener interacciones de comunicación con la comunidad de personas sordas, que cumplan las funciones comunicativas básicas que se requieran de acuerdo a su labor.
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+(REFORMADA, P.O. 9 DE AGOSTO DE 2016) (F. DE E., P.O. 7 DE OCTUBRE DE 2016)
 
-XXVII. Persona con discapacidad. Toda persona que por razón congénita o adquirida presenta una o más discapacidades de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+XXVII. Persona con discapacidad. Toda persona que por razón congénita o adquirida presenta una o más discapacidades de carácter físico, mental, intelectual o sensorial, o un trastorno de talla y peso congénito o adquirido, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
 
 XXVIII. Política pública. Todos aquellos planes, programas o acciones que las autoridades Estatales y Municipales desarrollen para asegurar los derechos establecidos en la presente ley;
 
