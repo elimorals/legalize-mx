@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-registro-publico-de-la-propiedad-y-de-comercio-para-472
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2015-05-29"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 2005.
 
@@ -665,11 +665,11 @@ Para hacer constar la voluntad de las partes ratificantes, el Registrador o Subr
 
 La ratificación será autorizada por el Registrador o Subregistrador en su caso, con su firma y sello de la oficina.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 48.
 
-El procedimiento de ratificación de documentos privados, se sujetará a las reglas contenidas en este capítulo, así como en lo previsto por los artículos 1721, 2192 y 2878 fracción III del Código, así como en lo previsto por el Código de Comercio y demás leyes aplicables.
+El procedimiento de ratificación de documentos privados, se sujetará a las reglas contenidas en este capítulo, así como en lo previsto por los artículos 1721, 2191, 2192 y 2878 fracción III del Código, así como en lo previsto por el Código de Comercio y demás leyes aplicables.
 
 ### CAPÍTULO SÉPTIMO. DE LA INSCRIPCIÓN Y AVISOS PREVENTIVOS
 
@@ -1068,3 +1068,9 @@ SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entra
 OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
 
 NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL PUNTO TERCERO DEL “DECRETO NO. 590 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2191 Y 2194 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
