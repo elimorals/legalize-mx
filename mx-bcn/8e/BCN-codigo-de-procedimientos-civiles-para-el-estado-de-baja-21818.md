@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-09-30"
+last_updated: "2016-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. LA REFORMA PUBLICADA EN EL DECRETO NO. 590 DE FECHA P.O. EL 7 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -83,9 +85,9 @@ ART. 6o.- El poseedor que niegue la posesión la perderá en beneficio del deman
 
 ART. 7o.- Pueden ser demandados en reivindicación, aunque no posean la cosa, el poseedor que para evitar los efectos de la acción reivindicatoria dejó de poseer, y el que está obligado a restituir la cosa o su estimación, si la sentencia fuere condenatoria. El demandado que paga la estimación de la cosa puede ejercitar a su vez la reivindicación.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 8o.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que no hay buena fe si de la pérdida o robo se dio aviso pública y oportunamente.
+ART. 8o.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que no hay buena fe si de la pérdida o robo se dió aviso pública y oportunamente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -137,7 +139,7 @@ Se da contra quien la mandó construir, sea poseedor o detentador de la heredad 
 
 Para los efectos de esta acción por obra nueva, se entiende por tal no sólo la construcción de nueva planta, sino también la que se realiza sobre edificio antiguo, añadiéndole, quitándole o dándole una forma distinta.
 
-El Juez que conozca del negocio podrá, mediante fianza que otorgue el actor para responder de los daños y perjuicios que se causan al demandado, ordenar la suspensión de la construcción hasta que el juicio se resuelva. La suspensión quedará sin efecto si el propietario de la obra nueva da, a su vez, contrafianza bastante para restituir las cosas al estado que guardaban antes y pagar los daños y perjuicios que sobrevengan al actor, en caso de que se declare procedente su acción, salvo que la restitución se haga físicamente imposible con la conclusión de la obra o, con ésta, se siga perjuicio al interés social o se contravengan disposiciones de orden público.
+El Juez que conozca del negocio podrá, mediante fianza que otorgue el actor para responder de los daños y perjuicios que se causan al demandado, ordenar la suspensión de la construcción hasta que el juicio se resuelva. La suspensión quedará sin efecto si el propietario de la obra nueva da, a su vez, contrafianza bastante para restituir las cosas al estado que guardaban antes y pagar los daños y perjuicios que sobrevengan al actor, en caso de que se declare procedente su acción, salvo que la restitución se haga físicamente imposible con la conclusión de la obra o, con esta, se siga perjuicio al interés social o se contravengan disposiciones de orden público.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -531,7 +533,7 @@ Cuando en el escrito en el que se interponga la apelación se falta al respeto y
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 63.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia; y se citará para la audiencia dentro de tercer día, en la que se resolverá sin más recurso que el de queja.
+ART. 63.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al Juez que la oiga en justicia; y se citará para la audiencia dentro de tercer día, en la que se resolverá sin más recurso que el de queja.
 
 (REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -695,9 +697,9 @@ ART. 89.- Los decretos y los autos deben dictarse dentro de tres días después 
 
 ART. 90.- Los decretos, los autos y las sentencias serán pronunciados necesariamente dentro del término que para cada uno de ellos establece la ley.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 91.- Toda sentencia tiene a su favor la presunción de haberse pronunciado según la forma prescrita por el derecho, con conocimiento de causa y por juez legítimo con jurisdicción para darla.
+ART. 91.- Toda sentencia tiene a su favor la presunción de haberse pronunciado según la forma prescrita por el derecho, con conocimiento de causa y por Juez legítimo con jurisdicción para darla.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1013,7 +1015,7 @@ ART. 136.- Para fijar la duración de los términos, los meses se regularán por
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 137.- Cuando este Código no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
+ART. 137.- Cuando este código no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
 I.- Cinco días para interponer el recurso de apelación de sentencia definitiva;
 
@@ -1065,7 +1067,7 @@ X.- (DEROGADA, P.O. 10 DE AGOSTO DE 1987)
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
-XI.- Contra la declaración de caducidad se da sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
+XI.- Contra la declaración de caducidad se dá sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1299,11 +1301,11 @@ La declinatoria se propondrá ante el Juez a quien se considere incompetente, pi
 
 En ningún caso se promoverán de oficio las cuestiones de competencia; pero el Juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 165.- Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la jurisdicción del tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
 
-También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cuál haya de ser el juez o tribunal que deba conocer de un asunto.
+También se desechará de plano cualquiera competencia promovida que no tenga por objeto decidir cuál haya de ser el Juez o tribunal que deba conocer de un asunto.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1765,9 +1767,9 @@ III.- Cuando la acción sea personal, siempre que el deudor no tuviere otros bie
 
 ART. 237.- Las disposiciones del artículo anterior comprenden no sólo al deudor, sino también a los tutores, albaceas, socios y administradores de bienes ajenos.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 238.- Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo; en este segundo caso, la providencia se substanciará en incidente por cuenta separada, y conocerá de ella el juez que, al ser presentada la solicitud, esté conociendo del negocio.
+ART. 238.- Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo; en este segundo caso, la providencia se substanciará en incidente por cuenta separada, y conocerá de ella el Juez que, al ser presentada la solicitud, esté conociendo del negocio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2155,11 +2157,11 @@ ART. 294.- Al día siguiente en que termine el período del ofrecimiento de prue
 
 ### CAPITULO IV. De la recepción y práctica de las pruebas
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 295.- El Juez queda facultado al admitir las pruebas ofrecidas para elegir la forma escrita o la forma oral en la recepción y práctica de ellas, a menos que ambas partes la hubieren propuesto con anterioridad.
 
-En la forma escrita las pruebas se recibirán durante el período probatorio a medida que se vayan presentando o el juez lo determine; lo cual puede hacer desde el auto de admisión. La recepción oral de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión de pruebas, señalándose al efecto el día y la hora, teniendo en consideración el tiempo para su preparación; nunca podrá citarse para esa audiencia después de los sesenta días de aquel en que se fijó la controversia.
+En la forma escrita las pruebas se recibirán durante el período probatorio a medida que se vayan presentando o el Juez lo determine; lo cual puede hacer desde el auto de admisión. La recepción oral de las pruebas se hará en una audiencia a la que se citará a las partes en el auto de admisión de pruebas, señalándose al efecto el día y la hora, teniendo en consideración el tiempo para su preparación; nunca podrá citarse para esa audiencia después de los sesenta días de aquel en que se fijó la controversia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2193,9 +2195,9 @@ El término extraordinario correrá desde el día siguiente al auto que califica
 
 ART. 300.- Ni el término ordinario ni el extraordinario podrán suspenderse ni ampliarse, ni aun por consentimiento común de los interesados. Sólo causas muy graves a juicio del Juez, y bajo su responsabilidad, podrán producir la suspensión.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 301.- Las diligencias de prueba sólo podrán practicarse dentro del término probatorio, bajo pena de nulidad y responsabilidad del Juez. Se exceptúan aquellas diligencias que pedidas en tiempo legal no pudieron practicarse por causas independientes del interesado o que provengan de caso fortuito, de fuerza mayor, o dolo del colitigante; en estos casos el juez, si lo cree conveniente, podrá mandar concluirlas dando conocimiento de ellas a las partes y señalando al efecto un término prudente por una sola vez.
+ART. 301.- Las diligencias de prueba sólo podrán practicarse dentro del término probatorio, bajo pena de nulidad y responsabilidad del Juez. Se exceptúan aquellas diligencias que pedidas en tiempo legal no pudieron practicarse por causas independientes del interesado o que provengan de caso fortuito, de fuerza mayor, o dolo del colitigante; en estos casos del Juez, si lo cree conveniente, podrá mandar concluirlas dando conocimiento de ellas a las partes y señalando al efecto un término prudente por una sola vez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2975,9 +2977,9 @@ ART. 412.- El reconocimiento o inspección judicial hará prueba plena cuando se
 
 ART. 413.- El dictamen de peritos y la prueba testimonial serán valorizados según el prudente arbitrio del Juez.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 414.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
+ART. 414.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del Juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -3143,9 +3145,9 @@ ART. 428.- En los escritos que fijan la controversia, las partes ofrecerán las 
 
 ART. 429.- Desde el día en que se mande a emplazar al reo se fijará día y hora para la audiencia de conciliación, pruebas y alegatos, la que se celebrará dentro de los treinta días que sigan al emplazamiento. El juez resolverá sobre la admisión de las pruebas al acordar los escritos en que se ofrezcan.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 430.- En la audiencia el juez, recibirá las pruebas admitidas.
+ART. 430.- En la audiencia el Juez, recibirá las pruebas admitidas.
 
 La recepción y práctica de las pruebas se hará oralmente sin necesidad de que los taquígrafos tomen las declaraciones textuales de los testigos.
 
@@ -3187,13 +3189,13 @@ Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, 
 
 #### SECCION I. Reglas generales
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 436.- Para que el juicio ejecutivo tenga lugar se necesita un título que lleve aparejada ejecución.
 
 Traen aparejada ejecución:
 
-I.- La primera copia de una escritura pública expedida por el juez o notario ante quien se otorgó;
+I.- La primera copia de una escritura pública expedida por el Juez o notario ante quien se otorgó;
 
 II.- Las ulteriores copias dadas por mandato judicial, con citación de la persona a quien interesa;
 
@@ -3283,13 +3285,13 @@ ART. 447.- Los juicios ejecutivos contendrán siempre dos secciones: la del prin
 
 La segunda sección contendrá el auto de ejecución y todo lo relativo a éste, a la depositaria y sus incidentes, a la mejora y reducción del embargo, al avalúo y remate de los bienes; todo lo cual debe formar un cuaderno que, aunque sea accesorio del principal, debe tramitarse por cuerda separada.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 448.- La sección de ejecución se integrará con:
 
 I.- Copia cotejada de la demanda y en su caso de la sentencia;
 
-II.- Mandamiento, en forma de ejecución, dictado por el juez;
+II.- Mandamiento, en forma de ejecución, dictado por el Juez;
 
 III.- Nombramiento del depositario y otorgamiento de su fianza o caución;
 
@@ -3519,7 +3521,7 @@ ART. 476.- Presentada la demanda con el documento o la justificación correspond
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-El emplazamiento en el juicio de desahucio sólo se apegara a las reglas del artículo subsiguiente.
+El emplazamiento en el juicio de desahucio solo se apegara a las reglas del artículo subsiguiente.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3715,13 +3717,13 @@ Presentado el plan de partición, quedará en la secretaría a la vista de los i
 
 ART. 510.- Si la sentencia condena a no hacer, su infracción se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos para que por ellos se despache ejecución, sin perjuicio de la pena que señale el contrato o el testamento.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 511.- Cuando en virtud de la sentencia o de la determinación del Juez debe entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin todas las diligencias conducentes que solicite el interesado.
 
 Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado que indicará la resolución. Si el obligado se resistiere, lo hará el actuario, quien podrá emplear el uso de la fuerza pública y aun mandar romper las cerraduras.
 
-En caso de no poderse entregar los bienes señalados en la sentencia, se despachará la ejecución por la cantidad que señale el actor, que puede ser moderada prudentemente por el juez, sin perjuicio de que se oponga al monto el deudor.
+En caso de no poderse entregar los bienes señalados en la sentencia, se despachará la ejecución por la cantidad que señale el actor, que puede ser moderada prudentemente por el Juez, sin perjuicio de que se oponga al monto el deudor.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4141,11 +4143,11 @@ ART. 581.- En los casos a que se refieren los artículos 578 y 580 se cancelará
 
 En el caso del artículo 579, si el precio de la venta fuere insuficiente para pagar las hipotecas anteriores y las posteriores, sólo se cancelarán éstas, conforme a lo prevenido en la primera parte de este artículo.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 582.- Cuando, conforme a lo prevenido en el artículo 569, el acreedor hubiere optado por la administración de las fincas embargadas, se observarán las siguientes reglas:
 
-I.- El juez mandará que se le haga entrega de ellas bajo el correspondiente inventario, y que se le dé a reconocer a las personas que el mismo acreedor designe;
+I.- El Juez mandará que se le haga entrega de ellas bajo el correspondiente inventario, y que se le dé a reconocer a las personas que el mismo acreedor designe;
 
 II.- El acreedor y el deudor podrán establecer por acuerdos particulares las condiciones y términos de la administración, forma y época de rendir las cuentas. Si así no lo hicieren se entenderá que las fincas han de ser administradas según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
 
@@ -4247,9 +4249,9 @@ ART. 593.- Traducida la ejecutoria en la forma prevista en el artículo 325, se 
 
 La apelación se substanciará sumariamente.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 594.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
+ART. 594.- Ni el Juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4495,9 +4497,9 @@ ART. 637.- (DEROGADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE
 
 ART. 638.- En un juicio seguido por dos o más personas pueden venir uno o más terceros, siempre que tengan interés propio y distinto del actor o reo en la materia del juicio.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 639.- La tercería deberá deducirse en los términos prescritos para formular una demanda ante el juez que conoce del juicio.
+ART. 639.- La tercería deberá deducirse en los términos prescritos para formular una demanda ante el Juez que conoce del juicio.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4661,9 +4663,9 @@ De los recursos y de la revisión de oficio de la revocación, revisión y apela
 
 ### CAPITULO I. De la revocación y apelación
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 669.- Las sentencias no pueden ser revocadas por el juez que las dicta.
+ART. 669.- Las sentencias no pueden ser revocadas por el Juez que las dicta.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4671,7 +4673,7 @@ ART. 670.- Los autos que no fueren apelables y los Decretos pueden ser revocados
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
-ART. 671.- La revocación debe pedirse por escrito dentro de los tres días siguientes a la notificación, de la resolución que se impone, mismos que serán improrrogables, dándose vista a las demás partes por un tiempo igual y transcurrido dicho término, el Juez deberá resolver pronunciándose dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
+ART. 671.- La revocación debe pedirse por escrito dentro de los tres días siguientes a la notificación, de la resolución que se impone, mismos que serán improrrogables, dándose vista a las demás partes por un tiempo igual y transcurrido dicho termino, el Juez deberá resolver pronunciándose dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4905,9 +4907,9 @@ ART. 714.- La responsabilidad civil en que puedan incurrir jueces y magistrados 
 
 ART. 715.- No podrá promoverse demanda de responsabilidad civil, sino hasta que queda determinado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 716.- Cuando la demanda se dirija contra un juez de paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el Tribunal Superior, si el juicio por su cuantía fuere apelable.
+ART. 716.- Cuando la demanda se dirija contra un Juez de Paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el Tribunal Superior, si el juicio por su cuantía fuere apelable.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5011,7 +5013,7 @@ Los acreedores pueden examinar los papeles y documentos del concursado, en la se
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 731.- La junta de rectificación y graduación será presidida por el juez, procediéndose al examen de los créditos previa lectura por el sindico de un breve informe sobre el estado general activo y pasivo y documentos que prueben la existencia de cada uno de ellos.
+ART. 731.- La junta de rectificación y graduación será presidida por el Juez, procediéndose al examen de los créditos previa lectura por el sindico de un breve informe sobre el estado general activo y pasivo y documentos que prueben la existencia de cada uno de ellos.
 
 En este informe del síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le corrió traslado.
 
@@ -5465,7 +5467,7 @@ ART. 802.- El inventario se practicará por el actuario del Juzgado o por un not
 
 ART. 803.- Deben ser citados, por correo, para la formación del inventario, el cónyuge que sobreviva, los herederos, acreedores y legatarios, que se hubieren presentado.
 
-El juez puede concurrir cuando lo estime oportuno.
+El Juez puede concurrir cuando lo estime oportuno.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5929,7 +5931,7 @@ ART. 887.- Ninguna tutela puede conferirse sin que previamente se haga la declar
 
 La declaración de minoría de edad o de no tener capacidad para comprender el significado del hecho puede pedirse: 1o .- Por la misma persona, si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público; 6o.- Por el Sistema para el Desarrollo Integral de la Familia de Baja California.
 
-Puedan pedir la declaración de minoría de edad los funcionarios encargados de ello por el Código Civil.
+Pueden pedir la declaración de minoría de edad los funcionarios encargados de ello por el Código Civil.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -6121,7 +6123,7 @@ II.- Nombre y domicilio de quienes ejerzan sobre él la Patria Potestad o la Tut
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-III.- El estudio médico, psicológico y socio-económico, tanto de los adoptantes como de la persona menor de dieciocho años de edad, o persona que no tenga la capacidad para comprender el significado del hecho que se pretenda adoptar, realizando por el Sistema Estatal para el Desarrollo Integral de la Familia, pudiéndose exhibir en forma posterior y a petición del Juez;
+III.- El estudio médico, psicológico y socio-económico, tanto de los adoptantes como de la persona menor de dieciocho años de edad, o persona que no tenga la capacidad para comprender el significado del hecho que se pretenda adoptar, realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, pudiéndose exhibir en forma posterior y a petición del Juez;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -6157,27 +6159,7 @@ ART. 908 BIS.- la Procuraduría para la Defensa de las personas menores de dieci
 
 El término antes referido podrá excederse en los casos de que alguna de las áreas que conforman a la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, recomienden al ó los solicitantes canalizaciones a procesos terapéuticos externos, cumplimiento de plan social u otras circunstancias análogas, a fin de que la Adopción que se pretende sea benéfica en el interés superior del menor. Así también, podrá excederse el citado término de nueve meses en el caso de los menores bajo Tutela de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, ya que su asignación en calidad de Hogar Sustituto en Vías de Adopción, se encuentra supeditada, hasta en tanto se reúnan las condiciones del perfil del ó los solicitantes y del menor, así como la viabilidad jurídica de éste.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-ART. 908 TER.- Para los efectos previstos en el presente Capítulo, el Consejo de Adopciones para el Estado de Baja California, deberá estar integrado por:
-
-I.- UN PRESIDENTE: Que será el Presidente del Patronato del Sistema para el desarrollo integral de la familia en el Estado.
-
-II.- UN SECRETARIO TÉCNICO: Que será el Director General del Sistema para el desarrollo integral de la Familia en el Estado.
-
-III.- UN COORDINADOR: Que será el Procurador para la defensa de las Personas Menores de Dieciocho Años de Edad y la Familia.
-
-IV.- UN CONSEJERO: Que será el Coordinador de Adopciones.
-
-V.- UN CONSEJERO: Que será designado y en su caso removido por el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado.
-
-VI.- UN VOCAL: Que será un Psicólogo designado y en su caso removido por el Director General del Sistema para el desarrollo Integral de la Familia en el Estado.
-
-VII.- CINCO VOCALES: Que serán cada uno de los Titulares de la Presidencia del Sistema para el Desarrollo Integral de la Familia a nivel municipal, de los cinco municipios en la Entidad, que participaran en forma directa o exclusivamente por conducto del Director del Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda.
-
-Su representación será honorífica y no recibirán retribución alguna por el desempeño de la misma.
-
-A las sesiones del Consejo de Adopciones deberán asistir con voz pero sin voto los Subprocuradores para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia correspondientes a los cinco Municipios que conforman al Estado.
+ART. 908 TER.- (DEROGADO, P.O. 7 DE OCTUBRE DE 2016)
 
 (REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6417,7 +6399,7 @@ Tratándose de alimentos, ya sean provisionales o los que se deban por contrato,
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-Tratándose de determinaciones dictadas por la Procuraduría para la Defensa del Menor y la Familia relativas a la no reintegración temporal del menor a (sic) con sus tutores, su ingreso a una institución pública, privada u hogar voluntario o substituto, o por la afectación de derechos de familia, el Juez en la primer audiencia podrá ratificar o modificar las medidas dictadas por la Procuraduría para la Defensa del Menor y la Familia, cuando existiere algún familiar que pueda hacerse cargo del menor, en tanto se resuelve en definitiva la situación jurídica del menor.
+Tratándose de determinaciones dictadas por la Procuraduría para la Defensa del Menor y la Familia relativas a la no reintegración temporal del menor a (sic) con sus tutores, su ingreso a una institución pública, privada u hogar voluntario o substituto, o por la afectación de derechos de familia, el Juez en la primer audiencia podrá ratificar o modificar las medias (sic) dictadas por la Procuraduría para la Defensa del Menor y la Familia, cuando existiere algún familiar que pueda hacerse cargo del menor, en tanto se resuelve en definitiva la situación jurídica del menor.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
@@ -6773,13 +6755,9 @@ ART. 988.- Para la facilidad y rapidez en el despacho, las citas, órdenes, acta
 
 El presidente del Tribunal Superior, fijará cada año en el mes de diciembre, los modelos de esqueletos que se hayan de emplear en el año siguiente, oyendo al efecto a los Jueces de Paz, a los que convocará a las juntas que estime necesarias y cuidará de la impresión y distribución de los esqueletos en cantidad necesaria.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 989.- Los Jueces de paz no son recusables; pero deben excusarse cuando estén impedidos; en tal caso el negocio pasará a otro Juzgado del mismo Partido Judicial, si lo hubiere; y si no, al Juez de Primera Instancia de número menor.
-
-Si por disposición de la Ley Orgánica del Poder Judicial un Juez de Primera Instancia conoce de casos de justicia de paz, y se excusa, conocerá del asunto el Secretario de su adscripción.
-
-Si los Jueces impedidos no se excusaren, a queja de parte el Superior impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
+ART. 989.- Los Jueces de paz no son recusables; pero deben excusarse cuando estén impedidos; en tal caso el negocio pasará a otro Juzgado del mismo Partido Judicial, si lo hubiere; y si no, al Juez de Primera Instancia de número menor. Si por disposición de la Ley Orgánica del Poder Judicial un Juez de Primera Instancia conoce de casos de justicia de paz, y se excusa, conocerá del asunto el Secretario de su adscripción. Si los Jueces impedidos no se excusaren, a queja de parte el Superior impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
 T R A N S I T O R I O S:
 
@@ -7212,3 +7190,15 @@ P.O. 30 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 576 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 113 Y 129 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 668 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA, POR MEDIO DE LA CUAL SE DEROGA EL ARTÍCULO 908 TER".]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO NO. 590 PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2016.]</small>
+
+CUARTO.- No se aprueban las reformas a los artículos 1480, 1481, 1482, 1451 BIS, 671, 672, 1387, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 2868 del Código Civil para el Estado de Baja California; 866, 867, 868 del Código de Procedimientos Civiles para el Estado de Baja California y 173 de la Ley de Hacienda del Estado de Baja California, por los argumentos vertidos en el cuerpo del presente Dictamen.
