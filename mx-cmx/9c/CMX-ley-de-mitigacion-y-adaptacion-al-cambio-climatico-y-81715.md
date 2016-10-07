@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-81715"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-16"
-last_updated: "2016-09-15"
+last_updated: "2016-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81715&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-06-15"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE OCTUBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de junio de 2011.
 
@@ -542,9 +542,13 @@ b) La operación de programas de verificación vehicular.
 
 c) La construcción de obras públicas, con un enfoque sustentable.
 
-d) Fomento para que el alumbrado público, cuente con sistemas ahorradores de energía, que incluyan la utilización y aprovechamiento de energías solares.
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2016)</small>
 
-e) Fomento a las edificaciones sustentables que incluyan sistemas de eficiencia energética, captación de agua pluvial, rehusó (sic) y descarga de aguas residuales, reducción de emisiones contaminantes al aire y manejo de residuos sólidos sustentable.
+d) La implementación de un programa de modificación a los dispositivos de control de tránsito que considere el impacto ambiental y garantice la movilidad.
+
+e) Fomento para que el alumbrado público, cuente con sistemas ahorradores de energía, que incluyan la utilización y aprovechamiento de energías solares.
+
+f) Fomento a las edificaciones sustentables que incluyan sistemas de eficiencia energética, captación de agua pluvial, rehusó (sic) y descarga de aguas residuales, reducción de emisiones contaminantes al aire y manejo de residuos sólidos sustentable.
 
 V. Procurar el volumen de generación eléctrica con energías renovables, especialmente eólica, solar, mini hidroeléctrica, biomasa y basura;
 
@@ -811,3 +815,15 @@ G.O. 15 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
+
+G.O. 7 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE PARA EL DISTRITO FEDERAL Y DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El programa mencionado en el artículo 22, fracción IV, inciso "d" de la Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para el Distrito Federal será coordinado por la Secretaría de Obras y Servicios de conformidad a las facultades que le confiere el artículo 27 de la Ley Orgánica de la Administración Pública del Distrito Federal, con la asesoría técnica de las Secretarías de Ciencia, Tecnología e Innovación y de Movilidad, todas del Distrito Federal y las 16 Delegaciones Políticas; el cual deberá ser emitido dentro de los 180 días naturales posteriores a la publicación del presente Decreto.
+
+TERCERO.- La emisión de manuales que hace referencia el artículo 12, fracción LVIII de la Ley de Movilidad del Distrito Federal, estará a cargo de la Secretaría de Movilidad del Distrito Federal, con la asesoría técnica de la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
+
+CUARTO. Los lineamientos y/o manuales que hace referencia el artículo 12, fracción LVIII de la Ley de Movilidad del Distrito Federal, deberán ser remitidos para su operación a las 16 Delegaciones del Distrito Federal para vías secundarias y a las instancias competentes del Gobierno del Distrito Federal para el caso de las vías primarias; los cuales deberán ser emitidos dentro de los 180 días naturales posteriores a la publicación del presente Decreto.
