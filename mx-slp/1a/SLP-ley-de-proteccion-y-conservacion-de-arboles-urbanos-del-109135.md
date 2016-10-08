@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2015-07-21"
+last_updated: "2016-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
 
@@ -143,7 +141,9 @@ II. Elaborar y evaluar los programas, planes y acciones en materia de, cuidado, 
 
 III. Hacer del conocimiento de las autoridades competentes, y, en su caso, denunciar ante los órganos competentes, las infracciones que se cometan en materia de, cuidado conservación, y protección del arbolado urbano en el marco de esta Ley;
 
-IV. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2016)</small>
+
+IV. Promover y ejecutar campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, y
 
 V. Las demás que conforme a la presente Ley y otras disposiciones jurídicas aplicables le correspondan en materia de, cuidado, conservación, y protección del arbolado urbano.
 
@@ -179,7 +179,9 @@ XII. Participar, cuando sea necesario, en la atención de emergencias y continge
 
 XIII. Apoyar dentro del ámbito de sus competencias mediante incentivos económicos a las personas físicas o morales que cumplan con las disposiciones de esta Ley. Para lo anterior, en los reglamentos municipales de la materia se deberá (sic) determinar los requisitos y obligaciones que deberán cumplir las personas que pretendan recibirlos;
 
-XIV. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2016)</small>
+
+XIV. Promover y ejecutar campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes, y
 
 XV. Las demás que conforme a la presente Ley, y el reglamento municipal les correspondan.
 
@@ -752,3 +754,13 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0401.- SE REFORMA LOS ARTÍCULOS, 9° EN SU FRACCIÓN IV, Y 10 EN SU FRACCIÓN XIV, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ARBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
