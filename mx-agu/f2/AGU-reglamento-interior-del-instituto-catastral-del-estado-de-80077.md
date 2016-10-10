@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-catastral-del-estado-de-80077
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-22"
-last_updated: "2011-02-22"
+last_updated: "2016-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO CATASTRAL DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO CATASTRAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO CATASTRAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DEL INSTITUTO CATASTRAL DEL ESTADO DE AGUASCALIENTES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Extraordinario al Periódico Oficial del Estado de Aguascalientes, el martes 22 de febrero de 2011.
 
@@ -404,3 +404,17 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES.
 Lic. Antonio Javier Aguilera García,
 
 JEFE DE GABINETE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO CATASTRAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto Catastral publicado en el Periódico Oficial del Estado de Aguascalientes, el 22 de febrero del año 2011.
