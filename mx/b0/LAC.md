@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2015-01-26"
+last_updated: "2016-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -794,9 +794,11 @@ El contrato de transporte de pasajeros es el acuerdo entre un concesionario o pe
 
 El contrato deberá constar en un billete de pasaje o boleto, cuyo formato se sujetará a lo especificado en la norma oficial mexicana correspondiente.
 
+> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 50.
 
-En servicios de transporte aéreo nacional, los pasajeros tendrán derecho al transporte de su equipaje dentro de los límites de peso, volumen o número de piezas establecidos en el reglamento y disposiciones correspondientes, y al efecto se expedirá un talón de equipaje. En vuelos internacionales, dichos límites serán los fijados de conformidad con los tratados.
+En servicios de transporte aéreo nacional, los pasajeros tendrán derecho al transporte de su equipaje dentro de los límites de peso, volumen o número de piezas establecidos en el reglamento y disposiciones correspondientes, y al efecto se expedirá un talón de equipaje. Los pasajeros con alguna discapacidad tendrán derecho a transportar sillas de ruedas, andadores, prótesis, muletas, bastones o cualquier otro instrumento, siempre y cuando la persona que viaja haga uso de ésta de manera personal y se encuentre directamente asociado con la discapacidad que presenta. En vuelos internacionales, dicho (sic) límites serán los fijados de conformidad con los tratados.
 
 ###### Artículo 51.
 
@@ -1477,3 +1479,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de su competencia, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten el cumplimiento del mismo.
 
 Tercero. La vigencia de las licencias del personal técnico aeronáutico será de dos años y la Secretaría podrá ampliar la vigencia de las mismas, una vez que realice las adecuaciones y modificaciones necesarias que posibiliten su cumplimiento.
+
+D.O.F. 10 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 50 DE LA LEY DE AVIACIÓN CIVIL”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
