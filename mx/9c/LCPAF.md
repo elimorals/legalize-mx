@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2016-06-08"
+last_updated: "2016-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -136,7 +136,9 @@ III. Otorgar las concesiones y permisos a que se refiere esta Ley; vigilar su cu
 
 IV. Vigilar, verificar e inspeccionar que los caminos y puentes, así como los servicios de autotransporte y sus servicios auxiliares, cumplan con los aspectos técnicos y normativos correspondientes;
 
-V. Determinar las características y especificaciones técnicas de los caminos y puentes;
+> <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2016)</small>
+
+V. Determinar las características y especificaciones técnicas de los caminos y puentes; así como actualizar y publicar cuando se requiera la clasificación carretera en el Diario Oficial de la Federación;
 
 VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
 
@@ -1111,3 +1113,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
 
 Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
+
+D.O.F. 10 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 5o. DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Comunicaciones y Transportes tiene 90 días a partir de su publicación, para informar en el Diario Oficial de la Federación la clasificación de caminos y puentes en el país.
