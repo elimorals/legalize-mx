@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2016-08-25"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-28"
 
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -169,9 +169,9 @@ El Comité Técnico tendrá las funciones siguientes:
 
 I. Emitir y, en su caso, modificar las Reglas de Operación que regirán el funcionamiento del Fideicomiso;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, EN RELACIÓN CON EL CONTROL Y TRANSPARENCIA DEL EJERCICIO DE LOS RECURSOS, D.O.F. 11 DE OCTUBRE DE 2016)</small>
 
-II. Instruir al Fiduciario, previa opinión favorable de la Unidad, los pagos que deriven del cumplimiento de los fines del Fideicomiso;
+II. Instruir al Fiduciario, previa opinión favorable no vinculante de la Unidad, los pagos que deriven del cumplimiento de los fines del Fideicomiso y, en su caso, autorizar la cancelación de los proyectos aprobados conforme a lo previsto en la fracción IV del Artículo 12 Bis de este Acuerdo y ordenar el inmediato reintegro de los recursos;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
 
@@ -269,11 +269,17 @@ II. Someter a consideración del Comité Técnico sus propuestas, a través del 
 
 III. Hacer el seguimiento de los proyectos autorizados por el Comité Técnico, en coordinación con la Secretaría Ejecutiva de Administración;
 
-IV. (DEROGADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, EN RELACIÓN CON EL CONTROL Y TRANSPARENCIA DEL EJERCICIO DE LOS RECURSOS, D.O.F. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Someter a la autorización del Comité Técnico, la cancelación de los proyectos previamente aprobados, así como el reintegro de los recursos al patrimonio del Fideicomiso, para lo cual se realizarán las adecuaciones presupuestales a los saldos del mismo;
 
 > <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 12 BIS, FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V, AL MISMO PRECEPTO DEL ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 8 DE MAYO DE 2015)</small>
 
 V. Las demás que determine el Comité Técnico.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, EN RELACIÓN CON EL CONTROL Y TRANSPARENCIA DEL EJERCICIO DE LOS RECURSOS, D.O.F. 11 DE OCTUBRE DE 2016)</small>
+
+La cancelación a que se refiere la fracción IV del presente artículo, será presentada a la Unidad por las áreas operativas quienes serán las responsables de las valoraciones técnicas y financieras de las propuestas correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
@@ -304,6 +310,10 @@ El Fiduciario deberá presentar al Comité Técnico informes detallados del dest
 ###### Artículo 15.
 
 El ejercicio de los recursos que integran el patrimonio del Fideicomiso y su comprobación, se regirá por los principios que postula el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, observando el Acuerdo General en materia administrativa y demás disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, EN RELACIÓN CON EL CONTROL Y TRANSPARENCIA DEL EJERCICIO DE LOS RECURSOS, D.O.F. 11 DE OCTUBRE DE 2016)</small>
+
+Los recursos del Fideicomiso no quedarán sujetos a los requisitos establecidos para la plurianualidad previstos en el artículo 730 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, toda vez que al presentarse la propuesta de proyecto a que se refiere la fracción IV del artículo 17 de este Acuerdo, se incluye la programación de actividades y los recursos involucrados para su erogación.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
 
@@ -454,3 +464,15 @@ Aquellos que estén a cargo de la Unidad para la Implementación de la Reforma P
 SÉPTIMO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para la implementación del presente Acuerdo.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, EN RELACIÓN CON EL CONTROL Y TRANSPARENCIA DEL EJERCICIO DE LOS RECURSOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se instruye a la Secretaria Ejecutiva de Administración llevar a cabo las acciones necesarias para que en las Reglas de Operación, se establezcan los requisitos que deberán cumplir las áreas operativas, para someter ante el Comité Técnico, la solicitud de cancelación de proyectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
