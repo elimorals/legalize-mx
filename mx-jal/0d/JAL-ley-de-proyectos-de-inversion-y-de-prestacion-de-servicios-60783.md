@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proyectos-de-inversion-y-de-prestacion-de-servicios-6078
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2015-09-22"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 2008.
 
@@ -893,6 +895,8 @@ La comisión conciliadora actuará de acuerdo a las normas previstas en la Ley d
 
 ### Capítulo XIV. De las infracciones y sanciones
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 66.
 
 La entidad deberá publicar en el Periódico Oficial "El Estado de Jalisco", o en el medio oficial de divulgación municipal, según corresponda, la resolución del procedimiento de adjudicación y las características del contrato, en términos de lo establecido en el Artículo 8 de esta Ley, dentro de los treinta días posteriores a su expedición o suscripción, respectivamente.
@@ -923,7 +927,7 @@ De conformidad con la normatividad interna, los órganos de control interno, en 
 
 ###### Artículo 70.
 
-Los oferentes o inversionistas proveedores que infrinjan las disposiciones de esta ley o las normas que con base en ésta se expidan, serán sancionados por las entidades fiscalizadoras que resulten competentes con multa equivalente a cincuenta y hasta diez mil veces el salario mínimo general vigente en la zona metropolitana de Guadalajara, en la fecha de la infracción; lo anterior, sin perjuicio de la responsabilidad civil o penal que, en su caso, proceda.
+Los oferentes o inversionistas proveedores que infrinjan las disposiciones de esta ley o las normas que con base en ésta se expidan, serán sancionados por las entidades fiscalizadoras que resulten competentes con multa equivalente a cincuenta y hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción; lo anterior, sin perjuicio de la responsabilidad civil o penal que, en su caso, proceda.
 
 ###### Artículo 71.
 
@@ -1026,3 +1030,11 @@ Segundo. Se derogan todas las disposiciones de igual o menor jerarquía normativ
 Tercero. La Secretaría de Planeación, Administración y Finanzas dentro de los 90 días hábiles siguientes a la publicación del presente, deberá emitir y publicar los Lineamientos y Metodologías a que hayan lugar para elaborar los estudios y análisis descrito (sic) en el párrafo cuarto del artículo 1°.
 
 Cuarto. Los contratos de asociación público privada celebrados con anterioridad a la entrada en vigor del presente Decreto, se regularán por las disposiciones vigentes al momento de su iniciación.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
