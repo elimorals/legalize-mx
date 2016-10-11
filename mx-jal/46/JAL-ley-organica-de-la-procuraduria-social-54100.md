@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2015-09-05"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -787,7 +789,9 @@ El Gobernador calificará la excusa que presente el Procurador Social y en caso 
 
 Es atribución del Procurador Social, imponer las correcciones o sanciones de tipo laboral, que establecen la Ley para los Servidores Públicos del Estado y sus Municipios a los servidores públicos adscritos a la dependencia, por las faltas en que incurran en el servicio o por motivo de éste. En este caso el Procurador Social, podrá designar mediante acuerdo a un funcionario, para que desahogue la instrucción correspondiente quien lo remitirá al Procurador para que emita la resolución definitiva.
 
-Las sanciones por faltas administrativas en los términos de la Ley de Responsabilidades de los Servidores Públicos, del Estado de Jalisco, se impondrán por el superior jerárquico cuando la sanción amerite apercibimiento o amonestación, por el Procurador Social cuando amerite sanción pecuniaria cuando se obtengan beneficios o daños y perjuicios que no excedan de cien veces el salario y mínimo vigente, y por la Contraloría del Estado, en los demás casos.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Las sanciones por faltas administrativas en los términos de la Ley de Responsabilidades de los Servidores Públicos, del Estado de Jalisco, se impondrán por el superior jerárquico cuando la sanción amerite apercibimiento o amonestación, por el Procurador Social cuando amerite sanción pecuniaria cuando se obtengan beneficios o daños y perjuicios que no excedan de cien veces el valor diario de la Unidad de Medida y Actualización, y por la Contraloría del Estado, en los demás casos.
 
 ###### Artículo 45.
 
@@ -974,3 +978,11 @@ Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales 
 DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
 
 DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
