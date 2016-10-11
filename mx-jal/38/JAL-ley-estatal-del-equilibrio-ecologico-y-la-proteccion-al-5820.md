@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2016-07-09"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -133,11 +133,17 @@ XXIX. Residuos de Manejo Especial: Son aquellos generados en los procesos produc
 
 XXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en [a vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-XXXI. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XXXII. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
+XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
 
-XXXIII. Procuraduría: Órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial, denominado Procuraduría Estatal de Protección al Ambiente.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXXII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXXIII. Auditoría Ambiental: Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -467,9 +473,11 @@ Son instrumentos financieros los créditos, las fianzas, los seguros de responsa
 
 Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público y al aprovechamiento sustentable de los recursos naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Se consideran prioritarias, para el efecto del otorgamiento de los beneficios y estímulos fiscales que se establezcan conforme a las leyes fiscales respectivas, las actividades relacionadas con:
+Se considera prioritario, para el efecto del otorgamiento de los beneficios y estímulos fiscales que se establezcan conforme a las leyes fiscales respectivas, lo siguiente:
 
 I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir y controlar la contaminación o deterioro ambiental, así como el uso sustentable de los recursos naturales y la energía;
 
@@ -483,11 +491,17 @@ V. El establecimiento, aprovechamiento y vigilancia de áreas naturales sometida
 
 VI. La adquisición, instalación y operación de equipos para la prevención y disminución de las emisiones contaminantes a la atmósfera, así como cualquier otra actividad que tienda a mejorar la calidad del aire;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VII. La prevención de la contaminación y disminución de los residuos de manejo especial y sólidos urbanos, así como el fomento de la recuperación, reutilización, reciclaje y disposición final de los mismos, siempre y cuando se prevenga y disminuya la contaminación ambiental; y
+VII. La prevención de la contaminación y disminución de los residuos de manejo especial y sólidos urbanos, así como el fomento de la recuperación, reutilización, reciclaje y disposición final de los mismos, siempre y cuando se prevenga y disminuya la contaminación ambiental;
 
-VIII. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VIII. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX. Los procesos voluntarios de autorregulación ambiental, a través de los cuales los productores, industriales u organizaciones empresariales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a reducir la contaminación, incrementen la competitividad, así como a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
 #### SECCION TERCERA
 
@@ -1195,9 +1209,11 @@ III. Para la conservación de los elementos naturales que intervienen en el cicl
 
 El gobierno del estado y los gobiernos municipales, en el ámbito de sus respectivas competencias, aplicarán las normas oficiales mexicanas que correspondan, para el establecimiento y aprovechamiento de zonas de protección de ríos, arroyos, manantiales, lagos, embalses, depósitos, así como fuentes de abastecimiento de agua para el servicio de las poblaciones y actividades productivas, agrícolas, pecuarias, pesqueras, de acuacultura e industriales, y participarán en el establecimiento de reservas de agua para la conservación de ecosistemas acuáticos y para el uso y consumo humano.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 67.
 
-Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, el gobierno del estado y, en su caso, los gobiernos municipales, promoverán el tratamiento de aguas residuales y su reuso, así como el aprovechamiento de las aguas pluviales por medio de pozos de absorción, con el propósito de recargar los mantos acuíferos y establecer el aislamiento de los sistemas de drenaje y alcantarillado de las aguas pluviales, y asegurar su correcto aprovechamiento.
+Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, el gobierno del estado y los gobiernos municipales, promoverán el tratamiento de aguas residuales y su reúso, así como el aprovechamiento de las aguas pluviales por medio de pozos de absorción y otros sistemas de captación, tratamiento y uso eficiente de aguas pluviales, con el propósito de recargar los mantos acuíferos y establecer el aislamiento de los sistemas de drenaje y alcantarillado de las aguas pluviales, y asegurar su correcto aprovechamiento.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1893,7 +1909,9 @@ Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones
 
 I. Amonestación;
 
-II. Multa por el equivalente de veinte a veinte mil días de salario mínimo vigente en la zona del estado donde se cometa la infracción, en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Multa por el equivalente de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción;
 
 III. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -1949,9 +1967,13 @@ En los casos en que se imponga como sanción la clausura temporal, sea esta parc
 
 La autoridad sancionadora dará a los bienes decomisados alguno de los siguientes destinos:
 
-I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de cinco mil veces el salario mínimo general vigente en la zona donde se cometa la infracción, al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Remate en subasta pública cuando el valor de lo decomisado exceda de cinco mil veces el salario mínimo general vigente en la zona donde se cometa la infracción, al momento de imponer la sanción;
+I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Remate en subasta pública cuando el valor de lo decomisado exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 III. Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas.
 
@@ -2412,3 +2434,29 @@ P.O. 9 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25854/LXI/16 QUE REFORMA EL ARTÍCULO 6°, EN SUS FRACCIONES XXVI, SEGUNDO PÁRRAFO, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; REFORMA EL ARTÍCULO 3°, EN SUS FRACCIONES XVII, XVIII, Y SE ADICIONA LA FRACCIÓN XIX DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25878/LXI/16 QUE REFORMA LOS ARTÍCULOS 3 Y 14 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y 27 DE LA LEY DE GESTÍON INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado deberá ajustar las disposiciones reglamentarias necesarias para la aplicación del presente decreto, dentro del término de noventa días naturales posteriores a (sic) entrada en vigor de este decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25884/LXI/16 QUE REFORMA LOS ARTÍCULOS 17, 20 Y 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y 67 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo y los ayuntamientos del Estado, deberán actualizar sus planes y programas en la materia dentro de los 90 días siguientes a la entrada en vigor del presente decreto.
