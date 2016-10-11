@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-09-07"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN SÉPTIMA DE LA GACETA DEL GOBIERNO DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -36,8 +38,6 @@ DECRETO NUMERO 2
 LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
 
 DECRETA:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN TRANSITORIO SEXTO, PUBLICADO EN LA G.G. 17 DE DICIEMBRE DE 2014, CUANDO OTROS ORDENAMIENTOS LEGALES, ADMINISTRATIVOS Y DEMÁS DOCUMENTACIÓN Y PAPELERÍA HAGAN REFERENCIA A LA SECRETARÍA DE SEGURIDAD CIUDADANA, SE ENTENDERÁ A LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA.</small>
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
@@ -529,9 +529,29 @@ XXIII. Proyectar y calcular los egresos del Gobierno del Estado y los ingresos y
 
 XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias del Ejecutivo y de sus organismos auxiliares.
 
-> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-XXV. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
+XXV. Establecer y llevar los sistemas de contabilidad gubernamental, disciplina financiera y de estadística general del Gobierno del Estado.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Bis. Garantizar, en el ámbito de su competencia, la aplicación de las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria, en términos de la legislación en la materia
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Ter. Realizar periódicamente la evaluación del cumplimiento de las obligaciones específicas de responsabilidad hacendaria a cargo de los municipios, en términos de lo establecido en los propios convenios, remitiendo los resultados a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Quáter. Proporcionar, en el ámbito de su competencia, la información necesaria para que la Secretaría de Hacienda y Crédito Público esté en aptitud de realizar la evaluación del Sistema de Alertas a que se refiere el artículo 43 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Quintus. Proporcionar, en el ámbito de su competencia, la información financiera que solicite la Secretaría de Hacienda y Crédito Público para dar cumplimiento a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Sexies. Celebrar convenios con los entes públicos estatales que se ubiquen en un nivel de endeudamiento elevado, con el objeto de establecer obligaciones específicas de responsabilidad hacendaria.
 
 > <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -3027,42 +3047,34 @@ OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 3 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA".]
+G.G. 11 DE OCTUBRE DE 2016.
 
-PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
+> <small>(F. DE E., G.G. 11 DE OCTUBRE DE 2016)</small>
 
-SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
-TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
-QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+TERCERO.- El Presupuesto de Egresos y las Leyes de Ingresos deberán elaborarse de conformidad con las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria que al respecto se establecen en el presente Decreto y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, atendiendo a los plazos establecidos en este último ordenamiento.
 
-El patrimonio y presupuesto con que actualmente cuenta del Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
+CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria a que se refiere el Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del Estado y sus entes públicos en el ejercicio fiscal 2017, y para los Municipios y sus entes públicos en el ejercicio fiscal 2018, con las salvedades previstas en la citada Ley.
 
-La Secretaría de Administración y Finanzas de Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
+QUINTO.- El porcentaje a que hace referencia el artículo 292 Ter del Código Financiero del Estado de México y Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
 
-Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
+Para el caso de los municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 será hasta por el 2.5 por ciento.
 
-SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+SEXTO.- Para la aplicación del artículo 292 Quáter del Código Financiero del Estado de México y Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 será de 10 por ciento.
 
-SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
+SÉPTIMO.- La fracción I del artículo 292 Quintus del Código Financiero del Estado de México y Municipios, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
 
-OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo citado hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
 
-NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+Las nuevas leyes federales y estatales o reformas a las mismas, a que se refiere el último párrafo de la mencionada fracción serán aquéllas que se emitan con posterioridad a la entrada en vigor de este Decreto.
 
-P.O. 29 DE OCTUBRE DE 2021.
+OCTAVO.- Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 317 Bis A Segundo Párrafo fracción I del Código Financiero del Estado de México y Municipios, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
 
-> <small>[N. DE E. TRASITORIOS DEL “DECRETO NÚMERO 4 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y DE LA LEY DE ENTIDADES PARAESTATALES, AMBAS DEL ESTADO DE SINALOA”.]</small>
+En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-SEGUNDO. Las derogaciones del Capítulo II Bis y sus artículos 23 Bis, 23 Bis A, 23 Bis B y 23 Bis C de la Ley Orgánica de la Administración Pública del Estado de Sinaloa, previstas en el presente Decreto, surtirán sus efectos a partir del día primero de noviembre del año dos mil veintiuno.
-
-TERCERO. Aquellas entidades paraestatales que no dispongan de un área de asesoría jurídica específica y que a juicio del Gobernador Constitucional del Estado requieran de una, en razón de su objeto, atribuciones o recursos públicos que ejercen, integrarán a su proyecto de presupuesto para el próximo ejercicio fiscal un área de Asuntos Jurídicos en su estructura orgánica.
-
-CUARTO. El nombramiento y remoción de los titulares de las áreas jurídicas de las entidades paraestatales, será atribución vigente del Secretario General de Gobierno, a partir de la entrada en vigor de este Decreto, aún y cuando el instrumento jurídico que les dio origen no haya sido adecuado a esta disposición. En lo subsecuente, se dictarán las disposiciones necesarias para armonizar dichos instrumentos jurídicos al contenido de esta reforma de Ley.
-
-QUINTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+NOVENO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
