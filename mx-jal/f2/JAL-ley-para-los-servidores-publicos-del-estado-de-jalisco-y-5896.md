@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2015-10-24"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -449,7 +449,9 @@ Si al término del plazo señalado en el párrafo anterior no ha concluido el pr
 
 En caso de muerte del servidor público, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
 
-A los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, el Tribunal de Arbitraje y Escalafón le impondrá una multa de 100 a 1000 veces el salario mínimo general vigente de la zona económica de Guadalajara.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+A los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, el Tribunal de Arbitraje y Escalafón le impondrá una multa de 100 a 1000 veces el valor de la Unidad de Medida y Actualización.
 
 Si la dilación es producto de omisiones o conductas irregulares de los funcionarios o servidores públicos, la sanción aplicable será la suspensión hasta por treinta días sin pago de salario y, en caso de reincidencia, la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
@@ -865,7 +867,9 @@ V. De descuentos en favor de Instituciones de Seguridad Social; y
 
 VI. Del pago de abonos para cubrir obligaciones derivadas de la adquisición, construcción, reparación o mejoras de casas habitación, así como de su uso, o al pago de pasivos adquiridos por estos conceptos, y siempre que la afectación se haga mediante fideicomiso en instituciones nacionales de crédito.
 
-El monto total de los descuentos será el que convengan el servidor público y la Entidad Pública, sin que pueda ser mayor de treinta por ciento del excedente del salario mínimo que corresponda a la zona económica, excepto en los casos a que se refieren las fracs. III, IV y VI, de este precepto.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+El monto total de los descuentos será el que convengan el servidor público y la Entidad Pública, sin que pueda ser mayor de treinta por ciento del excedente del valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI, de este precepto.
 
 ###### Art. 50.
 
@@ -1067,15 +1071,21 @@ XXV. Percibir la remuneración establecida en el presupuesto de egresos correspo
 
 XXVI. No desviar los recursos económicos y en especie que reciba como apoyo para el desempeño de sus funciones, a un fin diverso a éste;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XXVII. Ajustarse a los criterios implementados por la entidad pública para la certeza de asistencia día a día, y
+XXVII. Ajustarse a los criterios implementados por la entidad pública para la certeza de asistencia día a día;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 XXVIII. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos del Estado de Jalisco. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
 
-A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXIX. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano sea parte.
 
 ## TITULO TERCERO
 
@@ -1475,11 +1485,11 @@ Los Servidores Públicos únicamente podrán hacer uso del derecho de huelga res
 
 La huelga sólo suspende los efectos de los nombramientos de los Servidores Públicos por el tiempo que dure, pero sin terminar o extinguir los efectos del propio nombramiento.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 98.
 
-La huelga deberá limitarse al mero acto de la suspensión del trabajo. Los actos de coacción y de violencia física o moral o de fuerza sobre las cosas, cometidas por los huelguistas, tendrán como consecuencia, respecto de los responsables, la pérdida de su calidad de Servidores Públicos, y si no constituye otro delito cuya pena sea mayor, se sancionará con prisión hasta de dos años y multa hasta de diez veces el monto del salario mínimo de la zona económica en donde ocurran los hechos, más la reparación del daño.
+La huelga deberá limitarse al mero acto de la suspensión del trabajo. Los actos de coacción y de violencia física o moral o de fuerza sobre las cosas, cometidas por los huelguistas, tendrán como consecuencia, respecto de los responsables, la pérdida de su calidad de servidores públicos, y si no constituye otro delito cuya pena sea mayor, se sancionará con prisión hasta de dos años y multa hasta de diez veces el monto del el (sic) valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, más la reparación del daño.
 
 ###### Art. 99.
 
@@ -1939,17 +1949,25 @@ El Tribunal tiene la obligación de proveer a la eficaz e inmediata ejecución d
 
 Cuando se pida la ejecución de un laudo, el Tribunal de Arbitraje y Escalafón, despachará auto con efectos de mandamiento en forma, notificándolo en el domicilio procesal y apercibiéndola de que, de no cumplir con dicha resolución, se procederá al uso de los medios de apremio.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 143.
 
-Notificado el auto de ejecución, el condenado deberá dar cumplimiento al laudo dentro de los 30 días siguientes. El Tribunal, para hacer cumplir sus determinaciones, podrá imponer sanciones desde diez veces el salario mínimo hasta por cien veces el salario mínimo general vigente de la zona económica de Guadalajara.
+Notificado el auto de ejecución, el condenado deberá dar cumplimiento al laudo dentro de los 30 días siguientes. El Tribunal, para hacer cumplir sus determinaciones, podrá imponer sanciones de diez hasta cien veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 Cuando sea la autoridad quien deba cumplir los resolutivos del laudo, la multa será cubierta por la dependencia o entidad que haya sido condenada. Si no obstante lo anterior, la autoridad reitera la negativa de cumplir, el Tribunal resolverá la suspensión en el cargo por un plazo de quince días sin goce de sueldo de los funcionarios que debieron darle cumplimiento.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+
 La suspensión empezará a partir del día siguiente de su notificación y los actos que se realicen en desacato al resolutivo respectivo serán nulos. El cumplimiento del laudo interrumpe la suspensión.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+
 Si no obstante la sanción prevista en el párrafo segundo y subsecuentes, se persiste en el incumplimiento, la suspensión se repetirá contra los responsables y podrá ampliarse en contra de quienes les sustituyan.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 Los magistrados del Tribunal de Arbitraje y Escalafón tendrán la responsabilidad de hacer cumplir los laudos. La negativa de decretar la suspensión temporal de algún servidor público que incurriere en alguna de las causas señaladas en el presente artículo, será motivo para que a dichos funcionarios se les aplique la sanción que corresponda en acatamiento a la Ley de Responsabilidades de los Servidores Públicos, salvo que se trate de servidores públicos de otros poderes, niveles de gobierno o municipios, en cuyo caso remitirán las constancias de las actuaciones que se hubieren efectuado al servidor o servidores públicos encargados de aplicar la sanción correspondiente.
 
@@ -1983,7 +2001,9 @@ IV. Si se ofrece como prueba el recuento de los servidores públicos, se estará
 
 a) El tribunal requerirá a la entidad pública a la que pertenezcan los sindicatos en conflicto, una relación actualizada de los trabajadores de base, autorizada en el presupuesto de egresos del ejercicio fiscal que corresponda, la cual deberá incluir, invariablemente, una copia de los nombramientos y de los documentos a través de los cuales los servidores públicos autorizaron su respectivo descuento de cuota sindical. Dicho listado deberá ser entregado en un término no mayor a veinte días hábiles. El término podrá ser ampliado hasta por diez días hábiles más, a petición de la entidad pública con cuando menos dos días antes al de su vencimiento, debiendo justificar su imposibilidad para dar cumplimiento dentro del mismo.
 
-En caso de incumplimiento en la entrega de la relación de trabajadores y documentos requeridos, el Tribunal de Arbitraje y Escalafón aplicará una multa a la entidad pública de que se trate, de mil a tres mil días de salario mínimo vigente en la ciudad de Guadalajara, y en caso de reincidir en incumplimiento, se suspenderá al titular de la dependencia que se trate, hasta por quince días en el cargo;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+En caso de incumplimiento en la entrega de la relación de trabajadores y documentos requeridos, el Tribunal de Arbitraje y Escalafón aplicará una multa a la entidad pública de que se trate, de mil a tres mil veces el valor de la Unidad de Medida y Actualización al momento del incumplimiento, y en caso de reincidir en incumplimiento, se suspenderá al titular de la dependencia que se trate, hasta por quince días en el cargo;
 
 b) El pleno del Tribunal de Arbitraje y Escalafón, con la fe de su Secretario General y con base en la relación y documentos señalados en el inciso a) de esta fracción, emitirá un acuerdo respecto de la totalidad de los trabajadores afiliados a cada uno de los sindicatos pertenecientes a la entidad pública de que se trate, debiendo establecer el número de miembros afiliados a cada uno de los sindicatos litigantes, para efectos de su representación sindical;
 
@@ -2748,3 +2768,17 @@ P.O. 2 DE JULIO DE 2015.
 P.O. 24 DE OCTUBRE DE 2015.
 
 ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE “SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25879/LXI/16 QUE REFORMA LOS ARTÍCULOS 55 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y 61 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
