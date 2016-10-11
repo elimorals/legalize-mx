@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2016-06-16"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -3187,11 +3189,15 @@ I. Para la elección de Gobernador del Estado, a más tardar el día último de 
 
 II. Para la elección de Diputados y Munícipes, a más tardar el día último de diciembre del año previo al de la elección, procederá en los siguientes términos:
 
-a) Determinará el tope máximo de gastos de campaña para la elección de Diputados por el principio de mayoría relativa, que será la cantidad que resulte de dividir el tope de gasto de campaña establecido para la elección de Gobernador entre veinte. Para el año en que solamente se renueve el Congreso del Estado y los Ayuntamientos, los topes de campaña se actualizarán con el índice de crecimiento del salario mínimo diario en la zona metropolitana de Guadalajara;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+a) Determinará el tope máximo de gastos de campaña para la elección de Diputados por el principio de mayoría relativa, que será la cantidad que resulte de dividir el tope de gasto de campaña establecido para la elección de Gobernador entre veinte. Para el año en que solamente se renueve el Congreso del Estado y los Ayuntamientos, los topes de campaña se actualizarán con el índice de crecimiento del valor diario de la Unidad de Medida y Actualización;
 
 b) Determinará el tope máximo de gastos de campaña para la elección de Munícipes, que será la cantidad que resulte de dividir el tope de campaña de la elección de Gobernador entre el número de electores inscritos en el Padrón Electoral en el Estado con corte a Diciembre del año inmediato anterior al de la elección. Dicha cantidad se multiplicará por el número de electores inscritos en el padrón electoral en el municipio que corresponda; y
 
-c) En todo caso el tope será el equivalente a mil salarios mínimos para la zona metropolitana de Guadalajara cuando la cantidad que resulte de la operación anterior sea inferior a esta.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+c) En todo caso el tope será el equivalente a mil veces el valor diario de la Unidad de Medida y Actualización cuando la cantidad que resulte de la operación anterior sea inferior a esta.
 
 ### Capítulo Tercero. De las Reuniones y Marchas
 
@@ -5635,7 +5641,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta diez mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara, según la gravedad de la falta;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta;
 
 c) Con hasta un tanto del monto ejercido en exceso, en los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas. En caso de reincidencia, la sanción será de hasta dos tantos;
 
@@ -5643,9 +5651,9 @@ d) Con la reducción de hasta el cincuenta por ciento de las ministraciones del 
 
 e) Con la interrupción de la transmisión de la propaganda política o electoral que se transmita, dentro del tiempo que le sea asignado por el Instituto, en violación de las disposiciones de este Código;
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-f) Con multa de hasta diez mil días de salario mínimo general vigente para el área metropolitana de Guadalajara, la violación a lo dispuesto en la fracción XVI del párrafo 1 del artículo 68 de este Código. La reincidencia durante las precampañas y campañas electorales, se podrá sancionar hasta con la supresión total de las prerrogativas de acceso a radio y televisión por un mes; y
+f) Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la violación a lo dispuesto en la fracción XVI del párrafo 1 del artículo 68 de este Código. La reincidencia durante las precampañas y campañas electorales, se podrá sancionar hasta con la supresión total de las prerrogativas de acceso a radio y televisión por un mes; y
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -5655,7 +5663,9 @@ II. Respecto de las agrupaciones políticas:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta diez mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara, según la gravedad de la falta; y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta; y
 
 c) Con la suspensión hasta por seis meses o cancelación del registro si se trata de agrupaciones políticas locales.
 
@@ -5663,7 +5673,9 @@ III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elecció
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara; y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización; y
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o con la cancelación si ya estuviere registrado. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -5671,21 +5683,21 @@ IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol
 
 a) Con amonestación pública; a los dirigentes y afiliados a partidos políticos;
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-b) Con multa de hasta quinientos días de salario mínimo general vigente para la zona metropolitana de Guadalajara; a los dirigentes y afiliados a los partidos políticos o cualquiera persona física en el caso de aportaciones que violen lo dispuesto en la Ley General y este Código; o tratándose de la compra o adquisición de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
+b) Con multa de hasta quinientos veces el valor diario de la Unidad de Medida y Actualización; a los dirigentes y afiliados a los partidos políticos o cualquiera persona física en el caso de aportaciones que violen lo dispuesto en la Ley General y este Código; o tratándose de la compra o adquisición de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-c) Con multa de hasta cien mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara, a las personas jurídicas por las conductas señaladas en la fracción anterior; o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
+c) Con multa de hasta cien mil veces el valor diario de la Unidad de Medida y Actualización, a las personas jurídicas por las conductas señaladas en la fracción anterior; o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días de salario mínimo general vigente para el Área Metropolitana de Guadalajara, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones; y
+d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-e) Con multa de hasta cinco mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara, en el caso del artículo 450.1, fracción II, después de haberse aplacado la amonestación pública;
+e) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, en el caso del artículo 450.1, fracción II, después de haberse aplicado la amonestación pública;
 
 V. Respecto de las organizaciones de observadores electorales y de los observadores Electorales:
 
@@ -5693,13 +5705,17 @@ a) Con amonestación pública;
 
 b) Con la cancelación inmediata de la acreditación como observadores Electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos Electorales locales; y
 
-c) Con multa de hasta doscientos días de salario mínimo general vigente para la zona metropolitana de Guadalajara, tratándose de las organizaciones a las que pertenezcan los observadores Electorales.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+c) Con multa de hasta doscientos veces el valor diario de la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 VI. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara, según la gravedad de la falta; y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta; y
 
 c) Con la cancelación del procedimiento tendiente a obtener el registro como partido político estatal.
 
@@ -5707,7 +5723,9 @@ VII. Respecto de las organizaciones sindicales, laborales o patronales, o de cua
 
 a) Con amonestación pública; y
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
 
@@ -5715,7 +5733,9 @@ VIII. Respecto de los Aspirantes y Candidatos Independientes:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para la Zona Metropolitana de Guadalajara;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -7073,7 +7093,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por cien veces el salario mínimo diario general vigente en la zona metropolitana de Guadalajara, la que se podrá duplicar en caso de reincidencia;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+III. Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización, la que se podrá duplicar en caso de reincidencia;
 
 IV. Auxilio de la fuerza pública; y
 
@@ -9068,3 +9090,11 @@ CUARTO. El Congreso del Estado deberá realizar las reformas secundarias necesar
 QUINTO. El Poder Ejecutivo Estatal y los Ayuntamientos deberán realizar las modificaciones a reglamentos y disposiciones administrativas en un plazo no mayor a tres meses a partir de la publicación de este decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
