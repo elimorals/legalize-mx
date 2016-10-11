@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2016-07-09"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -47,7 +47,9 @@ Se modifica el Diverso 18435 que crea la Ley Fomento a la Cultura, con base a la
 
 Las disposiciones de esta ley son de orden público y de observancia general y obligatoria en el territorio del Estado de Jalisco
 
-Es objeto de esta ley, regular las acciones del Estado que fomenten y desarrollen la cultura en sus manifestaciones artísticas, artesanales, costumbres y tradiciones populares.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Es objeto de esta ley, regular las acciones del Estado que fomenten y desarrollen la cultura en sus manifestaciones artísticas, artesanales, costumbres y tradiciones populares, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -57,7 +59,9 @@ La presente ley tiene como objetivos los siguientes:
 
 I. Promover el derecho de acceso a la cultura, el cual será garantizado por el Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco y la presente ley;
 
-II. Generar las condiciones para la promoción, fomento y difusión de las manifestaciones culturales y artísticas con el fin de facilitar el acceso a ellas a todos los individuos de la sociedad;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Generar las condiciones para la promoción, fomento y difusión de las manifestaciones culturales y artísticas con el fin de facilitar el acceso a ellas a todos los individuos de la sociedad, especialmente de las personas pertenecientes a grupos vulnerables;
 
 III. Establecer los criterios mediante los cuales la autoridad competente ejecutará y evaluará la política cultural del Estado, que servirá como base para la elaboración de los planes y programas estatales en materia de cultura, conforme a los siguientes criterios:
 
@@ -81,9 +85,17 @@ VI. Establecer y desarrollar mecanismos financieros, destinados a proveer de apo
 
 VII. Fijar las bases para otorgar beca, reconocimientos y estímulos económicos en apoyo a la realización artística y cultural;
 
-VIII. Definir la competencia de las autoridades estatal y municipales en materia cultural, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IX. Reconocer como gestor cultural a toda persona que actúe como agente de cambio y transformación social, cuya visión multidisciplinaria, conocimientos y habilidades vayan encaminados al análisis, promoción, fomento y difusión de procesos culturales.
+VIII. Definir la competencia de la autoridad estatal y municipal en materia cultural;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX. Reconocer como gestor cultural a toda persona que actúe como agente de cambio y transformación social, cuya visión multidisciplinaria, conocimientos y habilidades vayan encaminados al análisis, promoción, fomento y difusión de procesos culturales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+X. Garantizar la igualdad en el ámbito de la promoción y difusión de la producción artística e intelectual para hombres y mujeres, asegurando la inclusión de manera equitativa y proporcional por género en los planes y proyectos de esta ley.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -151,7 +163,9 @@ II. Aprobar y publicar el Programa Estatal de Cultura;
 
 III. Promover, fomentar y difundir, en su ámbito de competencia, las manifestaciones culturales en el Estado;
 
-IV. Procurar la asignación de recursos presupuestales crecientes en términos reales para el financiamiento de las actividades culturales;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Procurar la asignación de recursos presupuestales crecientes en términos reales para el financiamiento de las actividades culturales, así como para la creación de nuevos espacios culturales y la recuperación de los existentes, en especial, de aquellos que se encuentran en estado de abandono o en desuso, en coordinación con instancias públicas y privadas.
 
 V. Celebrar con los gobiernos federal, municipales y de otras entidades federativas, así como con las personas físicas o jurídicas, los convenios que favorezcan el desarrollo cultural y artístico de la entidad;
 
@@ -177,9 +191,9 @@ IV. Diseñar, operar y evaluar, en coordinación con la Secretaría de Educació
 
 V. Promover estrategias de financiamiento y programas de estímulos fiscales a personas físicas y jurídicas que destinen recursos a las actividades culturales que son objeto de esta ley, diseñando, inclusive, los mecanismos adecuados para expedir recibos deducibles de impuestos para apoyar el mecenazgo por particulares;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VI. Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento y de las mejoras físicas y tecnológicas de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley;
+VI. Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, creación y construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento, remozamiento y de la dotación de las mejoras físicas y tecnológicas, de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley, así como la recuperación de aquellos que se encuentren en estado de abandono o en desuso, en coordinación con instancias públicas y privadas;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -205,7 +219,9 @@ XIV. Agilizar y optimizar los procesos de obtención de recursos provenientes de
 
 XV. Promover con organismos culturales y artísticos la realización de eventos, ferias, concursos, exposiciones, festivales y otras actividades análogas que sirvan de promoción, fomento y divulgación de la cultura, el arte y las tradiciones populares;
 
-XVI. Procurar, en coordinación con la Secretaría de Educación, el desarrollo de las capacidades y potencialidades artísticas de la población, así como favorecer su acceso a la cultura y las artes;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVI. Procurar, en coordinación con la Secretaría de Educación, el desarrollo de las capacidades y potencialidades artísticas de la población, así como favorecer el acceso de todos los segmentos de la sociedad, en especial, de las personas pertenecientes a grupos vulnerables, a la cultura y las artes;
 
 XVII. Presentar ante el titular del Poder Ejecutivo del Estado, los proyectos de reglamentos necesarios para el adecuado cumplimiento de la presente ley;
 
@@ -225,7 +241,9 @@ II. Procurar la creación de una dependencia municipal que tenga como funciones 
 
 III. Celebrar los convenios necesarios con las instancias públicas estatales y federales, así como con las personas físicas o jurídicas de carácter privado, para la adecuada coordinación de las actividades culturales del municipio;
 
-IV. Elaborar y ejecutar programas para el desarrollo de las actividades culturales dentro del territorio municipal;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Elaborar y ejecutar programas para el desarrollo de las actividades culturales dentro del territorio municipal, que procuren el acceso a la cultura y las artes de todos los segmentos sociales, en especial de las personas pertenecientes a grupos vulnerables;
 
 V. Fomentar la integración de organismos privados y sociales de promoción y divulgación de la cultura;
 
@@ -247,11 +265,17 @@ XII. Elaborar y mantener actualizado un inventario de los espacios públicos con
 
 XIII. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la medida de sus posibilidades, a los artistas municipales más destacados;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XIV. Procurar la creación de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales; así como procurar la ampliación, mantenimiento y mejoras físicas y tecnológicas, destinando únicamente su uso para las actividades artísticas y culturales, y
+XIV. Procurar la creación de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros, cines y centros culturales análogos; procurar su ampliación, mantenimiento, remozamiento y que se les dote de mejoras físicas y tecnológicas, así como la recuperación de aquellos que se encuentren abandonados o en desuso, en coordinación con instancias públicas y privadas;
 
-XV. Conocer, analizar y resolver las solicitudes o peticiones que presenten personas físicas o jurídicas dedicadas a las actividades culturales, para la utilización de los espacios públicos con que cuenta el municipio.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XV. Promover, asesorar y coadyuvar a los particulares para la tramitación de apertura y funcionamiento de establecimientos o giros de corte cultural, tales como museos, teatros, bibliotecas, hemerotecas, archivos, galerías, centros y peñas artísticas o culturales, entre otros, como medio para fomentar la cultura en el municipio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVI. Conocer, analizar y resolver las solicitudes o peticiones que presenten personas físicas o jurídicas dedicadas a las actividades culturales, para la utilización de los espacios públicos con que cuenta el municipio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -317,7 +341,9 @@ k) La Secretaría de Trabajo y Previsión Social del Estado;
 
 l) El Comité Técnico de la Orquesta Filarmónica de Jalisco;
 
-m) Uno de cada una de las regiones que conforman el Estado de Jalisco; y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+m) Un representante de cada una de las regiones del Estado de Jalisco, invitado por la Secretaría, conforme al Reglamento de la presente Ley;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -331,9 +357,7 @@ n) Un representante por cada uno de los consejos municipales de cultura;
 
 o) El presidente de la Comisión de Cultura del Congreso del Estado;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-p) Un representante del Instituto Jalisciense de Antropología e Historia, y
+p) (DEROGADO, P.O. 11 DE OCTUBRE DE 2016)
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -551,7 +575,9 @@ II. Ejercer funciones de asesoría y consulta sobre el diseño de programas y ac
 
 III. Participar en las evaluaciones cuando menos cada año, respecto a la ejecución de los programas y acciones contenidos en el Programa Estatal de Cultura;
 
-IV. Otorgar apoyos, becas, estímulos y reconocimientos a efecto de fomentar la creación artística en el Estado, los cuales se canalizarán a través del Sistema Estatal de Creadores;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Otorgar apoyos, becas, estímulos y reconocimientos a efecto de fomentar la creación artística en el Estado;
 
 V. Participar junto con la Secretaría, en la figura jurídica que establezca el Ejecutivo para el ejercicio de los recursos constitutivos del Fondo Estatal para la Cultura y las Artes;
 
@@ -787,25 +813,33 @@ El Estado y los municipios promoverán la apertura y utilización de espacios p�
 
 ### Capítulo III. Del fomento al libro y la lectura
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-Las autoridades educativas y culturales, con el apoyo de la Comisión de Fomento al Libro y la Lectura, fomentarán el hábito de la lectura entre la población de Jalisco, y promoverán su mayor acceso a la producción escrita.
+Es de interés público fomentar el hábito de la lectura entre la población de Jalisco y se contará con el apoyo de la Comisión de Fomento al Libro y la Lectura.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 39.
 
-Para lograr estos fines, las autoridades culturales y educativas deberán:
+Para lograr estos fines las autoridades encargadas de la aplicación de esta Ley, en el ámbito de su competencia llevarán a cabo las siguientes acciones:
 
-I. Establecer programas de promoción de la lectura entre la población del estado, especialmente en el sistema educativo;
+I. Propiciar la generación de políticas, programas, proyectos y acciones dirigidas al fomento y promoción de la lectura;
 
-II. Impulsar la creación, ampliación y mejoramiento de salas de lectura y bibliotecas;
+II. Hacer accesible el libro en igualdad de condiciones en todo el Estado para aumentar su disponibilidad y acercarlo al lector;
 
-III. Procurar acciones que tengan como propósito apoyar la distribución y adquisición de libros;
+III. Establecer mecanismos de coordinación interinstitucional con los distintos órdenes de gobierno y la vinculación con los sectores social y privado, para impulsar las actividades relacionadas con la función educativa y cultural del fomento a la lectura y el libro;
 
-IV. Estimular la lectura y conocimiento de escritores jaliscienses;
+IV. Fomentar y estimular la edición, distribución y comercialización del libro y las publicaciones periódicas, sobre todo de escritores jaliscienses;
 
-V. Fomentar la promoción de libros, revistas y coediciones de carácter cultural; y
+V. Fomentar y apoyar el establecimiento, desarrollo, modernización y actualización de librerías, bibliotecas públicas del Estado y otros espacios públicos y privados para la lectura y la difusión del libro;
 
-VI. Organizar concursos anuales en el estado, que tengan por objeto estimular la lectura y dirigirlos principalmente a los alumnos de educación básica.
+VI. Promover el trabajo intelectual de los autores, particularmente aquellos residentes en el Estado y coadyuvar en la edición de sus obras en los términos de las leyes aplicables;
+
+VII. Organizar concursos anuales en el Estado que tengan por objeto estimular la lectura y dirigirlos principalmente a los alumnos de educación básica; y
+
+VIII. Implementar programas de bibliotecas móviles en el ámbito de su competencia.
 
 ### Capítulo IV. Del uso de los espacios públicos destinados a la cultura
 
@@ -903,11 +937,17 @@ IV. Las aportaciones deberán ser equitativas y proporcionales al ingreso que re
 
 Para ser fideicomisario del fideicomiso en cuestión se necesita cumplir con cualquiera de los siguientes requisitos:
 
-I. Estar registrado en el Sistema Estatal de Creadores;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. No contar con algún tipo de seguridad social, y
+I. Estar avalado por el Consejo;
 
-III. Ser profesionista o estudiante de alguna, licenciatura o posgrado, en algún área artística o cultural avalada por la Secretaría de Educación Pública, y demostrar que ha estado ejerciendo en su respectiva área por más de un año ante el Comité Técnico.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. No contar con algún tipo de seguridad social; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+III. Acreditar que ha estado ejerciendo en su respectiva área por más de tres años ante el Comité Técnico.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
 
@@ -939,9 +979,11 @@ La operatividad, así como el adecuado funcionamiento de los programas de seguri
 
 La relación jurídica establecida en el fideicomiso quedará rescindida en los siguientes supuestos:
 
-l. Por ya no estar inscrito en el Sistema Estatal de Creadores;
+I. (DEROGADA, P.O. 11 DE OCTUBRE DE 2016)
 
-II. Por dejar de estar estudiando, o dejar de estar ejerciendo en el área del sector cultural o artístico por más de un año, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Por dejar de ejercer en el área del sector cultural o artístico por más de tres años; y
 
 III. Por dejar de aportar la parte alícuota correspondiente al mismo por un periodo de más de un año.
 
@@ -1050,3 +1092,9 @@ P.O. 9 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25849/LXI/16 QUE REFORMA EL ARTÍCULO 2° TER DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial EI Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25875/LXI/16 QUE REFORMA LOS ARTÍCULOS 1, 2, 5, 6, 7, 10, 21, 38, 39, 48 Y 51 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
