@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ascensos-y-recompensas-para-todos-los-cuerpos-de-5983"
 country: "mx"
 rank: "ley"
 publication_date: "1977-01-04"
-last_updated: "1977-01-04"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE ASCENSOS Y RECOMPENSAS PARA TODOS LOS CUERPOS DE SEGURIDAD DEPENDIENTES DEL EJECUTIVO DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 25874/LXI/16, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASCENSOS Y RECOMPENSAS PARA TODOS LOS CUERPOS DE SEGURIDAD DEPENDIENTES DEL EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 4 de enero de 1977.
 
@@ -178,3 +180,17 @@ Alberto Orozco Romero
 El Secretario General de Gobierno.
 
 Lic. Alberto Rosas Benítez.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL DECRETO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley de Ascensos y Recompensas para todos los Cuerpos de Seguridad Dependientes del Ejecutivo del Estado, publicada mediante decreto 9542 en el Periódico Oficial "El Estado de Jalisco" de fecha 4 de enero de 1977.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25874/LXI/16 SE ABROGA LA LEY DE ASCENSOS Y RECOMPENSAS PARA TODOS LOS CUERPOS DE SEGURIDAD, DEPENDIENTES DEL EJECUTIVO DEL ESTADO, PUBLICADA MEDIANTE DECRETO 9542 EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO DE FECHA 4 DE ENERO DE 1977”.]
+
+ÚNICO. El presente decreto entrará (sic) vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
