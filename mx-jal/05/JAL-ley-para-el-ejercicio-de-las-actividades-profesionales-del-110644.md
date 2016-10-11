@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-ejercicio-de-las-actividades-profesionales-del-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2015-12-01"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "JAL"
 ---
 # LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO LEGISLATIVO QUE APRUEBA LA ACLARACIÓN DE ERROR DE LA MINUTA DEL DECRETO 25840/LXI/16, PUBLICADO EN LA SECCIÓN VI DEL P.O. EL 11 DE OCTUBRE DE 2016, EN SU ARTÍCULO CUADRAGÉSIMO QUINTO -ANTES CUADRAGÉSIMO SEXTO- QUE MODIFICA EL PRESENTE ORDENAMIENTO]</small>
+
 LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1º DE ENERO DEL AÑO 2016.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 1 de diciembre de 2015.
 
@@ -361,6 +363,8 @@ Los colegios de profesionistas deberán auxiliar al gobierno del Estado en calid
 
 La agrupación de profesionistas que en el Estado se constituyan contraviniendo las disposiciones constitucionales y legales, no podrá utilizar la denominación de Colegio, ni será reconocida ni registrada por la Dirección, con todos los efectos inherentes.
 
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 33.
 
 Para que un colegio de profesionistas obtenga el reconocimiento y registro de la Dirección, deberá cumplir con todos los lineamientos contenidos en la presente Ley y su Reglamento, cuyos requisitos mínimos para su creación como su vigencia serán los siguientes:
@@ -427,7 +431,9 @@ XV. Cumplir con lo establecido en el Código Civil del Estado de Jalisco en mate
 
 XVI. Entregar y actualizar a la Dirección el directorio de sus integrantes, con el número de cédula de cada uno de ellos y su domicilio profesional; y
 
-XVII. Que las cuotas ordinarias que deban pagar sus agremiados no sean mayores a cincuenta salarios mínimos generales vigentes en el Estado por año.
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVII. Que las cuotas ordinarias que deban pagar sus agremiados no sean mayores a cincuenta veces el valor de la Unidad de Medida y Actualización vigente en el Estado por año.
 
 ###### Artículo 34.
 
@@ -1071,45 +1077,63 @@ VI. Cancelación definitiva de las autorizaciones para operar como colegio, fede
 
 La aplicación de las sanciones que se establecen en este título no libera al infractor del cumplimiento de las obligaciones que dispone esta Ley y operará sin perjuicio de la responsabilidad civil o penal que resulte.
 
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 92.
 
-Cuando derivado del ejercicio profesional se incumplan con las obligaciones que esta Ley señale para los profesionistas, se actúe con negligencia ante sus clientes, se ataquen los derechos de terceros o los derechos de la sociedad en general, la Dirección podrá imponer una multa de cincuenta a doscientos salarios mínimos generales vigentes en el lugar de la comisión de la infracción, y podrá suspender o cancelar la autorización para que continúe efectuando las actividades profesionales de tres meses a un año.
+Cuando derivado del ejercicio profesional se incumplan con las obligaciones que esta Ley señale para los profesionistas, se actúe con negligencia ante sus clientes, se ataquen los derechos de terceros o los derechos de la sociedad en general, la Dirección podrá imponer una multa de cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción, y podrá suspender o cancelar la autorización para que continúe efectuando las actividades profesionales de tres meses a un año.
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 93.
 
-Cuando una autoridad permita a un profesionista ejercer una actividad profesional que requiera cédula vigente, sin contar con ella, será acreedor a una multa de cincuenta a doscientos salarios mínimos generales vigentes en la capital del Estado de Jalisco. Lo anterior sin perjuicio de las sanciones previstas en otros ordenamientos.
+Cuando una autoridad permita a un profesionista ejercer una actividad profesional que requiera cédula vigente, sin contar con ella, será acreedor a una multa de cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado de Jalisco. Lo anterior sin perjuicio de las sanciones previstas en otros ordenamientos.
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 94.
 
-Cuando una persona dentro del territorio del Estado se ostente como pasante, titulado o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 9°, no tendrá derecho a cobrar por concepto de sueldo u honorarios, y se le impondrá además una multa de cien a trescientos salarios mínimos generales vigentes en el lugar de la comisión de la infracción. Lo anterior sin perjuicio de las responsabilidades civiles y penales a que pudiera ser acreedor.
+Cuando una persona dentro del territorio del Estado se ostente como pasante, titulado o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 9°, no tendrá derecho a cobrar por concepto de sueldo u honorarios, y se le impondrá además una multa de cien a trescientas veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción. Lo anterior sin perjuicio de las responsabilidades civiles y penales a que pudiera ser acreedor.
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 95.
 
-Al profesionista que ejerza en el Estado cualquiera de las profesiones a que se refiere el artículo 9°, sin haber obtenido su cédula profesional, se le amonestará por escrito la primera vez, con apercibimiento de multa si dentro de los treinta días posteriores a la notificación de la amonestación no tramita la expedición de dicha cédula ante la Dirección. La multa será de treinta a sesenta salarios mínimos generales vigentes en el lugar de la comisión de la infracción.
+Al profesionista que ejerza en el Estado cualquiera de las profesiones a que se refiere el artículo 9°, sin haber obtenido su cédula profesional, se le amonestará por escrito la primera vez, con apercibimiento de multa si dentro de los treinta días posteriores a la notificación de la amonestación no tramita la expedición de dicha cédula ante la Dirección. La multa será de treinta a sesenta veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción.
 
 Una vez impuesta y notificada la multa a que se refiere el párrafo anterior, en caso de que el profesionista continúe ejerciendo la actividad profesional sin haber obtenido su cédula profesional, podrá solicitar a la Dirección una prórroga de treinta días para tramitarla. En el supuesto de que el profesionista no solicite el plazo señalado anteriormente o incumpla en tramitar la cédula en dicho periodo, se le impondrá otra multa de hasta el doble de la impuesta establecida en el párrafo anterior.
 
 Si el reincidente no tramita la expedición de su cédula profesional en el plazo señalado en el párrafo que antecede, la Dirección podrá imponerle además, la prohibición para ejercer su profesión en el Estado de seis a dieciocho meses.
 
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 96.
 
-Cuando se compruebe que existe falsedad en los documentos que los profesionistas hayan presentado para su registro ante la Dirección a efecto de obtener la cédula profesional, se efectuará la cancelación del trámite y de ser el caso se revocará la autorización para el ejercicio profesional, independientemente de las sanciones penales a las que se haga acreedor. Además se le impondrá por parte de la Dirección, una multa de doscientos a trescientos salarios mínimos generales vigentes en la capital del Estado.
+Cuando se compruebe que existe falsedad en los documentos que los profesionistas hayan presentado para su registro ante la Dirección a efecto de obtener la cédula profesional, se efectuará la cancelación del trámite y de ser el caso se revocará la autorización para el ejercicio profesional, independientemente de las sanciones penales a las que se haga acreedor. Además se le impondrá por parte de la Dirección, una multa de doscientas a trescientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.
 
 En este supuesto, la Dirección deberá de interponer la denuncia de hecho correspondiente ante el Ministerio Público.
 
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 97.
 
-El profesionista que, perteneciendo a algún colegio de profesionistas debidamente reconocido y registrado por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por más de tres ocasiones, se le impondrá una multa de treinta a sesenta salarios mínimos generales vigentes en el lugar de la comisión de la infracción. La misma sanción se impondrá a quienes no perteneciendo a alguna agrupación de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.
+El profesionista que, perteneciendo a algún colegio de profesionistas debidamente reconocido y registrado por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por más de tres ocasiones, se le impondrá una multa de treinta a sesenta veces el valor de la Unidad de Medida y Actualización vigente en el lugar de la comisión de la infracción. La misma sanción se impondrá a quienes no perteneciendo a alguna agrupación de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.
 
 ###### Artículo 98.
 
 La Dirección podrá suspender el ejercicio profesional y aplicar multa al profesionista involucrado, en materia de certificación profesional, por los siguientes casos:
 
-I. Se compruebe que existe falsedad en los documentos que presenten ante los colegios de profesionistas, la Dirección o los entes certificadores a efecto de obtener la certificación. En tal caso, la suspensión será de seis meses a un año, y la multa impuesta será de cien a doscientos salarios mínimos generales vigentes en la capital del Estado;
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Presente para su registro ante la Dirección constancias de certificación falsas. En tal caso, la suspensión será de seis a dieciocho meses y una multa de doscientos a trescientos salarios mínimos generales vigentes en la capital del Estado; o
+I. Se compruebe que existe falsedad en los documentos que presenten ante los colegios de profesionistas, la Dirección o los entes certificadores a efecto de obtener la certificación. En tal caso, la suspensión será de seis meses a un año, y la multa impuesta será de cien a doscientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado;
 
-III. Ejerza la actividad profesional sin contar con la certificación que corresponda. En tal caso, la suspensión será de seis a dieciocho meses, y una multa impuesta de doscientos a trescientos salarios mínimos generales vigentes en el Estado.
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Presente para su registro ante la Dirección constancias de certificación falsas. En tal caso, la suspensión será de seis a dieciocho meses y una multa de doscientas a trescientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado; o
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+III. Ejerza la actividad profesional sin contar con la certificación que corresponda. En tal caso, la suspensión será de seis a dieciocho meses, y una multa impuesta de doscientas a trescientas veces el valor de la Unidad de Medida y Actualización vigente en el Estado.
 
 ###### Artículo 99.
 
@@ -1119,9 +1143,11 @@ I. Por sentencia ejecutoriada que inhabilite permanentemente a un profesionista 
 
 II. Por reincidir en alguna de las conductas identificadas en las fracciones I, II y III del artículo anterior.
 
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 100.
 
-Queda prohibido el uso de la expresión "Colegio" y "de Jalisco" a las asociaciones de profesionistas que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de cinco años el funcionamiento de colegio de profesionista alguno y se les impondrá una multa de doscientos a quinientos salarios mínimos generales vigentes en la capital del Estado.
+Queda prohibido el uso de la expresión "Colegio" y "de Jalisco" a las asociaciones de profesionistas que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de cinco años el funcionamiento de colegio de profesionista alguno y se les impondrá una multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.
 
 ###### Artículo 101.
 
@@ -1131,9 +1157,11 @@ Toda amonestación, multa, suspensión o inhabilitación, así como la duración
 
 La inscripción de las sanciones a que se refiere el artículo anterior sólo podrá ser cancelada por sentencia ejecutoriada que así lo disponga o a solicitud del profesionista previo cumplimiento de la sanción.
 
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 103.
 
-Se impondrá multa de trescientos a seiscientos salarios mínimos generales vigentes en la capital del Estado a la institución educativa que debiendo inscribirse en el Registro, no lo hiciere, a pesar de haber recibido dos extrañamientos públicos por parte de la Dirección.
+Se impondrá multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado a la institución educativa que debiendo inscribirse en el Registro, no lo hiciere, a pesar de haber recibido dos extrañamientos públicos por parte de la Dirección.
 
 ###### Artículo 104.
 
@@ -1145,21 +1173,29 @@ II. No cumplir con las obligaciones establecidas en la presente ley; o
 
 III. No cumplir, en perjuicio de alguno de sus colegiados, con alguna de las disposiciones contenidas en sus estatutos.
 
-En caso de una primera reincidencia, se impondrá multa de cien a trescientos salarios mínimos generales vigentes en la capital del Estado.
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+En caso de una primera reincidencia, se impondrá multa de cien a trescientas veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.
 
 En cada una de las reincidencias subsecuentes, se impondrá multa equivalente al doble de la sanción impuesta.
 
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 105.
 
-A la persona física que en representación de una asociación de profesionistas, federación o asociación de colegios de profesionistas, pretenda obtener su registro como colegio de profesionistas, federación o asociación de colegios, presente documentación falsa para tales propósitos, se le impondrá multa de quinientos a mil salarios mínimos generales vigentes en la capital del Estado.
+A la persona física que en representación de una asociación de profesionistas, federación o asociación de colegios de profesionistas, pretenda obtener su registro como colegio de profesionistas, federación o asociación de colegios, presente documentación falsa para tales propósitos, se le impondrá multa de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado.
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 106.
 
-Cuando de manera ulterior la autoridad competente constate, de oficio o a petición de parte, que para obtener la autorización para operar como colegio de profesionistas, se utilizó documentación falsa, se impondrá multa de mil a dos mil salarios mínimos generales vigentes en la capital del Estado y se procederá a la cancelación definitiva de dicha autorización.
+Cuando de manera ulterior la autoridad competente constate, de oficio o a petición de parte, que para obtener la autorización para operar como colegio de profesionistas, se utilizó documentación falsa, se impondrá multa de mil a dos mil veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado y se procederá a la cancelación definitiva de dicha autorización.
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 107.
 
-Cuando para obtener la renovación de la autorización para operar como colegio de profesionistas, federación o asociación de colegios de profesionistas, se utilice documentación falsa, la Dirección de oficio o a petición de parte, procederá a imponer una multa de dos mil a tres mil salarios mínimos generales vigentes en la capital del Estado al colegio correspondiente, al que además se le cancelará de manera definitiva su autorización.
+Cuando para obtener la renovación de la autorización para operar como colegio de profesionistas, federación o asociación de colegios de profesionistas, se utilice documentación falsa, la Dirección de oficio o a petición de parte, procederá a imponer una multa de dos mil a tres mil veces el valor de la Unidad de Medida y Actualización vigente en la capital del Estado al colegio correspondiente, al que además se le cancelará de manera definitiva su autorización.
 
 ### Capítulo II. Del Procedimiento de Ejecución de las Infracciones Administrativas
 
@@ -1260,3 +1296,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+
+F. DE E., P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
