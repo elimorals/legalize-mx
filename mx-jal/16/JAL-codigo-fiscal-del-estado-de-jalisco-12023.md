@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2014-12-25"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -305,7 +307,7 @@ Son facultades de las autoridades fiscales:
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-l. Practicar auditorías en el domicilio de los sujetos pasivos, de los responsables solidarios y de los responsables objetivos; revisar su contabilidad, libros, documentos y correspondencia que tengan relación con las obligaciones fiscales, así como los estados de cuenta bancarios o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente, y en su caso asegurarlos dejando en calidad de depositario al auditado, previo inventario que al efecto se formule;
+I. Practicar auditorías en el domicilio de los sujetos pasivos, de los responsables solidarios y de los responsables objetivos; revisar su contabilidad, libros, documentos y correspondencia que tengan relación con las obligaciones fiscales, así como los estados de cuenta bancarios o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente, y en su caso asegurarlos dejando en calidad de depositario al auditado, previo inventario que al efecto se formule;
 
 II. Proceder a la verificación física, clasificación y valuación de toda clase de bienes;
 
@@ -315,7 +317,9 @@ III. Solicitar de los servidores públicos, de los fedatarios, de los sujetos pa
 
 IV. Emplear cualquiera de los siguientes medios de apremio para hacer cumplir sus determinaciones:
 
-a) La multa de 20 a 40 días de salario mínimo general vigente en la zona económica de Guadalajara, la cual se duplicará en caso de reincidencia;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+a) La multa de 20 a 40 veces el valor diario de la Unidad de Medida y Actualización, la cual se duplicará en caso de reincidencia;
 
 b) El auxilio de la fuerza pública; y
 
@@ -673,7 +677,7 @@ Los servidores públicos, que en ejercicio de sus funciones conozcan los hechos 
 
 Las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, así como para imponer sanciones por infracciones a las disposiciones fiscales, se extinguen en el término de cinco años. Dicho término empezará a correr a partir:
 
-l. Al día siguiente en que se presentó la declaración, aviso o manifestación correspondiente a que se refieren las disposiciones fiscales. Cuando se presenten declaraciones complementarias, el término empezará a computarse a partir del día siguiente a aquél en que se presentan;
+I. Al día siguiente en que se presentó la declaración, aviso o manifestación correspondiente a que se refieren las disposiciones fiscales. Cuando se presenten declaraciones complementarias, el término empezará a computarse a partir del día siguiente a aquél en que se presentan;
 
 II. Al día siguiente al en que debió hacerse el pago del impuesto, derecho o aprovechamiento, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
 
@@ -999,7 +1003,7 @@ Cuando deban ser nulificadas, será necesario promover juicio ante el Tribunal d
 
 Los sujetos que de acuerdo con las disposiciones fiscales estén obligados a llevar contabilidad, estarán a lo siguiente:
 
-l. La contabilidad, para efectos fiscales, se integra por los libros, sistemas y registros contables, papeles de trabajo, estados de cuenta bancarios, cuentas especiales, libros y registros sociales, control de inventarios y método de valuación, discos y cintas o cualquier otro medio procesable de almacenamiento de datos, los equipos o sistemas electrónicos de registro fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos, así como toda la documentación e información relacionada con el cumplimiento de las disposiciones fiscales, la que acredite sus ingresos y erogaciones, y la que obliguen otras leyes;
+I. La contabilidad, para efectos fiscales, se integra por los libros, sistemas y registros contables, papeles de trabajo, estados de cuenta bancarios, cuentas especiales, libros y registros sociales, control de inventarios y método de valuación, discos y cintas o cualquier otro medio procesable de almacenamiento de datos, los equipos o sistemas electrónicos de registro fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos, así como toda la documentación e información relacionada con el cumplimiento de las disposiciones fiscales, la que acredite sus ingresos y erogaciones, y la que obliguen otras leyes;
 
 II. Los registros de contabilidad en los libros fiscales deberán correrse, de acuerdo con los principios de contabilidad generalmente aceptados, dentro del mes siguiente a la fecha en que se realicen las operaciones que los originen, sin incurrir en alteraciones, borraduras o enmendaduras; y
 
@@ -1011,7 +1015,7 @@ Los registros o asientos que integran la contabilidad podrán llevarse en forma 
 
 Artículo 60 A.- Los sistemas y registros contables deberán satisfacer como mínimo los requisitos que permitan:
 
-l. Identificar cada operación, acto o actividad y sus características, relacionándolas con la documentación comprobatoria, de tal forma que aquéllos puedan identificarse con las distintas contribuciones, tasa y cuotas, incluyendo las actividades liberadas de pago por las disposiciones aplicables;
+I. Identificar cada operación, acto o actividad y sus características, relacionándolas con la documentación comprobatoria, de tal forma que aquéllos puedan identificarse con las distintas contribuciones, tasa y cuotas, incluyendo las actividades liberadas de pago por las disposiciones aplicables;
 
 II. Relacionar cada operación, acto o actividad con los saldos que den como resultado las cifras finales de las cuentas;
 
@@ -1065,9 +1069,11 @@ g) Cantidad y clase de mercancías, o descripción del servicio que amparen;
 
 II. Cuando se utilice únicamente máquina registradora y se expida una fracción de la tira como comprobante, dicho comprobante deberá contener los requisitos mencionados en la fracción I de este artículo;
 
-III. Cuando no se utilice máquina registradora, o ésta no expida comprobante al cliente y el monto de la operación sea superior a dos días de salario mínimo, la expedición de comprobantes fiscales o notas de ventas con los requisitos mencionados en la fracción I, será obligatoria.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-Por las operaciones hasta de dos días de salario mínimo, en las que no se hayan expedido comprobantes fiscales, se deberá formular una nota de venta o comprobante global;
+III. Cuando no se utilice máquina registradora, o ésta no expida comprobante al cliente y el monto de la operación sea superior a dos veces el valor diario de la Unidad de Medida y Actualización, la expedición de comprobantes fiscales o notas de ventas con los requisitos mencionados en la fracción I, será obligatoria.
+
+Por las operaciones hasta de dos veces el valor diario de la Unidad de Medida y Actualización, en las que no se hayan expedido comprobantes fiscales, se deberá formular una nota de venta o comprobante global;
 
 IV. Los comprobantes fiscales o notas de venta deberán expedirse cuando menos por duplicado y deberán conservarse las copias en orden numérico sin interrupción;
 
@@ -1323,9 +1329,11 @@ Procederá la cancelación de los créditos fiscales:
 
 I. Cuando los sujetos de crédito sean declarados insolventes, previa comprobación de esta circunstancia por la Secretaría de Planeación, Administración y Finanzas y previo acuerdo de la misma debidamente fundado; y
 
-II. Cuando su importe sea menor de tres salarios mínimos diarios vigentes en la zona económica de Guadalajara, y no se paguen espontáneamente dentro de los noventa días siguientes a la fecha en que la oficina de recaudación fiscal haya exigido el pago.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-Si existen varios créditos fiscales menores a tres salarios mínimos diarios, vigentes en la zona económica de Guadalajara, a cargo de un solo deudor, se acumularán para los efectos de su cobro.
+II. Cuando su importe sea menor de tres veces el valor diario de la Unidad de Medida y Actualización, y no se paguen espontáneamente dentro de los noventa días siguientes a la fecha en que la oficina de recaudación fiscal haya exigido el pago.
+
+Si existen varios créditos fiscales menores a tres veces el valor diario de la Unidad de Medida y Actualización, a cargo de un solo deudor, se acumularán para los efectos de su cobro.
 
 ###### Artículo 83.
 
@@ -1357,13 +1365,17 @@ La Secretaría de Planeación, Administración y Finanzas rectificará, en cualq
 
 Cuando la situación económica de los contribuyentes sea insuficiente para pagar en su totalidad, los impuestos, derechos, recargos y multas que adeuden, el Gobernador del Estado por conducto de la Secretaría de Planeación, Administración y Finanzas, podrá celebrar convenio con aquellos, respecto del pago de dichos créditos fiscales, mismos que se suscribirán en los términos que fije el Gobernador, de acuerdo a la legislación común y del presente Código.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 88.
 
-Procederá la cancelación de los créditos fiscales por insolvencia cuando su importe sea menor de 100 días de salario mínimo general vigente en el Municipio de Guadalajara y no se pague dentro de los noventa días siguientes a la fecha en que la Oficina de Recaudación Fiscal haya exigido el pago.
+Procederá la cancelación de los créditos fiscales por insolvencia cuando su importe sea menor de 100 veces el valor diario de la Unidad de Medida y Actualización y no se pague dentro de los noventa días siguientes a la fecha en que la Oficina de Recaudación Fiscal haya exigido el pago.
 
-Sólo se aplicará esta regla, cuando se trate de un solo crédito fiscal a cargo de un solo deudor. Si existieran varios créditos menores a los 100 días de salarios mínimos generales vigentes en el Municipio de Guadalajara, a cargo de un solo deudor, procederá la acumulación de los mismos, para los efectos del cobro y por ellos, no se aplicará la insolvencia.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Sólo se aplicará esta regla, cuando se trate de un solo crédito fiscal a cargo de un solo deudor. Si existieran varios créditos menores a 100 veces el valor diario de la Unidad de Medida y Actualización, a cargo de un solo deudor, procederá la acumulación de los mismos, para los efectos del cobro y por ellos, no se aplicará la insolvencia.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 El Secretario de Planeación, Administración y Finanzas y el Sub Secretario de Finanzas podrán autorizar cancelaciones de créditos fiscales, por cantidades mayores de manera discrecional, tomando en cuenta las causas que lo justifiquen.
 
@@ -1527,7 +1539,7 @@ En cada infracción de las señaladas en este Código o en las leyes de carácte
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
-l. Las autoridades fiscales al imponer las sanciones que correspondan, tomarán en cuenta la importancia de la infracción, la reincidencia en la comisión de infracciones, si es conducta agravada, las condiciones del contribuyente y la conveniencia de destruir prácticas establecidas, tanto para evadir el pago de créditos fiscales, como para infringir en cualquier otra forma las disposiciones legales o reglamentarias;
+I. Las autoridades fiscales al imponer las sanciones que correspondan, tomarán en cuenta la importancia de la infracción, la reincidencia en la comisión de infracciones, si es conducta agravada, las condiciones del contribuyente y la conveniencia de destruir prácticas establecidas, tanto para evadir el pago de créditos fiscales, como para infringir en cualquier otra forma las disposiciones legales o reglamentarias;
 
 II. La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones;
 
@@ -1563,75 +1575,109 @@ XI. Cuando las multas impuestas por las autoridades fiscales, se paguen dentro d
 
 Son infracciones cuya responsabilidad recae sobre los sujetos pasivos, de un crédito fiscal, las que a continuación se indican, debiéndose aplicar las sanciones siguientes:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-I. No cumplir con las obligaciones que señalan las leyes fiscales, de inscribirse o registrarse ante el Registro Estatal de Contribuyentes o ante cualquier padrón a que se encuentren obligados los sujetos pasivos en términos de las leyes respectivas, o hacerlo fuera de los plazos legales; multa de 15 a 100 días de salario mínimo general, vigente en el Municipio de Guadalajara.
+I. No cumplir con las obligaciones que señalan las leyes fiscales, de inscribirse o registrarse, ante el Registro Estatal de Contribuyentes o ante cualquier padrón a que se encuentren obligados los sujetos pasivos en términos de las leyes respectivas, o hacerlo fuera de los plazos legales; multa de 15 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-I. BIS No incluir en las manifestaciones para su inscripción al Registro Estatal de Contribuyentes todas las actividades por las que sea contribuyente habitual, o no expresar su número de registro estatal, en las declaraciones, manifestaciones, promociones solicitudes o gestiones que hagan ante cualquier oficina o autoridad, multa de 5 a 10 días de salario mínimo general, vigente en el Municipio de Guadalajara.
+I. BIS. No incluir en las manifestaciones para su inscripción al Registro Estatal de Contribuyentes todas las actividades por las que sea contribuyente habitual, o no expresar su número de registro estatal, en las declaraciones, manifestaciones, promociones solicitudes o gestiones que hagan ante cualquier oficina o autoridad, multa de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Manifestar, mediante interpósita persona, negociaciones propias, o recibir ingresos gravables, dejando de pagar total o parcialmente los impuestos correspondientes, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-III. No obtener oportunamente los permisos, comprobantes de registro, libros, resellos o cualquier otro documento exigido por las leyes fiscales; no tenerlos en los lugares señalados, o no devolverlos oportunamente dentro del plazo establecido, multas de 2 a 20 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+II. Manifestar, mediante interpósita persona, negociaciones propias, o recibir ingresos gravables, dejando de pagar total o parcialmente los impuestos correspondientes, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Iniciar cualquier actividad económica sin cumplir con los requisitos exigidos por las distintas leyes fiscales, multas de 1 a 10 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-V. No llevar los libros de contabilidad que requieran las leyes fiscales; llevarlos en forma distinta a como éstas establezcan; no hacer los registros correspondientes a las operaciones efectuadas o hacerlos incompletos, inexactos o fuera de los plazos respectivos, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+III. No obtener oportunamente los permisos, comprobantes de registro, libros, resellos o cualquier otro documento exigido por las leyes fiscales; no tenerlos en los lugares señalados, o no devolverlos oportunamente dentro del plazo establecido, multas de 1 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Llevar doble juego de libros, multas de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VII. Hacer, mandar hacer o permitir, en su contabilidad, anotaciones, registros, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar, en perjuicio del fisco, cualquiera anotación, registro o constancia hecha en la contabilidad; o mandar o consentir que hagan esas alteraciones, raspaduras o tachaduras, multas de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+IV. Iniciar cualquier actividad económica sin cumplir con los requisitos exigidos por las distintas leyes fiscales, multas de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, cuando no haya transcurrido el plazo de 5 años, multas de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IX. No presentar o hacerlo de manera extemporánea, los libros, boletos, billetes y contraseñas o sistemas de contabilidad, para su autorización o resello, cuando así lo exijan las leyes fiscales, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+V. No llevar los libros de contabilidad que requieran las leyes fiscales; llevarlos en forma distinta a como éstas establezcan; no hacer los registros correspondientes a las operaciones efectuadas o hacerlos incompletos, inexactos o fuera de los plazos respectivos, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-X. No devolver oportunamente, a las autoridades, los comprobantes de pago de las obligaciones fiscales, cuando lo exijan las leyes relativas, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XI. Faltar a la obligación de expedir recibos, comprobantes fiscales, notas de venta o cualesquiera otros documentos que señalen las leyes fiscales, o expedirlos, sin que reúnan los requisitos correspondientes; no exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que, de acuerdo con las leyes fiscales, deban constar en esa forma, multa de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+VI. Llevar doble juego de libros, multas de 20 a 200 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XII. No presentar, o hacer extemporáneamente, los avisos, declaraciones, contratos, solicitudes, datos, informes, copias, libros o documentos que exijan las leyes fiscales, así como no presentarlos o aclararlos, cuando las autoridades fiscales lo soliciten, multa de 10 a 100 días de salario mínimo general, vigente en el Municipio de Guadalajara; tratándose de la no presentación o presentación extemporánea de declaraciones o avisos exigidos por las disposiciones fiscales, la multa se impondrá por cada declaración o aviso no presentado o presentado en forma extemporánea;
+VII. Hacer, mandar hacer o permitir, en su contabilidad, anotaciones, registros, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar, en perjuicio del fisco, cualquiera anotación, registro o constancia hecha en la contabilidad; o mandar o consentir que hagan esas alteraciones, raspaduras o tachaduras, multas de 20 a 200 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XII BIS. No presentar o hacerlo extemporáneamente, el aviso de cambio de domicilio o de propietario en el padrón de vehículos a que se refiere el artículo 70 fracción II último párrafo de la Ley de Hacienda del Estado de Jalisco, multa de 20 a 50 días de salario mínimo general vigente en el Municipio de Guadalajara. La multa tendrá carácter incondonable.
+VIII. Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, cuando no haya transcurrido el plazo de 5 años, multas de 20 a 200 veces el valor diario de la Unidad de Medida y Actualización;
 
-XIII. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de un crédito fiscal, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara; cuando no pueda precisarse el monto del crédito fiscal omitido. De lo contrario, la multa será hasta de tres tantos del importe de dicha contribución;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XIV. Presentar los avisos, declaraciones, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+IX. No presentar o hacerlo de manera extemporánea, los libros, boletos, billetes y contraseñas o sistemas de contabilidad, para su autorización o resello, cuando así lo exijan las leyes fiscales, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-XV. Declarar ingresos menores de los percibidos; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las leyes fiscales, o hacerlo fuera de los plazos que éstas dispongan, multa por el equivalente de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XVI. No pagar en forma total o parcial los impuestos o derechos en los plazos señalados por las leyes fiscales, con multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+X. No devolver oportunamente, a las autoridades, los comprobantes de pago de las obligaciones fiscales, cuando lo exijan las leyes relativas, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-XVII. Evadir el pago de las obligaciones fiscales, como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, o beneficiarse de un estímulo fiscal, sin tener derecho a ello, multa por el equivalente de 20 a 200 días de salario mínimo general, vigente en la zona económica de Guadalajara, cuando no pueda precisarse el monto del crédito fiscal omitido o del estímulo fiscal indebidamente aprovechado. De lo contrario, la multa será hasta de tres tantos del importe de dicha contribución, o estímulo fiscal;
+(REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+XI. Faltar a la obligación de expedir recibos, comprobantes fiscales, notas de venta o cualesquiera otros documentos que señalen las leyes fiscales, o expedirlos sin que reúnan los requisitos correspondientes; no exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que, de acuerdo con las leyes fiscales, deban constar en esa forma, multa de 20 a 200 veces el valor diario de la Unidad de Medida y Actualización;
 
-XVIII. Oponerse, por cualquier medio, al ejercicio de facultades de comprobación previstas en el artículo 26 de este Código; no proporcionar alguno de los datos, libros, registros que formen parte de la contabilidad, informes o documentos que legalmente puedan exigir los auditores; no mostrar los libros de contabilidad, documentos, registros, o impedir el acceso a los almacenes, depósitos, bodegas, oficinas o cualquiera otra dependencia y, en general, negarse a proporcionar alguno de los documentos o elementos que se requieran para comprobar la situación fiscal del auditado, en relación con el objeto de la revisión o auditoría, multas de 150 a 300 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XIX. No presentar ante las autoridades fiscales, cuando éstas lo soliciten, los comprobantes fiscales, recibos, nota de venta y otros comprobantes de las compras efectuadas, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara; y
+XII. No presentar, o hacer extemporáneamente, los avisos, declaraciones, contratos, solicitudes, datos, informes, copias, libros o documentos que exijan las leyes fiscales, así como no presentarlos o aclararlos, cuando las autoridades fiscales lo soliciten, multa de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización; tratándose de la no presentación o presentación extemporánea de declaraciones o avisos exigidos por las disposiciones fiscales, la multa se impondrá por cada declaración o aviso no presentado o presentado en forma extemporánea;
 
-XX. Ejercer el comercio sin cumplir con los requisitos que establecen las leyes fiscales, multas de 10 a 100 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+XII BIS. No presentar o hacerlo extemporáneamente, el aviso de cambio de domicilio o de propietario en el padrón de vehículos a que se refiere el artículo 70 fracción II último párrafo de la Ley de Hacienda del Estado de Jalisco, multa de 20 a 50 veces el valor diario de la Unidad de Medida y Actualización. La multa tendrá carácter incondonable;
 
-XXI. Presentar los avisos, declaraciones, contratos, solicitudes, datos e informes, que exijan las leyes fiscales; con datos incompletos o erróneos, multas de 3 a 15 días de salario mínimo general, vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+XIII. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de un crédito fiscal, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización; cuando no pueda precisarse el monto del crédito fiscal omitido. De lo contrario, la multa será hasta de tres tantos del importe de dicha contribución;
 
-XXII. Señalar como domicilio para efectos del registro estatal de contribuyentes, un lugar distinto al que corresponda conforme a este Código o leyes fiscales, multa de 20 a 50 días de salario mínimo general, vigente en el Municipio de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+XIV. Presentar los avisos, declaraciones, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-XXIII. No presentar las declaraciones de entero de retenciones a que obligan las disposiciones legales correspondientes o hacerlo a requerimiento de la autoridad, por cada una, multa de 50 a 100 días de salario mínimo general vigente en el Municipio de Guadalajara; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+XV. Declarar ingresos menores de los percibidos; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las leyes fiscales, o hacerlo fuera de los plazos que éstas dispongan, multa por el equivalente de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-XXIV. No proporcionar información solicitada por las autoridades fiscales, respecto de retenciones a que obligan las disposiciones fiscales, multa de 50 a 100 días de salario mínimo general vigente en el Municipio de Guadalajara.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVI. No pagar en forma total o parcial los impuestos o derechos en los plazos señalados por las leyes fiscales, con multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVII. Evadir el pago de las obligaciones fiscales, como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, o beneficiarse de un estímulo fiscal, sin tener derecho a ello, multa por el equivalente de 20 a 200 veces el valor diario de la Unidad de Medida y Actualización cuando no pueda precisarse el monto del crédito fiscal omitido o del estímulo fiscal indebidamente aprovechado. De lo contrario, la multa será hasta de tres tantos del importe de dicha contribución, o estímulo fiscal;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVIII. Oponerse, por cualquier medio, al ejercicio de facultades de comprobación previstas en el artículo 26 de este Código; no proporcionar alguno de los datos, libros, registros que formen parte de la contabilidad, informes o documentos que legalmente puedan exigir los auditores; no mostrar los libros de contabilidad, documentos, registros, o impedir el acceso a los almacenes, depósitos, bodegas, oficinas o cualquiera otra dependencia y, en general, negarse a proporcionar alguno de los documentos o elementos que se requieran para comprobar la situación fiscal del auditado, en relación con el objeto de la revisión o auditoría, multas de 150 a 300 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XIX. No presentar ante las autoridades fiscales, cuando éstas lo soliciten, los comprobantes fiscales, recibos, nota de venta y otros comprobantes de las compras efectuadas, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XX. Ejercer el comercio sin cumplir con los requisitos que establecen las leyes fiscales, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXI. Presentar los avisos, declaraciones, contratos, solicitudes, datos e informes, que exijan las leyes fiscales; con datos incompletos o erróneos, multas de 3 a 15 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXII. Señalar como domicilio para efectos del registro estatal de contribuyentes, un lugar distinto al que corresponda conforme a este Código o leyes fiscales, multa de 20 a 50 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXIII. No presentar las declaraciones de entero de retenciones a que obligan las disposiciones legales correspondientes o hacerlo a requerimiento de la autoridad, por cada una, multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXIV. No proporcionar información solicitada por las autoridades fiscales, respecto de retenciones a que obligan las disposiciones fiscales, multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -1641,27 +1687,49 @@ Artículo 108 A.- Cuando la comisión de una o varias infracciones origine la om
 
 Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros públicos, notarios, corredores y en general a los servidores que certifican y dan fe pública, las que a continuación se indican, debiendo aplicarse las sanciones correspondientes:
 
-I. No hacer la manifestación de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fe o efectuarla sin sujetarse a lo previsto por las leyes fiscales, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes por cada una, multas de 10 a 100 días de salario mínimo general vigente en la zona económica de Guadalajara;
+I. No hacer la manifestación de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fe o efectuarla sin sujetarse a lo previsto por las leyes fiscales, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. No consignar a las autoridades fiscales los documentos que se les presenten cuando no estén pagados los impuestos correspondientes, por cada una, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV. No expedir las notas de liquidación de alguna contribución fiscal, o expedirlas en forma que dé lugar a evasión parcial o total del gravamen, por cada una, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+II. Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes por cada una, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la ley, sin cerciorarse previamente de que están al corriente de las obligaciones fiscales, relacionadas con éstos, por cada uno, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VI. Inscribir o registrar documentos, instrumentos o libros que carezcan de la comprobación o constancia de haberse pagado los gravámenes correspondientes, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+III. No consignar a las autoridades fiscales los documentos que se les presenten cuando no estén pagados los impuestos correspondientes, por cada una, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. No proporcionar, o presentar incompletos los informes o datos, o no exhibir documentos cuando deban hacerlo en el plazo que fijen las leyes fiscales, o cuando lo exijan las autoridades competentes, multas de 5 a 50 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VIII. Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multas de 10 a 100 días de salario mínimo general vigente en la zona económica de Guadalajara;
+IV. No expedir las notas de liquidación de alguna contribución fiscal, o expedirlas en forma que dé lugar a evasión parcial o total del gravamen, por cada una, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-IX. Extender constancia de haber cumplido con las obligaciones fiscales en los actos en que intervenga, cuando no proceda su otorgamiento, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-X. Cooperar o facilitar a los infractores, en cualquier forma la omisión total o parcial de gravámenes, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara; y
+V. Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la ley, sin cerciorarse previamente de que están al corriente de las obligaciones fiscales, relacionadas con éstos, por cada uno, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-XI. No enterar, dentro del plazo legal, los créditos fiscales correspondientes a los actos en que intervengan, multa de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VI. Inscribir o registrar documentos, instrumentos o libros que carezcan de la comprobación o constancia de haberse pagado los gravámenes correspondientes, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VII. No proporcionar, o presentar incompletos los informes o datos, o no exhibir documentos cuando deban hacerlo en el plazo que fijen las leyes fiscales, o cuando lo exijan las autoridades competentes, multas de 5 a 50 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VIII. Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX. Extender constancia de haber cumplido con las obligaciones fiscales en los actos en que intervenga, cuando no proceda su otorgamiento, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+X. Cooperar o facilitar a los infractores, en cualquier forma la omisión total o parcial de gravámenes, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XI. No enterar, dentro del plazo legal, los créditos fiscales correspondientes a los actos en que intervengan, multa de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización.
 
 XII. El Notario, Corredor o servidor público, podrá librarse de la sanción, dando aviso de la celebración del acto, dentro del plazo, para que la autoridad fiscal, proceda a la ejecución;
 
@@ -1669,81 +1737,141 @@ XII. El Notario, Corredor o servidor público, podrá librarse de la sanción, d
 
 Son infracciones cuya responsabilidad corresponde a los servidores públicos, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-I. Dar entrada o curso, a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las leyes fiscales y en general no cuidar el cumplimiento de las mismas. Multas de 5 a 50 días de salario mínimo general vigente en la zona económica de Guadalajara.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. Dar entrada o curso, a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las leyes fiscales y en general no cuidar el cumplimiento de las mismas. Multas de 5 a 50 veces el valor diario de la Unidad de Medida y Actualización;
 
 Esta sanción se aplicará, aún cuando los servidores públicos no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo;
 
-II. Extender actas, expedir certificados, legalizar firmas, autorizar documentos o libros e inscribirlos o registrarlos, sin que exista constancia de pago de los créditos fiscales correspondientes, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-III. Recibir el pago de un crédito fiscal y no contabilizar o enterar su importe en el plazo legal, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+II. Extender actas, expedir certificados, legalizar firmas, autorizar documentos o libros e inscribirlos o registrarlos, sin que exista constancia de pago de los créditos fiscales correspondientes, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las leyes fiscales, o presentarlos incompletos o inexactos; y no prestar auxilio a las autoridades fiscales para la determinación y cobro de las contribuciones fiscales, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-V. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+III. Recibir el pago de un crédito fiscal y no contabilizar o enterar su importe en el plazo legal, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Alterar documentos fiscales que tengan en su poder, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VII. Asentar falsamente que se ha dado cumplimiento a las leyes fiscales o que se practicaron revisiones o auditorías, o incluir, en las actas relativas, datos falsos, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+IV. No presentar ni proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las leyes fiscales, o presentarlos incompletos o inexactos; y no prestar auxilio a las autoridades fiscales para la determinación y cobro de las contribuciones fiscales, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. No practicar la revisión o auditorías cuando tengan obligación de hacerlo, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IX. Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las leyes fiscales, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+V. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-X. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XI. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento; cooperar en cualquier forma para evadir el pago de las contribuciones fiscales, multas de 5 a 50 días de salario mínimo general vigente en la zona económica de Guadalajara;
+VI. Alterar documentos fiscales que tengan en su poder, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XII. Resistirse por cualquier medio a las visitas de inspección o auditorías, o no suministrar los datos, informes que legalmente puedan exigir los inspectores, visitadores o auditores, multa de 10 a 100 días de salario mínimo general vigente en la Zona Metropolitana de Guadalajara;
+VII. Asentar falsamente que se ha dado cumplimiento a las leyes fiscales o que se practicaron revisiones o auditorías, o incluir, en las actas relativas, datos falsos, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-XIII. Exigir o recibir bajo cualquier título, el pago por cualquier contribución que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias de su cargo, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XIV. Exigir el pago de las contribuciones fiscales, recaudar, permitir u ordenar que se recaude algún crédito fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+VIII. No practicar la revisión o auditorías cuando tengan obligación de hacerlo, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-XV. Traficar con los documentos o comprobantes de pago de contribuciones fiscales, o hacer uso indebido de ellos, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XVI. Adquirir los bienes objeto de un remate efectuado por el fisco estatal, por sí o por medio de interpósita persona, siempre y cuando estas autoridades sean los jefes de las oficinas ejecutoras o las encargadas de llevar a cabo el procedimiento administrativo de ejecución, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara; y
+IX. Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las leyes fiscales, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-XVII. Otorgar beneficios o estímulos fiscales a los contribuyentes, sin estar legalmente facultado para ello, multa de 10 a 100 días de salario mínimo general vigente en la zona económica de Guadalajara, a menos que los hechos constituyan delito, en cuyo caso, se hará la denuncia correspondiente;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2001)</small>
+X. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-XVIII. Realizar ilegalmente notificaciones en forma dolosa o culposa, si como consecuencia de ese dolo o culpa se deja sin efectos la notificación. Multa de una a diez veces el salario mínimo general vigente en la zona económica de Guadalajara.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XI. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento; cooperar en cualquier forma para evadir el pago de las contribuciones fiscales, multas de 5 a 50 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XII. Resistirse por cualquier medio a las visitas de inspección o auditorías, o no suministrar los datos, informes que legalmente puedan exigir los inspectores, visitadores o auditores, multa de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XIII. Exigir o recibir bajo cualquier título, el pago por cualquier contribución que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias de su cargo, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XIV. Exigir el pago de las contribuciones fiscales, recaudar, permitir u ordenar que se recaude algún crédito fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XV. Traficar con los documentos o comprobantes de pago de contribuciones fiscales, o hacer uso indebido de ellos, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVI. Adquirir los bienes objeto de un remate efectuado por el fisco estatal, por sí o por medio de interpósita persona, siempre y cuando estas autoridades sean los jefes de las oficinas ejecutoras o las encargadas de llevar a cabo el procedimiento administrativo de ejecución, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVII. Otorgar beneficios o estímulos fiscales a los contribuyentes, sin estar legalmente facultado para ello, multa de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización, a menos que los hechos constituyan delito, en cuyo caso, se hará la denuncia correspondiente; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XVIII. Realizar ilegalmente notificaciones en forma dolosa o culposa, si como consecuencia de ese dolo o culpa se deja sin efectos la notificación. Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 111.
 
 Son infracciones cuya responsabilidad corresponde a terceros, las que a continuación se indican, señalándose las sanciones correspondientes:
 
-I. Consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas; percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto traiga como consecuencia la omisión de una obligación fiscal, multa de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por las leyes fiscales, o cuando las autoridades los exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+I. Consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas; percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto traiga como consecuencia la omisión de una obligación fiscal, multa de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Presentar los avisos, informes, datos y documentos a que se refiere la fracción anterior, incompletos o inexactos, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV. Proporcionar los avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+II. No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por las leyes fiscales, o cuando las autoridades los exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Autorizar o hacer constar documentos, inventarios, estados financieros, registros o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VI. Contribuir a la alteración, inscripción de cuentas, registros o datos falsos en los libros de contabilidad o en los documentos que se expidan, o en algún hecho preparatorio de los apuntados, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+III. Presentar los avisos, informes, datos y documentos a que se refiere la fracción anterior, incompletos o inexactos, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Cooperar o participar en cualquier forma, en la comisión de infracciones fiscales, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VIII. Enterar fuera de los plazos que establezcan las disposiciones legales, parcial o totalmente, las contribuciones fiscales retenidas, recaudadas o que debieron retener o recaudar, multa hasta por el equivalente a 20 días de salario mínimo general vigente en la zona económica de Guadalajara, por cada infracción, y los accesorios legales correspondientes.
+IV. Proporcionar los avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial de contribuciones retenidas o que se debieron retener, multa por el equivalente de 10 a 100 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IX. Presentar los documentos relativos al pago de las contribuciones retenidas, alterados, falsificados, incompletos o con errores que conlleven a la evasión parcial o total de las mismas contribuciones, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara, cuando no pueda precisarse el monto de la contribución omitida, en caso contrario hasta tres tantos;
+V. Autorizar o hacer constar documentos, inventarios, estados financieros, registros o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-X. Adquirir, ocultar, enajenar o ser propietario de productos, mercancías o artículos a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se debieran pagar, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XI. Hacer pagos y aceptar documentos que no reúnan los requisitos señalados por las leyes fiscales, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+VI. Contribuir a la alteración, inscripción de cuentas, registros o datos falsos en los libros de contabilidad o en los documentos que se expidan, o en algún hecho preparatorio de los apuntados, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-XII. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una contribución fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las leyes fiscales, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XIII. Impedir, por cualquier medio, la revisión y auditoría, no suministrar los datos e informes que legalmente puedan exigir los auditores; no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del auditado o la de los contribuyentes con quienes hayan efectuado operaciones, en relación con el objeto de la revisión o auditoría, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara; y
+VII. Cooperar o participar en cualquier forma, en la comisión de infracciones fiscales, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
 
-XIV. Traficar con los documentos o comprobantes de pago de créditos fiscales o hacer uso indebido de ellos, multas de 2 a 20 días de salario mínimo general vigente en la zona económica de Guadalajara.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VIII. Enterar fuera de los plazos que establezcan las disposiciones legales, parcial o totalmente, las contribuciones fiscales retenidas, recaudadas o que debieron retener o recaudar, multa hasta por el equivalente a 20 veces el valor diario de la Unidad de Medida y Actualización, por cada infracción, y los accesorios legales correspondientes.
+
+Cuando la comisión de una o varias infracciones origine la omisión total o parcial de contribuciones retenidas o que se debieron retener, multa por el equivalente de 1 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX. Presentar los documentos relativos al pago de las contribuciones retenidas, alterados, falsificados, incompletos o con errores que conlleven a la evasión parcial o total de las mismas contribuciones, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización, cuando no pueda precisarse el monto de la contribución omitida, en caso contrario hasta tres tantos;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+X. Adquirir, ocultar, enajenar o ser propietario de productos, mercancías o artículos a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se debieran pagar, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XI. Hacer pagos y aceptar documentos que no reúnan los requisitos señalados por las leyes fiscales, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XII. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una contribución fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las leyes fiscales, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XIII. Impedir, por cualquier medio, la revisión y auditoría, no suministrar los datos e informes que legalmente puedan exigir los auditores; no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del auditado o la de los contribuyentes con quienes hayan efectuado operaciones, en relación con el objeto de la revisión o auditoría, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XIV. Traficar con los documentos o comprobantes de pago de créditos fiscales o hacer uso indebido de ellos, multas de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización.
 
 #### SECCIÓN PRIMERA. Del Destino de las Multas
 
@@ -2179,9 +2307,9 @@ III. Cualquier otro gasto o erogación que extraordinariamente se efectúe duran
 
 Los gastos de ejecución, se harán efectivos por las oficinas de recaudación fiscal, en su caso, conjuntamente con el crédito fiscal, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-I. Por las notificaciones de requerimientos para el cumplimiento de obligaciones fiscales no cubiertas dentro de los plazos legales, se cobrará, a quien incurrió en el incumplimiento, una cantidad equivalente a seis veces el salario mínimo general vigente en el Municipio de Guadalajara, por cada requerimiento;
+I. Por las notificaciones de requerimientos para el cumplimiento de obligaciones fiscales no cubiertas dentro de los plazos legales, se cobrará, a quien incurrió en el incumplimiento, una cantidad equivalente a seis veces el valor diario de la Unidad de Medida y Actualización, por cada requerimiento;
 
 II. Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las jurídicas estarán obligadas a pagar el 2% por ciento del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
 
@@ -2191,13 +2319,13 @@ b) Por la diligencia de embargo a que se refiere el artículo 134 de este Códig
 
 c) Por la diligencia de remate, enajenación fuera de remate o adjudicación a la Hacienda del Estado.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a seis salarios mínimos generales diarios vigentes en el Municipio de Guadalajara, se cobrará esta cantidad en lugar del 2% del crédito.
+Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a seis veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad en lugar del 2% del crédito.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-En ningún caso, los gastos de ejecución, por cada una de las diligencias a que se refiere esta fracción, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a 1.5 veces el salario mínimo general vigente en el Municipio de Guadalajara, elevado al año; y
+En ningún caso, los gastos de ejecución, por cada una de las diligencias a que se refiere esta fracción, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a 1.5 veces el valor diario de la Unidad de Medida y Actualización, elevado al año; y
 
 III. Se pagarán por concepto de gastos de ejecución, las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte o almacenaje de los bienes embargados, de avalúo, de impresión y publicación de convocatorias y edictos, de inscripción o cancelación de gravámenes en el Registro Público de la Propiedad y del Comercio, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios, peritos e interventores, así como los de las personas que estos últimos contraten.
 
@@ -2265,7 +2393,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la Oficina de Recaudación Fiscal y en los lugares públicos que se juzgue convenientes.
 
-La convocatoria se publicará en el Periódico Oficial del Estado, por una sola vez y dos veces de diez en diez días en uno de los diarios de mayor circulación de la localidad cuando se trate de bienes inmuebles; y tratándose de bienes muebles, cuando el valor de éstos exceda de doscientas veces el salario mínimo general, vigente en la zona económica de Guadalajara.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La convocatoria se publicará en el Periódico Oficial del Estado, por una sola vez y dos veces de diez en diez días en uno de los diarios de mayor circulación de la localidad cuando se trate de bienes inmuebles; y tratándose de bienes muebles, cuando el valor de éstos exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 164.
 
@@ -2329,11 +2459,11 @@ El recaudador fincará el remate en favor de quien hubiere hecho la mejor postur
 
 Si en la última postura se ofrece igual suma por dos o más licitantes, se designará por suerte la que deberá aceptarse.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 172.
 
-Si los bienes rematados exceden en su valor doscientas veces el salario mínimo diario vigente en la zona económica de Guadalajara, la oficina ejecutora, dentro de un plazo de tres días, enviará el expediente a la Secretaría de Planeación, Administración y Finanzas, para que previa revisión, apruebe el remate y si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la oficina ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiese constituido.
+Si los bienes rematados exceden en su valor doscientas veces el valor diario de la Unidad de Medida y Actualización, la oficina ejecutora, dentro de un plazo de tres días, enviará el expediente a la Secretaría de Planeación, Administración y Finanzas, para que previa revisión, apruebe el remate y si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la oficina ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiese constituido.
 
 ###### Artículo 173.
 
@@ -2814,6 +2944,14 @@ P.O. 25 DE DICIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor, al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Las reformas contenidas en este Decreto, se aplicarán a partir de su entrada en vigor. El ejercicio de facultades de comprobación iniciadas con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables en el momento de su inicio.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 ###### ARTICULO PRIMERO
 
