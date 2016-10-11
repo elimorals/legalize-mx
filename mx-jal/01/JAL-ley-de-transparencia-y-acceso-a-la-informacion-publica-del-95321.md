@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2016-08-20"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "JAL"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
-
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 25653/LX/15, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2015, QUE MODIFICA ESTE ORDENAMIENTO, VÉASE SU TRANSITORIO PRIMERO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -3903,9 +3905,9 @@ Recurso de Revisión - Ejecución
 
 2. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá una amonestación pública con copia al expediente laboral del responsable, le concederá un plazo de hasta diez días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de ciento cincuenta a mil quinientos días de salario mínimo general vigente en el área metropolitana de Guadalajara, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
+3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
 
 4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes, y presentará la denuncia penal correspondiente. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
 
@@ -3967,7 +3969,9 @@ Recurso de protección de datos personales - Ejecución
 
 2. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá una amonestación pública con copia al expediente laboral del responsable, le concederá un plazo de hasta diez días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo.
 
-3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien días de salario mínimo general vigente en el área metropolitana de Guadalajara, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
 
 4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes, y presentará la denuncia penal correspondiente. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
 
@@ -4093,7 +4097,9 @@ Recurso de transparencia - Ejecución
 
 2. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá una amonestación pública con copia al expediente laboral del responsable, le concederá un plazo de hasta diez días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo.
 
-3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien días de salario mínimo general vigente en el área metropolitana de Guadalajara, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
 
 4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
 
@@ -4277,9 +4283,9 @@ Infracciones - Sanciones
 
 1. A quien cometa infracciones establecidas en la presente ley se le sancionará de la siguiente forma:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-I. Multa de cien a setecientos cincuenta días de salario mínimo general vigente en el área metropolitana de Guadalajara a quien cometa alguna de las infracciones señaladas en:
+I. Multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en:
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4295,19 +4301,27 @@ c) El artículo 121 párrafo 1 fracciones I, VI y XII; o
 
 d) El artículo 122 párrafo 1 fracción IV.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Multa de ciento cincuenta a mil días de salario mínimo general vigente en el área metropolitana de Guadalajara a quien cometa alguna de las infracciones señaladas en:
+II. Multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en:
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 a) El artículo 119 párrafo 1 fracciones II, III, IV, IX y X;
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 b) El artículo 120 párrafo 1 fracciones VI a VIII y X; o
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 c) El artículo 121 párrafo 1 fracciones II, III, IV, V, VII, VIII, IX, X, XI y XIII.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-III. Multa de doscientos a mil quinientos días de salario mínimo general vigente en el área metropolitana de Guadalajara a quienes cometan alguna de las infracciones señaladas en:
+III. Multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización a quienes cometan alguna de las infracciones señaladas en:
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 a) El artículo 119 párrafo 1 fracciones I, XI, XII y XIV.
 
@@ -4430,3 +4444,11 @@ P.O. 20 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
