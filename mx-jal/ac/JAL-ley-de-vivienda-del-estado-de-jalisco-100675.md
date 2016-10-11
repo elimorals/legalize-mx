@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-vivienda-del-estado-de-jalisco-100675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-09"
-last_updated: "2014-05-09"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE VIVIENDA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 9 de mayo de 2014.
 
@@ -115,7 +117,9 @@ XIII. Priorizar en su caso, los programas y acciones de vivienda de interés soc
 
 XIV. Crear suficientes reservas territoriales, conjuntamente con los municipios, y establecer la oferta pública de suelo que se destine a vivienda de interés social y popular, así como sus servicios, acorde a la vocación natural en cuanto al uso del suelo, evitando la creación de centros de población en áreas críticas o de posibles contingencias ambientales negativas;
 
-XV. Crear los mecanismos necesarios para hacer llegar los recursos financieros necesarios al organismo coordinador, y rector de las políticas y programas de vivienda del Estado, a fin de que se amplíe la cobertura de acceso a los créditos de vivienda, a los trabajadores no asalariados, marginados de las zonas urbanas y rurales, trabajadores con ingresos inferiores a cuatro salarios mínimos diarios;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XV. Crear los mecanismos necesarios para hacer llegar los recursos financieros necesarios al organismo coordinador, y rector de las políticas y programas de vivienda del Estado, a fin de que se amplíe la cobertura de acceso a los créditos de vivienda, a los trabajadores no asalariados, marginados de las zonas urbanas y rurales, trabajadores con ingresos inferiores a cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
 XVI. Motivar y coordinar programas y acciones de vivienda de interés social y popular, que en la entidad ejecute: la Federación, el Estado, los municipios y el sector privado y social, con el objeto de que en suma de esfuerzos, se dé satisfacción a la garantía constitucional en materia de vivienda;
 
@@ -185,9 +189,13 @@ XXV. Vivienda ecológica: aquélla a la que se apliquen criterios ecológicos y 
 
 XXVI. Vivienda progresiva: la acción destinada a satisfacer las necesidades habitacionales y cambiantes de las familias desde las etapas iniciales, en un proceso paulatino y discontinuo de construcción y adaptación;
 
-XXVII. Vivienda de interés social: la vivienda cuyo precio máximo de venta al público al término de su edificación, no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el área que corresponde al Estado de Jalisco, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XXVIII. Vivienda popular: la vivienda cuyo valor al término de su edificación y cual precio de venta al público, es superior de quince salarios mínimos anuales vigentes y no excede de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el área que corresponde al Estado de Jalisco, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta; y
+XXVII. Vivienda de interés social: la vivienda cuyo precio máximo de venta al público al término de su edificación, no exceda de la cantidad de cinco mil cuatrocientos veinticinco veces el valor diario de la Unidad de Medida y Actualización que resulte de multiplicar por quince el salario al término de su edificación, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXVIII. Vivienda popular: la vivienda cuyo valor al término de su edificación y cual precio de venta al público, es superior de quince veces el valor anual de la Unidad de Medida y Actualización, y no excede de la cantidad de nueve mil ciento veinticinco veces el valor anual de la Unidad de Medida y Actualización vigente, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta; y
 
 XXIX. Vivienda terminada: la acción habitacional que se realiza en un proceso continuo y único de construcción.
 
@@ -559,7 +567,9 @@ Entre otros indicadores de evaluación, deberán considerarse cuando menos los s
 
 I. Metas por cobertura territorial;
 
-II. Beneficiarios por grupos de ingreso en veces el salario mínimo del área geográfica que corresponda y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, arrendamiento o del mejoramiento del parque habitacional;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Beneficiarios por grupos de ingreso en veces el valor diario de la Unidad de Medida y Actualización vigente y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, arrendamiento o del mejoramiento del parque habitacional;
 
 III. Evaluación de los productos habitacionales en términos de su ubicación en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones y municipios; y
 
@@ -1110,3 +1120,13 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
