@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2016-07-09"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -582,7 +584,9 @@ II.- Los ocursos que sean de término, fuera de las labores del juzgado, pero an
 
 Los interesados podrán acompañar una copia simple de sus escritos a fin de que se les devuelva con la anotación de la fecha, hora de presentación y detalle de los anexos exhibidos, firmada por el servidor público que la reciba.
 
-La omisión de la anotación antes citada, dará lugar a imponer al infractor multa de siete días de salario mínimo, aparte de la sanción que merezca conforme a la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La omisión de la anotación antes citada, dará lugar a imponer al infractor multa de siete veces el valor diario de la Unidad de Medida y Actualización, aparte de la sanción que merezca conforme a la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -664,7 +668,11 @@ La preparación de las pruebas quedará a cargo de las partes, por lo que deber�
 
 Las resoluciones que decidan o desechen los incidentes de nulidad de actuaciones sólo serán impugnables a través del recurso de apelación que se haga valer en contra de la sentencia definitiva mediante la expresión de los agravios correspondientes, salvo aquella en la que se declare la nulidad del emplazamiento, la que se tramitará desde luego en ambos efectos.
 
-En el caso de que proceda la nulidad, dejará sin efecto desde luego el acto impugnado y las actuaciones posteriores al mismo. En este caso impondrá al responsable una multa de siete a veinte días de salario mínimo y se le condenará al pago de los gastos y costas.
+(NOTA: EL 15 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 9/2022, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS GENERALES EL 5 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+En el caso de que proceda la nulidad, dejará sin efecto desde luego el acto impugnado y las actuaciones posteriores al mismo. EN ESTE CASO IMPONDRÁ AL RESPONSABLE UNA MULTA DE SIETE A VEINTE VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN Y SE LE CONDENARÁ AL PAGO DE LOS GASTOS Y COSTAS.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -744,13 +752,17 @@ Si el declarante fuere sordomudo, y sabe leer o escribir, será examinado por es
 
 El intérprete al que se refieren los párrafos primero y tercero del presente artículo será designado por el juez, a costa del interesado, siendo necesario que éste invoque en su escrito respectivo la necesidad del mismo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 72.
 
-Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos al tribunal y a las partes entre sí, corrigiendo en el acto las faltas que se cometan, con multas que no podrán pasar: en los juzgados de paz, del importe de tres días de salario mínimo; en los juzgados menores, del importe de siete días de salario mínimo; y en los juzgados de primera instancia y en el Supremo Tribunal, hasta el importe de ciento veinte días de salario mínimo general vigente en la fecha en que se cometa la falta que se está sancionando.
+Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos al tribunal y a las partes entre sí, corrigiendo en el acto las faltas que se cometan, con multas que no podrán pasar: en los juzgados de paz, del importe de tres veces el valor diario de la Unidad de Medida y Actualización; en los juzgados menores, del importe de siete veces el valor diario de la Unidad de Medida y Actualización; y en los juzgados de primera instancia y en el Supremo Tribunal, hasta el importe de ciento veinte veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha en que se cometa la falta que se está sancionando.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 Para imponer la sanción económica se tomará en cuenta la gravedad del caso y la situación económica de la persona a quien se imponga. Podrán también emplear el uso de la fuerza pública.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 Si las faltas llegaren a constituir delitos, se procederá criminalmente contra los que los cometieron, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
 
@@ -766,7 +778,9 @@ II.- La amonestación;
 
 III.- La suspensión que no exceda de un mes;
 
-IV.- La multa, que no excederá del importe de ciento veinte días de salario mínimo vigente, que se duplicará en caso de reincidencia.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV.- La multa, que no excederá del importe de ciento veinte veces el valor diario de la Unidad de Medida y Actualización vigente, que se duplicará en caso de reincidencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2002)</small>
 
@@ -774,9 +788,9 @@ IV.- La multa, que no excederá del importe de ciento veinte días de salario m�
 
 Los jueces, para hacer cumplir sus determinaciones, deberán emplear cualesquiera de los siguientes medios de apremio que juzguen eficaces:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-I.- La multa por el importe de diez a ciento veinte días de salario mínimo; la cual podrá duplicarse en caso de reincidencia;
+I.- La multa por el importe de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización; la cual podrá duplicarse en caso de reincidencia;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -814,7 +828,9 @@ Son obligaciones de los secretarios:
 
 I.- Hacer constar el día y hora en que se presenten los escritos y si estos contienen firma o no de los interesados, conforme a lo establecido por el artículo 52 de este código, así como la de su abogado patrono;
 
-II.- Cuidar que los escritos presentados sean claramente legibles y dar cuenta con ellos y sus anexos, a más tardar dentro de las veinticuatro horas de su presentación, bajo la pena de cubrir, por concepto de multa, el importe de siete días de salario mínimo, sin perjuicio de las demás que merezcan conforme a la Ley Orgánica del Poder Judicial del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II.- Cuidar que los escritos presentados sean claramente legibles y dar cuenta con ellos y sus anexos, a más tardar dentro de las veinticuatro horas de su presentación, bajo la pena de cubrir, por concepto de multa, el importe de siete veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las demás que merezcan conforme a la Ley Orgánica del Poder Judicial del Estado de Jalisco;
 
 III.- Llevar un control y registro de los escritos y anexos que se presenten, así como de los expedientes que se formen, los primeros deberán cerrarse con la firma del juez y los últimos con su certificación en la que se haga constar año y número de expediente que integran dicho registro;
 
@@ -1166,9 +1182,9 @@ De las Notificaciones.
 
 Las notificaciones se verificarán dentro de los siete días siguientes de aquél al en que el notificador reciba los expedientes o las actuaciones correspondientes, siempre que este código o el juzgador no disponga en éstas otra cosa.
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-Se impondrá de plano a los infractores de lo anterior una multa que no excederá del importe de quince días de salario mínimo y cuando reincidan sin causa justificada, por más de cinco ocasiones, serán destituidos de su cargo, sin responsabilidad para el Supremo Tribunal de Justicia del Estado, previa audiencia de defensa en los términos que disponga la Ley Orgánica del Poder Judicial del Estado.
+Se impondrá de plano a los infractores de lo anterior una multa que no excederá del importe de quince veces el valor diario de la Unidad de Medida y Actualización y cuando reincidan sin causa justificada, por más de cinco ocasiones, serán destituidos de su cargo, sin responsabilidad para el Supremo Tribunal de Justicia del Estado, previa audiencia de defensa en los términos que disponga la Ley Orgánica del Poder Judicial del Estado.
 
 Para los anteriores efectos, los notificadores de los tribunales deberán de llevar un registro donde se hagan constar las fechas de entrega y recepción de los expedientes o actuaciones respectivas.
 
@@ -1276,11 +1292,11 @@ Si el servidor público judicial recibe informes del lugar en que habitualmente 
 
 También podrá notificarse personalmente al interesado en el lugar donde se encuentre, siempre que el servidor público judicial se cerciore de su identidad en la forma establecida por el artículo 70 de este código y asiente razón de ello.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 115.
 
-Cuando por culpa del actor, no se emplace personalmente al demandado, se impondrá al responsable una multa por el importe de diecisiete a setenta días de salario mínimo si el asunto fuere de la competencia de los jueces de Primera Instancia o de las Salas de Tribunal; de cuatro a diecisiete días de salario mínimo si lo fuere de la competencia de los Jueces Menores; y de uno a cuatro días de salario, si se trata de negocios de un Juzgado de Paz, sin perjuicio de las demás penas que correspondan por los delitos que resultaren cometidos.
+Cuando por culpa del actor, no se emplace personalmente al demandado, se impondrá al responsable una multa por el importe de diecisiete a setenta veces el valor diario de la Unidad de Medida y Actualización si el asunto fuere de la competencia de los jueces de Primera Instancia o de las Salas de Tribunal; de cuatro a diecisiete veces el valor diario de la Unidad de Medida y Actualización, si lo fuere de la competencia de los jueces menores; y de uno a cuatro veces el valor diario de la Unidad de Medida y Actualización, si se trata de negocios de un Juzgado de Paz, sin perjuicio de las demás penas que correspondan por los delitos que resultaren cometidos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1754,7 +1770,9 @@ Si la cuestión de competencia se suscitare entre tribunales de dos o más estad
 
 El litigante que hubiere optado por uno de los medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlos sucesivamente.
 
-Cuando no proceda el conflicto de competencia, deberá pagar las costas el que la promovió y una multa hasta por el importe de ciento ochenta días de salario mínimo, según la importancia del negocio, que le impondrá la autoridad a favor del Erario Estatal.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Cuando no proceda el conflicto de competencia, deberá pagar las costas el que la promovió y una multa hasta por el importe de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, según la importancia del negocio, que le impondrá la autoridad a favor del Erario Estatal.
 
 ###### ARTICULO 173.
 
@@ -1794,11 +1812,11 @@ III.- Cuando los Juzgados que conozcan respectivamente de los Juicios pertenezca
 
 La excepción de conexidad con petición acumulatoria se opondrá como todas al contestar la Demanda o la Reconvención, en su caso, del Juicio nuevo, siempre que en el más antiguo no se haya pronunciado todavía sentencia, pues en caso contrario, la excepción sólo cabe para tomar en cuenta dicha Sentencia en el moderno litigio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 178.
 
-La parte que promueva la acumulación acompañará a su escrito copia autorizada de la demanda y contestación que fijaron la litis del juicio conexo, o pedirá, si es más factible, la inspección de los autos. Con esta prueba y la contestación de la parte contraria, que producirá dentro del tercer día, el Juez fallará dentro de las veinticuatro horas siguientes. Y si decreta la acumulación, remitirá sus autos al Juez del Juicio más antiguo para que éste los siga aunque sea por cuerda separada y resuelva ambos juicios en una sola sentencia. Cuando estime que la acumulación puede ser maliciosa, podrá también exigir motivadamente al promovente, antes de tramitarla, un certificado de depósito por el importe de hasta ciento ochenta días de salario mínimo para garantizar los presuntos daños y perjuicios que se causen en su caso.
+La parte que promueva la acumulación acompañará a su escrito copia autorizada de la demanda y contestación que fijaron la litis del juicio conexo, o pedirá, si es más factible, la inspección de los autos. Con esta prueba y la contestación de la parte contraria, que producirá dentro del tercer día, el Juez fallará dentro de las veinticuatro horas siguientes. Y si decreta la acumulación, remitirá sus autos al Juez del Juicio más antiguo para que éste los siga aunque sea por cuerda separada y resuelva ambos juicios en una sola sentencia. Cuando estime que la acumulación puede ser maliciosa, podrá también exigir motivadamente al promovente, antes de tramitarla, un certificado de depósito por el importe de hasta ciento ochenta veces el valor diario de la Unidad de Medida y Actualización para garantizar los presuntos daños y perjuicios que se causen en su caso.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
 
@@ -2022,11 +2040,11 @@ En el tribunal, queda el magistrado recusado separado del conocimiento del negoc
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 205.
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de uno a cuatro días de salario mínimo, si se trata de Juez de Paz; de cuatro a treinta y cinco días de salario mínimo, si fuere un Juez Menor; o de treinta y cinco a ciento ochenta días de salario mínimo si el recusado fuere un Juez de Primera Instancia o un Magistrado.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de uno a cuatro veces el valor diario de la Unidad de Medida y Actualización, si se trata de Juez de Paz; de cuatro a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, si fuere un Juez Menor; o de treinta y cinco a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización si el recusado fuere un Juez de Primera Instancia o un Magistrado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2712,11 +2730,9 @@ De la Audiencia de Conciliación.
 
 ARTICULO 282 BIS.- Contestada que sea la demanda y, en su caso, la reconvención, el juez de oficio deberá citar a las partes a una audiencia conciliatoria que se verificará por una sola vez dentro de los quince días siguientes, sin que se suspenda el procedimiento ni los términos que estén corriendo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-Al citar a las partes a esta audiencia, se les apercibirá que, en caso de no asistir con justa causa, se les impondrá una multa hasta por el equivalente a ciento veinte días de salario mínimo. Las partes deberán comparecer personalmente o a través de representante facultado para cumplimentar el fin de la audiencia.
+Al citar a las partes a esta audiencia, se les apercibirá que, en caso de no asistir con justa causa, se les impondrá una multa hasta por el equivalente a ciento veinte veces el valor diario de la Unidad de Medida y Actualización. Las partes deberán comparecer personalmente o a través de representante facultado para cumplimentar el fin de la audiencia.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2928,19 +2944,19 @@ II.- Que bajo protesta de decir verdad, se indiquen los nombres, residencia y do
 
 III.- Que bajo protesta de decir verdad, se designen, en caso de ser pruebas instrumentales, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse o de presentarse originales;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV.- Que con la solicitud respectiva se exhiba mediante billete de depósito el equivalente al importe de ciento ochenta días de salario mínimo, que sólo se restituirá en caso de haber desahogado la prueba.
+IV.- Que con la solicitud respectiva se exhiba mediante billete de depósito el equivalente al importe de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, que sólo se restituirá en caso de haber desahogado la prueba.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
 
 El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el término extraordinario.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 301.
 
-El litigante a quien se hubiese concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar que tuvo para ello impedimento bastante, a juicio del juez, será condenado, al concluir el período probatorio, a pagar una multa hasta por el importe de ciento ochenta días de salario mínimo y a la indemnización de daños y perjuicios, a su contraparte, que se fijará en el incidente respectivo, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba ofrecida.
+El litigante a quien se hubiese concedido la dilación extraordinaria y no rindiere las pruebas que hubiere propuesto, sin justificar que tuvo para ello impedimento bastante, a juicio del juez, será condenado, al concluir el período probatorio, a pagar una multa hasta por el importe de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización y a la indemnización de daños y perjuicios, a su contraparte, que se fijará en el incidente respectivo, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba ofrecida.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3480,15 +3496,15 @@ De las Declaraciones de los Testigos.
 
 Todos los que tengan conocimiento de los hechos que las partes deban probar, están obligados a declarar como testigos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 363.
 
-Los testigos serán citados a declarar cuando la parte que ofrece su testimonio manifieste bajo protesta de decir verdad no poder por sí misma hacer que se presenten. El juez ordenará la citación con apercibimiento de arresto hasta por treinta y seis horas o multa equivalente hasta quince días de salario mínimo general vigente para el lugar del juicio, que se aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+Los testigos serán citados a declarar cuando la parte que ofrece su testimonio manifieste bajo protesta de decir verdad no poder por sí misma hacer que se presenten. El juez ordenará la citación con apercibimiento de arresto hasta por treinta y seis (sic) o multa equivalente hasta quince veces el valor diario de la Unidad de Medida y Actualización, que se aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, se impondrá al promovente una multa equivalente hasta treinta días de salario mínimo general, vigente para el lugar del juicio, en el momento de imponerse la misma, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, se impondrá al promovente una multa equivalente hasta treinta veces el valor diario de la Unidad de Medida y Actualización, vigente en el momento de imponerse la misma, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -3846,7 +3862,9 @@ Hay cosa juzgada cuando la sentencia cause estado.
 
 Causan estado por ministerio de ley:
 
-I. Las sentencias pronunciadas en juicio cuyo interés no pase de setecientas veinte veces el salario mínimo diario general vigente;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. Las sentencias pronunciadas en juicio cuyo interés no pase de setecientas veinte veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 II. Las sentencias de segunda instancia;
 
@@ -4002,11 +4020,11 @@ La revocación se substanciará y resolverá siempre de plano. La resolución qu
 
 De la Apelación.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 434.
 
-Sólo se admitirá el recurso de apelación en los negocios cuyo monto exceda del importe de setecientos veinte días de salario mínimo.
+Sólo se admitirá el recurso de apelación en los negocios cuyo monto exceda del importe de setecientos veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -4174,17 +4192,17 @@ Recibidas las anteriores constancias por el tribunal las turnará a la sala que 
 
 La queja contra el secretario se interpondrá ante el juez o titular del juzgado que conozca del juicio o procedimiento, dentro de cinco días siguientes al que se haya realizado el acto procesal. Recibido el escrito de agravios, el juez de inmediato, sin substanciación alguna, lo hará de conocimiento del secretario, le solicitará su informe con justificación y, resolverá el recurso dentro de los cinco días siguientes.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 455.
 
-Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho, o procediera otro recurso ordinario contra la resolución reclamada, será desechada por la sala o el juez, imponiéndose al quejoso y a su abogado patrono, multa hasta del importe de ciento ochenta días de salario mínimo. La que resulte fundada dejará sin efecto el acto procesal impugnado.
+Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho, o procediera otro recurso ordinario contra la resolución reclamada, será desechada por la sala o el juez, imponiéndose al quejoso y a su abogado patrono, multa hasta del importe de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización. La que resulte fundada dejará sin efecto el acto procesal impugnado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 456.
 
-La falta o deficiencia del informe con justificación, establece la presunción de ser ciertos los hechos respectivos, y hará incurrir al juez o secretario omiso en una multa de tres a treinta días de salario mínimo vigente, que impondrá de plano la autoridad que conozca de la queja en la misma resolución que se dicte sobre ella; lo anterior sin perjuicio de la obligación que tiene el recurrente de demostrar los agravios en que funde sus impugnaciones.
+La falta o deficiencia del informe con justificación, establece la presunción de ser ciertos los hechos respectivos, y hará incurrir al juez o secretario omiso en una multa de tres a treinta veces el valor diario de la Unidad de Medida y Actualización vigente, que impondrá de plano la autoridad que conozca de la queja en la misma resolución que se dicte sobre ella; lo anterior sin perjuicio de la obligación que tiene el recurrente de demostrar los agravios en que funde sus impugnaciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5388,7 +5406,9 @@ VII. Los demás en que así lo determine la ley.
 
 La tramitación de estos juicios se sujetará a las disposiciones especiales de este Título y, en lo no previsto, a las reglas generales y disposiciones para el juicio ordinario.
 
-En los negocios cuyo interés no exceda del importe de treinta días de salario mínimo, la tramitación se ajustará a las disposiciones relativas del Título décimo cuarto.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+En los negocios cuyo interés no exceda del importe de treinta veces el valor diario de la Unidad de Medida y Actualización, la tramitación se ajustará a las disposiciones relativas del Título décimo cuarto.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5958,7 +5978,9 @@ III. El secretario que practica la diligencia de inspección, debe hacer una rel
 
 IV. El secretario, hará constar en su caso, que el bien inmueble sigue ocupado por el arrendatario, hecho que asentará en el acta circunstanciada.
 
-Concluida la diligencia, el Juez con base en el acta circunstanciada determinará si en efecto el bien fue abandonado, declara que en ese momento cesan de correr las rentas y se restituye al arrendador el uso y disfrute del bien inmueble. En caso contrario, impondrá a quien informó falsamente, una multa (sic) veinte a doscientos días de salario mínimo y le condenará al pago de los daños que en su caso se ocasionen. Esta determinación no admite recurso alguno.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Concluida la diligencia, el juez con base en el acta circunstanciada determinará si en efecto el bien fue abandonado, declara que en ese momento cesan de correr las rentas y se restituye al arrendador el uso y disfrute del bien inmueble. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos veces el valor diario de la Unidad de Medida y Actualización y le condenará al pago de los daños que en su caso se ocasionen. Esta determinación no admite recurso alguno.
 
 ### CAPITULO V.
 
@@ -5992,7 +6014,9 @@ En el auto admisorio y sin correr traslado, el juez:
 
 I. Basándose en la información que bajo protesta de decir verdad fue proporcionada en la demanda y relativa a la posibilidad económica del deudor y al nivel de vida del mismo, así como al de los acreedores alimenticios y las necesidades de éstos, y atendiendo a las circunstancias particulares del caso, determinará de inmediato el derecho a la alimentación, fijando la cantidad o el porcentaje que sea suficiente para cubrir las necesidades alimentarias, y que como pensión provisional deberá cubrir el demandado, en tanto se resuelve el asunto en definitiva;
 
-II. De igual forma, apercibirá al actor de que en caso de que en autos se llegare a demostrar que buscando incrementar la pensión provisional proporcionó información falsa, se hará acreedor a una multa de hasta 100 cien veces el salario mínimo vigente en la zona geográfica a que pertenezca el Partido Judicial, sin perjuicio de las sanciones penales que correspondan; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. De igual forma, apercibirá al actor de que en caso de que en autos se llegare a demostrar que buscando incrementar la pensión provisional proporcionó información falsa, se hará acreedor a una multa de hasta 100 cien veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones penales que correspondan; y
 
 III. Si el demandado cuenta con trabajo estable, se ordenará girar oficio a la fuente laboral, a efecto de que a partir del siguiente día hábil al de la diligencia de requerimiento, se le comience a descontar al deudor la cantidad fijada como pensión provisional.
 
@@ -8810,7 +8834,7 @@ Los gastos del apeo se harán a prorrata por el que lo promueva y los propietari
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 1064.
 
@@ -8826,7 +8850,7 @@ Del Procedimiento en los Negocios de la Competencia de los Jueces de Paz.
 
 ###### ARTICULO 1065.
 
-Los jueces de Paz, en los negocios de su competencia, o sean aquellos cuyo interés no exceda de cien días de salario mínimo, procederán con sujeción a las disposiciones especiales de este Título y en lo no previsto, observarán las reglas generales y disposiciones de éste código, para el juicio ordinario.
+Los jueces de Paz, en los negocios de su competencia, o sean aquéllos cuyo interés no exceda de cien veces el valor diario de la Unidad de Medida y Actualización, procederán con sujeción a las disposiciones especiales de este Título y en lo no previsto, observarán las reglas generales y disposiciones de este Código, para el juicio ordinario.
 
 ###### ARTICULO 1066.
 
@@ -8834,11 +8858,11 @@ Para estimar el interés del negocio se atenderá a lo que el actor demande. Los
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 1067.
 
-No obstante lo que se dispone en el artículo anterior, si el Juez, en cualquier estado del Juicio, encuentra que éste no es de su competencia por exceder su interés de treinta días de salario, o en razón de corresponder su conocimiento a Juez de distinta jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
+No obstante lo que se dispone en el artículo anterior, si el Juez, en cualquier estado del Juicio, encuentra que éste no es de su competencia por exceder su interés de treinta veces el valor diario de la Unidad de Medida y Actualización, o en razón de corresponder su conocimiento a Juez de distinta jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al Juez correspondiente.
 
 ###### ARTICULO 1068.
 
@@ -8918,11 +8942,11 @@ Todas las acciones y excepciones o defensas se harán valer en el acto mismo de 
 
 Antes de pronunciar el fallo el Juez exhortará de nuevo a las partes a una composición amigable y si logra la avenencia, dará por terminado el juicio observando en lo conducente lo que dispone el artículo 1076.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 1082.
 
-Si a la hora señalada para la celebración de la audiencia a que se refieren los artículos 1071 y 1075, no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a siete días de salario, que se aplicará a favor del erario estatal, y sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Si a la hora señalada para la celebración de la audiencia a que se refieren los artículos 1071 y 1075, no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de una a siete veces el valor diario de la Unidad de Medida y Actualización que se aplicará a favor del erario estatal, y sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ###### ARTICULO 1083.
 
@@ -9493,5 +9517,13 @@ QUINTO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por cond
 P.O. 9 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25854/LXI/16 QUE ADICIONA UN PÁRRAFO DÉCIMO AL ARTÍCULO 282 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE “SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
