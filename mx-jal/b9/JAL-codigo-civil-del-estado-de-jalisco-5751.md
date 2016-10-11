@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2016-06-16"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3163,7 +3165,7 @@ La persona menor de edad podrá reconocer a sus hijos:
 
 I. Con el consentimiento de quien o quienes ejerzan sobre ella la patria potestad o tutela; o
 
-II. Sin el consentimiento de su padres o tutores, pero tal reconocimiento producirá efectos al ser ratificado por la Procuraduría de Protección de Niñas, Niños y Adolescentes, misma que podrá realizar las valoraciones y acciones que estime pertinentes para tal efecto, quien deberá emitir su dictamen dentro de los treinta días naturales siguientes, independientemente de continuar brindando el seguimiento correspondiente.
+II. Sin el consentimiento de sus padres o tutores, pero tal reconocimiento producirá efectos al ser ratificado por la Procuraduría de Protección de Niñas, Niños y Adolescentes, misma que podrá realizar las valoraciones y acciones que estime pertinentes para tal efecto, quien deberá emitir su dictamen dentro de los treinta días naturales siguientes, independientemente de continuar brindando el seguimiento correspondiente.
 
 Si transcurrido el plazo anterior, la Procuraduría no ratifica, el oficial de registro civil la exhortará para que lo haga en un plazo no mayor a 15 días naturales, si no lo ratifica, tal reconocimiento surtirá sus efectos de pleno derecho y se sancionará la omisión de conformidad a lo previsto en la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco.
 
@@ -4335,13 +4337,11 @@ El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela
 
 Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 613.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse representante, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes hayan vivido, están obligados a dar parte del fallecimiento al Juez, dentro de ocho días, a fin de que provea lo conducente, bajo la pena equivalente a una multa igual a considerar el salario mínimo general de veinticinco a cien días.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse representante, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes hayan vivido, están obligados a dar parte del fallecimiento al Juez, dentro de ocho días, a fin de que provea lo conducente, bajo la pena equivalente a una multa de veinticinco a cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Art. 614.
 
@@ -5561,7 +5561,7 @@ V. Supervisar la ejecución de las medidas especiales de protección de niñas, 
 
 VI. Solicitar medidas para la suspensión de la difusión de información publicada en internet o por cualquier otro medio de comunicación que afecte los derechos humanos o ponga en riesgo objetivamente el sano desarrollo de niñas, niños y adolescentes;
 
-VIl. Substanciar de manera oficiosa o a petición de parte el procedimiento para la protección y restitución integral de los derechos de niñas, niños y adolescentes, conforme a lo previsto en la legislación de la materia;
+VII. Substanciar de manera oficiosa o a petición de parte el procedimiento para la protección y restitución integral de los derechos de niñas, niños y adolescentes, conforme a lo previsto en la legislación de la materia;
 
 VIII. Emitir bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección;
 
@@ -5661,9 +5661,9 @@ III. La existencia de la familia a cuyo favor se va a constituir el Patrimonio y
 
 IV. Que son de su propiedad o de su cónyuge, con el consentimiento de éste, los bienes destinados a su patrimonio, y que tratándose de inmuebles no reportan gravámenes fuera de las servidumbres legales;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-V. Que el valor de los bienes que van a constituir el patrimonio no exceda del equivalente de 40,000 veces el salario mínimo diario general vigente en la zona económica de que se trate en la época en que dicho patrimonio se constituya. La cantidad que resulte incluirá el valor de los bienes muebles e inmuebles a que se refiere el artículo 777. Tratándose de bienes inmuebles, se podrá acreditar la cuantía de los mismos tomando como base el valor catastral, lo cual se acreditará con el recibo de pago de impuesto predial del año correspondiente, o mediante avalúo de perito autorizado, y
+V. Que el valor de los bienes que van a constituir el patrimonio no excedan del equivalente de 40,000 veces el valor diario de la Unidad de Medida y Actualización vigente en la época en que dicho patrimonio se constituya. La cantidad que resulte incluirá el valor de los bienes muebles e inmuebles a que se refiere el artículo 777. Tratándose de bienes inmuebles, se podrá acreditar la cuantía de los mismos tomando como base el valor catastral, lo cual se acreditará con el recibo de pago de impuesto predial del año correspondiente, o mediante avalúo de perito autorizado; y
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -7887,7 +7887,9 @@ Cuando los compartidarios sean personas jurídicas, el tiempo de duración será
 
 La autoridad municipal de la ubicación del desarrollo, aplicará sanciones al compartidor o prestador que incurra en cualesquiera de las prohibiciones que les impone este título, independientemente de la responsabilidad civil, penal, administrativa, o de cualquier índole que corresponda.
 
-La sanción de que habla el párrafo anterior será de quinientas a dos mil quinientas veces el salario mínimo general por día, de la zona económica que corresponda.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La sanción de que habla el párrafo anterior será de quinientas a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ## TITULO DECIMO. De las servidumbres
 
@@ -9145,11 +9147,15 @@ Cuando el daño causado a las personas produzca la muerte o cualquier tipo de in
 
 Para calcular la indemnización se estará a lo siguiente:
 
-I. En el caso de cualquier incapacidad física, se tomarán como base cinco tantos del salario mínimo general vigente, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. En el caso de cualquier incapacidad física, se tomará como base cinco tantos del valor diario de la Unidad de Medida y Actualización vigente; y
 
 II. En el caso de muerte, se estará a lo previsto en el artículo 502 de la Ley Federal del Trabajo.
 
-En los casos de las dos fracciones que anteceden, será la base el salario mínimo general diario vigente en la zona geográfica donde se causó el daño y se extenderá al número de días de la incapacidad.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+En los casos de las dos fracciones que anteceden, será la base el valor diario de la Unidad de Medida y Actualización y se extenderá al número de días de la incapacidad.
 
 En caso de muerte, la indemnización corresponderá a los herederos de la víctima.
 
@@ -11931,13 +11937,17 @@ La donación puede hacerse verbalmente o por escrito.
 
 No puede hacerse donación verbal mas que de bienes muebles.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 1927.
 
-La donación verbal sólo producirá efectos legales cuando el valor de los muebles sea menor a cien días de salario mínimo general.
+La donación verbal sólo producirá efectos legales cuando el valor de los muebles sea menor a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 1928.
 
-Si el valor de los muebles excede de cien días de salario mínimo general, debe constar por escrito.
+Si el valor de los muebles excede de cien veces el valor diario de la Unidad de Medida y Actualización, debe constar por escrito.
 
 ###### Art. 1929.
 
@@ -12013,7 +12023,9 @@ Si dentro del mencionado plazo naciere un hijo póstumo del donante, la donació
 
 La donación no podrá ser revocada por superveniencia de hijos:
 
-I. Cuando sea menor de cien días de salario mínimo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. Cuando sea menor de cien veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Cuando sea antenupcial;
 
@@ -12241,9 +12253,11 @@ IV. Los encargados de los establecimientos públicos y los servidores públicos,
 
 V. Las personas que de conformidad con este código, carezcan de capacidad de ejercicio.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 1987.
 
-El arrendamiento debe otorgarse por escrito siempre que se refiera a inmuebles. En tratándose de muebles o intangibles, deberá otorgarse por escrito cuando la renta mensual exceda de veinte días de salario mínimo general.
+El arrendamiento debe otorgarse por escrito siempre que se refiera a inmuebles. En tratándose de muebles o intangibles, deberá otorgarse por escrito cuando la renta mensual exceda de veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Art. 1988.
 
@@ -12607,9 +12621,11 @@ Cuando este tipo de arrendamiento exceda de cinco años, deberá ser inscrito en
 
 El arrendador que no haga las obras que ordene la autoridad competente, como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los arrendatarios sufran por esa causa. Este derecho no es renunciable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 2041.
 
-Cuando el valor comercial del inmueble sea el equivalente hasta diez mil días de salario mínimo general se seguirán las siguientes reglas:
+Cuando el valor comercial del inmueble sea el equivalente hasta diez mil veces el valor diario de la Unidad de Medida y Actualización se seguirán las siguientes reglas:
 
 I. En cuanto al importe de las rentas:
 
@@ -13087,7 +13103,9 @@ En el contrato de arrendamiento de vehículos automotores, podrá pactarse una c
 
 I. Cuando utilice el vehículo para un objeto diverso del arrendado, se le sancionará como mínimo con lo correspondiente al cincuenta por ciento del costo del arrendamiento, y como máximo el cien por ciento de dicho costo;
 
-II. Cuando se exceda en el kilometraje, se le sancionará con el equivalente a un día de salario mínimo general por cada veinte kilómetros de excedencia;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Cuando se exceda en el kilometraje, se le sancionará con el equivalente a un tanto del valor diario de la Unidad de Medida y Actualización por cada 20 kilómetros de excedencia;
 
 III. Cuando no respete el área en la cual podía utilizar el vehículo arrendado, se le sancionará con el equivalente al cien por ciento del costo del arrendamiento; y
 
@@ -13473,9 +13491,11 @@ Contra la deuda derivada de un depósito, no es admisible la compensación.
 
 Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que ahí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 2193.
 
-La responsabilidad de que habla el artículo anterior, no excederá del equivalente a un día de salario mínimo elevado al año, cuando no se puede imputar culpa al hotelero o a su personal.
+La responsabilidad de que habla el artículo anterior, no excederá del equivalente a un tanto del valor anual de la Unidad de Medida y Actualización, cuando no se puede imputar culpa al hotelero o a su personal.
 
 ###### Art. 2194.
 
@@ -13531,7 +13551,9 @@ a) Siempre que sea general;
 
 b) Cuando se refiera a inmuebles o a derechos reales;
 
-c) Cuando el negocio para el que se confiera, su importe sea superior al equivalente a 300 días de salario mínimo; y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+c) Cuando el negocio para el que se confiera, su importe sea superior al equivalente a 300 veces el valor diario de la Unidad de Medida y Actualización; y
 
 d) Cuando en virtud de él haya de ejecutar el mandatario algún acto que conforme a la ley deba constar en escritura pública;
 
@@ -14893,17 +14915,21 @@ Cuando la deuda principal se vuelva exigible, el fiador tiene derecho de pedir a
 
 El fiador legal o judicial debe tener bienes raíces inscritos en el Registro Público de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga, salvo que se trate de una institución debidamente autorizada.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 2465.
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de cien días de salario mínimo general vigente, no se exigirá que el fiador tenga bienes raíces.
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de cien veces el valor diario de la Unidad de Medida y Actualización, no se exigirá que el fiador tenga bienes raíces.
 
 ###### Art. 2466.
 
 La fianza legal o judicial puede sustituirse con prenda, hipoteca o billete de depósito.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 2467.
 
-Para otorgar una fianza legal o judicial por un valor que exceda de 100 días de salario mínimo general vigente, se presentará un certificado expedido por el encargado del Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+Para otorgar una fianza legal o judicial por un valor que exceda de 100 veces el valor diario de la Unidad de Medida y Actualización, se presentará un certificado expedido por el encargado del Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
 ###### Art. 2468.
 
@@ -15525,7 +15551,9 @@ III. Se deberá prever que en caso de que con el transcurso del tiempo se cubra 
 
 IV. El pensionista preferentemente habitará de forma vitalicia el inmueble hipotecado, pero puede arrendarlo parcial o totalmente siempre y cuando cuente con autorización expresa por parte del pensionario, sin afectar la naturaleza de la hipoteca pensionaria constituida sobre el mismo; y
 
-V. Se incluirán las especificaciones del incremento anual que tendrá la amortización periódica que se entrega al pensionario, de acuerdo con las condiciones del mercado y el valor del inmueble, mismo que no deberá ser inferior al porcentaje de incremento del salario mínimo general vigente en el área metropolitana de Guadalajara.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+V. Se incluirán las especificaciones del incremento anual que tendrá la amortización periódica que se entrega al pensionario, de acuerdo con las condiciones del mercado y el valor del inmueble, mismo que no deberá ser inferior al porcentaje de incremento del valor de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
@@ -15695,9 +15723,11 @@ Contrato de compromiso arbitral
 
 Habrá contrato de compromiso arbitral siempre que dos o más personas, llamadas compromitentes, se obliguen a resolver una controversia presente o futura entre estos, a través de un procedimiento arbitral, para lo cual renuncian a la jurisdicción de los tribunales ordinarios.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 2593.
 
-Todo contrato de compromiso arbitral deberá otorgarse por escrito. Cuando el valor del objeto principal de la controversia exceda los 100 días de salario mínimo general, elevado al año, deberá otorgarse en escritura pública.
+Todo contrato de compromiso arbitral deberá otorgarse por escrito. Cuando el valor del objeto principal de la controversia exceda 100 veces el valor anual de la Unidad de Medida y Actualización, deberá otorgarse en escritura pública.
 
 ###### Art. 2594.
 
@@ -15961,9 +15991,11 @@ El contrato de compromiso arbitral podrá estipular que la controversia se dirim
 
 Por arbitraje de estricto derecho se entiende aquél que se resuelve conforme a las reglas de derecho positivo de manera estricta, aunque modificando los términos para finalizar y dictar el laudo arbitral en el plazo fijado en el contrato.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Art. 2626.
 
-Se entiende por arbitraje en amigable composición aquél que se resuelve conforme al libre entendimiento del árbitro. Esta clase de arbitraje sólo procederá cuando el valor del objeto materia de la controversia, no exceda de 100 días de salario mínimo general.
+Se entiende por arbitraje en amigable composición aquél que se resuelve conforme al libre entendimiento del árbitro. Esta clase de arbitraje sólo procederá cuando el valor del objeto materia de la controversia, no exceda de 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Art. 2627.
 
@@ -19118,3 +19150,11 @@ P.O. 16 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25838/LXI/16 QUE REFORMA LOS ARTÍCULOS 492 Y 493 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE “SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
