@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2015-12-14"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN SÉPTIMA DE LA G.G. EL 11 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO EL DECRETO 136 -ANTES 135- PUBLICADO EN LA G.G. DE 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -223,7 +225,21 @@ XXXI. Proporcionar a solicitud de los Ayuntamientos, asesoría técnica, informa
 
 XXXII. Proporcionar la información que el Consejo Consultivo de Valoración Salarial en el cumplimiento de sus obligaciones le solicite; y
 
-XXXIII. Ejercer las demás que expresamente señale la Constitución Política del Estado, la presente Ley, el Reglamento y las disposiciones aplicables.
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXXIII. Verificar el cumplimiento de las disposiciones en materia de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria por parte de los entes públicos en términos de la legislación en la materia.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXXIV. Revisar la veracidad de la información enviada por la Secretaría de Finanzas o su equivalente para cada ente público, a la Secretaría de Hacienda y Crédito Público para la evaluación del Sistema de Alertas referido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXXV. Verificar que la publicación de la información financiera de cada ente público se realice de conformidad con los principios establecidos en la Ley General de Contabilidad Gubernamental y por las normas y criterios contables expedidos por el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXXVI. Ejercer las demás que expresamente señale la Constitución Política del Estado, la presente Ley, el Reglamento y las disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -787,7 +803,7 @@ Para los efectos de esta Ley incurren en responsabilidad resarcitoria:
 
 > <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-l. Los servidores públicos o quienes hayan dejado de serlo o las personas físicas o jurídicas colectivas que reciban, administren o manejen recursos del erario, y quienes no manejen recursos cuyos actos u omisiones causen daño y/o perjuicio a las haciendas públicas, o al patrimonio de las demás entidades fiscalizables, los cuales serán fijados en cantidad líquida;
+I. Los servidores públicos o quienes hayan dejado de serlo o las personas físicas o jurídicas colectivas que reciban, administren o manejen recursos del erario, y quienes no manejen recursos cuyos actos u omisiones causen daño y/o perjuicio a las haciendas públicas, o al patrimonio de las demás entidades fiscalizables, los cuales serán fijados en cantidad líquida;
 
 II. Los servidores públicos de las entidades fiscalizables, o quienes hayan dejado de serlo, que omitan rendir sus informes acerca de la solventación de los pliegos preventivos formulados y remitidos por el Organo Superior, que no sean solventados dentro de los plazos correspondientes, o bien, la documentación y argumentos presentados no sean suficientes o procedentes para justificarlos, conforme a una valoración debidamente fundada y motivada que lleve a cabo el Organo Superior;
 
@@ -843,7 +859,7 @@ Serán competentes para conocer y resolver los procedimientos resarcitorios orig
 
 > <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-l. La Legislatura, por conducto del Órgano Superior, cuando el presunto responsable sea servidor público por nombramiento o de elección popular, o se trate de titulares de organismos autónomos;
+I. La Legislatura, por conducto del Órgano Superior, cuando el presunto responsable sea servidor público por nombramiento o de elección popular, o se trate de titulares de organismos autónomos;
 
 El Órgano Superior podrá atraer para su conocimiento y resolución los procedimientos de responsabilidades administrativas resarcitorias tratándose de los servidores públicos municipales.
 
@@ -1174,3 +1190,33 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan o se opongan al presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2016 Y F. DE E., 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- El Presupuesto de Egresos y las Leyes de Ingresos deberán elaborarse de conformidad con las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria que al respecto se establecen en el presente Decreto y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, atendiendo a los plazos establecidos en este último ordenamiento.
+
+CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria a que se refiere el Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del Estado y sus entes públicos en el ejercicio fiscal 2017, y para los Municipios y sus entes públicos en el ejercicio fiscal 2018, con las salvedades previstas en la citada Ley.
+
+QUINTO.- El porcentaje a que hace referencia el artículo 292 Ter del Código Financiero del Estado de México y Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+Para el caso de los municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 será hasta por el 2.5 por ciento.
+
+SEXTO.- Para la aplicación del artículo 292 Quáter del Código Financiero del Estado de México y Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 será de 10 por ciento.
+
+SÉPTIMO.- La fracción I del artículo 292 Quintus del Código Financiero del Estado de México y Municipios, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo citado hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales y estatales o reformas a las mismas, a que se refiere el último párrafo de la mencionada fracción serán aquéllas que se emitan con posterioridad a la entrada en vigor de este Decreto.
+
+OCTAVO.- Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 317 Bis A Segundo Párrafo fracción I del Código Financiero del Estado de México y Municipios, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
+
+NOVENO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
