@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2016-07-09"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -49,7 +49,7 @@ Queda prohibida cualquier forma de discriminación imputable a personas físicas
 
 Esta ley tiene por objeto:
 
-l. Promover y garantizar la igualdad de trato y oportunidades, el respeto a los derechos y libertades fundamentales de las personas, la integración de la sociedad de manera inclusiva en las actividades que les permitan el desarrollo pleno de su persona así como su efectiva participación en la vida política, económica, cultural y social del estado;
+I. Promover y garantizar la igualdad de trato y oportunidades, el respeto a los derechos y libertades fundamentales de las personas, la integración de la sociedad de manera inclusiva en las actividades que les permitan el desarrollo pleno de su persona así como su efectiva participación en la vida política, económica, cultural y social del estado;
 
 II. Prevenir y eliminar toda forma de discriminación y violencia que se ejerza contra cualquier persona en los términos del Artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, de los tratados, convenciones o acuerdos internacionales de los que el Estado Mexicano sea parte y del Artículo 4° de la Constitución Política del Estado de Jalisco; y
 
@@ -199,9 +199,17 @@ XXXIII. Ejercer violencia institucional en contra de personas, grupos o comunida
 
 XXXIV. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
 
-XXXV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos y libertades fundamentales de las personas; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XXXVI. En general cualquier otra conducta discriminatoria o practica contraria a la igualdad de trato y oportunidades.
+XXXV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos y libertades fundamentales de las personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXXVI. Negar o restringir el derecho de amamantar al menor en cualquier espacio público; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXXVII. En general cualquier otra conducta discriminatoria o práctica contraria a la igualdad de trato y oportunidades.
 
 ###### Artículo 8.
 
@@ -271,7 +279,7 @@ Las medidas de inclusión son aquellas disposiciones, de carácter preventivo o 
 
 Las medidas de inclusión podrán comprender, entre otras, las siguientes:
 
-l. La educación para la igualdad y la diversidad dentro del sistema educativo estatal;
+I. La educación para la igualdad y la diversidad dentro del sistema educativo estatal;
 
 II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación; y
 
@@ -337,7 +345,7 @@ II. Generar mecanismos para garantizar el respeto, la no discriminación y la no
 
 Las medidas de prevención relativas a los medios de comunicación son las siguientes:
 
-l. Promover que las personas o empresas anunciantes, las agencias de publicidad y en general los medios masivos de comunicación eliminen contenidos que inciten al odio, la superioridad de algunos grupos, la discriminación y la violencia;
+I. Promover que las personas o empresas anunciantes, las agencias de publicidad y en general los medios masivos de comunicación eliminen contenidos que inciten al odio, la superioridad de algunos grupos, la discriminación y la violencia;
 
 II. Publicar en coordinación con los medios masivos de comunicación, campañas de información que condenen toda forma de discriminación y violencia; y
 
@@ -810,5 +818,11 @@ ROBERTO LÓPEZ LARA
 P.O. 9 DE JULIO DE 2016.
 
 > <small>[N. DE E. TRANSITORIO “DECRETO 25850/LXI/16 QUE REFORMA LOS ARTÍCULOS 33 Y 34 Y ADICIONA UN ARTÍCULO 34 BIS DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO, ASÍ COMO SE REFORMA EL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25873/LXI/16 QUE REFORMA EL ARTÍCULO 7 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
