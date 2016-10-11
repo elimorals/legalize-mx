@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2016-08-20"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -437,7 +439,9 @@ XX. Nombrar las comisiones que sean necesarias para la atención de los asuntos 
 
 XXI. Llevar el registro y seguimiento de la situación patrimonial de sus servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
 
-XXII. Apercibir, amonestar e imponer multas hasta de ciento ochenta días del importe del salario mínimo general vigente para la zona metropolitana de Guadalajara al día de cometerse la falta: a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones o por cualquier otro medio falten al respeto a algún órgano del Supremo Tribunal;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXII. Apercibir, amonestar e imponer multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción: a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones o por cualquier otro medio falten al respeto a algún órgano del Supremo Tribunal;
 
 XXIII. Establecer los criterios y las medidas conducentes para el mejoramiento de la administración de justicia del Supremo Tribunal;
 
@@ -1693,7 +1697,9 @@ Los jueces menores conocerán de los siguientes asuntos:
 
 I. De los delitos cuya pena media no exceda de dos años de prisión;
 
-II. De los asuntos civiles y mercantiles cuya cuantía no exceda de ciento ochenta días de salario mínimo general vigente en la zona económica del lugar de su adscripción;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. De los asuntos civiles y mercantiles cuya cuantía no exceda de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 III. Practicarán las diligencias encomendadas por sus superiores; y
 
@@ -1705,7 +1711,9 @@ Los jueces de paz conocerán de los siguientes asuntos:
 
 I. De los delitos cuya pena media no exceda de seis meses de prisión;
 
-II. De los asuntos civiles y mercantiles cuya cuantía no exceda de cien días de salario mínimo general vigente en la zona económica del lugar de su adscripción;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. De los asuntos civiles y mercantiles cuya cuantía no exceda de cien veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Practicarán las diligencias encomendadas por sus superiores; y
 
@@ -1989,7 +1997,9 @@ XXII. Designar, a propuesta de su Presidente, al representante del Consejo Gener
 
 XXIII. Convocar a congresos estatales o regionales de jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el funcionamiento de los órganos del Poder Judicial de la Entidad y proponer las medidas pertinentes para mejorarlos;
 
-XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta días del importe del salario mínimo general vigente en la zona metropolitana de Guadalajara al día de cometerse la falta, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo General del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo General del Poder Judicial del Estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2793,7 +2803,9 @@ VI. Destitución con inhabilitación hasta por seis años.
 
 Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Tribunal correspondiente o del Consejo General del Poder Judicial del Estado, en su caso, dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda para que proceda en los términos previstos en este Título.
 
-Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Judicial del Estado o sus presidentes estimaren que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en la zona metropolitana de Guadalajara al momento de interponerse la queja.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Judicial del Estado o sus presidentes estimaren que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción.
 
 ###### Artículo 206.
 
@@ -3508,3 +3520,11 @@ P.O. 20 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
