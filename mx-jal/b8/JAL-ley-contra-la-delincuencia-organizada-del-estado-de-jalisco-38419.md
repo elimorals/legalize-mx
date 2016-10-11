@@ -4,7 +4,7 @@ identifier: "JAL-ley-contra-la-delincuencia-organizada-del-estado-de-jalisco-384
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-10"
-last_updated: "2004-10-23"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 10 de febrero de 2004.
 
@@ -47,7 +49,7 @@ LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO
 
 2. Se aplican en lo conducente las reglas generales establecidas en el Código Penal del Estado y en el Código de Procedimientos Penales del Estado de Jalisco, en tanto no contravengan lo dispuesto por las disposiciones especiales que integran esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 2.
 
@@ -93,9 +95,13 @@ XVIII. Administración Fraudulenta, previsto en el artículo 254 bis.
 
 1. Sin perjuicio de las sanciones que correspondan por el delito o los delitos a que se refiere el artículo anterior, al miembro de la delincuencia organizada se le aplicarán las siguientes sanciones:
 
-I. A quien tenga funciones de administración, dirección o supervisión, de dos a dieciséis años de prisión y multa de cien a veinticinco mil días de salario mínimo; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. A quien no tenga las funciones anteriores, de uno a ocho años de prisión y multa de cien a doce mil días de salario mínimo.
+l. A quien tenga funciones de administración, dirección o supervisión, de dos a dieciséis años de prisión y multa de cien a veinticinco mil veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. A quien no tenga las funciones anteriores, de uno a ocho años de prisión y multa de cien a doce mil veces el valor diario de la Unidad de Medida y Actualización.
 
 2. Las sanciones a que se refiere este artículo se aumentarán hasta en una mitad cuando:
 
@@ -281,8 +287,16 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 23 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
