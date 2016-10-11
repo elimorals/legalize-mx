@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2016-07-28"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DEL 11 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 135 PUBLICADA EN LA G.G. DE 11 DE OCTUBRE DE 2016.]</small>
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1291,6 +1293,10 @@ XXXVI. Autorizar los actos jurídicos que impliquen la transmisión del dominio 
 
 XXXVII. Aprobar los montos y conceptos de endeudamiento anual del Estado y de los municipios, de conformidad con las bases establecidas en las leyes de la materia y dentro de las limitaciones previstas en la Constitución Federal;
 
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXXVII Bis. Autorizar por el voto de las dos terceras partes de sus miembros presentes los montos máximos para en las mejores condiciones del mercado, contratar empréstitos y obligaciones por parte del Estado, municipios, sus organismos auxiliares y autónomos, así como cualquier otro ente sobre el que tengan control respecto de sus decisiones o acciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, de conformidad con las bases establecidas en las leyes de la materia.
+
 XXXVIII. Conceder amnistía por delitos de la competencia de los tribunales del Estado;
 
 XXXIX. Declarar en su caso que ha o no lugar a proceder contra servidores públicos que gocen de fuero constitucional, por delitos graves del orden común y de los que cometan con motivo de sus funciones durante el desempeño de éstas;
@@ -1345,11 +1351,17 @@ L. Nombrar a los comisionados del organismo autónomo garante en materia de tran
 
 LI. Ratificar los nombramientos que el Gobernador haga de los servidores públicos que integren su gabinete, cuando opte por un gobierno de coalición, con excepción del titular en el ramo de seguridad pública.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 25 DE JULIO DE 2016)</small>
+LII. Ejercer las acciones necesarias para el debido cumplimiento de las disposiciones en materia de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria, en términos de la legislación aplicable.
 
-LII. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LIII. Autorizar al Ejecutivo del Estado la celebración de convenios con la Secretaría de Hacienda y Crédito Público para adherirse al mecanismo de contratación de Deuda Estatal Garantizada.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+LIV. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1667,11 +1679,17 @@ XLVIII. Optar en cualquier momento por un gobierno de coalición con uno o vario
 
 El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los Diputados presentes en la sesión del pleno de la Legislatura donde se discuta. Si la Legislatura se encontrara en receso la Diputación Permanente convocará de inmediato a la Legislatura del Estado a un periodo extraordinario. El convenio establecerá las causas de la disolución del gobierno de coalición.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 25 DE JULIO DE 2016)</small>
+XLIX. Garantizar la aplicación de las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria.
 
-XLIX. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyen.
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+L. Celebrar el convenio correspondiente con la Secretaría de Hacienda y Crédito Público para adherirse al mecanismo de contratación de Deuda Estatal Garantizada.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+Ll. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyen.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -4294,3 +4312,33 @@ La Fiscalía General de Justicia tendrá sus propios recursos para el servicio d
 OCTAVO. La Legislatura del Estado deberá aprobar los recursos necesarios para la correcta transición de la Procuraduría General de Justicia como dependencia del Ejecutivo Estatal a la Fiscalía General de Justicia como órgano autónomo. Las partidas presupuestales deberán señalarse de manera inmediata en el presupuesto de egresos siguiente al ejercicio fiscal en que entre en vigor el presente Decreto. Este presupuesto deberá destinarse al diseño y planeación estratégica, los cambios organizacionales y de gestión, la construcción y operación de la infraestructura, el equipamiento y las tecnologías de la información y comunicación propias del órgano autónomo y la profesionalización necesaria para agentes del Ministerio Público, policías peritos, facilitadores de mecanismos alternativos y demás personal de la Institución.
 
 Se destinarán los recursos necesarios para la instalación y operación de la Fiscalía General de Justicia para el año de su entrada en vigor.
+
+G.G. 11 DE OCTUBRE DE 2016 Y F. DE E. G.G. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 135.- POR EL QUE SE REFORMAN LA FRACCIÓN LII DEL ARTÍCULO 61 Y LA FRACCIÓN XLIX DEL ARTÍCULO 77, Y SE ADICIONAN LAS FRACCIONES XXXVII BIS, LIII Y LIV DEL ARTÍCULO 61 Y LAS FRACCIONES L Y LI DEL ARTÍCULO 77, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Presupuesto de Egresos y las Leyes de Ingresos deberán elaborarse de conformidad con las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria que al respecto se establecen en el presente Decreto y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, atendiendo a los plazos establecidos en este último ordenamiento.
+
+CUARTO. Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria a que se refiere el Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del Estado y sus entes públicos en el ejercicio fiscal 2017, y para los Municipios y sus entes públicos en el ejercicio fiscal 2018, con las salvedades previstas en la citada Ley.
+
+QUINTO. El porcentaje a que hace referencia el artículo 292 Ter del Código Financiero del Estado de México y Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+Para el caso de los municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 será hasta por el 2.5 por ciento.
+
+SEXTO. Para la aplicación del artículo 292 Quáter del Código Financiero del Estado de México y Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 será de 10 por ciento.
+
+SÉPTIMO. La fracción I del artículo 292 Quintus del Código Financiero del Estado de México y Municipios, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo citado hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales y estatales o reformas a las mismas, a que se refiere el último párrafo de la mencionada fracción serán aquéllas que se emitan con posterioridad a la entrada en vigor de este Decreto.
+
+OCTAVO. Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 317 Bis A Segundo Párrafo fracción I del Código Financiero del Estado de México y Municipios, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
+
+NOVENO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
