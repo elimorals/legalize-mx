@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2015-03-21"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -299,7 +301,9 @@ d) Se recabe de los Servidores Públicos y de los fedatarios, los informes y dat
 
 e) Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces, para hacer cumplir sus determinaciones:
 
-1. La multa de 1 a 16 días de salario que se duplicará en caso de reincidencia;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+1. La multa de 1 a 16 veces el valor diario de la Unidad de Medida y Actualización que se duplicará en caso de reincidencia;
 
 2. El auxilio de la fuerza pública; y
 
@@ -781,9 +785,13 @@ La Tesorería Municipal, previa autorización del Ayuntamiento, podrá cancelar 
 
 I. Se consideran créditos de cobro incosteable:
 
-a) Aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a cuatro tantos del salario mínimo vigente, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-b) Aquellos cuyo importe sea inferior o igual a trescientos tantos del salario mínimo vigente, y cuyo costo de recuperación rebase el 75% del importe del crédito, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible.
+a) Aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a cuatro tantos del valor diario de la Unidad de Medida y Actualización vigente, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Aquellos cuyo importe sea inferior o igual a trescientos tantos del valor diario de la Unidad de Medida y Actualización vigente, y cuyo costo de recuperación rebase el 75% del importe del crédito, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible; y
 
 > <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2004)</small>
 
@@ -1543,17 +1551,21 @@ a) La Federación, el Estado y los municipios;
 
 b) Los contratos de construcción que celebren las empresas paraestatales y organismos descentralizados;
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-c) Los contratos de construcción o financiamientos relativos a la edificación de viviendas de interés social, ubicadas en el cajón salarial menor a 2 veces el salario mínimo, y
+c) Los contratos de construcción o financiamiento relativos a la edificación de viviendas de interés social, ubicadas en el cajón salarial menor a 2 veces el valor diario de la Unidad de Medida y Actualización; y
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
 
 d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del municipio que corresponda; en caso de no tenerla, se sujetará a la siguiente definición:
 
-1. Se entiende por vivienda de interés social aquella cuyo valor catastral no exceda de quince salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble, y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-2. Se entiende por vivienda popular aquella cuyo valor catastral no exceda de veinticinco salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble, y
+1. Se entiende por vivienda de interés social aquella cuyo valor catastral no exceda de quince veces el valor diario de la Unidad de Medida y Actualización, elevados al año en el área geográfica donde se localice el inmueble; y
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+2. Se entiende por vivienda popular aquella cuyo valor catastral no exceda de veinticinco veces el valor diario de la Unidad de Medida y Actualización, elevados al año, en el área geográfica donde se localice el inmueble; y
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE DICIEMBRE DE 2014)</small>
 
@@ -1987,7 +1999,9 @@ Queda prohibido el subarrendamiento de bienes inmuebles propiedad del Municipio.
 
 La Tesorería Municipal llevará un inventario de los bienes muebles e inmuebles propiedad del municipio, el cual deberá ser permanentemente actualizado, debiendo comunicar la Auditoría Superior, las altas y bajas que se realicen a más tardar el día cinco del mes siguiente del que se haya efectuado el movimiento.
 
-La obligación anterior no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe de diez días de salario.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La obligación anterior no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe equivalente a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
@@ -2865,9 +2879,13 @@ III. Los demás gastos que se eroguen en el procedimiento deberán reembolsarse.
 
 El cobro de honorarios conforme a las tarifas señaladas, en ningún caso, excederá de los siguientes límites:
 
-a) Del importe de 30 días de salario mínimo general, por requerimientos no satisfechos dentro de los plazos legales, de cuyo posterior cumplimiento se derive el pago extemporáneo de prestaciones fiscales; ni
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-b) Del importe de 45 días de salario mínimo general, por diligencias de embargo y por las de remoción del deudor como depositario, que impliquen extracciones de bienes.
+a) Del importe de 30 veces el valor diario de la Unidad de Medida y Actualización, por requerimientos no satisfechos dentro de los plazos legales, de cuyo posterior cumplimiento se derive el pago extemporáneo de prestaciones fiscales; ni
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+b) Del importe de 45 veces el valor diario de la Unidad de Medida y Actualización, por diligencias de embargo y por las de remoción del deudor como depositario, que impliquen extracciones de bienes.
 
 Todos los gastos de ejecución serán a cargo del contribuyente y, en ningún caso, podrán ser condonados total o parcialmente.
 
@@ -2919,7 +2937,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la Tesorería Municipal y en los lugares públicos que se juzgue conveniente.
 
-La convocatoria se publicará en el Periódico Oficial El Estado de Jalisco, por una sola vez, y dos veces, de diez en diez días, en uno de los diarios de mayor circulación de la localidad, cuando se trate de bienes inmuebles; tratándose de bienes muebles, cuando el valor de éstos exceda del importe de 40 días de salario mínimo general vigente.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La convocatoria se publicará en el Periódico Oficial El Estado de Jalisco, por una sola vez, y dos veces, de diez en diez días, en uno de los diarios de mayor circulación de la localidad, cuando se trate de bienes inmuebles; tratándose de bienes muebles, cuando el valor de éstos exceda del importe de 40 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Art. 288.
 
@@ -3684,3 +3704,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Treinta días hábiles después de la publicación del presente decreto, la dependencia municipal competente en la materia, emitirá los lineamientos para la emisión de las constancias respectivas a los particulares que acrediten el cumplimiento de los lineamientos de la norma estatal de naturación de techo.
 
 De igual forma la Tesorería, treinta días hábiles después de la publicación emitirá los lineamientos para aplicar las reducciones a las que se refiere el presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
