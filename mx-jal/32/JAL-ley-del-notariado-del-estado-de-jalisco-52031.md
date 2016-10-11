@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2015-04-16"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 16 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -761,7 +763,9 @@ La actividad notarial sólo podrá anunciarse por los medios y en la forma que d
 
 Queda prohibido a toda persona que no sea notario en el Estado de Jalisco, efectuar o difundir por cualquier medio anuncios de prestación de servicios notariales, el trámite de ellos, o la realización de actividades que correspondan exclusivamente a la competencia de los notarios.
 
-Se equipara al delito de usurpación de funciones públicas y se sancionará con pena de dos a seis años de prisión y multa de quinientos a mil salarios mínimos vigentes, a quien sin ser notario o siéndolo se encuentre con suspensión o licencia concedida por el titular del Poder Ejecutivo del Estado o sin tener fíat expedido por el Ejecutivo del Estado, ofrezca por cualquier medio de comunicación, prestar servicios notariales dentro del Estado de Jalisco o mantenga protocolos, libros, folios, sellos, hologramas, hojas membretadas para la utilización en testimonios, relacionadas con la actividad notarial.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Se equipara al delito de usurpación de funciones públicas y se sancionará con pena de dos a seis años de prisión y multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, a quien sin ser notario o siéndolo se encuentre con suspensión o licencia concedida por el titular del Poder Ejecutivo del Estado o sin tener fíat expedido por el Ejecutivo del Estado, ofrezca por cualquier medio de comunicación, prestar servicios notariales dentro del Estado de Jalisco o mantenga protocolos, libros, folios, sellos, hologramas, hojas membretadas para la utilización en testimonios, relacionadas con la actividad notarial.
 
 Cualquier persona hará del conocimiento del ministerio público el hecho delictuoso, quien de inmediato investigará los hechos denunciados y procederá al aseguramiento de los protocolos, libros, sellos, folios, hologramas, y hojas membretadas para la utilización en testimonios, que sean objeto del delito, dando aviso de ello con una copia al Archivo de Instrumentos Públicos del Estado, así como a la Secretaría General de Gobierno y al Colegio de Notarios.
 
@@ -1777,11 +1781,11 @@ El término de la prescripción se suspenderá en la fecha en que el agraviado r
 
 Se amonestará por escrito al notario cuando incurra en la violación a las siguientes disposiciones legales: 4.°, 15, 41, 45 tercer párrafo, 46, 47, 48, 70, 72, 84, 86, 100, 103, 105, 106, 107, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 120, 124, 125 y 130 de esta ley.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 151.
 
-Se impondrá multa al notario, hasta un máximo de 200 días de salario mínimo, cuando incurra en la violación de los artículos 63, 64, 67, 68, 69, 74, 94 y 119 de ésta Ley.
+Se impondrá multa al notario, hasta un máximo de 200 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, cuando incurra en la violación de los artículos 63, 64, 67, 68, 69, 74, 94 y 119 de esta Ley.
 
 Los salarios mínimos que servirán de base para la cuantificación de la multa, serán los generales vigentes en la Zona Metropolitana en la fecha del pago de la sanción.
 
@@ -2033,9 +2037,11 @@ Transcurrido el término anterior, el Secretario General de Gobierno analizará 
 
 En caso de que se considere procedente, el Titular del Poder Ejecutivo emitirá acuerdo en el que se ordene la instauración del procedimiento administrativo contra el notario inculpado, en el que se precisará la causa por la que se inicia, los hechos que lo motiven, los fundamentos legales, así como la referencia de las actas y demás documentos que lo originen, disponiendo notificar al Notario y al quejoso, entregándoles copia del mismo, así como de los documentos que lo funden.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 180.
 
-En el mismo acuerdo de inicio del procedimiento, se señalará día y hora para que tenga verificativo una audiencia de avenimiento con intervención del Colegio de Notarios, a través de un representante designado al efecto por su Consejo, a la que deberán comparecer personalmente las partes, con el apercibimiento que de no asistir con justa causa, se les impondrá una multa hasta por el equivalente de 200 días de salario mínimo vigente en la Zona Metropolitana.
+En el mismo acuerdo de inicio del procedimiento, se señalará día y hora para que tenga verificativo una audiencia de avenimiento con intervención del Colegio de Notarios, a través de un representante designado al efecto por su Consejo, a la que deberán comparecer personalmente las partes, con el apercibimiento que de no asistir con justa causa, se les impondrá una multa hasta por el equivalente de 200 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 181.
 
@@ -2814,3 +2820,11 @@ DÉCIMO. Los certificados electrónicos, así como los actos realizados con ello
 P.O. 16 DE ABRIL DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
