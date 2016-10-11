@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-regular-la-venta-y-el-consumo-de-bebidas-54505"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-13"
-last_updated: "2015-10-24"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 13 de enero de 2007.
 
@@ -661,21 +663,27 @@ V. Arresto administrativo; y
 
 VI. Revocación de la licencia.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 48.
 
-1. Las sanciones administrativas de naturaleza económica previstas en el presente ordenamiento, se determinan en días de salario mínimo vigente en la zona económica del lugar en que se cometa la infracción.
+1. Las sanciones administrativas de naturaleza económica previstas en el presente ordenamiento, se determinan en el valor de la Unidad de Medida y Actualización.
 
 ###### Artículo 49.
 
 1. Los casos de reincidencia se sancionarán, aplicando doble multa de la que se hubiere impuesto con anterioridad y en su caso se procederá a la clausura del establecimiento, ya sea temporal o definitiva, conforme a los supuestos previstos por el artículo anterior.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 50.
 
-1. Se impondrá multa de 8 a 85 días de salario mínimo a quien no tenga en lugar visible de su establecimiento la licencia o copia certificada de la misma.
+1. Se impondrá multa de 8 a 85 veces el valor de la Unidad de Medida y Actualización al momento de cometer la infracción; a quien no tenga en lugar visible de su establecimiento la licencia o copia certificada de la misma.
 
 ###### Artículo 51.
 
-1. Se impondrá multa de 17 a 170 días de salario mínimo a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+1. Se impondrá multa de 17 a 170 veces el valor de la Unidad de Medida y Actualización al momento de cometer la infracción; a quien:
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -697,7 +705,9 @@ III. Carezca de los avisos relacionados con la aplicación de las medidas y prog
 
 ###### Artículo 52.
 
-1. Se impondrá multa de 35 a 350 días de salario mínimo a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+1. Se impondrá multa de 35 a 350 veces el valor de la Unidad de Medida y Actualización al momento de cometer la infracción a quien:
 
 I. Venda o permita el consumo de bebidas alcohólicas sin alimentos en los establecimientos que así lo señala la ley;
 
@@ -737,7 +747,9 @@ VIII. Venda o permita el consumo de bebidas alcohólicas en contravención a los
 
 ###### Artículo 53.
 
-1. Se impondrá multa de 70 a 700 días de salario mínimo a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+1. Se impondrá multa de 70 a 700 veces el valor de la Unidad de Medida y Actualización al momento de cometer la infracción a quien:
 
 I. Almacene, distribuya, venda o consuma bebidas alcohólicas en los lugares prohibidos por la presente ley;
 
@@ -763,7 +775,9 @@ X. Permita que permanezca gente en el establecimiento después de la hora fijada
 
 ###### Artículo 54.
 
-1. Se impondrá multa de 140 a 1400 días de salario mínimo y la clausura temporal del establecimiento a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+1. Se impondrá multa de 140 a 1400 veces el valor de la Unidad de Medida y Actualización al momento de cometer la infracción y la clausura temporal del establecimiento a quien:
 
 I. Opere un establecimiento sin haber tramitado u obtenido la revalidación de la licencia;
 
@@ -779,11 +793,9 @@ VI. Ordene o permita que la entrada del público al establecimiento se realice e
 
 ###### Artículo 55.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
-
-1. Se impondrá multa de 1440 a 2800 días de salario mínimo y en su caso, la revocación de la licencia o del permiso provisional respectivo a quien:
+1. Se impondrá multa de 1440 a 2800 veces el valor de la Unidad de Medida y Actualización al momento de cometer la infracción y en su caso, la revocación de la licencia o del permiso provisional respectivo a quien:
 
 l. Venda o suministre bebidas alcohólicas adulteradas, contaminadas o alteradas en los términos de las disposiciones de salud aplicable;
 
@@ -990,3 +1002,11 @@ SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretar�
 P.O. 24 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
