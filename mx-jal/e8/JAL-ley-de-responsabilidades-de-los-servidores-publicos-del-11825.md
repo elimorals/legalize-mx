@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2016-08-20"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -785,9 +785,13 @@ XXXV. Responder las recomendaciones que les presente la Comisión Estatal de Der
 
 A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar, a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XXXVII (SIC). Abstenerse de realizar la enajenación o donación de cualquier bien del dominio privado durante los últimos seis meses de la Administración Pública Municipal; y
+XXXVI. Abstenerse de realizar la enajenación o donación de cualquier bien del dominio privado durante los últimos seis meses de la Administración Pública Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXXVII. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano sea parte; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -829,19 +833,23 @@ Recibida la denuncia o queja, el órgano de control disciplinario deberá emitir
 
 En el ámbito de sus atribuciones, las autoridades señaladas en el artículo 3.° de esta ley deberán establecer en sus normas la instancia o dependencia que fungirá como órgano disciplinario que atienda las quejas y denuncias de manera pronta y expedita; quedando obligadas a turnar a la autoridad correspondiente aquellas que no sean de su competencia, orientando al particular la instancia y el seguimiento que corresponda.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 65.
 
-Las facultades para exigir la responsabilidad administrativa prescribirán en seis meses si el daño causado no excede de cincuenta veces el salario mínimo vigente en la zona metropolitana de Guadalajara o si la responsabilidad fuere leve y no estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiere cesado si fuere de carácter continuo. En los demás casos, prescribirán en tres años con tres meses. Prescribe en treinta días hábiles la atribución del superior jerárquico de la dependencia de que se trate, sobre la imposición del apercibimiento y la amonestación. La prescripción contará a partir del día siguiente del acto irregular a sancionar.
-
-Los términos de prescripción se interrumpirán cuando se practique el procedimiento de investigación administrativa para comprobar la infracción y de ello queden constancias fehacientes, sin pasar del límite de tiempo establecido por el artículo 84 de esta ley.
+Las facultades para exigir la responsabilidad administrativa prescribirán en seis meses si el daño causado no excede de cincuenta veces el valor diario de la Unidad de Medida y Actualización o si la responsabilidad fuere leve y no estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiere cesado si fuere de carácter continuo. En los demás casos, prescribirán en tres años con tres meses. Prescribe en treinta días hábiles la atribución del superior jerárquico de la dependencia de que se trate, sobre la imposición del apercibimiento y la amonestación. La prescripción contará a partir del día siguiente del acto irregular a sancionar.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
+Los términos de prescripción se interrumpirán cuando se practique el procedimiento de investigación administrativa para comprobar la infracción y de ello queden constancias fehacientes, sin pasar del límite de tiempo establecido por el artículo 84 de esta ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 66.
 
-Los titulares de las entidades públicas que conforme a la presente ley deban aplicar las sanciones a los servidores públicos por responsabilidades administrativas, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de cien veces el salario mínimo diario vigente en la zona económica correspondiente y, en su caso, sea reparado el daño a la respectiva autoridad que refiere el artículo 3.° de la presente ley.
+Los titulares de las entidades públicas que conforme a la presente ley deban aplicar las sanciones a los servidores públicos por responsabilidades administrativas, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de cien veces el valor diario de la Unidad de Medida y Actualización y, en su caso, sea reparado el daño a la respectiva autoridad que refiere el artículo 3°. de la presente ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 Incurrirán en responsabilidad administrativa los servidores públicos que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta ley.
 
@@ -991,7 +999,7 @@ Se entregará una copia de la amonestación al sancionado y una más se insertar
 
 #### Sección Cuarta. Sanciones pecuniarias
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
@@ -999,11 +1007,9 @@ Se entregará una copia de la amonestación al sancionado y una más se insertar
 
 Para la aplicación de sanciones pecuniarias por los daños y perjuicios causados por el servidor público presunto responsable a las autoridades descritas en el artículo 3°. de esta ley, por el incumplimiento de alguna de las obligaciones establecidas en el artículo 61 de este ordenamiento con excepción a la dispuesta por su fracción XXII, se podrán aplicar hasta dos tantos del daño causado, atendiendo a la determinación liquida que se efectúe, sin que en ningún caso se deje de cubrir el menoscabo sufrido por el erario estatal o municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-Las sanciones pecuniarias deberán cubrirse una vez determinada la cantidad líquida en su equivalencia en salarios mínimos vigentes al día de su pago. Se otorgará un plazo máximo de quince días naturales para que el servidor público pague la sanción pecuniaria que se le imponga. En caso de incapacidad material para sufragar el pago, los servidores públicos podrán celebrar con los titulares de las respectivas entidades públicas convenio para realizar el pago hasta por un plazo de tres años, pero en ningún caso los pagos que se convengan dejarán al servidor público con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
+Las sanciones pecuniarias deberán cubrirse una vez determinada la cantidad líquida en su equivalencia en el valor diario de la Unidad de Medida y Actualización vigentes al día de su pago. Se otorgará un plazo máximo de quince días naturales para que el servidor público pague la sanción pecuniaria que se le imponga. En caso de incapacidad material para sufragar el pago, los servidores públicos podrán celebrar con los titulares de las respectivas entidades públicas convenio para realizar el pago hasta por un plazo de tres años, pero en ningún caso los pagos que se convengan dejarán al servidor público con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1021,13 +1027,15 @@ Las sanciones pecuniarias constituirán créditos fiscales a favor del erario es
 
 Las sanciones pecuniarias impuestas por el incumplimiento a la obligación de presentar en tiempo y forma la declaración de situación patrimonial, se constituirán a favor de la entidad pública facultada para conocerla conforme a lo dispuesto por el artículo 94 de la presente ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 76 Bis.
 
-El servidor público que omita presentar las declaraciones de situación patrimonial a que se refieren las fracciones I a III del artículo 96, de este ordenamiento se hará acreedor a una sanción pecuniaria de siete a ochenta veces el salario mínimo vigente para la Zona Metropolitana de Guadalajara.
+El servidor público que omita presentar las declaraciones de situación patrimonial a que se refieren las fracciones I a III del artículo 96 de este ordenamiento se hará acreedor a una sanción pecuniaria de siete a ochenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 El órgano de control, registro y verificación de la situación patrimonial correspondiente, determinará el monto de la sanción considerando para ello, el nivel y las percepciones del servidor público omiso.
 
@@ -1205,7 +1213,9 @@ Si el servidor público en su informe o en la audiencia reconociera la responsab
 
 I. Se impondrán al infractor dos tercios de la sanción aplicable si fuere de naturaleza económica, la que deberá ser suficiente para cubrir la indemnización por daños causados, o
 
-II. De conformidad con la gravedad de la falta, el titular de la entidad pública podrá abstenerse de sancionar al infractor por una sola vez, siempre que se trate de hechos que no constituyan delito, lo ameriten sus antecedentes en el servicio público y que el daño causado no exceda de cincuenta veces el salario mínimo vigente en la zona económica correspondiente.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. De conformidad con la gravedad de la falta, el titular de la entidad pública podrá abstenerse de sancionar al infractor por una sola vez, siempre que se trate de hechos que no constituyan delito, lo ameriten sus antecedentes en el servicio público y que el daño causado no exceda de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1231,7 +1241,9 @@ VI. El monto del beneficio, daño o perjuicio derivado de la falta cometida.
 
 Para el cumplimiento de sus determinaciones, las autoridades competentes podrán emplear indistintamente los siguientes medios de apremio:
 
-I. Multa gradual de hasta treinta veces el salario mínimo general diario, vigente en la zona económica correspondiente, al momento de aplicar la sanción. La misma podrá exigirse mediante el procedimiento de ejecución fiscal o su similar de acuerdo con la norma aplicable, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. Multa gradual de hasta treinta veces el valor diario de la Unidad de Medida y Actualización, vigente al momento de aplicar la sanción. La misma podrá exigirse mediante el procedimiento de ejecución fiscal o su similar de acuerdo con la norma aplicable; y
 
 II. Auxilio de la fuerza pública.
 
@@ -1748,3 +1760,17 @@ P.O. 20 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25879/LXI/16 QUE REFORMA LOS ARTÍCULOS 55 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y 61 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
