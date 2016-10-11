@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2016-05-17"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -1391,39 +1393,63 @@ Las personas físicas o jurídicas que incumplan lo establecido en esta ley, ser
 
 Se consideran sanciones pecuniarias:
 
-I. Al que no manifestare el ejercicio de la explotación pecuaria en los términos de la ley, se le impondrá multa equivalente a cien días de salario mínimo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito u orden de sacrificio, se le impondrá una multa equivalente de cien a doscientos días de salario mínimo;
+I. Al que no manifestare el ejercicio de la explotación pecuaria en los términos de la ley, se le impondrá multa equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
 
-III. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la ley, se harán acreedores a una multa equivalente de cien a doscientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV. Al transportador de cualquier especie doméstica productiva que no se detenga para su revisión correspondiente en los puntos de verificación zoosanitaria, se le impondrá una multa equivalente de cien a doscientos días de salario mínimo;
+II. Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito u orden de sacrificio, se le impondrá una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-V. A quien se le detenga con animales orejanos o mostrencos sin la autorización correspondiente, se hará acreedor a una multa equivalente de cien a trescientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+III. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la ley, se harán acreedores a una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cinco a diez días de salario mínimo por cabeza de ganado bovino, de acuerdo con las equivalencias señaladas en el artículo 31 de la presente ley.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-En caso de movilización de ganado mayor sin la correspondiente tarjeta de tránsito pecuario individual o guía de tránsito respectiva, dicha multa será de diez a veinte días de salario mínimo por cabeza;
+IV. Al transportador de cualquier especie doméstica productiva que no se detenga para su revisión correspondiente en los puntos de verificación zoosanitaria, se le impondrá una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Al que transporte productos y subproductos de origen pecuario sin guía de tránsito o no haga alto obligatorio en cualquier punto de verificación zoosanitario, se le impondrá una multa equivalente de doscientos a quinientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VIII. Al propietario o usuario que no construya y no dé mantenimiento a las cercas de los terrenos utilizados como agostaderos, se le impondrá una multa equivalente de treinta a cincuenta días de salario mínimo;
+V. A quien se le detenga con animales orejanos o mostrencos sin la autorización correspondiente, se hará acreedor a una multa equivalente de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-IX. A la persona que ordene el transporte de animales afectados por enfermedad infectocontagiosa contemplada en el reglamento de esta ley, se le aplicará una multa equivalente de quinientos a mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-X. Al que llevare a cabo cualquier compra-venta con animales atacados por enfermedad infectocontagiosa, contemplada en el reglamento de esta ley o en otras disposiciones legales aplicables se le aplicará una multa equivalente de doscientos a trescientos días de salario mínimo;
+VI. Quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cinco a diez veces el valor diario de la Unidad de Medida y Actualización por cabeza de ganado bovino, de acuerdo con las equivalencias señaladas en el artículo 31 de la presente ley.
 
-XI. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de cien a doscientos días de salario mínimo;
+En caso de movilización de ganado mayor sin la correspondiente tarjeta de tránsito pecuario individual o guía de tránsito respectiva, dicha multa será de diez a veinte veces el valor diario de la Unidad de Medida y Actualización por cabeza;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VII. Al que transporte productos y subproductos de origen pecuario sin guía de tránsito o no haga alto obligatorio en cualquier punto de verificación zoosanitario, se le impondrá una multa equivalente de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VIII. Al propietario o usuario que no construya y no dé mantenimiento a las cercas de los terrenos utilizados como agostaderos, se le impondrá una multa equivalente de treinta a cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX. A la persona que ordene el transporte de animales afectados por enfermedad infectocontagiosa contemplada en el reglamento de esta ley, se le aplicará una multa equivalente de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+X. Al que llevare a cabo cualquier compra-venta con animales atacados por enfermedad infectocontagiosa, contemplada en el reglamento de esta ley o en otras disposiciones legales aplicables se le aplicará una multa equivalente de doscientas a trescientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XI. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
 XII. A los inspectores de ganadería al incurrir en otorgamiento ilícito de permisos de sacrificio para animales irregulares se les cesará definitivamente de sus funciones;
 
 XIII. A los expeditores que otorguen guías, facturas y demás documentos a que se refiere la presente ley y su reglamento, sin cumplir con los requisitos enunciados en la misma, serán suspendidos de sus funciones mientras tanto no sea comprobada la responsabilidad incurrida; y
 
-XIV. Los casos no previstos en las fracciones anteriores serán sancionados con una multa de cien a mil salarios mínimos, tomando en consideración la falta en que se incurra.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, deberá entenderse al vigente en la capital del Estado al momento de cometerse la infracción.
+XIV. Los casos no previstos en las fracciones anteriores serán sancionados con una multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización, tomando en consideración la falta en que se incurra.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Para los efectos de lo dispuesto en el presente artículo, por valor diario de la Unidad de Medida y Actualización, deberá entenderse la vigente al momento de cometerse la infracción.
 
 En caso de reincidencia en la comisión de infracciones o faltas a que alude el presente artículo, la sanción pecuniaria será aumentada en un cien por ciento.
 
@@ -1558,5 +1584,13 @@ QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias 
 P.O. 17 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
