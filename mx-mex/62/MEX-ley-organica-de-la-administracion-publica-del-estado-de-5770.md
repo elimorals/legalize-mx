@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-09-07"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN SÉPTIMA DE LA GACETA DEL GOBIERNO DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -36,8 +38,6 @@ DECRETO NUMERO 2
 LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
 
 DECRETA:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN TRANSITORIO SEXTO, PUBLICADO EN LA G.G. 17 DE DICIEMBRE DE 2014, CUANDO OTROS ORDENAMIENTOS LEGALES, ADMINISTRATIVOS Y DEMÁS DOCUMENTACIÓN Y PAPELERÍA HAGAN REFERENCIA A LA SECRETARÍA DE SEGURIDAD CIUDADANA, SE ENTENDERÁ A LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA.</small>
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
@@ -523,9 +523,29 @@ XXIII. Proyectar y calcular los egresos del Gobierno del Estado y los ingresos y
 
 XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias del Ejecutivo y de sus organismos auxiliares.
 
-> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
 
-XXV. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
+XXV. Establecer y llevar los sistemas de contabilidad gubernamental, disciplina financiera y de estadística general del Gobierno del Estado.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Bis. Garantizar, en el ámbito de su competencia, la aplicación de las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria, en términos de la legislación en la materia
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Ter. Realizar periódicamente la evaluación del cumplimiento de las obligaciones específicas de responsabilidad hacendaria a cargo de los municipios, en términos de lo establecido en los propios convenios, remitiendo los resultados a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Quáter. Proporcionar, en el ámbito de su competencia, la información necesaria para que la Secretaría de Hacienda y Crédito Público esté en aptitud de realizar la evaluación del Sistema de Alertas a que se refiere el artículo 43 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Quintus. Proporcionar, en el ámbito de su competencia, la información financiera que solicite la Secretaría de Hacienda y Crédito Público para dar cumplimiento a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Sexies. Celebrar convenios con los entes públicos estatales que se ubiquen en un nivel de endeudamiento elevado, con el objeto de establecer obligaciones específicas de responsabilidad hacendaria.
 
 > <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -3018,3 +3038,35 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2016.
+
+> <small>(F. DE E., G.G. 11 DE OCTUBRE DE 2016)</small>
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- El Presupuesto de Egresos y las Leyes de Ingresos deberán elaborarse de conformidad con las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria que al respecto se establecen en el presente Decreto y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, atendiendo a los plazos establecidos en este último ordenamiento.
+
+CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria a que se refiere el Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del Estado y sus entes públicos en el ejercicio fiscal 2017, y para los Municipios y sus entes públicos en el ejercicio fiscal 2018, con las salvedades previstas en la citada Ley.
+
+QUINTO.- El porcentaje a que hace referencia el artículo 292 Ter del Código Financiero del Estado de México y Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+Para el caso de los municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 será hasta por el 2.5 por ciento.
+
+SEXTO.- Para la aplicación del artículo 292 Quáter del Código Financiero del Estado de México y Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 será de 10 por ciento.
+
+SÉPTIMO.- La fracción I del artículo 292 Quintus del Código Financiero del Estado de México y Municipios, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo citado hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales y estatales o reformas a las mismas, a que se refiere el último párrafo de la mencionada fracción serán aquéllas que se emitan con posterioridad a la entrada en vigor de este Decreto.
+
+OCTAVO.- Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 317 Bis A Segundo Párrafo fracción I del Código Financiero del Estado de México y Municipios, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
+
+NOVENO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
