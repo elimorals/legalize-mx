@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-de-transporte-colectivo-de-la-zona-625
 country: "mx"
 rank: "ley_organica"
 publication_date: "1978-03-16"
-last_updated: "2014-11-22"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de marzo de 1978.
 
@@ -89,13 +89,21 @@ IV.- El Presidente Municipal de Tlaquepaque;
 
 V.- El Presidente de la Cámara Nacional de Comercio de Guadalajara;
 
-VI.- El Secretario de Finanzas del Estado, quien tendrá el carácter de Tesorero del Consejo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-VII.- El Secretario de Vialidad y Transporte del Estado;
+VI.- El Secretario de Planeación, Administración y Finanzas del Estado, quien tendrá el carácter de Tesorero del Consejo;
 
-VIII.- El Secretario de Desarrollo Urbano y Rural del Estado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IX.- El Secretario de Promoción y Desarrollo Económico del Estado;
+VII.- El Secretario de Movilidad del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VIII.- El Secretario de Desarrollo Rural del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX.- El Secretario de Desarrollo Económico del Estado;
 
 X.- El Secretario General de la Federación de Trabajadores de Jalisco;
 
@@ -310,3 +318,9 @@ SEXTO. Los Organismos Públicos Descentralizados denominados: a) Sistema de Tren
 SÉPTIMO. Se autoriza que los efectos legales de los actos jurídicos que se celebren con base en este Decreto, trasciendan el periodo de la presente Administración Pública Estatal hasta su total cumplimiento.
 
 OCTAVO. Se deroga todo aquello que se oponga al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25876/LXI/16 QUE SE REFORMA EL ARTÍCULO 16 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; EL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA; EL ARTÍCULO 8 DEL DECRETO NÚMERO 13555, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TREN ELÉCTRICO URBANO; EL ARTÍCULO 7 DEL DECRETO NÚMERO 14139, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO, SERVICIOS Y TRANSPORTES; Y LA DENOMINACIÓN DEL CAPÍTULO X DEL TÍTULO CUARTO DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
