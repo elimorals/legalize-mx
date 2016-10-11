@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-promocion-de-inversiones-en-el-estado-de-jalisco-87
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2014-06-14"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -415,13 +417,17 @@ Los incentivos se ofrecerán y, en su caso, se otorgarán en la cuantía necesar
 
 El Consejo del Sistema Estatal para la Promoción de Inversiones, la Secretaría y el Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley, en el ejercicio de las atribuciones que esta Ley les otorga, estarán facultados para autorizar el otorgamiento de incentivos, mediante resolución que recaiga a cada uno de los casos de inversión que se sometan a su consideración, en las siguientes cuantías:
 
-I. El Comité Técnico del Fondo mencionado en el artículo 6º de esta Ley, en caso de que el Titular del Poder Ejecutivo del Estado valoré conveniente su creación, tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos cuando la cuantía de estos beneficios sea inferior a 430 mil veces el salario mínimo general correspondiente al área geográfica a la que pertenezca la ciudad de Guadalajara, Jalisco, vigente al momento en que se expida la resolución respectiva;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+I. El Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley, en caso de que el Titular del Poder Ejecutivo del Estado valore conveniente su creación, tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos cuando la cuantía de estos beneficios sea inferior a 430 mil veces el valor diario de laUnidad (sic) de Medida y Actualización.
 
-II. La Secretaría tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos, por montos cuya cuantía se ubique entre 430 mil y 690 mil veces el salario mínimo general correspondiente al área geográfica a la que pertenezca la ciudad de Guadalajara, Jalisco, vigente al momento en que se apruebe la resolución respectiva; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-III. El Consejo del Sistema Estatal de Promoción de Inversiones tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos cuando la cuantía de los beneficios supere el equivalente a 690 mil veces el salario mínimo general de la ciudad de Guadalajara, vigente al momento en que se apruebe la resolución respectiva.
+II. La Secretaría tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos, por montos cuya cuantía se ubique entre 430 mil y 690 mil veces el valor diario de laUnidad (sic) de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+III. El Consejo del Sistema Estatal de Promoción de Inversiones tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos cuando la cuantía de los beneficios supere el equivalente a 690 mil veces el valor diario de laUnidad (sic) de Medida y Actualización.
 
 Los diversos órganos e instancias del Sistema Estatal de Promoción de Inversiones podrán recomendar el otorgamiento de incentivos a proyectos productivos, a la instancia que sea competente para autorizarlos, siempre que la recomendación se transmita por escrito, junto con la documentación inherente al caso de inversión respectivo.
 
@@ -672,3 +678,11 @@ Quinto. Todos los recursos materiales, financieros y humanos del Organismo Públ
 Sexto. Para los efectos del artículo anterior, deberán respetarse íntegramente y en todo momento los derechos laborales de los servidores públicos del Organismo Público Descentralizado que se extingue.
 
 Séptimo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
