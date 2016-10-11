@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2016-07-09"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -1915,13 +1917,21 @@ XXI. Descargar aguas residuales, basura, desechos, materiales y sustancias tóxi
 
 Se sancionará con:
 
-I. Multa por el equivalente de entre cincuenta hasta cien días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones I, II, VIII, X, XVII y XIX del artículo 102 de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Multa por el equivalente de entre cien hasta doscientos días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones VI, IX, XI, XII y XIII del articulo 102 de esta Ley;
+I. Multa por el equivalente de entre cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, tratándose de las infracciones señaladas en las fracciones I, II, VIII, X, XVII y XIX del artículo 102 de esta Ley;
 
-III. Multa por el equivalente de entre doscientos hasta quinientos días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones III, IV, V, VII, XIV, XVI y XIII del artículo 102 de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV. Multa por el equivalente de entre quinientos hasta mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones XV, XX y XXI del articulo 102 de esta Ley; y
+II. Multa por el equivalente de entre cien hasta doscientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en tratándose de las infracciones señaladas en las fracciones VI, IX, XI, XII y XIII del artículo 102 de esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+III. Multa por el equivalente de entre doscientos hasta quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en tratándose de las infracciones señaladas en las fracciones III, IV, V, VII, XIV, XVI y XIII del artículo 102 de esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Multa por el equivalente de entre quinientos hasta mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en tratándose de las infracciones señaladas en las fracciones XV, XX y XXI del artículo 102 de esta Ley; y
 
 V. Suspensión o cancelación del titulo de concesión, en tratándose de las infracciones previstas en las fracciones III, IV, V, XX y XXI del artículo 102 de esta Ley, además de la multa que corresponda.
 
@@ -2096,5 +2106,13 @@ DECRETO NÚMERO 25297/LX/15, POR EL QUE SE REFORMAN LOS ARTÍCULOS 35 FRACCIONES
 P.O. 9 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25852/LXI/16 QUE REFORMA LOS ARTÍCULOS 14, PRIMER PÁRRAFO, 20, FRACCIÓN II, 23, FRACCIONES XX Y XXIV, 25, FRACCIÓN III, INCISOS A), C), E) Y F), 92 Y 105, TERCER PÁRRAFO, DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
