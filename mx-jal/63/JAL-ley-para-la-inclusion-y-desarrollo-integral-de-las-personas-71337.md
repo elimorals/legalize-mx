@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2015-12-17"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -34,8 +34,6 @@ NÚMERO 23081/LVIII/09 EL CONGRESO DEL ESTADO DECRETA:
 ###### ARTÍCULO UNICO.
 
 Se crea la Ley para la Atención y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco, para quedar como sigue:
-
-> <small>[N. DE E. EL DECRETO NÚMERO 25558/LX/15, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -977,13 +975,17 @@ VIII. Canalizar a las personas con discapacidad a las instituciones públicas y 
 
 IX. Expedir por conducto del Ayuntamiento normas municipales contra la discriminación, las cuales consistirán en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-X. Sancionar la discriminación; y
+X. Sancionar la discriminación;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XI. Las demás previstas en esta Ley.
+XI. Vigilar que los espacios de recreación, espectáculos y entretenimiento, incluyendo sus lugares de estacionamiento, faciliten el libre acceso y desplazamiento de las personas con discapacidad; y en caso de incumplimiento se aplique la sanción correspondiente; y
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XII. Las demás previstas en esta Ley.
 
 ## TITULO TERCERO. TIPOS DE DISCAPACIDAD Y SUS REQUERIMIENTOS ESPECIALES
 
@@ -1289,35 +1291,41 @@ Las violaciones a la presente Ley por acciones u omisiones cometidas por los ser
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, aplicarán a petición de parte o de oficio, sin menoscabo de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
 
-I. Multa equivalente de 10 a 50 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+I. Multa equivalente de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
 
-II. Multa equivalente de 30 a 90 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a los prestadores en cualquier modalidad de transporte que nieguen, impidan u obstaculicen el uso del servicio a una persona con discapacidad;
+(REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+II. Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los prestadores en cualquier modalidad de transporte que nieguen, impidan u obstaculicen el uso del servicio a una persona con discapacidad;
 
-III. Multa equivalente de 30 a 90 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a los padres o tutores de personas menores de edad que presenten algún tipo de discapacidad, que omitan procurarles los servicios de educación y salud;
+(REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
-IV. Multa equivalente de 180 a 240 veces el salario mínimo vigente en la zona metropolitana de Guadalajara, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad;
+III. Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los padres o tutores de personas menores de edad que presenten algún tipo de discapacidad, que omitan procurarles los servicios de educación y salud;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-V. Multa equivalente de 180 a 240 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a las escuelas públicas o privadas que nieguen la admisión de personas con discapacidad como alumnos regulares del plantel, por causa de dicha discapacidad. Para el caso de escuelas privadas la multa podrá duplicarse en caso de reincidencia y si persiste la negativa se podrá proceder a la revocación de la autorización o retiro del reconocimiento de validez de estudios correspondiente;
+IV. Multa equivalente de 180 a 240 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad;
 
-VI. Multa equivalente de 180 a 240 veces el salario mínimo vigente en la zona metropolitana de Guadalajara, a los constructores o propietarios de obras que incumplan con las disposiciones referentes a la accesibilidad y movilidad de personas con discapacidad.
+(REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+V. Multa equivalente de 180 a 240 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a las escuelas públicas o privadas que nieguen la admisión de personas con discapacidad como alumnos regulares del plantel, por causa de dicha discapacidad. Para el caso de escuelas privadas la multa podrá duplicarse en caso de reincidencia y si persiste la negativa se podrá proceder a la revocación de la autorización o retiro de reconocimiento de validez de estudios correspondiente;
 
-VII. De 250 a mil 500 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a las personas físicas e instituciones públicas y privadas que presten servicios para el diagnóstico, la atención y el tratamiento de personas con discapacidad, e incumplan con algún protocolo o norma técnica que dicte la Secretaría de Salud o cualquier Norma Oficial Mexicana, o no cuenten con la certificación correspondiente en los términos de esta Ley;
+(REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+VI. Multa equivalente de 180 a 240 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los constructores o propietarios de obras que incumplan con las disposiciones referentes a la accesibilidad y movilidad de personas con discapacidad.
 
-VIII. De 250 a mil 500 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a quien emita certificación de reconocimiento y calificación de discapacidad sin reunir los elementos que al efecto determinen los criterios y lineamientos técnicos emitidos por la Secretaría de Salud; y
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+VII. De 250 a mil 500 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a las personas físicas e instituciones públicas y privadas que presten servicios para el diagnóstico, la atención y el tratamiento de personas con discapacidad, e incumplan con algún protocolo o norma técnica que dicte la Secretaría de Salud o cualquier Norma Oficial Mexicana, o no cuenten con la certificación correspondiente en los términos de esta Ley;
 
-IX. De 250 a mil 500 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a quien emita certificación de reconocimiento y calificación de discapacidad no remita al Registro Estatal copia del certificado dentro de los 30 días siguientes al de su emisión.
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VIII. De 250 a mil 500 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quien emita certificación de reconocimiento y calificación de discapacidad sin reunir los elementos que al efecto determinen los criterios y lineamientos técnicos emitidos por la Secretaría de Salud; y
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX. De 250 a mil 500 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quien emita certificación de reconocimiento y calificación de discapacidad no remita al Registro Estatal copia del certificado dentro de los 30 días siguientes al de su emisión.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1446,3 +1454,17 @@ CUARTO. Dentro de los ciento veinte días siguientes a la entrada en vigor de es
 QUINTO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este decreto, el Consejo deberá proponer a la Secretaría de Salud, para su publicación en el Periódico Oficial "El Estado de Jalisco", los criterios y lineamientos técnicos para la emisión de las certificaciones de reconocimiento y calificación de discapacidad en los términos previstos por los artículos 12 y 23, conforme al artículo segundo de este decreto.
 
 SEXTO. Hasta en tanto se expide la Clasificación Nacional de Discapacidades, la evaluación de las personas con discapacidad se realizará conforme a la Clasificación Internacional del Funcionamiento de la Discapacidad y de la Salud.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25877/LXI/16 QUE REFORMA EL ARTÍCULO 35 DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
