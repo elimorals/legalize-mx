@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-mejora-regulatoria-del-estado-de-jalisco-y-sus-70706"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-24"
-last_updated: "2016-07-09"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 24 de octubre de 2009.
 
@@ -309,7 +309,9 @@ n. Instituto Mexicano de la Propiedad Industrial, e
 
 II. Del Poder Ejecutivo, los titulares de las siguientes dependencias y entidades:
 
-a. Coordinación General de Innovación y Desarrollo;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+a. Secretaría de Innovación, Ciencia y Tecnología;
 
 b. Coordinación General de Políticas Públicas;
 
@@ -317,19 +319,27 @@ c. Comisión Estatal del Agua de Jalisco;
 
 d. Secretaría General de Gobierno;
 
-e. Secretaría de Finanzas;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-f. Secretaría de Administración;
+e. Secretaría de Planeación, Administración y Finanzas;
 
-g. Secretaría de Planeación;
+f. (DEROGADO, P.O. 11 DE OCTUBRE DE 2016)
 
-h. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+g. (DEROGADO, P.O. 11 DE OCTUBRE DE 2016)
 
-i. Secretaría de Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+h. Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+i. Secretaría de Infraestructura y Obra Pública;
 
 j. Secretaría de Desarrollo Rural;
 
-k. Secretaría de Vialidad y Transporte;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+k. Secretaría de Movilidad;
 
 l. Secretaría de Salud;
 
@@ -353,27 +363,31 @@ c. Puntos Constitucionales, Estudios Legislativos y Reglamentos;
 
 d. Desarrollo Municipal;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-e. Secretaría de Planeación, Administración y Finanzas;
+e. Gobernación;
 
-f. (DEROGADO, P.O. 9 DE JULIO DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2016)</small>
 
-g. (DEROGADO, P.O. 9 DE JULIO DE 2016)
+f. Medio Ambiente y Desarrollo Sustentable;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2016)</small>
 
-h. Secretaría de Medio Ambiente y Desarrollo Territorial;
+g. Asuntos Metropolitanos;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-i. Secretaría de Infraestructura y Obra Pública;
+h. Desarrollo Regional;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+i. Desarrollo Urbano;
 
 j. Justicia, y
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-k. Secretaría de Movilidad;
+k. Planeación para el Desarrollo;
 
 IV. Del Poder Judicial, el Presidente del Supremo Tribunal de Justicia del Estado de Jalisco, el Presidente del Tribunal de lo Administrativo y un consejero del Consejo de la Judicatura;
 
@@ -916,3 +930,9 @@ P.O. 9 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25851/LXI/16 QUE REFORMA LOS ARTÍCULOS 1, 2, 7, 12, 13, 14, 16, 29, 34, 37, 38, 39, 40, 41, 42, 43, 44, 48, 50, 53, 55, 56, 60, 62, 63 y 65 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25876/LXI/16 QUE REFORMA EL ARTÍCULO 16 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; EL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA; EL ARTÍCULO 8 DEL DECRETO NÚMERO 13555, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TREN ELÉCTRICO URBANO; EL ARTÍCULO 7 DEL DECRETO NÚMERO 14139, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO, SERVICIOS Y TRANSPORTES; Y LA DENOMINACIÓN DEL CAPÍTULO X DEL TÍTULO CUARTO DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
