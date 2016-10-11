@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-del-estado-de-jalisco-38881"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-07"
-last_updated: "2011-10-22"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE JALISCO
 
-LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
+LEY DE OBRAS PÚBLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -503,7 +505,9 @@ II. Cuando se presenten circunstancias extraordinarias que requieran con urgenci
 
 III. En caso fortuito o de fuerza mayor;
 
-IV. En contratos cuyos montos no excedan de dos mil salarios mínimos vigente en la zona económica de que se trate y que se celebren por una sola ocasión dentro de un ejercicio presupuestal, respecto a la misma obra; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. En contratos cuyos montos no excedan de dos mil veces el valor diario de la Unidad de Medida y Actualización y que se celebren por una sola ocasión dentro de un ejercicio presupuestal, respecto a la misma obra; y
 
 V. Cuando se declare desierta la licitación en segunda convocatoria o un concurso en primera convocatoria.
 
@@ -949,13 +953,19 @@ II. Concurso por invitación; o
 
 III. Licitación pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 105.
 
-La obra pública cuyo monto total a cargo de erario público no exceda de veinte mil salarios mínimos puede contratarse por cualquiera de las modalidades señaladas.
+La obra pública cuyo monto total a cargo de (sic) erario público no exceda de veinte mil veces el valor diario de la Unidad de Medida y Actualización puede contratarse por cualquiera de las modalidades señaladas.
 
-La obra pública cuyo monto total a cargo de erario público no exceda de setenta mil salarios mínimos puede contratarse por concurso por invitación o licitación pública.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-La obra pública cuyo monto total a cargo de erario público exceda de setenta mil salarios mínimos debe contratarse por licitación pública.
+La obra pública cuyo monto total a cargo de (sic) erario público no exceda de setenta mil veces el valor diario de la Unidad de Medida y Actualización puede contratarse por concurso por invitación o licitación pública.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La obra pública cuyo monto total a cargo de (sic) erario público exceda de setenta mil veces el valor diario de la Unidad de Medida y Actualización debe contratarse por licitación pública.
 
 Para efectos de este artículo cada obra pública debe considerarse individualmente.
 
@@ -1157,9 +1167,11 @@ Cuando el ente público requiera de un mínimo de capital contable, puede sumars
 
 #### Sección Cuarta. De las bases de licitación
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 125.
 
-Dentro de los cinco días hábiles siguientes a la publicación de la convocatoria, las bases de licitación cuyo presupuesto estimado de contratación sea superior a quinientos mil veces el salario mínimo general vigente en la ciudad de Guadalajara, y aquellas de monto inferior que los entes públicos consideren convenientes, pueden difundirse a través de los medios electrónicos establecidos por el ente público, al menos cinco días hábiles. Durante este lapso deben recibirse los comentarios o invitar a los interesados, profesionales, cámaras o asociaciones empresariales del ramo para participar en la revisión y opinión de las bases de licitación, mediante juntas de aclaraciones.
+Dentro de los cinco días hábiles siguientes a la publicación de la convocatoria, las bases de licitación cuyo presupuesto estimado de contratación sea superior a quinientas mil veces el valor diario de la Unidad de Medida y Actualización, y aquellas de monto inferior que los entes públicos consideren convenientes, pueden difundirse a través de los medios electrónicos establecidos por el ente público, al menos cinco días hábiles. Durante este lapso deben recibirse los comentarios o invitar a los interesados, profesionales, cámaras o asociaciones empresariales del ramo para participar en la revisión y opinión de las bases de licitación, mediante juntas de aclaraciones.
 
 ###### Artículo 126.
 
@@ -2143,15 +2155,23 @@ VIII. Llevar a cabo cualquier acto en contravención a las disposiciones de esta
 
 Sin perjuicio de otras sanciones que procedan, las conductas señaladas en el artículo anterior deben sancionarse con:
 
-I. Con multa de cincuenta a mil veces el salario mínimo general diario, las conductas previstas en las fracciones IV, V y VIII;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Con multa de cien a dos mil veces el salario mínimo general diario, las conductas previstas en las fracciones II, III y VI;
+I. Con multa de cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización, las conductas previstas en las fracciones IV, V y VIII;
 
-III. Con multa de doscientos a cinco mil veces el salario mínimo general diario, las conductas previstas en las fracciones I y VII; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Con multa de cien a dos mil veces el valor diario de la Unidad de Medida y Actualización, las conductas previstas en las fracciones II, III y VI;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+III. Con multa de doscientos a cinco mil veces el valor diario de la Unidad de Medida y Actualización, las conductas previstas en las fracciones I y VII; y
 
 IV. Con suspensión o cancelación de su registro en el Padrón, en su caso, por la reincidencia de cualquiera de la (sic) conductas previstas en el artículo anterior, independientemente de la multa que proceda.
 
-Para los efectos de este artículo, el salario mínimo general diario será el vigente en la capital del Estado.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Para los efectos de este artículo, el valor diario de la Unidad de Medida y Actualización será el vigente en la capital del Estado.
 
 ###### Artículo 252.
 
@@ -2386,5 +2406,13 @@ PRIMERO. Se derogan todas las disposiciones contrarias al presente decreto.
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 22 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
