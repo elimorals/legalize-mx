@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2015-11-12"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -117,9 +119,9 @@ El Pleno del Tribunal de lo Administrativo, su presidente, las Salas para hacer 
 
 I. Amonestaciones;
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Multa, que podrá ser hasta por el monto de ciento veinte días de salario mínimo general vigente en la zona económica correspondiente al municipio de Guadalajara;
+II. Multa, que podrá ser hasta por el monto de ciento veinte veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
 
@@ -291,9 +293,11 @@ Si el Pleno del Tribunal declara fundada la recusación, en la misma resolución
 
 Quien conozca de una recusación, es irrecusable para ese solo efecto.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 28.
 
-La resolución que decida la recusación, es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta del equivalente de un mes de salario mínimo general de la zona económica a la que corresponda el Municipio de Guadalajara.
+La resolución que decida la recusación, es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta del equivalente a treintaveces (sic) el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO IV. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
@@ -551,7 +555,9 @@ A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obl
 
 En los casos en que la autoridad requerida no sea parte, el Magistrado procederá en los mismos términos del párrafo anterior.
 
-Al interesado que maliciosamente o con el solo propósito de demorar la tramitación del juicio, ocurra quejándose de la falta a que se refiere el primer párrafo de este artículo, o informe que se le ha denegado la expedición, se le impondrá multa de hasta el equivalente de un mes de salario mínimo general vigente en el municipio de Guadalajara.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Al interesado que maliciosamente o con el solo propósito de demorar la tramitación del juicio, ocurra quejándose de la falta a que se refiere el primer párrafo de este artículo, o informe que se le ha denegado la expedición, se le impondrá multa de hasta el equivalente a treintaveces (sic) el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 57.
 
@@ -575,7 +581,9 @@ II. El de acumulación de autos; y
 
 III. El de nulidad de notificaciones.
 
-Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta antes de citación para sentencia. Si el incidente interpuesto es notoriamente frívolo e improcedente, se desechará de plano y se impondrá, a quien lo promueva, una multa hasta por el equivalente a un mes del salario mínimo general vigente en el municipio de Guadalajara.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta antes de citación para sentencia. Si el incidente interpuesto es notoriamente frívolo e improcedente, se desechará de plano y se impondrá, a quien lo promueva, una multa hasta por el equivalente a treintaveces (sic) el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 60.
 
@@ -891,9 +899,9 @@ Las sentencias definitivas podrán ser impugnadas por las partes a través del r
 
 Procede el recurso de apelación:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-I. Cuando el asunto al que corresponde la sentencia impugnada sea de una cuantía determinada o determinable que exceda de setecientos días de salario mínimo general vigente en el municipio de Guadalajara;
+I. Cuando el asunto al que corresponde la sentencia impugnada sea de una cuantía determinada o determinable que exceda de setecientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -953,9 +961,11 @@ La autoridad demandada que no obedezca un auto de suspensión que le hubiere sid
 
 La autoridad demandada que insistiere en la repetición de un acto declarado nulo por el tribunal o, agotados los medios de apremio, tratare de eludir el cumplimiento de la Sentencia que hubiere alcanzado fuerza de cosa juzgada, será sancionada por la desobediencia cometida con las penas que el Código Penal establece para el delito de abuso de autoridad.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 106.
 
-Quien interponga un recurso de apelación que resulte desestimado por notoriamente improcedente será sancionado con multa hasta por el equivalente a doscientas veces el salario mínimo general vigente en la zona metropolitana de Guadalajara.
+Quien interponga un recurso de apelación que resulte desestimado por notoriamente improcedente será sancionado con multa hasta por el equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 107.
 
@@ -1144,5 +1154,13 @@ P.O. 24 DE OCTUBRE DE 2015.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
