@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-gestion-integral-de-los-residuos-del-estado-de-54686"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2015-11-12"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -475,9 +475,11 @@ La Secretaría y los Ayuntamientos se encargarán de divulgar por los medios que
 
 ### CAPÍTULO V. DE LOS INSTRUMENTOS ECONÓMICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 27.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos, en coordinación con las autoridades competentes, evaluarán, desarrollarán y promoverán la implementación de instrumentos económicos, fiscales, financieros o de mercado, que incentiven el establecimiento de los planes de manejo; la prevención de la generación, la separación, acopio y aprovechamiento, así como el tratamiento y disposición final, de los residuos sujetos a las disposiciones de esta Ley; así como para la creación de cadenas productivas.
+El Poder Ejecutivo del Estado y los ayuntamientos, en coordinación con las autoridades competentes, evaluarán, desarrollarán y promoverán la implementación de instrumentos económicos, fiscales, financieros o de mercado, que incentiven el establecimiento de los planes de manejo; la autorregulación ambiental de los sectores productivos, comerciales y de servicios; la prevención de la generación, la separación, acopio y aprovechamiento, así como el tratamiento y disposición final, de los residuos sujetos a las disposiciones de esta Ley; así como para la creación de cadenas productivas.
 
 De igual forma promoverán la aplicación de incentivos para la inversión del sector privado en el desarrollo tecnológico, adquisición de equipos y en la construcción de infraestructura para facilitar la prevención de la generación, la reutilización, el reciclaje, el tratamiento y la disposición final ambientalmente adecuados de los residuos sólidos urbanos y de manejo especial, así como de los residuos peligrosos domiciliarios y los generados por los microgeneradores.
 
@@ -1127,15 +1129,25 @@ Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones
 
 I. Amonestación;
 
-II. Multa por el equivalente de veinte a veinte mil días de salario mínimo vigente en la zona del estado donde se cometa la infracción, en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-III. Multa por el equivalente de veinte a cinco mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII y VIII, del artículo 87 de esta Ley:
+II. Multa por el equivalente de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de imponer la sanción;
 
-IV. Multa por el equivalente de cinco mil uno a diez mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones IX, X, XI, XII, XIII y XIV, del artículo 87 de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-V. Multa por el equivalente de diez mil uno a quince mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones XV, XVI, XVII, XVIII, XIX y XX, del artículo 87 de esta Ley;
+III. Multa por el equivalente de veinte a cinco mil veces el valor diario de la Unidad de Medida y Actualización, en tratándose de las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII y VIII, del artículo 87 de esta Ley;
 
-VI. Multa por el equivalente de quince mil uno a veinte mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones XXI y XXII, del artículo 87 de esta Ley:
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Multa por el equivalente de cinco mil uno a diez mil veces el valor diario de la Unidad de Medida y Actualización, en tratándose de las infracciones señaladas en las fracciones IX, X, XI, XII, XIII y XIV, del artículo 87 de esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+V. Multa por el equivalente de diez mil uno a quince mil veces el valor diario de la Unidad de Medida y Actualización, en tratándose de las infracciones señaladas en las fracciones XV, XVI, XVII, XVIII, XIX y XX, del artículo 87 de esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+VI. Multa por el equivalente de quince mil uno a veinte mil veces el valor diario de la Unidad de Medida y Actualización, en tratándose de las infracciones señaladas en las fracciones XXI y XXII, del artículo 87 de esta Ley;
 
 VII. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -1284,3 +1296,21 @@ P.O. 20 DE DICIEMBRE DE 2014.
 P.O. 12 DE NOVIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco"
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25878/LXI/16 QUE REFORMA LOS ARTÍCULOS 3 Y 14 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y 27 DE LA LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado deberá ajustar las disposiciones reglamentarias necesarias para la aplicación del presente decreto, dentro del término de noventa días naturales posteriores a entrada en vigor de este decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
