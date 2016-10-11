@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2015-11-26"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -613,7 +613,9 @@ IX. Operar en lo procedente, conjuntamente con la Federación, los planes y prog
 
 X. Promover el financiamiento, construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica estatal;
 
-XI. Coordinar, formular y operar programas estatales de obras de abastecimiento de agua potable, servicio de drenaje y alcantarillado, así como aquellas relacionadas con el desarrollo y equipamiento urbano que no constituyan competencia de otras autoridades;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XI. Coordinar, formular y operar programas estatales de obras de abastecimiento de agua potable, servicio de drenaje y alcantarillado, captación, tratamiento y uso eficiente de aguas pluviales, así como aquellas relacionadas con el desarrollo y equipamiento urbano que no constituyan competencia de otras autoridades;
 
 XII. Ejecutar, adjudicar y coordinar los programas y proyectos relativos a la construcción, mantenimiento, así como la reparación de obras de transporte y vialidad;
 
@@ -747,9 +749,17 @@ VI. Coadyuvar con la Secretaría de Medio Ambiente y Desarrollo Territorial en l
 
 VII. Coadyuvar con la Secretaría de Medio Ambiente y Desarrollo Territorial, así como con la Secretaría de Desarrollo e Integración Social en la implementación de programas especiales de desarrollo territorial sustentable en regiones prioritarias;
 
-VIII. Coordinar las actividades operativas de los organismos distritales de desarrollo rural, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IX. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+VIII. Coordinar las actividades operativas de los organismos distritales de desarrollo rural;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IX. Coadyuvar con la Secretaria de Infraestructura y Obra Pública en la formulación de planes y programas para la captación, tratamiento y uso eficiente de aguas pluviales para fines agrícolas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+X. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 21.
 
@@ -831,7 +841,9 @@ XXXVII. Promover y ejecutar la regularización de la tenencia de la tierra, en s
 
 XXXVIII. Diseñar y ejecutar los programas de reservas territoriales y los programas especiales de desarrollo de áreas prioritarias;
 
-XXXIX. Formular en lo procedente, conjuntamente con la Federación, los planes y programas específicos tanto para el abastecimiento, como el tratamiento de aguas y servicios de drenaje y alcantarillado en lo correspondiente a su planeación y programación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXXIX. Formular en lo procedente, conjuntamente con la Federación, los planes y programas específicos tanto para el abastecimiento, como el tratamiento de aguas y servicios de drenaje y alcantarillado, así como la captación, tratamiento y uso eficiente de aguas pluviales, en lo correspondiente a su planeación y programación;
 
 XL. Diseñar y cumplimentar en lo conducente el Programa de Vivienda del Estado;
 
@@ -883,9 +895,17 @@ XVIII. Promover, apoyar y gestionar la capacitación de quienes participan en la
 
 XIX. Promover, apoyar y gestionar el acceso a una vivienda digna;
 
-XX. Coadyuvar con la Secretaría de Medio Ambiente y Desarrollo Territorial, así como con la Secretaría de Desarrollo Rural en la implementación de programas especiales de desarrollo territorial sustentable en regiones prioritarias, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XXI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XX. Coadyuvar con la Secretaría de Medio Ambiente y Desarrollo Territorial, así como con la Secretaría de Desarrollo Rural en la implementación de programas especiales de desarrollo territorial sustentable en regiones prioritarias;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXI. Diseñar, en coordinación con las secretarías de Desarrollo Económico; de Salud; de Desarrollo Rural; de Turismo; de Medio Ambiente y Desarrollo Territorial, y de Trabajo y Previsión Social, un programa integral permanente para mejorar las condiciones de las mujeres en medios rurales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+XXII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 23.
 
@@ -2048,3 +2068,19 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. La Secretaría de Planeación, Administración y Finanzas con la información contenida en este Decreto, deberá formular, dentro de los 20 días hábiles posteriores a su aprobación, los anexos correspondientes a la Modificación del Presupuesto de Egresos del Gobierno del Estado de Jalisco para el ejercicio fiscal 2015, para ser publicados en el Periódico Oficial "El Estado de Jalisco", los cuales una vez elaborados por la Secretaría serán remitidos al Congreso del Estado de Jalisco para que formen parte de la minuta de Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25872/LXI/16 QUE REFORMA EL ARTÍCULO 22 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y ADICIONA EL ARTÍCULO 39 BIS A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Dentro de los 180 días siguientes a la entrada en vigor del presente decreto, el Ejecutivo Local, a través de la Secretaría de Desarrollo e Integración Social deberá presentar y publicar un diagnóstico sobre todos los programas en beneficio de la mujer en el medio rural, así como la propuesta de diseño del programa a que hace referencia el presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25884/LXI/16 QUE REFORMA LOS ARTÍCULOS 17, 20 Y 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y 67 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo y los ayuntamientos del Estado, deberán actualizar sus planes y programas en la materia dentro de los 90 días siguientes a la entrada en vigor del presente decreto.
