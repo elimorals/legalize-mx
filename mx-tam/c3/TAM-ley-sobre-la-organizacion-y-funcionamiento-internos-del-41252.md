@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2016-06-30"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -515,9 +515,9 @@ c) Finanzas, Planeación, Presupuesto y Deuda Pública;
 
 d) Administración;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-e) Desarrollo Social;
+e) Bienestar Social;
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
@@ -601,13 +601,17 @@ w) Fomento al Comercio Exterior;
 
 x) Juventud;
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-y) Desarrollo de Zonas Metropolitanas; y
+y) Desarrollo de Zonas Metropolitanas;
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-z) Transparencia y Acceso a la Información Pública.
+z) Transparencia y Acceso a la Información Pública; y
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+aa) Pesca y Acuacultura.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -2768,3 +2772,11 @@ P.O. 30 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-5 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS E), Y) Y Z), Y SE ADICIONA EL INCISO AA) AL PÁRRAFO SEGUNDO DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
