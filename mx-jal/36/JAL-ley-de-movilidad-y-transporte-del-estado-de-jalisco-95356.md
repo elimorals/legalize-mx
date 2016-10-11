@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2016-09-20"
+last_updated: "2016-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -377,41 +377,109 @@ Los choferes de taxi tendrán el derecho en el otorgamiento de concesiones para 
 
 Los escolares tendrán el derecho de paso preferencial en todas las intersecciones y zonas señaladas para esos fines, próximos a los centros escolares, y tendrán prioridad para el ascenso y descenso en los vehículos de servicio público de transporte en general; en consecuencia, las autoridades competentes deberán proteger, mediante dispositivos, señalamientos e indicaciones convenientes, el tránsito de los escolares en los horarios y lugares establecidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-Las personas con discapacidad, mujeres embarazadas y los peatones no deberán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación vehicular, ni cruzar las vías rápidas por lugares no autorizados al efecto.
+Las personas con discapacidad, mujeres embarazadas, personas de la tercera edad y los peatones tienen derecho y prioridad de tránsito en el espacio público, pero deberán evitar el tránsito por superficies de circulación vehicular, y deberán cruzar las vías rápidas, primarias y de acceso controlado por las esquinas, puentes peatonales, pasos a desnivel o zonas marcadas para tal efecto, excepto en las calles locales, cuando exista solo un carril para la circulación, en las cuales podrán cruzar en cualquier punto, con precaución del tránsito vehicular.
 
 Los peatones deberán cruzar las vías reguladas por semáforo:
 
-I. Cuando tengan semáforo con luz verde habilitante;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. Cuando tengan semáforo peatonal con luz verde habilitante;
 
 II. Si sólo existe semáforo vehicular y el mismo dé paso a los vehículos que circulan en su misma dirección, sólo cuando se encuentren en alto total;
 
 III. No teniendo semáforo a la vista, deberá cruzar cuando esté totalmente detenido el tránsito vehicular, y
 
-IV. No deberá cruzar con luz roja o amarilla.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. No deberá cruzar con luz roja o amarilla en el semáforo peatonal.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 11.
 
-Las aceras de las vías públicas, sólo deberán ser utilizadas para el tránsito de las personas con discapacidad y por los peatones, con las excepciones que determinen las autoridades municipales dentro de la jurisdicción que les corresponda, para dar espacios a la infraestructura para circulación de bicicletas y la instalación de ciclopuertos. Dichas autoridades promoverán la planificación y construcción de una red de ciclovías o sendas especiales para la circulación de bicicletas y similares cuyos conductores estarán obligados a utilizarlas.
+Las aceras de las vías públicas, sólo deberán ser utilizadas para el tránsito de las personas con discapacidad y por los peatones, con las excepciones que determinen las autoridades municipales dentro de la jurisdicción que les corresponda y para dar espacio a la infraestructura ciclista, exceptuando aquella destinada para la circulación. Dichas autoridades promoverán la planificación y construcción de una red de ciclovías o sendas especiales para la circulación de bicicletas y similares.
+
+En las zonas urbanas donde se concentren vías públicas con elevada densidad de tránsito de vehículos motorizados y mayor propensión a la saturación de conformidad con las opiniones de las autoridades municipales en materia de movilidad, y en su ausencia, del Instituto de Movilidad y Transporte del Estado, se instrumentarán sistemas integrados de transporte público y de movilidad no motorizada.
 
 ###### Artículo 12.
 
 Adicionalmente a los derechos que corresponden a los peatones en general, las personas con discapacidad tendrán preferencia de paso en todos los cruceros o zonas de paso peatonal; asimismo, deberán dárseles las facilidades necesarias para que puedan abordar las unidades de transporte público.
 
-De igual manera, los ciclistas tienen derecho a una movilidad segura y preferencial antes que el transporte público, con la responsabilidad de utilizar los espacios de circulación designados, de respetar las indicaciones de la autoridad correspondiente, así como los señalamientos y dispositivos que regule la circulación vial compartida o la exclusiva, de respetar los espacios de circulación o accesibilidad peatonal, la de dar preferencia a las personas con discapacidad y peatón.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 25887/LXI/16, SE ADVIERTE, QUE EL ANTERIOR SEGUNDO PÁRRAFO SU MATERIA SE INCORPORÓ A LAS FRACCIONES DEL PÁRRAFO SEGUNDO, P.O. 11 DE OCTUBRE DE 2016]</small>
 
-Los ciclistas tienen derecho a:
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-I. Transportar su bicicleta en las unidades de transporte público en las modalidades que lo permitan de acuerdo a la norma técnica correspondiente;
+Los ciclistas o grupos de ciclistas que transiten juntos tendrán derecho a:
 
-II. Disponer de vías de circulación exclusivas, y
+I. Disfrutar de una movilidad segura y preferencial antes que el transporte público y particular con las salvedades que establece la Ley;
 
-III. Estacionar sus bicicletas en las zonas autorizadas para ello.
+II. Transitar por el centro del primer carril de la derecha en el sentido de la vialidad, siempre y cuando no se trate de corredores exclusivos para el transporte público;
+
+III. Transitar sobre dos carriles cuando se trate de grupos de más de cincuenta ciclistas, estos grupos podrán peticionar adicionalmente el apoyo de la Secretaría y el auxilio de los cuerpos de seguridad;
+
+IV. Circular entre carriles cuando:
+
+a) El tránsito esté detenido y pretenda reiniciar su marcha;
+
+b) Necesite rebasar un vehículo que esté detenido en el carril sobre el que circula; o
+
+c) Necesite rebasar un vehículo de transporte público, que esté subiendo o bajando pasaje;
+
+V. Contar preferencialmente con áreas de espera ciclista al frente del carril en toda su anchura en todas las vialidades para reiniciar la marcha en posición adelantada cuando la luz del semáforo lo permita;
+
+VI. Transportar su bicicleta en las unidades de transporte público colectivo que cuenten con los aditamentos para realizarlo y en las unidades de transporte público masivo operado directa o indirectamente por el Estado;
+
+VII. Contar con vías de circulación suficientes, seguras e interconectadas y disfrutar de su uso exclusivo;
+
+VIII. Estacionar sus bicicletas en las zonas seguras, diseñadas y autorizadas de conformidad con las normas técnicas;
+
+IX. Contar con el servicio público de renta o préstamo de bicicletas en los términos establecidos por los programas correspondientes;
+
+X. Gozar de preferencia de paso sobre el trasporte público y particular en los siguientes supuestos:
+
+a) Que teniendo el derecho de paso de acuerdo con el ciclo de semáforo no alcancen a cruzar la vía;
+
+b) Que se encuentren circulando por una vía, en la cual los vehículos dan vuelta a la derecha, por lo que el automóvil deberá esperar detrás del ciclista hasta que el mismo haya cruzado la otra arteria vial; o
+
+e) Que se encuentren circulando por una ciclovía y los vehículos particulares pretendan cruzarla;
+
+XI. Circular por todas las vialidades del Estado a excepción de los carriles de alta velocidad y vialidades que estén expresamente prohibidas mediante señalización; y
+
+XII. Contar con apoyo vial de la Secretaría de Movilidad así como de las autoridades municipales en materia de movilidad.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Artículo 12 bis. Serán obligaciones de los ciclistas:
+
+I. Respetar las disposiciones legales y reglamentarias, las señales de tránsito y las indicaciones de los oficiales y agentes responsables de vigilar el cumplimiento de las normas de tránsito;
+
+II. Respetar los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva, los espacios de circulación o accesibilidad peatonal y dar preferencia a las personas con discapacidad;
+
+III. Circular en el sentido de la vía;
+
+IV. No exceder la capacidad de transporte o carga de la bicicleta, evitando transportar a niños y niñas menores de cuatro años a menos que sea en un asiento especial para ese fin;
+
+V. Mantener su bicicleta en buen estado de modo que no corra riesgo de accidentes por la falla de la misma;
+
+VI. Usar aditamentos, bandas reflejantes y en su caso luces, para uso nocturno;
+
+VII. Rebasar sólo por el carril izquierdo; y
+
+VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo o la mano.
 
 El Ejecutivo dispondrá en los reglamentos y normas técnicas correspondientes, los implementos con los que deban contar los vehículos de movilidad no motorizada.
 
-El transporte público tiene preferencia al circular, sobre el transporte motor en general, con la responsabilidad de respetar sus carriles de circulación, respetar las paradas y respetar el ascenso y descenso de los peatones, dando preferencia a los niños, adultos mayores, personas con discapacidad y mujeres embarazadas, y proteger el espacio de circulación vial compartida de los ciclistas. De preferencia dará posibilidades de intermodalidad con el transporte privado y en bicicletas.
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Artículo 12 ter. El transporte público tiene preferencia de tránsito sobre el transporte particular, encontrándose obligado a respetar sus carriles de circulación, paradas, ascenso y descenso de peatones, a dar preferencia de paso a niños, adultos mayores, personas con discapacidad y mujeres embarazadas y a proteger el espacio de circulación vial compartida con ciclistas. El transporte público garantizará la intermodalidad con el transporte privado y en bicicletas.
+
+El transporte público y particular deberá rebasar al ciclista por el carril de la izquierda o guardando al menos metro y medio de distancia, conservará al menos siete metros cuando el ciclista esté en movimiento y al menos cinco metros cuando se encuentre detenido en espera de su derecho de paso.
+
+Las autoridades encargadas de la administración de edificios públicos estatales o municipales gestionarán que en los mismos se realicen las modificaciones necesarias para contar con lugares seguros, suficientes y preferenciales para el estacionamiento de bicicletas conforme a la norma (sic) técnicas y demás disposiciones legales aplicables.
 
 ### Capítulo III. De los ámbitos de competencia del estado y del municipio
 
@@ -807,9 +875,17 @@ I. El Consejo Consultivo;
 
 II. La Comisión;
 
-III. Las comisiones intermunicipales, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IV. Las asociaciones de vecinos, conforme a las disposiciones de la legislación municipal.
+III. Las comisiones intermunicipales;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Las asociaciones de vecinos, conforme a las disposiciones de la legislación municipal; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+V. Las organizaciones no gubernamentales enfocadas en la movilidad y registradas ante las autoridades estatales o municipales correspondientes.
 
 ###### Artículo 32.
 
@@ -1135,6 +1211,10 @@ VI. Pagar los derechos que determine la ley de Ingresos conforme a las disposici
 
 VII. Los extranjeros que realicen trámites para obtener una licencia de conducir en el Estado, deberán cumplir con lo establecido por la Ley General de Población.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+El examen previsto en las fracciones III y V incluirá reactivos en materia de movilidad peatonal, ciclista y de la cultura de la discapacidad.
+
 ###### Artículo 58.
 
 En las licencias o permisos para operar o conducir vehículos se precisarán:
@@ -1235,9 +1315,9 @@ III. Por resolución administrativa hasta por 6 meses cuando incurra dentro del 
 
 IV. Al conductor del servicio público del transporte que participe en un accidente de tránsito donde se hayan producido u ocasionado lesiones en personas, de las que tardan más de quince días en sanar y en las cuales se acredite su responsabilidad. Se suspenderá por el término de un año a partir de su notificación al chofer, o
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-V. Cometer con el vehículo afecto al servicio público de transporte más de dos infracciones sancionadas por la ley con un mínimo de diez a veinte días de salario mínimo vigente en la zona donde se cometa la infracción, cada una durante la prestación del servicio en un plazo de treinta días a partir de la primera violación o seis infracciones de estas características en un plazo de seis meses a partir de la primera violación. Dicha suspensión tendrá un término de seis meses á partir de su notificación.
+V. Cometer con el vehículo afecto a la concesión más de dos infracciones sancionadas por la ley con un mínimo de diez a veinte veces el valor diario de la Unidad de Medida y Actualización, cada una durante la prestación del servicio en un plazo de treinta días a partir de la primera violación o seis infracciones de estas características en un plazo de seis meses a partir de la primera violación. Dicha suspensión tendrá un término de seis meses a partir de su notificación.
 
 ###### Artículo 67.
 
@@ -1871,7 +1951,9 @@ II. Acreditar su cumplimiento de los requisitos correspondientes en la forma que
 
 III. Comprobar que está al corriente en el pago de las contribuciones relacionadas con los vehículos, conductores y demás elementos del servicio o, en su caso, haber asegurado el interés fiscal.
 
-La falta de solicitud de prórroga en el plazo previsto en este artículo, será sancionado de veinte a cincuenta días de salario mínimo general, vigente en la zona económica que se trate. Si pasados diez días hábiles de que a través del registro estatal se haya impuesto legalmente la sanción mencionada, no se tramita la prórroga, se considerará como renuncia a ésta; en consecuencia, ocasionará la extinción de la concesión y de los derechos que de ellas se deriven.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La falta de solicitud de prórroga en el plazo previsto en este artículo, será sancionado de veinte a cincuenta veces el valor diario de la Unidad de Medida y Actualización. Si pasados diez días hábiles de que a través del registro estatal se haya impuesto legalmente la sanción mencionada, no se tramita la prórroga, se considerará como renuncia a ésta; en consecuencia, ocasionará la extinción de la concesión y de los derechos que de ellas se deriven.
 
 La autoridad deberá comunicar al interesado lo resuelto a su solicitud, así como informar el contenido de su resolución al registro estatal y a la Secretaría de Planeación, Administración y Finanzas. Si presentada en tiempo y forma la solicitud, ésta no es contestada por la autoridad dentro de un plazo de noventa días naturales, se entenderá favorable la misma al interesado.
 
@@ -2911,23 +2993,29 @@ Los elementos de la policía vial no están autorizadas (sic) para recoger al op
 
 Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente y se harán constar por medio de cédula de notificación de infracción por conducto de la policía vial estatal o de tránsito municipal, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
 
-El monto de las sanciones se determina en días de salario mínimo general, vigente en la zona económica en donde se cometan las infracciones, de la siguiente manera:
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+El monto de las sanciones se determina en base al valor diario de la Unidad de Medida y Actualización, de la siguiente manera:
+
+(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
 Las infracciones dispuestas en los artículos 175, 176, 177 excepto la fracción VIII, 178, 179 y 180 se aplicará una sanción de 1 a 5 veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
 Las infracciones dispuestas en los artículos 182 excepto su fracción II, 183, 184, 185, 190, 191 y 192 se aplicará una sanción de 10 a 30 veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
 Las infracciones dispuestas en los artículos 177, fracción VIII, 181, 182, fracción II, 186 y 187 se aplicará una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización.
 
 En el caso donde proceda sanción pecuniaria, arresto administrativo inconmutable o trabajo comunitario, o aplique suspensión o cancelación de licencia o gafete, se observara lo dispuesto en la presente ley.
 
 En el caso de reincidencia de las infracciones contempladas en este capítulo se aplicara lo dispuesto en el artículo 188.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+A las infracciones dispuestas en el artículo 183 BIS se aplicará una sanción de 20 a 60 unidades de medida y actualización, la cual será conmutable hasta por el cincuenta por ciento, al asistir a un curso de sensibilización sobre los derechos de los ciclistas que será impartido por la Secretaría o por las autoridades municipales en materia de movilidad.
 
 ###### Artículo 175.
 
@@ -3085,9 +3173,11 @@ VI. Al conductor que rebase en línea continua en carreteras, o
 
 VII. Al conductor que circule en doble y tercer fila para dar vuelta con flecha de semáforo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 183.
 
-Se sancionará a los conductores o propietarios de vehículos que comentan (sic) las siguientes infracciones:
+Se sancionará a los conductores o propietarios de vehículos que cometan las siguientes infracciones:
 
 I. No utilizar el cinturón de seguridad o hacerlo inadecuadamente, tanto el conductor como todos sus acompañantes.
 
@@ -3109,7 +3199,21 @@ VI. Los conductores de vehículos de carga pesada que circulen, por carriles cen
 
 VII. Los conductores que circulen o se estacionen sin causa justificada por el carril de acotamiento.
 
-VIII. Circular sobre vías ciclistas exclusivas o estacionarse en las mismas, en forma tal, o en horas en que se impida o se entorpezca la libre y segura circulación de ciclistas.
+VIII. (DEROGADA, P.O. 11 DE OCTUBRE DE 2016)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Artículo 183 bis. Se sancionará a los conductores o propietarios de vehículos que cometan las siguientes infracciones:
+
+I. Circular o estacionarse en ciclovías o en los lugares específicamente destinados al estacionamiento de bicicletas, aún cuando se trate de conductores de motocicletas;
+
+II. Alcanzar o rebasar a un ciclista sin respetar las distancias a que se refiere el artículo 12 ter de esta Ley;
+
+III. No respetar los derechos de preferencia de los ciclistas a que se refiere el artículo 12 de esta Ley;
+
+IV. Impedir o interferir de forma premeditada en la circulación de un grupo ciclista, así como intentar dividir o ingresar a un contingente o grupo ciclista; o
+
+V. Invadir la zona de espera en los semáforos.
 
 ###### Artículo 184.
 
@@ -3155,7 +3259,9 @@ Las sanciones impuestas con motivo de las infracciones previstas en el presente 
 
 A las personas que conduzcan vehículos de automotor bajo el influjo de alcohol o drogas, se les sancionará de la siguiente forma:
 
-I. Con multa equivalente de ciento cincuenta a doscientos días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, a la persona que conduzca un vehículo automotor y se le detecte una cantidad superior de 50 a 80 miligramos de alcohol por cien mililitros de sangre o 0.25 a 0.40 miligramos de alcohol por litro de aire espirado, o bajo el influjo de drogas;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. Con multa equivalente de ciento cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que conduzca un vehículo automotor y se le detecte una cantidad superior de 50 a 80 miligramos de alcohol por cien mililitros de sangre o 0.25 a 0.40 miligramos de alcohol por litro de aire espirado, o bajo el influjo de drogas;
 
 II. Con arresto administrativo inconmutable de doce a veinticuatro horas a la persona que conduzca un vehículo y se le detecte una cantidad de 81 a 130 miligramos de alcohol por 100 mililitros de sangre o de 0.41 a 0.65 miligramos de alcohol por litro de aire espirado. La calificación de la sanción estará sujeta a las reglas establecidas en el reglamento de la presente ley;
 
@@ -3209,7 +3315,9 @@ Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 1
 
 Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracciones I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros, de taxi en sus diversas modalidades, así como de transporte de pasajeros bajo demanda mediante aplicaciones móviles, dentro de los treinta días siguientes, se duplicará el importe de la multa correspondiente.
 
-Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los treinta días siguientes, la sanción se incrementará hasta en doscientos días de salario mínimo general vigente en la zona en que se cometa la infracción.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los treinta días siguientes, la sanción se incrementará hasta en doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ### Capítulo III. De las sanciones administrativas en materia del servicio del transporte público
 
@@ -3349,15 +3457,15 @@ II. Las tesorerías municipales y sus dependencias recaudadoras.
 
 Cuando las dependencias a que se refiere la fracción I de este artículo, ejecuten una sanción económica impuesta por los municipios, el fisco estatal percibirá los gastos de ejecución y hasta un máximo del quince por ciento de las multas y recargos, por concepto de gastos de administración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 198.
 
-Para elaborar las cédulas de notificación de infracciones serán competentes, la autoridad municipal en materia de vialidad y tránsito; la Secretaría de Movilidad por conducto de la policía vial.
+Para elaborar las cédulas de notificación de infracciones serán competentes, la autoridad municipal en materia de movilidad por conducto de los agentes de movilidad y la Secretaría de Movilidad por conducto de la policía vial.
 
-De igual forma, corresponderá a la Secretaría en su ámbito de atribuciones, la calificación e imposición de las sanciones correspondientes, así como las medidas de seguridad que procedan, a través de sus Unidades Administrativas en materia Jurídica y de Transporte Público según su competencia, quienes deberán fundar y motivar sus actos y notificarlos de conformidad con la presente ley y sus reglamentos.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+De igual forma, corresponderá a la Secretaría o a las autoridades municipales en su ámbito de atribuciones, la calificación e imposición de las sanciones correspondientes, así como las medidas de seguridad que procedan, según su competencia, quienes deberán fundar y motivar sus actos y notificarlos de conformidad con la presente ley y sus reglamentos.
 
 Las cedulas de notificación de foto infracción serán emitidas por el titular de la Unidad Administrativa en materia Jurídica de la Secretaría o por el funcionario en el que se delegue esta atribución, las cuales deberán contener la clave electrónica del equipo correspondiente, la firma electrónica del funcionario y demás requisitos establecidos en los reglamentos de la presente ley.
 
@@ -3702,3 +3810,37 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Envíese copia del presente decreto a los 125 honorables ayuntamientos de los municipios del estado de Jalisco, para su conocimiento y observancia, a efecto que modifiquen los ordenamiento (sic) que sean contrarios a las disposiciones contenidas en este mismo.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL DEL ESTADO DE JALISCO; CÓDIGO URBANO DEL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE JALISCO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA DEL ESTADO DE JALISCO; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO; LEY DE FOMENTO APÍCOLA DEL ESTADO DE JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL MEDIO AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS DEL” DECRETO 25887/LXI/16, QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE Y DEL CÓDIGO URBANO, AMBAS LEGISLACIONES DEL ESTADO DE JALISCO, EN MATERIA DE MOVILIDAD NO MOTORIZADA.”]</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los edificios públicos que no cuenten con estacionamiento para bicicletas al momento de la publicación del presente decreto, deberán implementarlo a más tardar en el término del año siguiente. Los edificios que por ser parte del patrimonio cultural estatal o nacional no sean susceptibles de sufrir modificaciones para dar cumplimiento a esta disposición, ubicarán los estacionamientos en los espacios abiertos de uso público más próximos que ofrezcan condiciones para su colocación.
+
+TERCERO. Los Poderes Ejecutivo y Legislativo, además de los municipios, preverán en el próximo ejercicio fiscal los recursos económicos necesarios para el mejoramiento de la infraestructura necesaria para el uso seguro de la bicicleta, que comprenderá al menos las siguientes acciones:
+
+I. La dotación de estacionamientos para bicicletas en los edificios públicos y en el equipamiento urbano, que cumplan condiciones de seguridad, suficiencia y permanencia de conformidad con las normas técnicas;
+
+II. El diseño y ejecución de un sistema de ciclo vías o ciclo carriles interconectados que permitan la movilidad en bicicleta en la Zona Metropolitana de Guadalajara;
+
+III. Las obras de pavimentación y las acciones de conservación o sustitución de alcantarillas que garanticen el uso seguro de la bicicleta en los carriles de la derecha de las vialidades;
+
+IV. La señalización que regule la circulación vial compartida o exclusiva para el uso de la bicicleta; y
+
+V. La implementación o expansión de los programas de préstamo o alquiler de bicicletas públicas a las zonas con mayores índices de marginación.
+
+CUARTO. El Gobierno del Estado a través de las Secretarías de Movilidad y de Educación implementarán un programa para la cultura y educación vial en el que se incluya el conocimiento y la promoción de los derechos y las obligaciones de los ciclistas, los peatones y las personas con movilidad limitada, así como del uso seguro de la bicicleta.
+
+QUINTO. El instituto de Movilidad y Transporte del Estado de Jalisco dispondrá de un plazo de noventa días a partir de la publicación del presente decreto, para elaborar las propuestas de normas técnicas respecto a las ciclovías, ciclocarriles y estacionamiento para bicicletas mismas que deberán tomar en consideración la opinión de las asociaciones y colectivos ciclistas, y las mejores prácticas internacionales.
+
+SEXTO. Los Poderes del Estado, sus dependencias y entidades, los Órganos Constitucionales del Estado, así como los Ayuntamientos implementarán programas e incentivos para inhibir el uso de automóviles por parte de los servidores públicos y gestionar apoyos o fondos de garantía para facilitar la obtención de créditos para la adquisición de bicicletas.
