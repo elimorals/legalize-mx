@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2016-08-09"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO 24988/LX/14 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, ENTRA EN VIGOR CONFORME A LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, APROBADA MEDIANTE DECRETO 24864/LX/14, PUBLICADO EN FECHA 11 DE ABRIL DEL 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -621,7 +621,9 @@ V. De descuentos en favor de instituciones de seguridad social, y
 
 VI. Del pago de abonos para cubrir obligaciones derivadas de la adquisición, construcción, reparación o mejoras de casas-habitación, así como de su uso, o al pago de pasivos adquiridos por estos conceptos, y siempre que la afectación se haga mediante fideicomiso en instituciones nacionales de crédito.
 
-El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente del salario mínimo que corresponda a la zona económica, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente de (sic) valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
 
 ###### Artículo 40.
 
@@ -2241,11 +2243,13 @@ El Consejo Estatal impulsará las acciones necesarias para que el Estado y los m
 
 El servicio tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil y las demás instancias de asistencia, públicas y privadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ### Capítulo II. De la comunicación con la ciudadanía
 
 ###### Artículo 166.
 
-Se sancionará con multa equivalente de tres a veinte días de salario mínimo general vigente en la zona en que se cometa la infracción al dueño o usuario de la línea telefónica que llame anunciando emergencias falsas, haga uso indebido del servicio o llamé con fines ociosos que distraigan el servicio telefónico de emergencia. El procedimiento para imponer y ejecutar la sanción se sujetará a lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios y por la Ley de Ingresos vigente.
+Se sancionará con multa equivalente de tres a veinte veces la Unidad de Medida y Actualización al momento de cometer la infracción al dueño o usuario de la línea telefónica que llame anunciando emergencias falsas, haga uso indebido del servicio o llame con fines ociosos que distraigan el servicio telefónico de emergencia. El procedimiento para imponer y ejecutar la sanción se sujetará a lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios y por la Ley de Ingresos vigente.
 
 Cuando por motivo de la falsa información proporcionada a las autoridades estatales o municipales, éstas realicen acciones u operativos para atender una emergencia falsa y con motivo de estos ocasionen accidentes o perjuicios de cualquier índole, el responsable tendrá que cubrir la reparación del daño causado al gobierno estatal o municipal a través del procedimiento de responsabilidad por las obligaciones que nacen de hechos ilícitos, a que se refiere el Código Civil del Estado de Jalisco.
 
@@ -2317,6 +2321,8 @@ En estos casos, sólo se tendrá la obligación de registrarse ante el Consejo E
 
 ### Capitulo Único. De los delitos
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 173.
 
 Los organismos, compañías, grupos e individuos que por sí o por terceros presten los servicios de seguridad privada enumerados en los artículos anteriores, además de los requisitos que señale el reglamento respectivo, deberán sujetarse a los siguientes lineamientos:
@@ -2353,7 +2359,7 @@ III. Ordenar a las instituciones públicas o privadas, a través de la Secretar�
 
 ###### Artículo 176.
 
-Se impondrá, de uno a dos años de prisión y multa de cien a seiscientos días de salario mínimo a quien, siendo autoridad con mando sobre o en las instituciones de seguridad pública, de procuración de justicia o del sistema penitenciario, no se coordine en el ámbito de sus atribuciones con otra u otras de las antes mencionadas, diversas a él, a pesar de haber sido requerido por escrito para realizar acciones y operativos conjuntos de las instituciones de seguridad pública o procuración de justicia.
+Se impondrá, de uno a dos años de prisión y multa de cien a seiscientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción a quien, siendo autoridad con mando sobre o en las instituciones de seguridad pública, de procuración de justicia o del sistema penitenciario, no se coordine en el ámbito de sus atribuciones con otra u otras de las antes mencionadas, diversas a él, a pesar de haber sido requerido por escrito para realizar acciones y operativos conjuntos de las instituciones de seguridad pública o procuración de justicia.
 
 ###### Artículo 177.
 
@@ -2552,5 +2558,13 @@ P.O. 9 DE AGOSTO DE 2016.
 P.O. 9 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25857/LXI/16 QUE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL ARTÍCULO 28 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
