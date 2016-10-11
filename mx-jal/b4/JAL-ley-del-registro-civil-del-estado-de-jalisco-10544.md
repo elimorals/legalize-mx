@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2015-10-24"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -59,7 +61,7 @@ El Registro Civil es público, por ello toda persona puede solicitar copias o ex
 
 La certificación es el medio de publicidad de las actas y documentos que obren en los diversos archivos del Registro Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -79,7 +81,7 @@ II. Un oficial jefe del Registro Civil, en cada cabecera municipal; y
 
 III. Las oficialías que sean necesarias para el cumplimiento eficaz de este servicio. El número y la ubicación de las oficialías del Registro Civil se determinará de acuerdo a las circunstancias socioeconómicas del lugar, sus distancias, medios de comunicación y distribución de la población.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -419,7 +421,7 @@ Los apéndices estarán constituidos por todos los documentos relativos al acta 
 
 ### CAPITULO V. De las actas de nacimiento
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -489,7 +491,7 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo habido de una relación incestuosa. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -573,9 +575,11 @@ En estas actas queda prohibido expresar que el hijo es nacido fuera de matrimoni
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en el Código Civil del Estado, se presentará al oficial del Registro, dentro del término de quince días, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, en el que se omitirá cualesquiera de las menciones prohibidas en el Código Civil y en los artículos conducentes del capítulo cuarto de esta ley, observándose las demás prescripciones contendidas en este ordenamiento y en el capítulo relativo al reconocimiento de los hijos nacidos fuera de matrimonio de la ley sustantiva civil del estado.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-La omisión del registro en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de esta ley y del Código Civil, pero los responsables de la omisión incurrirán en una multa de un tanto de el (sic) salario mínimo vigente en el lugar en donde debió inscribirse el acto, que impondrá y hará efectiva el oficial del Registro Civil ante quien se haga valer el reconocimiento.
+La omisión del registro en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de esta ley y del Código Civil, pero los responsables de la omisión incurrirán en una multa de un tanto del veces el valor diario de la Unidad de Medida y Actualización que impondrá y hará efectiva el oficial del Registro Civil ante quien se haga valer el reconocimiento.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2013)</small>
 
@@ -605,7 +609,9 @@ Cuando el reconocimiento se haga en disposición testamentaria, luego que se con
 
 Dictada la resolución judicial definitiva que autorice la adopción, el o los adoptantes, dentro del término de ocho días, presentarán al oficial del Registro Civil de su domicilio, copia certificada de la sentencia y de la certificación de que ha causado estado, a fin de que se levante el acta correspondiente. El juez, en todo caso, enviará al Registro Civil la copia mencionada para que se levante el acta.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable de la misma a una multa equivalente a diez días del salario mínimo general vigente en la zona geográfica de su ubicación, que impondrá el oficial del Registro Civil.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable de la misma a una multa equivalente a diez veces el valor diario de la Unidad de Medida y Actualización, que impondrá el oficial del Registro Civil
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
 
@@ -691,7 +697,7 @@ Este escrito deberá ser firmado por el solicitante y, si no pudiere o no supier
 
 Ter. A la solicitud a que se refiere el artículo anterior se acompañarán:
 
-I. Copia certificada del acta de nacimiento de la persona interesada, identificación idónea o, en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar su nombre, nacionalidad, fecha y lugar de nacimiento, y
+I. Copia certificada del acta de nacimiento de la · persona interesada, identificación idónea o, en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar su nombre, nacionalidad, fecha y lugar de nacimiento, y
 
 II. Un certificado médico en donde el profesional que lo extienda certifique bajo protesta de decir verdad, haber examinado al interesado en designar tutor voluntario y haber constatado su buen estado de salud psíquica.
 
@@ -729,9 +735,11 @@ Las actas de emancipación por decreto judicial se formarán insertando a la let
 
 Si en la oficialía en que se registró la emancipación no se encuentra el acta de nacimiento del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que se hagan las anotaciones correspondientes; asimismo, deberá de enviar copia de dicha acta, al Archivo General del Registro Civil.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 80.
 
-La omisión del registro no quita a la emancipación sus efectos legales, pero sujeta al responsable a la multa de un tanto del salario mínimo vigente general en el lugar donde debió inscribirse el acto.
+La omisión del registro no quita a la emancipación sus efectos legales, pero sujeta al responsable a la multa de un tanto del valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO XI. De las actas de matrimonio
 
@@ -755,13 +763,13 @@ Este escrito deberá ser firmado por los solicitantes y si alguno no puede o no 
 
 A la solicitud a que se refiere el artículo anterior se acompañará:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 I. Copia certificada del acta de nacimiento de los pretendientes, para acreditar la mayoría de edad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -775,7 +783,7 @@ III. La declaración de dos testigos mayores de edad que conozcan a los pretendi
 
 IV. Un certificado médico en el que conste el resultado del análisis practicado por el laboratorio de instituciones de salud pública, o laboratorios privados, en donde el médico que lo extienda asegure bajo protesta de decir verdad, haber examinado a los pretendientes y deducir de dicho examen que no padecen Síndrome de Inmuno Deficiencia Adquirida, enfermedades contagiosas, hereditarias ni, en general, enfermedad alguna o deformaciones físicas que constituyan un impedimento para el matrimonio. En los lugares en donde no existan médicos titulados, el certificado será extendido por las personas que dirijan los servicios de salud pública en la localidad. Para los indigentes, tienen la obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -789,7 +797,7 @@ VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los contra
 
 VII. Copia certificada de la resolución que decrete la dispensa judicial de impedimento si los hubo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -803,7 +811,7 @@ IX. Copia simple de la Cartilla Nacional de Salud de la Mujer.
 
 Cuando los pretendientes no sepan escribir, la solicitud y el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlos el oficial del Registro Civil, con los datos que los mismos interesados le manifiesten. En la misma forma se tomará razón de lo declarado por los testigos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -923,7 +931,7 @@ También podrá exigir declaración bajo protesta de decir verdad, a los testigo
 
 La sentencia ejecutoria que declare un divorcio, se remitirá en copia certificada al Archivo General del Registro Civil y al oficial del Registro Civil del lugar donde se celebró el matrimonio, para que levante el acta correspondiente.
 
-> <small>N. DE E. ANTES 98 BIS, CON ESTA REFORMA APARECE COMO ARTÍCULO 98.</small>
+> <small>[N. DE E. ANTES 98 BIS, CON ESTA REFORMA APARECE COMO ARTÍCULO 98.]</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1277,17 +1285,17 @@ III. No comunicar a la Dirección General del Registro Civil las anotaciones o c
 
 IV. Asentar en las formas errores mecanográficos, ortográficos y otros que no afecten la esencia del acta
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 143.
 
 (DEROGADO, P.O. 9 DE OCTUBRE DE 2014)
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 15 DE JUNIO DE 1999)
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 144.
 
-El Oficial del Registro Civil que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado por el presidente municipal, por la primera vez, con una multa de cien días de salario mínimo vigente en la zona en donde preste sus servicios, y en caso de reincidencia, con la destitución.
+El oficial del Registro Civil que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado por el presidente municipal, por la primera vez, con una multa de cien veces el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia, con la destitución.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 143], P.O. 15 DE JUNIO DE 1999)
 
@@ -1522,5 +1530,13 @@ DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes
 DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
 
 P.O. 24 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
