@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2016-03-03"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -1229,11 +1231,9 @@ El Instituto podrá aplicar las siguientes medidas disciplinarias a las partes y
 
 I. Amonestación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
-
-II. Multa de diez a veinticinco salarios mínimos vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique violar las reglas de alguno de los medios de justicia alternativa establecidas en la ley o incumpla las obligaciones que esta ley le impone, y
+II. Multa de diez a veinticinco veces el valor diario de la Unidad de Medida y Actualización vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique violar las reglas de alguno de los medios de justicia alternativa establecidas en la ley o incumpla las obligaciones que esta ley le impone, y
 
 III. Impedimento para actuar en la sesión, y en caso de reincidencia, además, doble del monto de la multa señalada en la fracción anterior si se tratare de abogado patrocinador de alguna de las partes.
 
@@ -1251,11 +1251,9 @@ El Director General del instituto podrá sancionar al prestador del servicio con
 
 I. Amonestación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
-
-II. Multa de diez a veinticinco salarios mínimos vigentes en el área geográfica correspondiente, en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique realizar el servicio contrario a la ley, su reglamento o a los términos establecidos en la cláusula compromisoria o en el acuerdo que exista entre las partes;
+II. Multa de diez a veinticinco veces el valor diario de la Unidad de Medida y Actualización vigentes en el momento de decretarse la sanción a quien incurra en acción u omisión que signifique realizar el servicio contrario a la ley, su reglamento o a los términos establecidos en la cláusula compromisoria o en el acuerdo que exista entre las partes;
 
 III. Suspensión para ejercer como prestador del servicio y del registro ante el Instituto de Mediación hasta por un plazo de seis meses, a quien:
 
@@ -1279,9 +1277,13 @@ Lo anterior sin perjuicio de la responsabilidades de orden penal y civil que les
 
 El Director General del Instituto sancionará al director del centro que hubiere incurrido en infracción a esta ley o a sus disposiciones reglamentarias, conforme a lo siguiente:
 
-I. Multa de diez a veinticinco a salarios mínimos vigentes en mínimos vigentes (sic) en el área geográfica correspondientes en el momento de decretarse la sanción, al centro de mediación que incumpla notificar su cambio de domicilio ante el Instituto, no cuente con espacios acondicionados para la prestación del servicio o no atienda las recomendaciones del instituto;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-II. Multa de cincuenta a cien salarios mínimos vigentes en el área geográfica correspondientes al momento de decretarse la sanción, cuando impida visitas de inspección o;
+I. Multa de diez a veinticinco veces el valor diario de la Unidad de Medida y Actualización vigentes en el momento de decretarse la sanción, al centro de mediación que incumpla notificar su cambio de domicilio ante el Instituto, no cuente con espacios acondicionados para la prestación del servicio o no atienda las recomendaciones del instituto;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigentes al momento de decretarse la sanción, cuando impida visitas de inspección o;
 
 III. Suspensión de la acreditación y registro ante el Instituto hasta por un plazo de seis meses cuando reincida en la causa señalada en la fracción anterior;
 
@@ -1484,3 +1486,11 @@ P.O. 3 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
