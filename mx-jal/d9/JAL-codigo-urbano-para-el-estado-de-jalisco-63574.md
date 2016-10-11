@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2015-11-05"
+last_updated: "2016-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -3491,7 +3491,9 @@ Todo proyecto de urbanización, edificación, renovación urbana, restauración 
 
 Las garantías mínimas de acceso y bienestar con las que deben adecuarse las edificaciones y espacios abiertos tanto públicos como privados son las siguientes, las cuales estarán contenidas en los reglamentos municipales:
 
-I. Estacionamientos;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+I. Estacionamientos para vehículos y bicicletas;
 
 II. Servicios sanitarios;
 
@@ -3521,9 +3523,9 @@ X. Sistemas de recuperación y almacenamiento de aguas pluviales;
 
 XI. Instalaciones para energía alternativa;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XII. Ciclopuertos; y
+XII. Ciclovías y carriles compartidos que permitan el uso de la bicicleta como medio de transporte y recreación, diseñados e implementados conforme a las normas técnicas estatales; y
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -3667,9 +3669,9 @@ I. La división de un predio en lotes o fracciones a fin de darle una utilizaci�
 
 II. La dotación de redes de servicio para la captación, manejo, tratamiento y distribución de agua potable a través de plantas potabilizadoras; el desalojo, captación y manejo de aguas residuales de conformidad con la reglamentación vigente y de acuerdo al giro específico de las edificaciones; la electrificación; el alumbrado público; las redes de telefonía; los mecanismos de separación, tratamiento y disposición final de residuos sólidos; las instalaciones especiales complementarias y obras de infraestructura regional;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-III. Los elementos de la vialidad, como calles, banquetas, andadores, ciclovías, estacionamiento para vehículos; los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones, y los elementos e instalaciones para la operación del transporte colectivo;
+III. Los elementos de la vialidad, como calles, banquetas, andadores, ciclovías, estacionamiento para vehículos y para bicicletas, los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones, y los elementos e instalaciones para la operación del transporte colectivo;
 
 IV. Los servicios e instalaciones especiales que requieran las actividades de la industria, el comercio y los servicios;
 
@@ -5495,17 +5497,21 @@ II. Nulidad del acto, convenio o contrato, en el caso de urbanización sin la au
 
 III. Clausura temporal o definitiva, total o parcial, de las instalaciones, las construcciones y de las obras y servicios realizados en contravención de los ordenamientos aplicables;
 
-IV. Multa de una a quinientas veces el salario mínimo general diario vigente en la Capital del Estado o arresto administrativo hasta por treinta y seis horas, atendiendo a la gravedad y circunstancias de la infracción;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+IV. Multa de una a quinientas veces el valor diario de la Unidad de Medida y Actualización o arresto administrativo hasta por treinta y seis horas, atendiendo a la gravedad y circunstancias de la infracción;
 
 V. Pérdida de los beneficios fiscales por actos ejecutados en contra de las prohibiciones de este Código;
 
 VI. Ejecución de obras y, en su caso, demolición en rebeldía del obligado y a su costa, cuando exista determinación administrativa firme que imponga esas medidas;
 
-VII Suspensión o revocación de autorizaciones y licencias para edificaciones o urbanizaciones, cuando no se cumpla con sus términos;
+VII. Suspensión o revocación de autorizaciones y licencias para edificaciones o urbanizaciones, cuando no se cumpla con sus términos;
 
-VIII Multa de una a ciento setenta veces el salario mínimo general correspondiente a la zona. económica donde se ubiquen los predios, a quien ordene cualquier tipo de publicidad comercial, donde se oferten predios o fincas en venta, preventa, apartado u otros actos de enajenación, sin incluir los datos requeridos en este Código;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-IX Arresto administrativo, en los casos de infracciones que se determinen en los reglamentos municipales, conforme las disposiciones de este ordenamiento, la ley en materia de administración pública municipal y la Ley del Procedimiento Administrativo, y
+VIII. Multa de una a ciento setenta veces el valor diario de la Unidad de Medida y Actualización, a quien ordene cualquier tipo de publicidad comercial, donde se oferten predios o fincas en venta, preventa, apartado u otros actos de enajenación, sin incluir los datos requeridos en este Código;
+
+IX. Arresto administrativo, en los casos de infracciones que se determinen en los reglamentos municipales, conforme las disposiciones de este ordenamiento, la ley en materia de administración pública municipal y la Ley del Procedimiento Administrativo, y
 
 X. A quienes vendan terrenos como urbanos sin tener tal calidad, o sin autorización expresa de las autoridades competentes, se le aplicarán las sanciones previstas en el Código Penal del Estado de Jalisco.
 
@@ -5519,7 +5525,9 @@ Las sanciones podrán consistir en:
 
 I. Apercibimiento por escrito;
 
-II. Multa de veinte a seis mil quinientas veces el salario mínimo general diario vigente en Guadalajara, atendiendo a la gravedad y circunstancias de la infracción;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+
+II. Multa de veinte a seis mil quinientas veces el valor diario de la Unidad de Medida y Actualización, atendiendo a la gravedad y circunstancias de la infracción;
 
 III. Clausura temporal, parcial o total;
 
@@ -5946,3 +5954,37 @@ CUARTO. La instalación de los ciclopuertos en espacios públicos, se realizará
 QUINTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Procuraduría de Infraestructura y Desarrollo Urbano realizará las adecuaciones necesarias a su Reglamento Interno, sus manuales de Organización y Procedimiento, y las normas de funcionalidad del organismo que las requieran, de conformidad con lo establecido en las fracciones X y XI del artículo 21 del Código Urbano para el Estado de Jalisco.
 
 SEXTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, el Consejo Estatal de Desarrollo Urbano realizará las adecuaciones necesarias a su reglamento, de conformidad con lo establecido en la fracción XIII del artículo 43 del Código Urbano para el Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25840/LXI/16 QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL; CÓDIGO DE ASISTENCIA SOCIAL; CÓDIGO DE PROCEDIMIENTOS CIVILES; CÓDIGO DE PROCEDIMIENTOS PENALES; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA; CÓDIGO FISCAL; CÓDIGO PENAL; CÓDIGO URBANO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA; LEY DE ACUACULTURA Y PESCA; LEY DE ATENCIÓN A VÍCTIMAS; LEY DE AUSTERIDAD Y AHORRO; LEY DE CATASTRO MUNICIPAL; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN; LEY DE CULTURA FÍSICA Y DEPORTE; LEY DE EDUCACIÓN; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA; LEY DE FOMENTO APÍCOLA; LEY DE FOMENTO Y DESARROLLO PECUARIO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS; LEY DE HACIENDA MUNICIPAL; LEY DE JUSTICIA ADMINISTRATIVA; LEY DE JUSTICIA ALTERNATIVA; LEY DE LIBRE CONVIVENCIA; LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES; LEY DE SÍMBOLOS OFICIALES; LEY DE MOVILIDAD Y TRANSPORTE; LEY DE OBRA PÚBLICA; LEY DE PROTECCIÓN CIVIL; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LEY DE RESPONSABILIDAD PATRIMONIAL; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; LEY DE SALUD; LEY DE SUJETOS PROTEGIDOS; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL; LEY PARA REGULAR LA VENTA DE BEBIDAS ALCOHÓLICAS; LEY PARA LOS SERVIDORES PÚBLICOS; LEY PARA LA PROMOCIÓN DE INVERSIÓN EN EL ESTADO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR; LEY PARA LA OPERACIÓN DE ALBERGUES; LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD; LEY PARA EL EJERCICIO DE LAS PROFESIONES; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR; LEY PARA EL DESARROLLO ECONÓMICO; LEY ORGÁNICA DEL PODER JUDICIAL; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA; LEY DEL REGISTRO CIVIL; LEY DEL NOTARIADO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA, TODAS DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25887/LXI/16 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE Y DEL CÓDIGO URBANO, AMBAS LEGISLACIONES DEL ESTADO DE JALISCO, EN MATERIA DE MOVILIDAD NO MOTORIZADA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los edificios públicos que no cuenten con estacionamiento para bicicletas al momento de la publicación del presente decreto, deberán implementarlo a más tardar en el término del año siguiente. Los edificios que por ser parte del patrimonio cultural estatal o nacional no sean susceptibles de sufrir modificaciones para dar cumplimiento a esta disposición, ubicarán los estacionamientos en los espacios abiertos de uso público más próximos que ofrezcan condiciones para su colocación.
+
+TERCERO. Los Poderes Ejecutivo y Legislativo, además de los municipios, preverán en el próximo ejercicio fiscal los recursos económicos necesarios para el mejoramiento de la infraestructura necesaria para el uso seguro de la bicicleta, que comprenderá al menos las siguientes acciones:
+
+I. La dotación de estacionamientos para bicicletas en los edificios públicos y en el equipamiento urbano, que cumplan condiciones de seguridad, suficiencia y permanencia de conformidad con las normas técnicas;
+
+II. El diseño y ejecución de un sistema de ciclo vías o ciclo carriles interconectados que permitan la movilidad en bicicleta en la Zona Metropolitana de Guadalajara;
+
+III. Las obras de pavimentación y las acciones de conservación o sustitución de alcantarillas que garanticen el uso seguro de la bicicleta en los carriles de la derecha de las vialidades;
+
+IV. La señalización que regule la circulación vial compartida o exclusiva para el uso de la bicicleta; y
+
+V. La implementación o expansión de los programas de préstamo o alquiler de bicicletas públicas a las zonas con mayores índices de marginación.
+
+CUARTO. El Gobierno del Estado a través de las Secretarías de Movilidad y de Educación implementarán un programa para la cultura y educación vial en el que se incluya el conocimiento y la promoción de los derechos y las obligaciones de los ciclistas, los peatones y las personas con movilidad limitada, así como del uso seguro de la bicicleta.
+
+QUINTO. El instituto de Movilidad y Transporte del Estado de Jalisco dispondrá de un plazo de noventa días a partir de la publicación del presente decreto, para elaborar las propuestas de normas técnicas respecto a las ciclovías, ciclocarriles y estacionamiento para bicicletas mismas que deberán tomar en consideración la opinión de las asociaciones y colectivos ciclistas, y las mejores prácticas internacionales.
+
+SEXTO. Los Poderes del Estado, sus dependencias y entidades, los Órganos Constitucionales del Estado, así como los Ayuntamientos implementarán programas e incentivos para inhibir el uso de automóviles por parte de los servidores públicos y gestionar apoyos o fondos de garantía para facilitar la obtención de créditos para la adquisición de bicicletas.
