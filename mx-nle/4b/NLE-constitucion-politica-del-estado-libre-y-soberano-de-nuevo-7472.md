@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2016-05-13"
+last_updated: "2016-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NLE"
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2016.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1155,23 +1157,31 @@ El Congreso del Estado establecerá los lineamientos para la operación de contr
 
 LI.- Dictar los lineamientos generales de las instalaciones técnicas para la evaluación del uso de recursos, estatales y municipales aplicables a todos los sujetos de fiscalización por parte del Congreso del Estado. Estas funciones de evaluación serán ejercidas por la Auditoría Superior del Estado, sin perjuicio de que los sujetos de fiscalización establezcan sus propias instancias de evaluación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ABRIL DE 2016)</small>
+(REFORMADA, P.O. 16 DE FEBRERO DE 2015) (F. DE E., P.O. 12 DE OCTUBRE DE 2016)
 
-LII.- Para expedir la ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación.
+LII.- Expedir las leyes reglamentarias que desarrollen los principios y bases en materia de transparencia gubernamental, acceso a la información y protección de datos personales en posesión de las autoridades, entidades, órganos y organismos gubernamentales de todos los niveles de gobierno;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ABRIL DE 2016)</small>
+(ADICIONADA, P.O. 16 DE FEBRERO DE 2015) (F. DE E., P.O. 12 DE OCTUBRE DE 2016)
 
-LIII.- Designar, por el voto de las dos terceras partes de sus integrantes, a los titulares de los órganos internos de control de los órganos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, así como a los de los Poderes Ejecutivo y Judicial. La designación se hará de la propuesta que los órganos autónomos y los Poderes Ejecutivo y Judicial presenten a la Legislatura.
+LIII.- Expedir la ley que establezca la organización y administración homogénea de los archivos de los órdenes estatal y municipal; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ABRIL DE 2016)</small>
+(ADICIONADA, P.O. 15 DE ABRIL DE 2016) (F. DE E., P.O. 12 DE OCTUBRE DE 2016)
 
-LIV.- Instituir mediante las leyes que expida, la Fiscalía Anticorrupción, como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio, con las atribuciones que señalen las mismas. En la Ley Reglamentaria se señalarán los requisitos particulares que deberán cumplir los aspirantes a la titularidad de la Fiscalía Anticorrupción.
+LIV.- Para expedir la ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación.
 
-Su titular será nombrado por el término de ocho años, mediante convocatoria pública que emitirá la Legislatura. El Pleno del Congreso elegirá al titular de la Fiscalía Anticorrupción por las dos terceras partes de sus integrantes. No obstante lo anterior, de no alcanzarse dicha votación, se elegirá por las dos terceras partes de sus integrantes a una terna la cual será propuesta al Pleno de la Legislatura y se procederá a la insaculación de uno de los integrantes de la misma. Lo anterior se hará de acuerdo con los términos de la Ley a que se refiere la fracción XIII A de este artículo.
+(ADICIONADA, P.O. 15 DE ABRIL DE 2016) (F. DE E., P.O. 12 DE OCTUBRE DE 2016)
 
-(REUBICADA, P.O. 15 DE ABRIL DE 2016)
+LV.- Designar, por el voto de las dos terceras partes de sus integrantes, a los titulares de los órganos internos de control de los órganos autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, así como a los de los Poderes Ejecutivo y Judicial. La designación se hará de la propuesta que los órganos autónomos y los Poderes Ejecutivo y Judicial presenten a la Legislatura.
 
-LV.- Ejercer las demás facultades que le otorguen esta Constitución y las Leyes.
+(ADICIONADA, P.O. 15 DE ABRIL DE 2016) (F. DE E., P.O. 12 DE OCTUBRE DE 2016)
+
+LVI.- Instituir mediante las leyes que expida, la Fiscalía Anticorrupción, como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio, con las atribuciones que señalen las mismas. En la Ley Reglamentaria se señalarán los requisitos particulares que deberán cumplir los aspirantes a la titularidad de la Fiscalía Anticorrupción.
+
+Su titular será nombrado por el término de ocho años, mediante convocatoria pública que emitirá la Legislatura. El Pleno del Congreso elegirá al titular de la Fiscalía Anticorrupción por las dos terceras partes de sus integrantes. No obstante lo anterior, de no alcanzarse dicha votación, se elegirá por las dos terceras partes de sus integrantes a una terna la cual será propuesta al Pleno de la Legislatura y se procederá a la insaculación de uno de los integrantes de la misma. Lo anterior se hará de acuerdo con los términos de la Ley a que se refiere la fracción XIII-A de este artículo.
+
+(REUBICADA, P.O. 15 DE ABRIL DE 2016) (F. DE E., P.O. 12 DE OCTUBRE DE 2016)
+
+LVII.- Ejercer las demás facultades que le otorguen esta Constitución y las Leyes.
 
 ###### Art. 64.
 
@@ -14861,7 +14871,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
@@ -14873,11 +14883,11 @@ P.O. 3 DE ENERO DE 1979.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial; y a partir de esa fecha la antigua Congregación de Colombia quedará integrada al Municipio de Anáhuac.
 
-P.O. 1 DE ENERO DE 1979.
+P.O. 14 DE SEPTIEMBRE DE 1979.
 
-DECRETO NÚMERO 204
+DECRETO NÚMERO 254
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE SEPTIEMBRE DE 1979.
 
@@ -15033,7 +15043,7 @@ P.O. 27 DE DICIEMBRE DE 1990.
 
 ###### ARTICULO TERCERO
 
-- El Congreso del Estado, por mayoría absoluta, por esta única vez hará la de asignación de un Gobernador de Transición que cubra el período del primero de agosto al tres de octubre de mil novecientos noventa y siete. El Ciudadano electo deberá reunir los requisitos constitucionales para ocupar el cargo.
+- El Congreso del Estado, por mayoría absoluta, por esta única vez hará la designación de un Gobernador de Transición que cubra el período del primero de agosto al tres de octubre de mil novecientos noventa y siete. El Ciudadano electo deberá reunir los requisitos constitucionales para ocupar el cargo.
 
 ###### ARTICULO CUARTO
 
