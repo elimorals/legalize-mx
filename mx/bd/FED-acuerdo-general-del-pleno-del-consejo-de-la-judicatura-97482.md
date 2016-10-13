@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-10-07"
+last_updated: "2016-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -1469,11 +1469,11 @@ El Presidente del Consejo también podrá solicitar a la Comisión eleve a la co
 
 Las resoluciones de los procedimientos de responsabilidad administrativa a que se refiere la fracción primera del artículo anterior, se aprobarán por mayoría calificada de cinco votos y por mayoría simple los que correspondan a la fracción segunda.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA EJECUCIÓN DE SANCIONES, D.O.F. 13 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 153.
 
-La ejecución de las sanciones se llevará a cabo cuando la resolución haya causado estado, con excepción de aquellas en que se imponga como sanción la destitución del puesto o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+La ejecución de las sanciones se llevará a cabo cuando la resolución haya causado estado, con excepción de aquellas en que se imponga como sanción la destitución del puesto o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, en cuyo caso la ejecución será inmediata.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA COMPETENCIA DEL PLENO Y DE LA COMISIÓN DE DISCIPLINA, D.O.F. 7 DE OCTUBRE DE 2016)</small>
 
@@ -3130,3 +3130,13 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. El presente Acuerdo será también aplicable a los procedimientos en trámite o pendientes de resolución iniciados con posterioridad a la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reforma y adiciona el similar que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, publicado en el Diario Oficial de la Federación el veintiocho de mayo de dos mil quince.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 13 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RESPECTO DE LA EJECUCIÓN DE SANCIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El presente Acuerdo también será aplicable a los procedimientos en trámite iniciados con anterioridad a la entrada en vigor del presente Acuerdo, así como a aquellas sanciones pendientes de ejecución en la misma fecha.
