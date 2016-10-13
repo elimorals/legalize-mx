@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2016-08-12"
+last_updated: "2016-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -901,7 +901,9 @@ II. Que hayan laborado en la o las plazas respectivas de base, ininterrumpidamen
 
 No se considerará interrupción el tiempo en que un servidor público se desempeñe en funciones en una plaza de confianza, siempre que al momento del otorgamiento de la base esté ocupando la plaza correspondiente; ni tampoco será menester que se le haya otorgado el nombramiento en la clave que corresponda a la plaza definitiva que se encuentre vacante, sino sólo es requisito que haya ocupado el mismo cargo durante seis meses.
 
-III. Que durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra. Se entenderá por nota desfavorable, únicamente, aquella que se imponga con fundamento en los artículos 64 y 65 de las Condiciones Generales de Trabajo de los Servidores Públicos a Cargo del Consejo de la Judicatura Federal, en virtud de haberse afectado el servicio que deba desempeñar el actuario, secretario o servidor público de que se trate.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
+III. Que durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra. Se entenderá por nota desfavorable, únicamente, aquella que se imponga con fundamento en los artículos 67 y 68 de las Condiciones Generales de Trabajo de los Servidores Públicos a Cargo del Consejo de la Judicatura Federal, en virtud de haberse afectado el servicio que deba desempeñar el actuario, secretario o servidor público de que se trate.
 
 En caso de que no se otorgue la base transcurridos los seis meses a que se refiere esta fracción, las notas desfavorables a que se haga acreedor el servidor público después de ese término, también se tomarán en consideración;
 
@@ -2034,3 +2036,13 @@ D.O.F. 12 DE AGOSTO DE 2016.
 PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Quedan sin efectos las circulares 2/2012 y 1/2013 de la Comisión de Disciplina así como la circular de la Comisión de Carrera Judicial de ocho de agosto de dos mil dos, en la que se recomienda a los jueces de Distrito y magistrados de Circuito evitar el otorgamiento de bases cuando hayan sido notificados de su próxima readscripción.
