@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-08-31"
+last_updated: "2016-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,19 +19,15 @@ issue_date: "2014-12-12"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO]
 
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2015, LAS REFERENCIAS QUE SE HAGAN EN CUALQUIER DISPOSICIÓN A LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN COMO SUPERIOR JERÁRQUICO DE LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL SE ENTENDERÁN HECHAS A LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS.</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
-
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016,]</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO.
 
@@ -723,6 +719,8 @@ La Comisión de Administración resolverá cualquier cuestión administrativa qu
 
 ### CAPÍTULO SEGUNDO. PERSONAL DE BASE
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 22.
 
 Los titulares de los órganos jurisdiccionales y de las áreas administrativas otorgarán la base al servidor público que reúna los siguientes requisitos:
@@ -731,13 +729,55 @@ I. Haya sido nombrado en una o más plazas correspondientes a un puesto cuyas la
 
 II. Haya laborado en la o las plazas respectivas de base, ininterrumpidamente, durante más de seis meses;
 
-III. Durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra; y
+III. Durante los primeros seis meses de las labores desarrolladas en la o las plazas de base, no exista nota desfavorable en su contra.
+
+Se entenderá por nota desfavorable lo dispuesto en el artículo 82, fracción III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; y
 
 IV. Al cumplirse más de seis meses en el desarrollo de labores en una o más plazas de base, se encuentre alguna de ellas vacante en definitiva, es decir, sin titular a quien se haya otorgado nombramiento definitivo.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 21 DE MAYO DE 2015)</small>
+El hecho de que un servidor público ostente el cargo por más de seis meses, y que durante ese lapso no cuente con nota desfavorable, genera su derecho a la inamovilidad cuando exista plaza vacante. Si a la fecha en que cumplió con dicho lapso no coexiste una plaza con la aludida característica, el derecho deberá ser respetado y observado inmediatamente cuando se genere una plaza vacante.
 
-La Dirección General de Recursos Humanos a través de cualquier medio que deje constancia, hará del conocimiento de los titulares de los órganos jurisdiccionales y de las áreas administrativas la fecha en que el servidor público adscrito estará por cumplir los seis meses en el cargo correspondiente.
+En los supuestos anteriores no será necesario que el servidor público haya ocupado la plaza vacante definitiva, esto es, que se le haya otorgado el nombramiento en la clave que corresponda a dicha plaza, pues basta que haya ostentado el cargo relativo ininterrumpidamente durante más de seis meses y no exista nota desfavorable, para que inmediatamente exista la obligación laboral de otorgarle la base respectiva.
+
+En todo momento, los titulares de los órganos jurisdiccionales deberán observar las disposiciones establecidas en el Capítulo IV “De los Nombramientos”, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales.
+
+La Dirección General de Recursos Humanos a través de cualquier medio que deje constancia, hará del conocimiento de los titulares de los órganos jurisdiccionales y de las áreas administrativas la fecha en que el servidor público adscrito estará por cumplir más de seis meses en el cargo correspondiente.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
+Artículo 22 bis. Se entenderá por plaza vacante definitiva aquella adscrita de manera permanente en los órganos jurisdiccionales y áreas administrativas, en la que no existe titular.
+
+No se entenderá por plaza vacante cuando el titular de la plaza se encuentre de licencia, comisión o se trate de plazas autorizadas al órgano jurisdiccional por tiempo determinado para la atención de sobrecargas de trabajo o abatimiento de rezagos.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
+Artículo 22 ter. En el supuesto que se actualice un cambio de adscripción o reubicación de un titular, los periodos laborales que el personal subalterno hubiese acumulado no se suspenden o interrumpen, sino que deben ser respetados y reconocidos por el titular a que se designe.
+
+Para tal efecto, podrá solicitar a la Dirección General de Recursos Humanos la información prevista en el artículo 22 del acuerdo, es decir, las fechas en las que los servidores públicos interinos estén por cumplir más de seis meses en el cargo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
+Artículo 22 quater. Una vez notificado a un titular su cambio de adscripción o reubicación no podrá otorgar nombramientos de base, a menos que el trabajador reúna los requisitos para su basificación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
+Artículo 22 quinquies. En los tribunales colegiados de Circuito corresponde a cada magistrado la designación de los servidores públicos y demás personal adscrito a su ponencia, por lo que la expedición de los nombramientos relativos sólo es imputable al magistrado que solicite su expedición.
+
+Los magistrados distribuirán equitativamente las plazas asignadas a la Secretaría de Acuerdos, con excepción del Secretario de Acuerdos, el oficial de partes y el analista jurídico encargado del Sistema Integral del Seguimiento de Expedientes. Los dos primeros serán designados de conformidad con lo que previamente haya acordado el Tribunal Pleno, y la designación del analista jurídico encargado del SISE deberá hacerse en términos del artículo 184 del Acuerdo General del Pleno que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+Las plazas de actuarios y de oficial de servicios y mantenimiento podrán incluirse en la citada distribución siempre que fuesen suficientes para asignar una a cada magistrado, por lo que en caso contrario, su designación se realizará de conformidad con lo que previamente haya acordado el Tribunal en Pleno.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
+Artículo 22 sexies. En los tribunales colegiados de Circuito, en aquellos supuestos en que los nombramientos se hubiesen expedido por uno de los magistrados o por el Pleno del Tribunal, existe obligación de acumular el periodo laborado.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO, D.O.F. 13 DE OCTUBRE DE 2016)</small>
+
+Artículo 22 septies. En el supuesto de que no se diera cumplimiento a lo previsto en los artículos 22 a 22 sexies de este Acuerdo, así como a lo previsto en el Capítulo IV “De los Nombramientos”, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, o que se lleven a cabo actos tendentes a evadir su cumplimiento, el Consejo de la Judicatura Federal ordenará el inicio del procedimiento disciplinario respectivo.
+
+En tratándose de actos tendentes a evadir el cumplimiento de los Acuerdos mencionados, sólo será causa de responsabilidad administrativa si se acredita que existe una conducta dolosa del titular implicado al haber interrumpido el otorgamiento de nombramientos a determinados servidores públicos.
+
+Se considerará como acto tendente a evadir el cumplimiento de tales disposiciones, el hecho de que los titulares otorguen nombramientos de manera interrumpida con la intención deliberada de que los servidores públicos no acumulen más de seis meses para acceder al derecho a la inamovilidad en el empleo.
 
 ### CAPÍTULO TERCERO. PERSONAL DE NUEVO INGRESO EN LOS ÓRGANOS JURISDICCIONALES
 
@@ -3312,6 +3352,8 @@ Para atender el requerimiento solicitado, las áreas operativas someterán la pe
 Cuando se realicen obras públicas y servicios relacionados, el Consejo y los contratistas, observarán las disposiciones que en materia de desarrollo urbano, ecología, patrimonio cultural e histórico y de construcción rijan en el ámbito federal y local.
 
 El titular del área de obras, cuando sea el caso, previamente a la realización de los trabajos, deberá tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía, sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2015, LAS REFERENCIAS QUE SE HAGAN EN CUALQUIER DISPOSICIÓN A LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN COMO SUPERIOR JERÁRQUICO DE LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL SE ENTENDERÁN HECHAS A LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS.]</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
@@ -11814,3 +11856,13 @@ D.O.F. 31 DE AGOSTO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL ARTÍCULO 22 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, Y ADICIONA LOS ARTÍCULOS 22 BIS, 22 TER, 22 QUATER, 22 QUINQUIES, 22 SEXIES Y 22 SEPTIES DEL CITADO ACUERDO GENERAL; ASÍ COMO REFORMA EL ARTÍCULO 82, FRACCIÓN III, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, RELACIONADO CON LA REGULACIÓN PARA EL OTORGAMIENTO DE LOS NOMBRAMIENTOS DE BASE EN LOS ÓRGANOS JURISDICCIONALES Y ÁREAS ADMINISTRATIVAS DEL CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Quedan sin efectos las circulares 2/2012 y 1/2013 de la Comisión de Disciplina así como la circular de la Comisión de Carrera Judicial de ocho de agosto de dos mil dos, en la que se recomienda a los jueces de Distrito y magistrados de Circuito evitar el otorgamiento de bases cuando hayan sido notificados de su próxima readscripción.
