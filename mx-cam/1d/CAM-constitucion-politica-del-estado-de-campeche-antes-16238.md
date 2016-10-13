@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2016-04-21"
+last_updated: "2016-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -969,7 +969,7 @@ Sólo se podrán ampliar los plazos de presentación de las cuentas públicas cu
 
 XXIII.- Conocer de los procedimientos en materia de juicio político;
 
-XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
+XXIV. (DEROGADA, P.O. 13 DE OCTUBRE DE 2016)
 
 XXV. Dictar resoluciones económicas relativas a su régimen interior;
 
@@ -1701,45 +1701,31 @@ Todas las autoridades en el ámbito de sus competencias, tienen la obligación d
 
 La propaganda que, bajo cualquier modalidad de la comunicación social, difundan las dependencias, entidades y órganos de los Poderes Legislativos, Ejecutivo y Judicial del Estado, de los Ayuntamientos y Juntas Municipales, así como los órganos autónomos estatales, deberá tener el carácter de institucional y fines informativos, educativos, de orientación social o de seguridad pública. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. Lo anterior deberá de regularse en la legislación electoral.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
-
 ###### ARTICULO 90.
 
-El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2016)
 
 ###### ARTICULO 91.
 
-Para proceder penalmente contra los Diputados, Magistrados del H. Tribunal Superior de Justicia, Jueces de Primera Instancia y de Cuantía Menor, Secretarios de las Dependencias de la Administración Pública del Estado, Fiscal General del Estado, Auditor Superior del Estado, Magistrados de la Autoridad Electoral del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Comisionado Presidente y demás Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado, Presidentes, Regidores y Síndicos de HH. Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el H. Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2016)
 
 ###### ARTICULO 92.
 
-Los trámites y formalidades requeridas para emitir la declaración de procedencia serán los que se prevengan en la ley de la materia.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
-
-Si la falta contraviniere la Constitución o las leyes federales, o concurrieren uno o varios actos violatorios de ambos fueros, se aplicará en primer lugar lo previsto en las disposiciones federales y a continuación lo establecido por el fuero estatal.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2016)
 
 ###### ARTICULO 93.
 
-Si la declaración fuese absolutoria, el servidor público continuará en el ejercicio de su encargo, y si es condenatoria quedará inmediatamente separado de él y puesto a disposición de los Tribunales comunes.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 94.
 
-Las declaraciones y resoluciones que el Congreso emita como Jurado de Sentencia o Jurado de Procedencia, son inatacables.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+·Las resoluciones que el Congreso emita como Jurado de Sentencia, son inatacables.
 
 ###### ARTICULO 95.
 
-Si los servidores públicos a que se refieren los artículos 89 y 90, fuesen acusados por delitos cometidos en el desempeño de algún cargo anterior a aquel en que ejerzan sus funciones, se procederá contra ellos en los términos de este Capítulo.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1765,7 +1751,7 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 La Ley Sobre Responsabilidades Administrativas de los Servidores Públicos, determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señale la Ley, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 99.
 
@@ -1773,15 +1759,11 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que se hace referencia en este Capítulo.
-
 La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones, pero si fuesen graves, los plazos de prescripción no serán inferiores a tres años.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 100.
 
-En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -2888,3 +2870,13 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o
 TERCERO.- El Congreso del Estado expedirá oportunamente la legislación secundaria, dentro de los plazos previstos en el artículo quinto transitorio de la Ley General de Transparencia y Acceso a la Información Pública.
 
 CUARTO.- La Comisión de Transparencia y Acceso a la Información Pública del Estado, tomará las previsiones presupuestales que en su caso resulten necesarias para el cumplimiento de las obligaciones que se deriven de este decreto.
+
+P.O. 13 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 87 POR EL QUE SE DEROGA LA FRACCIÓN XXIV DEL ARTÍCULO 54 Y LOS ARTÍCULOS 90, 91, 92, 93, 95 Y 100 Y SE REFORMAN LOS ARTÍCULOS 94 Y 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente decreto.
+
+TERCERO.- A partir de la entrada en vigor del presente decreto, se deberán hacer las adecuaciones a las leyes que correspondan en un plazo no mayor a 180 días naturales.
