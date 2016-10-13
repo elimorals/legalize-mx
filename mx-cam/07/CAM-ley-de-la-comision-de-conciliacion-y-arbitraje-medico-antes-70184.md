@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-conciliacion-y-arbitraje-medico-antes-701
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-14"
-last_updated: "2010-11-19"
+last_updated: "2016-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE LA COMISION DE CONCILIACION Y ARBITRAJE MEDICO -- ANTES LEY DE LA COMISION DE ARBITRAJE MEDICO -- DEL ESTADO DE CAMPECHE
 
-LEY DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE CAMPECHE
+LEY DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -37,27 +37,37 @@ La LIX Legislatura del Congreso del Estado de Campeche decreta:
 
 NÚMERO 268
 
-LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+"LEY DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE"
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-Esta ley regula la Comisión de Arbitraje Médico del Estado como organismo desconcentrado del Gobierno del Estado; con plena autonomía técnica para emitir opiniones y laudos.
+Esta ley regula la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche como organismo público desconcentrado de la Secretaría de Salud del Estado de Campeche, con la plena autonomía técnica para emitir opiniones y laudos; siendo un medio alterno de solución de controversias. Para lo no previsto en esta Ley se aplicará supletoriamente la legislación civil del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 2.
 
-La Comisión de Arbitraje Médico del Estado, tendrá como objeto contribuir a resolver conflictos suscitados entre los usuarios de los servicios médicos y los prestadores de dichos servicios.
+La Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, tendrá como objeto contribuir a resolver conflictos suscitados entre los usuarios de los servicios médicos y los prestadores de dichos servicios.
 
 ###### ARTÍCULO 3.
 
 En términos de los artículos 33 y 45 de la Ley de Salud del Estado de Campeche, se consideran prestadores de servicios médicos, las Instituciones de Salud de carácter público, privado y social, así como los profesionales, técnicos y auxiliares, que ejercen libremente cualquier actividad relacionada con la práctica médica, usuarios de los servicios de salud a toda persona que requiera y obtenga los servicios que presten las Instituciones, profesionistas, técnicos y auxiliares citados.
 
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LA COMISIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-La Comisión de Arbitraje Médico del Estado, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+La Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
 
 I.- Brindar asesoría e información a los usuarios y prestadores de servicios médicos sobre sus derechos y obligaciones;
 
@@ -81,11 +91,17 @@ a).- Las quejas que conozcan, y
 
 b).- Cuestiones en las que intervengan de oficio por ser de interés general en la esfera de su competencia.
 
-VII.- Hacer del conocimiento del órgano de control interno que corresponda la negativa expresa o tácita de un servidor público de proporcionar la información que le hubiere solicitado la Comisión de Arbitraje Médico del Estado en ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
 
-VIII.- Hacer del conocimiento de las autoridades competentes, de los colegios, academias, asociaciones y consejos médicos, así como de los comités de ética y otros similares; la negativa expresa o tácita de los prestadores de servicios de proporcionar la información que le hubiere solicitado la Comisión de Arbitraje Médico del Estado. Asimismo informar del incumplimiento por parte de los citados prestadores de servicios de sus resoluciones, de cualquier irregularidad que se detecte y de hechos que, en su caso, llegaran a constituir la posible comisión de algún delito.
+VII.- Hacer del conocimiento del órgano de control interno que corresponda la negativa expresa o tácita de un servidor público de proporcionar la información que le hubiere solicitado la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche en ejercicio de sus atribuciones:
 
-IX.- Elaborar los dictámenes o peritajes médicos que le sean solicitados por las autoridades encargadas de la procuración e impartición de justicia;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+VIII.- Hacer del conocimiento de las autoridades competentes, de los colegios, academias, asociaciones y consejos médicos, así como de los comités de ética y otros similares, la negativa expresa o tácita de los prestadores de servicios de proporcionar la información que le hubiere solicitado la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche. Asimismo informar del incumplimiento por parte de los citados prestadores de servicios de sus resoluciones, de cualquier irregularidad que se detecte y de hechos que, en su caso, llegaran a constituir la posible comisión de algún delito.
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+IX.- Proporcionar en la medida de sus posibilidades los dictámenes o peritajes médicos que le sean solicitados por las autoridades encargadas de la procuración e impartición de justicia;
 
 X.- Convenir con Instituciones, Organismos y Organizaciones públicas y privadas, acciones de coordinación y concentración que le permitan cumplir con sus funciones;
 
@@ -95,23 +111,49 @@ XII.- Informar a la Comisión Nacional de Arbitraje Médico de los asuntos de qu
 
 XIII.- Orientar a los usuarios sobre las instancias competentes para resolver los conflictos derivados de servicios médicos prestados por quienes carecen de título o cédula profesional; y
 
-XIV.- Las demás que le confieran otras disposiciones legales.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+XIV.- Recibir donaciones.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+XV.- Establecer esquemas de financiamientos y realizar todas las acciones para generar ingresos propios, para la realización de las actividades de la Comisión; y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+XVI.- Las demás que le confieran otras disposiciones legales.
 
 ### CAPÍTULO TERCERO. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-Para el cumplimiento de sus funciones, la Comisión de Arbitraje Médico del Estado contará con:
+Para el cumplimiento de sus funciones, la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche contará con:
 
-I.- Un Consejo;
+I. Un Consejo;
 
-II.- Un Comisionado;
+II. Un Comisionado;
 
-III.- Un Subcomisionado Médico;
+III. Un Subcomisionado Médico;
 
-IV.- Un Subcomisionado Jurídico; y
+IV. Un Subcomisionado Jurídico:
 
-V.- Las unidades administrativas que determine su reglamento interno.
+V. Un Coordinador Administrativo;
+
+VI. Un Subdirector de Conciliación;
+
+VII. Una Unidad de Orientación y Gestión;
+
+VIII. Una Unidad de Transparencia;
+
+IX. Una Unidad de Capacitación;
+
+X. Una Unidad de Asuntos Jurídicos;
+
+XI. Una Unidad de Arbitraje; y
+
+XII. Las Unidades administrativas que determine su reglamento interno.
 
 ###### ARTÍCULO 6.
 
@@ -119,19 +161,27 @@ El Consejo estará integrado por diez consejeros y por el Comisionado, quien lo 
 
 En la integración del Consejo deberá respetarse el principio de equidad de género.
 
-Ocho Consejeros serán designados por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+Seis Consejeros serán designados por el Gobernador del Estado.
 
 La designación recaerá en distinguidas personalidades de la sociedad civil de reconocida trayectoria profesional en áreas de la medicina, con más de 10 años de ejercicio profesional, quienes deberán ser ciudadanos campechanos por nacimiento en pleno ejercicio de sus derechos políticos y civiles, o vecinos del Estado durante un período no menor de cinco años, además de tener 35 años cumplidos al día de su designación; no haberse desempeñado como secretario o subsecretario en el área médica dentro de los tres últimos años inmediatos a su nombramiento y haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio y promoción de una buena práctica de la medicina o ciencias de la salud.
 
-Además serán invitados a participar como consejeros los Presidentes de los Colegios de Médicos y de Cirujanos que funcionen en el Estado de Campeche, quienes únicamente se sujetarán a los requisitos a que les obliguen sus propios organismos.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+Además serán invitados a participar como consejeros los Presidentes de los Colegios de Médicos: de Ginecología y Obstetricia; de Cirujanos y de Enfermeras, que funcionen en el Estado de Campeche, quienes únicamente se sujetarán a los requisitos a que les obliguen sus propios organismos.
 
 ###### ARTÍCULO 7.
 
 El cargo de Consejero será honorífico y durará seis años, a excepción de los presidentes de los colegios mencionados, quienes serán los que se encuentren en turno y estarán sujetos al tiempo que duren en el cargo. Los demás Consejeros no podrán ser confirmados para el período siguiente.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 8.
 
-El consejo sesionará por lo menos una vez al mes, las decisiones se tomarán por mayoría de votos y, en caso de empate; el comisionado tendrá el voto de calidad.
+El consejo sesionará por lo menos una vez cada trimestre, y podrán realizarse sesiones extraordinarias a consideración del Comisionado en su calidad de Presidente del Consejo de la Comisión de Conciliación Arbitraje Médico del Estado de Campeche.
+
+Las decisiones se tomarán por mayoría de votos y, en caso de empate; el comisionado tendrá el voto de calidad.
 
 ###### ARTÍCULO 9.
 
@@ -139,17 +189,25 @@ Corresponde al Consejo:
 
 I.- Establecer las políticas generales, a que (sic) deberá sujetar el órgano;
 
-II.- Aprobar y expedir el reglamento interno y demás disposiciones que regulen el funcionamiento de la Comisión de Arbitraje Médico del Estado;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+II. Aprobar y expedir el reglamento interno y demás disposiciones que regulen el funcionamiento de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche;
 
 III.- Aprobar y expedir el Manual de Procedimientos para la atención de las quejas observando las disposiciones jurídicas aplicables al mismo;
 
 IV.- Conocer de los asuntos que someta a su consideración el Comisionado;
 
-V.- Nombrar y en su caso, remover a propuesta del Comisionado a los Subcomisionados;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
 
-VI.- Analizar y, en su caso, aprobar el informe que el Comisionado presentará anualmente al Titular del Poder Ejecutivo Estatal;
+V. Nombrar y en su caso, remover a propuesta del Comisionado a los Subcomisionados y al personal que él considere;
 
-VII.- Evaluar periódicamente el funcionamiento de la Comisión de Arbitraje Médico del Estado y formular las recomendaciones correspondientes al desempeño y resultados que se obtenga; y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+VI. Analizar y, en su caso, aprobar el informe que el Comisionado presentará anualmente al Secretario de Salud del Estado de Campeche;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+VII. Evaluar periódicamente el funcionamiento de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche y formular las recomendaciones correspondientes al desempeño y resultados que se obtenga; y
 
 VIII. Las demás que le confieran otras disposiciones aplicables.
 
@@ -167,9 +225,13 @@ I.- Ser ciudadano campechano por nacimiento en pleno ejercicio de sus derechos p
 
 II.- Tener cuando menos treinta y cinco años cumplidos el día de su designación;
 
-III.- Acreditar cuando menos 10 años de ejercicio profesional y contar con especialidad en alguna rama de la medicina y no tener antecedentes penales ni procesales;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
 
-IV.- Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de actividades vinculadas a las atribuciones de la Comisión de Arbitraje del Estado.
+III.- Acreditar cuando menos diez años de ejercicio profesional y contar con especialidad en alguna rama de la medicina y no estar sujeto a procesos legales con relación a su profesión;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+IV.- Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de actividades vinculadas a las atribuciones de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche.
 
 Para ser nombrado subcomisionado deberán reunirse los mismos requisitos que se señalan en este artículo para ser comisionado. Con excepción de lo que señala la fracción III, que será, en su caso, el grado de Licenciatura y con 5 años de experiencia profesional.
 
@@ -179,19 +241,31 @@ Para ser nombrado subcomisionado deberán reunirse los mismos requisitos que se 
 
 Son facultades y atribuciones del Comisionado:
 
-I.- Ejercer la representación de la Comisión de Arbitraje Médico del Estado, ante entidades públicas y privadas que inviten a la comisión a participar.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
 
-II.- Someter a consideración del Consejo las designaciones de los Subcomisionados, así como nombrar y remover al personal de la Comisión de Arbitraje Médico del Estado;
+I.- Ejercer la representación de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, ante entidades públicas y privadas que inviten a la comisión a participar;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+II.- Someter a consideración del Consejo las designaciones de los Subcomisionados, así como nombrar y remover al personal de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche;
 
 III.- Conducir el funcionamiento del órgano vigilando el cumplimiento de sus objetivos y programas;
 
-IV.- Establecer de conformidad con el reglamento interno las unidades de servicio técnico, de apoyo y asesoría necesarias para el desarrollo de las funciones de la Comisión de Arbitraje del Estado;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
 
-V.- Celebrar toda clase de actos jurídicos, que permitan el cumplimiento del objetivo de la Comisión de Arbitraje Médico del Estado;
+IV.- Establecer las unidades de orientación y gestión, de transparencia, de capacitación, de asuntos jurídicos, de arbitraje y demás unidades administrativas que determine su reglamento interno, necesarias para el desarrollo de las funciones de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche;
 
-VI.- Informar anualmente al titular del Poder Ejecutivo del Estado, sobre las actividades de la Comisión de Arbitraje Médico del Estado, procurando que este informe sea difundido ampliamente entre los miembros de la sociedad;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
 
-VII.- Establecer los mecanismos de difusión que permitan a los usuarios y prestadores de servicios médicos y a la sociedad en su conjunto, conocer sus derechos y obligaciones en materia de salud, así como las funciones de la Comisión de Arbitraje Médico del Estado;
+V.- Celebrar toda clase de actos jurídicos que permitan el cumplimiento del objetivo de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+VI.- Informar anualmente al Secretario de Salud del Estado de Campeche, sobre las actividades de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, procurando que este informe sea difundido ampliamente entre los miembros de la sociedad;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+VII.- Establecer los mecanismos de difusión que permitan a los usuarios y prestadores de servicios médicos y a la sociedad en su conjunto, conocer sus derechos y obligaciones en materia de salud, así como las funciones de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche;
 
 VIII.- Emitir los acuerdos, resoluciones y opiniones en asuntos de la competencia de la Comisión;
 
@@ -201,7 +275,9 @@ X.- Vigilar el cumplimiento de las resoluciones, así como de los convenios que 
 
 XI.- Ejecutar los acuerdos emitidos por el Consejo;
 
-XII. Someter a consideración del Consejo el reglamento interno, al reglamento de procedimientos y demás disposiciones que regulen el funcionamiento d (sic) la Comisión Estatal;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+XII.- Someter a consideración del Consejo el reglamento interno, el reglamento de procedimientos y demás disposiciones que regulen el funcionamiento de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche;
 
 XIII.- Solicitar todo tipo de información a los usuarios y prestadores de servicios médicos y realizar las investigaciones pertinentes a efectos de cumplir cabalmente con las atribuciones de la Comisión; y
 
@@ -209,17 +285,21 @@ XIV.- Las demás que establezcan otras disposiciones aplicables.
 
 ### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE ATENCIÓN DE QUEJAS
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 13.
 
-La Comisión de Arbitraje Médico del Estado, por conducto del Comisionado, atenderá las quejas relacionadas con la prestación de servicios de atención a la salud cuando se aduzca una posible irregularidad o negativa del servicio. Al efecto estará facultado para solicitar la información relacionada a las partes y a terceros; realizar las investigaciones necesarias; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativa y de los prestadores de servicios a la salud, así como para adoptar las medidas necesarias para la protección de la salud de los usuarios.
+La Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, por conducto del Comisionado, atenderá las quejas relacionadas con la prestación de servicios de atención a la salud cuando se aduzca una posible irregularidad o negativa del servicio. Al efecto estará facultado para solicitar la información relacionada a las partes y a terceros; realizar las investigaciones necesarias; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativas y de los prestadores de servicios a la salud, así como para adoptar las medidas necesarias para la protección de la salud de los usuarios.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+Cuando los hechos materia de queja, sean atribuidos a instituciones de salud pública del ámbito federal que se susciten dentro del territorio del Estado, la Comisión procederá a recibir la misma y la remitirá a la Comisión Nacional de Arbitraje Médico, salvo que exista convenio de colaboración con alguna de esas instituciones, en donde de manera expresa consientan la sujeción a la competencia de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, bajo los esquemas que se establezcan en el convenio, para conocer y resolver a través de los procedimientos alternativos, los conflictos médicos que se susciten entre los usuarios y los prestadores que brindan estos servicios médicos.
 
-La formulación de quejas, así como los procedimientos que se sigan ante la Comisión de Arbitraje Médico del Estado, no afectarán el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos, conforme a la Ley, y tendrán el carácter de reservadas en términos de la fracción II del artículo 46 de esta Ley.
+La formulación de quejas, así como los procedimientos que se sigan ante la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, no afectarán el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios de salud, conforme a la Ley, y tendrán el carácter de reservadas en términos de la fracción II del artículo 46 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-Las quejas deberán presentarse ante la Comisión de Arbitraje Médico del Estado de manera personal por el quejoso, ya sea en forma verbal o escrita, y deberán contener:
+Las quejas deberán presentarse ante la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche de manera personal por el quejoso, ya sea en forma verbal o escrita, y deberán contener:
 
 I.- Nombre, domicilio y, en su caso el número telefónico del quejoso y del prestador del servicio de salud contra el cual se inconforme;
 
@@ -235,39 +315,61 @@ VI.- Firma o huella digital del quejoso.
 
 A la queja se agregará copia simple legible de los documentos en que soporte los hechos manifestados y de su identificación. Cuando se presenten originales la Comisión agregará al expediente copias cotejadas de los mismos, devolviendo los originales a los interesados.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-Solo puede iniciar un procedimiento ante la Comisión o intervenir en él, quien tenga interés en que ésta declare o constituya un derecho o emita una determinación arbitral y quien tenga el interés contrario. Podrán promover los interesados por si o a través de sus representantes o apoderados.
+Solo puede iniciar un procedimiento ante la Comisión o intervenir en él, quien tenga interés en que ésta declare o constituya un derecho o emita una determinación arbitral y quien tenga el interés contrario. Podrán promover los interesados por sí o a través de sus representantes o apoderados acreditados mediante carta poder simple.
 
-La Comisión examinará de oficio la personalidad y representación de las partes y los interesados podrán corregir cualquier deficiencia al respecto hasta la audiencia conciliatoria. Contra el auto que desconozca la personalidad, negándose a dar trámite al arbitraje, no procederá recurso alguno.
+La Comisión examinará de oficio la personalidad y representación de las partes y los interesados podrán corregir cualquier deficiencia al respecto hasta la audiencia conciliatoria. Contra el auto que desconozca la personalidad, no procederá recurso alguno.
 
 ###### ARTÍCULO 16.
 
 La Comisión brindará la orientación que el usuario necesite, especialmente la que se refiere a los alcances y efectos legales de la conciliación y el arbitraje y de los procedimientos alternos existentes.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-Cuando la queja pueda ser resuelta a través de orientación o de informes, la Comisión procederá a desahogarla de inmediato. Tratándose de quejas que impliquen la probable comisión de un delito o la infracción de disposiciones en materia de salud general, la Comisión remitirá al Ministerio Público o a la autoridad sanitaria según sea el caso, la documentación e informes que correspondan.
+Cuando la inconformidad pueda ser resuelta a través de orientación o asesoría, la Comisión procederá a desahogarla de inmediato. Las gestiones inmediatas podrán desahogarse en un plazo máximo de cinco días hábiles.
+
+Las quejas que impliquen la probable comisión de un delito o la infracción de disposiciones en materia de salud general, la Comisión remitirá a la Fiscalía General del Estado de Campeche, Procuraduría General de la República o a la autoridad sanitaria, según sea el caso, la documentación e informes que correspondan.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 18.
 
-Recibida la queja se registrará y se asignará número de expediente, debiendo acordar su admisión dentro de los tres días siguientes a su recepción, así como la fecha para la audiencia de conciliación, misma que se celebrará dentro de los quince días siguientes a aquél en que fue admitida.
+Recibida la queja se registrará y se asignará número de expediente, debiendo acordar su admisión dentro de los tres días hábiles siguientes a su recepción.
+
+Si la queja fuere incompleta, imprecisa, obscura o ambigua, la Comisión requerirá por escrito al interesado para que la aclare o complete en un plazo no mayor de diez días hábiles contados a partir del día siguiente de la notificación.
+
+Si el quejoso no desahogara la aclaración en los términos del párrafo anterior se tendrá por concluido el asunto, mandándose el expediente al archivo.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 19.
 
-Si la queja fuere incompleta, imprecisa, obscura o ambigua, la Comisión requerirá por escrito al interesado para que la aclare o complete en un plazo no mayor de diez días contados a partir del día siguiente al de la notificación. Formulada la aclaración solicitada la Comisión tendrá por admitida la queja y procederá a la notificación correspondiente.
-
-Si el quejoso no desahogara la aclaración en los términos del párrafo anterior se tendrá por concluido el asunto, mandándose el expediente al archivo.
+Una vez debidamente integrada la queja, ésta se turnará a Conciliación a más tardar el día hábil siguiente.
 
 ###### ARTÍCULO 20.
 
 Las notificaciones de los actos que la Comisión realice se harán en los términos previstos por el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 21.
 
-La Comisión notificará al prestador del servicio de salud, el nombre del quejoso y el resumen del motivo de la queja, dentro de un plazo de cinco días, contados a partir de su admisión.
+Dentro de un plazo de siete días hábiles, contados a partir de haber sido acordada la admisión de la queja, la Comisión notificará al prestador del servicio de salud el nombre del quejoso y el motivo de la queja, así como la fecha y hora para presentarse a la celebración de la audiencia informativa.
 
-En la misma diligencia se requerirá al prestador para que presente en la fecha en que se celebre la audiencia de conciliación el expediente clínico del quejoso y un informe en relación con el servicio prestado.
+En la misma audiencia informativa se le comunicará al prestador de servicios de salud que en caso de someterse al procedimiento conciliatorio, se le otorgará un término de diez días hábiles para presentar la contestación a los hechos motivo de la queja, currículum, título y cédula que acrediten su grado de estudios, así como presentar copia fotostática del expediente clínico del usuario.
+
+A solicitud del prestador de servicios de salud, se le podrá otorgar una prórroga de cinco días hábiles, contados a partir de la notificación del otorgamiento de la prórroga.
+
+En caso de requerirlo la comisión podrá realizar las comparecencias de aportación de datos que estime necesarias, debiendo notificarlos dentro de un plazo de cinco días hábiles para que se presenten a desahogar la diligencia.
+
+Si el prestador de servicio de salud no acude en atención a la convocatoria respectiva, se le notificará en segunda o tercera convocatoria. De no atenderla se presumirá falta de interés cerrándose el expediente y se informará al usuario de lo ocurrido.
+
+Concluidas y satisfechas las diligencias mencionadas anteriormente, se fijará fecha y hora para la audiencia de conciliación, misma que se notificará dentro de los quince días hábiles siguientes a la conclusión de la audiencia informativa y con por lo menos siete días hábiles de anticipación a la audiencia de conciliación.
 
 ### CAPÍTULO SEXTO. DE LA CONCILIACIÓN
 
@@ -289,9 +391,15 @@ El conciliador podrá en todo momento requerir a las partes los elementos de con
 
 Las partes podrán aportar las pruebas que estimen pertinentes y necesarias para acreditar los elementos de la queja y del informe. El conciliador podrá diferir la audiencia de conciliación hasta por dos ocasiones cuando lo estime pertinente, o a instancia de ambas partes, debiendo en todo caso señalar día y hora para su reanudación dentro de los cinco días hábiles siguientes.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 25.
 
-En caso de inasistencia de un prestador de servicios a la audiencia de conciliación, o ante el incumplimiento de presentar los documentos mencionados en el artículo 21, se solicitará, en el caso de instituciones públicas la intervención de los órganos internos de control, a efecto de que coadyuven con la Comisión en el cumplimiento de sus objetivos. Cuando se trate de un prestador de servicios que ejerza su actividad de manera privada, se solicitará la intervención de las asociaciones de profesionales con las que la Comisión haya establecido acuerdos de colaboración necesarios.
+En caso de inasistencia de un prestador de servicios a la audiencia de conciliación se le otorgará un término de cinco días hábiles para justificarse por escrito, a efecto de que se señale nueva fecha y hora para celebrar la audiencia correspondiente.
+
+Si el prestador de servicio de salud no acude en atención a la convocatoria respectiva, se le notificará en segunda o tercera convocatoria. De no atenderla se presumirá falta de interés cerrándose el expediente y se informará al usuario de lo ocurrido.
+
+Ante el incumplimiento de presentar los documentos mencionados en el artículo 21 de la presente ley, se solicitará, en el caso de instituciones públicas, la intervención de los órganos internos de control, a efecto de que coadyuven con la Comisión en el cumplimiento de sus objetivos. Cuando se trate de un prestador de servicios que ejerza su actividad de manera privada, se solicitará la intervención de las asociaciones de profesionales con las que la Comisión haya establecido acuerdos de colaboración necesarios.
 
 ###### ARTÍCULO 26.
 
@@ -487,17 +595,19 @@ VII.- Se realizará, cuando sea necesaria la resolución de una cuestión juríd
 
 VIII.- Si durante el transcurso del juicio y hasta antes de que se cierre la instrucción, cualquiera de las partes llegare a contar con alguna prueba superveniente, deberán acreditar su existencia y naturaleza; y una vez acreditada, podrán solicitar la admisión de la probanza.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 51.
 
-El Comisionado acordará la recepción del expediente, dentro de los tres días siguientes a la fecha en que lo reciba y dará vista a las partes por diez días naturales, para que en ese término:
+El Comisionado acordará la recepción del expediente, dentro de los tres días siguientes a la fecha en que lo reciba y dará vista a las partes en un período de diez días hábiles posteriores a su notificación, para que dentro de ese término:
 
-I.- Ofrezcan sus pruebas;
+I. Ofrezcan sus pruebas;
 
-II.- Presenten las apreciaciones escritas que estimen necesarias, a reserva de ampliarlas de manera verbal o por escrito en la audiencia; y
+II. Presenten las apreciaciones escritas que estimen necesarias, a reserva de ampliarlas de manera verbal o por escrito en la audiencia; y
 
-III.- Exhiban los documentos que obren en su poder.
+I. (SIC). Exhiban los documentos que obren en su poder.
 
-Transcurrida la visita, el Comisionado resolverá sobre la admisión o desechamiento de las probanzas y fijar las medidas necesarias para la preparación de la audiencia de pruebas y alegatos, misma que se celebrará dentro de los quince días siguientes a la fecha en que ésta fue fijada.
+Transcurrida la vista, el Comisionado resolverá dentro de los tres días hábiles siguientes sobre la admisión o desechamiento de las probanzas y fijará las medidas necesarias para la preparación de la audiencia de pruebas y alegatos, misma que se celebrará en la fecha y hora que designe el comisionado, la cual se notificará por lo menos con diez días hábiles de anticipación.
 
 ###### ARTÍCULO 52.
 
@@ -553,15 +663,19 @@ VI.- Concluido el desahogo de las pruebas, se procederá a recibir los alegatos 
 
 VII.- Hecho lo anterior, la Comisión determinará cerrada la instrucción citando a las partes para laudo.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-Concluida la audiencia de pruebas y alegatos, el Comisionado remitirá el expediente debidamente integrado al Consejo dentro de los tres días siguientes a la celebración de dicha audiencia, a efecto de que este emita el dictamen respectivo.
+Concluida la audiencia de pruebas y alegatos, el Comisionado remitirá el expediente debidamente integrado al Consejo dentro de los tres días hábiles siguientes a la celebración de dicha audiencia, a efecto de que este emita el dictamen respectivo.
 
 ###### ARTÍCULO 62.
 
 El Consejo acordará la recepción del expediente dentro de los tres días siguientes a aquel en que lo recibió, notificando dicha circunstancia al Comisionado mediante simple oficio.
 
-A más tardar en un plazo de diez días siguientes a aquel en que haya acordado su recepción, el Consejo deberá rendir el Dictamen correspondiente. Dicho plazo podrá prorrogarse previa autorización del Comisionado.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
+A más tardar en un plazo de diez días hábiles siguientes a aquel en que haya acordado su recepción, el Consejo deberá rendir el Dictamen correspondiente. Dicho plazo podrá prorrogarse por diez días hábiles más, previa autorización del Comisionado en su calidad de Presidente del Consejo.
 
 ### CAPÍTULO DÉCIMO. DE LAS RESOLUCIONES DE LA COMISIÓN
 
@@ -597,9 +711,15 @@ En caso de que no se cumpla con la determinación, ésta podrá hacerse efectiva
 
 Las resoluciones deben tener el lugar, fecha y responsables de su emisión, los nombres de las partes contendientes, el carácter con que concurrieron al procedimiento y el objeto de la controversia.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 68.
 
-Las resoluciones de la Comisión deben dictarse y mandarse notificar, dentro de los cinco días siguientes a aquél en que se hubiere citado para dictarse. Los laudos deben dictarse dentro de los veinte días siguientes a aquel en que se hubiere hecho la citación para laudo y mandarse notificar dentro de los cinco días siguientes a aquel en que se haya dictado. Solo cuando hubiere necesidad de que la Comisión examine documentos voluminosos para dictarlo, podrá disfrutar de un término ampliado de hasta quince días más.
+Las resoluciones de la Comisión mencionadas en las fracciones I y II del artículo 63 de esta ley, deben dictarse y mandarse notificar, dentro de los cinco días hábiles siguientes a aquél en que se hubiere citado para dictarse.
+
+Concluido el plazo señalado en el artículo 62, el comisionado citará a las partes para oír el laudo dentro de los cinco días hábiles siguientes.
+
+Los laudos deben dictarse dentro de los veinte días hábiles siguientes a aquel en que se hubiere hecho la citación para laudo y mandarse notificar dentro de los cinco días hábiles siguientes a aquel en que se haya dictado. Solo cuando hubiere necesidad de que la Comisión examine documentos voluminosos para dictarlo, podrá disfrutar de un término ampliado de hasta quince días hábiles más.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -611,13 +731,17 @@ Las resoluciones de la Comisión deben dictarse y mandarse notificar, dentro de 
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 70.
 
-El control y vigilancia de la Comisión de Arbitraje Médico del Estado estará a cargo del órgano de control interno que corresponda, quien ejercerá las funciones que le establecen las leyes aplicables.
+El control y vigilancia de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche estará a cargo del Órgano Interno de Control que corresponda, quien ejercerá las funciones que le establecen las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 71.
 
-La Comisión de Arbitraje Médico del Estado remitirá a la Comisión de Derechos Humanos del Estado la documentación y los informes que le solicite esta última, a fin de que atienda las quejas que sean de su competencia.
+La Comisión de Conciliación y Arbitraje Médico del Estado de Campeche remitirá a la Comisión de Derechos Humanos del Estado de Campeche la documentación y los informes que le solicite esta última, a fin de que atienda las quejas que sean de su competencia.
 
 ## TRANSITORIOS
 
@@ -640,3 +764,21 @@ Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campech
 P.O. 19 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 80 POR EL QUE “SE REFORMA LA DENOMINACIÓN DE LA LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE, PARA QUEDAR COMO “LEY DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE”; SE REFORMAN LOS ARTÍCULOS 1; 2; LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO PARA QUEDAR COMO “DE LAS ATRIBUCIONES DE LA COMISIÓN”; LAS FRACCIONES VII, VIII, IX Y XIV DEL ARTÍCULO 4; EL ARTÍCULO 5; LOS PÁRRAFOS TERCERO Y QUINTO DEL ARTÍCULO 6; EL ARTÍCULO 8; LAS FRACCIONES II, V, VI Y VII DEL ARTÍCULO 9; LAS FRACCIONES III Y IV DEL ARTÍCULO 11; LAS FRACCIONES I, II, IV, V, VI, VII Y XII DEL ARTÍCULO 12; EL ARTÍCULO 13; EL PÁRRAFO PRIMERO DEL ARTÍCULO 14; LOS ARTÍCULOS 15; 17; 18; 19; 21; 25; 51; 61; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 62; LOS ARTÍCULOS 68; 70 Y 71; Y SE ADICIONAN LAS FRACCIONES XV Y XVI AL ARTÍCULO 4, TODOS DE LA LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE”.]</small>
+
+Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las referencias que se hagan en el marco jurídico estatal a la Comisión de Arbitraje Médico del Estado de Campeche, se entenderán como hechas a la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche.
+
+Tercero.- Los asuntos que se encuentren en trámite al inicio de vigencia de este decreto, se continuarán hasta su conclusión de conformidad con los plazos y términos que se encontraban vigentes en la fecha de su inicio.
+
+Cuarto.- La Comisión de Conciliación y Arbitraje Médico del Estado de Campeche, contará con un plazo de sesenta días, contados a partir del día siguiente de la entrada en vigor del presente decreto, para expedir su Reglamento Interno, así como las demás disposiciones complementarias para su funcionamiento.
+
+Quinto.- Para los efectos administrativos, económicos y financieros que se deriven de este decreto, la Comisión tomará las previsiones presupuestales necesarias en el ejercicio fiscal 2017.
+
+Hasta en tanto el presupuesto permita realizar las adecuaciones de reestructuración administrativa que se deriven del presente decreto, la Comisión continuará funcionando con la estructura que se encuentre operando en la fecha de inicio de vigencia de este decreto.
+
+Sexto.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
