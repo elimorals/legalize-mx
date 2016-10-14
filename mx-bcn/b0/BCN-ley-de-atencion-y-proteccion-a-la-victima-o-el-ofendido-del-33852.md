@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2015-05-22"
+last_updated: "2016-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015, LAS MENCIONES QUE SE HAGA RESPECTO A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -69,7 +67,9 @@ VI.- Dirección.- A la Dirección de Atención a Víctimas del Delito de la Proc
 
 VII.- Código Penal.- El Código Penal para el Estado de Baja California;
 
-VIII.- (DEROGADA, P.O. 22 DE MAYO DE 2015)
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VIII.- Código de Procedimientos Penales.- El Código Nacional de Procedimientos Penales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -86,6 +86,10 @@ El Ejecutivo podrá auxiliarse para la prestación de los servicios de atención
 ###### ARTÍCULO 4.
 
 Las autoridades estatales y municipales podrán celebrar toda clase de acuerdos y convenios administrativos mediante los cuales se establezcan los mecanismos de coordinación, colaboración y concertación que permitan la participación de los sectores público, social y privado en materia de atención y protección a víctimas y ofendidos.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+En las leyes de aplicación estatal que protejan a víctimas o el ofendido del delito, se aplicará siempre la que más favorezca a la víctima o el ofendido.
 
 ###### ARTÍCULO 5.
 
@@ -181,13 +185,15 @@ X.- Estar presente en el desahogo de los actos y diligencias en que intervenga e
 
 XI.- Cuando no hable el idioma castellano o se trate de analfabeta, mudo, sordo o ciego, invariablemente cuente con un traductor o intérprete en todas las actuaciones procesales;
 
-XII.- Solicitar justificadamente a la Dirección el reemplazo del asesor jurídico asignado; y,
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XII.- Solicitar justificadamente a la Dirección el reemplazo del asesor jurídico asignado;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-XIII.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, y las leyes en esta materia.
+XIII.- A quien de oficio se le nombre un intérprete en el caso de ser integrante de pueblos y comunidades indígenas, a fin de que puedan expresarse en su propia lengua; y
+
+XIV.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, y las leyes en esta materia.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS DE ATENCION Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO
 
@@ -492,3 +498,9 @@ Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de
 QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
 
 Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 593 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LOS NUMERALES 2, 4 Y 8 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
