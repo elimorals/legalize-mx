@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-servicios-de-seguridad-privada-del-estado-de-24991"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-20"
-last_updated: "2002-03-20"
+last_updated: "2016-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de marzo de 2002.
 
@@ -183,9 +185,11 @@ Previamente a la contratación del personal operativo, los prestadores del servi
 
 DE LOS REQUISITOS PARA FORMAR PARTE DE UNA EMPRESA QUE PRESTA SERVICIOS DE SEGURIDAD PRIVADA Y DE LOS PRINCIPIOS DE ACTUACION DEL PERSONAL OPERATIVO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Para ingresar y permanecer como personal directivo, administrativo y operativo al servicio de los prestadores, los interesados deberán cumplir con los siguientes requisitos:
+Para ingresar y permanecer como personal directivo, administrativo y operativo al servicio de los prestadores, los interesados deberán ser evaluados y certificados por el Centro Estatal de Control de Confianza, y cumplir con los siguientes requisitos
 
 I.- Ser de nacionalidad mexicana y estar en pleno goce de sus derechos;
 
@@ -588,3 +592,13 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2375.- SE REFORMAN LAS FRACCIONES V, VII Y VIII DEL ARTÍCULO 68 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 14 DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Articulo Segundo.- El Titular del Poder Ejecutivo del Estado, deberá expedir dentro de los 90 días siguientes a la publicación del presente Decreto, el reglamento para llevar a cabo la evaluación y certificación del personal directivo, administrativo y operativo de las empresas que prestan servicios de seguridad privada en el Estado, a fin de que dicho personal, esté debidamente evaluado y certificado, en un plazo que no excederá de un año contado a partir de la entrada en vigor del presente Decreto.
