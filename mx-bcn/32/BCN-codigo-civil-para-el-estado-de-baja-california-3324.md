@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-10-07"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -491,7 +491,7 @@ Cuando los adoptantes opten por sujetarse a la adopción se asentarán en todo l
 
 ###### ARTICULO 60.
 
-Si el nacido se presenta como hijo de padres desconocidos, el Oficial del Registro Civil o quien ejerza sus funciones procederá a levantar el acta de nacimiento asentando en todo lo posible los datos a que se refiere el Artículo 58, sin hacer mención de aquella circunstancia, y le pondrá a su elección el nombre y apellidos que deba llevar.
+Si el nacido se presenta como hijo de padres desconocidos, el Oficial del Registro Civil o quien ejerza sus funciones procederá a levantar el acta de nacimiento asentando en todo lo posible los datos a que se refiere el artículo 58, sin hacer mención de aquella circunstancia, y le pondrá a su elección el nombre y apellidos que deba llevar.
 
 Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil o quien ejerza sus funciones deberá asentar como domicilio del nacido tan solo la ciudad en que esté situado el establecimiento.
 
@@ -2305,9 +2305,11 @@ Las cuestiones relativas a la paternidad del hijo nacido después de trescientos
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 328.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por causa de demencia, u otro motivo, discapacidad mental o inteligencia para decidir, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### ARTICULO 329.
 
@@ -11269,9 +11271,11 @@ Si la cosa enajenada pereciere o mudare de naturaleza a consecuencia de los vici
 
 Si el enajenante no conocía los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquirente los haya pagado.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 2024.
 
-Las acciones que nacen de lo dispuesto en los artículos del 2017 al 2023, se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2013 y 2014.
+Las acciones que nacen de los (sic) dispuesto en los artículos 2017 al 2023, se extinguen a los seis meses en caso de bienes muebles y dos años en caso de bienes inmuebles, contando desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2013 y 2014.
 
 ###### ARTICULO 2025.
 
@@ -16453,10 +16457,22 @@ P.O. 23 DE SEPTIEMBRE DE 2016.
 
 P.O. 7 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL PUNTO PRIMERO DEL “DECRETO NO. 590 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2191 Y 2194 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIO DEL PUNTO PRIMERO DEL "DECRETO NO. 590 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2191 Y 2194 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO NO. 590 PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2016.]</small>
 
 CUARTO.- No se aprueban las reformas a los artículos 1480, 1481, 1482, 1451 BIS, 671, 672, 1387, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 2868 del Código Civil para el Estado de Baja California; 866, 867, 868 del Código de Procedimientos Civiles para el Estado de Baja California y 173 de la Ley de Hacienda del Estado de Baja California, por los argumentos vertidos en el cuerpo del presente Dictamen.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 588 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 328 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 589 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 2024 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
