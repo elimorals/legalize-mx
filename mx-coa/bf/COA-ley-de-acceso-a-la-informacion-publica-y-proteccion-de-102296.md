@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-102296"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2016-08-01"
+last_updated: "2016-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 26 de agosto de 2014.
 
@@ -275,7 +275,9 @@ XXI. Las demás que determinan esta ley y otras disposiciones aplicables.
 
 Son prohibiciones de los sujetos obligados:
 
-I. Publicar, difundir y divulgar mediante la compra de espacios publicitarios en medios escritos o electrónicos los nombres, imágenes, voces o símbolos, cuando éstos no tengan carácter institucional, sus fines sean distintos a los informativos, educativos o de orientación social e impliquen promoción personalizada de cualquier servidor público con recursos públicos;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+I. Tratándose de los poderes públicos del Estado y municipios, los organismos públicos autónomos, las dependencias y entidades de la administración pública estatal y municipal y cualquier otro ente de gobierno, el publicar o difundir la propaganda en medios escritos o electrónicos sin observar lo establecido en la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
 II. Retirar la información pública de oficio de sus portales de Internet o de las plataformas del instituto por cualquier motivo; y
 
@@ -3574,3 +3576,11 @@ P.O. 1 DE AGOSTO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 569.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 9 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
