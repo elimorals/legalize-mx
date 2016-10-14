@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2015-12-20"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2016 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -1473,13 +1475,19 @@ III. Expedir y actualizar los certificados conforme a los formatos autorizados p
 
 IV. Informar a las autoridades competentes sobre los resultados de las evaluaciones que practique;
 
-V. Solicitar se efectúe el seguimiento individual de los integrantes de las instituciones de seguridad pública evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
+> <small>(REFORMADA, B.O. 14 DE OCTUBRE DE 2016)</small>
+
+V. Solicitar se efectúe el seguimiento individual de los integrantes de las instituciones de seguridad pública y de las empresas de seguridad privada evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
 
 VI. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
 
-VII. Proporcionar a las autoridades competentes la información contenida en los expedientes de integrantes de instituciones de seguridad pública y que se requieren en procesos administrativos o judiciales, con las reservas previstas en las Leyes aplicables;
+> <small>(REFORMADA, B.O. 14 DE OCTUBRE DE 2016)</small>
 
-VIII. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las instituciones de seguridad pública e implementar medidas de registro y seguimiento para quienes sean separados del servicio por no obtener la certificación referida en esta Ley; y
+VII. Proporcionar a las autoridades competentes la información contenida en los expedientes de integrantes de instituciones de seguridad pública y de las empresas de seguridad privada, y que se requieren en procesos administrativos o judiciales, con las reservas previstas en las Leyes aplicables;
+
+> <small>(REFORMADA, B.O. 14 DE OCTUBRE DE 2016)</small>
+
+VIII. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las instituciones de seguridad pública o a empresas que presten los servicios de seguridad privada en el Estado, e implementar medidas de registro y seguimiento para quienes sean separados del servicio por no obtener la certificación referida en esta Ley; y
 
 IX. Las demás que establezcan las disposiciones legales aplicables.
 
@@ -2266,3 +2274,11 @@ Los programas y el sistema en materia de prevención del delito que se encuentre
 ###### ARTÍCULO TERCERO.
 
 Los Consejos Ciudadanos de Seguridad Pública, Estatal y Municipales, estarán en funciones, hasta en tanto se instalen los nuevos Consejo Ciudadanos Estatal y Municipal, de Participación Ciudadana en la Prevención Social de la Violencia y la Delincuencia.
+
+B.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 2375.- SE REFORMAN LAS FRACCIONES V, VII Y VIII DEL ARTÍCULO 68 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 14 DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo del Estado, deberá expedir dentro de los 90 días siguientes a la publicación del presente Decreto, el reglamento para llevar a cabo la evaluación y certificación del personal directivo, administrativo y operativo de las empresas que prestan servicios de seguridad privada en el Estado, a fin de que dicho personal, esté debidamente evaluado y certificado, en un plazo que no excederá de un año contado a partir de la entrada en vigor del presente Decreto.
