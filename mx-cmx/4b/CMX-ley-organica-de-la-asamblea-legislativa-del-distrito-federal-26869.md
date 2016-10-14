@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2016-08-30"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -186,9 +186,11 @@ XXIII.- Otorgar la distinción en las Ciencias y Artes a los ciudadanos que se h
 
 XXIV.- Otorgar la Medalla al Mérito Deportivo de la Asamblea Legislativa del Distrito Federal, a los Mexicanos que en forma individual o en equipo, hayan obtenido triunfos trascendentales, en las diferentes actividades deportivas de carácter regional, nacional, o mundial, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
-> <small>(REFORMADA, G.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2016)</small>
 
-XXV.- Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública y de la Policía de Investigación del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+XXV.- Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública y de la Policía de Investigación del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior.
+
+Tratándose del primer año legislativo, la medalla deberá ser entregada en la última sesión del segundo periodo ordinario de sesiones en el mes de abril;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2011)</small>
 
@@ -2447,3 +2449,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan en algún sentido lo aprobado en esta reforma.
+
+G.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR".]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal.
