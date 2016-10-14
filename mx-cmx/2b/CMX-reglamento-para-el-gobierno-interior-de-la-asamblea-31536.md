@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2016-05-18"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -538,7 +538,7 @@ Las Comisiones seguirán funcionando durante el receso de la Asamblea para el de
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
-Los dictámenes que emitan las comisiones durante los recesos serán listados en el programa de trabajo del periodo de sesiones ordinarias siguiente (sic). En el caso de los dictámenes de proposiciones con punto de acuerdo que emitan las comisiones podrán presentarse para su discusión y, en su caso, aprobación ante la Diputación Permanente, debiendo señalar el nombre del integrante de la Comisión que habrá de presentarlo.
+Los dictámenes que emitan las comisiones durante los recesos serán listados en el programa de trabajo del periodo de sesiones ordinarias siguiente. En el caso de los dictámenes de proposiciones con punto de acuerdo que emitan las comisiones podrán presentarse para su discusión y, en su caso, aprobación ante la Diputación Permanente, debiendo señalar el nombre del integrante de la Comisión que habrá de presentarlo.
 
 ###### Artículo 42.
 
@@ -2984,11 +2984,11 @@ Las propuestas y la documentación correspondiente de los candidatos para ser me
 
 Además de los requisitos señalados en el artículo 180 se deberá tomar en cuenta a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 204.
 
-La Sesión Solemne para entregar la Medalla al Mérito Policial se realizará en la fecha en que se conmemore el "Día del Policía" del año que corresponda.
+La Sesión Solemne para entregar la Medalla al Mérito Policial se realizará en la fecha en que se conmemore el "Día del Policía" del año que corresponda, salvo en el primer año legislativo, cuando deberá ser entregada en la última sesión del segundo periodo ordinario de sesiones en el mes de abril.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -3836,7 +3836,7 @@ QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Of
 
 G.O. 18 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 111 DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL (SIC)”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 111 DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -3859,3 +3859,13 @@ PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión Especial para Garantizar el Ejercicio Periodístico de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal.
