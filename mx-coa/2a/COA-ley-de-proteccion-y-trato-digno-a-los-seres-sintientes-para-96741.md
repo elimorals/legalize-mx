@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2016-08-09"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -83,71 +83,75 @@ V.- Animales ferales: Aquellos pertenecientes a especies domesticas que al queda
 
 VI.- Animal guía: Los animales que son adiestrados con el fin de apoyar a las personas con discapacidad;
 
-VII.- Animales silvestres: Los animales no considerados especies domésticas que son originarios de áreas no urbanas;
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-VIII.- Animales de exhibición: Todos aquellos, que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas o cualquier otro tipo de colección de animales o especies similares ya sean de propiedad pública o privada;
+VII.- Animales Potencialmente Peligrosos: Aquellos que por su conducta agresiva tengan la capacidad de causar la muerte o lesiones graves a las personas, de acuerdo a los criterios que establezca el reglamento respectivo.
 
-IX.- Animales de guardia y protección: Los animales que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
+VIII.- Animales silvestres: Los animales no considerados especies domésticas que son originarios de áreas no urbanas;
 
-X.- Animal para abasto: Todos aquellos animales que sirven para consumo y aprovechamiento del ser humano;
+IX.- Animales de exhibición: Todos aquellos, que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas o cualquier otro tipo de colección de animales o especies similares ya sean de propiedad pública o privada;
 
-XI.- Animal para espectáculos: Los animales mantenidos en cautiverio que son utilizados en espectáculos públicos o privados, bajo el adiestramiento del ser humano;
+X.- Animales de guardia y protección: Los animales que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
 
-XII.- Animal para monta, carga y tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe cualquier tipo de beneficios a su propietario, poseedor o encargado;
+XI.- Animal para abasto: Todos aquellos animales que sirven para consumo y aprovechamiento del ser humano;
 
-XIII.- Animales para la zooterapia: Son los animales que conviven con una o con un grupo de personas con fines terapéuticos y para el tratamiento de algunas enfermedades de tipo neurológico, psicológico y psiquiátrico entre otras.
+XII.- Animal para espectáculos: Los animales mantenidos en cautiverio que son utilizados en espectáculos públicos o privados, bajo el adiestramiento del ser humano;
 
-XIV.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
+XIII.- Animal para monta, carga y tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe cualquier tipo de beneficios a su propietario, poseedor o encargado;
 
-XV.- Asociaciones protectoras de animales: Las instituciones, organizaciones y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección de los animales;
+XIV.- Animales para la zooterapia: Son los animales que conviven con una o con un grupo de personas con fines terapéuticos y para el tratamiento de algunas enfermedades de tipo neurológico, psicológico y psiquiátrico entre otras.
 
-XVI.- Bienestar animal: Estado en el que el animal tiene satisfechas sus necesidades bilógicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
+XV.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
 
-XVII.- Campañas: Acciones públicas realizadas de manera periódica y sistemática por la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población de animales o para difundir el trato digno y respetuoso a los animales;
+XVI.- Asociaciones protectoras de animales: Las instituciones, organizaciones y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección de los animales;
 
-XVIII.- Campañas Fitosanitarias: Es un conjunto de medidas fitosanitarias para la Prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
+XVII.- Bienestar animal: Estado en el que el animal tiene satisfechas sus necesidades bilógicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
 
-XIX.- Campañas Zoosanitarias: Es un conjunto de medidas y acciones sanitarias para prevenir, detectar, combatir, o erradicar enfermedades o plagas que afecten a los animales en un área geográfica determinada;
+XVIII.- Campañas: Acciones públicas realizadas de manera periódica y sistemática por la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población de animales o para difundir el trato digno y respetuoso a los animales;
 
-XX.- Centros de Control Animal: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y albergue;
+XIX.- Campañas Fitosanitarias: Es un conjunto de medidas fitosanitarias para la Prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
 
-XXI.- Epizootia: Enfermedad contagiosa que ataca a un número inusual de animales al mismo tiempo y lugar que se propaga con rapidez. Término equivalente en medicina a epidemia;
+XX.- Campañas Zoosanitarias: Es un conjunto de medidas y acciones sanitarias para prevenir, detectar, combatir, o erradicar enfermedades o plagas que afecten a los animales en un área geográfica determinada;
 
-XXII.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
+XXI.- Centros de Control Animal: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y albergue;
 
-XXIII.- Fauna: Es el conjunto de animales característico de una región que viven y se desarrollan en un mismo hábitat;
+XXII.- Epizootia: Enfermedad contagiosa que ataca a un número inusual de animales al mismo tiempo y lugar que se propaga con rapidez. Término equivalente en medicina a epidemia;
 
-XXIV.- Hábitat: Es un espacio del medio ambiente físico en el que se desarrollan organismos, especies, población o comunidades de animales en un tiempo determinado;
+XXIII.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
 
-XXV.- Ley: La Ley de Protección y Trato Digno a los Animales para el Estado de Coahuila de Zaragoza;
+XXIV.- Fauna: Es el conjunto de animales característico de una región que viven y se desarrollan en un mismo hábitat;
 
-XXVI.- Maltrato: Todo hecho, acto u omisión, negligencia o descuido del ser humano, consciente o inconsciente, intencional o no, que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un animal, su integridad o viabilidad de alguno de sus órganos o que afecten gravemente su salud;
+XXV.- Hábitat: Es un espacio del medio ambiente físico en el que se desarrollan organismos, especies, población o comunidades de animales en un tiempo determinado;
 
-XXVII.- Mascotas: Los animales que sirven de compañía al ser humano. Aquel que es mantenido por el hombre para su disfrute y que vive por sus cuidados;
+XXVI.- Ley: La Ley de Protección y Trato Digno a los Animales para el Estado de Coahuila de Zaragoza;
 
-XXVIII.- Plaga: Aparición masiva y repentina de seres vivos de la misma especie que causan graves daños a poblaciones animales o vegetales;
+XXVII.- Maltrato: Todo hecho, acto u omisión, negligencia o descuido del ser humano, consciente o inconsciente, intencional o no, que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un animal, su integridad o viabilidad de alguno de sus órganos o que afecten gravemente su salud;
 
-XXIX.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservando el equilibrio ecológico;
+XXVIII.- Mascotas: Los animales que sirven de compañía al ser humano. Aquel que es mantenido por el hombre para su disfrute y que vive por sus cuidados;
 
-XXX.- Procuraduría: Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza;
+XXIX.- Plaga: Aparición masiva y repentina de seres vivos de la misma especie que causan graves daños a poblaciones animales o vegetales;
 
-XXXI.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún animal contagiado;
+XXX.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservando el equilibrio ecológico;
 
-XXXII.- Rastro: Establecimiento de servicio público o privado, donde se realiza la matanza de animales de abasto;
+XXXI.- Procuraduría: Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza;
 
-XXXIII.- Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario utilizando métodos físicos y/o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
+XXXII.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún animal contagiado;
 
-XXXIV.- Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad y el pleno ejercicio de sus facultades;
+XXXIII.- Rastro: Establecimiento de servicio público o privado, donde se realiza la matanza de animales de abasto;
 
-XXXV.- Secretaría: Secretaría de Medio Ambiente del Estado de Coahuila de Zaragoza;
+XXXIV.- Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario utilizando métodos físicos y/o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
 
-XXXVI.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
+XXXV.- Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad y el pleno ejercicio de sus facultades;
 
-XXXVII.- Trato digno: Las medidas que esta ley, establece para evitar el dolor o angustia de cualquier animal durante su posesión, propiedad, captura, crianza, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+XXXVI.- Secretaría: Secretaría de Medio Ambiente del Estado de Coahuila de Zaragoza;
 
-XXXVIII.- Vivisección: Procedimiento quirúrgico en animales vivos en condiciones asépticas y bajo los efectos de un anestésico con el fin de hacer estudios fisiológicos o investigaciones: y
+XXXVII.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
 
-XXXIX.- Zoonosis: Las enfermedades que se dan en los animales y son transmisibles al hombre en condiciones naturales.
+XXXVIII.- Trato digno: Las medidas que esta ley, establece para evitar el dolor o angustia de cualquier animal durante su posesión, propiedad, captura, crianza, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+
+XXXIX.- Vivisección: Procedimiento quirúrgico en animales vivos en condiciones asépticas y bajo los efectos de un anestésico con el fin de hacer estudios fisiológicos o investigaciones: y
+
+XL.- Zoonosis: Las enfermedades que se dan en los animales y son transmisibles al hombre en condiciones naturales.
 
 ###### Artículo 5.
 
@@ -243,6 +247,10 @@ VII.- Integrar, clasificar y mantener actualizado el padrón municipal de animal
 
 VIII.- Otorgar los permisos especiales para la reproducción de animales de compañía de raza, en los casos particulares.
 
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+IX.- Otorgar las licencias administrativas para la tenencia de Animales Potencialmente Peligrosos, de acuerdo al reglamento respectivo.
+
 ###### Artículo 15.
 
 El Padrón Municipal de Animales estará a cargo de cada Municipio y llevará el registro de:
@@ -253,7 +261,9 @@ II.- Los centros de control animal y zoonosis;
 
 III.- Los rastros;
 
-IV.- Las asociaciones protectoras de animales;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+IV.- Las asociaciones protectoras de animales, miembros y clubes de perros de raza, y entrenadores y adiestradores caninos para guardia y protección;
 
 V.- Los establecimientos para la venta de animales;
 
@@ -261,9 +271,17 @@ VI.- Los sitios para cría, cuidado y resguardo de animales como son: Ranchos, h
 
 VII.- Los certificados que se otorguen; y
 
-VIII.- Las demás que establezca el reglamento de la presente Ley y;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-IX.- otras aplicaciones aplicables.
+VIII.- Los animales considerados potencialmente peligrosos;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+IX.- Las demás que establezca el reglamento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+X.- Otras disposiciones aplicables.
 
 ## TITULO II. DISPOSICIONES COMUNES PARA EL CUIDADO Y PROTECCIÓN DE LOS ANIMALES
 
@@ -356,6 +374,14 @@ V.- Registrar al animal ante el padrón municipal de animales.
 VI.- Esterilizar a los animales de compañía, a partir de los 3 meses y antes de los 6 meses.
 
 VII.- La persona que tenga un animal de raza que haya adquirido, cuyo objeto no sea convertirse en criador, solicitará un permiso especial ante la instancia municipal correspondiente para su reproducción, se permitirá una camada, siendo los cachorros esterilizados a los tres meses de edad, para su venta o adopción.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VIII.- Para la presencia y circulación en espacios públicos de los Animales Potencialmente Peligrosos, deberán llevar el equipamiento apropiado a la tipología racial del animal para ser conducidos y controlados, cuidando de no alterar de manera sustancial su conducta, en cuestión de volverlos más agresivos o inestables.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+IX.- Para el caso de la tenencia de animales potencialmente peligrosos, se requerirá la previa obtención de una licencia administrativa, que será otorgada por los Ayuntamientos, en términos del reglamento respectivo.
 
 ###### Artículo 23.
 
@@ -888,3 +914,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 548.- SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 4, RECORRIÉNDOSE LAS ULTERIORES, LA FRACCIÓN IX AL ARTÍCULO 14, LA FRACCIÓN X AL ARTÍCULO 15, LAS FRACCIONES VIII Y IX AL ARTÍCULO 22, Y SE REFORMAN LAS FRACCIONES IV, VIII, Y IX DEL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para adecuar el reglamento respectivo, el Ejecutivo del Estado contará con un plazo de 60 días naturales, a partir de la entrada en vigor del presente Decreto, el cual deberá establecer los criterios para considerar a un animal potencialmente peligroso, y los requisitos para que los Ayuntamientos otorguen las licencias a las que se refiere la presente reforma, incluyendo dentro de sus disposiciones la obligación de contar con un curso de acreditación en el manejo de animales.
