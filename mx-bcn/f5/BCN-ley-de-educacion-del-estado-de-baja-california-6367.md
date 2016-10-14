@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2016-09-30"
+last_updated: "2016-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -1357,7 +1357,7 @@ Estos consejos tendrán las facultades establecidas para los consejos escolares 
 
 En cada Municipio operará un Consejo Municipal de Participación Social en la Educación integrado por las Autoridades Municipales, Padres de Familia y Representantes de sus Asociaciones, Docentes Distinguidos y Directivos de Escuelas, Representantes de la Organización Sindical de los Trabajadores de la Educación, quienes acudirán como representantes de los intereses laborales de los trabajadores, Representantes de Organizaciones Sociales cuyo objeto social sea la educación y todas aquellas personas interesadas en el mejoramiento de la educación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE OCTUBRE DE 2016)</small>
 
 Este consejo gestionará ante los Ayuntamientos y las Autoridades Educativas:
 
@@ -1405,13 +1405,17 @@ X. Promoverán actividades de orientación, capacitación, y difusión dirigidas
 
 XI. Podrán proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-XII. Procurarán la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública, y
+XII.- Procurarán la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública,
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2016)</small>
 
-XIII. En general, podrán realizar actividades para apoyar y fortalecer la educación en el municipio.
+XIII.- Proponer acciones que propicien el conocimiento de las actividades económicas locales preponderantes e impulsen el desarrollo integral de las comunidades, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2016)</small>
+
+XIV.- En general, podrán realizar actividades para apoyar y fortalecer la educación en el municipio.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
 
@@ -2088,3 +2092,9 @@ PRIMERO.- El presente Decrete (sic) deberá entrará (sic) en vigor al día sigu
 SEGUNDO.- Este ordenamiento deroga todas las disposiciones que se opongan a él.
 
 TERCERO.- Remítase al Titular del Poder Ejecutivo en el Estado para que se ordene su publicación oficial.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 599 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
