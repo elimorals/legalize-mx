@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2016-09-30"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -123,9 +123,13 @@ V.- El de inherencia, para salvaguardar en todo tiempo los principios y valores 
 
 VI.- De previsión, para fundamentar toda planeación en la investigación y estudios con horizonte de mediano y largo plazos, asegurando la sustentabilidad del desarrollo, y
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-VII.- El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres; la equidad de género, el desarrollo integral de los pueblos y comunidades indígenas, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
+VII.- El de bienestar social, para garantizar la igualdad de derechos y oportunidades entre mujeres y hombres; la equidad de género, el desarrollo integral de los pueblos y comunidades indígenas, la atención y desarrollo integral de las personas adultas mayores, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, con el objeto de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VIII.- La atención y desarrollo integral de las personas adultas mayores.
 
 ###### ARTÍCULO 5.
 
@@ -139,7 +143,7 @@ III.- Las Dependencias y Entidades de la Administración Pública Estatal y Muni
 
 IV.- El INEPLAN;
 
-V.- EL (sic) COPLADE;
+V.- EL COPLADE;
 
 VI.- El Poder Judicial del Estado;
 
@@ -1125,6 +1129,12 @@ P.O. 15 DE MAYO DE 2015.
 
 P.O. 30 DE SEPTIEMBRE DE 2016
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 573 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 12 Y 14 DE LA LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA”.)
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 573 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 12 Y 14 DE LA LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 585 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VII Y VIII DEL ARTÍCULO 4 DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
