@@ -4,7 +4,7 @@ identifier: "COA-reglamento-que-regula-la-prestacion-de-los-servicios-16866"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-08"
-last_updated: "1999-10-08"
+last_updated: "2016-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO QUE REGULA LA PRESTACION DE LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO QUE REGULA LA PRESTACION DE LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 8 de octubre de 1999.
 
@@ -614,3 +616,25 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento que Regula la Prestación de los Servicios Privados de Seguridad en el Estado de Coahuila, publicado en el periódico Oficial del Gobierno del Estado número, 81 del 8 de octubre de 1999 y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los prestadores del servicio cuya autorización este vigente a la fecha de entrada en vigor de este Reglamento, contarán con un plazo de noventa días naturales, para ajustar su normatividad y operación interna a este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Aquellas personas que hayan solicitado su autorización o revalidación y aún este pendiente su resolución, deberán actualizar y completar los requisitos que prevé este Reglamento, para tal efecto contara con un término de sesenta días contados a partir de que sea notificado y requerido por la DGRCSSP, debiéndose ajustarse los tramites a los establecido en este reglamento.
