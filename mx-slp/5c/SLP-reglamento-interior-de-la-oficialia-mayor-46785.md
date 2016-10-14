@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-oficialia-mayor-46785"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2008-09-30"
+last_updated: "2016-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
 
-REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
+REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 30 de julio de 2002.
 
@@ -45,17 +45,15 @@ Para el despacho de los asuntos de su competencia, la Oficialía Mayor contará 
 
 I.- El Despacho del Oficial Mayor; de quien dependen de manera directa las Direcciones Generales y las Areas siguientes:
 
-a) Dirección de Informática.
+a) (DEROGADO, P.O. 14 DE OCTUBRE DE 2016)
 
-b) Dirección Administrativa.
+b) (DEROGADO, P.O. 14 DE OCTUBRE DE 2016)
 
 c) Contraloría Interna.
 
 d) Dirección de Organización y Métodos.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
-
-e) Dirección de Servicios Aéreos.
+e) (DEROGADO, P.O. 14 DE OCTUBRE DE 2016)
 
 II.- La Dirección General de Servicios Administrativos de la que, a su vez dependen directamente las siguientes Direcciones de Área:
 
@@ -89,6 +87,16 @@ a) Dirección de Compras.
 
 b) Dirección de Procedimientos Jurídicos y Licitaciones.
 
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+V. Dirección General de Planeación y Modernización Administrativa, de la que dependen las siguientes áreas:
+
+a) Dirección de Informática;
+
+b) Dirección Administrativa, y
+
+c) Dirección de Servicios Aéreos;
+
 ###### ARTÍCULO 4°.
 
 La Oficialía Mayor realizará sus actividades conforme al Plan Estatal de Desarrollo, para tal efecto en cada programa se precisará la participación que compete a las unidades administrativas de la Oficialía y la que conforme a las disposiciones legales respectivas, corresponda a las demás dependencias o entidades de la administración pública centralizada.
@@ -121,7 +129,7 @@ VI.- Refrendar para su validez constitucional, las leyes, reglamentos, decretos 
 
 VII.- Elaborar y proponer a la Secretaria de Planeación del Desarrollo el proyecto del Presupuesto de Egresos de la Oficialía Mayor, remitiéndolos a dicha Secretarla para su aprobación definitiva;
 
-VlII.- Coordinar las actividades de las entidades que se encuentren sectorizadas a la Oficialía Mayor, proponer sus reglamentos y manuales de organización y procedimientos;
+VIII.- Coordinar las actividades de las entidades que se encuentren sectorizadas a la Oficialía Mayor, proponer sus reglamentos y manuales de organización y procedimientos;
 
 IX.- Participar, de acuerdo a los lineamientos establecidos por la Contraloría General del Estado, en el establecimiento de los sistemas de control y evaluación, la práctica de auditorías, de cualquier procedimiento administrativo o jurídico, respecto a las unidades administrativas de la Oficialía Mayor y de los órganos de la administración pública estatal;
 
@@ -129,7 +137,7 @@ X.- Acordar con el titular del Poder Ejecutivo del Estado el nombramiento de los
 
 XI.- Nombrar a los directores administrativos de las dependencias de la administración pública estatal, así como normar, coordinar y evaluar su actuación y el desarrollo de sus actividades;
 
-XlI.- Designar a los representantes de la Oficialía Mayor en comisiones, consejos, organizaciones, instituciones y entidades en las que participe;
+XII.- Designar a los representantes de la Oficialía Mayor en comisiones, consejos, organizaciones, instituciones y entidades en las que participe;
 
 XIII.- Resolver las dudas que se susciten internamente sobre la competencia de las unidades administrativas, con motivo de la interpretación del presente Reglamento, así como en los casos no previstos en el mismo;
 
@@ -179,103 +187,121 @@ XII.- Promover, formular e instrumentar en la Dirección General a su cargo, el 
 
 XIII.- Las demás que le señalen las. Leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor u órdenes de su titular.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 9°.
 
-Corresponde a la Dirección de Informática las siguientes funciones:
+La Dirección de Informática de la Oficialía Mayor tendrá las siguientes funciones:
 
-I.- Organizar y operar eficientemente el centro de informática;
+I. Proponer las políticas y normas en materia de control y seguridad de aplicaciones, de los sistemas de transmisión de datos, así como de la información digital, de conformidad con las disposiciones aplicables;
 
-II.- Elaborar, implementar; operar; mantener y estandarizar el sistema de información de la Oficialía Mayor;
+II. Recomendar sistemas de control de gestión automatizada, que incluya medios de identificación electrónica y redes de comunicación interna;
 
-III.- Emitir las políticas, procedimientos, y normas que deberán adoptar en materia de informática las unidades administrativas de la Oficialía Mayor;
+III. Desarrollar, instrumentar, mantener, controlar y vigilar los sistemas de información de las áreas administrativas, conforme a las políticas y normas correspondientes;
 
-IV.- Asesorar en los requerimientos técnicos para cumplir en las adquisiciones que realice la dependencia en materia de equipos de cómputo y software;
+IV. Administrar y operar los servidores de cómputo y los sistemas de almacenamiento central;
 
-V.- Realizar los estudios de factibilidad técnica y administrativa para la contratación de equipo y sistemas, incluyendo los servicios técnicos que se requieran para el desarrollo, operación y mantenimiento de los equipos de cómputo;
+V. Planear, establecer, coordinar y supervisar la seguridad de los sistemas informáticos;
 
-VI.- Atender los requerimientos de los usuarios del centro de informática;
+VI. Proponer mediante estudios técnicos, la adquisición y modernización de bienes y servicios informáticos en la Oficialía Mayor;
 
-VII.- Promover convenios interinstitucionales que permitan el intercambio de ideas y superación en lo referente a informática;
+VII. Participar, previa instrucción de la Dirección General, en los procedimientos de contratación de bienes y servicios informáticos de la dependencia;
 
-VIII.- Evaluar las actividades de la Dirección y proponer las medidas preventivas y correctivas pertinentes; y
+VIII. Coordinar el desarrollo y operación de los servicios de los medios de comunicación electrónica, intercambio y consulta de información y la operación remota de sistemas administrativos en las unidades administrativas, garantizando la confidencialidad de la información y accesos autorizados a las bases de datos institucionales;
 
-IX.- Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor.
+IX. Planear y operar los servicios de mantenimiento preventivo y correctivo de los equipos de informática, instalados en las unidades administrativas;
+
+X. Vigilar el cumplimiento de las garantías otorgadas por los proveedores de bienes y servicios informáticos adquiridos por la dependencia;
+
+XI. Mantener el control y resguardo, para su uso lícito, de licenciamiento tecnológico;
+
+XII. Garantizar la operación de las redes de datos instaladas en la dependencia;
+
+XIII. Coordinar, apoyar y supervisar los servicios en materia de informática de las áreas;
+
+XIV. Sugerir y, en su caso, desarrollar políticas y normas en materia de seguridad de la información digital, en coordinación con las áreas competentes y de conformidad con las disposiciones jurídicas aplicables, y
+
+XV. Las demás que le señalen otras disposiciones aplicables, este reglamento, los manuales y la superioridad.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 10.
 
-Corresponde a la Dirección Administrativa las siguientes funciones:
+Compete a la Dirección Administrativa de la Oficialía Mayor las siguientes funciones:
 
-I.- Proporcionar a las diferentes unidades administrativas de la Oficialía Mayor los recursos humanos, materiales y financieros que requieran para la realización de sus programas de trabajo;
+I. Administrar los recursos humanos, materiales y financieros que tiene asignados, con apego a principios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas;
 
-II.- Proponer el anteproyecto del presupuesto de egresos de la Oficialía Mayor y controlar el ejercicio presupuestal de los egresos;
+II. Planear, programar, presupuestar, controlar y evaluar el ejercicio del gasto público;
 
-III.- Cumplir con los objetivos y metas del Programa Estatal de Modernización Administrativa;
+III. Presentar, a la autoridad competente, previa aprobación de la superioridad, solicitudes sobre autorizaciones presupuestarias en función de la disponibilidad de los recursos, debiendo respaldar y justificar la petición;
 
-IV.- Administrar los recursos humanos, materiales y financieros adscritos a las unidades administrativas de la Oficialía Mayor, de acuerdo al Programa Operativo Anual y a las instrucciones y lineamientos que emita el titular de la Oficialía Mayor;
+IV. Elaborar y proponer al Director General el anteproyecto de presupuesto del gasto para cada ejercicio fiscal, con apego a la legislación aplicable y a los lineamientos específicos que dicten las autoridades competentes;
 
-V.- Evaluar las solicitudes de adquisiciones de bienes muebles e inmuebles que realicen los titulares de las unidades administrativas de la Oficialía Mayor, cuidando que éstas se apeguen a los lineamientos y presupuestos establecidos al respecto para su autorización;
+V. Solicitar contrataciones, adquisiciones, arrendamientos y servicios cuando se tenga disponibilidad de recursos financieros y efectuar los trámites en los términos de las disposiciones jurídicas y reglamentarias que correspondan;
 
-VI.- Tramitar internamente los nombramientos, remociones, renuncias, licencias y movimientos de los funcionarios y empleados de la Oficialía Mayor;
+VI. Llevar una administración por resultados y cumplir con los objetivos y metas previstos en el Programa Operativo Anual y el resto de los programas públicos que opere la Oficialía Mayor;
 
-VII.- Solicitar la adquisición de recursos materiales que requiera el funcionamiento de la Oficialía Mayor, así como la contratación de los servicios necesarios para ese mismo fin;
+VII. Operar un sistema de control presupuestario que incluyan la programación, presupuestación, ejecución, registro e información del gasto, además de que contribuya al cumplimiento de los objetivos y metas aprobados en el presupuesto de egresos;
 
-VIII.- Realizar el inventario de bienes muebles e inmuebles a cargo de la Oficialía Mayor, manteniendo actualizados los resguardos correspondientes;
+VIII. Generar los cargos al presupuesto de egresos de los gastos efectivamente devengados en el ejercicio fiscal y registrarlos en el sistema contable respectivo;
 
-IX.- Solicitar el mantenimiento de los bienes muebles e inmuebles asignados a la dependencia, siguiendo los lineamientos fijados por la propia Oficialía Mayor;
+IX. Tramitar, en caso de contar previamente con la autorización respectiva, contratos de prestación de servicios profesionales por honorarios, cuando tenga presupuesto autorizado y se cumplan los requisitos y formalidades previstos en las normas aplicables;
 
-X.- Optimizar y asignar la utilización de espacios, mobiliario y equipo a las diferentes unidades administrativas de acuerdo a las necesidades de Oficialía Mayor;
+X. Coadyuvar con los objetivos y metas del Programa de Modernización Administrativa;
 
-XI.- Tramitar ante la dependencia correspondiente el mejoramiento de los espacios y condiciones de los inmuebles que ocupa la Oficialía Mayor;
+XI. Elaborar un informe con la periodicidad que se requiera, acerca de los principales indicadores, avances y desviaciones, de las unidades administrativas;
 
-XII.- Efectuar la distribución de la correspondencia o mensajería generada en las áreas administrativas de la Oficialía Mayor;
+XII. Operar, en los (sic) concerniente a la dependencia, el Sistema de Administración de Recursos Humanos, conforme a los lineamientos respectivos;
 
-XIII.- Organizar la entrega y recepción de las oficinas de la Oficialía Mayor, en coordinación con las unidades administrativas competentes;
+XIII. Proporcionar a las diferentes áreas los recursos humanos, materiales, financieros y tecnológicos que requieran para la realización de sus programas de trabajo;
 
-XIV.- Elaborar un informe con la periodicidad que se requiera, acerca de los principales indicadores, avances y desviaciones, a las unidades administrativas que integran la Oficialía Mayor;
+XIV. Evaluar las solicitudes de adquisiciones de bienes que realicen los titulares de las áreas, de acuerdo al Programa Operativo Anual, los programas sectoriales, cuidando que estas se apeguen a los lineamientos y presupuestos autorizados;
 
-XV.- Asistir puntualmente a las reuniones de trabajo a que sea convocado por la propia Oficialía Mayor;
+XV. Tramitar internamente los nombramientos, remociones, renuncias, licencias y movimientos de los servidores públicos;
 
-XVI.- Coadyuvar con las unidades administrativas de la Oficialía Mayor en la elaboración de sus manuales de organización, procedimientos y del catálogo de formas;
+XVI. Solicitar el mantenimiento de bienes muebles e inmuebles, así como realizar el inventario de los mismos y mantener actualizados los resguardos correspondientes;
 
-XVII.- Mantener actualizados los resguardos de los bienes muebles e inmuebles de la Oficialía Mayor;
+XVII. Proponer a la Dirección General la asignación y la utilización de espacios, mobiliario y equipo a las unidades administrativas, previo análisis de las necesidades de las mismas y la disponibilidad de los recursos;
 
-XVlII.- Cuidar y mantener en buen estado los bienes muebles e inmuebles de la Oficialía Mayor así como dar una utilización correcta a los materiales y suministros proporcionados;
+XVIII. Efectuar la distribución de la correspondencia generada en las áreas de la dependencia;
 
-XIX.- Promover la capacitación, adiestramiento y actualización del personal adscrito a la Oficialía Mayor;
+XIX. Coadyuvar con las áreas en la elaboración de los manuales de organización, manuales de procedimientos y otros de naturaleza análoga;
 
-XX.- Promover la participación de los trabajadores adscritos a la Oficialía Mayor, en los programas de recreación, cultura y deporte así como propiciar su integración; y
+XX. Promover la capacitación, adiestramiento y actualización del personal;
 
-XXI.- Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor.
+XXI. Fomentar la participación de los servidores públicos de la dependencia en los programas institucionales de recreación, cultura y deporte, y
+
+XXII. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos, manuales y lo que expresamente les ordene la superioridad.
 
 ###### ARTÍCULO 11.
 
 Corresponde a la Contraloría Interna las funciones señaladas en el artículo 19 del Reglamento Interno de la Contraloría General del Estado y demás disposiciones aplicables y lo que expresamente instruya el Contralor General del Estado y el Oficial Mayor, manteniendo informado sobre los resultados de sus actividades al titular de la Oficialía Mayor.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-A la Dirección de Servicios Aéreos le competen las siguientes funciones:
+Compete a la Dirección de Servicios Aéreos las siguientes funciones:
 
-I. Administrar el uso de las aeronaves e instalaciones del hangar, para que se encuentren en óptimas condiciones de servicio, incluyendo para tal efecto el mantenimiento de los mismos;
+I. Proporcionar los servicios de transporte aéreo al Titular del Ejecutivo del Estado y a los servidores públicos de la Administración Pública Estatal, que requieran de los traslados para el desempeño de las funciones públicas que realizan;
 
-II. Gestionar ante la Dirección General de Aeronáutica Civil de la Secretaría de Comunicaciones y Transportes, así como de las autoridades competentes, las licencias de operación y funcionamiento tanto de las aeronaves como de los hangares del Estado;
+II. Administrar el uso y mantenimiento de las aeronaves, hangares y equipo de tierra a su cargo;
 
-III. Realizar las gestiones necesarias ante la Dirección Administrativa de la Oficialía Mayor, para obtener los recursos y cumplir con las funciones encomendadas;
+III. Efectuar permanentemente programas de mantenimiento preventivo de las aeronaves, así como a los equipos auxiliares requeridos en los procesos de vuelos, de conformidad con lo previsto en los manuales expedidos para ese efecto por los fabricantes;
 
-IV. Elaborar y mantener actualizado los programas de mantenimiento preventivo de las aeronaves, de acuerdo a los manuales de mantenimiento de los fabricantes y boletines oficiales aplicables, .así como a los equipos auxiliares requeridos en los procesos de realización de vuelos;
+IV. Supervisar que las aeronaves se encuentren en condiciones óptimas para su uso;
 
-V. Supervisar que las aeronaves, se encuentren en óptimas condiciones mecánicas para su uso;
+V. Formular, proponer, e implementar, en coordinación con la Dirección Administrativa, la capacitación y actualización de los pilotos y del resto de los servidores públicos de dicha área;
 
-VI. Formular y proponer el programa de capacitación y entrenamiento del personal y turnarlo para su autorización;
+VI. Vigilar que los pilotos y mecánicos cuenten con licencia vigente expedida por autoridad competente, que los faculte para la prestación de los servicios que realizan;
 
-VII. Vigilar que los pilotos de las aeronaves y mecánicos mantengan vigentes sus licencias, ante las autoridades competentes;
+VII. Gestionar ante las autoridades federales competentes las licencias de operación y funcionamiento de las aeronaves y de los hangares;
 
-VIII. Vigilar el cumplimiento de las leyes y normas de seguridad de vuelos para mantener la aeronavegabilidad de las unidades, así como con los requisitos establecidos por la Dirección General de Aeronáutica Civil;
+VIII. Observar el cabal cumplimiento de las disposiciones legales y administrativas emitidas por diversas autoridades federales relativas a la seguridad de los vuelos;
 
-IX. Recabar los registros de vuelos y controlar el archivo de los mismos;
+IX. Llevar la bitácora del registro de vuelos y controlar el archivo de los mismos, y
 
-X. Las demás que les señalen las leyes, decretos, acuerdos, reglamentos y manuales vigentes en la Oficialía.
+X. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos, manuales y lo que expresamente les ordene la superioridad.
 
 ###### ARTÍCULO 13.
 
@@ -383,7 +409,7 @@ V.- Cuidar y asegurar que los valores documentales que obran en este archivo se 
 
 VI.- Implementar las medidas de seguridad que sean necesarias a fin de evitar que sean sustraídos, deteriorados o extraviados los libros, periódicos, revistas, manuscritos y demás documentos que obren en el archivo;
 
-VlI.- Proporcionar a las dependencias y entidades de la administración pública centralizada y paraestatal que lo soliciten, información respecto a la documentación existente en este archivo;
+VII.- Proporcionar a las dependencias y entidades de la administración pública centralizada y paraestatal que lo soliciten, información respecto a la documentación existente en este archivo;
 
 VIII.- Brindar a la población en general, facilidades para la consulta de la documentación existente;
 
@@ -411,7 +437,7 @@ VI.- Llevar un registro de las propuestas o solicitudes de empleo que se hagan a
 
 VII.- Registrar y controlar los requerimientos del personal de las distintas áreas de la administración pública, con anotaciones respecto de los perfiles establecidos al puesto que se requiera;
 
-VllI.- Coordinar el programa de educación abierta, buscando elevar el nivel educativo de los trabajadores de la administración pública;
+VIII.- Coordinar el programa de educación abierta, buscando elevar el nivel educativo de los trabajadores de la administración pública;
 
 IX.- Planear y ejecutar programas de inducción al personal de nuevo ingreso, y para aquél que sea objeto de promociones o cambio de adscripciones;
 
@@ -443,7 +469,7 @@ V.- Aplicar las deducciones correspondientes a los sueldos del personal de la ad
 
 VI.- Revisar que los formatos de movimientos de personal, estén correctos;
 
-VIl.- Llevar el control general del personal de la administración pública centralizada y paraestatal, así como tramitar los asuntos relacionados con sus derechos y obligaciones, ante las dependencias competentes;
+VII.- Llevar el control general del personal de la administración pública centralizada y paraestatal, así como tramitar los asuntos relacionados con sus derechos y obligaciones, ante las dependencias competentes;
 
 VIII.- Atender, coordinar y proporcionar los servicios de asistencia social a que tengan derecho los trabajadores al servicio de la administración pública centralizada y paraestatal, de acuerdo a las políticas establecidas en la materia;
 
@@ -455,7 +481,7 @@ XI.- Intervenir en la elaboración del presupuesto de egresos relacionado con lo
 
 XII.- Elaborar el tabulador de puestos y mantenerlo actualizado, conforme a los lineamientos que emita el titular de la Oficialía Mayor;
 
-Xlll.- Expedir certificaciones, identificaciones y constancias de servicio a los trabajadores de la administración pública centralizada y paraestatal;
+XIII.- Expedir certificaciones, identificaciones y constancias de servicio a los trabajadores de la administración pública centralizada y paraestatal;
 
 XIV.- Realizar la contratación y registro del personal que ingrese a prestar sus servicios a la administración central y descentralizada, estableciendo y operando para ello la ventanilla única de contratación;
 
@@ -535,7 +561,7 @@ XII. Desahogar los procedimientos de adquisiciones que el Comité de Adquisicion
 
 XIII. Mantener actualizado el archivo y resguardo de los expedientes que se generen con motivo de los distintos procedimientos de adjudicación que se realicen en su área;
 
-XlV. Remitir a la Dirección de Control Patrimonial las facturas y documentos de bienes inventariables, como parte del trámite de gestión de pago;
+XIV. Remitir a la Dirección de Control Patrimonial las facturas y documentos de bienes inventariables, como parte del trámite de gestión de pago;
 
 XV. Remitir a la Secretaria de Finanzas, a la Dirección de Control Presupuestal y en su caso a otras dependencias, tas facturas y documentos necesarios para que se libere el pago a los proveedores;
 
@@ -569,11 +595,47 @@ VIII. Elaborar los contratos de la adquisición de los bienes, arrendamientos re
 
 IX. Mantener actualizado el archivo y resguardo de los expedientes que se generen con motivo de los procedimientos aprobados por el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado;
 
-X. Elaborar actas, acuerdos, constancias de hechos, convenios modificatorios, adendums y demás instrumentos jurídicos que resulten de los procedimientos y de cualesquier otro que se. realicen en las diversas áreas de la Dirección General de Adquisiciones;
+X. Elaborar actas, acuerdos, constancias de hechos, convenios modificatorios, adendums y demás instrumentos jurídicos que resulten de los procedimientos y de cualesquier otro que se realicen en las diversas áreas de la Dirección General de Adquisiciones;
 
 XI. Turnar al órgano de control interno, los expedientes de los procedimientos, en los que Iicitantes o proveedores infrinjan lo dispuesto en la Ley de Adquisiciones del Estado de San Luis Potosí, contratos, convenios, acuerdos y leyes aplicables; y
 
 XII. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor y lo que expresamente le encomiende el titular de la misma.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 21 BIS.- La Dirección General de Planeación y Modernización Administrativa de la Oficialía Mayor tendrá las siguientes funciones:
+
+I. Coordinar el proceso interno de planeación, programación, presupuestación, ejercicio, control y evaluación del gasto de las áreas, vigilando el cumplimiento de las normas aplicables;
+
+II. Proponer, conforme a las disposiciones jurídicas aplicables, los instrumentos normativos y técnicos para la planeación, organización y administración de los recursos humanos, materiales y financieros de que disponga, así como de aquéllos en materia de tecnologías de la información;
+
+III. Someter a la consideración del Oficial Mayor el proyecto de presupuesto anual y el calendario de gasto de las unidades administrativas de la dependencia;
+
+IV. Establecer los sistemas de carácter administrativo que deban regir en las áreas de la Oficialía Mayor, para la gestión de los recursos humanos, financieros, materiales e informáticos; darles seguimiento y verificar su observancia de conformidad con la política que determine el Oficial Mayor;
+
+V. Someter a la autorización del Oficial Mayor los estudios y proyectos, así como las propuestas de modernización, desconcentración, descentralización y simplificación administrativa que se requieran en la Administración Pública Estatal, en las materias que sean de la competencia de la Oficialía Mayor;
+
+VI. Concentrar, dar seguimiento y evaluar el eficaz cumplimiento respecto al Programa Operativo Anual, los programas sectoriales derivados del Plan Estatal de Desarrollo, el proyecto de presupuesto anual y los demás de naturaleza análoga que sean efectuados por las áreas;
+
+VII. Conducir la planeación, organización y otorgamiento de los servicios de tecnologías de la información, los sistemas integrales de información, las comunicaciones institucionales, así como la seguridad y calidad de la información digital;
+
+VIII. Coordinar en el ámbito de la dependencia el sistema de evaluación del desempeño a que se refiere la ley de la materia, e incorporar indicadores para valorar los resultados; así como su seguimiento, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Estatal;
+
+IX. Coordinar la planeación de los proyectos institucionales;
+
+X. Realizar estudios, investigaciones, informes especializados y emitir recomendaciones en materia de seguimiento y evaluación del desempeño;
+
+XI. Supervisar la implementación y mantenimiento de los sistemas de información digital, así como establecer políticas internas en materia de informática y telecomunicaciones para la operación de la dependencia, en apego a los lineamientos establecidos de la materia;
+
+XII. Apoyar, asesorar y orientar en la elaboración de los proyectos de iniciativas de ley, decretos, acuerdos, lineamientos, políticas, criterios y, en general, de todo tipo de normas administrativas que se requieran en las materias de su competencia;
+
+XIII. Vigilar que se brinde el soporte técnico a todos los usuarios que utilicen aplicaciones de tecnologías de la información implementadas en la Oficialía Mayor;
+
+XIV. Asegurar que los objetivos, metas, estrategias, proyectos y acciones se incorporen al Sistema de Información Digital de la Oficialía Mayor;
+
+XV. Coordinar y supervisar la operación, funcionamiento y desempeño de la Dirección de Servicios Aéreos;
+
+XVI. Las demás que le confieran las leyes, decretos, acuerdos, reglamentos, manuales y los que expresamente le orden (sic) la superioridad.
 
 ### CAPÍTULO III. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
@@ -609,7 +671,7 @@ LIC. FERNANDO SILVA NIETO
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-LIC. JORGE DANIEL HERNÁNDEZ DELGADlLLO
+LIC. JORGE DANIEL HERNÁNDEZ DELGADILLO
 
 (Rúbrica)
 
@@ -619,7 +681,7 @@ LIC. RAÚL JULIO DUFOO OLVERA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 27 DE AGOSTO DE 2005.
 
@@ -640,3 +702,11 @@ Las presentes reformas y adiciones entrarán en vigor al día siguiente de su pu
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones administrativas que contravengan el presente decreto.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR".]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
