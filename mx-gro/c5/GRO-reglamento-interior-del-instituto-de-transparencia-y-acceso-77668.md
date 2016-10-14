@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-instituto-de-transparencia-y-acceso-776
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-07"
-last_updated: "2010-12-07"
+last_updated: "2016-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 7 de diciembre de 2010.
 
@@ -944,3 +946,19 @@ C. Marcos Ignacio Cueva González.
 Consejero.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero, publicado el 7 de diciembre del año 2010.
+
+TERCERO. Las Comisiones y Comités que se enuncian en este Reglamento se deberán de constituir e instalar a los 15 días naturales a la entrada en vigor.
+
+CUARTO. En un plazo que no exceda de 30 días naturales de la publicación del presente reglamento se deberán hacer las acciones necesarias para dar cumplimiento a las nuevas áreas que integran el Instituto.
+
+QUINTO. Los casos no previstos en este Reglamento serán resueltos por acuerdo del Pleno.
