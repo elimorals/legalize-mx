@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-109703"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-09-04"
-last_updated: "2015-09-04"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-31"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE AJUSTAN LAS ESTRUCTURAS ADMINISTRATIVAS Y FUNCIONALES A LAS DISPOSICIONES DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 4 de septiembre de 2015.
 
@@ -87,17 +87,21 @@ La otrora Secretaría Técnica del Comité de Acceso a la Información y Protecc
 
 El titular de la referida Secretaría deberá proponer al diverso de la Unidad de Transparencia, los acuerdos de trámite de los asuntos cuya resolución corresponde emitir al Comité.
 
+> <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR POR EL QUE AJUSTAN LAS ESTRUCTURAS ADMINISTRATIVAS Y FUNCIONALES A LAS DISPOSICIONES DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, RESPECTO A LA INTEGRACIÓN DEL COMITÉ DE TRANSPARENCIA, D.O.F. 14 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO TERCERO.
 
 En términos de lo dispuesto en el artículo 43 de la Ley General, el Comité de Transparencia del Consejo de la Judicatura Federal estará integrado por los siguientes servidores públicos:
 
-a) Secretario Ejecutivo del Pleno del Consejo de la Judicatura Federal, quien fungirá como presidente del Comité.
+I. Secretario Ejecutivo del Pleno del Consejo de la Judicatura Federal, quien fungirá como presidente del Comité.
 
-b) Titular de la Unidad de Transparencia del Consejo de la Judicatura Federal.
+II. Contralor del Poder Judicial de la Federación; y
 
-c) Contralor del Poder Judicial de la Federación.
+III. Director General de Asuntos Jurídicos.
 
-El Secretario Técnico de la Comisión de Transparencia fungirá como Secretario Técnico del Comité.
+El Secretario Técnico del Comité de Transparencia será designado, por el presidente del Comité.
+
+El titular de la Unidad de Transparencia será invitado a las sesiones del Comité, cuando sea necesario.
 
 ###### ARTÍCULO CUARTO.
 
@@ -120,3 +124,13 @@ CUARTO. Se derogan todas aquellas disposiciones normativas internas que se opong
 QUINTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, por el que se ajustan las estructuras administrativas y funcionales a las disposiciones de la Ley General de Transparencia y Acceso a la Información Pública, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiséis de agosto de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a treinta y uno de agosto de dos mil quince.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR POR EL QUE AJUSTAN LAS ESTRUCTURAS ADMINISTRATIVAS Y FUNCIONALES A LAS DISPOSICIONES DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, RESPECTO A LA INTEGRACIÓN DEL COMITÉ DE TRANSPARENCIA”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
