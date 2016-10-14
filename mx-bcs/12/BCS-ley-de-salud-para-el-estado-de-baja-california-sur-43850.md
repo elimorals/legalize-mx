@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2015-09-01"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -699,7 +699,9 @@ I.- Procedimientos que permitan la participación activa de la familia en la pre
 
 II.- Acciones de prevención para disminuir la exposición al tabaco, alcohol, automedicación y uso de psicotrópicos que ponga en peligro la vida del binomio;
 
-III.- Acciones de orientación y vigilancia institucional, hacia el fomento a la lactancia materna y, en su caso, la ayuda alimenticia directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+> <small>(REFORMADA, B.O. 14 DE OCTUBRE DE 2016)</small>
+
+III.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de promover la instalación de lactarios en los centros de trabajo de los sectores público y privado;
 
 IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años;
 
@@ -3258,3 +3260,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B. O. 1 DE SEPTIEMBRE DE 2015.
 
 Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIO DECRETO 2373.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y A LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
