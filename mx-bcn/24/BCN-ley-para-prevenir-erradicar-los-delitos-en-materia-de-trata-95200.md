@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-19"
-last_updated: "2013-07-19"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 19 de julio de 2013.
 
@@ -83,7 +83,7 @@ c) El heredero declarado judicialmente en los delitos cuyo resultado sea la muer
 
 d) La persona que hubiere vivido de forma permanente con la víctima durante por lo menos dos años anteriores al hecho; y
 
-e) La persona que haya sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización; y (sic)
+e) La persona que haya sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización; y
 
 IX. Testigo: Es toda persona que de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal.
 
@@ -176,6 +176,14 @@ La Comisión, a propuesta de su presidente podrá, invitar con efectos meramente
 La Comisión se coordinará con los gobiernos municipales para el eficaz cumplimiento de los fines de la Ley y podrá proponerles su inclusión en las actividades que así se requiera.
 
 Los municipios establecerán los objetivos y estrategias tendientes a la prevención de los delitos de trata de personas, así como la protección, atención, el apoyo y la asistencia a las víctimas, ofendidos y testigos de trata de personas, en sus planes y programas de desarrollo municipales, así como en los programas de trabajo, mediante disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+Las autoridades estatales y municipales, de conformidad con sus atribuciones y facultades legales, deberán adoptar y reglamentar las medidas necesarias para la inspección a los establecimientos comerciales, agencias de colocación y reclutamiento, a fin de impedir que las personas que buscan trabajo, en especial las mujeres, niñas, niños y adolescentes se expongan al peligro de la trata de personas y demás delitos que se establecen en la Ley General.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+Queda prohibida toda publicidad o inserciones pagadas en los medios de comunicación masiva de cualquier índole, que incluya en sus publicaciones anuncios de contacto sexual o que promueva la prostitución y la pornografía que pueda propiciar la trata de personas, de igual forma aquellos que discriminan a la mujer en razón de la edad y aspecto físico.
 
 ###### Artículo 10.
 
@@ -468,3 +476,17 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 595 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 9 A LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos, deberán adoptar y reglamentar las medidas a que se refiere el presente decreto, en un plazo no mayor a 60 días, a partir de su publicación en el Periódico Oficial del Estado.
