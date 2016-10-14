@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-vialidad-para-el-estado-libre-y-95370"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-17"
-last_updated: "2015-12-31"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 17 de julio de 2013.
 
@@ -33,7 +33,9 @@ Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos
 
 RAFAEL MORENO VALLE ROSAS, Gobernador Constitucional del Estado Libre y Soberano de Puebla; y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que por las razones expuestas y en uso de las atribuciones que me confieren los artículos 79, fracción IV y 84, segundo párrafo de la Constitución Política del Estado Libre y Soberano de Puebla; 2 y 22 de la Ley Orgánica de la Administración Pública del Estado de Puebla, y Tercero Transitorio de la Ley de Vialidad para el Estado Libre y Soberano de Puebla, he tenido a bien expedir el siguiente:
 
@@ -141,7 +143,9 @@ XLV. Transporte: A los vehículos destinados al servicio de transporte particula
 
 XLVI. Usuario: A la persona que hace uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades del equipamiento auxiliar de éstos y de las vialidades;
 
-XLVII. Vehículo: A todo aquél mecanismo que se usa para transportar personas o carga, sea de propulsión humana o mecánica;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+XLVII. Vehículo: A todo aquel mecanismo que se usa para transportar personas, sea de propulsión humana o mecánica;
 
 XLVIII. Vehículos de paso preferencial o emergencia: A aquellos vehículos que cumplen funciones de seguridad o urgencia, sean éstos de instituciones públicas o privadas, y que están identificados y autorizados por autoridad competente como tales;
 
@@ -150,6 +154,10 @@ XLIX. Vehículos de servicio público de transporte: A aquellos vehículos con l
 L. Vehículos de transporte mercantil: A aquellos vehículos que prestan el servicio mercantil por el tipo de actividad comercial que desarrollan sus propietarios, prestan un servicio a terceros o el que llevan a cabo sus propietarios como parte de sus actividades comerciales y están regulados y controlados mediante autorización expedida por la autoridad competente de conformidad con las leyes aplicables;
 
 LI. Vehículos particulares: A los destinados al servicio particular o privado de sus propietarios, los cuales pueden ser indistintamente de pasajeros o de carga;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+LI Bis. Vehículo Pesado o de carga: Aquéllos que tienen una capacidad de carga superior a los tres mil kilogramos de peso;
 
 LII. Vía: A aquélla que se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad;
 
@@ -825,7 +833,9 @@ II. Reúnan las condiciones sanitarias y de higiene necesarias, sujetándose a l
 
 La Dirección podrá tomar las medidas que juzgue necesarias en caso fortuito o de fuerza mayor para dirigir el flujo vehicular en las vías públicas.
 
-### CAPÍTULO VII. DE LA CIRCULACIÓN DEL TRANSPORTE DE CARGA Y DE SUSTANCIAS TÓXICAS Y PELIGROSAS
+### CAPÍTULO VII. DE LA CIRCULACIÓN DEL TRANSPORTE DE VEHÍCULOS PESADOS O DE CARGA Y DE SUSTANCIAS TÓXICAS Y PELIGROSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 37.
 
@@ -875,11 +885,13 @@ X. Circular tratándose de bicicletas por la vía pública cuando exista ciclo v
 
 Lo dispuesto en el presente artículo se aplicará, en lo conducente, a los conductores de vehículos análogos a bicicletas o motocicletas.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2016)</small>
+
 ### CAPÍTULO VIII. DE LA CIRCULACIÓN DE LOS VEHÍCULOS DESTINADOS AL SERVICIO PÚBLICO DE TRANSPORTE Y TRANSPORTE MERCANTIL
 
 ###### Artículo 39.
 
-Podrán circular en las vías de comunicación de jurisdicción estatal, los camiones de carga, tracto-camiones con semirremolque y vehículos análogos con los siguientes límites de carga y dimensiones:
+Podrán circular en las vías de comunicación de jurisdicción estatal, los vehículos pesados o de carga y vehículos análogos con los siguientes límites de carga y dimensiones:
 
 I. Peso de la carga: el autorizado por la autoridad administrativa competente;
 
@@ -895,9 +907,11 @@ En ningún caso, la carga lateral podrá sobresalir. Los bultos, mercancías o c
 
 Quienes excedan de las características anotadas, requerirán autorización especial de las autoridades competentes para poder circular por las vialidades, en las rutas y horarios que se determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 40.
 
-Los conductores de vehículos de transporte de carga, deben:
+Los conductores de vehículos pesados o de carga, deben:
 
 I. Circular por el carril de extrema derecha y sólo usar el izquierdo para rebasar o dar vuelta a la izquierda;
 
@@ -909,13 +923,23 @@ IV. Circular evitando que objetos caigan o se derramen sustancias que obstruyan 
 
 V. Emplear el equipo operativo adecuado para resguardar la integridad peatonal y de vehículos en caso de riesgo;
 
-VI. Emplear el tiempo mínimo en las maniobras de carga y descarga de acuerdo a los bienes de que se trate; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-VII. Solicitar a los policías de vialidad prioridad para continuar su marcha en caso de congestionamiento vehicular que interrumpa la circulación, mostrándoles la documentación que ampare el riesgo sobre el producto que transporta.
+VI. Emplear el tiempo mínimo en las maniobras de carga y descarga de acuerdo a los bienes de que se trate;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VII. Solicitar a los policías de vialidad, prioridad para continuar su marcha en caso de congestionamiento vehicular que interrumpa la circulación, mostrándoles la documentación que ampare el riesgo sobre el producto que transportan, y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VIII. Abstenerse de circular en las vías o tramos de vía que se encuentren señalados como prohibidos para su tránsito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 41.
 
-Los vehículos de transporte de carga no deben circular:
+Los vehículos de transporte pesado o de carga no deben circular:
 
 I. Por carriles centrales tratándose de vías de tres carriles;
 
@@ -931,7 +955,13 @@ d) No esté debidamente cubierta, tratándose de materiales esparcibles.
 
 e) No vaya debidamente sujeta al vehículo por cables o lonas.
 
-III. Con más de dos pasajeros en la cabina de los vehículos de carga de más de 1,500 kilos.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+III. Con más de dos pasajeros en la cabina de los vehículos de carga de más de 1,500 kilos, y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+IV. En vías o tramos de la vía que se encuentren señalados como prohibidos para su tránsito.
 
 ###### Artículo 42.
 
@@ -961,9 +991,17 @@ II. Llevar en los vehículos cadenas metálicas que vayan en contacto con el pis
 
 III. Llevar en el vehículo como mínimo un extinguidor de incendio;
 
-IV. Portar en la parte posterior del vehículo y rótulos en las posteriores y laterales, un rombo rojo con el número correspondiente al producto, que contengan la inscripción "PELIGRO, EXPLOSIVO" o "PELIGRO, INFLAMABLE"; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-V. Las demás que establezca el presente Reglamento, así como las que le impongan las disposiciones legales y normativas aplicables en la materia.
+IV. Portar en la parte posterior del vehículo y rótulos en las posteriores y laterales, un rombo rojo con el número correspondiente al producto, que contengan la inscripción "PELIGRO, EXPLOSIVO" o “PELIGRO, INFLAMABLE”;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2016)</small>
+
+V. Abstenerse de circular en las vías o tramos de vía que se encuentren señalados como prohibidos para su tránsito, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VI. Las demás que establezca el presente Reglamento, así como las que le impongan las disposiciones legales y normativas aplicables en la materia.
 
 ###### Artículo 44.
 
@@ -979,9 +1017,17 @@ IV. Estacionar los vehículos en zonas densamente pobladas o en unidades habitac
 
 V. Realizar maniobras de carga y descarga en lugares inseguros o no destinados para tal fin;
 
-VI. Circular en sectores de intenso tránsito o de alta densidad poblacional, salvo que las autoridades de vialidad concedan permiso para ello, fijando la ruta y horario respectivo; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-VII. Las demás que establezca el presente Reglamento, así como las que le impongan las disposiciones legales aplicables en la materia.
+VI. Circular en sectores de intenso tránsito o de alta densidad poblacional, salvo que las autoridades de vialidad concedan permiso para ello, fijando la ruta y horario respectivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VII. Circular en vías o tramos de la vía que se encuentren señalados como prohibidos para su tránsito, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2016)</small>
+
+VIII. Las demás que establezca el presente Reglamento, así como las que le impongan las disposiciones legales aplicables en la materia.
 
 ###### Artículo 45.
 
@@ -1249,7 +1295,7 @@ La imposición de la sanción señalada para cada falta de manera específica y 
 
 > <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DEL 17 DE JULIO DE 2013, PAGINAS DE LA 29 A LA 39.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 19 DE JULIO DE 2013, PÁGINA 4; 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 3 A LA 15.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 19 DE JULIO DE 2013, PÁGINA 4; 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 3 A LA 15; 14 DE OCTUBRE DE 2016, PÁGINA 4.]</small>
 
 ###### ARTÍCULO 66.
 
@@ -1323,7 +1369,7 @@ Las multas impuestas por la autoridad vial y que previamente hayan sido corrobor
 
 ###### Artículo 74 Bis.
 
-las infracciones por exceder los límites de velocidad captadas a través de cualquier dispositivo o medio tecnológico a que se refiere este Reglamento, se sancionarán de la siguiente manera:
+Las infracciones por exceder los límites de velocidad captadas a través de cualquier dispositivo o medio tecnológico a que se refiere este Reglamento, se sancionarán de la siguiente manera:
 
 NÚMERO DE INFRACCIÓN SANCIÓN
 
@@ -1484,3 +1530,11 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones normativas que se contrapongan al contenido del presente Decreto.
