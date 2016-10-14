@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2012-07-31"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -145,7 +145,7 @@ El señalamiento de un tiempo determinado puede únicamente estipularse en los c
 
 I.- Cuando los (sic) exija la naturaleza del trabajo que se va a prestar;
 
-II.- Cuando tenga por objeto sustituir temporalmente a otro trabajador; y (sic)
+II.- Cuando tenga por objeto sustituir temporalmente a otro trabajador; y
 
 > <small>(REFORMADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
@@ -263,9 +263,11 @@ Por cada cinco días de trabajo disfrutará el trabajador de dos días de descan
 
 Los trabajadores que presten sus servicios en sus días de descanso tendrá derecho al pago de una prima adicional de al menos un 25% en base al salario normal de los días de trabajo.
 
+> <small>(REFORMADO, B.O. 14 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 29.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia tendrá un descanso extraordinario por día de una hora para amamantar a sus hijos, a solicitud de la empleada.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
 Las anteriores prerrogativas se conceden independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
 
@@ -1450,3 +1452,11 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTICULO SEGUNDO
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2373.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y A LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
