@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2016-09-17"
+last_updated: "2016-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3365,7 +3365,33 @@ Para la individualización de las sanciones señaladas en este Título, el juez 
 
 Cuando los delitos de abuso de autoridad y cohecho sean cometidos por servidores públicos miembros de una corporación policíaca, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá la destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO III. Violación de Correspondencia
+### CAPÍTULO III. Delitos contra la Prestación del Servicio de Transporte Público de Pasajeros
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 360 BIS. Comete el delito contra la prestación del servicio de transporte público de pasajeros, quien, sin concesión, permiso, o autorización correspondiente vigente, preste el servicio de transporte público de pasajeros en cualquiera de sus modalidades en las vías de jurisdicción estatal y municipal.
+
+Este delito se sancionará con pena de prisión de tres a cinco años; sanción pecuniaria de trescientas a quinientas Unidades de Medida de Actualización; y suspensión hasta por un año del derecho para conducir vehículos. En caso de reincidencia, además de la pena de prisión correspondiente, se impondrá la privación definitiva del derecho de conducir vehículos.
+
+Cuando en la comisión del delito al que se refiere este artículo, tuviere intervención cualquier integrante del consejo de administración, socio, o representante legal de una empresa concesionaria o permisionaria del servicio de transporte público de pasajeros, y se cometiere bajo el amparo de aquélla, la pena aplicable se aumentará de una a dos terceras partes de las que le correspondan por el delito cometido, y se le impondrá además la suspensión y privación de derechos para prestar el servicio público que se haya otorgado.
+
+Las penas a las que se refiere el párrafo primero de este artículo, también le serán aplicadas al conductor u operador de la unidad vehicular con la que se realice el servicio, si tuviera conocimiento de que la prestación del mismo se realizaba de manera irregular.
+
+Las hipótesis normativas antes mencionadas se perseguirán por querella del usuario o persona que se vea afectada.
+
+Al servidor público que de cualquier forma intervenga en el otorgamiento de una concesión, permiso, o autorización para la prestación del servicio de transporte público de pasajeros, sin que se cumplan los requisitos establecidos por la ley, se le impondrá de dos a diez años de prisión, multa de trescientas a ochocientas Unidades de Medidas de Actualización, así como la destitución del empleo, cargo, o comisión, e inhabilitación por cuatro años para ocupar otro cargo.
+
+Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa, y las sanciones que correspondan, en su caso.
+
+Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 360 TER. Al concesionario, permisionario o, al operador, que altere los taxímetros, o sistemas de prepago, y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas para el servicio de transporte público de pasajeros, se le impondrá de tres a cinco años de prisión, de cincuenta a doscientas Unidades de Medidas de Actualización, y suspensión por un año del derecho de conducir vehículos; en caso de reincidencia, además de la pena de prisión que corresponda, privación definitiva del derecho de conducir vehículos.
+
+Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo, o por el usuario que se vea afectado.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 321.
 
@@ -3387,7 +3413,7 @@ III. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda d
 
 En ningún caso se devolverá a los responsables del delito de cohecho el dinero o dádivas entregadas, pues se aplicarán en beneficio del Estado.
 
-### CAPÍTULO I. Prevenciones Generales
+### CAPÍTULO IV. Violación de Correspondencia
 
 ###### ARTÍCULO 323.
 
@@ -3423,7 +3449,7 @@ d) Atender las indicaciones del Congreso del Estado, para que se corrijan las ir
 
 El delito a que se refiere el artículo anterior se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del salario que perciba al momento de la comisión del delito y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos. Al infractor de las fracciones, IV, VI, VIII y XI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, sanción pecuniaria de trescientos a setecientos días del salario que perciba al momento de la comisión del delito, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO II. Dolo en la Emisión del Voto
+### CAPÍTULO I. Prevenciones Generales
 
 ###### ARTÍCULO 325.
 
@@ -3431,7 +3457,7 @@ Comete el delito de abandono de las funciones públicas el servidor público que
 
 Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días del salario que percibía e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
 
-### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
+### CAPÍTULO II. Dolo en la Emisión del Voto
 
 ###### ARTÍCULO 326.
 
@@ -3443,7 +3469,7 @@ A los autores intelectuales, a los instigadores o a quienes encabecen el grupo c
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-### CAPÍTULO IV. Violaciones al Proceso Electoral
+### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
 
 ###### ARTÍCULO 327.
 
@@ -3459,7 +3485,7 @@ Comete el delito de abuso de autoridad con contenido patrimonial, el servidor p�
 
 El delito de abuso de autoridad se sancionará, con una pena de uno a cinco años de prisión, sanción pecuniaria de cien a quinientos días de salario mínimo y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+### CAPÍTULO IV. Violaciones al Proceso Electoral
 
 ###### ARTÍCULO 329.
 
@@ -3501,7 +3527,7 @@ Para la individualización de las sanciones señaladas en este Título, el juez 
 
 Cuando los delitos de abuso de autoridad y cohecho sean cometidos por servidores públicos miembros de una corporación policíaca, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá la destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO VI. Inducción Ilícita a Electores
+### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
 
 ###### ARTÍCULO 336.
 
@@ -3509,7 +3535,7 @@ Comete el delito de tráfico de influencia el servidor público que, por sí o p
 
 Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos (sic) de salario mínimo, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta.
 
-### CAPÍTULO VII. No Desempeño del Cargo
+### CAPÍTULO VI. Inducción Ilícita a Electores
 
 ###### ARTÍCULO 337.
 
@@ -3517,7 +3543,7 @@ Comete el delito de concusión el servidor público que, a título de impuesto, 
 
 Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días de salario mínimo, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos.
 
-### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
+### CAPÍTULO VII. No Desempeño del Cargo
 
 ###### ARTÍCULO 338.
 
@@ -3538,6 +3564,8 @@ I. Cuando el monto de lo distraído o de los fondos utilizados indebidamente no 
 II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas pero no de mil quinientas veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrá una pena de dos a cinco años de prisión, sanción pecuniaria de doscientos a quinientos días de salario mínimo, y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos, y
 
 III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a un mil días de salario mínimo, y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
+
+### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
 
 ###### ARTÍCULO 340.
 
@@ -3645,7 +3673,9 @@ V. Impone labores insalubres o peligrosas y trabajos nocturnos ilegales a sus tr
 
 Este delito se sancionará con una pena de tres a cinco años de prisión, y sanción pecuniaria de trescientos a quinientos días de salario mínimo.
 
-## TITULO DÉCIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN; MEDIOS DE TRANSPORTE; Y LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS
 
 ###### ARTÍCULO 351.
 
@@ -3700,6 +3730,8 @@ Si se trata de un elemento de cualquier corporación policíaca se le impondrá 
 ###### ARTÍCULO 360.
 
 En caso de reincidencia de alguno de los delitos a que se refieren los artículos anteriores de este capítulo, la inhabilitación para manejar podrá ser definitiva y el juez lo comunicará a las autoridades competentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 361.
 
@@ -3934,3 +3966,11 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 PRIMERO. Esta (sic) Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0414.- SE REFORMA DE LA PARTE ESPECIAL LA DENOMINACIÓN DEL TÍTULO DÉCIMO OCTAVO; Y ADICIONA CAPÍTULO III "DELITOS CONTRA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS" DE Y AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de 2017, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
