@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-firma-electronica-certificada-del-estado-de-oaxaca-10507
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2015-01-02"
+last_updated: "2016-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE FIRMA ELECTRONICA CERTIFICADA DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE OAXACA, PUBLICADA EL 15 DE OCTUBRE DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A PARTIR DEL PRIMERO DE DICIEMBRE DE DOS MIL DIECISÉIS.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE OAXACA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 15 DE OCTUBRE DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A PARTIR DEL PRIMERO DE DICIEMBRE DE DOS MIL DIECISÉIS.]</small>
 
 LEY DE FIRMA ELECTRÓNICA CERTIFICADA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -580,3 +580,27 @@ Tlalixtac de Cabrera, Centro, Oax., 24 de diciembre del 2014.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2053.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE OAXACA".]
+
+PRIMERO. Queda abrogada la Ley de Firma Electrónica Certificada del Estado de Oaxaca, de fecha cuatro de diciembre de dos mil catorce y publicada en el Periódico Oficial del Estado de Oaxaca, número Extra, de fecha dos de enero de dos mil quince.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El presente decreto entrará en vigor a partir del primero de diciembre de dos mil dieciseis.
+
+CUARTO. La Autoridad Certificadora y los Agentes Certificadores designados por la Administración Pública, organismos autónomos y municipios a que se refiere el transitorio quinto, deberán contar con los recursos humanos, financieros y materiales indispensables para la instrumentación de la presente Ley, debiendo contemplarlos en sus respectivos programas operativos anuales, con cargo a sus correspondientes partidas presupuestales.
+
+QUINTO. El Consejo Consultivo de Certificación de la Firma Electrónica Avanzada del Estado de Oaxaca, deberá instalarse mediante sesión dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley; en ella se designará al Secretario Ejecutivo, por la mayoría de los integrantes de dicho Consejo.
+
+SEXTO. Los organismos autónomos y municipios con población superior a los setenta mil habitantes, tendrán como plazo para contar totalmente con el procedimiento de certificación y operatividad del mismo, de hasta trescientos setenta días naturales siguientes a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. El Gobernador del Estado, expedirá los reglamentos necesarios para la ejecución y debida observancia de la presente Ley, en un plazo no mayor a 360 días hábiles.
+
+OCTAVO.- Los municipios con población menor a setenta mil habitantes, en la medida que cuenten con los recursos materiales y presupuestarios suficientes para garantizar la seguridad de la información y su confidencialidad en términos de la presente Ley, deberán solicitar al Consejo dicte la declaratoria y los lineamientos generales para la incorporación de los mismos al régimen prescrito por este ordenamiento; estos municipios tendrán hasta el treinta de septiembre de dos mil diecinueve para cumplir plenamente con la presente Ley.
+
+NOVENO.- Los procedimientos y trámites en los cuales se hayan iniciado mediante firma electrónica certificada, se concluirán conforme a la legislación vigente al momento de su inicio.
