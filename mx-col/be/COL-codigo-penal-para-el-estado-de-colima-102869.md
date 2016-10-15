@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2016-09-10"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "COL"
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+
+(REPUBLICADO DECRETO NO. 137, P.O. 15 DE OCTUBRE DE 2016).
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -3221,7 +3223,7 @@ II. Al servidor público, que ejerza funciones públicas distintas o que no le h
 
 A quien ultraje a un servidor público en el acto de ejercer sus funciones o con motivo de estas, se le impondrán de seis meses a dos años de prisión, y multa por un importe equivalente de cincuenta a cien días de salario mínimo.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016) (REPUBLICADO, P.O. 15 DE OCTUBRE DE 2016)
 
 No se considera ultraje a la autoridad cuando se trate de una video-grabación o tomas fotográficas realizadas por un espectador, en un espacio público o al que tenga derecho a acceder, y que no impidan el libre ejercicio de sus funciones como servidor público.
 
@@ -3547,9 +3549,11 @@ P.O. 11 DE JUNIO DE 2016.
 
 P.O. 10 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 137 SE REFORMA LA FRACCIÓN XXXIII Y SE ADICIONA UNA FRACCIÓN XXXIV, AL ARTÍCULO 152 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 269 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" DE FECHA 11 DE OCTUBRE DE 2014”.]
+(REPUBLICADO, P.O. 15 DE OCTUBRE DE 2016)
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima”.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 137 SE REFORMA LA FRACCIÓN XXXIII Y SE ADICIONA UNA FRACCIÓN XXXIV, AL ARTÍCULO 152 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 269 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" DE FECHA 11 DE OCTUBRE DE 2014".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 10 DE SEPTIEMBRE DE 2016.
 
