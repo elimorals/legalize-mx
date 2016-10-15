@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2016-10-03"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1735,9 +1735,7 @@ XXXII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y a 
 
 XXXIII. Elegir al Fiscal General del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
-
-XXXIV. En los términos de esta Constitución y la Ley, ratificar los nombramientos de los Secretarios de despacho que el Ejecutivo hiciere, verificando que cumplan los requisitos establecidos en esta Constitución y en las Leyes secundarias;
+XXXIV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2535,15 +2533,15 @@ III.- Cuando a solicitud del Congreso del Estado, los funcionarios del Poder Eje
 
 IV.- Cuando sea necesario informar o aclarar asuntos que se consideren relevantes para el gobierno.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 88.
 
-El nombramiento de los secretarios de despacho lo realizará el Gobernador del Estado y será ratificado por el Congreso en pleno o por la Diputación Permanente en un plazo improrrogable de diez días naturales; si no resolviere dentro de dicho plazo, el nombramiento quedará ratificado.
+El nombramiento y remoción de los Secretarios de despacho lo realizará el Gobernador del Estado libremente
 
-En caso de que el nombramiento del que se trate fuera rechazado por el Congreso del Estado, dentro (sic) los siguientes diez días, el Gobernador del Estado hará una nueva propuesta; en caso de ser rechazada, el Gobernador hará libre y directamente la designación del Secretario de despacho.
+La renuncia o separación del cargo de los Secretarios será recibida y calificada por el Gobernador del Estado.
 
-El Gobernador del Estado tendrá en todo momento la facultad de remover y cambiar libremente a los Secretarios de despacho.
+En el supuesto a que se refiere el párrafo anterior, el Gobernador del Estado, procederá a la designación del nuevo funcionario y se le tomará la protesta respectiva en los términos de ley.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -4816,3 +4814,13 @@ P.O. 3 DE OCTUBRE DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 Segundo.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
