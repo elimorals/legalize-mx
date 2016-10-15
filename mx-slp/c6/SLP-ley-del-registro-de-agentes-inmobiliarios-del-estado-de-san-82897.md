@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-de-agentes-inmobiliarios-del-estado-de-san-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2015-01-10"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
 
@@ -253,15 +253,19 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa de hasta mil días de salario mínimo vigente en la Capital del Estado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+III. Multa de hasta mil días de la unidad de medida y actualización;
 
 IV. Suspensión de la licencia respectiva, e inscripción en el Registro, en su caso, hasta por treinta días hábiles, y
 
 V. Cancelación de la licencia respectiva, y de la inscripción en el Registro.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 14.
 
-A las personas físicas que se ostenten como agentes inmobiliarios sin contar con registro y, en su caso, licencia a que se refiere la presente Ley; así como a los agentes inmobiliarios que realicen operaciones inmobiliarias sin tener vigente su registro y, en su caso, licencia en los términos de lo dispuesto por el artículo 8°. de esta Ley, se les podrá aplicar la sanción consistente en multa de hasta tres mil veces el salario mínimo diario general vigente en la capital del Estado.
+A las personas físicas que se ostenten como agentes inmobiliarios sin contar con registro y, en su caso, licencia a que se refiere la presente Ley; así como a los agentes inmobiliarios que realicen operaciones inmobiliarias sin tener vigente su registro y, en su caso, licencia en los términos de lo dispuesto por el artículo 8° de esta Ley, se les podrá aplicar la sanción consistente en multa de hasta tres mil veces la unidad de medida y actualización.
 
 ###### ARTICULO 15.
 
@@ -342,3 +346,9 @@ P.O. 10 DE ENERO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga todo lo que se oponga al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
