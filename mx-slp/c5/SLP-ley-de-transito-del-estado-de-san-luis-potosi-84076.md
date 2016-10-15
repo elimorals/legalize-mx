@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2016-06-11"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -795,6 +795,10 @@ Los vehículos equiparables a chatarra que circunstancialmente se encuentren en 
 
 Se exceptúa lo dispuesto en la fracción XXXIV del artículo 6° de esta Ley, aquellos vehículos que se encuentran sujetos a un procedimiento administrativo y judicial.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 63 BIS. A los vehículos de emergencia que estén realizando su labor no se les podrá en caso alguno, cobrar, impedir u obstaculizar el paso en vías de peajes, lotes, estacionamientos privados o ningún otro. Ni siquiera a pretexto de circunstancias legales o administrativas, debiendo toda persona o entidad facilitar su trayecto.
+
 ## TITULO SEPTIMO. DE LOS PEATONES, DE LOS CICLISTAS, DE LA EDUCACION VIAL, DE LOS CONDUCTORES, Y DE LAS ESCUELAS DE MANEJO
 
 ### Capítulo I. De los Peatones, de los Ciclistas, y de la Educación Vial
@@ -939,11 +943,17 @@ VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuan
 
 IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-X. Abstenerse de conducir vehículos en estado de ebriedad y con aliento alcohólico, o en cualquier estado de intoxicación, y
+X. Abstenerse de conducir vehículos en estado de ebriedad y con aliento alcohólico, o en cualquier estado de intoxicación;
 
-XI. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XI. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XII. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las Escuelas de Manejo
 
@@ -1496,3 +1506,11 @@ P.O. 11 DE JUNIO DE 2016.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0403.- SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XXI Y XXII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XXIII, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 72 EN SUS FRACCIONES X Y XI; Y ADICIONA EL ARTÍCULO 63 BIS, Y AL ARTÍCULO 72 LA FRACCIÓN XII, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
