@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2016-08-16"
+last_updated: "2016-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -883,13 +883,17 @@ La Legislatura se erigirá en Colegio Electoral cuando se trate:
 
 I.- (DEROGADA, P.O. 4 DE JULIO DE 2009)
 
-II.- De nombrar Gobernador sustituto o interino en los casos que determina la Constitución Local;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-III.- De ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia, del Secretario General del Gobierno y Subsecretarios que el Ejecutivo hiciera; de nombrar al Oficial Mayor al Tesorero del Congreso; y
+II. De nombrar Gobernador sustituto o interino en los casos que determina la Constitución Local, y
 
-IV.- (DEROGADA, P.O. 4 DE JULIO DE 2009)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+III. De ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia, de nombrar al Oficial Mayor, Contralor y al Tesorero del Congreso.
 
 ###### ARTICULO 78.
 
@@ -1074,3 +1078,13 @@ P.O. 16 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2006.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 55 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
