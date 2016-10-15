@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2016-04-11"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -211,25 +211,41 @@ III. Contar con cédula profesional, título o equivalente, o experiencia probad
 
 IV. Estar en pleno ejercicio de sus derechos civiles y políticos;
 
-V. No haber sido condenado por delitos intencionales, patrimoniales y no estar inhabilitado para desempeñar un empleo, cargo o comisión;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI. Tener un modo honesto de vivir y aprobar la evaluación de control de confianza establecida en la ley de la materia, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-VII. Los titulares de las Secretarías de Despacho requerirán además, cuando así proceda, la ratificación del Congreso en términos de lo dispuesto por el Artículo 59 fracción XXXIV de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+V. No haber sido condenado por delitos intencionales, patrimoniales y no estar inhabilitado para desempeñar un empleo, cargo o comisión; y
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los subsecretarios, directores de área, coordinadores o sus equivalentes, jefes de departamento y jefes de oficina, deberán cumplir los mismos requisitos, salvo lo establecido en las fracciones II, III y VII.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+VI. Tener un modo honesto de vivir y aprobar la evaluación de control de confianza establecida en la ley de la materia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+VII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+Los subsecretarios, directores de área, coordinadores o sus equivalentes, jefes de departamento y jefes de oficina, deberán cumplir los mismos requisitos, salvo lo establecido en las fracciones II y III.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO (N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2016)</small>
 
 Todos serán nombrados con base en los principios de idoneidad, honorabilidad, equidad de género, apartidismo en el ejercicio de sus funciones y no discriminación.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 22.
 
-Los nombramientos de los Secretarios de Despacho, llevados a cabo por el Gobernador del Estado, deberán ser remitidos inmediatamente al Honorable Congreso del Estado para su ratificación.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Los nombramientos de los Secretarios de Despacho, llevados a cabo por el Gobernador del Estado, deberán ser remitidos inmediatamente al Honorable Congreso del Estado para su conocimiento.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2253,7 +2269,7 @@ QUINTO. En todos los casos que por la aplicación de esta Ley se modifique la es
 
 SEXTO. Cuando una Unidad Administrativa se transfiera de una Dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental.
 
-SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de este Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
+SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de éste Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
 
 OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por esta Ley cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
 
@@ -2376,3 +2392,13 @@ SÉPTIMO. El Gobernador del Estado, en el ejercicio de sus facultades expedirá 
 Hasta en tanto se expida el Reglamento de esta Ley, serán aplicables en lo conducente las disposiciones vigentes en la materia, en lo que no la contravengan.
 
 OCTAVO. Se derogan todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan a la presente Ley.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
