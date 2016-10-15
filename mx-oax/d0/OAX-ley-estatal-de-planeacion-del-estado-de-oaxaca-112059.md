@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-planeacion-del-estado-de-oaxaca-112059"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-09"
-last_updated: "2016-01-09"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de enero de 2016.
 
@@ -301,6 +301,14 @@ h) Los Presidentes Municipales, como responsables directos de la administración
 
 i) Los Ayuntamientos Municipales, como órganos de gobierno de los Municipios.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+j) El Comité Técnico conformado por los representantes del sector académico, empresarial y social, como instancia de vigilancia y verificación del cumplimiento de los objetivos y metas del Sistema Estatal de Planeación.
+
+En el Reglamento correspondiente se señalara el proceso de selección de los miembros del Comité, así como sus atribuciones y facultades.
+
 I (SIC). Son instancias del SIEP:
 
 a) El Poder Legislativo del Estado, como instancia de control político;
@@ -314,6 +322,12 @@ d) Los Concejos de Desarrollo Social Municipal, previsto en la Ley Orgánica Mun
 e) Las representaciones en el Estado, de las dependencias y entidades federales, conforme a las orientaciones que en materia de planeación emitan las autoridades federales, y
 
 f) Las demás dependencias y entidades estatales y municipales cuyas funciones especializadas complementen, articulen o apoyen los procesos de planeación, coordinación, seguimiento y evaluación de las políticas públicas, el desempeño institucional, y el gasto público.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+g) El Comité Técnico conformado por los representantes del sector académico, empresarial y social, como instancia de verificación del cumplimiento de metas y objetivos del Sistema Estatal de Planeación.
 
 ### Capítulo Segundo. De la Función de la Planeación
 
@@ -421,11 +435,21 @@ VI. Facilitar la coordinación del proceso de planeación y apoyar el cumplimien
 
 El COPLADE podrá conformar, de acuerdo a los procedimientos que se establezcan para el efecto, comités y subcomités regionales, microrregionales o especiales, según sea el caso, como instancias de apoyo a las labores de planeación, propiciando la colaboración con los sectores social y privado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+El Titular del Poder Ejecutivo, en su calidad de máxima autoridad de la planeación estatal, podrá conformar la integración de los comités regionales que considere pertinentes para los efectos señalados en el párrafo anterior.
+
 ###### Artículo 25.
 
 La integración del COPLADE responderá a la naturaleza democrática inherente al proceso de planeación estatal y a principios de participación plural, multisectorial y multidisciplinaria.
 
-El Reglamento definirá la integración del COPLADE, las calidades exigidas a sus miembros y los demás aspectos de carácter administrativo, operativo y procedimental requeridos para el funcionamiento del mismo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+El Reglamento definirá la integración del COPLADE, las calidades exigidas a sus miembros, integrantes del Comité Técnico, así como los demás aspectos de carácter administrativo, operativo y procedimental requeridos para el funcionamiento del mismo.
 
 ## Título Cuarto. Plan Estatal de Desarrollo
 
@@ -1280,3 +1304,15 @@ Tlalixtac de Cabrera, Centro, Oax., 05 de enero del 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2055.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
