@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2016-06-18"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -1909,9 +1909,17 @@ VII. La prohibición temporal de actos de utilización, producción, explotació
 
 VIII. La delimitación de zonas de riesgo, así como la limitación de la movilidad de las personas y vehículos dentro de estas zonas;
 
-IX. La reubicación de población asentada en zonas de riesgo y su traslado a refugios temporales, por razones de prevención, riesgo, afectación o emergencia, por lo cual quedará sin efectos cualquier autorización, permiso, concesión o derecho de asentarse en dicha; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-X. Las demás que en materia de Protección Civil determinen la UEPC o UMPC, conforme a sus atribuciones, tendientes a evitar nuevos riesgos o afectaciones.
+IX. La reubicación de población asentada en zonas de riesgo y su traslado a refugios temporales, por razones de prevención, riesgo, afectación o emergencia, por lo cual quedará sin efectos cualquier autorización, permiso, concesión o derecho de asentarse en dicha;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2016)</small>
+
+X. Propondrá la remoción de estructuras físicas, árboles o cualquier otro elemento que se encuentren a punto de caer o en extremo deterioro y que impliquen un peligro para la vida de las personas, o bien, obstruyan la vialidad, dañen el cableado eléctrico o coloquen en riesgo la propiedad privada y pública. Asimismo, conforme a los árboles se deberá observar que se les pueda otorgar el mantenimiento adecuado para conservarlo (corté de ramas, adecuación de equilibro, nutrientes para fortalecerlo, etc.), siempre y cuando sean arboles jóvenes y que puedan seguir un crecimiento adecuado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XI. Las demás que en materia de Protección Civil determinen la Unidad Estatal de Protección Civil o las Unidades Municipales de Protección Civil, conforme a sus atribuciones, tendientes a evitar nuevos riesgos o afectaciones.
 
 En los casos previstos en las fracciones II, III, V y VI de este artículo, la UEPC o UMPC, dentro de sus atribuciones, se apoyarán del dictamen técnico que corresponda, conforme a los ordenamientos legales aplicables.
 
@@ -1940,6 +1948,20 @@ II. Los servidores y empleados públicos que intervengan o faciliten la comisió
 ###### Artículo 146.
 
 En caso de la clausura temporal de una obra, instalación o establecimiento de bienes o servicios, la UEPC o UMPC, con base en las atribuciones que establece la presente Ley y cuando lo estime necesario, podrá solicitar a las autoridades la suspensión o cancelación de los permisos, licencias o concesiones que se hayan otorgado al infractor.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 146 Bis.
+
+Para evitar la acumulación de factores que pongan en peligro la vida y el patrimonio de los habitantes del Estado, la Unidad Estatal de Protección Civil, realizará revisiones periódicas, en coordinación con las Unidades Municipales de Protección Civil, a fin de identificar la presencia de árboles, espectaculares, postes de luz y otras estructuras a punto de caer o que se encuentren en malas condiciones.
+
+La Unidad Estatal de Protección Civil propondrá a las Unidades Municipales de Protección Civil, la remoción de toda estructura física, la poda o derribamiento, de los árboles que se hallen en el supuesto anterior, con el permiso de quien deba otorgarlo, y conforme a los procedimientos que establezcan los reglamentos municipales respectivos.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 146 Ter.
+
+Siempre que en el territorio estatal se presenten fenómenos meteorológicos o geológicos que puedan causar deterioro en los elementos a que se refiere el artículo previo, las Unidades Estatal y Municipales de Protección Civil deberán llevar a cabo una inspección en los distintos municipios, a fin de identificar los objetos riesgosos para la vida y el patrimonio de las personas, proponiendo la poda o derribamiento de árboles deteriorados o que estén a punto de caerse y la remoción de estructuras físicas en mal estado.
 
 ### Capítulo III. De las Sanciones
 
@@ -2104,3 +2126,9 @@ P.O. 18 DE JUNIO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 157 POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 142; SE ADICIONAN LOS ARTÍCULOS 146 BIS Y 146 TER, TODOS ELLOS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
