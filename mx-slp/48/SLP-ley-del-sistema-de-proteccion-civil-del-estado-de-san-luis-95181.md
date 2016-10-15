@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2013-07-06"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -399,9 +399,17 @@ XIX. Expedir el dictamen que contenga el análisis de riesgo respecto de inmuebl
 
 XX. Administrar el Fondo;
 
-XXI. Rendir un informe de actividades respecto del periodo comprendido entre el uno de enero al treinta y uno de diciembre de cada año, el que deberá entregarse al Consejo Estatal para su conocimiento y análisis, a más tardar el treinta y uno de marzo del año calendario siguiente al periodo de que se trate, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-XXII. Las demás atribuciones que le asigne esta Ley, y otras disposiciones legales, el Consejo Estatal, así como las previstas en el Reglamento de este Ordenamiento.
+XXI. Rendir un informe de actividades respecto del periodo comprendido entre el uno de enero al treinta y uno de diciembre de cada año, el que deberá entregarse al Consejo Estatal para su conocimiento y análisis, a más tardar el treinta y uno de marzo del año calendario siguiente al periodo de que se trate;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XXII. Solicitar en forma inmediata a la concesionaria la exención del cobro de peaje en las carreteras de cuota, cuando sean rutas necesarias para la evacuación de zonas de riesgo o de asistencia humanitaria y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XXIII. Las demás atribuciones que le asigne esta Ley y otras disposiciones legales, el Consejo Estatal, así como las previstas en el Reglamento de este Ordenamiento.
 
 ## TÍTULO TERCERO. DEL SISTEMA MUNICIPAL
 
@@ -880,3 +888,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO 0403.- SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XXI Y XXII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XXIII, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 72 EN SUS FRACCIONES X Y XI; Y ADICIONA EL ARTÍCULO 63 BIS, Y AL ARTÍCULO 72 LA FRACCIÓN XII, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
