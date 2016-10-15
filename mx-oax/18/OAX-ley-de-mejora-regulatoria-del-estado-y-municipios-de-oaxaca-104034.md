@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mejora-regulatoria-del-estado-y-municipios-de-oaxaca-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2014-05-02"
+last_updated: "2016-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de mayo de 2014.
 
@@ -121,9 +121,13 @@ Para efectos de esta Ley, son autoridades en materia de Mejora Regulatoria:
 
 El Poder Ejecutivo, por conducto de la Comisión Estatal de Mejora Regulatoria, y los Municipios, por conducto de la dependencia o entidad responsable que al efecto designe el Ayuntamiento.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 5.
 
-Se crea la Comisión Estatal de Mejora Regulatoria de Oaxaca como un órgano interinstitucional conformado por el Titular del Poder Ejecutivo, la Secretaría de Turismo y Desarrollo Económico, quien, implementará mecanismos tecnológicos que permitan recibir por medios de comunicación electrónica y aquellos que considere pertinentes, las promociones o solicitudes que formulen los particulares para llevar a cabo los trámites y servicios administrativos vigentes en el Estado.
+Se crea la Comisión Estatal de Mejora Regulatoria de Oaxaca como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, que se adscribe sectorialmente a la Gubernatura del Estado, quien, implementará mecanismos tecnológicos que permitan recibir por medios de comunicación electrónica y aquellos que considere pertinentes, las promociones o solicitudes que formulen los particulares para llevar a cabo los trámites y servicios administrativos vigentes en el Estado.
 
 ###### Artículo 6.
 
@@ -183,11 +187,15 @@ XV. Promover y coordinar la instalación y el funcionamiento de los módulos del
 
 XVI. Las demás que establezca esta Ley y demás disposiciones jurídicas aplicables.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 8.
 
-La Comisión Estatal tendrá un Director General que será designado por el Ejecutivo del Estado, a propuesta del titular de la Secretaría de Turismo y Desarrollo Económico.
+La Comisión Estatal tendrá un Director General que será designado por el Ejecutivo del Estado.
 
-Para el cumplimiento de sus atribuciones, la Comisión tendrá las áreas operativas que señale su Reglamento Interior y funcionará como un órgano administrativo desconcentrado jerárquicamente subordinado a la Secretaría de Turismo y Desarrollo Económico con plena autonomía administrativa, de gestión, operativa, presupuestal y de ejecución para el adecuado desarrollo de sus atribuciones mismas que entenderá de los asuntos de ese instrumento y la normatividad aplicable que señale.
+Para el cumplimiento de sus atribuciones, la Comisión tendrá las áreas operativas que señale su Reglamento Interior y funcionará como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, que se adscribe sectorialmente a la Gubernatura del Estado, con plena autonomía administrativa, de gestión, operativa, presupuestal y de ejecución para el adecuado desarrollo de sus atribuciones mismas que entenderá de los asuntos de ese instrumento y la normatividad aplicable que señale.
 
 ###### Artículo 9.
 
@@ -247,15 +255,17 @@ El Consejo es un órgano consultivo de análisis en la materia, y de vinculació
 
 El Consejo será responsable de analizar las propuestas de creación de nuevas disposiciones de carácter general o de su reforma, que le presente la Comisión Estatal y, en su caso, aprobarlas.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-La presidencia del Consejo recaerá en uno de sus integrantes, fungirá con dicho cargo por un periodo de dos años y podrá reelegirse hasta por una sola ocasión.
+El Consejo Estatal de Mejora Regulatoria del Estado, estará integrada por:
 
-El Consejo estará integrado por:
+I. El titular del Poder Ejecutivo quien será su presidente;
 
-I. El Titular del Poder Ejecutivo quien será su presidente;
-
-II. El titular de la Secretaría de Turismo y Desarrollo Económico, quien será suplente del presidente;
+II. El titular de la Secretaría de Economía, quien será suplente del presidente;
 
 III. El titular de la Secretaría de Administración;
 
@@ -265,33 +275,37 @@ V. El titular de la Secretaría General de Gobierno (SEGEGO);
 
 VI. El titular de la Secretaría de la Contraloría y Trasparencia Gubernamental (SCTG);
 
-VII. El titular de la Secretaría de las Infraestructuras (SINFRA);
+VII. El titular de la secretaría de Turismo
 
-VIII. El titular de la Secretaría de Seguridad Pública (SSPO);
+VIII. El titular de la Secretaría de las Infraestructuras (SINFRA);
 
-IX. El titular de la Secretaría del Trabajo (SETRAO);
+IX. El titular de la Secretaría de Seguridad Pública (SSPO);
 
-X. El titular de la Secretaría de Desarrollo Social y Humano (SEDESOH);
+X. El titular de la Secretaría de la Mujer Oaxaqueña.
 
-XI. El titular de la Secretaría de las Culturas y Artes de Oaxaca (SECULTA);
+XI. El titular de la Secretaría de Desarrollo Social y Humana (SEDESOH);
 
-XII. El titular de la Secretaría de Salud de Oaxaca;
+XII. El titular de la Secretaría de las Culturas y Artes de Oaxaca (SECULTA);
 
-XIII. El titular de la Secretaría de Asuntos Indígenas (SAI);
+XIII. El titular de la Secretaría de Medio Ambiente;
 
-XIV. El titular de la Jefatura de la Gubernatura;
+XIV. El titular de la Secretaría de Salud de Oaxaca;
 
-XV. Tres presidentes de los municipios de mayor infraestructura;
+XV. El titular de la Secretaría de Asuntos Indígenas (SAI);
 
-XVI. Un representante designado por los organismos empresariales legalmente constituidos y asentados en el Estado, de acuerdocon (sic) las actividades que realizan sus agremiados; industriales, comerciales y de servicios, así como de los organismos patronales;
+XVI. El titular de la Jefatura de la Gubernatura;
 
-XVII. Representantes del sector académico del estado; y
+XVII. Tres presidentes de los municipios de mayor infraestructura;
 
-XVIII. El Director General de la Comisión, quien fungirá como Secretario Técnico.
+XVIII. Un representante designado por los organismos empresariales legalmente constituidos y asentados en el Estado, de acuerdo con las actividades que realizan sus agremiados: industriales, comerciales y de servicios, así como de los organismos patronales;
 
-Los cargos de los integrantes del Consejo serán de carácter honorifico por lo que no recibirán retribución, emolumento o compensación alguna en el desempeño de sus funciones. Los integrantes señalados en las fracciones XIV, XV, XVII y XVIII, tendrán derecho a voz pero no a voto.
+XIX. Representantes del sector académico del estado; y
 
-Podrán concurrir al Consejo, como invitados permanentes, los titulares de otras Dependencias que determine el Ejecutivo Estatal. El presidente del Consejo podrá invitar a las personas o representantes de organizaciones cuya participación y opiniones considere pertinentes y oportunas de acuerdo con los temas a analizar, los cuales tendrán derecho a voz.
+XX. El Director General de la Comisión, quien fungirá como Secretario Técnico.
+
+Los cargos de los integrantes del Consejo serán de carácter honorífico por lo que no recibirán retribución, emolumento o compensación alguna en el desempeño de sus funciones. Los integrantes señalados en las fracciones XVI, XVII, XIX y XX, tendrán derecho a voz, pero no a voto.
+
+Podrán concurrir al Consejo, como invitados permanentes, los titulares de otras Dependencias que determine el Ejecutivo Estatal. El Presidente del Consejo podrá invitar a las personas o representantes de organizaciones cuya participación y opiniones considere pertinentes y oportunas de acuerdo con los temas a analizar, los cuales tendrán derecho a voz.
 
 ###### Artículo 13.
 
@@ -876,3 +890,15 @@ Tlalixtac de Cabrera, Centro, Oax., 02 de mayo del 2014.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 2056.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciseis.
+
+TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
