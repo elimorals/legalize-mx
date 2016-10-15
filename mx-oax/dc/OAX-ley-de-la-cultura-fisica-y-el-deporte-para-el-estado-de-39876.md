@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-cultura-fisica-y-el-deporte-para-el-estado-de-39876"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-08"
-last_updated: "2016-08-05"
+last_updated: "2016-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA CULTURA FÍSICA Y EL DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 8 de mayo de 2004.
 
@@ -59,6 +59,10 @@ V.- Recreación Física: Actividad física con fines lúdicos que permiten la ut
 
 VI.- Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2016)
+
 ###### ARTICULO 3.
 
 Para los efectos de la presente Ley se entenderá por:
@@ -76,6 +80,12 @@ V.- Consejo Estatal: El Consejo Estatal de la Cultura Física y el Deporte;
 VI.- Programa Estatal: El Programa Estatal de la Cultura Física y el Deporte; y
 
 VII.- El Registro: El Registro Público del Sistema Estatal de la Cultura Física y el Deporte.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+VIII.- SINADE: Sistema Nacional de Cultura Física y Deporte.
 
 ###### ARTICULO 4.
 
@@ -113,6 +123,10 @@ La participación de los sectores social y privado en el Sistema Estatal, se est
 
 Las actividades deportivas del orden profesional, así con las actividades de promoción, organización, desarrollo o participación en materia deportiva que se realicen con el ánimo de lucro, no quedan comprendidas dentro del Sistema Estatal.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2016)
+
 ###### ARTICULO 9.
 
 En el marco del Sistema Estatal deberán realizarse las siguientes funciones:
@@ -125,17 +139,47 @@ III.- Determinar las necesidades y requerimientos del deporte y la cultura físi
 
 IV.- Promover la conjunción y concertación de esfuerzos entre los organismos y dependencias gubernamentales estatales, municipales y federales para el desarrollo de la cultura física y el deporte en el Estado;
 
-V.- Formular el Programa Estatal y realizar las acciones que se deriven del mismo; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VI.- Propiciar la participación de los organismos deportivos, deportistas y sociedad en general en la formulación, determinación y ejecución de las políticas a que se refiere la fracción I, estableciendo los procedimientos para ello.
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+V.- El Sistema Estatal coordinará sus actividades para aplicar las políticas, planes y programas que en materia de activación física, cultura física y deporte se adopten por el SINADE.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+VI.- El Sistema Estatal otorgará los registros a las asociaciones y sociedades que los integren, verificando que cumplan con los requisitos establecidos por el SINADE y en coordinación con el registro nacional de cultura física y deporte.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+VII.- El registro al que se refiere el párrafo anterior, será requisito indispensable para su integración al respectivo sistema.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+(REUBICADA, P.O. 15 DE OCTUBRE DE 2016)
+
+VIII.- Formular el Programa Estatal y realizar las acciones que se deriven del mismo; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+(REUBICADA, P.O. 15 DE OCTUBRE DE 2016)
+
+IX.- Propiciar la participación de los organismos deportivos, deportistas y sociedad en general en la formulación, determinación y ejecución de las políticas a que se refiere la fracción I, estableciendo los procedimientos para ello.
 
 ###### ARTICULO 10.
 
 La Coordinación del Sistema Estatal, estará a cargo del Organo Rector, de conformidad con lo dispuesto por esta Ley.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 11.
 
-El Organo Rector, además de las atribuciones que le otorgue la Ley de su creación, tendrá las facultades siguientes:
+El Órgano Rector, además de las atribuciones que le otorgue la Ley de su creación, tendrá las facultades siguientes:
 
 I.- Coordinar el Sistema Estatal;
 
@@ -159,9 +203,41 @@ X.- Llevar un censo en coordinación con los Municipios y el Instituto Estatal d
 
 XI.- Finalizar a las asociaciones deportivas que se hubieren beneficiado con recursos estatales, evaluando el desempeño obtenido con la aplicación de dichos recursos,
 
-XII.- Establecer los lineamientos para la participación de los deportistas en cualquier plaza de competiciones nacionales o internacionales, sin contravenir lo dispuesto por la Ley Federal de la materia; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XIII.- Las demás que le otorguen otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XII.- Se regirá por sus propios ordenamientos, sin contravenir con lo dispuesto por la Ley General de Cultura Física y Deporte, su reglamento y las demás disposiciones que de ella deriven, cumpliendo en todo momento con cada una de las obligaciones que como integrante del SINADE le corresponden.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XIII.- Diseñar y aplicar los instrumentos y programas de política para la cultura física y deporte estatal, en concordancia y sin contravenir la Política Nacional de Cultura Física y Deporte, vinculándolos con los programas nacional, estatales, regionales, municipales y las demarcaciones territoriales de la Ciudad de México, así como su respectivo Plan Estatal de Desarrollo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XIV.- Diseñar, aplicar y evaluar el programa estatal de cultura física y deporte.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XV.- Coordinar y colaborar con la Federación y los Municipios, respecto a la seguridad y prevención en los eventos deportivos masivos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+XVI.- Establecer los lineamientos para la participación de los deportistas en cualquier competencia nacional o internacional, sin contravenir lo dispuesto por la Ley Federal de la materia; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+(REUBICADA, P.O. 15 DE OCTUBRE DE 2016)
+
+XVII.- Las demás que le otorguen otras disposiciones legales.
 
 ###### ARTICULO 12.
 
@@ -782,3 +858,13 @@ SEGUNDO. Se derogan las disposiciones legales que se opongan a la presente Ley.
 TERCERO. El Sistema Estatal, implementará las acciones y procedimientos necesarios para el cumplimiento del presente Decreto.
 
 CUARTO. Se faculta a la Secretaría de Finanzas del Poder Ejecutivo del Estado, para que en el ámbito de sus respectivas competencias, den cumplimiento al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2057.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA CULTURA FÍSICA Y EL DEPORTE”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo (sic) contradigan.
