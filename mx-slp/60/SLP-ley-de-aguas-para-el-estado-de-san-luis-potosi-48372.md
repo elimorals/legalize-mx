@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2016-09-17"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2803,19 +2803,21 @@ XVIII. Las demás que se deriven de la presente Ley y sus reglamentos.
 
 Por violación a lo dispuesto en las fracciones del artículo 206 de esta Ley, procederá la aplicación de las siguientes sanciones:
 
-I. En los casos de las fracciones II, VI, XI, XII y XV del citado artículo, se aplicarán multas por un monto entre cien a doscientos días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+I. En los casos de las fracciones II, VI, XI, XII y XV del citado artículo, se aplicarán multas por un monto entre cien a doscientos días de la unidad de medida y actualización vigente;
 
-II. En los casos de las fracciones III, IV, VII, X y XIII se aplicarán multas por un monto entre quinientos a seiscientos días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+II. En los casos de las fracciones III, IV, VII, X y XIII se aplicarán multas por un monto entre quinientos a seiscientos días de la unidad de medida y actualización vigente;
 
-III. En los casos de las fracciones I, V, VIII, IX, XIV y XVI se aplicarán multas por un monto entre mil a mil quinientos días de salario mínimo general vigente en el Estado, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+III. En los casos de las fracciones I, V, VIII, IX, XIV y XVI se aplicarán multas por un monto entre mil a mil quinientos días de la unidad de medida y actualización vigente, y
 
-IV. En el caso de la fracción XVII se aplicarán las multas por un monto entre cien a mil días de salario mínimo general vigente en el Estado y, en caso de reincidencia, se impondrá a los infractores la clausura temporal o definitiva, parcial o total de predio, construcción, establecimiento, giro mercantil o industria.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+IV. En el caso de la fracción XVII se aplicarán las multas por un monto entre cien a mil días de la unidad de medida y actualización vigente y, en caso de reincidencia, se impondrá a los infractores la clausura temporal o definitiva, parcial o total del predio, construcción, establecimiento, giro mercantil o industria.
 
 ###### ARTICULO 208.
 
@@ -3047,21 +3049,25 @@ XX. Los usuarios de fraccionamientos o desarrollos autorizados por el organismo 
 
 Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el ayuntamiento, por el organismo operador, y en su caso por la Comisión:
 
-I. Con multa por el equivalente de cinco a cincuenta veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las infracciones a que se refieren las fracciones II, VI, VII, VIII, IX y XV del artículo anterior;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+I. Con multa por el equivalente de cinco a cincuenta veces la unidad de medida y actualización vigente, tratándose de las infracciones a que se refieren las fracciones II, VI, VII, VIII, IX y XV del artículo anterior;
 
-II. Con multa por el equivalente de cinco a veinte veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones, IV, XI, XII, XIII, XIV y XVII del artículo anterior;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+II. Con multa por el equivalente de cinco a veinte veces la unidad de medida y actualización vigente, tratándose de las fracciones, IV, XI, XII, XIII, XIV y XVII del artículo anterior;
 
-III. Con multa por el equivalente de cinco a cuarenta veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en el caso de las fracciones, III, V, X, XVI, XVIII y XX del artículo anterior;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+III. Con multa por el equivalente de cinco a cuarenta veces la unidad de medida y actualización vigente, en el caso de las fracciones, III, V, X, XVI, XVIII y XX del artículo anterior;
 
-IV. Con multa por el equivalente de cien a quinientas veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de la fracción I del artículo anterior, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-V. Con multa por el equivalente de cien a quinientas veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de la fracción XIX del artículo anterior.
+IV. Con multa por el equivalente de cien a quinientas veces la unidad de medida y actualización vigente, tratándose de la fracción I del artículo anterior, y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+V. Con multa por el equivalente de cien a quinientas veces la unidad de medida y actualización vigente, tratándose de la fracción XIX del artículo anterior.
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
@@ -3115,15 +3121,25 @@ VII. Incumplir con lo establecido en el segundo párrafo del artículo 147 de es
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas por las autoridades competentes en términos de la legislación aplicable, cuando éstas sean cometidas por el ayuntamiento, los organismos operadores, concesionarios y contratistas:
 
-I. Con multa de quinientos a dos mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones I, IV y VII del artículo anterior;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-II. Con multa de mil a cuatro mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en caso de la fracción II del artículo anterior;
+I. Con multa de quinientos a dos mil días de la unidad de medida y actualización vigente, tratándose de las fracciones I, IV, y VII del artículo anterior;
 
-III. Con multa de cien a mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de la fracción III del artículo anterior, y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-IV. Con multa de mil a cinco mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones V y VI del artículo anterior.
+II. Con multa de mil a cuatro mil días de la unidad de medida y actualización vigente, en caso de la fracción II del artículo anterior;
 
-Cualquier otra infracción a esta Ley o a su reglamento que no esté expresamente prevista en esta sección, será sancionada con multa de hasta quinientos días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+III. Con multa de cien a mil días de la unidad de medida y actualización vigente, tratándose de la fracción III del artículo anterior, y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+IV. Con multa de mil a cinco mil días de la unidad de medida y actualización vigente, tratándose de las fracciones V y VI del artículo anterior.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+Cualquier otra infracción a esta Ley o a su reglamento que no esté expresamente prevista en esta sección, será sancionada con multa de hasta quinientos días de la unidad de medida y actualización vigente en que se cometa la infracción.
 
 En caso de reincidencia, se podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
@@ -3396,6 +3412,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETOS 0378.- SE REFORMA EL ARTÍCULO 16 EN SUS FRACCIONES, VI, Y VII; Y ADICIONA AL MISMO ARTÍCULO 16 LA FRACCIÓN VIII, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0402.- SE REFORMA LOS ARTÍCULOS, 207 EN SUS FRACCIONES I A IV, 232 EN SUS FRACCIONES I A V, Y 238 EN SUS FRACCIONES I A IV, Y PÁRRAFO SEXTO, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 13 EN SU FRACCIÓN III, Y 14, DE LA LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
