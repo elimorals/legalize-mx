@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-y-servicios-del-61042"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-19"
-last_updated: "2013-12-31"
+last_updated: "2016-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 19 de abril de 2008 y republicada en el P.O. el miércoles 30 de abril de 2008.
 
@@ -75,7 +75,7 @@ VI. Comité: el Comité de Adquisiciones de Bienes y Servicios del Poder Ejecuti
 
 VII. Sub-Comité: los Sub-Comités de Adquisiciones de Bienes y Servicios de las Entidades, Dependencias y Órganos Autónomos;
 
-VIII. Proveedor: la persona física o moral que reúne los requisitos exigidos por esta Ley para la celebración de contratos de adquisiciones, arrendamientos o servicios regulados por la misma; y (sic)
+VIII. Proveedor: la persona física o moral que reúne los requisitos exigidos por esta Ley para la celebración de contratos de adquisiciones, arrendamientos o servicios regulados por la misma; y
 
 IX. Licitante: la persona física o moral que participe en cualquier procedimiento de Licitación pública o de invitación restringida;
 
@@ -141,7 +141,7 @@ III. Intervenir en la contratación de adquisiciones, arrendamientos y servicios
 
 IV. Integrar, actualizar y controlar el Padrón de Proveedores de la Administración Pública Estatal, así como el registro actualizado de los precios e importes máximos de los bienes muebles, arrendamientos y servicios en general;
 
-V. Contratar, en su caso, asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y almacenes, así como la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley; y (sic)
+V. Contratar, en su caso, asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y almacenes, así como la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley; y
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -211,7 +211,9 @@ V. De ser el caso, los planos, proyectos, especificaciones y programas de ejecuc
 
 VI. Los requerimientos en cantidad suficiente de los bienes, los plazos estimados de suministros, los avances tecnológicos incorporados en los bienes y, en su caso, los planos, proyectos y especificaciones;
 
-VII. Preferir, en igualdad de circunstancias, la utilización de los bienes o servicios estatales sobre los nacionales y extranjeros, con especial atención a los sectores económicos, cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo y en los programas respectivos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+VII. Preferir, en igualdad de circunstancias, el empleo y la utilización de los bienes o servicios estatales sobre los nacionales y extranjeros, con especial atención a los sectores económicos, cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo y en los programas respectivos, siempre y cuando en la evaluación económica de las proposiciones, se cuente con un margen de hasta del cinco por ciento de preferencia en el precio respecto de proveedores nacionales o extranjeros;
 
 VIII. Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles a su cargo; y
 
@@ -223,9 +225,11 @@ Las entidades que sean apoyadas presupuestalmente o que reciban transferencia de
 
 Para los mismos efectos, las dependencias coordinadoras de sector y las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría, los programas y presupuestos mencionados.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-Las dependencias y entidades pondrán a disposición de la Secretaría, en la fecha que ésta señale, sus programas anuales de contratación de adquisiciones, arrendamientos y servicios priorizados. El documento que contenga los programas será de carácter informativo.
+Las dependencias y entidades pondrán a disposición de la Secretaría, en la fecha que ésta señale, sus programas anuales de contratación de adquisiciones, arrendamientos y servicios priorizados. El documento que contenga los programas será de carácter informativo dando prioridad a los proveedores estatales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -683,7 +687,7 @@ XV. Se trate de servicios de mantenimiento de bienes en los que no sea posible p
 
 XVI. El objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento.
 
-En estos casos la dependencia o entidad deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Estado o de las entidades según corresponda; y (sic)
+En estos casos la dependencia o entidad deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Estado o de las entidades según corresponda; y
 
 XVII. Se trate de equipos especializados, sustancias y materiales de origen químico, físico químico o bioquímico para ser utilizadas en actividades experimentales requeridas en proyectos de investigación científica y desarrollo tecnológico, siempre que dichos proyectos se encuentren autorizados por el titular de la dependencia o el órgano de gobierno de la entidad.
 
@@ -1562,3 +1566,13 @@ P.O. 9 DE FEBRERO DE 2013.
 P.O. 31 DE DICIEMBRE DE 2013.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2052.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de enero de dos mil diecisiete.
+
+TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
