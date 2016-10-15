@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2016-04-16"
+last_updated: "2016-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -567,7 +567,9 @@ I.- El Presidente Municipal, quien lo presidirá;
 
 II.- Dos Regidores del Ayuntamiento, uno nombrado por los regidores de mayoría y el otro propuesto por la primera minoría;
 
-III.- El o los Diputados del o los distritos que comprenda el municipio respectivo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+III.- El o los Diputados de mayoría relativa del o los distritos que comprendan el municipio respectivo, así mismo los Diputados de representación proporcional que residan en el municipio;
 
 IV.- Un representante de la Comisión Estatal;
 
@@ -575,9 +577,9 @@ V.- Un representante del Gobierno del Estado;
 
 VI.- Un representante de la Comisión Nacional del Agua, a quien se invitará a participar en el Consejo;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
-VII.- El Presidente y cuatro miembros del Consejo Consultivo del organismo. Entratándose (sic) de organismos intermunicipales se ampliará en dos miembros más la representación del Consejo Consultivo, y
+VII.- El Presidente y cuatro miembros del Consejo Consultivo del organismo. Tratándose de intermunicipales se ampliará en dos miembros más la representación del Consejo Consultivo; y
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -615,7 +617,7 @@ X.- Examinar y aprobar, en su caso, los estados financieros y los informes que p
 
 XI.- Acordar la extensión de los servicios a otros municipios, celebrando previamente los acuerdos o convenios respectivos en los términos de esta Ley, para que el organismo operador se convierta en intermunicipal;
 
-XII.- Aprobar y expedir el reglamento interior del organismo y sus modificaciones, así como los manuales de organización, de procedimientos y de servicios al público; y (sic)
+XII.- Aprobar y expedir el reglamento interior del organismo y sus modificaciones, así como los manuales de organización, de procedimientos y de servicios al público; y
 
 XIII.- Designar a una comisión de su seno para resolver las inconformidades de los usuarios que se originen por la prestación del servicio a cargo del organismo operador, de conformidad con lo previsto por el artículo 107 de la presente Ley; y
 
@@ -719,7 +721,7 @@ XV.- Someter a la aprobación del Consejo de Administración, el reglamento inte
 
 XVI.- Aplicar las sanciones que establece esta Ley y su reglamento, por las infracciones que se cometan y que sean competencia del organismo operador;
 
-XVII.- Realizar las acciones necesarias para que el organismo se ajuste al Sistema, de acuerdo con la presente Ley y la coordinación y normatividad que efectúe la Comisión Estatal; y (sic)
+XVII.- Realizar las acciones necesarias para que el organismo se ajuste al Sistema, de acuerdo con la presente Ley y la coordinación y normatividad que efectúe la Comisión Estatal; y
 
 > <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
 
@@ -813,7 +815,9 @@ El Consejo Consultivo ampliará su composición, con el objeto de que estén rep
 
 El Comisario será designado por el Secretario de la Contraloría.
 
-Los Regidores y Diputados se considerarán por cada uno de los ayuntamientos y distritos que comprenda cada municipio.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+
+Los Regidores se considerarán por cada uno de los ayuntamientos que comprenda cada municipio, y los Diputados del o los distritos que comprenda el municipio respectivo, así mismo los Diputados de representación proporcional que residan en el municipio.
 
 ###### ARTICULO 37.
 
@@ -1732,3 +1736,9 @@ P.O. 16 DE ABRIL DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 15 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 134 SE REFORMAN LAS FRACCIONES III Y VII DEL ARTÍCULO 23; Y EL QUINTO PÁRRAFO DEL ARTÍCULO 36, TODOS DE LA LEY DE AGUAS PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
