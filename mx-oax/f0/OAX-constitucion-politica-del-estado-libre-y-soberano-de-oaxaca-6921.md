@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2016-10-15"
+last_updated: "2016-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2001,7 +2001,9 @@ I. Revisar y fiscalizar en forma posterior los ingresos y egresos; el manejo, la
 
 Sin perjuicio de lo anterior, en situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe.
 
-Si estos requerimientos no fueran atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+Si estos requerimientos no fueran atendidos en los plazos y formas señalados por la ley, podrá dar lugar al proceso de investigación y en su caso, al fincamiento de las responsabilidades que corresponda.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
 
@@ -2015,9 +2017,9 @@ II. Fiscalizar los recursos provenientes de las aportaciones que en términos de
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-IV. Derivado de sus investigaciones promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas;
+IV. Derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas.
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
 
@@ -2441,19 +2443,19 @@ IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de 
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-V.- Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde e impida tales funciones.
+V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde e impida tales funciones.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1951)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-VI.- Salir del Territorio del Estado por un lapso mayor de 10 días, sin permiso de la Legislatura y en sus recesos de la Diputación Permanente. Si es por menor tiempo, bastará dar aviso a la H. Legislatura. Cuando las necesidades de la administración lo requieran, puede ausentarse de la Capital para trasladarse a cualquier punto del Estado, por el tiempo que estime conveniente.
+VI. Salir del Territorio del Estado por un lapso mayor de 20 días, sin permiso de la Legislatura y en sus recesos de la Diputación Permanente. Cuando las necesidades de la administración lo requieran, puede ausentarse de la Capital para trasladarse a cualquier punto del Estado, por el tiempo que estime conveniente;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-VII. Distraer las rentas públicas del Estado de los objetos a que estén destinadas por las leyes.
+VII. Ordenar de manera dolosa la distracción de las rentas públicas del Estado de los objetos a que estén destinadas por las leyes;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-VIII. Disponer en ningún caso y bajo ningún pretexto de las rentas municipales.
+VIII. Ordenar disponer de manera dolosa de las rentas municipales;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1948)</small>
 
@@ -3389,7 +3391,9 @@ De las Responsabilidades de los Servidores Públicos del Estado y Municipales, p
 
 Para los efectos de las responsabilidades a que alude este título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a éstos, o en fideicomisos públicos; así como en la Administración Pública Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-El Gobernador del Estado, para los efectos de este Título, sólo es responsable por delitos graves del orden común y por violación expresa del Artículo 81 de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del Artículo 110 de la Constitución Federal.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+El Gobernador del Estado, para los efectos de este Título, sólo podrá ser responsable por la comisión de delitos graves del orden común y por violación expresa del Artículo 81 de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del Artículo 110 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -3411,9 +3415,9 @@ I. Se impondrán mediante juicio político, las sanciones indicadas en el Artíc
 
 No procede el juicio político por la mera expresión de ideas;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere la presente fracción.
+Cualquier ciudadano bajo su más estricta responsabilidad, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere la presente fracción. Dicha denuncia deberá contener como mínimo, los datos o indicios que permitan advertir la presunta responsabilidad administrativa.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3489,9 +3493,9 @@ Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedim
 
 Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
 
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo ante el Congreso del Estado en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto la Legislatura resolverá con base en la Legislación penal aplicable.
+Por lo que se refiere al gobernador del Estado, solo habrá lugar a acusarlo ante el Congreso del Estado en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto la legislatura declarará por la votación de las dos terceras partes de sus integrantes, si ha o no lugar a proceder en contra del inculpado, en base a la legislación penal aplicable.
 
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
@@ -3559,7 +3563,7 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un periodo no mayor de un año a partir de iniciado el procedimiento.
 
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el Artículo 118.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 > <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
@@ -4824,3 +4828,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
 
 TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
+
+P.O. 17 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2050.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
