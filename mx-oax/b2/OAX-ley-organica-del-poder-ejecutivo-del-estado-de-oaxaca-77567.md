@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2016-10-15"
+last_updated: "2016-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,15 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 2054 MEDIANTE EL CUAL SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, EL PRESENTE DECRETO ENTRARÁ EN VIGOR A PARTIR DEL PRIMERO DE DICIEMBRE DE DOS MIL DIECISÉIS.]
+
+[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -271,11 +277,11 @@ Estas audiencias deberán desarrollarse por lo menos una vez al año en cada reg
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
-Las Secretarías de Despacho, la Procuraduría General de Justicia del Estado, la Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán, en su ámbito de competencia, las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley y demás ordenamientos normativos.
+Las Secretarías de Despacho, la Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán en su ámbito de competencia las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente ley y demás ordenamientos normativos.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -291,9 +297,9 @@ III. Secretaría de Salud;
 
 IV. Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
 
-V. Secretaría de Turismo y Desarrollo Económico;
+V. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
-VI. Secretaría del Trabajo;
+VI. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
 VII. Secretaría de Vialidad y Transporte;
 
@@ -309,13 +315,27 @@ XI. Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
 
 XII. Secretaría de Finanzas;
 
-XIII. Secretaría de Administración, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XIII. Secretaría de Administración;
 
 XIV. Secretaría de la Contraloría y Transparencia Gubernamental.
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-XV. Secretaría del Medio Ambiente y Recursos Naturales.
+XV. Secretaría de Economía;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XVI. Secretaría de Turismo;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XVII. Secretaría de la Mujer Oaxaqueña y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XVIII. Secretaría del Medio Ambiente y Desarrollo Sustentable.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -449,9 +469,9 @@ XXVI. Apoyar a los organismos electorales del Estado, en el ejercicio de sus atr
 
 XXVII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
 
-XXVIII. Refrendar con su firma las leyes o decretos enviados para su promulgación y publicación por el Congreso del Estado, así como, los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expida el Gobernador del Estado y aquellas que deban regir en la entidad y establezca la normatividad aplicable a la materia, remitiéndolos inmediatamente a la Consejería Jurídica del Gobierno del Estado para su publicación en el Periódico Oficial del Gobierno del Estado;
+XXVIII. Refrendar con su firma las leyes o decretos enviados para su promulgación y publicación por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expide el Gobernador del Estado y aquellas que deban regir en la entidad y establezca la normatividad aplicable en la materia, ordenándole al área correspondiente su publicación en el Periódico Oficial del Gobierno del Estado, conforme a las disposiciones aplicables de la Ley Estatal de Derechos.
 
 XXIX. Proponer al Gobernador del Estado, la solicitud de referéndum, en los asuntos que así lo requieran;
 
@@ -459,19 +479,51 @@ XXX. Dirigir, planear, desarrollar y promover la aplicación de la política de 
 
 XXXI. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Secretaría;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
 
-XXXII. Coordinar, organizar y supervisar el ejercicio y funcionamiento del registro público de la propiedad y del comercio y la Dirección del Registro Civil;
+XXXII. Coordinar, organizar y supervisar el ejercicio y funcionamiento del Registro Público de la Propiedad y del Comercio, la Dirección del Registro Civil y la Dirección General de Notarías y Archivo General de Notarias;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
 
-XXXIII. Desarrollar acciones de fortalecimiento municipal a través de la vinculación y concertación;
+XXXIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado, vigilar y ordenar visitas periódicas de inspección, autorizar y sancionar las actividades de los notarios públicos;
 
-XXXIV. (DEROGADA, P.O. 2 DE ENERO DE 2015)
+(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+XXXIV. Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Gobierno del Estado.
 
-XXXV. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XXXV. Mediante la Coordinación General de Delegaciones de Gobierno, desarrollar acciones de fortalecimiento municipal a través de la vinculación y concertación;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XXXVI. Coordinar la integración, establecimiento y funcionamiento de las Juntas Local (sic) de Conciliación y Arbitraje, y de Arbitraje para los Empleados al Servicio de los Poderes del Estado, así como, de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley Federal del Trabajo.
+
+Se evaluará anualmente el funcionamiento de estas Juntas y se propondrán las medidas que procedan, así como coordinar las instancias públicas de la defensa del trabajo en la Entidad;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XXXVII. Vigilar la observancia y aplicación, en el ámbito de su competencia, de las disposiciones contenidas en el artículo 123 y demás relativos de la Constitución Federal, la Constitución Política del Estado Libre y Soberano de Oaxaca, en la Ley Federal del Trabajo y en sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XXXVIII. Organizar y ejecutar las inspecciones de trabajo en los establecimientos de circunscripción local, realizando las acciones de prevención, vigilancia del cumplimiento de las normas laborales y sanciones generadas de las mismas, así como las demás que correspondan;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XXXIX. Aplicar políticas públicas para combatir la explotación del trabajo infantil;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XL Tramitar el nombramiento de los encargados de la Administración Municipal que designe el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XLI. Coordinar y organizar el Órgano Desconcentrado denominado Secretariado Ejecutivo del Sistema Estatal de Segundad Pública, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XLII. Las que en el ámbito de su competencia le confiera directamente el gobernador del estado, su reglamento interno y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -581,7 +633,9 @@ XX. Las demás que en el ámbito de su competencia le confiera directamente el G
 
 A la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable le corresponde el despacho de los siguientes asuntos:
 
-I. Formular las políticas públicas del sector de las infraestructuras y ejecutar por sí o por conducto de terceros la obra pública y servicios relacionados con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+I. Formular en colaboración con la Secretaría de Desarrollo Social y Humano la instrumentación y coordinación de las políticas públicas del sector de la infraestructura social y ejecutar por sí o por conducto de terceros las obras públicas y servicios relacionados con:
 
 a) Infraestructura Social: Entendiéndose por ésta, las edificaciones e instalaciones para ofrecer servicios de salud, educación, patrimonio edificado, vivienda e infraestructura urbana;
 
@@ -631,119 +685,13 @@ XXI. Coadyuvar en el ámbito de su competencia, a la regularización de la Tenen
 
 XXII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
 ###### ARTÍCULO 38.
 
-A la Secretaría de Turismo y Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
-
-I. Planear, regular y fomentar el desarrollo turístico y económico del Estado, promoviendo las actividades productivas que propicien la generación de empleos;
-
-II. Fortalecer la productividad y la posición competitiva de la micro, pequeña y mediana empresa privada y social;
-
-III. Promover, orientar y estimular el establecimiento y desarrollo de empresas e industrias en el Estado, garantizando la participación equitativa de las mujeres;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IV. Impulsar la relación comercial con actores estratégicos a nivel nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como, la inversión en la producción y exportación de productos oaxaqueños;
-
-V. Desarrollar y mantener actualizado un Catálogo de Inversión para el Estado de Oaxaca, el cual permita facilitar la inversión nacional e internacional en la entidad;
-
-VI. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo turístico y económico del Estado;
-
-VII. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística, así como en proyectos que potencialicen el desarrollo económico sustentable en el Estado;
-
-VIII. Establecer los mecanismos que permitan hacer del Estado el mejor destino turístico a nivel nacional e internacional, fortaleciendo el desarrollo económico local;
-
-IX. Elaborar e impulsar proyectos estratégicos, innovadores y sustentables que permitan en un ambiente de respeto a la riqueza cultural y turística del Estado, la generación de inversiones y empleos en la Entidad;
-
-X. Impulsar la capacitación permanente de los prestadores de servicios buscando con ello generar una cultura de servicio y asistencia al turista;
-
-XI. Promover de manera permanente y estratégica la imagen turística y las oportunidades de inversión en el Estado a nivel nacional e internacional;
-
-XII. Desarrollar de manera permanente fuentes alternas de turismo que estén en armonía con el entorno de vida de las diferentes comunidades;
-
-XIII. Promover en coordinación con la Secretaría de las Culturas y Artes de Oaxaca, la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística y la derrama económica para la entidad;
-
-XIV. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad, que coadyuven en el desarrollo sustentable de la entidad oaxaqueña;
-
-XV. Implementar mecanismos para incentivar el establecimiento de empresas e industrias en el Estado;
-
-XVI. Ejecutar en coordinación con instituciones de los tres órdenes de gobierno, programas y acciones de mejora regulatoria que incentiven el establecimiento de nuevas empresas e industrias en la entidad;
-
-XVII. Planear y determinar los lineamientos para la explotación de los recursos minerales, con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
-
-XVIII. Organizar y fomentar la producción artesanal, así como, las industrias populares, promoviendo los estímulos necesarios para su desarrollo y comercialización;
-
-XIX. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la calidad de los productos, así como el impulso de las exportaciones;
-
-XX. Estimular la formación y participación activa en consejos, comités, patronatos o asociaciones de carácter público, privado o mixto, cuyo propósito sea el desarrollo industrial y comercial;
-
-XXI. Expedir o revocar previo acuerdo del Gobernador del Estado las concesiones para la explotación de los recursos o infraestructura turísticos del Estado;
-
-XXII. Coordinar a las entidades del sector público paraestatal que realicen funciones complementarias en materia de turismo y economía, tales como fideicomisos públicos, empresas de participación estatal, organismos auxiliares y demás que sean sectorizadas a la Secretaría por acuerdo del Gobernador;
-
-XXIII. Auspiciar y vigilar con apego a la normatividad nacional e internacional una conducta de responsabilidad social empresarial;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXIV. Participar en coordinación con las Dependencias y Entidades de los tres ámbitos de gobierno, en el diseño e implementación de estrategias y programas de abasto de productos básicos;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXV. Vincular al Gobierno del Estado con otros gobiernos nacionales o extranjeros, organismos internacionales, sociedad civil o privada, para la gestión de fondos, asesoría técnica y cooperación tecnológica para áreas sustantivas del desarrollo estatal y facilitar los procesos correspondientes, y
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXVI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 39.
 
-A la Secretaría del Trabajo le corresponde el despacho de los siguientes asuntos:
-
-I. Vigilar la observancia y aplicación, en el ámbito de su competencia, de las disposiciones contenidas en el artículo 123 y demás relativos de la Constitución Federal, la Constitución Política del Estado Libre y Soberano de Oaxaca, en la Ley Federal del Trabajo y en sus reglamentos;
-
-II. Procurar el equilibrio entre los factores de la producción, proponiendo y ejecutando las políticas sectoriales, programas y acciones que permitan consolidar en el Estado una nueva cultura laboral con justicia social;
-
-III. Promover el incremento de la productividad laboral en el Estado;
-
-IV. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-V. Coordinar el Servicio Nacional de Empleo Oaxaca, así como, promocionar y coordinar las bolsas de trabajo de índole publico vigilar su funcionamiento en el Estado;
-
-VI. Organizar y ejecutar las inspecciones de trabajo en los establecimientos de circunscripción local, realizando las acciones de prevención, vigilancia del cumplimiento de las normas laborales y sanción, así como, las demás que correspondan en el ámbito de su competencia;
-
-VII. Aplicar los programas, normas y ordenamientos en materia de seguridad e higiene en el trabajo, en las unidades económicas del Estado en coordinación con las autoridades del trabajo competentes y en su caso, con la participación de los sectores empresarial, de los trabajadores, sindicatos, académicos y profesionales de la sociedad que inciden en este ámbito;
-
-VIII. Coordinar las instancias públicas de la defensa del trabajo en la Entidad;
-
-IX. Aplicar políticas públicas para combatir la explotación del trabajo infantil;
-
-X. Instrumentar acciones con perspectiva de género que mejoren las condiciones laborales de las y los trabajadores;
-
-XI. Coordinar la integración y establecimiento de las Juntas Local de Conciliación y Arbitraje, y de Arbitraje para los Empleados al Servicio de los Poderes del Estado, así como, de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley Federal del Trabajo.
-
-Evaluar anualmente el funcionamiento de estas Juntas y proponer las medidas que procedan.
-
-XII. Promover y llevar a cabo las actividades culturales y de recreación entre los trabajadores y sus familias;
-
-XIII. Fortalecer la vinculación institucional con sindicatos y organismos empresariales para el fomento de buenas prácticas laborales;
-
-XIV. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como, vigilar la observancia de tales principios al interior del Gobierno del Estado;
-
-XV. Vigilar el cumplimiento de la normatividad que prohíbe la discriminación laboral por parte de los patrones o empleadores, motivada por la edad, el género, origen étnico, la condición social, la religión, las opiniones, el estado civil o cualquier otra, que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, a menos que se trate del requerimiento propio de la idoneidad de las personas, para desempeñar una función;
-
-XVI. Fomentar la integración y desarrollo de las cooperativas, así como, coordinar y supervisar su funcionamiento, a fin de garantizar la protección a los integrantes y/o usuarios de las mismas;
-
-XVII. Promover los objetivos planteados en materia del trabajo en la declaración del milenio de la Organización de la (sic) Naciones Unidas en la que México forma parte.
-
-XVIII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
-
-XIX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -788,6 +736,8 @@ XVII. Coadyuvar con las autoridades Federales, estatales y municipales en la pla
 XVIII. Fijar normas técnicas para el funcionamiento y operación de los servicios de vialidad y transporte de la entidad;
 
 XIX. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de construir y llevar a cabo las acciones necesarias para dar solución a la problemática en materia de vialidad, transporte y servicios auxiliares;
+
+> <small>[N. DE E. CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 2054, PUBLICADO EN EL P.O. 17 DE OCTUBRE DE 2016, LOS ACTOS JURÍDICOS Y ADMINISTRATIVOS SUSCRITOS EN LO QUE CORRESPONDEN A LAS ATRIBUCIONES DEL EXTINTO INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE, SE ENTENDERÁN A LA SECRETARÍA DEL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE.]</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -903,17 +853,25 @@ XXVI. Las demás que en el ámbito de su competencia le confiera directamente el
 
 A la Secretaría de Desarrollo Social y Humano le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-I. Establecer las estrategias, planes y objetivos para el desarrollo social y humano en el Estado, así como, el marco jurídico que regula la participación estatal en los programas sociales;
+I. Establecer las estrategias, planes y objetivos de carácter transversal para el desarrollo social y humano en el estado, así como proponer el marco jurídico que regula la participación estatal en los programas sociales de combate a la pobreza;
 
-II. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-III. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+II. Elaborar y proponer al Ejecutivo del Estado el Programa Estatal de Desarrollo Social y Humano, con el objeto de establecer la estrategia estatal de carácter transversal y multidimensional para el desarrollo social y humano en el estado, así como el combate a la pobreza.
 
-IV. Identificar los programas de desarrollo social de organizaciones nacionales e internacionales, y gestionar a través de las instancias correspondientes aquellos que se puedan implementar en el Estado;
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-V. Diseñar, implementar y ejecutar las políticas, acciones y proyectos que se deriven del Plan Estatal de desarrollo y del programa estatal de desarrollo social y humano, propiciando la colaboración de los sectores social y privado, así como, la participación de los tres órdenes de gobierno;
+III. Llevar a cabo la evaluación y el seguimiento de las políticas, estrategias, programas y planes de desarrollo social y humano, así como de combate a la pobreza que se implementen en el estado, a través del establecimiento de indicadores de desempeño.
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+IV. Identificar los programas de desarrollo social y humano, así como de combate a la pobreza de organizaciones nacionales e internacionales gubernamentales y no gubernamentales, organizaciones de la sociedad civil y gestionar a través de las instancias correspondientes y la unidad administrativa respectiva, el seguimiento de aquellos que se puedan implementar en el Estado;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+V. Diseñar, implementar y ejecutar las políticas, acciones y proyectos de carácter transversal y multidimensional en colaboración con otras dependencias que se deriven del Plan Estatal de Desarrollo y del Programa Estatal de Desarrollo Social y Humano, propiciando la colaboración de los sectores social y privado, así como, la participación de los tres órdenes de gobierno;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -933,7 +891,9 @@ XI. Coordinar con las universidades e instituciones de educación media y superi
 
 XII. Impulsar los programas de desarrollo regional, de carácter integral que sean propuestos por las organizaciones de la sociedad civil, que garanticen sustentabilidad y generen condiciones de vida digna para la población;
 
-XIII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XIII. Promover y coordinar a través del Organismo Descentralizado respectivo, la creación e instrumentación de los programas de vivienda en el Estado.
 
 XIV. Proporcionar asesoría y apoyo técnico a municipios y sociedad civil, para la elaboración y desarrollo de los programas y proyectos de desarrollo social y humano;
 
@@ -947,9 +907,13 @@ XVII. Impulsar el trabajo comunitario en el desarrollo social y humano, a fin de
 
 XVIII. Promover la participación ciudadana organizada en la evaluación y fortalecimiento de las políticas públicas y los programas de desarrollo social;
 
-XIX. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-XX. Formular programas y proyectos de financiamientos para apoyar las iniciativas y proyectos de la sociedad civil;
+XIX. Formular, promover e implementar programas sociales de carácter transversal y multidimensional, en coordinación con las Dependencias y Entidades vinculadas a la política de desarrollo social y humano.
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XX. Formular programas y proyectos de financiamiento para apoyar las iniciativas de la sociedad civil en materia de desarrollo social y humano y combate a la pobreza;
 
 XXI. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
 
@@ -957,13 +921,21 @@ XXII. Coordinar y operar los programas de distribución y abasto de productos de
 
 XXIII. Coordinar los servicios públicos de información, difusión y orientación de programas para el desarrollo social y humano;
 
-XXIV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-XXV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+XXIV. Coordinar e instrumentar la operación de las unidades y caravanas móviles de servicios, de conformidad con lo establecido por la política de desarrollo social y humano del Estado.
 
-XXVI. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-XXVII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+XXV. Llevar a cabo la planeación e instrumentación de los programas de vivienda para el desarrollo social y humano en coordinación con el Organismo Descentralizado respectivo.
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XXVI. Instrumentar y coordinar en colaboración con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como los Organismos de la Administración Pública Estatal respectivos, los programas de infraestructura social básica, vivienda, servicios de salud y educación necesarios para impulsar el desarrollo social y humano del Estado, así como el combate de la pobreza en regiones con mayor desigualdad.
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+XXVII. Operar los módulos de desarrollo social y humano, los cuales se constituyen como un mecanismo de interlocución con la sociedad para conocer el seguimiento, la evaluación y el impacto de la política estatal en materia de combate a la pobreza;
 
 XXVIII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
 
@@ -1421,6 +1393,224 @@ XLV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 XLVI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+###### ARTÍCULO 46-A.
+
+A la Secretaría de Economía le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, regular y fomentar el desarrollo económico del Estado, promoviendo las actividades productivas que propicien la generación de empleos;
+
+II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras y comerciales;
+
+III. Generar información estadística en materia económica en el Estado y fungir como órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
+
+IV. Formular y promover el establecimiento de medidas para el fomento y protección de marcas registradas indicativas de origen del Estado de Oaxaca que fomenten el consumo local y el posicionamiento de los productos y servicios de origen oaxaqueño en los mercados nacionales e internacionales;
+
+V. Fortalecer la productividad y la posición competitiva de la micro, pequeña y mediana empresa privada y social;
+
+VI Promover, orientar y estimular el establecimiento y desarrollo de empresas e industrias en el Estado, garantizando la participación equitativa de las mujeres;
+
+VII. Impulsar la relación comercial con actores estratégicos a nivel nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como la inversión en la producción y exportación de productos oaxaqueños;
+
+VIII. Desarrollar y mantener actualizado un catálogo de inversión para el Estado de Oaxaca, el cual permita facilitar la inversión nacional e internacional en la entidad;
+
+IX. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo económico del Estado;
+
+X. Promover proyectos que potencialicen el desarrollo económico sustentable en el Estado;
+
+XI. Elaborar e impulsar proyectos estratégicos, innovadores y sustentables que permitan la generación de inversiones y empleos en la Entidad;
+
+XII. Implementar mecanismos para incentivar el establecimiento de empresas e industrias en el Estado;
+
+XIII. Ejecutar en coordinación con la Comisión Estatal de Mejora Regulatoria, programas y acciones en esta materia de mejora regulatoria que incentiven el establecimiento de nuevas empresas e industrias en la entidad;
+
+XIV. Planear y determinar los lineamientos para la explotación de los recursos minerales, de acuerdo a las disposiciones federales y con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
+
+XV. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la calidad de los productos, así como el impulso de las exportaciones;
+
+XVI. Estimular la formación y participación activa en consejos, comités, patronatos o asociaciones de carácter público, privado o mixto, cuyo propósito sea el desarrollo industrial y comercial;
+
+XVII. Coordinar a las entidades del sector publico paraestatal que realicen funciones (sic) economía, tales como fideicomisos públicos, empresas de participación estatal, organismos auxiliares y demás que sean sectorizadas a la Secretaría por acuerdo del Gobernador;
+
+XVIII. Auspiciar y vigilar con apego a la normatividad nacional e internacional una conducta de responsabilidad social empresarial;
+
+XIX. Participar en coordinación con las Dependencias y Entidades de los tres ámbitos de gobierno, en el diseño e implementación de estrategias y programas de abasto de productos básicos;
+
+XX. Procurar el equilibrio entre los factores de la producción, proponiendo y ejecutando las políticas sectoriales, programas y acciones que permitan consolidar en el Estado una nueva cultura laboral con justicia social;
+
+XXI. Promover el incremento de la productividad laboral en el Estado;
+
+XXII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo; Coordinar el Servicio Nacional de Empleo Oaxaca, así como promocionar y coordinar las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
+
+XXIII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo;
+
+XXIV. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como, vigilar la observancia de tales principios al interior del Gobierno del Estado;
+
+XXV. Fomentar la integración y desarrollo de las cooperativas, así como, coordinar y supervisar su funcionamiento, a fin de garantizar la protección a los integrantes y/o usuarios de las mismas;
+
+XXVI. Gestionar en los programas sociales en beneficio y apoyo a las necesidades de la mujer; vigilando el cumplimiento de sus objetivos de conformidad con las reglas de operación vigentes;
+
+XXVII. Organizar y fomentar la producción artesanal, así como, las industrias populares, promoviendo los estímulos necesarios para su desarrollo y comercialización;
+
+XXVIII. Aplicar los programas, normas y ordenamientos en materia de seguridad e higiene en el trabajo, en las unidades económicas del Estado en coordinación con las autoridades del trabajo competentes y en su caso, con la participación de los sectores empresarial, de los trabajadores, sindicatos, académicos y profesionales de la sociedad que inciden en este ámbito;
+
+XXIX. Fortalecer la vinculación institucional con sindicatos y organismos empresariales para el fomento de buenas práctivas (sic) laborales; y
+
+XXX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+###### ARTÍCULO 46-B.
+
+A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, regular y fomentar el desarrollo turístico del Estado, promoviendo las actividades y rutas turísticas que propicien la generación de bienestar social;
+
+II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades y rutas turísticas;
+
+III. Desarrollar, dirigir, coordinar y organizar la ejecución de los programas de fomento y promoción turística para el desarrollo de la Entidad;
+
+IV. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo turístico;
+
+V. Fomentar la comercialización, promoción y difusión de las rutas y destinos turísticos que se ofrecen en el Estado;
+
+VI. Establecer los mecanismos que permitan hacer del Estado de Oaxaca el mejor destino turístico a nivel nacional e internacional, fortaleciendo la vocación turística como pilar del desarrollo económico local;
+
+VII. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística en todo el territorio oaxaqueño;
+
+VIII. Impulsar la capacitación permanente de los prestadores de servicios buscando con ello generar una cultura de servicio y asistencia al turista;
+
+IX. Elaborar y emprender proyectos estratégicos, innovadores y sustentables que sean eficaces para lograr el desarrollo turístico conservando en un ámbito de respeto el patrimonio cultural.
+
+X. Promover de manera permanente y estratégica la imagen turística y las oportunidades de inversión en el Estado a nivel nacional e internacional;
+
+XI. Desarrollar de manera permanente fuentes alternas de turismo que estén en armonía con el entorno de vida de las diferentes comunidades;
+
+XII. Promover en coordinación con la Secretaría de las Culturas y Artes de Oaxaca, la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
+
+XIII. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad, que coadyuven en el desarrollo sustentable de la entidad oaxaqueña;
+
+XIV. Expedir o revocar previo acuerdo del Gobernador del Estado las concesiones para la explotación de los recursos o infraestructura turísticos del Estado;
+
+XV. Participar y coadyuvar con los Gobiernos Municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística Estatal;
+
+XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipales y con organizaciones de los sectores social y privado, a fin de facilitar e intensificar las actividades turísticas; y
+
+XVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+###### ARTÍCULO 46-C.
+
+La Secretaría de la Mujer Oaxaqueña le corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar el Programa Estatal de Igualdad, instrumento que deberá guiar la incorporación de la perspectiva de género en la administración pública estatal, mediante la institucionalización de normas, planes y proyectos orientados a eliminar la desigualdad de género y garantizar a las mujeres el ejercicio de sus derechos civiles, políticos, económicos y sociales.
+
+II. Proponer, promover, ejecutar, impulsar y evaluar periódica y sistemáticamente las políticas, planes, programas y medidas encaminadas a incorporar la perspectiva de género, con un criterio transversal en todas las Dependencias y Entidades de la Administración Pública Estatal, a fin de impulsar la igualdad sustantiva, el acceso a las oportunidades y el desarrollo de las mujeres.
+
+III. Dirigir como órgano rector a través del Ejecutivo Estatal, la política pública de igualdad sustantiva entre mujeres y hombres en las Dependencias y Entidades de la Administración Pública Estatal y municipal;
+
+IV. Formular, promover e instrumentar políticas públicas para la igualdad sustantiva entre mujeres y hombres, fomentando el desarrollo social, cultural, político y económico de las mujeres, que asegure la eliminación de la discriminación y violencia hacia las mujeres;
+
+V. Promover la participación de las mujeres en condiciones de igualdad sustantiva en el desarrollo económico, político, social y cultural con la intervención que corresponda a las dependencias que integran la administración pública del Estado;
+
+VI. Establecer y concertar acuerdos, convenios e instrumentos para el cumplimiento de las atribuciones de la Secretaría y las políticas, acciones y programas que se establezcan en el Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres, las leyes generales y locales de Igualdad y No Violencia Contra las Mujeres;
+
+VII. Promover, instrumentar y evaluar de forma transversal los programas, proyectos y acciones que faciliten a las mujeres el pleno desarrollo de sus potencialidades;
+
+VIII. Celebrar convenios con las instituciones de la federación, estados, municipios, organismos nacionales e internacionales, iniciativa privada, asociaciones civiles, universidades y centros de investigación, para la implementación de programas, proyectos y acciones, que favorezcan el desarrollo integral de las mujeres en el Estado, a efecto de que participen en su elaboración e implementación, encausando la participación de la sociedad civil en la elaboración de los programas de participación social, económica, política y cultural de la mujer oaxaqueña;
+
+IX. Establecer y operar un sistema de seguimiento de las acciones institucionales de la federación y el estado, a fin de evaluar el seguimiento de las políticas de igualdad sustantiva en el estado y el impacto a nivel nacional de la agenda de género;
+
+X. Proponer al Gobernador del Estado iniciativas y reformas de ley en lo relativo a los derechos de las mujeres, sobre los programas que tengan a su cargo las dependencias y entidades federales, estatales y municipales, procurando la perspectiva de género y que la asignación de los recursos a los mismos, respondan a un enfoque de género, a fin de que se atiendan las necesidades de la mujer oaxaqueña;
+
+XI. Coordinar programas de formación y capacitación que sensibilice en la temática de perspectiva de género a las y los servidores públicos de la administración pública estatal y municipal, a fin de asegurar la transversalidad con perspectiva de género en apego a los Derechos humanos de las Mujeres, en los programas y proyectos implementados institucionalmente:
+
+XII. Apoyar a los municipios en la formulación y puesta en marcha de programas que impulsen la incorporación integral de la mujer al desarrollo y mantener estrecha relación e intercambio de información con las autoridades municipales correspondientes, en coordinación con instituciones educativas y de investigación en la materia;
+
+XIII. Impulsar el desarrollo económico de las mujeres mediante la gestión e implementación de programas que permitan mejorar el nivel de vida de las mujeres oaxaqueñas;
+
+XIV. Proponer convenios con instituciones financieras y de crédito, públicas y privadas, para establecer condiciones que promuevan el desarrollo económico y social de las mujeres; que permitan lograr su autonomía, autodeterminación y empoderamiento para un mejor posicionamiento social y una mayor capacidad de toma de decisiones;
+
+XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de Desarrollo Social y Humano, aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de la mujer oaxaqueña al bienestar social y a la actividad productiva;
+
+XVI. Gestionar, fortalecer y dar seguimiento a Centros regionalizados para la atención directa a la violencia de género y acceso a la justicia de las mujeres;
+
+XVII. Coordinar y evaluar los servicios de atención brindados a las mujeres por especialistas, con perspectiva de género y aplicación de protocolos especializados;
+
+XVIII. Impulsar acciones que contribuyan a prevenir, atender, sancionar y erradicar la violencia de género en todas sus vertientes, en coordinación con las instancias correspondientes, proponiendo reformas legislativas que eliminen todo tipo de discriminación y que favorezcan la igualdad efectiva de las mujeres, adecuando el marco normativo a la legislación nacional e internacional en la materia;
+
+XIX. Promover en los medios de comunicación local el conocimiento y respeto a los Derechos Humanos de las Mujeres; que prevenga la violencia de género, estereotipos, los roles de género y cualquier otra conducta que genere discriminación en contra de las mujeres;
+
+XX. Fortalecer la participación social, política y cultural de las mujeres, incluyendo la pluralidad de intereses y necesidades sociales de las mujeres para contribuir a la consolidación de la democracia, poniendo énfasis en los municipios que se rigen bajo el sistema normativo interno, coadyuvando con los órganos electorales, tanto federales y estatales;
+
+XXI. Promover la incorporación transversal de la perspectiva de género en los procesos educativos, en coordinación con el Instituto Estatal de Educación Para el Estado de Oaxaca, mediante la incorporación de materias curriculares de perspectiva de género en educación básica y media superior, así como, el lenguaje incluyente y no discriminatorio de conocimientos y divulgación de la información tendientes a la generación de igualdad para las mujeres y hombres;
+
+XXII. Promover ante las autoridades correspondientes, las medidas y acciones que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo, haciendo énfasis en el medio rural;
+
+XXIII. Fomentar el acceso de las mujeres a un sistema de salud que favorezca su desarrollo personal y social, incorporando el respeto a la medicina tradicional y a las diferencias culturales;
+
+XXIV. Promover la creación de Instancias Municipales de las Mujeres, en coordinación con el Poder Legislativo y los ayuntamientos, con el objeto de que implementen y articulen la política municipal en materia de igualdad entre mujeres y hombres y la política orientada a erradicar la violencia contra las mujeres de conformidad con las políticas nacional y local correspondientes;
+
+XXV. Instrumentar acciones con perspectiva de género que mejoren las condiciones laborales;
+
+XXVI. Elaborar estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad, así como los tipos y modalidades de la violencia de género contra las mujeres;
+
+XXVII. Formular la normativa necesaria para el desempeño de sus funciones de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres y las políticas del Gobierno del Estado materia de las facultades y competencias de la Secretaría de las Mujeres Oaxaqueñas y;
+
+XXVIII. Las demás que le confieran las normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+###### ARTÍCULO 46-D.
+
+La Secretaría del Medio Ambiente y Desarrollo Sustentable le corresponde el despacho de los siguientes asuntos:
+
+I. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de protección al ambiente y sustentabilidad a los recursos naturales atribuidas al Ejecutivo Estatal;
+
+II. Formular y conducir el programa Estatal de protección al ambiente, en congruencia con el Plan Estatal de Desarrollo;
+
+III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación del programa Estatal de protección al ambiente, mismos que guardarán congruencia con los que formule la Federación en la materia;
+
+IV. Formular los programas de ordenamiento ecológico estatal, regional y especiales o prioritarios con la participación municipal, guardando congruencia con el formulado por la Federación;
+
+V. Prevenir, preservar y restaurar el equilibrio ecológico, así como la protección del ambiente en el territorio de la entidad a través de las políticas publicas correspondientes;
+
+VI. Prevenir y controlar las emergencias y/o contingencias ecológicas cuando afecten uno o más Municipios y no rebasen la jurisdicción territorial de la entidad, cuando la intervención no sea exclusiva de la Federación;
+
+VII. Establecer políticas públicas para prevenir y controlar la contaminación atmosférica generada por fuentes emisoras de competencia Estatal;
+
+VIII. Prohibir en el ámbito de su competencia las emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, lumínica y olores así como las correspondientes a la contaminación visual;
+
+IX. Implementar medidas y mecanismos para regular el aprovechamiento racional, prevención y el control de la contaminación en los recursos naturales y del medio ambiente en general;
+
+X. Evaluar el impacto ambiental previamente a la realización de las obras o actividades que sean de su competencia;
+
+XI. Regular las actividades que deban ser consideradas altamente riesgosas cuando por los efectos que puedan generar, impacten ecosistemas o el ambiente en la entidad de su competencia;
+
+XII. Regular el manejo y disposición final, en el ámbito de su competencia de los residuos sólidos que no sean peligrosos, conforme a las disposiciones aplicables en la materia;
+
+XIII. Formular, en el ámbito de su competencia los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas conducentes para la protección y sustentabilidad de los recursos naturales de la entidad;
+
+XIV. Regular, declarar y administrar las áreas naturales protegidas de competencia Estatal;
+
+XV. Diseñar y ejecutar en el ámbito de su competencia programas de control ambiental, reforestación y vigilancia de la flora y fauna silvestre;
+
+XVI. Regular con fines ecológicos, en coordinación con los Municipios, el aprovechamiento de los minerales o sustancias que constituyan depósitos naturales semejantes a los componentes de los terrenos destinados a la fabricación de materiales para la construcción u ornamento;
+
+XVII. Instrumentar en coordinación con las autoridades educativas programas de educación ambiental dirigidos a estudiantes y sociedad en general, y fomentar la protección del ambiente y el desarrollo sustentable de la entidad;
+
+XVIII. Atender quejas y denuncias relacionadas con la contaminación del ambiente y en su caso, aplicar en el ámbito de su competencia las sanciones administrativas, por violaciones a la Ley del Equilibrio Ecológico del Estado de Oaxaca y demás disposiciones jurídicas aplicables;
+
+XIX. Participar en la formulación y ejecución de los convenios que en materia de protección al medio ambiente y sustentabilidad de recursos naturales celebre el Gobierno del estado con la Federación, Entidades Federativas o con los ayuntamientos;
+
+XX. Concertar acciones con los sectores representativos de la sociedad, en materia de protección del medio ambiente y sustentabilidad de recursos naturales;
+
+XXI. Promover y fomentar las investigaciones de protección del medio ambiente y sustentabilidad de recursos naturales;
+
+XXII. Los demás que le confieran las leyes, decretos, acuerdos y reglamentos.
+
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 47.
@@ -1537,15 +1727,13 @@ XVIII. Consolidar la participación de organismos de los diversos niveles educat
 
 XIX. Las demás atribuciones que le señalen las leyes y reglamentos en el Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO III. PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+### CAPÍTULO III
 
 ###### ARTÍCULO 48.
 
-La Procuraduría General de Justicia es órgano del Estado y a su cargo está velar por la exacta observancia de las leyes, correspondiéndole el despacho que señale su Ley Orgánica.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1627,15 +1815,13 @@ XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura
 
 XXX. Coordinar y supervisar los subcomités de transparencia y acceso a la información pública y unidades de enlace que sean designados por las dependencias y entidades de conformidad con el Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado; coadyuvando con la Secretaría de la Contraloría y Transparencia Gubernamental, quien deberá actuar como órgano de control interno, de conformidad con las disposiciones aplicables;
 
-XXXI. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la Dirección General de Notarías y Archivo General de Notarías;
+XXXI. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
-XXXII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado, vigilar y ordenar visitas periódicas de inspección, autorizar y sancionar las actividades de los notarios públicos;
+XXXII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
-XXXIII. Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Gobierno del Estado;
+XXXIII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXIV. Ordenar al área correspondiente, la publicación en el Periódico Oficial del Gobierno del Estado, de las leyes o decretos expedidos por el Congreso del Estado, así como, los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expida el Gobernador del Estado o emitan las Dependencias, Entidades, Órganos Auxiliares y Desconcentrados, y de todas aquellas que deban regir en la entidad y establezca la normatividad de la materia; conforme a las disposiciones aplicables de la Ley Estatal de Derechos;
+XXXIV. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1645,59 +1831,111 @@ XXXV. Compilar y archivar la legislación y reglamentación vigente en el Estado
 
 XXXVI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-ARTÍCULO 49 BIS. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, prevista en el artículo 137, párrafo décimo primero, de la Constitución Política del Estado Libre y Soberano de Oaxaca, estará a cargo de un Coordinador General, quien dependerá directamente del Ejecutivo Estatal.
+ARTÍCULO 49 BIS. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, prevista en el artículo 137, párrafo décimo primero de la Constitución Política del Estado Libre y Soberano de Oaxaca estará a cargo de un coordinador general, quien dependerá directamente del Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 A la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, le corresponde el despacho de los siguientes asuntos:
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 I. Dirigir la planeación participativa para la elaboración del Plan Estatal de Desarrollo y coordinar la formulación y validación del mismo, y proponer parámetros para la focalización de acciones para los programas sectoriales, especiales e institucionales, de conformidad con las disposiciones legales aplicables en la materia, favoreciendo el establecimiento de mecanismos para la participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 II. Definir con la Secretaría de Finanzas la visión estratégica del desarrollo del estado, de mediano y largo plazo, identificando las prioridades de política pública y orientación de recursos, las alternativas para su logro y la definición de metas del desempeño correspondientes, apoyándose en la participación de las dependencias y organismos del Poder Ejecutivo del Estado;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 III. Orientar la planeación para el desarrollo con sustentabilidad, definiendo regiones, microrregiones, zonas y localidades del Estado que requieran atención prioritaria, considerando aquellas que también sean priorizadas por las estrategias y programas federales;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 IV. Coordinar el Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 V. Orientar, en coordinación con la Secretaría de Finanzas, a las dependencias y entidades en la planeación, diseño, promoción, aplicación, y conducción de los programas y proyectos de desarrollo del Estado, identificando las prioridades y estrategias que se alineen al Plan Estatal de Desarrollo, en congruencia con los programas de la administración pública federal y los de los municipios del Estado, e incluyendo la aportación ciudadana, tendientes a satisfacer el bienestar social;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 VI. Formular propuestas sobre planeación, aplicación y orientación de las políticas públicas, acciones y proyectos en el ámbito territorial, en coordinación con las políticas y programas sectoriales, mediante la coordinación de los esfuerzos institucionales, particularmente de los Subcomités Regionales, los Consejos de Desarrollo micro regional, y aquellas instancias de planeación que contribuyan a estas tareas, propiciando la colaboración de los sectores social y privado;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 VII. Proponer mecanismos y criterios de orientación y distribución de recursos de los diversos fondos de inversión hacia el financiamiento de obras y acciones que favorezcan el desarrollo equilibrado en el estado, conforme a los acuerdos establecidos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
-VIII. Promover la creación de infraestructura y equipamiento productivo, social básico, vivienda, servicios de salud y educación, con énfasis en las regiones y sectores de la población con mayores desventajas;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+VIII. Promover la creación de infraestructura y equipamiento productivo con énfasis en las regiones y sectores de la población con mayores desventajas;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 IX. Establecer estrategias y mecanismos de coordinación, colaboración, inducción y gestión de acciones con las dependencias, entidades y demás instancias federales, estatales y municipales, organizaciones de la sociedad civil y particulares, para la ejecución de los programas, proyectos e iniciativas en el ámbito territorial, así como, suscribir los convenios y acuerdos que resulten necesarios para fortalecer el desarrollo en el Estado, en coordinación con la Secretaría de Finanzas y la Secretaría General de Gobierno, en el ámbito de sus respectivas competencias;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 X. Proporcionar orientación, asistencia técnica y capacitación a las autoridades municipales, organizaciones de la sociedad civil y sociales, con el fin de fortalecer las tareas de planeación, ejecución y seguimiento de los planes, programas y proyectos de desarrollo municipal, microrregional y regional, coadyuvando en el establecimiento de una agenda desde lo local y en los mecanismos de respuesta ante la existencia de siniestros y contingencias;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XI. Dar seguimiento a los acuerdos y convenios suscritos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca, por el Ejecutivo del Estado o, en su caso, por la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, la Secretaría de Finanzas o la Secretaría General de Gobierno, con las dependencias y entidades del Ejecutivo Federal y Estatal, así como, con los ayuntamientos y organizaciones de la sociedad civil;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 XII. Participar en el ámbito de su competencia con la Secretaría de Finanzas, en la elaboración de lineamientos y normas en la estrategia de mezcla de recursos con los ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XIII. Asistir a los Ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales en coordinación con la Secretaría de Finanzas, quien atenderá lo referido a la planeación financiera y presupuestal, con el fin de que cumplan con elementos mínimos de planeación y de alineamiento con el Plan Estatal de Desarrollo, los Planes Regionales y programas micro regionales;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 XIV. Suscribir convenios de colaboración para coordinar la capacitación integral de los municipios, con las secretarías de Finanzas, General de Gobierno, y la Contraloría y Transparencia Gubernamental, así como, con la Auditoría Superior del Estado, y demás instituciones públicas y privadas, relacionadas con la materia;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XV. Convenir y aprobar los Programas de Desarrollo Institucional municipal, sobre la base de la asignación establecida en el Fondo de Infraestructura Social Municipal; así como, apoyarlos en la capacitación y seguimiento en el cumplimiento de la obligación de informar trimestralmente sobre los avances físicos y financieros de los recursos federales descentralizados;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 XVI. Opinar en la definición del Programa Anual de Inversión Pública del Estado, tomando en cuenta para ello los acuerdos y prioridades establecidos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca, apoyando en la gestión de recursos para impulsar programas y proyectos;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XVII. Realizar estudios socioeconómicos de alcance regional y microrregional que orienten la política de desarrollo del Estado;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 XVIII. Apoyar en el ámbito territorial e interinstitucional en la realización de los estudios técnicos y económicos de factibilidad de los proyectos de inversión pública que requiera el Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XIX. Apoyar en el seguimiento del banco de proyectos sectoriales y regionales de inversión pública del Estado, para fortalecer la planeación de los mismos;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 XX. Apoyar, a partir de los sistemas de evaluación al seguimiento de la situación física y financiera de la inversión en la Administración Pública Estatal, que realiza el Poder Ejecutivo con recursos propios y los provenientes de transferencias y reasignaciones de recursos federales;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XXI. Coadyuvar en el establecimiento de los lineamientos generales e integración del Informe Anual sobre la situación que guarda la Administración Pública Estatal;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 XXII. Proponer al Ejecutivo Estatal, las modificaciones necesarias sobre las políticas, programas y acciones de desarrollo y, en su caso, verificar que las Reglas de Operación atiendan al marco de la planeación del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XXIII. Coordinar el sistema de información para la planeación del desarrollo;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+
 XXIV. Definir con la Secretaría de Finanzas los requerimientos que deberán producir los sistemas de información estadística y documental para la planeación y el financiamiento del desarrollo, así como, el análisis y difusión de estadísticas y estudios relativos a la demografía, economía y desarrollo social del Estado, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XXV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
@@ -1879,23 +2117,37 @@ XVII. Expedir constancias, certificados de estudios, diplomas, títulos y grados
 
 XVIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, la legislación federal y estatal, su Reglamento Interno y demás normatividad aplicable en la materia.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 54.
 
-A la Representación del Gobierno del Estado de Oaxaca en el Distrito Federal le corresponde el despacho de los siguientes asuntos:
+A la Representación del Gobierno del Estado de Oaxaca en la Ciudad de México le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 I. Conducir las relaciones e imagen del Gobierno del Estado de Oaxaca en el Distrito Federal, representándolo oficialmente en todas sus gestiones que emprenda y suscribir los convenios, acuerdos y demás documentos en el que el Estado sea parte, previo acuerdo del Gobernador;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 II. Iniciar las gestiones, enlaces, concertaciones y demás acciones que las dependencias, entidades, órganos desconcentrados y auxiliares que la Administración Pública estatal deban realizar con sus homólogas e iniciativa privada domiciliadas en el Distrito Federal, sin afectar el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 III. Coordinar, coadyuvar y controlar las acciones que realicen en el Distrito Federal, en el ámbito de sus respectivas competencias, las dependencias, entidades, órganos desconcentrados y auxiliares de la Administración Pública estatal;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 IV. Atender en representación del Gobierno del Estado y en coordinación con la instancia que corresponda, los asuntos que le planteen los oaxaqueños radicados en el Distrito Federal;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 V. Coadyuvar en la promoción comercial, turística, artesanal, agropecuaria y tecnológica del Estado en el Distrito Federal, coordinándose con las instancias estatales y federales que correspondan;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
 VI. Intervenir en lo relativo a foros, comisiones, congresos, conferencias, exposiciones y demás eventos que se realicen en el Distrito Federal y en los que deba participar el Gobierno del Estado; y
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
 VII. Las demás que señalen las leyes, reglamentos y decretos.
 
@@ -2395,10 +2647,46 @@ OCTAVO. Se derogan todas las disposiciones legales o administrativas, de igual o
 
 P.O. 15 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
 
 TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
+
+P.O. 17 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2054.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se abrogan los Decretos publicados el 23 de diciembre del 2000 y 20 de enero del 2011, en donde se crea y se reforma el Instituto de la Mujer Oaxaqueña, respectivamente.
+
+CUARTO.- Se abrogan los Decretos publicados el 22 de junio de 1996 y 3 de marzo del 2011, en donde se crea el Instituto Estatal de Ecología de Oaxaca y se modifica su denominación a Instituto Estatal de Ecología y Desarrollo Sustentable, respectivamente.
+
+QUINTO.- Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones de las extintas Secretaría del Trabajo y Secretaría de Turismo y Desarrollo Económico, se entenderán que se refieren en lo concerniente al contenido del presente Decreto, a las Secretarías General de Gobierno, de Economía y de Turismo respectivamente.
+
+Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto de la Mujer Oaxaqueña, se entenderán a la Secretaría de la Mujer Oaxaqueña.
+
+Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto Estatal de Ecología y Desarrollo Sustentable, se entenderán a la Secretaría del Medio Ambiente y Desarrollo Sustentable.
+
+SEXTO.- Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias y entidades que por este Decreto se extinguen, cambian de denominación y sector, la transferencia de sus recursos humanos, materiales y financieros, se entenderan subrogadas y contraidas por sus correlativas que se reforman o se crean en su caso.
+
+SÉPTIMO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias o entidades cuyas funciones se reforman en virtud de este Decreto, se entenderán referidas a las dependencias a quienes respectivamente corresponden tales funciones.
+
+OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán (sic) en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+NOVENO.- El Titular del Poder Ejecutivo en un término no mayor de treinta días naturales a partir de la fecha de entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
+
+DÉCIMO.- Los recursos humanos, financieros y materiales deberán reasignarse de acuerdo a la naturaleza de sus atribuciones que la presente reforma mandata, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
+
+Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, para realizar los cambios en las estructuras de los órganos que por este Decreto se creen o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente decreto.
+
+En todos los casos que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias y entidades o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+DÉCIMO PRIMERO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven del presente Decreto, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y órganos descentralizados del poder ejecutivo estatal.
+
+DÉCIMO SEGUNDO.- El presente Decreto deroga todas las disposiciones reglamentarias o administrativas, de igual o menor rango, que se opongan al presente Decreto.
