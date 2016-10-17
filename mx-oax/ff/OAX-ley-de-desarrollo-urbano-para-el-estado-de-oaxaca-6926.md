@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-urbano-para-el-estado-de-oaxaca-6926"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-20"
-last_updated: "2013-04-20"
+last_updated: "2016-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 17 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 20 de febrero de 1993.
 
@@ -1774,3 +1776,21 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 20 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2084.- MEDIANTE EL CUAL APRUEBA LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la LEY DE DESARROLLO URBANO PARA EL ESTADO DE OAXACA, aprobada mediante decreto no. 91 y publicada en el Periódico Oficial del Estado de fecha 20 de febrero de 1993.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO. El Gobernador del Estado, a partir de la entrada en vigor del presente Decreto, promoverá la expedición de su reglamentación en las materias que sean de competencia del Estado.
+
+QUINTO. Los municipios promoverán, a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, en las materias de su competencia.
+
+SEXTO. Los planes o programas de desarrollo urbano decretados a la fecha, se mantendrán vigentes en sus términos y surtirán todos sus efectos legales, hasta en tanto no se abroguen o modifiquen de manera expresa.
+
+SÉPTIMO. La substanciación de los asuntos cuyo trámite se inició bajo la vigencia de la anterior Ley, se sujetará a ésta hasta su resolución.
