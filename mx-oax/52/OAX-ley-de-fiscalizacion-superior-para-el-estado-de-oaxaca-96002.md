@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-para-el-estado-de-oaxaca-96002"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-30"
-last_updated: "2015-02-17"
+last_updated: "2016-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 877 PUBLICADO EN EL P.O. DE 2 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
 
 Ley publicada en el número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de agosto del año 2013.
 
@@ -627,13 +625,19 @@ El Auditor Superior, una vez rendido el Informe de Resultados al Congreso, y con
 
 Las promociones de responsabilidad administrativa sancionatoria, deberá emitirse a más tardar durante los siguientes 90 días hábiles posteriores a la conclusión del plazo de solventación, con la finalidad de evitar la prescripción de las acciones legales correspondientes.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+Las facultades de la Auditoría Superior del Estado para fincar responsabilidades e imponer sanciones, prescribirán en tres años.
+
 En el caso de las promociones de responsabilidades administrativas sancionatorias que se notifiquen a las autoridades competentes, deberán remitirse acompañando copia certificada del expediente que sustente la promoción respectiva.
 
 Las acciones promovidas a que se refiere el párrafo anterior, no serán formuladas o emitidas, cuando las entidades fiscalizables aporten elementos que solventen las observaciones respectivas, situación que se hará del conocimiento de las mismas y del Congreso por escrito.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-Las denuncias penales de hechos presuntamente ilícitos, deberán presentarse por parte de la Auditoría cuando se cuente con los elementos suficientes que establezca la Ley.
+Para proceder penalmente en contra de los funcionarios de elección popular y de los previstos por el artículo 118 de la Constitución Política, que se encuentren en funciones o hayan dejado de fungir como tales, por delitos cometidos con motivo de su encargo, se requerirá querella del Auditor Superior del Estado, previa autorización de la Junta de Coordinación Política.
 
 ### CAPÍTULO IV
 
@@ -1355,7 +1359,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE MARZO DE 2014.
 
@@ -1370,3 +1374,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para efectos del Artículo 27 Bis de la Ley de Fiscalización Superior para el Estado de Oaxaca, la Auditoría Superior del Estado, en su caso, deberá observar lo dispuesto en el mismo a partir de la revisión y fiscalización a los Municipios correspondiente al Ejercicio Fiscal 2014.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones contenidas en la Ley Orgánica Municipal del Estado de Oaxaca y de la Ley de Fiscalización Superior para el Estado de Oaxaca.
+
+P.O. 17 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2050.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
