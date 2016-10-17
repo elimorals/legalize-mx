@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-comisiones-del-instituto-electoral-del-estado-400
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-19"
-last_updated: "2012-12-10"
+last_updated: "2016-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DE COMISIONES DEL INSTITUTO ELECTORAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de marzo de 2001.
 
@@ -451,7 +451,7 @@ Los integrantes de los cuerpos directivo y técnico asistirán cuando sean convo
 
 Las Comisiones podrán formular observaciones o recomendaciones a las Unidades Administrativas o Técnicas del Instituto. También harán llegar a la Junta Ejecutiva, por conducto de su Presidente, propuestas para la elaboración de políticas, planes y programas generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 21.
 
@@ -1020,3 +1020,33 @@ CUARTO.- El Consejo General del Instituto Electoral del Estado faculta al Titula
 QUINTO.- El presente instrumento entrará en vigor a partir de su aprobación por parte del Consejo General.
 
 SEXTO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO, POR LO QUE APRUEBA DIVERSAS MODIFICACIONES AL REGLAMENTO DE COMISIONES DE ESTE ORGANISMO".]</small>
+
+PRIMERO. El Consejo General es competente para conocer y pronunciarse sobre el presente asunto, según se plasmó en los considerandos 1, 2 y 3 del presente Acuerdo.
+
+SEGUNDO. El Consejo General aprueba las modificaciones al Reglamento de Comisiones de este Organismo en los términos aludidos en el numeral 4 de la parte considerativa de este documento.
+
+TERCERO. El presente documento entrará en vigor a partir de su aprobación por parte del Consejo General.
+
+CUARTO. El Consejo General faculta a la Dirección Jurídica para que realice las gestiones necesarias para publicar en la página del Instituto el Reglamento de Comisiones con las modificaciones aprobadas mediante este instrumento, conforme a lo establecido en el considerando 5 de este Acuerdo.
+
+QUINTO. El Consejo General faculta al Consejero Presidente para que comunique a las siguientes instancias el contenido del presente Acuerdo:
+
+a) A la Unidad Técnica de Vinculación con los Organismos Públicos Locales Electorales del Instituto Nacional, para su conocimiento;
+
+b) Al Consejero Presidente de la Comisión del Servicio Profesional Electoral Nacional, del Instituto Nacional, para su conocimiento;
+
+c) Al Director Ejecutivo del Servicio Profesional Electoral Nacional, del Instituto Nacional, Dr. Rafael Martínez Puón, para su conocimiento;
+
+d) Al Vocal ejecutivo de la Junta Local del Instituto Nacional Electoral con sede en esta Entidad Federativa, para su conocimiento, y
+
+e) A los Presidentes de las Comisiones, para su conocimiento y observancia en el ámbito de su competencia.
+
+Asimismo, este Consejo General faculta a la Secretaria Ejecutiva para que notifique el contenido del presente Acuerdo a las y a los Titulares de las Unidas Técnicas y Administrativas para su conocimiento, observancia en el ámbito de su competencia.
+
+Lo anterior según se señaló en el considerando 6 de este documento.
+
+SEXTO. Publíquese este Acuerdo en el Periódico Oficial del Estado, a través del formato aprobado mediante acuerdo CG/AC-004/14, en lo que toca al ANEXO ÚNICO publíquese íntegramente en el citado medio de difusión.
