@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-instituto-estatal-de-ecologia-y-desarrollo-11810"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-22"
-last_updated: "2011-03-03"
+last_updated: "2016-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL INSTITUTO ESTATAL DE ECOLOGIA Y DESARROLLO SUSTENTABLE -ANTES LEY QUE CREA EL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA-
 
-LEY DEL INSTITUTO ESTATAL DE ECOLOGIA Y DESARROLLO SUSTENTABLE
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y CUARTO DEL DECRETO NÚM. 2054 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2016, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, QUEDAN ABROGADOS LOS DECRETOS PUBLICADOS EL 22 DE JUNIO DE 1996 Y 3 DE MARZO DEL 2011. DICHO DECRETO ENTRARÁ EN VIGOR EL PRIMERO DE DICIEMBRE DE DOS MIL DIECISÉIS.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
+LEY DEL INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 22 de junio de 1996.
 
@@ -298,3 +300,39 @@ PRIMERO.- En todas las disposiciones legales, reglamentarias y/o administrativas
 SEGUNDO.- En toda la normatividad vigente en que se aluda al INSTITUTO ESTATAL DE ECOLOGÍA DE OAXACA, se interpretará que se refiere al INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2054.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Se abrogan los Decretos publicados el 23 de diciembre del 2000 y 20 de enero del 2011, en donde se crea y se reforma el Instituto de la Mujer Oaxaqueña, respectivamente.
+
+CUARTO.- Se abrogan los Decretos publicados el 22 de junio de 1996 y 3 de marzo del 2011, en donde se crea el Instituto Estatal de Ecología de Oaxaca y se modifica su denominación a Instituto Estatal de Ecología y Desarrollo Sustentable, respectivamente.
+
+QUINTO.- Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones de las extintas Secretaría del Trabajo y Secretaría de Turismo y Desarrollo Económico, se entenderán que se refieren en lo concerniente al contenido del presente Decreto, a las Secretarías General de Gobierno, de Economía y de Turismo respectivamente.
+
+Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto de la Mujer Oaxaqueña, se entenderán a la Secretaría de la Mujer Oaxaqueña.
+
+Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto Estatal de Ecología y Desarrollo Sustentable, se entenderán a la Secretaría del Medio Ambiente y Desarrollo Sustentable.
+
+SEXTO.- Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias y entidades que por este Decreto se extinguen, cambian de denominación y sector, la transferencia de sus recursos humanos, materiales y financieros, se entenderan subrogadas y contraidas por sus correlativas que se reforman o se crean en su caso.
+
+SÉPTIMO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias o entidades cuyas funciones se reforman en virtud de este Decreto, se entenderán referidas a las dependencias a quienes respectivamente corresponden tales funciones.
+
+OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán (sic) en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+NOVENO.- El Titular del Poder Ejecutivo en un término no mayor de treinta días naturales a partir de la fecha de entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
+
+DÉCIMO.- Los recursos humanos, financieros y materiales deberán reasignarse de acuerdo a la naturaleza de sus atribuciones que la presente reforma mandata, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
+
+Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, para realizar los cambios en las estructuras de los órganos que por este Decreto se creen o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente decreto.
+
+En todos los casos que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias y entidades o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+DÉCIMO PRIMERO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven del presente Decreto, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y órganos descentralizados del poder ejecutivo estatal.
+
+DÉCIMO SEGUNDO.- El presente Decreto deroga todas las disposiciones reglamentarias o administrativas, de igual o menor rango, que se opongan al presente Decreto.
