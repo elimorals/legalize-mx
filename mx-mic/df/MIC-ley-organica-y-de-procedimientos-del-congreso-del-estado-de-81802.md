@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2016-10-03"
+last_updated: "2016-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -2041,7 +2041,9 @@ III. Recursos materiales y generales: que comprende inventario y mantenimiento d
 
 IV. Informática: que comprende apoyo técnico para adquisiciones de bienes informáticos, instalación y mantenimiento del equipo de cómputo, planificación, asesoría y capacitación informática;
 
-V. Seguridad: que comprende la vigilancia y cuidado de los bienes del Poder Legislativo, de su personal, y el control de acceso a la sede del Congreso y demás instalaciones; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
+V. Seguridad y protección civil: que comprende la vigilancia y cuidado de los bienes del Poder Legislativo, de su personal y el control de acceso a la sede del Congreso y demás instalaciones; y,
 
 VI. Servicio médico y de atención a diputados.
 
@@ -3950,5 +3952,13 @@ P.O. 3 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 175.- "SE REFORMA EL ARTÍCULO 43 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 17 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 177 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 111, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
