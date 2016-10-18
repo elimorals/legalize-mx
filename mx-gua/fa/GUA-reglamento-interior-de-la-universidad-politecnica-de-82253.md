@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-politecnica-de-82253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-22"
-last_updated: "2011-07-22"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE PENJAMO, GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE PENJAMO DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE PÉNJAMO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de julio de 2011.
 
@@ -633,29 +633,7 @@ Atribuciones de la Contraloría Interna
 
 ###### Artículo 32.
 
-El Órgano de Vigilancia, además de las facultades conferidas en el Decreto Gubernativo de creación de la Universidad tendrá, las siguientes:
-
-I. Elaborar el Programa Anual de Auditoria y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia le señale la Secretaría de la Gestión Pública;
-
-II. Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la Universidad se apeguen a las disposiciones legales aplicables;
-
-III. Practicar auditorías a las unidades administrativas de la Universidad, con el fin de verificar la eficacia y transparencia en sus operaciones así como el cumplimiento de los programas, objetivos y metas;
-
-IV. Evaluar el ejercicio del presupuesto asignado a la Universidad, para establecer indicadores de eficiencia, efectividad y economía con relación a sus programas metas y objetivos;
-
-V. Efectuar el análisis e interpretación de los estados financieros de la Universidad, para determinar el correcto ejercicio de su presupuesto;
-
-VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la Universidad;
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la Universidad, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios; así como someter a consideración del Titular de la Secretaría de la Gestión Pública, el proyecto de resolución de los mismos;
-
-VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
-
-IX. Fiscalizar los recursos federales ejercidos por la Universidad derivados de los acuerdos o convenios respectivos, en su caso;
-
-X. Informar periódicamente al Consejo Directivo y a la Secretaría de la Gestión Pública del desempeño de sus funciones; y
-
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría de la Gestión Pública.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 2016)
 
 T R A N S I T O R I O S
 
@@ -682,3 +660,11 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L. S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR.”]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
