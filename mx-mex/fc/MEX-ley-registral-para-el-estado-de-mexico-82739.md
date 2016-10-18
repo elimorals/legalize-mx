@@ -4,7 +4,7 @@ identifier: "MEX-ley-registral-para-el-estado-de-mexico-82739"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2016-02-03"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 3 DE FEBRERO DE 2016].
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el jueves 18 de agosto de 2011.
 
@@ -861,6 +859,10 @@ Las anotaciones preventivas a que se refiere el artículo 8.48 del Código caduc
 
 Las anotaciones preventivas que se originen por resoluciones judiciales o administrativas de carácter definitivo, así como las declaraciones de utilidad pública, no caducan.
 
+> <small>(ADICIONADO, G.G. 18 DE OCTUBRE DE 2016)</small>
+
+Las inscripciones y anotaciones se cancelarán cuando exista constancia de que los derechos que se enteraron por la prestación del servicio registral han sido objeto de devolución parcial o total.
+
 ### CAPITULO QUINTO. DE LA PUBLICIDAD Y DE LAS NOTIFICACIONES
 
 ###### Artículo 76.
@@ -1430,3 +1432,13 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 137.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 75 DE LA LEY REGISTRAL PARA EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
