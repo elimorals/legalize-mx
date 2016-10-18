@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-tecnologica-de-leon-21926
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE LEON
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE LEON
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -503,7 +503,9 @@ El órgano de vigilancia de la Universidad tendrá el carácter de Contraloría 
 
 La Contraloría Interna, además de las facultades conferidas en el Decreto, tendrá las siguientes:
 
-I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Contraloría para su aprobación; así como, coordinar la ejecución de sus operaciones con las unidades administrativas de la Universidad que de acuerdo a su competencia le señale la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades administrativas de la Universidad que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
 
 II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la Universidad, se apeguen a las disposiciones legales aplicables;
 
@@ -515,17 +517,25 @@ V.- Efectuar el análisis e interpretación de los estados financieros de la Uni
 
 VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la Universidad;
 
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la Universidad, conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, así como someter a consideración del titular de la Secretaría de la Contraloría, el proyecto de resolución de las mismas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
+VII.- Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos de la Universidad, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría responsable del control interno del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 IX.- Fiscalizar los recursos federales ejercidos por la Universidad derivados de los acuerdos o convenios respectivos, en su caso;
 
 X.- Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones a la gestión de la Universidad, para asegurar su cumplimiento;
 
-XI.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Contraloría del desarrollo de sus funciones; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría de la Contraloría.
+XI.- Informar periódicamente al Consejo Directivo y a la Secretaría responsable del control interno del Ejecutivo del desarrollo de sus funciones; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
 
 ### CAPÍTULO OCTAVO. DE LAS SUPLENCIAS
 
@@ -574,3 +584,11 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
