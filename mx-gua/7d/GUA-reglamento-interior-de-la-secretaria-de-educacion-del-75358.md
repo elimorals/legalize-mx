@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-educacion-del-75358"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-18"
-last_updated: "2010-06-18"
+last_updated: "2016-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL P.O. DE 18 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de junio de 2010.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II, III Y XXIV Y 79 de la Constitución Política para el Estado de Guanajuato y en observancia a lo dispuesto por los artículos 6o., 9o. Y 25 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -975,7 +979,7 @@ V. Vigilar el cumplimiento de la normatividad y proponer las adecuaciones pertin
 
 VI. Coordinar el uso del sistema de control escolar de la SEG y proponer innovaciones y mejoras;
 
-VII. Proponer a su superior jerárquico las disposiciones normativas de operación relativos a procesos de control escolar para todos los niveles educativos;
+VII. Proponer a su superior jerárquico las disposiciones normativas de operación relativos (sic) a procesos de control escolar para todos los niveles educativos;
 
 VIII. Autenticar los certificados y títulos profesionales y demás documentación relativa a los procesos de servicio escolar;
 
@@ -1197,7 +1201,7 @@ La Dirección de Planeación tendrá las siguientes atribuciones:
 
 I. Coordinar el desarrollo de acciones de planeación interinstitucional que promuevan la investigación científica y el desarrollo tecnológico;
 
-II. Impulsar un sistema de planeación estratégica, táctica y operativa en colaboración con las instituciones educativas oficiales y privadas de educación media superior y superior de acuerdo con la políticas educativas estatal y nacional;
+II. Impulsar un sistema de planeación estratégica, táctica y operativa en colaboración con las instituciones educativas oficiales y privadas de educación media superior y superior de acuerdo con la (sic) políticas educativas estatal y nacional;
 
 III. Proponer y orientar la creación, modificación, ubicación y modalidades de la nueva oferta educativa de los tipos media superior y superior;
 
@@ -2548,3 +2552,49 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L.S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Educación, expedido a través del Decreto Gubernativo número 140, publicado en el Periódico Oficial del Gobierno del Estado número 97, Segunda Parte, de fecha 18 de junio de 2010.
+
+Proceso de desconcentración
+
+Artículo Tercero. La Subsecretaría de Recursos Humanos y Servicio Profesional Docente, determinará la participación de las Delegaciones Regionales en los procesos de contratación del personal docente y directivo, atendiendo la desconcentración y automatización de este proceso de manera gradual.
+
+Asimismo, las atribuciones que las Delegaciones Regionales ejerzan en términos del párrafo anterior serán sin perjuicio de su ejercicio directo por la Subsecretaría de Recursos Humanos y Servicio Profesional Docente.
+
+Plazo para adecuación de estructuras
+
+Artículo Cuarto. Para la realización de los diversos procesos administrativos que sean necesarios en la adecuación de las estructuras administrativas conforme al presente reglamento, se contará con un plazo de noventa días.
+
+Entrega recepción
+
+Artículo Quinto. Las unidades administrativas de la Secretaría que se crean o cambian de denominación en términos de este Reglamento deben realizar su entrega-recepción de conformidad con las disposiciones normativas y considerando lo señalado en el artículo anterior.
+
+Asuntos en trámite
+
+Artículo Sexto. Los asuntos que se encuentren en trámite serán resueltos hasta su conclusión en los términos del presente Reglamento y demás normativa.
+
+Adecuaciones presupuestales
+
+Artículo Séptimo. La Secretaría deberá realizar las operaciones presupuestales y administrativas que se requieran, en congruencia con la estructura orgánica que se deriva de este Reglamento.
+
+Procesos de la Dirección de Nómina
+
+Artículo Octavo. Los procesos que se transferirán a la Dirección de Nómina, se efectuarán de manera gradual hasta tener las condiciones técnicas y administrativas necesarias. Los asuntos que se encuentran en trámite a cargo de las direcciones que han de transferir procesos a la Dirección de Nómina, continuarán atendiéndose por estas últimas.
+
+La Dirección General de Sistemas y Tecnologías de Información deberá garantizar la adecuación e implementación de los sistemas que permitan el procesamiento de la nómina del personal de la Secretaría, mientras finaliza la transferencia de procesos a la Dirección de Nómina.
+
+Seguimiento y atención de convenios, contratos e instrumentos normativos
+
+Artículo Noveno. Cuando en los convenios, contratos, instrumentos normativos o de otra índole se haga referencia a cualquiera de las unidades administrativas que ya no subsisten con la entrada en vigor del presente Reglamento, se entenderá que su seguimiento y atención de aquellos corresponde a la unidad administrativa que asuma sus funciones.
