@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-becas-y-estimulos-61547"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-09"
-last_updated: "2008-06-09"
+last_updated: "2016-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE BECAS Y ESTIMULOS EDUCATIVOS DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE BECAS Y ESTIMULOS EDUCATIVOS DEL ESTADO DE SONORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 18 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 9 de junio de 2008.
 
@@ -287,7 +289,7 @@ X. Las demás que les confieran las distintas disposiciones legales y reglamenta
 
 Corresponde a la Dirección de Operación, las siguientes atribuciones:
 
-l. Coordinarse con los responsables de la elaboración de las convocatorias para los distintos otorgamientos de becas y estímulos educativos que marca la Ley que Regula el otorgamiento de Becas y Estímulos Educativos del Estado de Sonora;
+I. Coordinarse con los responsables de la elaboración de las convocatorias para los distintos otorgamientos de becas y estímulos educativos que marca la Ley que Regula el otorgamiento de Becas y Estímulos Educativos del Estado de Sonora;
 
 II. Solicitar información a las dependencias y entidades estatales que tramiten, otorguen, modifiquen o cancelen becas y/o estímulos educativos, de la cantidad de alumnos favorecidos con algún tipo de estimulo;
 
@@ -526,3 +528,21 @@ Nivel Plazas Nivel Plazas Nivel Plazas
 9 3 22 1
 
 8 2
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior Publicado en el Boletín Oficial numero 46 de fecha 9 de junio de 2008 y demás disposiciones reglamentarias que se opongan al presente Reglamento;
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior. El Director General del instituto de Becas y Estimulos Educativos del Estado de Sonora queda facultado para resolver las cuestiones que se presenten en relación con dichos manuales, en tanto éstos se expidan.
