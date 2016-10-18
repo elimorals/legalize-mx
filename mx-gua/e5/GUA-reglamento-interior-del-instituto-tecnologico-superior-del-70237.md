@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-tecnologico-superior-del-7023
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-11"
-last_updated: "2009-09-11"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DEL SUR DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DEL SUR DE GUANAJUATO
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DEL SUR DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2009.
 
@@ -657,39 +657,51 @@ El órgano de vigilancia tendrá el carácter de Contraloría Interna, la cual e
 
 Dependencia de la Contraloría Interna
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 37.
 
-La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Gestión Pública y presupuestalmente del ITSUR.
+La Controlaría Interna dependerá orgánica y funcionalmente de la Secretaría responsable del control interno del Ejecutivo y presupuestalmente del ITSUR.
 
-La Contraloría Interna estará integrada por un titular designado por la Secretaría de la Gestión Pública y por el personal que permita el presupuesto del ITSUR.
+La Contraloría Interna estará integrada por un titular designado por la Secretaría responsable del control interno del Ejecutivo y por el personal que permita el presupuesto del ITSUR.
 
 Facultades de la Contraloría Interna
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-La Contraloría Interna, además de las facultades conferidas en el artículo 56 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, tendrá las siguientes:
+La Controlaría Interna, además de las facultades conferidas en la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y el Decreto de Reestructuración del ITSUR, tendrá las siguientes:
 
-I. Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia, le señale la Secretaría de la Gestión Pública;
+I. Vigilar la correcta aplicación del presupuesto de egresos del ITSUR;
 
-II. Vigilar que las unidades administrativas del ITSUR se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
+II. Verificar que se cuente con el registro e inventario actualizado de los bienes muebles e inmuebles del ITSUR;
 
-III. Practicar auditorías a las unidades administrativas del ITSUR, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
+III. Participar en los procesos de entrega-recepción internos del ITSUR, de conformidad con los ordenamientos jurídicos aplicables;
 
-IV. Evaluar el ejercicio del presupuesto asignado, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas, metas y objetivos;
+IV. Verificar e interpretar los estados financieros del ITSUR, para determinar el correcto ejercicio de su presupuesto;
 
-V. Efectuar el análisis e interpretación de los estados financieros del ITSUR, para determinar el correcto ejercicio de su presupuesto;
+V. Elaborar el programa anual de auditoría y remitirlo al titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación y hacerlo del conocimiento del Director General; así como coordinar la ejecución de sus operaciones con las unidades administrativas que, de acuerdo a su competencia, le señale la Secretaría responsable del control interno del Ejecutivo;
 
-VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el ITSUR;
+VI. Vigilar que en el desarrollo de sus funciones, las unidades administrativas del ITSUR se apeguen a las disposiciones legales;
 
-VII. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del ITSUR, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, así como someter a consideración del Titular de la Secretaría de la Gestión Pública, el proyecto de resolución de las mismas;
+VII. Practicar auditorias a las unidades administrativas del ITSUR, con el fin de verificar la eficacia y transparencia en sus operaciones así como el cumplimiento de los programas, objetivos y metas;
 
-VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado;
+VIII. Evaluar el ejercicio del presupuesto asignado al ITSUR, para establecer indicadores de eficiencia, efectividad y economía en relación con sus programas, metas y objetivos;
 
-IX. Fiscalizar, en su caso, los recursos federales ejercidos por el ITSUR derivados de los acuerdos o convenios respectivos;
+IX. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad en los servicios que preste el ITSUR;
 
-X. Informar periódicamente al Consejo Directivo y a la Secretaría de la Gestión Pública del desarrollo de sus funciones; y
+X. Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos del ITSUR, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría responsable del control interno del Ejecutivo;
 
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría de la Gestión Pública.
+XI. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
+
+XII. Fiscalizar la aplicación de los recursos ejercidos por el ITSUR, provenientes de fuentes diversas del Presupuesto General de Egresos estatal, derivados de los acuerdos o convenios respectivos, en su caso;
+
+XIII. Informar periódicamente al Consejo Directivo y a la Secretaría responsable del control interno del Ejecutivo, del desarrollo de sus funciones;
+
+XIV. Observar los lineamientos que emita la Secretaría responsable del control interno del Ejecutivo; y
+
+XV. Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como las señaladas por el Consejo Directivo.
 
 ### Capítulo V. Órganos Colegiados Consultivos y de Apoyo
 
@@ -900,3 +912,11 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L.S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
