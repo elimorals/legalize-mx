@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2016-07-14"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -963,7 +963,9 @@ XXII.- Nombrar al Gobernador interino, provisional o substituto en los casos que
 
 XXIII.- Conceder licencias temporales al Gobernador para separarse de su encargo y para ausentarse de la entidad por más de quince días;
 
-XXIV.- Recibir el informe escrito del Gobernador del Estado durante la segunda quincena de septiembre de cada año. Cuando el Congreso y el titular del Ejecutivo así lo acuerden, éste comparecerá ante el Pleno de la Legislatura, a fin de que sus miembros le formulen observaciones y cuestionamientos sobre el estado que guarda la administración pública;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XXIV. Recibir el informe escrito del Gobernador del Estado durante la segunda quincena de septiembre de cada año; excepto el último año del ejercicio legal del Gobernador del Estado, que lo recibirá durante la primera quincena del mes de agosto del año que se trate. Cuando el Congreso y el titular del Ejecutivo así lo acuerden, éste comparecerá ante el Pleno de la Legislatura, a fin de que sus miembros le formulen observaciones y cuestionamientos sobre el estado que guarda la administración pública;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
 
@@ -1047,7 +1049,7 @@ El Congreso del Estado, a través de su Presidente, rendirá a la ciudadanía un
 
 ###### ARTÍCULO 59.
 
-Durante los recesos del Congreso habrá una Diputación Permanente, que aquél nombrará antes de la clausura de sus sesiones ordinarias. La misma será presidida por el Presidente de la Directiva del Congreso, y se compondrá además con cuatro diputados propietarios que conforme al orden de su elección, ocuparán los cargos de Vicepresidente, Secretario, primer y segundo vocales; y dos suplentes, quienes actuarán en ausencia de los propietarios en el orden de (sic) que fueran electos.
+Durante los recesos del Congreso habrá una Diputación Permanente, que aquél nombrará antes de la clausura de sus sesiones ordinarias. La misma será presidida por el Presidente de la Directiva del Congreso, y se compondrá además con cuatro diputados propietarios que conforme al orden de su elección, ocuparán los cargos de Vicepresidente, Secretario, primer y segundo vocales; y dos suplentes, quienes actuarán en ausencia de los propietarios en el orden de que fueran electos.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1283,7 +1285,9 @@ III.- Expedir los reglamentos necesarios para la ejecución y cumplimiento de la
 
 IV.- Concurrir a la apertura y clausura de los períodos ordinarios y extraordinarios de sesiones del Congreso del Estado o, en su caso, nombrar a un representante;
 
-V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septiembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública y comparecer posteriormente, cuando así lo acuerde con el Poder Legislativo, a fin de responder a las observaciones que los Diputados le presenten sobre el particular;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septiembre de cada año; excepto el último año del ejercicio legal, durante la primera quincena del mes de agosto del año que se trate, un informe por escrito en el que manifieste el estado que guarda la administración pública y, comparecer posteriormente, cuando así lo acuerde con el Poder Legislativo, a fin de responder a las observaciones que los diputados le presenten sobre el particular;
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
 
@@ -1291,7 +1295,7 @@ VI.- Rendir ante el Congreso del Estado, en forma trimestral y por escrito, a m�
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-VII. Presentar al Congreso del Estado, a más tardar el día veinte de noviembre de cada año, las correspondientes iniciativas de, Ley de Ingresos; y del Presupuesto de Egresos, para el siguiente año el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los poderes, Ejecutivo, Legislativo, y Judicial, así como de los organismos constitucionalmente autónomos;
+VII.- Presentar al Congreso del Estado, a más tardar el día veinte de noviembre de cada año, las correspondientes iniciativas de, Ley de Ingresos; y del Presupuesto de Egresos, para el siguiente año el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los poderes, Ejecutivo, Legislativo, y Judicial, así como de los organismos constitucionalmente autónomos;
 
 VIII.- Concurrir al Congreso, cuando éste se lo solicite, a informar sobre alguna iniciativa o a responder a las observaciones que los Diputados le presenten sobre actos de gobierno u otros asuntos de su competencia; o autorizar, en su caso, a algún funcionario del mismo para dichos efectos;
 
@@ -1307,7 +1311,7 @@ XII.- Designar, con la ratificación de cuando menos la mayoría de los integran
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-XIII. Proponer al Congreso, a los candidatos a ocupar los cargos de magistrados del Supremo Tribunal de Justicia; del Tribunal Estatal de Justicia Administrativa; y designar a un integrante del Consejo de la Judicatura del Estado, de conformidad con la presente Constitución;
+XIII.- Proponer al Congreso, a los candidatos a ocupar los cargos de magistrados del Supremo Tribunal de Justicia; del Tribunal Estatal de Justicia Administrativa; y designar a un integrante del Consejo de la Judicatura del Estado, de conformidad con la presente Constitución;
 
 XIV.- Prestar apoyo a los Poderes Legislativo y Judicial y a los Ayuntamientos, cuando le sea solicitado por los mismos para el mejor ejercicio de sus funciones;
 
@@ -3182,3 +3186,11 @@ P.O. 14 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0237.- SE REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XV, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
 
 ÚNICO. Este Decreto Legislativo entrará en vigor en la misma fecha en que lo haga la ley reglamentaria a que se refiere el Transitorio Segundo de la reforma Constitucional Federal, de fecha 26 de mayo de 2015.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0406.- SE REFORMAN LOS ARTÍCULOS, 57 Y 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE ADICIONA PÁRRAFO TERCERO AL ARTÍCULO 41, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
