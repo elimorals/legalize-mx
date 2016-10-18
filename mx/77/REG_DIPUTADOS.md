@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2016-05-13"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -202,9 +202,17 @@ XVI. Solicitar licencia al ejercicio de su cargo;
 
 XVII. Ser elegida o elegido para participar en los Grupos de Amistad, reuniones interparlamentarias, organismos internacionales parlamentarios, foros, reuniones y ceremonias;
 
-XVIII. Obtener apoyo institucional para mantener un vínculo con sus representados, y
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2016)</small>
 
-XIX. Las demás previstas en este Reglamento.
+XVIII. Obtener apoyo institucional para mantener un vínculo con sus representados;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2016)</small>
+
+XIX. Ejercer sus derechos lingüísticos, quienes pertenezcan a una comunidad indígena, participando en tribuna y demás espacios legislativos en su lengua materna, facilitándoles la traducción simultánea, así como los servicios de interpretación u otros medios adecuados.
+
+Para hacer uso de esta prerrogativa, la diputada o el diputado lo harán saber previamente por escrito y con al menos cuarenta y ocho horas antes a la Mesa Directiva, con la finalidad de que se ordene habilitar a un intérprete que traduzca la exposición del legislador de que se trate, y
+
+XX. Las demás previstas en este Reglamento.
 
 #### Sección Segunda. Prerrogativas de Diputados y Diputadas
 
@@ -3875,3 +3883,11 @@ D.O.F. 13 DE MAYO DE 2016.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, emitirá en los sesenta días siguientes a la aprobación del presente Decreto, el Reglamento que regula la entrega de esta condecoración.
+
+D.O.F. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIX, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL, AL ARTÍCULO 6 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE DERECHOS LINGÜÍSTICOS DE LAS DIPUTADAS Y LOS DIPUTADOS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Una vez aprobado el presente Decreto la Cámara de Diputados tendrá sesenta días para integrar un grupo de traductores e intérpretes indígenas para garantizar el derecho lingüístico de las diputadas y los diputados.
