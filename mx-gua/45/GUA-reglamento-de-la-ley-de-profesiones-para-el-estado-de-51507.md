@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-profesiones-para-el-estado-de-51507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-22"
-last_updated: "2011-12-09"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de agosto de 2006.
 
@@ -895,9 +895,11 @@ VI.- Una vez agotados los puntos de la orden del día, se dará por terminada la
 
 El quórum legal de asistencia se constituye por mayoría simple del total de presidentes de los colegios estatales por profesión o sus suplentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 87.
 
-En las sesiones del Consejo de Profesionistas deberán para su validez estar siempre presentes el presidente, el Secretario de Educación del Estado y el Rector de la Universidad de Guanajuato o sus respectivos suplentes.
+En las sesiones del Consejo de Profesionistas deberán para su validez estar siempre presentes el presidente, el Secretario de Educación de Guanajuato, el Secretario de Innovación, Ciencia y Educación Superior y el Rector de la Universidad de Guanajuato o sus respectivos suplentes.
 
 El secretario técnico estará presente en todas las sesiones del Consejo de Profesionistas. Ante la imposibilidad de asistir a las sesiones, el secretario técnico notificará dicha circunstancia al presidente del Consejo de Profesionistas para que se convoque a su suplente; en este caso el presidente pondrá de manifiesto dicha representación ante el Pleno del Consejo de Profesionistas.
 
@@ -1396,3 +1398,9 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuart
 Artículo Segundo. Los colegios de profesionistas registrados con posterioridad a la entrada en vigencia de la Ley y hasta antes de la entrada en vigencia de las presentes reformas, contarán con la representatividad prevista por la referida Ley.
 
 Artículo Tercero. La referencia que el artículo 4 de la Ley de Profesiones para el Estado de Guanajuato hace para la profesión de Homeopatía, se entenderá hecha a la profesión de Médico homeópata, de conformidad con lo previsto en el presente Reglamento.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
