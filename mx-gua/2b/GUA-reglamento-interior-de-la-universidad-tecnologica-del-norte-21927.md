@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-tecnologica-del-norte-219
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2016-03-15"
+last_updated: "2016-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO
-
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2016 (ABROGADO).
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -33,7 +33,9 @@ AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
 Juan Carlos Romero Hicks, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III y 79 de la Constitución Política del Estado de Guanajuato; y en observancia de lo dispuesto por los artículos 2o, 3o, 9o Y 38 de la Ley Orgánica del Poder Ejecutivo para el Estado, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -319,7 +321,9 @@ El órgano de vigilancia de la Universidad tendrá el carácter de Contraloría 
 
 La Contraloría Interna, además de las facultades conferidas en el Decreto de Reestructuración de la Universidad, tendrá las siguientes:
 
-I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Contraloría para su aprobación; así como, coordinar la ejecución de sus operaciones con las unidades administrativas de la Universidad que de acuerdo a su competencia le señale la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+I.- Elaborar el programa anual de auditoría y remitirlo al titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación; así como, coordinar la ejecución de sus operaciones con las unidades administrativas de la Universidad que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
 
 II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la Universidad se apeguen a las disposiciones legales aplicables;
 
@@ -331,17 +335,25 @@ V.- Efectuar el análisis e interpretación de los estados financieros de la Uni
 
 VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la Universidad;
 
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la Universidad, conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato; así como someter a consideración del Titular de la Secretaría de la Contraloría el proyecto de resolución de las mismas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
+VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la Universidad, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato; así como someter a consideración del titular de la Secretaría responsable del control interno del Ejecutivo, el proyecto de resolución de las mismas;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 IX.- Fiscalizar los recursos federales ejercidos por la Universidad, derivados de los acuerdos o conveníos respectivos, en su caso;
 
-X.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Contraloría del desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+X.- Informar periódicamente al Consejo Directivo y a la Secretaría responsable del control interno del Ejecutivo;
 
 XI.- Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones a la gestión de la Universidad para asegurar su cumplimiento; y
 
-XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le con fiera el Titular de la Secretaría de la Contraloría del Estado.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el titular de la Secretaría responsable del control interno del Ejecutivo.
 
 ## TÍTULO TERCERO. ÓRGANOS COLEGIADOS
 
@@ -586,3 +598,9 @@ Artículo Quinto. Quienes sean actualmente titulares de las Secretarías, de las
 Estructura y tabuladores conforme a Convenios con la Coordinación General de Universidades Tecnológicas y Politécnicas
 
 Artículo Sexto. La estructura y tabuladores que regirán en la Universidad serán los autorizados por la Coordinación General de Universidades Tecnológicas y Politécnicas y no deben rebasar el techo presupuestal autorizado por la federación. Si fueran superiores serán cubiertos con recurso diferente a lo pactado en el Convenio de Apoyo financiero; lo anterior de conformidad con el Convenio de Coordinación para la Creación, Operación y Apoyo Financiero de la Universidad.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
