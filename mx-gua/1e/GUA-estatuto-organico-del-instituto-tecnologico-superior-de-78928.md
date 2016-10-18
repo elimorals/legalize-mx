@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-del-instituto-tecnologico-superior-de-78928"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-12-17"
-last_updated: "2015-01-20"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO TECNOLÓGICO SUPERIOR DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Estatuto publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de diciembre de 2010.
 
@@ -499,9 +499,9 @@ Facultades de la Contraloría Interna
 
 La Contraloría Interna, además de las facultades conferidas en el artículo 24 del Decreto de creación, tendrá las siguientes:
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-I. Elaborar el programa anual de auditoría y remitirlo al titular de la Secretaría de la Transparencia y Rendición de Cuentas para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia, le señala ésta;
+I. Elaborar el programa anual de la auditoría y remitirlo al Titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia, le señale ésta.
 
 II. Vigilar que las unidades administrativas del Instituto se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
 
@@ -513,21 +513,23 @@ V. Efectuar el análisis e interpretación de los estados financieros del Instit
 
 VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el Instituto;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-VII. Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos del Instituto, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría de la Transparencia y Rendición de Cuentas;
+VII. Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos del Instituto, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios; así como someter a consideración del Titular de la Secretaría responsable del control interno del Ejecutivo, el proyecto de resolución de las mismas;
 
-VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 IX. Fiscalizar, en su caso, los recursos federales ejercidos por el Instituto, derivados de los acuerdos o convenios respectivos;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-X. Informar periódicamente a la Junta Directiva y a la Secretaría de la Transparencia y Rendición de Cuentas o a la que realice funciones de contraloría y supervisión a los organismos o entes públicos, del desarrollo de sus funciones; y
+X. Informar periódicamente al Consejo Directivo y o la Secretaría responsable del control interno del Ejecutivo, del desarrollo de sus funciones; y
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el titular de la Secretaría de la Transparencia y Rendición de Cuentas o la que realice funciones de contraloría y supervisión a los organismos o entes públicos.
+XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
 
 ### Capítulo V. Órganos Colegiados
 
@@ -868,3 +870,9 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día 
 Conformación del Consejo de Vinculación
 
 Artículo Segundo. La Junta Directiva contará con un plazo de 60 días hábiles, contados a partir de que entre en vigencia el presente Decreto Gubernativo, para aprobar la conformación del Consejo de Vinculación.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
