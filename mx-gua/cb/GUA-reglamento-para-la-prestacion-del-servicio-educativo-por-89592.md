@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prestacion-del-servicio-educativo-por-89592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2016-04-22"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -265,7 +265,9 @@ El proyecto pedagógico será previamente validado por:
 
 I. La Dirección General de Educación Básica: tratándose de estudios del tipo básico o reconocimiento de validez oficial de estudios para educación inicial y especial;
 
-II. La unidad administrativa competente de la Subsecretaría de Educación Media Superior y Superior: tratándose de reconocimiento de validez oficial de estudios para educación media superior y superior o autorización para instituciones formadoras de docentes; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+II. La unidad administrativa competente de la Secretaría de Educación de Guanajuato: tratándose de reconocimiento de validez oficial de estudios para educación media superior y superior o la autorización para instituciones formadoras de docentes, en estos dos últimos casos, deberá contarse con la validación previa de la Secretaría de Innovación, Ciencia y Educación Superior; y
 
 III. La unidad administrativa competente de la Secretaría de Desarrollo Económico Sustentable: tratándose de educación de formación para el trabajo.
 
@@ -371,7 +373,9 @@ I. Análisis de la documentación e información que acredite el cumplimiento de
 
 a) Dictamen de infraestructura física educativa;
 
-b) Proyecto pedagógico validado por parte de la unidad administrativa competente de la Secretaría; y
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+b) Proyecto pedagógico validado por parte de la Unidad Administrativa competente;
 
 c) Demás requisitos previstos en la Ley, en el Reglamento y demás disposiciones normativas.
 
@@ -789,7 +793,9 @@ III. Presentar constancia de que el nombre y emblema no se encuentran registrado
 
 No serán aprobados nombres ya asignados a instituciones educativas oficiales o particulares localizadas dentro del municipio en que imparte educación.
 
-Para aprobar cualquier nombre que contenga la palabra <<Universidad>>, la DGPSEI se apoyará en la opinión que para tal efecto emita la Subsecretaría de Educación Media Superior y Superior, la cual podrá considerar que el solicitante cuente con un mínimo de cinco programas de licenciatura en tres áreas diferentes del conocimiento, así como con programas y proyectos de extensión, difusión cultural e investigación.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+Para aprobar cualquier nombre que contenga la palabra <<Universidad>>, la DGPSEI se apoyará en la opinión que para tal efecto emita la Secretaría de Innovación, Ciencia y Educación Superior, la cual podrá considerar que el solicitante cuente con un mínimo de cinco programas de licenciatura en tres áreas diferentes del conocimiento, así como con programas y proyectos de extensión, difusión cultural e investigación.
 
 El emblema deberá tener relación directa con los nombres presentados.
 
@@ -817,7 +823,9 @@ Cambio de planes y programas, cambio o apertura de turno, o modalidad
 
 Los particulares que pretendan realizar cambios de sus planes y programas de estudio, cambio o apertura de turno, o modalidad, deberán acompañar a su solicitud los siguientes documentos:
 
-I. La validación técnica-pedagógica emitida por la unidad administrativa competente de la Secretaría, con los documentos que sirvieron de soporte para la emisión de la referida validación; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+I. La validación técnica pedagógica emitida por la unidad administrativa competente, con los documentos que sirvieron de soporte para la emisión de la referida validación; y
 
 II. La plantilla del personal docente.
 
@@ -1296,5 +1304,11 @@ P.O. 22 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 151, MEDIANTE EL CUAL, SE ADICIONA EL ARTÍCULO 15, FRACCIÓN II, INCISO B), CON UN SEGUNDO PÁRRAFO DEL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO”.]
 
 Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
