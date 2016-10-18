@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-tecnologica-del-norte-11384
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-15"
-last_updated: "2016-03-15"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Estatuto publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de marzo de 2016.
 
@@ -1307,11 +1307,15 @@ La Universidad contará con Jefaturas y Coordinaciones para sus operaciones espe
 
 Atribuciones de la Contraloría Interna
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 77.
 
-Además de lo relativo a la inspección y vigilancia de la operación de la Universidad establecido en el Decreto 241, quien sea titular del órgano de vigilancia o controlaría interna le corresponden las atribuciones siguientes:
+A quien sea titular de la contraloría interna le corresponden las atribuciones siguientes:
 
-I. Elaborar, en coordinación con la Rectoría y las áreas directivas, la propuesta del Programa Anual de Auditorías y remitirla a la dependencia estatal de inspección y vigilancia de la Administración Pública, para su aprobación;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+I. Elaborar, en coordinación con la Rectoría y las áreas directivas, la propuesta del Programa Anual de Auditorías y remitirla a la Secretaría responsable del control interno del Ejecutivo, para su aprobación;
 
 II. Vigilar que en el desarrollo de sus funciones quienes sean titulares de las unidades administrativas se apeguen a las disposiciones legales aplicables, para lo cual capacitará y orientará preventivamente;
 
@@ -1333,9 +1337,13 @@ X. Verificar que se cuente con el registro e inventario actualizado de los biene
 
 XI. Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones o la gestión universitaria, para asegurar su cumplimiento;
 
-XII. Informar periódicamente al Consejo y a la dependencia estatal responsable de la inspección y vigilancia, sobre el desempeño de sus funciones; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera quien sea titular de la dependencia estatal.
+XII. Informar periódicamente al Consejo y a la Secretaría responsable del control interno del Ejecutivo sobre el desempeño de sus funciones; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera quien sea titular de la Secretaría responsable del control interno del Ejecutivo.
 
 ### Capítulo XVI. Órganos Colegiados y Consultivos
 
@@ -1560,3 +1568,11 @@ ANTONIO SALVADOR GARCÍA LÓPEZ
 EL SECRETARIO DE EDUCACIÓN
 
 EUSEBIO VEGA PÉREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
