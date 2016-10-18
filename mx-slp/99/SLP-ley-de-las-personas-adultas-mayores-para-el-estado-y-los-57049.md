@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2016-09-17"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -805,9 +805,11 @@ Para dar cumplimiento a lo dispuesto en el párrafo anterior, las instituciones,
 
 ### CAPITULO X. Condiciones Urbanísticas que Permitan el Libre Desplazamiento y Vivienda Adaptable y Accesible
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 34.
 
-Con el objeto de facilitar el desplazamiento de los adultos mayores, la Secretaría de Comunicaciones y Transportes, al otorgar las concesiones para la prestación del servicio público de transporte, establecerá que en cada ruta se destinen las medidas necesarias para la accesibilidad a éstas, debiendo realizarse de acuerdo a los Lineamientos Generales de Accesibilidad.
+Con el objeto de facilitar el desplazamiento de los adultos mayores, la Secretaría de Comunicaciones y Transportes, al otorgar las concesiones para la prestación del servicio público de transporte, establecerá que en cada ruta se tomen las medidas necesarias para la accesibilidad a éstas, así como los asientos a que se refiere expresamente el artículo 44 de la Ley de Transporte Público del Estado, debiendo realizarse de acuerdo a los Lineamientos Generales de Accesibilidad.
 
 ###### ARTICULO 35.
 
@@ -1176,3 +1178,13 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0404.- SE REFORMAN LOS ARTÍCULOS 44 Y 88 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA EL ARTÍCULO 34 DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se concede plazo de seis meses, a partir de la entrada en vigor del presente Decreto; para que los concesionarios de transporte público urbano en las modalidades de, colectivo, colectivo de primera clase, y colectivo masivo, realicen las adecuaciones necesarias a las unidades destinadas a este tipo de servicios de transporte, y cumplan con las medidas de accesibilidad y lineamientos que ahora establece el artículo 44 de la Ley de Transporte Público del Estado.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
