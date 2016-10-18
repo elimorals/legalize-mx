@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2011-10-22"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -181,7 +181,9 @@ III. Determinar las bases de coordinación de las facultades concurrentes entre 
 
 IV. Celebrar convenios con la Federación, y las entidades federativas, para la mejor prestación de los servicios turísticos;
 
-V. Establecer las estrategias y mecanismos para mejorar la oferta turística estatal;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+V. Establecer las estrategias y mecanismos para mejorar la oferta turística estatal, considerando las características de cada zona del Estado para potenciar el atractivo turístico de cada una de ellas;
 
 VI. Fomentar la modernización de la actividad turística en el Estado;
 
@@ -1090,3 +1092,13 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0405.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 6°, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
