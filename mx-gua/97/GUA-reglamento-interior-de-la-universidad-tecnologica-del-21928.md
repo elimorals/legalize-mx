@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-tecnologica-del-21928"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUROESTE DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUROESTE DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL SUROESTE DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio del 2001.
 
@@ -51,9 +51,11 @@ REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL SUROESTE DE GUANAJUATO
 
 El presente Reglamento tiene por objeto regular la organización y funcionamiento de la Universidad Tecnológica del Suroeste de Guanajuato.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2o.
 
-La Universidad Tecnológica del Suroeste de Guanajuato, de conformidad con lo establecido en su Decreto de Reestructuración es un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Educación de Guanajuato.
+La Universidad Tecnológica del Suroeste de Guanajuato, de conformidad con lo establecido en su Decreto de Reestructuración es un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Innovación, Ciencia y Educación Superior.
 
 ###### Artículo 3o.
 
@@ -75,13 +77,17 @@ El Consejo Directivo, tendrá además de las facultades conferidas en su Decreto
 
 I.- Autorizar los programas administrativos y académicos que sean propuestos por el Rector;
 
-II.- Vigilar el cumplimiento de los lineamientos generales que en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control emita la Secretaría de Finanzas y Administración en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+II.- Vigilar el cumplimiento de los lineamientos generales que en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control emita la Secretaría de Finanzas, Inversión y Administración, en el ámbito de su competencia;
 
 III.- Recibir y turnar la renuncia del Rector al Gobernador del Estado, para que en su caso decida la aceptación o negación de la misma;
 
 IV.- Conocer los dictámenes correspondientes de cada ejercicio que emita el Órgano de Vigilancia de la UTSOE, y adoptar, en su caso, las medidas conducentes;
 
-V.- Proporcionar a la representación de la Secretaría de la Contraloría del Estado, en las sesiones del Consejo Directivo, la información que le solicite relacionada con las funciones que desarrolla el Consejo; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+V.- Proporcionar a la representación de la Secretaría responsable del control interno del Ejecutivo, en las sesiones del Consejo Directivo, la información que le solicite relacionada con las funciones que desarrolla el Consejo; y
 
 VI.- Las demás que para el cumplimiento de los fines de la UTSOE establezcan otras disposiciones legales aplicables.
 
@@ -91,7 +97,7 @@ VI.- Las demás que para el cumplimiento de los fines de la UTSOE establezcan ot
 
 Para el estudio, planeación, programación, ejecución y despacho de sus asuntos, la UTSOE contará con la siguiente estructura organizacional:
 
-l.- Rector;
+I.- Rector;
 
 II.- Dirección de División de Carrera;
 
@@ -367,7 +373,9 @@ El órgano de vigilancia de la UTSOE tendrá el carácter de Contraloría Intern
 
 La Contraloría Interna tendrá además de las facultades conferidas en el Decreto de Reestructuración, las siguientes:
 
-I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Contraloría para su aprobación; así como, coordinar la ejecución de sus operaciones con las unidades administrativas de la UTSOE que de acuerdo a su competencia le señale la Secretaría de la Contralaría;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría responsable del control interno de (sic) Ejecutivo para su aprobación; así como, coordinar la ejecución de sus ope´aciones (sic) con las unidades administrativas de la UTSOE que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
 
 II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la UTSOE se apeguen a las disposiciones legales aplicables;
 
@@ -379,17 +387,25 @@ V.- Efectuar el análisis e interpretación de los estados financieros de la UTS
 
 VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la UTSOE;
 
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la UTSOE, conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, así como someter a consideración del titular de la Secretaría de la Contraloría, el proyecto de resolución de las mismas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios, relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
+VII.- Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos de la UTSOE, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría responsable del control interno del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 IX.- Fiscalizar los recursos federales ejercidos por la UTSOE derivados de los acuerdos o convenios respectivos, en su caso;
 
-X.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Contraloría del desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+X.- Informar periódicamente al Consejo Directivo y a la Secretaría responsable del control interno del Ejecutivo del desarrollo de sus funciones;
 
 XI.- Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones a la gestión de la UTSOE para asegurar su cumplimiento; y
 
-XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría de la Contraloría.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
 
 ## TÍTULO QUINTO. SUPLENCIAS
 
@@ -432,3 +448,11 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
