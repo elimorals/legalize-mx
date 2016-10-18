@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2016-06-24"
+last_updated: "2016-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -514,6 +514,10 @@ En la segunda quincena del mes de septiembre de cada año de ejercicio constituc
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2013)</small>
 
 El Informe será analizado por el Congreso del Estado en sesiones temáticas subsecuentes, que habrán de llevarse a cabo en la segunda quincena del mes de octubre de cada año, a las que serán citados los funcionarios competentes del ramo, a fin de que respondan cuestionamientos y disipen dudas de los diputados, de conformidad a lo dispuesto en el Reglamento para el Gobierno Interior del Congreso del Estado; hecho lo cual, el Congreso, y el titular del Ejecutivo, acordarán, en su caso, fecha y formato para que éste comparezca ante el Pleno de la Legislatura, a fin de que sus miembros le formulen observaciones y cuestionamientos sobre el mismo. El servidor público que corresponda rendirá protesta de conducirse con verdad, advirtiéndole de las penas en que incurren aquéllos que lo hacen con falsedad.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+Tratándose del último año del ejercicio legal del Gobernador del Estado, el Congreso recibirá el informe por escrito que éste le presente, durante la primera quincena del mes de agosto del año que se trate. Dicho informe deberá ser analizado en los mismos términos de las sesiones señaladas en el párrafo anterior, las que habrán de llevarse a cabo antes del 13 de septiembre del año en que se trate.
 
 ###### ARTICULO 42.
 
@@ -2352,3 +2356,11 @@ PRIMERO. El Decreto entrará en vigor al día siguiente de su publicación en el
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Inmediatamente después de entrado en vigor el Decreto, quien ocupare el cargo de Coordinador de Grupo Parlamentario, podrá ser ratificado o removido por los diputados integrantes del mismo, en término de lo dispuesto por los ordenamientos que se modifican.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0406.- SE REFORMAN LOS ARTÍCULOS, 57 Y 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE ADICIONA PÁRRAFO TERCERO AL ARTÍCULO 41 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
