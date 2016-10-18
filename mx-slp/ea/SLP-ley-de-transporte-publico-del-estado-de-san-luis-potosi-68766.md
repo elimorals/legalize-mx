@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2016-04-16"
+last_updated: "2016-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -819,11 +819,27 @@ V. Justificación de su solicitud con estudio técnico.
 
 Tratándose de ampliación de ruta o rutas, los interesados deberán cumplir con los requisitos que establecen los artículos 38 y 39 de este Ordenamiento y, en igualdad de circunstancias, tendrán prioridad los titulares de las mismas. La Secretaría, por si, o a través de la Dirección General competente, con acuerdo del titular del Ejecutivo y según corresponda, previo análisis y recomendación del ayuntamiento respectivo, autorizará, en su caso, la ampliación, conforme al estudio técnico que al efecto realice; y propondrá la convocatoria para concurso de concesiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 44.
 
-Para el acceso de las personas con discapacidad al transporte público colectivo, se adoptarán las medidas necesarias de adecuación consistentes en rampas, elevadores y mecanismos especiales, las que deberán cumplir con las disposiciones reglamentarias que para tal efecto emita el titular del Ejecutivo.
+Para asegurar el acceso de las personas con discapacidad al transporte público urbano en las modalidades de colectivo, colectivo de primera clase, y colectivo masivo; así como los sitios, terminales, bahías, centros de transferencia y vehículos, contarán, entre otras medidas de accesibilidad, con rampas, elevadores, espacios, áreas, asientos y demás mecanismos especiales de uso preferencial de las personas con discapacidad, que coadyuven a su plena inclusión a la sociedad, las que deberán cumplir con las normas reglamentarias y técnicas que para tal efecto emita el titular del Ejecutivo y demás disposiciones legales que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+Las unidades de transporte público colectivo en su interior, deberán contar, al menos, con un área libre y respectivo sistema de seguridad, para una persona usuaria de silla de ruedas.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+Igualmente, los vehículos en su interior destinarán cuatro asientos para uso exclusivo de personas con discapacidad, que serán de uso exclusivo, sin perjuicio de los asientos que se destinen a otras personas que presenten movilidad limitada, los que deberán estar identificados y señalizados conforme al reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+Adicionalmente, se destinará un diez por ciento más de asientos para personas adultas mayores, mujeres embarazadas o con menores de edad en brazos y niñas y niños, los que deberán estar identificados y señalizados conforme al reglamento respectivo; dichos asientos serán de uso preferencial a diferencia de los destinados a personas con discapacidad que son de uso exclusivo.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+En todo tiempo el operador o la operadora del vehículo, como medida para garantizar a las personas con discapacidad el uso preferente del transporte público, esperarán el tiempo que resulte necesario para que los usuarios con discapacidad y movilidad limitada, asciendan al vehículo y se instalen en su interior, así como para que desciendan del mismo.
 
 El Ejecutivo del Estado al otorgar, refrendar o modificar las concesiones para la prestación del servicio público de transporte colectivo, observará que en cada ruta las unidades correspondientes a la misma, reúnan las especificaciones señaladas en el párrafo anterior.
 
@@ -1553,9 +1569,13 @@ Los usuarios del transporte público deberán:
 
 I. Pagar las tarifas autorizadas, preferentemente, con moneda fraccionaria, o utilizar, en su caso, los sistemas de pago o prepago que establezca la Secretaría;
 
-II. Efectuar el ascenso y descenso de manera ordenada por las puertas destinadas para ello y en los lugares expresamente establecidos para este fin, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-III. Respetar los lugares destinados a los usuarios con capacidades diferentes.
+II. Efectuar el ascenso y descenso de manera ordenada por las puertas destinadas para ello y en los lugares expresamente establecidos para este fin, salvo las personas enunciadas en el artículo 44 de esta Ley, quienes podrán ascender y descender del vehículo por la puerta más próxima, y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+III. Respetar los lugares destinados a las personas enunciadas en el artículo 44 de esta Ley.
 
 ###### ARTICULO 89.
 
@@ -2480,3 +2500,13 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. A la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes tendrá ciento veinte días para realizar las adecuaciones al reglamento respectivo.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0404.- SE REFORMAN LOS ARTÍCULOS 44 Y 88 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA EL ARTÍCULO 34 DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se concede plazo de seis meses, a partir de la entrada en vigor del presente Decreto; para que los concesionarios de transporte público urbano en las modalidades de colectivo, colectivo de primera clase, y colectivo masivo, realicen las adecuaciones necesarias a las unidades destinadas a este tipo de servicios de transporte, y cumplan con las medidas de accesibilidad y lineamientos que ahora establece el artículo 44 de la Ley de Transporte Público del Estado.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
