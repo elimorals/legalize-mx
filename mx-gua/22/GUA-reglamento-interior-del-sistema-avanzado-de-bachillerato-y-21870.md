@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-sistema-avanzado-de-bachillerato-y-2187
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2016-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA AVANZADO DE BACHILLERATO Y EDUCACION SUPERIOR EN EL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL SISTEMA AVANZADO DE BACHILLERATO Y EDUCACION SUPERIOR EN EL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL SISTEMA AVANZADO DE BACHILLERATO Y EDUCACIÓN SUPERIOR EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -619,7 +619,9 @@ II.- Acordar con el Director General, los asuntos relevantes encargados a la Dir
 
 III.- Proponer al Director General, los manuales, acuerdos y circulares del ámbito de competencia de la Dirección de Administración y Finanzas;
 
-IV.- Establecer las directrices de la Dirección de Administración y Finanzas e implementar los Programas Operativos Anuales para su instrumentación, de conformidad con las políticas, objetivos y prioridades que señalen las Secretarías de Educación, Finanzas y Administración y de la Contraloría, así como del Director General del SABES;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+IV.- Establecer las directrices de la Dirección de Administración y Finanzas e implementar los Programas Operativos Anuales para su instrumentación, de conformidad con las políticas, objetivos y prioridades que señalen las Secretarías de Educación, de Finanzas, Inversión y Administración y de la Secretaría responsable del control interno del Ejecutivo, así como del Director General del SABES;
 
 V.- Proponer al Director General, las normas, políticas y procedimientos respecto a la administración de:
 
@@ -635,7 +637,9 @@ VI.- Someter a consideración del Director General, en coordinación con las dem
 
 VII.- Integrar y presentar anualmente al Director General, los anteproyectos de Presupuesto de Ingresos y Egresos del SABES;
 
-VIII.- Informar a las Secretarías de Educación, de Finanzas y Administración y de la Contraloría, así como al Congreso Estatal, de acuerdo con la legislación vigente y cuando éstos lo soliciten, la situación que guarda el ejercicio del presupuesto del SABES;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+VIII.- Informar a las Secretarías de Educación, de Finanzas, Inversión y Administración y a la Secretaría responsable del control interno del Ejecutivo, así como al Congreso Estatal, de acuerdo con la legislación vigente y cuando éstos lo soliciten, la situación que guarda el ejercicio del presupuesto del SABES;
 
 IX.- Intervenir en los convenios que celebre la Dirección General del SABES, cuando se incluyan asuntos relativos a la competencia de la Dirección de Administración y Finanzas;
 
@@ -645,7 +649,9 @@ XI.- Solicitar a las Instituciones Bancarias, los servicios que requiera el SABE
 
 XII.- Garantizar el ejercicio adecuado del presupuesto propiciando el desarrollo del SABES;
 
-XIII.- Participar en el Subcomité de Adquisiciones, Arrendamientos y Contratación de Servicios y Enajenaciones del SABES;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XIII.- Participar en el Subcomité de Contrataciones Públicas del SABES;
 
 XIV.- Entregar trimestral y anualmente informes sobre el desarrollo de las actividades administrativas al Director General; y
 
@@ -663,7 +669,9 @@ III.- Integrar el Programa Anual de Adquisiciones del SABES y vigilar su ejecuci
 
 IV.- Suscribir las compras y contratar los servicios que se requieran en el SABES, y vigilar su ejecución;
 
-V.- Llevar a cabo las adquisiciones, observando las normas, políticas y procedimientos establecidos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato y en el Manual de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del SABES;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+V.- Llevar a cabo las adquisiciones, observando las normas, políticas y procedimientos establecidos en la Ley de Contrataciones Públicas para el Estado de Guanajuato y en la demás normatividad del SABES aplicable;
 
 VI.- Establecer y controlar el inventario de los bienes muebles e inmuebles del SABES, así como conservarlo y mantenerlo;
 
@@ -671,7 +679,9 @@ VII.- Proporcionar los servicios de impresión, mecánicos y otros solicitados p
 
 VIII.- Integrar el Catálogo de Proveedores del SABES y mantenerlo actualizado;
 
-IX.- Participar en .el Subcomité de Adquisiciones, Arrendamientos y Contratación de Servicios y Enajenaciones del SABES;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+IX.- Participar en el Subcomité de Contrataciones Públicas del SABES;
 
 X.- Vigilar que se lleven a cabo las afectaciones, reaprovechamientos y en su caso implementar la enajenación o destino final de los bienes muebles del SABES;
 
@@ -789,7 +799,9 @@ El órgano de vigilancia del SABES, tendrá el carácter de Contraloría Interna
 
 La Contraloría Interna, además de las facultades conferidas en el Decreto, tendrá las siguientes:
 
-I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Contraloría para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
 
 II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas del SABES se apeguen a las disposiciones legales aplicables;
 
@@ -801,15 +813,23 @@ V.- Efectuar el análisis e interpretación de los estados financieros del SABES
 
 VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el SABES;
 
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos del SABES, conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, así como someter a consideración del Titular de la Secretaría de la Contraloría, el proyecto de resolución de las mismas;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
+VII.- Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos de la Universidad, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría responsable del control interno del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 IX.- Fiscalizar los recursos federales ejercidos por el SABES derivados de los acuerdos o convenios respectivos, en su caso;
 
-X.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Contraloría del desarrollo de sus funciones; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría de la Contraloría.
+X.- Informar periódicamente al Consejo Directivo y a la Secretaría responsable del control interno del Ejecutivo del desarrollo de sus funciones; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
 
 ### CAPÍTULO SÉPTIMO. DEL CONSEJO CONSULTIVO
 
@@ -857,9 +877,11 @@ Las suplencias del Director General del SABES, serán cubiertas por el Director 
 
 ### CAPÍTULO NOVENO. DE LA EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-El SABES hará la evaluación de sus actividades con base en lo dispuesto por los artículos 29, 30 y 31 de la Ley General de Educación; así como por los artículos 93, 94, 95, 96 y 97 de la Ley de Educación para el Estado de Guanajuato: los lineamientos de la Secretaría de Educación de Guanajuato; los parámetros de instituciones nacionales dedicadas a medir la calidad del servicio educativo; el Plan Institucional de Desarrollo y en los Programas Operativos Anuales del SABES, considerando las categorías, criterios e indicadores que se establezcan para tal fin, conforme a las disposiciones legales aplicables.
+El SABES hará la evaluación de sus actividades con base en lo dispuesto por los artículos 29, 30 y 31 de la Ley General de Educación; así como por los artículos 93, 94, 95, 96 y 97 de la Ley de Educación para el Estado de Guanajuato; los lineamientos de la Secretaría de Educación de Guanajuato y la Secretaría de Innovación, Ciencia y Educación Superior en el ámbito de sus competencias; los parámetros de instituciones nacionales dedicadas a medir la calidad del servicio educativo; el Plan Institucional de Desarrollo y en los Programas Operativos Anuales del SABES, considerando las categorías, criterios e indicadores que se establezcan para tal fin, conforme a las disposiciones legales aplicables.
 
 ## TRANSITORIOS
 
@@ -884,3 +906,11 @@ GERARDO LUIS RODRÍGUEZ OROZCO
 EL SECRETARIO DE EDUCACIÓN
 
 VICTOR MANUEL RAMÍREZ VALENZUELA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
