@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2015-07-29"
+last_updated: "2016-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -1345,7 +1345,9 @@ III.- El representante del Ejecutivo del Estado, mediante nombramiento directo d
 
 IV.- El Juez de Primera Instancia mediante insaculación; y
 
-V.- El representante de la Facultad de Derecho de la Universidad Autónoma del Estado de Morelos, que será el maestro titular decano de dicha institución; si hubiere imposibilidad o renuncia de éste, asumirá la representación el siguiente maestro titular que le siga en antigüedad.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2016)</small>
+
+V.- El representante del Poder Legislativo del Estado, designado por del (sic) órgano político del Congreso.
 
 Dicha representación no podrá recaer en ningún docente que tenga el carácter de funcionario del Poder Judicial, así como en aquellos que presten sus servicios en cualquiera de los otros dos poderes de la administración pública Estatal.
 
@@ -1741,27 +1743,27 @@ La Escuela Judicial tomará las medidas necesarias y vigilará que la revista te
 
 ###### ARTICULO 148.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 149.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 150.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 151.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 152.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 153.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ### CAPITULO SEPTIMO. DE LA DIRECCION DE LA CONTRALORIA INTERNA
 
@@ -2396,3 +2398,13 @@ P.O. 29 DE JULIO DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL VEINTE POR EL QUE SE REFORMA EL ARTÍCULO 114, DE LA LEY ORGÁNICA DEL PODER JUDICIAL”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA.- Tratándose que la presente reforma, únicamente refiere a la armonización de las disposiciones de la Ley Orgánica del Poder Judicial, con las previstas en la Constitución Política del Estado Libre y Soberano de Morelos, por ende no implica afectación alguna de derechos previamente reconocidos y vigentes, esto en estricto apego a la legalidad y pleno respeto a la autonomía del Poder Judicial, por tal circunstancia se reconoce plenamente la temporalidad de la designación en el cargo del actual Representante del Poder Legislativo, ante el Consejo de la Judicatura.
