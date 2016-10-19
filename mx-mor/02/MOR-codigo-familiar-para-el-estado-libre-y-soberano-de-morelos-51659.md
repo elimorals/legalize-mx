@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-08-17"
+last_updated: "2016-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -841,9 +841,9 @@ V.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción
 
 CONCUBINATO. Es la unión de hecho de dos personas, ambas libres de matrimonio y sin impedimento para contraerlo, que viven de forma constante y permanente, generando derechos y obligaciones al procrear hijos o manteniendo la convivencia.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
 
-Para acreditar el concubinato, el Juez deberá tomar en consideración que los concubinos han vivido en común de manera ininterrumpida durante cinco años o han cohabitado y procreado un hijo o más en común.
+Para acreditar el concubinato, el Juez deberá tomar en consideración que los concubinos han vivido en común de manera ininterrumpida durante dos años o han cohabitado y procreado un hijo o más en común.
 
 ###### ARTÍCULO 66.
 
@@ -4099,7 +4099,9 @@ III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga biene
 
 IV.- A los ascendientes;
 
-V.- A la persona con quien el testador vivió como si fuere su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nuevas nupcias y observe buena conducta. Si fueron varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2016)</small>
+
+V.- A la persona con quien el testador vivió como si fuere su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trata no contraiga nuevas nupcias y observe buena conducta. Si fueron varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos, y
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -5219,9 +5221,11 @@ SUCESIÓN DE LOS PARIENTES MAS PRÓXIMOS POR AUSENCIA DE TODOS LOS ANTERIORES. A
 
 ### CAPÍTULO VI. DE LA SUCESIÓN DE LOS CONCUBINOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 737.
 
-SUCESIÓN DE LOS CONCUBINOS. La concubina y el concubino tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido como si fueren cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común y siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
+SUCESIÓN DE LOS CONCUBINOS. Los concubinos tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido como si fueren cónyuges durante los dos años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común y siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
 
 Si al morir el autor de la herencia le sobreviven varias concubinas o concubinos en las condiciones mencionadas al principio de este artículo, ninguno de ellos heredará.
 
@@ -6418,3 +6422,11 @@ P.O. 17 DE AGOSTO DE 2016.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL UNO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CUYO PROPÓSITO ES REDUCIR EL TIEMPO PARA ACREDITAR UNA RELACIÓN DE CONCUBINATO”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
