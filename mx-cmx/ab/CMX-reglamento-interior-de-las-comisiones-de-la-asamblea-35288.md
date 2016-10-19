@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2015-11-27"
+last_updated: "2016-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -406,9 +406,13 @@ De las Reuniones de Trabajo.
 
 Las Comisiones se reunirán en sesión por lo menos una vez al mes, o en fechas diversas, cuando lo acuerde la Mesa Directiva, la Comisión de Gobierno o la Mesa Directiva del Pleno de la Asamblea, de conformidad con lo que establece el artículo 39 del Reglamento.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 21.
 
-Las reuniones de trabajo de la Comisión podrán ser públicas o privadas. Las reuniones serán privadas cuando por la naturaleza de los temas a tratar, la Mesa Directiva así lo acuerde, y preferentemente no deberán sesionar los días que exista sesión del pleno, a menos que se trate de un asunto urgente.
+Las reuniones de trabajo de la Comisión podrán ser públicas o privadas; y en caso de ser necesario, deberá permanecer en un lugar visible un intérprete traductor de Lenguaje de Señas Mexicanas, con el fin de traducir a la ciudadanía con discapacidad auditiva el o los puntos tratados en las mismas.
+
+Las reuniones serán privadas cuando por la naturaleza de los temas a tratar, la Mesa Directiva así lo acuerde, y preferentemente no deberán sesionar los días que exista sesión del pleno, a menos que se trate de un asunto urgente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE ABRIL DE 2011)</small>
 
@@ -859,3 +863,9 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal par
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- La Asamblea Legislativa del Distrito Federal deberá considerar los recursos económicos suficientes en el Presupuesto de Egresos en el ejercicio 2016 y subsecuentes, para la aplicación del presente decreto.
+
+G.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
