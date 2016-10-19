@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-116873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-18"
-last_updated: "2016-10-18"
+last_updated: "2016-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116873&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD D
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de octubre de 2016.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de octubre de 2016 y en la Gaceta Oficial de la Ciudad de México, el miércoles 18 de octubre de 2016.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Asamblea Constituyente de la Ciudad de México.
 
