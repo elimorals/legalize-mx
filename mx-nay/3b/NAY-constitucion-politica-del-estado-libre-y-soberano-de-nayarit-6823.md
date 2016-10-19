@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2016-10-18"
+last_updated: "2016-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -523,17 +523,21 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-(NOTA: EL 26 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 55/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y HASTA DOCE DIPUTADOS ELECTOS POR REPRESENTACIÓN PROPORCIONAL, quienes podrán ser electos hasta por cuatro períodos consecutivos.
+El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y doce diputados electos por representación proporcional, quienes podrán ser electos hasta por cuatro períodos consecutivos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 La postulación para ser elegido por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
 En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido politico no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 La delimitación territorial de los distritos electorales, será aprobada por el Instituto Nacional Electoral tomando en consideración la legislación aplicable.
 
@@ -3866,3 +3870,13 @@ Décimo Segundo. El Estado y los Municipios se ajustarán a la ley reglamentaria
 Décimo Tercero. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
 
 Décimo Cuarto.- Una vez realizado el procedimiento constitucional referido en el artículo anterior, notifíquese al Gobernador del Estado, a efecto de que realice lo estipulado en el Artículo Transitorio Cuarto.
+
+P.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+Tercero.- En atención al resolutivo quinto de la sentencia emitida respecto de la acción de inconstitucionalidad 55/2016 y una vez concluidos los trámites legislativos correspondientes, remítase el presente decreto a la Suprema Corte de Justicia de la Nación, del Poder Judicial de la Federación, para los efectos conducentes.
