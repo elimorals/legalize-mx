@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-10-13"
+last_updated: "2016-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -2045,13 +2045,13 @@ La materia de las visitas se limitará a los aspectos previstos en la Ley Orgán
 
 Las visitas ordinarias de inspección tienen por objeto recabar, en forma metódica, información respecto del funcionamiento de los órganos jurisdiccionales y de los centros de Justicia Penal Federal, así como del desempeño y conducta de sus miembros. Sus efectos serán esencialmente de control, preventivos y correctivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA INSPECCION ORDINARIA A LOS PLENOS DE CIRCUITO, D.O.F. 19 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 231.
 
-Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los Visitadores Judiciales "B" en la sede del órgano jurisdiccional o del Centro de Justicia Penal Federal; y la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el Visitador General, con el auxilio de los magistrados de Circuito, jueces de Distrito, encargados del despacho correspondiente, o administradores de los centros de Justicia Penal Federal.
+Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los Visitadores Judiciales "B" en la sede del órgano jurisdiccional o del Centro de Justicia Penal Federal; y la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el Visitador General, con el auxilio de los magistrados de Circuito, jueces de Distrito, encargados del despacho correspondiente, o administradores de los centros de Justicia Penal Federal; salvo lo previsto en el párrafo siguiente.
 
-La inspección ordinaria a los Plenos de Circuito se llevará a cabo a distancia, una vez al año.
+La inspección ordinaria a los Plenos de Circuito se llevará a cabo semestralmente, una inspección será a distancia; y, la otra, a través de informe circunstanciado que rinda su Presidente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -3140,3 +3140,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. El presente Acuerdo también será aplicable a los procedimientos en trámite iniciados con anterioridad a la entrada en vigor del presente Acuerdo, así como a aquellas sanciones pendientes de ejecución en la misma fecha.
+
+D.O.F. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA INSPECCIÓN ORDINARIA A LOS PLENOS DE CIRCUITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
