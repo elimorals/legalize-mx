@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-11-19"
+last_updated: "2016-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -169,9 +169,11 @@ Las autoridades competentes del Estado y los Ayuntamientos en coordinación con 
 
 Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan en diversos ámbitos de competencia, éstas se aplicarán y ejecutarán mediante convenios generales y específicos entre cualquiera de los tres niveles de gobierno que los suscriban.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-Compete a la Secretaría de Salud del Estado la realización de las siguientes acciones:
+Compete a la secretaria (sic), por conducto del organismo público descentralizado denominado Servicios de Salud de Morelos, la realización de las siguientes acciones:
 
 I. Diseñar, ejecutar y evaluar programas para la orientación, prevención, detección, estimulación temprana, atención integral y rehabilitación para las discapacidades;
 
@@ -287,55 +289,57 @@ VIII. Al trabajo y la capacitación en términos de igualdad de oportunidades y 
 
 ## TÍTULO SEGUNDO. FACULTADES, ATRIBUCIONES Y OBLIGACIONES
 
-### CAPÍTULO I. Del Consejo de Atención Integral para Personas con Discapacidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO I. Del Consejo Estatal para la Atención Integral de las Personas con Discapacidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 12.
 
-El Consejo de Atención Integral para Personas con Discapacidad es un órgano de consulta e instancia de coordinación para las políticas, estrategias y acciones en materia de discapacidad, el cual estará dirigido al cumplimiento de los objetivos que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
+El Consejo es un órgano de consulta y apoyo técnico, que se constituye como la instancia de coordinación para las políticas, estrategias y acciones en materia de discapacidad, el cual estará dirigido al cumplimiento de los objetivos que garanticen las condiciones favorables para el desarrollo de las personas con discapacidad.
 
 El Consejo es un órgano de carácter técnico consultivo y de coordinación intersecretarial e interinstitucional, que tiene por objeto establecer políticas para procurar el desarrollo integral de las personas con discapacidad y su incorporación plena a la sociedad, así como promover, apoyar, fomentar, vigilar y evaluar las acciones, estrategias y programas derivadas de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 13.
 
-El Consejo estará integrado por los siguientes miembros permanentes cuya figura recaerá en él o la titular de la dependencia o el servidor que éste designe:
+El Consejo se integra de la siguiente manera:
 
-I.- Un Presidente, quien será él o la titular de la Secretaria de Salud;
+I.- Un Presidente, quien será la persona titular del Poder Ejecutivo Estatal o quién éste designe al efecto;
 
-II.- Un Secretario Técnico, que será designado por el Presidente del Consejo;
+II.- Un Secretario Técnico que será la persona titular del Sistema Estatal;
 
-III.- Como vocales fungirán, el titular o servidor público que éste designe, de las siguientes dependencias y organismos estatales:
+III.- Como vocales fungirán, las personas titulares de las siguientes Secretarías, Dependencias y Entidades de la Administración Pública Estatal o los servidores públicos que éstos designen;
 
-a) Secretaría de Educación;
+a) Secretaría de Educación del Poder Ejecutivo Estatal;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+b) Secretaría del Trabajo del Poder Ejecutivo Estatal;
 
-b) Secretaría del Trabajo
+c) Secretaria de Movilidad y Transporte del Poder Ejecutivo Estatal;
 
-c) Sistema para el Desarrollo Integral de la Familia;
+d) Secretaría de Cultura del Poder Ejecutivo Estatal;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+e) Secretaría de Obras Públicas del Poder Ejecutivo Estatal;
 
-d) Secretaría de Movilidad y Transporte
+f) Organismo público descentralizado denominado Servicios de Salud de Morelos;
 
-e) Consejo de Beneficencia Pública Estatal;
+g) Organismo público descentralizado denominado Instituto del Deporte y Cultura Física del Estado de Morelos;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+h) La Comisión de Atención a Grupos Vulnerables y Personas con Discapacidad del Congreso del Estado;
 
-f) Secretaría de la Cultura
+IV.- Seis vocales representantes de organizaciones de la sociedad civil del Estado, quienes se elegirán por mayoría del Consejo mediante convocatoria emitida y publicada con treinta días de anticipación a la sesión de elección.
 
-g) Instituto del Deporte y Cultura Física del Estado de Morelos;
+Estos cargos tendrán el carácter de honoríficos, por lo que no recibirán emolumento o compensación alguna por el desempeño de su encargo, y durarán tres años, con posibilidad de reelección por una sola ocasión.
 
-j) (sic) Un representante del Congreso del Estado designado por la Comisión de Atención a Grupos Vulnerables y a Personas con Discapacidad.
+Además los miembros permanentes del Consejo, cuando la naturaleza de los asuntos a tratar se relacione con determinadas áreas, el Consejo podrá invitar a participar con voz pero sin voto, a los Diputados del Congreso del Estado y a las personas titulares de las demás Secretarías, Dependencias, Entidades, instituciones y organismos públicos, privados y sociales que se requieran.
 
-IV.- Seis vocales representantes de organizaciones de la sociedad civil del Estado, quienes, elegirán por mayoría del Consejo mediante convocatoria emitida y publicada con treinta días de anticipación a la sesión de elección.
-
-Estos cargos tendrán el carácter de honoríficos y durarán tres años, con posibilidad de reelección por una sola ocasión.
-
-Además de los miembros permanentes del Consejo, cuando la naturaleza de los asuntos a tratar se relacione con determinadas áreas, el Consejo podrá invitar a participar con voz pero sin voto, a los Diputados del Congreso del Estado y a los titulares de las demás dependencias, instituciones y organismos públicos, privados y sociales que se requieran.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 14.
 
-Son facultades y obligaciones del Consejo, las siguientes:
+Son facultades y obligaciones del Consejo:
 
 I.- Establecer políticas, estrategias y lineamientos para promover, orientar, coordinar, supervisar y evaluar los procesos en materia de prevención, atención, habilitación y rehabilitación de las personas con discapacidad, a través del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad;
 
@@ -343,35 +347,33 @@ II.- Proponer a las autoridades competentes los planes y programas a desarrollar
 
 III.- Proponer el establecimiento de los mecanismos para dar cumplimiento a los programas y acuerdos aprobados;
 
-IV.- Desarrollar las acciones que en coordinación con los organismos públicos y privados se hayan convenido;
+IV.- Desarrollar las acciones que, en coordinación con los organismos públicos y privados, se hayan convenido;
 
 V.- Promover la participación del sector privado para el desarrollo de las actividades y los programas a favor de las personas con discapacidad;
 
 VI.- Recibir, analizar y enviar a las instancias competentes las quejas y sugerencias de las personas con discapacidad en relación con la atención que reciban de las instituciones públicas y privadas;
 
-VII.- Promover ante las instituciones educativas a nivel técnico, licenciatura y postgrado, se incluyan programas académicos que atiendan el desarrollo de las personas con discapacidad;
+VII.- Promover ante las instituciones educativas que, a nivel técnico, licenciatura y posgrado, se incluyan programas académicos que atiendan el desarrollo de las personas con discapacidad;
 
-IX.- Sesionar por lo menos una vez cada tres meses;
+VIII.- Sesionar por lo menos una vez cada tres meses;
 
-X.- Recomendar a organismos públicos y privados las medidas tendientes al desarrollo social de las personas con discapacidad;
+IX.- Recomendar a organismos públicos y privados las medidas tendientes al desarrollo social de las personas con discapacidad;
 
-XI.- Procurar el mejoramiento de los niveles de vida, participación y desarrollo de las personas con discapacidad;
+X.- Procurar el mejoramiento de los niveles de vida, participación y desarrollo de las personas con discapacidad;
 
-XII.- Acrecentar la nueva cultura de corresponsabilidad social entre gobierno y sociedad en la atención a las personas con discapacidad;
+XI.- Acrecentar la nueva cultura de corresponsabilidad social entre gobierno y sociedad en la atención a las personas con discapacidad;
 
-XIII.- Promover la participación de la sociedad en la prevención y control de las causas de la discapacidad;
+XII.- Promover la participación de la sociedad en la prevención y control de las causas de la discapacidad;
 
-XIV.- Establecer vínculos de participación con los diferentes medios masivos de comunicación, a fin de informar permanentemente a toda la sociedad sobre los trabajos y acciones a favor de las personas con discapacidad;
+XIII.- Establecer vínculos de participación con los diferentes medios masivos de comunicación, a fin de informar permanentemente a toda la sociedad sobre los trabajos y acciones a favor de las personas con discapacidad;
 
-XV.- Crear de entre sus miembros, las subcomisiones que estime pertinentes para su buen funcionamiento;
+XIV.- Crear, de entre sus miembros, las subcomisiones que estime pertinentes para su buen funcionamiento;
 
-XVI.- Impulsar estudios e investigaciones científicas y tecnológicas en materia de prevención y rehabilitación de los diversos tipos de discapacidad;
+XV.- Desarrollar programas de capacitación y autoempleo para personas con discapacidad y manejar una bolsa de trabajo en coordinación con la Secretaría del Trabajo;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+XVI.- Impulsar estudios e investigaciones científicas y tecnológicas en materia de prevención y rehabilitación de los diversos tipos de discapacidad, y
 
-XVII.- Desarrollar programas de capacitación y autoempleo para personas con discapacidad y manejar una bolsa de trabajo en coordinación con la Secretaría del Trabajo.
-
-XVIII.- Las demás que señalen esta Ley y otras disposiciones legales aplicables.
+XVII.- Las demás que señalen esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -381,7 +383,9 @@ El Presidente será el representante del Consejo, y vigilará la ejecución de l
 
 El Secretario Técnico del Consejo tendrá las funciones siguientes:
 
-I.- Emitir la convocatoria para las Sesiones del Consejo en coordinación con el Presidente, entregándola a los integrantes cuando menos con siete días de anticipación, así como elaborar el orden del día, verificar que se integre el quórum y levantar el acta respectiva de cada sesión;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2016)</small>
+
+I.- Emitir la convocatoria para las sesiones del Consejo, entregándola a los integrantes cuando menos con cinco días de anticipación, así como elaborar el orden del día, verificar que se integre el quórum y levantar el acta respectiva de cada sesión;
 
 II.- Suplir en sus ausencias al Presidente o su representante;
 
@@ -405,9 +409,11 @@ Las resoluciones o acuerdos se tomarán por mayoría de los miembros presentes, 
 
 ### CAPÍTULO II. De la Secretaría y del Sistema Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 18.
 
-La Secretaría de Salud, en coordinación con el Sistema Estatal, tendrá las siguientes atribuciones:
+La secretaría, por conducto del organismo público descentralizado denominado Servicios de Salud de Morelos, en coordinación con el Sistema Estatal, tendrá las siguientes atribuciones:
 
 I.- Impulsar las acciones necesarias para desarrollar los programas que se establezcan y lograr la atención integral y desarrollo de las personas con discapacidad;
 
@@ -457,9 +463,11 @@ VI.- Llevar el padrón de personas con discapacidad en el Estado; y
 
 VII.- Las demás conducentes para dar cumplimiento a la presente Ley.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-La Secretaría, en coordinación con el organismo estatal, la Secretaria de Desarrollo Económico, la Secretaria de Gobierno y los ayuntamientos, establecerá programas de promoción del empleo de las personas con discapacidad, creando al efecto una bolsa de trabajo, en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
+La Secretaría, por conducto del organismo público descentralizado denominado Servicios de Salud de Morelos, en coordinación con el Sistema Estatal, las Secretarías de Economía y de Gobierno, ambas del Poder Ejecutivo Estatal y los ayuntamientos, establecerá programas de promoción del empleo de las personas con discapacidad, creando al efecto una bolsa de trabajo, en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
 
 ###### Artículo 21.
 
@@ -571,7 +579,9 @@ El padrón estatal de personas con discapacidad se actualizará permanentemente 
 
 Se crea la Comisión Estatal de Valoración de las Personas con Discapacidad la cual será un órgano técnico del Sistema Estatal que tendrá por objeto la valoración de las personas con discapacidad, a través de la evaluación y calificación de las limitaciones o restricciones físicas y psicológicas.
 
-La Comisión se integrará por personal adscrito a la Secretaría de Salud del Estado y del Sistema Estatal, conformado por un equipo multiprofesional en las áreas de medicina de habilitación y rehabilitación, psicología, trabajo social y educación, encabezado por el médico de habilitación y rehabilitación.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
+La comisión se integra por personal adscrito al organismo público descentralizado denominado Servicios de Salud de Morelos, y el Sistema Estatal; personal conformado a su vez por un equipo multiprofesional en las áreas de medicina de habilitación y rehabilitación, psicología, trabajo social y educación, encabezado por el médico de habilitación y rehabilitación.
 
 ###### Artículo 33.
 
@@ -633,9 +643,11 @@ III. Educación general y especial; y
 
 IV. Habilitación y rehabilitación laboral.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 41.
 
-La Secretaría y el Sistema Estatal, establecerán convenios de coordinación y colaboración con Ayuntamientos e instituciones públicas o privadas, para llevar a cabo las actividades que comprende el proceso habilitatorio y rehabilitatorio.
+La Secretaría, por conducto del organismo público descentralizado denominado Servicios de Salud de Morelos y el Sistema Estatal establecerán convenios de coordinación y colaboración con Ayuntamientos e instituciones públicas o privadas, para llevar a cabo las actividades que comprende el proceso habilitatorio y rehabilitatorio.
 
 ###### Artículo 42.
 
@@ -1098,3 +1110,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Las Instituciones Educativas que no cuenten con la infraestructura adecuada para el acceso y despliegue de las personas con discapacidad, contarán con un plazo de noventa días posteriores a la entrada en vigor del presente Decreto. Aquellas que no cumplan con esta disposición, se harán acreedoras a las sanciones previstas en la Ley.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CINCO POR EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
