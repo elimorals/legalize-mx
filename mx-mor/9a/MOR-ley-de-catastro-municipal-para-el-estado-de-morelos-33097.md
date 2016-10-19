@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-catastro-municipal-para-el-estado-de-morelos-33097"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2012-10-24"
+last_updated: "2016-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CATASTRO MUNICIPAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -229,7 +229,7 @@ Son autoridades en materia de Catastro, en los ámbitos de competencia que seña
 
 I.- El Instituto de Servicios Registrales y Catastrales del Estado de Morelos dependiente del Poder Ejecutivo del Estado de Morelos;
 
-II.- Los Ayuntamientos del Estado de Morelos en sus respectivas jurisdicciones Municipales; y (sic)
+II.- Los Ayuntamientos del Estado de Morelos en sus respectivas jurisdicciones Municipales; y
 
 ### Capítulo Cuarto. Del Consejo Estatal Catastral
 
@@ -1109,9 +1109,11 @@ V.- Uso Especial.- Son aquellas edificaciones que, por sus características, req
 
 Las tablas de valores deberán ser del dominio público y al efecto se fijarán en lugares visibles en las oficinas recaudadoras de las autoridades municipales y se publicarán en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 109.
 
-Las tablas de valores serán propuestas por el Ayuntamiento al Congreso del Estado cada tres años, iniciado un período constitucional de Gobierno Municipal, la propuesta se hará dentro de los primeros noventa días.
+Las tablas de valores serán propuestas por el Ayuntamiento al Congreso del Estado cada tres años, iniciado un período constitucional de Gobierno Municipal, la propuesta se hará dentro del primer año de su administración.
 
 ###### Artículo 110.
 
@@ -1129,7 +1131,9 @@ I.- El Ayuntamiento elaborará las propuestas para la constitución, modificaci�
 
 II.- Las propuestas a que se refiere la fracción anterior, que cumplan con lo dispuesto en este ordenamiento serán incorporadas al anteproyecto de Tabla de Valores Unitarios de Suelo y Construcciones;
 
-III.- Los proyectos de Tabla de Valores Unitarios de Suelo y Construcciones podrán, convenientemente a criterio del Ayuntamiento proponente, ser remitidos al Consejo Estatal Catastral para ser analizados y discutidos sobre su congruencia, viabilidad y homogeneidad con el criterio general prevaleciente en el Estado. En este caso, el Consejo Estatal Catastral emitirá opinión, recomendando modificaciones al Ayuntamiento que corresponda. Lo anterior, en el entendido de que estas opiniones emitidas por el Consejo Estatal Catastral no obligan a los Ayuntamientos; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2016)</small>
+
+III.- Los proyectos de tabla de valores unitarios de suelo y construcciones deben acompañarse de un dictamen técnico, que contenga el estudio y la revisión de planos, fotografías, valores de operaciones y demás requisitos que la valuación catastral requiere, con el que se cree certidumbre de que el municipio consideró, los servicios municipales, las condiciones y características de las zonas, regiones, colonias y construcciones y demás especificaciones que señale el presente capítulo, a criterio del Ayuntamiento proponente, podrán ser remitidos al Consejo Estatal Catastral para ser analizados y discutidos sobre su congruencia, viabilidad y homogeneidad con el criterio general prevaleciente en el Estado. En este caso, el Consejo Estatal Catastral emitirá opinión, recomendando modificaciones al Ayuntamiento que corresponda. Lo anterior, en el entendido de que estas opiniones emitidas por el Consejo Estatal Catastral no obligan a los Ayuntamientos; y
 
 IV.- Las propuestas de Tablas de Valores Unitarios de Suelo y de Construcciones deberán ser aprobados por el Ayuntamiento en sesión de cabildo, y posteriormente remitidos al Congreso del Estado de Morelos, acompañados del acta de cabildo respectiva y, en todo caso, de los elementos que se considere deban llevar anexos para su respaldo. El Congreso las recibirá para su análisis, discusión, aprobación y expedición, remitiéndolas al Ejecutivo del Estado para su correspondiente publicación oficial.
 
@@ -1442,3 +1446,11 @@ SEXTA.- Los convenios suscritos entre los municipios y el Ejecutivo del Estado p
 SÉPTIMA.- En todos los ordenamientos legales y administrativos en donde se haga referencia al Instituto del Registro Público de la Propiedad y del Comercio del Estado, se entenderá al Instituto de Servicios Registrales y Catastrales del Estado de Morelos; así mismo, las facultades conferidas en otros ordenamientos al Director General del Sistema de Información Catastral pasarán al Director General del Instituto de Servicios Registrales y Catastrales del Estado de Morelos.
 
 OCTAVA.- Los convenios y compromisos suscritos por el Ejecutivo del Estado con el Gobierno Federal, respecto del Sistema de Información Catastral, deberán continuarse hasta su total conclusión por parte de la Subsecretaría de Ingresos del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DIECISÉIS POR EL QUE SE REFORMAN EL ARTÍCULO 109 Y LA FRACCIÓN III, DEL ARTÍCULO 112, DE LA LEY DE CATASTRO MUNICIPAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
