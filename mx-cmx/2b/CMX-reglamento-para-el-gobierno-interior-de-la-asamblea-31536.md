@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2016-10-14"
+last_updated: "2016-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -1748,9 +1748,9 @@ El segundo periodo de sesiones ordinarias se iniciará a partir del 15 de marzo 
 
 Durante sus recesos, la Asamblea podrá celebrar periodos de sesiones extraordinarias, previa convocatoria formulada por la Comisión de Gobierno a solicitud de la mayoría de los integrantes de dicha Comisión o del Jefe de Gobierno. La convocatoria respectiva deberá publicarse en dos diarios de mayor circulación en el Distrito Federal y fijará la fecha de inicio y término del periodo y el o los asuntos exclusivos a ser tratados durante el mismo.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2016)</small>
 
-Para el desarrollo de las sesiones, permanecerá en un lugar visible en el salón de sesiones del recinto de la Asamblea, un intérprete traductor de lenguaje dactilológico, solicitado a la Oficialía Mayor, con anterioridad por lo menos con 48 horas de anticipación por algún diputado, con el fin de traducir a la ciudadanía con discapacidad auditiva el asunto tratado en la misma.
+Para el desarrollo de las sesiones, deberá permanecer en un lugar visible en el salón de sesiones del recinto de la Asamblea, un intérprete traductor de Lenguaje de Señas Mexicanas, o en su caso los necesarios, con el fin de traducir a la ciudadanía con discapacidad auditiva el asunto tratado en la misma.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 94], G.O. 30 DE MARZO DE 2005)
 
@@ -2354,13 +2354,13 @@ Las Mesas Directivas del Pleno, de la Diputación Permanente o de las Comisiones
 
 #### SECCIÓN 1. DE LA GESTIÓN SOCIAL
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 148], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 153.
 
 La gestión social es la acción a través de la cual la Asamblea, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas, de los Módulos de Atención, Orientación y Quejas Ciudadanas o alguno de los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una acción pública relacionada con los intereses de la colectividad o con los derechos de los habitantes del Distrito Federal.
 
-La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
+La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas, y en caso de así requerirlo, se solicitará a la Oficialía Mayor el apoyo de un intérprete traductor de Lenguaje de Señas Mexicanas, a efecto de atender a la ciudadanía con discapacidad auditiva.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 149], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -3869,3 +3869,9 @@ PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
