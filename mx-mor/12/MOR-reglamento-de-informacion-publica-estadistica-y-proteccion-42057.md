@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-informacion-publica-estadistica-y-proteccion-4205
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-24"
-last_updated: "2011-11-23"
+last_updated: "2016-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL REGLAMENTO DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2011, QUEDAN VIGENTES DEL ARTÍCULO 82 AL 106 DEL REGLAMENTO ABROGADO, HASTA EN TANTO SE EXPIDA Y ENTRE EN VIGOR EL REGLAMENTO INTERIOR DEL INSTITUTO MORELENSE DE INFORMACIÓN PÚBLICA Y ESTADÍSTICA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE NOVIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de noviembre de 2004.
 
@@ -1162,3 +1160,25 @@ Artículo Cuarto.- Quedan vigentes del artículo 82 al 106 del Reglamento abroga
 Artículo Quinto.- Los recursos de inconformidad que sean recibidos hasta antes de que entre en vigor este nuevo ordenamiento, serán tramitados conforme al reglamento anterior hasta su total conclusión.
 
 Artículo Sexto.- Remítase el presente Reglamento a la Secretaría de Gobierno del Estado, para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 19 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS”.]
+
+Artículo Primero.- Se aprueba el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos.
+
+Artículo Segundo.- El presente Reglamento entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+Artículo Tercero. Se abroga el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" el día 24 de noviembre del año 2004.
+
+Artículo Cuarto.- Los recursos de inconformidad y todos los procedimientos, trámites que se hayan realizado o ejecutado bajo la Ley de Información Pública, Estadística y Protección de Datos Personales seguirán su procedimiento hasta su resolución. El cumplimiento de las sentencias se continuará conforme a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública.
+
+Artículo Quinto.- La Unidad de Transparencia de cada Sujeto Obligado deberá emitir su Reglamento interior, dentro de los siguientes treinta días hábiles posteriores a la publicación en el Periódico Oficial "Tierra y Libertad" del presente reglamento, dicha divulgación se hará del conocimiento del Instituto Morelense de Información Pública y Estadística.
+
+Artículo Sexto.- Para los efectos de la primera designación de los tres Consejeros Consultivos, por única ocasión un Consejero será designado para un año, un Consejero será designado para dos años, y un Consejero será designado para tres años, de manera escalonada.
+
+La convocatoria para la designación de los Consejeros Consultivos se hará en los últimos cinco días hábiles del mes de noviembre del año que corresponda.
+
+La designación y toma de protesta se efectuará dentro de los primeros diez días del primer mes del año que corresponda.
+
+Artículo Séptimo.- Remítase el presente Reglamento a la Secretaría de Gobierno del Estado, para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
