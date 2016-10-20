@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-10-05"
+last_updated: "2016-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -2201,9 +2201,11 @@ VI. Los demás que determine el Pleno.
 
 La Contraloría del Poder Judicial de la Federación estará a cargo de un Contralor, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquélla.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSOS ACUERDOS GENERALES, RESPECTO DE INVESTIGACIONES DERIVADAS DE QUEJAS QUE SE PRESENTEN CONTRA LOS DEFENSORES PÚBLICOS Y ASESORES JURÍDICOS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 106.
 
-La Contraloría del Poder Judicial de la Federación será competente para realizar las auditorías, revisiones e inspecciones con el propósito de verificar el cumplimiento a la normativa aplicable, asimismo para investigar las presuntas responsabilidades de los servidores públicos de las áreas administrativas, con excepción del Instituto Federal de Defensoría Pública, en los términos y mediante los procedimientos establecidos en la Ley y demás disposiciones aplicables.
+La Contraloría del Poder Judicial de la Federación será competente para realizar las auditorías, revisiones e inspecciones con el propósito de verificar el cumplimiento a la normativa aplicable, asimismo para investigar las presuntas responsabilidades de los servidores públicos de las áreas administrativas, en los términos y mediante los procedimientos establecidos en la Ley y demás disposiciones aplicables.
 
 ###### Artículo 107.
 
@@ -3521,7 +3523,9 @@ XX. Tramitar, las plazas de adscripción temporal para la sustitución de secret
 
 XXI. Elaborar las propuestas de prórroga de las plazas de adscripción temporal cuando persistan las circunstancias que motivaron su adscripción original instruida por parte de la Comisión de Administración;
 
-XXII. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular de las áreas administrativas, o implementar el trámite correspondiente previa verificación de la existencia de recursos presupuestales disponibles;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+XXII. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular del área administrativa u órgano jurisdiccional, o implementar el trámite correspondiente previa verificación de la existencia de recursos presupuestales disponibles;
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -5614,3 +5618,21 @@ D.O.F. 5 DE OCTUBRE DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 20 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 20 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSOS ACUERDOS GENERALES, RESPECTO DE INVESTIGACIONES DERIVADAS DE QUEJAS QUE SE PRESENTEN CONTRA LOS DEFENSORES PÚBLICOS Y ASESORES JURÍDICOS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los procedimientos en trámite a la entrada en vigor del presente Acuerdo, deberán concluirse con las disposiciones con las que dieron inicio.
