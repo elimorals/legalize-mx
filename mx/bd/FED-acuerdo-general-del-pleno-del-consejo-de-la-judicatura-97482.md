@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-10-19"
+last_updated: "2016-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -839,21 +839,41 @@ Las notificaciones podrán hacerse personalmente, por lista, oficio, mensajería
 
 Las notificaciones surtirán efectos al día siguiente en que se realizan.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS NOTIFICACIONES, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+Corresponde a los servidores públicos informar de un cambio de domicilio, presentando el comprobante respectivo, de conformidad con el artículo 24, fracción I, inciso c), del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS NOTIFICACIONES, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+La Dirección General de Recursos Humanos deberá actualizar los expedientes personales, en caso de que el servidor público dé aviso de un cambio de domicilio.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS NOTIFICACIONES, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 78.
 
-Las personas que intervengan en el procedimiento de responsabilidad administrativa designarán, en la primera actuación, un domicilio para oír y recibir notificaciones.
+La notificación personal del emplazamiento al probable responsable se hará en el órgano jurisdiccional o área administrativa en que se encuentre adscrito; salvo que haya dejado de laborar en el Poder Judicial de la Federación o no esté en servicio activo por licencia, casos en los cuales la notificación se practicará en el último domicilio señalado por el servidor público, que conste en su expediente personal de la Dirección General de Recursos Humanos.
 
-Si por cualquier circunstancia no realizan la designación, cambian de domicilio sin dar aviso o señalan uno falso, las notificaciones posteriores al emplazamiento se harán por lista, en la forma que establece el artículo 85 de este Acuerdo, aun cuando deban ser personales.
+El quejoso, denunciante y el servidor público probable responsable, según sea el caso, designará, en su primera actuación, un domicilio para oír y recibir notificaciones.
+
+Se notificará por lista en la forma que establece el artículo 85 de este Acuerdo, aun cuando deban ser personales:
+
+I. El emplazamiento, en caso de que el probable responsable no sea encontrado en el último domicilio señalado por el servidor público, que conste en su expediente personal de la Dirección General de Recursos Humanos, y de ser así, además, el resto de las notificaciones; y
+
+II. Las notificaciones posteriores al emplazamiento, cuando por cualquier circunstancia las personas a que se refiere el segundo párrafo de este artículo, no realicen la designación, cambien de domicilio sin dar aviso, o señalen uno falso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS NOTIFICACIONES, D.O.F. 20 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 79.
 
-Las notificaciones personales se realizarán directamente al interesado, su representante o a cualquier persona que aquél autorice para el efecto, en el lugar en que labore o el domicilio que haya designado conforme a lo previsto en el artículo anterior.
+Las notificaciones personales se realizarán directamente al interesado, su representante o a cualquier persona que aquél autorice para el efecto, en el domicilio correspondiente, conforme a lo previsto en el artículo anterior.
 
 La notificación personal también podrá llevarse a cabo por cualquier medio electrónico o a través de mensajería autorizada, debiéndose recabar constancia que demuestre que el servidor público quedó debidamente notificado.
 
-Excepcionalmente, las notificaciones a los servidores públicos probables responsables que hayan dejado de laborar en el Poder Judicial de la Federación o se encuentren disfrutando de licencia mayor a tres meses, se realizarán en el domicilio particular registrado en su expediente personal.
+> <small>(DEROGADO TERCER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS NOTIFICACIONES, D.O.F. 20 DE OCTUBRE DE 2016)</small>
 
-Cuando la notificación deba realizarse en el domicilio particular, el notificador estará obligado a cerciorarse, por cualquier medio, que la persona a notificar vive en la casa designada y, después de ello, practicará la diligencia entregándole al servidor público copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en autos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS NOTIFICACIONES, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+Cuando la notificación deba realizarse en el domicilio particular, el notificador estará obligado a cerciorarse, por cualquier medio, que la persona a notificar vive ahí y, después de ello, practicará la diligencia entregándole copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en autos.
 
 Si el destinatario se niega a recibir la notificación, ésta se fijará en la puerta de entrada o en lugar visible del domicilio, se asentará razón de ello y previa autorización se notificará por lista.
 
@@ -1105,9 +1125,11 @@ IV. La Secretaría tramitará el procedimiento de responsabilidad administrativa
 
 V. Una vez concluido el trámite, tratándose del titular de la Contraloría, la Secretaría turnará el asunto al Consejero que corresponda para que elabore el proyecto de resolución que será sometido a consideración de la Comisión.
 
+> <small>(REFORMADO POR ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSOS ACUERDOS GENERALES, RESPECTO DE INVESTIGACIONES DERIVADAS DE QUEJAS QUE SE PRESENTEN CONTRA LOS DEFENSORES PÚBLICOS Y ASESORES JURÍDICOS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 111.
 
-Los procedimientos de responsabilidad administrativa de los servidores públicos del Instituto Federal de Defensoría Pública, serán resueltos conforme a las disposiciones aplicables. Tratándose del titular de dicho Instituto, se seguirá en lo conducente lo dispuesto en el artículo anterior.
+Las investigaciones y procedimientos de responsabilidad administrativa de los servidores públicos del Instituto Federal de Defensoría Pública, serán tramitados y resueltos conforme a las disposiciones aplicables. Tratándose del titular de dicho Instituto, se seguirá en lo conducente lo dispuesto en el artículo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -3148,3 +3170,21 @@ D.O.F. 19 DE OCTUBRE DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 20 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS NOTIFICACIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 20 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSOS ACUERDOS GENERALES, RESPECTO DE INVESTIGACIONES DERIVADAS DE QUEJAS QUE SE PRESENTEN CONTRA LOS DEFENSORES PÚBLICOS Y ASESORES JURÍDICOS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los procedimientos en trámite a la entrada en vigor del presente Acuerdo, deberán concluirse con las disposiciones con las que dieron inicio.
