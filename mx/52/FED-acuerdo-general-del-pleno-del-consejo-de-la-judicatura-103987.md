@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-10-13"
+last_updated: "2016-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -2637,9 +2637,11 @@ Artículo 227 Novodecies. El Pleno conocerá de aquéllos casos relacionados con
 
 Son sujetos de este Capítulo los servidores públicos adscritos a los órganos jurisdiccionales y áreas administrativas.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 229.
 
-Los servidores públicos tendrán derecho a que se les otorgue una licencia de paternidad con goce de sueldo, por el período de cinco días hábiles, contados a partir del día de nacimiento del infante.
+Los servidores públicos tendrán derecho a que se les otorgue una licencia de paternidad con goce de sueldo, por el periodo de diez días naturales, contados a partir del día de nacimiento del infante.
 
 ###### Artículo 230.
 
@@ -2653,7 +2655,9 @@ Los servidores públicos adscritos a las áreas administrativas, deberán presen
 
 Los servidores públicos podrán solicitar ampliación de la licencia de paternidad a que se refiere el artículo 229 de este Acuerdo, en las siguientes circunstancias y períodos:
 
-I. En caso de enfermedad grave del infante recién nacido, así como de complicaciones graves de salud que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un período igual de cinco días hábiles continuos;
+(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016))
+
+I. En caso de enfermedad grave del infante recién nacido, así como de complicaciones graves de salud que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un periodo de cinco días hábiles continuos;
 
 II. En caso de parto múltiple, la licencia de paternidad podrá extenderse por cinco días hábiles continuos; y
 
@@ -2663,15 +2667,27 @@ III. En caso de que durante los primeros quince días posteriores al parto, la m
 
 El servidor público, mujer u hombre, a quien se le conceda la adopción de un infante disfrutará de una licencia con goce de sueldo, en los siguientes términos:
 
-I. En caso de que el infante adoptado tenga entre dos y seis meses de edad, la licencia que se otorgue a la madre será de cuarenta días naturales;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+I. En caso de que el infante adoptado tenga hasta seis meses de edad, la licencia que se otorgue a la madre será de cuarenta días naturales;
 
 II. Cuando el infante adoptado tenga entre seis y doce meses de edad, se otorgará a la madre una licencia de veinte días naturales;
 
-III. En caso de que el infante tenga más de doce meses de edad, se extenderá una licencia de diez días hábiles a la madre;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
 
-IV. En todos los casos de adopción, se extenderá una licencia de cinco días hábiles al padre; y
+III. En caso de que el infante tenga más de doce meses de edad, se otorgará una licencia de diez días hábiles a la madre;
 
-V. Si el infante adoptado es recién nacido y su vida está en peligro, se extenderá la licencia tanto para la madre como para el padre, de conformidad con las hipótesis establecidas en el artículo anterior.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+IV. En todos los casos de adopción, se otorgará una licencia de diez (sic) naturales al padre; y
+
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+V. Si la vida del infante adoptado está en peligro se extenderá la licencia tanto para la madre como para el padre, por diez días naturales adicionales al periodo correspondiente conforme a las fracciones anteriores.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+Los periodos de las licencias se computarán a partir de la fecha en que se materialice la decisión en la que se hubiere aprobado o determinado la adopción.
 
 ###### Artículo 234.
 
@@ -2722,6 +2738,12 @@ Las licencias que se autoricen por paternidad no serán consideradas para el có
 Para acreditar los derechos previstos en este Capítulo, quien los ejerza deberá presentar las solicitudes correspondientes, así como los documentos que sustenten la petición, a las áreas administrativas competentes.
 
 Los casos no previstos en este Capítulo, serán resueltos por la Comisión de Administración, con base en la Ley del ISSSTE; el Reglamento respectivo; y demás disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 241 Bis.
+
+No se autorizarán sustituciones de servidores públicos que estén disfrutando de licencias de paternidad o por adopción.
 
 # LIBRO TERCERO. RECURSOS MATERIALES
 
@@ -11866,3 +11888,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Quedan sin efectos las circulares 2/2012 y 1/2013 de la Comisión de Disciplina así como la circular de la Comisión de Carrera Judicial de ocho de agosto de dos mil dos, en la que se recomienda a los jueces de Distrito y magistrados de Circuito evitar el otorgamiento de bases cuando hayan sido notificados de su próxima readscripción.
+
+D.O.F. 20 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
