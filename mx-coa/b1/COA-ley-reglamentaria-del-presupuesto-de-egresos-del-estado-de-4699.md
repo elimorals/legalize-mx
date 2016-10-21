@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "2015-11-13"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -51,13 +51,15 @@ COMPETENCIA Y ATRIBUCIONES DE LA SECRETARIA DE FINANZAS EN MATERIA DE PRESUPUEST
 
 La presente Ley es de orden público y tiene por objeto reglamentar el proceso presupuestario, su programación, ejecución, seguimiento, control, vigilancia y evaluación.
 
-La administración de los recursos será conforme a los principios de eficacia, eficiencia, legalidad, honestidad, transparencia, austeridad, control, equilibrio presupuestal y rendición de cuentas.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Presupuesto de Egresos del Estado se deberá elaborar conforme a lo establecido en esta Ley, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental, las normas que para tal efecto emita el Consejo Nacional de Armonización Contable y en la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza; y deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados del mismo.
 
 Se entiende por Presupuesto de Egresos del Estado, la ley expedida por la Legislatura Local, a iniciativa del Ejecutivo, en la que se contienen las previsiones financieras para sufragar el gasto público a cargo del Gobierno del Estado, durante el año fiscal que corresponda.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-El gasto público se administrará conforme a los criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, rendición de cuentas, con una perspectiva de derechos humanos y de igualdad de género.
+El gasto público se administrará conforme a los principios y criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, equilibrio presupuestal y rendición de cuentas, con una perspectiva de derechos humanos, de igualdad de género y de no discriminación.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -137,13 +139,13 @@ I.- Una estimación total de los ingresos correspondientes al próximo ejercicio
 
 II.- Las previsiones de egresos destinados a cada rama de la administración pública; y
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-III.- Los tabuladores salariales de los respectivos Poderes y de los Organismos Públicos Autónomos.
+III.- Los tabuladores salariales de los respectivos Poderes;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-IV.- Los demás informes financieros y datos estadísticos que el Ejecutivo estime conveniente agregar para la mejor inteligencia de su política hacendaria y del programa de la administración.
+IV.- La demás información dispuesta por los ordenamientos señalados en el artículo 1° de esta Ley, así como otros informes financieros y datos estadísticos que el Ejecutivo estime conveniente agregar para la mejor inteligencia de su política hacendaria y del programa de la administración.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
@@ -155,25 +157,27 @@ Las previsiones de egresos a que se refiere la fracción II del artículo anteri
 
 Independientemente de la separación funcional, a que se refiere el artículo anterior, las previsiones de egresos se calcularán por su naturaleza, para someterlas a la aprobación del Congreso Local, considerando las bases siguientes:
 
-I.- Como grupos fundamentales del gasto público, se considerarán los Capítulos que a continuación se enumeran:
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+I. Como grupos fundamentales del gasto público, se considerarán los Capítulos que a continuación se enumeran:
 
 SERVICIOS PERSONALES;
 
-COMPRA DE MUEBLES PARA ADMINISTRACION;
+MATERIALES Y SUMINISTROS;
 
 SERVICIOS GENERALES;
 
-TRANSFERENCIAS;
+TRANSFERENCIAS, ASIGNACIONES SUBSIDIOS Y OTRAS AYUDAS;
 
-ADQUISICION DE BIENES PARA FONDO Y CONSERVACION;
+BIENES MUEBLES, INMUEBLES E INTANGIBLES;
 
-OBRAS PUBLICAS Y CONSTRUCCIONES;
+INVERSIÓN PÚBLICA;
 
-INVERSIONES FINANCIERAS;
+INVERSIONES FINANCIERAS Y OTRAS PROVISIONES;
 
-EROGACIONES ESPECIALES;
+PARTICIPACIONES Y APORTACIONES;
 
-CANCELACION DE PASIVO;
+DEUDA PÚBLICA;
 
 II.- Estos capítulos se distribuirán en partidas que representarán las autorizaciones específicas del Presupuesto.
 
@@ -187,15 +191,23 @@ Las previsiones de egresos indicadas en el primer párrafo del presente artícul
 
 La división de los capítulos en partidas se hará en forma que determine el instructivo que al efecto expedirá la Secretaría de Finanzas, en los términos de la Fracción IX del Artículo 2 de esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El instructivo a que se refiere el párrafo anterior, contendrá una clasificación de empleos en la que se cuidará de agrupar funciones afines, con el propósito de que las remuneraciones guarden una estrecha relación con el servicio que se desempeñe, en el entendido de que queda a juicio de la Secretaría de Finanzas, modificar la clasificación cuando así lo considere conveniente.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Además de las clasificaciones anteriores, la clasificación de sexo, que agrupa las previsiones de gasto con base en su destino por sexo, diferenciando entre mujeres y hombres, deber (sic) formar parte de las presentaciones del presupuesto de egresos.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 11.
 
-El instructivo a que se refiere el artículo anterior, contendrá una clasificación de empleos en la que se cuidará de agrupar funciones afines, con el propósito de que las remuneraciones guarden una estrecha relación con el servicio que se desempeñe, en el entendido de que queda a juicio de la Secretaría de Finanzas, modificar la clasificación cuando así lo considere conveniente.
+El gasto total propuesto por el Ejecutivo en el proyecto de Presupuesto de Egresos, aquél que apruebe la Legislatura Local y el que se ejerza en el año fiscal, deberá contribuir a un balance presupuestario sostenible, entendiéndose éste como la diferencia entre los ingresos totales incluidos en la Ley de Ingresos, y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+El Gobierno del Estado deberá generar un balance presupuestario sostenible. Se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-Además de las clasificaciones anteriores, la clasificación de sexo, que agrupa las previsiones de gasto con base en su destino por sexo, diferenciando entre mujeres y hombres, deber (sic) formar parte de las presentaciones del presupuesto de egresos.
+Debido a razones excepcionales, el Presupuesto de Egresos podrá prever un balance presupuestario de recursos disponibles negativo. En estos casos, el Ejecutivo del Estado, deberá dar cuenta a la Legislatura local de los siguientes aspectos de acuerdo a como lo dispone la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ### CAPITULO TERCERO.
 
@@ -263,15 +275,51 @@ Previos los estudios, revisiones o investigaciones que la Secretaría de Finanza
 
 Si alguna de las dependencias dejare de presentar su proyecto de Presupuesto en el plazo que fija la presente ley, la Secretaría de Finanzas quedará facultada para formulario, a efecto de que se presente con oportunidad el proyecto de Presupuesto íntegro, a la Legislatura del Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 16-A.
+
+El proyecto de Presupuesto de Egresos deberá prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto a las finanzas estatales. El monto de dichos recursos como mínimo deberá corresponder al diez por ciento de la aportación realizada por el Estado para la reconstrucción de la infraestructura del Estado dañada que en promedio se registre durante los últimos cinco ejercicios, actualizados por el Índice Nacional de Precios al Consumidor, medido a través de las autorizaciones de recursos que le fueron aprobadas por el Fondo de Desastres Naturales, y deberá ser aportado a un fideicomiso público que se constituya específicamente para dicho fin.
+
+Los recursos que se aporten al fideicomiso público señalado en el párrafo anterior, deberán ser destinados, en primer término, para financiar las obras y acciones de reconstrucción de la infraestructura estatal aprobadas en el marco de las reglas generales del Fondo de Desastres Naturales, como la contraparte del Estado a los programas de reconstrucción acordados con la federación.
+
+En caso de que el saldo de los recursos del fideicomiso a que se refiere el primer párrafo de este artículo, acumule un monto que sea superior al costo promedio de reconstrucción de la infraestructura estatal dañada de los últimos cinco años del Estado, medido a través de las autorizaciones de recursos aprobadas por el Fondo de Desastres Naturales, el Estado podrá utilizar el remanente que le corresponda para acciones de prevención y mitigación, los cuales podrán ser aplicados para financiar la contraparte del Estado de los proyectos preventivos, conforme a lo establecido en las reglas de operación del Fondo para la Prevención de Desastres Naturales.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 16-B.
+
+En el proyecto de Presupuesto de Egresos se deberá presentar en una sección específica, las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+
+a) Las remuneraciones de los servidores públicos, desglosando las percepciones ordinarias y extraordinarias, e incluyendo las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones;
+
+b) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 16-C.
+
+Se deberán considerar en el proyecto de Presupuesto de Egresos, las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos realizados al amparo de la Ley de Proyectos para Prestación de Servicios del Estado de Coahuila de Zaragoza celebrados o por celebrarse durante el siguiente ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 16-D.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración de la Legislatura local. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.
+
+Todo proyecto de ley o decreto que sea sometido a votación del Pleno de la Legislatura local, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
+
+La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación local, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado.
+
 ### CAPITULO CUARTO.
 
 DE LA INICIATIVA, DISCUSION Y APROBACION DEL PRESUPUESTO DE EGRESOS.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-La persona Titular del Poder Ejecutivo deberá presentar a la consideración de la Legislatura del Estado, el Proyecto de Presupuesto de Egresos, en un plazo de 30 días contado a partir de la fecha en que se inicie el Período Ordinario de Sesiones del Congreso.
+La persona Titular del Poder Ejecutivo deberá presentar a la consideración de la Legislatura del Estado, el proyecto de Presupuesto de Egresos, a más tardar el 30 de noviembre del año anterior al del Ejercicio Fiscal que corresponda, o hasta el día 15 del mes de diciembre cuando inicie su encargo en los términos de los artículos 77 y 105 de la Constitución Política del Estado de Coahuila de Zaragoza.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -319,9 +367,11 @@ La asignación de las partidas fija el límite máximo de las erogaciones, a no 
 
 La ministración de fondos públicos se hará por medio de autorizaciones de pago extendidas de acuerdo con los requisitos y los formularios que al efecto señale el Reglamento de esta Ley, o en su defecto, la Secretaría de Finanzas.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015) (REFORMADA SU IDENTIFICACIÓN [N. DE E. ANTES 24 BIS], P.O. 21 DE OCTUBRE DE 2016)
 
-ARTICULO 24 BIS.- Los subsidios de origen federal deberán sujetarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad y temporalidad, para lo cual las dependencias y entidades que los otorguen deberán:
+###### ARTICULO 24-A.
+
+Los subsidios de origen federal deberán sujetarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad y temporalidad, para lo cual las dependencias y entidades que los otorguen deberán:
 
 I.- Identificar con precisión a la población objetivo, tanto por grupo específico como por municipio;
 
@@ -348,6 +398,20 @@ Ningún acto o contrato que genere un gasto con cargo al Presupuesto, se conside
 ###### ARTICULO 27.
 
 Se prohíbe el traspaso de dotación de partidas. En casos urgentes de conveniencia general a juicio (sic) Titular del Poder Ejecutivo, éste solicitará al Congreso del Estado autorice las transferencias pertinentes con la modalidad requerida.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 27-A.
+
+La asignación global de recursos para servicios personales que se apruebe en el Presupuesto de Egresos, tendrá como límite, el producto que resulte de aplicar al monto aprobado en el Presupuesto de Egresos del ejercicio inmediato anterior, una tasa de crecimiento equivalente al valor que resulte menor entre:
+
+a) El 3 por ciento de crecimiento real;
+
+b) El crecimiento real del Producto Interno Bruto señalado en los Criterios Generales de Política Económica que emita el Titular del Poder Ejecutivo Federal para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente una variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero.
+
+Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
+
+Sin perjuicio de lo establecido en el artículo 16-D de esta Ley, los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales y estatales o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en el presente artículo, hasta por el monto que específicamente se requiera para dar cumplimiento a la ley respectiva.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
@@ -376,6 +440,70 @@ Es incompatible el desempeño de un empleo o comisión remunerada con cargo a al
 ###### ARTICULO 33.
 
 Sólo por acuerdo de la persona Titular del Poder Ejecutivo del Estado, podrán ser autorizados los pagos de cantidades con cargo a las partidas de Imprevistos, Gastos de Orden Social y las correspondientes a Subsidios y Subvenciones.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 33-A.
+
+Una vez aprobado el Presupuesto de Egresos, para el ejercicio del gasto, se deberán observar las disposiciones siguientes:
+
+I. Sólo se podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
+
+II. Se podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los ingresos excedentes que obtenga el Estado y con la autorización previa de la Secretaría de Finanzas;
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+
+Para los propósitos señalados en el párrafo anterior, se deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de los proyectos de inversión pública productiva.
+
+Tratándose de proyectos de inversión pública productiva que se pretendan contratar bajo el esquema que señala la Ley de Proyectos para la Prestación de Servicios para el Estado de Coahuila de Zaragoza, se deberá acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+
+Dichas evaluaciones deberán ser públicas a través de la página oficial de internet de la Secretaría de Finanzas;
+
+IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+
+V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+
+La Secretaría de Finanzas contará con un sistema de registro y control de las erogaciones de servicios personales;
+
+VI. Se deberán tomar medidas para racionalizar el gasto corriente.
+
+Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la deuda pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del balance presupuestario de recursos disponibles negativo, y en segundo lugar a los programas prioritarios del Estado;
+
+VII. En materia de subsidios se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente.
+
+La información señalada en el párrafo anterior deberá hacerse pública a través de la página oficial de Internet de la Secretaría de Finanzas;
+
+VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 33-B.
+
+Los Ingresos excedentes derivados de Ingresos de libre disposición del Estado, deberán ser destinados a los siguientes conceptos:
+
+I. Por lo menos el cincuenta por ciento para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones; y
+
+II. En su caso, el remanente para:
+
+a) Inversión pública productiva, a través de un fondo que se constituya para tal efecto, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente; y
+
+b) La creación de un fondo cuyo objetivo sea compensar la caída de ingresos de libre disposición de ejercicios subsecuentes.
+
+Los Ingresos excedentes derivados de Ingresos de libre disposición del Estado podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 33-C.
+
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a efecto de cumplir con el principio de sostenibilidad del balance presupuestario a que se refiere el artículo 11 de esta Ley y del balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
+
+I. Gastos de comunicación social;
+
+II. Gasto corriente que no constituya un subsidio entregado directamente a la población; y
+
+III. Gasto en servicios personales, prioritariamente las erogaciones por concepto de percepciones extraordinarias.
+
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
 ### CAPITULO SEXTO.
 
@@ -410,6 +538,12 @@ Con los datos ministrados por las Dependencias del Gobierno, la Secretaría de F
 ###### ARTICULO 39.
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones presupuestarias, estará obligado a guardar absoluta reserva en lo concerniente a la documentación y demás datos que se relacionen con la función que desempeñe. Dicha reserva no comprenderá los casos que señalen las leyes y aquellos en que deben suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales o a los tribunales competentes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 39-A.
+
+Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el dos por ciento de los ingresos totales del Estado.
 
 ### CAPITULO SEPTIMO.
 
@@ -600,3 +734,45 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su public
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 574.- SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relacionadas con el balance presupuestario sostenible y la responsabilidad hacendaria a que se refiere la Ley Reglamentaria del Presupuesto de Egresos del Estado de Coahuila de Zaragoza, entrarán en vigor para efectos del ejercicio fiscal 2017, de acuerdo a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios con las salvedades previstas en los transitorios séptimo al décimo primero.
+
+###### ARTÍCULO TERCERO.
+
+El porcentaje a que hace referencia el artículo 16-A de la Ley Reglamentaria del Presupuesto de Egresos para el Estado de Coahuila de Zaragoza, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un dos punto cinco por ciento para el año 2017, cinco por ciento para el año 2018, siete punto cinco por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO CUARTO.
+
+El registro de proyectos de inversión pública productiva del Estado y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 33-A, fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente de la Ley Reglamentaria del Presupuesto de Egresos del Estado de Coahuila de Zaragoza, deberá estar en operación a más tardar el primero de enero de 2018.
+
+###### ARTÍCULO QUINTO.
+
+El artículo 27 de la Ley Reglamentaria del Presupuesto de Egresos del Estado de Coahuila de Zaragoza entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 27 de la Ley Reglamentaria del Presupuesto de Egresos del Estado de Coahuila de Zaragoza hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo del artículo a que hace referencia el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor de la Ley Reglamentaria del Presupuesto de Egresos del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEXTO.
+
+Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 33-B, fracción I de la Ley Reglamentaria del Presupuesto de Egresos del Estado de Coahuila de Zaragoza, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 33-B de la Ley Reglamentaria del Presupuesto de Egresos para el Estado de Coahuila de Zaragoza, adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de ingresos de libre disposición, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+###### ARTÍCULO SÉPTIMO.
+
+El porcentaje a que hace referencia el artículo 39-A de la Ley Reglamentaria del Presupuesto de Egresos para el Estado de Coahuila de Zaragoza, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO OCTAVO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
