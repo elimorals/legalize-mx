@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "2015-12-22"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el Miércoles 1 de Febrero de 1984.
 
@@ -66,6 +66,10 @@ VI.- El Registro patrimonial de los servidores públicos.
 ###### ARTICULO 2o.
 
 Son sujetos de esta Ley, los servidores públicos mencionados en el artículo 122 Constitucional y todos aquellos que manejen o apliquen recursos económicos del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
@@ -531,6 +535,10 @@ XXXII. Exigir por los medios legales a su alcance, el pago o contraprestación a
 
 XXXIII. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición legal, reglamentaria o administrativa relacionada con el servicio público.
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXIV. Cumplir con los preceptos establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables en esa materia.
+
 El incumplimiento a lo dispuesto en el presente artículo dará lugar al procedimiento y a las sanciones que correspondan según la naturaleza de la infracción en que se incurra.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
@@ -621,13 +629,27 @@ Para los efectos de la ley, se considerará reincidente al servidor público que
 
 Procede la imposición de sanciones económicas cuando por el incumplimiento de las obligaciones establecidas en el artículo 54 de la ley, se produzcan beneficios o lucro, o se causen daños o perjuicios. Las sanciones económicas podrán ser de hasta tres tantos del beneficio o lucro obtenido o de los daños o perjuicios causados.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la hacienda del Estado o de los Municipios, incluyendo en su caso, los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables en esa materia, serán responsables del pago de la indemnización correspondiente, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales privadas en los casos en que hayan participado y originen una responsabilidad.
+
 En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios o lucro obtenido o de los daños o perjuicios causados.
 
 El monto de la sanción económica impuesta se actualizará, para efectos de su pago, en la forma y términos que establece el Código Fiscal de la Federación, tratándose de contribuciones y aprovechamientos.
 
 Cuando el acto u omisión implique beneficio, o cause daños o perjuicios, además se impondrá la sanción de inhabilitación de tres meses hasta diez años, si aquellos son de hasta el equivalente a doscientas veces el salario mínimo general mensual vigente en el Estado y de once a veinte años si excede de dicho límite.
 
-Este último plazo de inhabilitación también será aplicable por infracciones graves de los servidores públicos, no obstante no exista un beneficio, daño o perjuicio a que alude el cuarto párrafo.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Este último plazo de inhabilitación también será aplicable por infracciones graves de los servidores públicos, no obstante no exista un beneficio, daño o perjuicio a que alude el séptimo párrafo.
 
 En el caso de infracciones graves se impondrá, además, la sanción de destitución.
 
@@ -694,6 +716,10 @@ Que por una sola vez, por un mismo hecho y en un período de un año, la actuaci
 ###### ARTICULO 65.
 
 Si la Secretaría o el contralor interno tuvieran conocimiento de hechos que impliquen responsabilidad penal, deberá formular las denuncias o querellas a que hubiere lugar cuando así se requiera; la omisión a esta disposición será causa de responsabilidad en los términos de ley.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Tratándose de infracciones a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables en esa materia, los funcionarios del Estado y los Municipios informarán a la autoridad competente cuando impliquen la comisión de una conducta sancionada en los términos de la legislación penal.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
@@ -819,7 +845,13 @@ La ejecución de las sanciones administrativas se llevará a cabo, una vez que s
 
 Tratándose de los servidores públicos de base, la suspensión y la destitución se ejecutarán por el titular de la dependencia o entidad correspondiente, conforme a las causales de suspensión, cesación del cargo o rescisión de la relación de trabajo y de acuerdo a los procedimientos previstos en la legislación aplicable.
 
-Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal o municipal, se harán efectivas mediante el procedimiento administrativo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las sanciones económicas que se impongan constituirán créditos fiscales a favor del erario estatal o municipal, se fijarán en cantidad liquida y se harán efectivas mediante el procedimiento administrativo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las sanciones e indemnizaciones a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal, administrativo o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1242,3 +1274,9 @@ Artículo primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Con la finalidad de dar cumplimiento a lo previsto en el párrafo primero de la fracción V del artículo 5º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit, las recaudadoras que culminan su periodo en el año 2017, deberán instrumentar los mecanismos financieros y jurídicos, para convenir con el representante legal del Patronato, la forma y plazos para enterar y acreditar a más tardar el 31 de diciembre del 2016, la totalidad de los pasivos que tienen con motivo del impuesto especial destinado a la Universidad Autónoma de Nayarit, tanto de administraciones anteriores como la vigente. Posterior a ello, aplicará ordinariamente lo previsto en el párrafo primero, fracción V, del artículo 5 de la ley citada en este párrafo.
 
 Artículo tercero.- Los recursos que se obtengan con motivo de la regularización de los adeudos de administraciones anteriores, deberán ser utilizados preferentemente para infraestructura y equipamiento, de conformidad a lo establecido en la fracción IV del artículo 4 º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
