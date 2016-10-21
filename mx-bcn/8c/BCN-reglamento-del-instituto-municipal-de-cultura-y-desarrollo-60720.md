@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-cultura-y-desarrollo-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2016-02-19"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -485,9 +485,13 @@ El Consejo del Instituto podrá celebrar las sesiones extraordinarias que estime
 
 La convocatoria para las sesiones ordinarias y extraordinarias del Consejo del Instituto deberá indicar los puntos del Orden del Día.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 27.
 
-Las sesiones, para su validez, requerirán que estén presentes por lo menos la mitad más uno de sus miembros. En caso de no encontrarse presentes el Presidente y el Secretario del Consejo, no podrá desarrollarse la sesión.
+Las sesiones, para su validez, requerirán que estén presentes por lo menos la mitad más uno de sus miembros. Si de la hora señalada para el inicio de la sesión no se encuentran presentes integrantes en número suficiente para la declaración del quórum legal, se señalará hora para sesionar en segunda convocatoria a más tardar al siguiente día hábil, celebrando válidamente la sesión con los integrantes que concurran, debiendo estar obligatoriamente entre estos el Presidente del Consejo.
+
+No se podrán celebrar sesiones en segunda convocatoria, cuando entre los asuntos a tratar se encuentren adecuaciones presupuestales y/o aprobación de informe de avance de gestión financiera y/o cierre presupuestal de cada ejercicio fiscal, y/o cualquier asunto relacionado con la cuenta pública, sin excepción alguna.
 
 ###### Artículo 28.
 
@@ -1102,3 +1106,9 @@ P.O. 19 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA ADICIONAR EL ARTÍCULO 12 AL ACUERDO DE CREACIÓN DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA, ASÍ COMO REFORMAR EL ARTÍCULO 39 Y ADICIONES DE NUMERALES AL REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma y adiciones al Reglamento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 27 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 030/2016".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
