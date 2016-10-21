@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-96004"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-20"
-last_updated: "2013-09-20"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de septiembre de 2013.
 
@@ -249,9 +249,11 @@ Dentro del Programa contra el Tabaquismo, se deberán desarrollar acciones para 
 
 ### CAPÍTULO IV. DE LA PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 15.
 
-Dentro del territorio del Estado de Baja California, para asegurar el derecho a la protección de la salud de toda la población, queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco, definidos en la presente Ley.
+Dentro del territorio del Estado de Baja California, para asegurar el derecho a la protección de la salud de toda la población, queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco, definidos en la presente ley, así como en las escuelas públicas y privadas de educación básica y media superior.
 
 Los espacios 100% libres de humo de tabaco deberán estar permanentemente señalizados.
 
@@ -504,3 +506,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P. O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 621 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
