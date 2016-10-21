@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2016-02-05"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -1043,11 +1043,11 @@ III. Las ubicadas fuera de los centros de población, y
 
 IV. Las no consideradas en los programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 61.
 
-MANIFIESTO DE IMPACTO AMBIENTAL.
-
-Los ayuntamientos solicitarán a los Propietarios o Poseedores, previo a la expedición de la licencia de construcción, el manifiesto de impacto ambiental que emite la Dirección de (sic) General de Ecología del Estado, en los términos de la Ley del Equilibrio Ecológico y de Protección al Ambiente del Estado de Baja California.
+MANIFIESTO DE IMPACTO AMBIENTAL. La autoridad competente solicitará a los Propietarios o Poseedores, previo a la expedición de la licencia de construcción, el manifiesto de impacto ambiental, en los términos de la Ley de Protección al Ambiente para el Estado de Baja California.
 
 ###### ARTICULO 62.
 
@@ -1406,3 +1406,9 @@ PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO: Se establece un término de sesenta días para que el Ejecutivo del Estado y Municipios adecúen su normatividad aplicable a la materia.
 
 TERCERO: Se señalan un término de dieciocho meses para que de manera progresiva se adecúen los edificios públicos y privados e instalaciones, a las necesidades de personas con discapacidad.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 629 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 61 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
