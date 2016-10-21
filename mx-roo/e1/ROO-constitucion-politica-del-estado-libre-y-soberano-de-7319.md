@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2016-08-01"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -275,9 +275,9 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. El presupuesto de egresos del Instituto no podrá ser menor al cero punto doce por ciento del presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. El presupuesto de egresos del instituto no podrá ser menor al cero punto diez por ciento del presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados en los términos que prevea la ley, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
 
@@ -833,9 +833,9 @@ La Ley General de Instituciones y Procedimientos Electorales establece los requi
 
 Los funcionarios señalados en el párrafo que antecede, no podrán, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su presupuesto de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Tribunal, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su presupuesto de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no podrá ser menor al cero punto doce por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 El Instituto Electoral de Quintana Roo contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por ley.
 
@@ -1153,11 +1153,13 @@ La Legislatura podrá requerir información o documentación al Gobernador del E
 
 La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio de estas facultades.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 67.
 
-El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual no podrá ser menor al tres por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
+El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual no podrá ser menor al uno punto sesenta y cinco por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 Si durante el ejercicio fiscal que corresponda se modifica el Presupuesto de Egresos del Estado, no se podrán afectar los presupuestos del Poder Judicial, del Poder Legislativo y de los órganos constitucionales autónomos.
 
@@ -1459,11 +1461,11 @@ XV.- Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION SEXTA. De la Fiscalización del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 77.
 
-El Órgano de Fiscalización Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El presupuesto de egresos del Órgano de Fiscalización Superior no podrá ser menor al cero punto cinco por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
+El Órgano de Fiscalización Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El presupuesto de egresos del Órgano de Fiscalización Superior no podrá ser menor al cero punto cuarenta y uno por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -1779,9 +1781,9 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los Ayuntamientos que violen estos derechos.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no podrá ser menor al cero punto dieciocho por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por un Presidente y seis Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
 
@@ -1875,7 +1877,9 @@ C.- La Fiscalía General del Estado administrará con autonomía su presupuesto;
 
 En todo caso, el anteproyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Fiscal General del Estado remitirá dicho anteproyecto a la Legislatura del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
-El presupuesto de egresos para la Fiscalía General del Estado no podrá ser menor al dos punto ocho por ciento del Presupuesto de Egresos del Estado para el ejercido fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El presupuesto de egresos para la Fiscalía General del Estado no podrá ser menor al dos punto cero cinco por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior.
 
 La Cuenta Pública de la Fiscalía General del Estado se sujetará a lo dispuesto por esta Constitución y las leyes aplicables en la materia.
 
@@ -1911,11 +1915,11 @@ El Poder Judicial del Estado, tendrá la obligación de proporcionar a los parti
 
 El Sistema de Justicia Indígena se ejercerá por las autoridades, de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, en los términos que disponga la ley de la materia.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 98.
 
-El Tribunal Superior de Justicia se integra por nueve magistrados numerarios y el número de supernumerarios que determine la Ley Orgánica del Poder Judicial.
+El Tribunal Superior de Justicia se integra por doce Magistrados Numerarios y el número de Supernumerarios que determine la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -1937,11 +1941,11 @@ El Pleno del Tribunal Superior de Justicia de oficio o a petición fundada por p
 
 Cuando las necesidades del servicio de administración de justicia lo amerite, en el Sistema Penal Acusatorio, excepcionalmente el Magistrado Presidente y/o el Magistrado Consejero, podrán integrar Sala, para la resolución de los recursos de su competencia, conforme a la legislación de la materia. En tales casos, el Magistrado Presidente y/o el Magistrado Consejero dirigirán petición al Pleno del Tribunal Superior de Justicia, para que se apruebe su integración a Sala Colegiada o Unitaria, según corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-###### ARTICULO 99.
+###### ARTÍCULO 99.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, exceptuando lo establecido en el último párrafo del Artículo 98 de esta Constitución, designado por el Tribunal en Pleno en el mes de agosto de cada seis años y podrá ser reelecto por una sola vez, para un periodo de igual duración. A la Sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho de elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, exceptuando lo establecido en el último párrafo del artículo 98 de esta Constitución, designado por el Tribunal en Pleno en el mes de agosto de cada cinco años sin posibilidad de reelección. A la Sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho de elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1967,9 +1971,9 @@ Esta Constitución garantiza la independencia de los Magistrados y Jueces del Po
 
 La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de quienes sirvan al Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su encargo un período de seis años, podrán ser reelectos por una sola vez, para un período de igual duración, y solo podrán ser separados en los términos que señala el Título Octavo de esta Constitución o en su caso, como consecuencia del retiro forzoso.
+Los Magistrados del Tribunal Superior de Justicia durarán en su encargo un período de seis años. Los Magistrados Numerarios podrán ser reelectos por una sola vez, para un período de seis años. Los Magistrados Supernumerarios, podrán ser reelectos por una sola vez, para un periodo de tres años. Los Magistrados del Tribunal Superior de Justicia solo podrán ser separados en los términos que señala el Título Octavo de esta Constitución o en su caso, como consecuencia del retiro forzoso en términos de esta Constitución.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
@@ -2025,17 +2029,21 @@ Los nombramientos de los Magistrados deberán recaer preferentemente entre aquel
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 102.
 
-Los Magistrados del Tribunal de Justicia del Estado y de adolescentes, se elegirán de la forma siguiente:
+Los Magistrados del Tribunal Superior de Justicia serán designados conforme al siguiente procedimiento:
 
-I.- El Consejo de la Judicatura del Poder Judicial del Estado, de conformidad con la Ley Orgánica del Poder Judicial, propondrá seis candidatos por cada cargo a Magistrado remitiendo los expedientes correspondientes al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna por cada magistratura vacante, la cual enviará a la Legislatura del Estado para que designe a un Magistrado con la aprobación de la mayoría de los diputados que integren la legislatura.
+l. El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de la mayoría de sus miembros, dentro del plazo de quince días naturales;
 
-II.- Si dentro del término de quince días hábiles de haber sometido la terna para Magistrado a la consideración de la Legislatura del Estado, ésta nada resolviere o la rechaza, el derecho pasará al Ejecutivo del Estado, quien nombrará al Magistrado dentro de los candidatos propuestos en la terna señalada en el párrafo que antecede, y lo comunicará al Consejo de la Judicatura del Poder Judicial del Estado, para que éste a su vez proceda a la toma de protesta de ley.
+II. Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, el Gobernador dentro de los quince días posteriores, propondrá una nueva terna;
+
+III. Si presentada la segunda terna, a la Legislatura del Estado, ésta la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto de cuando menos la mitad más uno de los Diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión, realizará la designación de entre los integrantes de la segunda terna.
+
+En los recesos de la Legislatura, la Diputación Permanente hará el nombramiento con carácter de provisional, en tanto aquélla se reúne y emite la aprobación definitiva.
+
+Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
@@ -2189,15 +2197,21 @@ Los integrantes del Consejo de la Judicatura, con excepción de su Presidente, r
 
 El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 109.
 
-El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el Presupuesto de Egresos para el Poder Judicial no podrá ser menor al tres por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda.
+El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el Presupuesto de Egresos para el Poder Judicial no podrá ser menor al dos punto veintisiete por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 El Presidente del Tribunal Superior de Justicia lo remitirá para su inclusión en el Proyecto de Presupuesto del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+
 La Cuenta Pública del Poder Judicial del Estado será revisada por la Legislatura del Estado, en los términos de esta Constitución y las leyes aplicables y comprenderá los recursos del Poder Judicial considerados en el Fondo para el Mejoramiento en la Administración e Impartición de Justicia.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
 La Ley establecerá las bases para el manejo de dicho fondo.
 
@@ -4747,7 +4761,7 @@ P.O. 15 DE JUNIO DE 2016.
 
 P.O. 25 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 411 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 411 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con excepción de lo previsto en el artículo séptimo transitorio de este decreto.
 
@@ -4775,7 +4789,7 @@ CUARTO. Las referencias que se hagan en otras leyes de la entidad a la Procuradu
 
 QUINTO. Los porcentajes de presupuesto de egresos establecidos para el Poder Legislativo, el Poder Judicial y órganos autónomos constitucionales, de acuerdo con lo establecido en el presente decreto, deberán aplicarse a partir del Presupuesto de Egresos del Estado, para el ejercicio fiscal 2017.
 
-SEXTO. Por esta única ocasión, quien ejerce la titularidad de la Presidencia del Tribunal Superior de Justicia del Estado a la entrada en vigor del presente decreto, podrá participar en el proceso de designación siguiente como Presidente del Tribunal Superior de Justicia del Estado.
+SEXTO. (DEROGADO, P.O. 21 DE OCTUBRE DE 2016)
 
 SÉPTIMO. Lo dispuesto en el artículo 102 de este decreto, entrará en vigor a los quince días hábiles posteriores a la entrada en vigor de este decreto.
 
@@ -4804,3 +4818,15 @@ P.O. 1 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, cuando inicie su vigencia el Decreto por el que se reforman y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y por el que se reforman diversas disposiciones de la Ley Orgánica del Poder Judicial del Estado de Quintana Roo y de la Ley Reglamentaria de los artículos 104 y 105 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 005 POR EL QUE SE REFORMAN El PÁRRAFO TERCERO DEL ARTÍCULO 21, EL PÁRRAFO DÉCIMO CUARTO DE LA FRACCIÓN II DEL ARTÍCULO 49, EL PÁRRAFO PRIMERO DEL ARTÍCULO 67, EL PÁRRAFO PRIMERO DEL ARTÍCULO 77, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 94, EL PÁRRAFO TERCERO DEL APARTADO C DEL ARTÍCULO 96, EL PÁRRAFO PRIMERO DEL ARTÍCULO 98, EL PÁRRAFO PRIMERO DEL ARTÍCULO 99, El PÁRRAFO TERCERO DEL ARTÍCULO 100, EL ARTÍCULO 102 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 109; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE DEROGA EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO NÚMERO 411 DE LA H. XIV LEGISLATURA DEL ESTADO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO TOMO II, NÚMERO 57 EXTRAORDINARIO, OCTAVA ÉPOCA, DE FECHA 25 DE JUNIO DE 2016”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+TERCERO. El procedimiento para la elección de los Magistrados Numerarios vacantes, deberá iniciar a más tardar dentro de los quince días siguientes a la entrada en vigor del presente decreto.
+
+CUARTO. Los Magistrados Supernumerarios que se encuentren en funciones a la entrada en vigor del presente decreto y que no hayan sido reelectos en el mismo cargo, podrán reelegirse por el periodo de tres años establecido en el párrafo tercero del artículo 100 de esta Constitución.
