@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2016-10-14"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -883,9 +883,9 @@ IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumno
 
 En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, sexual, afectiva, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar será compatible con su edad.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+Las autoridades educativas, educadores, directivos y personal de los planteles escolares tanto públicos como privados, en donde estén matriculados y cursen sus estudios niños y jóvenes menores de edad que tengan conocimiento de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente, así mismo, tienen la obligación de dar aviso a las autoridades del Sistema Estatal para el Desarrollo Integral de la Familia, de aquellos estudiantes que hayan dejado de asistir sin causa justificada, en un periodo de cinco días continuos de clase, para que a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes realicen las indagatorias correspondientes para evitar la deserción escolar de los menores reportados, y en el caso de encontrar evidencias de ilícitos en perjuicio de los menores, se proceda a la denuncia pertinente ante la autoridad responsable. El aviso al Sistema Estatal para el Desarrollo Integral de la Familia deberá de realizarse dentro de los tres días hábiles posteriores al cumplimiento del plazo de las inasistencias.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -2098,3 +2098,9 @@ P.O. 14 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 599 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 641 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
