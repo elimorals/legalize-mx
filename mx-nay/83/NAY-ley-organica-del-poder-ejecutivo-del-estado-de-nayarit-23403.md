@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2015-10-24"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -45,9 +43,11 @@ LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
 ### CAPITULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 1o.
 
-La presente Ley establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal.
+La presente Ley establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal. Estas administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -231,9 +231,13 @@ IV. Cumplir y hacer cumplir las políticas, acuerdos, órdenes, circulares y dem
 
 V. Fijar, dirigir y controlar las políticas de la Dependencia a su cargo, así como programar, coordinar y evaluar, en los términos de la legislación aplicable, las actividades de las entidades del sector que le corresponda coordinar;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, remitiéndolos a la Secretaría de Administración y Finanzas, y en el caso de los proyectos de inversión a la Secretaría de Planeación, Programación y Presupuesto con la oportunidad que se solicite.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, conforme a lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados del mismo, remitiéndolos a la Secretaría de Administración y Finanzas, y en el caso de los proyectos de inversión a la Secretaría de Planeación, Programación y Presupuesto con la oportunidad que se solicite.
+
+El anteproyecto propuesto deberá contribuir a un balance presupuestario sostenible.
 
 VII. Desempeñar las comisiones y funciones que el Gobernador le confiera, manteniéndolo informado sobre el desarrollo y ejecución de las mismas;
 
@@ -257,13 +261,13 @@ XIV. Atender, verificar y dar respuesta a las recomendaciones que señalen los o
 
 XV. Intervenir en los procedimientos judiciales y administrativos en que la Dependencia a su cargo sea parte o tengan interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos vigentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 XVI. Nombrar, designar, remover, cesar, cambiar de adscripción, comisionar y otorgar licencias, a los servidores públicos y empleados de la Dependencia a su cargo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -517,7 +521,11 @@ V.- Aplicar y vigilar el debido cumplimiento de las leyes, reglamentos y demás 
 
 VI.- Formar parte de los órganos de dirección y de gobierno de las entidades de la Administración Pública y Paraestatal;
 
-VII.- Formular y presentar al Gobernador del Estado, los proyectos de la Ley de Ingresos, del Presupuesto de Egresos y el programa general del gasto público;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VII.- Formular y presentar al Gobernador del Estado, los proyectos de la Ley de Ingresos, del Presupuesto de Egresos y el programa general del gasto público, conforme a lo establecido en la Ley de Presupuestación, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados del mismo. El proyecto propuesto deberá contribuir a un balance presupuestario sostenible;
 
 VIII.- Proponer al Gobernador del Estado, conforme a la ley, el otorgamiento de estímulos fiscales, en coordinación con las dependencias a quienes corresponda el fomento de actividades productivas;
 
@@ -533,7 +541,11 @@ XIII.- Elaborar conjuntamente con la Secretaría de la Contraloría General la n
 
 XIV.- Solventar por acuerdo del Gobernador del Estado, conjuntamente con la Secretaría de la Contraloría General las observaciones que determine el Congreso del Estado a través del Órgano de Fiscalización Superior del Estado;
 
-XV.- Proponer al Gobernador del Estado las modificaciones a los presupuestos de egresos e ingresos, así como las normas y criterios con los cuales podrán realizar transferencias dentro del presupuesto de las dependencias y entidades y, en su caso, definir y aplicar con autorización del Gobernador del Estado, las fuentes alternas de financiamiento que permitan lograr el equilibrio financiero entre los ingresos y egresos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XV.- Proponer al Gobernador del Estado las modificaciones a los presupuestos de egresos e ingresos, así como las normas y criterios con los cuales podrán realizar transferencias dentro del presupuesto de las dependencias y entidades y, en su caso, definir y aplicar con autorización del Gobernador del Estado, las fuentes alternas de financiamiento que permitan lograr el equilibrio financiero entre los ingresos y egresos; además, a efecto de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto señalados en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit;
 
 XVI.- Recaudar y administrar los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y demás ingresos que el estado tenga derecho a percibir en los términos de las leyes fiscales aplicables, y convenios suscritos en materia de colaboración administrativa en materia fiscal;
 
@@ -555,7 +567,11 @@ XXIV.- Dirigir la negociación y llevar el registro y control de la deuda públi
 
 XXV.- Determinar la normatividad a seguir para la cancelación de cuentas incobrables y tramitar y resolver su cancelación en los casos que proceda;
 
-XXVI.- Elaborar y presentar al Gobernador del Estado, la cuenta pública de conformidad con los plazos estipulados en la ley y mantener relaciones de coordinación con el Congreso del Estado, a través del Órgano de Fiscalización Superior del Estado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXVI.- Elaborar y presentar al Gobernador del Estado, la cuenta pública de conformidad con los plazos estipulados en la ley y en caso de aumento o creación del gasto del Presupuesto de Egresos deberá revelar en la misma y en los informes trimestrales, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado, asimismo, deberá mantener relaciones de coordinación con el Congreso del Estado, a través del Órgano de Fiscalización Superior del Estado;
 
 XXVII.- Emitir el clasificador por objeto de gasto presupuestal, para la aplicación y control del gasto público en las dependencias y entidades de la Administración Pública;
 
@@ -659,11 +675,65 @@ LXXV.- Autorizar la realización de impresos en coordinación con las dependenci
 
 LXXVI.- Llevar el registro y control de vehículos, así como ejercer las funciones operativas de la administración del impuesto federal sobre tenencia o uso de vehículos, consistentes en recaudación, comprobación, determinación y cobro del mismo, en los términos de los convenios celebrados con el Gobierno Federal;
 
-LXXVII.- Otorgar becas en los términos de las disposiciones vigentes, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-LXXVIII.- Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
+LXXVII.- Otorgar becas en los términos de las disposiciones vigentes;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE JUNIO DE 2010, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR 32 FRACCIONES.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXVIII.- Reportar en los informes trimestrales y en la Cuenta Pública que entregue al Congreso del Estado y a través de su página oficial de internet, el avance de las acciones previstas en el caso de que la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos prevean un balance presupuestario de recursos disponibles negativo conforme a la legislación aplicable, hasta en tanto se recupere el presupuesto sostenible de recursos disponibles;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXIX.- Publicar en su página oficial de internet los resultados de las evaluaciones realizadas respecto al análisis de costo beneficio, socioeconómico y de conveniencia del área encargada de realizarlos; así como la información relativa a los subsidios en los cuales se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXX.- Autorizar la realización de erogaciones adicionales a las aprobadas en el presupuesto de egresos con cargo a los ingresos excedentes que se obtengan;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXI.- Realizar una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración del Congreso del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXII.- Apoyar técnicamente a los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía, en las proyecciones y resultados de finanzas públicas de sus iniciativas de las leyes de ingresos y los proyectos de presupuestos de egresos;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXIII.- Confirmar que los financiamientos y obligaciones que contrate la Administración Pública Estatal, Centralizada y Paraestatal, fueron celebrados bajo las mejores condiciones de mercado;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXIV.- Realizar periódicamente la evaluación del cumplimiento de las obligaciones específicas de responsabilidad hacendaria a cargo de los Municipios; dicha evaluación deberá publicarse en su página oficial de internet;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXV.- Enviar trimestralmente a la Secretaría de Hacienda y Crédito Público del Gobierno Federal, la información que se especifique en el convenio que se celebre, correspondiente a la Deuda Estatal Garantizada de cada Municipio, para efectos de la evaluación periódica a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXVI.- Inscribir y transparentar la totalidad de los Financiamientos y Obligaciones a cargo de los Entes Públicos en el Registro Estatal de Deuda Pública;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXVII.- Publicar la información financiera de la Administración Pública Estatal, Centralizada y Paraestatal, de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, deberán presentar la opinión del Órgano de Fiscalización Superior del Estado, en la que se manifieste el cumplimiento de dicha publicación;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXVIII.- Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+LXXXIX.- Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE JUNIO DE 2010, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR 32 FRACCIONES.]</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2336,3 +2406,13 @@ Tercero.- Dentro de un plazo de noventa días contados a partir de la entrada en
 Cuarto.- A la entrada en vigor el (sic) presente Decreto, se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros de la Secretaría de Desarrollo Social a la Secretaría de Planeación, Programación y Presupuesto; y de la Secretaría del Medio Ambiente y la Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca, a la Secretaría de Desarrollo Rural y Medio Ambiente, de conformidad con los Acuerdos de transferencia que al efecto disponga el Titular del Poder Ejecutivo.
 
 Quinto.- Los servidores públicos adscritos a la Secretaría de Desarrollo Social, Secretaría del Medio Ambiente y Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca, no resultarán afectados en sus derechos laborales adquiridos.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, con las salvedades previstas en los artículos siguientes.
+
+Segundo.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria del Estado, a que hace referencia el artículo 30 fracción VI y el artículo 33 fracciones VII, XV, XXVI, LXXVIII, LXXX y LXXXI del presente Decreto, entrarán en vigor para el ejercicio fiscal 2017, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Tercero.- Las obligaciones relacionadas con el Registro Público Único serán aplicables hasta la entrada en operación del mismo, y de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
