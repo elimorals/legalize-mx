@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2014-09-19"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -633,9 +633,11 @@ En los centros escolares privados se actuará en los términos del primer párra
 
 ### CAPÍTULO VIII. REGLAMENTOS INTERIORES DE LOS CENTROS ESCOLARES EN MATERIA DE SEGURIDAD ESCOLAR
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-Los reglamentos interiores de los centros escolares deberán ser acordes a la presente Ley y serán autorizados por la Secretaría, en los cuales se considerarán las circunstancias propias de cada centro escolar y el nivel educativo que corresponda en materia de seguridad escolar.
+Los reglamentos interiores de los centros escolares deberán ser acordes a la presente Ley y serán autorizados por la Secretaría, en los cuales se considerarán las circunstancias propias de los centros escolares y de cada nivel educativo en materia de seguridad escolar.
 
 ###### Artículo 48.
 
@@ -647,7 +649,9 @@ II. Obligaciones de los padres de familia o tutor;
 
 III. Obligaciones para el personal directivo, docente, administrativo y de apoyo;
 
-IV. Aquellos objetos que se consideren prohibidos o de uso restringidos;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV. Enlistar aquellos objetos que se consideren prohibidos o de uso restringidos. En Educación Básica estará prohibido el uso de dispositivos móviles distintos a los autorizados por la Secretaría.
 
 V. Forma y tiempo en que deberán ser regresados a sus propietarios los objetos prohibidos o de uso restringido que les fueran encontrados en poder de los alumnos, siempre y cuando éstos sean de uso lícito;
 
@@ -762,3 +766,11 @@ P.O. 13 DE MARZO DE 2014.
 P.O. 19 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor a los 30 días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 643 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 47 Y 48 EN LA FRACCIÓN IV DE LA LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA “.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá emitir, en un plazo no mayor (sic) ciento ochenta días naturales, las modificaciones a los Reglamentos correspondientes.
