@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidad-patrimonial-del-estado-y-municipios-9412
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2015-12-21"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de mayo de 2013.
 
@@ -123,13 +123,13 @@ La indemnización se efectuará después de concluir los procedimientos para det
 
 Las indemnizaciones reguladas por esta Ley, únicamente comprenderán los daños y perjuicios reales que sean consecuencia inmediata y directa de la actividad administrativa pública irregular del Estado o del Municipio.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 15.
 
-Para determinar las indemnizaciones que deban realizarse conforme a esta Ley, serán aplicables los artículos 1812, 1812 Bis con excepción del tercer párrafo, 1812 Bis I, 1812 Bis II con excepción del segundo párrafo, 1812 Bis III, 2002, 2003 y 2004 del Código Civil para el Estado de Nuevo León.
+Para determinar las indemnizaciones que deban realizarse conforme a esta Ley, serán aplicables los artículos 1812, 1812 Bis con excepción del tercer párrafo, 1812 Bis I, 1812 Bis II, 1812 Bis III con excepción del segundo párrafo, 2002, 2003 y 2004 del Código Civil para el Estado de Nuevo León.
 
-Para el caso de las indemnizaciones por daño moral señaladas en esta Ley, que el Estado o Municipio esté obligado a cubrir, no excederá del equivalente a 1,000 veces respectivamente, el salario mínimo general diario vigente en el área geográfica correspondiente al domicilio del ente público Estatal o Municipal, por cada reclamante afectado.
+Para el caso de las indemnizaciones por daño moral señaladas en esta Ley, que el Estado o Municipio esté obligado a cubrir, no excederá del equivalente a 28 veces respectivamente, el salario mínimo diario vigente elevado al año en el área geográfica correspondiente al domicilio del ente público Estatal o Municipal, por cada reclamante afectado.
 
 Los perjuicios se indemnizarán de acuerdo a las condiciones y limitantes siguientes:
 
@@ -143,7 +143,9 @@ En ningún caso, el monto determinado por concepto de perjuicios podrá exceder 
 
 El reclamante deberá acreditar los perjuicios que le han sido ocasionados por virtud de la actividad administrativa irregular del ente público, con los documentos a que se refiere esta Ley.
 
-En caso de muerte, serán causahabientes los herederos acreditados.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo general diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+
+Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
 ###### Artículo 16.
 
@@ -406,3 +408,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Los procesos presentados con anterioridad a la presente se resolverá (sic) conforme a las anteriores disposiciones.
 
 Tercero.- El Ejecutivo del Estado como los municipios contaran con un plazo de 90 días naturales para adecuar su normativa interna.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 155. SE REFORMA POR MODIFICACIÓN EL ARTICULO 15 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
