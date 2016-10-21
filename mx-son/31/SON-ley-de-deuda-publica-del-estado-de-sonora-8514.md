@@ -4,7 +4,7 @@ identifier: "SON-ley-de-deuda-publica-del-estado-de-sonora-8514"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-06"
-last_updated: "2016-07-04"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado de Sonora, el jueves 6 de julio de 1995.
 
@@ -39,15 +39,17 @@ LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 1o.
 
-Es objeto de esta Ley establecer las bases y requisitos para la contratación, registro y control de empréstitos, créditos o financiamientos que formen parte de la deuda pública del Estado y de sus municipios, así como la afectación en garantía o como fuente de pago de las participaciones en ingresos federales y demás ingresos que correspondan al Estado y sus municipios.
+La presente Ley establece las bases, requisitos y responsabilidades en la contratación, registro y control de Financiamiento constitutivos de Deuda Pública, y la contratación de Obligaciones, así como la afectación de recursos Estatales y/o Municipales, como garantía o fuente de pago de Financiamiento u Obligaciones contratados por los Entes Públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 2o.
 
-La deuda pública está constituida por las obligaciones directas y contingentes derivadas de empréstitos o créditos a cargo de los siguientes entes públicos:
+La Deuda Pública está constituida por los Financiamientos y/u Obligaciones a cargo de los siguientes Entes Públicos:
 
 > <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -59,93 +61,63 @@ III.- Los Organismos Descentralizados Estatales o Municipales;
 
 IV.- Las Empresas de Participación Estatal o Municipal Mayoritaria; y
 
-> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-V.- Fideicomisos públicos constituidos como entidades paraestatales o paramunicipales en los que el fideicomitente sea alguno de los entes señalados en las fracciones anteriores.
+V.- Fideicomisos constituidos por el Estado o los Municipios, con el carácter de fideicomisos públicos o como entidades paraestatales o paramunicipales.
+
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 3o.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Entes públicos: los enumerados en las fracciones I a V del artículo 2º de esta Ley;
+I.- Alianzas Público Privadas: la asociación entre un Ente Contratante y un Proveedor mediante la cual éste se obliga a prestar, a largo plazo, uno o más servicios con los activos que el mismo construya o provea, por sí o a través de un tercero, incluyendo activos públicos, a cambio de una contraprestación pagadera por el Ente Contratante por los servicios que le sean proporcionados y según el desempeño del Proveedor, de conformidad con lo establecido en la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora;
 
-> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2007)</small>
+II.- Deuda Contingente: cualquier Financiamiento sin fuente o Garantía de Pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, estatales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
-II.- Entidades paraestatales: los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos constituidos como entidades paraestatales en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
+III.- Deuda Estatal Garantizada: el Financiamiento a cargo del Estado o los Municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en el artículo 20 Quinquies de esta Ley y del Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios:
 
-> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2007)</small>
+IV.- Deuda Pública: cualquier Financiamiento contratado por los Entes Públicos;
 
-III.- Entidades paramunicipales: los organismos descentralizados, las empresas de participación municipal mayoritaria y los fideicomisos públicos constituidos como entidades paramunicipales en los términos de la Ley de Gobierno y Administración Municipal del Estado de Sonora;
+V.- Entes Públicos: los enumerados en las fracciones I a V del artículo 2° de esta Ley o cualquier otro ente respecto del cual, los Entes Públicos tengan control sobre sus decisiones o acciones;
 
-> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2007)</small>
+VI.- Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de 1a forma mediante la que se instrumente;
 
-IV.- Deuda pública estatal: la que contraiga el Estado como responsable directo y como avalista o deudor solidario de las entidades paraestatales; también forman parte de ella las obligaciones que contraigan en forma directa las entidades paraestatales, siempre que correspondan a las previsiones señaladas en la fracción VIII del artículo 117 de la Constitución Federal. No constituyen deuda pública las obligaciones de hacer y no hacer que adquieran los entes públicos, siempre que no se precuantifiquen daños ni se establezcan penas convencionales para el caso de incumplimiento;
+VII.- Financiamiento Neto: la diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
 
-V.- Deuda pública municipal: la que se constituye por los empréstitos que contraten los municipios directamente y por las obligaciones que adquieran como avalistas o deudores solidarios de sus entidades paramunicipales; también forman parte de ella los créditos que en forma directa contraten las entidades paramunicipales, siempre que correspondan a las previsiones señaladas en la fracción VIII del artículo 117 de la Constitución Federal;
+VIII.- Fuente de Pago: los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
 
-VI.- Deuda pública consolidada: la suma de las deudas estatal y municipales;
+IX.- Garantía de Pago: mecanismo que respalda el pago de un Financiamiento u Obligación contratada;
 
-VII.- Empréstitos directos: las operaciones de endeudamiento que contraten el Gobierno del Estado o los Gobiernos Municipales;
+X.- Institución Financiera: instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la SHCP o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
 
-> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2007)</small>
+XI.- Inversión Pública Productiva: toda erogación realizada por un Ente Público, por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
-VIII.- Empréstitos indirectos o contingentes: las obligaciones asumidas solidaria o subsidiariamente por el Estado con los municipios o con las entidades paraestatales, y por los municipios con sus entidades paramunicipales. No constituyen empréstitos las obligaciones de hacer o no hacer que adquieran los entes públicos, siempre que no se precuantifiquen daños ni se establezcan penas convencionales para el caso de incumplimiento;
+XII.- Obligaciones a Corto Plazo: cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+XIII.- Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Alianzas Público Privadas;
 
-IX. Crédito: las operaciones de endeudamiento que contraten las entidades paraestatales y las paramunicipales;
+XIV.- Reestructura: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
 
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+XV.- Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
 
-X. Empréstitos: las operaciones de financiamiento referidas en el artículo 4º de esta Ley;
+XVI.- Registro: el Registro Estatal de Deuda Pública:
 
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+XVII.- Registro Público Único: el Registro que lleva la Secretaría de Hacienda y Crédito Público Federal;
 
-XI. Refinanciar: obtener un empréstito o crédito para pagar total o parcialmente otro preexistente;
+XVIII.- Secretaría: la Secretaria de Hacienda del Estado;
 
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
+XIX.- SHCP: la Secretaría de Hacienda y Crédito Público Federal; y
 
-XII. Reestructurar: modificar tasas de interés, plazos, forma de pago u otros términos de un empréstito o crédito preexistente;
-
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
-
-XIII. Endeudamiento neto: la diferencia entre los ingresos derivados de empréstitos y sus pagos de capital, en el entendido de que durante un ejercicio fiscal habrá:
-
-a).- Endeudamiento neto positivo: cuando los ingresos derivados de empréstitos sean superiores a los pagos de capital de empréstitos;
-
-b).- Endeudamiento neto negativo: en caso de que los ingresos derivados de empréstitos sean inferiores a los pagos de capital de empréstitos; y
-
-c).- Endeudamiento neto neutral: cuando los ingresos derivados de empréstitos sean por un monto igual a los pagos de capital de empréstitos;
-
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
-
-XIV.- Registro: el Registro Estatal de Deuda Pública; y
-
-> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2004)</small>
-
-XV.- Secretaría: la Secretaría de Hacienda del Estado.
+XX.- Techo de Financiamiento Neto: límite de Financiamiento Neto anual que podrá contratar un Ente Público, con Fuente de Pago de Ingresos de libre disposición. Dicha Fuente de Pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos.
 
 ###### ARTICULO 4o.
 
-Las operaciones a que se refiere el presente ordenamiento, podrán denominarse como financiamientos cuando se deriven de:
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
-I.- La suscripción o emisión de títulos de crédito o de cualquier otro documento pagadero a plazos;
+###### ARTICULO 4o Bis.
 
-II.- La adquisición de bienes o contratación de obras o servicios cuyo pago se pacte a plazos;
-
-III.- Los pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y
-
-IV.- En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivada de actos jurídicos, independientemente de la forma en que se les documente, contraídas por los entes públicos.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-No constituyen financiamiento las obligaciones de hacer y no hacer que adquieran los entes públicos, siempre y cuando no se precuantifiquen daños ni se establezcan penas convencionales para el caso de incumplimiento.
-
-> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
-
-###### ARTICULO 4o.
-
-BIS.- Bajo ninguna circunstancia, se considerará como financiamiento las obligaciones de hacer o no hacer adquiridas por los entes públicos bajo declaraciones, convenios o contratos derivados de Alianzas Público Privadas en términos de la legislación aplicable que celebren, siempre que los pagos que en su caso deriven de dichas obligaciones no constituyan una cantidad predeterminada, aunque si puedan ser determinables mediante una formula previamente acordada y aprobada por la Secretaría, y únicamente sean pagaderas al ocurrir un acontecimiento futuro e incierto.
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -161,25 +133,35 @@ La Secretaria es la dependencia del Ejecutivo Estatal facultada para aplicar e i
 
 Al Congreso del Estado corresponde:
 
-I. Autorizar los montos máximos de endeudamiento neto del Estado, de las entidades paraestatales y de los municipios y entidades paramunicipales, en las correspondientes Leyes de Ingresos;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-II. Autorizar en la correspondiente Ley de Ingresos los montos máximos por endeudamiento del Estado como avalista o deudor solidario o subsidiario de los municipios y de las entidades paraestatales y paramunicipales;
+I.- Autorizar por el voto favorable de dos terceras partes de sus miembros presentes, los montos máximos para la contratación de Financiamiento y Obligaciones, de los Entes Públicos en las correspondientes Leyes de Ingresos o autorizaciones específicas, incluyendo monto máximo, plazo máximo para el pago del Financiamiento u Obligación, el destino del mismo; en caso de autorizaciones especificas autorizar el plazo en el cual podrá ejercerse la autorización otorgada, dicho plazo no podrá rebasar el ejercicio fiscal inmediato siguiente a aquél en el que se otorgó la autorización correspondiente. En caso de que no se especifique un plazo para ejercer la autorización otorgada por el Congreso del Estado, ésta estará vigente hasta el término del ejercicio fiscal en el que fue otorgada;
 
-> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-III.- Autorizar en las correspondientes Leyes de Ingresos los montos máximos por endeudamiento de los municipios como avalistas o deudores solidarios o subsidiarios de las entidades paramunicipales;
+II.- Autorizar por el voto favorable de dos terceras partes de sus miembros presentes, en la correspondiente Ley de Ingresos los montos máximos por endeudamiento del Estado como avalista o deudor solidario o subsidiario de los Municipios y de las entidades paraestatales y paramunicipales;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+III.- Autorizar por el voto favorable de dos terceras partes de sus miembros presentes, en las correspondientes Leyes de Ingresos los montos máximos por endeudamiento de los Municipios como avalistas o deudores solidarios o subsidiarios de las entidades paramunicipales;
 
 > <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
 IV.- Autorizar en las correspondientes Leyes de Ingresos o mediante decretos, la afectación como garantía o fuente de pago, tanto de las participaciones en ingresos federales que corresponden al Estado y municipios, como las estatales en el caso de los municipios, y de las aportaciones federales susceptibles de ser afectadas en los términos de la legislación aplicable, así como la afectación como garantía o fuente de pago de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación. Tales afectaciones podrán también autorizarse con respecto a otras obligaciones que deriven de contratos que celebren los entes públicos dentro de sus respectivos ámbitos de competencia;
 
-> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-V.- Autorizar al Ejecutivo Estatal o Ayuntamientos, a través de la reforma o adición de la Ley de Ingresos correspondiente o mediante decreto específico, de conformidad con las disposiciones de la presente Ley, los montos de endeudamiento adicionales necesarios, cuando se presenten circunstancias extraordinarias que así lo ameriten y/o cuenten con los recursos suficientes para el cumplimiento de las obligaciones que contraigan, incluida la afectación de participaciones y/o de aportaciones federales susceptibles de ser afectadas, para destinarlas como fuente y/o garantía de pago; autorizaciones a las cuales se podrán adherir los municipios que así lo estimen conveniente; y
+V.- Autorizar por el voto favorable de dos terceras partes de sus miembros presentes, al Ejecutivo Estatal o Ayuntamientos, a través de la reforma o adición de la Ley de Ingresos correspondiente o mediante decreto específico, de conformidad con las disposiciones de la presente Ley los montos de endeudamiento adicionales necesarios, cuando se presenten circunstancias extraordinarias que así lo ameriten y/o cuenten con los recursos suficientes para el cumplimiento de las Obligaciones que contraigan, incluida la afectación de participaciones y/o de aportaciones federales susceptibles de ser afectadas, para destinarlas como fuente y/o Garantía de Pago; autorizaciones a las cuales se podrán adherir los municipios que así lo estimen conveniente; y
 
-> <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-VI.- Autorizar la celebración de los mecanismos legales que, bajo cualquier modalidad o forma, se propongan instrumentar los entes públicos, a efecto de garantizar y/o realizar el pago de financiamientos, incluidos mandatos y fideicomisos de administración y pago que no se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal o municipal mayoritaria, según sea el caso, en términos de la legislación aplicable, mismos que podrán servir como mecanismo de captación y distribución de la totalidad de las aportaciones federales susceptibles de afectarse, a los cuales se podrán adherir los entes públicos a los que así les resulte conveniente, conforme a la legislación aplicable.
+VI.- Autorizar la celebración de actos y contratos que establezcan mecanismos legales que, bajo cualquier modalidad o forma, se propongan instrumentar los Entes Públicos, a efecto de garantizar o realizar el pago de Obligaciones, incluidos mandatos y fideicomisos de garantía y/o de administración y pago que no se encuentren comprendidos dentro de los fideicomisos a los que se refiere la fracción V del artículo 2° de este ordenamiento, ni se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal o municipal mayoritaria, según sea el caso, en términos de la legislación aplicable, mismos que podrán servir como mecanismo de captación y distribución de la totalidad de las aportaciones federales o ingresos locales, susceptibles de afectarse, a los cuales se podrán adherir los Entes Públicos a los que así les resulte conveniente, conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 6o Bis.
+
+El Congreso del Estado, previo al otorgamiento de cualesquiera de las autorizaciones a las que se refiere el artículo inmediato anterior, deberá haber realizado un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente de Pago o Garantía de Pago.
 
 ###### ARTICULO 7o.
 
@@ -215,7 +197,9 @@ Compete al Ejecutivo del Estado:
 
 I.- Presentar al Congreso del Estado, las iniciativas de ley de ingresos y presupuesto de egresos, proponiendo los montos de endeudamiento netos necesarios para el financiamiento del presupuesto de egresos correspondiente y proporcionar suficientes elementos de juicio para respaldar dichas iniciativas;
 
-II.- (DEROGADA, B.O. 8 DE JULIO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE OCTUBRE DE 2016)</small>
+
+II.- Llevar a cabo lo establecido en el Capítulo IV de esta Ley para que la contratación de Financiamientos y Obligaciones se lleven a cabo bajo las mejores condiciones de mercado.
 
 > <small>(REFORMADA, B.O. 28 DE JUNIO DE 2012)</small>
 
@@ -233,9 +217,21 @@ V.- Contratar montos por endeudamientos adicionales, en los términos de la pres
 
 VI.- Asesorar a los municipios en todo lo relativo a la obtención de recursos crediticios, la contratación de empréstitos, créditos y otras operaciones financieras para sí o para sus organismos descentralizados, fideicomisos y empresas de participación municipal mayoritaria, incluyendo en su caso, el apoyo a los municipios cuando dos o más de ellos se lo soliciten, para que concurran conjuntamente ante el Congreso del Estado para la obtención de autorizaciones globales, a las cuales se podrán adherir los demás municipios que lo estimen conveniente, en términos de lo establecido en la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 9o.
 
-(DEROGADO, B.O. 8 DE JULIO DE 2004)
+Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica del Congreso del Estado, siempre y cuando cumplan con las siguientes condiciones:
+
+I.- Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto por el artículo 20 Bis de esta Ley, o tratándose de Reestructuras, exista una mejora en las condiciones contractuales;
+
+II.- No se incremente el saldo insoluto; y
+
+III.- No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, el plazo de duración del pago del principal e intereses del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+
+El Ente Público deberá informar al Congreso del Estado su intención de realizar las operaciones a que se refiere este artículo y asimismo, dentro de los quince días naturales siguientes a la celebración del Refinanciamiento o Reestructura, el Ente Público deberá informar a la Legislatura local sobre la celebración de este tipo de operaciones, así como inscribir dicho Refinanciamiento o Reestructura ante el Registro y ante el Registro Público Único.
+
+Las Obligaciones a Corto Plazo a que se refiere el artículo 20 QUATER de esta Ley no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año, salvo en el caso de las Obligaciones destinadas a Inversión Pública Productiva y se cumpla con los requisitos previstos para la contratación de Financiamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -278,6 +274,10 @@ VIII.- Llevar el Registro en los términos de la presente Ley; y
 > <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2012)</small>
 
 IX.- Previa autorización del Congreso del Estado, negociar y formalizar los instrumentos necesarios para la obtención de los financiamientos que celebre directamente el Estado y para aquellos en los que funja como garante, avalista o deudor solidario; así como para instrumentar las garantías y/o fuentes de pago para los demás entes públicos previstos en el artículo 2° de esta Ley, a los cuales se puedan adherir los municipios y/o sus organismos con el fin de afectar como garantía y/o fuente de pago de sus obligaciones inscritas en el Registro a que se refiere esta Ley, las participaciones y/o aportaciones federales o cualquier otro ingreso que les correspondan, según sea el caso.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+El titular de la Secretaría será el responsable de confirmar que el Financiamiento que contraten los Entes Públicos Estatales, se lleven a cabo bajo las mejores condiciones de mercado conforme a lo establecido en el artículo 20 Bis de esta Ley.
 
 ###### ARTICULO 11.
 
@@ -325,31 +325,25 @@ Las atribuciones a que se refiere el artículo anterior serán ejercidas, en lo 
 
 La Tesorería Municipal llevará el registro de deuda pública municipal, sin perjuicio de lo dispuesto en el artículo 13 de esta Ley.
 
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+El titular de la Tesorería Municipal será el responsable de confirmar que el financiamiento o crédito que contraten los Entes Públicos del ámbito municipal, se lleven a cabo bajo las mejores condiciones de mercado conforme a la (sic) conforme a lo establecido en el artículo 20 Bis de esta Ley.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 8 DE JULIO DE 2004)</small>
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE DEUDA PUBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 13.
 
-Todas las obligaciones que en los términos de esta Ley asuman los entes públicos en materia de deuda pública, y en las que el Congreso autorice afectaciones conforme a la fracción IV del artículo 6° de esta Ley, así como aquellas realizadas a través de los fideicomisos de financiamiento previstos en esta Ley y que involucren la afectación de participaciones, deberán inscribirse en el Registro. Para este efecto, el ente público que corresponda, y tratándose de fideicomisos de financiamiento, el ente público que haya efectuado la afectación correspondiente, deberá solicitar la inscripción y acompañar la siguiente documentación:
+Todas las Obligaciones que en los términos de esta Ley asuman los Entes Públicos en materia de Deuda Pública y en las que el Congreso autorice afectaciones conforme a la fracción IV del artículo 6o de esta Ley, deberán inscribirse en el Registro. Para este efecto, el ente público que corresponda, deberá solicitar la inscripción y acompañar la siguiente documentación:
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
+I.- Original o copia certificada del contrato en el que conste la operación y sus garantías, en su caso; y
 
-I.- Original o copia certificada del contrato en el que conste la operación y sus garantías, en su caso;
+II.- Copia certificada del acta en la que conste el acuerdo del Ayuntamiento en caso de operaciones de deuda pública que contraigan los municipios o copia certificada del acta en la que conste el acuerdo del consejo directivo u órgano de gobierno, en caso de operaciones de deuda pública que contraigan entidades paraestatales y entidades paramunicipales.
 
-> <small>(REFORMADA, B.O. 8 DE JULIO DE 2004)</small>
-
-II.- Copia certificada del acta en la que conste el acuerdo del Ayuntamiento en caso de operaciones de deuda pública que contraigan los municipios o copia certificada del acta en la que conste el acuerdo del consejo directivo u órgano de gobierno, en caso de operaciones de deuda pública que contraigan entidades paraestatales y entidades paramunicipales; y
-
-> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2007)</small>
-
-III.- Declaración del ente público de que la operación de que se trate cumple con los requisitos previstos en el artículo 19 o el 19 Bis de esta Ley, según sea el caso, describiendo los elementos correspondientes.
-
-> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2012)</small>
-
-Las operaciones que involucren la afectación de aportaciones federales deberán inscribirse en el Registro y en el registro correspondiente a cargo de la Secretaría de Hacienda y Crédito Público, en términos de la legislación federal aplicable.
+Todas las operaciones de Financiamiento que involucren la afectación de aportaciones federales o recursos locales, incluyendo las Obligaciones a Corto Plazo, deberán inscribirse tanto en el Registro como en el Registro Público Único en términos del Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -381,15 +375,17 @@ El ente público que haya cumplido con todas sus obligaciones derivadas de una o
 
 ### CAPITULO IV. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-Los entes públicos sólo podrán obtener empréstitos cuando los mismos se destinen a inversiones públicas productivas, entendiéndose por éstas aquellas obras o acciones que de forma directa, indirecta o mediata generen recursos públicos, incluyendo las acciones para refinanciar o reestructurar pasivos a cargo de los entes públicos.
+Los Entes Públicos sólo podrán obtener Financiamientos cuando los mismos se destinen a Inversiones Públicas Productivas y Refinanciamiento o Reestructura de las mismas.
+
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 18.
 
-La contratación de empréstitos y créditos, se sujetará a los montos de endeudamiento neto aprobados por el Congreso del Estado.
+Las contrataciones de Financiamiento se sujetarán al Techo de Financiamiento Neto aprobado por el Congreso del Estado.
 
 > <small>(REFORMADO, B.O. 8 DE JULIO DE 2004)</small>
 
@@ -409,47 +405,81 @@ En caso de entidades paraestatales y paramunicipales que estén constituidas com
 
 Quedarán exceptuados de la obligación de tener estados de ingresos y egresos dictaminados y publicados, aquellos Municipios cuya población sea menor a cien mil habitantes, según el último censo de población oficial emitido por el Instituto Nacional de Estadística y Geografía y los organismos descentralizados y empresas de participación municipal mayoritaria de los mismos.
 
-(NOTA: EL 17 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+###### ARTICULO 19 Bis.
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
-ARTICULO 19 BIS.- Los entes públicos podrán afectar en fideicomiso sus bienes, tangibles o intangibles, así como las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones, incentivos y demás ingresos, mediante la celebración de contratos de fideicomiso denominados fideicomisos de financiamiento, los cuales no constituirán fideicomisos públicos paraestatales en términos de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora ni fideicomisos públicos paramunicipales en los términos de la Ley de Gobierno y Administración Municipal del Estado de Sonora; su operación interna será ajena a la normatividad aplicable a la administración pública estatal o municipal y se sujetarán a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras y bursátiles que correspondan. Los fiduciarios de los fideicomisos de financiamiento, a su vez, podrán afectar el patrimonio del fideicomiso de financiamiento respectivo a otros fideicomisos, los cuales también serán considerados fideicomisos de financiamiento para los propósitos de esta Ley.
+###### ARTICULO 19 Ter.
 
-Los bienes, tangibles o intangibles, así como las cantidades percibidas por concepto de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, las participaciones, incentivos y los demás ingresos que hayan sido afectados a los fiduciarios de los fideicomisos de financiamiento se considerarán desincorporados temporalmente del patrimonio del ente público respectivo, y durante todo el tiempo que permanezcan en vigor dichos fideicomisos de financiamiento, los mismos formarán parte del patrimonio de dichos fideicomisos de financiamiento destinados exclusivamente al cumplimiento de sus fines. Mientras dure la desincorporación a que se refiere este párrafo, a menos que se establezca otra cosa en el fideicomiso de financiamiento respectivo, no se otorgarán estímulos fiscales ni se cancelarán créditos fiscales respecto de los impuestos, derechos, productos, aprovechamientos, accesorios, participaciones, incentivos o demás ingresos que hayan sido afectados a los fiduciarios de los fideicomisos de financiamiento. Por virtud de lo anterior, mientras se mantenga dicha desincorporación, los ingresos derivados de los bienes, tangibles o intangibles, o de las cantidades percibidas por concepto de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, las participaciones, incentivos y los demás ingresos afectados no serán considerados ingresos ni los pasivos de los fideicomisos de financiamiento mencionados serán considerados como egresos para fines presupuestarios del ente público correspondiente, salvo que deberá considerarse como ingreso, el remanente del patrimonio de dichos fideicomisos de financiamiento que pudiera corresponderle a dicho ente público, según fuera el caso.
-
-En los fideicomisos de financiamiento que prevean la obtención de financiamiento y en los cuales no se establezcan obligaciones directas o contingentes para los entes públicos respecto del pago de los mismos, el riesgo de que los bienes o cantidades provenientes de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, las participaciones y los demás ingresos no fuesen suficientes para efectuar dicho pago, correrá exclusivamente a cargo de los acreedores o los terceros que hayan asumido el riesgo respectivo, por lo que no originarán deuda pública. No obstante, lo anterior, el ente público correspondiente puede convenir en sustituir todos o algunos de dichos bienes o cantidades provenientes de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, las participaciones y los demás ingresos, o en contribuir adicionales, sin que ese convenio constituya deuda pública. El financiamiento respectivo se regirá por las normas aplicables de derecho civil, mercantil, financiero y bursátil que correspondan. El compromiso que conforme a los fideicomisos de financiamiento asuman los entes públicos para sustituir los bienes y derechos, tangibles o intangibles, así como las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones, incentivos y los demás ingresos no generará deuda pública para el ente público respectivo.
-
-Las decisiones fundamentales sobre la disposición del patrimonio del fideicomiso de financiamiento se regirán por el contrato constitutivo en tanto no contravengan la ley aplicable.
-
-La afectación a que se refiere el primer párrafo de este artículo así como la celebración de los fideicomisos de financiamiento respectivos requerirá de la autorización previa del Congreso del Estado. Los recursos que los entes públicos capten bajo el esquema de fideicomiso de financiamiento se destinarán a los conceptos que determine el Congreso. En la aprobación antes señalada o en acto posterior, el Congreso podrá autorizar a los entes públicos la sustitución de los bienes, tangibles o intangibles, las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones, incentivos y los demás ingresos que hayan sido afectados a los fiduciarios de los fideicomisos de financiamiento, o que un fideicomiso de financiamiento constituya otro fideicomiso de financiamiento.
-
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
-
-ARTICULO 19 TER.- Los entes públicos podrán afectar en fideicomiso sus bienes, tangibles o intangibles, mediante la celebración de contratos de fideicomiso público denominados Fideicomisos de Presupuestación Multianual para Inversión, los cuales no constituirán entidades paraestatales en términos de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora ni entidades paramunicipales en los términos de la Ley de Gobierno y Administración Municipal del Estado de Sonora.
-
-Los bienes afectados a los fiduciarios de los Fideicomisos de Presupuestación Multianual para Inversión se considerarán desincorporados temporalmente del patrimonio del ente público respectivo, y durante todo el tiempo que permanezcan en vigor dichos fideicomisos, los mismos formarán parte de su patrimonio destinados exclusivamente al cumplimiento de sus fines. Mientras dure la desincorporación a que se refiere este párrafo, a menos que se establezca otra cosa en el contrato respectivo, no se otorgarán estímulos fiscales ni se cancelarán créditos fiscales respecto de los bienes que hayan sido fideicomitidos.
-
-En los Fideicomisos de Presupuestación Mulitanual (sic) para Inversión que prevean la emisión de valores y en los cuales no se establezcan obligaciones directas o contingentes para los entes públicos respecto del pago de los mismos, el riesgo de que los bienes fideicomitidos no fuesen suficientes para efectuar dicho pago, correrá exclusivamente a cargo de los tenedores de dichos valores o los terceros que hayan asumido el riesgo respectivo. La emisión de los valores respectivos se regirá por las normas aplicables de derecho civil, mercantil, financiero y bursátil que correspondan.
-
-Las decisiones fundamentales sobre la disposición del patrimonio del Fideicomiso de Presupuestación Multianual para Inversión se regirán por el contrato constitutivo en tanto no contravengan la ley aplicable.
-
-La afectación a que se refiere el primer párrafo de este artículo así como la celebración de los Fideicomisos de Presupuestación Multianual para Inversión respectivos requerirá de la autorización previa del Congreso del Estado por el voto de las dos terceras partes de sus integrantes, en los términos del artículo 64, fracción XXII de la Constitución Política Local. Los recursos que se capten bajo el esquema de Fideicomisos de Presupuestación Multianual para Inversión serán destinados por la fiduciaria a los conceptos y en los términos que determine el Congreso. En la aprobación antes señalada o en acto posterior, el Congreso podrá autorizar a los entes públicos la sustitución de los bienes que hayan sido afectados a los fiduciarios de los Fideicomisos de Presupuestación Multianual para Inversión.
-
-En todo caso, los bienes y servicios financiados a través de Fideicomisos de Presupuestación Multianual para Inversión deberán sujetarse a los siguientes principios:
-
-I. Priorizar el financiamiento de la inversión de largo plazo en infraestructura con recursos provenientes del sector privado mediante los esquemas de participación privada en las obras públicas previstas en la legislación vigente;
-
-II. Contemplar la realización de obras de infraestructura cuya vida útil sea igual o superior al plazo de vigencia de su financiamiento; y
-
-III. Promover e incrementar las ventajas competitivas estáticas y dinámicas de las regiones y ciudades del Estado.
-
-Para efecto de los principios antes señalados, dentro de las ventajas competitivas estáticas se contemplarán aspectos relativos a localización y aglomeración geográfica, infraestructura y protección al medio ambiente; dentro de las ventajas competitivas dinámicas se contemplarán aspectos relativos al capital humano, la creación de centros de investigación y desarrollo, las capacidades de innovación, el capital social y las redes de intercambio y cooperación.
-
-En todo contrato de Fideicomisos de Presupuestación Multianual para Inversión se deberá establecer la obligación de la fiduciaria de entregar oportunamente a los entes públicos correspondientes los remanentes de los recursos públicos fideicomitidos una vez cumplido el objeto del mismo, así como los remanentes que se generen del cumplimiento de las obligaciones periódicas derivadas de los valores que se emitan, en su caso.
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
 ###### ARTICULO 20.
 
 Cuando los municipios y sus entidades paramunicipales, requieran la garantía del Estado, la contratación de empréstitos o créditos, se realizará con la autorización del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 20 Bis.
+
+En caso de que el Financiamiento en el que pretenda contratar el Estado o cualquiera de sus Entes Públicos sea por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente, o cualquiera de sus Municipios o sus Entes Públicos soliciten Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, se deberá cumplir con lo siguiente:
+
+I.- Se llevará a cabo un proceso competitivo con por lo menos cinco diferentes instituciones financieras. De dicho proceso deberán obtenerse como mínimo dos ofertas irrevocables de Financiamiento. Las propuestas no deberán diferir en temporalidad en más de treinta días naturales y deberán tener una vigencia mínima de sesenta días naturales;
+
+II.- La solicitud del Financiamiento que se realice a cada Institución Financiera deberá precisar y ser igual en cuanto a: monto, plazo, perfil de amortizaciones, condiciones de disposición, oportunidad de entrega de los recursos y, en su caso, la especificación del recurso a otorgar como Fuente de Pago del Financiamiento o Garantía a contratar, de acuerdo con la aprobación del Congreso del Estado. En ningún caso la solicitud podrá exceder de los términos y condiciones autorizados por el Congreso;
+
+III.- Las ofertas irrevocables que presenten las instituciones financieras deberán precisar todos los términos y condiciones financieras aplicables al Financiamiento, así como la Fuente de Pago o Garantía de Pago que se solicite. El Ente Público estará obligado a presentar la respuesta de las instituciones financieras que decidieron no presentar oferta;
+
+IV.- Solo se podrá contratar con la Institución Financiera que haya presentado la oferta que represente las mejores condiciones de mercado para el Ente Público, es decir, el costo financiero más bajo, incluyendo todas las comisiones, gastos y cualquier otro accesorio que estipule la propuesta. Para establecer un comparativo que incluya la tasa de interés y todos los costos relacionados al Financiamiento, se deberá aplicar la metodología establecida para el cálculo de la tasa efectiva, bajo los Lineamientos emitidos por la SHCP; y
+
+V.- Si una sola oferta no cubre el monto a contratar, se considerarán en orden preferente las propuestas que representen las mejores condiciones de mercado para el Ente Público, según los criterios establecidos en la fracción anterior, hasta cubrir el monto requerido.
+
+En caso de fraccionar la contratación del monto de Financiamiento autorizado por parte del Congreso, se deberá considerar en todo momento el monto total autorizado por parte del Congreso para los supuestos señalados en el párrafo anterior.
+
+Para acreditar la contratación bajo las mejores condiciones de mercado de los Financiamientos distintos a los señalados en el segundo párrafo del presente artículo, el Ente Público deberá implementar un proceso competitivo con por lo menos dos Instituciones Financieras y obtener únicamente una oferta irrevocable, de acuerdo a lo establecido en la fracción I de este artículo.
+
+El Ente Público, en cualquier caso, deberá elaborar un documento que incluya el análisis comparativo de las propuestas, conforme a lo establecido en la fracción IV de este artículo. Dicho documento deberá publicarse en la página oficial de Internet del propio Ente Público, o en su caso, del Estado o del Municipio de que se trate.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 20 Ter.
+
+Con excepción de los Financiamientos que se contraten mediante el mercado bursátil, cuando la autorización del Financiamiento a que hace referencia el artículo 6° exceda de cien millones de Unidades de Inversión, dicho proceso de contratación se realizará mediante licitación pública, en los términos siguientes:
+
+I.- El proceso competitivo descrito en el artículo 20 BIS de esta Ley deberá realizarse públicamente y de manera simultánea. Para ello, las propuestas presentadas deberán entregarse en una fecha, hora y lugar previamente especificados y serán dadas a conocer en el momento en que se presenten, pudiendo emplear mecanismos electrónicos que aseguren el cumplimiento de lo anterior; y
+
+II.- La Institución Financiera participante que resulte ganadora del proceso competitivo se dará a conocer en un plazo no mayor a dos días hábiles posteriores al tiempo establecido de conformidad con la fracción anterior, a través de medios públicos, incluyendo la página oficial de Internet del propio Ente Público, del Estado o del Municipio de que se trate, publicando el documento en que conste la comparación de las propuestas presentadas.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 20 Quáter.
+
+El Estado y los Municipios podrán contratar Obligaciones a Corto Plazo sin autorización del Congreso del Estado, siempre y cuando se cumplan las siguientes condiciones:
+
+I.- En todo momento, el saldo insoluto total del monto principal de estas Obligaciones a Corto Plazo no exceda del 6 por ciento de los Ingresos totales aprobados en su ley de ingresos, sin incluir Financiamiento Neto, del Estado o del Municipio durante el ejercicio fiscal correspondiente;
+
+II.- Las Obligaciones a Corto Plazo queden totalmente pagadas a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, no pudiendo contratar nuevas Obligaciones a Corto Plazo durante esos últimos tres meses;
+
+III.- Las Obligaciones a Corto Plazo deberán ser quirografarias; y
+
+IV.- Deberán quedar inscritas en el Registro y en el Registro Público Único.
+
+Los recursos derivados de las Obligaciones a Corto Plazo deberán ser destinados exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal.
+
+Para dar cumplimiento a la contratación de las Obligaciones a Corto Plazo bajo mejores condiciones de mercado, se deberá cumplir lo dispuesto en el penúltimo párrafo del artículo 20 Bis de esta Ley.
+
+El Estado y los Municipios informarán al Congreso del Estado a más tardar quince días hábiles posteriores a su contratación, las características de cualquier Obligación a Corto Plazo y presentarán en los informes periódicos a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de las Obligaciones a Corto Plazo contraídas en los términos del presente Artículo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a Corto Plazo calculada conforme a la metodología que para tal efecto emita la SHCP.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 20 Quinquies.
+
+En caso de que el Estado o los Municipios del Estado deseen contratar Deuda Estatal Garantizada, deberán apegarse a lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 20 Sexies.
+
+De forma enunciativa más no limitativa, la convocatoria de los procesos competitivos a los que se refiere esta Ley podrá prever que en el acto de apertura de propuestas se propongan rebajas de las ofertas a través de métodos tales como puja a la baja, denominada subasta inversa, así como otros de subasta o presentación de propuestas como en sobre cerrado; también podrá preverse que dichos actos se lleven a cabo ante notario público. Todo lo anterior, siempre y cuando ello cumpla con lo establecido en los Lineamientos para el cálculo de la tasa efectiva que emita la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 21.
 
@@ -610,3 +640,49 @@ B.O. 4 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO ESTATAL, DE LA LEY DE DEUDA PÚBLICA, DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora con las salvedades señaladas en los presentes artículos transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que refiere a las reformas propuestas a la Ley del Presupuesto de Egresos y Gasto Público Estatal, el presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los artículos transitorios tercero a séptimo.
+
+###### ARTÍCULO TERCERO.
+
+Los porcentajes a que se refiere el artículo 19 Bis D de la Ley del Presupuesto de Egresos y Gasto Público Estatal, relativo al nivel de aportación al fideicomiso público para acciones preventivas o daños por desastres naturales, será de dos punto cinco por ciento para 2017; de cinco por ciento para 2018; de siete punto cinco por ciento para 2019 y el establecido en dicho artículo, a partir de 2020.
+
+###### ARTÍCULO CUARTO.
+
+La fracción I del artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal entrará en vigor, para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal de 2018. Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal hasta el año 2020. En ningún caso esta excepción transitoria deberá considerar personal administrativo.
+
+###### ARTÍCULO QUINTO.
+
+El porcentaje a que hace referencia el artículo 19 Bis F de la Ley del Presupuesto de Egresos y Gasto Público Estatal relativo a los adeudos del ejercicio fiscal anterior del Estado será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO SEXTO.
+
+El registro de proyectos de inversión pública productiva y el sistema de registro y control de erogaciones de servicios personales a que se refiere el artículo 19 Bis G, fracción III, de la Ley del Presupuesto de Egresos y Gasto Público Estatal deberá estar en operación a más tardar el día 1 de enero de 2018. La Secretaría de Hacienda deberá expedir las disposiciones normativas aplicables para la creación y funcionamiento de ambos, en un término de 180 días naturales contados a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ingresos excedentes derivados de la libre disposición a que hace referencia el artículo 19 Bis H fracción I de la Ley del Presupuesto de Egresos y Gasto Público Estatal, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 19 Bis H de la Ley del Presupuesto de Egresos y Gasto Público Estatal, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando, el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo con el Sistema de Alertas.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refieren los artículos 131, 132, 133, 138, 144, 144 bis, 144 bis A, 144 bis B, 144 bis C, 144 bis D y 144 bis E de la Ley de Gobierno y Administración Municipal, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el transitorio Noveno.
+
+###### ARTÍCULO NOVENO.
+
+El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Administración Municipal, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3° de la Ley de Deuda Pública y en el "DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios" publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
