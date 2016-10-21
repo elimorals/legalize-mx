@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-140-de-bienes-y-concesiones-del-estado-de-sonora-848
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2009-08-31"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,105 +21,25 @@ state: "SON"
 ---
 # LEY NUMERO 140 DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
 
-REGLAMENTO FEDERAL DE SEGURIDAD Y SALUD EN EL TRABAJO
+LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS TRES MESES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
 
-TEXTO ORIGINAL.
+Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de noviembre de 2014.
+EL C. LIC. MANLIO FABIO BELTRONES RIVERA, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente L E Y :
 
-ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos y con fundamento en los artículos 27, 32 Bis, 33, 34, 36, 39 y 40 de la Ley Orgánica de la Administración Pública Federal, y 132, fracciones XVI, XVI Bis, XVII, XVIII, XIX Bis y XXVII, 134, fracción II, 153-C, fracción II, 166, 167, 175, 176, 473, 475 Bis, 512, 512-A, 512-B, 512-C, 512-D, 992, 994, fracción V, y 1002 de la Ley Federal del Trabajo, he tenido a bien expedir el siguiente
+N U M E R O 1 4 0
 
-REGLAMENTO FEDERAL DE SEGURIDAD Y SALUD EN EL TRABAJO
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
 
-## TÍTULO PRIMERO. Disposiciones Generales, Competencias y Sujetos Obligados
+LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA.
 
-### Capítulo Primero. Disposiciones Generales
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-###### Artículo 1.
-
-El presente Reglamento es de orden público e interés social y de observancia general en todo el territorio nacional.
-
-###### Artículo 2.
-
-Este Reglamento tiene por objeto establecer las disposiciones en materia de Seguridad y Salud en el Trabajo que deberán observarse en los Centros de Trabajo, a efecto de contar con las condiciones que permitan prevenir Riesgos y, de esta manera, garantizar a los trabajadores el derecho a desempeñar sus actividades en entornos que aseguren su vida y salud, con base en lo que señala la Ley Federal del Trabajo.
-
-###### Artículo 3.
-
-Para los efectos del presente Reglamento se entenderá por:
-
-I. Accidente de Trabajo: Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte, producida repentinamente en ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el tiempo en que se preste;
-
-II. Acciones Preventivas y Correctivas: Aquéllas que se establecen a partir del Diagnóstico de Seguridad y Salud en el Trabajo;
-
-III. Autoridad Laboral: Las unidades administrativas competentes de la Secretaría que realizan funciones de inspección y vigilancia en materia de Seguridad y Salud en el Trabajo, y las correspondientes de las entidades federativas, que actúen en auxilio de aquéllas;
-
-IV. Centro de Trabajo: El lugar o lugares, tales como edificios, locales, instalaciones y áreas, donde se realicen actividades de explotación, aprovechamiento, producción, comercialización, transporte y almacenamiento o prestación de servicios, en los que laboren personas que estén sujetas a una relación de trabajo;
-
-V. Condiciones Inseguras: Aquéllas que derivan de la inobservancia o desatención de los procedimientos o medidas de seguridad dispuestos en este Reglamento y las Normas, y que pueden conllevar la ocurrencia de incidentes, Accidentes y Enfermedades de Trabajo o daños materiales al Centro de Trabajo;
-
-VI. Condiciones Peligrosas: Aquellas características inherentes a las instalaciones, procesos, maquinaria, equipo, herramientas y materiales, que pueden poner en Riesgo la salud, la integridad física o la vida de los trabajadores, o dañar las instalaciones del Centro de Trabajo;
-
-VII. Contaminantes del Ambiente Laboral: Los agentes físicos, químicos y biológicos capaces de modificar las condiciones ambientales del Centro de Trabajo, que por sus propiedades, concentración, nivel, así como tiempo de exposición o acción pueden alterar la salud del Personal Ocupacionalmente Expuesto;
-
-VIII. Control: El proceso mediante el cual se instrumentan las medidas de seguridad, derivadas de la Evaluación de los agentes Contaminantes del Ambiente Laboral, a efecto de no rebasar los valores límite de exposición;
-
-IX. Diagnóstico de Seguridad y Salud en el Trabajo: La identificación de las Condiciones Inseguras o Peligrosas; de los agentes físicos, químicos o biológicos o de los Factores de Riesgo Ergonómico o Psicosocial capaces de modificar las condiciones del ambiente laboral; de los peligros circundantes al Centro de Trabajo, así como de los requerimientos normativos en materia de Seguridad y Salud en el Trabajo que resulten aplicables;
-
-X. Enfermedad de Trabajo: Todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo o en el medio en que el trabajador se vea obligado a prestar sus servicios;
-
-XI. Entorno Organizacional Favorable: Aquél en el que se promueve el sentido de pertenencia de los trabajadores a la organización; la formación para la adecuada realización de las tareas encomendadas; la definición precisa de responsabilidades para los miembros de la organización; la participación proactiva y comunicación entre sus integrantes; la distribución adecuada de cargas de trabajo, con jornadas laborales regulares, y la Evaluación y el Reconocimiento del desempeño;
-
-XII. Equipo de Protección Personal: El conjunto de elementos y dispositivos diseñados específicamente para proteger al trabajador contra Accidentes y Enfermedades de Trabajo;
-
-XIII. Espacio Confinado: El lugar o lugares sin ventilación natural, en el que una o más personas puedan desempeñar una determinada tarea en su interior, con medios limitados o restringidos para su acceso o salida, que no están diseñados para ser ocupados en forma continua y en los cuales se realizan trabajos ocasionalmente;
-
-XIV. Evaluación: El proceso por medio del cual se efectúa el muestreo; la determinación analítica, tratándose de los agentes químicos Contaminantes del Ambiente Laboral, y la comparación de los resultados, conforme a los valores límite de exposición;
-
-XV. Evaluación de la Conformidad: La determinación del grado de cumplimiento con las Normas;
-
-XVI. Factores de Riesgo Ergonómico: Aquéllos que pueden conllevar sobre esfuerzo físico, movimientos repetitivos o posturas forzadas en el trabajo desarrollado, con la consecuente fatiga, errores, Accidentes y Enfermedades de Trabajo, derivado del diseño de las instalaciones, maquinaria, equipo, herramientas o puesto de trabajo;
-
-XVII. Factores de Riesgo Psicosocial: Aquéllos que pueden provocar trastornos de ansiedad, no orgánicos del ciclo sueño-vigilia y de estrés grave y de adaptación, derivado de la naturaleza de las funciones del puesto de trabajo, el tipo de jornada laboral y la exposición a acontecimientos traumáticos severos o a actos de Violencia Laboral, por el trabajo desarrollado;
-
-XVIII. Ley: La Ley Federal del Trabajo;
-
-XIX. Medidas de Control: Aquéllas de naturaleza técnica o administrativa que se adoptan para disminuir la exposición a los Contaminantes del Ambiente Laboral;
-
-XX. Norma: La norma o normas oficiales mexicanas de Seguridad y Salud en el Trabajo expedidas por la Secretaría, de acuerdo con lo que establecen la Ley Federal sobre Metrología y Normalización y su reglamento;
-
-XXI. Organismos Privados: Las unidades de verificación, los laboratorios de pruebas y los organismos de certificación, acreditados y aprobados en términos de la Ley Federal sobre Metrología y Normalización y su reglamento, que realizan actos de Evaluación de la Conformidad de las Normas;
-
-XXII. Personal Ocupacionalmente Expuesto: Aquellos trabajadores que en ejercicio y con motivo de su ocupación están expuestos a Condiciones Inseguras o Peligrosas o a Contaminantes del Ambiente Laboral;
-
-XXIII. Programa de Seguridad y Salud en el Trabajo: El documento que contiene el conjunto de Acciones Preventivas y Correctivas por instrumentar para evitar Riesgos en los Centros de Trabajo, que puedan afectar la vida, la integridad física o la salud de los trabajadores o causar daños en sus instalaciones;
-
-XXIV. Reconocimiento: El proceso mediante el cual se identifican los agentes Contaminantes del Ambiente Laboral; sus propiedades o características; las vías de ingreso al cuerpo humano; sus efectos en la salud; las fuentes emisoras de contaminantes; las áreas o zonas donde exista Riesgo a la exposición; los grupos de exposición homogénea, sus puestos y las actividades que desarrollan, así como los tiempos y frecuencias de exposición;
-
-XXV. Riesgo: La correlación de la peligrosidad de uno o varios factores y la exposición de los trabajadores con la posibilidad de causar efectos adversos para su vida, integridad física o salud, o dañar al Centro de Trabajo;
-
-XXVI. Riesgo Grave: Aquél que puede comprometer la vida, integridad física o salud de los trabajadores o producir daños a las instalaciones del Centro de Trabajo, al no observar los requisitos y condiciones de seguridad correspondientes;
-
-XXVII. Secretaría: La Secretaría del Trabajo y Previsión Social;
-
-XXVIII. Seguridad y Salud en el Trabajo: Todos aquellos aspectos relacionados con la prevención de Accidentes y Enfermedades de Trabajo, y que están referidos en otros ordenamientos a materias tales como: seguridad e higiene; seguridad e higiene industrial; seguridad y salud; seguridad, salud y medio ambiente de trabajo; seguridad, higiene y medio ambiente de trabajo;
-
-XXIX. Servicios Preventivos de Medicina del Trabajo: Aquéllos prestados por un médico o bajo la supervisión de éste, preferentemente capacitado en medicina del trabajo, de manera interna o externa, cuyo propósito principal es participar en la prevención de Accidentes y Enfermedades de Trabajo, proporcionar atención médica y los primeros auxilios en los Centros de Trabajo, así como orientar y capacitar a los trabajadores sobre la prevención y promoción de la salud. Se entiende por internos, los prestados por personal del Centro de Trabajo, y externos, los proporcionados a través de instituciones públicas de seguridad social;
-
-XXX. Servicios Preventivos de Seguridad y Salud en el Trabajo: Aquéllos prestados por personal capacitado, ya sea interno, externo o mixto, cuyo propósito principal es prevenir los Accidentes y Enfermedades de Trabajo, mediante el cumplimiento de la normativa en materia de Seguridad y Salud en el Trabajo. Se entiende por internos, los proporcionados por el patrón o personal del Centro de Trabajo; externos, los prestados por personal independiente al Centro de Trabajo, y mixtos, los proporcionados tanto por personal interno como por personal independiente al Centro de Trabajo;
-
-XXXI. Sistemas de Administración en Seguridad y Salud en el Trabajo: Aquéllos por medio de los cuales se impulsa la mejora continua en la prevención de los Accidentes y Enfermedades de Trabajo, mediante la autoevaluación del cumplimiento de las Normas;
-
-XXXII. Sustancias Químicas Peligrosas: Aquéllas que por sus propiedades físicas y químicas al ser manejadas, transportadas, almacenadas o procesadas, presentan la posibilidad de Riesgos de explosividad, inflamabilidad, combustibilidad, reactividad, corrosividad, radiactividad, toxicidad o irritabilidad, y que al ingresar al organismo por vía respiratoria, cutánea o digestiva, pueden provocar intoxicación, quemaduras o lesiones orgánicas al Personal Ocupacionalmente Expuesto, según la concentración y el tiempo de exposición;
-
-XXXIII. Trabajadores con Discapacidad: Aquéllos que, por razón congénita o adquirida, presentan una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea de naturaleza permanente o temporal;
-
-XXXIV. Trabajadores del Campo: Aquéllos que ejecutan de manera permanente, eventual o estacional, las labores propias de las explotaciones agrícolas, ganaderas, acuícolas, forestales o mixtas, al servicio de un patrón, y
-
-XXXV. Violencia Laboral: Aquellos actos de hostigamiento, acoso o malos tratos en contra del trabajador, que pueden dañar su integridad o salud.
+### CAPITULO UNICO. DE LAS DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 1o.
 
@@ -205,65 +125,9 @@ A excepción de lo dispuesto en la fracción VI de este artículo, el Gobernador
 
 Sólo los Tribunales del Estado serán competentes para conocer de los juicios civiles, penales o administrativos, así como de los procedimientos judiciales no contenciosos que se relacionen con bienes estatales, sean de dominio público o de dominio privado.
 
-## TÍTULO SEGUNDO. Principios de la Normalización en Seguridad y Salud en el Trabajo
+## TITULO SEGUNDO. DE LA COMISION ESTATAL DE BIENES Y CONCESIONES
 
-### Capítulo Segundo. Competencias
-
-###### Artículo 4.
-
-La aplicación del presente Reglamento corresponde a la Secretaría, quien se auxiliará por las Autoridades Laborales de las entidades federativas, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la Ley.
-
-La interpretación para efectos administrativos de este Reglamento y de las Normas que de él emanen, compete a la Secretaría.
-
-###### Artículo 5.
-
-La Secretaría, en materia de Seguridad y Salud en el Trabajo, tiene las atribuciones siguientes:
-
-I. Formular la política pública de Seguridad y Salud en el Trabajo;
-
-II. Diseñar, coordinar, ejecutar y evaluar programas y campañas para la prevención de Accidentes y Enfermedades de Trabajo, con la participación de las dependencias e instituciones públicas que correspondan;
-
-III. Emitir las Normas con sus procedimientos para la Evaluación de la Conformidad;
-
-IV. Difundir la normativa en materia de Seguridad y Salud en el Trabajo y promover su cumplimiento;
-
-V. Promover la constitución y funcionamiento de las Comisiones de Seguridad e Higiene, de los Servicios Preventivos de Seguridad y Salud en el Trabajo, así como de los Servicios Preventivos de Medicina del Trabajo;
-
-VI. Presidir y coordinar la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y el Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo;
-
-VII. Diseñar, promover y supervisar los mecanismos de autoevaluación del cumplimiento de las Normas;
-
-VIII. Emitir reconocimientos a empresas que comprueben el cumplimiento de la normativa y de sus Programas de Seguridad y Salud en el Trabajo, así como el adecuado funcionamiento de sus Sistemas de Administración en Seguridad y Salud en el Trabajo;
-
-IX. Promover la creación y, cuando proceda, aprobar a Organismos Privados;
-
-X. Dar seguimiento al funcionamiento de Organismos Privados, al igual que reconocer los dictámenes, informes o certificados de cumplimiento que emitan;
-
-XI. Suspender o revocar las aprobaciones que hayan sido expedidas a Organismos Privados, y solicitar, en su caso, la suspensión o cancelación de la acreditación de los mismos;
-
-XII. Resolver las solicitudes de autorización para utilizar tecnologías, procesos, equipos, procedimientos, mecanismos, métodos de prueba o materiales alternativos a los previstos en las Normas, de conformidad con lo que determina la Ley Federal sobre Metrología y Normalización;
-
-XIII. Actualizar las tablas de Enfermedades de Trabajo y de valuación de incapacidades permanentes a que se refiere la Ley, previa opinión de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo;
-
-XIV. Suscribir convenios de colaboración con las dependencias y entidades de la Administración Pública Federal y de coordinación con los gobiernos de las entidades federativas, en materia de Seguridad y Salud en el Trabajo;
-
-XV. Suscribir convenios de concertación con las organizaciones de trabajadores y de patrones, a efecto de instrumentar programas y campañas en materia de prevención de Accidentes y Enfermedades de Trabajo;
-
-XVI. Suscribir convenios de cooperación científica y técnica en materia de Seguridad y Salud en el Trabajo con instituciones nacionales e internacionales;
-
-XVII. Suscribir convenios de colaboración académica en materia de Seguridad y Salud en el Trabajo con instituciones educativas;
-
-XVIII. Vigilar el cumplimiento de las disposiciones en materia de Seguridad y Salud en el Trabajo contenidas en el presente Reglamento y en las Normas;
-
-XIX. Instaurar, sustanciar y resolver el procedimiento administrativo para el cumplimiento de disposiciones en materia de Seguridad y Salud en el Trabajo contenidas en este Reglamento y en las Normas y, en caso de violación a dichas disposiciones, aplicar las sanciones correspondientes;
-
-XX. Tramitar y resolver los recursos administrativos que le correspondan y sustanciar los relativos a las resoluciones mediante las cuales se impongan sanciones por violaciones a las disposiciones en materia de Seguridad y Salud en el Trabajo, y
-
-XXI. Las demás que le señalen otras disposiciones legales o reglamentarias, y que estén en el ámbito de su competencia.
-
-###### Artículo 6.
-
-Las acciones que en materia de Seguridad y Salud en el Trabajo lleve a cabo la Secretaría se complementarán con las que desarrollen las Secretarías de Gobernación; de Salud; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Comunicaciones y Transportes, y el Instituto Mexicano del Seguro Social, conforme al ámbito de sus respectivas competencias y de las disposiciones jurídicas aplicables.
+### CAPITULO UNICO. DE LA COMISION ESTATAL DE BIENES Y CONCESIONES
 
 ###### ARTICULO 8o.
 
@@ -273,1927 +137,827 @@ Se crea la Comisión Estatal de Bienes y Concesiones, como un órgano desconcent
 
 La Comisión Estatal, tendrá las atribuciones que le señala la presente Ley, y en el reglamento correspondiente se establecerán las bases para su organización y funcionamiento.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-La Secretaría expedirá Normas con fundamento en la Ley Federal sobre Metrología y Normalización y su reglamento, la Ley y el presente Reglamento, con el propósito de establecer disposiciones en materia de Seguridad y Salud en el Trabajo que eviten:
+La Comisión Estatal contará con un Consejo Técnico Consultivo que será presidido por el Secretario de Finanzas, y se integrará por los titulares de las Secretarias de Planeación del Desarrollo y Gasto Público, Infraestructura Urbana y Ecología, Desarrollo Económico y Productividad y la Contraloría General del Estado, como miembros permanentes.
 
-I. Riesgos que pongan en peligro la vida, integridad física o salud de los trabajadores, y
+###### ARTICULO 11.
 
-II. Cambios adversos y sustanciales en el ambiente laboral, que afecten o puedan afectar la seguridad o salud de los trabajadores o provocar daños a las instalaciones, maquinaria, equipos y materiales del Centro de Trabajo.
+El Consejo Técnico Consultivo de la Comisión Estatal tendrá las siguientes atribuciones:
 
-Los procedimientos para la Evaluación de la Conformidad de las Normas indicarán las disposiciones cuya inobservancia implica Riesgo Grave.
+I.- Emitir opiniones relacionadas con la problemática de los bienes y de las concesiones, en materia de esta Ley;
 
-###### Artículo 11.
+II.- Proponer los procedimientos de coordinación e información de las dependencias y entidades, así como de los gobiernos federal y municipal que intervienen en materia de concesiones;
 
-Los proyectos de Normas deberán sustentarse en un análisis, el cual habrá de contener:
+III.- Sugerir los procedimientos de coordinación y consulta entre los sectores público, social y privado, en materia de concesiones;
 
-I. La explicación sucinta de los objetivos y finalidades de la Norma;
+IV.- Establecer las subcomisiones y los grupos de trabajo que estime pertinentes;
 
-II. La descripción de las medidas propuestas y alternativas consideradas para cumplir con dicha finalidad;
+V.- Sugerir las medidas que permitan la consecución oportuna de los objetivos y metas en materia de concesiones federales que obtenga el Gobierno del Estado; y
 
-III. Los costos y beneficios de las alternativas consideradas y, en su caso, una comparación con las regulaciones de otros países, y
+VI.- Las demás que le otorguen este ordenamiento y otras disposiciones aplicables sobre la materia.
 
-IV. La factibilidad técnica para la comprobación de su cumplimiento, es decir, los mecanismos que prevén para asegurar y verificar su cumplimiento.
+## TITULO TERCERO. DE LOS BIENES DE DOMINIO PUBLICO
 
-Dentro de las medidas propuestas y alternativas consideradas para cumplir con su finalidad, podrán establecerse diferencias con base en el tipo de Centro de Trabajo.
+### CAPITULO I. DEL REGIMEN JURIDICO DE LOS BIENES DE DOMINIO PUBLICO
 
-## TÍTULO TERCERO. Disposiciones Generales, Organizacionales y Especializadas para la Seguridad y Salud en el Trabajo
+###### ARTICULO 12.
 
-### Capítulo Tercero. Sujetos Obligados
+Son bienes de dominio público:
 
-###### Artículo 7.
+I.- Los de uso común;
 
-Son obligaciones de los patrones:
+II.- Los inmuebles destinados por el Estado a un servicio público, los propios que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la Ley;
 
-I. Contar con un Diagnóstico de Seguridad y Salud en el Trabajo y los estudios y análisis de Riesgos requeridos por el presente Reglamento y las Normas, que forman parte del referido diagnóstico;
+III.- Cualesquiera otros inmuebles declarados por ley inalienables e imprescriptibles;
 
-II. Integrar un Programa de Seguridad y Salud en el Trabajo, con base en el Diagnóstico de Seguridad y Salud en el Trabajo;
+IV.- Las servidumbres, cuando el predio dominante sea alguno de los anteriores;
 
-III. Elaborar los programas específicos, manuales y procedimientos, que orienten la realización de las actividades y procesos laborales bajo condiciones seguras y de emergencia;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-IV. Constituir e integrar la Comisión de Seguridad e Higiene, así como dar facilidades para su operación;
+V.- Los muebles propiedad del Estado, que por su naturaleza normalmente no sean sustituibles, como los documentos y expedientes de las oficinas, los archivos, las piezas artísticas e históricas de los museos, las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del dominio del Estado; y aquellos destinados por el Estado a la prestación de un servicio público.
 
-V. Garantizar la prestación de los Servicios Preventivos de Seguridad y Salud en el Trabajo y, en los términos de la Ley, los de medicina del trabajo;
+VI.- Los vasos de los lagos y lagunas y los cauces y las riberas de las corrientes, cuando sus aguas sean de propiedad estatal.
 
-VI. Colocar en lugares visibles del Centro de Trabajo los avisos o señales para informar, advertir y prevenir Riesgos;
+###### ARTICULO 13.
 
-VII. Aplicar, en la instalación de sus establecimientos, las medidas de Seguridad y Salud en el Trabajo señaladas en este Reglamento y en las Normas, conforme a la naturaleza de las actividades y procesos laborales;
+Los bienes de dominio público del Estado son inalienables e imprescriptibles y no están sujetos a acción reivindicatoria o de posesión. Los derechos sobre su uso, aprovechamiento y explotación se adquirirán conforme a lo dispuesto por este ordenamiento, mediante el otorgamiento de las concesiones respectivas.
 
-VIII. Llevar a cabo las acciones de Reconocimiento, Evaluación y Control de los Contaminantes del Ambiente Laboral, a efecto de conservar las condiciones ambientales del Centro de Trabajo dentro de los valores límite de exposición;
+Los aprovechamientos accidentales o accesorios que sean compatibles con la naturaleza de estos bienes, tales como la venta de frutos, materiales o desperdicios, se regirán por el derecho privado.
 
-IX. Ordenar la aplicación de exámenes médicos al Personal Ocupacionalmente Expuesto, requeridos por el presente Reglamento y las Normas;
+Los bienes de dominio público del Estado no podrán gravarse con servidumbres. Los derechos de tránsito, de vista, de luz, de derrames y otros semejantes sobre dichos bienes se regirán exclusivamente por las leyes y reglamentos administrativos.
 
-X. Proporcionar a los trabajadores el Equipo de Protección Personal, de acuerdo con los Riesgos a que están expuestos;
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
 
-XI. Informar a los trabajadores respecto de los Riesgos relacionados con la actividad que desarrollen;
+No será necesario el otorgamiento de una concesión tratándose de bienes del dominio público que se destinen al desarrollo de una Alianza Pública Privada de Servicios en términos de la ley de la materia, en cuyo caso, su uso aprovechamiento y explotación serán regulados conforme a lo establecido en el contrato de prestación de servicios respectivo. En todo caso, el plazo para el uso, aprovechamiento y explotación de dicho bien no podrá ser mayor al establecido para el desarrollo de la Alianza Público Privada de Servicios en el contrato de prestación de servicios correspondiente.
 
-XII. Capacitar y adiestrar a los trabajadores sobre la prevención de Riesgos y la atención a emergencias, de conformidad con las actividades que desarrollen;
+###### ARTICULO 14.
 
-XIII. Capacitar al personal del Centro de Trabajo que forme parte de la Comisión de Seguridad e Higiene y de los Servicios Preventivos de Seguridad y Salud en el Trabajo y, en su caso, apoyar la actualización de los responsables de los Servicios Preventivos de Medicina del Trabajo de carácter interno;
+Corresponde al Titular del Poder Ejecutivo del Estado:
 
-XIV. Expedir las autorizaciones para la realización de actividades o trabajos peligrosos que prevén este Reglamento y las Normas específicas;
+I.- Decretar, cuando ello sea preciso, en los términos de esta Ley, que un bien determinado forma parte del dominio público del Estado;
 
-XV. Llevar los registros administrativos, por medios impresos o electrónicos, establecidos en el presente Reglamento y las Normas;
+II.- Decretar, cuando así proceda, la incorporación al dominio público de un bien que forma parte del dominio privado, siempre que su posesión corresponda al Estado;
 
-XVI. Dar aviso a la Secretaría, a través de las Delegaciones Federales del Trabajo, la Dirección General de Inspección Federal del Trabajo o la Dirección General de Investigación y Estadísticas del Trabajo, o a las instituciones de seguridad social sobre los Accidentes de Trabajo que ocurran;
+III.- Desincorporar del dominio público, en los casos en que la Ley lo permita y asimismo mediante decreto, un bien que haya dejado de ser útil para fines de servicio público;
 
-XVII. Dar aviso a la Secretaría, a través de las Delegaciones Federales del Trabajo, la Dirección General de Inspección Federal del Trabajo o la Dirección General de Investigación y Estadísticas del Trabajo, sobre las defunciones que ocurran con motivo de Accidentes y Enfermedades de Trabajo;
+IV.- Expedir las normas que regulen el uso, la conservación y el aprovechamiento de los bienes de dominio público; y
 
-XVIII. Presentar los avisos relacionados con el funcionamiento de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, que contempla este Reglamento;
+V.- En general, dictar las disposiciones administrativas que requiera el cumplimiento de esta Ley y su reglamento.
 
-XIX. Contar con los dictámenes, informes de resultados y certificados de cumplimiento en materia de Seguridad y Salud en el Trabajo, determinados en el presente Reglamento y en las Normas;
+###### ARTICULO 15.
 
-XX. Supervisar que los contratistas cumplan con las medidas de Seguridad y Salud en el Trabajo, que señalan este Reglamento y las Normas, cuando realicen trabajos dentro de sus instalaciones;
+Los bienes de dominio público del Estado estarán sometidos, exclusivamente, a la jurisdicción de los Poderes Locales en los términos de esta Ley.
 
-XXI. Permitir y facilitar el ejercicio de las funciones de inspección y vigilancia por parte de la Autoridad Laboral, para cerciorarse del cumplimiento de la normativa en materia de Seguridad y Salud en el Trabajo, y
+###### ARTICULO 16.
 
-XXII. Las demás previstas en otras disposiciones jurídicas aplicables.
+Los bienes de dominio público del Estado podrán ser enajenados o gravados, previo decreto de desincorporación del Ejecutivo, cuando dejen de ser útiles para fines de servicio público.
 
-###### Artículo 8.
+###### ARTICULO 17.
 
-Son obligaciones de los trabajadores:
+Los bienes de dominio público de la federación, estarán sujetos a la jurisdicción de los Poderes Federales, en los términos de la Ley General de Bienes Nacionales.
 
-I. Observar las medidas preventivas de Seguridad y Salud en el Trabajo dispuestas en este Reglamento y las Normas, así como las que establezcan los patrones para la prevención de Riesgos;
+La Comisión Estatal elaborará y mantendrá permanentemente actualizado, un inventario de los bienes de dominio público de la federación, con base en la información que se derive de los decretos mediante los cuales el gobierno federal afecte un bien a la realización de fines o servicios públicos.
 
-II. Designar a sus representantes para participar en la Comisión de Seguridad e Higiene;
+###### ARTICULO 18.
 
-III. Dar aviso inmediato al patrón y a la Comisión de Seguridad e Higiene, sobre las Condiciones Inseguras que adviertan y de los Accidentes de Trabajo que ocurran, y colaborar en la investigación de los mismos;
+Los bienes de dominio público del Estado, estarán exentos de las contribuciones señaladas en la fracción IV, inciso a), del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-IV. Utilizar y conservar en buen estado el Equipo de Protección Personal proporcionado por el patrón;
+### CAPITULO II. DE LOS BIENES DE USO COMUN
 
-V. Cumplir con las Medidas de Control previstas por el patrón para prevenir Riesgos;
+###### ARTICULO 19.
 
-VI. Operar en forma segura la maquinaria, equipo y herramientas que tengan asignados;
+Son bienes de uso común:
 
-VII. Mantener ordenados y limpios sus lugares de trabajo y áreas comunes;
+I.- Los caminos, carreteras y puentes de jurisdicción estatal, con sus servicios auxiliares y derechos de vía, conforme a las leyes de la materia;
 
-VIII. Desempeñar su trabajo de manera segura para evitar Riesgos;
+II.- Los enumerados en la fracción VI del artículo 12 de la presente Ley;
 
-IX. Participar en las brigadas para la atención a emergencias, en su caso;
+III.- Las plazas, paseos y parques públicos cuya construcción y conservación esté a cargo del Gobierno del Estado, o hayan sido construidas en inmuebles del dominio del Estado;
 
-X. Cumplir con someterse a los exámenes médicos que determinan el presente Reglamento y las Normas;
+IV.- Las presas, diques y sus vasos, canales, bordes y zanjas construidos para la irrigación y otros usos de utilidad pública con sus zonas de protección o riberas en la extensión que, en cada caso, conforme a la Ley se determine;
 
-XI. Participar en la capacitación y adiestramiento que, en materia de prevención de Riesgos y atención a emergencias, sean impartidos por el patrón o por las personas que éste designe, y
+V.- Los monumentos artísticos e históricos y las construcciones levantadas por el Gobierno del Estado en lugares públicos de su propiedad, para ornato o comodidad de quienes los visiten, excepto que dichas construcciones se hayan donado a los Municipios; y
 
-XII. Las demás previstas en otras disposiciones jurídicas aplicables.
+VI.- Los demás bienes considerados de uso común por otras leyes.
 
-###### Artículo 9.
+###### ARTICULO 20.
 
-Los integrantes de las Comisiones de Seguridad e Higiene, así como los responsables de los Servicios Preventivos de Seguridad y Salud en el Trabajo y de Medicina del Trabajo, promoverán la observancia de las disposiciones en materia de Seguridad y Salud en el Trabajo señaladas en este Reglamento y en las Normas.
+Todos los habitantes del Estado pueden usar los bienes de uso común, sin más restricciones que las que establezcan los ordenamientos jurídicos correspondientes.
 
-###### Artículo 12.
+###### ARTICULO 21.
 
-Para la determinación del tipo de Centro de Trabajo, se considerarán los criterios siguientes:
+Cuando, de acuerdo con lo dispuesto por el Artículo 16 de esta Ley, se vayan a enajenar terrenos que, habiendo constituido vías públicas, hayan sido retirados de dicho servicio, o los bordos, zanjas, setos, vallados u otros elementos que les hayan servido de límite, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, para cuyos efectos se les notificará legalmente la enajenación.
 
-I. Rama: industrial, comercial o de servicios;
+El derecho que este artículo concede, deberá ejercitarse dentro de los treinta día naturales siguientes a la notificación respectiva.
 
-II. Número de trabajadores;
+###### ARTICULO 22.
 
-III. Grado de Riesgo, o
+Corresponde el derecho del tanto al último propietario de un bien adquirido por procedimientos de derecho público, cuando éste vaya a ser enajenado, excepto cuando se esté en los casos previstos por los artículos 13 párrafo segundo, y 25 de esta Ley. El aviso se dará por correo certificado con acuse de recibo, y cuando se ignore el domicilio, mediante una sola publicación en el Boletín Oficial del Gobierno del Estado.
 
-IV. Ubicación geográfica.
+### CAPITULO III. DE LOS BIENES DESTINADOS A UN SERVICIO PUBLICO
 
-###### Artículo 13.
+###### ARTICULO 23.
 
-La Secretaría podrá realizar estudios e investigaciones en los Centros de Trabajo, con el objeto de establecer las bases para la elaboración y actualización de las Normas, así como para sustentar el costo-beneficio y factibilidad técnica de las mismas.
+Son bienes destinados a un servicio público:
 
-Igualmente, la Secretaría podrá llevar a cabo estudios e investigaciones en aquellas empresas con altas tasas de Accidentes y Enfermedades de Trabajo, a efecto de identificar y evaluar sus posibles causas, al igual que definir las medidas preventivas que corresponda aplicar.
+I.- Los inmuebles utilizados por los Poderes Legislativo, Ejecutivo y Judicial del Estado, así como los destinados al servicio de éstos;
 
-Los patrones y los trabajadores deberán prestar a la Secretaría las facilidades necesarias para la realización de tales estudios e investigaciones, para lo cual ésta deberá solicitar la aprobación del Centro de Trabajo.
+II.- Los inmuebles de propiedad estatal destinados al servicio de los gobiernos federal y municipales;
 
-La Secretaría podrá solicitar el auxilio de otras dependencias y entidades del Ejecutivo Federal, así como de las autoridades locales competentes, para la realización de los estudios e investigaciones a que alude el presente artículo.
+III.- Los predios rústicos directamente utilizados en los servicios del Estado;
 
-###### Artículo 14.
+IV.- Los inmuebles que formen parte del patrimonio de los organismos descentralizados siempre que se destinen a infraestructura, o que se utilicen en la explotación de bienes o en la prestación de servicios; y
 
-Cuando las Normas prevean el empleo de tecnologías, procesos, equipos, procedimientos, mecanismos, métodos de prueba o materiales específicos, los patrones o sus representantes podrán solicitar por escrito autorización para utilizar medios alternativos, mediante los cuales se dé cumplimiento a los objetivos y finalidades de las mismas.
+V.- Cualesquiera otros inmuebles adquiridos por procedimientos de derecho público, diversos a los señalados en las fracciones III y IV del artículo 39 de esta Ley.
 
-Las referidas solicitudes deberán contener:
+###### ARTICULO 24.
 
-I. Denominación o razón social del Centro de Trabajo;
+Se equiparan a los anteriores, los afectos mediante decreto a actividades de interés social a cargo de asociaciones o instituciones privadas que no persigan propósitos de lucro.
 
-II. Domicilio del Centro de Trabajo;
+###### ARTICULO 25.
 
-III. Copia y original o copia certificada para cotejo del poder notarial del apoderado o representante legal del solicitante;
+Los bienes a que se refiere la fracción IV del artículo 23 de esta Ley, sólo podrán gravarse una vez que se hubiesen desincorporado y, si a juicio del titular del Poder Ejecutivo, es conveniente para el mejor financiamiento de las obras o servicios de la entidad propietaria.
 
-IV. Especificación de la tecnología, proceso, equipo, procedimiento, mecanismo, método de prueba o material que se propone sustituir, con la indicación de la Norma y el numeral que lo prevea;
+###### ARTICULO 26.
 
-V. Descripción de la alternativa propuesta, junto con los planos, gráficas, diagramas de flujo, procedimientos, estadísticas de aplicación, hojas de datos de seguridad, memorias de cálculo, memorias técnicas o características de los instrumentos, que en su caso correspondan, y
+El destino de inmuebles al servicio de las dependencias o entidades de la administración pública estatal o al de los gobiernos federal o municipales, se hará mediante Decreto del titular del Poder Ejecutivo del Estado.
 
-VI. Justificación de que con la alternativa propuesta se cumple con los objetivos y finalidades determinados por la Norma respectiva.
+Los inmuebles destinados, serán para uso exclusivo de la dependencia o entidad o de los gobiernos federal y municipales que los ocupen o los tengan a su servicio.
 
-En el caso de que se propongan tecnologías, procesos, equipos, procedimientos, mecanismos, métodos de prueba o materiales alternativos de origen extranjero, se deberá acompañar la documentación indicada en las fracciones IV y V de este artículo en el idioma de origen y, en caso de que éste sea distinto al español, también adjuntar su traducción a este idioma elaborada por perito traductor.
+El destino de los inmuebles a que se refiere este artículo, no transmite la propiedad de los mismos, ni otorga derecho real alguno sobre ellos.
 
-###### Artículo 15.
+Para cambiar el uso o aprovechamiento de los inmuebles destinados en los términos de esta Ley, los destinatarios deberán solicitarlo al titular del Poder Ejecutivo, el que podrá autorizarlo considerando las razones que para ello se le expongan.
 
-La Secretaría deberá emitir la resolución que corresponda dentro de los sesenta días naturales siguientes a la recepción de la solicitud, previa opinión del| Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo.
+###### ARTICULO 27.
 
-En el caso de que la Secretaría no emita la resolución dentro de dicho plazo, se entenderá que es en sentido positivo y, a petición del solicitante, deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva.
+Las dependencias y las entidades de la administración pública estatal y los gobiernos federal y municipales, deberán iniciar la utilización de los inmuebles que se les destinen, dentro del plazo que fije el titular del Poder Ejecutivo en el Decreto respectivo, mismo que se computará a partir de la fecha en que oficialmente quede a su disposición el bien.
 
-La Secretaría publicará en el Diario Oficial de la Federación las autorizaciones que al efecto se otorguen en los términos de este artículo, a fin de darles publicidad.
+Si no se diere cumplimiento a lo dispuesto en el párrafo anterior, o se dejare de utilizar o de necesitar el inmueble, o se le diere un uso distinto al aprobado conforme a esta Ley, los destinatarios deberán entregarlo con todas sus mejoras y accesiones al titular del Poder Ejecutivo, por conducto de la Comisión Estatal, sin que tengan derecho a compensación alguna. En caso de que los destinatarios incurran en omisión, dicha Comisión podrá proceder a requerir la entrega del bien y, en su defecto, a tomar posesión de él en forma administrativa, para destinarlo a los usos que de acuerdo a la política inmobiliaria del Gobierno del Estado resulten más convenientes.
 
-###### Artículo 16.
+Los destinatarios deberán utilizar los inmuebles de una manera óptima, atendiendo para ello a los lineamientos que para ese efecto expida la Comisión Estatal.
 
-La Secretaría establecerá, en la Norma de la materia, los procedimientos o métodos de muestreo y determinación analítica de los contaminantes químicos del ambiente laboral, que podrán utilizar los laboratorios de pruebas.
+En caso de que los propios destinatarios no requieran usar la totalidad del inmueble, lo deberán hacer del conocimiento de la Comisión Estatal y poner a su disposición las áreas libres.
 
-###### Artículo 17.
+###### ARTICULO 28.
 
-En el presente Capítulo se establecen las disposiciones generales para la seguridad en el trabajo que deberán observarse en las materias siguientes:
+Las entidades paraestatales y los gobiernos federal y municipales que tengan a su disposición inmuebles estatales, cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de sus funciones o la realización de programas autorizados, deberán hacerlo del conocimiento de la Comisión Estatal.
 
-I. Edificios, locales, instalaciones y áreas de trabajo;
+No pierden su carácter de bienes de dominio público los que, estando destinados a un servicio público de hecho o por derecho, fueran aprovechados temporalmente, en todo o en parte, en otro objeto que no pueda considerarse como servicio público, hasta en tanto la autoridad competente resuelva lo procedente.
 
-II. Prevención y protección contra incendios;
+###### ARTICULO 29.
 
-III. Utilización de maquinaria, equipo y herramientas;
+Respecto de los bienes inmuebles destinados a un servicio público, no se podrá realizar ningún acto de disposición, ni conferir derechos de uso, sin la previa autorización de la Comisión Estatal. La inobservancia de lo antes señalado producirá la nulidad absoluta del acto relativo.
 
-IV. Manejo, transporte y almacenamiento de materiales;
+###### ARTICULO 30.
 
-V. Manejo, transporte y almacenamiento de Sustancias Químicas Peligrosas;
+La conservación de los edificios públicos en que estuvieron alojadas diversas dependencias o entidades de la administración pública estatal, se realizará de conformidad con el programa que para cada caso formule la Secretaría de Infraestructura Urbana y Ecología, con la participación de las dependencias y entidades ocupantes.
 
-VI. Conducción de vehículos motorizados;
+Si estuvieren alojadas en un inmueble estatal diversas dependencias o entidades de los gobiernos federal o municipales, para la realización de las actividades a que se refiere el párrafo anterior, se deberán celebrar los convenios que sean necesarios para tal efecto.
 
-VII. Trabajos en altura;
+Tratándose de inmuebles utilizados por diversas dependencias o entidades de la administración pública estatal, la distribución de los espacios asignados a cada una de éstas, así como la redistribución de los mismos, serán autorizados de acuerdo con los estudios y evaluaciones que se hagan del uso o aprovechamiento de los espacios relativos.
 
-VIII. Trabajos en Espacios Confinados;
+###### ARTICULO 31.
 
-IX. Recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas;
+No se permitirá a funcionarios o empleados ni a particulares, excepto a quienes sean beneficiarios de instituciones que presten un servicio social, que habiten u ocupen los inmuebles destinados a servicios públicos. Esta disposición no regirá cuando se trate de las personas que por razón de las funciones del inmueble deban habitarlo u ocuparlo, o de empleados y trabajadores que, con motivo del desempeño de su cargo, sea necesario que habiten en los inmuebles respectivos.
 
-X. Electricidad estática;
+Estará a cargo de los depositarios que tengan destinados a su servicio los inmuebles del dominio del Estado, la observancia y aplicación de este precepto.
 
-XI. Actividades de soldadura y corte, y
+### CAPITULO IV. DE LAS CONCESIONES DE LOS BIENES DE DOMINIO PUBLICO
 
-XII. Mantenimiento de instalaciones eléctricas.
+###### ARTICULO 32.
 
-Las disposiciones de este Capítulo se complementarán con las de carácter específico que contengan las Normas que resulten aplicables.
+Las concesiones sobre bienes de dominio público, no crean derechos reales; otorgan simplemente frente a la administración pública y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo a lo establecido en esta Ley y en las disposiciones que de ella se derivan.
 
-###### Artículo 18.
+Las concesiones sobre inmuebles de dominio público podrán otorgarse hasta por un plazo de treinta años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, atendiendo, tanto para el otorgamiento de la concesión, como para la prórroga, lo siguiente:
 
-En relación con los edificios, locales, instalaciones y áreas en los Centros de Trabajo, ya sean temporales o permanentes, los patrones deberán:
+I.- El monto de la inversión que el concesionario pretende aplicar;
 
-I. Edificarlos conforme a las disposiciones reglamentarias en materia de construcción y las Normas pertinentes;
+II.- El plazo de amortización de la inversión realizada;
 
-II. Asegurarse de que soporten las cargas fijas o móviles que correspondan a las actividades que en ellos se desarrollen;
+III.- El beneficio social y económico que signifique para la región o localidad en que se encuentre ubicado el bien;
 
-III. Disponer de espacios seguros y delimitados en las zonas de producción, mantenimiento, circulación de personas y vehículos, almacenamiento y servicio para los trabajadores;
+IV.- La necesidad de la actividad o del servicio que se preste;
 
-IV. Señalizar las áreas donde existan Riesgos;
+V.- El cumplimiento por parte del concesionario de las obligaciones a su cargo; y
 
-V. Proveer ventilación natural o artificial adecuada;
+VI.- La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
 
-VI. Integrar y aplicar un programa específico para el mantenimiento de las instalaciones del Centro de Trabajo;
+El titular de una concesión gozará de un plazo de cinco años, previo al vencimiento de la concesión, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionario revertirán en favor del Estado.
 
-VII. Contar con escaleras, rampas, escalas fijas, escalas móviles, puentes o plataformas elevadas, bajo condiciones seguras, así como con puertas de acceso y salidas de emergencia;
+###### ARTICULO 33.
 
-VIII. Poner a disposición de los trabajadores tomas de agua potable y vasos desechables o bebederos;
+Las concesiones sobre inmuebles de dominio público se extinguen por cualesquiera de las causas siguientes:
 
-IX. Instalar sanitarios para mujeres y hombres, y lavabos limpios y seguros para el servicio de los trabajadores;
+I.- Vencimiento del término por el que se hayan otorgado;
 
-X. Contar con regaderas y vestidores, de acuerdo con las actividades que se desarrollen o cuando se requiera la descontaminación de los trabajadores;
+II.- Renuncia del concesionario;
 
-XI. Tener lugares higiénicos para el consumo de alimentos, en su caso;
+III.- Desaparición de su finalidad o del bien objeto de la concesión;
 
-XII. Mantener con orden y limpieza permanentes las áreas de trabajo y los pasillos exteriores a los edificios, estacionamientos y otras áreas comunes del Centro de Trabajo;
+IV.- Revocación;
 
-XIII. Informar a los trabajadores sobre el uso y conservación de las áreas donde realizan sus actividades, y
+V.- Declaratoria de rescate; y
 
-XIV. Llevar los registros sobre la ejecución del programa específico de mantenimiento de las instalaciones del Centro de Trabajo.
+VI.- Cualquiera otra prevista en las leyes, en las disposiciones administrativas correspondientes o en la concesión misma, que haga imposible o inconveniente su continuación.
 
-### Capítulo Único. Normalización en Seguridad y Salud en el Trabajo
+###### ARTICULO 34.
 
-###### Artículo 19.
+Las concesiones sobre inmuebles de dominio público, podrán ser revocadas por cualquiera de las causas siguientes:
 
-Para la prevención y protección contra incendios, los patrones deberán:
+I.- Dejar de cumplir con el fin para el que fue otorgada la concesión, dar al bien objeto de la misma un uso distinto al autorizado, o no usar el bien de acuerdo con lo dispuesto en esta Ley, los reglamentos y el propio título de concesión;
 
-I. Clasificar el Riesgo de incendio del Centro de Trabajo, de modo integral o por áreas específicas;
+II.- Dejar de cumplir con las condiciones a que se sujete el otorgamiento de la concesión o infringir lo dispuesto en esta Ley y su reglamento;
 
-II. Contar con los medios de detección y equipos contra incendio, así como con sistemas fijos de protección y alarmas de incendio, de conformidad con lo que señala la Norma respectiva;
+III.- Dejar de pagar en forma oportuna los derechos que se hayan fijado en la concesión;
 
-III. Establecer y dar seguimiento a un programa de revisión a extintores;
+IV.- Realizar obras no autorizadas;
 
-IV. Establecer y dar seguimiento a un programa de revisión a los medios de detección y equipos contra incendio, al igual que los sistemas fijos de protección y alarmas de incendio;
+V.- Dañar ecosistemas como consecuencia del uso, aprovechamiento o explotación; y
 
-V. Establecer y dar seguimiento a un programa de revisión a las instalaciones eléctricas y de gas licuado de petróleo y natural;
+VI.- Las demás previstas en esta Ley, en las disposiciones administrativas que se dicten con base en ella y en las propias concesiones.
 
-VI. Contar con la señalización pertinente en las áreas donde se produzcan, almacenen o manejen sustancias inflamables o explosivas;
+###### ARTICULO 35.
 
-VII. Contar con instrucciones de seguridad para la prevención y protección de incendios al alcance de los trabajadores;
+La nulidad, la revocación y la caducidad de las concesiones sobre los bienes de dominio público, cuando procedan conforme a la Ley, se dictarán por la autoridad administrativa, a que por Ley corresponda el ramo, sin perjuicio de lo dispuesto en el artículo 36, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
 
-VIII. Contar con un croquis, plano o mapa general del Centro de Trabajo, o por áreas que lo integran, que identifique al menos las principales áreas o zonas con Riesgo de incendio, la ubicación de los medios de detección de incendio y de los equipos y sistemas contra incendio, así como las rutas de evacuación;
+Cuando la nulidad se funde en error y no en la violación de la Ley o en la falta de supuestos para el otorgamiento de la concesión, ésta podrá ser confirmada por la autoridad administrativa, tan pronto como cese tal circunstancia.
 
-IX. Prohibir y evitar el bloqueo, daño, inutilización o uso inadecuado de los equipos y sistemas contra incendio, el Equipo de Protección Personal para la respuesta a emergencias, así como los señalamientos de evacuación, prevención y de equipos y sistemas contra incendio;
+En los casos de nulidad de las concesiones sobre bienes de dominio público, la autoridad queda facultada para limitar los efectos de la resolución, cuando a su juicio, el concesionario haya procedido de buena fe.
 
-X. Adoptar medidas de seguridad para prevenir la generación y acumulación de electricidad estática en las áreas donde se manejen sustancias inflamables o explosivas;
+En el caso de que la autoridad declare la nulidad, la revocación o la caducidad de una concesión por causa imputable al concesionario, los bienes materia de la concesión, sus mejoras y accesiones, revertirán de pleno derecho al control y administración del Gobierno del Estado, sin pago de indemnización alguna al concesionario.
 
-XI. Contar con un plan de atención a emergencias de incendio;
+###### ARTICULO 36.
 
-XII. Disponer de rutas de evacuación que cumplan con las medidas de seguridad dispuestas por la Norma de la especialidad;
+La Comisión Estatal, cuando a su juicio existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones o de seguir los procedimientos a que se refiere el artículo anterior, y solicitará al Procurador de Justicia del Estado que someta el asunto al conocimiento de las autoridades judiciales competentes. Dentro del procedimiento podrá solicitarse la ocupación administrativa de los bienes.
 
-XIII. Contar con brigadas contra incendio en los Centros de Trabajo, cuando así lo exija la Norma aplicable;
+###### ARTICULO 37.
 
-XIV. Desarrollar simulacros de emergencias de incendio;
+Los derechos y obligaciones derivados de las concesiones sobre inmuebles de dominio público, sólo podrán cederse, con la autorización previa y expresa de la autoridad que las hubiere otorgado exigiendo al cesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
 
-XV. Proporcionar el Equipo de Protección Personal a las brigadas contra incendio;
+Las concesiones sobre inmuebles de dominio público no podrán ser objeto, en todo o en parte, de subconcesión, arrendamiento, gravamen o cualquier acto o contrato por virtud del cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones.
 
-XVI. Capacitar y adiestrar a los trabajadores y, en su caso, a los integrantes de las brigadas contra incendio, y
+Cualquier operación que se realice en contravención del tenor de este artículo, estará afectada de nulidad absoluta y el concesionario perderá en favor del Estado, los derechos que deriven de la concesión y los bienes afectos a ella.
 
-XVII. Llevar los registros sobre los resultados de los programas de revisión y pruebas, así como de los simulacros de emergencias de incendio.
+###### ARTICULO 38.
 
-La comprobación del cumplimiento de las obligaciones para la prevención y protección contra incendios se realizará con base en las modalidades que establezca la Norma correspondiente.
+Las concesiones sobre bienes de dominio público, podrán rescatarse por causas de utilidad o interés público, mediante indemnización, cuyo monto será fijado por peritos. La declaratoria de rescate hará que los bienes materia de la concesión vuelvan, de pleno derecho, desde la fecha de la declaratoria, a la posesión, control y administración del Gobierno del Estado, y que ingresen al patrimonio del mismo, los bienes, equipo e instalaciones destinados directa o indirectamente a los fines de la concesión. Podrá autorizarse al concesionario a retirar y a disponer de los bienes, equipos e instalaciones de su propiedad afectos a la concesión, cuando los mismos no fueren útiles al Gobierno del Estado y puedan ser aprovechados por el concesionario; pero, en este caso, su valor real actual no se incluirá en el monto de la indemnización.
 
-###### Artículo 20.
+En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que haya de cubrirse al concesionario; pero en ningún caso podrán tomarse como base para fijarlo el valor intrínseco de los bienes concesionados.
 
-Para la utilización de maquinaria, equipo y herramientas, los patrones deberán:
+Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme con la resolución que fija el monto de la misma, podrá recurrirla ante la autoridad judicial competente, siguiendo, en lo conducente, el procedimiento establecido en el artículo 14 de la Ley de Expropiación por Causa de Utilidad Pública del Estado de Sonora.
 
-I. Elaborar un estudio para analizar el Riesgo a que están expuestos los trabajadores;
+## TITULO CUARTO. DE LOS BIENES DE DOMINIO PRIVADO
 
-II. Contar con un programa específico para su revisión y mantenimiento;
+### CAPITULO I. DEL REGIMEN JURIDICO DE LOS BIENES DE DOMINIO PRIVADO
 
-III. Contar con los procedimientos para su operación y mantenimiento;
+###### ARTICULO 39.
 
-IV. Instalar protectores y dispositivos de seguridad cuando así proceda;
+Son bienes de dominio privado del Estado:
 
-V. Promover aspectos de tipo ergonómico en su uso;
+I.- Los bienes vacantes adjudicados por la autoridad judicial;
 
-VI. Proporcionar el Equipo de Protección Personal requerido para su operación;
+II.- Los que hayan constituido el patrimonio de entidades que se extingan; tratándose de empresas de participación estatal, en la proporción que corresponda al Gobierno del Estado;
 
-VII. Informar a los trabajadores sobre su uso, conservación, mantenimiento, lugar de almacenamiento y transporte seguro;
+III.- Los bienes inmuebles que adquiera el Estado y tengan por objeto la creación de reservas territoriales para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como para la vivienda, su equipamiento e infraestructura;
 
-VIII. Capacitar y adiestrar a los trabajadores para su operación segura, y
+IV.- Aquéllos que siendo de propiedad estatal, por su naturaleza sean susceptibles de ser destinados a acciones habitacionales de interés social; y
 
-IX. Llevar los registros sobre los resultados de su revisión y mantenimiento.
+V.- Los demás bienes muebles e inmuebles que por cualquier título jurídico adquiera el Estado y que no están comprendidos en el artículo 19 de esta Ley.
 
-###### Artículo 21.
+###### ARTICULO 40.
 
-Para el manejo, transporte y almacenamiento de materiales, los patrones deberán:
+Los bienes a que se refiere el artículo que antecede, pasarán a formar parte del dominio público, cuando sean destinados para uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos, o de hecho se utilicen en dichos fines.
 
-I. Contar con un programa específico para la revisión y mantenimiento de la maquinaria y equipos empleados;
+###### ARTICULO 41.
 
-II. Contar con los procedimientos para la instalación, operación y mantenimiento de dicha maquinaria y equipos;
+Los bienes de dominio privado estarán sometidos en todo lo no previsto en este ordenamiento, a lo que dispongan las leyes y programas de desarrollo urbano, o en su defecto, al Código Civil para el Estado de Sonora.
 
-III. Disponer de un código de señales o sistema de comunicación para los operadores y ayudantes involucrados en el manejo y transporte de materiales con maquinaria o equipo de elevación;
+###### ARTICULO 42.
 
-IV. Dotar a la maquinaria y equipos con dispositivos de paro de seguridad, avisos sobre su capacidad máxima de carga y señalización audible y visible;
+Los inmuebles de dominio privado del Estado, se destinarán prioritariamente al servicio de los Poderes Legislativo, Ejecutivo y Judicial y al de los Municipios del Estado.
 
-V. Verificar las condiciones de seguridad de la maquinaria y equipos que se destinen a tales fines, antes de ponerse en servicio;
+###### ARTICULO 43.
 
-VI. Supervisar que el manejo, transporte y almacenamiento de materiales se realice en condiciones seguras;
+Los inmuebles de dominio privado que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior podrán, de acuerdo con los criterios que establezca el Gobernador del Estado, a través de la Comisión Estatal, ser objeto de los siguientes actos de administración y disposición:
 
-VII. Mantener las áreas de trabajo libres de obstáculos;
+I.- Enajenación a título oneroso o gratuito, según el caso, en favor de las dependencias y entidades que tengan a su cargo resolver problemas de suelo y vivienda para atender necesidades colectivas;
 
-VIII. Proporcionar a los trabajadores el Equipo de Protección Personal específico, conforme al Riesgo al que están expuestos;
+II.- Permuta con los gobiernos federal y municipales;
 
-IX. Contar con un manual de primeros auxilios para la atención a emergencias;
+III.- Enajenación a título oneroso, para la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo del Gobierno del Estado;
 
-X. Efectuar la vigilancia a la salud de los trabajadores que realizan la carga manual de materiales;
+IV.- Donación a favor de los gobiernos federal y municipales, para que utilicen los inmuebles en la prestación de servicios públicos de su competencia, de interés para el Gobierno del Estado;
 
-XI. Informar a los trabajadores sobre los Riesgos a que están expuestos;
+V.- Arrendamiento, donación o comodato en favor de los gobiernos federal y municipales que utilicen los inmuebles en la prestación de los servicios públicos de su competencia y de las asociaciones, sociedades o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro;
 
-XII. Capacitar y adiestrar a los operadores y ayudantes que operen la maquinaria y equipos, y
+VI.- Enajenación a título oneroso, en favor de personas físicas o morales que requieran disponer de dichos inmuebles para la creación, fomento y conservación de una empresa que beneficie a la colectividad; y
 
-XIII. Llevar los registros sobre el mantenimiento a la maquinaria y equipos empleados; de su funcionamiento después de cualquier reparación, así como de la vigilancia a la salud de los trabajadores que realizan la carga manual de materiales.
+VII.- Enajenación o donación, en los demás casos en que se justifique, en los términos de esta Ley.
 
-###### Artículo 22.
+###### ARTICULO 44.
 
-Para el manejo, transporte y almacenamiento de Sustancias Químicas Peligrosas, los patrones deberán:
+Los inmuebles de dominio privado son inembargables e imprescriptibles.
 
-I. Elaborar un análisis de Riesgos sobre las Sustancias Químicas Peligrosas que manejen, transporten o almacenen;
+###### ARTICULO 45.
 
-II. Contar con procedimientos para su manejo, transporte y almacenamiento;
+La enajenación de inmuebles del dominio privado del Gobierno del Estado, de los organismos descentralizados, de las empresas de participación estatal mayoritaria o de los fideicomisos públicos, con el fin de solucionar problemas de índole habitacional o urbano, se deberá realizar conforme a los programas de urbanización, notificación y fraccionamiento, los cuales deberán ser autorizados previamente por parte de la Secretaría de Infraestructura Urbana y Ecología.
 
-III. Contar con un plan de atención a emergencias para casos de fuga, derrame, emanaciones o incendio;
+Las enajenaciones de inmuebles, que realicen las entidades de la administración pública estatal, que tengan por objeto o fin principal el fraccionamiento y comercialización de inmuebles, se sujetarán a lo dispuesto en sus leyes o decretos de creación, así como a las reglas que al efecto expida la Secretaría de Infraestructura Urbana y Ecología, mismas que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
-IV. Identificar los recipientes que las contengan y mantenerlos cerrados mientras no se utilizan;
+###### ARTICULO 46.
 
-V. Almacenar las Sustancias Químicas Peligrosas en recipientes específicos, de materiales compatibles con la sustancia de que se trate;
+La autorización de los programas a que se refiere el primer párrafo del artículo anterior, se otorgará bajo las siguientes condiciones:
 
-VI. Identificar las tuberías que conduzcan Sustancias Químicas Peligrosas, y contar con dispositivos que permitan interrumpir el flujo;
+I.- Que sean compatibles con las políticas sectoriales e institucionales correspondientes;
 
-VII. Disponer de zonas específicas para su almacenamiento;
+II.- Que se observen los programas y disposiciones legales que regulen el uso del suelo;
 
-VIII. Contar con instalaciones de materiales resistentes al fuego en áreas donde su manejo, transporte o almacenamiento representa Riesgo de incendio o explosión;
+III.- Que se verifique la existencia del programa de financiamiento o de la partida presupuestal respectiva; y
 
-IX. Disponer de instalaciones, equipo o materiales para contener las Sustancias Químicas Peligrosas, que impidan su escurrimiento o dispersión, en el caso de derrame o fuga;
+IV.- Que se evalúe la disponibilidad de la infraestructura, de equipamiento y de servicios públicos en los predios de que se trate.
 
-X. Aislar las áreas destinadas para el almacenamiento de sustancias inflamables o explosivas de cualquier fuente de calor o ignición;
+###### ARTICULO 47.
 
-XI. Realizar el trasvase de sustancias inflamables o explosivas con ventilación o aislamiento del proceso para evitar la presencia de atmósferas explosivas;
+Para las enajenaciones de inmuebles de dominio privado, a que se refiere la fracción I del artículo 43 de esta Ley, deberá observarse en todo caso:
 
-XII. Proporcionar al Personal Ocupacionalmente Expuesto el Equipo de Protección Personal requerido;
+I.- La aptitud de los bienes para ser utilizados en los programas correspondientes;
 
-XIII. Prohibir el uso de herramientas, ropa, zapatos y objetos personales que puedan generar chispa, flama abierta o temperaturas que puedan provocar ignición;
+II.- Que el aprovechamiento de los inmuebles sea congruente con los programas de desarrollo urbano y con las declaratorias de usos y destinos en vigor;
 
-XIV. Contar con regaderas y lavaojos, neutralizadores e inhibidores, en las zonas de Riesgo para la atención a emergencias;
+III.- Que los solicitantes cuenten con un programa financiero en el que se prevea la aplicación de los recursos; y
 
-XV. Disponer de regaderas, vestidores y casilleros, así como de servicio de limpieza de ropa, cuando el depósito de Sustancias Químicas Peligrosas en la piel o ropa de los trabajadores pueda representar un Riesgo a su salud;
+IV.- Que se cumpla con las disposiciones aplicables contenidas en la Ley de Desarrollo Urbano para el Estado de Sonora.
 
-XVI. Contar con un manual de primeros auxilios para la atención a emergencias;
+En todo caso, se dará preferencia a los solicitantes que acepten y convengan que los productos de la comercialización de los inmuebles a que se refiere este artículo, se siga utilizando en acciones de vivienda de interés social.
 
-XVII. Informar a los trabajadores sobre los Riesgos a los que están expuestos por su manejo, transporte y almacenamiento;
+###### ARTICULO 48.
 
-XVIII. Proporcionar capacitación y adiestramiento a los trabajadores para su manejo, transporte y almacenamiento, y
+En los casos de donación a que se refieren las fracciones IV y V del artículo 43 de esta Ley, en el decreto por el cual se autoriza la misma, se fijará el plazo máximo dentro del cual deberá realizarse la utilización del bien en las actividades para las cuales se solicitó. De no fijarse dicho plazo, se entenderá que éste es de seis meses, contados a partir de la fecha en que se formalice el acto jurídico relativo.
 
-XIX. Llevar los registros sobre el mantenimiento preventivo y correctivo a los equipos donde se manejan, transportan y almacenan.
+Si el donatario no iniciare la utilización del bien en el fin señalado dentro del plazo previsto, o si habiéndolo hecho, diere al inmueble un uso distinto, tanto el bien como sus mejoras revertirán en favor del Gobierno del Estado. Lo anterior será aplicable a los casos previstos en la fracción VII del artículo 43 de esta Ley, cuando la donataria sea una persona física.
 
-### Capítulo Primero. Disposiciones Generales para la Seguridad en el Trabajo
+También procederá la reversión del bien y sus mejoras en favor del Estado, respecto de las donaciones señaladas en la fracción V del artículo citado, cuando las asociaciones, sociedades o instituciones privadas desvirtúen la naturaleza de sus actividades o el carácter no lucrativo de sus fines, dejen de cumplir con su objeto o se extingan.
 
-###### Artículo 23.
+Las condiciones a que se refiere este artículo, se insertarán en la escritura respectiva y su incumplimiento dará origen a la rescisión del contrato.
 
-Para la conducción de vehículos motorizados, los patrones deberán:
+###### ARTICULO 49.
 
-I. Contar con un programa específico para la revisión y mantenimiento de dichos vehículos;
+Las enajenaciones de bienes inmuebles previstas en las fracciones III y VII del artículo 43 de esta Ley, se llevarán a cabo por la Comisión Estatal a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, oportunidad y demás circunstancias pertinentes.
 
-II. Instalar protectores y dispositivos de seguridad;
+La Comisión Estatal deberá enviar a la Contraloría copia de la convocatoria respectiva, a efecto de que pueda participar, en el ejercicio de sus atribuciones, en todo el proceso de licitación.
 
-III. Verificar que sus conductores cuenten con las licencias y permisos expedidos por las autoridades competentes;
+###### ARTICULO 50.
 
-IV. Aplicar exámenes toxicológicos a sus conductores;
+Las convocatorias públicas podrán referirse a uno o más inmuebles y se publicarán al menos en uno de los periódicos de mayor circulación en el Estado y contendrán enunciativamente:
 
-V. Supervisar que su conducción se realice de acuerdo con la regulación que corresponda;
+I.- La descripción del inmueble que se desee enajenar;
 
-VI. Proporcionar a los conductores el Equipo de Protección Personal requerido;
+II.- Los requisitos que deberán satisfacer los interesados;
 
-VII. Contar con el certificado del estado de salud de los conductores del transporte público y de carga y pasajeros urbano e interurbano;
+III.- Fecha límite para la inscripción en el proceso de licitación, que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la fecha de la publicación de la convocatoria;
 
-VIII. Informar a los conductores sobre los factores de Riesgo y su prevención en la conducción de vehículos;
+IV.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones; y
 
-IX. Capacitar y adiestrar a los conductores en su manejo seguro, y
+V.- Los criterios conforme a los cuales se decidirá el otorgamiento del contrato.
 
-X. Llevar los registros sobre su revisión y mantenimiento; los exámenes toxicológicos aplicados; las sanciones impuestas por infracciones, y los accidentes viales de su flota vehicular.
+###### ARTICULO 51.
 
-###### Artículo 24.
+Todo interesado que satisfaga los requisitos de la convocatoria tendrá derecho a presentar proposiciones, previo el otorgamiento de las cauciones que garanticen la seriedad de las mismas.
 
-Para la realización de trabajos en altura, los patrones deberán:
+Las garantías a que se refiere el párrafo anterior se constituirán a favor y a satisfacción de la Secretaría de Finanzas y hasta por los montos que, en cada caso, determine la Comisión Estatal. Dichos montos deberán especificarse en la convocatoria señalada en el artículo anterior.
 
-I. Contar con un análisis de Riesgos de las áreas donde se llevarán a cabo dichos trabajos;
+###### ARTICULO 52.
 
-II. Establecer y dar seguimiento a un programa específico de revisión y mantenimiento a los sistemas o equipos utilizados para la realización de los mismos;
+El acto de presentación y apertura de proposiciones será presidido por el servidor público que designe la convocante, y se llevará a cabo en la forma siguiente:
 
-III. Contar con instructivos, manuales o procedimientos para la instalación, operación y mantenimiento de los sistemas o equipos utilizados;
+I.- Se iniciará en la fecha, lugar y hora señalada en la convocatoria respectiva;
 
-IV. Contar con un plan de atención a emergencias y con el equipo y materiales para realizar el rescate de los trabajadores accidentados;
+II.- Se pasará lista de asistencia. Los proponentes al ser nombrados, entregarán su proposición y demás documentación requerida en sobre cerrado;
 
-V. Revisar los sistemas y equipos en forma previa a la ejecución de los trabajos;
+III.- Se procederá a la apertura de los sobres y no se dará lectura a la postura económica de aquellas proposiciones que no contengan todos los requisitos, las que serán desechadas;
 
-VI. Instalar y operar bajo condiciones seguras los sistemas personales para trabajos en altura, los andamios tipo torre o estructura, los andamios suspendidos, las plataformas de elevación, las escaleras de mano y las redes de seguridad;
+IV.- El servidor público que presida el acto, leerá en voz alta cuando menos, el importe total de cada una de las proposiciones admitidas;
 
-VII. Colocar señales y avisos de seguridad para delimitar las áreas a nivel de piso, donde se lleven a cabo dichos trabajos, y restringir el acceso a las mismas;
+V.- Se entregará a todos los proponentes, cuyas proposiciones hayan sido admitidas, un recibo por la garantía otorgada;
 
-VIII. Evitar o interrumpir las actividades cuando se detecten Condiciones Inseguras en los sistemas o equipos utilizados, o existan condiciones que pongan en Riesgo a los trabajadores;
+VI.- Se levantará acta circunstanciada del acto de apertura de proposiciones, que firmarán, en su caso, las personas que en él hayan intervenido. En dicha acta se asentarán, además, las observaciones que hubieren manifestado los participantes. Se informará asimismo, a los presentes, la fecha, lugar y hora en que se dará a conocer el fallo; y
 
-IX. Proporcionar a los trabajadores el Equipo de Protección Personal requerido;
+VII.- De no recibirse proposición alguna, se declarará desierto el concurso y se procederá de conformidad con lo dispuesto en el artículo 57 de esta Ley.
 
-X. Practicar exámenes médicos a los trabajadores que realizan estos trabajos;
+###### ARTICULO 53.
 
-XI. Proporcionarles información, capacitación y adiestramiento sobre la materia;
+La Comisión Estatal, con base en el análisis comparativo de las proposiciones admitidas y en el avalúo del inmueble sujeto a enajenación, emitirá un dictamen que servirá como fundamento para el fallo, mediante el que se determinará con cual de los proponentes se celebrará el contrato de enajenación, por reunir las condiciones legales y económicas requeridas. Si resultare que dos o más proposiciones satisfacen las condiciones anteriores, el contrato se celebrará con quien haya presentado la postura más alta.
 
-XII. Expedir autorizaciones por escrito para la realización de trabajos en altura mediante andamios suspendidos o plataformas de elevación, y
+La Comisión Estatal, dará a conocer el fallo en el lugar, fecha y hora que señale para tal efecto y entregará a los proponentes copia del mismo.
 
-XIII. Llevar los registros del personal autorizado para su desarrollo; los exámenes médicos practicados, así como los resultados de la revisión y mantenimiento a los sistemas y equipos utilizados.
+Contra la resolución que contenga el fallo, no procederá recurso alguno.
 
-###### Artículo 25.
+###### ARTICULO 54.
 
-Para la realización de trabajos en Espacios Confinados, los patrones deberán:
+En caso de que, satisfechas las condiciones a que se refiere el artículo anterior, existan dos o más posturas iguales, se citará mediante notificación personal a los proponentes, para que comparezcan ante la Comisión Estatal. En la diligencia respectiva, se levantará razón de las notificaciones realizadas y se procederá a dar lectura de la resolución que determinó la existencia de posturas similares, procediéndose, de inmediato a interrogar a los postores si mejoran las mismas. En el supuesto de que alguno la mejore, dentro de los quince minutos que sigan a la pregunta, el funcionario que celebre la diligencia procederá a interrogar de nueva cuenta a los proponentes, respecto de que si alguno de ellos la mejora, y así sucesivamente, se procederá en relación con las proposiciones que se realicen. De no mejorarse la última proposición, se celebrará el contrato con quien haya propuesto aquélla.
 
-I. Elaborar un análisis de Riesgos sobre las actividades por desarrollar;
+Si en la diligencia a que se refiere el párrafo anterior, los interesados no mejoran sus proposiciones, la Comisión Estatal decidirá libremente con quién celebrará el contrato. Del acto mencionado en este artículo, se levantará acta circunstanciada en los términos del precepto anterior.
 
-II. Contar con procedimientos de seguridad para las actividades a desarrollar y los equipos y herramientas por utilizar;
+###### ARTICULO 55.
 
-III. Contar con procedimientos de muestreo para detectar atmósferas peligrosas o deficientes de oxígeno;
+La emisión del fallo obligará a la Comisión Estatal y a la persona favorecida por el mismo, a formalizar el documento relativo dentro de los treinta días siguientes al de la fecha del acto respectivo.
 
-IV. Disponer de un plan de trabajo específico;
+Si el interesado no firmare el contrato, perderá en favor de la convocante la garantía que hubiere otorgado y la Comisión Estatal podrá, sin necesidad de un nuevo procedimiento, celebrar el contrato con el participante siguiente en los términos del artículo 53 de esta Ley y de su propuesta, y así sucesivamente.
 
-V. Disponer del plan de rescate para posibles trabajadores accidentados, que incluya el equipo respectivo;
+###### ARTICULO 56.
 
-VI. Señalizar la entrada del Espacio Confinado;
+En las distintas operaciones inmobiliarias en las que participe el Gobierno del Estado, corresponderá a la Comisión Estatal: determinar el valor de los inmuebles objeto de las operaciones de adquisición, enajenación o permuta; fijar el monto de las rentas que el Gobierno del Estado deba cobrar cuando tenga el carácter de arrendador e, igualmente, las que deba pagar cuando tenga el carácter de arrendatario.
 
-VII. Designar a un responsable de la supervisión de los trabajos que se ubicará en el exterior del Espacio Confinado;
+En los casos de enajenaciones, permutas o arrendamientos de inmuebles del Gobierno del Estado, el importe del precio del producto o de la renta, respectivamente, no podrá ser inferior al señalado en el dictamen correspondiente.
 
-VIII. Contar con mecanismos de comunicación entre el personal que realiza las actividades en el Espacio Confinado y el personal supervisor;
+El precio de los inmuebles que se vayan a adquirir o de las rentas que se vayan a pagar, no podrá ser superior al señalado en el dictamen respectivo.
 
-IX. Mantener una atmósfera respirable por medio de sistemas de ventilación natural o forzada, o utilizar Equipo de Protección Personal con línea de suministro de aire o de respiración autónomo;
+Se exceptúan de lo dispuesto en este artículo, las enajenaciones que tengan por objeto el desarrollo de acciones habitacionales de interés social, en cuyo caso, la fijación del precio de los lotes y predios se determinará conforme a lo establecido en la Ley de Desarrollo Urbano para el Estado de Sonora.
 
-X. Utilizar instalaciones, herramientas y equipos eléctricos a prueba de explosión, en presencia de sustancias inflamables o explosivas;
+Las entidades de la administración pública, deberán realizar sus adquisiciones y ventas de inmuebles con base en avalúos de la Comisión Estatal.
 
-XI. Proveer iluminación al interior de los Espacios Confinados;
+###### ARTICULO 57.
 
-XII. Proporcionar a los trabajadores el Equipo de Protección Personal requerido, de conformidad con el análisis de Riesgos;
+La Comisión Estatal, bajo su responsabilidad autorizará la enajenación de inmuebles fuera de licitación pública, en los supuestos previstos en los artículos 43, fracción VII y 52, fracción VII, de esta Ley, siempre y cuando se fije el precio en la forma prevista por el artículo anterior.
 
-XIII. Proporcionar información y capacitación a los trabajadores que realizan estas actividades;
+###### ARTICULO 58.
 
-XIV. Expedir autorizaciones por escrito para la realización de trabajos en Espacios Confinados, y
+Toda enajenación onerosa de inmuebles que realice el Gobierno del Estado deberá ser de contado, a excepción de las enajenaciones que se efectúen en beneficio de grupos de personas de escasos recursos, y que tengan como finalidad resolver necesidades de vivienda de interés social, o las que se verifiquen para la realización de actividades sociales o culturales. Los adquirentes disfrutarán de un plazo hasta de diez años para pagar el precio del inmueble, siempre y cuando entreguen como anticipo en efectivo cuando menos el 25% de dicho precio.
 
-XV. Llevar los registros del personal autorizado para su desarrollo; de su ingreso y salida de dichos espacios; sus tiempos de permanencia, y el muestreo continuo de la atmósfera.
+Asimismo, podrán exceptuarse las enajenaciones que se realicen a favor de personas físicas o morales, que pretendan llevar a cabo proyectos habitacionales de interés social o resolver necesidades de vivienda a las personas de escasos recursos económicos.
 
-###### Artículo 26.
+El Gobierno del Estado se reservará el dominio de los bienes hasta el pago total del precio, de los intereses pactados y de los moratorios, en su caso.
 
-Para el funcionamiento de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, los patrones deberán:
+Las entidades de la administración pública estatal cuyo objeto principal sea el fraccionamiento o comercialización de inmuebles, podrán efectuar enajenaciones a plazos, en los términos de sus leyes o decretos de creación.
 
-I. Clasificar a dichos equipos instalados en el Centro de Trabajo con base en lo previsto en la Norma de la materia;
+###### ARTICULO 59.
 
-II. Integrar un listado actualizado y conformar el expediente de los equipos instalados;
+Mientras no esté totalmente pagado el precio, los compradores de bienes inmuebles estatales, no podrán hipotecarlos ni constituir sobre ellos derechos reales en favor de terceros, ni tendrán facultad para derribar o modificar las construcciones sin autorización de la Comisión Estatal.
 
-III. Elaborar y aplicar programas específicos para su revisión, mantenimiento y pruebas;
+En los contratos relativos, deberá estipularse además, que la falta de pago de tres mensualidades de los abonos a cuenta del precio y de sus intereses en los términos convenidos y seis mensualidades en los casos de interés social, así como la violación de las prohibiciones que contiene este artículo, darán origen a la rescisión del contrato.
 
-IV. Contar con los procedimientos para su operación, revisión, mantenimiento y pruebas;
+###### ARTICULO 60.
 
-V. Contar con un plan de atención a emergencias;
+Los actos jurídicos o contratos que se realicen en contravención de este Capítulo, estarán afectados de nulidad absoluta.
 
-VI. Identificar a cada equipo por medio de número o clave;
+###### ARTICULO 61.
 
-VII. Señalizar en los equipos los tipos de Riesgo de las sustancias que contienen;
+Los bienes de dominio privado del Estado, pueden ser objeto de todos los contratos que regula el derecho común. Se exceptúan, solamente, los de comodato y las donaciones no autorizadas en esta Ley.
 
-VIII. Mantener su cimentación o su sistema de soporte en condiciones tales que no afecten la operación segura del equipo;
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
 
-IX. Disponer del espacio requerido para la operación de los equipos y, en su caso, la realización de las maniobras de mantenimiento, pruebas de presión y exámenes no destructivos;
+ARTICULO 61 BIS.- No obstante lo previsto en el artículo anterior, el Gobierno del Estado estará facultado para celebrar los contratos de comodato que sean necesarios para la prestación de servicios que deriven de una Alianza Público Privada de Servicios autorizada conforme a la Ley de la Materia. Su objeto y su plazo no podrán ser mayor al estrictamente necesario para cumplir con el Contrato de Alianza correspondiente.
 
-X. Contar con elementos de protección física o aislamiento, en el caso de aquellos que operen a temperaturas extremas, y señalizarlos;
+###### ARTICULO 62.
 
-XI. Mantener en condiciones de seguridad el funcionamiento de los equipos;
+Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno del Estado, y en que en los términos de esta Ley requieran la intervención de Notario, se celebrarán ante la fe del que designe el titular del Poder Ejecutivo del Estado.
 
-XII. Contar con dispositivos de relevo de presión o elementos que eviten rebasar la presión de trabajo máxima permitida;
+###### ARTICULO 63.
 
-XIII. Mantener sus instrumentos de control en condiciones seguras de operación;
+No se requerirá la intervención de Notario Público en los siguientes casos:
 
-XIV. Dirigir el desahogo de los fluidos peligrosos a través de dispositivos de seguridad a lugares donde no dañen a trabajadores, al Centro de Trabajo o al ambiente;
+I.- Donaciones que se efectúen en favor del Gobierno del Estado;
 
-XV. Aplicar a los equipos pruebas de presión o exámenes no destructivos bajo las medidas de seguridad pertinentes;
+II.- Donaciones que efectúe el Gobierno del Estado en favor de los gobiernos federal o municipales; y
 
-XVI. Capacitar al personal que realiza actividades de operación, mantenimiento, reparación y pruebas de presión o exámenes no destructivos a los equipos, y
+III.- Enajenaciones que se realicen para resolver necesidades de suelo y vivienda por parte del Gobierno del Estado.
 
-XVII. Llevar los registros sobre la operación, revisión, mantenimiento y pruebas de presión y exámenes no destructivos de los equipos.
+En los supuestos señalados en las fracciones anteriores, el documento que consigne el contrato respectivo tendrá el carácter de escritura pública, mismo que deberá inscribirse en el Registro Público de la Propiedad que corresponda.
 
-###### Artículo 27.
+###### ARTICULO 64.
 
-Para el funcionamiento de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas que la Norma así lo determine, los patrones deberán dar aviso por escrito a la Secretaría, antes de la fecha de inicio de su puesta en operación, que dichos equipos cumplen con las condiciones de seguridad señaladas, junto con el dictamen de Evaluación de la Conformidad expedido por una unidad de verificación acreditada y aprobada, conforme a las modalidades que dispone la Norma respectiva.
+En el caso de los bienes que hayan formado parte del patrimonio de las entidades de la administración pública estatal que se extingan, no se requerirá la expedición de escritura pública y se reputará que los bienes forman parte del dominio privado del Estado, desde la inscripción del ordenamiento o acto jurídico que determina la extinción de la entidad relativa, en el Registro Público de la Propiedad que corresponda.
 
-Tratándose de equipos nuevos, los patrones deberán efectuar el aviso de que cumplen con las condiciones de seguridad, junto con el dictamen de Evaluación de la Conformidad correspondiente a los diez años de haber realizado el primero, y posteriormente cada cinco años, dentro de los sesenta días naturales previos a la conclusión de cada período.
+###### ARTICULO 65.
 
-En el caso de los equipos usados, los patrones deberán efectuar el aviso de que cumplen con las condiciones de seguridad, junto con el dictamen de Evaluación de la Conformidad respectivo a los cinco años de haber realizado el primero, y posteriormente cada cinco años, dentro de los sesenta días naturales previos a la conclusión de cada período.
+El Gobierno del Estado está facultado para retener administrativamente, los bienes que posea. Cuando se trate de recuperar la posesión interina o definitiva o de reivindicar los inmuebles de dominio privado o de obtener el cumplimiento, la rescisión o la nulidad de contratos o cualquier otro acto jurídico, celebrados respecto de dichos bienes, el Gobierno del Estado deberá deducir, ante los tribunales, las acciones que corresponda, las que se tramitarán en los términos señalados en el Código de Procedimientos Civiles. Presentada la demanda, el Juez, a solicitud del Ministerio Público y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervenientes.
 
-###### Artículo 28.
+Cuando por su finalidad el contrato se relacione estrechamente con las atribuciones que al Estado competen, podrá rescindirse administrativamente, sin perjuicio de las prestaciones a que tenga derecho la otra parte.
 
-Cuando se realice una alteración o se reubiquen los recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, los patrones deberán dar aviso a la Secretaría que los mismos mantienen las condiciones de seguridad establecidas en la Norma de la especialidad, antes de operar dichos equipos, en los mismos términos y condiciones a que se refiere el artículo anterior.
+###### ARTICULO 66.
 
-###### Artículo 29.
+El Ejecutivo del Estado gestionará que el gobierno federal, le ceda o enajene, a título gratuito, los bienes de propiedad federal que se encuentren en el territorio del Estado.
 
-Para el control de la electricidad estática y prevenir los efectos de las descargas atmosféricas, los patrones deberán:
+### CAPITULO II. DE LOS BIENES MUEBLES DE DOMINIO PRIVADO
 
-I. Instalar sistemas de puesta a tierra y dispositivos o equipos para controlar la electricidad estática en instalaciones o procesos;
+###### ARTICULO 67.
 
-II. Colocar materiales antiestáticos o conductivos o dispositivos para drenar a tierra las corrientes que se hayan acumulado en el cuerpo del trabajador, cuando así se requiera;
+Rige para los muebles de dominio privado del Estado, lo dispuesto en el artículo 44 de esta Ley, sin perjuicio de las disposiciones del derecho común sobre reivindicación de cosas muebles. También será aplicable para los mismos muebles lo que previene el artículo 65 de este ordenamiento.
 
-III. Instalar sistemas de pararrayos en las áreas donde se manejen o almacenen sustancias inflamables o explosivas;
+###### ARTICULO 68.
 
-IV. Efectuar la medición de la resistencia de la red de puesta a tierra y, en su caso, de la humedad relativa;
+Las adquisiciones y arrendamientos de bienes muebles para el servicio de las dependencias y entidades de la administración pública estatal, se regirán por las leyes aplicables en esta materia.
 
-V. Informar a todos los trabajadores sobre los Riesgos que representa la electricidad estática y la manera de evitarlos;
+###### ARTICULO 69.
 
-VI. Capacitar a los trabajadores sobre el control de la electricidad estática, y
+Corresponde a la Comisión Estatal la enajenación de los bienes muebles de dominio privado que por su uso, aprovechamiento o estado de conservación, no sean aptos para el servicio al que estén destinados o resulte inconveniente seguirlos utilizando en el mismo.
 
-VII. Llevar los registros sobre los valores de la resistencia de la red de puesta a tierra y, en su caso, de la humedad relativa.
+###### ARTICULO 70.
 
-###### Artículo 30.
+La enajenación onerosa de bienes muebles de dominio privado del Estado, se llevará a cabo a través de licitación pública, salvo las siguientes excepciones:
 
-Para la realización de las actividades de soldadura y corte, los patrones deberán:
+I.- Cuando ocurran condiciones o circunstancias extraordinarias o imprevisibles, o situaciones de emergencia;
 
-I. Elaborar un análisis de Riesgos de las actividades por desarrollar;
+II.- Cuando no existan por lo menos tres postores idóneos para presentar ofertas; y
 
-II. Elaborar un programa específico para su realización;
+III.- Cuando el valor de los bienes no exceda del equivalente a mil veces el salario mínimo general diario vigente en la capital del Estado.
 
-III. Contar con procedimientos de seguridad para dichas actividades;
+La licitación pública se sujetará, en lo conducente, a las disposiciones establecidas en esta Ley, respecto a las licitaciones públicas de bienes inmuebles.
 
-IV. Colocar señales, avisos de seguridad o barreras de protección, cuando se realizan estas actividades;
+En el supuesto de las fracciones I y II de este artículo, la Comisión Estatal en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Contraloría, acompañando la documentación que justifique tal determinación.
 
-V. Colocar señales, avisos, candados o etiquetas de seguridad en las instalaciones eléctricas que proporcionen energía a los equipos;
+###### ARTICULO 71.
 
-VI. Disponer de extintores con la capacidad y características necesarias, de acuerdo con el análisis de Riesgos;
+El monto de la enajenación no podrá ser inferior a los precios mínimos de los bienes que determine la Comisión Estatal para estos fines.
 
-VII. Contar con ventilación natural o artificial, antes y durante su realización;
+###### ARTICULO 72.
 
-VIII. Restringir el paso a las áreas en las que se efectúan dichas actividades;
+La Comisión Estatal, queda facultada para dictar las disposiciones complementarias que se requieran en la enajenación, mediante licitación pública de los bienes muebles de dominio privado, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, oportunidad y demás circunstancias pertinentes, así como la eficiencia y honradez en la administración de los bienes señalados en este artículo.
 
-IX. Adoptar las medidas de seguridad específicas que prevé la Norma pertinente;
+###### ARTICULO 73.
 
-X. Disponer del equipo y materiales para el rescate de trabajadores accidentados;
+Efectuadas las enajenaciones, la Comisión Estatal procederá a la cancelación de registros en inventarios y dará de baja el bien de que se trate.
 
-XI. Proporcionar a los trabajadores el Equipo de Protección Personal, de conformidad con el análisis de Riesgos;
+###### ARTICULO 74.
 
-XII. Informar a los trabajadores que realizan estas actividades sobre los Riesgos a los que están expuestos;
+Cuando se determine por la Comisión Estatal, que un bien mueble ya no es necesario para el servicio del Gobierno del Estado, o que por sus condiciones de uso deba sustituírsela, se dará de baja y podrá donarlo a los ayuntamientos o a instituciones públicas o privadas.
 
-XIII. Capacitar y adiestrar a los trabajadores que desarrollan estas actividades, así como a los que efectúan el mantenimiento preventivo al equipo y maquinaria utilizados;
+###### ARTICULO 75.
 
-XIV. Expedir autorizaciones por escrito para su realización en altura, Espacios Confinados, sótanos, subterráneos, en presencia de sustancias inflamables o explosivas o en áreas no designadas específicamente para estas actividades, y
+Con excepción de lo dispuesto por el artículo 67 de esta Ley, las disposiciones sobre bienes muebles de dominio privado a que se contrae el presente Capítulo, regirán para los actos de transmisión de dominio y baja de bienes muebles que realicen las entidades paraestatales, siempre que dichos bienes estén al servicio de éstas o formen parte de sus activos fijos.
 
-XV. Llevar los registros del personal autorizado para ejecutar estos trabajos, así como los resultados de las revisiones a los equipos y elementos de seguridad.
+La Comisión Estatal emitirá los criterios que se requieran para la aplicación de lo dispuesto en este artículo.
 
-###### Artículo 31.
+## TITULO QUINTO. DE LAS ADQUISICIONES DE BIENES INMUEBLES
 
-Para el mantenimiento de las instalaciones eléctricas, los patrones deberán:
+### CAPITULO UNICO. DE LAS ADQUISICIONES DE BIENES INMUEBLES
 
-I. Contar con el diagrama unifilar actualizado de la instalación eléctrica y el cuadro general de cargas instaladas;
+###### ARTICULO 76.
 
-II. Determinar los Riesgos a que están expuestos los trabajadores;
+Las adquisiciones de bienes inmuebles que se realicen para satisfacer las necesidades inmobiliarias del Gobierno del Estado, se sujetarán a programas anuales globales que señalen objetivos, metas y unidades responsables de su ejecución
 
-III. Contar con el plan de trabajo para la realización de estas actividades;
+###### ARTICULO 77.
 
-IV. Elaborar y dar seguimiento a un programa específico de revisión y conservación del equipo de trabajo, maquinaria, herramientas e implementos de protección aislante utilizados;
+Para la formulación del programa a que se refiere el artículo anterior, las entidades elaborarán y remitirán sus proyectos de programas de adquisiciones a la dependencia coordinadora del sector en el que se encuentren agrupadas, en la fecha que ésta señale. Dicha dependencia y, en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán, a la Comisión Estatal sus propios proyectos de programas de adquisiciones de inmuebles, conjuntamente con los de las entidades bajo su coordinación, con sujeción a las normas y plazos que se establezcan.
 
-V. Contar con procedimientos para su ejecución;
+###### ARTICULO 78.
 
-VI. Contar con un plan de atención a emergencias que contenga el procedimiento de rescate;
+La Secretaría de Finanzas, propondrá al Gobernador del Estado, para su aprobación, el programa anual global de adquisiciones de inmuebles del Gobierno del Estado. Para estos efectos, dicha dependencia deberá:
 
-VII. Identificar los equipos destinados al uso y distribución de la energía eléctrica, con información sobre sus características y la distancia de seguridad;
+I.- Verificar que los proyectos de programas de adquisiciones de inmuebles se sujeten a lo establecido en el Artículo 4o. de esta Ley;
 
-VIII. Colocar avisos de seguridad en los lugares en que el contacto con equipos eléctricos o la proximidad de éstos puede entrañar peligro;
+II.- Cuantificar y cualificar los requerimientos, atendiendo las características de los inmuebles solicitados y a su localización;
 
-IX. Señalizar y delimitar la zona o área de trabajo en la que se realicen;
+III.- Revisar el inventario a que se refiere la fracción IX del Artículo 6o. de esta Ley, para determinar la existencia de inmuebles disponibles, o en su defecto, la necesidad de adquirir otros inmuebles;
 
-X. Adoptar las medidas de seguridad pertinentes para realizar el mantenimiento del equipo e instalaciones eléctricas;
+IV.- Proponer, en su caso, en favor de las dependencias o entidades interesadas, el destino de los inmuebles disponibles; y
 
-XI. Prohibir a los trabajadores el uso de alhajas o elementos metálicos durante la ejecución de estas actividades;
+V.- Determinar, en congruencia con la política inmobiliaria de la Administración Pública Estatal, la calendarización a la que se deberán de sujetar las adquisiciones, la utilización y el aprovechamiento de los bienes inmuebles del dominio del Estado.
 
-XII. Disponer del equipo de trabajo, maquinaria, herramientas e implementos de protección aislante, según el nivel de tensión o de corriente de alimentación;
+En la elaboración del programa anual global de adquisiciones a que se refiere este artículo, la Secretaría de Planeación del Desarrollo y Gasto Público tendrá la intervención que le confieren las leyes.
 
-XIII. Contar con extintores de capacidad y características necesarias, con base en el Riesgo de incendio;
+La autorización de destino o adquisición de inmuebles, se hará siempre y cuando correspondan a los programas anuales aprobados, exista autorización de inversión en su caso, y no se disponga de inmuebles adecuados, para satisfacer los requerimientos específicos. Procederá la negativa cuando no se cumplan los requisitos señalados.
 
-XIV. Limitar y controlar el acceso a las subestaciones eléctricas a personas no autorizadas;
+###### ARTICULO 79.
 
-XV. Proporcionar a los trabajadores el Equipo de Protección Personal requerido;
+Las adquisiciones de inmuebles que realicen las entidades para satisfacer sus necesidades inmobiliarias, se formalizarán en los términos que señalen los ordenamientos o actos jurídicos que regulen su estructura y funcionamiento.
 
-XVI. Informar a los trabajadores sobre los Riesgos que representa la energía eléctrica y las condiciones de seguridad que deberán prevalecer en el área de trabajo o en la actividad por desarrollar;
+###### ARTICULO 80.
 
-XVII. Capacitar y adiestrar a los trabajadores que realizan el mantenimiento de las instalaciones eléctricas;
+Cuando el Gobierno del Estado adquiera, en los términos del derecho privado, un inmueble para cumplir con finalidades de orden público y éste sea objeto de un contrato de arrendamiento o de cualquier otro tipo de relación jurídica, que le otorgue a terceros su posesión y que con motivo de la adquisición no se dé por terminada la misma, la Comisión Estatal podrá convenir con dichos poseedores, la forma y términos para la desocupación y entrega del inmueble, la cual nunca excederá de un año.
 
-XVIII. Expedir autorizaciones por escrito para la realización de dichas actividades en altura, Espacios Confinados, subestaciones o con partes vivas, y
+###### ARTICULO 81.
 
-XIX. Llevar los registros del personal autorizado para el desarrollo de estas actividades, así como de los resultados de la revisión y conservación del equipo de trabajo, maquinaria, herramientas e implementos de protección aislante.
+Cuando se trate de adquisiciones por vías de derecho público, que requieran la declaratoria de utilidad pública, por parte del Gobierno del Estado corresponderá: a la autoridad del ramo determinar dicha utilidad y el procedimiento encaminado a la ocupación administrativa de la cosa; a la Comisión Estatal fijar el monto de la indemnización, y a la Secretaría de Planeación del Desarrollo y Gasto Público, establecer el régimen de pago, cuando éste sea a cargo del Gobierno del Estado.
 
-### Capítulo Segundo. Disposiciones Generales para la Salud en el Trabajo
+###### ARTICULO 82.
 
-###### Artículo 32.
+Cuando se trate de adquisiciones por vía de derecho público, no será necesaria la expedición de escritura y se reputará que los bienes forman parte del dominio del Estado, desde la publicación del acuerdo respectivo en el Boletín Oficial del Gobierno del Estado, mismo que se inscribirá en el Registro Público de la Propiedad que corresponda a la ubicación del bien.
 
-En el presente Capítulo se establecen las disposiciones generales para la salud en el trabajo que deberán observarse en los rubros siguientes:
+###### ARTICULO 83.
 
-I. Ruido;
+Sólo podrán arrendarse bienes inmuebles para el servicio del Gobierno del Estado, cuando no sea posible o conveniente su adquisición, previo dictamen de la Comisión Estatal.
 
-II. Vibraciones;
+## TITULO SEXTO. DE LOS CATALOGOS Y DE LOS INVENTARIOS DE LOS BIENES DEL DOMINIO DEL ESTADO
 
-III. Iluminación;
+### CAPITULO I. DE LOS CATALOGOS Y DE LOS INVENTARIOS DE LOS BIENES DE DOMINIO DEL ESTADO
 
-IV. Radiaciones ionizantes;
+###### ARTICULO 84.
 
-V. Radiaciones electromagnéticas no ionizantes;
+La Comisión Estatal, tendrá a su cargo la elaboración y actualización de los catálogos e inventarios generales de los bienes del dominio del Estado. Para estos efectos, emitirá las normas y determinará los procedimientos que corresponda.
 
-VI. Condiciones térmicas elevadas o abatidas;
+###### ARTICULO 85.
 
-VII. Presiones ambientales anormales;
+Los Poderes Legislativo y Judicial y las dependencias y entidades de la administración pública estatal llevarán, conforme a las normas y procedimientos a que se refiere el artículo anterior, sus propios catálogos e inventarios de los bienes del dominio del Estado que tengan a su servicio y remitirán los mismos, según la naturaleza de dichos bienes, a la Comisión Estatal en los plazos y términos que se establezcan.
 
-VIII. Agentes químicos;
+La Comisión Estatal, sistematizará y catalogará los datos e informes que se precisen en los catálogos e inventarios de cada una de las dependencias y entidades. Asimismo, formulará y mantendrá permanentemente actualizado el catálogo general y el inventario general de los bienes de dominio del Poder Ejecutivo, a los cuales se agregarán los catálogos e inventarios de los bienes al servicio de los Poderes Legislativo y Judicial.
 
-IX. Agentes biológicos;
+###### ARTICULO 86.
 
-X. Factores de Riesgo Ergonómico, y
+Los inmuebles se inscribirán en el Registro Público de la Propiedad que corresponda, en el lugar de ubicación de los bienes de que se trate y conforme a las disposiciones legales aplicables.
 
-XI. Factores de Riesgo Psicosocial.
+###### ARTICULO 87.
 
-Las disposiciones de este Capítulo se complementarán con las de carácter específico que contengan las Normas que resulten aplicables.
+Los funcionarios del Registro Público de la Propiedad, que inscriban actos o contratos donde intervengan el Gobierno del Estado, enviarán a la Comisión Estatal, copia de la inscripción del documento presentado.
 
-###### Artículo 33.
+### CAPITULO II. DE LOS ALMACENES
 
-Con motivo de la exposición de los trabajadores al ruido que se genere en los Centros de Trabajo, los patrones deberán:
+###### ARTICULO 88.
 
-I. Contar con un programa específico de conservación de la audición del Personal Ocupacionalmente Expuesto;
+Los bienes muebles que adquieran las dependencias y entidades de la administración pública estatal, quedarán sujetos al control de almacenes a partir del momento en que se reciban.
 
-II. Realizar el Reconocimiento del ruido en todas las áreas donde haya trabajadores potencialmente expuestos;
+###### ARTICULO 89.
 
-III. Colocar señalamientos de uso obligatorio de Equipo de Protección Personal auditivo en las áreas donde sea requerido;
+El control de los almacenes a que se refiere el artículo anterior, comprenderá como mínimo los siguientes aspectos:
 
-IV. Efectuar la Evaluación del ruido en todas las áreas donde haya Personal Ocupacionalmente Expuesto;
+I.- Recepción;
 
-V. Implementar Medidas de Control, cuando el nivel de exposición al ruido rebase los valores límite que correspondan;
+II.- Registro;
 
-VI. Proporcionar el Equipo de Protección Personal auditivo al Personal Ocupacionalmente Expuesto;
+III.- Guarda y conservación;
 
-VII. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto;
+IV.- Suministro;
 
-VIII. Informar y orientar a los trabajadores sobre las posibles alteraciones a la salud por la exposición a ruido y sobre la forma de evitarlas o atenuarlas;
+V.- Baja; y
 
-IX. Capacitar al Personal Ocupacionalmente Expuesto sobre las prácticas de trabajo seguras y las Medidas de Control, y
+VI.- Servicios complementarios.
 
-X. Llevar los registros sobre el Reconocimiento, Evaluación y Control efectuados, y los exámenes médicos practicados.
+###### ARTICULO 90.
 
-###### Artículo 34.
+La Comisión Estatal, en el ámbito de la administración pública directa, emitirá las normas conforme a las cuales las dependencias deberán operar sus almacenes, debiendo establecer los procedimientos que resulten necesarios, para vincular estas actividades con las relativas a inventarios de bienes muebles de activo fijo, adquisiciones y con las demás que resulten pertinentes. En iguales términos procederán los órganos de gobierno de las entidades en la administración pública paraestatal, para lo cual emitirán las bases generales que correspondan.
 
-Con motivo de la exposición de los trabajadores a las vibraciones que se generen en el Centro de Trabajo, los patrones deberán:
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-I. Contar con un programa específico para la prevención de alteraciones a la salud por la exposición a vibraciones;
+Será responsabilidad de la Comisión Estatal y de la dependencia o entidad responsable del almacén o bodega respectivo, el almacenaje de materiales peligrosos que por sus características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes biológico-infecciosos, durante su normal manejo, transporte y almacenamiento, puedan representar un peligro para la salud, medio ambiente o infraestructura, en cuyo caso deberán tomarse las medidas necesarias para garantizar su adecuado resguardo.
 
-II. Realizar el Reconocimiento de las vibraciones en todas las áreas donde hayan trabajadores potencialmente expuestos;
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-III. Colocar señalamientos de precaución y obligación en las áreas donde exista exposición a vibraciones;
+Bajo ninguna circunstancia se podrán almacenar materiales de los señalados en el párrafo anterior, en bodegas o almacenes, propios o utilizados por cualquier concepto jurídico por dependencias o entidades del Gobierno del Estado, que se encuentren a menos de mil metros de distancia de instituciones de educación pública o privada, guarderías, estancias infantiles, centros de desarrollo para infantes, albergues, asilos o casas de apoyo para personas con discapacidad o adultos mayores, así como de áreas residenciales.
 
-IV. Evaluar los niveles de exposición a vibraciones;
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2009)</small>
 
-V. Aplicar las Medidas de Control para evitar que el nivel de exposición a vibraciones supere los valores límite que procedan;
+ARTICULO 90 BIS.- Los almacenes y bodegas propios o los utilizados, por cualquier concepto jurídico, por dependencias o entidades del Gobierno del Estado, deberán reunir los requisitos de seguridad y protección civil que se establezcan en la normatividad que para tal efecto emita la Unidad Estatal de Protección Civil.
 
-VI. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto;
+## TITULO SEPTIMO. DE LA INFORMACION, DEL CONTROL Y DE LA VERIFICACION
 
-VII. Informar a los trabajadores sobre las posibles alteraciones a la salud por la exposición a vibraciones;
+### CAPITULO UNICO. DE LA INFORMACION, DEL CONTROL Y DE LA VERIFICACION
 
-VIII. Capacitar al Personal Ocupacionalmente Expuesto sobre las prácticas de trabajo seguras y las Medidas de Control, y
+###### ARTICULO 91.
 
-IX. Llevar los registros sobre el Reconocimiento, Evaluación y Control efectuados, y los exámenes médicos practicados.
+Los titulares de las dependencias y entidades de la administración pública estatal, así como las demás instituciones públicas o privadas, y los particulares que, por cualquier concepto, usen, posean, administren o tengan a su cuidado bienes del dominio del Estado, estarán obligados a proporcionar a la Contraloría y a la Secretaría de Finanzas, según corresponda, en cada caso, los datos e informes que le soliciten dichas dependencias, en la forma y términos que éstas indiquen, en relación con los bienes señalados.
 
-###### Artículo 35.
+Las entidades deberán de proporcionar la información referida, además, a la dependencia coordinadora del sector en que se encuentren agrupadas.
 
-En relación con la iluminación del Centro de Trabajo, los patrones deberán:
+###### ARTICULO 92.
 
-I. Establecer y dar seguimiento a un programa específico de mantenimiento a luminarias y, en su caso, a los sistemas de iluminación de emergencia;
+La Contraloría y, en el caso de las entidades, la dependencia coordinadora de sector, podrán verificar en cualquier tiempo que las operaciones y actos a que se refiere esta Ley, se realicen conforme lo establecido en la misma, en otras disposiciones aplicables y en los programas y presupuestos aprobados.
 
-II. Disponer de sistemas de iluminación de emergencia, en caso de ser necesario;
+Los titulares de las dependencias y entidades proporcionarán todas las facilidades necesarias, a fin de que las dependencias a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las operaciones y actos señalados en esta Ley.
 
-III. Efectuar el Reconocimiento de las condiciones de iluminación de las áreas y puestos de trabajo;
+###### ARTICULO 93.
 
-IV. Realizar la Evaluación de los niveles de iluminación en las áreas y puestos de trabajo;
+La Contraloría, y en el caso de las entidades, la dependencia coordinadora de sector, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades, así como solicitar de los funcionarios y empleados de las mismas y de los particulares, en su caso, todos los datos e informes relacionados con las operaciones y actos objeto de esta Ley.
 
-V. Aplicar Medidas de Control cuando los niveles de iluminación o los factores de reflexión se encuentren por debajo o por encima de los valores límite determinados en la Norma que corresponda, respectivamente;
+## TITULO OCTAVO. DE LAS VIAS ESTATALES DE COMUNICACION TERRESTRE
 
-VI. Practicar exámenes médicos a los trabajadores que desarrollen sus actividades en áreas que cuenten con iluminación especial;
+### CAPITULO I. DISPOSICIONES GENERALES
 
-VII. Informar a los trabajadores sobre los Riesgos que puede provocar el deslumbramiento o un deficiente nivel de iluminación en sus áreas y puestos de trabajo, y
+###### ARTICULO 94.
 
-VIII. Llevar los registros sobre el Reconocimiento, Evaluación y Control de las condiciones de iluminación, y los exámenes médicos practicados a los trabajadores que cuenten con iluminación especial.
+Las concesiones o permisos para la construcción y explotación de las vías estatales de comunicación terrestre del Estado de Sonora y el establecimiento del derecho de vía, que no estén comprendidos en las fracciones VI y VII del artículo 1o. de la Ley de Vías Generales de Comunicación, se regirán por las disposiciones contenidas en el presente Título.
 
-###### Artículo 36.
+###### ARTICULO 95.
 
-Para el uso, manejo, almacenamiento o transporte de fuentes de radiación ionizante, los patrones deberán:
+Se entenderán como vías estatales de comunicación terrestre, los caminos, carreteras y puentes de jurisdicción estatal, con sus servicios auxiliares, obras, construcciones y demás dependencias y accesorios de las mismas y los terrenos que sean necesarios para el derecho de vía y para el establecimiento de servicios.
 
-I. Contar con el análisis de Riesgos a que están expuestos los trabajadores;
+###### ARTICULO 96.
 
-II. Contar con el programa de seguridad y protección radiológica, el manual de seguridad y protección radiológica y el plan de atención a emergencias de seguridad radiológica;
+Son vías de comunicación terrestres, las que atraviesen los límites de dos o más municipios.
 
-III. Adoptar las medidas de seguridad radiológica para el manejo de fuentes de radiación ionizante que señale el órgano regulador competente;
+###### ARTICULO 97.
 
-IV. Efectuar el Reconocimiento de las áreas del Centro de Trabajo donde se ubican las fuentes de radiación ionizante;
+El Gobierno del Estado, tendrá facultad para construir, establecer o explotar vías estatales de comunicación terrestre, por sí mismo o bien encomendarse a particulares en los términos del artículo 150 de la Constitución Política del Estado de Sonora.
 
-V. Delimitar las zonas controladas y colocar señales de precaución y prohibición por la presencia de fuentes de radiación ionizante;
+### CAPITULO II. DE LA JURISDICCION
 
-VI. Contar con el equipo de medición de radiación ionizante, con su respectivo programa de calibración y mantenimiento;
+###### ARTICULO 98.
 
-VII. Proporcionar al Personal Ocupacionalmente Expuesto el dosímetro;
+Las vías estatales de comunicación terrestre, quedan sujetas exclusivamente a los Poderes Estatales. El Ejecutivo del Estado ejercitará, en esta materia, las siguientes facultades:
 
-VIII. Evaluar y registrar los valores de la dosimetría del Personal Ocupacionalmente Expuesto y darle seguimiento para su control;
+I.- Construcción, mejoramiento, conservación y explotación de vías estatales de comunicación terrestre;
 
-IX. Proporcionar al Personal Ocupacionalmente Expuesto el registro de su equivalente de dosis anual y acumulada;
+II.- Inspección y vigilancia;
 
-X. Contar con un encargado de seguridad radiológica o, en su caso, con un responsable de la operación y funcionamiento de los equipos de rayos X, así como con los auxiliares necesarios por turno de trabajo;
+III.- Otorgamiento, interpretación y cumplimiento de concesiones o permisos;
 
-XI. Cumplir con las condiciones de seguridad en las zonas controladas;
+IV.- Celebración de contratos con los gobiernos federal o municipal;
 
-XII. Instrumentar las Medidas de Control que dicte el órgano regulador competente;
+V.- Declaración de abandono de trámite de las solicitudes de concesión o permiso, así como declarar la revocación o la extinción de las concesiones, permisos o contratos celebrados y modificarlos en los casos previstos en este Titulo;
 
-XIII. Contar con áreas específicas para la colocación del Equipo de Protección Personal, así como para la descontaminación del Personal Ocupacionalmente Expuesto y de los contenedores, dispositivos y herramientas que se utilicen, donde existan fuentes de radiación ionizante abiertas;
+VI.- Aprobación, revisión o modificación de tarifas, tablas de distancia, clasificaciones y en general, todos los documentos relacionados con la explotación;
 
-XIV. Proporcionar al Personal Ocupacionalmente Expuesto Equipo de Protección Personal para la operación segura de fuentes de radiación ionizante;
+VII.- Registro;
 
-XV. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto;
+VIII.- La vigilancia de los derechos del Estado, respecto de la situación jurídica de los bienes sujetos a reversión en los términos de este Título o de las concesiones respectivas;
 
-XVI. Informar a los trabajadores sobre los Riesgos a que están expuestos;
+IX.- Infracciones a las disposiciones contenidas en este Título y en sus disposiciones reglamentarias;
 
-XVII. Capacitar y adiestrar al Personal Ocupacionalmente Expuesto, y
+X.- La ampliación de la superficie de la zona establecida como derecho de vía, en aquellos casos que resulte necesario, atendiendo a las necesidades técnicas de los propios caminos o a la densidad del tránsito; y
 
-XVIII. Llevar los registros sobre el Reconocimiento, Evaluación y Control efectuados, y los exámenes médicos practicados.
+XI.- Toda cuestión de carácter administrativo relacionada con las vías estatales de comunicación terrestre.
 
-###### Artículo 37.
+Las facultades contenidas en las fracciones III, IV, V, VI, VII y VIII, de este artículo, se ejercerán por conducto de la Comisión Estatal. Las demás facultades se ejercerán por la Secretaría de Infraestructura Urbana y Ecología.
 
-Para aquellos Centros de Trabajo donde se generen radiaciones electromagnéticas no ionizantes, los patrones deberán:
+###### ARTICULO 99.
 
-I. Efectuar el Reconocimiento de las radiaciones electromagnéticas no ionizantes;
+Las controversias que se susciten sobre la interpretación y el cumplimiento de las concesiones y toda clase de contratos relacionados con las vías estatales de comunicación terrestre, se decidirán por los términos mismos de las concesiones y contratos, por las disposiciones de esta Ley, a falta de ellas por los preceptos del Código de Comercio y en defecto de unas y de otros, por los preceptos de los Códigos Civil y de Procedimientos Civiles para el Estado de Sonora.
 
-II. Colocar señalamientos de precaución y prohibición en las zonas restringidas por la presencia de fuentes de radiaciones electromagnéticas no ionizantes;
+###### ARTICULO 100.
 
-III. Establecer medidas preventivas, conforme a las características de las fuentes generadoras, el tipo de radiación y la exposición de los trabajadores;
+Los actos y contratos que tengan por objeto vías estatales de comunicación terrestre, sus servicios auxiliares, dependencias, accesorios o alguna propiedad inmueble incorporada a las mismas, deberán inscribirse en las oficinas del Registro Público de la Propiedad de la ciudad de Hermosillo, Sonora, y ese registro bastará para sus efectos legales entre las partes.
 
-IV. Efectuar la Evaluación de las áreas y del Personal Ocupacionalmente Expuesto;
+### CAPITULO III. DE LAS CONCESIONES, PERMISOS Y CONTRATOS
 
-V. Adoptar las Medidas de Control pertinentes cuando se excedan los valores límite de exposición;
+###### ARTICULO 101.
 
-VI. Proporcionar al Personal Ocupacionalmente Expuesto Equipo de Protección Personal para la operación segura de fuentes de radiación electromagnética no ionizante;
+Para construir, establecer y explotar vías estatales de comunicación terrestre, será necesario tener concesión del Ejecutivo por conducto de la Comisión Estatal, la cual se otorgará con sujeción a los preceptos de este Título, la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables y previo pago de los derechos respectivos.
 
-VII. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto a radiaciones electromagnéticas no ionizantes infrarrojas y ultravioletas;
+Las concesiones a que se refiere el párrafo anterior, se otorgarán por el plazo que señale la Comisión Estatal y que no podrá exceder de treinta años. Se otorgarán a ciudadanos mexicanos o a sociedades constituidas conforme a las leyes del país, y se estará en cuanto al trámite, garantías y modalidades en general, a los preceptos de este Título y su reglamento.
 
-VIII. Informar a los trabajadores sobre los Riesgos que implica para su salud la exposición a las radiaciones electromagnéticas no ionizantes;
+El Gobierno del Estado podrá construir y explotar caminos, carreteras y puentes de peaje, por sí o mediante concesión que se otorgue en los términos de esta Ley y su reglamento, a particulares.
 
-IX. Capacitar y adiestrar a los trabajadores para el manejo y uso de las fuentes generadoras de radiaciones electromagnéticas no ionizantes o materiales que las emitan, y
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 2008)</small>
 
-X. Llevar los registros sobre el Reconocimiento, Evaluación y Control de las radiaciones electromagnéticas no ionizantes, y los exámenes médicos practicados.
+Tratándose de obras y servicios para vías estatales de comunicación terrestre que se desarrollen y presten a través de una Alianza Público Privada de Servicios en términos de la ley de la materia, su uso aprovechamiento y explotación serán regulados conforme a lo establecido en el contrato de prestación de servicios respectivo por lo que no se requerirá concesión. En todo caso, el plazo para el uso, aprovechamiento y explotación de las vías estatales de comunicación terrestre, no podrá ser mayor al establecido para el desarrollo de la Alianza Público Privada de Servicios en el contrato de prestación de servicios correspondiente.
 
-###### Artículo 38.
+###### ARTICULO 102.
 
-Con motivo de la exposición de los trabajadores a condiciones térmicas extremas elevadas o abatidas en el Centro de Trabajo, los patrones deberán:
+Las concesiones, contratos o permisos para la construcción, establecimiento o explotación de vías estatales de comunicación terrestre se extinguen por cualesquiera de las causas siguientes: cancelación; cumplimiento del plazo estipulado; y consentimiento expreso de ambas partes. El reglamento establecerá las causales de cancelación y el procedimiento administrativo, según el caso, cuya substanciación corresponderá a la Comisión Estatal.
 
-I. Efectuar el Reconocimiento de las áreas y del Personal Ocupacionalmente Expuesto a temperaturas extremas;
+###### ARTICULO 103.
 
-II. Colocar señalamientos de precaución, obligación y prohibición en las áreas de exposición;
+El otorgamiento de concesiones para la construcción, reconstrucción y explotación de puentes se regirá por las prescripciones de esta Ley y sus reglamentos, en todos los casos se oirá la opinión de la Secretaría de Agricultura y Recursos Hidráulicos, por lo que respecta a las condiciones hidráulicas que deban satisfacer para no alterar el régimen de las aguas.
 
-III. Restringir el acceso a las áreas de exposición a temperaturas extremas;
+###### ARTICULO 104.
 
-IV. Efectuar la Evaluación de las áreas y del Personal Ocupacionalmente Expuesto;
+No necesitarán concesión, sino permiso:
 
-V. Aplicar las Medidas de Control pertinentes en las áreas y con el Personal Ocupacionalmente Expuesto;
+I.- La realización de cruzamientos de vías estatales de comunicación terrestre por otras vías o por otras obras;
 
-VI. Proporcionar el Equipo de Protección Personal para proteger al Personal Ocupacionalmente Expuesto;
+II.- La instalación de anuncios o realización de construcciones destinadas a servicios conexos o auxiliares del transporte; y
 
-VII. Practicar exámenes médicos a los trabajadores;
+III.- Los puentes de carácter provisional y los definitivos de escasa importancia.
 
-VIII. Informar a los trabajadores sobre los Riesgos por exposición a temperaturas extremas;
+###### ARTICULO 105.
 
-IX. Capacitar al Personal Ocupacionalmente Expuesto a condiciones térmicas extremas, y
+Los concesionarios de vías estatales de comunicación terrestre, están obligados a proporcionar a los inspectores debidamente acreditados, todos los informes o datos que sean necesarios para llenar su cometido; a mostrarles planos, expedientes, estudios, guías, libros de actas, de contabilidad, auxiliares y todos los documentos concernientes a la situación material, económica y financiera de esas empresas sin limitación ni restricción alguna, así como a darles acceso a sus oficinas, almacenes, bodegas, talleres y demás dependencias.
 
-X. Llevar los registros sobre el Reconocimiento, Evaluación y Control efectuados, y los exámenes médicos practicados.
+###### ARTICULO 106.
 
-## TÍTULO CUARTO. Prevenciones Especiales en Materia de Seguridad y Salud en el Trabajo
+Los concesionarios de vías estatales de comunicación terrestre, contribuirán para los gastos de servicio de inspección, con la cantidad que se determine en las concesiones respectivas, y cuando en éstas no se haya determinado, será fijada por la Comisión Estatal
 
-### Capítulo Tercero. Disposiciones Organizacionales para la Seguridad y Salud en el Trabajo
+###### ARTICULO 107.
 
-###### Artículo 39.
+Se establece como derecho de vía la faja de terreno que corre paralela a ambos lados de un camino o carretera con una amplitud mínima absoluta de veinte metros, medidos a cada lado del eje del camino.
 
-Con motivo de la exposición de los trabajadores a presiones ambientales anormales, los patrones deberán:
+###### ARTICULO 108.
 
-I. Contar con el análisis de los Riesgos para el Personal Ocupacionalmente Expuesto;
+Los terrenos necesarios para la creación de la zona de derecho de vía, se adquirirán por procedimientos de derecho privado o de derecho público, en la forma y términos que fijan las leyes respectivas.
 
-II. Emplear únicamente a trabajadores mayores de 18 años y que cuenten con el certificado médico requerido;
+###### ARTICULO 109.
 
-III. Adoptar las medidas que señala la Norma correspondiente para la realización de actividades a presiones ambientales bajas en tierra o de buceo a altas presiones;
+No podrán ejecutarse trabajos de construcción ajenos al camino, dentro del derecho de vía fijado para un camino o carretera.
 
-IV. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto;
+###### ARTICULO 110.
 
-V. Proporcionar capacitación y adiestramiento al Personal Ocupacionalmente Expuesto para desempeñar sus labores en forma segura;
+Los dueños de predios que sean atravesados por una vía de comunicación terrestre, están obligados a cercarlos en la parte que limitan con el derecho de vía.
 
-VI. Llevar la bitácora de procedimientos de cada jornada de buceo bajo altas presiones, y
+## TITULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
 
-VII. Llevar los registros sobre las pruebas, servicios de mantenimiento, reparaciones, modificaciones y calibración a los equipos de buceo; la ocurrencia de Accidentes y Enfermedades de Trabajo, así como los exámenes médicos practicados.
+### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
-###### Artículo 40.
+###### ARTICULO 111.
 
-Con motivo de la exposición de los trabajadores a agentes químicos capaces de alterar su salud, los patrones deberán:
+Se sancionará con prisión de seis meses a cinco años y multa de una a doscientas veces el salario mínimo general diario vigente en la capital del Estado, a quien, vencido el término señalado en la concesión, permiso o autorización que se le haya otorgado para la explotación, uso o aprovechamiento de un bien de dominio público, no lo devolviere a la autoridad correspondiente, cuando para ello fuere requerido y dentro del plazo que al efecto se le señale.
 
-I. Contar con un estudio de los contaminantes químicos del ambiente laboral;
+###### ARTICULO 112.
 
-II. Efectuar el Reconocimiento de los contaminantes químicos del ambiente laboral;
+La misma pena se impondrá a quien, a sabiendas de que un bien pertenece al dominio público del Estado, lo explote, use o aproveche, sin haber obtenido previamente concesión, permiso o autorización de la autoridad competente.
 
-III. Colocar señalamientos de precaución, obligación y prohibición en las áreas donde exista exposición a agentes químicos contaminantes;
+###### ARTICULO 113.
 
-IV. Realizar la Evaluación sobre la concentración de los contaminantes químicos del ambiente laboral con la frecuencia requerida;
+En los casos a que se refieren los dos artículos que anteceden, independientemente de la intervención de las autoridades a quienes corresponda perseguir y sancionar los delitos cometidos, la autoridad administrativa podrá recuperar, directamente, la tenencia material de los bienes de que se trate.
 
-V. Instaurar Medidas de Control para no exponer a los trabajadores a concentraciones superiores a los valores límite que establece la Norma respectiva;
+###### ARTICULO 114.
 
-VI. Proporcionar el Equipo de Protección Personal específico al Riesgo para proteger al Personal Ocupacionalmente Expuesto;
+El que sin concesión o permiso de la Comisión Estatal construya o explote vías estatales de comunicación terrestre, perderá en beneficio del Estado las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación y pagará una multa de una a doscientas veces el salario mínimo general diario vigente de la capital del Estado, a juicio de la Comisión Estatal.
 
-VII. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto;
+###### ARTICULO 115.
 
-VIII. Informar a los trabajadores sobre los Riesgos a la salud por la exposición a los contaminantes químicos del ambiente laboral;
+El que indebidamente ejecute obras que invadan o perjudiquen una vía estatal de comunicación terrestre, pagará una multa de una a ciento cincuenta veces el salario mínimo general diario vigente de la capital del Estado, a juicio de la Comisión Estatal.
 
-IX. Capacitar al Personal Ocupacionalmente Expuesto sobre el manejo y Control de los contaminantes químicos del ambiente laboral, y
-
-X. Llevar los registros sobre el Reconocimiento, Evaluación y Control efectuados, y los exámenes médicos practicados.
-
-###### Artículo 41.
-
-Con motivo de la exposición de los trabajadores a agentes biológicos capaces de alterar su salud, los patrones deberán:
-
-I. Contar con un estudio de los contaminantes biológicos del ambiente laboral para prevenir alteraciones a la salud de los trabajadores;
-
-II. Efectuar el Reconocimiento de los contaminantes biológicos del ambiente laboral;
-
-III. Colocar señalamientos de precaución, obligación y prohibición en las áreas donde exista exposición a contaminantes biológicos;
-
-IV. Controlar el acceso de trabajadores, materiales y objetos susceptibles de contaminación a zonas restringidas;
-
-V. Realizar la Evaluación sobre la concentración de los contaminantes biológicos del ambiente laboral con la frecuencia requerida;
-
-VI. Establecer Medidas de Control para no exponer a los trabajadores a materiales contaminados por microorganismos patógenos;
-
-VII. Proporcionar el Equipo de Protección Personal para proteger al Personal Ocupacionalmente Expuesto;
-
-VIII. Disponer de áreas específicas para la descontaminación del Personal Ocupacionalmente Expuesto y de los componentes, herramientas y equipos;
-
-IX. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto;
-
-X. Informar a los trabajadores sobre los Riesgos a la salud por la exposición a los contaminantes biológicos del ambiente laboral;
-
-XI. Capacitar al Personal Ocupacionalmente Expuesto sobre el manejo y Control de los contaminantes biológicos del ambiente laboral;
-
-XII. Expedir autorizaciones por escrito para la ejecución de actividades que impliquen un Riesgo por el manejo de agentes biológicos, y
-
-XIII. Llevar los registros del personal autorizado para el desarrollo de actividades que impliquen un Riesgo por el manejo de agentes biológicos; el Reconocimiento, Evaluación y Control efectuados, y los exámenes médicos practicados.
-
-###### Artículo 42.
-
-En relación con los Factores de Riesgo Ergonómico del Centro de Trabajo, los patrones deberán:
-
-I. Contar con un análisis de los Factores de Riesgo Ergonómico de los puestos de trabajo expuestos a los mismos;
-
-II. Adoptar medidas preventivas para mitigar los Factores de Riesgo Ergonómico en sus instalaciones, maquinaria, equipo o herramientas del Centro de Trabajo;
-
-III. Practicar exámenes médicos al Personal Ocupacionalmente Expuesto;
-
-IV. Informar a los trabajadores sobre las posibles alteraciones a la salud por la exposición a los Factores de Riesgo Ergonómico;
-
-V. Capacitar al Personal Ocupacionalmente Expuesto sobre las prácticas de trabajo seguras, y
-
-VI. Llevar los registros sobre las medidas preventivas adoptadas y los exámenes médicos practicados.
-
-###### Artículo 43.
-
-Respecto de los Factores de Riesgo Psicosocial del Centro de Trabajo, los patrones deberán:
-
-I. Identificar y analizar los puestos de trabajo con Riesgo psicosocial por la naturaleza de sus funciones o el tipo de jornada laboral;
-
-II. Identificar a los trabajadores que fueron sujetos a acontecimientos traumáticos severos o a actos de Violencia Laboral, y valorarlos clínicamente;
-
-III. Adoptar las medidas preventivas pertinentes para mitigar los Factores de Riesgo Psicosocial;
-
-IV. Practicar exámenes o evaluaciones clínicas al Personal Ocupacionalmente Expuesto a Factores de Riesgo Psicosocial, según se requiera;
-
-V. Informar a los trabajadores sobre las posibles alteraciones a la salud por la exposición a los Factores de Riesgo Psicosocial, y
-
-VI. Llevar los registros sobre las medidas preventivas adoptadas y los resultados de los exámenes o evaluaciones clínicas.
-
-Son aspectos a considerar dentro de los Factores de Riesgo Psicosocial que derivan de la naturaleza de las funciones del puesto de trabajo: las Condiciones Peligrosas inherentes al mismo; cuando se realiza bajo Condiciones Inseguras; que demanda alta responsabilidad, o requiere de una intensa concentración y atención por períodos prolongados.
-
-###### Artículo 44.
-
-En el presente Capítulo se establecen las disposiciones organizacionales para la Seguridad y Salud en el Trabajo de carácter general, que deberán observarse en los temas siguientes:
-
-I. Comisiones de Seguridad e Higiene;
-
-II. Servicios Preventivos de Seguridad y Salud en el Trabajo;
-
-III. Servicios Preventivos de Medicina del Trabajo;
-
-IV. Selección y uso del Equipo de Protección Personal;
-
-V. Empleo de señales de Seguridad y Salud en el Trabajo, e identificación de Riesgos por fluidos conducidos en tuberías;
-
-VI. Identificación y comunicación de peligros y Riesgos por Sustancias Químicas Peligrosas;
-
-VII. Administración de la seguridad en los procesos y equipos críticos donde se manejen Sustancias Químicas Peligrosas, y
-
-VIII. Promoción de un Entorno Organizacional Favorable y prevención de la Violencia Laboral.
-
-Las disposiciones de este Capítulo se complementarán con las de carácter específico que contengan las Normas que resulten aplicables.
-
-###### Artículo 45.
-
-Respecto de la constitución, integración, organización y funcionamiento de las Comisiones de Seguridad e Higiene, los patrones deberán:
-
-I. Constituir e integrar al menos una Comisión de Seguridad e Higiene en el Centro de Trabajo;
-
-II. Designar a su representante o representantes para participar en la Comisión de Seguridad e Higiene;
-
-III. Solicitar al sindicato o a los trabajadores, si no hubiera sindicato, la designación de sus representantes para participar en la Comisión de Seguridad e Higiene;
-
-IV. Proporcionar a la Comisión de Seguridad e Higiene el Diagnóstico de Seguridad y Salud en el Trabajo;
-
-V. Contar con el programa y las actas de los recorridos de verificación de la Comisión de Seguridad e Higiene;
-
-VI. Apoyar la investigación de los Accidentes y Enfermedades de Trabajo que lleve a cabo la Comisión de Seguridad e Higiene;
-
-VII. Dar facilidades a los trabajadores para el desempeño de sus funciones como integrantes de la Comisión de Seguridad e Higiene;
-
-VIII. Atender y dar seguimiento a las medidas propuestas por la Comisión de Seguridad e Higiene para prevenir los Accidentes y Enfermedades de Trabajo;
-
-IX. Difundir entre los trabajadores del Centro de Trabajo, por cualquier medio:
-
-a) La relación actualizada de los integrantes de la Comisión de Seguridad e Higiene;
-
-b) Los resultados de las investigaciones sobre los Accidentes y Enfermedades de Trabajo, y
-
-c) Las medidas propuestas por la Comisión de Seguridad e Higiene relacionadas con la prevención de Accidentes y Enfermedades de Trabajo, y
-
-X. Proporcionar capacitación a los integrantes de la Comisión de Seguridad e Higiene para la adecuada realización de sus funciones.
-
-###### Artículo 46.
-
-La Secretaría, con la participación de los patrones y de los trabajadores o sus representantes, promoverá la constitución y funcionamiento de las Comisiones de Seguridad e Higiene.
-
-Para cumplir con lo señalado en el párrafo anterior, la Secretaría podrá solicitar el auxilio de las Autoridades Laborales de las entidades federativas.
-
-###### Artículo 47.
-
-Las Comisiones de Seguridad e Higiene deberán constituirse en un plazo no mayor de noventa días naturales, contados a partir de la fecha de inicio de operaciones del Centro de Trabajo.
-
-###### Artículo 48.
-
-Para la prestación de los Servicios Preventivos de Seguridad y Salud en el Trabajo, los patrones deberán:
-
-I. Contar con un Diagnóstico de Seguridad y Salud en el Trabajo;
-
-II. Contar con un Programa de Seguridad y Salud en el Trabajo, elaborado de acuerdo con el anterior diagnóstico;
-
-III. Instruir que se incorporen al Programa de Seguridad y Salud en el Trabajo:
-
-a) Las Acciones Preventivas y Correctivas por instrumentar para cada Riesgo identificado en el citado diagnóstico;
-
-b) Las acciones y programas para promover la salud de los trabajadores y prevenir las adicciones que recomienden o dicten las autoridades competentes, y
-
-c) Las acciones pertinentes para la atención a emergencias y contingencias sanitarias que recomienden o dicten las autoridades competentes;
-
-IV. Designar a un responsable, interno o externo, para prestar los Servicios Preventivos de Seguridad y Salud en el Trabajo;
-
-V. Dar seguimiento a los avances en la instauración del Programa de Seguridad y Salud en el Trabajo;
-
-VI. Hacer del conocimiento de la Comisión de Seguridad e Higiene y de los trabajadores, el Diagnóstico de Seguridad y Salud en el Trabajo y el contenido del Programa de Seguridad y Salud en el Trabajo;
-
-VII. Capacitar al personal del Centro de Trabajo que forme parte de los Servicios Preventivos de Seguridad y Salud en el Trabajo para el adecuado desempeño de sus funciones, y
-
-VIII. Llevar los registros del seguimiento a los avances en la instauración del Programa de Seguridad y Salud en el Trabajo.
-
-Los diversos estudios y análisis de Riesgos requeridos por este Reglamento que resulten aplicables, habrán de formar parte del Diagnóstico de Seguridad y Salud en el Trabajo, a que alude la fracción I anterior.
-
-###### Artículo 49.
-
-Para la prestación de los Servicios Preventivos de Medicina del Trabajo, los patrones deberán:
-
-I. Contar con Servicios Preventivos de Medicina del Trabajo, que podrán ser proporcionados de manera interna o externa, en este último caso a través de instituciones públicas de seguridad social;
-
-II. Obtener la opinión de los Servicios Preventivos de Medicina del Trabajo de carácter interno, sobre las acciones y programas para promover la salud de los trabajadores y prevenir las adicciones;
-
-III. Proporcionar a los Servicios Preventivos de Medicina del Trabajo de carácter interno, los medicamentos, materiales de curación y equipo indispensables para que brinden oportuna y eficazmente la atención médica y los primeros auxilios en el Centro de Trabajo;
-
-IV. Instaurar y dar seguimiento a las acciones y programas para promover la salud de los trabajadores y prevenir las adicciones;
-
-V. Dar plena autonomía a los médicos que presten estos servicios para certificar la capacidad de los trabajadores, a efecto de que reanuden sus labores, y emitir opinión sobre el grado de incapacidad, y
-
-VI. Apoyar la actualización de los responsables de los Servicios Preventivos de Medicina del Trabajo de carácter interno, en su caso.
-
-Las características y modalidades para la prestación de estos servicios, se determinarán atendiendo a la naturaleza y número de Personal Ocupacionalmente Expuesto de los Centros de Trabajo, así como su régimen de seguridad social, de conformidad con lo que establece la Ley.
-
-###### Artículo 50.
-
-Los médicos de los Servicios Preventivos de Medicina del Trabajo estarán obligados a comunicar al patrón los resultados de los exámenes médicos, en cuanto a la aptitud laboral de los trabajadores para reanudar su trabajo, después de un Accidente de Trabajo o al terminar la atención médica, con pleno respeto a la confidencialidad que obliga la ética médica.
-
-Los médicos que presten los Servicios Preventivos de Medicina del Trabajo de carácter interno, apoyarán la orientación y, en su caso, capacitación de los trabajadores en materia de prevención de Riesgos.
-
-###### Artículo 51.
-
-Para la selección y uso del Equipo de Protección Personal, los patrones deberán:
-
-I. Efectuar la identificación y análisis de los Riesgos a que están expuestos los trabajadores por cada puesto de trabajo o área del Centro de Trabajo;
-
-II. Determinar el Equipo de Protección Personal que deberán utilizar los trabajadores, en función de los Riesgos a que están expuestos;
-
-III. Verificar que el Equipo de Protección Personal cuente con la certificación emitida por un organismo de certificación o con la garantía del fabricante de que protege contra los Riesgos para los que fue producido;
-
-IV. Proporcionar el Equipo de Protección Personal requerido con base en el número de Personal Ocupacionalmente Expuesto;
-
-V. Disponer del Equipo de Protección Personal suficiente para la atención a emergencias;
-
-VI. Contar con las indicaciones, instrucciones o procedimientos del fabricante para su uso, revisión, reposición, limpieza, limitaciones, mantenimiento, resguardo y disposición final;
-
-VII. Identificar y señalizar las áreas en donde se requiere su uso obligatorio;
-
-VIII. Supervisar que los trabajadores lo utilicen durante la jornada de trabajo;
-
-IX. Informar a los trabajadores sobre los Riesgos a los que están expuestos por puesto de trabajo o área del Centro de Trabajo;
-
-X. Capacitar y adiestrar a los trabajadores sobre el uso, revisión, reposición, limpieza, limitaciones, mantenimiento, resguardo y disposición final del Equipo de Protección Personal, y
-
-XI. Llevar los registros sobre el uso, revisión, reposición, limpieza, limitaciones, mantenimiento, resguardo y disposición final del Equipo de Protección Personal.
-
-###### Artículo 52.
-
-En relación con el empleo de señales de Seguridad y Salud en el Trabajo, e identificación de Riesgos por fluidos conducidos en tuberías, los patrones deberán:
-
-I. Identificar mediante señales la ubicación de equipos o instalaciones de emergencia; la existencia de Riesgos o peligros; la realización de una acción obligatoria, y la prohibición de un acto susceptible de causar un Riesgo;
-
-II. Identificar el Riesgo de los fluidos conducidos por tuberías, conforme a lo previsto en la Norma de la especialidad;
-
-III. Identificar las fuentes de radiación ionizante;
-
-IV. Ubicar las señales de tal manera que puedan ser observadas e interpretadas por los trabajadores para los que están destinadas, y
-
-V. Capacitar a los trabajadores sobre el significado de los elementos de señalización.
-
-###### Artículo 53.
-
-Para la identificación y comunicación de peligros y Riesgos por Sustancias Químicas Peligrosas, los patrones deberán:
-
-I. Contar con las hojas de datos de seguridad en español para todas las Sustancias Químicas Peligrosas que se utilizan en el Centro de Trabajo y ponerlas a disposición de los trabajadores;
-
-II. Señalizar los depósitos, recipientes y áreas que contengan Sustancias Químicas Peligrosas o sus residuos, de acuerdo con el sistema de identificación y comunicación de peligros y Riesgos que determina la Norma pertinente;
-
-III. Informar al Personal Ocupacionalmente Expuesto a Sustancias Químicas Peligrosas sobre los peligros y Riesgos a que están expuestos;
-
-IV. Capacitar y adiestrar a los trabajadores que manejan Sustancias Químicas Peligrosas sobre el sistema de identificación y comunicación de peligros y Riesgos, y
-
-V. Llevar los registros sobre la información y capacitación proporcionadas a los trabajadores.
-
-###### Artículo 54.
-
-Para la administración de la seguridad de los procesos y equipos críticos donde se manejen Sustancias Químicas Peligrosas, los patrones deberán:
-
-I. Contar con un análisis de los Riesgos asociados a cada uno de los procesos y equipos críticos donde se manejen Sustancias Químicas Peligrosas que puedan ocasionar accidentes mayores;
-
-II. Establecer procedimientos de seguridad para la operación, revisión, mantenimiento, reparación, alteración y paros de emergencia de los equipos críticos;
-
-III. Administrar los Riesgos de los procesos y equipos críticos, su integridad mecánica y la instauración de cambios;
-
-IV. Contar con un plan de atención a emergencias;
-
-V. Disponer de un programa de auditorías internas para la revisión de los procesos y equipos críticos;
-
-VI. Contar con un procedimiento para la investigación de accidentes mayores;
-
-VII. Llevar el sistema de información sobre los procesos y equipos críticos;
-
-VIII. Informar a los trabajadores y contratistas sobre los Riesgos relacionados con sus actividades;
-
-IX. Capacitar a los trabajadores sobre la operación, revisión, mantenimiento, reparación, alteración y paros de emergencia de los equipos críticos; la realización de trabajos peligrosos; la atención a emergencias; la práctica de auditorías internas, y la investigación de accidentes mayores;
-
-X. Expedir autorizaciones por escrito para la realización de trabajos peligrosos, y
-
-XI. Llevar los registros sobre la operación, revisión, mantenimiento, reparación, alteración y paros de emergencia de los equipos críticos; los cambios, temporales o permanentes en las Sustancias Químicas Peligrosas, tecnologías, procesos y equipos; las Medidas de Control aplicadas; del personal autorizado para la realización de trabajos peligrosos; la capacitación impartida; las auditorías internas, así como sobre los accidentes mayores.
-
-El análisis a que se refiere la fracción I anterior, se podrá acreditar mediante el estudio de riesgo ambiental que haya presentado conforme a lo dispuesto en el artículo 147 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y, en su caso, el programa para la prevención de accidentes, aprobado en los términos que señale dicho ordenamiento.
-
-###### Artículo 55.
-
-Para la promoción de un Entorno Organizacional Favorable y la prevención de la Violencia Laboral, los patrones deberán:
-
-I. Definir políticas para la promoción de un Entorno Organizacional Favorable y la prevención de la Violencia Laboral;
-
-II. Disponer de mecanismos seguros y confidenciales para la recepción de quejas por prácticas opuestas al Entorno Organizacional Favorable y para denunciar actos de Violencia Laboral;
-
-III. Realizar evaluaciones del Entorno Organizacional Favorable, tratándose de Centros de Trabajo que tengan más de 50 trabajadores;
-
-IV. Adoptar las medidas preventivas pertinentes para combatir las prácticas opuestas al Entorno Organizacional Favorable y actos de Violencia Laboral;
-
-V. Difundir entre los trabajadores las políticas para la promoción de un Entorno Organizacional Favorable y la prevención de la Violencia Laboral; los resultados de las evaluaciones del Entorno Organizacional, así como las medidas adoptadas para combatir las prácticas opuestas al Entorno Organizacional Favorable y actos de Violencia Laboral, y
-
-VI. Llevar los registros sobre las medidas preventivas adoptadas y los resultados de las evaluaciones del Entorno Organizacional Favorable.
-
-###### Artículo 56.
-
-La Secretaría podrá emitir Normas específicas para la Seguridad y Salud en el Trabajo, en el caso de aquellas ramas o actividades económicas con características particulares que ameriten un tratamiento diferenciado o que tengan una mayor tasa de Accidentes de Trabajo, incapacidades o defunciones.
-
-###### Artículo 57.
-
-Las disposiciones de este Capítulo tienen por objeto proteger la integridad física y la salud de las mujeres en estado de gestación o de lactancia, y al producto de la concepción.
-
-###### Artículo 58.
-
-Se prohíbe asignar a mujeres en estado de gestación, la realización de los trabajos siguientes:
-
-I. Donde estén expuestas a ruido o vibraciones que rebasen los límites de exposición;
-
-II. Que impliquen la exposición a fuentes de radiación ionizante y no ionizantes infrarrojas o ultravioletas;
-
-III. Con presiones ambientales anormales o condiciones térmicas elevadas o abatidas;
-
-IV. Que las expongan a Contaminantes del Ambiente Laboral que puedan afectar su salud o la del producto de la concepción;
-
-V. Donde se manejen, transporten, almacenen o procesen sustancias tóxicas, cancerígenas, teratogénicas o mutagénicas;
-
-VI. En los que estén expuestas a residuos peligrosos, agentes biológicos o enfermedades infecto contagiosas;
-
-VII. Que demanden esfuerzo físico moderado y pesado; cargas superiores a los diez kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que impliquen esfuerzo abdominal o de miembros inferiores;
-
-VIII. De rescate, salvamento y brigadas contra siniestros;
-
-IX. En altura o Espacios Confinados;
-
-X. De soldadura y corte;
-
-XI. En condiciones climáticas extremas en campo abierto, que las expongan a deshidratación, golpe de calor, hipotermia o congelación;
-
-XII. En actividades productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera, nuclear y eléctrica;
-
-XIII. En torres de perforación o plataformas marítimas;
-
-XIV. Submarinos y subterráneos, y
-
-XV. Los demás que se establezcan como peligrosos o insalubres en las leyes, reglamentos y Normas aplicables.
-
-###### Artículo 59.
-
-Las mujeres que desempeñen sus labores o realicen los trabajos a que alude el artículo anterior, deberán informar al patrón que se encuentran en estado de gestación, inmediatamente después de que tengan conocimiento del hecho, a fin de que éste las reubique temporalmente en otras actividades que no sean peligrosas o insalubres.
-
-###### Artículo 60.
-
-No se deberá utilizar el trabajo de mujeres en estado de lactancia, en labores en que exista exposición a Sustancias Químicas Peligrosas capaces de actuar sobre la vida y salud del lactante o de interrumpir dicho proceso.
-
-###### Artículo 61.
-
-Las disposiciones de este Capítulo tienen por objeto proteger la integridad física y la salud de las personas trabajadoras menores de edad a que se refiere el Título Quinto Bis de la Ley.
-
-###### Artículo 62.
-
-En los términos del artículo 176 de la Ley, se prohíbe asignar a personas trabajadoras menores de edad, la realización de las labores siguientes:
-
-I. En los cuales se expongan a ruido, vibraciones, radiaciones ionizantes y no ionizantes, infrarrojas o ultravioletas, condiciones térmicas elevadas o abatidas o presiones ambientales anormales;
-
-II. Que impliquen el manejo, transporte, almacenamiento o despacho de Sustancias Químicas Peligrosas;
-
-III. Donde estén expuestos a agentes químicos Contaminantes del Ambiente Laboral;
-
-IV. En los que estén expuestos a residuos peligrosos, agentes biológicos o enfermedades infecto contagiosas;
-
-V. Donde se expongan al contacto con fauna peligrosa o flora nociva;
-
-VI. Nocturnas industriales;
-
-VII. De pañoleros o fogoneros en buques;
-
-VIII. Que demanden esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema músculo-esquelético;
-
-IX. De rescate, salvamento y brigadas contra siniestros;
-
-X. Que requieran el manejo, operación y mantenimiento de maquinaria, equipo o herramientas mecánicas, eléctricas, neumáticas o motorizadas, que puedan generar amputaciones, fracturas o lesiones graves;
-
-XI. Que utilicen herramientas manuales punzo cortantes;
-
-XII. Que requieran el manejo de vehículos motorizados, incluido su mantenimiento mecánico y eléctrico;
-
-XIII. En altura o Espacios Confinados;
-
-XIV. Relativos a la operación, revisión, mantenimiento y pruebas de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas;
-
-XV. De soldadura y corte;
-
-XVI. En establecimientos en los cuales se operen equipos y procesos críticos donde se manejen Sustancias Químicas Peligrosas que puedan ocasionar accidentes mayores;
-
-XVII. En condiciones climáticas extremas en campo abierto, que los expongan a deshidratación, golpe de calor, hipotermia o congelación;
-
-XVIII. Que se desarrollen en vialidades con amplio volumen de tránsito vehicular (vías primarias);
-
-XIX. En actividades agrícolas, forestales, de aserrado, silvícolas, de caza y pesca;
-
-XX. En buques;
-
-XXI. En minas;
-
-XXII. Submarinas y subterráneos;
-
-XXIII. En actividades productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear;
-
-XXIV. En actividades productivas de las industrias ladrillera, vidriera, cerámica y cerera;
-
-XXV. En actividades productivas de la industria tabacalera;
-
-XXVI. Relacionados con la generación, transmisión y distribución de electricidad y el mantenimiento de instalaciones eléctricas;
-
-XXVII. En obras de construcción;
-
-XXVIII. Que tengan responsabilidad directa sobre el cuidado de personas o la custodia de bienes y valores;
-
-XXIX. Con alto grado de dificultad; en apremio de tiempo; que demandan alta responsabilidad, o que requieren de concentración y atención sostenidas, y
-
-XXX. Los demás que se determinen como peligrosos o insalubres en las leyes, reglamentos y Normas aplicables.
-
-###### Artículo 63.
-
-Los patrones deberán observar las obligaciones correspondientes al trabajo de personas menores de edad en materia de Seguridad y Salud en el Trabajo, conforme a las disposiciones de la Ley.
-
-###### Artículo 64.
-
-Las disposiciones de este Capítulo tienen por objeto proteger la integridad física y la salud de los Trabajadores con Discapacidad.
-
-###### Artículo 65.
-
-En los Centros de Trabajo donde laboren Trabajadores con Discapacidad, los patrones deberán:
-
-I. Realizar el análisis de Riesgos para determinar la compatibilidad del puesto de trabajo a ocupar por Trabajadores con Discapacidad;
-
-II. Considerar en el Programa de Seguridad y Salud en el Trabajo las Acciones Preventivas y Correctivas por instrumentar para la prevención de Riesgos a Trabajadores con Discapacidad;
-
-III. Contar con instalaciones adecuadas para el acceso y desarrollo de actividades de las personas con discapacidad, en los Centros de Trabajo que tengan más de 50 trabajadores;
-
-IV. Adoptar el uso de señalizaciones de prohibición, obligación, precaución e información, que sean accesibles a sus Trabajadores con Discapacidad;
-
-V. Realizar las modificaciones y adaptaciones necesarias en sus instalaciones, procesos y puestos de trabajo, a fin de garantizar su desempeño en forma segura;
-
-VI. Contar con condiciones de Seguridad y Salud en el Trabajo que les permitan el desempeño de sus actividades y, en su caso, su circulación y desplazamiento a zonas de resguardo y seguridad, en caso de emergencia;
-
-VII. Prever en los planes de atención a emergencias la alerta, evacuación y apoyo que se debe brindar a los trabajadores y a los visitantes que cuenten con algún tipo de discapacidad;
-
-VIII. Proporcionar a los Trabajadores con Discapacidad información sobre los Riesgos y las medidas de seguridad por adoptar en su área de trabajo, y
-
-IX. Capacitar a los Trabajadores con Discapacidad para el desarrollo de sus actividades y actuación en caso de emergencia.
-
-###### Artículo 66.
-
-Las disposiciones de este Capítulo tienen por objeto proteger la integridad física y la salud de los Trabajadores del Campo.
-
-### Capítulo Cuarto. Disposiciones Especializadas para la Seguridad y Salud en el Trabajo
-
-###### Artículo 67.
-
-Para la ejecución de las labores propias de las explotaciones agrícolas, ganaderas, acuícolas, forestales o mixtas, los patrones deberán:
-
-I. Hacer del conocimiento de los trabajadores las instrucciones de seguridad para las actividades que desarrollen, en su idioma, lengua o dialecto, o a través de medios gráficos o pictogramas;
-
-II. Suministrar elementos protectores y líquidos hidratantes al Personal Ocupacionalmente Expuesto a la radiación solar;
-
-III. Proveer servicios provisionales de agua potable y sanitarios en el lugar donde desarrollen sus actividades;
-
-IV. Proporcionar a los Trabajadores del Campo habitaciones cómodas e higiénicas;
-
-V. Mantener en el lugar de trabajo los antídotos necesarios contra los efectos de los insumos fitosanitarios o plaguicidas e insumos de nutrición vegetal o fertilizantes que se utilicen, y la picadura de animales venenosos;
-
-VI. Contar con el equipo y medicamentos necesarios para atender al trabajador en caso de golpe de calor o deshidratación severa;
-
-VII. Brindar transportación segura para el traslado de los trabajadores de su lugar de alojamiento al campo de cultivo y de éste último al primero;
-
-VIII. Realizar exámenes médicos de ingreso, periódicos y especiales para evaluar la salud de los trabajadores, y
-
-IX. Proporcionar información sobre los Riesgos a que están expuestos y adiestramiento sobre la maquinaria, equipo y herramientas por utilizar en su lengua o dialecto.
-
-###### Artículo 68.
-
-La Secretaría orientará a los Centros de Trabajo sobre las acciones y programas para la promoción de la salud y la prevención de adicciones que habrán de incorporarse en el Programa de Seguridad y Salud en el Trabajo. Para tales efectos, emitirá y mantendrá actualizada la Guía de Recomendaciones para la Promoción de la Salud y la Prevención de Adicciones en los Centros de Trabajo.
-
-###### Artículo 69.
-
-Las acciones para la promoción de la salud y la prevención de las adicciones que se impulsen en los Centros de Trabajo habrán de desarrollarse bajo los principios rectores siguientes:
-
-I. Ser consideradas como parte de una estrategia integral de Seguridad y Salud en el Trabajo;
-
-II. Tender a la reducción de los factores de Riesgo y fortalecer las acciones para modificar estilos de vida que puedan afectar la salud de los trabajadores;
-
-III. Ser universales, equitativas y otorgarse con calidad, de conformidad con las diferentes necesidades de los trabajadores a lo largo del ciclo de su vida laboral;
-
-IV. Procurar la formación de grupos de ayuda mutua;
-
-V. Motivar la participación de los trabajadores en el autocuidado de su salud, mediante el otorgamiento de estímulos y reconocimientos por el logro de prácticas saludables;
-
-VI. Garantizar absoluta confidencialidad respecto del estado de salud y adicciones de sus trabajadores;
-
-VII. Evitar la discriminación de los trabajadores con enfermedades o adicciones, y
-
-VIII. Respetar los derechos laborales y oportunidades de trabajo, independientemente del estado de salud de sus trabajadores, siempre y cuando no se ponga en Riesgo su vida, salud e integridad física o de los demás trabajadores.
-
-###### Artículo 70.
-
-Las acciones contenidas en la Guía de Recomendaciones para la Promoción de la Salud y la Prevención de Adicciones en los Centros de Trabajo serán indicativas, por lo que cada Centro de Trabajo, según su actividad, escala económica, grado de Riesgo, disponibilidad de espacio y ubicación geográfica, deberá adaptarla y aplicarla para contribuir a la promoción de la salud y la prevención de las adicciones.
-
-Lo anterior, sin perjuicio de las obligaciones que en materia de Seguridad y Salud en el Trabajo les aplican, entre ellas, las relativas a las acciones que sobre el particular habrán de incorporarse en los Programas de Seguridad y Salud en el Trabajo; a los servicios de mantenimiento y limpieza que se proporcionen; a los derechos de las mujeres en estado de gestación y de lactancia, así como a las labores restringidas para ellas.
-
-###### Artículo 71.
-
-Con fundamento en lo dispuesto por el artículo 513 de la Ley, la Secretaría, previa opinión de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo, actualizará las tablas de Enfermedades de Trabajo y de valuación de las incapacidades permanentes resultantes de los Riesgos de trabajo.
-
-###### Artículo 72.
-
-Las Enfermedades de Trabajo se clasificarán en los grupos siguientes:
-
-I. Enfermedades infecciosas y parasitarias;
-
-II. Cánceres de origen laboral;
-
-III. Enfermedades del sistema circulatorio, de la sangre y órganos hematopoyéticos;
-
-IV. Trastornos mentales;
-
-V. Enfermedades del sistema respiratorio;
-
-VI. Enfermedades del sistema digestivo;
-
-VII. Enfermedades de la piel y tejidos subcutáneos;
-
-VIII. Enfermedades del sistema osteomuscular y del tejido conjuntivo;
-
-IX. Intoxicaciones;
-
-X. Enfermedades del ojo y del oído, y
-
-XI. Enfermedades de endocrinología y genito-urinarias.
-
-###### Artículo 73.
-
-La tabla de Enfermedades de Trabajo deberá contener:
-
-I. Los datos de identificación de la enfermedad: su nombre y código, con base en la clasificación internacional de enfermedades vigente;
-
-II. Los agentes físicos, químicos o biológicos o aquellos Factores de Riesgo Ergonómico o Psicosocial que se relacionan con el trabajo y pueden causar la enfermedad;
-
-III. Las actividades económicas y puestos de trabajo expuestos a los agentes o Factores mencionados;
-
-IV. Los principales síntomas y signos para establecer el diagnóstico clínico de la enfermedad;
-
-V. Los estudios necesarios para sustentar el diagnóstico clínico;
-
-VI. Las características de la exposición laboral;
-
-VII. Los criterios para establecer la relación causal de la enfermedad, y
-
-VIII. La propuesta de valuación para cada una de las alteraciones, a partir de los estudios que sustentan el diagnóstico clínico.
-
-###### Artículo 74.
-
-La tabla de valuación de las incapacidades permanentes deberá contener la parte, aparato o sistema del cuerpo afectado; la secuela del Accidente o Enfermedad de Trabajo, y el porcentaje de incapacidad que resulte aplicable por cada tipo de padecimiento.
-
-###### Artículo 75.
-
-Las tablas de Enfermedades de Trabajo y de valuación de las incapacidades permanentes serán objeto de investigación y estudio, a efecto de incorporar:
-
-I. Las enfermedades, existentes o nuevas, que se sustenten por su relación con el trabajo y la afectación a la salud del trabajador;
-
-II. Los trabajadores que se determine se encuentran también expuestos por el tipo de actividad y la afectación a su salud;
-
-III. Los elementos clínicos y de laboratorio más recientes para la elaboración del diagnóstico y la evaluación de las Enfermedades de Trabajo, y
-
-IV. Los avances metodológicos para la valuación de la capacidad residual de los trabajadores en función de su calidad de vida y aptitud para el trabajo.
-
-Para su investigación y estudio, habrán de constituirse grupos de trabajo, dependientes de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo, con la participación de expertos, entre especialistas clínicos y de medicina del trabajo, académicos e investigadores, así como de peritos médicos dictaminadores de la Junta Federal de Conciliación y Arbitraje.
-
-## TÍTULO QUINTO. Accidentes y Enfermedades de Trabajo
-
-### Capítulo Primero. Protección a Mujeres en Estado de Gestación o de Lactancia
-
-###### Artículo 76.
-
-Los patrones deberán dar aviso a la Secretaría, por escrito o en forma electrónica, de los Accidentes de Trabajo que ocurran dentro de las 72 horas siguientes, conforme a lo que establece el artículo 504, fracción V de la Ley.
-
-Dicho aviso podrá ser realizado por el trabajador ante la institución pública de seguridad social a la cual estuviera afiliado, o por sus familiares, si el trabajador se encuentra incapacitado para efectuarlo, en caso de que el patrón no lo realice dentro del término antes indicado. Asimismo, el trabajador o sus familiares podrán dar el aviso a que se refiere el párrafo anterior, a la Secretaría en los términos y condiciones previstos en la normativa correspondiente.
-
-Las instituciones públicas de seguridad social deberán informar en forma electrónica a la Secretaría sobre los avisos de Accidentes de Trabajo que presenten los patrones o, en su caso, los trabajadores o sus familiares, en los términos y condiciones previstos en la normativa correspondiente.
-
-Los patrones quedarán relevados de dar dicho aviso a la Secretaría, cuando lo presenten ante la institución pública de seguridad social a la que por disposición de ley estuviere afiliado el trabajador, dentro del término a que se refiere el párrafo anterior.
-
-###### Artículo 77.
-
-Los patrones tan pronto tengan conocimiento de la muerte de un trabajador por Riesgo de trabajo, deberán dar aviso a la Secretaría, por escrito o en forma electrónica, de acuerdo con lo que determina el artículo 504, fracción VI de la Ley.
-
-###### Artículo 78.
-
-Las instituciones públicas de seguridad social deberán informar a la Secretaría, en forma electrónica, sobre las Enfermedades de Trabajo de que tengan conocimiento, con motivo de la atención médica que brinden a los trabajadores asegurados.
-
-Dicha información deberá presentarse en los términos y condiciones señalados en la normativa de la materia.
-
-###### Artículo 79.
-
-La Secretaría, a través de la Dirección General de Investigación y Estadísticas del Trabajo, llevará la estadística nacional sobre los Accidentes y Enfermedades de Trabajo, de conformidad con los lineamientos generales que en esa materia establezca el Instituto Nacional de Estadística y Geografía. Lo anterior, a fin de analizar las causas de los mismos y proponer la adopción de las medidas preventivas procedentes.
-
-###### Artículo 80.
-
-La Secretaría pondrá a disposición de los interesados cursos multimedia que faciliten el conocimiento de las Normas y disminuyan los costos asociados con su difusión, capacitación y aplicación.
-
-Dichos cursos estarán dirigidos al personal gerencial, supervisor y operativo de los Centros de Trabajo; integrantes de las Comisiones de Seguridad e Higiene y de los Servicios Preventivos de Seguridad y Salud en el Trabajo y, en su caso, de Medicina del Trabajo; representantes sindicales y patronales; inspectores federales y locales del trabajo; Organismos Privados; estudiantes de nivel técnico y superior, profesores e investigadores de instituciones educativas, así como a consultores en la materia, entre otros.
-
-###### Artículo 81.
-
-La Secretaría pondrá a disposición de los sujetos obligados los módulos informáticos siguientes:
-
-I. Asistente para la Identificación de las Normas Oficiales Mexicanas de Seguridad y Salud en el Trabajo: Facilita la búsqueda de las Normas que resulten aplicables, con base en la actividad económica, escala y factores de Riesgo asociados a los procesos productivos de cada Centro de Trabajo;
-
-II. Asesoría para la Instauración de Sistemas de Administración en Seguridad y Salud en el Trabajo: Provee un esquema con los elementos esenciales para la instauración de Sistemas de Administración en Seguridad y Salud en el Trabajo, así como para el seguimiento de los avances en su puesta en operación;
-
-III. Evaluación del Funcionamiento de Sistemas de Administración en Seguridad y Salud en el Trabajo: Aporta indicadores de desempeño y criterios para valorar el funcionamiento de este tipo de sistemas, con las consecuentes Acciones Preventivas y Correctivas por instrumentar en los Centros de Trabajo;
-
-IV. Evaluación del Cumplimiento de la Normativa en Seguridad y Salud en el Trabajo: Permite una revisión para determinar el grado de cumplimiento de las Normas, al igual que las Acciones Preventivas y Correctivas por adoptar;
-
-V. Elaboración de Programas de Seguridad y Salud en el Trabajo: Posibilita la integración y seguimiento a los Programas de Seguridad y Salud en el Trabajo, a partir de la evaluación del funcionamiento de los Sistemas de Administración en Seguridad y Salud en el Trabajo y del cumplimiento de las Normas;
-
-VI. Identificación y Control del Equipo de Protección Personal: Apoya la selección de este tipo de equipo, conforme al análisis de Riesgos a que están expuestos los trabajadores, así como el control sobre su uso, revisión, limpieza, mantenimiento, remplazo, resguardo y disposición final;
-
-VII. Reconocimiento, Evaluación y Control: Posibilita la identificación, medición y adopción de las Medidas de Control pertinentes, respecto de los agentes Contaminantes del Ambiente Laboral que, por sus propiedades, concentración, nivel y tiempo de exposición, puedan afectar la salud de los trabajadores;
-
-VIII. Recipientes Sujetos a Presión, Recipientes Criogénicos y Generadores de Vapor o Calderas: Facilita la integración del listado y expedientes de los equipos con que cuenta el Centro de Trabajo; de los registros sobre su operación, revisión, mantenimiento y pruebas, al igual que la formulación y notificación de los avisos que se deban presentar ante la Secretaría sobre el funcionamiento de los mismos;
-
-IX. Seguimiento a la Salud de los Trabajadores: Proporciona los elementos necesarios para el seguimiento y vigilancia a la salud de los trabajadores, a través de la aplicación de los exámenes médicos, y
-
-X. Registros Administrativos: Provee prototipos para la medición continua en medios electrónicos de actividades relacionadas con la operación, revisión, mantenimiento y pruebas de instalaciones, sistemas, procesos, maquinaria, equipo y herramientas, así como de otras acciones establecidas por la normativa.
-
-La Secretaría, a través de su página web, pondrá a disposición de los sujetos obligados un portal electrónico con los módulos antes citados, al cual podrá adicionar otros módulos que faciliten la aplicación de la normativa.
-
-### Capítulo Segundo. Programa de Autogestión en Seguridad y Salud en el Trabajo
-
-###### Artículo 82.
-
-El Programa de Autogestión en Seguridad y Salud en el Trabajo constituye una acción promocional de la Secretaría que tiene por objeto impulsar que las empresas instauren y operen Sistemas de Administración en Seguridad y Salud en el Trabajo, con la corresponsabilidad de empleadores y trabajadores, a partir de estándares nacionales e internacionales, y con sustento en la normativa vigente, a fin de favorecer el funcionamiento de Centros de Trabajo seguros e higiénicos.
-
-###### Artículo 83.
-
-El Programa de Autogestión en Seguridad y Salud en el Trabajo estará abierto a cualquier tipo de Centro de Trabajo, con prioridad para aquellas actividades económicas de alto riesgo.
-
-Los patrones podrán incorporar de manera voluntaria sus Centros de Trabajo al Programa de Autogestión en Seguridad y Salud en el Trabajo.
-
-El Programa de Autogestión en Seguridad y Salud en el Trabajo se aplicará por Centro de Trabajo, y deberá incorporar a las empresas contratistas que, en su caso, desarrollen labores relacionadas con la actividad principal dentro de las instalaciones del propio Centro de Trabajo.
-
-Los Centros de Trabajo que se incorporen al Programa de Autogestión en Seguridad y Salud en el Trabajo serán objeto de evaluaciones iniciales e integrales por parte de la Autoridad Laboral, así como de inspecciones extraordinarias de Seguridad y Salud en el Trabajo, cuando sean dados de baja en forma temporal del mismo.
-
-## TÍTULO SEXTO. Apoyos para Facilitar el Conocimiento y Cumplimiento de la Normativa en Seguridad y Salud en el Trabajo
-
-### Capítulo Segundo. Protección a Personas Trabajadoras Menores de Edad
-
-###### Artículo 84.
-
-La Secretaría expedirá los Lineamientos Generales de Operación del Programa de Autogestión en Seguridad y Salud en el Trabajo, los cuales deberán prever lo siguiente:
-
-I. El trámite y requisitos para incorporar a los Centros de Trabajo al Programa de Autogestión en Seguridad y Salud en el Trabajo;
-
-II. Los tipos de reconocimientos por otorgar;
-
-III. Los criterios y parámetros de acuerdo con los cuales se otorgarán, y
-
-IV. Los criterios para permanecer incorporados en el Programa de Autogestión en Seguridad y Salud en el Trabajo, si se acreditan las evaluaciones integrales, dentro de los plazos que para tal efecto se prevean.
-
-###### Artículo 85.
-
-La Secretaría dará de baja, en forma temporal, del Programa de Autogestión en Seguridad y Salud en el Trabajo, a los Centros de Trabajo, por las causas siguientes:
-
-I. Se genere una explosión, incendio, derrame de productos químicos o cualquier otro siniestro, que dañe la integridad física o salud de los trabajadores o afecte los procesos productivos;
-
-II. Ocurran Accidentes de Trabajo graves, con incapacidad permanente o defunción, o
-
-III. Se presenten quejas fundadas por parte de la Comisión de Seguridad e Higiene, de los representantes sindicales o de los trabajadores, sobre el incumplimiento de los acuerdos determinados en el compromiso voluntario o de las Normas.
-
-Con motivo de lo anterior, la Autoridad Laboral practicará inspecciones extraordinarias en materia de Seguridad y Salud en el Trabajo y dictará las medidas preventivas o correctivas que deberán instrumentarse.
-
-Los Centros de Trabajo que causen baja temporal en el Programa de Autogestión en Seguridad y Salud en el Trabajo podrán ser dados de alta, cuando hayan instrumentado la totalidad de las medidas preventivas o correctivas que dicte la Autoridad Laboral en las inspecciones extraordinarias, dentro del plazo que al efecto fije y, en su caso, se encuentre concluido el Procedimiento Administrativo Sancionador.
-
-###### Artículo 86.
-
-La Secretaría dará de baja, de manera definitiva, del Programa de Autogestión en Seguridad y Salud en el Trabajo, a los Centros de Trabajo, cuando:
-
-I. Incumplan las medidas dictadas por la Autoridad Laboral, derivadas de las inspecciones extraordinarias en materia de Seguridad y Salud en el Trabajo;
-
-II. No acrediten las evaluaciones integrales, ni obtengan los reconocimientos correspondientes, dentro de los plazos que señalan los Lineamientos Generales de Operación del Programa de Autogestión en Seguridad y Salud en el Trabajo para su permanencia en el programa;
-
-III. Lo soliciten por escrito;
-
-IV. Concluyan actividades;
-
-V. Cambien de actividad económica;
-
-VI. Cambien de denominación o razón social y los directivos no estén interesados en seguir participando en el programa;
-
-VII. Se fusionen con otra empresa y los directivos no estén interesados en seguir participando en el programa, o
-
-VIII. Cambien de domicilio.
-
-Los Centros de Trabajo podrán reincorporarse al Programa de Autogestión en Seguridad y Salud en el Trabajo, un año después de haber sido notificada la baja definitiva, excepto en los casos que hayan causado baja definitiva por más de dos veces.
-
-###### Artículo 87.
-
-La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo tiene por objeto coadyuvar en el diseño de la política nacional en materia de Seguridad y Salud en el Trabajo; proponer reformas y adiciones al presente Reglamento y a las Normas, así como estudiar y recomendar medidas preventivas para abatir los Riesgos en los Centros de Trabajo.
-
-### Capítulo Tercero. Trabajadores con Discapacidad
-
-###### Artículo 88.
-
-La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo estará integrada por dos representantes de la Secretaría; sendos representantes de la Secretaría de Salud, de la Secretaría de Gobernación, de la Secretaría de Medio Ambiente y Recursos Naturales, y del Instituto Mexicano del Seguro Social, así como por seis representantes de las organizaciones nacionales de trabajadores e igual número de representantes de las organizaciones de patrones a las que convoque el titular de la Secretaría, quien tendrá el carácter de Presidente de la citada Comisión.
-
-Por cada miembro propietario se designará un suplente.
-
-El Presidente de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo podrá invitar a participar en sus sesiones, con voz pero sin voto, a representantes de los sectores público, social o privado, instituciones académicas, colegios de profesionistas o expertos, cuando se traten temas de su competencia, especialidad o interés.
-
-La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo contará con un Secretariado Técnico que estará a cargo de la Secretaría, al cual le corresponderá apoyar a la Comisión para cumplir con su objeto.
-
-###### Artículo 89.
-
-La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo tendrá a su cargo:
-
-I. Coadyuvar en la formulación de la política nacional en materia de Seguridad y Salud en el Trabajo;
-
-II. Definir las estrategias para propiciar que los Centros de Trabajo cuenten con las condiciones de Seguridad y Salud en el Trabajo que permitan prevenir Riesgos;
-
-III. Emitir opinión sobre los anteproyectos de Normas, cuando así se lo solicite la Secretaría; proponer los anteproyectos de Normas que juzgue convenientes, así como la modificación o cancelación de las que estén en vigor;
-
-IV. Proponer a la Secretaría proyectos de reformas y adiciones reglamentarias en la materia;
-
-V. Analizar y opinar las propuestas de anteproyectos de Normas que formulen las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo y presentarlas a la consideración del Secretario del Trabajo y Previsión Social, en su carácter de Presidente de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo;
-
-VI. Analizar los índices de frecuencia y gravedad de los Accidentes y Enfermedades de Trabajo a nivel nacional;
-
-VII. Llevar a cabo estudios y proponer medidas preventivas para abatir los Riesgos;
-
-VIII. Promover los mecanismos de autoevaluación del cumplimiento de las Normas;
-
-IX. Promover la realización de programas y campañas de Seguridad y Salud en el Trabajo para la prevención de Riesgos;
-
-X. Opinar sobre las tablas de Enfermedades de Trabajo y de valuación de las incapacidades permanentes;
-
-XI. Formular recomendaciones sobre la prima del seguro de riesgos de trabajo y respecto de otros mecanismos relacionados con la financiación de la prevención de Riesgos;
-
-XII. Conocer sobre las acciones desarrolladas por otras dependencias e instituciones públicas que complementen las que realice la Secretaría para la protección de la seguridad y salud de los trabajadores;
-
-XIII. Impulsar la formación de técnicos y especialistas en materia de Seguridad y Salud en el Trabajo;
-
-XIV. Apoyar la difusión del marco normativo para la prevención de Accidentes y Enfermedades de Trabajo;
-
-XV. Opinar sobre los criterios rectores y prioridades del programa de inspección en materia de Seguridad y Salud en el Trabajo;
-
-XVI. Conocer sobre el desempeño de los Organismos Privados;
-
-XVII. Promover la cooperación científica y técnica en materia de Seguridad y Salud en el Trabajo con instituciones nacionales e internacionales;
-
-XVIII. Elaborar su programa anual de actividades y darle seguimiento;
-
-XIX. Expedir su reglamento interior, el que establecerá su organización y funcionamiento, y
-
-XX. Las demás que le encomiende el Presidente de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo.
-
-###### Artículo 90.
-
-La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo celebrará sesiones ordinarias y extraordinarias. Las primeras serán convocadas por el Presidente y las extraordinarias podrán ser convocadas por el Presidente o a petición de al menos tres de sus integrantes.
-
-## TÍTULO SÉPTIMO. Mecanismos de Consulta y Prevención de Riesgos
-
-### Capítulo Primero. Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo
-
-### Capítulo Cuarto. Trabajadores del Campo
-
-###### Artículo 91.
-
-La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo podrá constituir subcomisiones y grupos de trabajo para el desarrollo de las funciones que tiene encomendadas.
-
-Los trabajos de las subcomisiones y grupos de trabajo serán presididos por servidores públicos de la Secretaría.
-
-Las subcomisiones y grupos de trabajo estarán integrados por los representantes que designen los miembros de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo, así como por las entidades y organizaciones vinculadas con los estudios y proyectos objeto de su constitución.
-
-Los estudios y proyectos que elaboren los grupos de trabajo serán sancionados primeramente por las subcomisiones y posteriormente habrán de ser sometidos al pleno de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo.
-
-###### Artículo 92.
-
-La Secretaría pondrá a disposición del público en general, en su página web, un portal electrónico con la información sobre los integrantes de la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo; su reglamento interior; el programa anual de actividades y sus avances; los diagnósticos, estudios y propuestas efectuados en materia de Seguridad y Salud en el Trabajo; las sesiones ordinarias y extraordinarias que celebren; los asuntos que se aborden en las mismas, con su consiguiente respaldo documental, entre otros aspectos.
-
-### Capítulo Segundo. Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo
-
-###### Artículo 93.
-
-En las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo, a que se refiere el artículo 512-B de la Ley, participarán sendos representantes de la Secretaría, de la Secretaría de Salud, de la Secretaría de Gobernación, de la Secretaría de Medio Ambiente y Recursos Naturales, y del Instituto Mexicano del Seguro Social, así como al menos por tres representantes de las organizaciones de trabajadores e igual número de representantes de las organizaciones de patrones.
-
-La función de Secretario Técnico en cada Comisión Consultiva Estatal, incluyendo la del Distrito Federal, será desempeñada por el representante de la Secretaría.
-
-## TÍTULO OCTAVO. Vigilancia y Verificación del Cumplimiento de la Normativa
-
-### Capítulo Primero. Vigilancia del Cumplimiento de la Normativa
-
-### Capítulo Quinto. Promoción de la Salud y Prevención de las Adicciones en los Centros de Trabajo
-
-###### Artículo 94.
-
-La Secretaría establecerá los mecanismos de coordinación necesarios para recibir de las Comisiones Consultivas Estatales y del Distrito Federal las propuestas sobre:
-
-I. Coadyuvar en la formulación de la política estatal en materia de Seguridad y Salud en el Trabajo;
-
-II. Definir las estrategias para propiciar que los Centros de Trabajo cuenten con las condiciones de Seguridad y Salud en el Trabajo que permitan prevenir Riesgos;
-
-III. Proponer los anteproyectos de Normas que juzguen convenientes, así como la modificación o cancelación de las que estén en vigor;
-
-IV. Analizar los índices de frecuencia y gravedad de los Accidentes y Enfermedades de Trabajo;
-
-V. Llevar a cabo estudios y proponer medidas preventivas para abatir los Riesgos;
-
-VI. Promover los mecanismos de autoevaluación del cumplimiento de las Normas;
-
-VII. Promover la ejecución de programas y campañas de Seguridad y Salud en el Trabajo para la prevención de Riesgos;
-
-VIII. Conocer sobre las acciones desarrolladas por otras dependencias e instituciones públicas que complementen las que realice la Secretaría para la protección de la seguridad y salud de los trabajadores;
-
-IX. Impulsar la formación de técnicos y especialistas en materia de Seguridad y Salud en el Trabajo;
-
-X. Apoyar la difusión del marco normativo para la prevención de Accidentes y Enfermedades de Trabajo;
-
-XI. Opinar sobre los criterios rectores y prioridades del programa de inspección en materia de Seguridad y Salud en el Trabajo;
-
-XII. Elaborar su programa anual de actividades y darle seguimiento;
-
-XIII. Expedir su reglamento interior, el que establecerá su organización y funcionamiento, y
-
-XIV. Las demás que les encomiende el Presidente de la Comisión Consultiva Estatal y del Distrito Federal.
-
-###### Artículo 95.
-
-Los delegados federales del trabajo de la Secretaría, que realicen las funciones de Secretariados Técnicos de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo pondrán a disposición del público en general, en el portal electrónico respectivo de la página web de la Secretaría, la información sobre los integrantes de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo; sus reglamentos interiores; los programas anuales de actividades y sus avances; los diagnósticos, estudios y propuestas efectuados en materia de Seguridad y Salud en el Trabajo; las sesiones ordinarias y extraordinarias que celebren; los asuntos que se aborden en las mismas, con su consiguiente respaldo documental, entre otros aspectos.
-
-### Capítulo Tercero. Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo
-
-###### Artículo 96.
-
-El Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo es el órgano facultado para la elaboración de los proyectos de Normas y la promoción de su cumplimiento.
-
-###### Artículo 97.
-
-El Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo estará integrado por un representante de la Secretaría, que fungirá como Presidente de la misma; un Secretario Técnico, que será designado por el Presidente del Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo; por un representante de las secretarías de Gobernación, de Medio Ambiente y Recursos Naturales, de Energía, de Economía y de Salud, del Instituto Mexicano del Seguro Social, de la Universidad Nacional Autónoma de México y del Instituto Politécnico Nacional.
-
-Además serán integrantes del Comité, cuatro representantes de las organizaciones de trabajadores e igual número de representantes de las organizaciones de patrones, que determinen sus lineamientos generales de operación.
-
-El Presidente del Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo podrá invitar a participar en sus sesiones, con voz pero sin voto, a representantes de los sectores público, social o privado, instituciones académicas, colegios de profesionistas o expertos, cuando se traten temas de su competencia, especialidad o interés.
-
-Los representantes a que se refieren los párrafos segundo y tercero de este numeral, previo su consentimiento expreso, participarán de forma honorífica y por su desempeño en el Comité no cobrarán sueldo o emolumento alguno.
-
-### Capítulo Primero. Calificación y Valuación de los Accidentes y Enfermedades de Trabajo
-
-###### Artículo 98.
-
-El Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo tendrá a su cargo:
-
-I. Contribuir a la integración y ejecución del Programa Nacional de Normalización;
-
-II. Revisar las Normas con motivo de la conclusión de su período quinquenal;
-
-III. Proponer a la Secretaría la expedición de Normas;
-
-IV. Elaborar, revisar y, en su caso, aprobar los proyectos de Normas;
-
-V. Revisar y, en su caso, aprobar las manifestaciones de impacto regulatorio de los proyectos de Normas;
-
-VI. Estudiar los comentarios que se formulen sobre los proyectos de Normas que se publiquen para consulta pública y revisar las respuestas respectivas;
-
-VII. Revisar y, en su caso, aprobar las Normas;
-
-VIII. Emitir opinión respecto de las solicitudes de autorización para el uso de tecnologías, procesos, equipos, procedimientos, mecanismos, métodos de prueba o materiales alternativos, en sustitución de los que establecen las Normas;
-
-IX. Coordinar su actividad con otros comités consultivos nacionales de normalización;
-
-X. Coordinar y participar en la homologación y armonización de las Normas relacionadas con normas de otros países;
-
-XI. Resolver las consultas y atender las observaciones que le sean formuladas sobre las materias de su competencia;
-
-XII. Proponer las medidas que se juzguen necesarias para el mejor desarrollo de sus funciones, y
-
-XIII. Cualquier otra actividad que le sea encomendada por la Secretaría en las materias competencia del Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo.
-
-###### Artículo 99.
-
-El Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo celebrará sesiones ordinarias o extraordinarias, las que serán convocadas por el Secretario Técnico.
-
-###### Artículo 100.
-
-El Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo podrá integrar grupos de trabajo, a fin de elaborar anteproyectos relativos a la creación o modificación de Normas; revisar los comentarios que reciba de los proyectos que se publiquen para consulta pública y proponer las respuestas que correspondan, así como para analizar las solicitudes de autorización para el uso de tecnologías, procesos, equipos, procedimientos, mecanismos, métodos de prueba o materiales alternativos.
-
-Tales grupos de trabajo serán coordinados por representantes de la Secretaría.
-
-Los grupos de trabajo estarán integrados por especialistas de dependencias, entidades de la Administración Pública Federal, organizaciones de patrones y trabajadores, representantes de los sectores social o privado, instituciones académicas, así como colegios de profesionistas o expertos, cuando se traten temas de su competencia, especialidad o interés.
-
-Los representantes de las organizaciones de patrones y trabajadores, de los sectores social o privado, instituciones académicas, así como colegios de profesionistas o expertos, participarán en los grupos de trabajo de forma honorífica y por su desempeño en dichos grupos no cobrarán sueldo o emolumento alguno.
-
-### Capítulo Segundo. Avisos de Accidentes y Enfermedades de Trabajo
-
-###### Artículo 101.
-
-La Secretaría, a través de la Autoridad Laboral, tendrá a su cargo la inspección y vigilancia del cumplimiento de las disposiciones en materia de Seguridad y Salud en el Trabajo, contenidas en el presente Reglamento y en las Normas.
-
-La Secretaría, para cumplir con lo previsto en el párrafo anterior, podrá solicitar auxilio a las Autoridades Laborales de las entidades federativas, en términos del artículo 512-F de la Ley.
-
-###### Artículo 102.
-
-La Secretaría suscribirá convenios de colaboración con aquellas dependencias e instituciones públicas de la Administración Pública Federal que tengan facultades en materias específicas que incidan también en la protección de la seguridad y salud de los trabajadores, en el marco de las atribuciones que les confieren las leyes aplicables, a efecto de uniformar criterios, intercambiar experiencias e información y ejecutar programas conjuntos de inspección.
-
-###### Artículo 103.
-
-Cuando la Secretaría detecte el incumplimiento por parte de los patrones de disposiciones jurídicas en materias específicas que incidan también en la protección de la seguridad y salud de los trabajadores, cuya aplicación y vigilancia competa a otras dependencias e instituciones públicas, lo notificará a éstas para los efectos jurídicos procedentes.
-
-###### Artículo 104.
-
-La función de inspección en materia de Seguridad y Salud en el Trabajo, se realizará en los términos previstos en la Ley, la Ley Federal de Procedimiento Administrativo, el Reglamento General de Inspección del Trabajo y Aplicación de Sanciones, y este Reglamento.
-
-### Capítulo Segundo. Evaluación de la Conformidad con las Normas
-
-###### Artículo 105.
-
-La Evaluación de la Conformidad con las Normas podrá realizarse por conducto de Organismos Privados.
-
-Lo anterior, sin perjuicio de las atribuciones de la Secretaría para realizar visitas de inspección de conformidad con la Ley y las disposiciones reglamentarias.
-
-###### Artículo 106.
-
-La aprobación de Organismos Privados, se efectuará por parte de la Secretaría, con base en lo que determina la Ley Federal sobre Metrología y Normalización y su reglamento, el presente Reglamento y los lineamientos que sobre el particular emita la Secretaría.
-
-Para tales efectos, los Organismos Privados deberán estar acreditados por una entidad de acreditación, a fin de demostrar que cuentan con las capacidades técnicas, materiales y humanas requeridas para los servicios que pretenden prestar, así como con los procedimientos de aseguramiento de la calidad que garanticen el adecuado desempeño de sus funciones.
-
-###### Artículo 107.
-
-Las unidades de verificación solamente podrán emitir dictámenes sobre la Norma o Normas respecto de las cuales cuenten con la aprobación de la Secretaría.
-
-Cuando para comprobar el cumplimiento con una Norma se requieran mediciones o pruebas de laboratorio, la Evaluación correspondiente se efectuará únicamente en laboratorios acreditados y aprobados, salvo que éstos no existan para la medición o prueba específica, en cuyo caso, se podrán realizar en otros laboratorios, preferentemente acreditados.
-
-Los organismos de certificación emitirán certificados de cumplimiento con las Normas para los productos, procesos o servicios que lo requieran, conforme a lo señalado en las Normas pertinentes.
-
-Los gastos que se originen con motivo de la Evaluación de la Conformidad que realicen los Organismos Privados, serán a cargo de las personas que hayan contratado sus servicios.
-
-###### Artículo 108.
-
-La Evaluación de la Conformidad de los aspectos que a continuación se precisan será realizada por Organismos Privados, de acuerdo con lo que dispone el artículo 68 de la Ley Federal sobre Metrología y Normalización:
-
-I. Las condiciones de seguridad de los recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, de conformidad con las modalidades establecidas en la Norma de la especialidad;
-
-II. La Evaluación de los contaminantes físicos, químicos y biológicos del ambiente laboral, y
-
-III. Las especificaciones del Equipo de Protección Personal.
-
-###### Artículo 109.
-
-Los dictámenes, informes de resultados y certificados de cumplimiento emitidos por las unidades de verificación, laboratorios de pruebas y organismos de certificación acreditados y aprobados, respectivamente, serán reconocidos por la Autoridad Laboral, mediante el número de registro que la Secretaría hará constar en ellos, en forma previa a su entrega por parte del Organismo Privado a quien haya contratado sus servicios para la Evaluación de la Conformidad de las Normas.
-
-Las Normas que expida la Secretaría establecerán la vigencia que tendrán los dictámenes, informes de resultados y certificados para comprobar el cumplimiento de las obligaciones contenidas en las Normas. De no establecerse dicho plazo, los mencionados dictámenes, informes de resultados y certificados, tendrán una vigencia de un año.
-
-###### Artículo 110.
-
-La Evaluación de la Conformidad con las Normas por parte de los Organismos Privados, se sujetará a lo establecido en el Procedimiento para la Evaluación de la Conformidad de las Normas expedidas por la Secretaría, así como por los procedimientos para la Evaluación de la Conformidad contenidos en las Normas para las cuales fueron aprobados.
-
-Las unidades de verificación, los laboratorios de pruebas y los organismos de certificación deberán informar a la Secretaría sobre los dictámenes, informes de resultados y certificados de cumplimiento que emitan, respectivamente, con base en los lineamientos que sobre el particular expida la Secretaría.
-
-## TÍTULO NOVENO. Sanciones Administrativas
-
-### Capítulo Primero. Cursos Multimedia y Módulos para la Autogestión en Seguridad y Salud en el Trabajo
-
-###### Artículo 111.
-
-La Secretaría podrá practicar visitas de evaluación a los Organismos Privados, previa notificación de la orden de visita correspondiente, junto con el plan de evaluación, a efecto de constatar que cumplen con las disposiciones de la Ley Federal sobre Metrología y Normalización y su reglamento, este Reglamento y los lineamientos que sobre el particular emita la Secretaría, así como para confirmar que su personal y expertos cuentan con los conocimientos técnicos necesarios y que disponen de la capacidad y calidad técnica, material y humana requerida para los servicios que prestan.
-
-Si el resultado de las visitas que realice la Secretaría es satisfactorio, el Organismo Privado mantendrá vigente su aprobación. En caso contrario, se estará a lo que prevén los artículos 112 y 113 del presente Reglamento.
-
-###### Artículo 112.
-
-La Secretaría podrá suspender, en forma parcial o total, la aprobación de los Organismos Privados para evaluar la conformidad de las Normas, conforme a lo determinado por la Ley Federal sobre Metrología y Normalización.
-
-La suspensión será parcial cuando aplique sobre alguna de las Normas, el alcance de éstas y/o el personal o expertos contenidos en la aprobación, y total cuando se interrumpa de manera íntegra la aprobación otorgada al Organismo Privado.
-
-Los Organismos Privados podrán manifestar lo que a su derecho convenga, dentro de los diez días hábiles siguientes a la recepción de la notificación sobre el inicio del procedimiento para la suspensión parcial o total de la aprobación. Concluido dicho término, y si el Organismo Privado no desvirtúa la causal que da lugar a la misma, la Secretaría procederá a dictar la suspensión.
-
-La suspensión durará en tanto no se cumpla con los requisitos u obligaciones respectivos.
-
-###### Artículo 113.
-
-La Secretaría podrá revocar, en forma parcial o total, la aprobación de los Organismos Privados para evaluar la conformidad de las Normas, de acuerdo con lo que señala la Ley Federal sobre Metrología y Normalización.
-
-La revocación será parcial cuando aplique sobre alguna de las Normas, el alcance de éstas y/o el personal o expertos contenidos en la aprobación, y total cuando comprenda de manera íntegra la aprobación otorgada al Organismo Privado.
-
-Los Organismos Privados podrán manifestar lo que a su derecho convenga, dentro de los diez días hábiles siguientes a la recepción de la notificación sobre el inicio del procedimiento para la revocación de la aprobación. Concluido dicho término, y si el Organismo Privado no desvirtúa la causal que da lugar a la misma, la Secretaría procederá a dictar la revocación.
-
-La revocación de la aprobación conllevará la prohibición de ejercer las actividades que se hubieren aprobado, así como la de utilizar cualquier tipo de información o símbolo referente a la misma.
-
-###### Artículo 114.
-
-Las violaciones a los preceptos de este Reglamento y de las Normas serán sancionadas administrativamente por la Secretaría, sin perjuicio de las sanciones que proceda aplicar en términos de la Ley u otras disposiciones legales o reglamentarias.
-
-###### Artículo 115.
-
-Se impondrá multa de 50 a 100 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, de conformidad con las especificaciones dispuestas en las Normas, las documentales siguientes:
-
-I. El Diagnóstico de Seguridad y Salud en el Trabajo, que comprenda los estudios y análisis de Riesgos requeridos por los artículos 7, fracción I; 19, fracción I; 20, fracción I; 22, fracción I; 24, fracción I; 25, fracción I; 26, fracciones I y II; 30, fracción I; 31, fracciones I y II; 36, fracción I; 39, fracción I; 40, fracción I; 41, fracción I; 42, fracción I; 43, fracciones I y II; 48, fracción I; 51, fracciones I y II; 53, fracción I; 54, fracción I, y 55, fracción III del presente Reglamento;
-
-II. El Programa de Seguridad y Salud en el Trabajo, a que aluden los artículos 7, fracción II, y 48, fracción II de este Reglamento, o
-
-III. Los programas específicos, manuales y procedimientos que establecen los artículos 7, fracción III; 18, fracción VI; 19, fracciones III a V, VII y XI; 20, fracciones II y III; 21, fracciones I, II y IX; 22, fracciones II, III y XVI; 23, fracción I; 24, fracciones II a IV; 25, fracciones II a V; 26, fracciones III a V; 30, fracciones II y III; 31, fracciones III a VI; 33, fracción I; 34, fracción I; 35, fracción I; 36, fracción II; 45, fracción V; 51, fracción VI; 54, fracciones II y IV a VI, y 55, fracción I del presente Reglamento.
-
-###### Artículo 116.
-
-Se impondrá multa de 50 a 500 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, con base en las especificaciones previstas en las Normas, las documentales relativas a:
-
-I. La constitución, integración, organización y funcionamiento de la Comisión de Seguridad e Higiene y el otorgamiento de facilidades para su operación, conforme a los artículos 7, fracción IV; 45, fracciones I a IV y VI a VIII, y 47 de este Reglamento;
-
-II. La prestación de los Servicios Preventivos de Seguridad y Salud en el Trabajo, de acuerdo con los artículos 7, fracción V, y 48, fracciones III a VI del presente Reglamento, o
-
-III. La prestación de los Servicios Preventivos de Medicina del Trabajo, en su caso, de conformidad con los artículos 7, fracción V, y 49, fracciones I a V de este Reglamento.
-
-###### Artículo 117.
-
-Se impondrá multa de 250 a 5000 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, con base en las especificaciones que determinan las Normas, las documentales o testimoniales relacionados con:
-
-I. La difusión de información a los trabajadores requerida por los artículos 7, fracción XI; 18, fracción XIII; 20, fracción VII; 21, fracción XI; 22, fracción XVII; 23, fracción VIII; 29, fracción V; 30, fracción XII; 31, fracción XVI; 33, fracción VIII; 34, fracción VII; 35, fracción VII; 36, fracción XVI; 37, fracción VIII; 38, fracción VIII; 40, fracción VIII; 41, fracción X; 42, fracción IV; 43, fracción V; 45, fracción IX; 51, fracción IX; 53, fracción III; 54, fracción VIII, y 55, fracción V del presente Reglamento;
-
-II. La capacitación y, en su caso, adiestramiento de los trabajadores, a que se refieren los artículos 7, fracción XII; 19, fracción XVI; 20, fracción VIII; 21, fracción XII; 22, fracción XVIII; 23, fracción IX; 24, fracción XI; 25, fracción XIII; 26, fracción XVI; 29, fracción VI; 30, fracción XIII; 31, fracción XVII; 33, fracción IX; 34, fracción VIII; 36, fracción XVII; 37, fracción IX; 38, fracción IX; 39, fracción V; 40, fracción IX; 41, fracción XI; 42, fracción V; 51, fracción X; 52, fracción V; 53, fracción IV, y 54, fracción IX de este Reglamento, o
-
-III. La capacitación del personal del Centro de Trabajo que forme parte de la Comisión de Seguridad e Higiene y de los Servicios Preventivos de Seguridad y Salud en el Trabajo y, en su caso, apoyar la actualización de los responsables de los Servicios Preventivos de Medicina del Trabajo de carácter interno, señaladas en los artículos 7, fracción XIII; 45, fracción X; 48, fracción VII, y 49, fracción VI del presente Reglamento.
-
-###### Artículo 118.
-
-Se impondrá multa de 50 a 2000 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, de acuerdo con las especificaciones que disponen las Normas, las documentales relacionadas con:
-
-I. Las autorizaciones para la realización de actividades o trabajos peligrosos, a que aluden los artículos 7, fracción XIV; 24, fracción XII; 25, fracción XIV; 30, fracción XIV; 31, fracción XVIII; 41, fracción XII, y 54, fracción X de este Reglamento;
-
-II. Los registros administrativos, por medios impresos o electrónicos, establecidos en los artículos 7, fracción XV; 18, fracción XIV; 19, fracción XVII; 20, fracción IX; 21, fracción XIII; 22, fracción XIX; 23, fracción X; 24, fracción XIII; 25, fracción XV; 26, fracción XVII; 29, fracción VII; 30, fracción XV; 31, fracción XIX; 33, fracción X; 34, fracción IX; 35, fracción VIII; 36, fracción XVIII; 37, fracción X; 38, fracción X; 39, fracciones VI y VII; 40, fracción X; 41, fracción XIII; 42, fracción VI; 43, fracción VI; 48, fracción VIII; 51, fracción XI; 53, fracción V; 54, fracción XI, y 55, fracción VI del presente Reglamento;
-
-III. Los avisos a la Secretaría o a las instituciones de seguridad social sobre los Accidentes de Trabajo que ocurran, de conformidad con los artículos 7, fracción XVI, y 76 de este Reglamento;
-
-IV. Los avisos a la Secretaría sobre las defunciones que ocurran con motivo de Accidentes y Enfermedades de Trabajo, con base en los artículos 7, fracción XVII, y 77 del presente Reglamento;
-
-V. Los avisos relacionados con el funcionamiento de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, a que se refieren los artículos 7, fracción XVIII, 27 y 28 de este Reglamento, o
-
-VI. Los dictámenes, informes de resultados y certificados de cumplimiento en materia de Seguridad y Salud en el Trabajo, que prevé el artículo 7, fracción XIX del presente Reglamento.
-
-###### Artículo 119.
-
-Se impondrá multa de 50 a 3000 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, conforme a las especificaciones determinadas en las Normas, las documentales sobre los aspectos que a continuación se precisan:
-
-I. La realización de las acciones de Reconocimiento, Evaluación y Control de los Contaminantes del Ambiente Laboral, a efecto de conservar las condiciones ambientales del Centro de Trabajo dentro de los valores límite de exposición, de acuerdo con los artículos 7, fracción VIII; 33, fracciones II, IV y V; 34, fracciones II, IV y V; 35, fracciones III, IV y V; 36, fracciones IV, VIII y XII; 37, fracciones I, IV y V; 38, fracciones I, IV y V; 40, fracciones II, IV y V, y 41, fracciones II, V y VI de este Reglamento;
-
-II. La aplicación de los exámenes médicos al Personal Ocupacionalmente Expuesto, a que aluden los artículos 7, fracción IX; 21, fracción X; 23, fracciones IV y VII; 24, fracción X; 33, fracción VII; 34, fracción VI; 35, fracción VI; 36, fracción XV; 37, fracción VII; 38, fracción VII; 39, fracción IV; 40, fracción VII; 41, fracción IX; 42, fracción III, y 43, fracción IV del presente Reglamento, o
-
-III. El suministro del Equipo de Protección Personal, de conformidad con los Riesgos a que están expuestos los trabajadores, que prevén los artículos 7, fracción X; 19, fracción XV; 20, fracción VI; 21, fracción VIII; 22, fracción XII; 23, fracción VI; 24, fracción IX; 25, fracción XII; 30, fracción XI; 31, fracción XV; 33, fracción VI; 36, fracción XIV; 37, fracción VI; 38, fracción VI; 40, fracción VI; 41, fracción VII, y 51, fracciones IV y V de este Reglamento.
-
-###### Artículo 120.
-
-Se impondrá multa de 250 a 5000 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, con base en las especificaciones que señalan las Normas, el cumplimiento de las obligaciones que enseguida se citan:
-
-I. La colocación en lugares visibles del Centro de Trabajo de los avisos o señales para informar, advertir y prevenir Riesgos, dispuestos por los artículos 7, fracción VI; 18, fracción IV; 19, fracción VI; 24, fracción VII; 25, fracción VI; 31, fracción VIII; 33, fracción III; 34, fracción III; 37, fracción II; 38, fracción II; 40, fracción III; 41, fracción III; 51, fracción VII, y 52, fracciones I y IV del presente Reglamento;
-
-II. La aplicación en la instalación de sus establecimientos de las medidas de Seguridad y Salud en el Trabajo previstas en los artículos 7, fracción VII; 18, fracciones I a III, V y VII a XII; 19, fracciones II, VIII a X y XII a XIV; 20, fracciones IV y V; 21, fracciones III a VII; 22, fracciones IV a XI y XIII a XV; 23, fracciones II, III y V; 24, fracciones V, VI y VIII; 25, fracciones VII a XI; 26, fracciones VI a XV; 29, fracciones I a IV; 30, fracciones IV a X; 31, fracciones VII y IX a XIV; 35, fracción II; 36, fracciones III, V a VII, IX a XI y XIII; 37, fracción III; 38, fracción III; 39, fracciones II y III; 41, fracciones IV y VIII; 42, fracción II; 43, fracción III; 51, fracciones III y VIII; 52, fracciones II y III; 53, fracción II; 54, fracciones III y VII, y 55, fracciones II y IV de este Reglamento y, las Normas, conforme a la naturaleza de las actividades y procesos laborales, o
-
-III. La supervisión para que los contratistas cumplan con las medidas de Seguridad y Salud en el Trabajo, a que se refiere el artículo 7, fracción XX del presente Reglamento y las Normas, cuando realicen trabajos dentro de las instalaciones de los Centros de Trabajo.
-
-###### Artículo 121.
-
-Se impondrá multa de 50 a 2500 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que asigne a mujeres en estado de gestación o de lactancia, así como a trabajadores menores, los trabajos a que aluden los artículos 58, 60, y 62 de este Reglamento, respectivamente.
-
-###### Artículo 122.
-
-Se impondrá multa de 250 a 2500 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, el cumplimiento de los requisitos y condiciones de seguridad para Trabajadores con Discapacidad, que establece el artículo 65 del presente Reglamento.
-
-###### Artículo 123.
-
-Se impondrá multa de 250 a 2500 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no acredite, ni exhiba dentro del plazo que al efecto fije la Secretaría, el cumplimiento de los requisitos y condiciones de seguridad para Trabajadores del Campo, que determina el artículo 67 de este Reglamento.
-
-###### Artículo 124.
-
-Se impondrá multa de 250 a 5000 veces el salario mínimo general diario vigente en el Distrito Federal, al patrón que no permita el ejercicio de las funciones de inspección y vigilancia por parte de la Autoridad Laboral, para cerciorarse del cumplimiento de la normativa en materia de Seguridad y Salud en el Trabajo, de conformidad con lo que dispone el artículo 7, fracción XXI del presente Reglamento.
-
-###### Artículo 125.
-
-Para la imposición de las sanciones señaladas en este Título, se tomará en cuenta lo siguiente:
-
-I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
-
-II. La gravedad de la infracción, de acuerdo con el tipo de Riesgo que conlleva la omisión del cumplimiento de las obligaciones que determina este Reglamento y las Normas que correspondan;
-
-III. Los daños que se hubieren producido o puedan producirse;
-
-IV. La capacidad económica del infractor, y
-
-V. La reincidencia del infractor.
-
-Para efectos de la fracción V, se entiende por reincidencia, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que ésta no hubiese sido desvirtuada.
-
-###### Artículo 126.
-
-Las sanciones que se hayan impuesto al patrón en los términos de los artículos anteriores, se duplicarán si éste no acredita que las irregularidades que las motivaron fueron subsanadas en el plazo que se le haya señalado, sin perjuicio de que la Secretaría proceda en los términos del artículo 512-D de la Ley.
-
-## TRANSITORIOS
-
-PRIMERO. El presente Reglamento entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se abroga el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario Oficial de la Federación el 21 de enero de 1997, al inicio de vigencia de este Reglamento.
-
-TERCERO. A partir del inicio de vigencia del presente Reglamento se abrogan los Lineamientos de operación para el otorgamiento de las autorizaciones de funcionamiento de los recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, publicados en el Diario Oficial de la Federación de 30 de noviembre de 2012.
-
-Todas las solicitudes de autorización para el funcionamiento en los Centros de Trabajo de los recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas, formuladas al amparo de los artículos 29, fracción II, y 31 del Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo que se abroga, en trámite a la entrada en vigor de este Reglamento, se sustanciarán hasta su resolución final, conforme a lo dispuesto por los citados Lineamientos de operación.
-
-CUARTO. A partir de la entrada en vigor del presente Reglamento se derogan los Artículos Tercero, fracción III, y Sexto del Acuerdo por el que se establecen la organización y Reglas de Operación del Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo.
-
-QUINTO. La Secretaría y el Instituto Mexicano del Seguro Social dispondrán las acciones conducentes para el establecimiento del Sistema Nacional de Información sobre Accidentes y Enfermedades de Trabajo.
-
-SEXTO. La Secretaría dispondrá de un plazo de tres años, contado a partir de la entrada en vigor de este Reglamento, para poner a disposición de los sujetos obligados los módulos informáticos a que se refiere el artículo 81, fracciones VIII a X de este ordenamiento.
-
-SÉPTIMO. Los Reglamentos Interiores de la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo y de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad e Higiene en el Trabajo, se tendrán por emitidos para la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo, respectivamente, en lo que resulte conducente, en tanto se emiten los nuevos instrumentos normativos.
-
-La Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad y Salud en el Trabajo darán seguimiento a los acuerdos en proceso de la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo y de las Comisiones Consultivas Estatales y del Distrito Federal de Seguridad e Higiene en el Trabajo, respectivamente.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de noviembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan José Guerra Abud.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.- La Secretaria de Salud, María de las Mercedes Martha Juan López.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -2248,3 +1012,67 @@ B.O. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 31 DE AGOSTO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Unidad Estatal de Protección Civil, se seguirán según lo dispuesto en la Ley de Protección Civil para el Estado de Sonora y su Reglamento que se encuentren vigentes al momento de la entrada en vigor del presente Decreto
+
+###### ARTÍCULO TERCERO.
+
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
+
+B.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO ESTATAL, DE LA LEY DE DEUDA PÚBLICA, DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora con las salvedades señaladas en los presentes artículos transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que refiere a las reformas propuestas a la Ley del Presupuesto de Egresos y Gasto Público Estatal, el presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los artículos transitorios tercero a séptimo.
+
+###### ARTÍCULO TERCERO.
+
+Los porcentajes a que se refiere el artículo 19 Bis D de la Ley del Presupuesto de Egresos y Gasto Público Estatal, relativo al nivel de aportación al fideicomiso público para acciones preventivas o daños por desastres naturales, será de dos punto cinco por ciento para 2017; de cinco por ciento para 2018; de siete punto cinco por ciento para 2019 y el establecido en dicho artículo, a partir de 2020.
+
+###### ARTÍCULO CUARTO.
+
+La fracción I del artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal entrará en vigor, para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal de 2018. Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal hasta el año 2020. En ningún caso esta excepción transitoria deberá considerar personal administrativo.
+
+###### ARTÍCULO QUINTO.
+
+El porcentaje a que hace referencia el artículo 19 Bis F de la Ley del Presupuesto de Egresos y Gasto Público Estatal relativo a los adeudos del ejercicio fiscal anterior del Estado será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO SEXTO.
+
+El registro de proyectos de inversión pública productiva y el sistema de registro y control de erogaciones de servicios personales a que se refiere el artículo 19 Bis G, fracción III, de la Ley del Presupuesto de Egresos y Gasto Público Estatal deberá estar en operación a más tardar el día 1 de enero de 2018. La Secretaría de Hacienda deberá expedir las disposiciones normativas aplicables para la creación y funcionamiento de ambos, en un término de 180 días naturales contados a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ingresos excedentes derivados de la libre disposición a que hace referencia el artículo 19 Bis H fracción I de la Ley del Presupuesto de Egresos y Gasto Público Estatal, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 19 Bis H de la Ley del Presupuesto de Egresos y Gasto Público Estatal, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando, el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo con el Sistema de Alertas.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refieren los artículos 131, 132, 133, 138, 144, 144 bis, 144 bis A, 144 bis B, 144 bis C, 144 bis D y 144 bis E de la Ley de Gobierno y Administración Municipal, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el transitorio Noveno.
+
+###### ARTÍCULO NOVENO.
+
+El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Administración Municipal, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3° de la Ley de Deuda Pública y en el "DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios" publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
