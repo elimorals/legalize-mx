@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-10-07"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -331,7 +331,7 @@ I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y
 
 II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La Ley determinará los supuestos específicos en que procederá la declaración de inexistencia de la información.
 
-III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la Ley.
+III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley.
 
 IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación, cancelación y oposición al tratamiento de éstos en los términos que establezca la Ley.
 
@@ -897,9 +897,9 @@ XXI.- Cambiar provisionalmente, y por causa justificada, la residencia de los Po
 
 XXII.- Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Tribunal Superior salvo lo prevenido en los Artículos 76 Fracción VI y 105 de la Constitución General de la República;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-XXIII.- Elegir a los tres Magistrados Numerarios del Tribunal de lo Contencioso Administrativo, así como a los dos Supernumerarios en orden del (sic) prelación, y resolver respecto a su reelección o no reelección, renuncias y remociones;
+XXIII.- Elegir a los Magistrados del Tribunal de lo Contencioso Administrativo, determinar su adscripción a Pleno o a Salas y resolver respecto a su reelección o no reelección, ausencias definitivas, renuncias y remociones;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1437,15 +1437,31 @@ El Tribunal de lo Contencioso Administrativo tendrá el carácter de órgano con
 
 El Tribunal contará con plena autonomía en su funcionamiento e independencia en sus decisiones, estará dotado de personalidad jurídica y patrimonio propio y poseerá plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
 
-El Tribunal estará integrado por tres Magistrados numerarios y dos Supernumerarios quienes serán electos por mayoría calificada de los integrantes del Congreso, previa convocatoria y conforme al procedimiento que determine la Ley. Para ser electo Magistrado deberán cumplirse los requisitos previstos en el artículo 60 de esta Constitución, además de los señalados en la Ley.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-Los Magistrados del Tribunal desempeñarán su cargo por seis años y podrán ser reelectos por un sólo periodo de seis años. Seis meses antes de que concluya el periodo de seis años para el que fue electo el Magistrado, la Comisión instituida por el Congreso procederá a elaborar un dictamen de evaluación relativo a su reelección o no reelección, remitiendo el titular del órgano señalado en la Ley, para tal efecto los expedientes e informes que le solicite, debiendo resolver el Congreso tres meses antes de que concluya el cargo del mismo. La evaluación del desempeño del Magistrado deberá de sujetarse a criterios objetivos relativos a la excelencia profesional, honestidad y buena reputación, en los términos de la Ley.
+El Tribunal funcionará en Pleno y en Salas. El Pleno se integrará por tres Magistrados y cada una de las Salas, por un Magistrado. Los Magistrados serán electos por mayoría calificada de los integrantes del Congreso, previa convocatoria y conforme al procedimiento que determine la Ley. Para ser electo Magistrado deberán cumplirse los requisitos previstos en el artículo 60 de esta Constitución, además de los señalados en la Ley.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Los Magistrados del Tribunal desempeñarán su cargo por seis años y podrán ser reelectos por un sólo periodo de seis años, en ningún caso, un Magistrado, sea cual fuere su adscripción, podrá desempeñar sus funciones por un periodo mayor de doce años. Seis meses antes de que concluya el periodo de seis años para el que fue electo el Magistrado, la Comisión facultada por el Congreso procederá a elaborar un dictamen de evaluación relativo a su reelección o no reelección, remitiendo el titular del órgano señalado en la Ley, para tal efecto los expedientes e informes que le solicite, debiendo resolver el Congreso tres meses antes de que concluya el cargo del mismo. El proceso de evaluación del desempeño del Magistrado deberá de sujetarse a las etapas y criterios objetivos relativos a la excelencia profesional, honestidad y buena reputación, en los términos de la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+En tratándose de renuncias, ausencias definitivas y remociones de los Magistrados, el Congreso deberá emitir la convocatoria respectiva, para que dicha vacante sea cubierta dentro de un plazo no mayor de sesenta días.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
 La vigilancia, administración y disciplina del Tribunal estará a cargo del órgano que señale la Ley. El Tribunal establecerá mecanismos que transparenten y propicien la rendición de cuentas de su función jurisdiccional, en los términos de las leyes.
 
-El Presidente del Tribunal tendrá la representación del mismo y será designado en los términos señalados por la Ley.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Presidente del Tribunal tendrá la representación del mismo y será designado en los términos señalados por la Ley; dicho encargo será rotativo entre los Magistrados que integran el pleno y tendrá una duración de dos años, sin posibilidad de reelección inmediata.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
 El Pleno del Tribunal elaborará su proyecto de presupuesto de egresos por grupos y partidas presupuestales, el cual deberá remitir por conducto de su presidente al titular del Poder Ejecutivo del Estado para su inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Tribunal no podrá ser modificado por el titular del Poder Ejecutivo, pero sí por el Congreso del Estado. El presupuesto del Tribunal no podrá ser inferior al aprobado por el Congreso del Estado para el ejercicio anual anterior; para estos efectos no se considerarán las ampliaciones presupuestales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
 La Ley desarrollará en los términos que señala esta Constitución, la carrera jurisdiccional en sus dimensiones de formación, promoción y permanencia, bajo los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
@@ -2220,6 +2236,10 @@ Los ayuntamientos remitirán al Congreso para su revisión y fiscalización, cad
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
 
 Los Presupuestos de Egresos serán aprobados por los Ayuntamientos, con base en sus ingresos disponibles, y deberán integrar anualmente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás relativos de esta Constitución, así como en las leyes aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+En los Presupuestos de Egresos que sean aprobados por los Ayuntamientos, se podrán asignar recursos para que sean ejercidos a través de la figura de participación ciudadana y vecinal de presupuesto participativo, en términos de la (sic) disposiciones que resulten aplicables.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -4232,3 +4252,23 @@ P.O. 7 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 582 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 625 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XXIII DEL ARTÍCULO 27, ASÍ COMO EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA Y SE REFORMAN LOS ARTÍCULOS 4, 9, 17, 18, 21, 22, 30, 33, 84, 88, 89, 90, 92, 93 Y 94, Y SE ADICIONA EL 41 BIS, A LA LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Los Magistrados Numerarios y Supernumerarios del Tribunal, que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo hasta que concluya el periodo para el cual fueron designados y podrán ser ratificados sólo si concluyeron su primer periodo.
+
+CUARTO.- Tratándose de los Magistrados que a la entrada en vigor de las presentes reformas cuenten con nombramiento de Magistrado Numerario, tendrán su adscripción al Pleno del Tribunal y los que cuenten con nombramiento de Magistrado Supernumerario continuarán en su actual adscripción como Magistrado de la Sala que les corresponda. En caso de la insuficiencia de Magistrados Supernumerarios para ocupar alguna de las salas del Tribunal, ésta se cubrirá en los términos de la Ley, hasta en tanto se designa el Magistrado que se adscribirá a la Sala correspondiente.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 626 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En un plazo no mayor al de 365 días contados a partir de la entrada en vigor del presente Decreto, los ayuntamientos del Estado deberán emitir las disposiciones reglamentarias correspondientes.
