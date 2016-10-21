@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-12596"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-07"
-last_updated: "2016-06-24"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 7 de agosto de 1998.
 
@@ -82,6 +82,10 @@ I.- Al término e inicio de un ejercicio constitucional;
 II.- Cuando por causas distintas al cambio de administración, se separen de su cargo los servidores públicos a quienes obliga este ordenamiento. En este caso, la entrega y recepción se hará al tomar posesión del cargo el servidor público entrante, previa protesta que deberá rendir en términos de ley. Si no existe nombramiento o designación inmediata de quien deba sustituir al servidor público saliente, la entrega y recepción se hará al servidor público que designe para tal efecto el superior jerárquico del mismo.
 
 En caso de cese, despido, destitución o licencia por tiempo indefinido en los términos de las leyes respectivas, el servidor público saliente, no quedará relevado de las obligaciones establecidas por la presente Ley, ni de las responsabilidades en que pudiese haber incurrido con motivo del desempeño de su cargo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+III.- Aplicando los principios de certeza, legalidad, transparencia, imparcialidad, eficacia, eficiencia y máxima publicidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
@@ -161,7 +165,7 @@ Los Titulares de los Órganos de Control al concluir su encargo, deberán inclui
 
 Una vez reconocida legalmente por la Autoridad Electoral competente, la autoridad pública entrante constituirá comisiones de enlace a más tardar 60 días antes de tomar posesión, para que en coordinación con la autoridad obligada a hacer la entrega, quien igualmente deberá constituir las comisiones correspondientes, inicien la transferencia de información sobre el estado en que se encuentren los asuntos relacionados con recursos financieros, humanos, y materiales.
 
-Todos los Titulares de las Dependencias y Entidades de la Administración Pública Estatal y Municipal estarán obligados a brindar información correspondiente una vez que los Titulares del los Poderes del Estado y Municipios, según corresponda, les den a conocer los nombres de las personas designadas para la integración de las Comisiones de Enlace referidas en el párrafo anterior.
+Todos los Titulares de las Dependencias y Entidades de la Administración Pública Estatal y Municipal estarán obligados a brindar información correspondiente una vez que los Titulares del (sic) los Poderes del Estado y Municipios, según corresponda, les den a conocer los nombres de las personas designadas para la integración de las Comisiones de Enlace referidas en el párrafo anterior.
 
 Asimismo, las comisiones receptoras deberán tomar conocimiento de la situación que guarda la administración, desarrollo y cumplimiento de los programas y proyectos y en su caso obras públicas en proceso, de tal manera que al momento de concretarse la sustitución en la titularidad de los puestos, se continúe la marcha normal de la actividad gubernamental.
 
@@ -308,3 +312,11 @@ P.O. 24 DE JUNIO DE 2016.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los órganos de control interno a que se refiere la presente Ley, tendrán un plazo de 30 días naturales, para efectuar en sus reglamentos, manuales y demás normatividad que rija la materia, las actualizaciones que deriven de las reformas aprobadas mediante el presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 607 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA AL ARTÍCULO 3° DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 33 y 49, fracción I de la Constitución Política del Estado Libre y Soberano de Baja California.
