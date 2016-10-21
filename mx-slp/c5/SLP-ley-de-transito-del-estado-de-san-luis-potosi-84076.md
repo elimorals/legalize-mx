@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2016-10-15"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -991,6 +991,10 @@ El conductor de un vehículo implicado en un hecho de tránsito con saldo de les
 
 Los conductores de los vehículos que circulen por el lugar de un hecho de tránsito, colaborarán en auxiliar a los lesionados, cuando así se los solicite la autoridad.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 76 BIS. Cuando en un accidente de tránsito haya lesionados y se requiera de atención médica inmediata; o se provoque la muerte de personas, y se encuentren animales domésticos de compañía propiedad de los participantes, se buscará el resguardo de éstos en algún albergue con el fin de evitar que se pierdan, o sean atropellados y, en caso de ser necesario, reciban pronta atención médica veterinaria, informando a los parientes o al propietario sobre el destino y situación de los mismos.
+
 ## TITULO NOVENO. DE LAS MEDIDAS PARA LA PROTECCION ECOLOGICA
 
 ### Capítulo Unico
@@ -1512,5 +1516,13 @@ P.O. 15 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0403.- SE REFORMA EL ARTÍCULO 23 EN SUS FRACCIONES XXI Y XXII; Y ADICIONA AL MISMO ARTÍCULO 23 LA FRACCIÓN XXIII, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 72 EN SUS FRACCIONES X Y XI; Y ADICIONA EL ARTÍCULO 63 BIS, Y AL ARTÍCULO 72 LA FRACCIÓN XII, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0408.- SE ADICIONA EL ARTÍCULO 76 BIS, A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
