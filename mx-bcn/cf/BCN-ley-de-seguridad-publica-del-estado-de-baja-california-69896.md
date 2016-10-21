@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2015-11-20"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015, LAS MENCIONES QUE SE HAGA RESPECTO A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -849,19 +847,21 @@ La Secretaría de Planeación y Finanzas deberá proporcionar a la Secretaría y
 
 ### CAPÍTULO SEXTO. DE LA IDENTIFICACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 57.
 
-Se integrará la información estatal de datos sobre personas probables responsables de delitos, imputadas, detenidas, acusadas, sentenciadas e identificadas administrativamente, y en su caso, el estado que guarda el proceso penal, de consulta obligatoria en las actividades de Seguridad Pública, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación.
+En los términos de la Ley General del Sistema Nacional de Seguridad Pública, se integrará la información estatal de datos al sistema único de información criminal, sobre personas probables responsables de delitos, indiciadas, detenidas, procesadas, sentenciadas e identificadas administrativamente, y en su caso, el estado que guarda el proceso penal, de consulta obligatoria en las actividades de Seguridad Pública, donde se incluyen sus características criminales, medios de identificación, recursos y modos de operación.
 
-Esta base de datos, se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración, administración de justicia, readaptación social y en general, todas las instituciones que deban contribuir a la seguridad pública.
+Esta base de datos se integrará dentro del Sistema Único de Información Criminal, la cual se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración, administración de justicia, readaptación social y en general, todas las instituciones que deban contribuir a la seguridad pública.
 
-Las Instituciones de Seguridad Pública deberán de ingresar la información a que se refiere el párrafo anterior.
+Las Instituciones antes mencionadas son las que deberán de ingresar la información a que se refiere el párrafo anterior.
 
-Tales datos deberán ser capturados en los registros que para tal efecto establezca el Sistema Nacional de Seguridad Pública, debiendo de informarse de manera mensual a la Secretaría las actividades realizadas al respecto.
+Tales datos deberán ser capturados en los registros del Sistema Único de Información Criminal que para tal efecto establezca el Sistema Nacional de Seguridad Pública, debiendo de informarse de manera mensual a la Secretaría las actividades realizadas al respecto.
+
+El Sistema Estatal de Información Penitenciaria es la base de datos que, dentro del sistema único de información criminal, contiene, administra y controla los registros de la población penitenciaria del Estado, cumpliendo al efecto las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública y la Ley Nacional de Ejecución Penal.
+
+La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración de dicho sistema.
 
 ### CAPÍTULO SÉPTIMO. DE LA UBICACIÓN DE CONSTRUCCIONES ABANDONADAS
 
@@ -1083,6 +1083,10 @@ Ninguna persona física o moral, ni grupos o individuos podrá realizar dichas a
 
 Previo a la prestación de sus servicios en la entidad, los prestadores de servicios de seguridad privada que obtengan Autorización Federal para prestar sus servicios en el Estado, invariablemente deberán de cumplir con la presente Ley, el Reglamento de Seguridad Privada para el Estado de Baja California y demás normatividad aplicable.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Tratándose de los sujetos referidos en el párrafo anterior, los requisitos establecidos en esta Ley que excedan a los contenidos en la Ley Federal de Seguridad Privada, no les serán aplicables, de conformidad con lo previsto en el artículo 150 de la Ley General del Sistema Nacional de Seguridad Pública.
+
 ###### ARTÍCULO 78.
 
 Los prestadores de servicios de seguridad privada, son auxiliares a la función de seguridad pública, por lo que sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública cuando así se les requiera.
@@ -1124,6 +1128,14 @@ Previa a la autorización de servicios de seguridad privada, la Secretaría requ
 ###### ARTÍCULO 82.
 
 Los sujetos a que se refiere el Artículo 79 de esta Ley, deberán capacitar permanentemente a su personal operativo bajo los lineamientos y programas que establezca la Academia, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Los sujetos a que se refiere el párrafo anterior, deberán someter a su personal operativo a procedimientos de evaluación y control de confianza ante el Centro de Control de Confianza, previo pago de los derechos que correspondan conforme a la Ley de Ingresos respectiva por los servicios que preste dicho centro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+La periodicidad para los procedimientos de evaluación y control de confianza, a que refiere el párrafo anterior, se determinará en el reglamento correspondiente.
 
 ###### ARTÍCULO 83.
 
@@ -1179,7 +1191,11 @@ XV.- Realizar actos que pongan en peligro la integridad física, la vida o los b
 
 XVI.- Transferir o ceder la autorización; y
 
-XVII. Las demás que establezcan las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XVII.- Prestar los servicios de seguridad privada si el personal operativo no ha sido capacitado bajo los lineamientos y programas que establezca la Academia; y
+
+XVIII.- Las demás que establezcan las leyes y reglamentos.
 
 ###### ARTÍCULO 87.
 
@@ -2552,3 +2568,17 @@ Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada par
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 679 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 77, 82 Y 86 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Una vez que inicie su vigencia la presente reforma, el Poder Ejecutivo del Estado tendrá un plazo de 90 días hábiles para adecuar el Reglamento de Seguridad Privada para el Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 682 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 57 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Único: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
