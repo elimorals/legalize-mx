@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2016-08-05"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -43,7 +43,9 @@ LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público, interés social y de aplicación en el Estado de Baja California y tiene por objeto:
 
-I.- Regular el derecho a la protección de la salud de las personas en los términos del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y 106 de la Constitución Local, las bases y modalidades para el acceso a los servicios de salud proporcionados por las dependencias y entidades del Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+I.- Regular el derecho a la protección de la salud de las personas en los términos del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y 106 de la Constitución Local, las bases y modalidades para el acceso a los servicios de salud proporcionados por las dependencias y entidades del Ejecutivo del Estado; entendiéndose a la salud como un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades; y
 
 II.- Fijar los lineamientos conforme a los cuales el Ejecutivo del Estado y los Ayuntamientos ejercerán las atribuciones en la prestación de los servicios de salubridad general a que se refiere el artículo 13 apartado B de la Ley General de Salud.
 
@@ -543,6 +545,10 @@ Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones lega
 
 Para los efectos de esta Ley la atención médica es el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Para efectos del párrafo anterior los prestadores de servicios de salud podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos de acuerdo con las Normas Oficiales Mexicanas que expida la autoridad correspondiente.
+
 ###### ARTÍCULO 21.
 
 Las actividades de atención médica se clasifican en:
@@ -753,6 +759,26 @@ II.- La organización, operación y supervisión de instituciones dedicadas al e
 
 III.- Los talleres protegidos de rehabilitación psiquiátrica, tienen como objetivo fomentar la integración psicológica, social y laboral del paciente psiquiátrico promoviendo el desarrollo de capacidades remanentes.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 31 BIS.- La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
+
+I.- Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimiento de la red del Sistema Nacional de Salud;
+
+II.- Derecho a contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá de cuidar que no exista conflicto de intereses por parte del representante;
+
+III.- Derecho al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir. Esto solo se exceptuará en el caso de internamiento involuntario, cuando se trate de un caso urgente o cuando se compruebe que el tratamiento es el más indicado para atender las necesidades del paciente;
+
+IV.- Derecho a que les sean impuestas únicamente las restricciones necesarias para garantizar su protección y la de terceros. En todo caso, se deberá procurar que el internamiento sea lo menos restrictivo posible y a que el tratamiento a recibir sea lo menos alterador posible;
+
+V.- Derecho a que el tratamiento que reciba este basado en un plan prescrito individualmente con el historial clínico, revisando periódicamente y modificando llegado el caso;
+
+VI.- Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+
+VII.- Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos, y
+
+VIII.- Derecho a la confidencialidad de la información psiquiátrica sobre su persona.
+
 ###### ARTÍCULO 32.
 
 El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determinen las normas oficiales mexicanas en la materia y otras disposiciones aplicables.
@@ -846,6 +872,10 @@ Los servicios públicos de salud que otorguen los establecimientos públicos per
 ###### ARTÍCULO 40.
 
 Son servicios privados, los que presten personas físicas o morales en las condiciones que convengan con los usuarios y sujetas a los ordenamientos legales civiles y mercantiles, sin perjuicio de los requisitos y obligaciones que establezcan otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 40 BIS.- La construcción, mantenimiento, operación y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades podrán aplicar las tecnologías factibles y ambientalmente adecuadas para promover mayor autosuficiencia, sustentabilidad y salud ambiental, además, se sujetará a las normas oficiales mexicanas expedidas para tal efecto, sin perjuicio de la intervención que corresponda a otras autoridades.
 
 #### SECCION VIII. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y LA PARTICIPACION CIUDADANA
 
@@ -1911,7 +1941,9 @@ II.- Establecerán sistemas de vigilancia o de control en los establecimientos d
 
 III.- Brindarán la atención que se requiera a las personas que realicen o hayan realizado el consumo de inhalantes;
 
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, dirigidas principalmente a niñas, niños y adolescentes, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
 
 A los establecimientos, así como a los responsables de los mismos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría de Salud del Estado y los Municipios, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
@@ -1926,6 +1958,8 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
 #### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 107.
 
@@ -1971,7 +2005,7 @@ La regulación y control de los establecimientos dedicados al expendio o suminis
 
 ###### ARTÍCULO 114.
 
-Corresponde a los Municipios atender el funcionamiento, conservación y operación de funerarias y panteones.
+Corresponde a los Municipios atender el funcionamiento, conservación y operación de panteones.
 
 La prestación de los servicios de panteones sólo podrá ser concesionado cuando se reúnan los requisitos y condiciones que se determinen en los Reglamentos Municipales.
 
@@ -2011,9 +2045,39 @@ Los cadáveres deberán preferentemente incinerarse, inhumarse o embalsamarse de
 
 Los responsables de las funerarias o panteones darán aviso a la Autoridad Sanitaria del lugar o si en éste no lo hubiera a la del lugar más próximo, de los casos en que se haya violado esta disposición, para que previa investigación se sancione a los que resulten responsables de la demora.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios, asimismo, verificarán que los locales en que se presten los servicios reúnan las condiciones sanitarias exigibles en los términos de los reglamentos correspondientes.
+ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios, asimismo, verificarán que la prestación del servicio, los locales y el equipo con que se preste dicho servicio reúna las condiciones sanitarias exigibles en los términos de esta Ley y los reglamentos correspondientes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 116 TER.- El control, supervisión y vigilancia sanitaria comprenderá las siguientes
+
+I.- Supervisar e inspeccionar las actividades desarrolladas por las funerarias;
+
+II.- Crear el registro y padrón de las funerarias el cual contendrá los datos de las personas físicas y morales propietarias del establecimiento, ubicación, superficie del terreno, información del responsable de la operatividad, datos generales de la Licencia Sanitaria vigente y el historial de revalidaciones, así como de los demás permisos y autorizaciones que emitan las autoridades competentes para prestar el servicio;
+
+III.- Acreditar a las funerarias que cumplan con los requisitos previstos en esta Ley y las demás disposiciones aplicables;
+
+IV.- Implementar un sistema para que las funerarias acreditadas puedan retirar los cadáveres de seres humanos del lugar del fallecimiento;
+
+V.- Supervisar que las funerarias cumplan con las condiciones sanitarias y los requerimientos mínimos que deberán reunir las instalaciones de las funerarias para la prestación del servicio y los vehículos para el traslado de cadáveres de seres humanos;
+
+VI.- Supervisar que las funerarias cumplan con la destrucción de ataúdes luego de una cremación a fin de evitar el rehusó de los mismos;
+
+VII.- Supervisar las condiciones en que se realiza la cremación, embalsamiento, inhumación o exhumación de cadáveres humanos;
+
+VIII.- Procurar la homologación de tramites de las funerarias;
+
+IX.- La observación a la obligación que tiene el prestador del servicio de exhibir a la vista del público la tarifa de los servicios ofrecidos al consumidor; y
+
+X.- Las demás que se señalen en esta Ley, en su reglamento y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 116 QUATER.- El incumplimiento a lo previsto en el artículo anterior y las demás disposiciones de esta Ley, dará lugar a que la Secretaría de Salud del Estado aplique medidas de seguridad o sanciones a que refiere esta Ley.
+
+En el caso de que la Autoridad de Salud Local observe incumplimiento a la fracción IX del artículo anterior, solo levantara el acta correspondiente y dará vista a las Autoridades Federales de Salud y de Protección al Consumidor para los efectos legales correspondientes.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -3272,3 +3336,39 @@ P.O. 5 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 528 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LAS FRACCIONES V Y VI Y LA ADICIÓN DE LA FRACCIÓN VII AL ARTÍCULO 22, DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 622 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 31 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 623 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV DEL ARTÍCULO 106 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 675 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 1 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 676 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 20 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 624 MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 114, 116 BIS Y SE ADICIONAN LOS ARTÍCULOS 116 TER Y 116 QUARTER, TODOS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 673 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 40 BIS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
