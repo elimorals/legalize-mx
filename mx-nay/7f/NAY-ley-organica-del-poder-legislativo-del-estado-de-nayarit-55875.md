@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2014-12-24"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -82,6 +82,10 @@ IX. Plan: Plan de Desarrollo Institucional.
 El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado y se integrará por el número de diputados que dispone la Constitución Local y la Ley Electoral del Estado de Nayarit.
 
 En el ejercicio de sus atribuciones y ámbito de competencia, el Congreso pugnará por el establecimiento de un orden social justo, fundado en el Estado de derecho a través de la expedición de leyes, decretos y acuerdos.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Congreso del Estado administrará sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
 ###### Artículo 3º.
 
@@ -307,11 +311,13 @@ XII. Votar cada proyecto en el sentido que estime conveniente; y
 
 XIII. Para los efectos de imponerse de su contenido y acusar recibo electrónico de las iniciativas y comunicaciones turnadas para su conocimiento, revisar su cuenta de correo electrónico oficial, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA ], P.O. 2 DE JULIO DE 2011)</small>
+XIV. Conocer de los asuntos relativos a la contratación de financiamientos y obligaciones, en términos de la Constitución del Estado y los demás ordenamientos aplicables.
 
-XIV. Las demás que contemplen la Constitución General, la Constitución Local, esta Ley y el Reglamento.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XV. Las demás que contemplen la Constitución General, la Constitución Local, esta Ley y su Reglamento.
 
 ###### Artículo 23.
 
@@ -427,9 +433,11 @@ II. Conducir las relaciones políticas de la Legislatura con los Poderes Ejecuti
 
 III. Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas e iniciativas que requieren de su votación en la Asamblea, a fin de agilizar el trabajo legislativo;
 
-> <small>(F. DE E., P.O. 16 DE ENERO DE 2014)</small>
+(REFORMADA, P.O. 21 DE OCTUBRE DE 2016
 
-IV. Decidir acerca del proyecto del presupuesto anual del Poder Legislativo y presentarlo al Titular del Poder Ejecutivo para su integración en el proyecto del presupuesto de egresos del Estado;
+IV. Decidir acerca del proyecto del presupuesto anual del Poder Legislativo y presentarlo al Titular del Poder Ejecutivo para su integración en el proyecto del presupuesto de egresos del Estado, de conformidad con lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados del mismo, e incluirán cuando menos lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit;
+
+El proyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1073,6 +1081,10 @@ La administración y ejercicio de los recursos financieros estará a cargo de la
 
 El avance de gestión financiera y la cuenta pública del Congreso, se presentarán por conducto de la Oficialía Mayor a la Comisión de Hacienda, Cuenta Pública y Presupuesto para su remisión al Órgano de Fiscalización Superior, a más tardar en la fecha de vencimiento que disponga la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+La administración de los recursos se realizará conforme a los principios señalados en la presente Ley.
+
 #### SECCIÓN CUARTA. CONTRALORÍA INTERNA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -1241,6 +1253,8 @@ d).- El orden interno precisará: la finalidad, las definiciones cuando así pro
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 #### SECCIÓN SEGUNDA. REFORMAS CONSTITUCIONALES
 
 ###### Artículo 94.
@@ -1251,11 +1265,19 @@ I. Presentación de la iniciativa, que deberá contemplar el objeto, su fundamen
 
 II. Estudio y dictamen de la o las comisiones competentes, suscrito cuando menos por la mayoría de sus integrantes;
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Todo proyecto de ley o decreto que sea sometido a votación del Pleno, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
+
 III. Registro del dictamen en el orden del día de la sesión, para su desahogo legislativo;
 
 IV. Observar cuando menos dos lecturas del dictamen ante la Asamblea, salvo dispensa de trámite;
 
 V. Discusión y votación del proyecto presentado, así como su elaboración, firma y remisión de la ley o decreto aprobados al titular del Poder Ejecutivo del Estado para su trámite constitucional correspondiente;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación local, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado.
 
 VI.- La iniciativa de Acuerdo, que contenga declaraciones legislativas, administrativas o parlamentarias, deberá presentarse por escrito para su turno a comisiones, misma que se desahogará posteriormente ante el pleno, previa lectura y análisis del dictamen correspondiente, salvo que al momento de su presentación la asamblea acuerde que es de urgente y obvia resolución, en cuyo caso se discutirá y aprobará en el mismo acto. La Secretaría General hará los trámites que correspondan, para la debida integración del expediente.
 
@@ -1371,7 +1393,7 @@ El Servicio Profesional de Carrera se establecerá preferentemente para los trab
 
 ###### Artículo 105.
 
-La facultad fiscalizadora del Congreso se ejercerá por conducto del Órgano de Fiscalización Superior, que tendrá a su cargo la revisión de la cuenta pública de los sujetos de fiscalización señalados en la ley de la materia.
+La facultad fiscalizadora del Congreso se ejercerá por conducto del Órgano de Fiscalización Superior, que tendrá a su cargo la revisión de la cuenta pública de los sujetos de fiscalización, será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
@@ -1397,11 +1419,11 @@ La Comisión de Hacienda, Cuenta Pública y Presupuesto auditará la gestión fi
 
 Las auditorías a que hace referencia el párrafo anterior, podrán realizarse al ejercicio fiscal en curso y bajo el principio de posterioridad por conducto de la Contraloría Interna del Congreso.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 109.
 
-En los términos de la ley de la materia, el Órgano Fiscalización Superior fiscalizará en forma posterior los ingresos, egresos, manejo, custodia y aplicación de fondos y recursos que afecten las haciendas públicas y el patrimonio de las entidades fiscalizadas, fincando las responsabilidades que procedan conforme a la ley.
+En los términos de la ley de la materia, el Órgano de Fiscalización Superior fiscalizará los ingresos, egresos, manejo, custodia y aplicación de fondos y recursos que afecten las haciendas públicas y el patrimonio de las entidades fiscalizadas, fincando las responsabilidades que procedan conforme a la ley. Asimismo, deberá fiscalizar las acciones del Estado y los Municipios en materia de fondos, recursos locales y deuda pública.
 
 ###### Artículo 110.
 
@@ -1580,3 +1602,13 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 24 DE DICIEMBRE DE 2014.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, salvo por lo previsto en los transitorios siguientes.
+
+SEGUNDO. Las reglas relacionadas con la elaboración del presupuesto anual del Poder Legislativo, contenidas en el artículo 35 fracción IV entrarán en vigor para efectos del ejercicio fiscal 2017, y de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+TERCERO. El Reglamento para el Gobierno Interior del Congreso que se encuentre vigente, en tanto no se modifique, se seguirá aplicando en lo que no se oponga al presente Decreto. Sin perjuicio de lo anterior, se deberán realizar las modificaciones necesarias al Reglamento para el Gobierno Interior del Congreso, en un plazo de hasta un año.
