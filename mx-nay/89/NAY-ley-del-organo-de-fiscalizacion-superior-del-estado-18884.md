@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2014-05-22"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -55,9 +55,13 @@ La fiscalización de la Cuenta Pública comprende la revisión de los ingresos, 
 
 El Órgano de Fiscalización Superior es un ente del Congreso del Estado de Nayarit, que apoya a éste en el desempeño de su función de fiscalización superior, y tiene la competencia que le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta ley y las demás que le resulten aplicable.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-El Órgano es un ente dotado con autonomía técnica y de gestión, así como para decidir sobre su presupuesto, organización interna, funcionamiento y resoluciones.
+El Órgano es un ente dotado con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su presupuesto, organización interna, funcionamiento y resoluciones.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Órgano, administrará sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
 ###### Artículo 3.
 
@@ -77,9 +81,9 @@ V. Comisión: La Comisión de Hacienda, Cuenta Pública y Presupuesto del Congre
 
 VI. Unidades de Control Interno: La Secretaría de la Contraloría General, y los Órganos de Control Interno de las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos y sus entidades paramunicipales y de los demás entes públicos;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-VII. Entes Públicos: las personas de derecho público de carácter estatal y municipal, por disposición legal o constitucional, que comprende entre otros a los poderes del estado, los organismos constitucionalmente autónomos, los ayuntamientos, los organismos públicos descentralizados y las empresas estatales y municipales y fideicomisos, mandatos, fondos con participación estatal o municipal;
+VII. Entes Públicos: las personas de derecho público de carácter estatal y municipal, por disposición legal o constitucional, que comprende entre otros los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos; los Municipios; los organismos descentralizados, empresas de participación mayoritaria y fideicomisos del Estado y los Municipios, mandatos, fondos con participación estatal o municipal, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -157,6 +161,58 @@ Son documentos justificantes las disposiciones y documentos legales que determin
 
 Son documentos comprobatorios los documentos que demuestren fehacientemente la entrega o la recepción de las sumas de dinero correspondientes. Estos documentos deberán reunir y ajustarse a los requisitos y disposiciones de las leyes fiscales aplicables al efecto; salvo en los casos en que mediante acuerdo se determine por el Auditor General.
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXV. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXVI. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXVII. Deuda Estatal Garantizada: el Financiamiento del Estado y Municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXVIII. Deuda Pública: cualquier Financiamiento contratado por los Entes Públicos;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXIX. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXX. Gasto etiquetado: las erogaciones que realizan el Estado y los Municipios con cargo a las Transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado con un destino específico;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXI. Gasto no etiquetado: las erogaciones que realizan el Estado y los Municipios con cargo a sus Ingresos de libre disposición y Financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXII. Inversión pública productiva: toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en Los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXIII. Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXIV. Obligaciones a corto plazo: cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXV. Presupuesto de Egresos: el presupuesto de egresos del Estado o Municipio, aprobado por el Congreso del Estado o el Ayuntamiento, respectivamente;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXVI. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento, y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXVII. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados.
+
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
@@ -183,15 +239,13 @@ Principio de Confiabilidad. Demanda que la ejecución de los actos y procedimien
 
 La fiscalización a la gestión financiera, así como al cumplimiento de los objetivos contenidos en los programas autorizados en el presupuesto de egresos del Órgano estará a cargo del Congreso por conducto de la Comisión con apoyo de la Contraloría Interna y demás personal del Congreso que al efecto se comisione; ésta se realizará con sujeción a las mismas formalidades y obligaciones que establece esta ley para los demás sujetos de fiscalización. En todo caso, los resultados de la fiscalización al Órgano, deberán incorporarse anualmente por la Comisión al dictamen que emita ésta sobre el Informe de Resultado de la Revisión de las Cuentas Públicas que deben presentarse al pleno del Congreso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 6.
 
-A falta de disposición expresa en la ley, se aplicarán en forma supletoria y en lo conducente, la Ley General de Contabilidad Gubernamental; la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit, la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, así como las disposiciones relativas del derecho presupuestario, común, sustantivo y procesal.
+A falta de disposición expresa en la ley, se aplicarán en forma supletoria y en lo conducente, la Ley General de Contabilidad Gubernamental; la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit, la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; así como las disposiciones relativas del derecho presupuestario, común, sustantivo y procesal.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
-
-La interpretación y aplicación de esta ley, estará a cargo del Congreso, la Comisión y el Auditor General, en el ámbito de sus respectivas competencias.
+La interpretación y aplicación de esta Ley, estará a cargo del Congreso, la Comisión y el Auditor General, en el ámbito de sus respectivas competencias.
 
 ### CAPÍTULO II. DEL ÓRGANO DE FISCALIZACION SUPERIOR
 
@@ -283,15 +337,17 @@ XIX. Expedir certificaciones de los documentos que en original o certificados ob
 
 XX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de sus actos o resoluciones definitivas, así como condonar total o parcialmente las multas impuestas;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-XXI. Elaborar su proyecto de Presupuesto Anual y en caso de ser necesario de ampliaciones al mismo; así mismo, autorizar transferencias presupuestales que sean necesarias; estas modificaciones se harán del conocimiento del Congreso en los informes que sobre su gestión financiera se le presenten;
+XXI. Elaborar su proyecto de presupuesto anual, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emite el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados del mismo, e incluirá cuando menos lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit; y en caso de ser necesario las ampliaciones al mismo; asimismo, autorizar transferencias presupuestales que sean necesarias; estas modificaciones se harán del conocimiento del Congreso en los informes que sobre su gestión financiera se le presenten.
+
+El proyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 XXII. Entregar al Congreso, a través de la Comisión, el Informe del Resultado de la revisión de las Cuentas Públicas;
 
 XXIII. Fungir como instancia local para la investigación, interpretación y resolución de los conflictos que se presenten en la aplicación de la normatividad relativa a los programas, fondos y recursos federales;
 
-XXIV. Participar en foros nacionales e internacionales, cuyas funciones sean acordes con sus atribuciones; y (sic)
+XXIV. Participar en foros nacionales e internacionales, cuyas funciones sean acordes con sus atribuciones; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
@@ -309,9 +365,9 @@ XXVII. Obtener durante el desarrollo de sus trabajos copia de los documentos fí
 
 XXVIII. Constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-XXIX. Fiscalizar la deuda pública en su contratación, registro, renegociación, administración y pago;
+XXIX. Fiscalizar la deuda pública, de forma enunciativa mas no limitativa en su contratación, registro, renegociación, reestructuración, refinanciamiento, administración y pago.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -325,9 +381,21 @@ XXXI. Formular recomendaciones, solicitudes de aclaración, pliegos de observaci
 
 XXXII. Fincar las responsabilidades e imponer las sanciones correspondientes a los responsables, por el incumplimiento a sus requerimientos de información en el caso de las revisiones que haya ordenado tratándose de las situaciones excepcionales que determina esta ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-XXXIII. Las demás que le sean conferidas por esta ley o cualquier otro ordenamiento.
+XXXIII. Fiscalizar las acciones del Estado y los Municipios en materia de fondos, recursos locales y deuda pública.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXIV. Fiscalizar el cumplimiento de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como el de los ordenamientos locales relacionados con esa materia.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXV. Fiscalizar las garantías que, en su caso, otorgue el Gobierno Estatal respecto a los Financiamientos del Estado y los Municipios, así como el destino y ejercicio de los recursos correspondientes que hayan realizado los gobiernos municipales.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXXVI. Las demás que le sean conferidas por esta ley o cualquier otro ordenamiento.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -441,7 +509,7 @@ XII. Requerir a los titulares de los Sujetos de fiscalización, la remisión de 
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
-XIII. Formular y entregar al Congreso, por conducto de la Comisión, el Informe del Resultado a más tardar el 15 de noviembre del año siguiente al ejercicio fiscalizado; y (sic)
+XIII. Formular y entregar al Congreso, por conducto de la Comisión, el Informe del Resultado a más tardar el 15 de noviembre del año siguiente al ejercicio fiscalizado; y
 
 (REFORMADA, P.O. 25 DE DICIEMBRE DE 2010) (F. DE E., P.O. 16 DE FEBRERO DE 2011)
 
@@ -599,7 +667,7 @@ IV. Representar al Órgano ante el Tribunal Local de Conciliación y Arbitraje e
 
 V. Elaborar los documentos necesarios para que el Órgano presente denuncias y querellas penales en el caso de conductas que pudieran constituir ilícitos en contra de la Hacienda Pública o el patrimonio de los entes públicos, así como para que promueva ante las autoridades competentes el fincamiento de otras responsabilidades;
 
-VI. Asesorar y expedir lineamientos sobre el levantamiento de las actas administrativas que procedan como resultado de las visitas, inspecciones y auditorias que practique el Órgano; y (sic)
+VI. Asesorar y expedir lineamientos sobre el levantamiento de las actas administrativas que procedan como resultado de las visitas, inspecciones y auditorias que practique el Órgano; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2007)</small>
 
@@ -657,7 +725,7 @@ IV. Ausentarse de sus labores por más de un mes sin mediar autorización del Co
 
 V. Abstenerse de presentar en el período correspondiente y en los términos de la presente Ley, sin causa justificada, el Informe del Resultado de la revisión de las Cuentas Públicas;
 
-VI. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en el Órgano; y (sic)
+VI. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en el Órgano; y
 
 VII. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de esta circunstancia, conducirse con parcialidad en el proceso de revisión de la Cuenta Pública y en los procedimientos de fiscalización e imposición de sanciones a que se refiere esta Ley;
 
@@ -829,9 +897,21 @@ f) Estado analítico del activo;
 
 g) Estado analítico de la deuda y otros pasivos, del cual se derivarán las siguientes clasificaciones:
 
-1. Corto y largo plazo, y
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-2. Fuentes de financiamiento.
+1. Corto plazo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a corto plazo a que hace referencia el artículo 26, fracción IV, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, calculada conforme a la metodología que para tal efecto emita la Secretaria de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+2. Largo plazo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+3. Fuentes de financiamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+h) La información detallada de cada Financiamiento u Obligación contraída por los entes públicos, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
 II. Información presupuestaria, con la desagregación siguiente:
 
@@ -847,9 +927,17 @@ b) Estado analítico del ejercicio del presupuesto de egresos del que se derivar
 
 c) Endeudamiento neto, financiamiento menos amortización, del que derivará la clasificación por su origen en interno y externo;
 
-d) Intereses de la deuda, y
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-e) Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal.
+d) Intereses de la deuda;
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+e) Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal, y
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+f) En caso de aumento o creación de gasto al presupuesto de egresos, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
 III. Información programática, con la desagregación siguiente:
 
@@ -869,11 +957,21 @@ c) Postura fiscal, y
 
 d) Deuda pública.
 
-V. La información a que se refieren las fracciones I a III de este artículo, organizada por dependencia y entidad, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+V. La información a que se refieren las fracciones I a III de este artículo, organizada por dependencia y entidad;
 
-VI. Los demás estados complementarios y aclaratorios, documentos e información general que a juicio del Órgano, sean indispensables para el análisis de resultados.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI. Incluir la información relativa al cumplimiento de los convenios en materia de Deuda Estatal Garantizada;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VII. Tratándose de los balances presupuestarios de recursos disponibles negativo, a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, contendrá el avance de acciones tendientes a recuperar el presupuesto sostenible de recursos disponibles, y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VIII. Los demás estados complementarios y aclaratorios, documentos e información general que, a juicio del Órgano, sean indispensables para el análisis de resultados.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
@@ -882,6 +980,30 @@ B. El Informe de Avance de Gestión Financiera deberá referirse a los programas
 I. El flujo contable de ingresos y egresos del trimestre del que se informe.
 
 II. El avance del cumplimiento de los programas con base en los indicadores aprobados en el Presupuesto de Egresos correspondiente.
+
+El Órgano analizará los Informes de Avance de Gestión Financiera con el propósito de proyectar la planeación de sus trabajos de fiscalización.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+III. Tratándose de los balances presupuestarios de recursos disponibles negativos, a que hace referencia la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, contendrá el avance de las acciones tendientes a recuperar el presupuesto sostenible de recursos disponibles.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV. En caso de aumento o creación de gasto al presupuesto de egresos, revelará la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+V. La información detallada de cada Financiamiento u Obligación contraída por los entes públicos, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI. La información detallada de las Obligaciones a corto plazo contraídas en los términos del Capítulo II, Titulo Tercero, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a corto plazo a que hace referencia el artículo 26, fracción IV, de la Ley en cita, calculada conforme a la metodología que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VII. Incluir la información relativa al cumplimiento de los convenios en materia de Deuda Estatal Garantizada.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 El Órgano analizará los Informes de Avance de Gestión Financiera con el propósito de proyectar la planeación de sus trabajos de fiscalización.
 
@@ -929,9 +1051,11 @@ I. La Cuenta Pública se presentarán (sic) anualmente, a más tardar el 15 de f
 
 II. Los Informes de Avance de Gestión Financiera comprenderán información relativa a los meses de enero a marzo, de abril a junio, y de julio a septiembre deberán presentarse dentro de los treinta días naturales posteriores al último día del trimestre del que se informe. La información relativa al periodo de octubre a diciembre se presentará junto con la Cuenta Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-III. En la remisión de la Cuenta Pública y de los Informes de Avance de Gestión Financiera de los sujetos obligados a presentar dicha información, se incluirán de manera consolidada y analítica, la información correspondiente a sus organismos públicos descentralizados, fideicomisos, fondos y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+III. En la remisión de la Cuenta Pública y de los Informes de Avance de Gestión Financiera de los sujetos obligados a presentar dicha información, se incluirán de manera consolidada y analítica, la información correspondiente a sus organismos públicos descentralizados, fideicomisos, fondos, mandatos, públicos o privados y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
 
 > <small>(REFORMADO [N. DE E. EL ULTIMO PÁRRAFO PASO A FORMAR PARTE DE ESTE], P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1375,11 +1499,11 @@ En todas las cuestiones relativas al procedimiento no previstas en este Capítul
 
 La Secretaría deberá informar semestralmente al Órgano y a la Comisión, de los trámites que se vayan realizando para la ejecución de los cobros respectivos a las responsabilidades resarcitorias fincadas por el Órgano así como el monto recuperado.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 69.
 
-Las indemnizaciones y sanciones a que se refiere la presente ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, haciéndose efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
+Las indemnizaciones y sanciones a que se refiere la presente Ley y las que se determinen por el incumplimiento a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, haciéndose efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1688,3 +1812,15 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 22 DE MAYO DE 2014.
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con las salvedades previstas en los transitorios siguientes.
+
+SEGUNDO.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria del Estado, a que se refiere el artículo 33, apartado A, fracción II, inciso f); y apartado B, fracción IV, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2017.
+
+TERCERO.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria de los Municipios, a que se refiere el artículo 33, inciso A, fracción II, del inciso f; e inciso B, fracción IV, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2018.
+
+CUARTO.- Las reformas relativas a la Cuenta Pública y a los informes de Avance de Gestión Financiera, entrarán en vigor en el ejercicio fiscal 2017 y en el ejercicio fiscal 2018, según corresponda, de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
