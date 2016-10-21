@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2016-09-02"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -462,6 +462,10 @@ La Presidencia de la Junta de Coordinación Política, la Presidencia de la Mesa
 ###### ARTICULO 28.
 
 Los Diputados de la misma afiliación de partido deberán constituir un solo Grupo Parlamentario, siendo requisito esencial que lo integre cuando menos dos Diputados. Un Diputado sólo podrá pertenecer a un Grupo Parlamentario.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+En ningún caso pueden constituir o formar parte de otro Grupo Parlamentario, los diputados que se hayan separado de su Grupo Parlamentario original.
 
 Los Grupos Parlamentarios se tendrán por constituidos cuando presenten a la Mesa Directiva del Congreso, los siguientes documentos:
 
@@ -2862,3 +2866,11 @@ P.O. 2 DE SEPTIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Parlamentaria del Congreso del Estado.
 
 SEGUNDO.- Envíese el presente Decreto al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 680 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO, ARTÍCULO 28 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
