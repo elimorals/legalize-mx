@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2016-08-05"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -125,13 +125,17 @@ VII.- Cumplir y hacer cumplir las disposiciones normativas derivadas de las leye
 
 VIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; la perspectiva de género y la protección de los derechos de los pueblos indígenas;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-IX. Ejecutar los planes y programas municipales, implementando los controles presupuestales correspondientes a fin de formular la cuenta pública que será sometida al Congreso del Estado; y
+IX. Ejecutar los planes y programas municipales, implementando los controles presupuestales correspondientes a fin de formular la cuenta pública que será sometida al Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
 
-X. Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+X. Garantizar y cumplir con el principio de interés superior de la niñez, así como impulsar e implementar conforme a las normas y las bases competenciales concurrentes en materia federal y estatal, el Sistema de Protección a Menores; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XI. Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 ###### ARTÍCULO 8.
 
@@ -684,3 +688,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Municipios del Estado a través de sus Ayuntamientos emitirán las disposiciones reglamentarias correspondientes en un término no mayor al de 180 días, contados a partir de la fecha en que entre en vigor la presente reforma.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 683 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES IX Y X, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN XI, AL ARTÍCULO 7 DE LA LEY DE RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
