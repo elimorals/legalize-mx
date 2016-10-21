@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2016-07-29"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
@@ -33,7 +33,7 @@ LA H. XVIII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIF
 
 DECRETO No. 387
 
-.
+[...]
 
 SEGUNDO.- Se aprueba la LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA, para quedar como sigue:
 
@@ -939,6 +939,10 @@ La determinación de la conveniencia de someter a tratamiento térmico residuos 
 
 La Secretaría en coordinación con los Ayuntamientos, de conformidad con el Programa Estatal, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+La Secretaría se coordinará con las autoridades federales, estatales y municipales competentes, para promover y aplicar instrumentos económicos, fiscales, financieros y de mercado, que tengan por objeto incentivar la industria del reciclaje.
+
 ## TÍTULO QUINTO. DE LOS SUELOS CONTAMINADOS
 
 ### CAPÍTULO ÚNICO. DE LA REMEDIACIÓN DEL SUELO
@@ -1240,3 +1244,11 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 512 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4, 5, 7 DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 628 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO, AL ARTÍCULO 25 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
