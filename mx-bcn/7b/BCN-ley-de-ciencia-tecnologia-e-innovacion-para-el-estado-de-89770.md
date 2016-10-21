@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-89770"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2016-03-18"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2012.
 
@@ -164,6 +164,10 @@ VIII.- Los titulares de las siguientes Secretarías: de Educación y Bienestar S
 IX.- Un representante de los municipios de Ensenada, Mexicali, Playas de Rosarito, Tecate y Tijuana, y
 
 X.- El Secretario Técnico del COCIT.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XI.- Un representante del Poder Legislativo del Estado de Baja California, que será cualquier integrante de la Comisión de Educación, Cultura, Ciencia y Tecnología, que tendrán derecho a voz pero sin voto.
 
 Los Consejeros tendrán derecho a voz y voto, con excepción del Secretario Técnico, pudiendo nombrar a sus respectivos suplentes, mediante escrito dirigido al Secretario de Desarrollo Económico, quienes sólo tendrán tal derecho en caso de ausencia temporal de su titular, a excepción del Secretario Técnico.
 
@@ -448,6 +452,10 @@ Para el logro de los fines del Sistema, se conformará un Comité Interinstituci
 11. El Delegado de la Secretaría de Economía del Gobierno Federal, y
 
 12. El Secretario Técnico del COCIT quién fungirá como secretario, con derecho a voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+13. Un representante del Poder Legislativo del Estado de Baja California, que será cualquier integrante de la Comisión de Educación, Cultura, Ciencia y Tecnología, que tendrán derecho a voz pero sin voto.
 
 ###### ARTÍCULO 21.
 
@@ -735,7 +743,9 @@ Los fondos se constituirán con las aportaciones de:
 
 I.- El Gobierno Federal;
 
-II.- La partida anual que se determine en el Presupuesto de Egresos del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+II.- La partida anual que se determine en el Presupuesto de Egresos del Gobierno del Estado, la cual no podrá ser menor al monto del ejercicio inmediato anterior.
 
 III.- Las herencias, legados o donaciones que reciba;
 
@@ -842,3 +852,9 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 441 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 25 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO: Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 642 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 20 Y 41 DE LA LEY DE LA CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente a su publicación en el periódico oficial del Estado de Baja California.
