@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2016-08-05"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -131,7 +131,7 @@ En caso de que el Diputado no se excusara, podrá ser recusado por cualquier dip
 
 ###### Artículo 12.
 
-(Entrega y recepción administrativa de la Legislatura) Las dependencias del Poder Legislativo, deberán entregar al Presidente de la Legislatura saliente, la documentación que avale el estado de los asuntos de su competencia, a efecto de éste (sic) designe una comisión para llevar a cabo el procedimiento de entrega y recepción de la Legislatura, el cual se sujetará a las disposiciones que establezca la ley de la materia.
+(Entrega y recepción administrativa de la Legislatura) Las dependencias del Poder Legislativo, deberán entregar al Presidente de la Legislatura saliente, la documentación que avale el estado de los asuntos de su competencia, a efecto de (sic) éste designe una comisión para llevar a cabo el procedimiento de entrega y recepción de la Legislatura, el cual se sujetará a las disposiciones que establezca la ley de la materia.
 
 ###### Artículo 13.
 
@@ -1557,9 +1557,9 @@ XII. Gobernación, administración pública y asuntos electorales: Tiene a su ca
 
 XIII. Hacienda: Tiene a su cargo asuntos en materia de desincorporación de bienes del dominio público, autorización de endeudamiento de entidades públicas; autorizaciones para contratos y actos jurídicos en materia hacendaria de las entidades públicas, que requieran autorización de la Legislatura;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-XIV. Igualdad de género, grupos vulnerables y discriminados: Tiene a su cargo la atención de asuntos relacionados con la garantía de igualdad de las personas y la no discriminación, así como procurar la protección de los derechos fundamentales de las personas que se encuentran en alguna situación especial de vulnerabilidad;
+XIV. Igualdad de género, grupos vulnerables y discriminados. Tiene a su cargo la atención de asuntos relacionados con la garantía de igualdad de las personas, y la no discriminación, la atención de temas relacionados con la mujer y la transversalidad en el ejercicio de sus derechos y políticas públicas dirigidas a estas, así como procurar la protección de los derechos fundamentales de las personas que se encuentran en alguna situación especial de vulnerabilidad;
 
 XV. Instructora: Tiene a su cargo la atención de asuntos en materia de juicio político, declaración de procedencia, suspensión o desaparición de ayuntamientos y revocación, suspensión o inhabilitación de alguno de sus miembros;
 
@@ -2410,3 +2410,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Una vez aprobada la presente Ley, por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 145, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
