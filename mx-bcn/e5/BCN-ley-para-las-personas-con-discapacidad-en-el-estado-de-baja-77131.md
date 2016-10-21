@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2016-07-15"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección III al Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -855,6 +855,8 @@ h) Las demás que le confieran esta Ley y otros ordenamientos legales y reglamen
 
 Se Crea el Consejo Consultivo para las Personas con Discapacidad, como instrumento de coordinación entre el Gobierno del Estado y las organizaciones, de carácter técnico consultivo y que tiene por objeto contribuir al establecimiento de una Política de Estado en la materia, así como coadyuvar en la planeación, promoción, vigilancia y evaluación de las acciones, estrategias y programas encaminados a la atención, integración y desarrollo de las personas con discapacidad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 37.
 
 El Consejo tendrá las siguientes atribuciones:
@@ -889,7 +891,9 @@ IX. Promover y vigilar la capacitación de funcionarios y servidores públicos e
 
 X. Promover e incentivar, la suscripción de convenios para que las organizaciones y empresas otorguen descuentos a personas con discapacidad en centros comerciales, transporte de pasajeros, farmacias y otros establecimientos;
 
-XI. Crear el Manual Estatal De Libre Acceso, que tiene por objetivo establecer lineamientos para el diseño y modificación de la infraestructura física de instalaciones públicas a fin de mejorar la atención de la población con discapacidad;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XI.- Crear el Manual Estatal de Libre Acceso, que tiene por objetivo establecer lineamientos para el diseño y modificación de la infraestructura física de instalaciones públicas a fin de mejorar la atención de la población con discapacidad; impulsando mecanismos de evaluación y asesoría, de captación de queja (sic) ciudadanas; coadyuvando con las autoridades competentes de acuerdo a la normatividad vigente;
 
 XII. Promover la ocupación laboral y la capacitación para el trabajo de las personas con discapacidad, estimulando la concertación y la participación activa de los sectores público, privado y social;
 
@@ -1224,3 +1228,9 @@ P.O. 15 DE JULIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado contará con 90 días naturales posteriores a la publicación de este Decreto a efecto de realizar las adecuaciones reglamentarias y administrativas que resulten necesarias a efecto de instrumentar la acreditación de perros de asistencia.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 672 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XI DEL ARTÍCULO 37 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
