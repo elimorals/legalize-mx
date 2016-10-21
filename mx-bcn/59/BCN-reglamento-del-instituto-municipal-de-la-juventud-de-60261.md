@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-la-juventud-de-60261"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2014-11-28"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA IMJUVENS, BAJA CALIFORNIA
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA IMJUVENS
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA IMJUVENS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -385,17 +385,13 @@ IX. Aquéllas que sean inherentes a su condición de Secretario del Consejo.
 
 #### Sección Tercera. De las Sesiones del Consejo
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 16.
 
 De las sesiones ordinarias y extraordinarias.
 
-La convocatoria para las sesiones ordinarias deberá notificarse por escrito a todos sus integrantes con un mínimo de cinco días hábiles de anticipación.
-
-En el caso de las sesiones extraordinarias, estas deben ser notificadas con 24 horas de anticipación.
-
-Las sesiones son públicas, excepto cuando a criterio del Consejo, por la naturaleza del asunto a tratar, deban ser privadas.
+La convocatoria para las sesiones ordinarias deberá notificarse por escrito a todos sus integrantes con un mínimo de cinco días hábiles de anticipación. En el caso de las sesiones extraordinarias, estas deberán ser notificadas con 24 horas de anticipación. Dichas convocatorias deberán ir acompañadas con la información a tratar en la sesión o ser enviada por correo electrónico. Las sesiones son públicas, excepto cuando a criterio del Consejo, por la naturaleza del asunto a tratar, deban ser privadas.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -695,8 +691,14 @@ MARIO ALBERTO GARCIA SALAIZA
 
 Secretario Fedatario del XIX Ayuntamiento de Ensenada, B.C.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 28 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 16 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DE ENSENADA (IMJUVENS), RELATIVO A DICTAMEN 031/2016".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
