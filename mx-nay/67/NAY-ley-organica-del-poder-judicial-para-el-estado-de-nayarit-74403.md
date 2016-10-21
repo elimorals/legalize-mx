@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2016-04-26"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO SIN NÚMERO DE LA AMPLIACIÓN A LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, VÉASE LOS ARTÍCULOS PRIMERO, SEGUNDO Y TERCERO PUBLICADOS EN EL P.O. DE 10 DE OCTUBRE DE 2015.
-
-NOTA 2. LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014, SU AMPLIACIÓN Y REFORMA PUBLICADAS EN LOS P.O. DE FECHAS 10 DE OCTUBRE DE 2015 Y 26 DE ABRIL DE 2016 RESPECTIVAMENTE; POR LO QUE PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -1333,9 +1329,15 @@ Artículo 98
 
 Son atribuciones de la Secretaría de Administración:
 
-1. Controlar los recursos presupuestales asignados.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-2. Elaborar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial, remitiéndolo al Presidente del Consejo de la Judicatura.
+1. Controlar los recursos presupuestales asignados, mismos que serán administrados con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+2. Elaborar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial, remitiéndolo al Presidente del Consejo de la Judicatura, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit.
+
+El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 3. Administrar e informar al Consejo, de manera trimestral y por escrito, sobre el estado patrimonial y financiero que guarde el Fondo del Poder Judicial.
 
@@ -2128,3 +2130,11 @@ Segundo.- El presente Decreto deberá difundirse mediante Bando Solemne en el Es
 Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las Legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
 
 Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaria Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA EL ARTÍCULO 98 DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con la salvedad prevista en el transitorio siguiente.
+
+SEGUNDO.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria, a que se refiere el presente Decreto, entrarán en vigor en las fechas señaladas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
