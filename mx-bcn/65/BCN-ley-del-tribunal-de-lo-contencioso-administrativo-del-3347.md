@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "2009-02-20"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -67,9 +67,13 @@ El principio de carrera jurisdiccional en sus dimensiones de formación, promoci
 
 Los órganos que componen al Tribunal son el Pleno y las Salas.
 
-El Pleno estará integrado por tres Magistrados Numerarios. Habrá dos Magistrados Supernumerarios, quienes se integrarán al Pleno en los casos que señale este ordenamiento.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-Las Salas conocerán en primera instancia y ejercerán la competencia que señale esta Ley; teniendo como titular a un Magistrado Numerario o Supernumerario.
+El Pleno estará integrado por tres Magistrados.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las Salas conocerán en primera instancia y ejercerán la competencia que señale esta Ley; teniendo como titular a un Magistrado.
 
 El Tribunal contará con un Secretario General de Acuerdos, Secretarios de Estudio y Cuenta y de Acuerdos, Actuarios y demás personal que requiera el servicio, quienes estarán adscritos a los órganos y ejercerán las facultades que determine esta Ley.
 
@@ -105,11 +109,11 @@ II.- Tener por lo menos cinco años de experiencia profesional en Derecho Admini
 
 No podrán reducirse los emolumentos de los Magistrados durante su encargo. Los Magistrados no se consideran como trabajadores.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 9o.
 
-Las faltas temporales de los Magistrados Numerarios en asuntos de Pleno, serán cubiertas por los Supernumerarios, así como las definitivas, en tanto se provea al nombramiento del Magistrado Numerario en los términos de la presente Ley.
+Las faltas temporales y definitivas de los Magistrados adscritos al Pleno y a las Salas, serán cubiertas por el Secretario de Estudio y Cuenta que cuente con mayor antigüedad en el cargo o por el primer Secretario de Acuerdos del Magistrado de Sala ausente en tanto éste se reincorpore o se provea al nombramiento del (sic) quien lo sustituirá en los términos de la Ley, según corresponda. Por el periodo de suplencia el funcionario que cubra la ausencia recibirá los mismos emolumentos del Magistrado.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
@@ -179,11 +183,13 @@ Las resoluciones del Pleno, se tomarán por unanimidad o por mayoría de votos d
 
 Es competencia del Tribunal en Pleno:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-I.- Calificar las excusas, recusaciones e impedimentos de los Magistrados y, en su caso, llamar al Magistrado Supernumerario;
+I.- Calificar las excusas, recusaciones e impedimentos de los Magistrados y, en su caso, llamar al Secretario de Estudio y Cuenta que corresponda de conformidad con lo previsto en el artículo 9 de esta Ley;
 
-II.- Resolver los recursos que esta Ley establece en contra de las resoluciones que dicten las Salas;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+II.- Resolver los recursos que esta Ley establece en contra de los acuerdos y las resoluciones que dicten las Salas; y decretar la caducidad en la revisión;
 
 III.- Resolver los conflictos que surjan entre el Fisco Estatal y los Fiscos Municipales, sobre preferencias en el cobro de créditos fiscales;
 
@@ -197,9 +203,9 @@ V.- Resolver los conflictos de competencia que se susciten entre las salas del T
 
 VI.- Fijar la circunscripción territorial de las salas del tribunal, y en su caso la distribución de los asuntos entre las mismas; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-VII.- Dictar sentencia en los juicios que se promuevan ante las Salas del Tribunal de lo Contencioso Administrativo atendiendo lo previsto por la Ley de Acceso a la Información Pública para el Estado de Baja California.
+VII.- Dictar sentencia definitiva en los recursos de revisión que se promuevan en contra de las determinaciones de las Salas, con motivo de la tramitación del recurso previsto en la Ley del Notariado para el Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
@@ -207,17 +213,17 @@ VII.- Dictar sentencia en los juicios que se promuevan ante las Salas del Tribun
 
 El Pleno, tiene además las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-I.- Designar a su Presidente, y acordar el sistema para suplirlo en caso de faltas temporales.
+I.- Designar a su Presidente, y acordar el sistema para suplirlo en caso de faltas temporales;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-II.- Fijar la adscripción a las Salas de los Magistrados, Secretarios de Acuerdos y Actuarios;
+II.- Fijar la adscripción a las Salas de los Magistrados, Secretarios de Acuerdos y Actuarios; Solo se podrá determinar o modificar la adscripción de un Magistrado a una Sala, por resolución unánime del Pleno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-III.- Llamar a un Secretario de Estudio y Cuenta para que integre Pleno, cuando por falta definitiva o temporal de los Magistrados Supernumerarios, o bien por estar impedidos para conocer de los Juicios en que intervengan, sea el único medio que evite la denegación del servicio de administración de justicia.
+III.- Llamar al Secretario de Estudio y Cuenta del Magistrado de Pleno ausente, ya sea por falta temporal o definitiva que corresponda de conformidad con lo previsto en el artículo 9 de esta Ley.
 
 (REFORMADA, P.O. 17 DE DICIEMBRE DE 1999) (F. DE E., P.O. 28 DE JULIO DE 2000)
 
@@ -307,7 +313,9 @@ XIII.- Las demás que le confiera el Pleno del Tribunal.
 
 El Tribunal de lo Contencioso Administrativo, funcionará en Salas.
 
-Estarán integradas por un Magistrado Numerario o Supernumerario cada una y el personal jurídico y administrativo que sea necesario para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Estarán integradas por un Magistrado cada una y el personal jurídico y administrativo que sea necesario para el cumplimiento de sus funciones.
 
 Los Magistrados Supernumerarios integrarán Sala en el Municipio de Tijuana y Ensenada.
 
@@ -321,7 +329,9 @@ I.- Los de carácter administrativo emanados de las Autoridades Estatales, Munic
 
 II.- Los de naturaleza fiscal emanados de Autoridades Fiscales Estatales, Municipales o de sus Organismos Fiscales Autónomos, que causen agravio a los particulares;
 
-III.- Los que se emitan con motivo de la aplicación de sanciones por responsabilidad administrativa, con base en la Ley de Responsabilidades de los Servidores Públicos del Estado;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+III.- Las que emitan los Órganos de la Administración Pública del Estado, los Municipios y Organismos Descentralizados, fisco estatal y fiscos municipales, Poder Legislativo y Poder Judicial del Estado, con motivo de la aplicación de sanciones por responsabilidad administrativa con base en la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
 IV.- Los que se emitan con motivo del incumplimiento de contratos de obra pública y, en general, de contratos administrativos en que el Estado, los Municipios o sus Organismos Descentralizados sean parte;
 
@@ -331,21 +341,21 @@ VI.- Los dictados conforme a otras leyes que le otorguen competencia al Tribunal
 
 VII.- Los de carácter administrativo y fiscal favorables a los particulares, emanados de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados, cuando dichas autoridades promuevan su nulidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-VIII.- Los que se emitan en materia de acceso a la información pública, atendiendo lo previsto por la fracción VII del artículo 17 de esta Ley;
+VIII.- Los que se emitan con motivo de la aplicación de la Ley del Notariado para el Estado de Baja California.
+
+En estos casos, la Sala instruirá el procedimiento especial previsto en la Ley del Notariado para el Estado de Baja California, dictando la resolución de primera instancia.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2009)</small>
 
 IX.- Las que se susciten entre los Miembros de las Instituciones Policiales del Estado de Baja California y las Dependencias de la Administración Pública Centralizada Estatal o Municipal, con motivo de la prestación de sus servicios.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
 Para efectos de este artículo, son definitivos los actos o resoluciones que no puedan ser revocados o modificados, sino mediante recurso administrativo o medio de defensa previsto por la ley que rija el acto, o en el proceso contencioso administrativo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
-
-Las faltas temporales de los Magistrados en las Salas, se suplirán por el Primer Secretario de Acuerdos cuando no excedan de dos meses y cuando excedan de este término, serán cubiertas por la persona que nombre el Pleno. Las faltas definitivas se cubrirán con nueva designación. Por el periodo de suplencia el funcionario recibirá los mismos emolumentos que el Magistrado.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 23.
 
@@ -497,9 +507,11 @@ Antes de iniciar el período de vacaciones, el Presidente designará al personal
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 30.
 
-Los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, se sustanciarán y resolverán con arreglo al procedimiento que determina este Título.
+Los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, se substanciarán y resolverán con arreglo al procedimiento que determina este Título, salvo cuando en ley diversa se determine expresamente el procedimiento al que deba sujetarse el tribunal en la sustanciación del asunto; observándose en todos los casos, los principios de legalidad y buena fe.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -508,6 +520,10 @@ En el procedimiento contencioso administrativo, no procederá la suplencia de la
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 A falta de disposición expresa, se aplicarán supletoriamente, el Código Civil y el Código de Procedimientos Civiles del Estado, siempre que se refiera a Instituciones previstas en esta Ley o la que rija el acto impugnado; y que la disposición supletoria se avenga al procedimiento contencioso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Siempre que esta ley establezca un término para cualquier acto ante el Tribunal, se otorgará un día más por razón de la distancia, en los términos previstos en el Código de Procedimientos Civiles para el Estado de Baja California.
 
 ###### ARTICULO 31.
 
@@ -543,13 +559,21 @@ La representación de los particulares, se otorgará en Escritura Pública o Car
 
 Los profesionistas autorizados en los juicios contenciosos-administrativos, podrán ser coadyuvantes de la justicia administrativa para efectos de la entrega de oficios de notificación a las autoridades demandadas, en los términos del Reglamento Interior.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-Los particulares o sus representantes, podrán autorizar por escrito a Licenciado en Derecho o Contador Público que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos, y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante y demás previstas por esta Ley y ordenamientos reglamentarios.
+La representación de las autoridades corresponderá a la Subsecretaría, Dirección, Coordinación o unidad administrativa encargada de su defensa jurídica, en términos de la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-Las autoridades demandadas no podrán ser representadas en el juicio contencioso administrativo, pero podrán nombrar delegados para el efecto de que reciban notificaciones, excepción hecha de los requerimientos, rindan pruebas, aleguen, hagan promociones en las mismas audiencias e interpongan recursos. Se exceptúa de lo anterior a los Ayuntamientos, quienes podrán comparecer por conducto del Síndico Procurador en los términos de la legislación municipal.
+Los Ayuntamientos serán representados en juicio por el Síndico, en los términos de la legislación municipal aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Tratándose de autoridades Colegiadas, la representación legal recaerá en la persona que ostente el carácter de Presidente y en su ausencia, en el titular de la unidad administrativa encargada de su defensa jurídica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las autoridades o los titulares de las citadas áreas jurídicas, estarán facultados para nombrar delegados, quienes estarán facultados para que reciban notificaciones, excepción hecha de los requerimientos, que rindan pruebas, aleguen, hagan promociones en las mismas audiencias e interpongan recursos.
 
 ###### ARTICULO 34.
 
@@ -705,6 +729,20 @@ V.- En los demás casos, en que por disposición legal exista impedimento para e
 
 El sobreseimiento del juicio en los términos previstos por la fracción IV, impide a la autoridad responsable repetir el acto impugnado, motivado en los mismos hechos; en caso contrario el actor podrá denunciar ante la Sala del Conocimiento la repetición del acto, la cual dará vista con la denuncia por un término de cinco días a las autoridades demandadas en el juicio contencioso administrativo, para que expongan lo que a su derecho convenga. En caso de que la Sala, no obstante las manifestaciones hechas valer por las autoridades demandadas, encontrara fundada la denuncia correspondiente, requerirá a la autoridad ordenadora la revocación del acto, apercibida de que en caso de insistir se hará acreedora a cualquiera de los medios de apremio previstos en esta Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 41 BIS.- La caducidad de la instancia operará de pleno derecho, cualquiera que sea el estado del procedimiento, desde la presentación de la demanda hasta antes de que se cite a las partes para oír resolución, si transcurridos seis meses naturales contados a partir de la notificación de la última determinación jurisdiccional, no hubiere promoción, de cualquiera de las partes, que tienda a llevar adelante el procedimiento, siempre que la promoción sea necesaria para la continuación de procedimiento en el juicio o en la revisión.
+
+La caducidad de la instancia se declarará por el Tribunal de oficio o a petición de parte interesada. Es de orden público, irrenunciable, no puede ser materia de convenio entre las partes y sólo procederá por virtud de la inactividad procesal por falta de promoción de las partes, ya sea en el expediente principal o en cualquier incidente.
+
+Caducado el expediente principal caducan los incidentes. La caducidad del incidente sólo produce la del principal cuando haya suspendido el procedimiento de éste.
+
+En los juicios que se encuentren en revisión, la inactividad producirá la caducidad de esa instancia y el Pleno declarará firme la resolución recurrida.
+
+El plazo de la caducidad se interrumpe cuando por causa de fuerza mayor los tribunales no puedan actuar, y en los casos en que es necesario esperar la resolución de una cuestión principal, previa o conexa, por el mismo juzgador o por otra autoridad jurisdiccional.
+
+Los actos o promociones de mero trámite, que no impliquen ordenación o impulso al procedimiento, no se considerarán como actividad procesal de las partes ni impedirán que la caducidad se consume.
+
 ### CAPITULO CUARTO. DE LOS IMPEDIMENTOS
 
 ###### ARTICULO 42.
@@ -719,7 +757,7 @@ III.- Si han sido Abogados o Apoderados de las partes en el mismo asunto;
 
 IV.- Si tuviesen amistad estrecha o enemistad manifiesta con alguna de las partes o con sus representantes;
 
-V.- Si hubiesen aconsejado como Asesores respecto del acto impugnado, o si hubiesen emitido, en otra instancia, la resolución o procedimiento combatido; y (sic)
+V.- Si hubiesen aconsejado como Asesores respecto del acto impugnado, o si hubiesen emitido, en otra instancia, la resolución o procedimiento combatido; y
 
 VI.- Si son partes en un juicio similar pendiente de resolución por el Tribunal;
 
@@ -1159,9 +1197,9 @@ Para salvaguardar el derecho del afectado, la sentencia que declare fundada la p
 
 La declaratoria de nulidad del acto o resolución impugnada, por violaciones a las formalidades esenciales del procedimiento, debe ser para el efecto de que la autoridad responsable reponga el procedimiento administrativo de que se trate y determine en definitiva con plenitud de facultades.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-La resolución que decrete injustificada la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de un Miembro de las Instituciones Policiales, la autoridad responsable sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho el afectado.
+La resolución que decrete injustificada la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de un Agente del Ministerio Público, Perito o Miembro de las Instituciones Policiales, la autoridad responsable sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho el afectado.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -1199,21 +1237,29 @@ En el supuesto de que la autoridad demandada persista en su actitud omisa, el Tr
 
 Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, el Magistrado remitirá el expediente al Pleno, quien podrá decretar la destitución del servidor público responsable, excepto de que se trate de autoridad electa por voto popular, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las sanciones mencionadas en este artículo, también serán procedentes cuando no se cumplimente en sus términos, la suspensión que se hubiere decretado respecto al acto reclamado en el juicio.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 89.
 
-Las sanciones mencionadas en este Capítulo, también serán procedentes cuando no se cumplimente en sus términos, la suspensión que se hubiere decretado respecto al acto reclamado en el juicio.
+Prescribirá en cinco años la facultad del actor para ejecutar la sentencia que implique actos, resoluciones o prestaciones relacionadas con bienes inmuebles, así como la que conceda pensiones; y en dos años, la que se refiera al pago de honorarios, sueldos, salarios u otras retribuciones por la prestación de cualquier servicio.
+
+La demandada podrá liberarse de su obligación de pago derivada de la sentencia ejecutoriada, mediante consignación ante el propio Tribunal; en tal caso, será aplicable el procedimiento previsto en el Código de Procedimientos Civiles para el Estado.
 
 CAPITULO DECIMOTERCERO
 
 DE LOS RECURSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 90.
 
-Las partes podrán interponer el recurso de reclamación en contra de las resoluciones de los Magistrados que desechen la demanda o la contestación; o admitan o desechen las pruebas; que rechacen la intervención de terceros, o aquéllas que nieguen o concedan la suspensión del acto reclamado.
+Las partes podrán interponer el recurso de reclamación en contra de las resoluciones de los Magistrados que desechen la demanda o la contestación; o admitan o desechen las pruebas; que rechacen la intervención de terceros, o aquéllas que nieguen o concedan la suspensión provisional o definitiva del acto reclamado, con excepción de aquellas a que se refiere la fracción I del artículo 94 de esta Ley.
 
-El recurso deberá interponerse ante la Sala de adscripción del Magistrado que hubiere dictado el acto recurrido, dentro del plazo de cinco días siguientes a su notificación, expresando los agravios que le cause.
+El recurso deberá interponerse ante la Sala de adscripción del Magistrado que hubiere dictado el acto recurrido, dentro del plazo de los cinco días siguientes a su notificación, expresando los agravios que le cause.
 
 (REFORMADO, P.O. 17 DE DICIEMBRE DE 1999) (F. DE E., P.O. 28 DE JULIO DE 2000)
 
@@ -1221,45 +1267,55 @@ El recurso deberá interponerse ante la Sala de adscripción del Magistrado que 
 
 Interpuesto el recurso a que se refiere el artículo anterior, la Sala dará vista a las partes por el término de cinco días para que expresen lo que a su derecho convenga y, sin más trámite, resolverá en el término de cinco días posteriores.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 92.
 
-El recurso de queja es procedente contra actos de las autoridades demandadas, por exceso o defecto de la ejecución del auto en que se haya concedido la suspensión del acto reclamado, así como por exceso o defecto en la ejecución de la sentencia definitiva que haya declarado fundada la pretensión del actor.
+El recurso de queja es procedente contra:
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+I.- Actos de las autoridades demandadas, por exceso o defecto de la ejecución del auto en que se haya concedido la suspensión del acto reclamado; y
 
-Los actos ejecutados por la autoridad responsable en vías de cumplimiento del auto o de la sentencia definitiva no son impugnables hasta en tanto la Sala correspondiente pronuncie la resolución que corresponda.
+II.- Actos dictados por la Sala que hubiese conocido el juicio, por exceso o defecto en la ejecución de la sentencia definitiva que haya declarado procedente la pretensión del actor.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+Los actos ejecutados por la autoridad responsable en vías de cumplimiento del auto o de la sentencia definitiva no son impugnables hasta en tanto la Sala correspondiente pronuncie resolución que corresponda.
 
-El recurso deberá interponerse por escrito ante la Sala que hubiese conocido el juicio, dentro de un plazo de cinco días siguientes a la notificación de la resolución que se pretenda recurrir, acompañando una copia del escrito del recurso para cada una de las partes.
+Dicho recurso deberá interponerse ante la Sala y remitir al Pleno dentro de un plazo de cinco días siguientes a la notificación de la resolución que se pretenda recurrir, acompañando una copia del escrito del recurso para cada una de las partes.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 93.
 
-Interpuesto el recurso a que se refiere el Artículo anterior, la Sala requerirá a la autoridad contra la que se hubiere interpuesto el recurso, para que rinda un informe con justificación sobre la materia de la queja, dentro de un plazo de tres días. Transcurrido dicho lapso, la Sala resolverá lo conducente en el plazo de tres días. La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades y organismos omisos en multa, en los términos de esta Ley.
+Interpuesto el recurso a que se refiere el Artículo anterior, el Pleno requerirá a la autoridad contra la que se hubiere interpuesto el recurso o a la Sala según sea el caso, para que rinda un informe con justificación sobre la materia de la queja, dentro de un plazo de tres días.
 
-(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999) (F. DE E., P.O. 28 DE JULIO DE 2000)
+Transcurrido dicho lapso, el Pleno resolverá lo conducente en el plazo de cinco días. La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades y organismos omisos en multa, en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 94.
 
-Las resoluciones de las Salas que decreten o nieguen el sobreseimiento y las sentencias definitivas, podrán ser impugnadas por las partes, mediante el recurso de revisión que será resuelto por el Pleno del Tribunal.
+Las partes podrán interponer el recurso de revisión, con el objeto de que el Pleno del Tribunal revoque o modifique las siguientes determinaciones de las Salas:
 
-El recurso de revisión tiene por objeto que el Superior revoque o modifique la resolución del inferior.
+I.- Los acuerdos o interlocutorias que concedan o nieguen la suspensión definitiva en materia de Transporte Publico, Salud, Menores o Incapaces, el funcionamiento de centros de vicio o de lenocinio, así como de establecimientos de juegos con apuestas o sorteos y en materia ambiental;
 
-El recurso deberá interponerse por escrito que se presentará ante el Magistrado de la Sala, dentro del plazo de diez días siguientes a aquel en que surta efectos la notificación de la resolución que se pretenda recurrir, debiéndose expresar los agravios que causa al inconforme, precisando la parte de la resolución impugnada que le causa perjuicio, los preceptos legales que estima se violaron y los razonamientos tendientes a demostrar dichas violaciones.
+II.- Las interlocutorias que confirmen el desechamiento de la demanda o la contestación;
 
-El Magistrado de la Sala tendrá por interpuesto el recurso y lo remitirá dentro de los tres días siguientes al Magistrado Presidente para que acuerde su admisión si procede. En caso de estimar improcedente el recurso, lo turnará al Pleno, el cual decidirá su admisión o rechazo.
+III.- Las resoluciones de las Salas que decreten o nieguen el sobreseimiento o la caducidad; y
 
-El Magistrado Presidente, al admitir el recurso designará por turno al Magistrado Ponente mandando correr traslado del mismo a las partes, por el término de cinco días, para que expresen lo que a su derecho convenga.
+IV.- Las sentencias que resuelvan el asunto en definitiva.
 
-Transcurrido dicho plazo, el Magistrado Ponente formulará proyecto de resolución y lo someterá a la consideración de los Magistrados, quienes deberán emitir su voto dentro de los diez días siguientes.
+El recurso deberá interponerse por escrito ante el Magistrado de la Sala, dentro del plazo de diez días siguientes a aquel en que surta efectos la notificación del acuerdo o de la resolución que se pretenda recurrir, debiéndose expresar los agravios que causa al inconforme, precisando la parte de la resolución impugnada que le causa perjuicio, los preceptos legales que estima se violaron y los razonamientos tendientes a demostrar dichas violaciones.
+
+El Magistrado de la Sala lo remitirá dentro de los tres días siguientes al Magistrado Presidente para que provea sobre su admisión; si lo considera inadmisible, lo someterá al Pleno para que se decida en forma colegiada su admisión o rechazo.
+
+El Magistrado Presidente, al admitir el recurso, designará por turno al Magistrado Ponente, mandando correr traslado del mismo a las partes, para que expresen lo que a su derecho convenga dentro de un plazo de cinco días.
+
+Transcurrido el plazo previsto en el párrafo anterior, el Magistrado Ponente, dentro de un plazo de diez días, formulará proyecto de resolución y lo someterá a la consideración de los Magistrados, quienes deberán emitir su voto dentro de una audiencia que tendrá verificativo dentro de los quince días siguientes; en tratándose del supuesto previsto en la fracción I de éste artículo, los plazos anteriores serán de cinco y diez días, respectivamente.
 
 La resolución se pronunciará por unanimidad o mayoría de votos de los Magistrados del Tribunal en Pleno.
 
-El Pleno podrá aplicar el medio de apremio o medida disciplinaria, de los previstos por esta Ley que juzgue conveniente, cuando se denoste o falte al respeto a los Magistrados a través de interposición de los recursos o cualquier otro ocurso.
+El Pleno podrá aplicar el medio de apremio o medida disciplinaria, de los previstos por esta Ley, cuando se denoste o falte al respeto a los Magistrados a través de la interposición de los recursos o cualquier otro ocurso. Si las faltas llegaran a constituir delitos, se procederá con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente.
 
-Si las faltas llegaran a constituir delitos, se procederá con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente.
-
-Corresponderá al Magistrado de la Sala dicha aplicación cuando la falta se cometa en primera instancia.
+Corresponderá al Magistrado de Sala dicha aplicación cuando la falta se cometa en primera instancia.
 
 CAPITULO DECIMOCUARTO
 
@@ -1432,3 +1488,19 @@ P.O. 20 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 625 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XXIII DEL ARTÍCULO 27, ASÍ COMO EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, Y SE REFORMAN LOS ARTÍCULOS 4, 9, 17, 18, 21, 22, 30, 33, 84, 88, 89, 90, 92, 93 Y 94 Y SE ADICIONA EL ARTÍCULO 41 BIS, A LA LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Hecha la declaración de incorporación a la Constitución Política del Estado Libre y Soberano de Baja California, respecto a las reformas contenidas en el Dictamen 98 de la Comisión de Gobernación Legislación y Puntos Constitucionales, la presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las reformas a los artículos 92 y 93 de la Ley del Tribunal de lo Contencioso Administrativo del Estado de Baja California entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Los juicios iniciados con anterioridad a la entrada en vigor de las presentes reformas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere a las disposiciones relativas a la caducidad de la instancia, así como todo lo relacionado al cumplimiento y prescripción de la ejecución de las sentencias.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 681 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 22 DE LA LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
