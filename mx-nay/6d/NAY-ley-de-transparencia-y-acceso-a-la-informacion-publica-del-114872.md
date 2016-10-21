@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2016-05-05"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE MAYO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el martes 3 de mayo de 2016.
 
@@ -455,9 +453,19 @@ XIX. Los servicios que ofrecen y los programas que administra, señalando los re
 
 XX. Los trámites, requisitos y formatos que ofrecen;
 
-XXI. La información financiera sobre el presupuesto asignado, la cuenta pública, así como los informes del ejercicio trimestral del gasto, en términos de la Ley General de Contabilidad Gubernamental, la Ley del Órgano de Fiscalización Superior del Estado y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-XXII. La información relativa a la deuda pública, en términos de la normatividad aplicable;
+XXI. La información financiera en términos de la Ley General de Contabilidad Gubernamental, las normas expedidas por el Consejo Nacional de Armonización Contable y la Ley del Órgano de Fiscalización Superior del Estado y demás normatividad aplicable, incluyendo además la información financiera sobre el presupuesto asignado, la cuenta pública, así como los informes del ejercicio trimestral del gasto;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XXII. De forma enunciativa, más no limitativa, se deberá publicar lo siguiente:
+
+a. Los instrumentos jurídicos relativos a la contratación de Financiamientos y Obligaciones;
+
+b. Los documentos de análisis comparativo de las propuestas que incluyan las ofertas que representen las mejores condiciones de mercado, en la contratación de los financiamientos y obligaciones en términos de lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y
+
+c. La institución financiera participante que resulte ganadora del proceso competitivo para la contratación de financiamientos, realizada mediante licitación pública, así como el documento en que conste la comparación de las propuestas presentadas.
 
 XXIII. Los montos destinados a gastos relativos a comunicación social y publicidad oficial desglosada por tipo de medio, proveedores, número de contrato y concepto o campaña;
 
@@ -561,9 +569,15 @@ XLVI. Las actas de sesiones ordinarias y extraordinarias, así como las opinione
 
 XLVII. Para efectos estadísticos, el listado de solicitudes a las empresas concesionarias de telecomunicaciones y proveedores de servicios o aplicaciones de Internet para la intervención de comunicaciones privadas, el acceso al registro de comunicaciones y la localización geográfica en tiempo real de equipos de comunicación, que contenga exclusivamente el objeto, el alcance temporal y los fundamentos legales del requerimiento, así como, en su caso, la mención de que cuenta con la autorización judicial correspondiente, y
 
-XLVIII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Los sujetos obligados deberán informar al Instituto y verificar que se publiquen en la Plataforma Nacional, cuáles son los rubros que son aplicables a sus páginas de Internet, con el objeto de que éste verifique y apruebe, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XLVIII. El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en los convenios sobre los niveles de endeudamiento elevado de los entes públicos, respectivos, y
+
+XLIX. Cualquier otra información que sea de utilidad o se considere relevante, además de la que, con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+
+Los sujetos obligados deberán informar al Instituto y verificar que se publiquen en la Plataforma Nacional, cuáles son los rubros que son aplicables a sus páginas de Internet, con el objeto de que éste verifique y apruebe, de forma fundada y motivada, la relación de fracciones aplicables a cada sujeto obligado.
 
 #### Sección III. Información Específica
 
@@ -586,6 +600,24 @@ d. El nombre, denominación o razón social y clave del registro federal de los 
 e. Los nombres de las personas a quienes se les habilitó para ejercer como notarios públicos, así como sus datos de contacto, la información relacionada con el proceso de otorgamiento de la patente o fíat notarial y las sanciones que se les hubieran aplicado, y
 
 f. Las disposiciones administrativas, directamente o a través de la autoridad competente, con el plazo de anticipación que prevean las disposiciones aplicables al sujeto obligado de que se trate, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, de conformidad con dichas disposiciones.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+g. El avance de las acciones realizadas para recuperar el presupuesto sostenible de recursos disponibles, en términos de la legislación aplicable.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+h. El resultado de las evaluaciones del cumplimiento de las obligaciones específicas de responsabilidad hacendarias (sic) a cargo de los Municipios, en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+i. Las evaluaciones a que se refiere la fracción III, del artículo 13, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Comprendiendo, de forma enunciativa más no limitativa, el análisis de conveniencia para llevar a cabo el proyecto a través de un esquema de Asociación Público-Privada, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado; asimismo, se publicará la evaluación del análisis socioeconómico de los programas o proyectos de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+j. La información relativa a la materia de subsidios, identificando la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento.
 
 ###### Artículo 36.
 
@@ -724,6 +756,18 @@ d. La información detallada que contengan los planes de desarrollo urbano, orde
 e. Las disposiciones administrativas, directamente o a través de la autoridad competente, con el plazo de anticipación que prevean las disposiciones aplicables al sujeto obligado de que se trate, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, de conformidad con dichas disposiciones, y
 
 f. Las actas de sesiones de cabildo, los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de cabildo y el sentido de votación de los miembros del cabildo sobre las iniciativas o acuerdos.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+g. El avance de las acciones realizadas para recuperar el presupuesto sostenible de recursos disponibles, en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+h. Las evaluaciones a que se refiere la fracción III, del artículo 13, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Comprendiendo, de forma enunciativa más no limitativa, el análisis de conveniencia para llevar a cabo el proyecto a través de un esquema de Asociación Público-Privada, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado; asimismo, se publicará la evaluación del análisis socioeconómico de los programas o proyectos de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión. Lo anterior, en los términos y condiciones de la Ley en cita.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+i. La información relativa a la materia de subsidios, identificando la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento.
 
 ###### Artículo 40.
 
@@ -2470,3 +2514,13 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Consti
 > <small>(F. DE E., P.O. 3 DE MAYO DE 2016)</small>
 
 ATENTAMENTE “Sufragio Efectivo. No Reelección” Tepic, Nayarit; 5 (sic) de Mayo de 2016.- Dip. Jorge Humberto Segura López, Presidente de la Mesa Directiva.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con la salvedad prevista en el transitorio siguiente.
+
+Artículo Segundo.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria del Estado, a que se refiere el presente Decreto, entrarán en vigor en las fechas señaladas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
