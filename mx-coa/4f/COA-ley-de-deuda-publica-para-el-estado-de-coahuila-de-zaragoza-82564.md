@@ -4,7 +4,7 @@ identifier: "COA-ley-de-deuda-publica-para-el-estado-de-coahuila-de-zaragoza-825
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-07"
-last_updated: "2011-08-07"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 21 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en el número extraordinario del Periódico Oficial del Estado de Coahuila, el domingo 7 de agosto de 2011.
 
@@ -952,3 +954,43 @@ EL SECRETARIO EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO
 LIC. HÉCTOR JAVIER VILLARREAL HERNÁNDEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 573.- LEY DE DEUDA PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado, el día 7 de agosto de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Todos los empréstitos, financiamientos, créditos, garantías, avales y en general cualquier acto jurídico, principal o accesorio, en materia de deuda pública que hayan sido celebrados con anterioridad a la fecha de entrada en vigor de la presente (sic), se regirán por las leyes que estaban vigentes en su fecha de celebración.
+
+###### ARTÍCULO QUINTO.
+
+La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de esta ley a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrados, otorgados o notificados con anterioridad a la fecha de entrada en vigor del presente decreto se regirá por la legislación y los decretos correspondientes a su autorización.
+
+###### ARTÍCULO SEXTO.
+
+El Registro Público Único a que se refiere esta Ley, sustituirá al Registro de Obligaciones y Empréstitos de Entidades y Municipios a cargo de la Secretaría de Hacienda y Crédito Público.
+
+Los trámites iniciados ante el Registro de Obligaciones y Empréstitos de Entidades y Municipios, con anterioridad a la entrada en vigor del Registro Público Único, se llevarán a cabo con (sic) de conformidad a las disposiciones vigentes a la fecha de inicio del trámite.
+
+Las referencias al Registro de Obligaciones y Empréstitos de Entidades y Municipios en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público Único.
+
+###### ARTÍCULO SÉPTIMO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
