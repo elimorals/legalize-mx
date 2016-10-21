@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-y-servicios-relacionados-con-las-54634"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-01"
-last_updated: "2014-11-27"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Uno del Boletín Oficial del Estado de Sonora, el jueves 1 de marzo de 2007.
 
@@ -251,15 +251,15 @@ II.- Recursos extraordinarios que se obtengan y se destinen al gasto de inversi�
 
 III.- Recursos provenientes de operaciones de crédito y financiamiento autorizados por el Congreso del Estado; y
 
-IV.- Financiamiento otorgado por personas de los sectores social y privado.
+IV.- (DEROGADA, B.O. 21 DE OCTUBRE DE 2016)
+
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 20.
 
-Las dependencias y entidades podrán convocar, adjudicar o contratar obras públicas y servicios relacionados con las mismas, únicamente cuando cuenten con la autorización global o específica del presupuesto de inversión de las obras a ejecutarse en el ejercicio fiscal correspondiente.
+Las dependencias y entidades podrán convocar, adjudicar o contratar obras públicas y servicios relacionados con las mismas, únicamente cuando cuenten con la autorización global o específica del presupuesto de las obras a ejecutarse en el ejercicio fiscal correspondiente o subsecuentes en caso de contratos que rebasen un ejercicio presupuestal, en este último caso, previo a haber obtenido las autorizaciones correspondientes en términos de la legislación aplicable.
 
-En el ámbito del Ejecutivo del Estado, la Secretaría, oyendo la opinión de las dependencias y entidades ejecutoras de obras públicas y servicios, definirá a más tardar al 31 de enero de cada ejercicio fiscal, el calendario de ministración de recursos para el pago de obras y servicios comprendidos en los respectivos programas anuales.
-
-Lo dispuesto en este artículo no será aplicable cuando se trate de obras públicas o servicios que se proyecten realizar con la participación de particulares mediante alguno de los mecanismos de financiamiento a que se refiere el presente Capítulo.
+En el ámbito del Ejecutivo del Estado, la Secretaría, oyendo la opinión de las dependencias y entidades ejecutoras de obras públicas y servicios, definirá a más tardar al treinta y uno de enero de cada ejercicio fiscal, el calendario de ministración de recursos para el pago de obras y servicios comprendidos en los respectivos programas anuales o plurianuales, según corresponda, y en este último caso previa obtención de las autorizaciones correspondientes en términos de la legislación aplicable.
 
 En casos excepcionales y previa aprobación de la Secretaría, en el caso del ámbito del Ejecutivo del Estado, las dependencias y entidades podrán convocar, adjudicar y formalizar contratos, cuya vigencia inicie en el ejercicio fiscal siguiente al de aquél en que se formalicen. Los referidos contratos estarán sujetos a la disponibilidad presupuestal del año en que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia y disponibilidad de recursos presupuestarios, sin que la falta de realización de esta última condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
 
@@ -275,13 +275,7 @@ Dicha cantidad deberá ser utilizada única y exclusivamente para solventar nece
 
 ###### ARTÍCULO 22.
 
-De conformidad con las bases y condiciones que se establezcan en el reglamento de la presente ley, las dependencias y entidades del Ejecutivo del Estado podrán celebrar contratos en los que la realización y el costo de inversión de la obra pública quede a cargo de particulares, o bien, en las que la aportación o financiamiento provenga parcial o totalmente de recursos de personas físicas o morales del sector privado, social o ambos, quedando el Estado obligado, en su caso, a amortizar dicho financiamiento o a conceder la explotación o aprovechamiento de la obra pública realizada, aplicando esquemas financieros idóneos para tales propósitos.
-
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 2008)</small>
-
-Asimismo, dichos entes podrán asociarse con una persona física o moral de derecho privado, para que ésta administre un activo, así como celebrar un contrato para diseñar, financiar, construir y operar activos con los que el Estado preste un servicio público, siempre y cuando no sea Alianza Público Privada de Servicios en términos de la legislación aplicable.
-
-En la contratación de financiamientos deberá observarse la Ley de Deuda Pública del Estado de Sonora y demás disposiciones que resulten aplicables.
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 23.
 
@@ -295,15 +289,15 @@ III.- Proyectos Llave en Mano; y
 
 IV.- Las demás modalidades que se prevean en ésta u otras leyes para el uso de instrumentos y mecanismos de inversión y financiamiento en obras públicas.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-Las obras públicas asociadas a financiamiento serán aquellas cuya realización esté financiada parcial o totalmente con recursos aportados por inversionistas de los sectores social o privado, y cuyo pago se realizará con el flujo de recursos del Presupuesto de Egresos del Estado.
+Las obras públicas asociadas a financiamiento serán aquellas cuya realización esté financiada parcial o totalmente con recursos aportados por inversionistas de los sectores social o privado, y cuyo pago se realizará con el flujo de recursos del Presupuesto de Egresos del Estado. Para dichas obras públicas se requerirán las autorizaciones aplicables en materia de presupuestación, en términos de la legislación aplicable.
 
-Las obras públicas asociadas a concesión serán aquéllas cuya realización esté financiada parcial o totalmente con recursos aportados por inversionistas de los sectores social o privado y cuya fuente de pago sea la explotación de los derechos de concesión para la operación o explotación de la obra.
+En la realización de obras de infraestructura a través de los proyectos denominados Llave en Mano, se podrá encomendar al contratista correspondiente que la ejecución de la obra comprenda desde su planeación, presupuestación, ejecución, equipamientos y puesta en marcha, incluyendo el financiamiento total del costo global de la obra, hasta la entrega recepción de la misma. Lo anterior, sin perjuicio de las autorizaciones que en materia de presupuestación se requieran en términos de la legislación aplicable.
 
-En la realización de obras de infraestructura a través de los proyectos denominados Llave en Mano, se podrá encomendar al contratista correspondiente que la ejecución de la obra comprenda desde su planeación, presupuestación, ejecución, equipamiento y funcionamiento u operación, incluyendo el financiamiento total del costo global de la obra, hasta la entrega recepción de la misma. Asimismo, bajo esta modalidad se podrá establecer el esquema de compra de servicios, mediante el cual se podrá financiar la adquisición de una obra con cargo al presupuesto de gasto corriente de una Dependencia o Entidad, durante el tiempo que se pacte con el vendedor.
-
-El reglamento de la presente ley establecerá los términos y condiciones bajo los cuales podrán llevarse a cabo la realización de obras públicas bajo el esquema de obras asociadas a financiamiento, obras públicas asociadas a concesión y proyectos Llave en Mano.
+El reglamento de la presente ley establecerá los términos y condiciones bajo los cuales podrán llevarse a cabo la realización de obras públicas bajo el esquema de obras asociadas a financiamiento y proyectos Llave en Mano.
 
 ###### ARTÍCULO 25.
 
@@ -311,13 +305,15 @@ La participación de inversionistas de los sectores social y privado con el Esta
 
 En las obras públicas que se realicen bajo esta modalidad, la Dependencia o Entidad responsable y la Contraloría, deberán verificar el cumplimiento de los términos y condiciones pactadas en el instrumento jurídico respectivo, así como verificar, supervisar y dar seguimiento durante todo el proceso de ejecución, incluyendo la terminación y entrega de la obra, hasta su total satisfacción.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-En la contratación de obras públicas asociadas a financiamiento, obras asociadas a concesión y proyectos Llave en Mano en los que quede a cargo del contratista la realización y financiamiento en forma parcial de la obra, deberán observarse las reglas de la licitación pública o simplificada, según corresponda, debiendo precisarse de manera clara en las convocatorias o invitaciones respectivas la circunstancia de que se trata de obras financiadas parcialmente por el propio contratista, conforme a los términos especiales que se establezcan en las bases respectivas y en el reglamento de esta Ley.
+En la contratación de proyectos Llave en Mano en los que quede a cargo del contratista la realización y financiamiento en forma parcial de la obra, deberán observarse las reglas de la licitación pública o simplificada, según corresponda, debiendo precisarse de manera clara en las convocatorias o invitaciones respectivas la circunstancia de que se trata de obras financiadas parcialmente por el propio contratista, conforme a los términos especiales que se establezcan en las bases respectivas y en el reglamento de esta Ley.
 
 ###### ARTÍCULO 27.
 
-En el ámbito del Ejecutivo del Estado, para la recuperación del costo financiero de las obras a que se refiere el presente Capítulo, podrá pactarse entre el inversionista y el Gobierno del Estado el establecimiento de cualquiera de los mecanismos financieros señalados en el artículo 23 de esta ley. Al efecto, para la amortización de la obra, podrá otorgarse al inversionista privado algún esquema de recuperación del financiamiento, ya sea a través de los derechos de concesión para su operación y/o explotación y percibir los productos o rendimientos en los términos que se establezcan en el contrato respectivo, o en los flujos futuros del proyecto que el Ejecutivo del Estado presente al Congreso, y queden inscritos en el registro de Presupuestos Multianuales que lleve la Secretaría, para ser incorporados en los presupuestos de egresos de cada año.
+(DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
 ### CAPÍTULO III. DEL REGISTRO SIMPLIFICADO DE LICITANTES DE OBRAS PÚBLICAS Y SERVICIOS
 
@@ -425,9 +421,9 @@ a).- Cuando resulte obligatorio conforme a lo establecido en los tratados;
 
 b).- Cuando, previa investigación que realice la convocante, los contratistas nacionales no cuenten con la capacidad para la ejecución de los trabajos o sea conveniente en términos de precios o tecnología; y
 
-c).- Cuando así se estipule para las contrataciones financiadas con créditos externos otorgados al Ejecutivo del Estado o Gobiernos Municipales con sus respectivos avales.
+c).- (DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
-Deberá negarse la participación a extranjeros en licitaciones internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado o ese país no conceda un trato recíproco a los licitantes, contratistas o proveedores de bienes o servicios mexicanos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 En las licitaciones públicas podrá requerirse la incorporación de materiales, maquinaria y equipo de instalación permanente, de fabricación nacional o estatal, en el porcentaje que determine la convocante.
 
@@ -595,7 +591,7 @@ II.- Al licitante registrado en alguna cámara empresarial, o en el organismo pr
 
 III.- (DEROGADA, B.O. 3 DE NOVIEMBRE DE 2014)
 
-En los casos de obras a ejecutarse bajo la modalidad de financiamiento, la adjudicación del contrato será a favor del licitante cuya suma de su proposición económica y financiera sea la más baja, habiendo considerado las actualizaciones, plazos de pago y las tasas de interés a los flujos de efectivo de la obra en cuestión. Los criterios referidos en líneas anteriores deberán ser determinados por la dependencia, el ayuntamiento o la entidad, según corresponda, para su inserción en las bases de la obra en licitación.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 El resultado del fallo deberá darse a conocer en la fecha que fije la convocante.
 
@@ -1250,3 +1246,49 @@ B.O. 27 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO ESTATAL, DE LA LEY DE DEUDA PÚBLICA, DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora con las salvedades señaladas en los presentes artículos transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que refiere a las reformas propuestas a la Ley del Presupuesto de Egresos y Gasto Público Estatal, el presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los artículos transitorios tercero a séptimo.
+
+###### ARTÍCULO TERCERO.
+
+Los porcentajes a que se refiere el artículo 19 Bis D de la Ley del Presupuesto de Egresos y Gasto Público Estatal, relativo al nivel de aportación al fideicomiso público para acciones preventivas o daños por desastres naturales, será de dos punto cinco por ciento para 2017; de cinco por ciento para 2018; de siete punto cinco por ciento para 2019 y el establecido en dicho artículo, a partir de 2020.
+
+###### ARTÍCULO CUARTO.
+
+La fracción I del artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal entrará en vigor, para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal de 2018. Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal hasta el año 2020. En ningún caso esta excepción transitoria deberá considerar personal administrativo.
+
+###### ARTÍCULO QUINTO.
+
+El porcentaje a que hace referencia el artículo 19 Bis F de la Ley del Presupuesto de Egresos y Gasto Público Estatal relativo a los adeudos del ejercicio fiscal anterior del Estado será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO SEXTO.
+
+El registro de proyectos de inversión pública productiva y el sistema de registro y control de erogaciones de servicios personales a que se refiere el artículo 19 Bis G, fracción III, de la Ley del Presupuesto de Egresos y Gasto Público Estatal deberá estar en operación a más tardar el día 1 de enero de 2018. La Secretaría de Hacienda deberá expedir las disposiciones normativas aplicables para la creación y funcionamiento de ambos, en un término de 180 días naturales contados a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ingresos excedentes derivados de la libre disposición a que hace referencia el artículo 19 Bis H fracción I de la Ley del Presupuesto de Egresos y Gasto Público Estatal, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 19 Bis H de la Ley del Presupuesto de Egresos y Gasto Público Estatal, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando, el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo con el Sistema de Alertas.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refieren los artículos 131, 132, 133, 138, 144, 144 bis, 144 bis A, 144 bis B, 144 bis C, 144 bis D y 144 bis E de la Ley de Gobierno y Administración Municipal, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el transitorio Noveno.
+
+###### ARTÍCULO NOVENO.
+
+El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Administración Municipal, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3° de la Ley de Deuda Pública y en el “DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios” publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
