@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-10-14"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -491,7 +491,7 @@ Cuando los adoptantes opten por sujetarse a la adopción se asentarán en todo l
 
 ###### ARTICULO 60.
 
-Si el nacido se presenta como hijo de padres desconocidos, el Oficial del Registro Civil o quien ejerza sus funciones procederá a levantar el acta de nacimiento asentando en todo lo posible los datos a que se refiere el artículo 58, sin hacer mención de aquella circunstancia, y le pondrá a su elección el nombre y apellidos que deba llevar.
+Si el nacido se presenta como hijo de padres desconocidos, el Oficial del Registro Civil o quien ejerza sus funciones procederá a levantar el acta de nacimiento asentando en todo lo posible los datos a que se refiere el Artículo 58, sin hacer mención de aquella circunstancia, y le pondrá a su elección el nombre y apellidos que deba llevar.
 
 Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil o quien ejerza sus funciones deberá asentar como domicilio del nacido tan solo la ciudad en que esté situado el establecimiento.
 
@@ -12529,7 +12529,9 @@ Los arrendamientos de bienes nacionales, municipales o de establecimientos públ
 
 El arrendador está obligado, aunque no haya pacto expreso:
 
-I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; y si no hubo convenio expreso, para aquél a que por su misma naturaleza estuviere destinada;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en su caso al corriente en el pago de los servicios públicos básicos y esenciales vinculados a la cosa arrendada, y en estado de servir para el uso convenido; y si no hubo convenio expreso, para aquél a que por su misma naturaleza estuviere destinada;
 
 II.- A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
@@ -12575,9 +12577,11 @@ Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, p
 
 El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la disminución de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 2296.
 
-Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, a no ser que tenga algún derecho que ejercitar contra aquél; en este caso depositará judicialmente el saldo referido.
+Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, verificando en su caso que no exista adeudo alguno en el pago de los servicios públicos básicos y esenciales vinculados a la cosa arrendada que corresponda su pago al arrendatario. Para el caso que el arrendador tenga algún derecho que ejercitar contra el arrendatario, aquél depositará judicialmente el saldo referido.
 
 ###### ARTICULO 2297.
 
@@ -12604,6 +12608,10 @@ I.- A satisfacer la renta en la forma y tiempo convenidos;
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
 III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV.- En su caso, a realizar el pago de los servicios públicos básicos y esenciales vinculados a la cosa arrendada que consuma durante el arrendamiento.
 
 ###### ARTICULO 2300.
 
@@ -12879,9 +12887,11 @@ VIII.- Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2352 y 2353.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 2359.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trata, han sufrido una alza después de que se celebró el contrato de arrendamiento.
+Vencido un contrato de arrendamiento, tendrá derecho el arrendatario, siempre que esté al corriente en el pago de las rentas y en su caso en el pago de los servicios públicos básicos y esenciales vinculados a la cosa arrendada, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trata, han sufrido una alza después de que se celebró el contrato de arrendamiento.
 
 Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
 
@@ -12889,9 +12899,11 @@ Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, 
 
 Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 2361.
 
-En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba.
+En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba, así como el pago de los servicios públicos básicos y esenciales vinculados a la cosa arrendada que consuma.
 
 ###### ARTICULO 2362.
 
@@ -12906,6 +12918,10 @@ I.- Por falta de pago de la renta en los términos prevenidos en los artículos 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2299;
 
 III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2354.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV.- En su caso, por falta de pago por dos meses consecutivos sin causa justificada de los servicios públicos básicos y esenciales vinculados a la cosa arrendada.
 
 ###### ARTICULO 2364.
 
@@ -16476,3 +16492,9 @@ P.O. 14 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 589 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 2024 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 671 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2286, 2296, 2299, 2359, 2361 Y 2363 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Artículo Único.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
