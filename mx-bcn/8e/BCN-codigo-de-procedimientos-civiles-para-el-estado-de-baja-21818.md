@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-10-07"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. LA REFORMA PUBLICADA EN EL DECRETO NO. 590 DE FECHA P.O. EL 7 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -803,9 +801,15 @@ Para que los exhortos de los tribunales de los Estados de la Federación, de los
 
 ART. 108.- Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán en cuanto a sus formalidades y tramitación, a las disposiciones relativas al Código Federal de Procedimientos Civiles, así como a lo dispuesto por los tratados internacionales o convenciones internacionales en que México sea parte.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-ART. 109.- Los Tribunales deberán acordar de conformidad que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere promovido la práctica de la diligencia, si esta última así lo solicita, misma que tendrá la obligación de apresurar su diligenciación por el Juez exhortado y de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+ART. 109.- Los exhortos y despachos entre tribunales del Estado y entre éstos y demás tribunales del País, deberán remitirse por medios electrónicos, debiendo dejar constancia en autos cuando se haga por dichos medios.
+
+Todas las constancias para la diligenciación se remitirán digitalizadas por el tribunal respectivo, lo anterior conforme a los lineamientos que al respecto se emitan.
+
+Los Tribunales podrán acordar de conformidad que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere promovido la práctica de la diligencia, si ésta última así lo solicita, misma que tendrá la obligación de apresurar su diligenciación por el Juez exhortado y de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -7202,3 +7206,11 @@ P.O. 7 DE OCTUBRE DE 2016.
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO NO. 590 PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2016.]</small>
 
 CUARTO.- No se aprueban las reformas a los artículos 1480, 1481, 1482, 1451 BIS, 671, 672, 1387, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 2868 del Código Civil para el Estado de Baja California; 866, 867, 868 del Código de Procedimientos Civiles para el Estado de Baja California y 173 de la Ley de Hacienda del Estado de Baja California, por los argumentos vertidos en el cuerpo del presente Dictamen.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 669 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 109 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor 120 días posteriores al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publicada la presente reforma el Consejo de la Judicatura del Poder Judicial del Estado de Baja California, tendrá un término de 90 días para elaborar los lineamientos a los que se sujetarán los exhortos y despachos a que se refiere la presente reforma.
