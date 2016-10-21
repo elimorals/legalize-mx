@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-deuda-publica-del-estado-de-nayarit-11000"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "2009-12-19"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. 21 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+LEY DE DEUDA PÚBLICA DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PÉRIODICO OFICIAL: 21 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 20 de diciembre de 1995.
 
@@ -291,7 +293,7 @@ El Secretario de Finanzas, en su carácter de Secretario Técnico de dicha comis
 
 ###### ARTICULO 16.
 
-Además de las atribuciones que la ley le confiere, la Comisión lntersecretarial de Gasto y Financiamiento tendrá las siguientes funciones:
+Además de las atribuciones que la ley le confiere, la Comisión Intersecretarial de Gasto y Financiamiento tendrá las siguientes funciones:
 
 I. Conocer y evaluar las necesidades de crédito de las entidades señaladas en el Artículo 2o. de esta ley.
 
@@ -594,3 +596,15 @@ P.O. 19 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE DEUDA PÚBLICA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presento Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, salvo lo previsto en los transitorios siguientes.
+
+SEGUNDO.- El Estado y los Municipios no podrán solicitar la garantía del Gobierno Federal, respecto de la deuda pública contraída entre el 1º. de Enero de 2015 y la fecha en que el Ejecutivo del Estado celebre el Convenio en materia de Deuda Estatal Garantizada, salvo que se trate de deuda pública que haya sido contraída para refinanciar y reestructurar la deuda pública asumida con anterioridad al 1º, de Enero de 2015.
+
+TERCERO.- El Estado y los Municipios podrán solicitar la garantía del Gobierno Federal, a la entrada en vigor de la presente Ley, siempre y cuando cumpla con lo dispuesto en esta para ello.
+
+CUARTO.- Se abroga la Ley de Deuda Pública del Estado de Nayarit, publicada con fecha 20 de diciembre de 1995, en el Periódico Oficial, Órgano de Gobierno del Estado.
