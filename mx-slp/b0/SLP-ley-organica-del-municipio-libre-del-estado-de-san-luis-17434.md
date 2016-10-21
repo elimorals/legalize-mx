@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2016-10-06"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1693,6 +1693,10 @@ Además de las comisiones enunciadas en el artículo anterior, podrán crearse o
 
 Las comisiones se conformarán de forma plural y proporcional, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; para su integración se debe considerar el conocimiento, profesión, ocupación, vocación y experiencia de los integrantes del cabildo.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Reglamento respectivo determinará el trámite y los procedimientos que deberán de seguir los asuntos, disposiciones y acuerdos que se turnen expresamente a una comisión, así como los plazos y resolución de los mismos.
+
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 ###### ARTICULO 91.
@@ -2924,3 +2928,13 @@ QUINTO. Los sujetos de esta Ley deberán inscribir todas sus obligaciones o empr
 SEXTO. La Secretaría de Finanzas, a través de la Dirección de Financiamiento, Deuda y Crédito Público, llevará el registro y control de contratos de prestación de servicios y arrendamientos a largo plazo, el cual estaba a cargo de la Oficialía Mayor, a fin de integrarlo al Registro Estatal.
 
 SÉPTIMO. El Ejecutivo del Estado deberá emitir el reglamento de esta Ley, a más tardar ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0409.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 90, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí, deberán expedir o modificar los reglamentos o disposiciones administrativas respectivas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
