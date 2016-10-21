@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2016-07-29"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1465,19 +1465,37 @@ X.- La emisión de recomendaciones previo a los estudios correspondientes a las 
 
 Para el ejercicio de estas atribuciones, se estará a lo dispuesto en las disposiciones reglamentarias.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-ARTÍCULO 106 BIS 1.- Para la preservación, conservación y aprovechamiento sustentable de la vida silvestre y su hábitat, la Secretaria y los municipios en su demarcación territorial, previo los estudios correspondientes podrán promover ante autoridades federales competentes:
+ARTÍCULO 106 BIS 1: Para la preservación, conservación y aprovechamiento sustentable de la vida silvestre y su hábitat, la Secretaría y los Municipios en su demarcación territorial, previo los estudios correspondientes podrán promover ante autoridades federales correspondientes:
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 I.- El establecimiento o modificación de vedas;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
 II.- La declaración de especies endémicas, amenazadas, sujetas a protección especial, en peligro de extinción, o probablemente exista en el medio silvestre,
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 III.- La creación de áreas de refugio para protección de las especies acuáticas;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
 IV.- La modificación o renovación de concesiones, permisos y en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propaganda y desarrollo de la flora y fauna silvestre, y
 
-V.- La celebración de convenios para garantizar la congruencia y propósitos en la acción de los distintos ordenes de gobierno y asumir las funciones y facultades de la federación en los términos de la Ley General de la Vida Silvestre.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+V.- La emisión de normas ambientales en materia de vida silvestre, las cuales deberán de ser congruentes con los lineamientos de la política nacional en la materia, con el propósito de promover el cumplimiento de la legislación en materia de conservación y aprovechamiento sustentable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI.- Listas, catálogos y demás información prioritaria relativa a las especies y subespecies endémicas y endémicas compartidas de la vida silvestre de flora y fauna localizada dentro del Estado, señalando el nombre científico y nombre común más utilizado de las mismas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VII.- La celebración de convenios para garantizar la congruencia y propósitos en la acción de los distintos órganos de gobierno y asumir las funciones y facultades de la federación en los términos de la Ley General de Vida Silvestre.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
@@ -3124,3 +3142,9 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 509 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 111 BIS, A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 627 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 106 BIS 1 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. - La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
