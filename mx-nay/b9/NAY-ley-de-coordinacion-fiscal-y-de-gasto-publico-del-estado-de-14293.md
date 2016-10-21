@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-coordinacion-fiscal-y-de-gasto-publico-del-estado-de-142
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-16"
-last_updated: "2015-02-04"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE COORDINACIÓN FISCAL Y DE GASTO PÚBLICO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 16 de diciembre de 1998.
 
@@ -57,7 +57,9 @@ IV.- Fijar las reglas en materia de coordinación y de colaboración administrat
 
 V.- Incentivar la recaudación, y eficientar la aplicación y ejercicio del gasto en las haciendas públicas estatal y municipales.
 
-VI.- Establecer las bases para: lograr la homologación de la presentación de la información de las finanzas públicas, el establecimiento de mejores prácticas presupuestarias, lograr saneamiento financiero, y la contratación y pago de Deuda Pública regulada en la Ley de Deuda Pública del Estado.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI.- Establecer las bases para lograr la homologación de la presentación de la información de las finanzas públicas, el establecimiento de mejores prácticas presupuestarias que contribuyan a un balance presupuestario sostenible, el saneamiento financiero, y la contratación y pago de Deuda Pública regulada en la Ley de Deuda Pública del Estado de Nayarit.
 
 VII.- Constituir los organismos en materia de Coordinación Fiscal y de Gasto Público, estableciendo procedimientos para su organización y funcionamiento.
 
@@ -71,7 +73,9 @@ II.- "Estado", el Estado de Nayarit.
 
 III.- "Municipio o Municipios", el o los Municipios que conforman el territorio del Estado de Nayarit.
 
-IV.- "Secretaría", la Secretaría de Finanzas de Gobierno del Estado de Nayarit.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV.- "Secretaría", la Secretaría de Administración y Finanzas del Gobierno del Estado de Nayarit.
 
 V.- "Sistema", el Sistema de Coordinación Fiscal y de Gasto Público del Estado de Nayarit.
 
@@ -82,6 +86,18 @@ VII.- "Instituto", el Instituto Coordinador de Capacitación Fiscal y de Gasto P
 VIII.- "H. Legislatura", la H. Legislatura del Estado de Nayarit.
 
 IX.- "Coordinación de Fortalecimiento", la Coordinación General de Fortalecimiento Municipal
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+X.- "Balance presupuestario sostenible", se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XI.- "Fuente de pago", Los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XII.- "Garantía de pago", mecanismo que respalda el pago de un Financiamiento u Obligación contratada.
 
 ### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES A LOS MUNICIPIOS EN INGRESOS FEDERALES
 
@@ -143,11 +159,17 @@ Las participaciones a los Municipios serán cubiertas sin restricción alguna y 
 
 El retraso en la entrega ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de la (sic) contribuciones federales.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 11.
 
-Las participaciones que correspondan a los Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los Municipios con autorización de la H. Legislatura del Estado e inscritas en los términos de la legislación de la materia.
+Las participaciones que correspondan a los Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo aquellas señaladas por la Ley de Coordinación Fiscal, que podrán ser afectadas en garantía, como fuente de pago de obligaciones contraídas por los Municipios, o afectadas en ambas modalidades, con autorización de la H. Legislatura del Estado e inscritas en el Registro Público Único, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a favor de la Federación, de las instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-No estarán sujetas a lo dispuesto en el párrafo anterior las compensaciones que se requieran efectuar a los Municipios por conceptos de anticipos a cuenta de participaciones, y pagos efectuados a solicitud y por cuenta del Municipio.
+Los Municipios podrán convenir que el Estado afecte sus participaciones o aportaciones susceptibles de afectación, para efectos de los establecido en el párrafo anterior.
+
+No estarán sujetas a lo dispuesto en el primer párrafo, las compensaciones que se requieran efectuar al Estado, como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos del Estado y de los Municipios y las obligaciones que tengan con la Federación, conforme a lo dispuesto por la Ley de Coordinación Fiscal.
+
+No estarán sujetas a lo dispuesto en el primer párrafo de este artículo las compensaciones que se requieran efectuar a los Municipios por conceptos de anticipos a cuenta de participaciones, y pagos efectuados a solicitud y por cuenta del Municipio.
 
 ###### ARTICULO 12.
 
@@ -187,9 +209,11 @@ El Ejecutivo del Estado tendrá la facultad de establecer los criterios generale
 
 ### CAPITULO CUARTO. DE LA COORDINACION EN MATERIA DE GASTO
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 19.
 
-El Gobierno del Estado, por conducto de la Secretaría, y de conformidad con las leyes de la materia, propondrá a través de la asamblea, los criterios para eficientar la aplicación y ejercicio del gasto, lograr la homologación de la presentación de la información de las finanzas públicas, establecer mejores prácticas presupuestarias, lograr el saneamiento financiero, y orientar la contratación y pago de Deuda Pública conforme a la Ley de Deuda Pública del Estado.
+El Gobierno del Estado, por conducto de la Secretaría, y de conformidad con las leyes de la materia, propondrá a través de la Asamblea, los criterios para eficientar la aplicación y ejercicio del gasto que contribuya a un balance presupuestario sostenible, lograr la homologación de la presentación de la información de las finanzas públicas, establecer mejores prácticas presupuestarias, lograr el saneamiento financiero, y orientar la contratación y pago de Deuda Pública conforme a la Ley de Deuda Pública del Estado de Nayarit.
 
 ARTlCULO 20.- El Gobierno del Estado, por conducto de la Secretaría, a través de convenios específicos, podrá otorgar apoyos extraordinarios a los Municipios cuando lo estime necesario, los cuales no se considerarán como participaciones.
 
@@ -364,3 +388,13 @@ Segundo.- Para el caso concreto del uso de los recursos del Fondo de Aportacione
 Tercero.- Los convenios celebrados por el Gobierno del Estado de Nayarit, con la Comisión Nacional del Agua, en materia de agua y derechos por descargas de aguas residuales antes de la entrada en vigor del presente decreto, tendrán validez para todos los efectos legales que correspondan.
 
 Cuarto.- Los municipios que decidan adherirse al programa de regularización del pago de derechos y aprovechamientos de agua y derechos por descargas de aguas residuales, deberán solicitar al Congreso del Estado la autorización correspondiente para afectar como garantía del cumplimiento de sus obligaciones de pago las aportaciones con cargo al FORTAMUNDF, en los términos y condiciones que establece la Ley de Deuda Pública del Estado de Nayarit.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE COORDINACIÓN FISCAL Y DE GASTO PÚBLICO DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+Primero. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con las salvedades previstas en los transitorios siguientes.
+
+Segundo. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria, a que se refiere el presente Decreto, entrarán en vigor en las fechas señaladas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
+
+Tercero. Las obligaciones relacionadas con el Registro Público Único serán aplicables hasta la entrada en operación del mismo, y de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
