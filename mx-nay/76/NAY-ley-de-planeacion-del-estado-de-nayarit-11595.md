@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-11595"
 country: "mx"
 rank: "ley"
 publication_date: "1997-07-30"
-last_updated: "1997-07-30"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE PLANEACION DEL ESTADO DE NAYARIT
 
-LEY DE PLANEACION DEL ESTADO DE NAYARIT
+LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el Miércoles 30 de Julio de 1997.
 
@@ -52,6 +52,16 @@ Las disposiciones de esta ley son de orden e interés público y tienen por obje
 ###### ARTICULO 2º.
 
 Para los efectos de esta Ley, la planeación es un medio fundamental para imprimir solidez, dinamismo, permanencia y equidad al desarrollo económico, social, político y cultural del Estado, mediante la participación plural de la sociedad, en la conformación de planes y programas que garanticen una eficiente utilización de los recursos al alcance del Estado y que propicien una más justa distribución del ingreso y la riqueza.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El plan estatal de desarrollo y los municipales deberán observar dicho principio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+La iniciativa de ley de ingresos y el proyecto de presupuesto de egresos del Estado, deberán ser congruentes con el plan estatal de desarrollo y los programas derivados del mismo. Asimismo, las iniciativas de leyes de ingresos y los proyectos de presupuestos de egresos de los Municipios, deberán ser congruentes con el plan estatal y su respectivo plan municipal de desarrollo y los programas derivados de los mismos.
 
 ###### ARTICULO 3º.
 
@@ -488,3 +498,13 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno.
 
 Lic. Sigfrido De La Torre Miramontes.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA EL ARTÍCULO 2 DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, con la salvedad prevista en el artículo siguiente.
+
+Segundo.- La adición relacionada con las iniciativas de leyes de ingresos y los proyectos de presupuestos de egresos entrará en vigor para el Estado en el ejercicio fiscal 2017, y para los municipios en el ejercicio fiscal 2018, de conformidad y con las salvedades previstas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
