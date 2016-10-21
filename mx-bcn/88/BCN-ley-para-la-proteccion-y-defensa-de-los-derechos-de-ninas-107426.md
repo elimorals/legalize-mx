@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2015-04-17"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -163,11 +163,15 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 11.
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -209,11 +213,15 @@ XX. Derecho de acceso a las tecnologías de la información y comunicación, as�
 
 Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### Capítulo Segundo. Derecho a la Vida, a la Supervivencia y al Desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+### Capítulo Segundo. Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 12.
 
-Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, la paz, a la supervivencia y al desarrollo.
 
 Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
@@ -221,9 +229,11 @@ Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas co
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
+Niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
 
 ### Capítulo Tercero. Derecho de Prioridad
 
@@ -1742,3 +1752,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 674 MEDIANTE EL CUAL SE APRUEBA LA REFORMA (SIC) LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO, ASÍ COMO LA REFORMA A LOS ARTÍCULOS 11, 12 Y 14 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
