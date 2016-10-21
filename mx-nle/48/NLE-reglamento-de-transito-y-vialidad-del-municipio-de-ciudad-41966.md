@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2016-09-09"
+last_updated: "2016-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-NOTA 1. [N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60-SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE LA PUBLICACIÓN DE DICHO REGLAMENTO EN EL PERIÓDICO OFICIAL DEL ESTADO.]
+[NOTA 1: DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60-SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE LA PUBLICACIÓN DE DICHO REGLAMENTO EN EL PERIÓDICO OFICIAL DEL ESTADO.]
 
-NOTA 2. [N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL ACUERDO NO. 08 CONSIGNADA EN EL ACTA 023 CORRESPONDIENTE A LA DÉCIMA QUINTA SESIÓN ORDINARIA DE FECHA 26 DE MAYO DEL 2016, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2016, SE PRORROGA LA ENTRADA EN VIGOR 45 DÍAS NATURALES A PARTIR DE SU PUBLICACIÓN.]
+[NOTA 2: DE CONFORMIDAD CON EL PUNTO PRIMERO Y TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE N.L., PUBLICADO EN EL P.O. DE 21 DE OCTUBRE DE 2016, SE PRORROGA LA ABROGACIÓN DEL PRESENTE ORDENAMIENTO HASTA EL 31 DE DICIEMBRE DE 2016.]
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -2077,7 +2077,7 @@ Se impedirá la circulación de vehículos y se retirarán de la vía pública, 
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
-l. Cuando le falten al vehículo ambas placas.
+I. Cuando le falten al vehículo ambas placas.
 
 II. Cuando las placas del vehículo no coincidan en números y letras con la calcomanía o la tarjeta de circulación;
 
@@ -2241,9 +2241,9 @@ Por conducir haciendo uso de los teléfonos celulares sin manos libres o de cual
 
 V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-> <small>N. DE E. VÉASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PÁGINAS 122-129.</small>
+> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PÁGINAS 122-129.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; P.O. 4 DE JULIO DE 2011, PÁGINA 30; P.O. 29 DE ENERO DE 2014, PÁGINA 62; P.O. 16 DE JUNIO DE 2014, PÁGINA 46, P.O. 17 DE NOVIEMBRE DE 2014, PÁGINAS 78-79.</small>
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; P.O. 4 DE JULIO DE 2011, PÁGINA 30; P.O. 29 DE ENERO DE 2014, PÁGINA 62; P.O. 16 DE JUNIO DE 2014, PÁGINA 46, P.O. 17 DE NOVIEMBRE DE 2014, PÁGINAS 78-79.]</small>
 
 ###### ARTÍCULO 137.
 
@@ -2528,3 +2528,17 @@ PRIMERO.- El R. Ayuntamiento de Guadalupe, Nuevo León, en base a sus atribucion
 SEGUNDO.- Instrúyase al Instituto Municipal de Planeación Integral de Ciudad Guadalupe, para que informe permanentemente al R. Ayuntamiento de la Construcción de consensos en torno a las modificaciones del Reglamento de Tránsito Homologado que se llevan a cabo en la Asociación Metropolitana de Alcaldes, y a la Secretaria del Ayuntamiento y la Dirección Política, para que una vez concluido el proceso actúen en consecuencia para presentar al Pleno del Ayuntamiento, el Proyecto de Dictamen correspondiente.
 
 TERCERO.- Instrúyase a la Secretaria del Ayuntamiento, para que remita el presente acuerdo para su publicación en la Gaceta Municipal.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE, N.L.”.]
+
+PRIMERO.- Se Abroga el Reglamento de Tránsito y Vialidad del Municipio de Guadalupe, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, Número 81, de fecha 27-veintisiete de Junio del 2016-dos mil dieciséis.
+
+SEGUNDO.- Se expide (sic) Reglamento de Tránsito y Vialidad del Municipio de Guadalupe, Nuevo León, con sus anexos, que entrará en vigor el día 01-uno de Enero del 2017-dos mil diecisiete.
+
+TERCERO.- El Reglamento de Tránsito y Vialidad del Municipio de Guadalupe, Nuevo León, publicado en el Periódico Oficial del Estado, Número 151, de fecha 26 de noviembre del 2004, cuya abrogación fue publicada en el Periódico Oficial del Estado, Número 81, en fecha 27 de junio del 2016, en base a su transitorio segundo se prorroga su vigencia hasta el 31 de diciembre del 2016.
+
+CUARTO.- Se derogan todas las disposiciones que contravengan el contenido y términos del presente acuerdo.
+
+QUINTO.- Publiquese el presente Reglamento en el Periódico Oficial del Estado de Nuevo León; así mismo publíquese en la Gaceta Municipal y en el portal de internet del Municipio, para su debida difusión.
