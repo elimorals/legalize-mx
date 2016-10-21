@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asociaciones-publico-privadas-del-estado-de-nayarit-5250
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-29"
-last_updated: "2007-12-15"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE ASOCIACIONES PUBLICO PRIVADAS DEL ESTADO DE NAYARIT
 
-LEY DE ASOCIACIONES PUBLICO PRIVADAS DEL ESTADO DE NAYARIT
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 23 DE DICIEMBRE DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Décima Primera al Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 2006.
 
@@ -47,6 +49,10 @@ La presente ley es de orden público e interés social y tiene por objeto establ
 
 Las Asociaciones Público-Privadas son modalidades de inversión a largo plazo, en las que se incorporan técnicas, distribución de riesgos objetivos y recursos preferentemente privados; en ellas podrán asociarse, la banca de desarrollo y las agencias de ayuda internacional para la ejecución de proyectos tradicionalmente realizados por la administración pública estatal o municipal. El propósito será crear o desarrollar infraestructura productiva o la prestación de servicios públicos y la modalidad que se asuma por los contratantes, deberá permitir su adaptación a los objetivos de la administración pública y a la propia naturaleza del proyecto.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las obligaciones que se contraigan bajo el esquema de esta Ley, deberán destinarse a la inversión pública productiva, pudiendo ser el destino, además, la contratación de servicios.
+
 ###### Artículo 3o.
 
 Esta Ley regula, entre otras modalidades las siguientes de contratación administrativa:
@@ -65,35 +71,97 @@ V.- Aquellos esquemas lícitos y proyectos integrales de negocios que faciliten 
 
 Para los efectos de la presente Ley, se entenderá por:
 
-l.- Contrato.- Al Contrato administrativo de largo plazo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
 
-II.- Expediente Técnico.- Los documentos básicos para la ejecución de obra y acciones, en los términos de la normativa aplicable;
+I.- Asociaciones Público Privadas.- Son las contrataciones celebradas bajo el esquema de esta Ley;
 
-III.- Inversionista Proveedor.- A la persona física o moral que celebre un Contrato con el Órgano Ejecutor conforme a lo previsto en esta ley;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-IV.- Ley.- A Ley de Asociaciones Público Privadas del Estado de Nayarit;
+II.- Contrato.- Al Contrato administrativo de largo plazo;
 
-V.- Ley de Adquisiciones.- A la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-VI.- Órgano Ejecutor.- A la dependencia o entidad estatal o municipal responsable de la operación, creación y desarrollo de infraestructura y prestación de servicios públicos o ambas;
+III.- Expediente Técnico.- Los documentos básicos para la ejecución de obra y acciones, en los términos de la normativa aplicable;
 
-VII.- Proyectos.- Conjunto armónico de objetivos, políticas, metas y actividades a realizar en un tiempo y espacio dados, con determinados recursos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
 
-VIII.- Reglamento.- Reglamento de la presente Ley;
+IV.- Fuente de pago.- Los recursos utilizados por los Entes Públicos para el pago de obligaciones que deriven de contrataciones bajo el esquema de esta Ley;
 
-IX.- Secretaría.- A la Secretaría de Planeación del Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
 
-X.- Servicio Público.- Actividad técnica dirigida a la satisfacción de necesidades colectivas cuya prestación sea competencia del Estado o de sus Municipios; y
+V.- Ingresos excedentes.- Los ingresos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 
-XI.- Unidad.- Unidad de Conciliación Administrativa, órgano facultado para intervenir por la vía conciliatoria y avenir a las partes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI.- Inversión pública productiva.- Toda erogación por la cual se genere, directa o indirectamente, un beneficio social y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público especifico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VII.- Inversionista Proveedor.- A la persona física o moral que celebre un Contrato con el Órgano Ejecutor conforme a lo previsto en esta ley;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VIII.- Ley.- A Ley de Asociaciones Público Privadas del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+IX.- Ley de Adquisiciones.- A la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+X.- Mejores condiciones del mercado.- Es la contratación de obligaciones en el esquema de esta Ley, al costo financiero más bajo a cargo del Órgano Ejecutor;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XI.- Obligaciones.- Los compromisos de pago a cargo de los Entes Públicos derivados de contrataciones de Asociación Público Privadas;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XII.- Órgano Ejecutor.- A la dependencia o entidad estatal o municipal responsable de la operación, creación y desarrollo de infraestructura y prestación de servicios públicos o ambas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XIII.- Presupuesto de Egresos.- El Presupuesto de Egresos del Estado o Municipios, aprobado por el Congreso del Estado o los Ayuntamientos, respectivamente;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XIV.- Proyectos.- Conjunto armónico de objetivos, políticas, metas y actividades a realizar en un tiempo y espacio dados, con determinados recursos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XV.- Registro Público Único.- Es una dependencia a cargo de la Secretaría de Hacienda y Crédito Público del Gobierno Federal, que tiene a cargo el registro para la inscripción de Obligaciones y Financiamientos que contraten los Entes Públicos;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XVI.- Reglamento.- Reglamento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XVIII (SIC).- Secretaría.- A la Secretaría de Planeación Programación y Presupuesto del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XVIII.- Secretaría de Finanzas.- Secretaría de Administración y Finanzas del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XIX.- Servicio Público.- Actividad técnica dirigida a la satisfacción de necesidades colectivas cuya prestación sea competencia del Estado o de sus Municipios, y
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+XX.- Unidad.- Unidad de Conciliación Administrativa, órgano facultado para intervenir por la vía conciliatoria y avenir a las partes.
 
 ###### Artículo 5o.
 
 La presente Ley se funda en lo dispuesto por el apartado D del artículo 38, de la Constitución Política del Estado Libre y Soberano de Nayarit, mediante la cual se regula el otorgamiento y cumplimiento de los Contratos, que celebren los Órganos Ejecutores y los inversionistas proveedores, en los cuales se involucran recursos que abarquen varios ejercicios fiscales.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 6o.
 
-El presupuesto de egresos que para cada anualidad se expida, deberá contener los montos máximos autorizados para el pago de las contrataciones hechas bajo los esquemas de esta ley.
+El Presupuesto de Egresos que para cada anualidad se expida, deberá contener las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos bajo el esquema de esta Ley, celebrados o por celebrarse durante el siguiente ejercicio fiscal.
+
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes.
 
 ###### Artículo 7o.
 
@@ -163,9 +231,11 @@ VIII.- Las demás que esta Ley le otorgue.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE FINANZAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-A la Secretaría de Finanzas le corresponden (sic) en el marco de esta Ley, las atribuciones siguientes:
+A la Secretaría de Finanzas le corresponde en el marco de esta Ley, las atribuciones siguientes:
 
 I.- Vigilar que se realice, el ejercicio de presupuestación programática multianual en las finanzas públicas estatales, con base en el Plan Estatal de Desarrollo y los programas y proyectos de largo plazo que de él se deriven;
 
@@ -173,9 +243,17 @@ II.- Otorgar el carácter preferente a proyectos prioritarios, para ser incluido
 
 III.- Autorizar pagos anticipados conforme a los términos y condiciones establecidos en el Contrato respectivo;
 
-IV.- Registrar como gasto corriente o de inversión según sea el caso los pagos realizados por las contra prestaciones basadas en esta ley; los que incluirán, de ser necesario, cualquier erogación accesoria derivada de actos jurídicos o de administración que se requieran para el proyecto aludido; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-V.- Las demás que establezcan las leyes.
+IV.- Registrar como gasto de inversión pública productiva, los pagos realizados por las contra prestaciones basadas en esta ley; los que incluirán, de ser necesario, cualquier erogación accesoria derivada de actos jurídicos o de administración que se requieran para el proyecto aludido;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+V.- Confirmar que las contrataciones realizadas bajo el esquema de esta ley, son celebradas en las mejores condiciones de mercado, y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI.- Las demás que establezcan las leyes.
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO
 
@@ -205,7 +283,9 @@ Los Ayuntamientos tendrán la atribución de autorizar, los actos y Contratos ad
 
 Los Órganos Ejecutores de gasto estatal y municipal, son los entes públicos reconocidos por la Ley, que podrán celebrar Contratos multianuales de largo plazo, derivados de la constitución de Asociaciones Público-Privadas, de conformidad a lo dispuesto por esta Ley; debiendo además realizar las acciones siguientes:
 
-I.- Identificar el gasto corriente o de inversión que corresponda;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+I.- Identificar el gasto de inversión pública productiva;
 
 II.- Justificar que la celebración del acto o Contrato representa ventajas económicas o que sus términos o condiciones son más favorables; y
 
@@ -214,6 +294,14 @@ III.- Desglosar el gasto a precios del año tanto para el ejercicio fiscal corre
 Las dependencias y entidades de carácter estatal y municipal; requerirán la autorización de la Secretaría y en su caso del Ayuntamiento de que se trata, para la celebración de los Contratos a que se refiere esta Ley. En el caso de las entidades, será necesaria además la autorización de su órgano de gobierno conforme a las disposiciones generales aplicables.
 
 Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivos Órganos de Gobierno, podrán autorizar la celebración de Contratos multianuales siempre y cuando se sujeten a lo dispuesto por esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Los Entes Públicos y/o el Órgano Ejecutor, deberán inscribir las contrataciones realizadas bajo el esquema de esta Ley en el Registro Público Único. Dicha inscripción deberá indicar las obligaciones principales y subyacentes, si las hubiere, con el objeto de que no haya duplicidad de registros en el Registro Público Único. Asimismo, el Órgano Ejecutor deberá presentar para su inscripción la información relativa al monto de inversión del proyecto a valor presente y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión, el plazo del contrato, así como las erogaciones pendientes de pago.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+Una vez celebrados los instrumentos jurídicos relativos a la contratación de Asociaciones Público-Privadas, a más tardar 10 días posteriores a la inscripción en el Registro Público Único, el Órgano Ejecutor deberá publicar en su página oficial de Internet dichos instrumentos.
 
 ###### Artículo 15.
 
@@ -287,7 +375,13 @@ III.- Plazo máximo de duración del Contrato;
 
 IV.- Análisis costo beneficio, el cual deberá demostrar que los beneficios serán igual o mayores que si los realizará directamente la dependencia o entidad solicitante, y;
 
-V.- Los que establezcan el reglamento y la normativa aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+
+V.- Un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado, y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+VI.- Los que establezca el reglamento y la normativa aplicable.
 
 ###### Artículo 24.
 
@@ -301,13 +395,11 @@ Por cada Proyecto que se pretenda realizar, el titular de la dependencia o entid
 
 Para los efectos del procedimiento de licitación para adjudicar la prestación de servicios públicos y creación o desarrollo de infraestructura, se aplicarán las disposiciones y reglas que señala este ordenamiento y, en lo que no se opongan a éstas, las previstas en las leyes de Obra Pública del Estado de Nayarit y de Adquisiciones, según las características de cada proyecto.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-Artículo 25 A.- Los contratos administrativos de largo plazo se adjudicarán a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado, a fin de asegurar al Estado y al Ayuntamiento, en su caso, las mejores condiciones disponibles en cuanto precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo previsto en la presente Ley, a excepción de los casos a que se refiere el siguiente párrafo.
+Artículo 25 A.- Los contratos administrativos de largo plazo se adjudicarán a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado, a fin de asegurar al Estado y al Ayuntamiento, en su caso, las mejores condiciones disponibles en cuanto precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo previsto en la presente Ley, con los criterios establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-Los Órganos Ejecutores, previo dictamen favorable correspondiente, de las autoridades de planeación, finanzas y contraloría en los ámbitos estatal y municipal, y bajo su responsabilidad, podrán optar por otorgar concesiones mediante los procedimientos de invitación a cuando menos tres personas o por adjudicación directa, cuando el financiamiento de la obra o servicio público, de que se trate, sea a cargo de particulares, persona física o moral, que cuente con experiencia necesaria, recursos económicos, técnicos y materiales suficientes. Lo anterior, siempre y cuando exista solicitud expresa de particular para desarrollar un proyecto financiado con recursos privados y previa aprobación del estudio de viabilidad a que se refiere esta Ley.
-
-En cualquier supuesto, se invitará a personas físicas y morales que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de las obras o servicios públicos a desarrollar
+Los contratos administrativos de largo plazo se adjudicarán de acuerdo al procedimiento competitivo regulado en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 26.
 
@@ -517,9 +609,11 @@ El poder ejecutivo por conducto de la Secretaría de Finanzas y el Ayuntamiento 
 
 El Órgano Ejecutor deberá disponer en todo momento de medidas de inspección, control y vigilancia; necesarias para asegurar el cumplimiento del objeto del Contrato y en particular para verificar el adecuado desempeño del inversionista o grupo proveedor, comprobando la congruencia entre el Proyecto, el Contrato y su ejecución. Debiendo informar en los términos de la Ley de la materia, todas las erogaciones realizadas en el Proyecto, al Órgano de Fiscalización Superior.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 59.
 
-Los pagos que se deban realizar una vez satisfechos los criterios previstos en esta Ley, el Reglamento y las demás disposiciones legales aplicables, serán de carácter obligatorio. El Órgano Ejecutor contratante programará y dará prioridad en su previsión presupuestal, al cumplimiento de las obligaciones de pago derivadas del Contrato y deberán registrarse como gasto corriente o de inversión según sea el caso; en los ejercicios fiscales que el Contrato señale.
+Los pagos que se deban realizar una vez satisfechos los criterios previstos en esta Ley, el Reglamento y las demás disposiciones legales aplicables, serán de carácter obligatorio. El Órgano Ejecutor contratante programará y dará prioridad en su previsión presupuestal, al cumplimiento de las obligaciones de pago derivadas del Contrato y deberán registrarse como gasto de inversión público productiva, en los ejercicios fiscales que el Contrato señale.
 
 ###### Artículo 60.
 
@@ -665,10 +759,20 @@ Dip. Jocelyn Patricia Fernández Molina, Presidente.- Rúbrica.- Dip. Angélica 
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiocho días del mes de noviembre del año dos mil seis.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaría General de Gobierno, Profra. Cora Cecilia Pinedo Alonso.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE DICIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nayarit, Órgano del Gobierno del Estado, salvo lo previsto en los transitorios siguientes.
+
+Segundo. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria, contenidas en los artículos 6 y 23 del presente Decreto, entrarán en vigor en las fechas señaladas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
+
+Tercero. Las obligaciones relacionadas con el Registro Público Único serán aplicables hasta la entrada en operación del mismo, y de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
