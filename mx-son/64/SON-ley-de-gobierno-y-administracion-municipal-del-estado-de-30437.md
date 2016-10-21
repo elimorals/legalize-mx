@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2014-11-03"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -80,6 +80,28 @@ V. Impulsar el bienestar y la seguridad de los habitantes del Municipio, mediant
 VI. Promover y fomentar la participación ciudadana, así como el desarrollo cívico y cultural de sus habitantes; y
 
 VII. Vigilar que los habitantes del Municipio, en el ejercicio de sus derechos, respeten el interés público y el bienestar general de la población.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 6º Bis.
+
+Para efectos de la presente ley se entenderá por:
+
+I.- Balance Presupuestario: la diferencia entre los Ingresos Totales incluidos en la Ley de Ingresos, y los Gastos Totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+II.- Balance Presupuestario de Recursos Disponibles: la diferencia entre los Ingresos de Libre Disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos No Etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+III.- Entes Públicos: los Municipios; los organismos descentralizados, empresas de participación municipal mayoritaria y fideicomisos públicos de los Municipios, así como cualquier otro ente sobre el que los Municipios tengan control sobre sus decisiones o acciones;
+
+IV. Gasto Corriente: las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
+
+V. Ingresos de Libre Disposición: los ingresos locales o participaciones federales, recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas y cualquier otro recurso que no esté destinado a un fin específico;
+
+VI. Ingresos Excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
+
+VII. Percepciones Extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables, que no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social; y
+
+VIII. Transferencias Federales Etiquetadas: los recursos recibidos de la Federación que estén destinados a un fin específico tales como las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recurso (sic) con destinos específico (sic) que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
 
 ###### Artículo 7°.
 
@@ -611,6 +633,10 @@ N).- Designar en la primera sesión que celebren en el mes de enero de cada año
 
 Ñ).- Otorgar concesiones para la prestación de servicios públicos de su competencia, en la forma y términos que señalen esta Ley y las demás leyes relativas;
 
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Asimismo, autorizar la celebración de contratos para la ejecución de proyectos que se lleven a cabo bajo la modalidad de alianza público privada de servicios u otros contratos o actos multianuales;
+
 O).- Acordar, por mayoría calificada y mediando razones de orden e interés público, la revocación de los actos administrativos mediante los cuales se autorizó a los particulares para prestar los servicios públicos de su competencia;
 
 P).- Establecer las bases para la participación, colaboración y cooperación de los habitantes en la prestación, construcción y conservación de los servicios y obras públicas;
@@ -653,7 +679,13 @@ G).- Formular los estados financieros que comprenderán la balanza de comprobaci
 
 H).- Ejercer directamente o por conducto de quienes autoricen, bajo los principios de honradez y eficacia, los recursos económicos de que dispongan, conforme a lo establecido en el artículo 150 de la Constitución Política Local y en las leyes aplicables;
 
-I).- Conocer y evaluar las necesidades y capacidad de endeudamiento de la administración pública municipal, pudiendo aprobar la contratación de empréstitos en los términos establecidos por la Ley de Deuda Pública para el Estado y los Municipios, solicitando, para tal efecto, la autorización correspondiente al Congreso del Estado;
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+I).- Conocer y evaluar las necesidades y capacidad de endeudamiento de la administración pública municipal, pudiendo aprobar la contratación de empréstitos en los términos establecidos por la Ley de Deuda Pública del Estado de Sonora, solicitando, para tal efecto, la autorización correspondiente al Congreso del Estado;
+
+Igualmente tendrá la facultad para autorizar la afectación, a través de cualquier medio legal, de ingresos propios municipales u otros conceptos susceptibles de afectación, para la realización de proyectos en términos de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora.
+
+El Ayuntamiento deberá incluir en el Presupuesto de Egresos Municipal de cada año que corresponda, las asignaciones presupuestales que rebasen un ejercicio presupuestal en términos de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora;
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 2008)</small>
 
@@ -1025,9 +1057,13 @@ II. Dar cumplimiento a los convenios de coordinación fiscal;
 
 III. Vigilar la administración de fondos para obras por cooperación;
 
-IV. Proporcionar oportunamente al Ayuntamiento todos los datos que sean necesarios para la aprobación de los proyectos de Ley de Ingresos y Presupuesto de Ingresos, así como el Presupuesto (sic) Egresos;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-V. Formular los proyectos de Presupuesto de Egresos y pronóstico de ingresos;
+IV. Proporcionar oportunamente al Ayuntamiento todos los datos que sean necesarios para la aprobación de los proyectos de Ley de Ingresos y Presupuesto de Ingresos, así como el Presupuesto de Egresos, incluyendo la información a la que se refiere el segundo párrafo del artículo 130 de este ordenamiento;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+V. Formular los proyectos de Presupuesto de Egresos y pronóstico de ingresos incluyendo todos los elementos a los que se refiere este ordenamiento legal.
 
 VI. Proponer al Ayuntamiento las medidas o disposiciones que tiendan a incrementar los recursos económicos que constituyen la Hacienda Pública Municipal;
 
@@ -1049,7 +1085,7 @@ d) Los estados financieros trimestrales que se deban enviar al Congreso del Esta
 
 e) El programa financiero mediante el cual se manejará la deuda pública municipal y su forma de administrarla; y
 
-f) Los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega–recepción de la misma, en el rubro relativo a la Tesorería.
+f) Los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega-recepción de la misma, en el rubro relativo a la Tesorería.
 
 XI. Organizar el funcionamiento de la unidad de auditoria interna;
 
@@ -1449,25 +1485,57 @@ El Presupuesto de Egresos Municipal será el que apruebe el Ayuntamiento respect
 
 En caso de que al treinta y uno de diciembre del año que corresponda, el Ayuntamiento apruebe el Presupuesto de Egresos que regirá el próximo año, se declarará aplicable para el siguiente ejercicio fiscal, el Presupuesto de Egresos que se encuentre vigente, sólo en lo relativo al gasto corriente. Para el cumplimiento de lo establecido en este párrafo, el Presidente Municipal mandará publicar en el Boletín Oficial del Gobierno del Estado la declaratoria correspondiente.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 130.
 
-El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo que antecede, deberá incorporar los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores.
+El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo que antecede, deberá incorporar las erogaciones que rebasen un ejercicio presupuestal para proyectos de alianza público privada de servicios, los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores.
+
+Además de lo establecido en el párrafo anterior, los Ayuntamientos deberán prever en el Presupuesto de Egresos, para cada ejercicio fiscal, una partida específica denominada "fondo para el pago de aguinaldos de los trabajadores municipales". Cada Ayuntamiento deberá tomar como base para la integración de esta partida el número de trabajadores del municipio de que se trate y el monto anual de aguinaldo al que tienen derecho los trabajadores en términos de las leyes aplicables. Los recursos de dicha partida deberán ejercerse y depositarse en una cuenta bancaria en una institución de banca de desarrollo, la cual cuente con una disposición restringida para que su uso sea únicamente al momento en el que deba llevarse a cabo el pago de los aguinaldos de los trabajadores municipales. Dicho pago deberá realizarse a más tardar en las fechas especificadas para tal efecto en la legislación laboral aplicable.
 
 ###### Artículo 131.
 
 El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base a los objetivos y metas que se señalen en el programa operativo anual.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Presidente Municipal a través de la Tesorería Municipal y el Ayuntamiento en el ámbito de sus competencias deberán verificar que el Presupuesto de Egresos cumpla con las normas y lineamientos establecidos en la Ley General de Contabilidad Gubernamental con las normas que para tal efecto emita el Consejo Nacional de Amortización Contable.
+
 ###### Artículo 132.
 
 Las asignaciones presupuestarias se establecerán por programas y con la subdivisión que por cada uno de ellos se determine, atendiendo el clasificador de actividades públicas municipales aprobado por el Ayuntamiento.
 
-Asimismo, se establecerán los importes respectivos a nivel de partidas, mismas que estarán definidas en el clasificador por objeto del gasto aprobado por el Ayuntamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Gasto Total propuesto por el Ayuntamiento del Municipio en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal deberá contribuir con un Balance Presupuestario sostenible en términos de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+El Ayuntamiento del Municipio deberá generar Balances presupuestarios sostenibles. Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con lo establecido en las leyes aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Debido a las razones excepcionales a que se refiere el artículo 19 Bis A de la Ley del Presupuesto de Egresos y Gasto Público Estatal, el Congreso del Estado podrá aprobar un Balance Presupuestario de Recursos Disponibles negativo para el Municipio respectivo. Para tal efecto, el Tesorero Municipal será responsable de cumplir y verificar que se cumplan con las disposiciones contenidas en el referido artículo 19 Bis A.
 
 ###### Artículo 133.
 
 Para la asignación de las previsiones de gasto público municipal la Tesorería Municipal proyectará y calculará los egresos del gobierno municipal, haciéndolo compatible con la disponibilidad de recursos al proyectar y calcular los ingresos del Municipio.
 
 En la proyección del ingreso a que se refiere el párrafo anterior, la Tesorería Municipal deberá considerar las necesidades de gasto público municipal, la utilización del crédito público, en su caso, y la sanidad financiera de la administración pública municipal.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el dos punto cinco por ciento de los Ingresos Totales del respectivo Municipio.
 
 ###### Artículo 134.
 
@@ -1519,9 +1587,47 @@ VI. Ingresos y gastos realizados en el último ejercicio fiscal;
 
 VII. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
-VIII. Situación de la deuda pública municipal, al fin del último ejercicio fiscal y estimación de la que se tendrá en los ejercicios en curso e inmediato siguiente; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IX. Políticas de gasto, ejercicio del presupuesto y rendición de cuentas al Ayuntamiento.
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+VIII. Situación de la Deuda Pública municipal al fin del último ejercicio fiscal y estimación de la que se tendrá en los ejercicios en curso e inmediato siguiente;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+IX. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios General de Política Económica
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+X. Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un período de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán, y en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XI. Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XII. Los resultados de las finanzas públicas que abarquen un periodo de los últimos tres años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XIII. Un estudio actuarial de pensiones de los trabajadores del Municipio, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas bajo la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial presente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Las proyecciones y resultados a que se refieren las fracciones IX y XII, respectivamente, comprenderán solo un año para el caso de los Municipios con una población menor a doscientos mil habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Hacienda del Estado para cumplir con lo previsto en este artículo.
 
 ###### Artículo 139.
 
@@ -1562,6 +1668,118 @@ Deberá anexarse al documento, la calendarización del ejercicio de los egresos 
 Para efectuar modificaciones al Presupuesto de Egresos se deberá seguir el mismo procedimiento que para su aprobación y ser sancionadas por mayoría absoluta del Ayuntamiento.
 
 Las modificaciones al Presupuesto de Egresos deberán ser publicadas en el Boletín Oficial del Gobierno del Estado dentro de un plazo máximo de treinta días posteriores a la fecha de su aprobación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Los Municipios, incluyendo sus Entes Públicos deberán observar las disposiciones contenidas en los artículos 144 Bis, 144 Bis A, 144 Bis B, 144 Bis C, 144 Bis D y 144 Bis E de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 144 Bis.
+
+Toda propuesta de aumento o creación de gasto del presupuesto de egresos municipal, deberá acompañarse con la correspondiente partida de ingreso o compensarse con reducciones en otras previsiones de gasto.
+
+No procederá pago alguno que no esté comprendido en el presupuesto de egresos municipal, determinado por ley posterior o con cargo a los Ingresos Excedentes. El Presidente Municipal deberá revelar en la cuenta pública y en los informes que periódicamente entregue, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto Etiquetado y No Etiquetado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Artículo 144 Bis A.- En materia de servicios personales, el presupuesto de egresos municipal deberá cumplir con los siguientes lineamientos. En todo caso, en la elaboración y posterior aprobación del presupuesto de egresos se observará lo siguiente:
+
+I.- La asignación global de recursos para servicios personales que se apruebe en el presupuesto de egresos, tendrá como límite, el producto que resulte de aplicar al monto aprobado en el presupuesto de egresos del ejercicio inmediato anterior, una tasa de crecimiento equivalente al valor que resulte menor entre:
+
+a) El tres por ciento de crecimiento real; y
+
+b) El crecimiento real del Producto Interno Bruto señalado en los Criterios Generales de Política Económica que emite la Secretaría de Hacienda y Crédito Público, para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente una variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero.
+
+Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
+
+Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, hasta por el monto que específicamente se requiera para dar cumplimiento a la ley respectiva.
+
+II.- En el proyecto de presupuesto de egresos se deberá presentar en una sección específica, las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+
+a) Las remuneraciones de los servidores públicos, desglosando las percepciones ordinarias y extraordinarias, e incluyendo las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones; y
+
+b) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del presupuesto de egresos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Artículo 144 Bis B.- Los Ingresos Excedentes derivados de Ingresos de Libre Disposición del Municipio deberán ser destinados a los siguientes conceptos:
+
+I.- Por lo menos el cincuenta por ciento para la amortización anticipada de la Deuda Pública conforme a lo establecido en la Ley de Deuda Pública del Estado de Sonora, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones; y
+
+II.- En su caso, el remanente para:
+
+a) Inversión pública productiva tal y como se define en la Ley de Deuda Pública del Estado de Sonora, a través de un fondo que se constituya para tal efecto, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente; y
+
+b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de Libre Disposición de ejercicios subsecuentes.
+
+Los Ingresos Excedentes, derivados de Ingresos de Libre Disposición de los Municipios podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Municipio se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas que lleva la Secretaría de Hacienda y Crédito Público.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Artículo 144 Bis C.- En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos para el Municipio en la Ley de Ingresos de que se trate, el Presidente Municipal, a efecto de cumplir con el principio de sostenibilidad del Balance Presupuestario y del Balance Presupuestario de Recursos Disponibles, deberá aplicar ajustes al presupuesto de egresos en los rubros de gasto en el siguiente orden:
+
+I.- Gastos de comunicación social;
+
+II.- Gasto Corriente que no constituya un subsidio entregado directamente a la población; y
+
+III.- Gasto en servicios personales, prioritariamente las erogaciones por concepto de Percepciones Extraordinarias.
+
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Artículo 144 Bis D.- A más tardar el quince de enero de cada año, se deberán reintegrar a la Tesorería de la Federación todas las Transferencias Federales Etiquetadas que, al treinta y uno de diciembre del ejercicio fiscal inmediato anterior, no hayan sido devengadas por los Entes Públicos. Sin perjuicio de lo anterior, las Transferencias Federales Etiquetadas que, al treinta y uno de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido y aquéllas devengadas pero que no hayan sido pagadas, deberán cubrir los pagos respectivos a más tardar durante el primer trimestre del ejercicio fiscal siguiente, o bien, de conformidad con el calendario de ejecución establecido en el convenio correspondiente; una vez cumplido el plazo referido, los recursos remanentes deberán reintegrarse a la Tesorería de la Federación, a más tardar dentro de los quince días naturales siguientes.
+
+Los reintegros deberán incluir los rendimientos financieros generados.
+
+Para los efectos de este artículo, se entenderá que el Municipio ha devengado o comprometido las Transferencias Federales Etiquetadas, en el momento previsto en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Artículo 144 Bis E.- Una vez aprobado el presupuesto de egresos, para el ejercicio del gasto, el Municipio deberá observar las disposiciones siguientes:
+
+I.- Sólo podrá comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
+
+II.- Podrá realizar erogaciones adicionales a las aprobadas en el presupuesto de egresos con cargo a los Ingresos Excedentes que obtenga y con la autorización previa de la Secretaría de Hacienda;
+
+III.- Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a diez millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+
+Para los propósitos señalados en el párrafo anterior, los Municipios de más de doscientos mil habitantes, de acuerdo con el último censo o conteo de la población que publique el Instituto Nacional de Estadística y Geografía, deberán evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública productiva del Municipio.
+
+Tratándose de proyectos de Inversión pública productiva que se pretendan contratar bajo un esquema de Alianza Público Privada, el Municipio o sus Entes Públicos deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado en términos con lo dispuesto en los artículos 19, fracción III y 20 de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora.
+
+Dichas evaluaciones deberán ser públicas a través de las páginas oficiales de Internet del Municipio;
+
+IV.- Sólo procederá hacer pagos con base en el presupuesto de egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+
+V.- La asignación global de servicios personales aprobada originalmente en el presupuesto de egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+
+La Tesorería contará con un sistema de registro y control de las erogaciones de servicios personales que contará con un apartado para los Municipios;
+
+VI.- Deberán tomar medidas para racionalizar el Gasto Corriente.
+
+Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la Deuda Pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del Balance Presupuestario de Recursos Disponibles negativo, y en segundo lugar a los programas prioritarios que determine el Municipio conforme al Plan Municipal de Desarrollo correspondiente;
+
+VII.- En materia de subsidios se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente.
+
+La información señalada en el párrafo anterior deberá hacerse pública a través de las páginas oficiales de Internet del Municipio; y
+
+VIII.- Una vez concluida la vigencia del presupuesto de egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las Transferencias Federales Etiquetadas se estará a lo dispuesto en el artículo 144 Bis D de esta Ley.
 
 ### CAPITULO CUARTO. DEL EJERCICIO DEL GASTO
 
@@ -1881,7 +2099,9 @@ II. Los inmuebles destinados por el Ayuntamiento a un servicio público;
 
 III. Los monumentos históricos, arqueológicos, artísticos, de naturaleza mueble e inmueble, de propiedad municipal;
 
-IV. Los muebles municipales que por su naturaleza normalmente no sean sustituibles;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV. Los muebles municipales, que por su naturaleza normalmente no sean fungibles y aquellos destinados por el Ayuntamiento a la prestación de un servicio público;
 
 V. Las servidumbres, cuando el predio dominante sea uno de los indicados en este artículo;
 
@@ -2134,6 +2354,10 @@ Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubi
 ###### Artículo 214.
 
 Los derechos sobre la explotación, uso y aprovechamiento de los bienes inmuebles del dominio público municipal, se adquirirán mediante el otorgamiento de las concesiones respectivas, mismas que no confieren derechos reales, otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes y el documento que contenga la concesión.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Asimismo, el Municipio podrá conceder el uso gratuito, por el tiempo que determine el propio Municipio, u oneroso de los bienes del dominio público municipal mediante el otorgamiento de concesiones, permisos o derechos de uso para el desarrollo de Alianzas Público Privadas de servicios en términos de la legislación aplicable. En dichos supuestos, el Ayuntamiento podrá otorgar exenciones de pago de contribuciones por el uso de dichos bienes del dominio público municipal de conformidad con las disposiciones fiscales respectivas.
 
 ###### Artículo 215.
 
@@ -3865,8 +4089,48 @@ B.O. 3 DE NOVIEMBRE DE 2014.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado de Sonora.
 
-## [N. DE E. TRANSITORIOS DE LA “NOTA ACLARATORIA A LA PUBLICACIÓN POR EL CUAL SE DA A CONOCER LA VERSIÓN DIGITALIZADA DE LA CIRCULAR OAJPJCDMX-09/2026 QUE CONTIENE EL “REGLAMENTO INTERIOR DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”, PUBLICADO EL 10 DE MARZO DE 2026, EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 1816”.]
+B.O. 21 DE OCTUBRE DE 2016.
 
-PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO ESTATAL, DE LA LEY DE DEUDA PÚBLICA, DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA”.]
 
-SEGUNDO.- La presente nota aclaratoria entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora con las salvedades señaladas en los presentes artículos transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que refiere a las reformas propuestas a la Ley del Presupuesto de Egresos y Gasto Público Estatal, el presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los artículos transitorios tercero a séptimo.
+
+###### ARTÍCULO TERCERO.
+
+Los porcentajes a que se refiere el artículo 19 Bis D de la Ley del Presupuesto de Egresos y Gasto Público Estatal, relativo al nivel de aportación al fideicomiso público para acciones preventivas o daños por desastres naturales, será de dos punto cinco por ciento para 2017; de cinco por ciento para 2018; de siete punto cinco por ciento para 2019 y el establecido en dicho artículo, a partir de 2020.
+
+###### ARTÍCULO CUARTO.
+
+La fracción I del artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal entrará en vigor, para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal de 2018. Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal hasta el año 2020. En ningún caso esta excepción transitoria deberá considerar personal administrativo.
+
+###### ARTÍCULO QUINTO.
+
+El porcentaje a que hace referencia el artículo 19 Bis F de la Ley del Presupuesto de Egresos y Gasto Público Estatal relativo a los adeudos del ejercicio fiscal anterior del Estado será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO SEXTO.
+
+El registro de proyectos de inversión pública productiva y el sistema de registro y control de erogaciones de servicios personales a que se refiere el artículo 19 Bis G, fracción III, de la Ley del Presupuesto de Egresos y Gasto Público Estatal deberá estar en operación a más tardar el día 1 de enero de 2018. La Secretaría de Hacienda deberá expedir las disposiciones normativas aplicables para la creación y funcionamiento de ambos, en un término de 180 días naturales contados a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ingresos excedentes derivados de la libre disposición a que hace referencia el artículo 19 Bis H fracción I de la Ley del Presupuesto de Egresos y Gasto Público Estatal, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 19 Bis H de la Ley del Presupuesto de Egresos y Gasto Público Estatal, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando, el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo con el Sistema de Alertas.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refieren los artículos 131, 132, 133, 138, 144, 144 bis, 144 bis A, 144 bis B, 144 bis C, 144 bis D y 144 bis E de la Ley de Gobierno y Administración Municipal, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el transitorio Noveno.
+
+###### ARTÍCULO NOVENO.
+
+El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Administración Municipal, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3º de la Ley de Deuda Pública y en el “DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios” publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
