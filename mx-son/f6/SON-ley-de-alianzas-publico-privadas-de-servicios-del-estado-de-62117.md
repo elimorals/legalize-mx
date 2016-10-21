@@ -4,7 +4,7 @@ identifier: "SON-ley-de-alianzas-publico-privadas-de-servicios-del-estado-de-621
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2015-03-02"
+last_updated: "2016-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE ALIANZAS PUBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 2 DE MARZO DEL 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -51,7 +49,9 @@ La presente ley es de orden público y tiene por objeto regular las acciones rel
 
 I.- Las dependencias, los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales del Gobierno del Estado; y
 
-II.- Los ayuntamientos de los municipios del Estado y las entidades, organismos auxiliares y fideicomisos públicos de los municipios.
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+II.- Los ayuntamientos de los municipios del Estado, sus dependencias, organismos descentralizados, empresas de participación municipal mayoritarias y los fideicomisos públicos municipales.
 
 ###### ARTÍCULO 2.
 
@@ -65,19 +65,53 @@ III.- Contrato: Acto jurídico celebrado entre el Ente Contratante y el Proveedo
 
 IV.- Ente Contratante: Las personas y entes de carácter público señalados en el artículo 1 de esta ley;
 
-V.- Garantía de Pago. La afectación, a través de cualquier medio legal, incluyendo fideicomisos de financiamiento, por parte del Estado, como garantía y/o fuente de pago, de participaciones en ingresos estatales, o de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios u otros conceptos que sean susceptibles de afectación;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-VI.- Largo Plazo: Un período de por lo menos cinco años;
+V.- Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo del Ente Contratante, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente.
 
-VII.- Licitante: La persona que participe en cualquiera de los procedimientos de contratación para una Alianza previstos en esta ley;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-VIII.- Precio: Valor monetario asignado al objeto materia de la Alianza;
+VI.- Fuente de Pago: Los recursos utilizados por el Ente Contratante para el pago de cualquier Financiamiento u Obligaciones.
 
-IX.- Proveedor: Una persona, física o moral del sector privado que celebre, conforme a lo previsto en esta ley, un Contrato;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-X.- Proyecto: Cualquier proyecto que un Ente Contratante pretenda desarrollar a través de una Alianza; y
+VII.- Garantía de Pago: La afectación, a través de cualquier medio legal, por parte del Estado o Municipio de que se trate, como garantía y/o fuente de pago, de participaciones en ingresos federales, estatales o de cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios u otros conceptos que sean susceptibles de afectación en términos de la legislación aplicable;
 
-XI.- Secretaría: La Secretaría de Hacienda del Estado.
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+VIII.- Inversión Pública Productiva: Toda erogación realizada por un Ente Contratante, por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+IX.- Largo Plazo: Un período de por lo menos cinco años;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+X.- Licitante: La persona que participe en cualquiera de los procedimientos de contratación para una Alianza previstos en esta Ley;
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XI.- Obligaciones: Los compromisos de pago a cargo de los Entes Contratantes derivados de los Financiamientos y de las Alianzas Público Privadas;
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XII.- Precio: Valor monetario asignado al objeto materia de la Alianza;
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XIII.- Proyecto: Cualquier proyecto que un Ente Contratante pretenda desarrollar a través de una Alianza;
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XIV.- Proveedor: Una persona, física o moral del sector privado que celebre, conforme a lo previsto en esta Ley, un Contrato;
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XV.- Registro de Proyectos: El registro de proyectos de Inversión Pública Productiva que el Estado, a través de la Secretaría, llevará en términos de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios; y
+
+> <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+XVI.- Secretaría: La Secretaría de Hacienda del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -88,6 +122,10 @@ Las disposiciones administrativas que se emitan de conformidad con la facultad p
 ###### ARTÍCULO 4.
 
 En lo no previsto por esta ley serán aplicables supletoriamente la Ley de Procedimiento Administrativo, el Código Civil para el Estado de Sonora y el Código de Procedimientos Civiles del Estado de Sonora, siempre que sus disposiciones no se opongan a la naturaleza administrativa de los contratos y procedimientos previstos en este ordenamiento.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Cuando la presente Ley haga referencia a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios se entenderá que se hace referencia a la misma, así como a cualquier disposición administrativa, jurídica, financiera o contable que se emita en virtud de lo establecido en dicha ley y que resulten aplicables a las Alianzas Público Privadas que se desarrollen en términos del presente ordenamiento.
 
 ###### ARTÍCULO 5.
 
@@ -115,11 +153,15 @@ Para ser considerados como una Alianza, los Proyectos deberán cumplir con lo si
 
 I.- Su realización debe implicar la celebración de un contrato a largo plazo;
 
-II.- Los servicios que el Proveedor preste al Ente Contratante deberán permitir a éste satisfacer las necesidades de infraestructura, la prestación de servicios públicos y el cumplimiento eficaz de los objetivos institucionales que tiene asignados conforme a lo establecido en las disposiciones aplicables, en el Plan Estatal de Desarrollo y en sus programas operativos;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+II.- Satisfacer las necesidades de Inversión Pública Productiva en términos de la Ley del Presupuesto de Egresos y Gasto Público Estatal y de la Ley de Disciplina Financiera de las Entidades Federativas y sus Municipios.
 
 III.- El Proveedor preste los servicios preferentemente con bienes propios, o en su caso con bienes de un tercero, o bienes públicos respecto de los cuales cuente con título legal que le permita hacer uso de los mismos por el plazo que durará la Alianza o contrato que se pretenda establecer; y
 
-IV.- El Proveedor sea responsable de la inversión y el financiamiento, que en su caso, sea necesario para el desarrollo de los servicios que prestará a través de la Alianza.
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+IV.- Observar la legislación y reglamentación estatal, que en su caso, sea emitida al amparo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### ARTÍCULO 8.
 
@@ -163,15 +205,19 @@ Los pagos que deban realizarse bajo un Contrato de Alianza, una vez que su celeb
 
 La Secretaría emitirá lineamientos que contengan los criterios y políticas prudenciales de gasto en materia de Alianzas, que deberán observar los Entes Contratantes correspondientes. La Secretaría, con base en la metodología que al respecto incluya en dichos lineamientos, evaluará el impacto del Proyecto en el gasto específico de la dependencia correspondiente y en el gasto público general del Ejecutivo.
 
-Si conforme al análisis señalado en el párrafo anterior resultare que algún Proyecto rebasa los límites para gasto corriente establecidos en dichos lineamientos o no cumple con los requisitos que para tal efecto señale la normatividad aplicable, la Secretaría rechazará el Proyecto correspondiente.
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+Si conforme al análisis señalado en el párrafo anterior resultare que algún Proyecto rebasa los límites de gasto establecidos en dichos lineamientos o no cumple con los requisitos que para tal efecto señale la normatividad aplicable, la Secretaría rechazará el Proyecto correspondiente.
 
 ###### ARTÍCULO 15.
 
 El proyecto de Presupuesto de Egresos de cada Ente Contratante hará mención especial de los compromisos que se deriven de los Contratos de Alianzas, así como de cualquier erogación de gasto contingente que los Entes Contratantes podrían adquirir en estos Contratos en términos de la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-En caso de considerarse necesario para la viabilidad de un Proyecto bajo el esquema Alianza otorgar Garantías de Pago al Proveedor, deberá señalar tal consideración en la solicitud de autorización del Proyecto. La Secretaría evaluará la necesidad del otorgamiento de las Garantías de Pago, la naturaleza de las mismas y rechazará la solicitud de cualquier Garantía de Pago que a su juicio considere sea innecesaria o inconveniente para los intereses del Estado. Además en caso de que así lo estime necesario la Secretaría podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos de financiamiento, irrevocables, de garantía y/o de fuente de pago, para otorgar la Garantía de Pago en cuestión sujeto siempre a las disposiciones legales aplicables.
+En caso de considerarse necesario para la viabilidad de un Proyecto bajo el esquema Alianza otorgar Garantías de Pago al Proveedor, deberá señalar tal consideración en la solicitud de autorización del Proyecto. La Secretaría evaluará la necesidad del otorgamiento de las Garantías de Pago, la naturaleza de las mismas y rechazará la solicitud de cualquier Garantía de Pago que a su juicio considere sea innecesaria o inconveniente para los intereses del Estado. Además, en caso de que así lo estime necesario, la Secretaría podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos irrevocables, de garantía y/o de fuente de pago, para otorgar la Garantía de Pago en cuestión sujeto siempre a las disposiciones legales aplicables.
 
 Los mecanismos financieros que se constituyan conforme al presente artículo estarán sujetos a las disposiciones establecidas en el decreto por el que el Congreso del Estado autorice la creación de la Garantía de Pago de que se trate y a las reglas, controles y previsiones aplicables a la misma, de acuerdo con las normas contractuales que lo regulen.
 
@@ -191,25 +237,7 @@ III.- Si el impacto de dicha modificación en algún año calendario durante la 
 
 De aprobarse el incremento en presupuesto a que se refiere este artículo, el Ente Contratante deberá presupuestar los pagos ajustados bajo el Contrato con la preferencia prevista en esta ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 17 BIS.- El Congreso del Estado, en el presupuesto de egresos del Gobierno del Estado de cada ejercicio fiscal, podrá realizar autorizaciones de montos globales para ser aplicados en esquemas de alianzas público privadas con el objeto de que las dependencias y entidades del gobierno del Estado, realicen las acciones que resulten necesarias para lograr una autorización definitiva del o los proyectos respectivos, tanto de la Secretaría como del propio Poder Legislativo, conforme lo indican los artículos subsecuentes de esta ley.
-
-En la autorización a que se refiere el párrafo anterior, el Congreso del Estado deberá establecer, cuando menos:
-
-I.- Nombre de la dependencia o entidad que deberá formular y, en su caso, ejecutar el proyecto.
-
-II.- Monto global estimado a ejercer en el o los proyectos.
-
-III.- Plazo máximo de duración del proyecto.
-
-IV.- Las fuentes y garantías de pago que se estimen necesarias.
-
-V.- El plazo en el cual deberá someterse a consideración del Congreso del Estado, para autorización definitiva, el o los proyectos de alianzas público privadas.
-
-Una vez que entre en vigor la autorización a que se refiere este artículo, las dependencias y entidades quedarán obligadas a elaborar el proyecto de alianza público privada con el objeto de cumplimentar los requerimientos a que se refieren los artículos subsecuentes de esta ley.
+ARTÍCULO 17 BIS.- (DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
 ### CAPÍTULO III. AUTORIZACIÓN DEL PROYECTO
 
@@ -223,7 +251,7 @@ Los Entes Contratantes deberán presentar las solicitudes de autorización de lo
 
 La autorización del Proyecto se entenderá otorgada exclusivamente para efectos de que el Ente Contratante continúe con la elaboración de la documentación para el proceso de obtener la aprobación del Congreso del Estado y, posteriormente, la contratación de la Alianza.
 
-En las autorizaciones, la Secretaría o el Congreso del Estado, podrán emitir lineamientos sobre los montos de inversión de capital mínimos que se requerirán para cada tipo de Proyecto.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -235,9 +263,13 @@ La solicitud para la autorización de la Secretaría deberá ir acompañada de l
 
 I.- La descripción del Proyecto y los requerimientos de servicios que se pretenden contratar para el mismo;
 
-II.- La justificación de que el Proyecto es congruente con los objetivos y estrategias establecidos en el Plan Estatal de Desarrollo, los programas institucionales, regionales, sectoriales y especiales que correspondan al Ente Contratante, asimismo que su desarrollo es viable jurídica y presupuestalmente;
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-III.- El análisis comparativo a que se refiere el artículo siguiente;
+II.- La justificación de que el Proyecto es congruente con los objetivos y estrategias establecidas en el Plan Estatal de Desarrollo, los programas institucionales, regionales, sectoriales y especiales que correspondan al Ente Contratante, asimismo que su desarrollo es viable jurídica y presupuestalmente. La viabilidad presupuestal deberá establecer que el Proyecto cumple con la legislación estatal al amparo de la Ley del Presupuesto de Egresos y Gasto Público Estatal, la Ley de Deuda Pública del Estado de Sonora y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+III.- El análisis de costo-beneficio a que se refiere el artículo siguiente;
 
 IV.- El procedimiento de adjudicación que se propone; en caso de ser distinto a la licitación pública deberá además incluirse la justificación para ello;
 
@@ -271,13 +303,15 @@ Cuando la solicitud presentada para la autorización del Proyecto cumpla con los
 
 Para emitir la autorización del Proyecto, la Secretaría deberá analizar y dictaminar si el Estado se beneficiará al desarrollar la Alianza, para lo cual considerará las características del Proyecto, el análisis comparativo que en términos del artículo 20 de esta Ley se lleve a cabo y el impacto en las finanzas públicas de las obligaciones de pago que se deriven de la Alianza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 25.
 
-Una vez que la Secretaría autorice el desarrollo de la Alianza, el Ejecutivo del Estado someterá a la aprobación del Congreso del Estado el desarrollo del Proyecto como Alianza y la constitución de la fuente y, en su caso, cualquier garantía de Pago que, en su caso, se determine necesaria, adjuntando un informe sobre los términos de la solicitud de autorización establecida en el artículo 19 de la ley y la autorización de la Secretaría con respecto a la misma, señalando además, el presupuesto estimado para todos los ejercicios presupuestales en los que estaría vigente la Alianza. La aprobación del Congreso del Estado deberá considerar un margen de incremento al presupuesto del Proyecto para el caso de una modificación en términos del artículo 17 de la presente ley.
+Una vez que la Secretaría autorice el desarrollo de la Alianza, el Ejecutivo del Estado someterá a la aprobación del Congreso del Estado el desarrollo del Proyecto como Alianza y la constitución de la fuente y de cualquier Garantía de Pago que, en su caso, se determine necesaria, adjuntando un informe sobre los términos de la solicitud de autorización establecida en el artículo 19 de la ley y la autorización de la Secretaría con respecto a la misma, señalando además, el presupuesto estimado para todos los ejercicios presupuestales en los que estaría vigente la Alianza. La aprobación del Congreso del Estado deberá realizarse por el voto de dos terceras partes de sus miembros presentes y deberá considerar un margen de incremento al presupuesto del Proyecto para el caso de una modificación en términos del artículo 17 de la presente Ley.
+
+Previo al otorgamiento de la aprobación referida en el párrafo anterior, el Congreso deberá realizar un análisis de capacidad de pago del Ente Contratante a cuyo cargo estará el desarrollo de la Alianza, del destino de dicha Alianza, y en su caso, del otorgamiento de recursos como Fuente de Pago o Garantía de Pago.
+
+Una vez aprobada la Alianza por el Congreso del Estado, la Secretaría deberá registrarla en el Registro de Proyectos conforme a las disposiciones que al efecto emita, así como, en su caso, en el Registro Público Único, a cargo de la Secretaría de Hacienda y Crédito Público del gobierno federal.
 
 ### CAPÍTULO IV. DE LOS BIENES PÚBLICOS QUE PODRÁN USARSE EN LAS ALIANZAS
 
@@ -975,9 +1009,19 @@ La Contraloría, en el ejercicio de sus facultades, podrá verificar en cualquie
 
 La Contraloría podrá realizar las visitas e inspecciones que estime pertinentes a los Entes Contratantes que realicen una Alianza, e igualmente podrá solicitar a los servidores públicos y a los Proveedores que participen en ellas todos los datos e informes relacionados con los actos de que se trate.
 
+> <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 98.
 
-Los Entes Contratantes deberán cumplir en todo momento con las disposiciones de transparencia y publicidad aplicables a los Contratos y Proyectos materia de esta ley.
+Los Entes Contratantes deberán cumplir en todo momento con las disposiciones de disciplina financiera, transparencia y publicidad aplicables a Contratos y Proyectos en materia de esta Ley, en cumplimiento de la Ley del Presupuesto de Egresos y Gasto Público Estatal y de la Ley de Deuda Pública.
+
+El Ente Contratante será responsable de proporcionar toda la información necesaria a la Secretaría de Hacienda y Crédito Público para que esté en posibilidad de realizar la evaluación y medición de Sistema de Alertas a que hace referencia la Ley de Disciplina Financiera de las Entidades Federativas y sus Municipios.
+
+> <small>(ADICIONADO, B.O. 21 DE OCTUBRE DE 2016)</small>
+
+###### ARTÍCULO 98 Bis.
+
+Los Entes Contratantes serán responsables de realizar la inscripción de la Alianza en el Registro Público Único en los términos y bajo las condiciones, plazos y a partir de la fecha señalada en la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
 
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1092,3 +1136,51 @@ La afectación de las participaciones federales a que se refiere el párrafo ant
 La afectación de las aportaciones a que se refiere el párrafo primero y, en su caso, la afectación de las participaciones federales a que se refieren los párrafos segundo y tercero de este artículo, se otorgarán a favor del Poder Ejecutivo Federal por conducto del organismo denominado: Comisión Nacional del Agua, quién podrá solicitar al Gobierno del Estado de Sonora, la retención de los recursos afectados por virtud del presente artículo, siempre y cuando los adeudos por morosidad del municipio de que se trate, sean mayores a noventa días naturales.
 
 Para la ejecución del mecanismo de retención y pago de los adeudos generados que se señalan en el presente artículo, se estará a lo dispuesto por los artículos 9° para el caso de participaciones federales, y 51 en el caso de aportaciones del Ramo General 33 Fondo IV, ambas disposiciones de la Ley de Coordinación Fiscal.
+
+B.O. 21 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO ESTATAL, DE LA LEY DE DEUDA PÚBLICA, DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA Y DE LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora con las salvedades señaladas en los presentes artículos transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que refiere a las reformas propuestas a la Ley del Presupuesto de Egresos y Gasto Público Estatal, el presente Decreto entrará en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los artículos transitorios tercero a séptimo.
+
+###### ARTÍCULO TERCERO.
+
+Los porcentajes a que se refiere el artículo 19 Bis D de la Ley del Presupuesto de Egresos y Gasto Público Estatal, relativo al nivel de aportación al fideicomiso público para acciones preventivas o daños por desastres naturales, será de dos punto cinco por ciento para 2017; de cinco por ciento para 2018; de siete punto cinco por ciento para 2019 y el establecido en dicho artículo, a partir de 2020.
+
+###### ARTÍCULO CUARTO.
+
+La fracción I del artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal entrará en vigor, para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal de 2018. Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afin, estarán exentos del cumplimiento de lo dispuesto en el artículo 19 Bis E de la Ley del Presupuesto de Egresos y Gasto Público Estatal hasta el año 2020.
+
+En ningún caso esta excepción transitoria deberá considerar personal administrativo.
+
+###### ARTÍCULO QUINTO.
+
+El porcentaje a que hace referencia el artículo 19 Bis F de la Ley del Presupuesto de Egresos y Gasto Público Estatal relativo a los adeudos del ejercicio fiscal anterior del Estado será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO SEXTO.
+
+El registro de proyectos de inversión pública productiva y el sistema de registro y control de erogaciones de servicios personales a que se refiere el artículo 19 Bis G, fracción III, de la Ley del Presupuesto de Egresos y Gasto Público Estatal deberá estar en operación a más tardar el día 1 de enero de 2018. La Secretaría de Hacienda deberá expedir las disposiciones normativas aplicables para la creación y funcionamiento de ambos, en un término de 180 días naturales contados a partir de la fecha de entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Ingresos excedentes derivados de la libre disposición a que hace referencia el artículo 19 Bis H fracción I de la Ley del Presupuesto de Egresos y Gasto Público Estatal, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este decreto y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 19 Bis H de la Ley del Presupuesto de Egresos y Gasto Público Estatal, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando, el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo con el Sistema de Alertas.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refieren los artículos 131, 132, 133, 138, 144, 144 bis, 144 bis A, 144 bis B, 144 bis C, 144 bis D y 144 bis E de la Ley de Gobierno y Administración Municipal, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el transitorio Noveno.
+
+###### ARTÍCULO NOVENO.
+
+El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Administración Municipal, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+###### ARTÍCULO DÉCIMO.
+
+En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3° de la Ley de Deuda Pública y en el “DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios” publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
