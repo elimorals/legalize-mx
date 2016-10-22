@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2016-10-15"
+last_updated: "2016-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -631,6 +631,10 @@ XXXVIII. Vigilancia de la Auditoría Superior del Estado;
 
 XXXIX. Vivienda y Desarrollo Urbano.
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+XL. De atención a la Zona Económica Especial.
+
 Dichas Comisiones tendrán las facultades que se determinen en el Reglamento Interior del Congreso.
 
 ###### ARTICULO 45.
@@ -1088,3 +1092,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
 
 TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
+
+P.O. 22 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2085.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA Y SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Los integrantes de la Comisión Permanente de Atención a la Zona Económica Especial serán nombrados a propuesta de la Junta de Coordinación Política del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
