@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2016-02-29"
+last_updated: "2016-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -184,6 +184,16 @@ VI.- Intervendrán en la aplicación de la Ley General del Equilibrio Ecológico
 Los usuarios de los servicios de agua potable y alcantarillado a que se refiere la presente ley, deberán tener el permiso a que se refiere la fracción I del artículo anterior, para poder efectuar la descarga de aguas residuales provenientes de actividades productivas, a los sistemas de drenaje o alcantarillado. Se exceptúa del permiso al uso doméstico.
 
 Las autoridades y organismos competentes a que se refiere el artículo anterior, mediante acuerdo de carácter general publicados en el Periódico Oficial del Estado, podrán eximir por región, municipio o localidad, del permiso a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 12 BIS.- Será obligatorio para las nuevas construcciones o edificaciones, que cuenten con dispositivos y accesorios hidráulicos y sanitarios que cumplan con las Normas Oficiales Mexicanas en materia de ahorro del agua.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 12 TER.- Las nuevas construcciones o edificaciones con techumbres mayores de cuatrocientos metros cuadrados, deberán contar con sistemas de captación de agua pluvial y cisterna para su almacenamiento con una capacidad de veinte mil metros cúbicos, además de una red de distribución, para ser utilizada opcionalmente en sanitarios y jardines, a fin de ahorrar agua potable, contribuir al equilibrio ecológico y reducir los efectos adversos del calentamiento global.
+
+El “Sistema Estatal de Agua Potable y Alcantarillado” promoverá que los propietarios de las edificaciones existentes, modifiquen sus instalaciones hidráulicas para la reducción en el consumo de agua potable e implementen mecanismos para la captación del agua pluvial en los términos señalados en el artículo anterior; para ese efecto, el Poder Ejecutivo y los Ayuntamientos del Estado, podrán dentro del ámbito de su competencia, ofrecer estímulos fiscales.
 
 ###### ARTÍCULO 13.
 
@@ -1722,3 +1732,11 @@ CUARTO. Los Presidentes de los Órganos de Gobierno, dentro de los veinte días 
 QUINTO. El Consejo de Administración, en un plazo no mayor a noventa días hábiles posteriores a la publicación del presente Decreto, deberá expedir o, en su caso, reformar el reglamento interno, manuales y demás instrumentos administrativos de Caminos y Aeropistas de Oaxaca.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2045.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que contravengan y se opongan al mismo.
