@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2016-09-30"
+last_updated: "2016-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2263,6 +2263,8 @@ El obligado a dar alimentos cumple la obligación, asignando una pensión compet
 
 El deudor alimentista no podrá pedir que se incorpore a su familia al que deba recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, o cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>[N. DE E. SE ADVIERTE QUE MEDIANTE DECRETO NÚMERO 1985 APROBADO POR EL PODER LEGISLATIVO ESTATAL EL 17 DE ABRIL DE 2013, SE ADICIONA UN SEGUNDO PÁRRAFO AL PRESENTE ARTÍCULO, SIN EMBARGO SE DESCONOCE LA FECHA DE SU PUBLICACIÓN. SE SUGIERE CONSULTAR LA PÁGINA DEL H. CONGRESO DEL ESTADO DE OAXACA: http://www.congresooaxaca.gob.mx]</small>
+
 ###### Artículo 323.
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a las necesidades del que deba recibirlos.
@@ -2270,6 +2272,18 @@ Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 La pensión alimenticia que se haya fijado por convenio o sentencia judicial tendrá un incremento inmediato y equivalente al que tenga el salario mínimo general de la zona económica. De la petición del acreedor alimentario se dará vista a su contrario. El Juez resolverá sin más trámite.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+La pensión alimenticia, deducida por sentencia de reconocimiento de paternidad, debe computarse a partir del conocimiento del embarazo y/o nacimiento del hijo. El juez, para calcular el monto de la pensión alimenticia cuando la obligación debe retrotraerse al momento del nacimiento, deberá considerar lo siguiente:
+
+I. Si existió o no conocimiento previo de su obligación;
+
+II. La buena o mala fe del deudor alimentario durante la tramitación del proceso;
+
+III. La posibilidad económica actual del deudor alimenticio; y
+
+IV. Las obligaciones alimenticias presentes, derivadas de su situación personal actual.
 
 ###### Artículo 324.
 
@@ -15980,3 +15994,9 @@ P.O. 30 DE SEPTIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2041.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+Ú N I C O.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
