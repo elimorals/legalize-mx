@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2016-08-05"
+last_updated: "2016-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -267,35 +267,35 @@ Antes de la tercera sesión del primer periodo ordinario de su primer año de su
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-I. Administración Pública;
+I.- Administración Pública;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-II. Administración de Justicia;
+II.- Administración de Justicia;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-III. Agropecuaria, Forestal y Minera;
+III.- Agropecuaria, Forestal y Minera;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-IV. Asuntos Agrarios;
+IV.- Asuntos Agrarios;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-V. Asuntos Indígenas;
+V.- Asuntos Indígenas;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-VI. Asuntos Metropolitanos;
+VI.- Asuntos Metropolitanos;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-VII. Asuntos Migratorios;
+VII.- Asuntos Migratorios;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-VIII. Atención a Movimientos Sociales;
+VIII.- Atención a Movimientos Sociales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -420,6 +420,10 @@ XXXVII.- Vialidad y Transporte;
 XXXVIII.- Vigilancia de la Auditoría Superior del Estado
 
 XXXIX.- Vivienda y Desarrollo Urbano
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+XL.- De Atención a la Zona Económica Especial
 
 ###### ARTICULO 26.
 
@@ -674,6 +678,10 @@ g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia,
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
 
 XXXVII. La Comisión de Vivienda y Desarrollo Urbano tendrá a su cargo el análisis de los proyectos parlamentarios relativos al fomento a la vivienda y de los programas y políticas públicas tendientes a satisfacer el derecho a la vivienda, así como el desarrollo de las ciudades para un crecimiento ordenado, armónico y sustentable.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+XXXVIII. La Comisión de Atención a la Zona Económica Especial, conocerá de los planes y programas que tengan como fin impulsar el crecimiento económico y el desarrollo sustentable de la Zona y demás atribuciones contempladas en la Ley Federal y Estatal de la materia.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -1714,3 +1722,11 @@ P.O. 5 DE AGOSTO DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. En un término de treinta días siguientes a la publicación de la presente adición, los presidentes de las comisiones permanentes de la Sexagésima Segunda Legislatura que cuenten con asuntos no dictaminados de legislaturas anteriores, deberán realizar la declaración de preclusión de los expedientes respectivos.
+
+P.O. 22 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2085.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA Y SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Los integrantes de la Comisión Permanente de Atención a la Zona Económica Especial serán nombrados a propuesta de la Junta de Coordinación Política del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
