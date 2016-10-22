@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2010-08-28"
+last_updated: "2016-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -139,29 +139,41 @@ IV. Establecer mecanismos que proporcionen el acceso general y equitativo hacia 
 
 V. Promover y fomentar en los diversos sectores la participación adecuada que permita obtener financiamientos adicionales a los que otorgue el Estado, para los artistas, gestores y creadores, así como para adquisición, mejoramiento o rehabilitación de la infraestructura cultural a partir de la participación activa de la sociedad civil y en especial, de los sectores económicos;
 
-VI. Estimular en todos los sectores de la población, el fomento de la cultura popular y la educación artística, formal e informal, el fomento a la lectura, las artes plásticas, la música, las artes escénicas, audiovisuales, tecnologías culturales, la creación literaria, la difusión editorial entre otras;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-VII. Organizar talleres, concursos, festivales, ferias y otras formas de participación para el enriquecimiento cultural, incluyendo las actividades de organización, promoción, preservación y realización de las tradiciones;
+VI. Asesorar técnicamente a las comunidades indígenas, autoridades municipales y comunitarias en relación a sus propuestas, relativas al fortalecimiento, transmisión y preservación de sus manifestaciones culturales, así como la gestión de proyectos orientados a la cooperación cultural.
 
-VIII. Convocar a la participación ciudadana respecto de la elaboración, promoción y divulgación de los proyectos culturales a cargo de la administración pública;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-IX. Establecer e impulsar un sistema de información cultural integral a fin de difundir los catálogos de artistas, registro de creadores y promotores, gestores, bienes y servicios culturales, así como de espacios físicos y virtuales, frecuencias radiofónicas, medios impresos, canales informáticos cuyos fines se orienten al fomento cultural y artístico de la entidad;
+VII. Promover programas y acciones que consideren los lugares simbólicos y al medio ambiente como un valor y bien cultural, en cuya preservación debe estimularse y coordinarse la participación de las comunidades indígenas así como el pueblo afromexicano, en su conjunto;
 
-X. Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de la infraestructura cultural disponible;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-XI. Coordinar los trabajos del Consejo de Participación para el Desarrollo Cultural del Estado;
+VIII. Generar centros de capacitación regionales y comunitarios que fomenten la construcción de la equidad social entre los diversos grupos étnicos en el Estado, así como el reconocimiento de la diversidad cultural y el desarrollo de relaciones de convivencia interculturales del Estado.
 
-XII. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores e investigadores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad de género, además de impulsar la formación profesional y la capacitación constante de investigadores y promotores culturales;
+IX. Estimular en todos los sectores de la población, el fomento de la cultura popular y la educación artística, formal e informal, el fomento a la lectura, las artes plásticas, la música, las artes escénicas, audiovisuales, tecnologías culturales, la creación literaria, la difusión editorial entre otras;
 
-XIII. Gestionar la recepción y la entrega de donaciones en dinero o en especie a favor del desarrollo cultural del Estado, de conformidad con las disposiciones normativas aplicables;
+X. Organizar talleres, concursos, festivales, ferias y otras formas de participación para el enriquecimiento cultural, incluyendo las actividades de organización, promoción, preservación y realización de las tradiciones;
 
-XIV. Coordinar, organizar y supervisar el funcionamiento de la Coordinación de archivos bibliográficos y hemerográficos, la Coordinación Estatal de Culturas Populares, compañías estatales y talleres de diferentes disciplinas artísticas, museos y teatros así como las entidades de la Administración Pública Local en materia de cultura que para tal efecto le sean sectorizadas;
+XI. Convocar a la participación ciudadana respecto de la elaboración, promoción y divulgación de los proyectos culturales a cargo de la administración pública;
 
-XV. Establecer mecanismos de coordinación con los Ayuntamientos, para el funcionamiento de las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas;
+XII. Establecer e impulsar un sistema de información cultural integral a fin de difundir los catálogos de artistas, registro de creadores y promotores, gestores, bienes y servicios culturales, así como de espacios físicos y virtuales, frecuencias radiofónicas, medios impresos, canales informáticos cuyos fines se orienten al fomento cultural y artístico de la entidad;
 
-XVI. Impulsar la coordinación con los cronistas Municipales para sistematizar y recopilar la información acerca de la historia y tradiciones del Estado, llevando a cabo registros de temas culturales de trascendencia para la memoria cultural de Oaxaca; y
+XIII. Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de la infraestructura cultural disponible;
 
-XVII. Las demás que le confieran la presente ley y los demás ordenamientos aplicables.
+XIV. Coordinar los trabajos del Consejo de Participación para el Desarrollo Cultural del Estado;
+
+XV. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores e investigadores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad de género, además de impulsar la formación profesional y la capacitación constante de investigadores y promotores culturales;
+
+XVI. Gestionar la recepción y la entrega de donaciones en dinero o en especie a favor del desarrollo cultural del Estado, de conformidad con las disposiciones normativas aplicables;
+
+XVII. Coordinar, organizar y supervisar el funcionamiento de la Coordinación de archivos bibliográficos y hemerográficos, la Coordinación Estatal de Culturas Populares, compañías estatales y talleres de diferentes disciplinas artísticas, museos y teatros así como las entidades de la Administración Pública Local en materia de cultura que para tal efecto le sean sectorizadas;
+
+XVIII. Establecer mecanismos de coordinación con los Ayuntamientos, para el funcionamiento de las Casas de Cultura, Casas del Pueblo, Bibliotecas y Hemerotecas Públicas;
+
+XIX. Impulsar la coordinación con los cronistas Municipales para sistematizar y recopilar la información acerca de la historia y tradiciones del Estado, llevando a cabo registros de temas culturales de trascendencia para la memoria cultural de Oaxaca; y
+
+XX. Las demás que le confieran la presente ley y los demás ordenamientos aplicables.
 
 ###### Artículo 7.
 
@@ -255,45 +267,133 @@ Se entiende por patrimonio cultural tangible o material, el constituido por los 
 
 Se declara de interés público la salvaguarda, conservación, restauración, recuperación, preservación, promoción, difusión, enriquecimiento e investigación del patrimonio cultural tangible e intangible del Estado, el cual debe ser valorizado y transmitido a las generaciones futuras en todas sus formas como testimonio de la experiencia y de las aspiraciones humanas, a fin de nutrir la creatividad en toda su diversidad e instaurar un verdadero diálogo intercultural en el Estado.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 17.
 
-La Secretaría, en colaboración con las autoridades federales correspondientes, promoverá ante los Municipios del Estado, la expedición de reglamentos que contengan nomas generales y técnicas para la conservación y restauración de monumentos y zonas de monumentos arqueológicos, históricos o artísticos.
+Las autoridades estatales y municipales competentes en materia de protección al Patrimonio Cultural, desarrollo urbano y ecología, podrán coordinarse y realizar acuerdos de colaboración con las dependencias federales en la materia, cuando dentro del territorio estatal o municipal se encuentren monumentos arqueológicos, artísticos e históricos, para:
+
+I. Construir o acondicionar edificios a efecto de exhibir monumentos arqueológicos, históricos y artísticos, así como restaurarlos y conservarlos;
+
+II. Colaborar en la conservación de los monumentos arqueológicos, históricos y artísticos;
+
+III. Solicitar a las dependencias federales en materia de protección del Patrimonio Cultural, asesoría para la conservación y restauración de los monumentos y zonas de protección;
+
+IV. Auxiliar a los inspectores de zonas de protección o monumentos arqueológicos, históricos o artísticos, cuando éstos se lo soliciten;
+
+V. Negar cualquier licencia de obra, sobre las colindancias o las zonas de protección o monumentos arqueológicos, históricos o artísticos, sin la previa autorización de la dependencia federal competente;
+
+VI. Promover de manera conjunta, la organización de las asociaciones civiles y vecinales o en su caso, a la unión de campesinos y comunidades indígenas para que sean considerados como órganos auxiliares para impedir el saqueo arqueológico e histórico, así como establecer museos regionales; e
+
+VII. Intervenir cuando se presuma daño, saqueo, deterioro o destrucción de los monumentos arqueológicos, debiendo en su caso, hacerlo del conocimiento de la autoridad competente en la mayor brevedad posible.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 17 Bis.
+
+En lo referente al Patrimonio Cultural, las dependencias estatales competentes y los Ayuntamientos, expedirán sus planes, programas y reglamentos que deberán prever como mínimo:
+
+I. Congruencia con las leyes federales en materia de monumentos y asentamientos humanos;
+
+II. Los mecanismos para proponer a la autoridad federal y estatal en el ámbito de su competencia, que expida declaratoria sobre monumentos y zonas de protección dentro de sus territorios, así como el reglamento de conservación y restauración, que serán considerados como parte de los planes y reglamentos municipales de desarrollo urbano;
+
+III. Los procedimientos para expedir licencia de construcción en monumentos y zonas de protección, así como edificaciones colindantes a éstas, la cual deberá de establecer como requisito la autorización de la dependencia federal que corresponda; y
+
+IV. Las prevenciones y medidas científicas, jurídicas y técnicas que sugieran dentro de su competencia, las dependencias federales sobre los monumentos arqueológicos, artísticos e históricos.
 
 ### CAPÍTULO TERCERO. DE LA DECLARATORIA DE PATRIMONIO CULTURAL
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 18.
 
-El Congreso del Estado emitirá, mediante decreto, la Declaratoria de Patrimonio Cultural del Estado, conforme a los términos que para el efecto se establezcan.
+Los bienes del Patrimonio Cultural del Estado podrán ser objeto de declaratoria. La declaratoria es el acto jurídico del Titular del Poder Ejecutivo, del Congreso del Estado o del Ayuntamiento, que tiene por objeto otorgar un reconocimiento adicional a un bien.
 
-La declaratoria como patrimonio cultural tangible o intangible en el Estado dará lugar a un tratamiento prioritario en los programas de conservación, protección, investigación, catalogación, revalorización, difusión, intervención, custodia, difusión y rehabilitación.
+La declaratoria podrá hacerse sobre un elemento individual o sobre un conjunto de elementos que guarden algún tipo de relación entre sí.
 
-Estos beneficios se señalarán en la declaratoria correspondiente, incluyendo la potencialidad de uso del patrimonio cultural, para lo cual se establecerán normas técnicas de intervención y conservación en aquellos inmuebles con valor patrimonial.
+La solicitud para la emisión de una declaratoria podrá ser promovida de oficio, por acuerdo de Ayuntamiento o a petición de parte, mediante escrito dirigido a la Secretaría o al Ayuntamiento según sea el caso, con los siguientes datos:
+
+I. Nombre y domicilio del promovente;
+
+II. Descripción del bien, conjunto de bienes o zona objeto de la solicitud, de acuerdo a la reglamentación correspondiente;
+
+III. Exposición de motivos que sustenten su petición, los documentos o elementos que estime necesarios para sustentar y justificar su petición.
+
+La declaratoria podrá recaer tanto en bienes materiales e inmateriales, propiedad del Estado o de los municipios como en los bienes de propiedad privada, sin afectar su titularidad.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 19.
 
-El procedimiento para elaborar el dictamen técnico para la Declaratoria del Patrimonio Cultural del Estado, se regirá por las disposiciones contenidas en el Reglamento de la presente Ley. La Declaratoria se publicará en el Periódico Oficial del Estado.
+El procedimiento para la emisión de la declaratoria será el siguiente:
+
+I. Recibida una solicitud de declaratoria, la Secretaría o la dependencia municipal en materia de cultura, contará con un término de sesenta días para integrar un expediente que deberá contener cuando menos lo siguiente:
+
+a) Antecedentes;
+
+b) Fundamentación y motivación;
+
+c) Descripción y características del bien; y
+
+d) Diagnóstico de los aspectos técnicos, naturales, culturales, sociales, jurídicos e históricos del bien de que se trate;
+
+Para la integración del expediente la Secretaría o la dependencia municipal en materia de cultura, podrán apoyarse de especialistas en la materia.
+
+II. Integrado el expediente, la Secretaría o la dependencia municipal, en su caso, dentro del término de quince días hábiles notificará personalmente la instauración del procedimiento al propietario o poseedor del bien o bienes objeto de la solicitud, acompañando copia del expediente correspondiente.
+
+III. Hecha la notificación, el propietario o poseedor de los bienes de que se trate, contará con un plazo de veinte días naturales para que manifieste lo que a su interés convenga y en su caso, ofrezca los elementos de prueba que estime pertinentes.
+
+IV. Transcurrido el plazo señalado en la fracción anterior, la Secretaría o la dependencia municipal, según sea el caso, en el término de sesenta días naturales, emitirá un dictamen que someterá a la consideración del Gobernador del Estado o del Ayuntamiento, para que en un plazo no mayor a sesenta días y de resultar procedente, emita la declaratoria correspondiente.
+
+En el caso del dictamen a que se hace referencia en la presente fracción, la misma deberá contar al menos con los siguientes requisitos:
+
+a) Antecedentes;
+
+b) Fundamentación y motivación de la propuesta de declaratoria;
+
+c) Análisis de los aspectos técnicos, naturales, culturales, sociales, jurídicos e históricos del bien de que se trate;
+
+d) Proyecto de declaratoria, que incluirá los efectos de la misma y los usos del Patrimonio Cultural del Estado compatibles con los planes de desarrollo urbano y la normatividad vigente; y
+
+e) La valoración que se realice respecto de las manifestaciones realizadas por el poseedor del bien y cualquier otra circunstancia que se considere como necesaria para el cumplimiento de la presente Ley.
+
+V. Una vez que el Ayuntamiento emita el Proyecto de Declaratoria, deberá remitirlo al Poder Legislativo para la publicación del Decreto correspondiente en el Periódico Oficial del Estado.
+
+Una vez publicada la Declaratoria, la Secretaría o el Ayuntamiento a través del área competente emitirá su Guía de Manejo, entendiéndose ésta como las disposiciones administrativas que emitirán para el manejo y conservación de los bienes que sean declarados Patrimonio Histórico.
+
+VI. Una solicitud de declaratoria rechazada, no podrá ser presentada de nuevo si no ha transcurrido por lo menos un año a partir de la fecha de resolución.
 
 ### CAPÍTULO CUARTO. RESPETO A LA DIVERSIDAD CULTURAL
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-Se entiende por Diversidad las diversas formas que adquiere la cultura a través del tiempo y el espacio. La Diversidad Cultural se manifiesta en la originalidad y la pluralidad de las identidades que caracterizan a los grupos y las sociedades. La diversidad cultural es fuente de intercambios, de innovación y de creatividad.
+Se entiende por Diversidad Cultural las diversas formas que adquiere la cultura a través del tiempo y el espacio. La Diversidad Cultural se manifiesta en la originalidad y la pluralidad de las identidades que caracterizan a los grupos y las sociedades, las cuales deberán protegerse y preservarse de conformidad con lo que dispone la presente Ley. La diversidad cultural es fuente de intercambios, de innovación y de creatividad.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 21.
 
-El Ejecutivo por conducto de la Secretaría, implementará una serie de acciones a fin de garantizar el respeto a esa diversidad, con el apoyo integral a las culturas populares e indígenas, con una amplia participación social en el diseño y ejecución de los programas que para tal efecto se implementen.
+El Ejecutivo por conducto de la Secretaria y los Municipios en el ámbito de sus competencias, implementarán una serie de acciones a fin de garantizar el respeto a esa diversidad cultural, con el apoyo integral a las culturas populares e indígenas, con una amplia participación social en el diseño y ejecución de los programas que para tal efecto se implementen y con el apoyo de los mecanismos establecidos en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 22.
 
 Por lo que en diseño y ejecución de los programas para el respeto a la diversidad cultural se deberá tomar en cuenta lo siguiente:
 
-I. Contribuir al reconocimiento de formas de organización, concepciones del mundo, lenguajes y desarrollo de las capacidades estéticas de los portadores de las culturas populares, especialmente las indígenas;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+I. Contribuir al reconocimiento de formas de organización, concepciones del mundo, lenguajes y desarrollo de las capacidades estéticas de los portadores de las culturas populares, especialmente las indígenas, así como a la protección y preservación de sus costumbres y tradiciones en cualquiera de sus manifestaciones.
 
 II. Apoyar a los creadores para realizar proyectos culturales de alto impacto en sus comunidades a través de programas que destinen recursos económicos, asesoría y gestión, en una vinculación directa con las comunidades y en estrecha relación con las instancias estatales de cultura;
 
 III. Fortalecer las expresiones del arte popular y la artesanía mexicanas, fortaleciendo sus raíces, y construir puentes de interculturalidad, con respeto a las concepciones culturales propias de cada expresión étnica;
 
-IV. Fomentar la recuperación, revalorización y recreación de la tradición artística popular de los estados de la República, como parte de la preservación y salvaguardia (sic) del patrimonio cultural material e inmaterial; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+IV. Fomentar la recuperación, revalorización y recreación de la tradición artística popular en el Estado, como parte de la preservación y salvaguardia (sic) del patrimonio cultural material e inmaterial; y
 
 V. Investigar, recopilar y sistematizar el universo simbólico del arte popular, así como el significado de sus formas e iconografías expresado a través de su gran diversidad de lenguajes.
 
@@ -351,15 +451,19 @@ Como eje de la política cultural del Estado los programas y acciones de la Secr
 
 El Ejecutivo del Estado por conducto de las autoridades en materia de cultura, impulsará el disfrute turístico responsable y sustentable del patrimonio cultural del Estado, como una forma de incorporar los recursos culturales dentro de los procesos del desarrollo social y económico. En los programas turístico-culturales que se establezcan en forma conjunta se velará por la protección del patrimonio cultural y de los recursos naturales del Estado, buscando un equilibrio con el entorno y hábitat natural como una forma de preservar la riqueza cultural de las expresiones culturales basadas en su riqueza natural.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 30.
 
-Las Secretarías de Turismo y Cultura y aquellas dependencias y entidades del sector público estatal competentes en la materia, promoverán de manera coordinada acciones con los gobiernos federal y municipal para el establecimiento de programas de promoción, protección, preservación y difusión del patrimonio cultural, a través de los respectivos planes de manejo y operación.
+Las Secretarías de Turismo y Cultura y aquellas dependencias y entidades del sector público estatal competentes en la materia, promoverán de manera coordinada acciones con los gobiernos federal y municipal para el establecimiento de programas de promoción, protección, preservación y difusión del patrimonio cultural, a través de los respectivos planes de manejo y operación, conforme lo dispone la presente Ley.
 
 ### CAPÍTULO PRIMERO. DEL PROGRAMA ESTATAL DE CULTURA
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 31.
 
-Para la ejecución e implementación de la política cultural y sus distintos ejes establecidos en la presente ley, la Secretaría coordinará en conjunto con el Consejo de Participación para el Desarrollo Cultural la elaboración, análisis y propuesta del Programa Estatal de Cultura que deberá ser aprobado por el Ejecutivo del Estado y que será de observancia general para todas las dependencias y entidades estatales, municipios y demás sujetos comprendidos en la presente ley. El cuál una vez aprobado deberá ser publicado en el Periódico Oficial del Estado.
+Para la ejecución e implementación de la política cultural y sus distintos ejes establecidos en la presente ley, la Secretaría coordinará en conjunto con el Consejo de Participación para el Desarrollo Cultural y con los demás órganos de consulta y apoyo, la elaboración, análisis y propuesta del Programa Estatal de Cultura que deberá ser aprobado por el Ejecutivo del Estado y que será de observancia general para todas las dependencias y entidades estatales, municipios y demás sujetos comprendidos en la presente ley. El cuál una vez aprobado deberá ser publicado en el Periódico Oficial del Estado.
 
 ###### Artículo 32.
 
@@ -376,6 +480,8 @@ IV. Los indicadores de gestión del Programa, que permitan evaluar los resultado
 ## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE CULTURA Y DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
 
 ### CAPÍTULO SEGUNDO. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 33.
 
@@ -407,27 +513,67 @@ VI. De mantenimiento, conservación y equipamiento de la infraestructura cultura
 
 ###### Artículo 35.
 
-El Ejecutivo y los Ayuntamientos, fomentarán la participación social para la investigación, conservación, preservación, promoción y difusión de la cultura, con el fin de garantizar su acceso y disfrute a los habitantes del Estado.
+El Gobierno del Estado y los Ayuntamientos, deberán propiciar los mecanismos adecuados que faciliten el acceso a las tareas y discusiones en materia de protección del Patrimonio Cultural del Estado.
+
+A efecto de sustentar el trabajo cultural en la entidad, el Ejecutivo podrá suscribir convenios de coordinación y colaboración con los organismos públicos y privados, nacionales o extranjeros, con el propósito de preservar, promover y difundir la cultura, de conformidad con lo que disponga esta Ley y las demás disposiciones aplicables.
+
+Todo ciudadano u organismo social podrán denunciar ante las instituciones o dependencias federales, estatales o municipales, cualquier violación a las leyes federales, a la presente ley, así como a los reglamentos de la materia.
+
+Una vez presentada la denuncia, la autoridad competente deberá comprobar a la brevedad posible la situación que se da a conocer, a efecto de que se ejecuten las acciones y medidas necesarias conforme a lo establecido por la presente Ley y demás disposiciones jurídicas aplicables y se decida la intervención precautoria.
+
+Los particulares podrán promover, ante la autoridad estatal o municipal correspondiente, el inicio del procedimiento para la declaratoria de un bien como Patrimonio Cultural del Estado, en los términos de la presente Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Las asociaciones civiles, instituciones u organismos que reciban algún tipo de subsidio o transferencia presupuestal del Ejecutivo, para el desarrollo de sus actividades culturales, deberán presentar previamente un programa de las mismas para su aprobación, en la forma y tiempo que fije la Secretaría.
+Todo habitante del Estado tiene derecho a:
+
+I. Proponer la declaratoria de un bien Patrimonio Cultural del Estado;
+
+II. Proponer ante las instancias municipales y estatales competentes, la inclusión de bienes Patrimonio Cultural en planes y programas de desarrollo urbano, así como iniciativas sobre cualquier asunto o tema relacionado con el Patrimonio Cultural;
+
+III. Denunciar toda falta, acción u omisión de cualquier persona física, jurídica o autoridad, que perjudique al Patrimonio Cultural; y
+
+IV. Asociarse, agruparse y manifestarse, sobre el uso, destino y protección del Patrimonio Cultural.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ### CAPÍTULO TERCERO. DEL CONSEJO DE PARTICIPACIÓN PARA EL DESARROLLO CULTURAL DEL ESTADO
 
 ###### Artículo 37.
 
-A efecto de sustentar el trabajo cultural en la entidad, el Ejecutivo podrá suscribir convenios de coordinación y colaboración con los organismos públicos y privados, nacionales o extranjeros, con el propósito de preservar, promover y difundir la cultura, de conformidad con lo que disponga esta Ley y las demás disposiciones aplicables.
+Son organismos de consulta y apoyo para la aplicación del presente ordenamiento:
+
+I. El Consejo de Participación para el Desarrollo Cultural del Estado.
+
+II. El Comité de Autenticidad, en los términos señalados en la presente Ley.
+
+III. Las personas jurídicas que tengan como objeto la protección, preservación, investigación, restauración, promoción o difusión del Patrimonio Cultural del Estado o realicen actividades que tengan relación con el objeto de esta ley;
+
+IV. Las asociaciones vecinales o de colonos registrados ante el Ayuntamiento, que entre sus fines se constituyan para la restauración, conservación y mejoramiento del Patrimonio Cultural del Estado;
+
+V. Los colegios y las asociaciones de profesionistas relacionadas con el objeto de esta Ley;
+
+VI. Las Cámaras de la Industria de la Construcción y similares que tengan relación con la protección al Patrimonio Cultural del Estado; y
+
+VII. Las instituciones de educación superior e investigación en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 38.
 
-Para la celebración de los convenios a que se refiere el artículo anterior, el Ejecutivo del Estado deberá considerar, que:
+Los organismos de consulta y apoyo podrán:
 
-I. Los objetivos que se persigan, sean de beneficio para el desarrollo cultural del estado;
+I. Auxiliar a las autoridades en el cumplimiento de sus atribuciones en los términos de la presente ley;
 
-II. Se cuente con los recursos económicos, humanos y materiales para llevarlos a buen término; y
+II. Auxiliar a las autoridades estatales o municipales en las acciones de intervención de los bienes y zonas de protección del Patrimonio Cultural del Estado;
 
-III. Atiendan los fines dispuestos en esta ley.
+III. Presentar propuestas ante la autoridad estatal o municipal que corresponda; a efecto de inscribir en el Inventario o para que se emita declaratoria de un bien identificado como Patrimonio Cultural;
+
+IV. Implementar acciones en coordinación con la Secretaría, en materia educativa entre los miembros de la comunidad, sobre la importancia del Patrimonio Cultural y fomentar la difusión del mismo; y
+
+V. Las demás que les otorguen la presente Ley y demás normatividad aplicable.
 
 ###### Artículo 39.
 
@@ -437,7 +583,47 @@ La Secretaría incorporará la participación ciudadana en la planeación, elabo
 
 Conforme al artículo anterior se instituye el Consejo de Participación para el Desarrollo Cultural del Estado, como un organismo de participación y vinculación entre las autoridades culturales del Estado y la sociedad en general, con funciones de asesoría, análisis y opinión, en el que converjan de manera conjunta representantes de los sectores público, privado y social.
 
-### CAPÍTULO PRIMERO. DE LA CULTURA Y MEDIOS DE COMUNICACIÓN
+### CAPÍTULO IV. DEL COMITÉ DE AUTENTICIDAD
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 42 Bis.
+
+El Comité de autenticidad es el organismo de consulta y apoyo que garantiza con su opinión, la conservación y reivindicación de las costumbres y tradiciones con las que se ejecutan las danzas, bailables, música, vestimenta y demás elementos característicos con los que se presenten las diversas delegaciones en la festividad que se conoce como la Guelaguetza, que se escenifica en la fiesta del Lunes del Cerro.
+
+El Comité de Autenticidad tendrá como objetivo el de contribuir a la conservación, la investigación y difusión de nuestro patrimonio cultural, principalmente en el área de tradiciones, costumbres, música, danzas y bailes de nuestro Estado.
+
+Para el cumplimiento de sus funciones, el Comité se coordinará con la Secretaría de Turismo y Desarrollo Económico y con la Secretaría de las Culturas y Artes de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 42 Ter.
+
+El Comité de Autenticidad estará conformado por hombres y mujeres con amplio conocimiento de las costumbres y tradiciones de las diferentes regiones de Oaxaca, así como de la historia, evolución e importancia de las fiestas de la Guelaguetza que se presentan en los Lunes del Cerro, para tal efecto la Secretaría de las Culturas y Artes de Oaxaca como dependencia estatal operativa, establecerá los mecanismos para su selección, debiendo instituir criterios y procedimientos claros de evaluación, así como garantizar la transparencia y la máxima publicidad en el proceso de selección e integración del Comité de Autencidad (sic); que deberá integrar a una persona de cada una de las 16 etnias que existen en el Estado y uno más que represente al pueblo afrodescendiente de Oaxaca; y que tengan o hayan tenido participación en el ámbito cultural o en alguna actividad artística relacionada con la etnia a la que pertenece. La integración del Comité de Autenticidad se hará atendiendo al principio de paridad de género.
+
+Los integrantes del Comité de Autenticidad por ningún motivo podrán durar en su encargo más de cinco años, la Secretaría deberá además establecer los mecanismos para que su renovación se realice de forma escalonada.
+
+Los cargos en el Comité de Autenticidad serán honoríficos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 42 Quater.
+
+El Comité de Autenticidad tendrá las siguientes atribuciones:
+
+I. Establecer en coordinación con la Secretaría de las Culturas y las Artes de Oaxaca y con la Secretaría de Turismo y Desarrollo Económico, los mecanismos y procedimientos para la selección de las danzas y bailables que habrán de presentarse en las fiestas de los Lunes del Cerro.
+
+II. Emitir la declaratoria de procedencia en la selección de bailables que habrán de presentar las diferentes delegaciones en las fiestas de la Guelaguetza que se celebran los lunes del Cerro.
+
+III. Garantizar la conservación de las costumbres y tradiciones en la ejecución de las danzas, bailables, música, vestimenta y demás elementos característicos que presenten las delegaciones en las fiestas de la Guelaguetza.
+
+IV. Emitir su opinión sobre los planes, programas o campañas publicitarias que promuevan oficialmente o difundan el folklor de Oaxaca para las fiestas de la Guelaguetza a fin de buscar preservar la esencia de las tradiciones populares y los valores de las culturas de las etnias de Oaxaca.
+
+V. Emitir los lineamientos que estime necesarios para el rescate y la preservación de las costumbres, danzas, bailables, vestuario y demás elementos característicos de las delegaciones que se presentan en las fiestas de los Lunes del Cerro.
+
+VI. Las demás que le confiere la presente Ley.
+
+Las decisiones que emitan las y los integrantes del Comité, serán inatacables.
 
 ###### Artículo 41.
 
@@ -483,6 +669,8 @@ Cada integrante titular podrá nombrar su suplente, quien deberá ser de nivel j
 
 Las Sesiones del Consejo se celebrarán por lo menos dos veces al año, o en cualquier momento si los asuntos a tratarse así lo ameritan, las sesiones serán convocadas por el Secretario Técnico, de las que se levantará un acta y los votos será (sic) por mayoría en caso de empate el Presidente del Consejo tendrá el voto de calidad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 43.
 
 La Secretaría y los organismos públicos en materia de cultura conforme a lo señalado en la presente ley, promoverán una efectiva relación y colaboración con los medios de comunicación electrónica y escrita para llevar a cabo acciones de fortalecimiento y difusión de la cultura, así como para contribuir a promover el desarrollo cultural del estado.
@@ -491,7 +679,7 @@ La Secretaría y los organismos públicos en materia de cultura conforme a lo se
 
 La Secretaría a través de los medios de comunicación con que cuente el Estado, apoyará el fortalecimiento y difusión del desarrollo cultural conforme a los principios que fija esta Ley bajo los términos y condiciones que establecen los ordenamientos aplicables.
 
-### CAPÍTULO SEGUNDO. FORTALECIMIENTO DE LAS EMPRESAS E INDUSTRIAS CULTURALES
+### CAPÍTULO PRIMERO. DE LA CULTURA Y MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 45.
 
@@ -499,7 +687,7 @@ La Secretaría a través de los diversos fondos y programas culturales para el i
 
 ###### Artículo 46.
 
-EL (SIC) Gobierno del Estado mediante diferentes mecanismos promoverá la creación, desarrollo y consolidación de las micro, pequeñas y medianas empresas culturales, privilegiando la incorporación de nuevas tecnologías.
+EL Gobierno del Estado mediante diferentes mecanismos promoverá la creación, desarrollo y consolidación de las micro, pequeñas y medianas empresas culturales, privilegiando la incorporación de nuevas tecnologías.
 
 ###### Artículo 47.
 
@@ -507,7 +695,7 @@ Las organizaciones y empresas de los sectores privado y social que realicen acci
 
 ## TÍTULO QUINTO. DE LOS MECANISMOS PARA EL DESARROLLO CULTURAL
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN PARA EL DESARROLLO CULTURAL EN LOS MUNICIPIOS
+### CAPÍTULO SEGUNDO. FORTALECIMIENTO DE LAS EMPRESAS E INDUSTRIAS CULTURALES
 
 ###### Artículo 48.
 
@@ -521,7 +709,7 @@ La Secretaría conjuntamente con los Municipios, promoverán, mecanismos para la
 
 Con la finalidad de administrar los donativos, herencias y legados que le sean otorgados por personas físicas o morales, nacionales o extranjeras, con el objeto de sufragar una o más de las actividades y acciones incorporados en el Programa Estatal de Cultura, especialmente para el otorgamiento de apoyo financiero, técnico y logístico al desarrollo cultural y artístico, el financiamiento de los programas considerados en la presente Ley, se crea el Fondo Estatal para el Desarrollo Cultural del Estado, como instrumento financiero de la Secretaría, la preservación del patrimonio cultural y el otorgamiento de subsidios y recursos de coinversión a las micros, pequeñas y medianas empresas culturales. Para tal efecto se observará la normatividad aplicable.
 
-### CAPÍTULO CUARTO. DEL FONDO ESTATAL PARA EL DESARROLLO CULTURAL DE (SIC) ESTADO
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN PARA EL DESARROLLO CULTURAL EN LOS MUNICIPIOS
 
 ###### Artículo 51.
 
@@ -539,7 +727,7 @@ IV. Estimulen la formación, educación y perfeccionamiento de los integrantes d
 
 El Sistema de Información Cultural es un mecanismo del Ejecutivo del Estado, a cargo de la Secretaría, para integrar, organizar, sistematizar y hacer del conocimiento de la población, la información referente a las actividades, bienes y servicios culturales del Estado.
 
-### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN CULTURAL
+### CAPÍTULO CUARTO. DEL FONDO ESTATAL PARA EL DESARROLLO CULTURAL DE (SIC) ESTADO
 
 ###### Artículo 53.
 
@@ -594,3 +782,17 @@ Tlalixtac de Cabrera, Centro, Oax., a 13 de agosto del 2010.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE OCTUBRE DE 2016.
+
+### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN CULTURAL
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2046.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Ejecutivo del Estado a través de la Secretaría de las Culturas y las Artes, contará con un plazo de 120 días para emitir el reglamento con el que operará el Comité de Autenticidad, así como los mecanismos y los procedimientos para su integración, contados a partir de la publicación de la presente reforma.
+
+TERCERO. La Secretaría de las Culturas y las Artes, como dependencia estatal operativa será quien emita la Convocatoria para la integración del Comité de Autenticidad, a las personas que acrediten tener una calidad profesional en materia de cultura.
