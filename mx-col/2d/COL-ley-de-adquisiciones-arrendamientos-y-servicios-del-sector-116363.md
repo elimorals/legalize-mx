@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1163
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-10"
-last_updated: "2016-09-10"
+last_updated: "2016-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE COLIMA , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en el Suplemento Número 2, del Periódico Oficial del Estado de Colima, el sábado 10 de septiembre de 2016.
 
@@ -51,9 +51,13 @@ CONSIDERANDOS
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
-DECRETO No.150
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO COLIMA
+ÚNICO. Se expide la Ley de Adquisiciones, Arrendamientos y Servicios Públicos del Estado de Colima, en los siguientes términos:
+
+D E C R E T O No. 150
+
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -379,7 +383,9 @@ V. Analizar trimestralmente el informe de la conclusión y resultados generales 
 
 VI. Autorizar, cuando se justifique, la creación de los subcomités de adquisiciones, arrendamientos y servicios, así como aprobar la integración y funcionamiento de los mismos;
 
-VII. Autorizar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 44 de esta Ley, salvo en los casos de las fracciones III, VI y XII del propio precepto, en cuyo caso se deberá informar al propio comité una vez concluida la contratación respectiva. Dicha función también podrá ser ejercida directamente por el titular de la dependencia o el órgano de gobierno de la entidad;
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
+
+VII. Autorizar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 45 de esta Ley, salvo en los casos de las fracciones II, V y XIX del propio precepto, en cuyo caso se deberá informar al propio comité una vez concluida la contratación respectiva. Dicha función también podrá ser ejercida directamente por el titular de la dependencia o el órgano de gobierno de la entidad;
 
 VIII. Elaborar y aprobar el Manual de Integración y Funcionamiento del Comité de Adquisiciones, en el cual se deberán considerar cuando menos las siguientes bases:
 
@@ -611,9 +617,9 @@ XVII. Los requisitos que deberán cumplir los interesados en participar en el pr
 
 XVIII. El señalamiento para intervenir en el acto de presentación y apertura de propuestas, bastará que los licitantes presenten un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por la persona que representa sin que resulte necesario;
 
-XIX La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las propuestas, y, en su caso, firma del contrato. Asimismo, la indicación de que el licitante deberá proporcionar una dirección de correo electrónico, en caso de contar con ella;
+XIX. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las propuestas, y, en su caso, firma del contrato. Asimismo, la indicación de que el licitante deberá proporcionar una dirección de correo electrónico, en caso de contar con ella;
 
-XX Precisar que será requisito que los licitantes entreguen junto con el sobre cerrado, ya sea por medio del Sistema Electrónico de Compras Públicas o físicamente, una declaración escrita, bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos de impedimento establecidos por el artículo 38 de esta Ley para participar o celebrar contratos;
+XX. Precisar que será requisito que los licitantes entreguen junto con el sobre cerrado, ya sea por medio del Sistema Electrónico de Compras Públicas o físicamente, una declaración escrita, bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos de impedimento establecidos por el artículo 38 de esta Ley para participar o celebrar contratos;
 
 XXI. Precisar que será requisito que los licitantes presenten una declaración de integridad, en la que manifiesten, bajo protesta de decir verdad, que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas para que los servidores públicos de la dependencia, entidad o unidad administrativa induzcan o alteren las evaluaciones de las propuestas, el resultado del procedimiento u otros aspectos que otorguen condiciones ventajosas con relación a los demás participantes;
 
@@ -631,7 +637,7 @@ XXVII. En caso de abastecimiento simultáneo, el criterio que se empleará para 
 
 XXVIII. Los criterios específicos que se utilizarán para la evaluación de las propuestas y adjudicación de los contratos, atendiendo a lo previsto en la presente Ley y su Reglamento;
 
-XXIX El domicilio de las oficinas de la dependencia, entidad o unidad convocante responsable de resolver los recursos de reconsideración o en su caso el medio electrónico en que podrán presentarse dichos recursos, de acuerdo a lo dispuesto en el artículo 75 de la presente Ley;
+XXIX. El domicilio de las oficinas de la dependencia, entidad o unidad convocante responsable de resolver los recursos de reconsideración o en su caso el medio electrónico en que podrán presentarse dichos recursos, de acuerdo a lo dispuesto en el artículo 75 de la presente Ley;
 
 XXX Señalamiento de las causas expresas de desechamiento que afecten directamente la solvencia de las propuestas, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los bienes, arrendamientos o servicios, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
@@ -881,7 +887,9 @@ Excepciones a la licitación pública
 
 4. Para las contrataciones a través de un método distinto a la licitación pública, el titular del área responsable de la contratación, a más tardar el último día hábil de cada mes, enviará al Órgano Interno de Control del ente gubernamental de que se trate, un informe relativo a los contratos formalizados durante el mes calendario inmediato anterior, acompañando copia del escrito aludido en este artículo y de un dictamen en el que se hará constar el análisis de la o las propuestas y las razones para la adjudicación del contrato. No será necesario rendir este informe en las operaciones que se realicen al amparo de la fracción V, del siguiente artículo. En este caso particular únicamente se deberá informar sobre el importe de la contratación.
 
-5. En caso del procedimiento de invitación restringida fundamentados en las fracciones I, IV, VII, VIII, X, XII, XIII, XIV, XV, XVIII y XIX del artículo 45 de esta Ley, el informe al que hace referencia el párrafo anterior deberá estar acompañado de los nombres y datos generales de las personas que fueron invitadas; tratándose de adjudicaciones directas, en todos los casos deberá indicarse el nombre de la persona a quien se propuso realizarla; en ambos procedimientos, deberá acompañarse el resultado de la investigación de mercado que sirvió de base para su selección.
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
+
+5. En caso del procedimiento de invitación restringida fundamentados en las fracciones III, VII, VIII, X, XIII, XIV, XV, XVIII, y XIX del artículo 45 de esta Ley, el informe al que hace referencia el párrafo anterior deberá estar acompañado de los nombres y datos generales de las personas que fueron invitadas; tratándose de adjudicaciones directas, en todos los casos deberá indicarse el nombre de la persona a quien se propuso realizarla; en ambos procedimientos, deberá acompañarse el resultado de la investigación de mercado que sirvió de base para su selección.
 
 6. A los procedimientos de contratación de invitación restringida y de adjudicación directa, le será aplicable el carácter a que hacen referencia las fracciones I, II y III, párrafo 1, del artículo 30 de la presente Ley.
 
@@ -931,7 +939,9 @@ XVIII. Se trate de adquisiciones, arrendamientos o servicios cuya contratación 
 
 XIX Se trate de la adquisición de bienes que realicen las dependencias y entidades para su comercialización directa o para someterlos a procesos productivos que las mismas realicen en cumplimiento de su objeto o fines propios expresamente establecidos en el acto jurídico de su constitución.
 
-2. Las contrataciones a que se refiere este artículo, se realizarán preferentemente a través de procedimientos de invitación restringida, en los casos previstos en sus fracciones VIII, IX, X primera oración, XIII y XIX.
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
+
+2. Las contrataciones a que se refiere este artículo, se realizarán preferentemente a través de procedimientos de invitación restringida, en los casos previstos en sus fracciones VII, VIII, IX, XIII, XVIII y XIX.
 
 3. La suma de las operaciones que se realicen al amparo de este artículo no podrá exceder del veinte por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado a la dependencia, entidad o unidad administrativa en cada ejercicio presupuestario. En casos excepcionales, el Comité de Adquisiciones correspondiente, podrá fijar un porcentaje mayor al indicado.
 
@@ -1089,7 +1099,9 @@ b) Las multas por atraso en el cumplimiento de las fechas pactadas no podrán ex
 
 c) La garantía de buen cumplimiento del contrato deberá ser de entre diez y treinta por ciento del valor total del contrato. En casos excepcionales, acompañado de una justificación, se puede solicitar una garantía mayor al treinta por ciento; y
 
-d) En los casos señalados en las fracciones III, VI, y XIV del artículo 45 de esta Ley, el servidor público que deba firmar el contrato, bajo su responsabilidad, podrá exceptuar al proveedor de presentar la garantía de cumplimiento del contrato respectivo.
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
+
+d) En los casos señalados en las fracciones II, IV, V, XII, XVIII del artículo 45 de esta Ley, el servidor público que deba firmar el contrato, bajo su responsabilidad, podrá exceptuar al proveedor de presentar la garantía de cumplimiento del contrato respectivo.
 
 II. Garantía por anticipo. Esta garantía deberá ser equivalente al cien por ciento de los recursos otorgados. En este caso se permitirán los mismos instrumentos establecidos al regular la garantía de cumplimiento; y
 
@@ -1401,7 +1413,9 @@ En esta hipótesis, la inconformidad sólo podrá presentarse por quien haya res
 
 Plazo del recurso de reconsideración
 
-1. El plazo para interponerla reconsideración será de diez días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efecto la notificación de la resolución que se recurra. Transcurrido dicho plazo, se tendrá por precluido para los interesados el derecho a presentarla.
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
+
+1. El plazo para interponer la reconsideración será de seis días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efecto la notificación de la resolución que se recurra. Transcurrido dicho plazo, se tendrá por precluido para los interesados el derecho a presentarla.
 
 ###### Artículo 77.
 
@@ -1467,7 +1481,9 @@ Desechamiento de plano e improcedencia del recurso
 
 1. La reconsideración se desechará de plano cuando se presente fuera de plazo o no se acredite la personalidad del promovente.
 
-2. El recurso de inconformidad es improcedente:
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
+
+2. El recurso de reconsideración es improcedente:
 
 I. Contra actos diversos a los establecidos en el artículo 75 de esta ley;
 
@@ -1481,7 +1497,9 @@ IV. Cuando se promueva por un licitante en forma individual y su participación 
 
 Sobreseimiento
 
-1. El sobreseimiento en la instancia de inconformidad procede cuando:
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 2016)</small>
+
+1. El sobreseimiento en la instancia de reconsideración procede cuando:
 
 I. El inconforme se desista expresamente;
 
