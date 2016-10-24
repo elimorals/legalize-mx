@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-y-prevencion-de-conflicto-de-intereses-de-11578
 country: "mx"
 rank: "codigo"
 publication_date: "2016-07-11"
-last_updated: "2016-07-11"
+last_updated: "2016-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 CÓDIGO DE ÉTICA Y PREVENCIÓN DE CONFLICTO DE INTERESES DE LA SECRETARÍA DE INFRAESTRUCTURA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE OCTUBRE DE 2016.
 
 Código publicado en la Sección Segunda al número 7 de la Gaceta del Gobierno del Estado de México, el lunes 11 de julio de 2016.
 
@@ -31,6 +31,68 @@ CÓDIGO DE ÉTICA Y PREVENCIÓN DE CONFLICTO DE INTERESES DE LA SECRETARÍA DE I
 I. INTRODUCCIÓN:
 
 El día 30 de noviembre de 2015, se emitió el Acuerdo del Ejecutivo del Estado por el que se expide el “Código de Ética de los Servidores Públicos del Estado de México, las Reglas de Integridad para el Ejercicio de su Empleo, Cargo o Comisión, y los Lineamientos Generales para propiciar su Integridad a través de los Comités de Ética y de Prevención de Conflicto de Intereses”.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+Con el objeto de atender la propuesta hecha por el Presidente de la Republica, Lic. Enrique Peña Nieto, por el cual se crea el Sistema Nacional Anticorrupción, consistente en la necesidad de evolucionar los Código (sic) de ética hacia Reglas de Integridad.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+En este mismo sentido; el Dr. Eruviel Ávila Villegas, Gobernador Constitucional del Estado de México, al asumir la presidencia de la Conferencia Nacional de Gobernadores dio a conocer entre una de sus acciones; consolidar (sic) el ámbito estatal y municipal las reformas en materia de transparencia y anticorrupción, impulsando a través de la Secretaría de la Función Pública una agenda común en temas de Ética, Transparencia y Combate a la Corrupción.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+Aunque la Ética no impone sanciones, el Código de Ética establece una normativa interna del Cumplimiento Obligatorio y la Prohibición a cualquier acto de Discriminación.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+El personal de la Secretaría de Infraestructura, se compromete a incrementar y evaluar el cumplimiento de la Ley Federal para Prevenir y Eliminar la Discriminación, publicada en el Diario Oficial de la Federación el 20 de marzo del 2014, y armonizado con la “Política de Igualdad Laboral y No Discriminación de la Secretaría de Infraestructura” y el artículo 1, fracción III, que a la letra dice: “Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, el lenguaje, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo; también se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia”.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+Así mismo, impulsar la igualdad de derechos, oportunidades y no discriminación, fomentando una cultura laboral equitativa, humana y congruente entre las necesidades y responsabilidades de los trabajadores y trabajadoras de esta Secretaría de Infraestructura, contribuyendo con ello a su desarrollo personal y profesional; quedando estrictamente prohibida cualquier forma de maltrato, violencia y segregación de las autoridades del centro de trabajo hacia el personal y entre el personal; en materia de:
+
+- Apariencia física.
+
+- Cultura.
+
+- Idioma o lenguaje.
+
+- Género.
+
+- Condición social, económica, de salud o jurídica.
+
+- Estado civil o conyugal.
+
+- Origen étnico o nacional.
+
+- Filiación política.
+
+- Responsabilidades familiares.
+
+- Enfermedades venéreas y crónico degenerativas.
+
+- Características Genéticas.
+
+- Discapacidad.
+
+- Sexo.
+
+- Edad.
+
+- Embarazo.
+
+- Religión.
+
+- Opiniones.
+
+- Preferencias sexuales.
+
+- Situación migratoria.
+
+- Antecedentes penales.
+
+- Cualquier otro tipo de discriminación.
 
 Que de conformidad con la Constitución Política del Estado Libre y Soberano de México y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, que en su artículo 42 a la letra dice: “Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia, deben ser observadas en la prestación del servicio público, independientemente de las obligaciones específicas que correspondan al empleo, cargo o comisión, todo servidor público, sin perjuicio de sus derechos y deberes laborales, tendrá las siguientes obligaciones de carácter general…”.
 
@@ -105,6 +167,10 @@ K. SALUD, HIGIENE, SEGURIDAD Y MEJORAMIENTO ECOLÓGICO.
 L. DESARROLLO PERMANENTE E INTEGRAL.
 
 M. CUMPLIR SUS FUNCIONES CON PERSPECTIVA DE GÉNERO, ELIMINANDO LAS DIFERENCIAS QUE PUEDAN EXISTIR ENTRE LAS SERVIDORAS PÚBLICAS Y LOS SERVIDORES PÚBLICOS, ATENDIENDO LOS PRINCIPIOS DE IGUALDAD, JUSTICIA Y NO DISCRIMINACIÓN.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+N. INCUMPLIMIENTO.
 
 A. CONOCIMIENTO Y APLICACIÓN DE LAS LEYES Y NORMAS:
 
@@ -302,6 +368,30 @@ ACCIONES:
 
 4. Promover la participación equitativa de mujeres y hombres en programas de capacitación y formación que al efecto desarrollen sus potencialidades y favorezcan su crecimiento profesional y personal.
 
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+N. INCUMPLIMIENTO.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+COMPROMISO:
+
+Esta medida de igualdad laboral y no discriminación son de inmediata ejecución y de carácter urgente, que constituyen un instrumento para prevenir y eliminar la discriminación; por lo que en caso de llegar a identificar o conocer su incumplimiento a lo previsto en el presente, se deberá hacer del conocimiento a las autoridades correspondientes para que se instruya el procedimiento respectivo y aplique las sanciones correspondientes de conformidad con lo previsto en los términos del Código de Procedimientos Administrativos del Estado de México y la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 24 DE OCTUBRE DE 2016)</small>
+
+ACCIONES:
+
+1. Las y los servidores públicos que observen el incumplimiento a las disposiciones contenidas en este Código de ética y Prevención de Conflicto de Intereses, deberá hacerlo del conocimiento de las instancias correspondientes; a través de los siguientes canales de atención:
+
+- Quejas y Denuncias, a través de la página web: http://infraestructura.edomex.gob.mx/
+
+- Sistema de Atención Mexiquense (SAM).
+
+- Secretaría de la Contraloría; Departamento de Quejas y Denuncias.
+
+2. Se investigara de manera objetiva, pronta y expedita cualquier queja que se presente sobre la actuación del personal o el incumplimiento de las disposiciones del presente Código de ética y Prevención de Conflicto de Intereses.
+
 V. GLOSARIO
 
 A
@@ -471,3 +561,15 @@ MTRO. ERASTO MARTÍNEZ ROJAS
 SECRETARIO DE INFRAESTRUCTURA DEL ESTADO DE MÉXICO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 24 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO DE ÉTICA Y PREVENCIÓN DE CONFLICTO DE INTERESES DE LA SECRETARÍA DE INFRAESTRUCTURA”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Las Unidades Administrativas de la Secretaría de Infraestructura (sic) Gobierno del Estado de México, adoptarán las medidas necesarias para el cumplimiento del presente Acuerdo, con el objeto de dar cumplimiento al Código de Ética y Prevención de Conflicto de Intereses de la Secretaría de Infraestructura y sus adecuaciones.
