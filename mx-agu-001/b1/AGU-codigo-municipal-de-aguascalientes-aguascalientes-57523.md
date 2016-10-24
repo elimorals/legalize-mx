@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2016-10-03"
+last_updated: "2016-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -20061,21 +20061,35 @@ X. Permitir el libre acceso a los inspectores y/o verificadores.
 
 XI. El titular de la Licencia de Funcionamiento en un local o piedra en los Mercados Públicos Municipales, deberá de contar un máximo de 3 giros por Licencia autorizada, y estos giros deberá (sic) de ser autorizados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes, y se hará de conformidad a las necesidades del Mercado, así como por compatibilidad entre los mismos.
 
-XII. En los puestos, en donde se expenda comida, deberán cumplir con todas las normas de seguridad e higiene señaladas para este tipo de comercio, en las disposiciones contenidas en las leyes y reglamentos vigentes en materia de salubridad.
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+XII. Cumplir con las normas de: seguridad, protección civil, sanidad e higiene y demás que le impongan otras autoridades municipales, estatales y federales competentes.
+
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2016)
+
+XIII. En los puestos, en donde se expenda comida, deberán cumplir con todas las normas de seguridad e higiene señaladas para este tipo de comercio, en las disposiciones contenidas en las leyes y reglamentos vigentes en materia de salubridad.
 
 Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se implanten como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad.
 
-XIII. Será responsabilidad exclusiva del locatario, la instalación, el uso, manejo y destino de productos inflamables, así como las instalaciones o material eléctrico que estén a su cargo, debiendo aplicar todas las normas de seguridad que previene la fracción anterior; la autoridad municipal verificará el cumplimiento de esta obligación.
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2016)
 
-XIV. Cumplir con las normas fiscales que le imponga la autoridad competente.
+XIV. Será responsabilidad exclusiva del locatario, la instalación, el uso, manejo y destino de productos inflamables, así como las instalaciones o material eléctrico que estén a su cargo, debiendo aplicar todas las normas de seguridad que previene la fracción anterior; la autoridad municipal verificará el cumplimiento de esta obligación.
 
-XV. Empadronarse y efectuar sus obligaciones de pago de derechos e impuestos que determina la Ley de Ingresos y demás disposiciones fiscales del Municipio.
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+XV. Cumplir con las normas fiscales que le imponga la autoridad competente.
 
-XVI. Presentar los documentos que le requiera el personal de inspección y/o verificación.
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2016)
 
-XVII. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+XVI. Empadronarse y efectuar sus obligaciones de pago de derechos e impuestos que determina la Ley de Ingresos y demás disposiciones fiscales del Municipio.
+
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2016)
+
+XVII. Presentar los documentos que le requiera el personal de inspección y/o verificación.
+
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2016)
+
+XVIII. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
 APARTADO ÚNICO
 
@@ -20161,57 +20175,91 @@ IV. Expedir y/o revocar las licencias de funcionamiento y/o permisos para el eje
 
 V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá tomar en cuenta que no se afecte a terceros al autorizar la venta de productos repetidos o que ya otro comerciante, ya sea establecido o informal, se encuentre expendiendo con anterioridad, en todo caso se deberá de establecer el comerciante a una distancia de ciento cincuenta metros lineales entre un giro similar y otro. Este precepto no es aplicable en lo referente a mercados y tianguis. En caso de que se trate de ejercer cualquier giro en la vía pública no deberá de exceder de 3 giros por permiso autorizado, y estos deberán de ser autorizados conforme a las zonas, ubicaciones y compatibilidad que determine la autoridad;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
 
-IV (SIC). Coordinarse con la Secretaría de Seguridad Pública para el retiro de puestos por infracción al presente Código.
+VI. Coordinarse con la Secretaría de Seguridad Pública para el retiro de puestos por infracción al presente Código.
+
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 VII. Vigilar el cumplimiento de lo dispuesto en este capítulo, y en el Código.
 
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+
 VIII. Empadronar y registrar a todas las personas que realicen la actividad comercial a que se refiere este capítulo, así como el control de las altas y bajas de los mismos.
+
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 IX. La administración de la actividad comercial en los tianguis.
 
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+
 X. Autorizar y expedir los permisos para el uso de piso y ejercer el comercio, previo cumplimiento de los requisitos que establece este capítulo y el pago de los derechos correspondientes.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2014)</small>
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
-XI. Vigilar y practicar visitas de verificación e inspección por conducto de sus verificadores o inspectores, a los lugares, puestos y tianguis para comprobar por parte de quien ejerce el comercio en la vía publica, el debido cumplimiento de lo dispuesto por el presente capítulo.
+XI. Vigilar y practicar visitas de verificación e inspección por conducto de sus verificadores o inspectores, a los lugares, puestos y tianguis para comprobar por parte de quien ejerce el comercio en la vía pública, el debido cumplimiento de lo dispuesto por el presente capítulo.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 XII. Verificar que se cumplan los lineamientos previamente aprobados relativos a la instalación, acomodo y retiro de los tianguistas, haciendo cumplir el horario, el espacio autorizado y la debida limpieza del lugar.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 XIII. Verificar que las credenciales que expida la autoridad competente se encuentren vigentes y al corriente en sus pagos por uso de piso.
 
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+
 XIV. Determinar los horarios y condiciones bajo las cuales deberá de ejercerse el comercio en la vía pública, así como vigilar que sean respetados los derechos y dimensiones a los lugares asignados.
+
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 XV. Atender las sugerencias o quejas de los tianguistas, vecinos y público en general respecto de las actividades dentro de los tianguis y de comerciantes en la vía pública.
 
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+
 XVI. Levantar las actas administrativas e infracciones que correspondan por el incumplimiento o violaciones a este código en materia de su competencia.
+
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 XVII. Aplicar las sanciones previstas en este capítulo.
 
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+
 XVIII. Determinar las zonas restringidas para el comercio en vía pública de acuerdo al Plan de Desarrollo Municipal.
+
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 XIX. Dar en donación bienes perecederos en los términos de lo dispuesto por el artículo 1596 de este Código.
 
-XX. Las demás que le señale este Código y otras disposiciones legales aplicables y conforme lo determine el interés público.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+XX. Las demás que le señale este Código y otras disposiciones legales aplicables y conformes (sic) lo determine el interés público.
+
+(REPUBLICADO, P.O. 24 DE OCTUBRE DE 2016)
 
 C. Las delegaciones municipales:
 
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+
 I. Determinar en coordinación con la Dirección de Mercados, Estacionamientos y Áreas Comerciales, las zonas permitidas para el ejercicio del comercio en la vía pública.
 
-II. Con base en lo anterior, determinar en sus áreas de influencia, los espacios que los comerciantes en vía pública deban de utilizar con base en los dictámenes técnicos que emita la autoridad municipal a través de sus verificadores, así como los días, lugares y horario, en los cuales habrá de desarrollarse la actividad comercial en vía pública.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+II. Con base en lo anterior, determinar en sus áreas de influencia, los espacios que los comerciantes en vía pública deban de utilizar con base en los dictámenes técnicos que emita la autoridad municipal a través de sus verificadores, así como los días, lugares y horario, en los cuales habrá de (sic) la actividad comercial en vía pública.
+
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 III. Ampliar, reducir, modificar o reubicar las áreas para el ejercicio de la actividad comercial en vía pública, en sus áreas de influencia, en coordinación con la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+(REPUBLICADO, P.O. 24 DE OCTUBRE DE 2016)
 
 D. La Secretaría de Seguridad Pública, a través de sus integrantes operativos en activo:
 
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+
 I. Realizar acciones preventivas y/o correctivas con el objeto de mantener la seguridad, el orden público y la tranquilidad de las personas en los lugares o zonas en donde se ejerza el comercio en la vía pública.
+
+(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
 II. Auxiliar a las autoridades facultadas para la aplicación del presente Código en el ejercicio de sus funciones.
 
@@ -20487,7 +20535,9 @@ III. El cobro del permiso para ejercer la actividad comercial en la vía públic
 
 IV. El pago también podrá ser hasta por todo el año calendario sin que ello lo exima del cumplimiento de las obligaciones que le impone el presente Código.
 
-V. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+V. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditadas, que así se lo solicite.
 
 ### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
 
@@ -20589,7 +20639,19 @@ V. No colgar mercancía en los pasillos, fuera del local, puesto o establecimien
 
 VI. Cumplir con las normas de seguridad, sanidad y otras establecidas por las dependencias municipales, estatales y federales competentes;
 
-VII. Cumplir con las normas de seguridad, sanidad y otras establecidas por las dependencias municipales, estatales y federales competentes.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+VII. Los comerciantes de vía pública que se dediquen a la venta de alimentos o bebidas de consumo humano, deberán cubrir los siguientes requisitos:
+
+a) Contar con el documento o constancia de salud expedida por las autoridades sanitarias correspondientes.
+
+b) Los muebles y los instrumentos que se utilicen no obstruirán las arterias públicas y permitirán la mayor higiene posible en sus mercancías.
+
+c) De preferencia se utilizará material desechable y se contará con los recipientes necesarios para el depósito de sobrantes y residuos que se produzcan por el consumo de alimentos y bebidas.
+
+d) Deberán contar con el agua potable suficiente para mantener aseo absoluto de empleados y utensilios.
+
+e) Deberán mantener en perfecto estado estufas, quemadores e instalaciones de gas y eléctricas para garantizar la máxima seguridad a los consumidores, comerciantes y comunidad en general.
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
@@ -22314,6 +22376,10 @@ IV. Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
 V. La reincidencia en la falta.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+VI. Analizar los hechos imputados y determinar sobre la procedencia o improcedencia de la infracción.
 
 ###### ARTÍCULO 1556.
 
@@ -24196,3 +24262,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Se autoriza a la Academia de Policía Municipal, a utilizar la papelería oficial en la que aparezca la Dirección de Profesionalización hasta la terminación de la misma, que tendrá la validez oficial y surtirá los efectos jurídicos correspondientes; una vez concluido lo anterior, la Academia de Policía Municipal deberá adecuar la documentación oficial que requiera.
 
 TERCERO.- Todos aquellos ordenamientos jurídicos Municipales que hagan referencia a la Dirección de Profesionalización se entenderán aplicables a la Academia de Policía Municipal.
+
+P.O. 24 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, TÍTULO SEGUNDO, DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIOS Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA, REFORMAS AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
