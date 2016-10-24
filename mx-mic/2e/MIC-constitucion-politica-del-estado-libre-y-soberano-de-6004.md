@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2015-11-13"
+last_updated: "2016-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -623,17 +623,23 @@ III.- La aprobación deberá hacerse por mayoría absoluta del número de diputa
 
 IV.- Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
 
-V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los siguientes diez días hábiles;
+V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los quince días hábiles siguientes a su recepción; vencido este plazo, procederá a su promulgación y publicación inmediata.
 
 VI.- El proyecto de ley o decreto, desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones al Congreso y deberá ser discutido nuevamente por éste, pudiendo el Ejecutivo mandar su orador, para lo cual se le dará aviso previo, y
 
-VII.- Si el proyecto fuese confirmado por las dos terceras partes del número total de los diputados presentes, volverá al Ejecutivo para su promulgación.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+VII.- Si el proyecto fuese confirmado por las dos terceras partes del número total de los diputados presentes, volverá al Ejecutivo para su promulgación y su publicación inmediata.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo año legislativo.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+Para efectos de las fracciones IV, V y VII de este artículo, se entenderá por inmediata la publicación del proyecto de ley o decreto aprobado, que no podrá exceder de un plazo mayor a quince días naturales. Si transcurrido este plazo la ley o decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al Titular del Periódico Oficial del Estado su publicación, sin que se requiera refrendo alguno.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1669,7 +1675,9 @@ Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hay
 
 En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
 
-Las penas privativas de la libertad no podrán en ningún caso exceder de cuarenta años. Esta sanción podrá contemplarse como máxima para delitos calificados como graves por la ley y, también, en el caso de los concursos.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2016)</small>
+
+Las penas privativas de la libertad no podrán en ningún caso exceder de cincuenta años. Esta sanción podrá contemplarse como máxima para delitos calificados como graves por la ley y, también, en el caso de los concursos.
 
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalen las leyes.
 
@@ -3834,3 +3842,21 @@ SEXTO. Una vez constituido el Instituto Michoacano de Transparencia, Acceso a la
 SÉPTIMO. El Congreso del Estado deberá realizar las modificaciones al Presupuesto y los ordenamientos que regulan la estructura y el funcionamiento del Tribunal de Justicia Administrativa a más tardar dentro de los 90 días naturales posteriores a la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio del presente Decreto, así como llevar a cabo el procedimiento para la elección de los dos nuevos Magistrados.
 
 OCTAVO. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA EL ARTÍCULO 94 PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 157 POR EL QUE “SE REFORMAN LAS FRACCIONES V Y VII, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen, al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
