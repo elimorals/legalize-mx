@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estacionamientos-del-municipio-de-65982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-12"
-last_updated: "2016-09-19"
+last_updated: "2016-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2009.
 
@@ -299,9 +299,9 @@ V.- Las tarifas de las calcomanías que exenten a los usuarios de parquímetros 
 
 VI.- Las tarifas máximas por hora de los estacionamientos públicos de la primera, segunda y tercera categorías que cuenten con póliza de seguros; y
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
 
-VII.- Las tarifas máximas por hora de los estacionamientos públicos comerciales y que serán diferenciadas atendiendo a las categorías contenidas en la fracción VII del artículo 6° del presente Reglamento:
+VII.- Las tarifas máximas por hora de los estacionamientos públicos ubicados dentro de un Centro Comercial, que serán diferenciadas atendiendo a las categorías contenidas en la fracción II del artículo 6° del presente Reglamento.
 
 La Comisión Consultiva de Tarifas de Estacionamientos tendrá la obligación de proponer las tarifas de las diferentes categorías de los estacionamientos públicos. La primera, segunda o tercera categoría del estacionamiento público de que se trate será determinada por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, atendiendo a la clasificación del artículo 6° del presente ordenamiento. Todo estacionamiento público deberá estar categorizado por dicha Dirección.
 
@@ -957,7 +957,7 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 20 DE ABRIL DE 2009.
 
@@ -974,5 +974,11 @@ P.O. 9 DE ABRIL DE 2012.
 P.O. 19 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DE MODIFICACIONES AL "REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, TÍTULO SEGUNDO, DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIOS Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA, REFORMAS AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DEL AGUASCALIENTES."]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
