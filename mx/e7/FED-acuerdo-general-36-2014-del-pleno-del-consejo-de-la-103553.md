@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2016-10-06"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -89,7 +89,9 @@ X. Ley: Ley Orgánica del Poder Judicial de la Federación;
 
 XI. Tribunal de Enjuiciamiento: Juez de Distrito que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de la sentencia;
 
-XII. Tribunal de Alzada: Tribunal Unitario de Circuito que resuelve la apelación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DEL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELATIVO AL CONOCIMIENTO DE LA QUEJA ADMINISTRATIVA, D.O.F. 25 DE OCTUBRE DE 2016)</small>
+
+XII. Tribunal de Alzada: Tribunal Unitario de Circuito competente para conocer de los asuntos a que se refieren los artículos 60 y 67 Bis 4 de la Ley;
 
 XIII. Órganos jurisdiccionales: jueces de Control y de Ejecución, así como tribunales de Enjuiciamiento y de Alzada; y
 
@@ -365,17 +367,13 @@ Al entrar a la audiencia, la Administración del Centro entregará al periodista
 
 Los periodistas y medios de comunicación que ingresen a la sala, serán colocados en el espacio que al efecto se determine, sin que puedan sobrepasar la capacidad del mismo, sin perjuicio de que el Administrador pueda habilitar, para tal efecto, el espacio designado para el público, siempre que sea posible.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DEL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELATIVO AL CONOCIMIENTO DE LA QUEJA ADMINISTRATIVA, D.O.F. 25 DE OCTUBRE DE 2016)</small>
+
 ### CAPÍTULO QUINTO. QUEJA ADMINISTRATIVA
 
 ###### Artículo 32.
 
-La Comisión de Vigilancia, Información y Evaluación conocerá de las quejas a que se refiere el artículo 135 del Código.
-
-Para dar celeridad a la remisión del informe, el recurso y los documentos justificativos, se autoriza a los órganos jurisdiccionales para disponer su envío por medio de correo electrónico o fax, previa certificación que realice el órgano receptor.
-
-El proyecto de resolución será elaborado por la Secretaría Ejecutiva de Vigilancia, Información y Evaluación.
-
-La determinación de la Comisión de Vigilancia, Información y Evaluación no prejuzga sobre la responsabilidad del juzgador.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DEL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELATIVO AL CONOCIMIENTO DE LA QUEJA ADMINISTRATIVA, D.O.F. 25 DE OCTUBRE DE 2016)
 
 ### CAPÍTULO SEXTO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -794,5 +792,13 @@ D.O.F. 6 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DISPOSICIONES DEL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELATIVO AL CONOCIMIENTO DE LA QUEJA ADMINISTRATIVA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
