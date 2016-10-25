@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2016-07-01"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2881,11 +2881,31 @@ La punibilidad prevista en este artículo se aplicará siempre que el hecho no c
 
 En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas que consideren pertinentes para salvaguardar la integridad física o psíquica de la víctima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-Este delito se perseguirá por querella, salvo que la víctima sea menor de dieciocho años o incapaz, caso en el que se perseguirá de oficio.
+###### Artículo 221
+
+a.- El delito a que se refiere el artículo anterior se perseguirá por querella excepto cuando:
+
+I.- La víctima sea menor de edad o incapaz;
+
+II.- Tratándose de violencia física, en los siguientes supuestos:
+
+a) La víctima por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa;
+
+b) La víctima presente lesiones que por lo menos tarden en sanar más de quince días, dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular o pongan en peligro la vida;
+
+c) La víctima sea una mujer embarazado o durante los tres meses siguientes al parto;
+
+d) Se cometa con la participación de dos o más personas;
+
+e) Se cometa con el uso de armas de fuego o punzocortantes;
+
+f) Se tengan documentados ante autoridad antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
+
+g) Exista imposibilidad material de la víctima de denunciar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2893,13 +2913,19 @@ Este delito se perseguirá por querella, salvo que la víctima sea menor de diec
 
 ###### Artículo 221
 
-a.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en sanar más de quince días, inferidas a una persona que por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa, se impondrá como pena de dos a ocho años de prisión.
+b.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en sanar más de quince días, inferidas a una persona que por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa, se impondrá como pena de dos a ocho años de prisión.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
+### CAPÍTULO II. RESPONSABILIDAD MÉDICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 221
 
-b.- Al ascendiente, descendiente o pariente colateral hasta el cuarto grado de un menor de dieciséis años o incapaz, o al que tenga relación familiar con dicho menor o incapaz, o con uno de los ascendientes o parientes referidos, sin causa justificada, lo sustraiga, retenga u oculte de quien tenga la guarda, custodia o tutela del menor o incapaz de hecho o de derecho, se le impondrá de un año a cinco años de prisión y de diez a cincuenta días multa. Además de las sanciones señaladas, se le privará o suspenderá de los derechos de patria potestad, tutela o custodia, según el caso.
+c.- Al ascendiente, descendiente o pariente colateral hasta el cuarto grado de un menor de dieciséis años o incapaz, o al que tenga relación familiar con dicho menor o incapaz, o con uno de los ascendientes o parientes referidos, sin causa justificada, lo sustraiga, retenga u oculte de quien tenga la guarda, custodia o tutela del menor o incapaz de hecho o de derecho, se le impondrá de un año a cinco años de prisión y de diez a cincuenta días multa. Además de las sanciones señaladas, se le privará o suspenderá de los derechos de patria potestad, tutela o custodia, según el caso.
 
 En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas pertinentes para salvaguardar la integridad física o psíquica del menor o incapaz sustraído, retenido u ocultado.
 
@@ -2908,12 +2934,6 @@ Si el activo devuelve al menor o incapaz dentro de los tres días siguientes a l
 La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
 
 Este delito se perseguirá por querella de quien tenga la guarda, custodia o tutela del menor o incapaz de hecho o de derecho.
-
-### CAPÍTULO II. RESPONSABILIDAD MÉDICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN
 
@@ -4238,3 +4258,13 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS "DECRETO NÚMERO 111, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 221 Y SE ADICIONA EL ARTÍCULO 221-A, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES ARTÍCULOS 221-A Y 221-B, PARA QUEDAR COMO 221-B Y 221-C DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]</small>
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración, y el Poder Judicial deberán realizar las previsiones presupuestales necesarias a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+Artículo Tercero. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si el presente decreto ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
