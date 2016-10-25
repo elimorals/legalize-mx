@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2016-04-07"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -80,6 +80,10 @@ II. Cámaras: las asociaciones de personas físicas y morales dedicadas a la ind
 III. Comité: órgano colegiado consultivo de la obra pública y servicios relacionados con las mismas, que en los ámbitos estatal y municipal se constituya conforme a las disposiciones de esta Ley;
 
 IV. CompraNet: sistema electrónico de información pública gubernamental sobre obras públicas y servicios relacionados con las mismas, integrado, entre otra información, por los programas anuales en la materia de las instituciones; el registro único de contratistas; el registro de contratistas sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; las resoluciones de la instancia de inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IV BIS. Contratista Local: la persona física potosina, y las morales constituidas en el Estado de San Luis Potosí, que cuenten con domicilio social y fiscal en el Estado de San Luis Potosí; que se encuentra debidamente inscrita en el Registro Estatal de Contratistas y, está, en aptitud de proporcionar a las instituciones públicas del Estado y municipios, capacidad instalada, calidad, precio y garantía, para la realización de obras públicas, o para la prestación de servicios relacionados con las mismas que éstas requieran;
 
 V. Contraloría: la Contraloría General del Estado;
 
@@ -200,6 +204,10 @@ Corresponde a las instituciones llevar a cabo los procedimientos para contratar 
 ###### ARTÍCULO 12.
 
 El Poder Ejecutivo del Estado, los ayuntamientos, y los organismos autónomos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, mejoramiento del sistema de obra pública y servicios relacionados con las mismas, la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley; debiendo poner a disposición de las demás instituciones, cuando lo soliciten,. (sic) los resultados de los trabajos de los respectivos contratos de asesoría técnica.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Para la contratación de los servicios antes descritos, la dependencia o entidad Estatal o Municipal, deberá dar preferencia a los contratistas locales que cuenten con la experiencia técnica, ofrezcan calidad, precio y garantía, y cumplan con los requisitos correspondientes, sobre aquellos nacionales o internacionales.
 
 ###### ARTÍCULO 13.
 
@@ -427,9 +435,11 @@ Los licitantes sólo podrán presentar una proposición en cada procedimiento de
 
 A los actos del procedimiento de licitación pública e invitación a cuando menos tres contratistas, podrá asistir cualquier persona en calidad de observador, bajo la condición de registrar su asistencia y abstenerse de intervenir en cualquier forma en los mismos.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-Tomando en cuenta la opinión del órgano de control interno, las instituciones determinarán de acuerdo con lo dispuesto en el artículo 46 de esta Ley, el carácter estatal, nacional o internacional de los procedimientos de contratación, y los criterios para determinar el contenido nacional de los trabajos a contratar, en razón de las reservas, medida de transición u otros supuestos establecidos en los tratados.
+Tomando en cuenta la opinión del órgano de control interno, las instituciones determinarán de acuerdo con lo dispuesto en el artículo 46 de esta Ley, el carácter estatal, nacional o internacional de los procedimientos de contratación, y los criterios para determinar el contenido nacional de los trabajos a contratar, en razón de las reservas, medida de transición u otros supuestos establecidos en los tratados, dando preferencia, siempre que por la magnitud del procedimiento se justifique, a los procedimientos de carácter estatal.
 
 ###### ARTÍCULO 43.
 
@@ -467,11 +477,15 @@ La Contraloría General del Estado operará y se encargará del sistema de certi
 
 El carácter de las licitaciones públicas será:
 
-I. Estatal: únicamente cuando puedan participar personas físicas y morales de nacionalidad mexicana, y cuyo domicilio fiscal se localice en el Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+I. Estatal: únicamente cuando puedan participar contratistas locales;
 
 II. Nacional: únicamente cuando puedan participar personas físicas y morales de nacionalidad mexicana, y siempre que:
 
-a) Previa investigación que realice la institución convocante, en el que los contratistas estatales no cuenten con la capacidad para la ejecución de los trabajos, o sea conveniente en términos de capital, o
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Previa investigación que realice la institución convocante, en el que los contratistas locales no cuenten con la capacidad para la ejecución de los trabajos, o sea conveniente en términos de capital, o
 
 b) Habiéndose realizado una de carácter estatal, no se presenten proposiciones;
 
@@ -479,7 +493,9 @@ III. Internacional bajo la cobertura de tratados: cuando resulte obligatorio con
 
 IV. Internacional abierta: en la que podrán participar licitantes mexicanos y extranjeros, cualquiera que sea su nacionalidad, aún sin que nuestro país tenga celebrados tratados de libre comercio con su país de origen, cuando:
 
-a) Previa investigación que realice la institución convocante, los contratistas estatales o nacionales no cuenten con la capacidad para la ejecución de los trabajos, o sea conveniente en términos de precio.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Previa investigación que realice la institución convocante, los contratistas locales o nacionales no cuenten con la capacidad para la ejecución de los trabajos, o sea conveniente en términos de precio.
 
 b) Habiéndose realizado una de carácter nacional, y no se presenten proposiciones.
 
@@ -595,7 +611,9 @@ III. Declaración escrita y, bajo protesta de decir verdad, de no encontrarse en
 
 IV. Experiencia o capacidad técnica con que cuenta, y que se requiera para participar en la licitaciones, de acuerdo con las características de la obra y especificaciones de los servicios relacionados con la misma;
 
-V. Escrito en el que manifieste su domicilio fiscal en el Estado de San Luis Potosí, que servirá para oír y recibir todo tipo de notificaciones y documentos, aún las de carácter personal; las que surtirán todos sus efectos legales mientras no señale otro distinto;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+V. Escrito en el que manifieste un domicilio en el Estado de San Luis Potosíí (sic), que servirá para oír y recibir todo tipo de notificaciones y documentos, aún las de carácter personal; las que surtirán todos sus efectos legales mientras no señale otro distinto;
 
 VI. Identificación oficial vigente con fotografía, tratándose de persona física, y
 
@@ -616,6 +634,14 @@ f) Nombre del apoderado o su legítimo representante; número y fecha de los ins
 g) Acreditar que han cumplido con la capacitación de su personal.
 
 A este escrito se deberán acompañar los poderes que acrediten su contenido.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Los contratistas registrados en el Registro Estatal Único de Contratistas, podrán actualizar voluntariamente su información cuando modifiquen alguno de los rubros señalados en las fracciones anteriores y, de manera obligatoria, deberán actualizar o refrendar dicha información, a efecto de que las entidades y dependencias cuenten con la información, actualizada de cada contratista al momento de realizar el estudio o análisis para llevara a cabo la contratación a que se refiere el artículo 46 de esta Ley, así como determinar el tipo de procedimiento a implementar en términos de lo dispuesto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Para los efectos de la presente Ley, la inscripción de personas físicas o morales en el Registro Estatal Único de Contratistas, no otorga a éstas el carácter de contratista local, sino la actualización de los supuestos del concepto que determina el artículo 2° fracción VI bis de este Ordenamiento.
 
 ###### ARTÍCULO 53.
 
@@ -779,7 +805,9 @@ Los actos, contratos, convenios o combinaciones que lleven a cabo los licitantes
 
 Para facilitar los procedimientos de contratación, las convocantes deberán efectuar revisiones preliminares respecto de la especialidad, experiencia y capacidad de los interesados, y cerciorarse de su inscripción en el Registro Único de Contratistas a que se refiere el artículo 176 de esta Ley, así como de la documentación distinta a la propuesta técnica y económica, de acuerdo con lo que establezca el Reglamento de este Ordenamiento.
 
-En todos los casos, se deberá preferir la especialidad, experiencia y capacidad técnica de los interesados, así como a aquellos contratistas que tengan un historial de cumplimiento satisfactorio de los contratos sujetos a esta Ley, y acrediten que han cumplido con la capacitación y adiestramiento de su personal, de conformidad con la Ley Federal del Trabajo, y a lo previsto por la Secretaría del Trabajo y Previsión Social del Estado. De igual manera, este criterio será aplicable a los licitantes que presenten proposiciones conjuntas.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+En todos los casos, se deberá preferir la especialidad, experiencia y capacidad técnica de los interesados, valorando en primer término la de aquellos que sean contratistas locales, así como a aquellos contratistas que tengan un historial de cumplimiento satisfactorio de los contratos sujetos a esta Ley, y acrediten que han cumplido con la capacitación y adiestramiento de su personal, de conformidad con la Ley Federal del Trabajo, y a lo previsto por la Secretaría del Trabajo y Previsión Social del Estado. De igual manera, este criterio serái (sic) aplicable a los licitantes que presenten proposiciones conjuntas.
 
 Las instituciones, atendiendo a las características, complejidad y magnitud de los trabajos, requerirán que las proposiciones de los licitantes cumplan con los documentos, y demás requisitos que se señalen en el Reglamento de este (sic) Ley.
 
@@ -829,7 +857,17 @@ En los procedimientos en que se opte por la utilización del mecanismo de puntos
 
 Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquél cuya proposición resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en la convocatoria a la licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y por tanto garantiza el cumplimiento de las obligaciones respectivas.
 
-Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición que asegure las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicarai (sic) a aquella que asegure las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+En caso de existir similitud de condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, entre un contratista local y un foráneo, se le dará preferencia al contratista local, siempre y cuando el precio entre uno y otro no exceda de un tres por ciento del valor total a contratar.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+De igual forma, y siempre que se cumpla lo establecido en el párrafo anterior, la autoridad convocante dará preferencia al contratista local registrado en la cámara que corresponda, de acuerdo con su actividad, sobre el que no pertenece a ésta.
 
 ###### ARTÍCULO 78.
 
@@ -837,17 +875,21 @@ Para determinar el licitante ganador al que se le adjudique el contrato bajo el 
 
 Obtenido el presupuesto de referencia, sólo serán tomadas en cuenta para efectos de evaluación y, en su caso, adjudicación del contrato, las propuestas que no sean superiores en más de un cinco por ciento al presupuesto mencionado y aquéllas cuyo monto inferior no exceda el cinco por ciento con relación al mismo.
 
-Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo dentro del rango señalado en los párrafos anteriores con relación al presupuesto de referencia, en el orden de prelación.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicarai (sic) a favor de un contratista local, y si fuere más de un contratista local, a quien presente la proposición cuyo precio sea el más bajo dentro del rango señalado en los párrafos anteriores con relación al presupuesto de referencia, en el orden de prelación.
 
 ###### ARTÍCULO 79.
 
 Si existen dos o más proposiciones solventes, cuya diferencia en su propuesta económica no sea superior a tres puntos porcentuales, el contrato debe adjudicarse:
 
-I. Al licitante con domicilio fiscal en el Estado, sobre el domiciliado en otra Entidad;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+I. Al contratista local;
 
 II. Al licitante nacional sobre el extranjero;
 
-III. Al licitante registrado en alguna cámara empresarial que corresponda de acuerdo a su actividad, sobre al que no pertenece a ninguna;
+III. (DEROGADA, P.O. 25 DE OCTUBRE DE 2016)
 
 IV. Al que acredite cumplir con la capacitación y adiestramiento de sus trabajadores establecidos en la Ley Federal del Trabajo, sobre el que no lo demuestre, y
 
@@ -983,9 +1025,13 @@ En los mismos términos, y previo acuerdo del cabildo, podrán actuar los ayunta
 
 Con sujeción en las formalidades que prevén los artículos 93 y 95 de esta Ley, las instituciones y el Comité, bajo su más estricta responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública o celebrar contratos a través de los procedimientos de invitación a cuando menos tres contratistas o de adjudicación directa.
 
-La selección del procedimiento de excepción que realicen las instituciones deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, y bajo criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia, que resulten procedentes para obtener las mejores condiciones. El acreditamiento del o los criterios en los que se funde y la justificación de las razones por las que se sustente el ejercicio de la opción, deberán constar por escrito, y ser firmado por el titular del área responsable de la ejecución de los trabajos.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-En cualquiera de los supuestos, se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
+La selección del procedimiento de excepción que realicen las instituciones deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, y bajo criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia, que resulten procedentes para obtener las mejores condiciones. La acreditación del o los criterios en los que se funde y la justificación de las razones por las que se sustente el ejercicio de la opción, deberán constar por escrito, y ser firmado por el titular del área responsable de la ejecución de los trabajos.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+En cualquiera de los supuestos, se invitará a personas que cuenten con capacidad de respuesta inmediata, asíí (sic) como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar, dando preferencia en igualdad de circunstancias a los contratistas locales, sobre aquellos nacionales o extranjeros.
 
 En estos casos, el titular del área responsable de la contratación de los trabajos, a más tardar el día último hábil de cada mes, enviará al órgano de control interno en la dependencia o entidad de que se trate, un informe relativo a los contratos formalizados durante el mes calendario inmediato anterior, acompañando copia del escrito aludido en este artículo, y de un dictamen en el que se hará constar el análisis de la o las proposiciones, y las razones para la adjudicación del contrato.
 
@@ -1025,7 +1071,9 @@ XII. Cuando se acredite la celebración de una alianza estratégica que lleven a
 
 Tratándose de las fracciones I, II, y IX de este artículo, no será necesario contar con el dictamen previo de excepción a la licitación pública del Comité de Obras Públicas, por lo que en estos casos el área responsable de la contratación en la dependencia o entidad respectiva deberá informar al propio Comité, una vez que se concluya el procedimiento de contratación correspondiente; lo anterior, sin perjuicio de que el área responsable de las contrataciones pueda someter previamente a dictamen del Comité los citados casos de excepción a la licitación pública.
 
-Las instituciones preferentemente invitarán a cuando menos a tres contratistas, según corresponda, salvo que a su juicio no resulte conveniente; en cuyo caso, utilizarán el procedimiento de adjudicación directa.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Las instituciones preferentemente invitarán a cuando menos a tres contratistas, según corresponda, salvo que, a su juicio, no resulte conveniente, privilegiando en igualdad de circunstancias a aquellos que sean contratistas locales si los hubiera; en cuyo caso, utilizarán el procedimiento de adjudicación directa.
 
 En cualquier supuesto se convocará a quienes cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros, cuenten con el Registro Único de Contratistas, y demás que sean necesarios.
 
@@ -1034,6 +1082,10 @@ Cuando el costo de las obras no rebasen el monto equivalente a quinientos salari
 ###### ARTÍCULO 94.
 
 Las instituciones podrán llevar a cabo el procedimiento de invitación restringida cuando menos a tres contratistas, o el de adjudicación directa, según corresponda, cuando el importe de cada operación no exceda de los montos máximos que al efecto establezca el Congreso del Estado, quien los fijará tomando en consideración las leyes de presupuestos de Egresos del Estado, y de los municipios; los que serán fijados y publicados anualmente en el Periódico Oficial del Estado, dentro de la segunda quincena del mes de enero de cada año. Estos montos podrán ser modificados en cualquier época del año, cuando las circunstancias socioeconómicas lo ameriten, utilizando el mismo procedimiento por virtud del cual se establecieron los montos anuales.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Tratándose de adjudicación directa, las instituciones públicas del Estado y Municipios deberán privilegiar a los contratistas locales sobre los nacionales o extranjeros.
 
 ###### ARTÍCULO 95.
 
@@ -1507,13 +1559,13 @@ Si la institución es de aquéllas cuyo presupuesto se encuentre incluido en la 
 
 Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos y de los vicios ocultos en que hubiera incurrido, en los términos señalados en el contrato respectivo y en el Código Civil del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-Para garantizar durante un plazo de dieciocho meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, el contratista otorgará fianza por el equivalente al diez por ciento del monto total ejercido en la obra, y presentará una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de los trabajos, o bien, aportará recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
+Para garantizar durante un plazo de dieciocho meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, el contratista otorgará fianza por el equivalente al diez por ciento del monto total ejercido en la obra.
 
-Los recursos aportados en fideicomiso deberán invertirse en instrumentos de renta fija.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-Los contratistas, en su caso, podrán retirar sus aportaciones en fideicomiso y los respectivos rendimientos, transcurridos doce meses a partir de la fecha de recepción de los trabajos. En igual plazo, quedará automáticamente cancelada la fianza o carta de crédito irrevocable, según sea el caso.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 158.
 
@@ -2135,7 +2187,7 @@ Diputado Presidente, Fernando Pérez Espinosa; Diputado Primer Secretario, José
 
 Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-DADO en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los ocho días del mes de octubre del año dos mil trece.
+D A D O en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los ocho días del mes de octubre del año dos mil trece.
 
 El Gobernador Constitucional del Estado
 
@@ -2153,8 +2205,24 @@ Lic. Cándido Ochoa Rojas
 
 P.O. 7 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0193.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 157, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0193.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 157, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0411.- SE REFORMA EL ARTÍCULO 157 EN SU PÁRRAFO SEGUNDO; Y DEROGA DEL MISMO ARTÍCULO 157 LOS PÁRRAFOS, TERCERO, Y CUARTO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0412.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS SE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ Y LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
