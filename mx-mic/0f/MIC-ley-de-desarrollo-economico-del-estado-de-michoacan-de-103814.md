@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-economico-del-estado-de-michoacan-de-103814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-03"
-last_updated: "2016-03-18"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -87,11 +87,11 @@ XIV. Sistema: El Sistema de Información Económica Integral; y,
 
 XV. Zonas integrales de actividades logísticas: Zonas delimitadas en el interior de los cuales se ejercen, por distintos operadores, todas las actividades relativas al transporte, a la logística y a la distribución de mercancías tanto para el tránsito nacional como internacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-Para el cumplimiento de esta Ley, la Secretaría además de las atribuciones conferidas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo tendrá las siguientes:
+Para el cumplimiento de esta Ley, la Secretaría además de las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo tendrá las siguientes:
 
 I. Dar a conocer al Consejo los resultados anuales de los programas y acciones tendientes al cumplimiento de la presente Ley;
 
@@ -135,7 +135,9 @@ XIX. Promover en el mercado estatal, nacional e internacional los productos y se
 
 XX. Estimular el comercio exterior en el Estado, y la definición de los apoyos que se requieran, para ofrecer estrategias de desarrollo económico en beneficio de las empresas Michoacanas;
 
-XXI. Consolidar la competitividad de la planta productiva estatal, mediante apoyos de consultoría, capacitación y adopción de estrategias de innovación para el desarrollo económico;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXI. Consolidar la competitividad de la planta productiva estatal, la implementación de programas que otorguen apoyos de gestoría, consultoría, capacitación y económicos, como son: infraestructura, incentivos fiscales, financiamientos y adopción de estrategias de innovación para el desarrollo económico;
 
 XXII. Promover y desarrollar corredores turísticos, comerciales, de servicios, parques industriales y agropecuarios, así como zonas integrales de actividades logísticas en puntos de fácil acceso, dotándolos con infraestructura y servicios necesarios para el desarrollo de los mismos;
 
@@ -184,6 +186,18 @@ XLIII. Desarrollar estrategias tendientes a incrementar la participación de la 
 XLIV. Impulsar apoyos financieros para fomentar y acrecentar el desarrollo de franquicias, empresas de comercio exterior y con programas de fomento, en el Estado; y,
 
 XLV. Elevar los niveles de calidad y competitividad, fomentando la creación de centros de articulación productiva.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XLVI. Promover, en lo posible, esquemas para facilitar el acceso al financiamiento público y privado con tasas de interés acordes a la capacidad de pago de las MIPYMES, a fin de garantizar su consolidación y desarrollo;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XLVII. Elaborar programas de participación estatal con créditos solidarios para las MIPYMES; y,
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XLVIII. Gestionar ante las instancias federales competentes, los programas y apoyos previstos en materia de fomento al desarrollo económico.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO CONSULTIVO PARA EL DESARROLLO ECONÓMICO DE MICHOACÁN
 
@@ -329,7 +343,13 @@ XVII. Conocer de las opiniones y recomendaciones que emitan las comisiones del C
 
 XVIII. Elaborar su reglamento interno; y,
 
-XIX. Las demás funciones que le otorgue la Ley.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIX. Elaborar recomendaciones y emitir opiniones respecto al otorgamiento de estímulos, para fomentar la creación de empresas, principalmente de las MIPYMES. Las recomendaciones y opiniones deberán ser atendidas por la Secretaría o, en su caso, fundamentar y argumentar la razón de lo contrario; y,
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XX. Las demás funciones que le otorgue la Ley.
 
 ###### ARTÍCULO 20.
 
@@ -445,41 +465,81 @@ k) Sanciones.
 
 ### CAPÍTULO CUARTO. DE LOS ESTÍMULOS
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 27.
 
-Los estímulos que se otorguen a través de la Secretaría; mediante sus programas económicos podrán consistir en:
+Los estímulos que se otorguen a las empresas a través de la Secretaria; mediante sus programas económicos, podrán consistir en:
 
-I. Asesoría y capacitación;
+I. Subsidio mediante pago con recursos propios del Gobierno del Estado, en los siguientes casos:
 
-II. Becas para capacitación;
+a) Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal Prestado bajo la Dirección y Dependencia de un Patrón de un 50% a empresas de nueva creación. El tiempo del beneficio con este estímulo no será mayor a tres años;
 
-III. Apoyo financiero para ampliación de instalaciones, descentralización industrial, o reubicación de industrias o empresas agrícolas, comerciales y de servicios;
+b) Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal Prestado bajo la Dirección y Dependencia de un Patrón, en un 100% en las erogaciones efectuadas por empleo otorgado a las siguientes personas:
+
+1. Tengan 65 años de edad o más.
+
+2. Que tenga algún tipo de discapacidad.
+
+3. Sean recién egresados de alguna institución de educación o sea su primer empleo. El tiempo del beneficio no será mayor de tres años.
+
+4. Que estén contratadas en una empresa que acredite ser resultado de incubadoras de negocios de instituciones de educación media superior y superior. El tiempo del beneficio con este estímulo no será mayor de tres años.
+
+Los contribuyentes deberán acreditar a la Secretaría, mediante la presentación de las declaraciones del impuesto, el número de personas que trabajan en la empresa y se encuentran en el supuesto de esta fracción.
+
+Al efecto de acreditar que se está en alguno de los supuestos anteriores, para ser considerado en los beneficios descritos, la Secretaría deberá normar los procedimientos y las documentales exigibles, siempre garantizando que sean lógicas, racionales y tiendan a facilitar su cumplimiento, es decir, deberán eliminar cualquier barrera que obstaculice su acreditación.
+
+II. Apoyos económicos para:
+
+a) Becas para capacitación;
+
+b) Ampliación de instalaciones, descentralización industrial o reubicación de industrias o empresas agrícolas, comerciales y de servicios;
+
+c) Obras de infraestructura y servicios públicos;
+
+d) Participación en ferias nacionales e internacionales donde se promuevan las artesanías, el turismo, las empresas y productos michoacanos; y,
+
+e) Aquellas acciones que, mediante programa, implemente la Secretaría.
+
+Los apoyos económicos a que refiere esta fracción, se sujetarán al límite de disponibilidad presupuestal de los programas y fondos destinados para dicho fin.
+
+III. Asesoría y capacitación;
 
 IV. Impulso al desarrollo agroindustrial;
 
-V. Recursos para obras de infraestructura;
+V. Apoyo para promover exportaciones;
 
-VI. Apoyo para promover exportaciones;
+VI. Apoyo para trámites ante diversas dependencias del Gobierno Federal, Estatal y Municipal;
 
-VII. Apoyo para que las empresas regionales puedan participar en ferias, y eventos nacionales e internacionales; así como la celebración de encuentros empresariales, participación en exposiciones para la promoción de empresas y productos michoacanos;
+VII. Gestionar ante la autoridad competente, donación, permuta o venta de bienes inmuebles o muebles propiedad del Gobierno del Estado, en la medida de la disponibilidad de estos recursos, previa solicitud y autorización del Congreso del Estado, cuando así se requiera;
 
-VIII. Comodatos o Rentas con precios preferenciales de bienes inmuebles propiedad del Gobierno de Estado;
+VIII. Gestionar ante la autoridad competente, el arrendamiento o comodato, a través de los organismos estatales competentes, de bienes inmuebles propiedad del Estado o de los municipios, con vocación industrial o acorde al giro del proyecto, y condicionado al aprovechamiento en la ejecución del proyecto de inversión; y,
 
-IX. Apoyo en trámites ante diversas dependencias del Gobierno Federal, Estatal y Municipal; y,
-
-X. Gestionar facilidades ante el Fideicomiso de Parques Industriales de Michoacán para adquirir la posesión de terrenos que impulsen el desarrollo de proyectos de inversión.
+IX. Gestionar facilidades ante el Fideicomiso de Parques Industriales de Michoacán para adquirir la posesión de terrenos que impulsen el desarrollo de proyectos de inversión.
 
 ###### ARTÍCULO 28.
 
 Las empresas que sean objeto de estímulos no podrán transferirlos.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaría establecerá una ventanilla para la atención, información y recepción de proyectos derivados de los programas que se deberán de ajustar a lo establecido en las reglas de operación de los mismos.
+La Secretaría asignará una ventanilla exclusiva para atención, recepción e información de estímulos e incentivos, así como su situación y la resolución que se adopte.
+
+Para obtener lo señalado en la fracción I del artículo 27, el interesado deberá comprobar estar al corriente en el pago de sus impuestos y contribuciones federales y estatales, así como presentar solicitud a la Secretaría, la cual se hará del conocimiento del Consejo, para, en su caso, emita sus recomendaciones u opiniones.
+
+El plazo para la resolución de las solicitudes de estímulos recibidas en el marco de la presente Ley, no será mayor a treinta días naturales posteriores a la fecha de su recibo por parte de la Secretaría.
+
+Las empresas que sean objeto de estímulos no podrán transferirlos.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 30.
 
-La Secretaría deberá notificar personalmente a los solicitantes las resoluciones emitidas, derivadas de los proyectos presentados.
+En cualquier tiempo, la Secretaría podrá verificar el cumplimiento de los requisitos por parte de las empresas beneficiarias de los estímulos a que se refiere este Capítulo y, en su caso, suspender los que les hayan sido otorgados, procediendo a determinar la cancelación de dichos estímulos y a señalar el monto del subsidio indebidamente aplicado.
+
+Al adoptarse la determinación suspensiva se otorgará el derecho de audiencia a la empresa beneficiaria, cuyo desahogo es indispensable para que la Secretaría resuelva lo procedente.
 
 ### CAPÍTULO QUINTO. DEL SISTEMA DE INFORMACIÓN ECONÓMICA INTEGRAL
 
@@ -587,17 +647,21 @@ Los servidores públicos que no cumplan con eficacia y diligencia las obligacion
 
 ### CAPÍTULO OCTAVO. DEL SISTEMA ESTATAL DE FINANCIAMIENTO
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 40.
 
-El Titular del Ejecutivo del Estado; promoverá la obtención de recursos financieros que puedan destinarse para la promoción del desarrollo económico del Estado, utilizando los Sistemas Estatales de Financiamiento con los cuales buscará fomentar e impulsar el desarrollo tecnológico y de innovación, proyectos productivos industriales, comerciales y de servicios, acceso a mercados nacionales e internacionales; para así financiar proyectos productivos viables de las empresas interesadas en establecerse en la Entidad y demás empresas del Estado que lo requieran.
+El Titular del Ejecutivo del Estado, promoverá la obtención de recursos financieros a través de partidas presupuestales específicas para la promoción del desarrollo económico del Estado, utilizando los Sistemas Estatales de Financiamiento, con los cuales buscará fomentar e impulsar el desarrollo tecnológico y de innovación, proyectos productivos industriales, comerciales y de servicios, acceso a mercados nacionales e internacionales, crear fondos para programas de financiamiento de proyectos productivos viables principalmente de las MIPYMES interesadas en establecerse en la Entidad y demás empresas del Estado que lo requieran.
 
 ###### ARTÍCULO 41.
 
 El titular del Poder Ejecutivo, por conducto de la Secretaría, podrá otorgar la asesoría técnica y legal que requieran los interesados en participar en los instrumentos financieros que se constituyan a través del Sistema Estatal del (sic) Financiamiento.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-Los requisitos, mecanismos, formas y montos de participación en los instrumentos financieros que integren el Sistema Estatal de Financiamiento, serán establecidos en los propios instrumentos, de acuerdo con las disposiciones aplicables.
+El Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá otorgar la asesoría técnica y legal que requieran los interesados en participar en los instrumentos financieros derivados del Sistema Estatal de Financiamiento cuyos requisitos, mecanismos, formas y montos de participación serán establecidos en los propios instrumentos, de acuerdo con las disposiciones aplicables.
 
 ### CAPÍTULO NOVENO. DE LA TRANSPARENCIA EN LA APLICACIÓN DE LOS PROGRAMAS ECONÓMICOS
 
@@ -652,3 +716,15 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 168 POR EL QUE SE "REFORMA EL ARTÍCULO 4 FRACCIÓN XXI, 19 FRACCIÓN XIX, 27, 29, 30, 40, 42, Y SE ADICIONAN LAS FRACCIONES XLVI, XLVII Y XLVIII AL ARTÍCULO 4, ASÍ COMO, LA FRACCIÓN XX AL ARTÍCULO 19, RECORRIENDO EL ORDEN DE LA SUBSECUENTE, DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Gobierno del Estado por conducto de la Secretaría de Finanzas y Administración, deberá considerar en el Presupuesto de Egresos del Estado de Michoacán para el Ejercicio Fiscal 2017, una partida presupuestal específica para el subsidio de los impuestos a que se hace referencia.
+
+TERCERO. En el caso del inciso b de la fracción primera del primer párrafo del artículo 27, en su aplicación se garantizará el principio de no retroactividad, es decir, sólo las empresas que se constituyan posterior a la publicación del presente decreto, podrán beneficiarse de tales estímulos. La autoridad verificará en todo momento que no se den simulaciones por parte de los particulares, con el objeto de beneficiarse de los referidos estímulos. Las simulaciones que se presenten serán sancionables en los términos de la norma aplicable para el caso de los particulares y, por la Ley en materia de responsabilidades, para los servidores públicos que las consientan.
+
+CUARTO. La normativa que refiere el segundo párrafo de la fracción I del artículo 27 de la presente Ley, deberá publicarse dentro de los 60 sesenta días siguientes a la entrada en vigor del presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, su no publicación en el tiempo aquí señalado no limita el ejercicio del derecho del particular, por lo que, a las solicitudes que lleguen a presentarse a la Secretaría, la autoridad, de oficio, subsanará las deficiencias.
