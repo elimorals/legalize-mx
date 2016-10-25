@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2013-02-07"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -81,7 +81,13 @@ V.- Catálogo de Cuentas: Es un listado ordenado, homogéneo y coherente de los 
 
 VI.- Compras consolidadas: Es el proceso integral de compra que deben observar las áreas administrativas de las instituciones al conjuntar los requerimientos de sus diferentes áreas, para efectuar las adquisiciones y la contratación de servicios que por su naturaleza y características similares deben contratarse en una sola operación, para obtener mejores condiciones de precio, calidad y servicio;
 
-VII.- Proveedor: La persona que de acuerdo con las normas mercantiles, hacendarias y requisitos exigidos en esta ley, esta en aptitud de contratar con las instituciones, las adquisiciones, arrendamientos y servicios que éstas requieran; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VII.- Proveedor: la persona que de acuerdo con las normas mercantiles, hacendarias y requisitos exigidos en esta Ley, está en aptitud de contratar con las instituciones públicas, las adquisiciones, arrendamientos y servicios que éstas requieran;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VII Bis.- Proveedor local: la persona física potosina, y las morales constituidas en el Estado de San Luis Potosí, que cuenta con su domicilio social y fiscal en el Estado de San Luis Potosí, y que de conformidad con la presente Ley y demás aplicables, está en aptitud y capacidad de contratar con las instituciones públicas, las adquisiciones, arrendamientos y servicios que éstas requieran, y de dar cumplimiento a lo pactado, en tiempo, cantidad, calidad, precio, garantía y forma, y
 
 VIII.- Licitante: La persona que participa en cualquier procedimiento de licitación pública.
 
@@ -229,9 +235,15 @@ En todo caso, la institución está facultada para corroborar la autenticidad de
 
 La institución asignará a cada proveedor un número progresivo, cuya cita en cada propuesta será suficiente para tener por cumplidos los requisitos señalados, hecha excepción de aquellos que por sus características específicas deban renovarse periódicamente. Este trámite será gratuito.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Para aquellos proveedores cuyo domicilio social y fiscal se encuentre dentro del Estado de San Luis Potosí, la institución asignará una clave que identifique al mismo como proveedor local.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 18.
 
-En las adquisiciones, arrendamientos y servicios que se contraten, las instituciones quedan obligadas a preferir como proveedores, en igualdad de circunstancias, a las personas físicas o morales establecidas en la Entidad, con el propósito de alentar, proteger y fortalecer la industria, el comercio y por ende, el desarrollo del Estado.
+En las adquisiciones, arrendamientos y servicios que se contraten, las instituciones públicas, garantizando siempre las mejores condiciones técnicas y económicas, quedan obligadas a preferir en igualdad de circunstancias, a los proveedores locales, con el propósito de alentar, proteger y fortalecer la Industria, el comercio y, por ende, el desarrollo del Estado.
 
 ###### ARTICULO 19.
 
@@ -425,11 +437,11 @@ Será facultad del comité emitir el dictamen sobre la adjudicación de las adqu
 
 Invariablemente, el dictamen o fallo beneficiará al licitante que haya cumplido con los requisitos de la convocante; presente las mejores condiciones en cuanto a precio, calidad, tiempo de entrega y además, garantice a satisfacción, el cumplimiento de las obligaciones respectivas.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 36.
 
-En los casos en que resultare que dos o más proposiciones cumplen en igualdad de circunstancias con todos los requisitos, el pedido o contrato se ofrecerá adjudicar de manera preferente a aquél licitante que tuviera su domicilio fiscal en el Estado de San Luis Potosí. Si todos tuvieren su domicilio en el Estado o, si ninguno lo tuviera, el pedido o contrato se ofrecerá adjudicar a los licitantes en partes proporcionales; de no aceptarlo éstos, el Comité lo podrá adjudicar a quien éste determine.
+En los casos en que resultare que dos o más proposiciones cumplen en igualdad de circunstancias con todos los requisitos, el pedido o contrato se ofrecerá adjudicar de manera preferente a un proveedor local, para el caso que se trate de una licitación pública nacional o internacional, o bien de invitación restringida, en la que participen proveedores nacionales o internacionales. Si todos fueren proveedores locales o, si ninguno lo fuera, el pedido o contrato se ofrecerá adjudicar a los licitantes en partes proporcionales; de no aceptarlo éstos, el Comité lo podrá adjudicar a quien éste determine.
 
 ###### ARTICULO 37.
 
@@ -457,7 +469,9 @@ Las instituciones o el comité, a través de los servidores públicos se abstend
 
 El procedimiento de invitación restringida se inicia en el área administrativa, con el requerimiento del departamento correspondiente de la institución, o por acuerdo del comité; y termina con la expedición de la orden de compra, orden de servicio o contrato respectivo.
 
-La invitación a todo proveedor deberá hacerse por escrito, indicando la información necesaria con el objeto de que los participantes se impongan de los requisitos exigibles al respecto.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+El comité deberá revisar el padrón de proveedores para asegurarse que la invitación se realice preferentemente a proveedores locales.
 
 ###### ARTICULO 42.
 
@@ -519,7 +533,9 @@ I.- La seriedad del sostenimiento de la propuesta económica, en un cinco por ci
 
 II.- Los anticipos que en su caso reciban, en un cien porciento; y
 
-III.- El cumplimiento de los contratos, el cual no podrá ser garantizado en una proporción inferior de un treinta porciento sobre su monto.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+III.- El cumplimiento de los contratos, el cual no podrá ser garantizado en una proporción inferior de un treinta por ciento sobre su monto.
 
 El monto de lo garantizado deberá incluir el impuesto al valor agregado correspondiente.
 
@@ -548,6 +564,10 @@ En ningún contrato podrán estipularse anticipos que excedan del cincuenta porc
 ###### ARTICULO 51.
 
 Las instituciones podrán contratar servicios de asesoría técnica para la realización de investigaciones de mercado, mejoramiento del sistema de arrendamientos, servicios generales y almacenamiento, precios, pruebas de calidad y demás actividades de su competencia.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Para la contratación de los servicios mencionados, se deberá dar preferencia a los proveedores locales.
 
 Los resultados de los trabajos objeto de los contratos de asesoría técnica antes referidos, serán puestos por las instituciones a la disposición de las demás instituciones que lo requieran.
 
@@ -738,3 +758,11 @@ P.O. 7 DE FEBRERO DE 2013.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0412.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ Y DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
