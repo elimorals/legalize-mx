@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-articulo-9-de-la-ley-de-coordinacion-fiscal-2218
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-15"
-last_updated: "2001-10-15"
+last_updated: "2016-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-10-09"
 ---
 # REGLAMENTO DEL ARTICULO 9° DE LA LEY DE COORDINACION FISCAL EN MATERIA DE REGISTRO DE OBLIGACIONES Y EMPRESTITOS DE ENTIDADES FEDERATIVAS Y MUNICIPIOS
 
-REGLAMENTO DEL ARTICULO 9o. DE LA LEY DE COORDINACION FISCAL EN MATERIA DE REGISTRO DE OBLIGACIONES Y EMPRESTITOS DE ENTIDADES FEDERATIVAS Y MUNICIPIOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO Y TERCERO TRANSITORIOS DEL REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENTIDADES FEDERATIVAS Y MUNICIPIOS, PUBLICADO EN EL D.O.F. DE 25 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL DÍA 1 DE NOVIEMBRE DE 2016.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL ARTÍCULO 9o. DE LA LEY DE COORDINACIÓN FISCAL EN MATERIA DE REGISTRO DE OBLIGACIONES Y EMPRÉSTITOS DE ENTIDADES FEDERATIVAS Y MUNICIPIOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 15 de octubre de 2001.
 
@@ -144,3 +146,39 @@ Segundo. A partir de la fecha en que entre en vigor el presente Reglamento, qued
 Tercero. Las obligaciones inscritas en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios con anterioridad a la entrada en vigor del presente Reglamento, continuarán regulándose por las disposiciones del Reglamento del Artículo 9o. de la Ley de Coordinación Fiscal en Materia de Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, publicado en el Diario Oficial de la Federación el 7 de julio de 1982 y modificado por Decreto publicado en el mismo órgano de difusión oficial el 28 de enero del 2000.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de octubre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+D.O.F. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL REGISTRO PÚBLICO ÚNICO DE FINANCIAMIENTOS Y OBLIGACIONES DE ENTIDADES FEDERATIVAS Y MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Registro Público Único entrará en operación el día 1 de noviembre de 2016.
+
+TERCERO. A partir de la fecha de entrada en operación del Registro Público Único queda abrogado el Reglamento del Artículo 9o. de la Ley de Coordinación Fiscal en materia de Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, publicado en el Diario Oficial de la Federación el 15 de octubre de 2001, con la salvedad a que se refiere el siguiente párrafo.
+
+Las solicitudes que se encuentren en trámite ante el Registro de Obligaciones y Empréstitos de Entidades y Municipios, con anterioridad a la entrada en vigor del Registro Público Único, se llevarán a cabo de conformidad con las disposiciones vigentes a la fecha de la presentación de la solicitud.
+
+CUARTO. En tanto no entre en operación el Sistema del Registro Público Único, los Procedimientos Registrales se realizarán de manera física, cumpliendo con los requisitos previstos en el Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios.
+
+QUINTO. La Secretaría de Hacienda y Crédito Público publicará los Formatos a que se refiere este Reglamento, dentro de los treinta días posteriores a la entrada en vigor del mismo. En tanto se emiten dichos Formatos, los Entes Públicos podrán utilizar escrito libre para llevar a cabo los trámites conducentes.
+
+SEXTO. La Secretaría de Hacienda y Crédito Público publicará los lineamientos del Sistema del Registro Público Único a que se refiere este Reglamento, dentro de los noventa días posteriores a su entrada en vigor.
+
+SÉPTIMO. Los Entes Públicos con Financiamientos contraídos antes de la entrada en vigor de la ley, que pretendan refinanciarlo, deberán solicitar la inscripción de dichos Financiamientos dentro de los noventa días naturales contados a partir de la entrada en operación del Registro Público Único, para lo cual se deberá anexar lo siguiente:
+
+I. Solicitud de inscripción por parte del Solicitante Autorizado de conformidad con los Formatos;
+
+II. Instrumento jurídico en donde conste que el Financiamiento fue destinado a Inversión Pública Productiva;
+
+III. El documento que acredite la inscripción en el Registro Estatal, y
+
+IV. Documento legal que acredite la autorización correspondiente.
+
+OCTAVO. Los Entes Públicos tendrán noventa días naturales contados a partir de la entrada en vigor del Reglamento del Registro Público Único, para informar a la Secretaría sobre las Obligaciones principales que cuenten con una Garantía instrumentada a través de créditos en cuenta corriente, irrevocable y contingente, de conformidad con los Formatos.
+
+NOVENO. La comparación de la información a que se refiere el artículo 51 del presente Reglamento, entrará en vigor una vez que se haya cumplido el plazo señalado en el artículo transitorio anterior y de acuerdo con la información del cierre trimestral siguiente correspondiente.
+
+DÉCIMO. La información de tasa de interés, fecha de última modificación en el Registro Público Único y la tasa efectiva calculada a que hace referencia el artículo 50 del presente Reglamento, será publicada por la Secretaría de Hacienda y Crédito Público para los Financiamientos y Obligaciones inscritos, a partir de la entrada en operación del Registro Público Único.
+
+DÉCIMO PRIMERO. Los requisitos y la información relacionados con el Sistema de Alertas a que se refiere el presente Reglamento, serán aplicables a partir de la entrada en vigor del Reglamento del Sistema de Alertas, y en los términos del mismo.
