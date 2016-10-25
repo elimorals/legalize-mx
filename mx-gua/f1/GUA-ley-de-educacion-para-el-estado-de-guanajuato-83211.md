@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2016-07-01"
+last_updated: "2016-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -417,6 +417,22 @@ XVII. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal
 
 XVIII. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIX. Proporcionarán una educación o capacitación basada en criterios de integración e inclusión, para las personas con la condición del espectro autista tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de que tengan una vida independiente;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XX. Proporcionarán habilitación terapéutica entendiendo a esta como el proceso de duración limitada y con un objetivo definido de orden, psicológico, social, educativo y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas para lograr su más acelerada integración social y productiva;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXI. Contarán en el marco de la educación especial, con elementos que faciliten el proceso de integración a escuelas de educación regular a las personas con la condición del espectro autista; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXII. Realizarán acciones que tiendan a no impedir la inscripción de personas con la condición del espectro autista en los planteles educativos públicos y privados.
+
 Programas compensatorios
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
@@ -709,7 +725,7 @@ Difusión educativa
 
 ###### Artículo 53.
 
-El Ejecutivo Estatal, para contribuir a una mejor convivencia humana, promoverá con los medios de comunicación, la difusión del objeto, fines, criterios de orientación, valores e ideales de la educación, así como las actividades educativas, artísticas, culturales, cívicas y físicode-portivas en todas sus manifestaciones para fortalecer el Sistema Educativo Estatal.
+El Ejecutivo Estatal, para contribuir a una mejor convivencia humana, promoverá con los medios de comunicación, la difusión del objeto, fines, criterios de orientación, valores e ideales de la educación, así como las actividades educativas, artísticas, culturales, cívicas y físico-deportivas en todas sus manifestaciones para fortalecer el Sistema Educativo Estatal.
 
 ## TÍTULO CUARTO. SISTEMA EDUCATIVO ESTATAL
 
@@ -837,7 +853,7 @@ El Ejecutivo Estatal, de conformidad con el presupuesto autorizado, otorgará un
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
-Las autoridades educativas, de conformidad con lo que establece la Ley General del Servicio Profesional Docente, impulsarán y fomentarán mecanismos que propicien la permanencia de los educadores frente a (sic) grupo, con la posibilidad para éstos de ir obteniendo mejores condiciones y mayor reconocimiento social.
+Las autoridades educativas, de conformidad con lo que establece la Ley General del Servicio Profesional Docente, impulsarán y fomentarán mecanismos que propicien la permanencia de los educadores frente a grupo, con la posibilidad para éstos de ir obteniendo mejores condiciones y mayor reconocimiento social.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1603,11 +1619,9 @@ Las autoridades educativas, atendiendo a la demanda de estos servicios, establec
 
 Comprenderá los servicios y programas que brinden orientación y apliquen recursos financieros, materiales, técnicos y educativos para garantizar la inclusión educativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-La prestación de la educación a las personas con discapacidad atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por la Ley General para la Inclusión de las Personas con Discapacidad, la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato, Ley General de Derechos de Niñas, Niños y Adolescentes, Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, y demás normativa.
+La prestación de la educación a las personas con discapacidad atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por la Ley General para la Inclusión de las Personas con Discapacidad, la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato, Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, y demás normativa.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -2639,8 +2653,14 @@ Artículo Único. El presente decreto entrará en vigor el día siguiente al de 
 
 P.O. 1 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 108, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 108, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. La implementación de las modificaciones al calendario escolar surtirá efectos a partir del ciclo lectivo inmediato posterior a la fecha de entrada en vigor del presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO Y SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único.- El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
