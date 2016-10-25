@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-construccion-para-el-municipio-de-benito-56014"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-25"
-last_updated: "2012-09-14"
+last_updated: "2016-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de abril de 2007.
 
@@ -41,7 +41,7 @@ Que en razón de lo anterior, en la Cuadragésima Sesión Ordinaria de Cabildo, 
 
 A C U E R D O S
 
-Primero.- Se aprueba en lo particular el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo; para quedar como sigue:.
+Primero.- Se aprueba en lo particular el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo; para quedar como sigue:
 
 REGLAMENTO DE CONSTRUCCIÓN PARA EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO.
 
@@ -239,53 +239,121 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. Ayuntamiento, al Ayuntamiento del Municipio de Benito Juárez, Quintana Roo;
 
-II. ºC, grados centígrados
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-III. cm, centímetro;
+II. C.A.D.R.O.C.: Comisión de Administración de Directores Responsables de Obra y Corresponsables.
 
-IV. cm², centímetro cuadrado
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-V. Dirección, a la Dirección General de Desarrollo Urbano del Municipio;
+III. °C: grados centígrados;
 
-VI. D.R.O o Director Responsable de Obra, es la persona física que se hace responsable en todos los aspectos de las obras en las que otorga su responsiva relativas a la seguridad estructural, diseño urbano y arquitectónico e instalaciones según sea el caso y se hace responsable de la observancia de este Reglamento en las obras para las que otorgue su responsiva;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-VII. IMPLAN, al Instituto de Planeación del Desarrollo Urbano del Municipio de Benito Juárez;
+IV. cm: centímetro;
 
-VIII. Kg, Kilogramo;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-IX. L, litro;
+V. cm2: centímetro cuadrado;
 
-X. m, metro;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XI. metros cuadrados de construcción, superficie techada con cualquier tipo de material;
+VI. Dirección: a la Dirección General de Desarrollo Urbano del Municipio;
 
-XII. mm, milímetro;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XIII. Municipio, al Municipio de Benito Juárez, Quintana Roo;
+VII. D.R.O.: Director Responsable de Obra, es la persona física que se hace responsable en todos los aspectos de las obras en las que otorga su responsiva relativas a la seguridad estructural, diseño urbano y arquitectónico e instalaciones según sea el caso y se hace responsable de la observancia de este Reglamento en las obras para las que otorgue su responsiva;
 
-XIV. m², metros cuadrado (sic);
+VIII. (DEROGADA, P.O. 25 DE OCTUBRE DE 2016)
 
-XV. mm², milímetro cuadrado;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XVI. NOM, Norma Oficial Mexicana;
+IX. Kg: Kilogramo;
 
-XVII. (NTC) a las Normas Técnicas Complementarias a este Reglamento;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XVIII. NMX, Norma Mexicana;
+X. L: litro;
 
-XIX. Planes, a los Planes de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XX. Programas Parciales, a los Programas Parciales y a sus Declaratorias correspondientes;
+XI. M: metro;
 
-XXI. Programa, al Programa de Desarrollo Urbano del Centro de Población de la Ciudad de Cancún;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XXII. Reglamento, al Reglamento de Construcción del Municipio.
+XII. metros cuadrados de construcción: superficie techada con cualquier tipo de material.
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIII. mm: milímetro;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIV. Municipio: al Municipio de Benito Juárez, Quintana Roo;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XV. m2: metro cuadrado;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XVI. mm2: milímetro cuadrado;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XVII. NOM: Norma Oficial Mexicana;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XVIII. NTC: a las Normas Técnicas Complementarias a este Reglamento;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIX. NMX: Norma Mexicana;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XX. PDU: Programa de Desarrollo Urbano del Centro de Población de la Ciudad de Cancún; Municipio de Benito Juárez Quintana Roo, vigente;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXI. Primer cuadro de la ciudad, es el polígono comprendido por las Supermanzanas 01, 02, 2-A, 03, 04, 05, 07, 15-A, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 31 (sic), 32, 33, 34, 35, 36,52 y delimitado por las avenidas Chichen ltzá, Bonampak, Nichupté, Acanceh, Labná, prolongación Yaxchilán y Javier Rojo Gómez (Kabah).
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXII. Programas: a los Programas de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXIII. Programas Parciales: a los Programas Parciales y a sus Declaratorias correspondientes;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXIV. Programa: al Programa de Desarrollo Urbano del Centro de Población de la Ciudad de Cancún; Municipio de Benito Juárez Quintana Roo, vigente;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXV. Reglamento: al Reglamento de Construcción del Municipio para el Municipio de Benito Juárez, Quintana Roo
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXVI. Reglamento de Imagen Urbana de la Zona Centro: al Reglamento de observancia general y cumplimiento obligatorio en la Zonas Centro de la Ciudad de Cancún
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXVII. Secretaría: Secretaría Municipal de Ecología y Desarrollo Urbano.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XXVIII. Zona Centro: abarca las Supermanzanas 02, 05, 22, 23 y 52 y está delimitada por las avenidas Nader, Cobá, Yaxchilán, Uxmal, Chichen Itzá, Tulum y García de la Torre, éste polígono queda inmerso en el polígono denominado Zona Centro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 ARTÍCULO 3
 
-Sin menoscabo de las facultades establecidas en la fracción II del artículo 66 de la Ley de los Municipios del Estado de Quintana Roo, corresponderá a:
+Sin menoscabo de las facultades establecidas en la fracción II del artículo 66 de la Ley de los Municipios del Estado de Quintana Roo, corresponderá el ejercicio exclusivo de las siguientes atribuciones a:
 
-I. El Ayuntamiento el ejercicio exclusivo de las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+I. El Ayuntamiento:
 
 a) Autorizar la ocupación de la vía pública con instalaciones de servicio público, comercio semifijo, construcciones provisionales, o mobiliario urbano.
 
@@ -301,7 +369,9 @@ f) Expedir y modificar cuando lo considere necesario el presente Reglamento, las
 
 g) Las demás que establezcan las disposiciones legales y reglamentarias aplicables.
 
-II. Corresponde a la Dirección General de Desarrollo Urbano el ejercicio de las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+II. A la Dirección General de Desarrollo Urbano:
 
 a) Proponer al Ayuntamiento, las políticas y programas de desarrollo urbano, asentamientos humanos, creación y administración de reservas territoriales, uso de suelo, creación y administración de reservas ecológicas e infraestructura urbana y vivienda.
 
@@ -381,51 +451,73 @@ y) Autorizar la expedición de la licencia de construcción de obras públicas y
 
 z) Elaborar en coordinación con las Direcciones de Transporte y Vialidad y de la Policía Preventiva, Tránsito y Bomberos, los estudios que contribuyan a determinar la normatividad del señalamiento horizontal y vertical de la red vial y de los dispositivos de control del tránsito vehicular y peatonal en el Municipio.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-aa) Coordinar con las autoridades federales y estatales la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad.
+aa). Aprobar y autorizar las obras de urbanización en los fraccionamientos del Municipio Benito Juárez; documentando el acto de liberación del fraccionador mediante Acta de Entrega-Recepción conforme a lo dispuesto en el “Manual de Procedimientos para la Entrega-Recepción de las obras de urbanización en los Fraccionamientos”, elaborado por la Dirección General de Desarrollo Urbano, adscrita a la Secretaría Municipal de Ecología y Desarrollo Urbano; en atención a las disposiciones de la Ley de Fraccionamientos del Estado de Quintana Roo, la reglamentación en materia de servicios públicos y las disposiciones del presente reglamento.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-bb) Impulsar y promover los trabajos de conservación de las obras públicas.
+bb). Coordinar con las autoridades federales y estatales la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-cc) Promover y supervisar acciones de protección, conservación, reforestación, fomento, vigilancia y aprovechamiento racional, equilibrado y sustentable de los recursos naturales.
+cc). Impulsar y promover los trabajos de conservación de la obra pública.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-dd) Las demás que establezcan las disposiciones legales y reglamentarias aplicables así como aquellas que acuerde el Ayuntamiento o le sean encomendadas por el Presidente Municipal.
+dd). Las demás que establezcan las disposiciones legales y reglamentarias aplicables, así como aquellas que acuerde el Ayuntamiento o le sean encomendadas por el Presidente Municipal.
 
 ARTÍCULO 4
 
 Para el estudio y propuesta de reformas al presente Reglamento, se crea un Consejo Consultivo permanente, el que propondrá al Ayuntamiento las actualizaciones y modificaciones del Reglamento y sus Anexos y Normas Técnicas Complementarias, y estará integrada por:
 
-I. Dirección General de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-II. Colegio de Arquitectos Cancún, A. C.;
+I. Regidor Presidente de la Comisión de Desarrollo Urbano y Transporte del Ayuntamiento;
 
-III. Colegio de Ingenieros Civiles de Quintana Roo Zona Norte, A. C.;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-IV. Cámara Mexicana de la Industria de la Construcción Delegación Quintana Roo;
+II. Regidor Presidente de la Comisión de Reglamentación y Mejora Regulatoria.
 
-V. Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Quintana Roo, y (sic)
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-VI. Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C;
+III. Dirección General de Desarrollo Urbano;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-VII. Director del Instituto de Planeación de Desarrollo Urbano;
+IV. Colegio de Arquitectos Cancún, A.C;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-VIII. Colegio de Ingenieros Mecánicos y Electricistas de Quintana Roo, A. C.;
+V. Director del Instituto de Planeación de Desarrollo Urbano (IMPLAN);
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-IX. Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C.
+VI. Colegio de Ingenieros Civiles de Quintana Roo Zona Norte, A.C;
 
-El Consejo podrá ampliarse con los representantes de asociaciones profesionales, organismos o instituciones afines a la construcción que la Dirección o este Consejo considere oportuno invitar.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VII. Cámara Mexicana de la Industria de la Construcción Delegación Quintana Roo;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VIII. Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Delegación Quintana Roo, y
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IX. Colegio de Ingeniero (sic), Mecánicos y Electricistas de Quintana Roo, A.C.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+X. Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A.C.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Las Comisiones Edilicias que participan en el presente Consejo Consultivo estarán sujetas a las denominaciones de las comisiones que determine el Ayuntamiento en cada Administración Pública Municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+El Consejo podrá contar con invitados especiales, que serían los representantes de asociaciones profesionales, organismos o instituciones afines a la construcción que la Dirección o este Consejo considere oportuno invitar, los cuales tendrán derecho a voz, pero sin voto.
 
 ARTÍCULO 5
 
@@ -539,7 +631,17 @@ Las instalaciones subterráneas para los servicios públicos de teléfono, alumb
 
 La Dirección podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras así lo requiera.
 
-La Dirección fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+La Dirección fijará en cada caso y de acuerdo con lo establecido en las Normas Oficiales Mexicanas correspondientes, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+De toda autorización o licencia que otorgue la autoridad a instituciones públicas o privadas para la realización de trabajos u obras de mantenimiento, reparación o ampliación que afecten a la vía o infraestructura pública; las personas físicas o morales que las representen, deberán garantizar que al concluir los trabajos, la afectación a la infraestructura pública deberá ser restaurada a la forma más similar posible de como originalmente se encontraba, utilizando el mismo material y técnicas que correspondan.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Quien adquiera la autorización o licencia descrita en el párrafo anterior, estará sujeto a la verificación, inspección y; en su caso, sanción a lo que determinen la Dirección General de Desarrollo Urbano y la Dirección General de Servicios Públicos Municipales; en el ámbito de su autoridad y competencia que a cada uno corresponda.
 
 ARTÍCULO 20
 
@@ -741,17 +843,23 @@ IV. Suscriba el Visto Bueno de Seguridad y Operación de una edificación y/o in
 
 V. Suscriba un documento relativo a cualquier otra modalidad que determinen las disposiciones legales y administrativas aplicables.
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VI. Suscriba el aviso de terminación de obra.
+
 ARTÍCULO 41
 
 La expedición de Licencia de Construcción no requerirá de responsiva de Director Responsable de Obra, cuando se trate de las siguientes obras:
 
-I. Reparación, modificación o cambio de techos de azotea o entrepisos, cuando en la reparación se emplee el mismo tipo de construcción y siempre que el claro no sea mayor de cuatro metros ni se afecten miembros estructurales;
+I. (DEROGADA, P.O. 25 DE OCTUBRE DE 2016)
 
 II. Reparación de bardas interiores o exteriores con altura máxima de dos metros cincuenta centímetros;
 
 III. Apertura de claros de un metro cincuenta centímetros como máximo en construcciones hasta de dos niveles, si no se afectan elementos estructurales y no se cambia total o parcialmente el uso o destino del inmueble;
 
-IV. La Dirección establecerá con apoyo de los Colegios de Profesionales un servicio social para auxiliar en estas obras a las personas de escasos recursos económicos que lo soliciten. Este servicio social podrá consistir en la aportación de proyectos tipo de hasta 20 m2 construidos y la asesoría técnica durante la edificación. Si se construye por etapas, la primera deberá contar con servicios sanitarios.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IV. La Dirección establecerá con apoyo de los Colegios de Profesionales un servicio social para auxiliar en estas obras a las personas de escasos recursos económicos que lo soliciten. Este servicio social podrá consistir en la aportación de proyectos tipo de hasta 30 m2 construidos en licencia de obra nueva de casa habitación unifamiliar y la asesoría técnica durante la edificación. Si se construye por etapas, la primera deberá contar con servicios sanitarios.
 
 ARTÍCULO 42
 
@@ -759,31 +867,65 @@ Para obtener el registro como Director Responsable de Obra, se deberán satisfac
 
 I. Ser persona física;
 
-II. Acreditar que posee cédula profesional correspondiente a alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil o Ingeniero Constructor Militar;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-III. Acreditar ante la Comisión de Admisión de Directores Responsables de Obra y Corresponsables de este Municipio, a través de una evaluación de conocimientos, que conoce el presente Reglamento y sus Anexos, Normas Técnicas Complementarias, y demás leyes y disposiciones reglamentarias relativas al diseño urbano, la vivienda, la construcción y la preservación del patrimonio histórico, artístico y arqueológico de la Federación, Estado y Municipio para lo cual deberá presentar el dictamen favorable a que se refiere el artículo 50;
+II. Acreditar que posee cédula profesional correspondiente a alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil o Ingeniero Constructor Militar; Ingeniero Civil en Estructuras, Ingeniero Municipal, Ingeniero Constructor.
 
-IV. Acreditar como mínimo 5 años en el ejercicio profesional y la experiencia en construcción de obras a las que se refiere este Reglamento, estar radicado en el Municipio de Benito Juárez, Quintana Roo, estar inscrito como contribuyente ante la Secretaría de Hacienda y Crédito Público y acreditar que tiene más de dos años como residente en este Municipio;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-V. Acreditar el ejercicio profesional a través de los Colegios de Profesionales respectivos.
+III. Acreditar ante la Comisión de Admisión de Directores Responsables de Obra y Corresponsables de este Municipio, a través de una evaluación de conocimientos, que conoce el presente Reglamento y sus Anexos, Normas Técnicas Complementarias, Programas Directores de Desarrollo Urbano del Municipio, Programas Parciales y demás leyes y disposiciones reglamentarias relativas al diseño urbano, la vivienda, la construcción, el medio ambiente y la preservación del patrimonio histórico, artístico y arqueológico de la Federación, Estado y Municipio para lo cual deberá presentar el dictamen favorable a que se refiere el artículo 50;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IV. Acreditar:
+
+a).- Cedula Profesional con al menos 5 años de haberse expedido.
+
+b).- Como mínimo 5 años en el ejercicio profesional.
+
+c).- Estar radicando en el Municipio de Benito Juárez Quintana Roo.
+
+d).- Ser contribuyente ante la Secretaria de Hacienda y Crédito Público.
+
+e).- Domicilio fiscal local con una antigüedad mínima de 2 años.
+
+f).- Tener como mínimo 2 años de residencia en el Municipio.
+
+g).- Ser miembro numerario de los colegios de Profesionales locales respectivos, por un periodo mínimo de dos años en este Municipio
+
+V. (DEROGADA, P.O. 25 DE OCTUBRE DE 2016)
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO 13-16/232 PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. 25 DE OCTUBRE DE 2016, PÁGINA 40.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 ARTÍCULO 43
 
-Son obligaciones del Director Responsable de Obra:
+Son obligaciones y responsabilidades del Director Responsable de obra:
 
-I. Vigilar la obra asegurándose de que tanto el proyecto, como la ejecución de la misma, cumplan con lo establecido en los ordenamientos y demás disposiciones a que se refiere el inciso III del artículo anterior, el Programa de Desarrollo Urbano correspondiente y el Estudio de Impacto Urbano en su caso.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+I. Vigilar la obra asegurándose de que tanto el proyecto, como la ejecución de la misma, se realice de acuerdo a la licencia de construcción autorizada y cumplan con lo establecido en los ordenamientos y demás disposiciones a que se refiere el inciso III del artículo anterior, el Programa de Desarrollo Urbano correspondiente y el Estudio de Impacto Urbano en su caso.
 
 II. El Director Responsable de Obra deberá contar con los Corresponsables a que se refiere el artículo 44 de este Reglamento en los casos que en ese mismo artículo se enumeran. En los casos no incluidos en dicho artículo el Director Responsable de Obra podrá definir libremente la participación de los Corresponsables.
 
 III. El Director Responsable de Obra deberá comprobar que cada uno de los Corresponsables con que cuente, según sea el caso, cumpla con las obligaciones que se indican en el artículo 47 de este Reglamento;
 
-IV. Notificar a la Dirección de Obras Públicas y Desarrollo Urbano de cualquier violación a las disposiciones de este Reglamento.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-V.Supervisar las medidas de seguridad del personal y terceras personas en la obra y sus colindancias con la vía pública.
+IV. Notificar a la Dirección de Desarrollo Urbano de cualquier violación a las disposiciones de este Reglamento en las obras en las cuales haya otorgado su responsiva.
 
-VI. Llevar en las obras un libro de bitácora foliado en el cual se anotarán los siguientes datos:
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-a) Nombre, atribuciones y firmas del Director Responsable de Obra y de los Corresponsables, si los hubiere y del Residente;
+V. Supervisar y vigilar que el constructor realice la obra con las medidas de seguridad del personal y terceras personas en la obra y sus colindancias con la vía pública como se establece en el capítulo II del Título VII del presente reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VI. Tener en las obras el libro de bitácora foliado y actualizado en el cual se anotarán los siguientes datos:
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Nombre y firmas del Director Responsable de Obra y de los Corresponsables, si los hubiere y nombre o razón social de la persona física o moral propietaria del inmueble, de la persona que dirige la obra, de quien ejecuta y sus residentes;
 
 b) Fecha de las visitas del Director Responsable de Obra y de los Corresponsables;
 
@@ -793,19 +935,29 @@ d) Procedimientos particulares de construcción y de control de calidad;
 
 e) Descripción de los detalles definidos durante la ejecución de la obra;
 
-f) Nombre o razón social de la persona física o moral propietaria del inmueble, de la persona que dirige la obra, de quien ejecuta la obra y sus residentes;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-g) Fecha de iniciación de cada etapa de la obra;
+f) Fecha de iniciación de cada etapa de la obra;
 
-h) Incidentes y accidentes;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-i) Anotaciones y registro de omisiones y adecuaciones que se realicen durante la obra y que el Director Responsable de Obra considere importantes para el desarrollo de la obra o para consulta posterior;
+g) Dejar por escrito los incidentes y accidentes que se presenten en la obra.
 
-j) Observaciones y recomendaciones especiales del Director Responsable de Obra, de los Corresponsables y de los inspectores de la Dirección;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-k) Todas las notas de Bitácora deberán estar firmadas por el Director Responsable de Obra.
+h) Anotaciones y registro de omisiones y adecuaciones que se realicen durante la obra y que el Director Responsables (sic) de Obra considere importantes para el desarrollo de la obra o para consulta posterior.
 
-VII. Colocar en lugar visible de la obra un letrero con su nombre y, en su caso, de los Corresponsables y sus números de registro, número de licencia de la obra y ubicación de la misma.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+i) Observaciones y recomendaciones especiales del Director Responsable de Obra de los corresponsables y de los inspectores de la Dirección.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+j) Todas las notas de la bitácora deberán estar firmadas por el Director Responsable de obra conjuntamente con el propietario y/o constructor.
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VII. Colocar en lugar visible de la obra un letrero con medidas mínimas de 60 X 40 cms., con su número de registro del Colegio correspondiente y en su caso, de los Corresponsables, número de licencia de la obra y ubicación de la misma;
 
 VIII. Entregar al propietario, una vez concluida la obra:
 
@@ -815,23 +967,33 @@ a) El aviso de terminación de obra;
 
 b) El acta de recepción expedida por la Dirección de Desarrollo Urbano;
 
-c) Todos los planos de las licencias registrados del proyecto durante el proceso de la obra en original y las memorias de cálculo;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+c) Verificar que al término de la obra el propietario cuente con los planos definitivos actualizados, es decir con las adecuaciones o modificaciones realizadas por el proyectista o constructor al proyecto original, así como las memorias de cálculo respectivas.
 
-a) (sic) Verificar que al término de la obra el propietario cuente con los planos definitivos actualizados, es decir con las adecuaciones o modificaciones realizadas al proyecto original, así como las memorias de cálculo respectivas.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-IX. Refrendar su registro de Director Responsable de Obra cada 3 años, y cuando le determine el Ayuntamiento por modificaciones al Reglamento, Anexos o a las Normas Técnicas Complementarias.
+d) Documento de Uso y Ocupación.
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IX. Refrendar su registro de Director Responsable de Obra cada 3 años, y cuando le determine el ayuntamiento con el visto bueno de la CADROC por modificaciones al Reglamento, Anexos o a las Normas Técnicas Complementarias.
 
 X. Es obligación del Director Responsable de Obra tener su documentación en regla para poder ejercer su función.
 
-XI. Elaborar y entregar al propietario de la obra al término de ésta los manuales de operación y mantenimiento a que se refiere el artículo 280 de este Reglamento, en los casos de las obras numeradas en el artículo 54 del presente ordenamiento.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XI. Verificar que el propietario cuente al término de la obra con los manuales de operación y mantenimiento a que se refiere el artículo 280 de este Reglamento, en los casos de las obras numeradas en el artículo 54 del presente ordenamiento.
 
 XII. El Director Responsable de Obra será el encargado y responsable de que se cumplan las especificaciones señaladas en los planos autorizados, y solo quedará libre de responsabilidad alguna cuando haga constar en Bitácora, las observaciones que a su juicio incumplan con lo autorizado.
 
-XIII. El Director Responsable de Obra quedará liberado de toda responsabilidad cuando, previa anotación en Bitácora, se haga caso omiso a sus indicaciones y la responsabilidad derivada de dichas omisiones correrá a cargo del constructor o propietario.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XIV. El Director Responsable de Obra será responsable en los términos del Código Civil del Estado por todas aquellas omisiones y desviaciones del proyecto original que se susciten y que no hubiere registrado en Bitácora hasta por un periodo de dos años después de haber concluido la obra.
+XIII. El Director Responsable de Obra quedará liberado de toda responsabilidad cuando, previa anotación en Bitácora, se haga caso omiso a sus indicaciones y deberá solicitar a la Dirección General de Desarrollo Urbano la suspensión de la obra mediante oficio y el retiro de su firma entendiendo con esto que queda liberado de toda responsabilidad y la responsabilidad derivada de dichas omisiones correrá a cargo del constructor o propietario.
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIV. El Director Responsable de Obra será responsable en los términos del Código Civil del Estado por todas aquellas omisiones y desviaciones del proyecto original que se susciten y que no hubiere registrado en Bitácora hasta por un periodo de dos años después de haberse concluido físicamente la obra y presentar el aviso de terminación de obra.
 
 ### CAPITULO II. CORRESPONSABLES
 
@@ -839,17 +1001,21 @@ ARTÍCULO 44
 
 Corresponsable es la persona física o moral con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, en todos los aspectos de las obras en las que otorgue su responsiva, relativos a la seguridad estructural, diseño urbano y arquitectónico e instalaciones, según sea el caso, y deberá cumplir con los requisitos establecidos en el artículo 46 de este Reglamento.
 
-Cuando se trate de personas morales que actúen como Corresponsables, la responsiva deberá ser firmada por una persona física que reúna los requisitos a que se refiere el artículo 46 de este Reglamento y que tenga poder bastante y suficiente para obligar a la persona moral. En todo caso, tanto la persona física como la moral, son responsables solidarios en los términos que para ello señala la Legislación común.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 Se exigirá responsiva de los Corresponsables para obtener la Licencia de Construcción a que se refiere el artículo 54 de este Reglamento, en los siguientes casos:
 
-I. Corresponsable en Seguridad Estructural, para las obras de los grupos A y B1 del artículo 181 de este Reglamento y cualquier otra construcción con claros iguales o mayores a 5.00m.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-II. Corresponsable en Diseño Urbano y Arquitectónico, para los siguientes casos: Conjuntos habitacionales, hospitales, clínicas y centros de salud, instalaciones para exhibiciones, baños públicos, estaciones y terminales de transporte terrestre, aeropuertos, estudios cinematográficos y de televisión y espacios abiertos de uso público de cualquier magnitud. Las edificaciones ubicadas en zonas del patrimonio histórico, artístico y arqueológico de la Federación o del Estado y el resto de las edificaciones que tengan más de 1000 m2 cubiertos o más de 16 m de altura, sobre nivel medio de banqueta, o con capacidad para más de 250 concurrentes en locales cerrados, o más de 1000 concurrentes en locales abiertos.
+I. Corresponsable en Segundad Estructural, para las obras de los grupos A y B1 del artículo 181 de este Reglamento y cualquier otra construcción con claros mayores a 8.00 m.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-III. Corresponsables en instalaciones para los siguientes casos: en obras de urbanización de conjuntos habitacionales, industriales, comerciales y edificación de viviendas de más de 12 m de altura o de 5 niveles o más, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hoteles y hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, agencias y centrales de telégrafos y teléfonos, estaciones de radio y televisión, estudios cinematográficos, industria pesada y mediana, plantas, estaciones y subestaciones, cárcamos y bombas, circos y ferias de cualquier magnitud, centros de diversión cerrados, salones de bailes, discotecas. Así como en centros y plazas comerciales de más de 600 m2. El resto de las edificaciones que tengan más de 3000 m2, o más de 25 m de altura sobre el nivel de desplante o más de 250 concurrentes.
+II. Corresponsable en Diseño Urbano y Arquitectónico, para los siguientes casos: Conjuntos habitacionales, hospitales, clínicas y centros de salud, instalaciones para exhibiciones, baños públicos, estaciones y terminales de transporte terrestre, aeropuertos, estudios cinematográficos y de televisión y espacios abiertos de uso público de cualquier magnitud. Las edificaciones ubicadas en zonas del patrimonio histórico, artístico y arqueológico de la Federación o del Estado y el resto de las edificaciones que tengan más de 1,500 m2 cubiertos o más de 16 m de altura, sobre nivel medio de banqueta, más de 4 niveles o con capacidad para más de 250 concurrentes en locales cerrados, o más de 1000 concurrentes en locales abiertos.
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+III. Corresponsables en instalaciones eléctricas para los siguientes casos: en edificaciones con carga eléctrica superior a 20kw, en obras de urbanización de conjuntos habitacionales; industriales, comerciales y edificación de vivienda de más de 12m de altura o más de 4 niveles, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hoteles y hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, agencias y centrales de telégrafos y teléfonos, estaciones de radio y televisión, estudios cinematográficos, industria pesada y mediana, plantas de gas, estaciones de servicio (gasolina, gas y electricidad) y subestaciones eléctricas, cárcamos y bombas, circos y ferias de cualquier magnitud, centros de diversión cerrados, salones de bailes, discotecas. Así como en centros y plazas comerciales de más de 1,500 m2. El resto de las edificaciones que tengan más de 3000 m, o más de 25 m de altura sobre el nivel de desplante o más de 250 concurrentes.
 
 ARTÍCULO 45
 
@@ -881,9 +1047,11 @@ b) Suscriba la memoria de diseño y los planos del proyecto de instalaciones.
 
 c) Suscriba los procedimientos sobre la seguridad de las instalaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 46
 
-Para obtener el registro como Corresponsable, se requiere:
+Para obtener el registro y poder cumplir con las funciones como Corresponsable, se requiere:
 
 I. Ser persona física.
 
@@ -891,27 +1059,35 @@ II. Acreditar que posee cédula profesional correspondiente a alguna de las sigu
 
 a) Para Seguridad Estructural, Diseño Urbano y Arquitectónico: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil o Ingeniero Constructor Militar.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-b) Para Instalaciones, además de las señaladas en el párrafo anterior: Ingeniero Mecánico, Electricista, Mecánico Electricista o afines a cada disciplina.
+b) Para Instalaciones eléctricas: Ingeniero Mecánico, Ingeniero Electricista, Ingeniero Mecánico Electricista o los señalados en el párrafo anterior, que acredite mediante la cedula correspondiente, conocimientos en la materia.
 
-III. Acreditar ante la Comisión de Admisión de Directores Responsables de Obra y Corresponsables de este Municipio, a que se refiere el artículo 48, que se conoce este Reglamento, Anexos y sus Normas Técnicas Complementarias, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual deberá obtener el dictamen favorable a que se refiere el artículo 50 de este Reglamento.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+III. Acreditar ante la Comisión de Admisión de Directores Responsables de Obra y Corresponsables de este Municipio, a que se refiere el artículo 48, que se conoce este Reglamento, sus Anexos y sus Normas Técnicas Complementarias, las Normas Oficiales Mexicanas, Normas Mexicanas, Normas de Referencia, Especificaciones Técnicas Aplicables, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual deberá obtener el dictamen favorable a que se refiere el artículo 50 de este Reglamento.
 
 IV. Acreditar como mínimo 5 años en el ejercicio profesional de su especialidad.
 
 V. Acreditar el ejercicio profesional a través de los Colegios y Asociaciones de profesionales respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 47
 
-Son obligaciones de los Corresponsables:
+Son obligaciones de los Corresponsables conocer las Normas Técnicas Complementarias del presente reglamento en lo referente a su especialidad y:
 
 I. Del Corresponsable en Seguridad Estructural:
 
 a) Suscribir conjuntamente con el Director Responsable de Obra, la solicitud de Licencia de Construcción, cuando se trate de obras previstas en el artículo 44, fracción I de este Reglamento.
 
-b) Verificar que en el proyecto de la cimentación y de la estructura, se hayan realizado los estudios del suelo y de las estructuras colindantes, con objeto de constatar que el proyecto cumple con las características de seguridad necesarias, establecidas en el Título Sexto de este Reglamento.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-c) Verificar que el proyecto cumpla con las características generales para seguridad estructural establecidos en el Capítulo II del Título Sexto de este Reglamento.
+b) Verificar que en el proyecto de la cimentación y de la estructura, se hayan realizado los estudios de mecánica del suelo y de las estructuras colindantes, con objeto de constatar que el proyecto cumple con las características de seguridad necesarias, establecidas en el Título Sexto de este Reglamento.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+c) Verificar que el proyecto cumpla con las características generales para seguridad estructural establecidas en el Capítulo II del Título Séptimo de este Reglamento.
 
 d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto estructural, y que tanto los procedimientos, como los materiales empleados, corresponden a lo especificado y a las normas de calidad del proyecto. Tendrá especial cuidado en que la construcción de las instalaciones no afecte los elementos estructurales, en forma diferente a lo dispuesto en el proyecto.
 
@@ -919,7 +1095,9 @@ e) Notificar al Director Responsable de Obra cualquier irregularidad durante el 
 
 f) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad, y
 
-g) Incluir en el letrero de la obra su nombre y número de registro.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+g) Incluir en el letrero de la obra número de registro del corresponsable.
 
 II. Del Corresponsable en Diseño Urbano y Arquitectónico:
 
@@ -933,11 +1111,15 @@ d) Vigilar que la construcción, durante el proceso de la obra, se apague (sic) 
 
 e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora.
 
-f) En caso de no ser atendida esta notificación deberá comunicarlo para que se proceda a la suspensión de los trabajos, enviando copia a la Comisión de Admisión de Directores Responsables de Obra y Corresponsables.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+f) En caso de no ser atendida esta notificación deberá comunicarlo a la Dirección para que se proceda a la suspensión de los trabajos, enviando copia a la Comisión de Admisión de Directores Responsables de Obra y Corresponsables.
 
 g) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad.
 
-h) Incluir en el letrero de la obra su nombre y número de registro.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+h) Incluir en el letrero de la obra número de registro del corresponsable.
 
 III. Del Corresponsable en Instalaciones:
 
@@ -983,7 +1165,9 @@ e) Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda Deleg
 
 f) Sociedad Mexicana de Ingeniería Estructural Representación en Quintana Roo, A. C.
 
-III. Podrá ampliarse con representantes de asociaciones profesionales y otros organismos o instituciones afines a la construcción que la Dirección considere oportuno invitar.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+III. Podrá ampliarse con representantes de asociaciones profesionales y otros organismos o instituciones afines a la construcción que la Comisión de Admisión de Directores Responsables de Obra considere oportuno invitar.
 
 Todos los miembros de la Comisión de Admisión deberán tener registro de Directores Responsables de Obra o Corresponsables.
 
@@ -999,7 +1183,9 @@ I. Verificar que las personas aspirantes a obtener el Registro como Director Res
 
 II. Otorgar el registro respectivo a las personas que hayan cumplido con lo establecido en los preceptos señalados en la fracción anterior.
 
-III. Llevar un registro de las licencias de construcción concedidas a cada Director Responsable de Obra y Corresponsable.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+III. Solicitar un registro de las licencias de construcción concedidas a cada Director Responsable de Obra y Corresponsable.
 
 IV. Emitir opinión sobre la actuación de los Directores Responsables de Obra y Corresponsables, cuando les sea solicitado por la Dirección.
 
@@ -1007,29 +1193,27 @@ V. Vigilar cuando lo considere conveniente, la actuación de los Directores Resp
 
 VI. Proponer anualmente las actualizaciones y modificaciones de este Reglamento.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 50
 
-Para el cumplimiento de las atribuciones a que se refiere el articulo anterior, la Comisión podrá auxiliarse con Comités Técnicos los cuales estarán integrados por profesionales de reconocida experiencia y capacidad técnica, designados por la Comisión, a propuesta de los propios comités.
+Para el cumplimiento de las atribuciones a que se refiere el artículo anterior, la Comisión se auxiliará con Comités Técnicos los cuales estarán integrados por profesionales de reconocida experiencia y capacidad técnica, designados por la Comisión, a propuesta de los propios comités.
 
 Dichos Comités quedarán integrados de la siguiente forma:
 
-I. El Comité Técnico de Directores Responsables de Obra, por tres especialidades en diseño y construcción de cimentaciones y estructuras; tres en diseño urbano y arquitectónico y tres en instalaciones.
+a) El Comité Técnico de Directores Responsables de Obra, conformado por tres miembros del Colegio de Arquitectos Cancún, A.C y tres miembros del Colegio de Ingenieros Civiles de Quintana Roo, Zona Norte, A.C.
 
-II. Los Comités Técnicos Corresponsables, uno para cada una de las siguientes disciplinas: seguridad estructural; diseño urbano y arquitectura; e instalaciones. Se formarán cada cual con tres profesionales especialistas en la correspondiente disciplina.
+b) Los Comités Técnicos de Corresponsables, uno para cada una de las siguientes disciplinas: seguridad estructural; diseño urbano y arquitectura; e instalaciones. Se formarán cada cual con tres profesionales especialistas en la correspondiente disciplina.
 
-III. Los Comités evaluarán los conocimientos a que se refiere la fracción III del artículo 42 y la fracción IV del artículo 46 de los aspirantes a Director Responsable de Obra y/o Corresponsable, respectivamente, debiendo emitir el dictamen correspondiente y enviarlo a la comisión de Admisión de Directores Responsables de Obra y Corresponsables, para los efectos correspondientes.
-
-IV. Cada dos años se sustituirán tres miembros de cada Comité, por los que seleccionen los propios Comités.
-
-V. El Director de Desarrollo Urbano deberá expedir el Manual de Funcionamiento de los Comités, a propuesta de los mismos, que contemplará el procedimiento de evaluación de los aspirantes a Director Responsable de Obra y/o Corresponsable, los supuestos de remoción de sus miembros, el procedimiento a seguir en los casos de renuncia o fallecimiento y el carácter rotatorio de la presidencia de los Comités.
-
-Dicho manual deberá publicarse en el Periódico Oficial del Gobierno del Estado y en la Gaceta oficial del Ayuntamiento.
+Los Comités evaluarán los conocimientos a que se refiere la fracción III del artículo 42 y la fracción III del artículo 46 de los aspirantes a Director Responsable de Obra y/o Corresponsable, respectivamente, debiendo emitir el dictamen correspondiente y enviarlo a la comisión de Admisión de Directores Responsables de Obra y Corresponsables, para los efectos correspondientes.
 
 ARTÍCULO 51
 
 Las funciones del Director Responsable de Obra o Corresponsables en aquellas obras para las que hayan dado su responsiva terminarán:
 
-I. Cuando ocurra cambio, suspensión, abandono o retiro del Director Responsable de Obra o Corresponsable, o de quien preste los servicios profesionales correspondientes a que se refieren los artículos 39 y 44 de este Reglamento. En este caso se deberá levantar un acta, asentando en detalle el avance de la obra hasta ese momento, la cual será suscrita por una persona designada por el Director o Corresponsable, según el caso y por el propietario de la obra.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+I. Cuando ocurra cambio, suspensión, abandono o retiro del Director Responsable de Obra o Corresponsable, o de quien preste los servicios profesionales correspondientes a que se refieren los artículos 39 y 44 de este Reglamento. En este caso se deberá levantar un acta, asentando en detalle el avance de la obra hasta ese momento, la cual será suscrita por el Director o Corresponsable, según el caso y por el propietario de la obra y se ordenará la suspensión de la obra, en tanto el Director Responsable de la obra (sic) Corresponsable no sea sustituido en forma inmediata.
 
 II. Se ordenará la suspensión de la obra, cuando el Director Responsable de Obra o Corresponsable no sea sustituido en forma inmediata y no se permitirá la reanudación, hasta en tanto no se designe nuevo Director Responsable de Obra o Corresponsables.
 
@@ -1037,9 +1221,13 @@ III. Cuando no haya refrendado su calidad de Director Responsable de Obra o Corr
 
 IV. Cuando se autorice la ocupación de la obra.
 
-En términos de las funciones del Director Responsable de Obra y Corresponsable, no los exime de la responsabilidad de carácter civil, penal o administrativa que pudiera derivarse de su intervención en la obra para la cual hayan otorgado su responsiva.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-Para los efectos del presente Reglamento, la responsabilidad de carácter administrativo de los Directores Responsables de Obra y de los Corresponsables será exigible durante la ejecución de la obra y hasta la tramitación de la terminación de obra y la autorización de uso y ocupación a que se refieren los artículos 63 y 67 de este Reglamento; a partir de la fecha en que, en su caso, se conceda la regularización prevista en el artículo 70 del Reglamento, cuando se trate de obras ejecutadas sin licencia; o a partir del momento en que formalmente haya dejado de ser el Director Responsable de la Obra correspondiente.
+El término de las funciones del Director Responsable de Obra y Corresponsable, no los exime de la responsabilidad de carácter civil, penal o administrativa que pudiera derivarse de su intervención en la obra para la cual hayan otorgado su responsiva y conforme a la legislación aplicable al caso.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Para los efectos del presente Reglamento, la responsabilidad de carácter administrativo de los Directores Responsables de Obra y de los Corresponsables será exigible durante la ejecución de la obra y hasta la tramitación de la terminación de obra y la autorización de uso y ocupación a que se refieren los artículos 63 y 67 de este Reglamento; a partir de la fecha en que, en su caso, se conceda la regularización prevista en el artículo 70 del Reglamento, cuando se trate de obras ejecutadas sin licencia; o hasta el momento en que formalmente haya dejado de ser el Director Responsable de la Obra correspondiente.
 
 ARTÍCULO 52
 
@@ -1055,15 +1243,31 @@ III. Cuando haya reincidido en violaciones a este Reglamento.
 
 ### CAPITULO I. LICENCIAS Y AUTORIZACIONES
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 53
 
-El propietario o representante legal deberá obtener de la Dirección, la constancia de uso de suelo para la expedición de las licencias y autorizaciones de construcción a que se refiere el artículo 54 de este Reglamento.
+El propietario o representante legal deberá obtener de la Dirección, la constancia de uso de suelo para la expedición de las licencias y autorizaciones de construcción conforme a lo establecido en los artículos 54 y 56 de este Reglamento.
 
-La Dirección entregará la constancia de uso de suelo que señalará los parámetros de acuerdo al Programa de Desarrollo Urbano y la Declaratoria de Usos de Suelo.
+I.- La solicitud de Constancia de Uso de suelo se deberá acompañar de los siguientes requisitos:
+
+a).- Copia de documentos que acrediten la propiedad
+
+b).- Copia de identificación oficial del propietario
+
+c).- Copia del último pago actualizado del impuesto predial (bimestral o anual)
+
+d).- Croquis de ubicación con medidas y colindancias (Deberá incluir cuadro de coordenadas UTM en caso de predios ubicados en zonas de crecimiento o en la periferia de la mancha urbana).
+
+La Dirección entregará la Constancia de Uso de Suelo que señalará los parámetros de acuerdo la (sic) Declaratoria de Usos y Destinos de Suelo de la Ciudad de Cancún del PDU vigente.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO 13-16/232 PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. 25 DE OCTUBRE DE 2016, PÁGINA 43.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 ARTÍCULO 54
 
-La licencia de construcción o permiso relativo o inherente, es el documento expedido por el que se autoriza a los propietarios o poseedores a realizar cualquiera de las siguientes acciones, según sea el caso, para:
+La Licencia de Construcción o permiso relativo o inherente, es el documento expedido por el que se autoriza a los propietarios o poseedores de un predio, a realizar cualquiera de las siguientes acciones de construcción, según sea el caso, para:
 
 I. Obra nueva.
 
@@ -1075,27 +1279,53 @@ IV. Demolición.
 
 V. Regularización.
 
-VI. Cambio de proyecto.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-VII. Remodelación.
+VI. Registro de Obra
 
-VIII. Obra provisional
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-IX. Bardas.
+VII. Cambio de proyecto.
 
-X. Anuncios y antenas.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XI. Reconstrucción.
+VIII. Remodelación.
 
-Para la obtención de la licencia de construcción, se deberá efectuar el pago de los derechos correspondientes, y entregar el proyecto ejecutivo, mismo que deberá contener la memoria descriptiva, proyecto arquitectónico, memorias de cálculo de estructura, memoria de cálculo de instalaciones, levantamiento topográfico y estudio de mecánica de suelos. Excepto en los casos señalados en que se requieran otras autorizaciones, licencias, dictámenes, vistos buenos, permisos, constancias o el Estudio de Impacto Urbano.
+IX. (DEROGADA, P.O. 25 DE OCTUBRE DE 2016)
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+X. Bardas y Fachadas
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XI. Anuncios y antenas.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XII. Reconstrucción.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIII. Obra exterior
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIV. Zona Federal Marítimo Terrestre.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Para la obtención de la Licencia de Construcción, se deberá efectuar el pago de los derechos correspondientes y entregar el proyecto ejecutivo constructivo.
 
 La presentación de la documentación y el contenido de la misma será responsabilidad del propietario o poseedor y del Director Responsable de Obra en los casos en que este último otorgue su responsiva
 
-La Dirección recibirá la documentación entregada por el interesado corroborando, únicamente que entregue el formato de registro correspondiente debidamente requisitado con los documentos a que se refiere el articulo 56 de este Reglamento y que se hayan pagado los derechos correspondientes. El plazo máximo para extender la licencia de construcción será de 5 días hábiles.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-Al extender la licencia de construcción la Dirección incluirá la anuencia de la Dirección de Protección Civil.
+La Dirección recibirá la documentación entregada por el interesado corroborando, únicamente que entregue el formato oficial vigente de licencia de construcción correspondiente con los documentos a que se refiere el artículo 56 de este Reglamento y que se hayan pagado las derechos correspondientes. El plazo máximo para extender la licencia de construcción será de 5 días hábiles.
 
-La Dirección distribuirá gratuitamente el formato de registro a que se refiere el presente artículo.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+La Dirección distribuirá gratuitamente el formato oficial vigente de licencia de construcción a que se refiere el presente artículo.
 
 ARTÍCULO 55
 
@@ -1103,65 +1333,109 @@ Para ejecutar obras o instalaciones públicas o privadas, en la vía pública o 
 
 Solo se concederán licencias a los propietarios o poseedores de los inmuebles cuando la solicitud cumpla con los requisitos señalados en las disposiciones relativas de este Reglamento.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO 13-16/232 PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. 25 DE OCTUBRE DE 2016, PÁGINAS 43 A 47.]</small>
+
 ARTÍCULO 56
 
 La solicitud de licencia de construcción será presentada en las formas que expida la Dirección de acuerdo a los requisitos señalados a continuación:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-I. CONSTRUCCIÓN DE OBRA NUEVA.
+I. CONSTRUCCIÓN DE OBRA NUEVA.- Se considera toda obra donde no exista construcción previa en el predio.
 
-a) Formato para obra nueva firmado por el Propietario y el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-b) Copia de Alineamiento y Número Oficial vigentes.
+a) Formato oficial vigente de la licencia de construcción para obra nueva firmado por el Propietario y el D.R.O.
 
-c) Copia del último pago actualizado del impuesto predial.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+b) Formato de Alineamiento y Número Oficial debidamente llenado o copia vigente.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+c) Copia del último pago actualizado del impuesto predial (bimestral o anual).
 
 d) Copia de documentos que acreditan la propiedad o la posesión.
 
-e) Anuencia y/o dictamen de las Dependencias Municipales, Estatales o Federales involucradas dependiendo la ubicación y uso del suelo.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-f) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano actualizado.
+e) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano oficial actualizado y con el cuadro normativo debidamente llenado.
 
-g) Copia digitalizada del proyecto constructivo (memoria descriptiva, memorias de cálculo de estructura e instalaciones, arquitectónico, estructural, de instalaciones hidráulicas, sanitarias, eléctricas y gas).
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-h) Copia de identificación con fotografía del propietario.
+f) Copia digitalizada del proyecto ejecutivo constructivo (formato de alineamiento, memoria descriptiva arquitectónica, memoria de cálculo estructural e instalaciones, planos arquitectónicos, estructurales, instalaciones hidráulicas sanitarias, eléctricas y gas).
 
-i) Firma del Director Responsable de Obra en los planos impresos.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-j) Firma de los Corresponsables de obra en los planos impresos, en su caso.
+g) Copia de identificación oficial con fotografía del propietario.
 
-k) Cuantificación del área total del proyecto avalado por el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-l) Presentación de Bitácora de Obra.
+h) Sello y firma del Director Responsable de Obra en los planos impresos.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-m) Presentación de copia del Dictamen aprobatorio de Impacto Urbano para las obras consideradas en el artículo 76.
+i) Sello y firma de los Corresponsables de obra en los planos impresos, en su caso.
 
-En el caso de los proyectos de construcción a que se refiere la fracción IV del artículo 41 del presente Reglamento, estarán exentos de presentar los documentos a que se refieren los incisos e) y g) de la (sic) esta fracción
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-II. LICENCIA DE AMPLIACIÓN DE OBRA:
+j) Cuantificación del área total del proyecto sellado y avalado por el D R.O. (Impresa y digitalizada en formato CAD).
 
-a) Formato para ampliación de obra firmado por el Propietario y el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+k) Presentación de Bitácora de Obra.
+
+l) Presentación de Bitácora de Obra (sic).
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+m) Constancia de uso del suelo vigente, en su caso.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+En el caso de los proyectos de construcción a que se refiere la fracción IV del artículo 41 del presente Reglamento, estarán exentos de presentar los documentos a que se refieren los incisos e) y g) de la presente fracción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+II. LICENCIA DE AMPLIACIÓN DE OBRA.- Cuando se aumenta el tamaño de una construcción y exista una Licencia de Construcción previa.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Formato oficial vigente de la licencia de construcción para ampliación de obra firmado por el Propietario y el D.R.O.
 
 b) Copia de Licencia de Construcción anterior y planos autorizados.
 
-c) Copia de Alineamiento y Número Oficial vigentes.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-d) Copia del último pago actualizado del impuesto predial.
+c) Formato de Alineamiento y Número Oficial debidamente llenado o copia vigente.
 
-e) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano actualizado.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-f) Copia digitalizada del proyecto constructivo (memoria descriptiva, memorias de cálculo de estructura e instalaciones, arquitectónico, estructural, de instalaciones hidráulicas, sanitarias, eléctricas y gas).
+d) Copia del último pago actualizado del impuesto predial (bimestral o anual).
 
-g) Copia de identificación con fotografía del propietario.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-h) Firma del Director Responsable de Obra en los planos impresos.
+e) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano oficial actualizado y con el cuadro normativo debidamente llenado.
 
-i) Firma de los Corresponsables de obra en los planos impresos, en su caso.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-j) Cuantificación del área total de la obra avalado por el D. R. O.
+f) Copia digitalizada del proyecto ejecutivo constructivo (formato de alineamiento, memoria descriptiva arquitectónica, memoria de cálculo de estructural e instalaciones, planos arquitectónicos, estructurales, de instalaciones hidráulicas, sanitarias, eléctricas y gas).
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+g) Copia de identificación oficial con fotografía del propietario.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+h) Sello y firma del Director Responsable de Obra en los planos impresos.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+i) Sello y firma de los Corresponsables de obra en los planos impresos, en su caso.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+j) Cuantificación del área a ampliar y del área total de la obra sellada y avalada por el D.R.O. (Impresa y digitalizada en formato CAD).
 
 k) Presentar Bitácora de Obra (Arriba de 60 m²).
 
@@ -1169,139 +1443,277 @@ k) Presentar Bitácora de Obra (Arriba de 60 m²).
 
 l) Presentación de copia del Dictamen aprobatorio de Impacto Urbano para las obras consideradas en el artículo 76.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+m) Copia de documentos que acreditan la propiedad o la posesión
+
 III. PRÓRROGA DE LICENCIA DE CONSTRUCCIÓN (Se solicitará si terminado el plazo autorizado para la construcción de una obra ésta no se hubiera concluido.)
 
-a) Formato para prorroga firmado por el Propietario y el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-b) Copia de la Licencia de Construcción anterior.
+a) Formato oficial vigente de licencia de construcción para prórroga firmado por el Propietario y el D.R.O. incluyendo la descripción de los trabajos que falten por ejecutar y referidos al proyecto arquitectónico autorizado.
 
-c) Copia de Alineamiento y Número Oficial vigentes.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-d) Copia del último pago actualizado del impuesto predial.
+b) Copia de la Licencia de Construcción anterior y planos autorizados.
 
-e) Descripción de los trabajos que falten de ejecutar y referidos al proyecto arquitectónico autorizado.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+c) Formato de Alineamiento y Número Oficial debidamente llenado o copia vigente.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+d) Copia del último pago actualizado del impuesto predial (bimestral o anual).
+
+e) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
 
 f) Cubrir los derechos por la parte no ejecutada de la obra.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+g) Cuantificación del área por prorrogar de la obra sellada y avalada por el D.R.O. (Impresa y digitalizada en formato CAD).
+
 IV. DEMOLICIÓN Para efectuar una demolición parcial o total de obra existente:
 
-a) Formato para demolición firmado por el Propietario y el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Formato oficial vigente de licencia de construcción para demolición firmado por el Propietario y el D R.O.
 
 b) Copia del último pago actualizado del impuesto predial (bimestral o anual)
 
 c) Copia de documentos que acreditan la propiedad o la posesión.
 
-d) Juego de fotografías del frente, fondo y conjunto o zonas por demoler.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-e) Dos juegos de planos arquitectónicos marcando zona por demoler.
+d) Juego de fotografías del frente, fondo, conjunto y/o área por demoler.
 
-f) Anuencia de las Dependencias Municipales, Estatales o Federales involucradas dependiendo la ubicación y uso del suelo.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-g) Copia de identificación con fotografía del propietario.
+e) Dos juegos de planos arquitectónicos impresos marcando el área a demoler con el pie de plano oficial actualizado y con el cuadro normativo debidamente llenado.
 
-h) Firma del Director Responsable de Obra en los planos arquitectónicos de demolición.
+f) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
 
-i) Carta responsiva firmada por el propietario y el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-j) Cuantificación del área total de la demolición avalada por el D. R. O.
+g) Copia de identificación oficial con fotografía del propietario.
 
-k) Memoria descriptiva del procedimiento.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-l) Dos juegos de planos estructurales en caso de modificación del proyecto existente, con pie de plano actualizado.
+h) Sello y firma del Director Responsable de Obra en los planos arquitectónicos de demolición.
 
-V. REGULARIZACIÓN.- Es el registro para obras en proceso o terminadas, ejecutadas sin licencia de construcción.
+i) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
 
-a) Formato para regularización de obra firmado por el Propietario y el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-b) Alineamiento y Número Oficial actualizado.
+j) Cuantificación del área total de la demolición sellada y avalada por el D.R.O. (Impresa y digitalizada en formato CAD).
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+k) Memoria descriptiva del procedimiento, sellada y avalada por el D.R.O. y/o Corresponsable en Estructuras.
+
+l) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+m) Sello y firma del Corresponsable de Estructuras en los planos arquitectónicos de demolición; en su caso, previa valoración de la Dirección General.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+n) Fianza contra daños a terceros, en obras de riesgo; en su caso, previa valoración de la Dirección General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+V. REGULARIZACIÓN.- Se refiere a obras concluidas o en proceso sin Licencia de Construcción, factibles de poner al día su irregularidad.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Formato oficial vigente de licencia de construcción para regularización de obra firmado por el Propietario y el D. R.O.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+b) Formato de Alineamiento y Número Oficial debidamente llenado o copia vigente
 
 c) Copia del último pago actualizado del impuesto predial (bimestral o anual).
 
 d) Copia de documentos que acreditan la propiedad o la posesión.
 
-e) Cuatro fotografías: frontal, fondo, conjunto y zona por registrar.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-f) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano actualizado.
+e) Fotografías: vista frontal al predio, fondo, interiores, conjunto y área por regularizar.
 
-g) Copia digitalizada del proyecto constructivo (memoria descriptiva, memorias de cálculo de estructura e instalaciones, arquitectónico, estructural, de instalaciones hidráulicas, sanitarias, eléctricas y gas).
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-h) Copia de identificación con fotografía del propietario.
+f) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano oficial actualizado con cuadro normativo debidamente llenado.
 
-i) Firma del Director Responsable de Obra en los planos arquitectónicos.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-j) Cuantificación del área total de la obra avalado por el D. R. O.
+g) Copia digitalizada del proyecto ejecutivo constructivo (formato de alineamiento, memoria descriptiva arquitectónica, memoria de cálculo estructural e instalaciones, plano arquitectónico, estructural, de instalaciones hidráulicas, sanitarias, eléctricas y gas).
 
-VI. CAMBIO DE PROYECTO (Se considera cambio de proyecto cuando durante la vigencia de la licencia de construcción se modifique el proyecto autorizado, afectando áreas, elementos estructurales o instalaciones.)
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-a) Formato para cambio de proyecto firmado por el Propietario y el D. R. O.
+h) Copia de identificación oficial con fotografía del propietario.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+i) Sello y firma del Director Responsable de Obra en los planos arquitectónicos.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+j) Cuantificación del área total a regularizar de la obra, sellada y avalada por el D R.O. (Impresa y digitalizada en formato CAD).
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+k) Constancia de uso de suelo vigente, en su caso.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VI. REGISTRO DE OBRA.-Se refiere a obras totalmente concluidas ejecutadas sin licencia de construcción; teniendo una antigüedad de más de 5 años, en las cuales una vez autorizada la misma no tendrá vigencia.
+
+a) Formato oficial de licencia de construcción para registro de obra firmado por el propietario y el D R.O.
+
+b) Formato de Alineamiento y Número Oficial debidamente llenado ó copia vigente
+
+c) Copia del último pago actualizado del impuesto predial (bimestral o anual).
+
+d) Copia de documentos que acrediten la propiedad o la posesión.
+
+e) Fotografías: vista frontal al predio, fondo, interiores, conjunto y área por registrar.
+
+f) Dos juegos de planos arquitectónicos, estructurales, y de instalaciones impresos con pie de plano oficial actualizado con cuadro normativo debidamente llenado.
+
+g) Copia digitalizada del proyecto ejecutivo constructivo (formato de alineamiento, memoria descriptiva arquitectónica, memoria de cálculo estructural e instalaciones, plano arquitectónico, estructural, de instalaciones hidráulicas, sanitarias, eléctricas y de gas.
+
+h) Copia de la identificación oficial con fotografía del propietario
+
+i) Sello y firma del Director Responsable de Obra en los planos arquitectónicos
+
+j) Cuantificación del área a registrar y del área total de la obra avalada por el D R.O. (Impresa y digitalizad a en formato CAD).
+
+k) Constancia de uso del suelo vigente, en su caso
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VII. CAMBIO DE PROYECTO.- Se considera cambio de proyecto cuando se modifique el proyecto autorizado, afectando áreas, elementos estructurales o instalaciones sin incrementar el área total de construcción autorizada en la licencia de construcción.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Formato oficial de licencia de construcción para cambio de proyecto firmado por el Propietario y el D.R.O. incluyendo la descripción de los cambios del proyecto y referidos al proyecto arquitectónico autorizado.
 
 b) Copia de Licencia de Construcción y planos autorizados.
 
-c) Alineamiento y Número Oficial.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+c) Formato de Alineamiento y Número Oficial debidamente llenado o copia vigente
 
 d) Copia del último pago actualizado del impuesto predial (bimestral o anual).
 
 e) Copia de documentos que acreditan la propiedad o la posesión.
 
-f) Anuencia de las Dependencias Municipales, Estatales o Federales involucradas dependiendo la ubicación y uso del suelo.
+f) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
 
-g) Dos juegos de planos arquitectónicos del nuevo proyecto, impresos con pie de plano actualizado.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-h) Dos juegos de planos estructurales, de instalaciones y memorias de cálculo en caso de modificación de estos proyectos.
+g) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano oficial actualizado, con el cuadro normativo debidamente llenado y se deberá señalar en los mismos el área del cambio de proyecto con una poligonal y textura específica.
 
-i) Copia en CD del Proyecto Ejecutivo.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-j) Copia de identificación con fotografía del propietario.
+h) Memoria de cálculo estructural e instalaciones en caso de que la modificación afecte elementos estructurales y de instalaciones, en su caso.
 
-k) Firma del Director Responsable de Obra en los planos arquitectónicos.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-l) Firma del o de los Corresponsables de obra en los planos arquitectónicos, en su caso.
+i) Copia digitalizada del proyecto ejecutivo constructivo (formato de alineamiento, memoria descriptiva, memoria de cálculo estructural e instalaciones, plano arquitectónico, estructural, de instalaciones hidráulicas, sanitarias, eléctricas y de gas.)
 
-m) Cuantificación del área total de la obra avalado por el D. R. O.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-n) Carta responsiva firmada por el propietario y el D. R. O.
+j) Copia de identificación oficial con fotografía del propietario.
 
-o) Presentación de Bitácora de Obra.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-p) Descripción de los trabajos que se vayan a modificar.
+k) Sello y firma del Director Responsable de Obra en los planos arquitectónicos.
 
-VII. REMODELACIÓN (Cuando en una obra terminada se modifique el proyecto original afectando distribución de áreas, elementos estructurales o instalaciones sin incrementar el área total de construcción autorizada en la licencia de construcción y acondicionamiento de locales comerciales y oficinas (sic).
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-a) Formato para remodelación firmado por el Propietario y el D. R. O.
+l) Sello y firma del o de los Corresponsables de obra en los planos arquitectónicos, en su caso.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+m) Cuantificación del cambio de proyecto y área total de la obra, sellada y avalada por el D.R.O. (Impresa y digitalizada en formato CAD)
+
+n) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
+
+o) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
+
+p) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+En el caso de obras que contaban con licencia autorizada y no se ejecutó ni se ejecutará dicha obra, se solicitará cambio de proyecto y en el cuadro “Superficie a construir” dentro del pie de plano oficial y formato de licencia, se agregará una columna como “Cambio de Proyecto (obra no ejecutada)" con el fin de descontar dichos metros cuadrados de los autorizados originalmente, para poder realizar la Terminación de Obra con los metros cuadrados reales construidos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VIII. REMODELACIÓN.- Cuando en una obra terminada se pretenda modificar el proyecto original sin afectar la distribución de áreas, elementos estructurales y sin incrementar el área total autorizada en la licencia de construcción. Se entenderá también como remodelación al cambio de uso final del inmueble, acondicionamiento de locales comerciales y oficinas.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Formato oficial vigente de licencia de construcción para remodelación, firmado por el Propietario y el D.R.O.
 
 b) Copia del último pago actualizado del impuesto predial (bimestral o anual).
 
 c) Copia de documentos que acreditan la propiedad o la posesión.
 
-d) Juego de fotografías del frente, fondo y conjunto o zonas por remodelar.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+d) Juego de fotografías del frente del predio, fondo y conjunto o área por remodelar.
 
 e) Copia de Licencias y planos autorizados anteriores.
 
-f) Dos juegos de planos arquitectónicos marcando zona por remodelar.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-g) Anuencia de las Dependencias involucradas dependiendo la ubicación y uso del suelo (en su caso: Municipal, Estatal o Federal).
+f) Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano oficial actualizado, con el cuadro normativo debidamente llenado y se deberá señalar en los mismos el área a remodelar con una poligonal y textura específica.
+
+g) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
 
 h) Copia de identificación con fotografía del propietario.
 
-i) Firma del Director Responsable de Obra en los planos arquitectónicos de remodelación.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-j) Carta responsiva firmada por el propietario y el D. R. O.
+i) Sello y firma del Director Responsable de Obra en los planos arquitectónicos de remodelación.
 
-k) Cuantificación del área total de la remodelación avalado por el D. R. O.
+j) (DEROGADO, P.O. 25 DE OCTUBRE DE 2016)
 
-VIII. BARDAS. (Las bardas sólo se podrán construir dentro de los límites del predio y hasta una altura máxima de 2.50 metros para predios de uso habitacional y comercial y 3.00 metros en predios de uso industrial, de acuerdo con el Programa de Desarrollo Urbano vigente. Cuando formen parte de una construcción completa, la licencia de construcción amparará también la ejecución de la barda. La licencia otorgada para la edificación de una barda no versará sobre la autorización de uso de suelo, ni la legítima posesión del predio en cuestión.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+k) Cuantificación del área total de la remodelación, sellada y avalada por el D.R.O. (impresa y digitalizada en formato CAD).
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+l) Elaborar memoria de cálculo estructural y de instalaciones en su caso.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+m) Sello y firma del o de los Corresponsables de obra en los planos arquitectónicos, en su caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IX. BARDAS y FACHADAS.- Las bardas sólo se podrán construir dentro de los límites del predio y hasta una altura máxima de 2.50 metros para predios de uso habitacional y comercial y 3.00 metros en predios de uso industrial, de acuerdo con el Programa de Desarrollo Urbano vigente. Cuando formen parte de una construcción completa, la licencia de construcción amparará también la ejecución de la barda. La licencia otorgada para la edificación de una barda no versará sobre la autorización de uso de suelo, ni la legítima posesión del predio en cuestión.
 
 a) Copia del último pago actualizado del impuesto predial (bimestral o anual).
 
 b) Copia de documentos que acreditan la propiedad o la posesión.
 
-c) Copia de identificación con fotografía del propietario.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-d) Croquis de la barda con detalles de planta y elevación y diseño estructural.
+c) Copia de identificación oficial con fotografía del propietario.
 
-IX. ANUNCIOS Y ANTENAS
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-a) Formato de solicitud firmado por el Propietario y el D. R. O.
+d) Plano de la barda o fachada con detalles de planta, elevación y diseño estructural, incluyendo la cuantificación de los m2 totales a construir.
+
+X. ANUNCIOS Y ANTENAS
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Formato oficial vigente de licencia de construcción para Anuncio o Antena firmado por el Propietario y el D.R.O.
 
 b) Copia del último pago actualizado del impuesto predial (bimestral o anual).
 
@@ -1311,9 +1723,93 @@ d) Croquis de ubicación.
 
 e) Anuencia de protección civil para anuncios espectaculares, autosoportados y/o antenas.
 
-f) Proyecto incluyendo memoria de cálculo y planos estructurales para anuncios espectaculares, autosoportados y/o antenas.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+f) Dos juegos de planos arquitectónicos y estructurales impresos con pie de plano oficial actualizado y con el cuadro normativo debidamente llenado.
 
 g) Póliza de seguro contra daños a terceros y carta responsiva del solicitante para anuncios espectaculares, autosoportados o antena.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+h) Memoria de cálculo estructural para anuncios, espectaculares, auto soportados y/o antenas, sellada y avalada per el D.R.O.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+i) Anuencia de Aeronáutica Civil otorgado por parte de la Secretaría de Comunicaciones y Transportes.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+j) Cuantificación del anuncio o antena sellada y avalada por el D.R.O. (Impresa y digitalizada en formato CAD).
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XI. RECONSTRUCCIÓN (Este tipo de licencia se solicitará cuando una construcción sufra afectaciones derivadas de fenómenos naturales, siniestros, etc. y se pretenda edificarla nuevamente regresándola a su estado original)
+
+a) Formato oficial vigente de licencia de construcción para reconstrucción firmado por el propietario y el D.R.O. Incluyendo la descripción de los trabajos que se vayan a ejecutar, referidos al proyecto arquitectónico original autorizado.
+
+b) Copia de la licencia de construcción y planos autorizado anteriormente.
+
+c) Formato de Alineamiento y Número Oficial debidamente llenado o copia vigente
+
+d) Copia del último pago actualizado del impuesto predial (bimestral o anual).
+
+e) Reporte fotográfico.
+
+f) Cubrir los derechos parte a reconstruir de la obra.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XII. OBRA EXTERIOR: Este tipo de licencia se refiere a toda obra para uso recreativo, como lo son: pérgolas, lonarias, techumbres de policarbonato, canchas deportivas, albercas, entarimados de madera, que pueden ser o no parte de un proyecto integral, para las cuales la superficie por construir no afectará el COS y CUS del proyecto en la licencia de construcción y que podrán realizarse en las áreas de restricción del mismo).
+
+a). Formato oficial vigente de licencia de construcción para obra exterior firmado por el propietario y el D R.O.
+
+b). Formato de Alineamiento y Número Oficial debidamente llenado ó copia vigente
+
+c). Copia del último pago actualizado del impuesto predial (bimestral o anual)
+
+d). Copia de documentos que acreditan la propiedad o posesión.
+
+e). Dos juegos de planos arquitectónicos, estructurales (en su caso), impresos con pie de plano oficial actualizado y con el cuadro normativo debidamente llenado.
+
+f). Copia digitalizada del proyecto ejecutivo constructivo, (formato de alineamiento, memoria descriptiva arquitectónica, memoria de cálculo estructural e instalaciones, plano arquitectónico, estructural, de instalaciones hidráulicas sanitarias, y eléctricas, en su caso.
+
+g). Copia de la identificación oficial con fotografía del propietario.
+
+h). Sello y firma del Director Responsable de Obra en los planos impresos.
+
+i). Cuantificación del área total del proyecto sellada y avalada por el D.R.O. (Impresa y digitalizada en formato CAD).
+
+j). Deberá cubrir los derechos.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XIII. ZONA FEDERAL MARÍTIMO TERRESTRE. - Cuando se pretenda realizar una obra en una concesión de zona federal marítimo terrestre.
+
+a). Formato oficial de la licencia de construcción para ZFMT firmado por el Propietario y el D.RO.
+
+b). Pago actualizado de ZOFEMAT
+
+c). Copia de la concesión vigente de ZOFEMAT que ocupará el proyecto
+
+d). Resolutivo favorable de SEMARNAT en materia de impacto y riesgo ambiental, en su caso.
+
+e). Dos juegos de planos arquitectónicos, estructurales y de instalaciones impresos con pie de plano oficial actualizado.
+
+f). Copia digitalizada del proyecto ejecutivo constructivo (Memoria descriptiva arquitectónica, memoria de cálculo de estructural e instalaciones, planos arquitectónicos, estructurales, instalaciones hidráulicas, sanitarias, eléctricas y gas).
+
+g). Cuantificación del área total del proyecto sellado y avalado por el D.R.O. (Impresa y digitalizada en formato CAD).
+
+h). Copia de identificación oficial del concesionario (persona física).
+
+i). Copia del acta constitutiva, poder general e identificación oficial del apoderado (persona moral)
+
+j). Firma del Director Responsable de Obra en los planos impresos
+
+k). Firma de los Corresponsables de obra en los planos impresos, en su caso.
+
+l). Deberá cubrir los derechos.
+
+Con independencia de los requisitos enumerados en el presente artículo, la Dirección General de Desarrollo Urbano, atendiendo a las características del proyecto, podrá solicitar autorizaciones y/o anuencias de otras autoridades federales, estatales o municipales; y en su caso, estudios especializados en la materia.
 
 ARTÍCULO 57
 
@@ -1321,7 +1817,9 @@ No se requerirá Director Responsable de Obra para efectuar las siguientes obras
 
 I. Las construcciones a que se refiere la fracción IV del artículo 41 de este Reglamento, siempre que reúnan las siguientes características:
 
-a) Que el proyecto arquitectónico contemple hasta 20 m² de construcción total.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+a) Que los nuevos proyectos arquitectónicos para licencias de obra nueva de casa habitación unifamiliar contemplen hasta 30 m2 de construcción total.
 
 b) Que la obra alcance como máximo una altura de 4 m.
 
@@ -1343,7 +1841,9 @@ VII. Impermeabilización y reparación de azoteas, sin afectar elementos estruct
 
 VIII. Obras urgentes para prevención de accidentes, debiendo dar aviso a la Dirección dentro de un plazo máximo de setenta y dos horas, contados a partir de la iniciación de las obras.
 
-IX. Construcciones provisionales para uso de oficinas, bodegas o vigilancia de predios durante la edificación de una obra y de los servicios sanitarios correspondientes.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IX. Construcciones provisionales para uso de oficinas, bodegas o vigilancia de predios durante la edificación de una obra y de los servicios sanitarios correspondientes, mismos que deberán ser desmanteladas o demolidas al dar aviso de terminación de obra de la edificación que les dio origen.
 
 ARTÍCULO 58
 
@@ -1383,7 +1883,9 @@ III. Para la construcción de obras con superficie hasta de 1000 metros cuadrado
 
 IV. Para la construcción de obras con superficie de más de 1000 metros cuadrados, la vigencia será de 24 meses;
 
-Si terminado el plazo autorizado para la construcción de una obra ésta no se hubiera concluido, para continuar deberá obtener prórroga de la Licencia y cubrir los derechos por la parte no ejecutada de la obra. A la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario. Si dentro de los seis meses siguientes al vencimiento de una licencia no se obtiene la prórroga señalada, será necesario obtener nueva licencia para continuar la construcción.
+> <small>(ADICIONADA [N. DE E. ANTES ÚLTIMO PÁRRAFO], P.O. 25 DE OCTUBRE DE 2016)</small>
+
+V. Si terminado el plazo autorizado para la construcción de una obra ésta no se hubiera concluido, para continuar deberá obtenerse prórroga de la Licencia y cubrir los derechos por la parte no ejecutada de la obra. A la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario. Si dentro de los seis meses siguientes al vencimiento de una Licencia no se obtiene la prórroga señalada, será necesario obtener nueva Licencia para continuar la construcción.
 
 ARTÍCULO 61
 
@@ -1495,35 +1997,63 @@ ARTICULO 72
 
 El Estudio de Impacto Urbano tiene por objeto evaluar y dictaminar las influencias o alteraciones negativas y positivas causadas al entorno urbano por alguna obra pública o privada en el área donde se pretenda realizar, con el fin de establecer las medidas adecuadas para su prevención, mitigación y/o compensación.
 
-ARTICULO 73
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-El Estudio de Impacto Urbano será elaborado por consultor especialista registrado como Corresponsable de Diseño Urbano y Arquitectónico registrado en la Dirección avalado por el D. R. O.
+ARTÍCULO 73
+
+El Estudio de Impacto Urbano será elaborado por consultor especialista que tenga el perfil profesional de arquitecto, ingeniero arquitecto, ingeniero civil o licenciatura en urbanismo y tenga registro de D.R.O
 
 ###### ARTICULO 74.
 
 El Estudio de Impacto Urbano se ingresará a la Dirección General de Desarrollo Urbano acompañado de la siguiente documentación:
 
-I. Constancia de uso del suelo vigente;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-II. Memoria descriptiva;
+I. Solicitud por escrito;
 
-III. Anteproyecto arquitectónico, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-IV. Determinación de las áreas de donación en términos de la Ley de Fraccionamientos del Estado, en su caso.
+II. Constancia de uso del suelo vigente;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+III. Memoria descriptiva;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IV. Anteproyecto arquitectónico;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+V. Determinación de las áreas de donación en términos de la Ley de Fraccionamientos del Estado, en su caso;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VI. Factibilidad de impacto vial, expedido por la Coordinación del Departamento Técnico de Ingeniería Vial de la Dirección de Tránsito Municipal,
 
 La Dirección General de Desarrollo Urbano en todo momento podrá realizar visitas de verificación al predio sujeto de la solicitud, con el fin de constatar la información ingresada.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+Una vez ingresado el Estudio de Impacto urbano a la Dirección General de Desarrollo Urbano para su dictaminación, éste contara con un plazo de 20 días hábiles para emitir el dictamen, o bien solicitar información complementaria al promovente. Una vez recibida la información complementaria la Dirección General de Desarrollo Urbano contara con un nuevo plazo de quince días hábiles para emitir dictamen.
 
-ARTICULO 75
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-Una vez obtenido el estudio de Impacto Urbano, la Dirección de Desarrollo Urbano emitirá el dictamen, fundado y motivado, respecto el impacto generado por el cambio de uso de suelo o el establecimiento de una gasolinera
+ARTÍCULO 75
 
-ARTICULO 76
+Una vez obtenido el estudio de Impacto Urbano, la Dirección de Desarrollo Urbano emitirá el dictamen, fundado y motivado, respecto al impacto generado por el cambio de uso de suelo o el establecimiento de una gasolinera, este dictamen se deberá anexar a la licencia de construcción.
 
-Los proyectos a los que se les solicitará el Estudio de Impacto Urbano serán los que se refiere el artículo 283 del presente Reglamento, así como a las estaciones de servicio de almacenamiento y venta de gasolina y diesel, los usos a que se refiere la Tabla 1 de los Usos Premitidos (sic), Condicionados y Prohibidos del Programa de Desarrollo Urbano del Centro de Población de la Ciudad de Cancún y para las modificaciones al uso de suelo que se mencionan en la Tabla Anexa número 16 del presente Reglamento.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 76
+
+Los proyectos a los que se les solicitará el Estudio de Impacto Urbano serán los que se refiere el artículo 283 del presente Reglamento, así como a las estaciones de servicio de almacenamiento y venta de gasolina y diésel.
+
+Los proyectos a los que se les solicitará el Estudio de impacto Urbano serán los que en determinado momento excedan los parámetros establecidos según su Uso de Suelo conforma (sic) al PDU y los que se definen como usos prohibidos en la Tabla K - Usos permitidos y prohibidos del Programa de Desarrollo urbano del Centro de Población de Cancún, Municipio de Benito Juárez, Quintana Roo (2014-2030).
+
+El estudio de impacto urbano será solicitado ante la autoridad competente para cualquier cambio de uso del suelo o modificación de parámetros de uso del suelo original que se pretenda cambiar.
+
+Así también se solicitará para los usos y proyectos que no se encuentren contemplados en el programa de desarrollo urbano del centro de población de la ciudad de Cancún, programas parciales o en el Programa de Ordenamiento Ecológico Local.
 
 ARTICULO 77
 
@@ -1593,11 +2123,13 @@ I. Cualesquiera otras edificaciones no comprendidas en esta relación, se sujeta
 
 II. La demanda total para los casos en que en un mismo predio se encuentren establecidos diferentes giros o usos, será la suma de las demandas señaladas para cada uno de ellos. Para el cálculo de la demanda el porcentaje mayor a 0.50 se considera como un cajón;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-III. Las medidas de los cajones de estacionamientos para coches serán de 5.00 por 2.50 metros. El ancho mínimo de los cajones para camiones y autobuses será de 3.50 m para estacionamiento en bateria o de 3.00 m en cordón, la longitud del cajón debe ser el resultado de un análisis del tipo de vehículos dominantes, lo anterior sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio;
+III. Las medidas de los cajones de estacionamientos para coches serán de 5.00 por 2.40 metros. Se permitirá hasta el 30% de los cajones para automóviles chicos de medida en los cajones de 4.20 por 2.20 metros, éstas medidas no incluyen las áreas de circulación necesarias. El ancho mínimo de los cajones para camiones y autobuses será de 3.50 m para estacionamiento en batería o de 3.00 m en cordón, la longitud de cajón debe ser el resultado de un análisis del tipo de vehículos dominantes, lo anterior, sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio;
 
-IV. Se podrá aceptar el estacionamiento en cordón, cuyo caso el espacio para el acomodo de vehículos será de 6.00 x 2.50 m. Estas medidas no comprenden las áreas de circulación necesarias, sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IV. Se podrá aceptar el estacionamiento en cordón, cuyo caso el espacio para el acomodo de vehículos será de 6.00 x 2.50 m. Estas medidas no comprenden las áreas de circulación necesarias, sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio, Se permitirá hasta el 30% de los cajones para automóviles chicos de medida en los cajones de 4.80 por 2.20 metros, éstas medidas no incluyen las áreas de circulación necesarias;
 
 V. Los estacionamientos públicos y privados deberán destinar por lo menos un cajón de cada 25 o fracción a partir de 12 para uso exclusivo de personas con capacidades diferentes ubicado lo más cerca posible de la entrada a la edificación. En estos casos las medidas del cajón serán de 5.50 x 3.90 metros, asimismo deberán preverse rampas de acceso y espacios de circulación peatonal niveladas y seguras para el tránsito de personas, sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públicos del Municipio;
 
@@ -1611,33 +2143,33 @@ VII. Sin perjuicio de lo establecido en el Reglamento de Estacionamientos Públi
 
 VIII. El Ayuntamiento determinará los casos en que se deberá cubrir una demanda adicional de espacios para estacionamiento de visitantes;
 
-IX. En los predios habitacionales el área de restricción frontal podrá ser utilizada como área de estacionamiento y solo con cubierta inclinada, ocupando como máximo el 50% del frente del predio y conservar la superficie permeable en la misma proporción;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], P.O. 11 DE ABRIL DE 2008)</small>
+IX. En los predios habitacionales el área de restricción frontal podrá ser utilizada como área de estacionamiento y solo con cubierta inclinada, ocupando como máximo el 50% del frente del predio y conservar la superficie permeable en la misma proporción.
+
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PÁRRAFO], P.O. 11 DE ABRIL DE 2008)</small>
 
 X. El ancho mínimo de circulación vehicular de acceso a cajones de estacionamiento, será de acuerdo a la siguiente tabla.
 
 ANCHO MÍNIMO DE CIRCULACIÓN VEHICULAR
 
-Ángulo de ancho mínimo de
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-inclinación circulación
+Ángulos de inclinación Ancho mínimo de circulación
 
-del cajón vehicular
+del cajón en grados vehicular en metros
 
-en grados en metros
+90° 6.00*
 
-90° 6.00
+60° 5.00
 
-60º 5.00
+45° 4.50
 
-45º 4.50
+30° 4.00
 
-30º 4.00
+0° 3.50
 
-0º 3.50
-
-*En caso de que sea doble circulación al (sic) ancho mínimo del pasillo será 7.00m.
+*En caso de que esa doble circulación el ancho mínimo del pasillo será 7.00 m.
 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2008)</small>
 
@@ -1823,21 +2355,23 @@ Los locales en las edificaciones contarán con medios de ventilación que asegur
 
 I. Los locales habitacionales y las cocinas domésticas en edificaciones habitacionales, los locales habitacionales en edificios de alojamiento, los cuartos de encamados en hospitales y las aulas en edificaciones para educación elemental y media, tendrán ventilación natural por medio de ventanas que den directamente a la vía pública, terrazas, azoteas, superficies descubiertas interiores o patios que satisfagan lo establecido en el artículo 97 del presente Reglamento. El área de aberturas de ventilación no será inferior al 5% del área del local.
 
-II. Los demás locales de trabajo, reunión o servicio en todo tipo de edificaciones tendrán ventilación natural con las mismas características mínimas señaladas en el fracción anterior, si bien se podrán ventilar con medios artificiales que garanticen durante los periodos de uso, los siguientes cambios del volumen del área del local:
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+II. Los demás locales de trabajo, reunión o servicio en todo tipo de edificaciones tendrán ventilación natural con las mismas características mínimas señaladas en la fracción anterior, si bien se podrán ventilar con medios artificiales que garanticen durante los periodos de uso, los siguientes cambios del volumen del área del local:
 
 CAMBIO DEL VOLUMEN PARA VENTILACIÓN ARTIFICIAL
 
-Local cambios por hora
+Local Cambios por hora
 
 Vestíbulos 1
 
-Locales de trabajo y reunión en
+Locales de trabajo y reunión en general y
 
-general y sanitarios domésticos 6
+sanitarios domésticos 6
 
-Cocinas domésticas, baños públicos,
+Cocinas domésticas, baños públicos, cafeterías,
 
-cafeterías, restaurantes y estacionamientos 10
+restaurantes y estacionamientos 10
 
 Cocinas en comercios de alimentos 20
 
@@ -1898,6 +2432,8 @@ ARTÍCULO 98
 Los patios de iluminación y ventilación natural deberán cumplir con las disposiciones siguientes:
 
 I. Las disposiciones contenidas en este artículo conciernen a patios con base de forma cuadrada o rectangular. Cualquier otra forma deberá requerir de autorización especial.
+
+(REPUBLICADA, P.O. 25 DE OCTUBRE DE 2016)
 
 II. Los patios de iluminación y ventilación natural tendrán por lo menos las siguientes dimensiones, que nunca serán menores de 2.50 m salvo los casos numerados en la fracción III.
 
@@ -1967,9 +2503,11 @@ Las edificaciones tendrán siempre escaleras o rampas peatonales que comuniquen 
 
 Para el cálculo del ancho mínimo de la escalera deberá considerarse solamente la población del piso o nivel de la edificación con más ocupantes, sin tener que sumar la población de toda la edificación y sin perjuicio de que se cumplan los valores mínimos indicados.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 107
 
-Las rampas peatonales que se proyecten en cualquier edificación deberán tener una pendiente máxima de 10%, con pavimentos antiderrapantes, barandales en uno de sus lados por lo menos y con las anchuras mínimas que se establecen para las escaleras en el artículo anterior.
+Las rampas peatonales que se proyecten en cualquier edificación deberán tener una pendiente máxima de 10%, con pavimento antiderrapante, barandal en uno de sus lados, por lo menos y con las anchuras mínimas que se establecen para las escaleras en el artículo anterior.
 
 ARTÍCULO 108
 
@@ -2269,25 +2807,19 @@ ARTÍCULO 150
 
 Las edificaciones que a continuación se indican deberán contar con un local de servicio médico consistente en un consultorio con mesas de exploración, botiquín de primeros auxilios y un sanitario con lavabo y excusado.
 
-TIPO DE EDIFICACIÓN NUMERO MÍNIMO DE MESAS
+> <small>(REFORMADA TABLA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+TIPOS DE EDIFICACIÓN NÚMERO MÍNIMO DE MESAS
 
 DE EXPLORACIÓN
 
-De Educación elemental de más Una por cada 500 alumnos, o
+De Educación Elemental Una por cada 500 ocupantes
 
-de 500 ocupantes fracción a partir de 501
+Centros deportivos Una por cada 1,00 habitantes
 
-Centros deportivos de más de 1,000
+En alojamiento Una por cada 100 cuartos
 
-concurrentes Uno por cada 1,000 concurrentes
-
-De alojamiento de 100 cuartos o más Uno por cada 100 cuartos o
-
-fracción, a partir de 101
-
-Industriales de más de 50 trabajadores. Una por cada 100 trabajadores
-
-o fracción, a partir de 51.
+Industriales de más de 50 Trabajadores Una por cada 100 trabajadores
 
 El número mínimo de mesas de exploración se señala en la Tabla 12 del Anexo.
 
@@ -3195,7 +3727,9 @@ ARTÍCULO 264
 
 Los dispositivos empleados para transporte vertical de personas o de materiales durante la ejecución de las obras, deberán ofrecer adecuadas condiciones de seguridad.
 
-Solo se permitirá transportar personas en las obras por medio de elevadores cuando éstos hayan sido diseñados, construidos y montados con barandales, frenos automáticos que evite la caída libre y guías en toda su altura que eviten el volteamiento, así como todas las medidas de seguridad adecuadas, sujetándose a lo que indican las Normas Técnicas Complementarias de este Reglamento.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+Solo se permitirá transportar personas en las obras por medio de elevadores cuando éstos hayan sido diseñados, construidos y montados con barandales, frenos automáticos que evite la caída libre y guías en toda su altura que eviten el volcado, así como todas las medidas de seguridad adecuadas, sujetándose a lo que indican las Normas Técnicas Complementarias de este Reglamento.
 
 ARTÍCULO 265
 
@@ -3299,9 +3833,11 @@ I. La restitución de inmediato al uso aprobado, si esto puede hacerse sin la ne
 
 II. La ejecución de obras, y adaptaciones, instalaciones y otros trabajos que sean necesarios para el correcto funcionamiento del inmueble y restitución al uso aprobado, dentro del plazo que para ello se (sic) señale la Dirección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 278
 
-Los propietarios de las edificaciones y predios tienen la obligación de conservarlos en buenas condiciones de estabilidad, servicio, aspecto de higiene, evitar que se convierta en molestia o peligro para las personas o los bienes, reparar y corregir los desperfectos, fugas y consumos excesivos de las instalaciones, y observar además, las siguientes disposiciones:
+Los propietarios de las edificaciones y predios tienen la obligación de conservarlos en buenas condiciones de estabilidad, servicio, aspecto e higiene; evitar que se convierta en molestia o peligro para las personas o los bienes, reparar y corregir los desperfectos, fugas y consumos excesivos de las instalaciones; y observar, además, las siguientes disposiciones:
 
 I. Los acabados de las fachadas deberán mantenerse en buen estado de conservación, aspecto y limpieza. Todas las edificaciones deberán contar con depósito de basura y, en su caso con el equipamiento señalado en el artículo 92 de este Reglamento.
 
@@ -3347,9 +3883,11 @@ III. Los equipos de bombeo deberán probarse por lo menos mensualmente, bajo las
 
 ### CAPITULO ÚNICO. AMPLIACIONES
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 283
 
-Las obras de ampliación podrán ser autorizadas si el Programa de Desarrollo Urbano permite el nuevo uso y la nueva densidad o intensidad de ocupación del suelo y se presenta un nuevo estudio de Impacto Urbano por las obras de ampliación.
+Las obras de ampliación podrán ser autorizadas si el Programa de Desarrollo Urbano permite el nuevo uso y la nueva densidad o intensidad de ocupación del suelo; en estos casos deberá presentar (sic) Estudio de Impacto Urbano conforme al artículo 72 del presente Reglamento.
 
 ARTÍCULO 284
 
@@ -3757,9 +4295,15 @@ II. Cuando se hubieran violado los estados de suspensión o clausura de la obra 
 
 III. Cuando se excedan las obras o instalaciones o no correspondan con la licencia obtenida, y las mismas no estuvieran regularizadas.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 ARTÍCULO 328
 
-I. Las personas que incumplan con las disposiciones de la Norma Técnica Complementaria para la ubicación, construcción y funcionamiento de las Estaciones de Servicio de Combustible para Vehículos Automotores, serán sancionadas de acuerdo con los siguiente:
+Se aplicarán sanciones a:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+I. Las personas que incumplan con las disposiciones de la Norma Técnica Complementaria para la ubicación, construcción y funcionamiento de las Estaciones de Servicio de Combustible para Vehículos Automotores, conforme a lo siguiente:
 
 a) Cuando el incumplimiento no signifique -previa inspección, verificación o dictamen de la autoridad municipal que corresponda-, un riesgo inminente de afectación a las personas, sus bienes o al equilibrio ecológico, se sancionaran con apercibimiento; y en casos de reincidencia con multa de 500 D. S. M. V.;
 
@@ -3835,6 +4379,18 @@ ARTÍCULO 337
 
 Los casos no previstos en este Reglamento por sus Normas Técnicas Complementarias o por las normas derivadas del Programa de Desarrollo Urbano, serán resueltos por el Ayuntamiento.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO 13-16/232 PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. 25 DE OCTUBRE DE 2016, PÁGINA 50.]</small>
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 338.
+
+Todas las Autorizaciones que se realicen contraviniendo las disposiciones del presente reglamento y las del Programa de Desarrollo Urbano del Centro de Población de la Ciudad de Cancún; Municipio de Benito Juárez Quintana Roo vigentes; serán nulas de pleno derecho.
+
+### CAPITULO III. RECURSOS
+
+Los servidores públicos municipales, que suscriban y expidan las autorizaciones conforme a lo previsto en el párrafo anterior, serán responsables por dichas acciones y se sujetarán en los términos y procedimientos determinados en la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo; y demás disposiciones legales aplicables.
+
 ## ARTÍCULOS TRANSITORIOS.
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Quintana Roo.
@@ -3849,11 +4405,15 @@ QUINTO.- Los procedimientos relacionados con la inspección, vigilancia, medidas
 
 SEXTO.- A partir de la vigencia del presente Reglamento, las estaciones de servicio en funcionamiento, contarán con un plazo de sesenta días hábiles para presentar sus programas de adecuación de instalaciones y medidas de seguridad a las Direcciones Municipales de Ecología, Protección Civil y Bomberos con el objeto de que las mismas dictaminen si se cumplen con las disposiciones del presente Reglamento en materia de seguridad y protección civil y ambiental.
 
-Los dictámenes favorables de las Direcciones Municipales de Ecología, Protección Civil y Bomberos, serán requisito para la renovación de la licencia de funcionamiento de los establecimientos comerciales respectivos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 SÉPTIMO.- Los registros de Directores Responsables de Obra, Corresponsables y demás peritos a que se refiere el presente Reglamento, deberán integrarse a más tardar en los 30 días siguientes a la publicación del presente.
 
-> <small>N. DE E. VEASE TABLAS EN EL NUMERO EXTRAORDINARIO DEL P.O. DE 25 DE ABRIL DE 2007, PAGINAS DE LA 101 A 299. (REFORMA P.O. 11 DE ABRIL DE 2008, PAGINA 98.)</small>
+> <small>[N. DE E. VÉASE TABLAS EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 25 DE ABRIL DE 2007, PÁGINAS DE LA 101 A 299.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LAS TABLAS EN EL P.O. 11 DE ABRIL DE 2008, PÁGINA 98.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LAS TABLAS EN EL NÚMERO EXTRAORDINARIO DEL P.O. 25 DE OCTUBRE DE 2016, PÁGINAS DE LA 50 A LA 65.]</small>
 
 > <small>N. DE E. A CONTINUACION SE TRASNCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -3882,3 +4442,15 @@ CUARTO.- Publíquese el presente acuerdo en términos de ley.
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- Las modificaciones al Reglamento de Construcción para el Municipio de Benito Juárez entrarán en vigor al día sguiente (sic) de su publicación en el Periódico Oficial del Estado de Quirtana (sic) Roo.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 13-16/232. OCTAVA PUNTO DEL ORDEN DEL DÍA DE LA SEPTUAGÉSIMA SESIÓN ORDINARIA, EN LA QUE SE APRUEBA, EL DICTAMEN MEDIANTE EL CUAL LAS COMISIONES UNIDAS DE DESARROLLO URBANO Y TRANSPORTE Y DE REGLAMENTACIÓN Y MEJORA REGULATORIA, SOMETE A CONSIDERACIÓN REFORMAR DIVERSAS DISPOSICIONES DE REGLAMENTO DE CONSTRUCCIÓN PARA EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO”.]
+
+PRIMERO.- Las presentes reformas reglamentarias entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan la presente reforma reglamentaria.
+
+TERCERO.- La Secretaria Municipal de Ecología y Desarrollo Urbano, en un término no mayor a ciento veinte días naturales, deberá someter ante el Honorable Ayuntamiento de Benito Juárez, Quintana Roo, a través de la Comisión Ordinaria de Desarrollo Urbano y Transporte; la Actualización de las Normas Técnicas Complementarias del Reglamento de Construcción para el Municipio de Benito Juárez, Quintana Roo.
+
+CUARTO.- La Secretaria Municipal de Ecología y Desarrollo Urbano, en un término no mayor a noventa días, deberá actualizar sus Manuales de Funciones y Procedimientos, en atención a la presente reforma reglamentaria.
