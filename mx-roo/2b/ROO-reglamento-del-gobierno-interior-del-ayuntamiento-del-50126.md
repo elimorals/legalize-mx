@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2015-04-10"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -1167,6 +1167,18 @@ VII. Vigilar que se integren correctamente los programas y presupuestos anuales 
 
 VIII. Vigilar y emitir propuestas para la elaboración de los manuales de operación con sus anexos necesarios para regular el ejercicio, control, seguimiento y evaluación de la inversión pública municipal.
 
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+IX.- Previa aprobación del Programa de Inversión Anual o de sus modificaciones por parte del Comité de Planeación de Desarrollo Municipal (COPLADEMUN), conocer las acciones, programas y proyectos que formarán parte del mismo, a efecto de dictaminar si responden a las principales demandas y necesidades de la población;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+X.- Dar seguimiento, actualizar y evaluar el Plan Municipal de Desarrollo, a través de sus subcomités sectoriales y especiales;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XI.- Presentar al Ayuntamiento reportes bimestrales de los avances del Programa de Inversión Anual y de los acuerdos tomados en el Comité de Planeación de Desarrollo Municipal (COPLADEMUN);
+
 ###### Artículo 120.
 
 Corresponde a la Comisión de Reglamentación Municipal:
@@ -1822,3 +1834,11 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a las presentes reformas.
 
 TERCERO.- Remítase el presente dictamen al pleno del Honorable Ayuntamiento de Benito Juárez, Quintana Roo, para los efectos legales conducentes.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 13-16/471. SEXTO PUNTO DEL ORDEN DEL DÍA DE LA SEPTUAGÉSIMA SESIÓN ORDINARIA, EN EL QUE SE APRUEBA EL DICTAMEN MEDIANTE EL CUAL LAS COMISIONES UNIDAS DE PLANEACIÓN MUNICIPAL, REGLAMENTACIÓN Y MEJORA REGULATORIA Y DE HACIENDA, PATRIMONIO Y CUENTA, ADICIONAN CON LAS FRACCIONES IX, X Y XI AL ARTÍCULO 119 DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO”.]
+
+Primero.- La presente reforma reglamentaria entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- Se derogan todas las disposiciones reglamentarias que se opongan a la presente reforma.
