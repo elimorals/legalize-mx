@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2016-06-02"
+last_updated: "2016-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -209,7 +209,9 @@ IV. La evaluación periódica de sus políticas públicas; y
 
 V. La participación de empresas y sindicatos para establecer acuerdos de no discriminación desde la perspectiva de género.
 
-### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO INSTITUCIONAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO INSTITUCIONAL Y POLÍTICO
 
 ###### Artículo 16.
 
@@ -242,6 +244,44 @@ III. La normativa o procedimientos para evitar la violencia de género en las in
 IV. Los programas de capacitación para el personal adscrito a las dependencias de procuración e impartición de la justicia;
 
 V. La celebración de convenios o acuerdos de coordinación entre los Poderes del Estado y de los Municipios para los cambios conductuales y de percepción e interpretación de la ley de quienes laboran para dichos Poderes.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 19 Bis.
+
+La violencia política de género es toda acción u omisión, cometida por una o varias personas, que cause daño físico, psicológico, económico, moral o sexual en contra de las mujeres, precandidatas, candidatas, electas o en ejercicio de cualquier cargo público, o en contra de su familia, con el fin de obstaculizar, limitar, impedir o suspender el goce de sus derechos políticos-electorales, o cumplimiento de sus funciones en el ejercicio de su cargo, tomando como base su condición de mujer.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 19 Ter.
+
+Se consideran actos de violencia política contra las mujeres los siguientes:
+
+I. Limitar o condicionar, por razones de género el ejercicio de los derechos políticos de las mujeres;
+
+II. Limitar, condicionar u obstaculizar el acceso y efectivo ejercicio de sus derechos a las mujeres que sean precandidatas, candidatas, ejerzan un cargo de elección popular o público;
+
+III. Proporcionar información incompleta o datos falsos a la autoridad electoral, administrativa o jurisdiccional, con la finalidad de anular las candidaturas de mujeres;
+
+IV. Impedir por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a cualquier puesto o encargo público, asistan a la toma de protesta de su encargo, así como a las sesiones o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de género;
+
+V. Imponer por estereotipos de género la ejecución de actividades distintas a las atribuciones de su cargo;
+
+VI. Obligar a las mujeres que se encuentren en el ejercicio de sus encomiendas mediante la fuerza o intimidación a suscribir documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general;
+
+VII. Impedir el ejercicio de sus atribuciones por encontrarse en estado de gravidez o negarles el goce de sus derechos laborales por ese motivo;
+
+VIII. Impedir o restringir su reincorporación al cargo cuando hagan uso de una licencia, permisos o derechos conforme a la legislación aplicable;
+
+IX. Impedir o restringir el ejercicio de sus derechos políticos mediante la imposición de sanciones partidistas o administrativas injustificadas;
+
+X. Los que tengan por objeto obtener, contra su voluntad, la renuncia a la candidatura o cargo;
+
+XI. Impedir o excluir por razones de género el ejercicio de funciones o el cumplimiento de obligaciones en las que deban de intervenir en el ejercicio de su cargo;
+
+XII. Divulgar información en medios masivos de comunicación, que por su contenido pretenda denostar a las mujeres o situarlas en posiciones de vulnerabilidad por su género, con la intención de afectarlas en su desempeño profesional en el ejercicio de cualquier cargo público, y
+
+XIII. Efectuar en contra de las mujeres, cualquier acto de discriminación previsto en la Carta Magna del Estado Mexicano, los instrumentos internacionales firmados y ratificados por México, la Constitución Política local, así como en la Ley para Prevenir y Erradicar la Discriminación en el Estado de Nayarit, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA EN EL ÁMBITO DE LA COMUNIDAD
 
@@ -289,13 +329,21 @@ II. Violencia física.- El acto intencional para sujetar, inmovilizar o causar d
 
 III. Violencia sexual.- La Acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño y limita el ejercicio de la sexualidad;
 
-IV. Violencia patrimonial.- La acción de sustracción, destrucción, retención, transformación de objetos, valores, documentos personales o bienes de las mujeres o de su entorno familiar, independientemente del valor material o emocional, asociado a éstos; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-V. Violencia económica.- La acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para afectar su independencia y supervivencia económica.
+IV. Violencia patrimonial.- La acción de sustracción, destrucción, retención, transformación de objetos, valores, documentos personales o bienes de las mujeres o de su entorno familiar, independientemente del valor material o emocional, asociado a éstos;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-VI. Violencia obstétrica.- Toda conducta, acción u omisión, que ejerce el personal de salud tanto en el ámbito público como en el privado, sobre el cuerpo y los procesos reproductivos de las mujeres, de manera directa o indirecta, expresada en un trato deshumanizado, un abuso de medicalización o patologización de los procesos naturales, menoscabando la capacidad de la mujer de decidir de manera libre e informada.
+V. Violencia económica.- La acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para afectar su independencia y supervivencia económica;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VI. Violencia obstétrica.- Toda conducta, acción u omisión, que ejerce el personal de salud tanto en el ámbito público como en el privado, sobre el cuerpo y los procesos reproductivos de las mujeres, de manera directa o indirecta, expresada en un trato deshumanizado, un abuso de medicalización o patologización de los procesos naturales, menoscabando la capacidad de la mujer de decidir de manera libre e informada, y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VII. Violencia Política.- En términos de lo dispuesto por la presente Ley, se consideran todas aquellas acciones y omisiones incluida la tolerancia, que basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
 
 ## TÍTULO TERCERO
 
@@ -657,7 +705,13 @@ IX. Impulsar la creación de refugios para mujeres que lo requieran, conforme al
 
 X. Realizar la plena difusión de los derechos y obligaciones contenidos en esta Ley;
 
-XI. Recibir de las organizaciones privadas las propuestas y recomendaciones sobre la prevención, atención sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XI. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención, sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación, y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XII. Promover la participación política de las mujeres y vigilar el respeto a sus derechos civiles, políticos y electorales.
 
 Las facultades antes señaladas serán desempeñadas a través de las Dependencias, Entidades y Unidades Administrativas de la Administración Pública Estatal, en el ámbito de sus respectivas competencias. Debiendo en todo momento ser supervisadas por el titular del Ejecutivo del Estado.
 
@@ -912,3 +966,9 @@ P.O. 2 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UNA DISPOSICIÓN NORMATIVA A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA OBSTÉTRICA”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
