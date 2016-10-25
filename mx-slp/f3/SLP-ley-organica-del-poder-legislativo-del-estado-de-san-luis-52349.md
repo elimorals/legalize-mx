@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2016-10-18"
+last_updated: "2016-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1205,9 +1205,17 @@ VIII. Lo relativo a personas con capacidades diferentes y su integración a la s
 
 IX. Revisar la legislación del Estado para reformar o derogar todas las normas que impliquen discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-X. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-XI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+X. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XI. Representar, a través de quien asuma la Presidencia, al Congreso del Estado, en el Comité Estatal de Protección al Periodismo, y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 104.
 
@@ -2364,3 +2372,13 @@ P.O. 18 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0410.- SE REFORMA EL ARTÍCULO 17 EN SUS FRACCIONES, V, Y VI; Y ADICIONA AL MISMO ARTÍCULO 17 LA FRACCIÓN VII DE Y A LA LEY DE PROTECCIÓN AL EJERCICIO DEL PERIODISMO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 103 EN SUS FRACCIONES, X, Y XI; ADICIONA AL MISMO ARTÍCULO 103 LA FRACCIÓN XII DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Ejecutivo del Estado publicará las adecuaciones al Reglamento Interior del Comité Estatal de Protección al Periodismo, relativas a las (sic) modificación contenida en el artículo 17 de la Ley de Protección al Ejercicio del Periodismo del Estado de San Luis Potosí, en un máximo de treinta días naturales a partir de la vigencia del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
