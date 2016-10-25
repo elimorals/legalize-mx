@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2016-07-01"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -269,7 +269,23 @@ XIV.- Promover e impulsar la participación de la comunidad del Estado en el cui
 
 XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
-XVI.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XVI. Coordinarse con la Secretaría de Innovación, Ciencia y Educación Superior para promover entre las instituciones de salud y educativas del Estado las siguientes acciones:
+
+a) Realizar estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico y tratamiento de las personas con la condición del espectro autista para procurar su habilitación; y
+
+b) Vincular las actividades de las Instituciones de Salud con los centros de investigación de las universidades públicas y privadas del Estado en materia de atención y protección a personas con la condición del espectro autista.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XVII. Realizar campañas de información sobre las características propias de la condición del espectro autista, a fin de crear conciencia al respecto en la sociedad;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+XVIII. Promover políticas y programas para la protección de la salud integral de las personas con la condición del espectro autista; y
+
+XIX. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -856,6 +872,44 @@ A estos efectos, se establecerá la coordinación necesaria mediante convenios e
 Los padres, tutores o quienes ejerzan la patria potestad de menores de edad, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermedades mentales.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+#### SECCIÓN ÚNICA. De la Atención y Derechos de las Personas con la Condición del Espectro Autista
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 76 BIS.- Corresponde a la autoridad estatal y municipal asegurar el respeto y ejercicio de los derechos que les asisten a las personas con la condición del espectro autista, de conformidad con lo previsto en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 76 TER.- El Ejecutivo del Estado se coordinará con el gobierno federal, mediante la celebración de convenios de coordinación en el marco de la Planeación Nacional del Desarrollo, con el fin de alinear los programas estatales con la política pública en materia de atención y protección a personas con la condición del espectro autista.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 76 QUATER.- Se reconocen como derechos fundamentales de las personas con la condición del espectro autista y de sus familias, en los términos de las disposiciones aplicables, los siguientes:
+
+I. Tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios;
+
+II. Recibir consultas clínicas, así como contar con terapias de habilitación;
+
+III. Recibir habilitación terapéutica, entendiendo a ésta como el proceso de duración limitada y con un objetivo definido de orden médico, psicológico, social y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas para lograr su más acelerada integración social y productiva;
+
+IV. Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias; y
+
+V. Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de conformidad con la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+ARTICULO 76 QUINQUIES.- Queda estrictamente prohibido para la atención y preservación de los derechos de las personas con la condición del espectro autista y sus familias:
+
+I. Rechazar su atención en clínicas y hospitales del sector público y privado;
+
+II. Negar la orientación necesaria para un diagnóstico y tratamiento adecuado, y desestimar el traslado de individuos a instituciones especializadas, en el supuesto de carecer de los conocimientos necesarios para su atención adecuada;
+
+III. Actuar con negligencia y realizar acciones que pongan en riesgo la salud de las personas, así como aplicar terapias riesgosas, indicar sobre-medicación que altere el grado de la condición u ordenar internamientos injustificados en instituciones psiquiátricas; y
+
+IV. Todas aquellas acciones que atenten o pretendan desvirtuar lo dispuesto en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y demás ordenamientos aplicables.
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
@@ -2461,7 +2515,7 @@ Los certificados de defunción y de muerte fetal serán expedidos una vez compro
 
 ###### ARTICULO 269.
 
-Los certificados a que se refiere este capítulo se extenderán en los modelos aprobados por la Secretaría de Salud del Ejecutivo Federal y de conformidad con las normas oficiales que la misma emita.
+Los certificados a que se refiere este capítulo se extenderán en los modelos aprobados por la Secretaría de Salud del Ejecutivo Federal y de conformidad con las normas oficiales mexicanas que la misma emita.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -3096,3 +3150,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 112, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO Y SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
