@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-al-ejercicio-del-periodismo-del-estado-de-945
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-25"
-last_updated: "2013-05-25"
+last_updated: "2016-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN AL EJERCICIO DEL PERIODISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 25 de mayo de 2013.
 
@@ -147,9 +147,17 @@ III. El titular o un representante de la Procuraduría General de Justicia;
 
 IV. El titular o un representante de la Comisión Estatal de Derechos Humanos;
 
-V. Por dos representantes de los periodistas, y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
-VI. Por dos representantes de la sociedad civil.
+V. Por dos representantes de los periodistas;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VI. Por dos representantes de la sociedad civil, y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
+VII. Por la legisladora o el legislador que presida la Comisión de Derechos Humanos, Equidad y Género del Congreso del Estado.
 
 El Reglamento Interior del Comité determinará la forma en que se integrarán al mismo, los representantes a que se refieren las fracciones V y VI de este artículo.
 
@@ -216,3 +224,15 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0410.- SE REFORMA EL ARTÍCULO 17 EN SUS FRACCIONES, V, Y VI; Y ADICIONA AL MISMO ARTÍCULO 17 LA FRACCIÓN VII, DE Y A LA LEY DE PROTECCIÓN AL EJERCICIO DEL PERIODISMO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 103 EN SUS FRACCIONES, X, Y XI; Y ADICIONA AL MISMO ARTÍCULO 103 LA FRACCIÓN XII, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Ejecutivo del Estado publicará las adecuaciones al Reglamento Interior del Comité Estatal de Protección al Periodismo, relativas a las (sic) modificación contenida en el artículo 17 de la Ley de Protección al Ejercicio del Periodismo del Estado de San Luis Potosí, en un máximo de treinta días naturales a partir de la vigencia del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se oponga a este Decreto.
