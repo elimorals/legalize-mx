@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-102306"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-09-09"
-last_updated: "2014-11-04"
+last_updated: "2016-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-08-25"
 ---
 # REGLAMENTO PARA EL TRAMITE Y SUSTANCIACION DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACION DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 25 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.]</small>
+
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 9 de septiembre de 2014.
 
@@ -813,3 +815,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Reglamento.
 TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
 
 CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 25 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral del Distrito Federal, aprobado mediante acuerdo del Consejo General ACU-040-14, el 25 de agosto de 2014 y reformado mediante acuerdo del Consejo General ACU-062-14, el 27 de octubre del mismo año.
+
+TERCERO. Los procedimientos administrativos sancionadores que se encuentren en trámite a la entrada en vigor del presente Reglamento, serán resueltos conforme al Reglamento vigente al momento de su inicio.
+
+CUARTO. Para efectos del pago por la expedición de copia certificada o simple de las actuaciones que integren el expediente, así como copia de las pruebas técnicas que obren en distintos formatos electrónicos, a que se refiere el artículo 10 del presente Reglamento, la Junta Administrativa del Instituto tendrá un plazo de 45 días hábiles, contados a partir de la entrada en vigor del presente Reglamento, para la emisión de los Lineamientos que deberán observarse para la realización del pago correspondiente en la Secretaría de Finanzas, tomando como base para su cálculo lo previsto en el Código Fiscal del Distrito Federal.
