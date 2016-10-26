@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2016-04-15"
+last_updated: "2016-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1991,11 +1991,11 @@ La Secretaría llevará un riguroso control y supervisión del personal que conf
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 155.
 
-Son obligaciones de los integrantes de las Instituciones Policiales las siguientes:
+Son obligaciones de los integrantes de las instituciones policiales las siguientes:
 
 I. Conocer y cumplir las disposiciones legales que se relacionen con el ejercicio de sus atribuciones, contenidas en esta Ley, sus reglamentos y demás ordenamientos aplicables, así como en los convenios y acuerdos que se suscriban en materia de seguridad pública y que se relacionen con el ámbito de sus atribuciones y competencias;
 
@@ -2003,107 +2003,113 @@ I. Conocer y cumplir las disposiciones legales que se relacionen con el ejercici
 
 II. Respetar irrestrictamente los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo honradez y respeto a los derechos humanos;
 
-III. Auxiliar a la Institución del Ministerio Público en la investigación de los delitos, cuando sea requerido formalmente para ello; será dicha autoridad quien ejerza bajo su más estricta responsabilidad el mando y supervisión de las tareas encomendadas;
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2016)</small>
 
-IV. Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+III. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
-V. Velar y proteger la vida e integridad física de las personas detenidas, en tanto se pongan a disposición del Ministerio Público o de la autoridad competente;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2016)</small>
 
-VI. Colaborar con las autoridades judiciales, electorales y administrativas de la Federación, el Estado y los Municipios, en el cumplimiento de sus funciones, únicamente cuando sean requeridos por escrito y de manera expresa para ello;
+IV. Auxiliar a la Institución del Ministerio Público en la investigación de los delitos, cuando sea requerido formalmente para ello; será dicha autoridad quien ejerza bajo su más estricta responsabilidad el mando y supervisión de las tareas encomendadas.
 
-VII. Brindar la orientación e información necesaria a las víctimas de cualquier delito o infracción, cerciorándose que cuenten con una atención adecuada y oportuna por parte de las Instituciones correspondientes;
+V. Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
 
-VIII. Velar por la protección de los menores, adultos mayores, enfermos, débiles o incapaces que se encuentran en situaciones de riesgo, amenaza o peligro en su integridad física y corporal y verificar que reciban el apoyo y cuidado de las instituciones y autoridades competentes;
+VI. Velar y proteger la vida e integridad física de las personas detenidas, en tanto se pongan a disposición del Ministerio Público o de la autoridad competente;
 
-IX. Cumplir sus funciones con absoluta imparcialidad, manteniendo respeto a la dignidad e integridad de las personas, evitando actos discriminatorios en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica, nacionalidad e ideología política;
+VII. Colaborar con las autoridades judiciales, electorales y administrativas de la Federación, el Estado y los Municipios, en el cumplimiento de sus funciones, únicamente cuando sean requeridos por escrito y de manera expresa para ello;
 
-X. Abstenerse de todo acto arbitrario y de limitar, indebidamente, las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+VIII. Brindar la orientación e información necesaria a las víctimas de cualquier delito o infracción, cerciorándose que cuenten con una atención adecuada y oportuna por parte de las Instituciones correspondientes;
 
-XI. Atender planteamientos e inquietudes de la ciudadanía respecto de la problemática social de la comunidad e informar a las dependencias u organismos que correspondan;
+IX. Velar por la protección de los menores, adultos mayores, enfermos, débiles o incapaces que se encuentran en situaciones de riesgo, amenaza o peligro en su integridad física y corporal y verificar que reciban el apoyo y cuidado de las instituciones y autoridades competentes;
 
-XII. Velar por la seguridad y protección de los ciudadanos y de la integridad de sus bienes;
+X. Cumplir sus funciones con absoluta imparcialidad, manteniendo respeto a la dignidad e integridad de las personas, evitando actos discriminatorios en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica, nacionalidad e ideología política;
 
-XIII. Mantenerse debidamente informado de la problemática delictiva que se genera en el ámbito específico de su asignación;
+XI. Abstenerse de todo acto arbitrario y de limitar, indebidamente, las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
-XIV. Conocer el Programa Estatal y los proyectos, estrategias u acciones que se relacionen directamente con el cumplimiento de sus atribuciones, tareas y asignaciones específicas;
+XII. Atender planteamientos e inquietudes de la ciudadanía respecto de la problemática social de la comunidad e informar a las dependencias u organismos que correspondan;
 
-XV. Participar en el diseño e instrumentación de los programas de prevención del delito a que se refiere esta Ley;
+XIII. Velar por la seguridad y protección de los ciudadanos y de la integridad de sus bienes;
 
-XVI. Facilitar la activa participación de la comunidad en las tareas que se relacionen con la seguridad pública;
+XIV. Mantenerse debidamente informado de la problemática delictiva que se genera en el ámbito específico de su asignación;
+
+XV. Conocer el Programa Estatal y los proyectos, estrategias u acciones que se relacionen directamente con el cumplimiento de sus atribuciones, tareas y asignaciones específicas;
+
+XVI. Participar en el diseño e instrumentación de los programas de prevención del delito a que se refiere esta Ley;
+
+XVII. Facilitar la activa participación de la comunidad en las tareas que se relacionen con la seguridad pública;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-XVII. Obtener el Certificado con efectos de Patente Policial y renovarlo en los términos de la ley aplicable, Asistir a los cursos de capacitación y formación continua y especializada que imparta la Universidad;
+XVIII. Obtener el Certificado con efectos de Patente Policial y renovarlo en los términos de la ley aplicable, Asistir a los cursos de capacitación y formación continua y especializada que imparta la Universidad;
 
-XVIII. Someterse, cuando lo ordenen sus superiores, a las pruebas de control de confianza y a los procedimientos de evaluación del desempeño, en los términos y condiciones que determina esta Ley;
+XIX. Someterse, cuando lo ordenen sus superiores, a las pruebas de control de confianza y a los procedimientos de evaluación del desempeño, en los términos y condiciones que determina esta Ley;
 
-XIX. Cumplir sin dilación ni objeción alguna las órdenes emitidas por sus superiores jerárquicos, siempre y cuando no sean contrarias a derecho;
+XX. Cumplir sin dilación ni objeción alguna las órdenes emitidas por sus superiores jerárquicos, siempre y cuando no sean contrarias a derecho;
 
-XX. Respetar a sus subordinados y ser ejemplo de honradez, disciplina, honor, lealtad a las instituciones y fiel observante de la legalidad;
+XXI. Respetar a sus subordinados y ser ejemplo de honradez, disciplina, honor, lealtad a las instituciones y fiel observante de la legalidad;
 
-XXI. Preservar el secreto de los asuntos que por razón del desempeño de su función tengan conocimiento, ajustándose a las excepciones que determinen las Leyes;
+XXII. Preservar el secreto de los asuntos que por razón del desempeño de su función tengan conocimiento, ajustándose a las excepciones que determinen las Leyes;
 
-XXII. Usar los uniformes e insignias de manera visible y notoria con las características y especificaciones que para el efecto se determinen;
+XXIII. Usar los uniformes e insignias de manera visible y notoria con las características y especificaciones que para el efecto se determinen;
 
-XXIII. Abstenerse de fomentar cualquier conducta individual o colectiva que afecte o sea contraria al correcto desempeño de sus atribuciones de brindar a la comunidad las tareas de seguridad y protección a que se refiere esta Ley;
+XXIV. Abstenerse de fomentar cualquier conducta individual o colectiva que afecte o sea contraria al correcto desempeño de sus atribuciones de brindar a la comunidad las tareas de seguridad y protección a que se refiere esta Ley;
 
-XXIV. Rechazar gratificaciones o dádivas para hacer o dejar de hacer algo relacionado con el desempeño de sus funciones;
+XXV. Rechazar gratificaciones o dádivas para hacer o dejar de hacer algo relacionado con el desempeño de sus funciones;
 
-XXV. Evitar cualquier acto de corrupción que atente y denigre la función policial;
+XXVI. Evitar cualquier acto de corrupción que atente y denigre la función policial;
 
-XXVI. Presentarse puntualmente al desempeño del servicio o comisión en el lugar debido;
+XXVII. Presentarse puntualmente al desempeño del servicio o comisión en el lugar debido;
 
-XXVII. Llevar consigo su porte de armas vigente, cuando esté en servicio;
+XXVIII. Llevar consigo su porte de armas vigente, cuando esté en servicio;
 
-XXVIII. Abstenerse de rendir informes falsos a sus superiores respecto del desempeño de sus funciones;
+XXIX. Abstenerse de rendir informes falsos a sus superiores respecto del desempeño de sus funciones;
 
-XXIX. Usar y mantener en buen estado el equipo móvil, radiotransmisor, arma de cargo, municiones, uniforme, insignias, identificaciones, chaleco, tolete y demás instrumento táctico-policial que le sea proporcionado por la corporación a la que pertenezcan, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo;
+XXX. Usar y mantener en buen estado el equipo móvil, radiotransmisor, arma de cargo, municiones, uniforme, insignias, identificaciones, chaleco, tolete y demás instrumento táctico-policial que le sea proporcionado por la corporación a la que pertenezcan, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo;
 
-XXX. Respetar las reglas de tránsito y usar las sirenas, luces y altavoz del vehículo a su cargo sólo en casos de emergencia; y
+XXXI. Respetar las reglas de tránsito y usar las sirenas, luces y altavoz del vehículo a su cargo sólo en casos de emergencia; y
 
 > <small>(ADICIONADA [N DE E. REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXI. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
+XXXII. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXII. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes;
+XXXIII. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXIII. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
+XXXIV. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXIV. Ejecutar los mandamientos judiciales y ministeriales;
+XXXV. Ejecutar los mandamientos judiciales y ministeriales;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXV. Obtener y mantener actualizado su Certificado Único Policial;
+XXXVI. Obtener y mantener actualizado su Certificado Único Policial;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXVI. Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre él funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
+XXXVII. Obedecer las órdenes de los superiores jerárquicos o de quienes ejerzan sobre él funciones de mando y cumplir con todas sus obligaciones, realizándolas conforme a derecho;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXVII. Responder, sobre la ejecución de las órdenes directas que reciba a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+XXXVIII. Responder, sobre la ejecución de las órdenes directas que reciba a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXXVIII. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+XXXIX. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-XXXIX. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
+XL. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-XL. Denunciar ante la Contraloría y Transparencia Gubernamental del Gobierno del Estado, la Contraloría Municipal del municipio respectivo o ante el Ministerio Público, según corresponda, las conductas relacionadas con actos de corrupción, y
+XLI. Denunciar ante la Contraloría y Transparencia Gubernamental del Gobierno del Estado, la Contraloría Municipal del municipio respectivo o ante el Ministerio Público, según corresponda, las conductas relacionadas con actos de corrupción, y
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
 
-XLI. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
+XLII. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2016)</small>
 
@@ -3746,3 +3752,9 @@ P.O. 15 DE ABRIL DE 2016.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Municipios del Estado de Nuevo León, deberán iniciar la regularización de la Certificación con efectos de Patente Policial del personal en activo que no cuente con ella, en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156. SE ADICIONA UNA FRACCIÓN III, PASANDO LA ACTUAL TERCERA A SER LA CUARTA, RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 155 DE LA LEY DE SEGURIDAD PÚBLICA; Y SE ADICIONA UNA FRACCIÓN XVII, PASANDO LA ACTUAL XVII A SER LA XVIII RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 6 DE LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El Presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
