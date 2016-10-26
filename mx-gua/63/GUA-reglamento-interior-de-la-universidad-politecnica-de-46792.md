@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-politecnica-de-46792"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-01"
-last_updated: "2005-11-01"
+last_updated: "2016-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 1 de noviembre de 2005.
 
@@ -585,7 +585,9 @@ El órgano de vigilancia de la Universidad tendrá el carácter de Contraloría 
 
 La Contraloría Interna, además de las facultades conferidas en el Decreto Gubernativo de Creación de la Universidad tendrá, las siguientes:
 
-I.- Elaborar el programa anual de auditoria y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia le señale la Secretaría de la Gestión Pública;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+I. Elaborar el Programa Anual de Auditoria y remitirlo al Titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
 
 II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la Universidad se apeguen a las disposiciones legales aplicables;
 
@@ -597,17 +599,25 @@ V.- Efectuar el análisis e interpretación de los estados financieros de la Uni
 
 VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la Universidad;
 
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la Universidad, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios; así como someter a consideración del Titular de la Secretaría de la Gestión Pública, el proyecto de resolución de los mismos;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
+VII. Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la Universidad, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios; así como someter a consideración del Titular de la Secretaría responsable del control interno del Ejecutivo, el proyecto de resolución de los mismos;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 IX.- Fiscalizar los recursos federales ejercidos por la Universidad derivados de los acuerdos o convenios respectivos, en su caso;
 
 X.- Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones a la gestión de la Universidad para asegurar su cumplimiento;
 
-XI.- Informar periódicamente a la Junta Directiva y a la Secretaría de la Gestión Pública del desempeño de sus funciones; y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
-XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría de la Gestión Pública.
+XI. Informar periódicamente a la Junta Directiva y a la Secretaría responsable del control interno del Ejecutivo del desempeño de sus funciones; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
+XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
 
 ### CAPÍTULO NOVENO (SIC). DE LAS REFORMAS
 
@@ -640,3 +650,11 @@ RICARDO TORRES ORIGEL
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
