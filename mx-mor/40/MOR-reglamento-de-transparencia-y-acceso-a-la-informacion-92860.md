@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transparencia-y-acceso-a-la-informacion-92860"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-27"
-last_updated: "2013-02-27"
+last_updated: "2016-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE LA COMISION ESTATAL DEL AGUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN ESTATAL DEL AGUA, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 27 de febrero de 2013.
 
@@ -471,7 +473,7 @@ XIV. Las demás necesarias para facilitar, agilizar y garantizar el acceso a la 
 
 ###### Artículo 46.
 
-La UDIP deberá habilitar por lo menos en su oficina concentradora con (sic) un sistema de cómputo para la consulta directa y gratuita de los ciudadanos a la página de Internet de la Comisión Estatal del Agua. y de la propia UDIP.
+La UDIP deberá habilitar por lo menos en su oficina concentradora con (sic) un sistema de cómputo para la consulta directa y gratuita de los ciudadanos a la página de Internet de la Comisión Estatal del Agua, y de la propia UDIP.
 
 ###### Artículo 47.
 
@@ -690,3 +692,13 @@ EN REPRESENTACIÓN DEL PRESIDENTE MUNICIPAL CONSTITUCIONAL DE EMILIANO ZAPATA, M
 C. JAIME ARTURO DORANTES SALINAS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE CREA LA UNIDAD DE TRANSPARENCIA DE LA COMISIÓN ESTATAL DEL AGUA, SE INTEGRA EL COMITÉ DE TRANSPARENCIA Y EXPIDE EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN ESTATAL DEL AGUA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Acuerdo publicado con fecha 27 de febrero del 2013 en el Periódico Oficial "Tierra y Libertad" número 5071, así como cualquier otra disposición que contravenga o se oponga (sic) lo dispuesto en el presente Acuerdo.
