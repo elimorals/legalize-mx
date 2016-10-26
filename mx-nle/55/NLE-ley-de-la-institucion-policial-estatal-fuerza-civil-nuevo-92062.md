@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-institucion-policial-estatal-fuerza-civil-nuevo-92062
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-19"
-last_updated: "2015-12-02"
+last_updated: "2016-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 19 de enero de 2013.
 
@@ -135,31 +135,35 @@ XV. Solicitar a las autoridades correspondientes, informes y documentos que coad
 
 XVI. Proceder a la detención en los casos de flagrancia del delito y poner inmediatamente a disposición de las autoridades competentes a las personas detenidas, los bienes, objetos o instrumentos que se hayan asegurado y que se encuentren bajo su custodia, en los términos del (sic) los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos y 15 de la propia del Estado de Nuevo León;
 
-XVII. Auxiliar, bajo la conducción y mando del Ministerio Público, en las investigaciones de los delitos cometidos, así como brindar apoyo en las actuaciones que éste le solicite conforme a las normas aplicables;
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2016)</small>
 
-XVIII. Informar a la persona, al momento de su detención, sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
+XVII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
-XIX. Inscribir de inmediato la detención que realice en los registros correspondientes, así como remitir la información ante la instancia según corresponda al hecho;
+XVIII. Auxiliar, bajo la conducción y mando del Ministerio Público, en las investigaciones de los delitos cometidos, así como brindar apoyo en las actuaciones que éste le solicite conforme a las normas aplicables;
 
-XX. Elaborar el Informe Policial Homologado, partes policiales y demás documentos con los requisitos de fondo y forma que establezcan las disposiciones aplicables;
+XIX. Informar a la persona, al momento de su detención, sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
 
-XXI. Incorporar a las bases de datos de los sistemas nacional y estatal de seguridad pública, la información que pueda ser útil en la investigación de los delitos así como para su prevención;
+XX. Inscribir de inmediato la detención que realice en los registros correspondientes, así como remitir la información ante la instancia según corresponda al hecho;
 
-XXII. Coordinarse en los términos que señala el Sistema Nacional de Seguridad Pública, con las autoridades de los tres órdenes de gobierno, para el intercambio de información contenida en documentos, bases de datos o sistemas de información que sean útiles para el desempeño de sus funciones;
+XXI. Elaborar el Informe Policial Homologado, partes policiales y demás documentos con los requisitos de fondo y forma que establezcan las disposiciones aplicables;
 
-XXIII. Preservar el lugar de los hechos, la integridad de los indicios, huellas, vestigios, instrumentos, objetos o productos del delito, debiendo dar aviso inmediato al Ministerio Público. Si éste lo instruye, llevar a cabo los procesos de fijación, señalamiento, levantamiento y embalaje, conforme al procedimiento previamente establecido, y hacer entrega de los mismos al Ministerio Público o la policía investigadora bajo su mando;
+XXII. Incorporar a las bases de datos de los sistemas nacional y estatal de seguridad pública, la información que pueda ser útil en la investigación de los delitos así como para su prevención;
 
-XXIV. Verificar la información que se reciba sobre hechos que puedan ser constitutivos de delito para, en su caso, dar aviso al Ministerio Público o la policía investigadora bajo su mando;
+XXIII. Coordinarse en los términos que señala el Sistema Nacional de Seguridad Pública, con las autoridades de los tres órdenes de gobierno, para el intercambio de información contenida en documentos, bases de datos o sistemas de información que sean útiles para el desempeño de sus funciones;
 
-XXV. Atender los mandatos de las autoridades judiciales, con motivo de sus funciones;
+XXIV. Preservar el lugar de los hechos, la integridad de los indicios, huellas, vestigios, instrumentos, objetos o productos del delito, debiendo dar aviso inmediato al Ministerio Público. Si éste lo instruye, llevar a cabo los procesos de fijación, señalamiento, levantamiento y embalaje, conforme al procedimiento previamente establecido, y hacer entrega de los mismos al Ministerio Público o la policía investigadora bajo su mando;
 
-XXVI. Participar en la implementación y seguimiento de las medidas cautelares solicitadas por las autoridades judiciales competentes;
+XXV. Verificar la información que se reciba sobre hechos que puedan ser constitutivos de delito para, en su caso, dar aviso al Ministerio Público o la policía investigadora bajo su mando;
 
-XXVII. Proporcionar atención y auxilio inmediato a víctimas u ofendidos del delito, adoptando las medidas necesarias para evitar que se ponga en peligro su integridad física y psicológica y considerar los elementos de prueba que puedan aportar en el momento de la intervención policial y remitirlos sin demora al Ministerio Público;
+XXVI. Atender los mandatos de las autoridades judiciales, con motivo de sus funciones;
 
-XXVIII. Coadyuvar con las autoridades ambientales en la preservación del equilibrio ecológico y la protección al ambiente, en caso de alguna contingencia o peligro inminente que comprometa los recursos naturales dentro del territorio estatal; y
+XXVII. Participar en la implementación y seguimiento de las medidas cautelares solicitadas por las autoridades judiciales competentes;
 
-XXIX. Las demás que le confieran esta y otras leyes.
+XXVIII. Proporcionar atención y auxilio inmediato a víctimas u ofendidos del delito, adoptando las medidas necesarias para evitar que se ponga en peligro su integridad física y psicológica y considerar los elementos de prueba que puedan aportar en el momento de la intervención policial y remitirlos sin demora al Ministerio Público;
+
+XXIX. Coadyuvar con las autoridades ambientales en la preservación del equilibrio ecológico y la protección al ambiente, en caso de alguna contingencia o peligro inminente que comprometa los recursos naturales dentro del territorio estatal; y
+
+XXX. Las demás que le confieran esta y otras leyes.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN DE LA FUERZA CIVIL
 
@@ -1054,3 +1058,9 @@ ALFREDO FLORES GÓMEZ
 P.O. 2 DE DICIEMBRE DE 2015.
 
 Único.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156. SE ADICIONA UNA FRACCIÓN III, PASANDO LA ACTUAL TERCERA A SER LA CUARTA, RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 155 DE LA LEY DE SEGURIDAD PÚBLICA; Y SE ADICIONA UNA FRACCIÓN XVII, PASANDO LA ACTUAL XVII A SER LA XVIII, RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 6 DE LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El Presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
