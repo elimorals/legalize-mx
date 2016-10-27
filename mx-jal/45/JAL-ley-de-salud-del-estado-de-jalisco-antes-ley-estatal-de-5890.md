@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2016-10-11"
+last_updated: "2016-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE SALUD DEL ESTADO DE JALISCO - ANTES LEY ESTATAL DE SALUD-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SALUD DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -561,9 +561,15 @@ III. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
-###### Art. 22.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 22.
 
 Para la organización y administración de los servicios de salud, se definirán criterios de distribución de usuarios, de regionalización, de escalonamiento de los servicios, universalización de cobertura y coordinación interinstitucional.
+
+La Secretaría podrá ofrecer atención domiciliaria de conformidad al reglamento, cuando por imposibilidad psíquica o física los pacientes no puedan acudir a los servicios de salud pública y atención médica o se trate de campañas de medicina preventiva.
 
 ###### Art. 23.
 
@@ -4864,3 +4870,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25889/LXI/16 QUE REFORMA EL ARTÍCULO 22 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. EI presente decreto entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial "EI Estado de Jalisco".
