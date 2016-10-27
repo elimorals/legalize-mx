@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-para-el-ingreso-promocion-y-desarrollo-de-11218
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-02"
-last_updated: "2016-02-02"
+last_updated: "2016-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-01-22"
 
 ACUERDO GENERAL PARA EL INGRESO, PROMOCIÓN Y DESARROLLO DE LA CARRERA JUDICIAL CON PARIDAD DE GÉNERO, EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 2 de febrero de 2016.
 
@@ -242,6 +242,10 @@ La lista se publicará en el portal electrónico del Centro de Capacitación con
 La lista será actualizada por el Centro de Capacitación con la información que le remita, de manera mensual, la Coordinación de Recursos Humanos, respecto de las altas y bajas en las categorías de carrera judicial, de forma tal que contenga los nombres de las personas que estando habilitadas para desempeñar un cargo de carrera judicial no lo desempeñen.
 
 El personal de carrera judicial del Tribunal Electoral que por alguna razón cause baja, conservará el carácter de habilitado, por un periodo de tres años posteriores a la determinación de dicha baja. Esta prerrogativa no será aplicable cuando la conclusión de sus servicios sea consecuencia de responsabilidad administrativa, laboral o penal.
+
+> <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2016)</small>
+
+El personal que ingrese al Sistema de Carrera Judicial por los mecanismos establecidos en los artículos 20 y 21 del presente Acuerdo, pasará a formar parte de la lista de habilitados sin que exista un período preestablecido para la conclusión de la habilitación.” [Adicionado mediante Acuerdo 273/S9(13-IX-2016)].
 
 De los Exámenes de Aptitud
 
@@ -602,3 +606,17 @@ CERTIFICA
 Que el presente documento en 26 fojas, corresponde al Acuerdo General para el Ingreso, Promoción y Desarrollo de la Carrera Judicial con Paridad de Género, en el Tribunal Electoral del Poder Judicial de la Federación", aprobado por la Comisión de Administración mediante acuerdo 009/S1(19-I-2016), emitido en la Primera Sesión Ordinaria celebrada el 19 de enero de 2016, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE.
 
 México, Distrito Federal, 22 de enero de 2016.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Jorge Enrique Mata Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “ADICIÓN AL ACUERDO GENERAL PARA EL INGRESO, PROMOCIÓN Y DESARROLLO DE LA CARRERA JUDICIAL CON PARIDAD DE GÉNERO, EN EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EL 2 DE FEBRERO DE 2016”.]
+
+PRIMERO. La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan la adición aprobada mediante el presente acuerdo.
+
+TERCERO. Para su mayor difusión, publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
+
+CUARTO. Todas aquellas personas que se encontraban en la lista de habilitados al momento de entrar en vigor el Acuerdo General para el Ingreso, Promoción y Desarrollo de la Carrera Judicial con Paridad de Género, en el Tribunal Electoral del Poder Judicial de la Federación, que por alguna razón hayan causado baja de la plaza de Carrera Judicial, conservarán su habilitación por un período de tres años, posterior a la determinación de dicha baja, en términos de lo dispuesto por el párrafo cuarto del artículo 23 del propio Acuerdo General.
