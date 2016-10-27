@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-vegetal-del-46366"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-30"
-last_updated: "2015-11-12"
+last_updated: "2016-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado, el martes 30 de agosto de 2005
 
@@ -657,8 +657,16 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
 
-TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrá un plazo de ciento veinte días naturales contados a partir del 1° de enero de 2016 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
+
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, el Ejecutivo Estatal mediante acuerdo determinará los plazos para la inscripción de las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrán un plazo hasta el día 31 de diciembre del año 2016 para quedar debidamente inscritas en el Registro y obtener su "Credencial Única Agroalimentaria".
 
 CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
 
 QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias que se expidan durante el año 2015 tendrán vigencia por tres años.
+
+P.O. 27 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25897/LXI/16 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 25538/LX/2015”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
