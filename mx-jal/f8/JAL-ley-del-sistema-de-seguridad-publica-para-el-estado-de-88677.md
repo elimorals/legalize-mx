@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2016-10-11"
+last_updated: "2016-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -129,9 +127,19 @@ XVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y 
 
 XIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
 
-XX. Registro: el Registro Estatal de Información sobre Seguridad Pública; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
 
-XXI. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública.
+XX. Policía Procesal: elemento operativo cuya función será garantizar la seguridad y la paz en los recintos judiciales; realizar los traslados de personas procesadas y sentenciadas a los recintos judiciales en donde se celebrarán sus audiencias; restablecer el orden durante el desahogo de audiencias, previa instrucción; revisar que quienes ingresen a las salas no porten armas, estén en estado de ebriedad o bajo el influjo de estupefacientes que pongan en riesgo la seguridad de los presentes; mantener la secrecía de lo ocurrido durante el desahogo de la audiencia y cumplir los mandamientos expresamente ordenados por el juez o autoridad judicial de adscripción, siempre que no le correspondan a otros cuerpos de seguridad pública;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
+
+XXI. Registro: el Registro Estatal de Información sobre Seguridad Publica; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2016)</small>
+
+XXII. Sistema de Información: el Sistema Estatal de Información sobre
+
+Seguridad Pública.
 
 ###### Artículo 4.
 
@@ -469,11 +477,17 @@ Los cuerpos de seguridad pública de Jalisco son:
 
 I. La Fiscalía General:
 
-a) La Policía Estatal, adscrita a la Comisaría, con todas las unidades y agrupamientos que prevea su reglamento, y
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+a) La Policía Estatal, adscrita a la Comisaria, con todas las unidades y agrupamientos que prevea su reglamento;
 
-b) Los cuerpos operativos adscritos a la Fiscalía de Reinserción Social, con todas las unidades y agrupamientos que prevea su reglamento;
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
+
+b) Los cuerpos operativos adscritos a la Fiscalía de Reinserción Social, con todas las unidades y agrupamientos que prevea su reglamento; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2016)</small>
+
+c) Policía procesal, aquella adscrita a los tribunales de Enjuiciamiento Penal, para dar cumplimiento a lo establecido en el artículo 3, fracción XX de la presente Ley;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1364,6 +1378,10 @@ La profesionalización de los integrantes de las instituciones de seguridad púb
 Es obligación de los integrantes de las instituciones de seguridad pública del Estado y los municipios, asistir a las instituciones académicas a fin de adquirir los conocimientos técnicos, prácticos y científicos que permitan su constante actualización y adiestramiento.
 
 La formación profesional en materia de seguridad pública en todos sus niveles, modalidades y características será competencia exclusiva del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2016)</small>
+
+El personal integrante de la policía procesal deberá ser capacitado y especializado en labores de guarda penitenciaria, custodia y traslado así como en materia de derechos humanos en el sistema penitenciario.
 
 ### Capítulo VI. De la certificación
 
@@ -2568,3 +2586,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25893/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 26 Y 85 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
