@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-901
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-15"
-last_updated: "2013-07-04"
+last_updated: "2016-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 24426/LX/13, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1.° DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL DECRETO 25896/LXI/16 QUE EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 27 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 15 de noviembre de 2012.
 
@@ -1880,3 +1880,11 @@ P.O. 4 DE JULIO DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El Poder Ejecutivo y el Poder Judicial, deberán de coordinarse para llevar a cabo, en la medida de sus posibilidades actuales, las obligaciones que establece la ley.
+
+P.O. 27 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25896/LXI/16 QUE EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Remítase copia de la presente declaratoria al Honorable Congreso de la Unión.
