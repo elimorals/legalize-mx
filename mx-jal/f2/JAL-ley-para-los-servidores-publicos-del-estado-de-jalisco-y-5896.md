@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2016-10-11"
+last_updated: "2016-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1165,13 +1165,19 @@ XVI. Realizar los descuentos correspondientes, vía nómina, de las inasistencia
 
 XVII. Realizar los movimientos, trámites o procesos administrativos para el cumplimiento de las resoluciones dictadas en el procedimiento establecido en el artículo 26 de esta ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
 
-XVIII. Implementar registros de asistencia que den certeza al trabajador día a día, de donde el trabajador obtenga una constancia expresa de lo asentado, y
+XVIII. Implementar registros de asistencia que den certeza al trabajador día a día, de donde el trabajador obtenga una constancia expresa de lo asentado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
 
-XIX. Permitir la consulta y entregar al servidor público copia del expediente laboral, a su costa.
+XIX. Permitir la consulta y entregar al servidor público copia del expediente laboral, a su costa; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2016)</small>
+
+XX. Otorgar al trabajador premiso (sic) por luto, de cuatro días naturales consecutivos posteriores al deceso, de sus padres, hijos, hermanos, cónyuge, concubina o concubinario.
+
+El trabajador acreditará el evento dentro de los quince días hábiles siguientes, con la presentación ante el área administrativa correspondiente, de una copia certificada del acta de defunción.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
@@ -2782,3 +2788,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25879/LXI/16 QUE REFORMA LOS ARTÍCULOS 55 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y 61 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25891/LXI/16 QUE REFORMA EL ARTÍCULO 56 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial “El Estado de Jalisco”.
