@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proyectos-de-prestacion-de-servicios-para-el-estado-7545
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-11"
-last_updated: "2016-07-01"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 11 de junio de 2010.
 
@@ -191,9 +191,11 @@ V. Las demás previsiones para la adecuada planeación y operación de los proye
 
 Sujeción normativa del ejercicio del gasto público para los proyectos de prestación de servicios
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-El ejercicio del gasto público para los proyectos de prestación de servicios se sujetará a las disposiciones específicas del presupuesto de egresos del Estado o de los municipios, según sea el caso, para el ejercicio fiscal correspondiente, así como a lo previsto en esta ley y sus reglamentos, la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, la Ley Orgánica Municipal para el Estado de Guanajuato, según sea el caso, y a las demás disposiciones legales y administrativas aplicables.
+El ejercicio del gasto público para los proyectos de prestación de servicios se sujetará a las disposiciones específicas del presupuesto de egresos del Estado o de los municipios, según sea el caso, para el ejercicio fiscal correspondiente, así como a lo previsto en esta ley y sus reglamentos, la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, la Ley Orgánica Municipal para el Estado de Guanajuato, la Ley de Deuda Pública para e (sic) Estado y los Municipios de Guanajuato, según sea el caso, y a las demás disposiciones legales y administrativas aplicables.
 
 Autoridades facultadas para emitir lineamientos
 
@@ -221,11 +223,11 @@ La Secretaría, de conformidad con la Ley General de Contabilidad Gubernamental,
 
 Obligación y alcances del Análisis de Comparación Público-Privado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 13.
 
-Los sujetos de la ley deberán elaborar para cada proyecto de prestación de servicios que pretendan implementar, un Análisis de Comparación Público-Privado, de conformidad con los lineamientos que al efecto emita la Secretaría en el ámbito estatal o la Tesorería en el municipal.
+Los sujetos de la ley deberán elaborar para cada proyecto de prestación de servicios que pretendan implementar, un Análisis de Comparación Público-Privado, de conformidad con los lineamientos que al efecto emita la Secretaría en el ámbito estatal o la Tesorería en el municipal, así como a lo establecido en el artículo 33 de la Ley de Deuda Pública para el Estado y los Municipios de Guanajuato.
 
 El Análisis de Comparación Público-Privado deberá demostrar si el proyecto de prestación de servicios generará o no beneficios netos iguales o mayores a los que se obtendrían a través de un proyecto financiado con recursos presupuestales o crediticios bajo esquemas de inversión pública tradicional y que atenderá las mismas necesidades que éstos.
 
@@ -339,9 +341,11 @@ Una vez validado el desarrollo de un proyecto de prestación de servicios en el 
 
 Elementos mínimos de la solicitud al Congreso del Estado
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 22.
 
-La iniciativa de decreto contendrá como mínimo:
+La iniciativa de decreto contendrá, además de los requisitos señalados en el artículo 33 de la Ley de Deuda Pública para el Estado y los Municipios de Guanajuato, como mínimo los siguientes:
 
 I. Una exposición de motivos;
 
@@ -364,6 +368,10 @@ Decreto de aprobación
 El Decreto que emita el Congreso del Estado deberá establecer la aprobación para llevar a cabo el proyecto de prestación de servicios; para asumir el compromiso presupuestal de pago plurianual que permita hacer frente a los pagos periódicos que deberá recibir el inversionista proveedor durante los ejercicios fiscales subsecuentes que abarque el contrato de prestación de servicios; y para que el proyecto sea considerado como un proyecto de inversión pública, en los términos de los artículos 63 fracción XIII y 117 fracción VII de la Constitución Política para el Estado.
 
 En dicho Decreto también deberá señalarse que en los presupuestos de egresos de los años que correspondan al período de vigencia del contrato de prestación de servicios respectivo, deberá establecerse la partida presupuestal suficiente que servirá como fuente de pago del mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Para la aprobación del Decreto, el Congreso del Estado deberá sujetarse en lo conducente a lo dispuesto en la Ley de Deuda Pública para el Estado y los Municipios de Guanajuato.
 
 Una vez aprobado el Decreto se remitirá al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado, para efectos de su entrada en vigor.
 
@@ -964,3 +972,11 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO CUARTO DEL “DECRETO NÚMERO 115, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; LEY DE COORDINACIÓN FISCAL DEL ESTADO; Y SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente ARTÍCULO CUARTO del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
