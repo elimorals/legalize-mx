@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-social-del-estado-de-queretaro-107069"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-27"
-last_updated: "2015-10-15"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE OCTUBRE DE 2015 NO APLICA AL ARTICULADO DE LA REFORMA PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2015.
 
@@ -749,7 +747,9 @@ La Secretaría realizará las mediciones de la evolución de la pobreza y el des
 
 ## Título Séptimo. Evaluación de la política social
 
-### Capítulo Único
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+### Capítulo Primero. De la evaluación
 
 ###### Artículo 56.
 
@@ -795,11 +795,35 @@ VIII. Los criterios generales del Consejo Nacional de Evaluación de la Polític
 
 Los resultados de la evaluación formarán parte del Programa de Investigación e Información para el Desarrollo Social, se harán públicos y se presentarán ante la Legislatura del Estado de Querétaro y la Secretaría de Desarrollo Social del Poder Ejecutivo Federal.
 
-### Capítulo I. Contraloría Social
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+### Capítulo Segundo. De la definición y medición de la pobreza
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Artículo 60 bis. Los lineamientos y criterios que establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social para la definición, identificación y medición de la pobreza son de aplicación obligatoria para todas las autoridades y dependencias públicas en el Estado que de conformidad con este ordenamiento o demás ordenamientos aplicables, participen en la ejecución de los programas de desarrollo social, y deberán utilizar la información que genere el Instituto Nacional de Estadística, Geografía e Informática, independientemente de otros datos que se estime conveniente, al menos sobre los siguientes indicadores:
+
+I. Ingreso corriente per cápita;
+
+II. Rezago educativo promedio en el hogar;
+
+III. Acceso a los servicios de salud;
+
+IV. Acceso a la seguridad social;
+
+V. Calidad y espacios de la vivienda;
+
+VI. Acceso a los servicios básicos en la vivienda;
+
+VII. Acceso a la alimentación nutritiva y de calidad;
+
+VIII. Grado de cohesión social; y
+
+IX. Grado de Accesibilidad a carretera pavimentada.
 
 ## Título Octavo. Instancias de inconformidad
 
-### Capítulo II. Denuncia ciudadana
+### Capítulo I. Contraloría Social
 
 ###### Artículo 61.
 
@@ -809,7 +833,7 @@ La Contraloría Social es un órgano dependiente de la Secretaría de la Contral
 
 Las contralorías internas u órganos internos de control de las dependencias y entidades del Poder Ejecutivo del Estado y las de los Municipios, integrarán al inicio de cada ejercicio fiscal, en su programa anual de auditoría, las acciones que consideren necesarias para verificar el ejercicio de los recursos públicos destinados al desarrollo social, con el cumplimiento de los objetivos y metas señaladas en el plan y los programas, así como de la debida observancia de esta Ley.
 
-### Capítulo III. Infracciones y sanciones
+### Capítulo II. Denuncia ciudadana
 
 ###### Artículo 63.
 
@@ -825,7 +849,7 @@ Toda denuncia tendrá siempre una respuesta por escrito. Para la presentación, 
 
 En caso de que la Secretaría reciba una denuncia sobre hechos que no sean de su competencia, ésta deberá remitirla a la autoridad competente, para su conocimiento.
 
-### Capítulo IV. Medios de defensa
+### Capítulo III. Infracciones y sanciones
 
 ###### Artículo 66.
 
@@ -868,6 +892,8 @@ La Secretaría, los servidores públicos y los ciudadanos deberán denunciar ant
 ###### Artículo 70.
 
 Cuando los representantes legales o personal autorizado por organizaciones proporcionen información falsa con el objeto de recibir indebidamente los apoyos contenidos en los programas de desarrollo social, las dependencias y entidades de la administración pública estatal procederán a suspender, en lo sucesivo, la ministración de los mismos. En caso de que ya se hubieren otorgado, solicitarán su reintegro, sin perjuicio de que se apliquen las sanciones que resulten procedentes.
+
+### Capítulo IV. Medios de defensa
 
 ###### Artículo 71.
 
@@ -942,3 +968,11 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día 1 de octu
 Artículo Segundo. Se autoriza al titular del Poder Ejecutivo del Estado de Querétaro para que, a través de la Secretaría de Planeación y Finanzas, realice los ajustes pertinentes que garanticen que la Oficina de la Gubernatura, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para el inicio de sus funciones y el desempeño de sus atribuciones, a partir del 1 de octubre de 2015.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL TÍTULO SÉPTIMO DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente ley.
