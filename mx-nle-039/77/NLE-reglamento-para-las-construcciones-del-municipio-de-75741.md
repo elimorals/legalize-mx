@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-construcciones-del-municipio-de-75741"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-21"
-last_updated: "2016-02-27"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,529 +23,179 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
+LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de junio de 2010.
+Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de diciembre de 2018.
 
-EL C. PRESIDENTE MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN, FERNANDO ALEJANDRO LARRAZABAL BRETÓN, A LOS HABITANTES DE ESTE MUNICIPIO HACE SABER:
+DECRETO 2585
 
-QUE EL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY, EN SESIÓN ORDINARIA CELEBRADA EL DÍA 08 DE JUNIO DE 2010, APROBÓ EL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN; EL CUAL A CONTINUACIÓN SE TRANSCRIBE:
+EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-A C U E R D O S:
+D E C R E T A:
 
-PRIMERO: Se aprueba el Reglamento para las Construcciones del Municipio de Monterrey, Nuevo León, en los siguientes términos:
+SE EXPIDE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 1.
 
-Este ordenamiento es de orden público e interés social y tiene por objeto, establecer las reglas para las construcciones que se lleven a cabo en el Municipio de Monterrey:
+La presente Ley es de orden público e interés general y tiene por objeto agilizar, accesibilizar y simplificar los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal, promoviendo y fomentando:
 
-I. Cumplir con las disposiciones para la construcción, instalación, modificación, ampliación, conservación, reparación o demolición de edificaciones públicas o privadas;
+I. El uso de medios electrónicos en las relaciones entre el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier dependencia o entidad de la administración pública estatal o municipal, y entre éstos y los particulares, y
 
-II. El correcto uso de la vía pública donde se ejecuten trabajos de construcción, implementando medidas de protección al peatón, según la naturaleza de la obra, incluyendo los señalamientos respectivos;
-
-III. Para garantizar las condiciones de habitabilidad, funcionamiento, higiene, comunicación y seguridad estructural de las edificaciones;
-
-IV. Establecer los requerimientos para cada tipo de edificación, así como las normas técnicas que deberán de cumplir los proyectos de construcción;
-
-V. Para la revisión de la seguridad y condiciones de servicio de las estructuras; y,
-
-VI. Expedir licencias de construcción para las obras públicas o privadas que se ejecuten.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2013)</small>
+II. El uso de la firma electrónica certificada, su eficacia jurídica y la prestación de servicios de certificación relacionados con la misma.
 
 ###### Artículo 2.
 
-Para los efectos de este Reglamento se entiende por:
+Son sujetos de esta Ley:
 
-I. (DEROGADA, P.O. 24 DE MAYO DE 2013)
+I. El Poder Ejecutivo;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+II. El Poder Legislativo;
 
-II. Ampliación: Incremento de metros cuadrados de construcción de una edificación.
+III. El Poder Judicial;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+IV. Los Organismos Autónomos;
 
-III. Asesor: Persona física o moral, con los conocimientos técnicos adecuados para responder en forma solidaria, en lo relativo a la seguridad estructural, diseño urbano, diseño arquitectónico, instalaciones, así como estudios técnicos de impacto vial, de impacto ambiental, hidrológicos o hidráulicos, de mecánica de suelos y geológicos o geotécnicos, según sea el caso, y deberá cumplir con los requisitos establecidos en el presente Reglamento y demás ordenamientos jurídicos aplicables a la materia;
+V. Los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+VI. Cualquier dependencia o entidad de la administración pública Estatal o municipal, y
 
-IV. Centro de Apuesta: Establecimiento cuya atracción principal son los juegos de azar, los juegos más populares son: la ruleta, el black jack, el póker, las máquinas tragamonedas y las apuestas deportivas, o en donde el jugador apuesta una suma de dinero recibiendo o no una recompensa monetaria o en especie, dependiendo del resultado de éste. A estos establecimientos también se les denomina casinos, salas de sorteos, casas de juego y/o similares, indistintamente. Asi como las que se señalan en la Ley Federal de Juegos y Sorteos.
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-V. Construcción: Obra o instalación que transforme el estado actual o natural de un lote o predio con objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-VI. Construcción Riesgosa: Instalación o construcción, que por su inestabilidad, posición o falla, esté en condiciones de provocar daños inminentes a personas o instalaciones;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-VII. Demolición: El derribo de superficies cubiertas y de elementos estructurales de la edificación, ya sea con el fin de descargo en el calculo del impuesto predial, efectuar nuevas construcciones, o darle aprovechamiento distinto al inmueble;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-VIII. Director Responsable de Obra: Persona física reconocida por la Ley, con la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, construir y supervisar las obras de edificación y urbanización, avalando que éstas cumplan con lo establecido por la Ley, este Reglamento, los planes y programas de desarrollo urbano y demás disposiciones de la materia;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-IX. Edificación: Es aquella obra terminada que se encuentre dentro de un lote o predio;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-X. Espacio público: Es aquel destinado para el libre tránsito, a la utilización común y al goce de todos los habitantes en general;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XI. Falla: El agotamiento de la capacidad de carga de una estructura que provoque daños irreversibles en ella;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XII. Inmueble: El terreno, la edificación y construcción que en él se encuentran;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XIII. Inspector: El personal comisionado por cualquiera de las autoridades encargadas de la aplicación de este Reglamento, responsable de la inspección y vigilancia, ejecución de las medidas de seguridad y sanciones a las obras de construcción y demás instalaciones públicas y privadas, contempladas por la Ley, el Reglamento y el Plan o Programa;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XIV. Ley: La Ley de Desarrollo Urbano del Estado de Nuevo León;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XV. Licencia: Es el acto administrativo mediante el cual, la autoridad resuelve la solicitud para las construcciones de las reguladas por la Ley y en el presente Reglamento;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XVI. Lote: Terreno producto de un fraccionamiento, subdivisión, parcelación y demás figuras previstas en la Ley;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XVII. Modificación: El cambio o variación de un proyecto de construcción previamente autorizado;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XVIII. Municipio: El Municipio de la Ciudad de Monterrey, Nuevo León;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XIX. Normas técnicas: Las normas relativas a la construcción publicadas por organismos técnicos, aplicables a las construcciones, tales como: Norma Oficial Mexicana, ASTM, IMCYC (Instituto Mexicano del Cemento y el Concreto), FOVI y demás Manuales y Estudios técnicos.
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XX. Ochavo: Es el achaflanado o redondeo en las esquinas formadas por el cruce de dos vialidades, adecuada para las maniobras vehiculares de vuelta derecha. Las dimensiones mínimas para los ochavos deberán ser de 3-tres metros por lados, pudiéndose sustituir la línea recta de un ochavo por una curva circular o compuesta, la cual deberá tener un radio de giro mínimo de 3-tres metros medido en el límite de la propiedad correspondiente a las vías que forman la esquina. Las dimensiones de los ochavos podrán aumentar, conforme a las jerarquías viales de las calles que se entrecrucen;
-
-> <small>N. DE E. VÉASE IMAGEN EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 8.</small>
-
-> <small>N. DE E. VÉASE MODIFICACIONES A LA IMAGEN EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 38.</small>
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXI. Poseedor: Es la persona física o moral que sin ser el propietario, adquiere los derechos sobre la utilización o aprovechamiento de un bien inmueble en los términos que establece el Código Civil;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXII. Plano Oficial: Documento que contiene el proyecto que constituye, describe, grafica y complementa los lineamientos, obligaciones, exigencias urbanísticas que se establecen en la licencia de construcción;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXIII. Plan o Programa: Plan o Programa de Desarrollo Urbano del Municipio de Monterrey o Plan Parcial que de éste derive, que se encuentren vigentes;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXIV. Propietario: El titular o titulares de los derechos de propiedad que se tengan sobre un determinado bien inmueble;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXV. Prórroga: Es la prolongación de la vigencia de una licencia, por un tiempo determinado;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXVI. Reglamento: Reglamento para las Construcciones del Municipio de Monterrey, N. L.;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXVII. Remodelación: La reposición o regeneración de las edificaciones autorizadas, sin incrementar o disminuir los metros cuadrados de construcción;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXVIII. Reparación: Obras de construcción necesarias para el arreglo de fallas estructurales, en edificaciones existentes;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXIX. Secretaría: La Secretaría de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXX. Secretario: El Secretario de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXXI. Uso Público: El uso masivo de cualquier instalación, que requiere cumplir con previsiones especiales en función de la seguridad de los usuarios;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXXII. Vía Pública: Es todo inmueble del dominio público, de utilización común que por disposición de la Ley de Desarrollo Urbano del Estado de Nuevo León o por razón del servicio, se destine al libre tránsito, o bien, que de hecho esta ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes o para el alojamiento de cualquier instalación destinada a satisfacer un servicio público; y,
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXXIII. Zonas en declive: Corresponden a las áreas que presentan el lote o terreno con una inclinación del 30% al 45% de pendiente.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
-
-XXXIV. Ventanilla Única: Área administrativa que coordina en un sólo espacio físico la recepción de solicitudes, asesoría e información del proceso de obtención de licencias y de la entrega al solicitante de las licencias o permisos municipales emitidas por la Secretaría.
+VII. Los particulares que decidan utilizar la firma electrónica certificada, por medios electrónicos, en los términos de la presente Ley.
 
 ###### Artículo 3.
 
-Las construcciones para los efectos del presente Reglamento tendrán la siguiente clasificación, según su uso y tamaño:
+Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+I.- Autoridad Certificadora: Organismo público facultado para otorgar un certificado de Firma Electrónica Avanzada y prestar otros servicios relacionados con la Firma Electrónica Avanzada;
 
-I. TIPO 1: Construcciones o reparaciones menores: Bardas no mayores de 3.00 metros de altura, remodelación de fachadas, excavaciones, movimientos de tierra y otros;
+II.- Certificado de firma electrónica: El documento firmado electrónicamente por la autoridad certificadora, mediante el cual se confirma el vínculo existente entre el firmante y la firma electrónica;
 
-II. TIPO 2: Autoconstrucción o construcción progresiva: La Construcción mínima de hasta 40 metros cuadrados de construcción por etapa;
+III.- Datos de creación de firma electrónica o clave privada: Los datos únicos que, con cualquier tecnología, el firmante genera de manera secreta y utiliza para crear su firma electrónica, a fin de lograr el vínculo entre dicha firma electrónica y su autor;
 
-III. TIPO 3a: Vivienda unifamiliar: En terreno plano (de hasta 30% de pendiente), máximo 3 niveles, claros máximos de 6.00 metros y muros de contención de hasta 3.50 metros;
+IV.- Datos de verificación de firma electrónica o clave pública: Los datos únicos que con cualquier tecnología se utilizan para verificar la firma electrónica;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+V.- Destinatario: La persona designada por el firmante para recibir el mensaje de datos, pero que no esté actuando a título de intermediario con respecto a dicho mensaje;
 
-IV. TIPO 3b: Vivienda unifamiliar: En terreno con pendiente superior al 30%. Bardas mayores a 3.00 metros de altura y muros de contención de hasta 3.50 metros;
+VI.- Dispositivo de creación de firma electrónica: El programa o sistema informático que sirve para aplicar los datos de creación de firma electrónica;
 
-V. TIPO 4a: Vivienda multifamiliar, comercio, servicios o industria de hasta 300 Mt2 de construcción;
+VII.- Dispositivo de verificación de firma electrónica: El programa o sistema informático que sirve para aplicar los datos de verificación de firma electrónica;
 
-VI. TIPO 4b: Vivienda multifamiliar, comercio, servicios o industria mayores de 300 y hasta 1500 Mt2 de construcción; y,
+VIII.- Fecha electrónica: El conjunto de datos en firma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
 
-VII. TIPO 4c: Vivienda multifamiliar, comercio, servicios o industria mayores de 1500 Mt2 de construcción.
+IX.- Firma electrónica: El conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o emisor;
 
-### CAPÍTULO II. DE LAS AUTORIDADES
+X.- Firma electrónica certificada: Aquélla que ha sido certificada por la autoridad certificadora en los términos que señale esta Ley, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de ésta y la identidad del firmante;
+
+XI.- Firmante: La persona que posee los datos de creación de firma electrónica y que actúa en nombre propio o en el de una persona a la que representa;
+
+XII.- Intermediario: Toda persona que, actuando por cuenta de otra, envíe, reciba o archive dicho mensaje o preste algún otro servicio con respecto a él, en relación con un determinado mensaje de datos;
+
+XIII.- Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+
+XIV.- Mensaje de datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología;
+
+XV.- Sistema de información: Todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna firma un mensaje de datos, y
+
+XVI.- Titular: La persona en cuyo favor se expide un certificado de firma electrónica.
+
+### Capítulo Segundo. Del Uso de la Firma Electrónica Certificada
 
 ###### Artículo 4.
 
-La aplicación de este Reglamento, en los términos que establece corresponderá a las siguientes autoridades:
+Esta Ley se aplicará en los procedimientos seguidos en forma de juicio ante los tribunales u órganos jurisdiccionales que autoricen las leyes respectivas.
 
-I. El C. Presidente Municipal;
+En los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, podrá emplearse la firma electrónica certificada contenida en un mensaje de datos, mediante el uso de medios electrónicos, bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad.
 
-II. El C. Secretario de Desarrollo Urbano y Ecología;
+La neutralidad tecnológica implica utilizar cualquier tecnología sin que se favorezca alguna en particular.
 
-III. El C. Secretario de Servicios Públicos;
+En virtud de la equivalencia funcional, la firma electrónica certificada se equipara a la firma autógrafa y un mensaje de datos a los documentos escritos.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+La autenticidad, ofrece la certeza de que un mensaje de datos ha sido emitido por el firmante y, por lo tanto, le es atribuible su contenido y las consecuencias jurídicas que del mismo se deriven por ser expresión de su voluntad.
 
-IV. Los inspectores adscritos a la Secretaría de Desarrollo Urbano y Ecología;
+Por el principio de conservación, un mensaje de datos posee una existencia permanente y es susceptible de reproducción.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+La confidencialidad, es la característica que existe cuando la información permanece controlada y es protegida de su acceso y distribución no autorizada.
 
-V. Los inspectores y supervisores adscritos a la Secretaría de Servicios Públicos; y,
-
-> <small>(REFORMADA [N. DE. E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
-
-VI. La Secretaría del Ayuntamiento, a través de la Dirección de Protección Civil.
+Se considera que el contenido de un mensaje de datos es íntegro cuando ha permanecido completo e inalterado, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación.
 
 ###### Artículo 5.
 
-La Secretaría de Desarrollo Urbano y Ecología tendrá las siguientes atribuciones:
-
-I. Autorizar o negar las solicitudes para obtener las licencias para la construcción, instalación, modificación, ampliación, reparación y demolición de edificaciones públicas o privadas a que se refiere el presente Reglamento;
-
-II. Ordenar visitas de inspección a las obras en proceso o terminadas, a fin de verificar el cumplimiento de la Ley, Planes o Programas, Reglamentos y demás disposiciones de carácter general;
-
-III. En las construcciones Tipo 4a, 4b y 4c de utilización pública masiva, dar fe de la prueba física de carga, a fin de autorizar o negar el uso de la edificación en función del resultado de la misma;
-
-IV. Ordenar, imponer y ejecutar las medidas de seguridad, así como las sanciones correspondientes a los que se haga acreedor el propietario o poseedor de un inmueble, por las infracciones a la Ley, Planes o programas y demás disposiciones de carácter general aplicables;
-
-V. Estudiar de nueva cuenta las resoluciones que fueran impugnadas por el solicitante y resolver en consecuencia;
-
-VI. Acordar las medidas conducentes en construcciones riesgosas;
-
-VII. Autorizar o negar las solicitudes de prórroga de la (sic) licencias de construcción;
-
-VIII. Fijar las normas técnicas y administrativas a que deberán sujetarse las construcciones e instalaciones, a fin de cumplir las condiciones de seguridad y el diseño estructural;
-
-IX. Señalar las restricciones a que deberán sujetarse las edificaciones y los elementos tales como fuentes, esculturas, arcos, columnas, monumentos y similares localizados en zonas de patrimonio artístico y cultural, de acuerdo con lo dispuesto por la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas y la Ley del Patrimonio Cultural del Estado de Nuevo León;
-
-X. Llevar un registro clasificado de Directores Responsables de Obra, Asesores y de los profesionistas que cuenten con cedula profesional autorizados para elaborar planos de construcción y edificaciones, así como de aquellos autorizados para la elaboración de estudios de vialidad, memoria de cálculo estructural mecánica de suelos, geológicos e hidráulicos;
-
-XI. Ordenar la ejecución, con cargo a los responsables, de las obras que hubiere ordenado realizar y que el propietario o poseedor, en rebeldía, no las hayan llevado a cabo;
-
-XII. Expedir y modificar, los acuerdos, instructivos, circulares y demás disposiciones administrativas que procedan para el debido cumplimiento de este ordenamiento;
-
-XIII. Coordinarse con la Dirección de Protección Civil en la aplicación de este Reglamento y demás normas de carácter general en materia de desarrollo urbano;
-
-XIV. En los casos de controversia por asuntos de construcción entre particulares, ya sea entre vecinos o entre propietarios o poseedores y profesionistas, en los que este Reglamento no prevea la situación específica, la autoridad municipal sugerirá a las partes dirimirla mediante los Métodos Alternos de Solución de Controversia, dejando a salvo el derecho de los particulares para que lo diriman ante la Autoridad Jurisdiccional;
-
-XV. Fijar los lineamientos y especificaciones establecidos en el Reglamento de Accesibilidad de la Ciudad de Monterrey; y,
-
-XVI. Las demás que le confieren la Ley, Planes o programas, este Reglamento y las demás disposiciones en materia de desarrollo urbano.
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
-
-Artículo 5 BIS. La Ventanilla Única tendrá las siguientes funciones:
-
-I. Verificar la documentación entregada por el usuario y orientarle en caso de entregar información incompleta;
-
-II. Canalizar a las dependencias municipales competentes o instancias que correspondan, la información necesaria para la evaluación, elaboración de los dictámenes, lineamientos o resoluciones, relativas a la solicitud o expediente administrativo que corresponda; y
-
-III. Las demás que le sean encomendadas.
+Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los cuales la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado Libre y Soberano de Baja California Sur y las leyes, exijan o requieran la firma autógrafa por escrito y, cualquier otra formalidad que no sea susceptible de cumplirse por los medios señalados en el artículo anterior o requieran la concurrencia personal de los servidores públicos o los particulares.
 
 ###### Artículo 6.
 
-La Secretaría de Servicios Públicos tendrá las siguientes atribuciones, en materia de vías públicas:
-
-I. Recibir, tramitar y resolver sobre el otorgamiento de los permisos para trabajos en las vías públicas que realicen las empresas prestadoras de servicios, tanto del sector público como del privado;
-
-II. Realizar visitas de inspección a las obras en proceso para verificar si cumple con las disposiciones de la Ley, Planes o Programas, este Reglamento y las demás disposiciones en materia de desarrollo urbano;
-
-III. Imponer las sanciones correspondientes a las que se haga acreedor el propietario, poseedor o representante legal de las empresas, por las infracciones cometidas al presente Reglamento;
-
-IV. Ordenar la suspensión temporal o la clausura de obras en ejecución o terminadas, por carecer de autorización municipal o por contravenir a lo estipulado en el presente Reglamento;
-
-V. Solicitar el auxilio de la fuerza publica en los casos en que fuera necesario; y,
-
-VI. Las demás que le confiere la Ley, Planes o Programas, este Reglamento y demás disposiciones de carácter general en materia de desarrollo urbano.
+La utilización de los medios electrónicos en ningún caso podrá implicar la existencia de restricciones o discriminaciones de cualquier naturaleza en el acceso de los particulares a la prestación de servicios públicos o a cualquier trámite, acto o actuación de cualquier autoridad estatal o municipal.
 
 ###### Artículo 7.
 
-Los Inspectores adscritos a la Secretaría de Servicios Públicos y a la Secretaría tendrán las atribuciones que establezcan este Reglamento y las demás disposiciones de la materia.
+En las comunicaciones entre el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier dependencia o entidad de la administración pública estatal o municipal, se podrá hacer uso de los medios electrónicos mediante un mensaje de datos que contenga la firma electrónica certificada del servidor público competente.
 
-### CAPÍTULO III. DE LOS SUJETOS OBLIGADOS
+### Capítulo Tercero. De las Atribuciones de las Autoridades Certificadoras
 
 ###### Artículo 8.
 
-El propietario o poseedor de un inmueble será el responsable por las acciones, omisiones y las circunstancias de responsabilidad y seguridad a que se refiere este Reglamento.
+Para hacer más accesibles, ágiles y sencillos los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a cualquier entidad o dependencia de la administración pública estatal o municipal, se podrá utilizar la firma electrónica contenida en un mensaje de datos y el uso de medios electrónicos, en los términos de los reglamentos que en el ámbito de sus respectivas competencias se expidan.
 
 ###### Artículo 9.
 
-El propietario o poseedor de un inmueble para su protección y Asesoramiento tendrá la obligación de recurrir a un Director Responsable de Obra para la ejecución de la construcción, cuando se trate de construcciones Tipo 3a, 3b, 4a, 4b y 4c.
-
-Podrá contratar directamente o, a través del Director Responsable de Obra, otros profesionistas que en su calidad de Asesores serán responsables solidarios con el titular del contrato en sus respectivas ramas o especialidades. Estos podrán ser entre otros, los descritos en el Artículo 2 fracción III del presente Reglamento, en cuyo caso, el Director Responsable de Obra quedará como responsable general del proyecto y de la obra.
+El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, deberán verificar la firma electrónica certificada, la vigencia del certificado de firma electrónica y, en su caso, la fecha electrónica, en los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan a éstos; así como en las solicitudes y promociones que en relación con los mismos realicen los particulares.
 
 ###### Artículo 10.
 
-El propietario o poseedor de un inmueble, deberá de disponer obligatoriamente y durante el tiempo que dure la construcción, tratándose de construcciones Tipo 3b, 4a, 4b y 4c de un seguro de responsabilidad civil contra terceros que ampare cualquier daño que ocasionare la construcción.
+El uso de medios electrónicos a que se refiere esta Ley será optativo para los particulares.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+Quienes opten por el uso de medios electrónicos en los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, quedarán sujetos a las disposiciones de este ordenamiento.
 
 ###### Artículo 11.
 
-El carácter de Director Responsable de Obra se adquiere al ser contratado para el ejercicio de la profesión en el ámbito de este Reglamento y demás disposiciones de carácter general en materia de desarrollo urbano.
+Para que surta efectos un mensaje de datos, se requiere de un acuse de recibo electrónico, entendiéndose como tal el generado por el sistema de información del destinatario.
 
-El Director Responsable de Obra al intervenir en cualquier obra o proyecto, deberá acompañar copia de su cédula profesional que acredite sus estudios en arquitectura, ingeniería civil, militar o, afines a la materia
+Se considera que el mensaje de datos ha sido enviado y recibido, cuando se pruebe la existencia del acuse de recibo electrónico respectivo.
 
 ###### Artículo 12.
 
-Son obligaciones del Director Responsable de Obra:
-
-I. Dirigir y vigilar la obra asegurándose de que tanto el proyecto, como la ejecución de la misma, cumplan con lo establecido en los ordenamientos y demás disposiciones a que se refiere este Reglamento;
-
-II. Contar con los Asesores que se requieran, asegurándose que éstos cuenten con los requisitos suficientes para ejercer la profesión en su especialidad;
-
-III. Planear y supervisar las medidas de seguridad del personal y terceras personas en la obra, sus colindancias y en la vía pública, durante su ejecución;
-
-IV. En las construcciones Tipo 3b, 4a, 4b y 4c, cuando por su tamaño y complejidad se requiera llevar en la obra un libro de bitácora previamente foliado, se deberán registrar como mínimo los siguientes datos:
-
-A) Nombre, atribuciones y firmas del Director Responsable de Obra y los Asesores, si los hubiere;
-
-B) Fecha de las visitas del Director Responsable y de los Asesores;
-
-C) Materiales empleados para fines estructurales o de seguridad;
-
-D) Procedimientos generales de construcción y de control de calidad;
-
-E) Descripción de los detalles definidos durante la ejecución de la obra;
-
-F) Nombre o razón social de la persona física o moral que ejecuta la obra;
-
-G) Fecha de iniciación de cada etapa de la obra;
-
-H) Incidentes y accidentes; y,
-
-I) Observaciones e instrucciones especiales del Director Responsable de Obra y de los Asesores;
-
-V. Entregar al propietario o poseedor, una vez concluida la obra, los planos registrados actualizados del proyecto completo en original, el libro de bitácora, memorias de cálculo y conservar un juego de copias de estos documentos; y,
-
-VI. Elaborar y entregar al propietario o poseedor de la obra al término de esta, los manuales de operación y mantenimiento para los casos que lo ameriten las construcciones de Tipo 4a, 4b y 4c.
+El contenido de los mensajes de datos que contengan firma electrónica, relativos a los actos, convenios, comunicaciones, procedimientos administrativos, trámites, prestación de los servicios públicos y las solicitudes y promociones que se realicen utilizando medios electrónicos, deberán conservarse en archivos electrónicos y hacerse constar íntegramente en forma impresa, integrando expediente, cuando así lo soliciten expresamente los interesados o lo determine la autoridad competente.
 
 ###### Artículo 13.
 
-Los Asesores al intervenir en cualquier obra o proyecto, deberán presentar a la Secretaría, la cédula profesional correspondiente a su especialidad al entregar y suscribir los estudios, proyectos o Asesorías en que participen u otorguen su responsiva, en la que manifiesten además que cumplirán con lo establecido en el presente Reglamento y demás disposiciones de carácter general en materia de desarrollo urbano.
-
-Los asesores para acreditar su especialidad deberán presentar su cedula profesional correspondiente a las siguientes profesiones:
-
-I. Para Seguridad Estructural.- Profesionista con estudios o especialización en ingeniería civil, militar o afines a la materia;
-
-II. Para Diseño Urbano y Arquitectónico.- Profesionista con estudios o especialización en diseño urbano, arquitectónico, o afines a la materia;
-
-III. Para Instalaciones.- Profesionista con estudios o especialización en ingeniería civil, mecánica, eléctrica, o afines a la materia;
-
-IV. Para Instalaciones especiales.- Profesionista con estudios o especialización en refrigeración, telecomunicaciones, acústica, o afines a la materia;
-
-V. Para Estudios de Vialidad.- Profesionista con estudios o especialización en ingeniería de transito, vías terrestres, o afines a la materia;
-
-VI. Para Estudios Ambientales.- Profesionista con estudios o especialización en materia ambiental;
-
-VII. Para Estudios Hidráulicos.- Profesionista con estudios o especialización en materia hidráulica;
-
-VIII. Para Estudios Geológicos.- Profesionista con estudios o especialización en materia de ciencias de la tierra; y
-
-IX. Para Estudios de Mecánica de Suelos.- Profesionista con estudios o especialización en ingeniería civil, militar, ciencias de la tierra, o afines a la materia.
-
-Cuando el Asesor no cuente con la cedula profesional correspondiente que acredite la especialización de que se trate, podrá presentar el diploma o la constancia que acrediten la realización de los estudios especiales de perfeccionamiento respectivos.
+Todo mensaje de datos se tendrá por expedido en el lugar donde el emisor tenga su domicilio legal y, por recibido, en el lugar donde el destinatario tenga el suyo, salvo prueba o acuerdo en contrario.
 
 ###### Artículo 14.
 
-Los Asesores otorgarán su carta responsiva en los siguientes casos:
+Los documentos presentados por los particulares por medios electrónicos que contengan la firma electrónica certificada, producirán, en términos de esta Ley, los mismos efectos que los documentos firmados de manera autógrafa.
 
-I. El Asesor en seguridad estructural cuando:
-
-A) Suscriba conjuntamente con el Director Responsable de Obra una obra terminada;
-
-B) Suscriba los planos del proyecto estructural, la memoria de diseño de la cimentación y la estructura;
-
-C) Suscriba los procedimientos de construcción de las obras y los resultados de las pruebas de control de calidad de los materiales empleados;
-
-D) Suscriba un dictamen técnico de estabilidad, o seguridad de una edificación o instalación; o,
-
-E) Suscriba una constancia de seguridad estructural.
-
-II. El Asesor en diseño arquitectónico, cuando:
-
-A) Suscriba conjuntamente con el Director Responsable de Obra una fe de obra terminada; o,
-
-B) Suscriba los planos del proyecto arquitectónico de una construcción.
-
-III. El Asesor en instalaciones e instalaciones especiales, cuando:
-
-A) Suscriba conjuntamente con el Director Responsable de Obra una fe de obra terminada; o,
-
-B) Suscriba los procedimientos sobre la seguridad de las instalaciones.
-
-IV. El Asesor en estudios de impacto vial, cuando:
-
-A) Suscriba el estudio de impacto vial.
-
-V. El Asesor en estudios de impacto ambiental, cuando:
-
-A) Suscriba el estudio de impacto ambiental.
-
-VI. El Asesor en estudios hidrológicos o hidráulicos, cuando:
-
-A) Suscriba el estudio de hidrología o hidráulica; y
-
-B) Suscriba los planos de proyecto hidrológico o hidráulico, y la memoria de cálculo en su caso.
-
-VII. El Asesor en estudios geológicos o geotécnicos, cuando:
-
-A) Suscriba el estudio geológico o geotécnico.
-
-VIII. El Asesor en estudios de mecánica de suelos, cuando:
-
-A) Suscriba el estudio de mecánica de suelos, el cual deberá presentar los resultados de las pruebas realizadas por un laboratorio debidamente acreditado.
+Las autoridades podrán expedir documentos por medios electrónicos que contengan la firma electrónica certificada cuando reúnan los requisitos señalados en esta Ley.
 
 ###### Artículo 15.
 
-Son obligaciones de los Asesores:
+Los mensajes de datos tendrán valor probatorio pleno, salvo lo que dispongan al respecto otras leyes en la materia que ellas regulan, cuando se acredite lo siguiente:
 
-I. El Asesor en seguridad estructural:
+I. Que contengan la firma electrónica certificada;
 
-A) Suscribir, conjuntamente con el Director Responsable de Obra, la solicitud de licencia, cuando se trate de obras clasificadas Tipo 3b, 4a, 4b y 4c en este Reglamento;
+II. La fiabilidad del método en que hayan sido generados, archivados o conservados, y
 
-B) Verificar que en el proyecto de la cimentación y de la estructura, se hayan realizado los estudios del suelo y de las construcciones colindantes;
-
-C) Verificar que el proyecto cumpla con las características generales para la seguridad estructural, establecidos en este Reglamento;
-
-D) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la seguridad estructural de la misma, asentándose en el libro de bitácora; y,
-
-E) Responder de cualquier violación a las disposiciones de este Reglamento, relativo a su especialidad, conforme a la legislación aplicable.
-
-II. Del Asesor en diseño urbano y arquitectónico:
-
-A) Suscribir, conjuntamente con el Director Responsable de Obra, la solicitud de licencia, cuando se trate de las obras que lo requieran;
-
-B) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Reglamento y en su caso por los Planes o Programas;
-
-C) Verificar que el proyecto cumpla con las disposiciones relativas a:
-
-1. El Plan o Programa respectivo;
-
-2. Las condicionantes que se pidan para la autorización del cambio de uso de suelo, en su caso;
-
-3. Los requerimientos de habitabilidad, funcionamiento, higiene, servicio, acondicionamiento ambiental, comunicación, prevención de emergencias contenidos en el presente Reglamento;
-
-4. La Ley del Régimen de Propiedad en Condominio para el Estado de Nuevo León, en su caso; y,
-
-5. Las disposiciones legales y reglamentarias en materia de preservación del patrimonio, tratándose de edificios y conjuntos catalogados como monumentos o ubicados en zonas patrimoniales.
-
-D) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora;
-
-E) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad, conforme a la legislación aplicable;
-
-III. Del asesor en instalaciones e instalaciones especiales:
-
-A) Suscribir, conjuntamente con el Director Responsable de Obra, la solicitud de licencia, anexando carta responsiva, cuando se trate de las obras que lo requieran;
-
-B) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones de este Reglamento y la Legislación vigente al respecto, relativas a la seguridad, control de incendios y funcionamiento de las instalaciones, así como de la infraestructura de fraccionamientos en su caso; y
-
-C) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar su ejecución, asentándolo en el libro de bitácora.
-
-IV. Del asesor en estudios técnicos: Estudios de impacto vial, impacto ambiental, geológico o geotécnico, hidrológico o hidráulico y mecánica de suelos.
-
-A) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que se hayan cumplido las disposiciones establecidas por la Ley, el presente Reglamentos (sic) y en su caso por los Planes o Programas;
-
-B) Realizar los estudios de campo necesarios, suficientes e imparciales, que permitan concluir y recomendar las adecuaciones o medidas de mitigación necesarias, tanto al interior del proyecto como en su zona de influencia o de impacto; y,
-
-C) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad, conforme a la legislación aplicable.
+III. Que se ha conservado la integridad de la información a partir del momento en que se generaron por primera vez en su forma definitiva como tales o, en alguna otra forma.
 
 ###### Artículo 16.
 
-Las funciones del Director Responsable de Obra y de los Asesores, por cuanto a su terminación, se sujetarán a lo siguiente:
+Los certificados de firma electrónica tendrán valor probatorio pleno, salvo lo que dispongan al respecto otras leyes en la materia que ellas regulan y surtirán efectos jurídicos, cuando estén firmados electrónicamente por la autoridad certificadora.
 
-I. En aquellas obras para las que hayan dado su responsiva, terminará:
-
-A) Al suscribir la constancia de obra terminada:
-
-B) Si ocurre cambio, suspensión, abandono o retiro del Director Responsable de Obra antes de suscribir la constancia de obra terminada;
-
-En este caso se deberá avisar a la autoridad municipal correspondiente, que el Director Responsable suspende o retira su responsiva, así como el avance de la obra hasta ese momento;
-
-La autoridad municipal correspondiente ordenará la suspensión de la obra, cuando el Director Responsable de Obra no sea sustituido en forma inmediata y no permitirá la reanudación, hasta en tanto no se designe nuevo Director Responsable de Obra, debidamente validado por la autoridad competente;
-
-II. El término de las funciones no los exime de las responsabilidades civiles, penales, administrativas y de cualquier otra índole que pudiera derivarse de su intervención en la obra; y,
-
-III. La responsabilidad terminará 1-un año después de que se reciba por la autoridad municipal correspondiente el aviso de terminación de obra, firmado por el propietario o poseedor y por el Director Responsable de Obra o, cuando se modifique la obra o utilización la responsabilidad concluirá en ese momento.
-
-### CAPÍTULO IV. DE LA LICENCIA DE CONSTRUCCIÓN
+### Capítulo Cuarto. De las Características de la Firma Electrónica Certificada
 
 ###### Artículo 17.
 
-La Secretaría otorgará licencias de construcción sólo en predios, lotes o fracciones que hayan resultado de la incorporación efectuada con autorización de la autoridad competente, así como en los lotes con las dimensiones mínimas que marca la Ley, Planes o programas, este Reglamento y demás disposiciones de la materia. La licencia otorgada no significa aprobación técnica del método de construcción ni de los materiales a emplear, esto será responsabilidad del propietario o poseedor y su relación contractual con el Director Responsable de Obra.
+Los efectos del certificado de firma electrónica son los siguientes:
+
+I. Autentificar que la firma electrónica pertenece a determinada persona, y
+
+II. Verificar la vigencia de la firma electrónica.
 
 ###### Artículo 18.
 
-Se requiere licencia para:
-
-I. Construcciones nuevas;
-
-II. Ampliaciones;
-
-III. Modificaciones al proyecto aprobado, exceptuando la vivienda unifamiliar;
-
-IV. Demoliciones;
-
-V. Excavaciones y movimientos de tierra;
-
-VI. Bardas y muros de contención;
-
-VII. Uso de Vía Pública;
-
-VIII. Remodelación de fachadas, exceptuando la vivienda unifamiliar; y
-
-IX. Regularizaciones.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+Se presumirá, salvo prueba en contrario, que un mensaje de datos proviene de una persona determinada, cuando contenga su firma electrónica certificada.
 
 ###### Artículo 18 Bis.
 
@@ -555,87 +205,17 @@ En el municipio de Monterrey se prohíben los siguientes usos de edificación, e
 
 ###### Artículo 19.
 
-Obras que no requieren licencia:
+El momento de recepción de un mensaje de datos se determinará de la forma siguiente:
 
-I. Reposición y reparación de piso;
+I. Al ingresar en el sistema de información designado por el destinatario, y
 
-II. Pintura y revestimientos interiores o exteriores;
-
-III. Reparación dentro del predio de tuberías, equipo, instalaciones eléctricas, etc;
-
-IV. Divisiones interiores, sólo para vivienda unifamiliar;
-
-V. Impermeabilización y reparación de azoteas;
-
-VI. Obras urgentes para prevenir accidentes;
-
-VII. Obras urgentes en caso de siniestros;
-
-VIII. Cambio y colocación de puertas, ventanas o vidrios; y,
-
-IX. Demoliciones parciales en vivienda unifamiliar cuando no constituyan más del 20% de la construcción existente, que no afecte o provoque inestabilidad y que no sea patrimonio histórico o cultural;
-
-X. Construcciones provisionales durante el proceso de construcción para uso de oficinas de venta, bodega, caseta de construcción y los servicios sanitarios portátiles;
-
-XI. Remodelación de fachadas menores de 6.00 metros de altura, con remetimiento de 2.00 metros o más del alineamiento, en todos los casos se exigirá la protección necesaria para las personas, ya sean trabajadores o transeúntes; y,
-
-XII. Instalaciones complementarias de una vivienda unifamiliar mientras sean en áreas abiertas, podrá permitirse su construcción incluso en las áreas perimetrales susceptibles de remetimiento.
-
-En los supuestos de las fracciones VI y VII de este artículo, el propietario, poseedor o responsable de la obra deberá avisar por escrito a la Secretaría dentro de las 48 horas siguientes. En caso de haberse suscitado algún siniestro, deberá acompañar además el dictamen expedido por la dependencia competente en materia de Protección Civil.
-
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2013)
+II. De no haber un sistema de información designado, en el momento en que el destinatario se manifieste sabedor de dicha información.
 
 ###### Artículo 20.
 
-Los requisitos para la obtención de licencias de construcción para obra nueva, remodelaciones o ampliaciones según su tipo son:
+Cuando los particulares realicen comunicaciones o soliciten la prestación de servicios públicos o promuevan cualquier trámite por medios electrónicos en hora o día inhábil, se tendrán por presentados en la primera hora hábil del siguiente día hábil.
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 21.</small>
-
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 40; 22 DE ABRIL DE 2015, PÁGINA 2.</small>
-
-DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
-
-1. Solicitud en formato oficial debidamente firmada por el propietario, poseedor, arrendatario o representante legal, y en su caso por el Director Responsable de Obra;
-
-2. Croquis en formato oficial debidamente firmado por el propietario o poseedor.
-
-3. Plano arquitectónico en formato oficial debidamente firmado por el propietario o poseedor, y el Director Responsable de Obra;
-
-4. Acreditar la propiedad o posesión del predio, y en su caso acreditar el interés que le asiste;
-
-5. Comprobante del pago del impuesto predial al corriente;
-
-6. Memoria de cálculo señalando el análisis de cargas, momentos flectores, esfuerzos cortantes, cargas sobre muros o columnas, transmisión de cargas hasta los cimientos;
-
-7. Alineamiento Vial;
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
-
-8. Planos estructurales impresos y digitales, que deberán contener como mínimo los siguientes: cimentación, firmes, columnas, muros, castillos, losas y cuando proceda, muros de contención y carta responsiva del Asesor estructural;
-
-9. Estudio de mecánica de suelos;
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
-
-10. Opinión emitida por la dependencia competente en materia de protección civil, o en su caso por el Patronato de Bomberos de Nuevo León, A.C., en relación al análisis de riesgos que incluya las medidas preventivas que se requieran en las instalaciones y/o edificaciones de cualquier índole, que se encuentren en operación o sean de nueva creación.
-
-11. (DEROGADO, P.O. 24 DE MAYO DE 2013);
-
-12. Estudio de impacto ambiental;
-
-13. Estudio de impacto vial; y
-
-14. Estudio geotécnico de hidrología o geología.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
-
-Deberá contar con póliza de seguro de responsabilidad civil contra terceros durante el proceso constructivo y hasta 01-un año de haber obtenido el interesado la constancia de terminación de obra. Dicha poliza deberá tener cobertura aún y cuando la obra en construcción éste clausurada o suspendida por la autoridad competente.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
-
-En caso de ser necesario, deberá presentarse el proceso de mitigación de riesgos colindantes, con su programa de ejecución y análisis de taludes
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+Los documentos a que se refiere el párrafo anterior se tendrán por no presentados, cuando no contengan la firma electrónica certificada.
 
 ###### Artículo 20 Bis.
 
@@ -665,75 +245,87 @@ La opinión será emitida por la autoridad municipal competente en un plazo máx
 
 ###### Artículo 21.
 
-Para la tramitación y aprobación de las solicitudes se atenderá lo siguiente:
-
-I. Las autoridades encargadas de la aplicación del presente Reglamento en ningún caso podrán rechazar el ingreso de las solicitudes que se ajusten a los requisitos indicados en este ordenamiento, en observancia a las disposiciones de la Ley;
-
-II. Si el solicitante no cumple con los requisitos, la Autoridad advierte que los datos acompañados no son suficientes para atender la solicitud, deberá prevenírsele por una sola vez para que dentro del plazo máximo de 20 días hábiles, contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
-
-III. Una vez integrada la solicitud con toda la documentación requerida por este Reglamento, la Autoridad que corresponda, deberá resolver las solicitudes presentadas en el plazo que la ley o las demás disposiciones legales determinen, o a falta de esta, será de 30 días hábiles, contados a partir de su recepción, de no hacerlo en el tiempo señalado se considerará negada dicha solicitud.
+Cuando las leyes requieran que una información o documento sea presentado y conservado en su forma original, se tendrá por satisfecho este requisito, respecto a un mensaje de datos, si existe garantía confiable de que se ha conservado la integridad de la información, a partir del momento en que se generó por primera vez en su forma definitiva, como mensaje de datos o en alguna otra forma, y de requerirse la presentación de la información, si la misma puede mostrarse a la persona a la que se deba presentar. Lo anterior, sin perjuicio de lo dispuesto por el artículo 5 de esta Ley.
 
 ###### Artículo 22.
 
-La autoridad municipal podrá exigir la documentación técnica establecida en el artículo 20 para su revisión, si fuera necesario, en los casos de riesgo manifiesto sin que esta revisión releve de la responsabilidad al propietario o poseedor, o a los profesionistas contratados por él, o cuando el Atlas de Riesgos determina que se localiza dentro de esa área.
+Para los efectos de la presente Ley, serán autoridades certificadoras en su respectivo ámbito de competencia:
+
+I. La Secretaría de Finanzas y Administración;
+
+II. El Poder Legislativo;
+
+III. El Poder Judicial;
+
+IV. Los Organismos Autónomos, y
+
+V. Los Ayuntamientos.
 
 ###### Artículo 23.
 
-Los profesionistas responsables del diseño, deberán firmar los planos en su apartado correspondiente, lo cual les servirá para hacer valer los derechos de autor que les correspondan y demostrar la capacidad legal para ejercer la profesión en nuestro país. Este requisito será obligatorio para las construcciones Tipo 3a, 3b, 4a, 4b y 4c.
+Las autoridades certificadoras tendrán las siguientes atribuciones:
+
+I. Expedir certificados de firma electrónica y prestar servicios relacionados con la misma;
+
+II. Llevar el registro de certificados de firma electrónica;
+
+III. Celebrar los convenios necesarios con las demás autoridades certificadoras, a efecto de establecer los estándares tecnológicos y operativos de la infraestructura de la firma electrónica certificada y servicios electrónicos, aplicables en el ámbito de su competencia;
+
+IV. Colaborar en el desarrollo de sistemas informáticos internos y externos para la prestación de servicios, y
+
+V. Las demás que les otorgue esta Ley y su reglamento.
 
 ###### Artículo 24.
 
-La licencia para construcción que se haya otorgado para un predio que resulte afectado o haya sido susceptible de ocupación por extraños, no legitima la tenencia o propiedad de la tierra.
+El Poder Legislativo, el Poder Judicial, los Organismos Autónomos y los Ayuntamientos, podrán celebrar convenios de colaboración con la Secretaría de Finanzas y Administración para el ejercicio de las atribuciones a que se refiere esta Ley.
 
 ###### Artículo 25.
 
-La licencia de construcción se podrá revocar cuando haya sido obtenido (sic) con base a documentos falsos o erróneos y casos señalados por la Ley.
+Las autoridades certificadoras, dentro del ámbito de sus respectivas competencias, podrán autorizar a otra entidad o dependencia de la administración pública estatal o municipal, a expedir certificados de firma electrónica y a prestar servicios relacionados con la certificación.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+La acreditación deberá publicarse en el Boletín Oficial del Gobierno del Estado, previamente al inicio de la prestación de los servicios.
 
 ###### Artículo 26.
 
-La vigencia de las licencias iniciará a partir del día siguiente a la notificación correspondiente y dependerá de los metros cuadrados de construcción conforme a la siguiente clasificación:
+Las autoridades certificadoras serán responsables de los daños y perjuicios que en el ejercicio de su actividad ocasionen por la certificación u homologación de certificados de firmas electrónicas. En todo caso, corresponderá a las autoridades certificadoras demostrar que actuó con diligencia.
 
-I. Hasta 250.00 metros cuadrados de construcción - 1 año;
-
-II. De 251.00 metros cuadrados y hasta 1,000.00 metros cuadrados de construcción - 2 años; y
-
-III. Mayor de 1,000.00 metros cuadrados de construcción - 3 años.
-
-La vigencia para las licencias de demolición en general incluida la demolición de bardas, será de 01-un año, e iniciará a partir del día siguiente a la notificación correspondiente previo el pago de derechos municipales, cuando proceda. En caso de que no se efectúe la demolición dentro del plazo otorgado, se deberá ingresar y obtener una nueva autorización.
+Sin perjuicio de lo señalado en el párrafo anterior, las autoridades no serán responsables de los daños que tengan su origen en el uso indebido o fraudulento de un certificado de firma electrónica avanzada.
 
 ###### Artículo 27.
 
-La prórroga se tramitará ante la autoridad municipal correspondiente, hasta por un término igual al otorgado.
+Las autoridades certificadoras no serán responsables de los daños y perjuicios ocasionados al firmante o terceros de buena fe, si el firmante incurre en algunos de los siguientes supuestos:
 
-El interesado, previo al vencimiento de la licencia, podrá solicitar la prórroga en una sola ocasión, debiendo pagar todos los derechos municipales que correspondan.
+I. No haber proporcionado a la autoridad certificadora información veraz, completa y exacta sobre los datos que deban constar en el certificado de firma electrónica o que sean necesarios para su expedición, para la extinción o suspensión de su vigencia;
+
+II. Negligencia en la conservación de los datos de creación de firma, en el aseguramiento de su confidencialidad y en la protección de todo acceso o revelación;
+
+III. No solicitar la suspensión o revocación del certificado de firma electrónica y ésta sea usada sin el consentimiento de la persona propietaria de la firma electrónica avanzada;
+
+IV. Utilizar los datos de creación de firma cuando haya expirado el periodo de validez del certificado de firma electrónica;
+
+V. Cuando el firmante actúe de manera negligente, en cuanto a los posibles usos de la Firma Electrónica Avanzada, y
+
+VI. Uso indebido o fraudulento de la Firma Electrónica Avanzada.
 
 ###### Artículo 28.
 
-El propietario o poseedor del predio podrá solicitar la prórroga de la licencia de construcción, acompañando a su petición los siguientes requisitos:
+La firma electrónica tendrá el carácter de certificada cuando:
 
-1. Solicitud oficial;
+I. Cuente con un certificado de firma electrónica vigente;
 
-2. Acreditar el interés que le asiste;
+II. Los datos de creación de firma corresponden únicamente al firmante y se encuentren bajo su control exclusivo al momento de emitir la firma electrónica;
 
-3. Planos debidamente aprobados;
+III. Sea susceptible de verificación y auditoría con los datos incluidos en el certificado de firma electrónica;
 
-4. Instructivo de autorización o licencia;
+IV. Sea posible detectar cualquier alteración de la firma electrónica hecha después del momento de la firma, y
 
-5. Póliza de seguro de responsabilidad civil contra terceros durante el tiempo prorrogable
+V. Esté vinculada al mensaje de datos de modo tal que cualquier modificación de los datos del mensaje ponga en evidencia su alteración.
 
-6. Carta responsiva anexando cédula profesional del Director Responsable de Obra; y,
-
-7. Comprobante del pago del impuesto predial actualizado.
-
-La Autoridad competente previa expedición de la prórroga ordenará una visita de inspección, a fin de verificar el cumplimiento del Plano autorizado, velando en todo momento que se respeten las disposiciones de carácter general vigentes al momento de su expedición.
+La firma electrónica certificada podrá formar parte integrante del mensaje de datos o estar inequívocamente asociada a éste.
 
 ###### Artículo 29.
 
-La caducidad de la instancia administrativa correspondiente, operará cuando en un término de 60 días hábiles siguientes al ingreso de la solicitud, el solicitante se abstenga de proseguir el curso normal del trámite, ó habiéndose resuelto la tramitación no se muestre interés en concluirlo; en estos supuestos, la Secretaría emitirá un acuerdo ordenando el archivo del expediente como asunto caducado, el cual deberá ser notificado al solicitante.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+Las autoridades certificadoras de conformidad con los reglamentos respectivos establecerán los requisitos jurídicos, técnicos, materiales y financieros necesarios para la expedición y, en su caso, homologación de certificados de firma electrónica. En el caso de homologación de certificados de firma electrónica, podrán celebrar los convenios que tengan como objeto unificar los requisitos a que se refiere este artículo.
 
 ###### Artículo 29 Bis.
 
@@ -745,79 +337,181 @@ En el instructivo a que se refiere este artículo, se hará constar el número d
 
 Si las presentes se niegan a recibirlo, el notificador o inspector dará razón de ello, en presencia de dos testigos entregando copia a la persona con quien entendió la diligencia, aunque se hubiere negado a firmar, lo cual no afectará la validez de la diligencia, ni del documento de que se trate, siempre y cuando el notificador o inspector haga constar tal circunstancia en el instructivo.
 
-### CAPÍTULO V. DEL PROCESO DE CONSTRUCCIÓN
+### Capítulo Quinto. De los Servicios de Certificación
 
 ###### Artículo 30.
 
-Para garantizar las condiciones de habitabilidad, funcionamiento, higiene, acondicionamiento ambiental, comunicación, seguridad estructural de las edificaciones, los proyectos arquitectónicos correspondientes deberán cumplir con los requerimientos establecidos en este capítulo para cada tipo de construcción, así como las normas técnicas.
+Las autoridades certificadoras podrán prestar el servicio de consignación de fecha electrónica, respecto de los mensajes de datos.
 
 ###### Artículo 31.
 
-Las construcciones estarán provistas de servicios de agua potable y drenaje capaces de cubrir las demandas y deberán tener servicios sanitarios acordes con su función, de conformidad con las normas técnicas.
+El registro de certificados de firma electrónica estará a cargo de las autoridades certificadoras, en el ámbito de su competencia. Dicho registro será público y deberá mantenerse permanentemente actualizado.
+
+Al respecto, los reglamentos correspondientes de esta Ley determinarán:
+
+I. Las facultades y atribuciones de las autoridades certificadoras en relación con los servicios registrales;
+
+II. Las condiciones de operación del registro;
+
+III. Los procedimientos de consulta, actualización y mantenimiento del registro, y
+
+IV. Los servicios que deberá prestar el registro de certificados de firma electrónica.
 
 ###### Artículo 32.
 
-Las construcciones deberán tener escaleras o rampas peatonales que comuniquen sus niveles, aun cuando existan elevadores, escaleras eléctricas o montacargas cumpliendo las condiciones de diseño que establezcan las normas técnicas.
+La firma electrónica certificada y los certificados de firma electrónica expedidos de conformidad con esta Ley y su reglamento, sólo surtirán efectos respecto de los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y a cualquier entidad o dependencia de la administración pública estatal o municipal. Así como respecto de las promociones y solicitudes de los particulares que hayan optado por estos medios.
 
 ###### Artículo 33.
 
-El propietario o poseedor tiene la obligación de colocar en un lugar visible durante la ejecución de la construcción, una copia de los planos aprobados y estar a disposición de las autoridades competentes.
+Las autoridades certificadoras están obligadas a:
+
+I. Indicar la fecha y la hora en las que se expidió o se dejó sin efecto un certificado de firma electrónica;
+
+II. Comprobar, por los medios idóneos autorizados por las leyes, la identidad y cualesquiera circunstancias personales de los solicitantes, relevantes para la emisión de los certificados de firma electrónica;
+
+III. Guardar confidencialidad respecto de la información que hayan recibido para la prestación del servicio de certificación;
+
+IV. Poner a disposición del firmante los dispositivos de creación y de verificación de firma electrónica;
+
+V. No almacenar ni copiar los datos de creación de firma electrónica certificada de la persona a la que hayan prestado sus servicios;
+
+VI. Antes de expedir un certificado de firma electrónica, informar a la persona que solicite sus servicios, sobre el costo, características y las condiciones precisas de utilización del certificado;
+
+VII. Conservar registrada toda la información y documentación relativa a un certificado de firma electrónica, durante quince años;
+
+VIII. En el caso de las dependencias o entidades de la administración pública estatal, facilitar a la Secretaría de Finanzas y Administración, toda la información y los medios precisos para el ejercicio de sus funciones y, permitir a sus agentes o al personal inspector, el acceso a sus instalaciones y la consulta de cualquier documentación relevante para la inspección de que se trate, referida siempre a datos que conciernan a la autoridad certificadora, y
+
+IX. Cumplir con las demás obligaciones que deriven de ésta y otras leyes y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 34.
 
-Los materiales de construcción y los escombros de las obras podrán colocarse momentáneamente en las banquetas de la vía pública, sin invadir la superficie de rodamiento, durante los horarios y bajo las condiciones que fije la autoridad municipal correspondiente para cada caso, para lo cual se necesita la licencia correspondiente.
+Las autoridades certificadoras cuando expidan certificados de firma electrónica, únicamente pueden recabar datos personales directamente de los titulares de los mismos o con su consentimiento explícito. Los datos requeridos serán, exclusivamente, los necesarios para la expedición y el mantenimiento del certificado de firma electrónica.
 
 ###### Artículo 35.
 
-Los vehículos que carguen o descarguen materiales para una obra podrán estacionarse en la vía pública durante los horarios que fije la autoridad municipal correspondiente y con apego a lo que disponga al efecto el Reglamento de Tránsito y Vialidad del Municipio de Monterrey, Nuevo León.
+Los certificados de firma electrónica deberán contener:
+
+I. La expresión de que tienen esa naturaleza;
+
+II. El código único de identificación;
+
+III. Los datos de autorización de la autoridad certificadora que lo expide;
+
+IV. La firma electrónica certificada de la autoridad certificadora que lo expide;
+
+V. El nombre y apellidos del firmante. Se podrá consignar en el certificado de firma electrónica cualquier otra circunstancia personal del titular, en caso de que sea significativa en función del fin propio del certificado y siempre que aquél otorgue su consentimiento;
+
+VI. En los supuestos de representación, la indicación del documento que acredite las facultades del firmante para actuar en nombre de la persona a la que represente;
+
+VII. Los datos de verificación de firma electrónica certificada que correspondan a los datos de creación de firma que se encuentren bajo el control del firmante;
+
+VIII. El período de validez del certificado de firma electrónica;
+
+IX. En su caso, los límites de uso del certificado de firma electrónica, y
+
+X. La referencia de la tecnología empleada para la creación de la firma electrónica.
 
 ###### Artículo 36.
 
-Los escombros, excavaciones y cualquier otro obstáculo para el tránsito en la vía pública, serán protegidos con barreras, y señalados adecuadamente por los responsables de las obras, con banderas y letreros durante el día y con señales luminosas claramente visibles durante la noche.
+Los certificados de firma electrónica quedarán sin efecto por las siguientes causas:
+
+I. Expiración de su vigencia, que nunca será superior a dos años;
+
+II. Revocación por el firmante, su representante o autoridad competente;
+
+III. Pérdida, robo o inutilización por daños del soporte del certificado de firma electrónica;
+
+IV. Resolución judicial o administrativa;
+
+V. Fallecimiento del firmante o su representante, incapacidad superveniente, total o parcial, de cualquiera de ellos, terminación de la representación o extinción de la persona moral representada;
+
+VI. Inexactitudes en los datos aportados por el firmante para la obtención del certificado de firma electrónica, y
+
+VII. Por haberse comprobado que, al momento de su expedición, el certificado de firma electrónica no cumplió con los requisitos establecidos en esta Ley, situación que no afectará los derechos de terceros de buena fe.
 
 ###### Artículo 37.
 
-Los propietarios o poseedores están obligados a reparar por su cuenta las banquetas y guarniciones que hayan deteriorado, con motivo de la ejecución de la obra. En su defecto, la autoridad municipal correspondiente ordenará los trabajos de reparación o reposición con cargo a los responsables.
-
-Queda prohibido hacer mezclas en la vía pública, si se diera el caso, se multará al propietario o poseedor del inmueble por dicho motivo y se le conminará a no repetirlo. Si quedaran restos endurecidos de la mezcla en la superficie de la vía pública, el Municipio procederá a quitarla y reparar el pavimento a cuenta del propietario o poseedor de la construcción en que se usó la mezcla.
+Cuando un servidor público deje de prestar sus servicios y cuente con un certificado de firma electrónica en virtud de sus funciones, el superior jerárquico ordenará la cancelación inmediata del mismo.
 
 ###### Artículo 38.
 
-Los equipos eléctricos en instalaciones provisionales, utilizados durante la obra, deberán cumplir con este Reglamento y las normas técnicas para instalaciones eléctricas.
+La pérdida de eficacia de los certificados de firma electrónica, en el supuesto de expiración de vigencia, tendrá lugar desde que esta circunstancia se produzca. En los demás casos, la extinción de un certificado de firma electrónica surtirá efectos desde la fecha en que la autoridad certificadora competente, tenga conocimiento cierto de la causa que la origina y así lo haga constar en el registro de certificados.
 
 ###### Artículo 39.
 
-Los propietarios o poseedores de las obras cuya construcción sea suspendida por cualquier causa por más de 45 días hábiles, estarán obligados a clausurar los vanos que fuere necesario (sic), a fin de impedir el acceso a la construcción.
+Las autoridades certificadoras podrán suspender temporalmente la eficacia de los certificados de firma electrónica expedidos, cuando así lo solicite el firmante o sus representados o lo ordene una autoridad competente.
+
+Toda suspensión deberá inscribirse sin demora en el registro respectivo.
 
 ###### Artículo 40.
 
-Cuando se interrumpa una excavación, se tomarán las precauciones necesarias para evitar que se presenten movimientos que puedan dañar las edificaciones y predios colindantes o las instalaciones de la vía pública y que ocurran fallas en las paredes o taludes de la excavación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+Todo certificado de firma electrónica expedido fuera del Estado de Baja California Sur, producirá los mismos efectos jurídicos que un certificado de firma electrónica expedido dentro de su territorio, si presenta un grado de fiabilidad equivalente a los contemplados por esta Ley. Lo anterior sin perjuicio de la obligación de registrar el certificado que se homologa en términos de esta Ley, en el registro de certificados de firma electrónica, que al efecto lleve la autoridad certificadora correspondiente.
 
 ###### Artículo 41.
 
-Para toda obra en proceso o suspendida, se tomarán las precauciones necesarias para mantener el acceso controlado al sitio de la obra o excavación mediante señalamientos adecuados a base de barreras o tapiales, sin que implique la colocación de anuncios de casas comerciales, espectáculos, eventos y similares, en los tapiales o barreras. Los tapiales, de acuerdo con su tipo, deberán cumplir las siguientes disposiciones:
+Sin perjuicio de lo establecido por otras leyes, los titulares de certificados de firma electrónica tendrán, respecto de las autoridades certificadoras, los siguientes derechos:
 
-I. DE BARRERA: Cuando se ejecuten obras de pintura, limpieza o similares, se colocarán barreras que se puedan remover al suspenderse el trabajo diario. Estarán pintadas y tendrán leyendas de «PRECAUCIÓN». Se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la autoridad municipal correspondiente su traslado provisional a otro lugar;
+I. Solicitar se les expida constancia de la existencia y registro del certificado;
 
-II. DE MARQUESINA: Cuando los trabajos se ejecuten a más de 5.00 metros de altura, se colocarán marquesinas que cubran suficientemente la zona inferior de las obras, tanto sobre la banqueta como sobre los predios colindantes. Se colocarán de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellas, no exceda de 5.00 metros, repitiéndose en su caso cada 5.00 metros;
+II. Solicitar la variación de los datos y elementos de la firma cuando así convenga a su interés;
 
-III. FIJOS: En las obras que se ejecuten en un predio a una distancia menor de 10.00 metros de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Serán de madera, lámina, concreto, mampostería o de otro material que ofrezcan las mismas garantías de seguridad. Tendrán una altura mínima de 2.40 metros, deberán estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una franja anexa hasta de 50 centímetros sobre la banqueta. Previa solicitud, podrá la autoridad municipal correspondiente conceder mayor superficie de ocupación de banquetas;
+III. A ser informados sobre:
 
-IV. DE PASO CUBIERTO: En obra cuya altura sea mayor de 5.00 metros o en aquellas en que la invasión de la banqueta lo amerite, la autoridad municipal correspondiente podrá exigir que se construya un paso cubierto, además del tapial. Tendrá, cuando menos, una altura de 2.40 metros y una anchura libre de 1.20 metros; y,
+a. Las características generales de los procedimientos de certificación y creación de firma electrónica, y de las demás reglas que la autoridad certificadora se comprometa a seguir en la prestación de sus servicios, y
 
-V. En casos especiales, las autoridades podrán permitir o exigir, en su caso, otro tipo de tapiales diferentes a los especificados en este Artículo.
+b. El costo de los servicios, las características y condiciones precisas para la utilización del certificado y sus límites de uso.
 
-Ningún elemento de los tapiales quedará a menos de cincuenta centímetros de la vertical sobre la guarnición de la banqueta.
+IV. A que se guarde confidencialidad sobre la información proporcionada, y
+
+V. A conocer el domicilio físico y la dirección electrónica de la autoridad certificadora para solicitar aclaraciones, presentar quejas o reportes.
 
 ###### Artículo 42.
 
-Durante la ejecución de cualquier construcción, el propietario o poseedor de la misma, y el Director Responsable de Obra, tomarán las precauciones, adoptarán las medidas técnicas y realizarán los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, para lo cual deberán cumplir con lo establecido en este capítulo, así como los lineamientos dictados por la Dirección de Protección Civil Municipal o Estatal, según el caso, y las demás normas de carácter general aplicables.
+Son obligaciones de los titulares de certificados de firma electrónica:
+
+I. Proporcionar datos veraces, completos y exactos;
+
+II. Mantener el control exclusivo de sus datos de creación de firma electrónica, no compartirlos e impedir su divulgación;
+
+III. Solicitar la revocación de su certificado de firma electrónica cuando se presente cualquier circunstancia que pueda comprometer la privacidad de sus datos de creación de firma electrónica, y
+
+IV. Actualizar los datos contenidos en el certificado de firma electrónica.
 
 ###### Artículo 43.
 
-Durante las diferentes etapas de construcción de cualquier obra, deberán tomarse las precauciones necesarias para evitar los incendios y para combatirlos mediante el equipo de extinción adecuado. Esta protección deberá proporcionarse tanto al área ocupada por la obra en sí, como a las colindancias, bodegas, almacenes y oficinas. El equipo de extinción de fuego deberá ubicarse en lugares de fácil acceso y en las zonas donde se ejecuten soldaduras y otras operaciones que puedan originar incendios y se identificará mediante señales, letreros o símbolos claramente visibles.
+Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+
+Cuando las infracciones a la presente Ley impliquen la posible comisión de una conducta sancionada en los términos de la legislación civil, penal o de cualquier otra naturaleza, las dependencias y entidades lo harán del conocimiento de las autoridades competentes.
+
+T R A N S I T O R I O S:
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan a lo previsto en esta Ley.
+
+TERCERO.- El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Organismos Autónomos, los Ayuntamientos y cualquier entidad o dependencia de la Administración Pública Estatal o Municipal, en el ámbito de sus respectivas competencias, deberán adecuar sus lineamientos a la presente Ley, dentro de los siguientes 180 días, contados a partir de la entrada en vigor del presente Decreto.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA PAZ, BAJA CALIFORNIA SUR, A LOS DOCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECIOCHO.
+
+DIP. RAMIRO RUIZ FLORES
+
+PRESIDENTE
+
+DIP. MARICELA PINEDA GARCIA
+
+SECRETARIA
+
+EN CUMPLIMIENTO A LO DISPUESTO POR LOS ARTÍCULOS 63, 79 FRACCIÓN II Y 81 SEGUNDO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS DIECISIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECIOCHO.
+
+ATENTAMENTE
+
+GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA SUR
+
+CARLOS MENDOZA DAVIS
+
+SECRETARIO GENERAL DE GOBIERNO
+
+ALVARO DE LA PEÑA ANGULO
 
 ###### Artículo 44.
 
@@ -1193,7 +887,7 @@ Una vez terminados los trabajos de demolición, el propietario, poseedor o el Di
 
 Cualquier demolición en monumentos o en las zonas de monumentos a que se refiere la Ley Federal de Monumentos y Zonas Arqueológicas, Artísticas e Históricas, la Ley de Patrimonio Cultural del Estado de Nuevo León o en aquellas que hayan sido determinadas de preservación del patrimonio cultural mediante los Decretos o Catálogos de Monumentos Inmuebles Históricos o Artísticos correspondientes, requerirá previo a la autorización municipal correspondiente, la del Instituto Nacional de Antropología e Historia, Instituto Nacional de Bellas Artes, o autoridad competente que corresponda y requerirá, en todos los casos de la responsiva de un Director Responsable de la Obra.
 
-### CAPÍTULO VI. DE LA SEGURIDAD Y EL DISEÑO ESTRUCTURAL
+### Capítulo Sexto. De los Certificados de Firma Electrónica
 
 ###### Artículo 94.
 
@@ -1379,7 +1073,9 @@ VI. Será sometido al proceso de revisión que establezca la Autoridad competent
 
 Las obras provisionales como tribunas para eventos especiales, tapiales, obras falsas y cimbras, pasos de carácter temporal para peatones o vehículos durante obras viales o de otro tipo, deberán proyectarse para cumplir los requisitos de seguridad, obtener las autorizaciones correspondientes quedando obligados a respetar el plazo de vigencia otorgada. Vencido el plazo deberán ser retiradas a su costa acorde a lo establecido en el presente artículo.
 
-### CAPÍTULO VII. DE LA TERMINACIÓN DE OBRA
+### Capítulo Séptimo
+
+De los Derechos y Obligaciones de los Titulares de Certificados de Firma Electrónica.
 
 ###### Artículo 123.
 
@@ -1415,9 +1111,7 @@ I) Durante la ejecución de la prueba de carga, deberán tomarse las precaucione
 
 J) Cuando se requiera evaluar pruebas de carga para la seguridad de una edificación ante efectos sísmicos, en aquellas obras que puedan ser susceptibles de recibir dichos efectos por encontrarse en zonas cercanas a yacimientos pétreos y otros, deberán diseñarse procedimientos de ensaye y criterios de evaluación que tomen en cuenta las características peculiares de la acción sísmica, como son la imposición de efectos dinámicos y de repeticiones de carga alternadas. Estos procedimientos y criterios deberán ser aprobados por la autoridad municipal correspondiente.
 
-### CAPÍTULO VIII. DE LA REGULARIZACIÓN DE CONSTRUCCIÓN
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+### Capítulo Octavo. De las Responsabilidades y Sanciones
 
 ###### Artículo 125.
 
@@ -1729,13 +1423,9 @@ P.O. 24 DE MAYO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
-Las presentes reformas por modificación, adición y derogación del Reglamento para las Construcciones del Municipio de Monterrey, Nuevo León, entrará (sic) en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+Se expide la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado y Municipios de Baja California Sur, para quedar como sigue:
 
-P.O. 22 DE ABRIL DE 2015.
-
-ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-P.O. 27 DE FEBRERO DE 2016.
+LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]
 
