@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-social-para-el-estado-de-baja-california-1135
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 2015.
 
@@ -41,17 +41,23 @@ LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO ÚNICO. Naturaleza, objeto, principios y definiciones de la ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 1.
 
-Conforme a lo previsto por la Ley General de Desarrollo Social, las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de Baja California y tienen por objeto:
+Las disposiciones de esta Ley son de orden de público, interés social y de observancia general en el Estado de Baja California y tienen por objeto:
 
 I. Garantizar el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Baja California, asegurando el acceso de la población al desarrollo social.
 
-II. Establecer el Sistema Estatal de Desarrollo Social con la participación de las dependencias y entidades de la administración pública federal, estatal y municipal vinculadas al desarrollo social;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+II. Establecer el Sistema Estatal de Desarrollo Social con la participación de las dependencias y entidades de la administración pública estatal y municipal vinculadas al desarrollo social;
 
 III. Coordinar y armonizar la política estatal y municipal en materia de desarrollo social en el marco de la política nacional;
 
-IV. Establecer las bases y los mecanismos para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social, promoviendo la participación ciudadana;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+IV. Establecer las bases y los mecanismos para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas estatal y municipal en materia de desarrollo social, promoviendo la participación ciudadana;
 
 V. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los Municipios, así como la aplicación eficiente, equitativa y justa de los mismos;
 
@@ -59,13 +65,19 @@ VI. Fortalecer el sector social de la economía, definiendo sus características
 
 VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado; y
 
-VIII. Los instrumentos de acceso a la justicia en materia de transparencia y rendición de cuentas a través de la denuncia popular y la Contraloría Social.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VIII. Promover la denuncia popular y el ejercicio de Contraloría Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Secretaria de Desarrollo Social, de las Secretarias, dependencias, organismos y entidades del Gobierno del Estado y de los Municipios en el ámbito de sus respectivas competencias.
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Social y a los Municipios en el ámbito de sus respectivas competencias.
 
-La interpretación de estas disposiciones atenderá a su finalidad, sistematicidad y a los principios rectores del Desarrollo Social. En lo no previsto, se aplicarán en forma supletoria, en lo conducente y en el siguiente orden:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+En lo no previsto, se aplicarán en forma supletoria, en lo conducente y en el siguiente orden:
 
 I. La Ley General de Desarrollo Social;
 
@@ -73,9 +85,11 @@ II. La Ley de Planeación; y
 
 III. Las demás leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-En el diseño, instrumentación, ejecución y evaluación de la política de desarrollo social se observarán los siguientes principios:
+En el diseño, instrumentación, ejecución y evaluación de la política de desarrollo social estatal y municipal se observarán los siguientes principios:
 
 I.- Armonización normativa: Espíritu de impulso y fortalecimiento de esta y otras leyes con el propósito de mantener un orden jurídico estatal eficiente;
 
@@ -127,7 +141,9 @@ f) Prevención Integral: entendiéndose como el conjunto de acciones y medidas c
 
 Para los efectos de esta Ley se entiende por:
 
-I. Beneficiarios: Personas o grupos que forman parte de la población atendida por los programas de desarrollo social por cumplir con los requisitos de la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+l. Beneficiarios: Personas que forman parte de la población atendida por los programas de desarrollo social por cumplir con los requisitos de la normatividad correspondiente;
 
 II. Comisión Estatal: La Comisión Estatal para el Desarrollo Social;
 
@@ -153,7 +169,9 @@ XII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Públ
 
 XIII. Ley General: Ley General de Desarrollo Social;
 
-XIV. Organizaciones: Agrupaciones civiles legalmente constituidas en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XIV. Organizaciones: Agrupaciones civiles y sociales legalmente constituidas en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
 
 XV. Padrón: La relación oficial de beneficiarios que incluye a las personas atendidas por los programas estatales de desarrollo social cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
@@ -177,7 +195,9 @@ En su respectivo ámbito de competencia el titular del Poder Ejecutivo será la 
 
 Corresponde al titular del Poder Ejecutivo, a través de la Secretaría:
 
-I. Realizar un diagnóstico regional de la pobreza y condiciones del desarrollo social en el Estado;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+l. Realizar la medición de la pobreza en el Estado para la ejecución de la política estatal y municipal de desarrollo social.
 
 II. Formular y expedir el Programa Sectorial así como ordenar su ejecución;
 
@@ -187,13 +207,17 @@ IV. Promover la congruencia y vinculación de la política estatal de desarrollo
 
 V. Coordinar el Sistema Estatal de Desarrollo Social;
 
-VI. Evaluar anualmente el impacto social de los programas, midiendo el avance en la solución de la problemática que les dio origen;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VI. Evaluar anualmente el impacto social de los programas estatales de desarrollo social, midiendo el avance en la solución de la problemática que les dio origen;
 
 VII. Modificar o ampliar los programas de acuerdo a los resultados de las evaluaciones;
 
 VIII. Realizar gestiones interinstitucionales para que los programas de desarrollo social en que participe el Ejecutivo del Estado, alcancen los objetivos previstos;
 
-IX. Participar en el Sistema Nacional de Desarrollo Social en los términos que señala la Ley General;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+IX. Participar en el Sistema Nacional de Desarrollo Social y en la Comisión Nacional de Desarrollo Social, en los términos que señala la Ley General;
 
 X. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad, fomentando los mecanismos de participación social relacionados con el mismo propósito;
 
@@ -203,7 +227,9 @@ XII. Fomentar la participación de las organizaciones y de la sociedad en genera
 
 XIII. Expedir los Lineamientos Normativos y Operativos para el Ejercicio Ciudadano de la Contraloría Social en coordinación con la Dirección de Evaluación y Control Gubernamental;
 
-XIV. Determinar las zonas de atención prioritaria en el Estado; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XIV. Determinar las zonas de atención prioritaria en el Estado de conformidad con lo previsto en el artículo 65 de esta Ley; y
 
 XV. Las demás que señalen las disposiciones legales aplicables.
 
@@ -221,7 +247,9 @@ III. Expedir y publicar las reglas de operación de los programas sociales munic
 
 IV. Realizar gestiones interinstitucionales para que los programas de desarrollo social en que participe el Gobierno Municipal, alcancen los objetivos previstos;
 
-V. Evaluar los programas sociales que le corresponda ejecutar y hacer públicos sus resultados;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+V. Evaluar los programas sociales municipales y hacer públicos sus resultados;
 
 VI. Fomentar la participación de las organizaciones en la planeación, ejecución y evaluación de la Política Municipal de Desarrollo Social;
 
@@ -295,7 +323,9 @@ II. Acceder a la información sobre los programas de desarrollo social que promu
 
 III. Tener la garantía de reserva y privacidad de la información personal que manejen las dependencias y entidades en los términos de la legislación de la materia;
 
-IV. Recibir los servicios, prestaciones y apoyos de los programas de desarrollo social conforme a sus reglas de operación y previo cumplimiento de los requisitos aplicables;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+IV. Recibir los servicios, prestaciones y apoyos de los programas de desarrollo social conforme a sus reglas de operación y previo cumplimiento de los requisitos aplicables, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada;
 
 V. Presentar su solicitud de inclusión en el padrón de beneficiarios;
 
@@ -341,7 +371,9 @@ III. Solicitar a las dependencias y organismos de la administración pública es
 
 IV. Asesorar a los Municipios que lo soliciten en las actividades tendientes a la emisión de las reglas de operación e integración de su padrón de beneficiarios; y,
 
-V. Promover ante las entidades y dependencias federales mecanismos de coordinación a efecto de integrar un padrón único de beneficiaros de los programas sociales.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+V. Convenir ante las entidades y dependencias federales mecanismos de coordinación, a efecto de integrar un sistema de información común de los beneficiarios de los programas sociales.
 
 ### CAPÍTULO III. De las organizaciones sociales y civiles
 
@@ -447,9 +479,11 @@ Los Municipios serán entes primordiales en la ejecución de los programas de de
 
 ### CAPITULO III. Del Consejo Consultivo
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 34.
 
-Se crea el Consejo Consultivo para el Desarrollo Social como órgano colegiado de consulta, análisis y opinión en materia de desarrollo social en el Estado, encargado de vincular la participación de especialistas, sociedad civil organizada e investigadores del área social en la evaluación de la política pública social y tendrá por objeto investigar, analizar y evaluar el impacto y avance de las políticas y programas de desarrollo social que ejecuten la Secretaría y los Municipios del Estado y sugerir los lineamientos y criterios para la definición, identificación y medición de la pobreza, garantizando la transparencia, objetividad y rigor técnico en dicha actividad.
+El Consejo Consultivo para el Desarrollo Social es un órgano colegiado de consulta, análisis y opinión en materia de desarrollo social en el Estado, encargado de vincular la participación de especialistas, sociedad civil organizada e investigadores del área social y tendrá por objeto investigar, analizar y evaluar el impacto y avance de las políticas y programas de desarrollo social estatales y municipales que ejecuten la Secretaría y los Municipios del Estado y sugerir a la Secretaría los lineamientos y criterios para la definición, identificación y medición de la pobreza, garantizando la transparencia, objetividad y rigor técnico en dicha actividad.
 
 ###### Artículo 35.
 
@@ -467,17 +501,31 @@ III. El secretario de Salud;
 
 IV. El secretario de Infraestructura y Desarrollo Urbano;
 
-V. El titular de la delegación estatal de la secretaria de Desarrollo Social del Gobierno Federal;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-VI. El titular de la delegación estatal de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+V. Un investigador representante de la Universidad Autónoma de Baja California;
 
-VII. Un investigador del Colegio de la Frontera Norte;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-VIII. Un investigador de la Universidad Autónoma de Baja California;
+VI. Un representante de cada uno de los municipios del Estado, vinculado con el desarrollo social;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VII. Un representante del Consejo Estatal de Fomento a las Actividades de Bienestar y Desarrollo Social; y,
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VIII. Un representante del Consejo Coordinador Empresarial de la Entidad.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 IX. Un representante de cada uno de los municipios del Estado, vinculado con el desarrollo social;
 
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 X. Un representante del Consejo Estatal de Fomento a las Actividades de Bienestar y Desarrollo Social; y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 XI. Un representante del Consejo Coordinador Empresarial de la Entidad.
 
@@ -495,19 +543,31 @@ Los investigadores deberán ser ciudadanos mexicanos de reconocido prestigio en 
 
 El Consejo tendrá las atribuciones siguientes:
 
-I. Definir los lineamientos metodológicos para la evaluación de la política de desarrollo social;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-II. Proponer lineamientos y criterios para la definición, identificación y medición de la pobreza;
+l. Definir los lineamientos metodológicos para la evaluación de la política estatal y municipal de desarrollo social;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+II. Proponer lineamientos y criterios para la definición, identificación y medición de la pobreza en la ejecución de la política estatal y municipal de desarrollo social;
 
 III. Proponer políticas públicas de desarrollo social bajo una perspectiva de género;
 
-IV. Emitir opiniones sobre la aplicación de la política de desarrollo social y formular propuestas (sic) reorientación;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-V. Impulsar la participación ciudadana en el seguimiento, operación y evaluación de la política de Desarrollo Social;
+IV. Emitir opiniones sobre la aplicación de la política de desarrollo social y formular propuestas de reorientación;
 
-VI. Supervisar la transparencia, equidad y objetividad en la aplicación de los programas de desarrollo social;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-VII. Establecer lineamientos para realizar estudios y diagnósticos relacionados al desarrollo social;
+V. Impulsar la participación ciudadana en el seguimiento, operación y evaluación de la política de Desarrollo Social Estatal y Municipal;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VI. Supervisar la transparencia, equidad y objetividad en la aplicación de los programas estatales y municipales de desarrollo social;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VII. Establecer lineamientos para realizar estudios y diagnósticos relacionados al desarrollo social del Estado y Municipios;
 
 VIII. Proponer y propiciar la colaboración de organismos públicos y privados, nacionales y extranjeros, en el desarrollo de la investigación en materia de Desarrollo Social;
 
@@ -595,9 +655,11 @@ De acuerdo con los resultados de las evaluaciones, el Consejo podrá emitir las 
 
 ### CAPÍTULO I. De su objeto e integración
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-Se crea el Sistema Estatal para el Desarrollo Social como un mecanismo de coordinación, concurrencia y ordenamiento de las acciones y programas federales, estatales y municipales, así como de los esfuerzos concertados con la sociedad, que provee el sustento institucional a la Política Estatal de Desarrollo Social como una sola voluntad de gobierno y sociedad para el desarrollo social y la superación de la pobreza en la entidad.
+El Sistema Estatal para el Desarrollo Social es el mecanismo de coordinación, concurrencia y ordenamiento de las acciones y programas federales, estatales y municipales, en los términos previstos en la Ley General.
 
 ###### Artículo 53.
 
@@ -611,7 +673,9 @@ III. Coordinar el proceso de la planeación en sus etapas de formulación, instr
 
 IV. Organizar sustantivamente el proceso de la planeación de la Política Estatal de Desarrollo Social, de acuerdo a la estrategia para el desarrollo social y superación de la pobreza definida por esta Ley; y
 
-V. Evaluar los resultados de los programas y acciones, para sugerir su reorientación a las instancias federales, estatales y municipales responsables de su ejecución.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+V. Evaluar los resultados de los programas estatales, municipales y en general de las acciones en materia de desarrollo social, para sugerir su reorientación a las instancias estatales y municipales responsables de su ejecución.
 
 ### CAPÍTULO II. De su estructura
 
@@ -705,9 +769,11 @@ VIII. Los programas y fondos públicos destinados a la generación y conservaci�
 
 IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-La distribución de los fondos de aportaciones estatales, relativas a los programas sociales de educación, salud, alimentación, infraestructura social, generación de empleos productivos y mejoramiento del ingreso se hará con criterios de equidad y transparencia, conforme a la normatividad aplicable.
+La distribución de los fondos de aportaciones federales y estatales, relativas a los programas sociales de educación, salud, alimentación, infraestructura social, generación de empleos productivos y mejoramiento del ingreso se hará con criterios de equidad y transparencia, conforme a la normatividad aplicable.
 
 ###### Artículo 63.
 
@@ -719,9 +785,11 @@ El Congreso del Estado de conformidad con sus atribuciones, procurará que se de
 
 ### CAPITULO II. De las Zonas de Atención Prioritaria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 65.
 
-Para efectos de la presente Ley se consideran como grupos o sectores que merecen especial atención en la elaboración, ejecución, seguimiento y evaluación de la Política de Desarrollo Social, los siguientes:
+Para efectos de la presente Ley y en la aplicación de los programas y política de desarrollo estatal y municipal, se considerarán como zonas de atención prioritaria, además de las así determinadas en los términos de la Ley General, las siguientes áreas, regiones o grupos que por su condición merecen especial atención en la elaboración, ejecución, seguimiento y evaluación de la Política de Desarrollo Social:
 
 I. Las regiones, municipios, micro regiones, polígonos y zonas de atención prioritaria e inmediata que muestren altos índices de marginación respecto de los objetivos de la Política de Desarrollo Social;
 
@@ -729,9 +797,11 @@ II. La población que se encuentre en situación de pobreza o vulnerabilidad; in
 
 III. Los grupos ubicados en polígonos y zonas de riesgo considerando criterios demográficos y geofísicos para la definición de estrategias de prevención y atención a la población, con énfasis en aquellos asentamientos precarios y vulnerables que se encuentran bajo riesgo de desastres.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 66.
 
-Para lograr una mejor asignación de recursos y una mayor eficiencia en el abatimiento de la pobreza y atención a grupos vulnerables, los programas, planes y acciones en materia de Desarrollo Social serán diseñados y puestos en práctica en base a criterios que impliquen la identificación correcta y precisa de los sectores y grupos en situación de pobreza, así como de los territorios en los que ellos están localizados, entendidos estos como zonas de atención prioritaria.
+Para lograr una mejor asignación de recursos y una mayor eficiencia en el abatimiento de la pobreza y atención a grupos vulnerables, los programas, planes y acciones en materia de Desarrollo Social Estatal serán diseñados y puestos en práctica en base a criterios que impliquen la identificación correcta y precisa de los sectores y grupos en situación de pobreza, así como de los territorios en los que ellos están localizados, entendidos estos como zonas de atención prioritaria.
 
 ###### Artículo 67.
 
@@ -765,9 +835,11 @@ IV. Prever los recursos financieros necesarios para dar atención especial a los
 
 La Secretaría y los Ayuntamientos deberán prestarse mutua colaboración institucional para el intercambio de información y la asesoría y transferencia de técnicas, así como a la recopilación de datos y presentación de informes para mejorar el conocimiento y la ordenación del desarrollo social en el Estado, atendiendo a la naturaleza multisectorial y multifactorial de la pobreza, que se encuentra relacionada con numerosos aspectos del desarrollo.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 72.
 
-A efecto de establecer la definición, identificación y medición de la pobreza, la Secretaría utilizará los lineamientos y criterios que establezca el CONEVAL, así como la información que genere el Instituto Nacional de Estadística Geografía e Informática; independientemente de otros datos que estime conveniente.
+A efecto de establecer la definición, identificación y medición de la pobreza en el Estado, la Secretaría utilizará los lineamientos y criterios que sugiera el Consejo; independientemente de otros datos que estime conveniente.
 
 ## TÍTULO VII. DE LA PARTICIPACIÓN SOCIAL, TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
@@ -805,9 +877,11 @@ IV. El otorgamiento de constancias, apoyos, estímulos públicos, asesoría y ca
 
 ### CAPÍTULO II. De la denuncia popular
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 78.
 
-La denuncia ciudadana es la facultad individual y colectiva que poseen las personas, de recurrir ante el órgano competente a interponer toda queja o denuncia derivada por actos administrativos de gobierno que atenten en contra de los sujetos beneficiarios de esta ley.
+La denuncia popular es la facultad individual y colectiva que poseen las personas, de recurrir ante el órgano competente a interponer toda queja o denuncia contra todo hecho, acto u omisión que atente en contra de los sujetos beneficiarios de esta ley.
 
 ###### Artículo 79.
 
@@ -907,9 +981,11 @@ Además de las obligaciones que señalan los artículos anteriores, el Ejecutivo
 
 ### CAPÍTULO II. De la publicidad
 
-###### Artículo 94.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-La publicidad e información relativa a los programas de desarrollo social federales, estatales o municipales deberán identificarse con el escudo oficial de la o de las instituciones participantes, en los términos que señalen las leyes y reglamentos en la materia y tendrá la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
+###### Articulo 94.
+
+La publicidad e información relativa a los programas de desarrollo social estatales o municipales deberán identificarse con el escudo oficial de la o de las instituciones participantes, en los términos que señalen las leyes y reglamentos en la materia y tendrá la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
 
 ###### Artículo 95.
 
@@ -976,3 +1052,11 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 652 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LOS ARTÍCULOS 1, 2, 3, 4, 6, 7, 14, 18, 34, 36, 38, 52, 53, 62, 65, 66, 72, 78, Y 94 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
