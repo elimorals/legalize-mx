@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2015-03-27"
+last_updated: "2016-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -349,7 +349,7 @@ Desarrollo urbano en categorías políticas
 
 ###### Artículo 23.
 
-En las categorías políticas a que se refiere el artículo anterior, el Ayuntamiento promoverá el desarrollo urbano con base al Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial, procurando correspondientes, en atención a sus características y requerimientos. (sic)
+En las categorías políticas a que se refiere el artículo anterior, el Ayuntamiento promoverá el desarrollo urbano con base al Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial, procurando (sic) correspondientes, en atención a sus características y requerimientos.
 
 Fusión, división o cambio de categorías políticas
 
@@ -1122,6 +1122,190 @@ IX. De Igualdad de Género.
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
 
 X. De Medio Ambiente.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Hacienda, Patrimonio y Cuenta Pública
+
+###### Artículo 83
+
+2. La Comisión de Hacienda, Patrimonio y Cuenta Pública tendrá las siguientes atribuciones:
+
+I. Conocer sobre los asuntos relacionados con los ingresos y egresos municipales;
+
+II. Conocer los asuntos relacionados con el patrimonio del municipio;
+
+III. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+IV. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+V. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Obra y Servicios Públicos
+
+###### Artículo 83
+
+3. La Comisión de Obra y Servicios Públicos tendrá las siguientes atribuciones:
+
+I. Participar en la conformación del Programa Anual de Obra Pública y de los servicios relacionados con la misma;
+
+II. Promover la prestación puntual, oportuna y eficiente de los servicios públicos municipales, de conformidad con las disposiciones aplicables;
+
+III. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+IV. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+V. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Seguridad Pública y Tránsito
+
+###### Artículo 83
+
+4. La Comisión de Seguridad Pública y Tránsito tendrá las siguientes atribuciones:
+
+I. Coadyuvar a preservar la seguridad pública, el orden y la paz social en el municipio;
+
+II. Procurar que se cumplan las disposiciones y acuerdos que en esta materia dicte el Ayuntamiento;
+
+III. Proponer campañas de difusión en materia de seguridad pública y tránsito;
+
+IV. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Desarrollo Urbano y Ordenamiento Ecológico Territorial
+
+###### Artículo 83
+
+5. La Comisión de Desarrollo Urbano y Ordenamiento Ecológico Territorial tendrá las siguientes atribuciones:
+
+I. Coadyuvar al cumplimiento de las disposiciones en materia de desarrollo urbano y ordenamiento ecológico territorial;
+
+II. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+III. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+IV. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Salud Pública y Asistencia Social
+
+###### Artículo 83
+
+6. La Comisión de Salud Pública y Asistencia Social tendrá las siguientes atribuciones:
+
+I. Coadyuvar con las autoridades del sector salud en la implementación de la política pública en materia de salud;
+
+II. Promover la aplicación de programas de asistencia social;
+
+III. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+IV. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+V. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Educación, Cultura, Recreación y Deporte
+
+###### Artículo 83
+
+7. La Comisión de Educación, Cultura, Recreación y Deporte tendrá las siguientes atribuciones:
+
+I. Coadyuvar con los gobiernos federal y estatal en el cumplimiento de las disposiciones que en materia de educación establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, esta Ley u otros ordenamientos aplicables;
+
+II. Fomentar acciones en favor de la cultura, la recreación y el deporte;
+
+III. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+IV. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+V. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Desarrollo Rural y Económico
+
+###### Artículo 83
+
+8. La Comisión de Desarrollo Rural y Económico tendrá las siguientes atribuciones:
+
+I. Promover el desarrollo de las actividades agropecuarias en el municipio;
+
+II. Coadyuvar con los gobiernos federal y estatal en la ejecución de los programas municipales en la materia de su competencia;
+
+III. Promover el desarrollo de las actividades industriales, comerciales y de servicios, en el municipio;
+
+IV. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Contraloría
+
+###### Artículo 83
+
+9. La Comisión de Contraloría tendrá las siguientes atribuciones:
+
+I. Dar seguimiento al plan de trabajo, informes relativos y a las recomendaciones que al efecto formule el Contralor Municipal;
+
+II. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+III. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+IV. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Igualdad de Género
+
+###### Artículo 83
+
+10. La Comisión de Igualdad de Género tendrá las siguientes atribuciones:
+
+I. Proponer medidas administrativas en materia de igualdad de género;
+
+II. Coadyuvar con las dependencias y entidades de la administración pública municipal en el impulso de acciones en materia de igualdad de género;
+
+III. Coadyuvar con las dependencias y entidades de la administración pública municipal en la difusión de campañas en materia de igualdad de género;
+
+IV. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Atribuciones de la comisión de Medio Ambiente
+
+###### Artículo 83
+
+11. La Comisión de Medio Ambiente tendrá las siguientes atribuciones:
+
+I. Coadyuvar al cumplimiento de las disposiciones que en materia de medio ambiente le correspondan al municipio;
+
+II. Promover las medidas para el uso racional de los recursos naturales;
+
+III. Proponer medidas tendentes a la debida protección de la flora y fauna existente en el municipio;
+
+IV. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
+
+V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 ### Capítulo X. De la Desaparición de Ayuntamientos o Concejos Municipales
 
@@ -2933,6 +3117,10 @@ Principio de universalidad presupuestaria
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y que tenga saldo disponible para cubrirlo, a excepción de las resoluciones de naturaleza jurisdiccional que determinen obligaciones a cargo del Municipio.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Las actividades de programación-presupuestación, ejercicio, control, seguimiento y evaluación de los recursos públicos; deberán ejecutarse conforme lo establezca este (sic) la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, así como las decisiones y acuerdos establecidos por el Consejo Nacional de Armonización Contable.
+
 ## Título Noveno
 
 ### Capítulo I. De la Justicia Administrativa Municipal
@@ -3410,3 +3598,17 @@ Artículo Segundo. Los municipios del estado contarán con un período de 90 dí
 Artículo Tercero. Los municipios del estado contarán con un período de 90 días para modificar su reglamento del Consejo de Planeación de Desarrollo Municipal para los efectos del presente Decreto.
 
 Artículo Cuarto. Los municipios del estado contarán con un período máximo de 8 meses, para emitir el acuerdo de creación de la dependencia de Medio Ambiente, así como contemplar la partida presupuestal para tal efecto.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 114, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO TERCERO DEL “DECRETO NÚMERO 115, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; LEY DE COORDINACIÓN FISCAL DEL ESTADO; Y SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente ARTÍCULO TERCERO del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
