@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2016-10-21"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1853,13 +1853,23 @@ a) A partir de la ausencia definitiva del Fiscal General del Estado, la Legislat
 
 La presidencia de la Legislatura o de la Diputación Permanente, convocará a los Grupos parlamentarios representados en la Legislatura, para que presenten hasta dos propuestas para ocupar el cargo de Fiscal General del Estado. La Comisión de Puntos Constitucionales de la Legislatura, dictaminará sobre el cumplimiento de los requisitos de los candidatos para integrar la lista a que refiere el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Si el Ejecutivo no recibe la lista en el plazo señalado en el primer párrafo del presente inciso, enviará libremente a la Legislatura del Estado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+
 b) Recibida la lista a que se refiere el inciso anterior, dentro de los diez días naturales siguientes el Ejecutivo formulará la terna y la enviará a la consideración de la Legislatura del Estado.
 
 c) La Legislatura del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de los miembros integrantes de la Legislatura, dentro del plazo de diez días naturales.
 
 En caso de que el Ejecutivo no envíe la terna a que se refiere el párrafo anterior, la Legislatura del Estado tendrá diez días naturales para designar al Fiscal General de entre los candidatos de la lista que señala el inciso a) del presente apartado.
 
-d) El Fiscal General del Estado podrá ser removido por la Legislatura del Estado, por determinación de ésta o a solicitud del Ejecutivo Estatal ante la Legislatura del Estado por las causas graves y el procedimiento que establezca la ley. La remoción deberá ser aprobada por el voto de las dos terceras partes de los miembros integrantes de la Legislatura del Estado.
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Si la Legislatura del Estado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+d) El Fiscal General podrá ser removido por el Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
 e) En los recesos de la Legislatura del Estado, la Diputación Permanente convocará de inmediato a periodo extraordinario para la designación o remoción del Fiscal General del Estado.
 
@@ -1883,11 +1893,7 @@ El presupuesto de egresos para la Fiscalía General del Estado no podrá ser men
 
 La Cuenta Pública de la Fiscalía General del Estado se sujetará a lo dispuesto por esta Constitución y las leyes aplicables en la materia.
 
-D.- La Fiscalía General del Estado contará con una Contraloría Interna con autonomía técnica y de gestión, responsable de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos, así como del desempeño de los órganos, direcciones, funcionarios y personal. El contralor interno de la Fiscalía General del Estado, durará en su encargo seis años y será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado, de entre las propuestas que formulen los Grupos Parlamentarios, con base en los requisitos y en los términos que disponga la ley, y estará sujeto al régimen de responsabilidades públicas previsto por esta Constitución para los Servidores Públicos del Estado.
-
-El Contralor interno de la Fiscalía General del Estado no podrá, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrá recibir percepciones derivadas de la docencia, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrá ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
-
-La retribución del Contralor interno de la Fiscalía General del Estado será la que corresponda a las obligaciones y responsabilidades del desempeño del cargo.
+D.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2016)
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -4761,7 +4767,7 @@ P.O. 15 DE JUNIO DE 2016.
 
 P.O. 25 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 411 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 411 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo, con excepción de lo previsto en el artículo séptimo transitorio de este decreto.
 
@@ -4830,3 +4836,13 @@ SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que
 TERCERO. El procedimiento para la elección de los Magistrados Numerarios vacantes, deberá iniciar a más tardar dentro de los quince días siguientes a la entrada en vigor del presente decreto.
 
 CUARTO. Los Magistrados Supernumerarios que se encuentren en funciones a la entrada en vigor del presente decreto y que no hayan sido reelectos en el mismo cargo, podrán reelegirse por el periodo de tres años establecido en el párrafo tercero del artículo 100 de esta Constitución.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 007 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+TERCERO. Se faculta al Fiscal General del Estado para que expida el Acuerdo de creación de un Órgano de Control y Evaluación Interna (sic) adscrito a la Fiscalía General del Estado, así como la designación del titular del mismo, el cual tendrá temporalmente las atribuciones relativas a la fiscalización de los recursos públicos, sanción de sus servidores públicos y de evaluación de su situación patrimonial, establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, hasta en tanto, la Legislatura del Estado implemente el Sistema Nacional Anticorrupción, de conformidad con lo dispuesto por el Artículo Transitorio Tercero del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado en el Diario Oficial de la Federación el día 18 de Julio de 2016.
