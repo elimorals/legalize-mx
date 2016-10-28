@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-10-21"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -6365,6 +6365,12 @@ La comparecencia del menor será desahogada personalmente por el Juez con asiste
 
 ART. 926 BIS.- En el caso del concebido fuera de matrimonio o de concubinato, la mujer embarazada tiene el derecho de exigir ante el Juez de lo Familiar el pago o el aseguramiento de alimentos, quien deberá acreditar su estado con el certificado médico de embarazo emitido por institución de salud pública y siempre que se encuentre acreditada la filiación en relación con el padre en los términos previstos por el artículo 357 del Código Civil para el Estado de Baja California.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+ART. 926 TER.- En los juicios del orden familiar el juzgador podrá ordenar la separación y depósito de personas, atendiendo a las circunstancias del caso, situación de los hijos, posibilidades económicas y necesidades de los miembros de la familia, privilegiando el interés superior del menor y de las personas discapacitadas o que no tengan la capacidad de comprender el significado del hecho.
+
+El juez podrá decretar quien deberá habitar el domicilio conyugal y en su caso quien deberá retirarse de la misma, considerando las medidas compensatorias al decidir los demás rubros de la pensión alimenticia, pudiendo también decretar medidas de protección a las partes.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ART. 927.- En todos los asuntos de orden familiar en los que exista controversia entre partes, el juez tendrá la obligación de citar a las partes para que asistan personalmente a una audiencia de conciliación en la que solo se tratara de resolver sus diferencias mediante convenio con el que pueda terminarse la controversia y poner fin al procedimiento.
@@ -7214,3 +7220,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor 120 días posteriores al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Publicada la presente reforma el Consejo de la Judicatura del Poder Judicial del Estado de Baja California, tendrá un término de 90 días para elaborar los lineamientos a los que se sujetarán los exhortos y despachos a que se refiere la presente reforma.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 634 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN AL ARTÍCULO 926 TER, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial.
