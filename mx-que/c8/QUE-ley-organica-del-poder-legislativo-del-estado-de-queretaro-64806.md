@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2016-10-21"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1587,6 +1589,10 @@ XXIV. Movilidad Sustentable. Tiene a su cargo la atención de asuntos en materia
 
 XXV. Transparencia y rendición de cuentas: Tiene a su cargo vigilar que todo el trabajo administrativo y gasto público que realicen la Dirección de Servicios Administrativos y la Dirección de Servicios Financieros, se ejerza con base en los programas aprobados y en el presupuesto de ingresos y egresos de la Legislatura, pero sin interrumpir el normal desarrollo de la institución; solicitar de cualquier órgano y dependencia del Poder Legislativo los informes que requiera; supervisar y observar, en los términos de la ley de la materia, la rendición del informe de la cuenta pública de la Legislatura; detectar y, en su caso, notificar a la Contraloría Interna, todas y cada una de las presuntas irregularidades e inconsistencias legales en que incurran los funcionarios de los órganos y dependencias del Poder Legislativo.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Las Comisiones podrán requerir, en el ámbito de su competencia, a los Poderes del Estado, los organismos constitucionales autónomos, los municipios y los organismos públicos descentralizados estatales y municipales, información necesaria para el estudio, análisis y dictamen de los asuntos que les sean turnados, con motivo de su Comisión.
+
 ###### Artículo 146.
 
 (Comisiones especiales) La Legislatura podrá constituir Comisiones Especiales para la investigación o despacho de asuntos específicos que requieran un tratamiento particular.
@@ -1931,9 +1937,9 @@ XIII. Requerir a los diputados electos, con al menos un mes de anticipación a l
 
 XIV. Auxiliar a las comisiones, participar y colaborar en la elaboración de los proyectos de dictamen y demás asuntos de que conozcan. Para tal efecto podrá solicitar el apoyo de la Dirección de Investigación y Estadística Legislativa en el ámbito de sus facultades, así como de personal externo, cuando se requieran conocimientos técnicos específicos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO DECIMO TRANSITORIO DE LA LEY.</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XV. Tener a su cargo, la Unidad de Información Gubernamental, área encargada de proporcionar la información pública institucional en los términos de la Ley de la materia;
+XV. Tener a su cargo, la Unidad de Transparencia, área encargada de proporcionar la información pública institucional en los términos de la Ley de la materia;
 
 XVI. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento; y
 
@@ -2183,9 +2189,9 @@ Ante el incumplimiento de la resolución, se incurrirá en responsabilidad y se 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2016)</small>
 
-### Capítulo Segundo. Unidad de Información Gubernamental
+### Capítulo Segundo. Unidad de Transparencia
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 200.
 
@@ -2203,21 +2209,27 @@ I. Un Presidente, que será el titular de la Dirección de Asuntos Legislativos 
 
 II. Dos vocales, que serán los titulares de la Dirección de Servicios Administrativos y de la Dirección de Servicios Financieros; y
 
-III. Un Secretario Técnico, que será el titular de la Unidad de Información Gubernamental.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+III. Un Secretario Técnico, que será el titular de la Unidad de Transparencia.
 
 Sesionará mensualmente de forma ordinaria y de manera extraordinaria cuando así lo requiera por su naturaleza, previa convocatoria que emita el Secretario Técnico a petición del Presidente. Adoptarán sus resoluciones por mayoría de votos, teniendo el presidente el voto de calidad en caso de empate. El Secretario Técnico sólo tendrá derecho a voz.
 
 Semestralmente, el Comité presentará a la Mesa Directiva un informe del estado que guardan los trámites y acciones relacionadas con su funcionamiento, dando cuenta además a la Comisión de Transparencia y rendición de cuentas.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 202.
 
-(Función y atribuciones de la Unidad de Información Gubernamental) Es la instancia administrativa responsable de hacer los requerimientos de la información solicitada a los órganos y dependencias del Poder Legislativo y las notificaciones necesarias a los peticionarios, verificando en cada caso que la información no sea de la considerada como reservada o confidencial.
+(Función y atribuciones de la Unidad de Transparencia) Es la instancia administrativa responsable de hacer los requerimientos de la información solicitada a los órganos y dependencias del Poder Legislativo y las notificaciones necesarias a los peticionarios, verificando en cada caso que la información no sea de la considerada como reservada o confidencial.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
 
 La Unidad tiene como atribuciones las conferidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, la presente Ley y demás normatividad que resulte aplicable.
 
-El titular de la Unidad de Información Gubernamental fungirá como Secretario Técnico del Comité de Transparencia del Poder Legislativo y ejecutará las determinaciones que éste establezca.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+El titular de la Unidad de Transparencia fungirá como Secretario Técnico del Comité de Transparencia del Poder Legislativo y ejecutará las determinaciones que éste establezca.
 
 ## TRANSITORIOS
 
@@ -2420,3 +2432,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
