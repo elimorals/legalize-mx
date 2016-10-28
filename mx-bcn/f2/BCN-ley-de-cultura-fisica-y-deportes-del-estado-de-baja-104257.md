@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2016-07-29"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -511,9 +511,13 @@ VI.- Procurar que todas las instalaciones y espacios definidos para la práctica
 
 Asimismo, en el marco de sus atribuciones de conformidad con el artículo 12 fracción I de la Ley de Salud Pública del Estado, deberán promover las condiciones para que en las referidas instalaciones deportivas se brinde atención médica de primeros auxilios y en general aquella vinculada con la atención inmediata a afectaciones a la salud derivadas de la práctica del deporte en dichas instalaciones.
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-VII.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+VII.- Establecer medidas que garanticen a los adultos mayores el acceso gratuito a las unidades deportivas que dependan del Ayuntamiento; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VIII.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -1944,3 +1948,9 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 513 MEDIANTE EL CUAL SE APRUEBA LA REFORMA POR LA CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 205 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 677 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 31 FRACCIÓN VII ADICIONADO (SIC) UNA FRACCIÓN VIII A LA LEY DE CULTURA FÍSICA Y DEPORTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
