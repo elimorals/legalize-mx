@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-del-89336"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2012-08-30"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes de 10 de septiembre de 2012.
 
@@ -117,7 +117,11 @@ II. Coadyuvar con las diferentes instancias del gobierno federal y estatal en la
 
 III. Procurar utilizar y promover la utilización de un lenguaje con perspectiva de género en la redacción de la comunicación oficial que de éstos emane;
 
-IV. Promover campañas de concientización sobre la discriminación hacia las mujeres y la importancia de la igualdad sustantiva entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+IV. Promover campañas de concientización sobre la discriminación hacia las mujeres y la importancia de la igualdad sustantiva entre mujeres y hombres;
+
+El contenido de la publicidad municipal a través de la cual se difundan las campañas a que refiere esta fracción, deberán estar desprovistas de estereotipos establecidos en función del sexo de las personas; y
 
 V. Fomentar la participación social, política, económica y ciudadana de las mujeres y hombres, tanto en las áreas urbanas como rurales.
 
@@ -343,7 +347,11 @@ VI. Impulsar iniciativas destinadas a favorecer la promoción específica de la 
 
 VII. Integrar el principio de igualdad sustantiva en la formación del personal del servicio de salud, para atender situaciones de violencia de género;
 
-VIII. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la vida familiar y en la atención de las personas dependientes de ellos; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VIII. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la vida familiar y en la atención de las personas dependientes de ellos.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
 
 IX. Incorporar la progresividad de los servicios de cuidado y atención del desarrollo integral de las niñas y los niños.
 
@@ -490,3 +498,15 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrara en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase la presente al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
