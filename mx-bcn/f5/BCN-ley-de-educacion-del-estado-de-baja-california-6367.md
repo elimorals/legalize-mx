@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2016-10-21"
+last_updated: "2016-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -405,11 +405,15 @@ XXVIII.- Establecer medidas para que directivos y el personal docente de los cen
 
 > <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
 
-XXIX. Garantizar y fomentar en las escuelas públicas de educación básica, el derecho al acceso gratuito al agua potable para beber.
+XXIX.- Garantizar y fomentar en las escuelas públicas de educación básica, el derecho al acceso gratuito al agua potable para beber.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXX.- Las demás atribuciones que emanen del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XXX.- Establecer mecanismos de orientación vocacional, tendientes a orientar a los estudiantes de educación media superior. Así como, a difundir información sobre la oferta de puestos de trabajo y el nivel de ingreso para los graduados de las distintas carreras.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XXXI.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -1177,9 +1181,9 @@ XVIII.- Las demás establecidas en las leyes y reglamentos respectivos.
 
 Son obligaciones de quienes ejercen la patria potestad o tutela:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-I.- Hacer que sus hijos o pupilos, menores de dieciocho años de edad, reciban la educación preescolar, la primaria y la secundaria.
+I.- Hacer que sus hijos o pupilos, menores de dieciocho años de edad, reciban la educación preescolar, la primaria y la secundaria y media superior;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
@@ -1269,11 +1273,11 @@ Las autoridades educativas promoverán, de conformidad con los lineamientos que 
 
 Será responsabilidad de las autoridades de cada escuela de educación pública, vincular a ésta, activa y constantemente, con la comunidad. Las autoridades educativas del Estado y de los ayuntamientos darán toda su colaboración para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 68.
 
-Las autoridades educativas harán lo conducente para que en cada escuela pública de educación básica, opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, trabajadores de la educación y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, directivos de la escuela, ex alumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+Las autoridades educativas harán lo conducente para que en cada escuela pública de educación básica y media superior, opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, trabajadores de la educación y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, directivos de la escuela, ex alumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
 Las autoridades educativas podrán estructurar el sistema de consejos de participación social de acuerdo a las necesidades propias de cada región.
 
@@ -1341,9 +1345,9 @@ XIII.- Promoverán y organizarán acciones de prevención para la salud en coord
 
 XIV.- Respaldarán las labores cotidianas de la escuela y en general, podrán realizar actividades en beneficio de la propia escuela sin menoscabo de las acciones que implementen otras organizaciones.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-Los Consejos Análogos deberán operar en las escuelas particulares de educación básica.
+Los Consejos Análogos deberán operar en las escuelas particulares de educación básica y media superior.
 
 ###### ARTICULO 70.
 
@@ -1369,9 +1373,9 @@ I. El mejoramiento de los servicios educativos, la construcción y ampliación d
 
 II. Conocerán de los resultados de las evaluaciones que realicen las autoridades educativas;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-III. Llevarán a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
+III.- Llevarán a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica y media superior en el municipio que les corresponda;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -2104,3 +2108,17 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 641 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 646 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XXX, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN XXXI AL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 685 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 61 FRACCIÓN I, 68, 69 Y 71, DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Baja California.
+
+SEGUNDO.- Dentro de los 60 días siguientes a la entrada en vigor de las presentes reformas, el Ejecutivo Estatal deberá armonizar los reglamentos correspondientes.
