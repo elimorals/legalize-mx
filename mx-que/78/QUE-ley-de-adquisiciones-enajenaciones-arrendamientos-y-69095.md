@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2015-12-17"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -653,6 +653,50 @@ Efectuada la enajenación, las Oficialías Mayores procederán a la cancelación
 
 La transmisión de la propiedad que bajo cualquier forma se realice de los bienes inmuebles propiedad de los Poderes del Estado y entidades públicas, sólo podrá efectuarse previa autorización de la Legislatura del Estado, con excepción de aquellos pertenecientes a entidades públicas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre y cuando la misma sea relativa a su objeto. Las enajenaciones que se lleven a cabo sin dicha autorización estarán afectadas de nulidad absoluta. Las enajenaciones de bienes inmuebles propiedad de los municipios se realizarán de conformidad con lo dispuesto en las leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Artículo 65 bis. La solicitud de autorización a que se refiere el artículo que antecede, para la desincorporación de los bienes a que hace referencia, deberá presentarse ante la Legislatura del Estado, mediante escrito dirigido al Presidente de la Mesa Directiva, conteniendo la propuesta del proyecto de decreto correspondiente y adjuntando las documentales que comprueben el cumplimiento de los requisitos siguientes:
+
+I. Acreditar la propiedad del inmueble que se pretende desincorporar y que se encuentra libre de gravámenes, exhibiendo:
+
+a) Copia certificada de la escritura pública o título en que conste la propiedad;
+
+b) Original o copia certificada del Certificado de Libertad de Gravamen reciente, con anotaciones marginales, expedido por el Registro Público de la Propiedad y del Comercio; y
+
+c) Original o copia certificada del oficio suscrito por el titular de la Oficialía Mayor o autoridad encargada de la administración de bienes inmuebles de los Poderes del Estado, Ayuntamientos o entidad pública que corresponda, donde se manifieste que el inmueble objeto de la desincorporación se encuentra debidamente integrado en el inventario o padrón de bienes inmuebles respectivo y su uso;
+
+II. Demostrar el desahogo del procedimiento administrativo correspondiente, mediante los siguientes documentos:
+
+a) Original o copia Certificada del Acuerdo de Cabildo en el que se autoriza la desincorporación del inmueble y se aprueba su remisión a la Legislatura, cuando el solicitante sea un Ayuntamiento;
+
+b) Original o copia certificada del Acta circunstanciada de la sesión del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de los Poderes del Estado, Ayuntamientos o entidad pública que corresponda, en la que conste la racionalización de la desincorporación;
+
+c) Original o copia certificada del dictamen de uso de suelo o su equivalente;
+
+d) Original o copia certificada del Plano de lotificación o, en su caso, de ubicación del inmueble;
+
+e) Original o copia certificada de la protocolización de la subdivisión del inmueble, en su caso;
+
+f) Desarrollo descriptivo del destino que se pretende otorgar al inmueble con la desincorporación solicitada, cuando ésta sea de carácter gratuito;
+
+g) Original o copia certificada del oficio en el cual el titular de la Oficialía Mayor o dependencia encargada de la administración de servicios internos, humanos, materiales y técnicos de los Poderes del Estado, Ayuntamientos o entidad pública que corresponda, dictamine el valor del inmueble a desincorporar;
+
+h) Original o copia certificada reciente del avalúo fiscal del bien inmueble a desincorporar;
+
+III. Comprobar la existencia de los beneficiarios de la desincorporación, cuando ésta sea a título gratuito, mediante la exhibición de:
+
+a) Original o copia certificada de la solicitud de donación del inmueble, dirigida al titular del Poder del Estado, Ayuntamiento o entidad pública propietaria del bien a desincorporar, con la justificación del beneficio;
+
+b) Original o copia certificada del acta constitutiva de la persona moral que solicita la donación, en su caso;
+
+c) Copia certificada del documento de creación, tratándose de organismos públicos;
+
+d) Original o copia certificada de la representación legal de quien solicita la donación respectiva; y
+
+IV. Justificar en la solicitud de autorización con argumentos plenamente sustentados, el beneficio social o interés público que se persigue, así como el destino material de los recursos producto de la enajenación del inmueble, cuando la desincorporación se solicite a título oneroso.
+
+La Legislatura del Estado, a través de la Comisión que corresponda, podrá requerir información adicional al solicitante u obviar la presentación de alguna de las señaladas en este artículo, atendiendo a las particularidades de la desincorporación que se trate.
+
 ### Capítulo Décimo. De los almacenes
 
 ###### Artículo 66.
@@ -1070,3 +1114,11 @@ XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cá
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA UN ARTÍCULO 65 BIS A LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
