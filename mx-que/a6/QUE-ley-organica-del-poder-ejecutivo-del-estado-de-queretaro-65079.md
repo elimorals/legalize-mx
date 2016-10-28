@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2015-12-17"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -45,7 +45,9 @@ LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
 Esta Ley tiene por objeto regular la organización y funcionamiento de la administración pública central del Estado.
 
-Forman la administración pública central del Estado de Querétaro, el Gobernador, las dependencias del Poder Ejecutivo de que trata esta Ley y la Procuraduría General de Justicia.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Forman la administración pública central del Estado de Querétaro, el Gobernador y las dependencias del Poder Ejecutivo de que trata esta Ley.
 
 ###### Artículo 2.
 
@@ -101,9 +103,11 @@ La representación legal del Estado corresponde al Gobernador, quien la ejercer�
 
 El Gobernador designará las dependencias de la administración pública estatal que deban coordinarse, para ejecutar los acuerdos que celebre el titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 8.
 
-Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado, deberán, para su validez y observancia constitucionales, ir refrendados por el Secretario de Gobierno y por el titular de la dependencia a la cual el asunto corresponda.
+Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales, ir refrendados por el Secretario de Gobierno.
 
 ###### Artículo 9.
 
@@ -189,9 +193,7 @@ X. La Secretaría de Salud;
 
 XI. La Oficialía Mayor;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
-
-XII. La Procuraduría General de Justicia;
+XII. (DEROGADA, P.O. 28 DE OCTUBRE DE 2016)
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -211,7 +213,7 @@ XVI. La Oficina de la Gubernatura.
 
 ###### Artículo 20.
 
-La Procuraduría General de Justicia, ejercerá las atribuciones que le señala la presente Ley, su Ley Orgánica y la Constitución Política del Estado de Querétaro.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2016)
 
 ### Capítulo Segundo. De la Secretaría de Gobierno
 
@@ -229,7 +231,9 @@ III. Conducir, por delegación del Gobernador del Estado, los asuntos de orden p
 
 IV. Actuar como encargado del despacho en ausencia del Gobernador del Estado, dentro de los límites que establezca la Constitución Política del Estado de Querétaro, así como representar legalmente al Estado en los términos de esta Ley;
 
-V. Refrendar, para que sean obligatorias, las leyes, decretos, reglamentos, acuerdos y demás disposiciones que el Gobernador del Estado promulgue o expida, además del titular de la dependencia a la cual el asunto corresponda;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+V. Refrendar, para que sean obligatorias, las leyes, decretos, reglamentos, acuerdos y demás disposiciones que el Gobernador del Estado promulgue o expida;
 
 VI. Vigilar el cumplimiento de las leyes, especialmente las referidas a los derechos fundamentales;
 
@@ -287,45 +291,109 @@ XXVI. Ejecutar las penas, medidas de seguridad, sustitutivos de prisión y benef
 
 XXVII. Organizar, dirigir y controlar el Sistema de Asesoría y Defensa Pública;
 
-XXVIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado y ordenar periódicamente visitas de inspección a las Notarías Públicas del Estado;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXIX. Llevar el libro de Registro de Notarios Públicos y organizar y controlar el Archivo General de Notarías del Estado;
+XXVIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado;
 
-XXX. Ejecutar, por acuerdo del Gobernador del Estado, las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la legislación relativa;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio;
+XXIX. Ordenar y practicar las visitas de inspección a las Notarías Públicas del Estado;
 
-XXXII. Organizar los actos cívicos del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXIII. Administrar y publicar el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
+XXX. Dirigir, vigilar, supervisar e inspeccionar la función notarial en el Estado;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXIV. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal; así como para el almacenaje, venta, consumo y porteo de bebidas alcohólicas; y ejercer, en su caso, los derechos que correspondan;
+XXXI. Requerir a los Notarios para que exhiban en su oficina notarial, en las oficinas de la Secretaria de Gobierno o de la autoridad competente, la información, datos, u otros documentos que sean necesarios para llevar a cabo la revisión del ejercicio de su función notarial;
 
-XXXV. Participar en los asuntos de materia agraria, por acuerdo del Gobernador del Estado, en los términos de las leyes respectivas;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXVI. Administrar el Archivo Histórico y el Archivo General del Estado;
+XXXII. Fijar y aplicar sanciones a los Notarios, suspender y determinar la responsabilidad administrativa de conformidad con la Ley del Notariado del Estado de Querétaro y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXVII. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
+XXXIII. Tramitar y resolver los procedimientos de queja instaurados en contra de los Notarios, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXVIII. Operar el Sistema Estatal de Protección Civil, de conformidad con la Ley de la materia;
+XXXIV. Llevar el libro de Registro de Notarios Públicos y organizar y controlar el Archivo General de Notarías del Estado;
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XXXIX. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
+XXXV. Ejecutar, por acuerdo del Gobernador del Estado, las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la legislación relativa;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XL. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
+XXXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio;
 
-XLI. (DEROGADA, P.O. 5 DE JULIO DE 2013)
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XLII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
+XXXVII. Organizar los actos cívicos del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XXXVIII. Administrar y publicar el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XXXIX. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XL. Verificar el cumplimiento de las disposiciones legales en cuanto a las actividades de almacenaje, venta y porteo de bebidas alcohólicas, y su consumo en los establecimientos y lugares donde se expendan éstas, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLI. Tramitar, otorgar, refrendar, supervisar, suspender y revocar las licencias y permisos para el almacenaje, venta, consumo y porteo de bebidas alcohólicas; y ejercer, en su caso, los derechos que correspondan;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLII. Expedir y ejecutar ordenes de visita, inspecciones de verificación y revisiones a las personas, establecimientos y lugares que realicen las actividades de almacenaje, venta, consumo y porteo de bebidas alcohólicas, con el fin de comprobar el cumplimiento de las obligaciones establecidas en las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLIII. En el ámbito de su competencia, determinar e imponer sanciones a las personas que realicen las actividades de almacenaje, venta, comercialización, consumo y porteo de bebidas alcohólicas, que incumplan las disposiciones aplicables, incluyendo la clausura de los establecimientos y negociaciones;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLIV. Participar en los asuntos de materia agraria, por acuerdo del Gobernador del Estado, en los términos de las leyes respectivas;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLV. Administrar el Archivo Histórico y el Archivo General del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLVI. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLVII. Formar parte del Sistema Estatal de Seguridad y el Consejo Estatal de Seguridad, de conformidad con la Ley de Seguridad para el Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLVIII. Proponer políticas, planes, servicios, programas y acciones al Consejo Estatal de Seguridad;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XLIX. Operar el Sistema Estatal de Protección Civil, de conformidad con la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+L. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+LI. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+LII. Vigilar que se cumpla con las actividades relativas a la evaluación de riesgos procesales, supervisión de medidas cautelares, suspensión condicional del proceso, así como el seguimiento a la ejecución de sanciones penales, medidas de seguridad y restrictivas de la libertad condicionada, impuestas por resolución judicial. Lo anterior tratándose de personas adultas y adolescentes según sea el caso, en los términos de la legislación penal aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2016)</small>
+
+LIII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
 
 ### Capítulo Tercero. De la Secretaría de Planeación y Finanzas
 
@@ -341,19 +409,19 @@ III. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de
 
 IV. Ejercer las atribuciones en materia tributaria derivadas de los convenios que celebre el Poder Ejecutivo del Estado con el Gobierno Federal y los municipios de la Entidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 V. Proponer al Gobernador del Estado el proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 VI. Ordenar y practicar visitas domiciliarias, revisión de dictámenes, revisiones electrónicas, auditorías, inspecciones y verificaciones, así como los demás actos que establezcan las disposiciones fiscales y los convenios de colaboración administrativa, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones federales coordinadas y estatales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -361,25 +429,25 @@ VII. Formular los estados financieros en términos de las disposiciones jurídic
 
 VIII. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 IX. Administrar el padrón de contribuyentes previsto en las leyes fiscales del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 X. Custodiar los documentos que constituyan valores del Estado, cuando su resguardo no corresponda a otra dependencia en términos de las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XI. Ejercer las facultades que en materia de deuda pública le confieran las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -387,7 +455,7 @@ XII. Efectuar los pagos correspondientes a las dependencias, órganos adscritos 
 
 XIII. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos que procedan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -401,37 +469,37 @@ XVII. Tramitar y resolver los recursos administrativos en la esfera de su compet
 
 XVIII. Administrar el catastro de la Entidad, conforme a lo establecido en las leyes respectivas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XIX. Llevar el sistema de programación del gasto público, de acuerdo con los objetivos y necesidades de la gestión gubernamental;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XX. Proyectar, calcular y supervisar los egresos del Poder Ejecutivo del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 XXII. Elaborar y presentar la cuenta pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXIII. Dar seguimiento financiero y administrativo, a la operación de las entidades paraestatales que no estén expresamente encomendados a otra dependencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXIV. Llevar la contabilidad gubernamental del Poder Ejecutivo del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -439,21 +507,21 @@ XXV. Celebrar, con la representación del titular del Poder Ejecutivo del Estado
 
 XXVI. Celebrar los instrumentos necesarios, en relación con la planeación y la administración financiera y tributaria;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXVII. Elaborar, con la participación de las dependencias y organismos del Poder Ejecutivo del Estado, el Plan Estatal de Desarrollo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXVIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXIX. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -461,25 +529,25 @@ XXX. Estudiar y formular los proyectos de leyes, decretos, reglamentos y demás 
 
 XXXI. Establecer y llevar los sistemas de control geográfico y de catastro;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXXII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 XXXIII. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de sus planes y programas de desarrollo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXXIV. Normar las acciones que en materia de informática se lleven a cabo en la administración pública estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXXV. Diseñar, implantar y operar, en coordinación con las dependencias y organismos, los sistemas computarizados que se requieran para su mejor funcionamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -487,19 +555,17 @@ XXXVI. Prestar asesoría técnica a las entidades públicas que lo requieran y d
 
 XXXVII. Dar a conocer en forma periódica, mediante publicación en el Periódico Oficial del Gobierno del Estado, los criterios no vinculativos de las disposiciones fiscales. Asimismo publicar en el mismo órgano de difusión, las resoluciones dictadas por las autoridades fiscales que faciliten su conocimiento y aplicación por parte de los contribuyentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 XXXVIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+XXXIX. Nombrar a los titulares de las direcciones y unidades administrativas de la Secretaría, así como al de la Procuraduría Fiscal del Estado,
 
-XXXIX. Nombrar a los titulares de las direcciones y unidades administrativas de la Secretaría, así como al de la Procuraduría Fiscal del Estado, y
+> <small>(REFORMADA [N. DE. E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-XL. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
+XL. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -545,7 +611,9 @@ XV. Hacer del conocimiento del Gobernador del Estado, los resultados de las dive
 
 XVI. Aplicar, en lo administrativo, las sanciones en que hayan incurrido servidores públicos en el ejercicio de sus funciones, a que se refiere la Ley de la materia;
 
-XVII. Presentar denuncias o querellas ante la Procuraduría General de Justicia del Estado o Tribunal de lo Contencioso Administrativo del Estado y Juicio Político ante la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XVII. Presentar denuncias o querellas ante la Fiscalía General del Estado de Querétaro, así como proceder a su ratificación, para iniciar la investigación que en derecho corresponda, derivada de hechos probablemente constitutivos de delito;
 
 XVIII. Establecer y aplicar el Sistema Estatal de Prevención, Vigilancia, Control y Evaluación del Poder Ejecutivo y sus organismos; y
 
@@ -681,11 +749,17 @@ XVI. Coadyuvar en la formulación y ejecución de los programas de difusión de 
 
 XVII. Implementar medidas y estrategias que propicien la incorporación de hábitos alimenticios sanos en los educandos, estilos de vida saludables como la actividad física y la práctica de ejercicio como medios para un sano desarrollo, de conformidad con las leyes aplicables;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XVIII. Ejercer, dentro de su ámbito de competencia, las atribuciones que en materia del servicio profesional docente y de evaluación educativa, le confieren las leyes y demás disposiciones aplicables; y
+XVIII. Ejercer, dentro de su ámbito de competencia, las atribuciones que en materia del servicio profesional docente y de evaluación educativa, le confieren las leyes y demás disposiciones aplicables;
 
-XIX. Las que les señalen las demás leyes y disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XIX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XX. Las que le señalen las demás leyes y disposiciones aplicables.
 
 ### Capítulo Noveno. De la Secretaría de Salud
 
@@ -731,11 +805,17 @@ XVII. Representar al Estado ante todo tipo de organismos de salud, con acuerdo d
 
 XVIII. Impulsar la permanente actualización de las disposiciones legales aplicables en materia de salud; y
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XIX. Implementar medidas y estrategias que propicien la adopción de hábitos alimenticios sanos y estilos de vida saludables por la población; y
+XIX. Implementar medidas y estrategias que propicien la adopción de hábitos alimenticios sanos y estilos de vida saludables por la población;
 
-XX. Las demás atribuciones afines a las anteriores que se requiera para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+
+(REUBICADA, P.O. 28 DE OCTUBRE DE 2016)
+
+XXI. Las demás atribuciones afines a las anteriores que se requiera para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones legales aplicables.
 
 ### Capítulo Décimo. De la Secretaría del Trabajo
 
@@ -769,9 +849,17 @@ XII. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que l
 
 XIII. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales;
 
-XIV. Brindar la asesoría legal necesaria para la conformación de cooperativas de productores y consumidores en el Estado; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XV. Las demás facultades y obligaciones que señalen las leyes y reglamentos vigentes en el Estado.
+XIV. Brindar la asesoría legal necesaria para la conformación de cooperativas de productores y consumidores en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XV. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XVI. Las que les señalen las demás leyes y disposiciones aplicables.
 
 #### Sección Única. De la Junta Local de Conciliación y Arbitraje
 
@@ -967,65 +1055,57 @@ XXII. Las demás facultades y obligaciones que le señalen las leyes y reglament
 
 ### Capítulo Décimo Tercero. De la Secretaría de Seguridad Ciudadana
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 33.
 
-La Secretaría de Seguridad Ciudadana es la dependencia estatal que, con respeto de la competencia federal y municipal, tiene a su cargo velar por el orden público y la paz social, en los términos de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, a través de la prevención y combate a todo tipo de conductas antisociales, así como la protección de las personas y sus bienes. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Seguridad Ciudadana es la dependencia de la administración pública estatal, encargada de la preservación de la seguridad y convivencia ciudadana, así como de los espacios destinados al uso y disfrute público, la prevención de los delitos y las infracciones, con la participación activa de la ciudadanía, la cual se regirá por lo dispuesto en su ley y los demás ordenamientos. Le corresponde el despacho de los siguientes asuntos:
 
-I. Diseñar, proponer y ejecutar las políticas y programas de seguridad pública en el ámbito estatal para prevenir la comisión de delitos y apoyar la procuración de justicia en bien los gobernados;
+I. Integrar el Sistema Estatal de Seguridad;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+II. Representar al Poder Ejecutivo del Estado, en el Sistema Nacional de Seguridad Pública;
 
-II. Diseñar, proponer y ejecutar las políticas y programas de tránsito, en su caso, con la participación de los municipios, de acuerdo a los convenios y programas en que éstos intervengan; así como expedir los permisos de circulación, las licencias y permisos para conducir;
+III. Proponer, en el ámbito de su competencia, al Consejo Estatal de Seguridad, políticas, acciones y estrategias de coordinación, en materia de prevención del delito y seguridad vial, para todo el territorio del Estado;
 
-III. (DEROGADA, P.O. 13 DE ENERO DE 2012)
+IV. Ejecutar las funciones específicas que corresponden al Sistema Estatal de Seguridad, establecidas en la Ley de Seguridad para el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+V. Diseñar, proponer y ejecutar las políticas y programas de seguridad pública en el ámbito estatal para prevenir la comisión de delitos y apoyar la procuración de justicia en bien de los gobernados;
 
-IV. Proponer al Gobernador del Estado, las medidas que garanticen la congruencia de las políticas de seguridad pública, tránsito y transporte entre las dependencias de la administración pública;
+VI. Colaborar y coordinarse en el ámbito de su competencia, con las instituciones de seguridad en el Estado y Municipios, para cumplir con las obligaciones previstas en la Constitución Política del Estado de Querétaro, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad para el Estado de Querétaro y demás disposiciones aplicables;
 
-V. Organizar, dirigir, administrar y supervisar a la Policía Estatal, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
+VII. Diseñar, proponer y ejecutar las políticas y programas de tránsito, en su caso, con la participación de los municipios, de acuerdo a los convenios y programas en que éstos intervengan; así como expedir los permisos de circulación, las licencias y permisos para conducir;
 
-VI. Nombrar a los Directores y Coordinadores de la Secretaría;
+VIII. Proponer al Consejo Estatal de Seguridad, las medidas que garanticen la congruencia de las políticas de seguridad pública, tránsito y transporte entre las dependencias de la administración pública;
 
-VII. Organizar, dirigir y administrar el servicio civil de carrera de la policía a su cargo y mantener coordinación con el Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, a efecto de que se brinden los servicios especializados de formación y capacitación que las corporaciones requieren;
+IX. Organizar, dirigir, administrar y supervisar a la Policía Estatal, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
 
-VIII. (DEROGADA, P.O. 13 DE ENERO DE 2012)
+X. Establecer las bases de coordinación para la operación policial, de conformidad con las políticas y lineamientos del Consejo Estatal de Seguridad y el Programa Estatal de Seguridad Pública, en el ámbito de su competencia;
 
-IX. Representar al Poder Ejecutivo del Estado, en el Sistema Nacional de Seguridad Pública;
+XI. Organizar, dirigir y administrar el servicio profesional de carrera de la policía a su cargo y mantener coordinación con el Instituto de Formación Policial, a efecto de que se brinden los servicios especializados de formación y capacitación que las corporaciones policiales requieren;
 
-X. Fungir como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
-
-XI. Proponer al Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación, en materia de prevención del delito y seguridad vial, para todo el territorio del Estado;
-
-XII. (DEROGADA, P.O. 13 DE ENERO DE 2012)
+XII. Propiciar la aplicación de los Mecanismos Alternativos de Solución de Controversias y Conflictos, en los términos que dispongan las leyes aplicables;
 
 XIII. Intervenir, en auxilio o en coordinación, con las autoridades competentes y en términos de las leyes relativas en materia de portación de armas y supervisar su portación por empleados estatales;
 
-XIV. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en la Entidad, así como supervisar su funcionamiento;
+XIV. Coordinar con la Federación y los Municipios, en el ámbito de su competencia, las acciones de vigilancia y protección de las instalaciones estratégicas, necesarias para mantener la paz y orden público;
 
-XV. Celebrar los convenios y acuerdos de colaboración, en el ámbito de su competencia, con autoridades federales, estatales y municipales, y con instituciones cuyo objeto o interés sea coincidente con los de la Secretaría;
+XV. Regular y ejecutar la autorización, registro, habilitación, operación, capacitación, verificación y evaluación de los prestadores de servicios de seguridad privada en el Estado, los cuales deberán cumplir con los requisitos y formalidades establecidos en los ordenamientos jurídicos aplicables;
 
-XVI. Efectuar, en coordinación con la Procuraduría General de Justicia del Estado, estudios sobre los actos delictivos e incorporarlos en el diseño de las políticas en materia de prevención del delito;
+XVI. Celebrar los convenios y acuerdos de colaboración, en el ámbito de su competencia, con los integrantes del Sistema Estatal de Seguridad, con autoridades federales, estatales y municipales, y con instituciones cuyo objeto o interés sea coincidente con los de la Secretaría;
 
-XVII. Celebrar los convenios y acuerdos con autoridades federales estatales o municipales y con particulares, para la protección de la integridad física de las personas y preservación de sus bienes, en situaciones de peligro o amenazas por disturbios, violencia o riesgo inminente;
+XVII. Elaborar, en coordinación con la Fiscalía General del Estado y las áreas de seguridad de los Municipios, estudios sobre los actos delictivos e incorporarlos en el diseño de las políticas en materia de prevención del delito;
 
-XVIII. Auxiliar a las autoridades jurisdiccionales y administrativas, cuando así lo requieran, para el debido ejercicio de sus funciones;
+XVIII. Celebrar los convenios y acuerdos con autoridades federales estatales o municipales y con particulares, para la protección de la integridad física de las personas y preservación de sus bienes, en situaciones de peligro o amenazas por disturbios, violencia o riesgo inminente;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+XIX. Auxiliar a las autoridades jurisdiccionales y administrativas, cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-XIX. Fomentar la participación ciudadana en la formulación de planes y programas de prevención del delito y seguridad vial coordinándose, en su caso, con los diferentes órdenes de gobierno;
+XX. Fomentar la participación ciudadana en la formulación de planes y programas de prevención del delito y seguridad vial coordinándose, en su caso, con los integrantes del Sistema Estatal de Seguridad y demás instituciones de seguridad estatales, federales y municipales;
 
-XX. Promover y facilitar la participación social para el desarrollo de actividades de observación sobre el ejercicio de sus atribuciones;
+XXI. Promover y facilitar la participación social para el desarrollo de actividades de observación sobre el ejercicio de sus atribuciones;
 
-XXI. Atender de manera expedita las denuncias y quejas presentadas con motivo de las acciones u omisiones relacionadas con el ejercicio de sus atribuciones;
+XXII. Atender de manera expedita las denuncias y quejas presentadas con motivo de las acciones u omisiones relacionadas con el ejercicio de sus atribuciones, y
 
-XXII. Proponer al Gobernador del Estado, la creación o modificación de las direcciones o departamentos administrativos, para el buen funcionamiento de la Secretaría;
-
-XXIII. Proponer los reglamentos necesarios en las materias de su competencia; y
-
-XXIV. Las demás facultades y obligaciones que le atribuyan expresamente las leyes y reglamentos.
+XXIII. Las demás facultades y obligaciones que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE MARZO DE 2011)</small>
 
@@ -1073,9 +1153,17 @@ XVII. Proponer al titular del Poder Ejecutivo del Estado, el otorgamiento de rec
 
 XVIII. En coordinación con la dependencia gubernamental que corresponda, proponer, elaborar, dar seguimiento y evaluar las actividades y políticas públicas transversales a favor del sector juvenil, en materia de salud, educación, desarrollo sustentable, desarrollo agropecuario, desarrollo urbano, trabajo, turismo, seguridad ciudadana, asistencia social y, en general, todas aquellas que estén orientadas a su desarrollo integral;
 
-XIX. Generar la información estadística desagregada del sector juvenil, correspondiente a Poder Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-XX. Las demás que le confieran otras leyes o reglamentos, sin perjuicio de las atribuciones de otras dependencias.
+XIX. Generar la información estadística desagregada del sector juvenil, correspondiente a (sic) Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+XX. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos; y
+
+(REUBICADA, P.O. 28 DE OCTUBRE DE 2016)
+
+XXI. Las demás que le confieran otras leyes o reglamentos, sin perjuicio de las atribuciones de otras dependencias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1524,3 +1612,11 @@ XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cá
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
