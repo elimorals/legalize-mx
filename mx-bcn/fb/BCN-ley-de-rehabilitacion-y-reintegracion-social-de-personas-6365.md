@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-rehabilitacion-y-reintegracion-social-de-personas-6365"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "2016-07-15"
+last_updated: "2016-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE REHABILITACIÓN Y REINTEGRACIÓN SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCIÓN Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 13 de octubre de 1995.
 
@@ -460,3 +460,17 @@ P.O. 15 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 500 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LOS ARTÍCULOS 2 BIS Y 4 BIS DE LA LEY DE REHABILITACIÓN Y REINTEGRACIÓN SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCIÓN Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 619 MEDIANTE EL CUAL SE APRUEBA LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Rehabilitación y Reintegración Social de Personas con Problemas de Drogadicción y Alcoholismo para el Estado de Baja California, publicada en el Periódico Oficial del Estado No. 51, de fecha 13 de octubre de 1995, Tomo Cl.
+
+TERCERO.- Se abroga el Acuerdo por el que se crea el Consejo Estatal Contra las Adicciones, publicado en el Periódico Oficial del Estado en fecha 3 de diciembre de 1999.
+
+CUARTO.- La convocatoria señalada en el artículo 15 de esta ley, será emitida a más tardar a los sesenta días posteriores de iniciada la vigencia de este ordenamiento.
+
+QUINTO.- El Consejo, la Comisión y los Comités Municipales para la Prevención y Control de las Adicciones deberán iniciar sus funciones dentro de los noventa días posteriores a la entrada en vigor del presente ordenamiento.
