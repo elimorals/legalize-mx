@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-10-20"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -10395,6 +10395,14 @@ En las dudas o controversias que se generen con motivo de la interpretación adm
 
 El logotipo del Consejo estará conformado con el Escudo Nacional acorde al modelo a que se refiere el artículo 2° de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, además tendrá colocado en un semicírculo superior las palabras “ESTADOS UNIDOS MEXICANOS”, en los términos establecidos en los artículos 5° y 6° de la ley citada, inmediatamente abajo del Escudo Nacional tendrá las palabras “PODER JUDICIAL DE LA FEDERACION”, y debajo de ellas las palabras “CONSEJO DE LA JUDICATURA FEDERAL”.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL ARTÍCULO 915 BIS AL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO DEL USO DE IDENTIFICACIONES, INSIGNIAS O PLACAS METÁLICAS O DE CUALQUIER MATERIAL, CON EL LOGOTIPO DEL CONSEJO DE LA JUDICATURA FEDERAL O CON CARACTERÍSTICAS O SIGNOS DISTINTIVOS DE PERTENENCIA AL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 28 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 915 Bis.
+
+Los servidores públicos únicamente podrán portar y hacer uso de las identificaciones oficiales expedidas por el Consejo de la Judicatura Federal, así como de las tarjetas de presentación que les sean proporcionadas por el propio Consejo.
+
+La portación o el uso de identificaciones, insignias o placas metálicas o de cualquier material, con el logotipo del Consejo de la Judicatura Federal o con características o signos distintivos de pertenencia al Poder Judicial de la Federación, que no sean expedidas oficialmente por el Consejo, será sancionado administrativamente sin perjuicio de la responsabilidad penal o civil a que haya lugar.
+
 ### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
 
 ###### Artículo 916.
@@ -11896,3 +11904,13 @@ D.O.F. 20 DE OCTUBRE DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL ARTÍCULO 915 BIS AL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO DEL USO DE IDENTIFICACIONES, INSIGNIAS O PLACAS METÁLICAS O DE CUALQUIER MATERIAL, CON EL LOGOTIPO DEL CONSEJO DE LA JUDICATURA FEDERAL O CON CARACTERÍSTICAS O SIGNOS DISTINTIVOS DE PERTENENCIA AL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el Portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Dirección General de Comunicación Social deberá realizar una campaña de difusión y concientización sobre el contenido del presente Acuerdo, para lo cual utilizará anuncios tipo posters, trípticos y todos aquellos medios que determine y tenga a su alcance.
