@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-construcciones-del-municipio-de-75741"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-21"
-last_updated: "2016-02-27"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de junio de 2010.
 
@@ -55,149 +55,105 @@ V. Para la revisión de la seguridad y condiciones de servicio de las estructura
 
 VI. Expedir licencias de construcción para las obras públicas o privadas que se ejecuten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 2.
 
 Para los efectos de este Reglamento se entiende por:
 
-I. (DEROGADA, P.O. 24 DE MAYO DE 2013)
+I. Actos: Comunicaciones, procedimientos, trámites, servicios y actos jurídicos, en los cuales los solicitantes y los servidores públicos de la Secretaría de Desarrollo Urbano y Ecología utilicen la firma electrónica avanzada o firma autógrafa;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+II. Actuaciones electrónicas: Notificaciones, citatorios, requerimientos, solicitud de información o documentos y en su caso, las resoluciones administrativas definitivas que se emitan en los trámites a que se refieren estos Lineamientos por medios de comunicación electrónica;
 
-II. Ampliación: Incremento de metros cuadrados de construcción de una edificación.
+III. Ampliación: Incremento de metros cuadrados de construcción de una edificación;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+IV. Asesor: Persona física o moral, con los conocimientos técnicos adecuados para responder en forma solidaria, en lo relativo a la seguridad estructural, diseño urbano, diseño arquitectónico, instalaciones, así como estudios técnicos de impacto vial, de impacto ambiental, hidrológicos o hidráulicos, de mecánica de suelos y geológicos o geotécnicos, según sea el caso, y deberá cumplir con los requisitos establecidos en el presente Reglamento y demás ordenamientos jurídicos aplicables a la materia;
 
-III. Asesor: Persona física o moral, con los conocimientos técnicos adecuados para responder en forma solidaria, en lo relativo a la seguridad estructural, diseño urbano, diseño arquitectónico, instalaciones, así como estudios técnicos de impacto vial, de impacto ambiental, hidrológicos o hidráulicos, de mecánica de suelos y geológicos o geotécnicos, según sea el caso, y deberá cumplir con los requisitos establecidos en el presente Reglamento y demás ordenamientos jurídicos aplicables a la materia;
+V. Autoclasificación: Determinación que realiza el solicitante respecto del tipo de trámite que pretende gestionar;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+VI. Buzón electrónico: Espacio reservado dentro del Sistema en donde se almacenan y muestran las autoclasificaciones, registros y solicitudes ingresadas en el Sistema;
 
-IV. Centro de Apuesta: Establecimiento cuya atracción principal son los juegos de azar, los juegos más populares son: la ruleta, el black jack, el póker, las máquinas tragamonedas y las apuestas deportivas, o en donde el jugador apuesta una suma de dinero recibiendo o no una recompensa monetaria o en especie, dependiendo del resultado de éste. A estos establecimientos también se les denomina casinos, salas de sorteos, casas de juego y/o similares, indistintamente. Asi como las que se señalan en la Ley Federal de Juegos y Sorteos.
+VII. Centro de Apuesta: Establecimiento cuya atracción principal son los juegos de azar, los juegos más populares son: la ruleta, el black jack, el póker, las máquinas tragamonedas y las apuestas deportivas, o en donde el jugador apuesta una suma de dinero recibiendo o no una recompensa monetaria o en especie, dependiendo del resultado de éste. A estos establecimientos también se les denomina casinos, salas de sorteos, casas de juego y/o similares, indistintamente. Así como las que se señalan en la Ley Federal de Juegos y Sorteos;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+VIII. Clave única: Cadena alfanumérica generada a partir de un algoritmo de criptografía, es única e irrepetible, cuyo objeto es facilitar el proceso de autenticación de una persona;
 
-V. Construcción: Obra o instalación que transforme el estado actual o natural de un lote o predio con objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares;
+IX. Construcción: Obra o instalación que transforme el estado actual o natural de un lote o predio con objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+X. Construcción Riesgosa: Instalación o construcción, que por su inestabilidad, posición o falla, esté en condiciones de provocar daños inminentes a personas o instalaciones;
 
-VI. Construcción Riesgosa: Instalación o construcción, que por su inestabilidad, posición o falla, esté en condiciones de provocar daños inminentes a personas o instalaciones;
+XI. Demolición: El derribo de superficies cubiertas y de elementos estructurales de la edificación, ya sea con el fin de descargo en el cálculo del impuesto predial, efectuar nuevas construcciones, o darle aprovechamiento distinto al inmueble;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XII. Dirección de Ecología: Dirección de Ecología de la Secretaría de Desarrollo Urbano y Ecología del Municipio de Monterrey, Nuevo León;
 
-VII. Demolición: El derribo de superficies cubiertas y de elementos estructurales de la edificación, ya sea con el fin de descargo en el calculo del impuesto predial, efectuar nuevas construcciones, o darle aprovechamiento distinto al inmueble;
+XIII. Dirección Jurídica: Dirección Jurídica de la Secretaría del Ayuntamiento del Municipio de Monterrey, Nuevo León;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XIV. Dirección de Protección Civil: Dirección de Protección Civil de la Secretaría del Ayuntamiento del Municipio de Monterrey, Nuevo León;
 
-VIII. Director Responsable de Obra: Persona física reconocida por la Ley, con la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, construir y supervisar las obras de edificación y urbanización, avalando que éstas cumplan con lo establecido por la Ley, este Reglamento, los planes y programas de desarrollo urbano y demás disposiciones de la materia;
+XV. Director Responsable de Obra: Persona física reconocida por la Ley, con la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, construir y supervisar las obras de edificación y urbanización, avalando que éstas cumplan con lo establecido por la Ley, este Reglamento, los planes y programas de desarrollo urbano y demás disposiciones de la materia;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XVI. Edificación: Es aquella obra terminada que se encuentre dentro de un lote o predio;
 
-IX. Edificación: Es aquella obra terminada que se encuentre dentro de un lote o predio;
+XVII. Espacio público: Es aquel destinado para el libre tránsito, a la utilización común y al goce de todos los habitantes en general;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XVIII. Falla: El agotamiento de la capacidad de carga de una estructura que provoque daños irreversibles en ella;
 
-X. Espacio público: Es aquel destinado para el libre tránsito, a la utilización común y al goce de todos los habitantes en general;
+XIX. Firma Electrónica Avanzada: Información en forma electrónica consignada en un mensaje de datos, adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al firmante en relación con el mensaje y que produce los mismos efectos jurídicos que la firma autógrafa;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XX. Inmueble: El terreno, la edificación y construcción que en él se encuentran;
 
-XI. Falla: El agotamiento de la capacidad de carga de una estructura que provoque daños irreversibles en ella;
+XXI. Inspector: El personal comisionado por cualquiera de las autoridades encargadas de la aplicación de este Reglamento, responsable de la inspección y vigilancia, ejecución de las medidas de seguridad y sanciones a las obras de construcción y demás instalaciones públicas y privadas, contempladas por la Ley, el Reglamento y el Plan o Programa;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXII. Ley: La Ley de Desarrollo Urbano del Estado de Nuevo León;
 
-XII. Inmueble: El terreno, la edificación y construcción que en él se encuentran;
+XXIII. Licencia: Es el acto administrativo mediante el cual, la autoridad resuelve la solicitud para las construcciones de las reguladas por la Ley y en el presente Reglamento;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXIV. Licencia de Uso de Edificación: Acto administrativo mediante el cual, la Secretaría de Desarrollo Urbano y Ecología autoriza el uso de la edificación con la o las funciones solicitadas, en términos de los Lineamientos;
 
-XIII. Inspector: El personal comisionado por cualquiera de las autoridades encargadas de la aplicación de este Reglamento, responsable de la inspección y vigilancia, ejecución de las medidas de seguridad y sanciones a las obras de construcción y demás instalaciones públicas y privadas, contempladas por la Ley, el Reglamento y el Plan o Programa;
+XXV. Lote: Terreno producto de un fraccionamiento, subdivisión, parcelación y demás figuras previstas en la Ley;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXVI. Modificación: El cambio o variación de un proyecto de construcción previamente autorizado;
 
-XIV. Ley: La Ley de Desarrollo Urbano del Estado de Nuevo León;
+XXVII. Municipio: El Municipio de la Ciudad de Monterrey, Nuevo León;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXVIII. Normas técnicas: Las normas relativas a la construcción publicadas por organismos técnicos, aplicables a las construcciones, tales como: Norma Oficial Mexicana, ASTM, IMCYC (Instituto Mexicano del Cemento y el Concreto), FOVI y demás Manuales y Estudios técnicos;
 
-XV. Licencia: Es el acto administrativo mediante el cual, la autoridad resuelve la solicitud para las construcciones de las reguladas por la Ley y en el presente Reglamento;
+XXIX. Ochavo: Es el achaflanado o redondeo en las esquinas formadas por el cruce de dos vialidades, adecuada para las maniobras vehiculares de vuelta derecha. Las dimensiones mínimas para los ochavos deberán ser de 3-tres metros por lado, pudiéndose sustituir la línea recta de un ochavo por una curva circular o compuesta, la cual deberá tener un radio de giro mínimo de 3–tres metros medido en el límite de la propiedad correspondiente a las vías que forman la esquina. Las dimensiones de los ochavos podrán aumentar, conforme a las jerarquías viales de las calles que se entrecrucen.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+> <small>[N. DE E. VÉASE IMAGEN EN EL P.O. DE 28 DE OCTUBRE DE 2016, PÁGINA 31.]</small>
 
-XVI. Lote: Terreno producto de un fraccionamiento, subdivisión, parcelación y demás figuras previstas en la Ley;
+XXX. Poseedor: Es la persona física o moral que sin ser el propietario, adquiere los derechos sobre la utilización o aprovechamiento de un bien inmueble en los términos que establece el Código Civil;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXXI. Plano Oficial: Documento que contiene el proyecto que constituye, describe, gráfica y complementa los lineamientos, obligaciones, exigencias urbanísticas que se establecen en la licencia de construcción;
 
-XVII. Modificación: El cambio o variación de un proyecto de construcción previamente autorizado;
+XXXII. Plan o Programa: Plan o Programa de Desarrollo Urbano del Municipio de Monterrey o Plan Parcial que de éste derive, que se encuentren vigentes;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXXIII. Propietario: El titular o titulares de los derechos de propiedad que se tengan sobre un determinado bien inmueble;
 
-XVIII. Municipio: El Municipio de la Ciudad de Monterrey, Nuevo León;
+XXXIV. Prórroga: Es la prolongación de la vigencia de una licencia, por un tiempo determinado;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXXV. Reglamento de Zonificación: Reglamento de Zonificación y Uso de Suelo del Municipio de Monterrey, Nuevo León;
 
-XIX. Normas técnicas: Las normas relativas a la construcción publicadas por organismos técnicos, aplicables a las construcciones, tales como: Norma Oficial Mexicana, ASTM, IMCYC (Instituto Mexicano del Cemento y el Concreto), FOVI y demás Manuales y Estudios técnicos.
+XXXVI. Remodelación: La reposición o regeneración de las edificaciones autorizadas, sin incrementar o disminuir los metros cuadrados de construcción;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XXXVII. Reparación: Obras de construcción necesarias para el arreglo de fallas estructurales, en edificaciones existentes;
 
-XX. Ochavo: Es el achaflanado o redondeo en las esquinas formadas por el cruce de dos vialidades, adecuada para las maniobras vehiculares de vuelta derecha. Las dimensiones mínimas para los ochavos deberán ser de 3-tres metros por lados, pudiéndose sustituir la línea recta de un ochavo por una curva circular o compuesta, la cual deberá tener un radio de giro mínimo de 3-tres metros medido en el límite de la propiedad correspondiente a las vías que forman la esquina. Las dimensiones de los ochavos podrán aumentar, conforme a las jerarquías viales de las calles que se entrecrucen;
+XXXVIII. Secretaría: La Secretaría de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
 
-> <small>N. DE E. VÉASE IMAGEN EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 8.</small>
+XXXIX. Secretario: El Secretario de Desarrollo Urbano y Ecología del Municipio de Monterrey, N.L;
 
-> <small>N. DE E. VÉASE MODIFICACIONES A LA IMAGEN EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 38.</small>
+XL. Sistema: Aplicación tecnológica desarrollada y contenida en el portal del Municipio, que permite el envío y recepción de documentos, notificaciones y comunicaciones, así como para la consulta de información relacionada con los trámites que pueden realizarse por medios de comunicación electrónica de acuerdo a los presentes Lineamientos;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XLI. Solicitante: Persona física o moral que realiza trámites ante las autoridades municipales competentes, de forma personal como titular o mediante la autorización otorgada de un tercero, conforme a las disposiciones jurídicas aplicables;
 
-XXI. Poseedor: Es la persona física o moral que sin ser el propietario, adquiere los derechos sobre la utilización o aprovechamiento de un bien inmueble en los términos que establece el Código Civil;
+XLII. Tablero electrónico: Medio electrónico de comunicación oficial del Sistema, a través del cual la Secretaría de Desarrollo Urbano y Ecología comunicará y notificará las actuaciones electrónicas materia de estos Lineamientos. Los solicitantes utilizarán su firma electrónica avanzada o clave única para acceder al tablero para ser notificado y conocer las actuaciones electrónicas;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XLIII. Uso Público: El uso masivo de cualquier instalación, que requiere cumplir con previsiones especiales en función de la seguridad de los usuarios;
 
-XXII. Plano Oficial: Documento que contiene el proyecto que constituye, describe, grafica y complementa los lineamientos, obligaciones, exigencias urbanísticas que se establecen en la licencia de construcción;
+XLIV. Vía Pública: Es todo inmueble del dominio público, de utilización común que por disposición de la Ley de Desarrollo Urbano del Estado de Nuevo León o por razón del servicio, se destine al libre tránsito, o bien, que de hecho está ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes o para el alojamiento de cualquier instalación destinada a satisfacer un servicio público;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+XLV. Zonas en declive: Corresponden a las áreas que presentan el lote o terreno con una inclinación del 30% al 45% de pendiente;
 
-XXIII. Plan o Programa: Plan o Programa de Desarrollo Urbano del Municipio de Monterrey o Plan Parcial que de éste derive, que se encuentren vigentes;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXIV. Propietario: El titular o titulares de los derechos de propiedad que se tengan sobre un determinado bien inmueble;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXV. Prórroga: Es la prolongación de la vigencia de una licencia, por un tiempo determinado;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXVI. Reglamento: Reglamento para las Construcciones del Municipio de Monterrey, N. L.;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXVII. Remodelación: La reposición o regeneración de las edificaciones autorizadas, sin incrementar o disminuir los metros cuadrados de construcción;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXVIII. Reparación: Obras de construcción necesarias para el arreglo de fallas estructurales, en edificaciones existentes;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXIX. Secretaría: La Secretaría de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXX. Secretario: El Secretario de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXXI. Uso Público: El uso masivo de cualquier instalación, que requiere cumplir con previsiones especiales en función de la seguridad de los usuarios;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXXII. Vía Pública: Es todo inmueble del dominio público, de utilización común que por disposición de la Ley de Desarrollo Urbano del Estado de Nuevo León o por razón del servicio, se destine al libre tránsito, o bien, que de hecho esta ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes o para el alojamiento de cualquier instalación destinada a satisfacer un servicio público; y,
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-XXXIII. Zonas en declive: Corresponden a las áreas que presentan el lote o terreno con una inclinación del 30% al 45% de pendiente.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
-
-XXXIV. Ventanilla Única: Área administrativa que coordina en un sólo espacio físico la recepción de solicitudes, asesoría e información del proceso de obtención de licencias y de la entrega al solicitante de las licencias o permisos municipales emitidas por la Secretaría.
+XLVI. Ventanilla Única: Área administrativa que coordina en un sólo espacio físico la recepción de solicitudes, asesoría e información del proceso de obtención de licencias y de la entrega al solicitante de las licencias o permisos municipales emitidas por la Secretaría; y,
 
 ###### Artículo 3.
 
@@ -207,7 +163,9 @@ Las construcciones para los efectos del presente Reglamento tendrán la siguient
 
 I. TIPO 1: Construcciones o reparaciones menores: Bardas no mayores de 3.00 metros de altura, remodelación de fachadas, excavaciones, movimientos de tierra y otros;
 
-II. TIPO 2: Autoconstrucción o construcción progresiva: La Construcción mínima de hasta 40 metros cuadrados de construcción por etapa;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+II. TIPO 2: Autoconstrucción o construcción progresiva: La construcción mínima de hasta 40 metros cuadrados de construcción por etapa, sin que el total de licencias de construcción solicitadas bajo este esquema, exceda de 200 metros cuadrados de construcción;
 
 III. TIPO 3a: Vivienda unifamiliar: En terreno plano (de hasta 30% de pendiente), máximo 3 niveles, claros máximos de 6.00 metros y muros de contención de hasta 3.50 metros;
 
@@ -245,41 +203,47 @@ V. Los inspectores y supervisores adscritos a la Secretaría de Servicios Públi
 
 VI. La Secretaría del Ayuntamiento, a través de la Dirección de Protección Civil.
 
+> <small>[N. DE E. DEL ANÁLISIS AL ACUERDO QUE REFORMA A ESTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2016, SE ADVIERTE LA ADICIÓN DE NUEVO CONTENIDO A LA FRACCIÓN II, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES.]</small>
+
 ###### Artículo 5.
 
 La Secretaría de Desarrollo Urbano y Ecología tendrá las siguientes atribuciones:
 
 I. Autorizar o negar las solicitudes para obtener las licencias para la construcción, instalación, modificación, ampliación, reparación y demolición de edificaciones públicas o privadas a que se refiere el presente Reglamento;
 
-II. Ordenar visitas de inspección a las obras en proceso o terminadas, a fin de verificar el cumplimiento de la Ley, Planes o Programas, Reglamentos y demás disposiciones de carácter general;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2016)</small>
 
-III. En las construcciones Tipo 4a, 4b y 4c de utilización pública masiva, dar fe de la prueba física de carga, a fin de autorizar o negar el uso de la edificación en función del resultado de la misma;
+II. Delegar la facultad para autorizar o negar las solicitudes señaladas en la fracción anterior, en las unidades administrativas a su cargo;
 
-IV. Ordenar, imponer y ejecutar las medidas de seguridad, así como las sanciones correspondientes a los que se haga acreedor el propietario o poseedor de un inmueble, por las infracciones a la Ley, Planes o programas y demás disposiciones de carácter general aplicables;
+III. Ordenar visitas de inspección a las obras en proceso o terminadas, a fin de verificar el cumplimiento de la Ley, Planes o Programas, Reglamentos y demás disposiciones de carácter general;
 
-V. Estudiar de nueva cuenta las resoluciones que fueran impugnadas por el solicitante y resolver en consecuencia;
+IV. En las construcciones Tipo 4a, 4b y 4c de utilización pública masiva, dar fe de la prueba física de carga, a fin de autorizar o negar el uso de la edificación en función del resultado de la misma;
 
-VI. Acordar las medidas conducentes en construcciones riesgosas;
+V. Ordenar, imponer y ejecutar las medidas de seguridad, así como las sanciones correspondientes a los que se haga acreedor el propietario o poseedor de un inmueble, por las infracciones a la Ley, Planes o programas y demás disposiciones de carácter general aplicables;
 
-VII. Autorizar o negar las solicitudes de prórroga de la (sic) licencias de construcción;
+VI. Estudiar de nueva cuenta las resoluciones que fueran impugnadas por el solicitante y resolver en consecuencia;
 
-VIII. Fijar las normas técnicas y administrativas a que deberán sujetarse las construcciones e instalaciones, a fin de cumplir las condiciones de seguridad y el diseño estructural;
+VII. Acordar las medidas conducentes en construcciones riesgosas;
 
-IX. Señalar las restricciones a que deberán sujetarse las edificaciones y los elementos tales como fuentes, esculturas, arcos, columnas, monumentos y similares localizados en zonas de patrimonio artístico y cultural, de acuerdo con lo dispuesto por la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas y la Ley del Patrimonio Cultural del Estado de Nuevo León;
+VIII. Autorizar o negar las solicitudes de prórroga de la (sic) licencias de construcción;
 
-X. Llevar un registro clasificado de Directores Responsables de Obra, Asesores y de los profesionistas que cuenten con cedula profesional autorizados para elaborar planos de construcción y edificaciones, así como de aquellos autorizados para la elaboración de estudios de vialidad, memoria de cálculo estructural mecánica de suelos, geológicos e hidráulicos;
+IX. Fijar las normas técnicas y administrativas a que deberán sujetarse las construcciones e instalaciones, a fin de cumplir las condiciones de seguridad y el diseño estructural;
 
-XI. Ordenar la ejecución, con cargo a los responsables, de las obras que hubiere ordenado realizar y que el propietario o poseedor, en rebeldía, no las hayan llevado a cabo;
+X. Señalar las restricciones a que deberán sujetarse las edificaciones y los elementos tales como fuentes, esculturas, arcos, columnas, monumentos y similares localizados en zonas de patrimonio artístico y cultural, de acuerdo con lo dispuesto por la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas y la Ley del Patrimonio Cultural del Estado de Nuevo León;
 
-XII. Expedir y modificar, los acuerdos, instructivos, circulares y demás disposiciones administrativas que procedan para el debido cumplimiento de este ordenamiento;
+XI. Llevar un registro clasificado de Directores Responsables de Obra, Asesores y de los profesionistas que cuenten con cedula profesional autorizados para elaborar planos de construcción y edificaciones, así como de aquellos autorizados para la elaboración de estudios de vialidad, memoria de cálculo estructural mecánica de suelos, geológicos e hidráulicos;
 
-XIII. Coordinarse con la Dirección de Protección Civil en la aplicación de este Reglamento y demás normas de carácter general en materia de desarrollo urbano;
+XII. Ordenar la ejecución, con cargo a los responsables, de las obras que hubiere ordenado realizar y que el propietario o poseedor, en rebeldía, no las hayan llevado a cabo;
 
-XIV. En los casos de controversia por asuntos de construcción entre particulares, ya sea entre vecinos o entre propietarios o poseedores y profesionistas, en los que este Reglamento no prevea la situación específica, la autoridad municipal sugerirá a las partes dirimirla mediante los Métodos Alternos de Solución de Controversia, dejando a salvo el derecho de los particulares para que lo diriman ante la Autoridad Jurisdiccional;
+XIII. Expedir y modificar, los acuerdos, instructivos, circulares y demás disposiciones administrativas que procedan para el debido cumplimiento de este ordenamiento;
 
-XV. Fijar los lineamientos y especificaciones establecidos en el Reglamento de Accesibilidad de la Ciudad de Monterrey; y,
+XIV. Coordinarse con la Dirección de Protección Civil en la aplicación de este Reglamento y demás normas de carácter general en materia de desarrollo urbano;
 
-XVI. Las demás que le confieren la Ley, Planes o programas, este Reglamento y las demás disposiciones en materia de desarrollo urbano.
+XV. En los casos de controversia por asuntos de construcción entre particulares, ya sea entre vecinos o entre propietarios o poseedores y profesionistas, en los que este Reglamento no prevea la situación específica, la autoridad municipal sugerirá a las partes dirimirla mediante los Métodos Alternos de Solución de Controversia, dejando a salvo el derecho de los particulares para que lo diriman ante la Autoridad Jurisdiccional;
+
+XVI. Fijar los lineamientos y especificaciones establecidos en el Reglamento de Accesibilidad de la Ciudad de Monterrey; y,
+
+XVII. Las demás que le confieren la Ley, Planes o programas, este Reglamento y las demás disposiciones en materia de desarrollo urbano.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -523,6 +487,12 @@ III. La responsabilidad terminará 1-un año después de que se reciba por la au
 
 La Secretaría otorgará licencias de construcción sólo en predios, lotes o fracciones que hayan resultado de la incorporación efectuada con autorización de la autoridad competente, así como en los lotes con las dimensiones mínimas que marca la Ley, Planes o programas, este Reglamento y demás disposiciones de la materia. La licencia otorgada no significa aprobación técnica del método de construcción ni de los materiales a emplear, esto será responsabilidad del propietario o poseedor y su relación contractual con el Director Responsable de Obra.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 17 Bis.
+
+La Secretaría está facultada para proponer esquemas de simplificación, modernización y sistematización de trámites en medios electrónicos. Para tal efecto, la autoridad competente emitirá disposiciones generales, en las cuales se podrán eximir a los particulares de la presentación de los requisitos establecidos en este Reglamento, así como disminuir los plazos de resolución.
+
 ###### Artículo 18.
 
 Se requiere licencia para:
@@ -583,15 +553,15 @@ XII. Instalaciones complementarias de una vivienda unifamiliar mientras sean en 
 
 En los supuestos de las fracciones VI y VII de este artículo, el propietario, poseedor o responsable de la obra deberá avisar por escrito a la Secretaría dentro de las 48 horas siguientes. En caso de haberse suscitado algún siniestro, deberá acompañar además el dictamen expedido por la dependencia competente en materia de Protección Civil.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 20.
 
-Los requisitos para la obtención de licencias de construcción para obra nueva, remodelaciones o ampliaciones según su tipo son:
+Los requisitos para la obtención de licencias de construcción para obra nueva, remodelaciones o ampliaciones según su tipo en el sistema presencial, es decir, en las oficinas de la Secretaría son:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 21.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 21.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 40; 22 DE ABRIL DE 2015, PÁGINA 2.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 40; 22 DE ABRIL DE 2015, PÁGINA 2.]</small>
 
 DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
@@ -660,6 +630,72 @@ Los requisitos para obtener la opinión a la que se refiere el numeral 10 del ar
 9. Pago de los derechos correspondientes al trámite.
 
 La opinión será emitida por la autoridad municipal competente en un plazo máximo de 10-diez días hábiles y tendrá una vigencia señalada de un año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Artículo 20 Bis I. Para los trámites de licencia de construcción por medios de comunicación electrónica, se deberán presentar los siguientes datos y documentos:
+
+I. Datos del solicitante:
+
+A) Nombre completo;
+
+B) Domicilio dentro del Área Metropolitana de Monterrey; y
+
+C) Teléfono y correo electrónico.
+
+II. Datos del propietario o titular de la licencia, en caso de que sea distinto al solicitante:
+
+A) Nombre completo; y
+
+B) Domicilio.
+
+III. Datos del predio:
+
+A) Ubicación y estado actual del predio;
+
+B) Superficie total del terreno en metros cuadrados; y
+
+C) Indicar uso de suelo que se pretende o con el que cuenta el predio.
+
+IV. Datos del Director Responsable de Obra, cuando se trate de construcciones Tipo 3a, Tipo 3b, Tipo 4a, Tipo 4b y Tipo 4c:
+
+A) Nombre completo;
+
+B) Número de cédula profesional;
+
+C) Domicilio;
+
+D) Teléfono; y
+
+E) Correo electrónico.
+
+V. Documentación del solicitante:
+
+A) Si es persona física, identificación oficial;
+
+B) Si es persona física y distinta al propietario, poder simple;
+
+C) Si es persona moral, acta constitutiva inscrita en el Registro Público de la Propiedad y del Comercio, poder notariado del apoderado de la persona moral e identificación oficial del mismo; y
+
+D) Comprobante de domicilio no mayor a 3 meses.
+
+VI. Documentación del propietario o titular de la licencia, en caso de que sea distinto al solicitante:
+
+A) Si es persona física, identificación oficial; y
+
+B) Si es persona moral, acta constitutiva propietaria notariada e inscrita en el Registro Público de la Propiedad y del Comercio.
+
+VII. Documentación del predio:
+
+A) Título que Acredite la Propiedad del Predio, inscrito ante la dependencia correspondiente;
+
+B) En caso de arrendamiento, copia del contrato de arrendamiento ratificado ante notario, en donde se establezca que el arrendatario puede realizar las acciones de desarrollo urbano solicitadas;
+
+C) Comprobante del pago del Impuesto Predial Actualizado y sin adeudos; y
+
+D) 4 fotografías exteriores y 4 fotografías interiores del predio.
+
+La documentación aquí requerida podrá ser enviada por el usuario en forma electrónica a la Secretaría en los formatos de archivo digitales que la plataforma o sistema permita, buscando que sean siempre los más accesibles y de mejor manejo.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
 
@@ -741,7 +777,7 @@ Quienes comparezcan al procedimiento administrativo deberán tener interés jur�
 
 Asimismo en caso de que el domicilio que se designe para efectos de oír y recibir notificaciones no exista, no se encuentre persona alguna que atienda la diligencia, o el inmueble se encuentre desocupado, las notificaciones serán efectuadas por medio de instructivo que se fijará en la tabla de avisos o en lugar visible del recinto oficial de la Secretaría.
 
-En el instructivo a que se refiere este artículo, se hará constar el número de expediente de trámite, el nombre y apellidos del interesado, el objeto y naturaleza de la promoción, y copia intregra de la determinación materia de la notificación, la fecha y hora en que se entregue el instructivo y el nombre y apellido de la persona a quien se entrega, el cual será notificado al propietario, responsable, encargado u ocupante o a cualquier otra persona capaz, que se encuentre en el domicilio de la diligencia.
+En el instructivo a que se refiere este artículo, se hará constar el número de expediente de trámite, el nombre y apellidos del interesado, el objeto y naturaleza de la promoción, y copia integra de la determinación materia de la notificación, la fecha y hora en que se entregue el instructivo y el nombre y apellido de la persona a quien se entrega, el cual será notificado al propietario, responsable, encargado u ocupante o a cualquier otra persona capaz, que se encuentre en el domicilio de la diligencia.
 
 Si las presentes se niegan a recibirlo, el notificador o inspector dará razón de ello, en presencia de dos testigos entregando copia a la persona con quien entendió la diligencia, aunque se hubiere negado a firmar, lo cual no afectará la validez de la diligencia, ni del documento de que se trate, siempre y cuando el notificador o inspector haga constar tal circunstancia en el instructivo.
 
@@ -957,7 +993,15 @@ En las superficies previstas como afectación vial se prohíbe realizar cualquie
 
 La Secretaría emitirá la resolución de las solicitudes de Alineamiento Vial en un plazo máximo de 5-cinco días hábiles.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 2016)</small>
+
+En caso de que la Secretaría establezca la presentación conjunta de este trámite con otros, los plazos de respuesta, de prevención y para subsanar ésta, serán los que correspondan al procedimiento más largo.
+
 La resolución antes descrita estará supeditada a los cambios o reformas a la Ley, el Plan o Programa y este Reglamento, por lo tanto su vigencia subsistirá mientras no se modifiquen dichas disposiciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Artículo 64 Bis I. Para la obtención única del Alineamiento Vial, se presentarán los requisitos del artículo 20 BIS I de este Reglamento, salvo los señalados en la fracción IV y adicionalmente el plano antecedente en su caso; y, comprobante del pago de los derechos correspondientes.
 
 ###### Artículo 65.
 
@@ -1740,3 +1784,9 @@ P.O. 27 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE AUTORIZA LA REFORMA AL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, N.L.".]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
