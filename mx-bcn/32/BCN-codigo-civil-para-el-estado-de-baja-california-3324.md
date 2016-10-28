@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2016-10-21"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1251,9 +1251,13 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes de conformidad con los impedimentos que se prevén para los casos de parentesco por consanguinidad.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 155.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+Los cónyuges puede (sic) contraer nuevo matrimonio inmediatamente después de ejecutoriada la sentencia de divorcio.
+
+Para tales efectos la mujer deberá practicarse exámenes de embarazo y de resultar positivo el Oficial del Registro Civil lo hará del conocimiento de las partes, debiendo preguntar si aún existe la voluntad para contraer matrimonio.
 
 ###### ARTICULO 156.
 
@@ -2125,6 +2129,10 @@ Los padres están obligados a dar alimentos a sus hijos desde el momento en que 
 
 Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado. En el caso de aquellos adultos mayores de sesenta años de edad, que carezcan de capacidad económica, deberán proporcionarles, dentro de sus posibilidades económicas, lo necesario para su atención geriátrica, de preferencia integrándolos a la familia.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Quedan excluidos de la obligación, en los casos en que sea aplicable y haya operado, algún modo de acabarse o perderse la patria potestad, a que se refieren las fracciones IV, V y VI del artículo 440 y las fracciones I cuando el delito sea cometido en contra del hijo, II, III y IV del artículo 441 de éste Código.
+
 ###### ARTICULO 302.
 
 A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
@@ -2171,11 +2179,9 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 
 Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
+Los menores, las personas con discapacidad, los sujetos a estado de interdicción, los adultos mayores y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
 
 ###### ARTICULO 309.
 
@@ -2241,11 +2247,13 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 319.
 
-Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+El deudor alimentario será responsable del pago de los alimentos que dejo de proporcionar a partir de la fecha en que comenzó a incumplir con esa obligación.
+
+En caso de que no estuviere presente o estándolo se haya rehusado a cumplir con sus obligaciones alimentarias, se entenderá por cumplida dicha obligación cubriendo las deudas que los acreedores alimentarios contraigan para proporcionar los alimentos correspondientes al periodo de su ausencia o negativa, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
@@ -7174,6 +7182,10 @@ IV.- Falta de reciprocidad internacional;
 V.- Utilidad Pública;
 
 VI.- Renuncia o remoción del algún cargo conferido en el testamento.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VII.- Cuando teniendo la obligación de dar alimentos no cumplan con dicha carga, salvo que dicho incumplimiento sea por causa justificada.
 
 ###### ARTICULO 1201.
 
@@ -16498,3 +16510,27 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 671 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2286, 2296, 2299, 2359, 2361 Y 2363 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 Artículo Único.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 631 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 155 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 633 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN VII AL ARTÍCULO 1200 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 638 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 319 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 632 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 301 Y LA REFORMA DEL SEGUNDO PÁRRAFO AL ARTÍCULO 308 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
