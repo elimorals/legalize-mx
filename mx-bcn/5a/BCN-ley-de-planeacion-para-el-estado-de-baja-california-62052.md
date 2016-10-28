@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2016-10-14"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -677,9 +677,49 @@ Cada programa deberá al menos contener el objetivo, estrategia o línea de acci
 
 III.- La tercer etapa de control, es la captación de información sobre la ejecución de los programas, con el propósito de identificar desviaciones, corregirlas y afinar insuficiencias que pudieran haber surgido en los (sic) otras etapas; y,
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-IV.- La cuarta etapa de evaluación consistente en la revisión periódica de resultados de los planes y programas: estratégico, de desarrollo, sectoriales, especiales, regionales, territoriales, operativos anuales, con el fin de obtener conclusiones cualitativas y cuantitativas sobre el cumplimiento de los objetivos de los planes a que se refiere esta Ley.
+IV.- La cuarta etapa de evaluación consistente en la revisión periódica de resultados de los planes y programas: estratégico, de desarrollo, sectoriales, especiales, regionales, territoriales, operativos anuales, con el fin de obtener conclusiones cualitativas y cuantitativas sobre el cumplimiento de los objetivos de los planes a que se refiere esta Ley; y,
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+V.- Los Planes Estratégicos descritos en la fracción primera de este artículo, deberán contener al menos los siguientes ejes y objetivos:
+
+a) Ambiental: Atender la problemática ambiental en cada Ciudad y que toda persona pueda gozar de un medio ambiente adecuado para su desarrollo, salud y bienestar;
+
+b) Económico: Consolidar los procesos de promoción, planeación, implementación y ejecución de la infraestructura y desarrollo económico en cada Ciudad;
+
+c) Social: Promover la participación de todos los actores en los distintos ámbitos de interés común;
+
+d) Digital: Aprovechamiento de los recursos de las Tecnologías de la Información y la Comunicación para el desarrollo de cada Ciudad;
+
+e) Urbano: Implementación de un modelo de infraestructura urbana suficiente que ofrezca a los habitantes lugares para su desarrollo digno;
+
+f) Binacional: Aprovechar la posición geográfica de las Ciudades de nuestro Estado para impulsar su desarrollo formando una comunidad transfronteriza dinámica y competitiva globalmente, con una gran calidad de vida;
+
+g) Institucional: Implementación de mecanismos de participación ciudadana y fortalecimiento de procesos transparentes con la aplicación de sistemas de medición basados en estándares de calidad;
+
+h) Movilidad: Constante mejoramiento de la infraestructura vial integrada y moderna que permita una movilidad eficiente de personas, bienes y servicios;
+
+i) Educativo: Alcanzar una excelencia educativa, con amplia cobertura de actividades deportivas, culturales y de entretenimiento, que generen el desarrollo integral de una generación enérgica y potencializadora de cambios; y,
+
+j) Seguridad: Alcanzar el mejor entorno de paz, con un poder de justicia transparente y confiable.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 34 BIS.- Con la finalidad de abordar los temas con un enfoque transversal, de impacto geográfico y efecto detonador en cada proyecto gubernamental o privado, el plan deberá contener los siguientes conceptos:
+
+I.- Temas Críticos: Identificar la problemática y aquellos temas que deben atenderse de forma prioritaria;
+
+II.- Visión: Interpretar el entorno y necesidades de la Ciudad como un componente del proceso del planteamiento de la estrategia que deberá llevarse a cabo;
+
+III.- Objetivos: Logros específicos que se buscan alcanzar en un plazo determinado;
+
+IV.- Estrategias: Camino o lineamiento a seguir para lograr los objetivos planteados;
+
+V.- Proyectos: Definición de los planes, programas y proyectos más relevantes atendiendo la transversalidad, efecto detonador e impacto geográfico, que habrá de llevar a cabo cada Gobierno Estatal y Municipal; y
+
+VI.- Modelo de Gestión: Establecer los mecanismos para lograr concretar los proyectos planteados, a través del destino de recursos presupuestales, gestiones y colaboración con otros poderes de los distintos órdenes de Gobierno.
 
 ###### ARTÍCULO 35.
 
@@ -961,11 +1001,13 @@ El Ejecutivo Estatal ordenará la publicación, en el Periódico Oficial, de los
 
 La vertiente de concertación comprende los resultados cuyos alcances y condiciones se especificarán en los programas operativos anuales, en los programas institucionales o en convenios; este esfuerzo se realiza entre gobierno y sociedad, con el propósito de ejecutar de manera compartida y mediante la cooperación los objetivos de los planes y los programas a que hace referencia esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 70.
 
 El Ejecutivo del Estado, a través de sus dependencias y entidades paraestatales, podrá concertar la realización de los objetivos, estrategias y líneas de acción previstas en el Plan Estratégico del Estado, el Plan Estatal y planes sectoriales; así como los resultados de los programas, con las representaciones de los grupos sociales o con los particulares interesados.
 
-Los Ayuntamientos podrán concertar, asimismo, con los grupos organizados de la sociedad o con los particulares, la realización de los objetivos, estrategias y líneas de acción previstas en el Plan Estratégico Municipal y en el Plan Municipal de Desarrollo.
+Los Ayuntamientos podrán concertar, asimismo, con los grupos organizados de la sociedad, los Consejos de Desarrollo Económico Municipales, las cámaras empresariales, así como con los particulares, la realización de los objetivos, estrategias y líneas de acción previstas en el Plan Estratégico Municipal y en el Plan Municipal de Desarrollo; así también deberán considerar en sus respectivos Presupuestos de Egresos, los recursos económicos necesarios para la consecución de los proyectos emanados de dichos Planes.
 
 ###### ARTÍCULO 71.
 
@@ -1138,3 +1180,9 @@ P.O. 14 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 585 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VII Y VIII DEL ARTÍCULO 4 DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 650 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN V DEL ARTÍCULO 34 BIS, ASÍ COMO REFORMA DEL ARTÍCULO 70 A LA LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
