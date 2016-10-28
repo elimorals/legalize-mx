@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-forestal-sustentable-para-el-estado-y-los-443
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-15"
-last_updated: "2013-06-07"
+last_updated: "2016-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 15 de marzo de 2005.
 
@@ -91,7 +91,9 @@ I.- La conservación, protección y restauración de los ecosistemas forestales 
 
 II.- La ejecución de obras destinadas a la conservación, protección y/o generación de bienes y servicios ambientales;
 
-III.- La protección y conservación de los suelos con el propósito de evitar su erosión;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+III.- La protección, conservación y restauración de los suelos con el propósito de evitar su erosión;
 
 IV.- La protección y conservación de los ecosistemas que permitan mantener determinados procesos ecológicos esenciales y la diversidad biológica; y
 
@@ -117,11 +119,23 @@ II.- Consejo Estatal: El Consejo Estatal Forestal;
 
 III.- Instituto: El Instituto de Ecología del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-IV.- Secretaría: La Secretaría de Desarrollo Agroalimentario y Rural; y
+IV.- PAOT: La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato;
 
-V.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales.
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+V.- Protección Civil: La Coordinación Estatal de Protección Civil;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VI.- Secretaría: La Secretaría de Desarrollo Agroalimentario y Rural;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VII.- Suelo forestal: Es una porción de la superficie de la tierra, formada por material mineral y orgánico, penetrado por cantidades variables de agua y aire y que sirve de medio para la mantención de la vegetación forestal; y
+
+VIII.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales.
 
 ### Capítulo Tercero. De la Coordinación entre Federación, Estados y Municipios
 
@@ -155,53 +169,61 @@ IV.- Manejo y Uso adecuado de Fuego.
 
 #### Sección Primera. De las Atribuciones del Estado
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 10.
 
 Corresponde al Estado, de conformidad con lo dispuesto en esta Ley, las siguientes atribuciones:
 
-I.- Diseñar y organizar el Servicio Estatal Forestal, bajo la coordinación de la Secretaría;
+I.- A través de la Secretaría:
 
-II.- Impulsar en el ámbito de su competencia el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector forestal, con la participación de la Federación y Municipios;
+a) Diseñar y organizar el Servicio Estatal Forestal;
 
-III.- Promover los bienes y servicios ambientales de los ecosistemas forestales;
+b) Participar en la elaboración de los programas forestales regionales de largo plazo, de ámbito interestatal o por cuencas hidrológicas;
 
-IV.- Impulsar la participación directa de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
+c) Impulsar en el ámbito de su competencia el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector forestal, con la participación de la Federación y de los Municipios;
 
-V.- Participar en la elaboración de los programas forestales regionales de largo plazo, de ámbito interestatal o por cuencas hidrológicas;
+d) Promover los bienes y servicios ambientales de los ecosistemas forestales;
 
-VI.- Promover, en coordinación con la Federación, programas y proyectos de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional respectivo;
+e) Impulsar la participación directa de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
 
-VII.- Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
+f) Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
-VIII.- Llevar a cabo acciones coordinadas con la Federación y Municipios en materia de prevención, capacitación y combate de incendios forestales, en congruencia con el programa nacional respectivo;
+g) Llevar a cabo, en coordinación con la Federación acciones de saneamiento de los ecosistemas forestales, dentro de su ámbito territorial de competencia;
 
-IX.- Impulsar programas de conservación y mejoramiento genético forestal con fundamento científico;
+h) Prestar asesoría y capacitación en prácticas y métodos que conlleven un manejo forestal sustentable;
 
-X.- Impulsar proyectos que contribuyan a la integración y competitividad de las cadenas productivas en materia forestal;
+i) Asesorar y capacitar a los propietarios y poseedores forestales en la elaboración y ejecución de programas de manejo forestal, y de plantaciones forestales comerciales, así como la diversificación de las actividades forestales;
 
-XI.- Llevar a cabo en coordinación con la Federación, acciones de saneamiento de los ecosistemas forestales, dentro de su ámbito territorial de competencia;
+j) Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas producto del sector;
 
-XII.- Prestar asesoría y capacitación en prácticas y métodos que conlleven un manejo forestal sustentable;
+k) Brindar atención de forma coordinada con la Federación y los Municipios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas; y
 
-XIII.- Promover auditorías técnicas voluntarias con la finalidad de inducir el cumplimiento de las disposiciones legales en materia forestal;
+l) Fomentar la reforestación.
 
-XIV.- Asesorar y capacitar a los propietarios y poseedores forestales en la elaboración y ejecución de programas de manejo forestal y de plantaciones forestales comerciales, así como la diversificación de las actividades forestales;
+II.- A través del Instituto:
 
-XV.- Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas producto del sector;
+a) Promover en coordinación con la Federación, programas y proyectos de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional respectivo;
 
-XVI.- Brindar atención, de forma coordinada con la Federación y los Municipios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;
+b) Elaborar estudios para en su caso recomendar al Ejecutivo Federal a través de la SEMARNAT, el establecimiento, modificación o levantamiento de vedas, en coordinación con la Secretaría;
 
-XVII.- Participar de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la Entidad, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales;
+c) Elaborar estudios para en su caso recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio, en coordinación con la Secretaría;
 
-XVIII.- Elaborar estudios para en su caso recomendar al Ejecutivo Federal a través de la SEMARNAT, el establecimiento, modificación o levantamiento de vedas;
+d) Impulsar programas de conservación y mejoramiento genético forestal con fundamento científico; y
 
-XIX.- Elaborar estudios para en su caso recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio;
+e) Impulsar proyectos que contribuyan a la integración y competitividad de las cadenas productivas en materia forestal.
 
-XX.- Fomentar la reforestación con especies nativas; y
+III.- A través de la PAOT:
 
-XXI.- La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos y que no estén expresamente otorgados a la Federación o a los Municipios.
+a) Promover auditorias técnicas voluntarias con la finalidad de inducir el cumplimiento de las disposiciones legales en materia forestal; y
 
-Las atribuciones que corresponden al Estado, serán ejercidas por conducto de la Secretaría.
+b) Participar de conformidad con los acuerdos y convenios que se celebren con la Federación en la inspección y vigilancia forestal en la entidad, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales.
+
+IV.- A través de Protección Civil:
+
+a) Llevar a cabo acciones coordinadas con la Federación y Municipios en materia de prevención, capacitación y combate de incendios forestales, en congruencia con el programa nacional respectivo.
+
+Corresponde al Estado la atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos y que no estén expresamente otorgados a la Federación o a los Municipios.
 
 ###### Artículo 11.
 
@@ -313,7 +335,7 @@ VI.- Otorgar los permisos y avisos para el combate y control de plagas y enferme
 
 VII.- Recibir los avisos de aprovechamiento de recursos forestales maderables, no maderables, de forestación y los de plantaciones forestales comerciales;
 
-VIII.- Autorizar el cambio de uso de suelo de los terrenos de uso forestal;
+VIII.- (DEROGADA, P.O. 28 DE OCTUBRE DE 2016)
 
 IX.- Autorizar el aprovechamiento de los recursos forestales maderables y no maderables y de plantaciones forestales comerciales;
 
@@ -365,7 +387,13 @@ III.- El Inventario Estatal Forestal y de Suelos;
 
 IV.- La Ordenación Forestal; y
 
-V.- El Ordenamiento Ecológico del Territorio del Estado.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+V.- El Programa Estatal de Desarrollo Urbano y Ordenamiento Ecológico Territorial; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VI.- El Programa Estatal Forestal.
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de política forestal, se deberán observar los principios y criterios obligatorios de política forestal.
 
@@ -463,9 +491,11 @@ Toda persona tendrá derecho a que las autoridades en materia forestal pongan a 
 
 La ordenación forestal es la organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades de manejo forestal.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-La Secretaría deberá llevar a cabo la ordenación con base en el Inventario Estatal Forestal y de Suelos, y en los programas de ordenamiento ecológico; excepto en las Áreas Naturales Protegidas, donde serán llevadas a cabo por el Instituto de conformidad con la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato.
+La Secretaría deberá llevar a cabo la ordenación con base en el Inventario Estatal Forestal y de Suelos, y en el Programa Estatal de Desarrollo Urbano y Ordenamiento Ecológico Territorial; excepto en las áreas naturales protegidas, donde serán llevadas a cabo por el Instituto de conformidad con el Código Territorial para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 34.
 
@@ -563,17 +593,21 @@ Toda quema que se realice en terrenos forestales o preferentemente forestales co
 
 ### Capítulo Cuarto. De la Prevención, Combate y Control de Incendios Forestales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 49.
 
-La Secretaría promoverá la celebración de convenios y acuerdos de colaboración con la Comisión, los Ayuntamientos, organizaciones y asociaciones, en las regiones que así se requiera, con la finalidad de constituir agrupaciones de defensa forestal que tendrán como objeto el planear, dirigir y difundir, programas y acciones de prevención al combate a incendios forestales.
+La Secretaría y Protección Civil promoverán la celebración de convenios y acuerdos de colaboración con la Comisión, los Ayuntamientos, organizaciones y asociaciones, en las regiones que así se requiera, con la finalidad de constituir agrupaciones de defensa forestal que tendrán como objeto el planear, dirigir, difundir, programas y acciones de prevención al combate a incendios forestales.
 
 Las agrupaciones de defensa forestal se organizarán conforme a lo establecido en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 50.
 
-La autoridad municipal deberá atender el combate y control de incendios; y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la instancia Estatal correspondiente. Si ésta resultase insuficiente, se procederá a informar a la Comisión, la cual actuará de acuerdo con los programas y procedimientos respectivos.
+La autoridad municipal deberá atender el combate y control de incendios, y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a Protección Civil correspondiente. Si ésta resultase insuficiente, se procederá a informar a la Comisión, la cual actuará de acuerdo con los programas y procedimientos respectivos.
 
-La Secretaría y los Municipios, procurarán la participación de los organismos de los sectores social y privado, para los efectos señalados en el párrafo que antecede y organizarán campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
+Protección Civil y los Municipios, procurarán la participación de los organismos de los sectores social y privado, para los efectos señalados en el párrafo que antecede y organizarán campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
 
 ###### Artículo 51.
 
@@ -581,15 +615,19 @@ El Estado y los Municipios en el ámbito de su competencia, y de acuerdo a sus l
 
 ### Capítulo Quinto. De la Reforestación y Forestación
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-La Secretaría, así como los Ayuntamientos en el ámbito de sus competencias, promoverán programas tendientes a la forestación y reforestación de los terrenos idóneos en el Estado y Municipios, preferentemente en zonas de recarga de acuíferos y Áreas Naturales Protegidas.
+La Secretaría y el Instituto, así como los Ayuntamientos en el ámbito de sus competencias, promoverán programas tendientes a la forestación y reforestación de los terrenos idóneos en el Estado y municipios, preferentemente en zonas de recarga de acuíferos y áreas naturales protegidas.
 
-Para tal efecto la Secretaría, así como los Municipios podrán celebrar convenios con instituciones públicas y privadas.
+Para tal efecto la Secretaría y el Instituto, así como los municipios podrán celebrar convenios con instituciones públicas y privadas.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 53.
 
-Será obligatorio para la Secretaría y las autoridades municipales, incluir en sus planes de desarrollo respectivos, programas tendientes a la reforestación, forestación y restauración del Estado y Municipios.
+Será obligatorio para el Ejecutivo del Estado y los municipios incluir en sus planes de desarrollo respectivos, programas tendientes a la reforestación, forestación y restauración del Estado y municipios.
 
 ###### Artículo 54.
 
@@ -617,6 +655,10 @@ Los propietarios y poseedores o usufructuarios de terrenos forestales o preferen
 
 Cuando se presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Secretaría formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que se propicien o que propicien su conservación y restauración de acuerdo a las asignaciones que para tal fin se contemplen en el Presupuesto de Egresos del Estado.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Para efectos de lo señalado en el artículo 58 y el primer párrafo del presente artículo, el Instituto será competente en tratándose de áreas naturales protegidas, y zonas de restauración, acorde a lo establecido en el Código Territorial para el Estado y los Municipios de Guanajuato.
+
 ### Capítulo Séptimo. De la Sanidad Forestal
 
 ###### Artículo 60.
@@ -627,7 +669,7 @@ Los gobiernos municipales, en los términos de los acuerdos y convenios que cele
 
 Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestal, los titulares de autorizaciones de aprovechamiento de recursos forestales, quienes realicen actividades de forestación o plantaciones forestales comerciales y reforestación, los prestadores de servicios técnicos forestales responsables de los mismos y los responsables de la administración de las áreas naturales protegidas, estarán obligados a prevenir y combatir las plagas y enfermedades forestales y en forma inmediata a la detección de plagas o enfermedades dentro de sus predios y deberán dar aviso de ello a la Secretaría o a las autoridades federales del sector.
 
-Cuando por motivos de sanidad y saneamiento forestal sea necesario realizar un aprovechamiento o eliminación de vegetación forestal, deberá implementarse un programa que permita la reforestación, restauración y conservación de suelos, estando obligados los propietarios, poseedores o usufructuarios a realizar tareas de restauración, mediante la regeneración natural o inducida, en un plazo no mayor de dos años.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 Cuando los trabajos de sanidad forestal no se ejecuten o siempre que exista riesgo grave de alteración o daños al ecosistema forestal, la Secretaría realizará los trabajos correspondientes con cargo a los obligados, quienes deberán pagar la contraprestación respectiva que tendrá el carácter de crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente, excepto aquellos que careciendo de recursos soliciten el apoyo de la Secretaría.
 
@@ -635,7 +677,9 @@ Cuando los trabajos de sanidad forestal no se ejecuten o siempre que exista ries
 
 Para atender las emergencias provocadas por la alta incidencia de plagas o enfermedades forestales, la Secretaría, con el apoyo económico de las diferentes instancias de gobierno y los dueños de los terrenos forestales, constituirán un fondo de contingencia, el cual formará parte del Fondo Forestal Estatal.
 
-La Secretaría podrá realizar la declaratoria de emergencia sanitaria en los terrenos forestales y preferentemente forestales cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+La Secretaría gestionará ante la dependencia o entidad federal correspondiente la declaratoria de emergencia sanitaria en los terrenos forestales y preferentemente forestales cuando:
 
 I.- El terreno se encuentra invadido de una plaga o enfermedad forestal con alto grado de infestación;
 
@@ -769,9 +813,11 @@ El Ejecutivo Estatal y los Ayuntamientos, conforme a sus atribuciones legales y 
 
 El Estado y los Municipios convocarán a foros de consulta a agrupaciones sociales, privadas y personas físicas, relacionadas con los servicios técnicos forestales con la finalidad de incluir sus propuestas y opiniones en los programas y planes relativos al desarrollo forestal estatal y municipal.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 77.
 
-La Secretaría podrá celebrar convenios de colaboración con municipios, agrupaciones sociales y particulares con la finalidad de promover y difundir programas y acciones de forestación, reforestación, aprovechamiento, conservación, ordenación y vigilancia de recursos forestales.
+La Secretaría y el Instituto podrán celebrar convenios de colaboración con municipios, agrupaciones sociales y particulares con la finalidad de promover y difundir programas y acciones de forestación, reforestación, conservación, ordenación y vigilancia de recursos forestales.
 
 ###### Artículo 78.
 
@@ -801,21 +847,35 @@ I.- Un ciudadano designado por el Gobernador del Estado, quien fungirá como Pre
 
 II.- El Titular de la Secretaría de Desarrollo Agroalimentario y Rural, quien fungirá como Secretario;
 
-III.- El Director General del Instituto de Ecología del Estado; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+III.- El Director General del Instituto de Ecología del Estado, quien fungirá como vocal; y
 
 IV.- Vocales cuyo número y forma de nombrarlos serán de conformidad con el Reglamento de la presente Ley, de entre:
 
 a) Titulares de las secretarías u organismos descentralizados;
 
-b) Representantes de instituciones académicas y de investigación en materia forestal;
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-c) Representantes de los municipios, de ejidos, comunidades indígenas, pequeños propietarios, prestadores de servicios técnicos forestales, industriales o personas físicas o morales relacionadas con la actividad forestal.
+b) Titulares de la Comisión y de la SEMARNAT;
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-Cada integrante del Consejo Estatal Forestal designará un suplente.
+c) Representantes de instituciones académicas y de investigación en materia forestal; y
 
-Asimismo se invitará a formar parte del Consejo a un representante del Poder Legislativo de la comisión legislativa vinculada con la materia, y a representantes de la Comisión y de la SEMARNAT.
+d) Representantes de los municipios, de ejidos, comunidades indígenas, pequeños propietarios, prestadores de servicios técnicos forestales, industriales o personas físicas o morales relacionadas con la actividad forestal.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Cada integrante del Consejo Estatal Forestal designará un suplente, a excepción del ciudadano presidente.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+Tendrá el carácter de invitado permanente un representante del Poder Legislativo de la comisión legislativa vinculada con la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+La incorporación de los titulares o de la persona que ellos designen, estará sujeta a la aceptación de las instituciones para integrarse al Consejo Estatal Forestal, previa invitación para tal efecto.
 
 Los cargos de los integrantes del Consejo Estatal Forestal, serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
@@ -878,3 +938,13 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 113, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- El Consejo Estatal Forestal adecuará su composición y estructura, en un término de sesenta días contados a partir de la entrada en vigencia del presente Decreto.
+
+Artículo Tercero.- El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que deriven del presente Decreto Legislativo en un plazo no mayor de seis meses, contado a partir de la entrada en vigor del presente Decreto.
