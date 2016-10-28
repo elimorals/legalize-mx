@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-deuda-publica-para-el-estado-y-los-municipios-de-10488"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "2013-12-27"
+last_updated: "2016-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 30 de agosto de 1996.
 
@@ -493,7 +495,7 @@ El resultado de lo anterior se hará del conocimiento del Congreso del Estado y 
 
 Artículo 33 I.- Para efectos de la emisión de valores podrán constituirse fideicomisos de financiamiento, con el propósito de eficientar el manejo de los recursos captados.
 
-Los fideicomisos de financiamiento constituidos para solicitar financiamientos o para emitir y colocar títulos de deuda en el mercado de valores y su operación interna se sujetará a lo previsto en su contrato yen las disposiciones mercantiles y bursátiles correspondientes.
+Los fideicomisos de financiamiento constituidos para solicitar financiamientos o para emitir y colocar títulos de deuda en el mercado de valores y su operación interna se sujetará a lo previsto en su contrato y en las disposiciones mercantiles y bursátiles correspondientes.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -523,7 +525,7 @@ El Ejecutivo del Estado, por conducto de la Secretaría que corresponda, deberá
 
 I.- Los datos relacionados con la operación o emisión correspondiente, anexando el instrumento jurídico en el que se haga constar la obligación directa o contingente cuya inscripción se solicita;
 
-II.- Aquellos donde consten las obligaciones pagaderas en territorio y moneda nacionales y contraídas con entidades o personas de nacionalidad mexicana; y (sic)
+II.- Aquellos donde consten las obligaciones pagaderas en territorio y moneda nacionales y contraídas con entidades o personas de nacionalidad mexicana; y
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -656,3 +658,23 @@ P.O. 27 DE DICIEMBRE DE 2013.
 Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. En lo relativo a los registros del patrimonio inmobiliario y su valuación, el Poder Ejecutivo del Estado deberá realizar lo conducente para cumplir con lo previsto en el presente Decreto, a más tardar el 31 de diciembre de 2014 y los Municipios antes del 31 de diciembre de 2015.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE "LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la vigente Ley de Deuda Pública
+
+Artículo Segundo. Se abroga la Ley de Deuda Pública para el Estado y los Municipios de Guanajuato, contenida en el Decreto Legislativo número 230, emitido por la Quincuagésima Sexta Legislatura y publicado en el Periódico Oficial del Gobierno de Estado número 70, segunda parte, de fecha 30 de agosto de 1996.
+
+Montos de endeudamiento a aplicar provisionales
+
+Artículo Tercero. En tanto entra en operación el Sistema de Alertas, conforme a lo establecido en el Artículo Transitorio Décimo Quinto de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, los montos de endeudamiento que autorice el Congreso del Estado con base (sic) esta Ley contenida en el Artículo Quinto del presente Decreto, deberán sujetarse a lo dispuesto en el artículo 6 de la Ley de Deuda Púbica para el Estado y los Municipios de Guanajuato abrogada por el Artículo Segundo Transitorio del presente Decreto.
+
+Inicio de vigencia de las obligaciones del Registro Público Único
+
+Artículo Cuarto. Las obligaciones relacionadas con el Registro Público Único, contenidas en la Ley de Deuda Púbica para el Estado y los Municipios de Guanajuato emitida a través del presente Decreto, serán aplicables hasta la entrada en operación el mismo, de conformidad con lo dispuesto en los artículos transitorios décimo octavo y décimo noveno de la Ley de Disciplina Fínanciera de las Entidades Federativas y los Municipios.
