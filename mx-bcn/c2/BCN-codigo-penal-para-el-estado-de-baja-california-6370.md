@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2016-10-21"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -4409,6 +4409,16 @@ Toda persona podrá presentar directamente las denuncias penales que corresponda
 
 En los casos en que las autoridades ambientales municipales o estatales, como resultado del ejercicio de sus atribuciones, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en este capítulo, formulará ante el Ministerio Público la denuncia correspondiente.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 339 Bis.
+
+Se impondrá prisión de tres meses a un año y multa de cincuenta a quinientos días de salario mínimo vigente en la entidad, al que descargue o deposite un metro cúbico o más de residuos sólidos de la industria de la construcción en algún lugar no autorizado por las autoridades competentes.
+
+Las mismas penas se impondrán a quien auxilie, coopere, consienta o participe en la comisión de las conductas previstas en el párrafo anterior.
+
+Cuando las actividades descritas en el primer párrafo del presente artículo, se lleven a cabo en un área natural protegida de competencia estatal o municipal, la pena se elevará hasta un año más de prisión y la multa hasta quinientos días de salario mínimo vigente en la entidad.
+
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 ###### Artículo 340.
@@ -5508,3 +5518,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 639 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 341 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entraran en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 636 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 339 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
