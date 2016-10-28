@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2015-12-29"
+last_updated: "2016-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -281,9 +281,7 @@ Hasta en tanto esta información no se encuentre validada por el Sistema Naciona
 
 ###### ARTICULO 7o.
 
-Las Participaciones que correspondan a los Municipios son inembargables y no estarán sujetas a retención, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el Artículo 9o. de la Ley Federal de Coordinación Fiscal.
-
-La compensación entre el derecho del Municipio a recibir Participaciones, y las obligaciones que tenga con el Estado, por créditos de cualquier naturaleza, operará en los términos de la Legislación Fiscal vigente.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2016)
 
 ### CAPITULO TERCERO. DE LA VIGILANCIA DEL CALCULO Y LIQUIDACION DE LAS PARTICIPACIONES
 
@@ -366,6 +364,26 @@ II.- Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las De
 Los importes que integrarán los Fondos de Aportaciones señalados en el presente artículo, serán los que se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
 
 Los Fondos de Aportaciones se calcularán y distribuirán de conformidad con lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, y conforme a los Lineamientos que la Secretaría de Desarrollo Social y Humano publicará en el Periódico Oficial del Gobierno del Estado, a más tardar el 31 de enero de cada año, ajustándose a las previsiones contenidas en la Ley de Coordinación Fiscal y demás legislación aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+### CAPITULO SEPTIMO. DE LA AFECTACION DE PARTICIPACIONES Y FONDOS DE APORTACIONES FEDERALES
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 17.
+
+Las participaciones que correspondan a los municipios son inembargables y no estarán sujetas a retención, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el artículo 9º de la Ley de Coordinación Fiscal.
+
+La compensación entre el derecho del Municipio a recibir participaciones, y las obligaciones que tenga con el Estado, por créditos de cualquier naturaleza, operará en los términos de la legislación fiscal vigente.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+###### ARTICULO 18.
+
+Las aportaciones a las que se refiere el artículo 16 de esta Ley podrán ser afectadas en garantía, como fuente de pago de obligaciones contraídas por los municipios, o afectadas en ambas modalidades, en los términos de lo dispuesto en la Ley Federal de Coordinación Fiscal.
+
+Los municipios podrán convenir que el Estado afecte sus participaciones o aportaciones susceptibles de afectación, para efectos de lo establecido en el párrafo anterior.
 
 ## TRANSITORIOS.
 
@@ -458,3 +476,9 @@ P.O. 29 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 62, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN LAS FRACCIONAES (SIC) VII, VIII Y IX DEL ARTÍCULO 3º Y EL ARTÍCULO 6º, SEGUNDO PÁRRAFO., Y SE ADISIONAN (SIC) LOS ARTÍCULOS 3º, CON UNA FRACIÓN (SIC) X; Y 5º-D DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el 1 de enero de 2016, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO SEXTO DEL “DECRETO NÚMERO 115, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; LEY DE COORDINACIÓN FISCAL DEL ESTADO; Y SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Único. El presente ARTÍCULO SEXTO del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
