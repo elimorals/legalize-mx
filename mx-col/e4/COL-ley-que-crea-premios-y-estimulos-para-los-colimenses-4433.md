@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2014-05-17"
+last_updated: "2016-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -123,6 +123,12 @@ La entrega de este premio se realizará en el marco del festejo del día interna
 
 Las insignias a que se refiere el artículo anterior, las constituirán medallas en colores oro o plata que contengan el nombre y si es posible, la efigie del patricio que les da su nombre, la leyenda correspondiente y el nombre del agraciado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+Adicionalmente a las medallas y a los reconocimientos impresos en papel, cada uno de los premios entregados, sin excepción alguna, deberá ser acompañado por un estímulo económico cuyo monto será determinado conforme a la disponibilidad presupuestaria de los entes convocantes.
+
 ###### Artículo 3o.
 
 Las condecoraciones de que tratan los artículos anteriores, serán otorgadas a personas cuyas actividades de merecimiento hayan tenido alguna repercusión de beneficio para el Estado de Colima debiendo ser preferentemente nativos o avecindados en la propia entidad federativa, aunque en el primer caso residan fuera de élla.
@@ -177,7 +183,11 @@ VIII.- La ética profesional; y
 
 IX.- La responsabilidad profesional.
 
-La entrega del Premio Estatal de Periodismo consistirá en un pergamino y una asignación en Moneda Nacional siempre que exista disponibilidad presupuestaria.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+La entrega del Premio Estatal de Periodismo consistirá en un pergamino y una asignación en Moneda Nacional, cuyo monto será determinado conforme a la disponibilidad presupuestaria de los entes convocantes.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -188,6 +198,18 @@ La entrega del Premio Estatal "Ricardo de Jesús Vázquez Lara Centeno", a que h
 Durante los primeros 15 días del mes de noviembre de cada año, se deberá integrar una Comisión Dictaminadora conformada por el Congreso del Estado de Colima, a través del Diputado Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad y del Diputado Presidente de la Comisión de Educación y Cultura; por el Instituto Colimense para la Discapacidad (INCODIS) a través de su Director; y por un representante de la Sociedad Civil de cada una de las Asociaciones de y para personas con discapacidad en el Estado; la que deberá emitir la convocatoria en que se establezcan los plazos, requisitos y el procedimiento electivo para obtener el Premio Estatal "Ricardo Jesús Vázquez Lara Centeno", y deberá ser publicada en la página web del Congreso, dirigida a las asociaciones civiles de apoyo a las personas con discapacidad, y en general a toda la población del Estado.
 
 Una vez analizadas las propuestas por el Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad, el Diputado Presidente de la Comisión de Educación y Cultura y el Director del Instituto Colimense para la Discapacidad (INCODIS) y, un representante de las Sociedades Civiles señaladas en el párrafo anterior, éstos elegirán a los merecedores del premio; quienes enviarán a la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad el resultado obtenido para que elaboren y presenten ante el Pleno del Congreso el Acuerdo correspondiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 8o.
+
+Los Ayuntamientos a través de sus Presidentes, podrán participar en la entrega de los premios y reconocimientos que consideren pertinentes, en beneficio de los ciudadanos destacados de sus respectivos municipios, previa solicitud que deberá presentarse por escrito ante la Comisión Legislativa que emita la Convocatoria al respecto.
+
+Todo premio instaurado por el Congreso del Estado, a través de la Comisión Legislativa respectiva, deberá sujetarse a los principios rectores de máxima publicidad y transparencia.
+
+El monto de los premios que anualmente entregue la Comisión Legislativa que se encargue de otorgar el beneficio, deberá considerarse en el presupuesto de egresos que corresponda.
 
 TRANSITORIOS:
 
@@ -205,7 +227,7 @@ Salón de Sesiones del H. Congreso del Estado.- Colima, Col., a 29 de Sept. de 1
 
 Palacio de Gobierno, Colima, Col., Octubre 10 de 1967.- El Secretario General de Gobierno, Encargado del Despacho del Poder Ejecutivo, Lic. Enrique Meillón de la Madrid.- Rúbrica.- El Oficial Mayor de Gobierno, Crescencio Flores Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 11 DE MAYO DE 1968.
 
@@ -230,3 +252,9 @@ P.O. 2 DE NOVIEMBRE DE 2013.
 P.O. 17 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial el Estado de Colima.
+
+P.O. 29 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 163 SE ADICIONAN UN SEGUNDO PARRAFO AL ARTÍCULO 2°, SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 6 Y SE ADICIONA UN ARTÍCULO 8° A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el 1º de enero de 2017, previa publicación será en el Periódico Oficial "El Estado de Colima".
