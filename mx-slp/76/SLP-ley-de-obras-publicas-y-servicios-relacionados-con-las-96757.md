@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2016-10-25"
+last_updated: "2016-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -587,6 +587,30 @@ XXXIV. Los demás requisitos generales que, por las características, complejida
 
 Para participar en la adjudicación o contratación de obras públicas o servicios relacionados con las mismas, no podrán establecerse requisitos que tengan por objeto y alcance limitar el proceso de competencia y libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 49 BIS. Las obras públicas que lleve a cabo el Estado podrán ser concesionadas cuando por la naturaleza de la inversión sean susceptibles de serlo, y existan condiciones para que el concesionario recupere su inversión dentro del plazo en el que se le otorgue la concesión.
+
+Las concesiones podrán otorgarse hasta por un plazo de treinta años, el cual podrá ser prorrogado hasta por un plazo equivalente al señalado originalmente, a juicio del Ejecutivo del Estado o de los ayuntamientos, según sea el caso, atendiendo tanto para el otorgamiento de la concesión, como para la prórroga de la misma, así como para su reversión a favor del Estado o los municipios, según sea el caso, a las disposiciones relativas a las concesiones contenidas en el artículo 17 y demás relativos de la Ley de Bienes del Estado y Municipios de San Luis Potosí, y en esta Ley.
+
+El Estado y los municipios podrán emitir convocatorias mixtas para la realización de proyectos, con base en los ordenamientos del ámbito de su competencia, y de conformidad con lo dispuesto en el párrafo que antecede, con el fin de licitar en un mismo concurso:
+
+I. El otorgamiento de una concesión para construir, explotar, conservar o mantener proyectos de infraestructura y obras directamente relacionadas con la misma, y
+
+II. La adjudicación de un contrato de obra pública asociada a proyectos de infraestructura, únicamente para el caso que la concesión a que se refiere la fracción anterior, no se otorgue por no haber una postura solvente.
+
+Para efectos de lo dispuesto en este artículo, se emitirá una sola convocatoria que incluirá las bases, procedimientos, condiciones y demás características conforme a las cuales se desarrollará el procedimiento, debiendo observar, para cada etapa del mismo, lo dispuesto en el ordenamiento que resulte aplicable.
+
+En los casos en que el otorgamiento de la concesión a que se refiere la fracción I de este artículo se decida a favor del participante ganador, no se procederá a la apertura de las propuestas técnicas y económicas para la adjudicación del contrato a que se refiere la fracción II, por lo que deberán destruirse. En este supuesto, no será procedente el reembolso de los gastos no recuperables a que se refiere el párrafo segundo del artículo 86 de esta Ley, circunstancia que deberá señalarse de manera expresa en la convocatoria.
+
+En los casos en que la concesión a que se refiere la fracción I de este artículo no se otorgue por no existir postura solvente que cumpla con la convocatoria respectiva, se procederá en el mismo acto a la apertura de las propuestas técnicas y económicas para la adjudicación del contrato a que se refiere la fracción II de este numeral, conforme a lo dispuesto en la propia convocatoria.
+
+Podrá establecerse en la convocatoria que las juntas de aclaraciones respecto de ambas etapas del procedimiento se lleven a cabo de manera separada o conjunta. Asimismo, podrá determinarse que los participantes que presenten propuestas para ambas etapas del procedimiento otorguen, en su caso, garantías de seriedad conjuntas.
+
+El desarrollo, en particular, de cada una de las etapas de las convocatorias a que se refiere este artículo, se regirá por la ley que le resulte aplicable.
+
+El Reglamento de esta Ley establecerá, en su caso, los demás aspectos necesarios respecto de las convocatorias a que se refiere este artículo.
+
 ###### ARTÍCULO 50.
 
 Previo a la publicación de la convocatoria a la licitación pública, cuyo presupuesto estimado de contratación sea superior a diez mil veces el salario mínimo general vigente en el Distrito Federal elevado al mes, el proyecto de convocatoria deberá ser difundido a través de CompraNet, al menos durante diez días hábiles; lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale.
@@ -1039,7 +1063,7 @@ A los procedimientos de contratación de invitación a cuando menos tres persona
 
 ###### ARTÍCULO 93.
 
-Las instituciones, bajo su más estricta responsabilidad, podrán contratar obra pública y servicios relacionados con las mismas, a través de los procedimientos a que se refieren las fracciones II y III del artículo 36 de esta Ley, cuando:
+Las instituciones, bajo su más estricta responsabilidad, podrán contratar obra pública y servicios relacionados con las mismas, a través de los procedimientos a que se refieren las fracciones I y III del artículo 36 de esta Ley, cuando:
 
 I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
@@ -1525,7 +1549,7 @@ IV. Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de 
 
 Una vez comunicada por la institución la terminación anticipada de los contratos o el inicio del procedimiento de rescisión de los mismos, ésta procederá a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas y, en su caso, proceder a suspender los trabajos, levantando, con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra. En el caso de entidades, el acta circunstanciada se levantará ante la presencia de fedatario público.
 
-El contratista estará obligado a devolver a la institución, en un plazo de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
+El cotratista estará obligado a devolver a la institución, en un plazo de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
 
 ###### ARTÍCULO 151.
 
@@ -2226,3 +2250,15 @@ P.O. 25 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0413.- SE REFORMA EL ARTÍCULO 17, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE ADICIONA EL ARTÍCULO 49 BIS, A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los títulos de concesión vigentes que hayan sido otorgados en términos de la Ley de Bienes del Estado y Municipios de San Luis Potosí, con anterioridad a la entrada en vigor de este Decreto, podrán prorrogarse en términos de lo dispuesto en el mismo.
+
+CUARTO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes a la materia que se reforma y adiciona con el presente Decreto, dentro de los noventa días siguientes a la entrada en vigor del mismo.
