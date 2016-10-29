@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2016-10-01"
+last_updated: "2016-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "CHH"
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE OCTUBRE DE 2016.]</small>
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -4145,9 +4147,9 @@ I.- El próximo Gobernador Constitucional del Estado se elegirá por un periodo 
 
 II.- Los Diputados que integrarán la LXV Legislatura local, durarán en su cargo un año, once meses, que comprenderá del 01 octubre de 2016 al 31 de agosto de 2018.
 
-> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 29 DE OCTUBRE DE 2016)
 
-III.- Los integrantes de los Ayuntamientos que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016 (sic). Tratándose de las Juntas Municipales y Comisarías de Policía, sus integrantes durarán en su encargo hasta el 9 de septiembre de 2018, iniciando sus funciones una vez que se haya llevado o cabo el proceso de elección de estos órganos municipales.
+III.- Los integrantes de los Ayuntamientos que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016 al 9 de septiembre de 2018. Tratándose de las Juntas Municipales y Comisarías de Policía, sus integrantes durarán en su encargo hasta el 9 de septiembre de 2018, iniciando sus funciones una vez que se haya llevado o cabo el proceso de elección de estos órganos municipales.
 
 P.O. 5 DE ENERO DE 2013.
 
@@ -4421,13 +4423,13 @@ I.- El próximo Gobernador Constitucional del Estado se elegirá por un periodo 
 
 II.- Los Diputados que integrarán la LXV Legislatura local, durarán en su cargo un año, once meses, que comprenderá del 01 octubre de 2016 al 31 de agosto de 2018.
 
-> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 29 DE OCTUBRE DE 2016)
 
-III.- Los integrantes de los Ayuntamientos que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016 (sic). Tratándose de las Juntas Municipales y Comisarías de Policía, sus integrantes durarán en su encargo hasta el 9 de septiembre de 2018, iniciando sus funciones una vez que se haya llevado o cabo el proceso de elección de estos órganos municipales.
+III.- Los integrantes de los Ayuntamientos que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016 al 9 de septiembre de 2018. Tratándose de las Juntas Municipales y Comisarías de Policía, sus integrantes durarán en su encargo hasta el 9 de septiembre de 2018, iniciando sus funciones una vez que se haya llevado a cabo el proceso de elección de estos órganos municipales.
 
-OCTAVO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará el año 2018 se realizará el primer domingo de julio.
+OCTAVO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político (sic) de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará el año 2018 se realizará el primer domingo de julio.
 
-NOVENO.- Una vez que el presente Decreto sea aprobado, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes de manera inmediata, a fin de, dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior del cumplimiento en vías de ejecución.
+NOVENO.- Una vez que el presente Decreto sea aprobado, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes de manera inmediata, a fin de dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior del cumplimiento en vías de ejecución.
 
 P.O. 21 DE NOVIEMBRE DE 2015.
 
