@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2015-09-08"
+last_updated: "2016-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE SEPTIEMBRE DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1171 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -261,13 +259,13 @@ Sólo podrán otorgarse concesiones, permisos, licencias o autorizaciones, sobre
 
 Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan solamente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes y el acto o título de la concesión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-Salvo lo establecido en otras leyes, las concesiones sobre bienes inmuebles del dominio público podrán otorgarse hasta por un plazo de treinta años, el cual podrá ser prorrogado por un solo plazo de quince años como máximo, a juicio del Ejecutivo del Estado o de los ayuntamientos, según sea el caso, atendiendo tanto para el otorgamiento de la concesión, como para la prórroga, lo siguiente:
+Salvo lo establecido en otras leyes, las concesiones sobre bienes inmuebles del dominio público podrán otorgarse hasta por un plazo máximo de cincuenta años, dentro de los cuales podrá concederse una o varias prórrogas, a juicio del Ejecutivo del Estado o de los ayuntamientos, según sea el caso. Ninguna concesión, incluyendo su prórroga o prórrogas, podrá tener una duración mayor a cincuenta años. Para su otorgamiento se atenderá a lo siguiente:
 
-l. Que se justifique que el Estado se encuentra impedido o imposibilitado para prestar el servicio por sí mismo;
+I. Que se justifique que el Estado se encuentra impedido o imposibilitado para prestar el servicio por sí mismo;
 
 II. El monto de la inversión que el concesionario pretenda aplicar;
 
@@ -277,11 +275,19 @@ IV. El beneficio social y económico que se derive del servicio concesionado;
 
 V. La necesidad de la actividad o servicio materia de la concesión;
 
-VI. El cumplimiento de las obligaciones a cargo del concesionario; y
+VI. El cumplimiento de las obligaciones a cargo del concesionario, y
 
 VII. La reinversión que se haga para el mejoramiento de las instalaciones o del servicio concesionado.
 
-Al término del primer plazo de la concesión, las obras, instalaciones y los bienes dedicados a la explotación de la concesión revertirán a favor del Estado, según sea el caso. En caso de prórroga o de otorgamiento de una nueva concesión, tendrá preferencia el concesionario original, y para la fijación del monto de los derechos se deberán de considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+Las concesiones estatales podrán ser otorgadas y/o prorrogadas cuando a juicio del Ejecutivo Estatal, y con la autorización del Congreso del Estado, se justifique la necesidad de realizar inversiones que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos. También podrán ser prorrogadas, en cualquier momento durante su vigencia, cuando se presenten causas que lo justifiquen, no atribuibles a los concesionarios, entre las que se incluyan demoras en la liberación del derecho de vía. A fin de que la prórroga pueda ser considerada, el concesionario deberá haber cumplido con las condiciones impuestas. En este caso, el Ejecutivo del Estado, deberá obtener el registro a que se refieren las fracciones II y III del artículo 34 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí.
+
+En el caso de las concesiones municipales, se tendrá a lo dispuesto por la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
+
+El titular de una concesión gozará de un término equivalente al diez por ciento del plazo de la concesión, previo al vencimiento del mismo, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante.
+
+Al término del primer plazo de la concesión, o de la última prórroga, en su caso, las obras, los bienes y las instalaciones adheridas de manera permanente al inmueble concesionado que hayan sido dedicados a la explotación de la concesión pasarán al dominio del Estado. En caso de prórroga o de otorgamiento de una nueva concesión, tendrá preferencia el concesionario original, y para la fijación del monto de los derechos se deberán de considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+
+La modificación de las condiciones o la prórroga de una concesión podrán ser acordadas entre el Estado o los municipios y el concesionario, a cambio de cargas adicionales a este último, previa autorización del Congreso del Estado, las cuales consistirán en la realización de obras de interés público diversas a las originarias de la concesión, pero relacionadas con éstas, en razón de criterios de incidencia, vinculación, conectividad, ampliación, mejora y beneficio colectivo, y cuya realización sea prioridad social para el gobierno estatal o los ayuntamientos. Estos actos jurídicos deberán ser debidamente protocolizados y adicionados al título original de la concesión.
 
 El concesionario original tendrá la preferencia mencionada en el párrafo que antecede, siempre que haya cumplido con las obligaciones contenidas en el título de concesión.
 
@@ -654,3 +660,15 @@ P.O. 5 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0413.- SE REFORMA EL ARTÍCULO 17, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE ADICIONA EL ARTÍCULO 49 BIS, A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los títulos de concesión vigentes que hayan sido otorgados en términos de la Ley de Bienes del Estado y Municipios de San Luis Potosí, con anterioridad a la entrada en vigor de este Decreto, podrán prorrogarse en términos de lo dispuesto en el mismo.
+
+CUARTO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes a la materia que se reforma y adiciona con el presente Decreto, dentro de los noventa días siguientes a la entrada en vigor del mismo.
