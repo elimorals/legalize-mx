@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2015-08-15"
+last_updated: "2016-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2016.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -59,9 +59,17 @@ IV. LEGISLACIÓN VIAL: A la Ley de Vialidad y Transporte del Estado de Colima y 
 
 V. INSTITUTO: Al Instituto para la Atención de los Adultos en Plenitud;
 
-VI. DIF ESTATAL: Al Sistema Estatal para el Desarrollo Integral de la Familia; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2016)</small>
 
-VII. DIF MUNICIPAL: A los Sistemas Municipales para el Desarrollo Integral de la Familia.
+VI. DIF ESTATAL: Al Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+VII. DIF MUNICIPAL: A los Sistemas Municipales para el Desarrollo Integral de la Familia; y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+VIII. UNIDAD DE MEDIDA Y ACTUALIZACIÓN: A la referencia económica para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales y de las entidades federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores, las cuales se solventarán entregando su equivalente en moneda nacional y que tienen fundamento en el Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3°.
 
@@ -629,7 +637,9 @@ I. Subsidios a las Instituciones de asistencia social y privada encargadas del c
 
 II. Instrumentación de programas especiales de descuentos y exenciones en el pago de contribuciones y para la compra de productos básicos;
 
-III. Otorgamiento de pensiones a los adultos en plenitud conforme a lo dispuesto en la presente ley; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+III. Otorgamiento de pensión económica y, en su caso, entrega de apoyos especiales o extraordinarios conforme a lo dispuesto en la presente Ley y su Reglamento; y
 
 IV. La instrumentación de programas especiales para la obtención de créditos para vivienda y prestamos personales.
 
@@ -637,11 +647,15 @@ IV. La instrumentación de programas especiales para la obtención de créditos 
 
 El Instituto establecerá acuerdos con las dependencias, Instituciones y Organismos competentes, estatales y municipales, para el establecimiento de las bases, requisitos y condiciones en que se otorgaran los apoyos a que se refieren las fracciones I, II y IV del artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 64.
 
-El otorgamiento de la pensión a que se refiere la fracción III del artículo 62, no será menor de medio salario mínimo diario y se otorgará por el Instituto a los adultos en plenitud de conformidad con las siguientes prevenciones:
+El monto de la pensión económica a cargo del Estado a que se refiere la fracción III del artículo 62 de esta Ley, se determinará conforme a la evolución mensual de la "Línea de Bienestar" establecida por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, de conformidad con los Lineamientos y Criterios Generales para la Definición, Identificación y Medición de la Pobreza que emita el Gobierno Federal, y se otorgará por el Instituto a los beneficiarios de conformidad con los siguientes requisitos:
 
-I. Que el adulto en plenitud no se encuentre inscrito como asegurado directo o beneficiario en ningún régimen de pensiones o de seguridad social, estatal o federal;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+I. Que el acreedor del apoyo no se encuentre inscrito como asegurado directo o beneficiario en ningún otro sistema o régimen de pensiones o de seguridad social;
 
 II. Que no dependa económicamente de alguien o que no tenga deudores alimentarios;
 
@@ -651,7 +665,9 @@ IV. Que tenga una residencia mínima de 10 años en el Estado; y
 
 V. Que se realice un estudio socioeconómico por el cual se determinen las circunstancias físicas, de calidad de vida y demás especiales del adulto.
 
-El Consejo Directivo podrá autorizar que sean sujetos de este beneficio, las personas mayores de 60 años que además de reunir los requisitos anteriores, se encuentren en situación de extrema pobreza o que por circunstancias especiales carezcan de un ingreso.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+Serán sujetos del otorgamiento de esta pensión económica en los términos de esta Ley y su Reglamento las personas adultas mayores a partir de los 60 años de edad que además de reunir los requisitos anteriores, se encuentren en situación de extrema pobreza o que por circunstancias especiales carezcan de un ingreso.
 
 ###### Artículo 65.
 
@@ -745,7 +761,9 @@ I. Amonestación;
 
 II. Amonestación Pública;
 
-III. Multa de uno hasta mil salarios mínimos vigentes en la entidad a la fecha en que ocurra el incumplimiento;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2016)</small>
+
+III. Multa de una hasta mil Unidades de Medida y Actualización vigentes a la fecha en que ocurra el incumplimiento;
 
 IV. Arresto hasta por 36 horas;
 
@@ -894,3 +912,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
 
 TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 159 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 2°; LA FRACCIÓN III DEL ARTÍCULO 62; EL PÁRRAFO PRIMERO, FRACCIÓN I Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 64; LA FRACCIÓN III DEL ARTÍCULO 73; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 2° DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto, se ajustará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el Diario Oficial de la Federación el 28 de enero de 2016, aplicable para el año 2016, en posteriores anualidades a lo previsto por el Artículo Quinto Transitorio del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
