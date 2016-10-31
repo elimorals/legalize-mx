@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-53776
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-31"
-last_updated: "2014-04-30"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 31 de diciembre de 2006.
 
@@ -775,9 +775,11 @@ La imposición de estas medidas a los particulares, derivará, según correspond
 
 ### CAPÍTULO VII. DE LAS SANCIONES A LOS RESPONSABLES DE HECHOS O ACTOS DISCRIMINATORIOS
 
+(REFORMADO, B.O. 31 DE OCTUBRE DE 2016.
+
 ###### Artículo 65.
 
-A las o los servidores públicos y particulares responsables de hechos o actos discriminatorios a que se refiere el Artículo 5 de esta Ley se aplicará Multa equivalente de 10 a 1000 salarios mínimos vigente en el Estado y trabajo comunitario por 15 días de difusión del derecho a la no discriminación a través de los medios de comunicación masiva.
+A las o los servidores públicos y particulares responsables de hechos o actos discriminatorios a que se refiere el Artículo 5 de esta Ley se aplicará Multa equivalente de 10 a 1000 veces el valor diario de la Unidad de Medida y Actualización y trabajo comunitario por 15 días de difusión del derecho a la no discriminación a través de los medios de comunicación masiva.
 
 ### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LA APLICACIÓN DE MEDIDAS Y SANCIONES PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
@@ -836,3 +838,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Una vez instalado el Consejo Estatal contra la Discriminación, en el término de 30 días a partir de la fecha, deberá aprobarse el Reglamento Interno que lo regule y deberá ser publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 TERCERO.- A partir de la fecha en que entre en vigor este decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
