@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-58751"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-12-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de diciembre de 2007.
 
@@ -43,7 +43,7 @@ SE CREA LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFOR
 
 SE CREA LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR, PARA QUEDAR COMO SIGUE:
 
-LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA El ESTADO DE BAJA CALIFORNIA SUR.
+LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -757,7 +757,7 @@ La Secretaría tendrá en todo momento la facultad de supervisar el manejo de la
 
 Las plantaciones forestales comerciales en terrenos temporalmente forestales, requerirán de un aviso de plantación y programa de manejo de plantaciones según sea la magnitud del proyecto, misma que deberá presentar por escrito el interesado a la Secretaría, que deberá contener entre otros la siguiente información:
 
-l. El nombre, denominación o razón social y domicilio del propietario o poseedor del predio o conjunto de predios;
+I. El nombre, denominación o razón social y domicilio del propietario o poseedor del predio o conjunto de predios;
 
 II. El título que acredite el derecho de propiedad o posesión respecto del terreno o terrenos objeto de la solicitud;
 
@@ -891,7 +891,7 @@ La Secretaría en coordinación con las autoridades competentes, promoverá la o
 
 Los servicios técnicos forestales comprenden las siguientes actividades:
 
-l. Elaborar los programas de manejo forestal para el aprovechamiento de recursos maderables y no maderables;
+I. Elaborar los programas de manejo forestal para el aprovechamiento de recursos maderables y no maderables;
 
 II. Firmar el programa de manejo y ser responsable de la información contenida en el mismo; así como en la dirección, ejecución y evaluación del programa de manejo correspondiente;
 
@@ -1055,7 +1055,7 @@ La autoridad municipal deberá a su vez informar de la quema autorizada a la Sec
 
 En toda quema que se realice en terrenos forestales o preferentemente forestales se estará a lo siguiente:
 
-l. No se deberá iniciar la quema si las condiciones climáticas no son las propicias para ello;
+I. No se deberá iniciar la quema si las condiciones climáticas no son las propicias para ello;
 
 II. No se deberá efectuar la quema de manera simultánea con predios colindantes si es que se da el caso;
 
@@ -1383,7 +1383,7 @@ La visita de inspección deberá de sujetarse al procedimiento de inspección es
 
 Cuando de las visitas y recorridos de inspección a que se refiere el artículo anterior, se determine que existe riesgo inminente daño, deterioro grave a los ecosistemas forestales o sus elementos, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la Secretaría podrá ordenar las siguientes medidas de seguridad:
 
-l. El aseguramiento precautorio de los productos y materias primas forestales, así como de los bienes, vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión actividad que origine la imposición de esta medida;
+I. El aseguramiento precautorio de los productos y materias primas forestales, así como de los bienes, vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión actividad que origine la imposición de esta medida;
 
 II. La clausura temporal, parcial o total de las instalaciones, maquinaria o equipos, según corresponda, para el aprovechamiento de los recursos forestales maderables o no maderables, almacenamiento o transformación de los recursos y materias primas forestales o de los sitios o instalaciones en donde se desarrollen los actos que puedan dañar la biodiversidad o los recursos naturales, y
 
@@ -1405,7 +1405,7 @@ Las violaciones que las personas físicas o morales cometan a las disposiciones 
 
 Se consideran infracciones a la presente Ley:
 
-l. No presentar los informes o avisos en tiempo y forma ante las autoridades Estatales, de conformidad con lo dispuesto en la presente Ley;
+I. No presentar los informes o avisos en tiempo y forma ante las autoridades Estatales, de conformidad con lo dispuesto en la presente Ley;
 
 II. Cambiar el medio de transporte al movilizar materias primas forestales, sin autorización de la autoridad forestal competente;
 
@@ -1453,11 +1453,17 @@ Las sanciones que establece la presente Ley por infracciones a la misma, serán 
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-a. Con el equivalente de 100 a 3,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV y XVIII del artículo inmediato anterior de esta Ley;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b. Con el equivalente de 250 a 20,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II, III, IV, V, VI, XIII, XVII y XIX del artículo inmediato anterior de esta Ley;
+a. Con el equivalente de 100 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV y XVIII del artículo inmediato anterior de esta Ley;
 
-c. Con el equivalente de 500 a 40,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII; VIII; IX y XVI del artículo inmediato anterior de esta Ley;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b. Con el equivalente de 250 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II; III, IV, V, VI, XIII, XVII y XIX del artículo inmediato anterior de esta Ley;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c. Con el equivalente de 500 a 40,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII; VIII; IX y XVI del artículo inmediato anterior de esta Ley;
 
 II. Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de los establecimientos o la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso, o de la inscripción registral, o de las actividades de que se trate, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones: III, IV, VI, X, XI, XII, XIII, y XIX del artículo inmediato anterior de la presente Ley; y,
 
@@ -1580,3 +1586,11 @@ B.O. 20 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
