@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-notariado-del-estado-de-baja-california-sur-3322"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "2007-07-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL NOTARIADO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -247,9 +247,9 @@ Para el inicio de sus funciones el notario debe:
 
 I. Rendir la protesta ante el Gobernador del Estado;
 
-> <small>(REFORMADA, B.O. 10 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Otorgar fianza, depósito en efectivo o hipoteca ante el Ejecutivo del Estado por la cantidad equivalente a cuarenta y seis años de salario mínimo vigente en el Estado, a la fecha del otorgamiento. Dicha garantía deberá mantenerse vigente y actualizarse cada dos años, en la misma proporción al salario mínimo que rija en esa fecha;
+II. Otorgar fianza, depósito en efectivo o hipoteca ante el Ejecutivo del Estado por la cantidad equivalente a cuarenta y seis veces el valor anual de la Unidad de Medida y Actualización, a la fecha del otorgamiento. Dicha garantía deberá mantenerse vigente y actualizarse cada dos años, en la misma proporción al valor de la Unidad de Medida y Actualización que rija en esa fecha;
 
 III. Proveerse en su costa del sello y protocolo, debiéndose (sic) éstos reunir las características que marca esta Ley;
 
@@ -1360,3 +1360,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 B.O. 20 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
