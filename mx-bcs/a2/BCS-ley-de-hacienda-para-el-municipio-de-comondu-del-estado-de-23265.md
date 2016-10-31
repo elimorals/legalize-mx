@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2013-01-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDÚ DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 20 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -107,9 +105,9 @@ a). 3.1 al millar anual si están explotados por su dueño.
 
 b). 8.12 al millar anual si no están explotados por su dueño.
 
-> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-c). En ningún caso el impuesto predial anual será inferior a tres días de salario mínimo.
+c). En ningún caso el impuesto predial anual será inferior a tres veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -145,9 +143,9 @@ c). A razón del 7.8 al millar anual sobre el valor catastral de los predios no 
 
 d). A razón de 6 al millar anual sobre el valor catastral de los predios no edificados o baldíos ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados, siempre y cuando dichos predios no sean enajenados a terceros, prometidos en venta o con reserva de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una subdivisión, fusión o relotificación común.
 
-> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-e). En ningún caso el impuesto predial anual deberá ser inferior a tres días de salario mínimo, salvo en los casos de la reducción establecida en el Título Séptimo de esta Ley.
+e). En ningún caso el impuesto predial anual deberá ser inferior a tres veces el valor diario de la Unidad de Medida y Actualización, salvo en los casos de la reducción establecida en el Título Séptimo de esta Ley.
 
 ###### Artículo 10.
 
@@ -167,9 +165,9 @@ V. Los terrenos inexactamente clasificados por los que no se hubiese cubierto el
 
 Cuando se trate de cambios de valores unitarios de terrenos y construcciones por actualizaciones de valores catastrales entrarán en vigor a partir del bimestre siguiente al de haber sido publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI. El impuesto predial causado anualmente no será inferior a tres días salario mínimo.
+VI. El impuesto predial causado anualmente no será inferior a tres veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 11.
 
@@ -199,9 +197,9 @@ Están obligados al pago del impuesto sobre adquisición de bienes inmuebles est
 
 El impuesto se calculara a la tasa del 2% al valor de transacción comercial del inmueble.
 
-> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Cuando el bien que se adquiera sea terreno y construcción destinada a casa-habitación, el impuesto se calculará aplicando la tasa del 2% del valor del inmueble, después de reducirlo en cinco veces el salario mínimo general de la zona elevado al año.
+Cuando el bien que se adquiera sea terreno y construcción destinada a casa-habitación, el impuesto se calculará aplicando la tasa del 2% del valor del inmueble, después de reducirlo en cinco veces el valor de la Unidad de Medida y Actualización elevado al año.
 
 > <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -211,9 +209,9 @@ En el caso de adquisición por donación o sucesión entre cónyuges o parientes
 
 Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se calculara aplicando la tasa prevista en el primer párrafo de este artículo, independientemente de que cause por el cesionario, por la sucesión o por el adquirente.
 
-> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 206)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Se considera vivienda de interés social aquella que su costo de adquisición no rebase 5,625 veces el salario mínimo general de la zona.
+Se considera vivienda de interés social aquella que su costo de adquisición no rebase 5,625 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 14.
 
@@ -301,9 +299,11 @@ En las adquisiciones que se hagan constar en escritura pública los notarios, ju
 
 Es obligación del notario anexar constancias de no adeudos fiscales, a la fecha de celebración del acto, así como avalúo pericial vigente. las autoridades fiscales se reservan el derecho de ejercer sus facultades de comprobación sobre los avalúos periciales, aún cuando hayan sido considerados con anterioridad por la autoridad municipal, reservándose también el derecho de aplicar las sanciones que marca el reglamento de peritos, en caso de incurrir en la consignación de valores falsos en avalúos periciales.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 19.
 
-Para efectuar la reducción a que se refiere el artículo 13 de esta ley, se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 17 de esta ley.
+Para efectuar la reducción a que se refiere el artículo 13 de esta ley, se aplicará el valor de la Unidad de Medida y Actualización correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 17 de esta ley.
 
 ###### Artículo 20.
 
@@ -429,13 +429,21 @@ TARIFA
 
 a). Zona pavimentada, asfaltada, adoquinada o empedrada.
 
-1. Solares baldíos, no cercados por metro lineal o fracción, o.5% del salario mínimo diario.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. Solares sin edificar, por metro cuadrado o.1% del salario mínimo diario.
+1. Solares baldíos, no cercados por metro lineal o fracción, 0.5% del valor diario de la Unidad de Medida y Actualización.
 
-3. Solares sin banqueta, por metro lineal 0.5% del salario mínimo diario.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-4. Construcciones ruinosas por metro cuadrado de construcción 0.5% del salario mínimo diario.
+2. Solares sin edificar, por metro cuadrado 0.1% del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+3. Solares sin banqueta, por metro lineal 0.5% del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+4. Construcciones ruinosas por metro cuadrado de construcción 0.5% del valor diario de la Unidad de Medida y Actualización.
 
 b). Zonas con servicio de energía eléctrica, agua y drenaje se cobrará el 25% de las tarifas establecidas en el inciso a de este artículo.
 
@@ -861,25 +869,25 @@ Los servicios prestados por las oficinas catastrales causarán un derecho que se
 
 TARIFA.
 
-> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-I. Por cada copia de planos Incluida la Certificación 4 días salario mínimo
+I. Por cada copia de planos Incluida la Certificación 4 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Avalúos periciales por cada predio sobre su valor, sin que pueda ser inferior a dos días salario mínimo 1.0 al millar.
+II. Avalúos periciales por cada predio sobre su valor, sin que pueda ser inferior a dos veces el valor diario de la Unidad de Medida y Actualización, 1.0 al millar.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Certificados por la primera hoja o fracción, un día de salario mínimo; por las subsecuentes .25 días de salario mínimo.
+III. Certificados por la primera hoja o fracción, una vez el valor diario de la Unidad de Medida y Actualización; por las subsecuentes .25 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Otorgamiento de claves catastrales, por cada una 1.5 días de salario mínimo.
+IV. Otorgamiento de claves catastrales, por cada una 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. Por búsqueda de datos para proporcionar información y/o certificado 1.5 días de salario mínimo por predio.
+V. Por búsqueda de datos para proporcionar información y/o certificado 1.5 veces el valor diario de la Unidad de Medida y Actualización por predio.
 
 > <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -887,107 +895,163 @@ VI. Por deslindes o levantamientos prediales que se realicen a solicitud de part
 
 ZONA URBANA:
 
-1. Deslinde en base de brigada. 5 días salario mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+1. Deslinde en base de brigada, 5 veces el valor diario de la Unidad de Medida y Actualización.
 
 2. Deslinde fuera de base de brigada:
 
-a) De 1 a 25 kilómetros. 8 días salario mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) De 26 a 50 kilómetros. 12 días salario mínimo
+a) De 1 a 25 kilómetros, 8 veces el valor diario de la Unidad de Medida y Actualización.
 
-c) De 51 a 75 kilómetros. 15 días salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d) De 76 a 125 kilómetros. 20 días salario mínimo.
+b) De 26 a 50 kilómetros, 12 veces el valor diario de la Unidad de Medida y Actualización.
 
-e) De 126 a 175 kilómetros. 28 días salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-f) De 176 kilómetros en adelante 32 días salario mínimo.
+c) De 51 a 75 kilómetros, 15 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+d) De 76 a 125 kilómetros, 20 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+e) De 126 a 175 kilómetros, 28 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+f) De 176 kilómetros en adelante, 32 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
 VII.- Servicios varios.
 
-a) Autorización de fusión de predios
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-por unidad 3 días salario mínimo.
+a) Autorización de fusión de predios por unidad, 3 veces el valor diario de la Unidad de Medida y Actualización
 
-b) Autorización de subdivisión,
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-lotificación y relotificación de predios
+b) Autorización de subdivisión, lotificación y relotificación de predios por unidad, 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-por unidad 3 días salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-c) Expedición de coordenadas U T M 5 días salario mínimo.
+c) Expedición de coordenadas U T M, 5 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
 VIII.- Recepción de documentos en forma extemporánea:
 
-Hasta 15 días naturales 1 salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 16 a 30 días naturales 2 salarios mínimo.
+Hasta 15 días naturales, 1 vez el valor diario de la Unidad de Medida y Actualización.
 
-de 31 a 45 días naturales 3 salarios mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 46 a 60 días naturales 4 salarios mínimo
+De 16 a 30 días naturales, 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 61 a 90 días naturales 5 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 91 días a 6 meses 10 salarios mínimo.
+De 31 a 45 días naturales, 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 6 meses un día a 1 año 20 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 1 año un día a 2 años 30 salarios mínimo.
+De 46 a 60 días naturales, 4 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 2 años más un día en adelante 50 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 61 a 90 días naturales, 5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 91 días a 6 meses, 10 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 6 meses un día a 1 año, 20 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 1 año un día a 2 años, 30 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 2 años mas un día en adelante, 50 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
 IX.- Por registro del perito valuador o topógrafo.
 
-a) Registro inicial 60 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Revalidación de registro anual 30 salarios mínimo.
+a) Registro inicial, 60 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Revalidación de registro anual, 30 veces el valor diario de la Unidad de Medida y Actualización
 
 Por acceso a los archivos y por registro de deslinde o levantamientos prediales que realicen peritos topógrafos acreditados en la Dirección de Catastro:
 
 A) En la zona urbana:
 
-Hasta 450 m2 2 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-De 451m2 hasta 900m2 3 salarios mínimo.
+Hasta 450 m2, 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-De 901m2 hasta 10.000m2 15 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-(1 hectárea)
+De 451 m2 hasta 900 m2, 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-De 10,001m2, en adelante. 15 a 19.15 salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 901 m2 hasta 10.000 m2, 15 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 10,001 m2, en adelante. 15 a 19.15 veces el valor diario de la Unidad de Medida y Actualización.
 
 B) Predios rústicos y accidentados de más de 4 puntos
 
-01 hectárea 8.5 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Hasta 10 hectáreas 19.25 salarios mínimo.
+01 hectárea, 8.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-De 11 hasta 50 hectáreas 57.75 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Hasta 10 hectáreas, 19.25 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 11 hasta 50 hectáreas, 57.75 veces el valor diario de la Unidad de Medida y Actualización.
 
 Mayores de 50 hectáreas se caracteriza la diferencia de 50 hectáreas de acuerdo al grupo del inciso b) que pertenezca.
 
-> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-X. Emisión de certificado de no propiedad. 1.5 salarios mínimos.
+X. Emisión de certificado de no propiedad, 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
 XI.- Emisión de certificados de medidas y colindancias:
 
-Predios regulares hasta 4 puntos 1.5 salarios mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Predios irregulares de 5 a 10 puntos 2 salarios mínimos.
+Predios regulares hasta 4 puntos, 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-Predios de más de 11 puntos 3 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Certificado especial. 3 salarios mínimos.
+Predios irregulares de 5 a 10 puntos, 2 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Predios de más de 11 puntos, 3 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Certificado especial, 3 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO TERCERO. LICENCIAS PARA CONSTRUCCIÓN
 
@@ -995,7 +1059,9 @@ Certificado especial. 3 salarios mínimos.
 
 Para edificar, reedificar, ampliar o reconstruir las fincas ubicadas en las poblaciones del municipio, se requiere licencia previa de la dependencia municipal correspondiente.
 
-La ejecución de las obras, sin licencia respectiva, se sancionará con multa de 2 a 25 salarios mínimos, dependiendo del uso de suelo que se trate, así como clausura de la misma.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+La ejecución de las obras, sin licencia respectiva, se sancionará con multa de 2 a 25 veces el valor diario de la Unidad de Medida y Actualización, dependiendo del uso de suelo que se trate, así como clausura de la misma.
 
 ###### Artículo 44.
 
@@ -1005,13 +1071,27 @@ Para obtener la licencia a que se refiere el artículo anterior, se deberá pres
 
 La expedición o refrendo de las licencias causarán derechos de 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar, el pago se hará cuando hayan sido aprobados los planos a que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
 
-La expedición de autorización por uso del suelo, causarán un derecho de 2 a 25 días salario mínimo de acuerdo a la siguiente clasificación de uso del suelo:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Habitacional 2-8 salarios
+La expedición de autorización por uso del suelo, causarán un derecho de 2 a 25 veces el valor diario de la Unidad de Medida y Actualización de acuerdo a la siguiente clasificación de uso del suelo:
 
-Comercial 2-15 salarios
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Turístico 10-25 salarios
+Habitacional 2-8 veces el valor diario de la Unidad de Medida y
+
+Actualización
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Comercial 2-15 veces el valor diario de la Unidad de Medida y
+
+Actualización
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Turístico 10-25 veces el valor diario de la Unidad de Medida y
+
+Actualización
 
 La expedición de licencias de urbanización para los desarrollos urbanos, tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominales, industriales o una combinación de los anteriores causarán un derecho de 7 al millar sobre el valor total de las obras de urbanización.
 
@@ -1021,9 +1101,13 @@ la dependencia municipal correspondiente podrá autorizar el registro del direct
 
 T A R I F A:
 
-Concepto días de salario
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-mínimos
+Concepto Veces el valor diario
+
+de la Unidad de Medida
+
+y Actualización
 
 a). registro anual de director
 
@@ -1085,59 +1169,105 @@ SERVICIO DOMÉSTICO
 
 Consumo mensual en metros cúbicos.
 
-Hasta 20 m3 cuota mínima 1 salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 20 m3 hasta 30 m3 6.0% del salario Mínimo, diario por cada m3.
+Hasta 20 m3 cuota mínima, 1 vez el valor diario de la Unidad de Medida y Actualización.
 
-Los metros que excedan de 30 m3 hasta 40 m3 6.1% del salario Mínimo, diario por cada m3.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 40 m3 hasta 50 m3 6.3% del salario Mínimo, diario por cada m3.
+Los metros que excedan de 20 m3, hasta 30 m3, 6.0% del valor diario de la Unidad de Medida y Actualización, por cada M3
 
-Los metros que excedan de 50 m3 hasta 80 m3 7.5% del salario Mínimo, diario por cada m3.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 80 m3 9.0% del salario Mínimo, diario por cada m3.
+Los metros que excedan de 30 m3, hasta 40 m3, 6.1% del valor diario de la Unidad de Medida y Actualización, por cada m3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 40 m3, hasta 50 m3, 6.3% del valor diario de la Unidad de Medida y Actualización, por cada m3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 50 m3, hasta 80 m3, 7.5% del valor diario de la Unidad de Medida y Actualización, por cada m3
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 80M3, 9.0% del valor diario de la Unidad de Medida y Actualización, por cada M3.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cada metro que exceda de 95 m3, 12% del valor diario de la Unidad de Medida y Actualización, por cada m3.
 
 SERVICIO COMERCIAL
 
 CONSUMO MENSUAL EN METROS CÚBICOS.
 
-hasta 20 m3 cuota mínima 1.47 días del salario mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 20 m3 hasta 30 m3 8.08% del salario Mínimo, diario por cada m3.
+Hasta 20 m3, cuota mínima de 1.47 veces el valor diario de la Unidad de Medida y Actualización,
 
-Los metros que excedan de 30 m3 hasta 40 m3 8.87% del salario Mínimo, diario por cada m3.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 40 m3 hasta 50 m3 9.76% del salario Mínimo, diario por cada m3.
+Los metros que excedan de 20 m3 hasta 30 m3, 8.08% del valor diario de la Unidad de Medida y Actualización, por cada m3.
 
-Los metros que excedan de 50 m3 hasta 60 m3 11.22% del salario Mínimo, diario por cada m3.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 60 m3 19.54% del salario Mínimo, diario por cada m3.
+Los metros que excedan de 30 m3 hasta 40 m3, 8.87% del valor diario de la Unidad de Medida y Actualización, por cada m3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 40 m3 hasta 50 m3, 9.76% del valor diario de la Unidad de Medida y Actualización, por cada m3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 50 m3 hasta 60 m3, 11.22% del valor diario de la Unidad de Medida y Actualización, por cada m3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 60 M3, 19.54% del valor diario de la Unidad de Medida y Actualización, cada M3.
 
 SERVICIO INDUSTRIAL Y TURISTICO
 
 CONSUMO MENSUAL EN METROS CUBICOS
 
-Hasta 50 m3 cuota mínima 6 días de salario mínimo diario.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 50 m3 hasta 100 m3 11% del salario Mínimo, diario por cada m3.
+Hasta 50 m3, cuota mínima de 6 veces el valor diario de la Unidad de Medida y Actualización.
 
-Los metros que excedan de 100 m3 hasta 125 m3 13.2% del salario Mínimo, diario por cada m3.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 125 m3 hasta 150 m3 16.5% del salario Mínimo, diario por cada m3.
+Los metros que excedan de 50 m3 hasta 100 m3, 11% del valor diario de la Unidad de Medida y Actualización, por cada m3.
 
-Los metros que excedan de 150 m3 hasta 250 m3 21.5% del salario Mínimo, diario por cada m3.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los metros que excedan de 250 m3 hasta 500 m3 el 24.6% del salario Mínimo, diario por cada m3.
+Los metros que excedan de 100 m3 hasta 125 m3, 13.2% del valor diario de la Unidad de Medida y Actualización, por cada m3.
 
-Los metros que exceda de 500 m3 27.5% del salario Mínimo, diario por cada m3.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 125 m3, hasta 150 m3, 16.5% del valor diario de la Unidad de Medida y Actualización, por cada m3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 150 m3, hasta 250 m3, 21.5% del valor diario de la Unidad de Medida y Actualización, por cada m3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que excedan de 250 m3 hasta 500 m3, 24.6% del valor diario de la Unidad de Medida y Actualización, por cada M3.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los metros que exceda de 500 m3, 27.5% del valor diario de la Unidad de Medida y Actualización, por cada m3.
 
 Esta tarifa será igualmente aplicada a buques cisternas y demás embarcaciones marinas.
 
-a).- Tarifa cuando no existan medidores.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Consumo mensual únicamente en servicio doméstico 1.5 días salario mínimo.
+b).- Tarifa cuando no existan medidores.
 
-b).- El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
+Consumo mensual únicamente en servicio doméstico, 1.5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c).- El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
 
 #### SECCION II (SIC). ALCANTARILLADO
 
@@ -1181,15 +1311,21 @@ IX. red de drenaje y alcantarillado
 
 X. reposición o reinstalaciones de agua potable y alcantarillado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 50.
 
-Los derechos de cooperación a que se refiere el artículo anterior en sus fracciones del V al X serán calculados en base a presupuesto de ejecución de obra, salarios mínimos y al resultado del avalúo general del sistema operador entre la producción real, conforme a lo siguiente:
+Los derechos de cooperación a que se refiere el artículo anterior en sus fracciones de la V a la X, serán calculados en base a presupuesto de ejecución de obra, en múltiplos del valor diario de la Unidad de Medida y Actualización y al resultado del avalúo general del sistema operador entre la producción real, conforme a los siguiente:
 
-a). Presupuesto de ejecución de obra, para los incisos V, VI y IX.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+a) Presupuesto de ejecución de obra, para las fracciones V, VI y IX.
 
 b). Resultado del avalúo del sistema entre la producción, para las fracciones VII y VIII.
 
-c). De 7 a 10 días de salario mínimo, para el inciso X.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c) De 7 a 10 veces el valor diario de la Unidad de Medida y Actualización, para la fracción X.
 
 ###### Artículo 51.
 
@@ -1203,25 +1339,33 @@ II. si son interiores que tengan acceso a la calle en que se hubieren ejecutado 
 
 Los propietarios o usuarios de los servicios de agua potable y alcantarillado estarán obligados a pagar los derechos de cooperación por la solicitud de los siguientes trámites o servicios.
 
-I. Cambios de propietario o traspaso 02 días de salario mínimo diario.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Constancias de certificados de no adeudo o no servicios
+I.- Cambios de propietario o traspaso 02 veces el valor diario de la Unidad de Medida y Actualización.
 
-1.5 días de salario mínimo diario.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Oficios de factibilidad de los servicios de agua potable y alcantarillado 10 días de salario mínimo diario.
+II.- Constancias de certificados de no adeudo o no servicios 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-IV. Limitaciones, cortes y reconexiones 2 días de salario mínimo diario.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+III.- Oficios de factibilidad de los servicios de agua potable y alcantarillado 10 veces el valor diario de la Unidad de Medida y Actualización.
 
-V. Desasolves y limpieza de fosas sépticas de 15 a 20 días de salario mínimo diario para servicios en el área urbana y de 20 a 35 días de salario mínimo diario para el área rural, exceptuándose casa habitación urbana o rural, mismas que serán consideradas con una tarifa de 5 salarios mínimos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, 15 DE FEBRERO DE 2006)</small>
+IV.- Limitaciones, cortes y reconexiones 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-VI. Venta de agua a pipas m3 30% del salario mínimo diario.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VII. Reparaciones de tomas en pavimentos 05 días salario mínimo diario/m2
+V.- Desasolves (sic) y limpieza de fosas sépticas de 15 a 20 veces el valor diario de la Unidad de Medida y Actualización para servicios en el área urbana y de 20 a 35 veces el valor diario de la Unidad de Medida y Actualización para el área rural, exceptuándose casa habitación urbana o rural, mismas que serán consideradas con una tarifa de 5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI.- Venta de agua a pipas m3 30% del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VII.- Reparaciones de tomas en pavimentos 05 veces el valor diario de la Unidad de Medida y Actualización por metro cuadrado.
 
 ###### Artículo 53.
 
@@ -1289,55 +1433,99 @@ Estarán exentos del pago de derechos de cooperación, la Federación y el estad
 
 INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 58.
 
-La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones. Para los efectos de esta ley, cometen infracción las siguientes personas y usuarios, las cuales estarán obligados a pagar los derechos de cooperación en días salario mínimo, como se detalla a continuación:
+La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones. Para los efectos de esta ley, cometen infracción las siguientes personas y usuarios, las cuales estarán obligados a pagar los derechos de cooperación en múltiplos o veces el valor diario de la Unidad de Medida y Actualización, como se detalla a continuación:
 
-I. Las personas que instalen en forma clandestina conexiones en cualquiera de las instalaciones del sistema sin estar conectadas 5 a 40 salarios mínimos diario.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-El que deteriore cualquier instalación destinada a la prestación de los servicios de agua potable y alcantarillado 5 a 40 salarios mínimos diario.
+I.- Las personas que instalen en forma clandestina conexiones en cualquiera de las instalaciones del sistema sin estar conectadas 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
 
-II. El que utilice el servicio de los hidratantes públicos para destinarlos a usos distintos a los de su objeto 5 a 40 salarios mínimos diarios.
+El que deteriore cualquier instalación destinada a la prestación de los servicios de agua potable y alcantarillado, 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
 
-III. Los propietarios o poseedores de los predios dentro de los cuales se localice alguna fuga que no haya sido reparada oportunamente 2 a 51 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Los que desperdicien el agua o no utilicen aparatos ahorradores 5 a 20 salarios mínimos diarios.
+II.- El que utilice el servicio de los hidratantes públicos para destinarlos a usos distintos a los de su objeto 5 a 40 veces el valor, diario de la Unidad de Medida y Actualización.
 
-V. Las personas que impidan la instalación de los servicios de agua potable y alcantarillado 5 a 50 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI. El que emplee mecanismos para succionar agua de las tuberías de distribución 5 a 40 salarios mínimos diarios.
+III.- Los propietarios o poseedores de los predios dentro de los cuales se localice alguna fuga que no haya sido reparada oportunamente 2 a 51 veces el valor diario de la Unidad de Medida y Actualización.
 
-VII. Los que construyan u operen sistemas para la prestación de los servicios públicos sin la concesión correspondiente 100 a 500 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VIII. Los Notarios Públicos o Jueces que autoricen o certifiquen los actos traslativos de dominio de bienes inmuebles urbanos, traspaso de giros comerciales, industriales cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por los servicios públicos 5 a 20 salarios mínimos diarios.
+IV.- Los que desperdicien el agua o no utilicen aparatos ahorradores 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
 
-IX. Los que no acondicionen la instalación en el interior de las viviendas, a fin de que la lectura del consumo sea de fácil acceso al personal autorizado para este fin por el organismo operador 5 a 20 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-X. El que impida las visitas de inspección y reconocimiento que realice el personal autorizado por el organismo operador 5 a 20 salarios mínimos diarios.
+V.- Las personas que impidan la instalación de los servicios de agua potable y alcantarillado 5 a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
-XI. Los que proporcionen agua a un predio o finca contigua sin importar que dicho consumo se registre por el aparato medidor 5 a 20 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XII. El que cause desperfectos a un aparato medidor 30 a 50 salarios mínimos diarios.
+VI.- El que emplee mecanismos para succionar agua de las tuberías de distribución 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
 
-XIII. Los que violen los sellos a un aparato medidor 30 a 50 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XIV. Los que por cualquier medio alteren la lectura de un aparato medidor 100 a 500 salarios mínimos diarios.
+VII.- Los que construyan u operen sistemas para la prestación de los servicios públicos sin la concesión correspondiente 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
-XV. Los que sin estar legalmente autorizados para hacerlo, retiren un medidor variando su colocación de manera temporal o definitiva 100 a 500 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XVI. Los residentes que frente a los inmuebles que habitan se localice una fuga de agua y que ésta le sea imputable 5 a 20 salarios mínimos diarios.
+VIII.- Los Notarios Públicos o Jueces que autoricen o certifiquen los actos traslativos de dominio de bienes inmuebles urbanos, traspaso de giros comerciales, industriales cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por los servicios públicos 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
 
-XVII. Los que rieguen jardines, calles, arboledas y lavado de banquetas fuera del horario permitido que es de 19:00 horas a 6:00 horas durante los meses de abril a octubre 5 a 20 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XVIII. A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de agua potable y alcantarillado, no cumplan con la obligación de solicitar la toma de agua correspondiente dentro de los plazos establecidos o impidan la instalación de la misma 5 a 40 salarios mínimos diarios.
+IX.- Los que no acondicionen la instalación en el interior de las viviendas, a fin de que la lectura del consumo sea de fácil acceso al personal autorizado para este fin por el organismo operador 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
 
-XIX. A los funcionarios o empleados que concedan licencias para construcciones sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio que habrá de construirse. 5 a 50 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XX. A los que se reconecten o manden reconectar al servicio, de servicios limitados o suspendidos, derivado del incumplimiento al pago de los servicio de agua potable y alcantarillado 30 a 50 salarios mínimos diarios.
+X.- El que impida las visitas de inspección y reconocimiento que realice el personal autorizado por el organismo operador 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
 
-XXI. A los que violen los sellos establecidos en los servicios limitados o suspendidos 30 a 50 salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XXII. A los usuarios del servicio doméstico que reincidan en tres ocasiones o más en reconectar o mandar reconectar el servicio limitado se le suspenderá el servicio temporalmente.
+XI.- Los que proporcionen agua a un predio o finca contigua sin importar que dicho consumo se registre por el aparato medidor 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XII.- El que cause desperfectos a un aparato medidor 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIII.- Los que violen los sellos a un aparato medidor 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIV.- Los que por cualquier medio alteren la lectura de un aparato medidor 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XV.- Los que sin estar legalmente autorizados para hacerlo, retiren un medidor variando su colocación de manera temporal o definitiva 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVI.- Los residentes que frente a los inmuebles que habitan se localice una fuga de agua y que ésta le sea imputable 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVII.- Los que rieguen jardines, calles, arboledas y lavado de banquetas fuera del horario permitido que es de 19:00 horas a 6:00 horas durante los meses de abril a octubre 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVIII.- A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de agua potable y alcantarillado, no cumplan con la obligación de solicitar la toma de agua correspondiente dentro de los plazos establecidos o impidan la instalación de la misma 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIX.- A los funcionarios o empleados que concedan licencias para construcciones sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio que habrá de construirse. 5 a 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XX.- A los que se reconecten o manden reconectar al servicio, de servicios limitados o suspendidos, derivado del incumplimiento al pago de los servicio (sic) de agua potable y alcantarillado 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXI.- A los que violen los sellos establecidos en los servicios limitados o suspendidos 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+XXII.- A los usuarios del servicio doméstico que reincidan en tres ocasiones o más en reconectar o mandar reconectar el servicio limitado se le suspenderá el servicio temporalmente.
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
@@ -1421,15 +1609,43 @@ Los derechos por legalización de firmas, expedición de constancias, certificad
 
 TARIFA
 
-> <small>(REFORMADA, B.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-I. Legalización de firmas, expedición de certificados, expedición de constancias, copias certificadas y certificaciones. 1 salario mínimo
+I.- Legalización de firmas, expedición de 1 vez el valor diario de la
 
-II. Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, por cada hoja 1 día salario mínimo
+certificados, expedición de constancias, Unidad de Medida y
 
-III. Expedición de copias certificadas de constancias existentes en los archivos del municipio por cada hoja 1 día salario mínimo
+copias certificadas y certificaciones. Actualización
 
-IV. Búsqueda de documentos del archivo municipal, cuando no se precisen los datos y fechas del acto 2 días salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Expedición de certificados 1 vez el valor diario de la
+
+de algún hecho ocurrido en Unidad de Medida y
+
+presencia de la autoridad, Actualización
+
+por cada hoja.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III.- Expedición de copias 1 vez el valor diario de la
+
+certificadas de constancias Unidad de Medida y
+
+existentes en los archivos Actualización
+
+del municipio por cada hoja.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV.- Búsqueda de documentos 2 veces el valor diario
+
+del archivo municipal, cuando de la Unidad de Medida
+
+no se precisen los datos y y Actualización
+
+fechas del acto.
 
 ###### Artículo 64.
 
@@ -1445,15 +1661,21 @@ Los derechos a que se refieren los artículos que anteceden serán pagados en la
 
 Por el otorgamiento de concesiones, incluyendo el terreno que se ocupe en los panteones o cementerios municipales de las cabeceras municipales o delegaciones, se causarán las cuotas siguientes.
 
-I. Fosa de 2 mts a perpetuidad 3 días salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Fosa de 1.20 mts a perpetuidad 2 días salario mínimo
+I.- Fosa de 2 mts a perpetuidad, 3 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Subterráneas, además de las cuotas anteriores:
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-a). por cada gaveta 1 día salario mínimo
+II.- Fosa de 1.20 mts a perpetuidad, 2 veces el valor diario de la Unidad de Medida y Actualización;
 
-I. (sic) Fosa común exenta
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III.- Subterráneas, además de las cuotas anteriores, por cada gaveta, 1 vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV.- Fosa común, exenta.
 
 ###### Artículo 67.
 
@@ -1465,21 +1687,25 @@ La exhumación, reinhumación o el traslado de cadáveres o restos estarán suje
 
 TARIFA
 
-I. Por cada exhumación 4 días salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Por cada exhumación, 4 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 II. Por traslado de cadáveres o restos:
 
-a). Dentro del municipio 50% día salario mínimo
+a) Dentro del municipio, 50% del valor diario de la Unidad de Medida y Actualización;
 
-b). Fuera del municipio 2 días salario mínimo
+b) Fuera del municipio, 2 veces el valor diario de la Unidad de Medida y Actualización;
 
-c). Fuera del estado 3 días salario mínimo
+c) Fuera del estado; 3 veces el valor diario de la Unidad de Medida y Actualización;
 
-d). Fuera de la república 5 días salario mínimo
+d) Fuera de la república, 5 veces el valor diario de la Unidad de Medida y Actualización.
 
-III. Por cada reinhumación:
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Dentro del mismo panteón 1 día salario mínimo.
+III. Por cada reinhumación, dentro del mismo panteón, 1 vez el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 69.
 
@@ -1501,17 +1727,29 @@ Los derechos relativos al uso de maquinaria, matanza, inspección sanitaria, tra
 
 TARIFA.
 
-I. Ganado vacuno y equino, por cada uno 3 días de salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Ganado porcino, por cada uno 2 días de salario mínimo
+I. Ganado vacuno y equino, por cada uno, 3 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Ganado caprino y lanar, por cada uno 50% día de salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. aves y otros 8% día salario mínimo
+II. Ganado porcino, por cada uno, 2 veces el valor diario de la Unidad de Medida y Actualización;
 
-por uso de frigorífico por canal diario 50% día salario mínimo a partir del segundo día.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Cuando no exista rastro, se pagará por cada animal 50% salario mínimo diario.
+III. Ganado caprino y lanar, por cada uno, 50% del valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Aves y otros, 8% del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Por uso de frigorífico por canal diario a partir del segundo día, 50% del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cuando no exista rastro, se pagará por cada animal 50% del valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 73.
 
@@ -1521,9 +1759,11 @@ Por cada animal sacrificado clandestinamente se pagará una sanción equivalente
 
 ### CAPÍTULO DÉCIMO. DEPÓSITO DE ANIMALES EN LOS CORRALES MUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 74.
 
-Los propietarios de los animales depositados en los corrales pertenecientes al municipio, pagarán diariamente como derecho por servicios prestados, la cantidad de 50% del salario mínimo diario a partir del segundo día por cada animal de ganado vacuno y porcino, cualquiera que sea su tamaño y no podrán retirarlos mientras no se haga la liquidación correspondiente.
+Los propietarios de los animales depositados en los corrales pertenecientes al municipio, pagarán diariamente como derecho por servicios prestados, la cantidad de 50% del valor diario de la Unidad de Medida y Actualización a partir del segundo día por cada animal de ganado vacuno y porcino, cualquiera que sea su tamaño y no podrán retirarlos mientras no se haga la liquidación correspondiente.
 
 Queda prohibido el depósito de ganado caprino por más de un día en los corrales del rastro.
 
@@ -1535,11 +1775,17 @@ El alineamiento de predios sobre la vía pública y expedición de número ofici
 
 TARIFA
 
-I. Hasta 20 mts. lineales 1 día salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. por mts. lineales adicional 10 días salario mínimo
+I. Hasta 20 mts. lineales 1 vez el valor diario de la Unidad de Medida y Actualización;
 
-III. por la expedición del número oficial 50% día salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Por mts. lineales adicional 10 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Por la expedición del número oficial 50% del valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 76.
 
@@ -1549,9 +1795,11 @@ El derecho por alineamiento de predios sobre la vía pública será causado ante
 
 Los alineamientos de predios tendrán vigencia por seis meses contados a partir de la fecha de su expedición.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 78.
 
-Por medición que haga el ayuntamiento de terrenos propios para efectos de regularización, se pagarán dos días salario mínimo por lote o fracción.
+Por medición que haga el ayuntamiento de terrenos propios para efectos de regularización, se pagarán dos veces el valor diario de la Unidad de Medida y Actualización por lote o fracción.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD Y DE MORADA CONYUGAL
 
@@ -1561,13 +1809,21 @@ La expedición de certificados de vecindad y de morada conyugal causarán derech
 
 TARIFA
 
-I. De vecindad.
+(REPUBLICADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)
 
-II. a). A extranjeros para que regularicen su situación migratoria, naturalización y recuperación de nacionalidad y para otros fines análogos, 15 días salario mínimo.
+I.- De vecindad.
 
-III b). a quienes soliciten certificado para cualquier fin distinto de los mencionados en el inciso anterior 1 día salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. II. De morada conyugal 1 día salario mínimo. (sic)
+a).- A extranjeros para que regularicen su situación migratoria, naturalización y recuperación de nacionalidad y para otros fines análogos, 15 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b).- A quienes soliciten certificado para cualquier fin distinto de los mencionados en el inciso anterior, 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- De morada conyugal 1 vez el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO DÉCIMO TERCERO. SERVICIOS DE SEGURIDAD Y TRÁNSITO
 
@@ -1683,17 +1939,23 @@ Por el resello anual se causará el 20% de la tarifa anterior y en la emisión d
 
 ### CAPÍTULO DÉCIMO CUARTO. RECOLECCIÓN DE BASURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 84.
 
-Es objeto de este derecho, el servicio que por limpia, recolección traslado, tratamiento y disposición de residuos presta el ayuntamiento a los establecimientos comerciales, industriales o de prestación de servicios, excepto los que presten los profesionistas en forma personal o bodegas cualquiera que sea su naturaleza, y los sujetos de estos derechos pagarán en el equivalente a los días de salario mínimo general correspondiente al Estado de Baja California Sur, que se señala en la siguiente
+Es objeto de este derecho el servicio que por limpia, recolección traslado, tratamiento y disposición de residuos presta el ayuntamiento a los establecimientos comerciales, industriales o de prestación de servicios, excepto los que presten los profesionistas en forma personal o bodegas cualquiera que fuera su naturaleza, y los sujetos de estos derechos pagarán en el equivalente a múltiplos del valor diario de la Unidad de Medida y Actualización que se señala en la siguiente:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 15 DE FEBRERO DE 2006)</small>
 
 T A R I F A
 
-CONCEPTO Salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Mensuales
+Concepto Veces el valor diario de la
+
+Unidad de Medida
+
+y Actualización
 
 a).- Pequeño comercio que no
 
@@ -1729,31 +1991,55 @@ Por la ocupación de la vía pública, el Ayuntamiento se reservará la facultad
 
 T A R I F A
 
-I.- Automóviles de sitio o taxis por metro lineal anualmente 1 día salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II.- Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 1 día salario mínimo.
+I.- Automóviles de sitio o taxis por metro lineal anualmente 1 vez el valor diario de la Unidad de Medida y Actualización.
 
-III.- Estacionamientos exclusivos para uso comercial anualmente por metro lineal 3 días salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente 0.5 día salario mínimo.
+II.- Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 1 vez el valor diario de la Unidad de Medida y Actualización.
 
-V.- Por instalaciones visibles o no subterráneas por cada 10 metros lineales, anualmente 1 día salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI.- Por instalaciones subterráneas por cada 10 metros lineales anualmente 1 día de salario mínimo.
+III.- Estacionamientos exclusivos para uso comercial anualmente por metro lineal 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-VII.- Por instalaciones de registros, cajas de válvulas y otras estructuras anualmente 3 días salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VIII.- Por postes de madera, metal, concreto o cualquier otro material que sean soportadores de líneas conductoras de energía o señales de cualquier índole anualmente 0.4 día de salario mínimo por cada uno.
+IV.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente 0.5 del valor diario de la Unidad de Medida y Actualización.
 
-IX.- Vehículos automotores con amplificador de sonido, diariamente 1 día de salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+V.- Por instalaciones visibles o no subterráneas por cada 10 metros lineales, anualmente 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI.- Por instalaciones subterráneas por cada 10 metros lineales anualmente 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VII.- Por instalaciones de registros, cajas de válvulas y otras estructuras anualmente 3 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VIII.- Por postes de madera, metal, concreto o cualquier otro material que sean soportadores de líneas conductoras de energía o señales de cualquier índole anualmente 0.4 del valor diario de la Unidad de Medida y Actualización por cada uno.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IX.- Vehículos automotores con amplificador de sonido, diariamente 1 vez el valor diario de la Unidad de Medida y Actualización.
 
 X.- Instalación de puestos:
 
-a) Semifijos en parques, plazas, tianguis y jardines que ocupen la vía pública por días determinados 0.5 día de salario mínimo por cada día.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Semifijos en parques, plazas, tianguis y jardines que ocupen la vía pública por días indeterminados, hasta 8 metros cuadrados 0.13 día de salario mínimo diariamente, de 8 metros cuadrados en adelante 0.39 día de salario mínimo diariamente.
+a) Semifijos en parques, plazas, tianguis y jardines que ocupen la vía pública por días determinados 0.5 del valor diario de la Unidad de Medida y Actualización por cada día.
 
-XI. Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no destinados para tal fin, deberá recabar autorización Municipal cubriendo una cuota diaria de 1.5 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Semifijos en parques, plazas, tianguis y jardines que ocupen la vía pública por días indeterminados, hasta 8 metros cuadrados 0.13 del valor diario de la Unidad de Medida y Actualización diariamente, de 8 metros cuadrados en adelante 0.39 del valor diario de la Unidad de Medida y Actualización diariamente.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XI.- Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no destinados para tal fin, deberá recabar autorización Municipal cubriendo una cuota diaria de 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
 El pago se realizará anticipadamente y de manera anual, a más tardar el último día del mes de febrero, con excepción de las fracciones IV, IX, X Inciso a) y XI, que su pago se realizará en el momento que los contribuyentes estén en el hecho que indican estas fracciones.
 
@@ -1797,19 +2083,41 @@ La venta de bienes muebles e inmuebles pertenecientes al municipio solo podrá l
 
 Solo se podrán explotar los bienes muebles e inmuebles del municipio por concesión o contrato legalmente otorgado y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 86], B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 88.
 
-Con los mismos requisitos señalados en el artículo 83, se podrá dar en pago de crédito u obligaciones a cargo del municipio los bienes pertenecientes a la hacienda municipal.
+Los propietarios de los vehículos que sean almacenados en los terrenos de los corralones de depósito, pagarán la cantidad equivalente al 10% del valor diario de la Unidad de Medida y Actualización por cada día de almacenaje a partir del séptimo día, siempre y cuando este el vehículo a disposición de propietario.
 
-En todos los casos en que se autorice la enajenación de bienes del municipio y se estipule entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte que de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL CONTENIDO DE LA REFORMA AL PRESENTE ARTÍCULO EN EL DECRETO NÚMERO 2379 PUBLICADO EN B.O. DE 31 DE OCTUBRE DE 2016 PÁGINAS 69 Y 70, ES SIMILAR A SU CONTENIDO HASTA ANTES DE LA REFORMA PUBLICADA EN EL B.O. DE 15 DE FEBRERO DE 2006 DE ESTE ORDENAMIENTO.]</small>
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 87], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 89.
 
 Los bienes de uso común o destinados al servicio del municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización del Congreso del Estado.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 1 a 5 cuadras, 2 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 5 a 10 cuadras, 3 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 10 a 20 cuadras, 4 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 20 en adelante, 5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I.- Fuera de la zona urbana, será la tarifa establecida mas el 10% del valor diario de la Unidad de Medida y Actualización por km.
+
+II.- ... (sic)
 
 (REPUBLICADA, B.O. 15 DE FEBRERO DE 2006)
 
@@ -1821,7 +2129,13 @@ Los bienes de uso común o destinados al servicio del municipio no podrán ser e
 
 Los propietarios de los vehículos que sean almacenados en los terrenos de los corralones de depósito, pagarán la cantidad equivalente a el 10% de un salario mínimo general por cada día de almacenaje a partir del séptimo día, siempre y cuando este el vehículo a disposición de propietario.
 
-TARIFA % de Salario Mínimo Diario
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Tipo de Vehículo % del valor diario de la
+
+Unidad de Medida y
+
+Actualización
 
 I.- Automóviles, Camiones y Pick Ups 25%
 
@@ -1847,7 +2161,13 @@ TARIFA
 
 I.- Dentro de la Zona Urbana de la Cabecera Municipal
 
-Tipo de Vehículo Salarios Mínimos Diarios
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Tipo de Vehículo Veces el valor diario de
+
+la Unidad de Medida y
+
+Actualización
 
 a) Automóviles, Camiones y Pick Ups 8
 
@@ -1861,7 +2181,9 @@ e) Tracto Camiones 12
 
 f) Remolques 12
 
-II.- Fuera de la zona urbana, será la tarifa establecida mas el 30% del salario mínimo diario por kilómetro.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Fuera de la zona urbana, será la tarifa establecida más el 30% del valor diario de la Unidad de Medida y Actualización por kilómetro.
 
 III.- Cuando el vehículo este en condiciones mecánicas para seguir operando, no se hará uso de la grúa, este será llevado al corralón o a la dirección de seguridad publica, bajo la responsabilidad del conductor o propietario.
 
@@ -1887,23 +2209,31 @@ Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrenco
 
 Todas las personas con capacidad legal, tienen derecho a solicitar en compra sin perjuicio de terceros, un terreno en propiedad municipal susceptible de ser transmitido, si la enajenación es procedente, el valor unitario se aplicará conforme al avalúo pericial que en cada caso se practique.
 
-Por la expedición de títulos de propiedad, se pagará una cuota equivalente a ocho días de salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Por la expedición de duplicado de títulos de propiedad se pagará una cuota equivalente a 8 días de salario mínimo.
+Por la expedición de títulos de propiedad, se pagará una cuota equivalente a ocho veces el valor diario de la Unidad de Medida y Actualización.
 
-Por la expedición de copias certificadas de títulos de propiedad, se pagará una cuota de 4 días de salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la escritura o titulo de propiedad que el ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 40 días salario mínimo por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá a favor del Ayuntamiento.
+Por la expedición de duplicado de títulos de propiedad se pagará una cuota equivalente a 8 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Por la expedición de copias certificadas de títulos de propiedad, se pagará una cuota de 4 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la escritura o título de propiedad que el ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 40 veces el valor diario de la Unidad de Medida y Actualización por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá a favor del Ayuntamiento.
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ### CAPÍTULO CUARTO. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 92], B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 94.
 
-Por la venta de papel para copias de actas de registro civil, se cobrará una cuota de 10 % salario mínimo diario.
+Por la venta de papel para copias de actas de registro civil, se cobrará una cuota de 10 % del valor diario de la Unidad de Medida y Actualización.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 93], B.O. 15 DE FEBRERO DE 2006)
 
@@ -1961,9 +2291,13 @@ TARIFAS
 
 I.- Expedición de licencias a giros comerciales con venta de bebidas alcohólicas por cada una.
 
-Establecimientos salarios
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-mínimos
+Establecimientos Veces el valor diario de
+
+la Unidad de Medida y
+
+Actualización.
 
 Hoteles y moteles por 800
 
@@ -2019,9 +2353,13 @@ Para efecto de la revalidación anual para operar locales destinados al almacena
 
 TARIFA
 
-Establecimientos salarios
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-mínimos
+Establecimientos Veces el valor diario de
+
+la Unidad de Medida y
+
+Actualización.
 
 Hoteles y moteles por 67.5
 
@@ -2075,13 +2413,13 @@ Para efectos de cambio de domicilio, previa autorización por parte del Ayuntami
 
 IV. Autorización de funcionamiento de horario extraordinario a giro con venta y consumo de bebidas alcohólicas por hora
 
-Establecimientos Costo por
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-hora
+Establecimientos Costo por hora en veces
 
-en Salarios
+el valor diario de la Unidad
 
-Mínimos
+de Medida y Actualización
 
 Hoteles y moteles por 1
 
@@ -2157,11 +2495,11 @@ d) los establecimientos que expendan bebidas alcohólicas a menores de edad.
 
 e) los establecimientos que no reúnan los requisitos contemplados de la secretaría de salubridad y asistencia.
 
-(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 106.
 
-Los derechos por los servicios de inspección fiscal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realice en el municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad lo dicte conveniente. los derechos se cobrarán de 1 a 3 salarios mínimos.
+Los derechos por los servicios de inspección fiscal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realice en el municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad lo dicte conveniente, los derechos se cobrarán de 1 a 3 veces el valor diario de la Unidad de Medida y Actualización.
 
 (REUBICADO, ANTES CAPÍTULO SÉPTIMO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2185,13 +2523,15 @@ Sujeto. son sujetos de este derecho las personas físicas o morales tenedoras o 
 
 Base. la base del pago de estos derechos será:
 
-En la vía pública anunciando cualquier tipo de producto 1.3 % diario del salario mínimo por metro cuadrado.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+En la vía pública anunciando cualquier tipo de producto 1.3 % del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 110.
 
-Los anuncios semifijos o eventuales pagarán este derecho al equivalente a un 2% del salario mínimo diario por metro cuadrado.
+Los anuncios semifijos o eventuales pagarán este derecho al equivalente a un 2% del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
 
 (REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2717,11 +3057,11 @@ Las personas que se dediquen a la venta de bienes raíces, notarios públicos, j
 
 Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón municipal, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos y obtener antes de iniciar sus actividades la licencia correspondiente, misma que deberá obtenerse dentro de los 30 días siguientes a la fecha de inicio y la revalidación anual deberá realizarse dentro del mes de enero de cada año.
 
-(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 126.
 
-El incumplimiento del articulo 125 será acreedor a una sanción de 3 a 50 días salario mínimo.
+Quien incumpla lo dispuesto por el artículo 125 será acreedor a una sanción de 3 a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2741,7 +3081,9 @@ Las licencias no conceden al causante un derecho absoluto pues siempre se entend
 
 Todo causante que marca el artículo 128 queda obligado a dar aviso a la oficina correspondiente, en caso de cambio de nombre, denominación o razón social, de domicilio, traspaso, contrato traslativo de dominio, de uso de cualquier acto que modifique los padrones, dentro de los 30 días siguientes a la fecha en que se verifique el acto.
 
-Tratándose de clausura se devolverá la licencia y placa de inscripción relativa, la falta de cumplimiento de esta disposición será sancionada con multa de 3 a 50 días salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Tratándose de clausura se devolverá la licencia y placa de inscripción relativa, la falta de cumplimiento de esta disposición será sancionada con multa de 3 a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2761,15 +3103,13 @@ Para fijación de cuotas por impuesto, se tomará en cuenta la importancia comer
 
 Los causantes están obligados a colocar en lugar visible del establecimiento la licencia municipal para funcionamiento del giro, así como de la placa de inscripción relativa, y a mostrar a los inspectores y demás autoridades debidamente acreditados, la documentación que les soliciten para el desempeño de sus funciones, así como ministrarles toda información que sea necesaria para la revisión o investigación correspondiente, la violación a estas disposiciones será sancionada de conformidad con lo previsto en el articulo siguiente.
 
-(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
-
-Artículo133. La falta oportuna de las declaraciones, así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravada y en general el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad en que se incurre, con multa de 50 a 300 días salario mínimo.
-
-(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 133.
 
-La falta oportuna de las declaraciones, así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravada y en general el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad en que se incurre, con multa de 50 a 300 días salario mínimo.
+La falta oportuna de las declaraciones, así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravada y en general el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad en que se incurre, con multa de 50 a 300 veces el valor diario de la Unidad de Medida y Actualización.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 134.
 
@@ -2958,3 +3298,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO
 
 Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
