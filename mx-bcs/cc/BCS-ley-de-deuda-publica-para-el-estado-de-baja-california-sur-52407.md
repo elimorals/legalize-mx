@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-deuda-publica-para-el-estado-de-baja-california-sur-5240
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-25"
-last_updated: "2014-10-20"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NO. 2380 PUBLICADO EN EL B.O. DE 31 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el sábado 25 de noviembre de 2006.
 
@@ -740,3 +742,15 @@ B.O. 11 DE MARZO DE 2008.
 B.O. 20 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 2380.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE EXPIDE LA LEY DE PRESUPUESTO Y CONTROL DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR; Y SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Presupuesto y Control del Gasto Público Estatal, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 6 de fecha 20 de febrero de 1984.
+
+TERCERO.- Se abroga la Ley de Deuda Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 48 de fecha 25 de noviembre del 2006.
+
+CUARTO.- Los Poderes del Estado de Baja California Sur, las Dependencias y Entidades del Poder Ejecutivo y los Organismos Autónomos deberán efectuar los ajustes correspondientes en sus Reglamentos Internos o equivalentes.
