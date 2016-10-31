@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2016-10-14"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -2799,27 +2799,33 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 332.
 
-Se impondrá sanción administrativa de veinte y hasta cuarenta veces el salario mínimo general diario vigente en el Estado, a la violación de las disposiciones contenidas en los artículos 52, 53, 82, 123, 124, 125, 141, 195, 196, 198, 200, 202, 203, 204, 205, 211, 218,220, 224, 226, 228, 238, 240, fracciones I, II, III y V, 245, 268, 278 y 286.
+Se impondrá sanción administrativa de veinte y hasta cuarenta veces el valor diario de la Unidad de Medida y Actualización, por la violación de las disposiciones contenidas en los artículos 52, 53, 82, 123, 124, 125, 141, 195, 196, 198, 200, 202, 203, 204, 205, 211, 218, 220, 224, 226, 228, 238, 240, fracciones I, II, III y V, 245, 268, 278 y 286.
 
-Se impondrá sanción administrativa equivalente hasta cien veces el salario mínimo diario vigente en el Estado, a la violación de la disposición contenida en el artículo 105 de esta Ley.
+Se impondrá sanción administrativa equivalente hasta cien veces el valor diario de la Unidad de Medida y Actualización, por la violación de la disposición contenida en el artículo 105 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 333.
 
-Se impondrá sanción administrativa equivalente de veinte hasta cien veces el salario mínimo vigente en el Estado, por la violación a las disposiciones contenidas en los artículos 116, 127, 136, 175, 207, 211, 215, 234, 236, 253, 273, 275 y 275 Bis de esta Ley.
+Se impondrá sanción administrativa equivalente de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización, por la violación a las disposiciones contenidas en los artículos 116, 127, 136, 175, 207, 211, 215, 234, 236, 253, 273, 275 y 275 Bis de esta Ley.
 
-Se sancionarán con el equivalente de cincuenta hasta quinientas veces de salario mínimo general diario en el Estado, a la violación de las disposiciones contenidas en los artículos 308 y 324 de esta Ley.
+Se sancionarán con el equivalente de cincuenta hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, por la violación de las disposiciones contenidas en los artículos 308 y 324 de esta Ley.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 334.
 
-Se impondrá sanción administrativa equivalente de doscientas a dos mil veces el salario mínimo general diario vigente en el Estado, la violación a las disposiciones contenidas en los artículos 68, 101, 104 y 117 de esta Ley.
+Se impondrá sanción administrativa equivalente de doscientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, por la violación a las disposiciones contenidas en los artículos 68, 101, 104 y 117 de esta Ley.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 335.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa administrativa al equivalente de veinte hasta quinientas veces el salario mínimo general diario vigente en el Estado, atendiendo a las reglas de calificación que se establecen en el artículo 331 de esta Ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa administrativa al equivalente de veinte hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, atendiendo a las reglas de calificación que se establecen en el artículo 331 de esta Ley.
 
 ###### ARTÍCULO 336.
 
@@ -3268,3 +3274,11 @@ B.O. 14 DE OCTUBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
