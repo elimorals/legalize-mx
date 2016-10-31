@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-baja-7661
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-01"
-last_updated: "2015-07-10"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el domingo 1 de agosto de 2010.
 
@@ -945,7 +945,9 @@ Las infracciones a los preceptos del presente Título, su Reglamento y demás di
 
 I. Amonestación con apercibimiento;
 
-II. Multa por el equivalente de cincuenta a dos mil días de salario mínimo diario general vigente en el Estado al momento de cometerse la infracción, y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Multa por el equivalente de cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la infracción, y
 
 III. Suspensión o revocación de los permisos y autorizaciones que le corresponda expedir al Estado.
 
@@ -1472,3 +1474,11 @@ B.O. 10 DE JULIO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
