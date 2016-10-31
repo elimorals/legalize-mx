@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-109762"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-01"
-last_updated: "2015-09-20"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 20 DE SEPTIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 1 de septiembre de 2015.
 
@@ -419,7 +417,9 @@ VI. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la 
 
 VII. Conocer de las excitativas de justicia que se promuevan en contra de los jueces, en los asuntos del orden civil, familiar o mercantil;
 
-VIII. Apercibir, amonestar o imponer multas hasta de ciento ochenta días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial del Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VIII. Apercibir, amonestar o imponer multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial del Estado;
 
 IX. Turnar al Pleno los asuntos que sean de su competencia; y
 
@@ -449,7 +449,9 @@ IX. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la 
 
 X. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces del orden penal;
 
-XI. Apercibir, amonestar o imponer multas hasta de ciento ochenta días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los defensores públicos, ministerios públicos, asesores jurídicos o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial del Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XI. Apercibir, amonestar o imponer multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, al día de cometerse la falta, a los defensores públicos, ministerios públicos, asesores jurídicos o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial del Estado;
 
 XII. Turnar al Pleno los asuntos que sean de su competencia; y
 
@@ -469,7 +471,9 @@ IV. Vigilar que los secretarios de Acuerdos y demás servidores públicos de la 
 
 V. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces especializados en Justicia para Adolescentes;
 
-VI. Apercibir, amonestar o imponer multas hasta por ciento ochenta días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los defensores públicos, ministerios públicos, asesores jurídicos o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial del Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Apercibir, amonestar o imponer multas hasta por ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, al día de cometerse la falta, a los defensores públicos, ministerios públicos, asesores jurídicos o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial del Estado;
 
 VII. Turnar al Pleno, los asuntos que sean de su competencia; y
 
@@ -487,7 +491,9 @@ III. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la
 
 IV. Conocer de las demandas contra servidores públicos en materia administrativa en términos de la Ley de Responsabilidades de los servidores públicos del Estado de Baja California Sur;
 
-V. Apercibir, amonestar o imponer multas hasta de ciento ochenta días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún órgano o miembro del Poder Judicial del Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Apercibir, amonestar o imponer multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún órgano o miembro del Poder Judicial del Estado;
 
 VI. Turnar al Pleno, los asuntos que sean de su competencia; y
 
@@ -1159,7 +1165,9 @@ I. En materia Penal siempre y cuando los asuntos no correspondan al sistema acus
 
 Conocer siempre y cuando los asuntos no correspondan al sistema acusatorio, de delitos culposos cometidos con motivo del tránsito de vehículos que causen lesiones o daño en las cosas, o ambas, siempre que el imputado no se encontrare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares;
 
-II. En materia civil, conocer de todos los asuntos cuyo interés no exceda de setecientos treinta días de salario mínimo general de la zona económica de su ubicación, con excepción de los asuntos previstos en la fracción VII y X del artículo 41 de esta Ley;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. En materia civil, conocer de todos los asuntos cuyo interés no exceda de setecientas treinta veces el valor diario de la Unidad de Medida y Actualización, con excepción de los asuntos previstos en la fracción VII y X del artículo 41 de esta Ley;
 
 III. En materia familiar, conocer de los asuntos que afecten a los alimentos, cuya cuantía no exceda de la cantidad fijada en la fracción segunda del presente artículo, y en jurisdicción voluntaria, lo relativo al domicilio, la dependencia económica y registro extemporáneo de nacimiento;
 
@@ -1207,9 +1215,9 @@ I. En materia Penal del sistema tradicional, conocer de los delitos que ocurran 
 
 II. Conocer preventivamente dentro del sistema penal tradicional, de los demás delitos cuando hubiere detenido; una vez desahogadas las primeras diligencias y resuelta la situación jurídica, remitirán lo actuado al Juez competente;
 
-> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. En materia civil, conocer de todos los asuntos cuyo interés no exceda de treinta días de salario mínimo general en la zona económica de su ubicación;
+III. En materia civil, conocer de todos los asuntos cuyo interés no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización;
 
 IV. En materia familiar, conocer en jurisdicción voluntaria respecto del domicilio y la dependencia económica de las personas;
 
@@ -2833,13 +2841,17 @@ I. Apercibimiento, el cual consistirá en la prevención verbal que se haga al s
 
 II. Amonestación, la cual consistirá en hacer saber por escrito al servidor público infractor las consecuencias de la conducta cometida, a efecto de prevenir su reincidencia;
 
-III. Sanción económica de treinta a noventa días de salario mínimo vigente en la entidad en la época de la conducta atribuida, que consistirá en el pago que debe hacer el infractor en cantidad cierta y determinada;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Sanción económica de treinta a noventa veces el valor diario de la Unidad de Medida y Actualización en la época de la conducta atribuida, que consistirá en el pago que debe hacer el infractor en cantidad cierta y determinada;
 
 IV. Suspensión, que consistirá en la separación temporal del cargo que ocupa el infractor, que podrá ser de uno a tres meses del cargo, empleo o comisión, privando al servidor público del derecho de percibir remuneración o cualquiera otra de las prestaciones económicas a que tenga derecho;
 
 V. Destitución del puesto, que consistirá en la pérdida definitiva del cargo, empleo o comisión dentro del Poder Judicial;
 
-VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones dentro del Poder Judicial, que consistirá en el impedimento temporal de seis meses a tres años para ocupar cargo, empleo o comisión públicos, cuando la falta cometida implique lucro o se haya causado daño o perjuicio al quejoso o denunciante, si el monto de aquellos no excede de quinientas veces el salario mínimo vigente en la entidad; y, la inhabilitación será de tres a seis años cuando exceda de dicha cantidad, éste último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones dentro del Poder Judicial, que consistirá en el impedimento temporal de seis meses a tres años para ocupar cargo, empleo o comisión públicos, cuando la falta cometida implique lucro o se haya causado daño o perjuicio al quejoso o denunciante, si el monto de aquellos no excede de quinientas veces el valor diario de la Unidad de Medida y Actualización; y, la inhabilitación será de tres a seis años cuando exceda de dicha cantidad, éste último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos; y
 
 VII. Inhabilitación definitiva para desempeñar empleos, cargos o comisiones dentro del Poder Judicial.
 
@@ -2869,9 +2881,11 @@ En cualquier momento, previo o posteriormente a la recepción del informe o cele
 
 Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 212.
 
-Si el Pleno del Tribunal Superior de Justicia o el Presidente del Tribunal estimaren que la queja fue interpuesta sin motivo, se impondrá al denunciante, al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en la Entidad al momento de interponerse la queja.
+Si el Pleno del Tribunal Superior de Justicia o el Presidente del Tribunal estimaren que la queja fue interpuesta sin motivo, se impondrá al denunciante, al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización al momento de interponerse la queja.
 
 ###### Artículo 213.
 
@@ -2921,9 +2935,11 @@ En caso de ser fundada la excitativa de justicia por falta de pronunciamiento de
 
 Las excitativas decretadas se notificarán al servidor público por cualquier medio legal, dejando constancia de ello.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 223.
 
-El Tribunal Superior de Justicia, impondrá al servidor público contra quien se haya interpuesto la excitativa en caso de que en el plazo concedido, no cumpla con el pronunciamiento motivo de ésta, una multa hasta por la cantidad equivalente a quince días de salario mínimo general vigente en el Estado, que se aplicará al Fondo Auxiliar para la Administración de Justicia.
+El Tribunal Superior de Justicia, impondrá al servidor público contra quien se haya interpuesto la excitativa en caso de que en el plazo concedido, no cumpla con el pronunciamiento motivo de ésta, una multa hasta por la cantidad equivalente a quince veces el valor diario de la Unidad de Medida y Actualización, que se aplicará al Fondo Auxiliar para la Administración de Justicia.
 
 Así mismo, se remitirá copia certificada de la resolución correspondiente, a la Secretaría General de Acuerdos del Pleno y la Presidencia, para que sea agregada al expediente del servidor público.
 
@@ -3141,11 +3157,17 @@ En caso de que la parte favorecida con el resultado del juicio haya sido asesora
 
 Las costas en Primera Instancia se causarán conforme a las siguientes bases:
 
-a) Cuando el monto del negocio no exceda del equivalente a tres mil días de salario mínimo general vigente en el Estado, se causará el 10%;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Cuando el monto del negocio exceda del equivalente a tres mil días de salario mínimo general vigente en el Estado y sea hasta de seis mil días de salario mínimo general vigente en el Estado, se causará el 8%; y
+a) Cuando el monto del negocio no exceda del equivalente a tres mil veces el valor diario de la Unidad de Medida y Actualización, se causará el 10%;
 
-c) Cuando el monto del negocio exceda del equivalente a seis mil días de salario mínimo general vigente en el Estado, se causará el 6%.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Cuando el monto del negocio exceda del equivalente a tres mil veces el valor diario de la Unidad de Medida y Actualización y sea hasta de seis mil veces el valor diario de la Unidad de Medida y Actualización, se causará el 8%; y
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c) Cuando el monto del negocio exceda del equivalente a seis mil veces el valor diario de la Unidad de Medida y Actualización, se causará el 6%.
 
 Si el asunto tuviere que resolverse a través de una segunda instancia, las cuotas anteriores se aumentarán en 2%.
 
@@ -3153,33 +3175,59 @@ Si el asunto tuviere que resolverse a través de una segunda instancia, las cuot
 
 En los negocios de cuantía indeterminada se causarán las costas siguientes:
 
-I. Por el estudio del negocio para plantear la demanda, el equivalente a cien días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Por el escrito de demanda, el equivalente a sesenta días de salario mínimo general vigente en el Estado;
+I. Por el estudio del negocio para plantear la demanda, el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Por el escrito de contestación a la demanda, el equivalente a sesenta días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Por la lectura de escritos o promociones presentados por el contrario, por foja, el equivalente a cinco días de salario mínimo general vigente en el Estado;
+II. Por el escrito de demanda, el equivalente a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo juez de los autos, o se evacue el traslado o vistas de promociones de la contraria, el equivalente a diez días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI. Por cada escrito proponiendo pruebas, el equivalente a veinte días de salario mínimo general vigente en el Estado;
+III. Por el escrito de contestación a la demanda, el equivalente a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Por cada interrogatorio o pliego de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja, el equivalente a cinco días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VIII. Por la asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o la parte proporcional del tiempo que exceda de la hora, el equivalente a ocho días de salario mínimo general vigente en el Estado;
+IV. Por la lectura de escritos o promociones presentados por el contrario, por foja, el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-IX. Por la asistencia a cualquier diligencia fuera del juzgado, por cada hora o la parte proporcional del tiempo que exceda de la hora, contada a partir de la salida del Juzgado, el equivalente a diez días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-X. Por la notificación o vista de proveídos, el equivalente a cinco días de salario mínimo general vigente en el Estado; y
+V. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo juez de los autos, o se evacue el traslado o vistas de promociones de la contraria, el equivalente a diez veces el valor diario de la Unidad de Medida y Actualización;
 
-XI. Por notificación o vista de sentencia, el equivalente a ocho días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Por cada escrito proponiendo pruebas, el equivalente a veinte veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VII. Por cada interrogatorio o pliego de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja, el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VIII. Por la asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o la parte proporcional del tiempo que exceda de la hora, el equivalente a ocho veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IX. Por la asistencia a cualquier diligencia fuera del juzgado, por cada hora o la parte proporcional del tiempo que exceda de la hora, contada a partir de la salida del Juzgado, el equivalente a diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+X. Por la notificación o vista de proveídos, el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XI. Por notificación o vista de sentencia, el equivalente a ocho veces el valor diario de la Unidad de Medida y Actualización;
 
 Las costas a que se refiere esta fracción y la anterior, se cobrarán sólo cuando conste en autos que el abogado fue notificado directamente por el actuario. En cualquier otro caso, por cada notificación se cobrará el equivalente a dos días de salario mínimo general vigente en el Estado, siempre que la promoción posterior revele que el abogado tuvo conocimiento del proveído o sentencia relativos;
 
-XII. Por los alegatos en lo principal, según la importancia o dificultad del caso a juicio del Juez, el equivalente a seis y hasta doce días de salario mínimo general vigente en el Estado, y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XIII. Por el escrito de agravios o contestación de los mismos, el equivalente a cien días de salario mínimo general vigente en el Estado.
+XII. Por los alegatos en lo principal, según la importancia o dificultad del caso a juicio del Juez, el equivalente a seis y hasta doce veces el valor diario de la Unidad de Medida y Actualización, y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIII. Por el escrito de agravios o contestación de los mismos, el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 251.
 
@@ -3191,9 +3239,11 @@ Los abogados que intervengan en juicios civiles o mercantiles por derecho propio
 
 #### SECCIÓN II. DE LOS ARANCELES DE LOS INTERVENTORES Y ALBACEAS JUDICIALES
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 253.
 
-En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil días de salario mínimo general vigente en el Estado, si exceden de esta suma, pero no del equivalente a veinticuatro mil días de salario mínimo general vigente en el Estado, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil días de salario mínimo general vigente en el Estado, cobrará además el 1% sobre la cantidad excedente.
+En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil veces el valor diario de la Unidad de Medida y Actualización, si exceden de esta suma, pero no del equivalente a veinticuatro mil veces el valor diario de la Unidad de Medida y Actualización, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil veces el valor diario de la Unidad de Medida y Actualización, cobrará además el 1% sobre la cantidad excedente.
 
 #### SECCIÓN III. DE LOS DEPOSITARIOS
 
@@ -3227,9 +3277,13 @@ Cuando la disposición recaiga sobre créditos, el depositario, además de los h
 
 Los intérpretes y traductores podrán cobrar por honorarios, hasta un máximo de lo señalado en los casos siguientes:
 
-I. Por asistencia ante las autoridades judiciales para traducir declaraciones en lenguas indígenas o en idioma extranjero, por cada hora o fracción, el equivalente a cinco días de salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Por traducción de cualquier documento, por hoja, el equivalente a dos días de salario mínimo general vigente en el Estado.
+I. Por asistencia ante las autoridades judiciales para traducir declaraciones en lenguas indígenas o en idioma extranjero, por cada hora o fracción, el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Por traducción de cualquier documento, por hoja, el equivalente a dos veces el valor diario de la Unidad de Medida y Actualización.
 
 Las anteriores cantidades serán actualizadas conforme al incremento anualizado que se dé en el Índice Nacional de Precios al Consumidor señalados por el Banco de México.
 
@@ -3241,9 +3295,13 @@ Los peritos de las diferentes especialidades que prestan sus servicios como auxi
 
 I. En asuntos relacionados con valuación, el 2.5 al millar del valor de los bienes por valuar;
 
-II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, veinte días de salario mínimo general vigente en el Estado, y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientos cuarenta días de salario mínimo general vigente en el Estado, cantidad que se determinará por el Juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
+II. En exámenes de grafoscopía, dactiloscopia y de cualquier otra técnica, veinte veces el valor diario de la Unidad de Medida y Actualización, y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientas cuarenta veces el valor diario de la Unidad de Medida y Actualización, cantidad que se determinará por el Juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
 
 #### SECCIÓN VI. DE LOS ÁRBITROS
 
@@ -3271,9 +3329,11 @@ Las cuotas de la tarifa anterior rigen para el caso de que el árbitro sea únic
 
 Los árbitros terceros, para el caso de discordia, devengarán el 75% del porcentaje señalado en el artículo 261 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 268.
 
-En los negocios cuya cuantía sea indeterminada, el árbitro cobrará doscientos a quinientos días de salario mínimo general vigente en el Estado.
+En los negocios cuya cuantía sea indeterminada, el árbitro cobrará doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Para regular la cuota anterior, se atenderá a la importancia del negocio, a las dificultades técnicas que presente y a las posibilidades pecuniarias de las partes.
 
@@ -3314,3 +3374,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR.
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
