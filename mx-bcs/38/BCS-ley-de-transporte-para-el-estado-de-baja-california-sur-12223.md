@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2005-07-10"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -397,7 +397,7 @@ VII. Tener la capacidad técnica y financiera para prestar el servicio público 
 
 El procedimiento a seguir para obtener el otorgamiento de una concesión para la prestación del servicio público de transporte deberá ajustarse a los requisitos siguientes, sin que, bajo ninguna circunstancia, pueda alterarse el orden establecido al efecto, ni omitirse alguno de ellos:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 1998)</small>
 
 I. La Dirección de Transporte, deberá realizar los trabajos necesarios de monitoreo en forma permanente, para detectar las necesidades de Transporte Público que se vayan presentando en el Estado, debiendo también recibirlas por parte de los Consejos Municipales de Transporte, correspondientes.
 
@@ -517,7 +517,7 @@ Los titulares de los permisos eventuales a que se hace referencia en el Artícul
 
 Los concesionarios del servicio público de transporte, están obligados a evitar que el manejo y control de sus vehículos quede encomendado a conductores que no posean licencia de chofer y que cuenten con antecedentes penales por delitos cometidos con motivo de la conducción de vehículos o aquellos calificados como graves por la legislación penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 1998)</small>
 
 ###### Artículo 35.
 
@@ -933,11 +933,11 @@ I. La gravedad de la infracción;
 
 II. Los daños causados, y
 
-III..La reincidencia.
+III. La reincidencia.
 
 A quienes infrinjan disposiciones de la presente Ley y su Reglamento, la Dirección de Transporte y las autoridades municipales en sus respectivos ámbitos de competencia, impondrán las siguientes multas:
 
-(VEASE TABLA ANEXA)
+(VÉASE TABLA ANEXA)
 
 ###### Artículo 77.
 
@@ -1029,7 +1029,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAÚL ANTONIO ORTEGA SALGADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 B.O. 31 DE JULIO DE 1998.
 
@@ -1051,7 +1051,7 @@ B.O. 20 DE MARZO DE 2002.
 
 PRIMERO.- La presente reforma entrará en vigor a los treinta días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- El Gobierno del Estado de Baja California Sur, deberá adecuar el Reglamento para la Ley de Transporte para el Estado de Baja California Sur, a la presente reforma, antes de los treinta días otorgados para su entrada vigor (sic) y publicarlo en su Boletín Oficial.
+SEGUNDO.- El Gobierno del Estado de Baja California Sur, deberá adecuar el Reglamento para la Ley de Transporte para el Estado de Baja California Sur, a la presente reforma, antes de los treinta días otorgados para su entrada (sic) vigor y publicarlo en su Boletín Oficial.
 
 B.O. 10 DE JULIO DE 2002.
 
@@ -1072,3 +1072,11 @@ B.O. 16 DE MAYO DE 2005.
 B.O. 10 DE JULIO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
