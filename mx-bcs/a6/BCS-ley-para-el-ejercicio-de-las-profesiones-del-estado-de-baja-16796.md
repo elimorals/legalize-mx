@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-baja-167
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2013-07-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 10 de julio de 2000.
 
@@ -115,7 +115,7 @@ II. Asociarse libremente en los términos del artículo 9º de la Constitución 
 
 III. Obtener la constancia por la prestación del servicio social profesional; en dicha constancia se deberá acreditar la experiencia adquirida por el profesionista:
 
-IV. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior o las agrupaciones de profesionistas; y (sic)
+IV. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior o las agrupaciones de profesionistas; y
 
 V. Obtener la cédula o registro profesional que le acredite como profesionista en el ejercicio de una rama o especialidad en su caso;
 
@@ -639,35 +639,49 @@ Las responsabilidades y sanciones por las infracciones administrativas a esta Le
 
 Los delitos en materia de profesiones serán perseguidos de oficio por el Ministerio Público, y sancionados conforme a los ordenamientos penales aplicables.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 55.
 
-Cuando derivado del ejercicio profesional se incumplan con las obligaciones que esta ley señale para los profesionistas, se actúe con negligencia, se ataquen los derechos de terceros o los derechos de la sociedad en general, la Dirección podrá imponer una multa hasta por el equivalente a 200 días de salario mínimo general vigente en el Estado, y podrá suspender o cancelar la autorización para que continúe efectuando las actividades profesionales, conforme al procedimiento establecido en este capítulo.
+Cuando derivado del ejercicio profesional se incumplan con las obligaciones que esta ley señale para los profesionistas, se actúe con negligencia, se ataquen los derechos de terceros o los derechos de la sociedad en general, la Dirección podrá imponer una multa hasta por el equivalente a 200 veces el valor diario de la Unidad de Medida y Actualización, y podrá suspender o cancelar la autorización para que continúe efectuando las actividades profesionales, conforme al procedimiento establecido en este capítulo.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 56.
 
-Cuando una persona dentro del territorio del Estado se ostente como pasante o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 5º de esta Ley, no tendrá derecho a cobrar por concepto de sueldo u honorarios, y se le impondrá además una multa hasta por el equivalente a 300 días de salario mínimo general vigente en la capital del Estado.
+Cuando una persona dentro del territorio del Estado se ostente como pasante o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 5º de esta Ley, no tendrá derecho a cobrar por concepto de sueldo u honorarios, y se le impondrá además una multa hasta por el equivalente a 300 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 57.
 
-Al profesionista que ejerza en este (sic) Entidad Federativa cualquiera de las profesiones a que se refiere el artículo 5º de esta Ley, sin haber obtenido el registro de sus documentos y su cédula profesional, se le amonestará por escrito la primera vez, con apercibimiento de multa si dentro de los 30 días posteriores a la notificación de la amonestación no tramita la expedición de dicha cédula ante la Dirección. La multa en ningún caso excederá del pago de una cantidad equivalente a 50 días de salario mínimo general vigente en la capital del Estado.
+Al profesionista que ejerza en este (sic) Entidad Federativa cualquiera de las profesiones a que se refiere el artículo 5º de esta Ley, sin haber obtenido el registro de sus documentos y su cédula profesional, se le amonestará por escrito la primera vez, con apercibimiento de multa si dentro de los 30 días posteriores a la notificación de la amonestación no tramita la expedición de dicha cédula ante la Dirección. La multa en ningún caso excederá del pago de una cantidad equivalente a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
-Una vez impuesta la multa a que se refiere el párrafo anterior, se le otorgarán al infractor otros 30 días para que tramite la expedición de la cédula profesional ante la Dirección, y en caso de volver a incumplir, se le impondrá otra multa por la cantidad equivalente a 100 días de salario mínimo general vigente en la capital del Estado.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Una vez impuesta la multa a que se refiere el párrafo anterior, se le otorgarán al infractor otros 30 días para que tramite la expedición de la cédula profesional ante la Dirección, y en caso de volver a incumplir, se le impondrá otra multa por la cantidad equivalente a 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 Si el reincidente no tramita la expedición de su cédula profesional en el plazo señalado en el párrafo que antecede, la Dirección podrá dictaminarle la prohibición para ejercer su profesión en el Estado hasta por el término de 3 años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 58.
 
-Cuando se compruebe que existe falsedad en los documentos que presenten los profesionistas para su inscripción y registro ante la Dirección se efectuará la cancelación del mismo y se revocará la autorización para el ejercicio profesional, e independientemente de las sanciones penales a las que se haga acreedor, se le impondrá por parte de la Dirección, una multa hasta por el equivalente a 200 días de salario mínimo general vigente en la capital del Estado.
+Cuando se compruebe que existe falsedad en los documentos que presenten los profesionistas para su inscripción y registro ante la Dirección se efectuará la cancelación del mismo y se revocará la autorización para el ejercicio profesional, e independientemente de las sanciones penales a las que se haga acreedor, se le impondrá por parte de la Dirección, una multa hasta por el equivalente a 200 veces el valor diario de la Unidad de Medida y Actualización.
 
 La Dirección deberá de efectuar la denuncia correspondiente ante el Ministerio Público, respecto a lo que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 59.
 
-El profesionista que perteneciendo a alguna agrupación debidamente reconocida, y registrada por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por más de tres ocasiones se le impondrá una sanción hasta por el equivalente a 60 días de salario mínimo general vigente en el Estado. La misma sanción se impondrá a quienes no perteneciendo a ninguna agrupación de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.
+El profesionista que perteneciendo a alguna agrupación debidamente reconocida, y registrada por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por mas de tres ocasiones se le impondrá una sanción hasta por el equivalente a 60 veces el valor diario de la Unidad de Medida y Actualización. La misma sanción se impondrá a quienes no perteneciendo a ninguna agrupación de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 60.
 
-Queda prohibido el uso de la expresión "Colegio" a las agrupaciones o asociaciones de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los Términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de 5 años el funcionamiento de agrupación profesional alguna y se les impondrá una multa hasta por el equivalente a 300 días de salario mínimo general vigente en el Estado.
+Queda prohibido el uso de la expresión "Colegio" a las agrupaciones o asociaciones de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los Términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de 5 años el funcionamiento de agrupación profesional alguna y se les impondrá una multa hasta por el equivalente a 300 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 61.
 
@@ -764,3 +778,11 @@ B.O. 20 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su aplicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
