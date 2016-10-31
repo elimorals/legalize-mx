@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-extincion-de-dominio-para-el-estado-de-baja-103904"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-30"
-last_updated: "2014-11-30"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TRANSITORIO TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -369,7 +371,9 @@ Reglas y principios en las audiencias
 
 Las audiencias deberán celebrarse de forma oral bajo los principios de inmediación, concentración, contradicción, continuidad y publicidad; salvo las excepciones previstas en esta ley.
 
-Las audiencias serán conducidas por el juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con de treinta a cien días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Las audiencias serán conducidas por el juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización.
 
 En el desahogo de las pruebas en la audiencia de juicio, los testigos y los peritos deberán declarar de viva voz al tenor de los interrogatorios y contrainterrogatorios que se les formulen.
 
@@ -782,3 +786,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
