@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-obras-publicas-y-servicios-relacionados-con-las-43851"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2005-10-27"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 2004.
 
@@ -689,9 +689,13 @@ Cuando por razón del monto de la obra, resulte inconveniente llevar a cabo el p
 
 La opción que las Dependencias y Entidades ejerzan en los términos del párrafo anterior, deberán fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o el Municipio que corresponda:
 
-I. Las Dependencias y Entidades podrán contratar por asignación directa, cuando no se exceda del importe equivalente a diez mil días de salario mínimo general que rija en el momento y lugar de la obra; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Así mismo podrán contratar por invitación a licitantes que cuenten con la capacidad de respuesta y los recursos técnicos, económicos y financieros y demás que sean necesarios para la ejecución de la obra, cuando no exceda del monto máximo equivalente a treinta mil días de salario mínimo general que rija en el momento y lugar de la obra.
+I. Las Dependencias y Entidades podrán contratar por asignación directa, cuando no se exceda del importe equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización que rija en el momento de la obra; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Así mismo podrán contratar por invitación a licitantes que cuenten con la capacidad de respuesta y los recursos técnicos, económicos y financieros y demás que sean necesarios para la ejecución de la obra, cuando no exceda del monto máximo equivalente a treinta mil veces el valor diario de la Unidad de Medida y Actualización que rija en el momento de la obra.
 
 Para los efectos de la aplicación de este precepto cada obra deberá considerarse individualmente, en ningún caso el importe total de una obra podrá ser fraccionada para que quede comprendida en los supuestos a que se refiere este Artículo; y no deberá considerarse el concepto del Impuesto al Valor Agregado.
 
@@ -1442,3 +1446,11 @@ Se deroga el Artículo Tercero Transitorio del Decreto 1490, mediante el cual se
 ###### ARTÍCULO TERCERO.
 
 El Titular del Poder Ejecutivo del Estado, expedirá el Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado y Municipios de Baja California Sur, en un plazo que no exceda de 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
