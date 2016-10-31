@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2015-12-31"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -77,9 +77,11 @@ El Gobernador del Estado designará al Jefe de la Oficina del Ejecutivo, quien t
 
 Asimismo, el Gobernador del Estado podrá establecer oficinas de representación fuera del propio territorio estatal, conforme al presupuesto que se autorice y con apego a la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 7.
 
-Las facultades y poderes directamente conferidos al Gobernador del Estado no son delegables, sólo el titular de la Secretaría General de Gobierno podrá ejercer de manera extraordinaria las funciones de éste, en los casos expresamente determinados por la Constitución Política del Estado, los cuales en ningún caso podrán ser por causa diferente a la que dio origen al mismo.
+Las facultades y poderes conferidos al Gobernador del Estado son delegables por disposición de Ley, reglamento o acuerdo, a excepción de las que deba ejercer sólo el titular de la Secretaría General de Gobierno de manera extraordinaria y transitoria, en los casos expresamente determinados por la Constitución Política del Estado, los cuales en ningún caso podrán ser por causa diferente a la que dio origen al mismo.
 
 Los titulares de las secretarías de despacho, dependencias y entidades de la administración pública, podrán delegar atribuciones en los funcionarios de sus áreas, de conformidad con esta ley y sólo en los casos de su competencia, o en su caso, en los servidores públicos que estimen pertinente. Dicha delegación de funciones deberá ser expresa, transitoria y limitada mediante comunicación escrita que fundamente y motive la causa, además de cumplir con las formalidades especiales que en atención a la materia, el interés o la cuantía del negocio, exijan las leyes.
 
@@ -377,7 +379,9 @@ XXXI. Cancelar créditos incobrables a favor del Estado, conforme a las leyes fi
 
 XXXII. En los términos de la Ley de la materia, establecer la política de deuda pública;
 
-XXXIII. Previa autorización del Congreso del Estado, contratar empréstitos, emitir títulos de crédito y colocar valores, así como intervenir en las operaciones en las que el titular del Poder Ejecutivo y las entidades paraestatales, hagan uso del crédito público y llevar el registro central de deuda pública del Estado, informando al Gobernador sobre la amortización de capital y del pago de intereses;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXIII. Previa autorización del Congreso del Estado, contratar Financiamientos u Obligaciones, emitir títulos de crédito y colocar valores, así como intervenir en las operaciones en las que el titular del Poder Ejecutivo y las entidades paraestatales, hagan uso del crédito público y llevar el Registro de Financiamientos y Obligaciones del Estado de Baja California Sur, informando al Gobernador sobre la amortización de capital y del pago de intereses;
 
 XXXIV. Normar y administrar los servicios de informática de la administración pública estatal;
 
@@ -1026,3 +1030,15 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Sin perjuicio de lo dispuesto en el presente decreto, toda la documentación que fue expedida bajo la denominación "secretaría de educación" tendrá plena validez y seguirá surtiendo los efectos legales para la cual fue expedida.
 
 TERCERO.- En el caso de formatos, formas, comprobantes, cedulas, certificados, licencias, boletas y toda aquellas (sic) documentación que utilice la secretaría para el cumplimento de sus fines que incluya la denominación “secretaria de educación” que se haya impreso previamente a la expedición del presente decreto se continuara usando hasta que se termine su vigencia o tiraje y tendrá plena validez oficial.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2380.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE EXPIDE LA LEY DE PRESUPUESTO Y CONTROL DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR; Y SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Presupuesto y Control del Gasto Público Estatal, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 6 de fecha 20 de febrero de 1984.
+
+TERCERO.- Se abroga la Ley de Deuda Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 48 de fecha 25 de noviembre del 2006.
+
+CUARTO.- Los Poderes del Estado de Baja California Sur, las Dependencias y Entidades del Poder Ejecutivo y los Organismos Autónomos deberán efectuar los ajustes correspondientes en sus Reglamentos Internos o equivalentes.
