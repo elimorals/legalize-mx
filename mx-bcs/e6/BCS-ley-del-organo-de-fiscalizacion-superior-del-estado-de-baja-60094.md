@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-organo-de-fiscalizacion-superior-del-estado-de-baja-600
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2015-12-20"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de marzo de 2008.
 
@@ -391,7 +391,9 @@ Las entidades fiscalizados, deberán contestar al Órgano de Fiscalización Supe
 
 Para los efectos de esta ley, se entenderá por situaciones excepcionales, en las cuales, de la denuncia que al efecto se presente, se deduzca alguna de las circunstancias siguientes:
 
-a) Un daño patrimonial que afecte a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos fiscalizados, por un monto que resulte superior a mil veces el salario mínimo general vigente en el Estado de Baja California Sur;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+a) Un daño patrimonial que afecte a la hacienda pública estatal o municipal, o al patrimonio de los entes públicos fiscalizados, por un monto que resulte superior a mil veces el valor diario de la Unidad de Medida y Actualización;
 
 b) La afectación de áreas estratégicas o prioritarios de la economía;
 
@@ -405,9 +407,11 @@ e) El desbasto de productos de primera necesidad.
 
 Los sujetos de fiscalización estarán obligados a realizar la investigación, revisión o solventación que el Órgano de Fiscalización Superior les solicite, sin que dicha actuación interfiera u obstaculice el ejercicio de las funciones y obligaciones que competan a las autoridades o servidores públicos del Estado o de los Municipios y de los entes públicos, según las leyes vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 34.
 
-Si una vez transcurrido el plazo de veinte días hábiles contados a partir de la recepción del requerimiento, sin una causa justificada el ente fiscalizado no presenta el informe a que se refiere el Artículo 31 del presente ordenamiento legal, el Órgano de Fiscalización Superior fincará las responsabilidades que correspondan e impondrá a los servidores públicos responsables una multa de cincuenta a seiscientos días de salario mínimo vigente en el Estado de Baja California Sur.
+Si una vez transcurrido el plazo de veinte días hábiles contados a partir de la recepción del requerimiento, sin una causa justificada el ente fiscalizado no presenta el informe a que se refiere el Artículo 31 del presente ordenamiento legal, el Órgano de Fiscalización Superior fincará las responsabilidades que correspondan e impondrá a los servidores públicos responsables una multa de cincuenta a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 En el caso de que el servidor público reincida, se podrá castigar con una multa de hasta el doble de la anteriormente señalada y podrá solicitarse la destitución de su cargo a la autoridad competente.
 
@@ -533,9 +537,11 @@ La Secretaría de Finanzas y las Tesorerías Municipales en el ámbito de su com
 
 La imposición de sanciones deberá fundarse y motivarse, tomando en cuenta las condiciones económicas del infractor, la gravedad de la infracción cometida, los medios de ejecución y, en su coso, su nivel jerárquico, ajustándose a fin de evitar prácticos tendentes a contravenir las disposiciones contenidas en esta ley.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 51.
 
-El Auditor Superior, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por sólo una vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por el mismo no exceda de cien veces el salario mínimo general mensual vigente en el Estado en la fecha en que se cometa la infracción. En este caso deberá informar a la Comisión.
+El Auditor Superior, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por sólo una vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por el mismo no exceda de cien veces el valor mensual de la Unidad de Medida y Actualización vigente en la fecha en que se cometa la infracción. En este caso deberá informar a la Comisión.
 
 ### Capítulo IV. Del Recurso de Revocación
 
@@ -851,7 +857,9 @@ XX. Celebrar convenios de coordinación o colaboración con las autoridades de l
 
 XXI. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto dentro de los treinta primeros días del mes siguiente al que corresponda su ejercicio;
 
-XXII. Para el cumplimiento de sus atribuciones, podrá imponer multas como medida de apremio, de hasta mil salarios mínimos vigente en la entidad, a los servidores públicos sujetos a fiscalización;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXII. Para el cumplimiento de sus atribuciones, podrá imponer multas como medida de apremio, de hasta mil veces el valor diario de la Unidad de Medida y Actualización, a los servidores públicos sujetos a fiscalización;
 
 XXIII. Elaborar y publicar el Estatuto que regule el Servicio Civil de Carrera para los funcionarios y servidores públicos del Órgano de Fiscalización Superior;
 
@@ -1074,3 +1082,11 @@ SEGUNDO.- Por única ocasión y para efecto de que el Órgano de Fiscalización 
 Con el propósito de asegurar que los formatos de declaración patrimonial contengan los elementos que garanticen la transparencia, deberán ser aprobados por la Comisión de Vigilancia del Órgano de Fiscalización Superior del Congreso del Estado de Baja California Sur.
 
 TERCERO.- La Contraloría General del Gobierno del Estado, deberá remitir al Órgano de Fiscalización Superior del Congreso del Estado de Baja California Sur, en un término de 30 días hábiles a partir de la entrada en vigor del presente Decreto, las declaraciones patrimoniales que alude el artículo 66 BIS de la presente reforma.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
