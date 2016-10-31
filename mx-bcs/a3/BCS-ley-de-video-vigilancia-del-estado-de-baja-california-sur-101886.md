@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-video-vigilancia-del-estado-de-baja-california-sur-10188
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-31"
-last_updated: "2016-05-20"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de julio de 2014.
 
@@ -281,17 +281,25 @@ Si las instituciones públicos de carácter estatal y municipal no acatan las re
 
 Cuando se cometan infracciones a lo dispuesto en la presente ley, se aplicarán las siguientes sanciones:
 
-I.- Con multa de 50 a 500 días de salario mínimo general vigente en el Estado de Baja California Sur, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por tres años, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada o que no las entregue conforme lo marca la presente ley; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II.- Con multa de 150 a 1500 días de salario mínimo general vigente en el Estado de Baja California Sur, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por cinco años al funcionario o servidor público que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente ley sin autorización previa correspondiente de la autoridad competente.
+I.- Con multa de 50 a 500 veces el valor diario de la Unidad de Medida y Actualización, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por tres años, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada o que no las entregue conforme lo marca la presente ley; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Con multa de 150 a 1500 veces el valor diario de la Unidad de Medida y Actualización, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por cinco años al funcionario o servidor público que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente ley sin autorización previa correspondiente de la autoridad competente.
 
 ###### ARTÍCULO 28.
 
 Cuando se cometan infracciones por particulares y prestadores de servicios de seguridad privada a lo dispuesto en la presente ley, se aplicarán las siguientes sanciones:
 
-a) Con multa de 50 a 500 días de salario mínimo general vigente en el Estado de Baja California Sur, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada o que no las entregue conforme lo marca la presente ley;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Con multa de 150 a 1500 días de salario mínimo general vigente en el Estado de Baja California Sur, a la persona que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente ley sin autorización previa correspondiente de la autoridad competente; y
+a).- Con multa de 50 a 500 veces el valor diario de la Unidad de Medida y Actualización, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada o que no las entregue conforme lo marca la presente ley; y
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b).- Con multa de 150 a 1500 veces el valor diario de la Unidad de Medida y Actualización, a la persona que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente ley sin autorización previa correspondiente de la autoridad competente.
 
 ###### ARTÍCULO 29.
 
@@ -362,3 +370,11 @@ B.O. 20 DE MAYO DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
