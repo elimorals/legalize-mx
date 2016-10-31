@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-de-la-ciudad-de-montemorelos-nuevo-leon-18
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-18"
-last_updated: "2000-09-18"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LIMPIA DE LA CIUDAD DE MONTEMORELOS, NUEVO LEON
 
-REGLAMENTO DE LIMPIA DE LA CIUDAD DE MONTEMORELOS, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 31 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LIMPIA DE LA CIUDAD DE MONTEMORELOS, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 18 de septiembre del 2000.
 
@@ -470,3 +472,17 @@ C. PRESIDENTE MUNICIPAL
 C.P. SAMUEL DE LA CRUZ SALAZAR
 
 C. SRIO. DEL H. AYTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN.”]
+
+PRIMERO.- Se abroga el Reglamento de Limpia, publicado en el Periódico Oficial del Estado de Nuevo León en fecha 18 (sic) Septiembre de 2000.
+
+SEGUNDO.- El presente REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se deja sin efecto legal alguno, cualquier disposición que contravenga el presente reglamento.
+
+CUARTO.- Envíese el presente reglamento al Secretario General de Gobierno para que por su conducto sea publicado en el Periódico Oficial del Estado; así también deberá de ser publicado en la Página de Internet del Municipio de Montemorelos, Nuevo León. Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la Presidencia Municipal de Montemorelos, Nuevo León, a los 11-once días del mes de octubre del 2016-dos mil dieciséis.
