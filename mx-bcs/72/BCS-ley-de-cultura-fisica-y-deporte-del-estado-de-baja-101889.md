@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-cultura-fisica-y-deporte-del-estado-de-baja-101889"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-31"
-last_updated: "2016-10-14"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley Publicada en el Boletín Oficial del Estado de Baja California Sur, el día jueves 31 de julio de 2014
 
@@ -325,7 +325,7 @@ VI.- Entrenadores, instructores, técnicos, jueces y árbitros deportivos.
 
 Asimismo, el procedimiento para ingreso y los requisitos, mecanismos de evaluación, temporalidad, suspensiones temporales y cancelaciones al Registro Estatal serán los establecidos en el Reglamento de esta Ley y demás disposiciones y ordenamientos aplicables en la materia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ### CAPÍTULO TERCERO. Del Instituto Sudcaliforniano del Deporte del Estado de Baja California Sur
 
@@ -1881,7 +1881,21 @@ B.O. 20 DE JULIO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
+[N. DE E. DE CONFORMIDAD CON EL OFICIO No. OM/272/2016 PUBLICADO EN EL B.O. 31 DE OCTUBRE DE 2016, EL DECRETO 2372 PUBLICADO EN EL B.O. 14 DE OCTUBRE DE 2016 QUEDÓ SIN EFECTOS DADA LA OMISIÓN DE LA FIRMA DEL CIUDADANO PRESIDENTE DE LA MESA DIRECTIVA DEL PRIMER PERÍODO ORDINARIO DE SESIONES DEL SEGUNDO AÑO DE EJERCICIO DE LA XIV LEGISLATURA DEL ESTADO, POR LO QUE NUEVAMENTE DICHO DECRETO SE PUBLICA EN EL B.O. 31 DE OCTUBRE DE 2016 CON LAS FIRMAS CORRESPONDIENTES].
+
 B.O. 14 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2372.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO TERCERO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los actos, documentos o referencias al Instituto del Deporte del Estado de Baja California Sur deberán entenderse, para todos los efectos jurídicos, como realizados respecto del Instituto Sudcaliforniano del Deporte del Estado de Baja California Sur, por lo que el cambio de denominación no exime del cumplimiento de las obligaciones realizadas bajo la denominación que con anterioridad al presente decreto se hubiere establecido.
+
+B.O. 31 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 2372.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO TERCERO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
