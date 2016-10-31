@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-medicos-del-instituto-de-seguridad-8161
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-09"
-last_updated: "2014-06-02"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SERVICIOS MÉDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN LA D.O.F. DE 31 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE SERVICIOS MÉDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2011.
 
@@ -887,8 +889,20 @@ Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 2 DE JUNIO DE 2014.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 37.1355.2016 DE LA JUNTA DIRECTIVA POR EL QUE SE APRUEBA EL REGLAMENTO DE SERVICIOS MÉDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+PRIMERO.- Este Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de Servicios Médicos del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido por Acuerdo 9.1327.2011 de la Junta Directiva de 14 de abril de 2011, publicado en el Diario Oficial de la Federación el 14 de abril de 2011 (sic).
+
+TERCERO.- Se abroga el Reglamento para la Atención de Asuntos Legales en los que se Encuentren Involucrados Médicos y/o sus Auxiliares del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido el 7 de julio de 1995.
+
+CUARTO.- En un plazo que no exceda de 120 días naturales, contados a partir de la fecha de su publicación, se deberán emitir los manuales de integración y funcionamiento del Comité y los Subcomités previstos en los artículos 99, 100 y 139 de este Reglamento.
