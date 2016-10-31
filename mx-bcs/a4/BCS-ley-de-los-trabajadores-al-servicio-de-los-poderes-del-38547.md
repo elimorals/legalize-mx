@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2016-10-14"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -1205,9 +1205,11 @@ La demanda, la citación para absolver posiciones, la declaratoria de caducidad,
 
 Todos los términos correrán a partir del día hábil siguiente a aquél en que se haga el emplazamiento, citación o notificación, y se contará en ellos el día del vencimiento.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 149.
 
-El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Ésta no excederá de un día de salario mínimo vigente en la zona, tratándose de trabajadores ni de diez días de salario mínimo vigente en la zona tratándose de funcionarios.
+El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Ésta no excederá de una vez el valor diario de la Unidad de Medida y Actualización, tratándose de trabajadores ni de diez veces el valor diario de la Unidad de Medida y Actualización tratándose de funcionarios.
 
 ###### ARTICULO 150.
 
@@ -1223,9 +1225,11 @@ Pronunciado el laudo, el Tribunal de Conciliación y Arbitraje lo notificará a 
 
 Las autoridades civiles y militares estarán obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### ARTICULO 153.
 
-El Tribunal de Conciliación y Arbitraje para hacer cumplir sus determinaciones, podrá imponer multas hasta de veinte días de salario mínimo vigente en la zona.
+El Tribunal de Conciliación y Arbitraje para hacer cumplir sus determinaciones, podrá imponer multas hasta de veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 154.
 
@@ -1460,3 +1464,11 @@ B.O. 14 DE OCTUBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.-SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
