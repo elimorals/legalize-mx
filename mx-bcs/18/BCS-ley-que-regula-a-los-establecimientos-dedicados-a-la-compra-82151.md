@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-a-los-establecimientos-dedicados-a-la-compra-821
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-06"
-last_updated: "2013-07-10"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE REGULA A LOS ESTABLECIMIENTOS DEDICADOS A LA COMPRA-VENTA DE COBRE, ALUMINIO, BRONCE, FIERRO Y DEMÁS METALES DE DESECHO EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el miércoles 6 de julio de 2011.
 
@@ -131,9 +131,11 @@ Durante las inspecciones, la chatarrera no tendrá obligación de mostrar otro d
 
 Cuando (sic) producto de las inspecciones se desprenda que las chatarreras no han cumplido con llevar el registro, o bien no lo hayan integrado de la manera debida, no exhiban los metales adquiridos o éstos no coincidan con el registro, la Tesorería podrá aplicarles desde la multa hasta él retiro del permiso.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 13.
 
-La multa por violaciones a la presente Ley, no será menor de 200 salarios mínimos ni mayor de 500.
+La multa por violaciones a la presente Ley, no será menor de 200 veces el valor diario de la Unidad de Medida y Actualización ni mayor de 500.
 
 ###### Artículo 14.
 
@@ -196,3 +198,11 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
