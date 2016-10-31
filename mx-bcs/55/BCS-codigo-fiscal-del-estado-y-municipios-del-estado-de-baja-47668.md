@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2014-06-30"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -435,9 +435,11 @@ Se considerará empresa, la persona física o moral que realice las actividades 
 
 Cuando se perciba el ingreso o se remunere el trabajo personal subordinado en bienes o servicios, se considerará el valor de estos en moneda nacional en la fecha de la percepción o erogación, según las cotizaciones o valores que prevalezcan en el mercado, o en defecto de ambos, el de avalúo.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 24.
 
-Cuando las leyes fiscales hagan referencia a salario mínimo, se entenderá el salario mínimo general diario vigente en el territorio del Estado de Baja California Sur, dado a conocer por la Comisión Nacional de los Salarios Mínimos, en el momento de la realización de la situación jurídica o de hecho prevista en las mismas.
+Cuando las leyes fiscales hagan referencia a la Unidad de Medida y Actualización, se entenderá el valor diario de la Unidad de Medida y Actualización, dado a conocer por el Instituto Nacional de Estadística y Geografía, en el momento de la realización de la situación jurídica o de hecho prevista en las mismas.
 
 > <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
@@ -1825,11 +1827,17 @@ VIII. No verificar que la clave del registro estatal o municipal de contribuyent
 
 A quien cometa las infracciones relacionadas con el Registro Estatal o Municipal de Contribuyentes a que se refiere el artículo 111 de este Código se impondrán las siguientes multas:
 
-I. De 8 a 20 veces el salario mínimo a las comprendidas en las fracciones I, II, III, V y VI;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Para la señalada en la fracción IV, de 2 a 20 veces el salario mínimo;
+I. De 8 a 20 veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en las fracciones I, II, III, V y VI;
 
-III. De 8 a 10 veces el salario mínimo tratándose de la omisión y citación a que se refiere las fracciones VII y VII.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Para la señalada en la fracción IV, de 2 a 20 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. De 8 a 10 veces el valor diario de la Unidad de Medida y Actualización tratándose de la omisión y citación a que se refiere las fracciones VII y VII (sic);
 
 ###### Artículo 113.
 
@@ -1851,25 +1859,43 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para la señalada en la fracción I:
 
-a).- De 5 a 10 veces el salario mínimo, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los 6 meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella, declarando contribuciones adicionales, sobre la misma se le aplicará también la multa a que se refiere este inciso;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b).- De 3 a 15 veces el salario mínimo, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento;
+a).- De 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los 6 meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella, declarando contribuciones adicionales, sobre la misma se le aplicará también la multa a que se refiere este inciso;
 
-c).- De 3 a 5 veces el salario mínimo en los demás documentos;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b).- De 3 a 15 veces el valor diario de la Unidad de Medida y Actualización, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c).- De 3 a 5 veces el valor diario de la Unidad de Medida y Actualización en los demás documentos;
 
 II. Respecto de la señalada en la fracción II:
 
-a).- De 2 a 5 veces el salario mínimo por no señalar el nombre o ponerlo equivocadamente;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b).- De 1 a 3 veces el salario mínimo por no señalar el domicilio o ponerlo equivocadamente;
+a).- De 2 a 5 veces el valor diario de la Unidad de Medida y Actualización por no señalar el nombre o ponerlo equivocadamente;
 
-c).- De 1 a 2 (sic) del salario mínimo por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos del (sic) este inciso, por cada dato que contenga el anexo presentado;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d).- De un 1 (sic) a 3 veces el salario mínimo en los demás casos.
+b).- De 1 a 3 veces el valor diario de la Unidad de Medida y Actualización por no señalar el domicilio o ponerlo equivocadamente;
 
-III. Tratándose de la señalada en la fracción III, de 10 a 50 veces el salario mínimo además de la contribución omitida;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Para las señaladas en la fracción IV y V la multa será de 3 a 9 veces el salario mínimo.
+c).- De 1 a 2 veces el valor diario de la Unidad de Medida y Actualización por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos del (sic) este inciso, por cada dato que contenga el anexo presentado;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+d).- De 1 a 3 veces el valor diario de la Unidad de Medida y Actualización en los demás casos.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Tratándose de la señalada en la fracción III, de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización además de la contribución omitida;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Para las señaladas en la fracción IV y V la multa será de 3 a 9 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 115.
 
@@ -1897,13 +1923,21 @@ IX. No presentar el dictamen dentro del término previsto por las leyes fiscales
 
 A quien cometa las infracciones relacionadas con las obligaciones de llevar contabilidad a que se refiere el artículo 115 de este Código se impondrán las siguientes sanciones:
 
-I. De 10 a 45 veces el salario mínimo a la comprendida en la fracción I y VIII;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. De 5 a 25 veces el salario mínimo a las establecidas en las fracciones II, III, IV y VI;
+I. De 10 a 45 veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción I y VIII;
 
-III. De 10 a 30 veces el salario mínimo a la comprendida en la fracción V;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. De 10 a 40 veces el salario mínimo a la señalada en la fracción VII y IX.
+II. De 5 a 25 veces el valor diario de la Unidad de Medida y Actualización a las establecidas en las fracciones II, III, IV y VI;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. De 10 a 30 veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción V;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. De 10 a 40 veces el valor diario de la Unidad de Medida y Actualización a la señalada en la fracción VII y IX.
 
 ###### Artículo 117.
 
@@ -1921,9 +1955,13 @@ IV. No proporcionar los datos e informes sobre las erogaciones efectuadas por co
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 117 de este Código, se impondrán las siguientes multas:
 
-I. De 40 a 140 veces el salario mínimo vigente en el Estado para las comprendidas en las fracciones I, III y IV;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. De 50 a 200 veces el salario mínimo a la establecida en la fracción II.
+I. De 40 a 140 veces el valor diario de la Unidad de Medida y Actualización para las comprendidas en las fracciones I, III y IV;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. De 50 a 200 veces el valor diario de la Unidad de Medida y Actualización a la establecida en la fracción II;
 
 ###### Artículo 119.
 
@@ -1953,9 +1991,13 @@ VI. Revelar a terceros, la información que las instituciones que componen el si
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 121 de este Código, se impondrán las siguientes multas:
 
-I. De 10 a 100 veces el salario mínimo a la comprendida en la fracción I, V, y VI;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. De 50 a 200 veces el salario mínimo, a las comprendidas en las fracciones II, III y IV.
+I. De 10 a 100 veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción I, V, y VI;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. De 50 a 200 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones II, III y IV.
 
 ###### Artículo 123.
 
@@ -1969,13 +2011,19 @@ II. Ser cómplice en cualquier forma, en la comisión de infracciones fiscales p
 
 A quien cometa las infracciones señaladas en el artículo 123 de este Código, se impondrán las siguientes multas:
 
-I. De 10 a 100 veces el salario mínimo a la comprendida en la fracción I;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. De 10 a 70 veces el salario mínimo a la establecida en la fracción II.
+I. De 10 a 100 veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción I;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. De 10 a 70 veces el valor diario de la Unidad de Medida y Actualización a la establecida en la fracción II.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 125.
 
-La infracción en cualquier forma a las leyes fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 3 a 30 veces el salario mínimo vigente en el Estado.
+La infracción en cualquier forma a las leyes fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 3 a 30 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 126.
 
@@ -2071,7 +2119,9 @@ Para que proceda la condena condicional, la sustitución y conmutación de sanci
 
 Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco estatal o municipal.
 
-El delito de defraudación fiscal se sancionará con prisión de 3 meses a 6 años, si el monto de lo defraudado sin incluir actualización y accesorios legales, no excede de 300 veces el salario mínimo; cuando exceda, la pena será de 3 a 9 años de prisión.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El delito de defraudación fiscal se sancionará con prisión de 3 meses a 6 años, si el monto de lo defraudado sin incluir actualización y accesorios legales, no excede de 300 veces el valor diario de la Unidad de Medida y Actualización; cuando exceda, la pena será de 3 a 9 años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de 3 meses a 6 años de prisión.
 
@@ -2121,9 +2171,11 @@ II. Registre sus operaciones contables, fiscales o sociales en 2 o mas libros o 
 
 III. Oculte, altere o destruya total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 142.
 
-Se impondrá sanción de 6 meses a 3 años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio de Fisco Estatal o municipal, disponga para sí o para otro, el bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 900 veces el salario mínimo, cuando exceda, la sanción será de 3 a 6 años de prisión.
+Se impondrá sanción de 6 meses a 3 años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio de Fisco Estatal o municipal, disponga para sí o para otro, el bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 900 veces el valor diario de la Unidad de Medida y Actualización, cuando exceda, la sanción será de 3 a 6 años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -2147,9 +2199,11 @@ Se impondrá sanción de 6 meses a 6 años de prisión, al particular o empleado
 
 Se impondrá sanción de 6 meses a 6 años de prisión, a los servidores públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 146.
 
-Se impondrá sanción de 3 años a 6 años de prisión, al que se apodere de mercancías, artículos o bienes muebles que hayan sido embargados por la autoridad fiscal o ya secuestrados se encuentren bajo su guarda, si el valor de lo dispuesto no excede de 900 veces el salario mínimo; cuando exceda, la sanción será de 3 a 9 años de prisión.
+Se impondrá sanción de 3 años a 6 años de prisión, al que se apodere de mercancías, artículos o bienes muebles que hayan sido embargados por la autoridad fiscal o ya secuestrados se encuentren bajo su guarda, si el valor de lo dispuesto no excede de 900 veces el valor diario de la Unidad de Medida y Actualización; cuando exceda, la sanción será de 3 a 9 años de prisión.
 
 La misma pena se impondrá a quien dolosamente los destruya o deteriore.
 
@@ -2435,9 +2489,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establece el artículo 194 de este Código.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 169.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de 5 a 10 veces el salario mínimo general vigente en el Estado.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 170.
 
@@ -2667,9 +2723,13 @@ II. Por la de embargo, incluyendo el señalado en el artículo 172 fracción V d
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal o municipal.
 
-Cuando en los casos de las fracciones anteriores, el 2 % del crédito sea inferior a 3 veces el salario mínimo, se cobrará esta cantidad en vez del 2 % del crédito.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 250 veces el salario mínimo.
+Cuando en los casos de las fracciones anteriores, el 2 % del crédito sea inferior a 3 veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad en vez del 2 % del crédito.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurran con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 195 fracción II y 172 fracción V de este Código que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión, y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público que corresponda. También los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -2693,9 +2753,11 @@ La autoridad vigilará que los gastos extraordinarios que se efectúen sean los 
 
 No se cobrarán los gastos de ejecución a que se refiere el artículo 190 de este Código, cuando los créditos fiscales respecto de los cuales se ejercitó el procedimiento administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 194.
 
-Para los efectos del último párrafo del artículo 168 de este Código, los honorarios por las notificaciones de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará el equivalente a 2 veces el salario mínimo general vigente en el Estado a quien incurra en el incumplimiento.
+Para los efectos del último párrafo del artículo 168 de este Código, los honorarios por las notificaciones de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará el equivalente a 2 veces el valor diario de la Unidad de Medida y Actualización a quien incurra en el incumplimiento.
 
 Tratándose de los honorarios a que se refiere este artículo, la autoridad recaudadora los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
 
@@ -2933,7 +2995,9 @@ El remate deberá ser convocado para una fecha fija dentro de los 30 días sigui
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente. Además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente de 5 veces el salario mínimo elevado al año, la convocatoria se publicará en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en uno de los periódicos de mayor circulación, dos veces con intervalo de diez días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente de 5 veces el valor diario de la Unidad de Medida y Actualización elevado al año, la convocatoria se publicará en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en uno de los periódicos de mayor circulación, dos veces con intervalo de diez días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### Artículo 222.
 
@@ -3159,9 +3223,13 @@ La representación de las autoridades corresponderá a la unidad administrativa 
 
 Las diligencias que deban practicarse fuera del local del Tribunal, podrán encomendarse a alguno de los Secretarios o Actuarios del mismo Tribunal.
 
-Cuando deban practicarse en lugar distinto, podrán encomendarse a los jueces de primera instancia del ramo civil o mixto de la jurisdicción, quienes estarán obligados a diligenciar los exhortos respectivos en los términos señalados en el Código de Procedimientos Civiles del Estado de Baja California Sur. En caso de incumplimiento a la obligación anterior dentro del plazo señalado, el Magistrado del Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur podrá solicitar al Magistrado Presidente del Tribunal Superior de Justicia del propio Estado, reconvenga o sancione a los jueces que hayan sido omisos en la diligenciación de los exhortos referidos.
+Cuando deban practicarse en lugar distinto, podrán encomendarse a los jueces de primera instancia del ramo civil o mixto de la jurisdicción, quienes estarán obligados a diligenciar los exhortos respectivos en los términos señalados en el Código de Procedimientos Civiles del Estado de Baja California Sur.
 
-La sanción que se aplique, en su caso, consistirá en multa de diez y hasta veinte días de salario mínimo vigente en el Estado de Baja California Sur.
+En caso de incumplimiento a la obligación anterior dentro del plazo señalado, el Magistrado del Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur podrá solicitar al Magistrado Presidente del Tribunal Superior de Justicia del propio Estado, reconvenga o sancione a los jueces que hayan sido omisos en la diligenciación de los exhortos referidos.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+La sanción que se aplique, en su caso, consistirá en multa de diez y hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 ### Capitulo segundo. Del procedimiento
 
@@ -3193,7 +3261,9 @@ Las autoridades que figuren como parte en los juicios de nulidad, podrán acredi
 
 Toda resolución debe notificarse a más tardar el tercer día hábil siguiente a aquel en que el expediente haya sido turnado al actuario para ese efecto, y se asentará la razón respectiva a continuación de la misma resolución.
 
-Al actuario que no cumpla con esta obligación, y con las demás obligaciones que se le establezcan en este código, se le impondrá una multa de 2 veces el salario mínimo general de la zona económica, con perjuicio de ser destituido, sin responsabilidad para el Estado, en el caso de reincidencia.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Al actuario que no cumpla con esta obligación, y con las demás obligaciones que se le establezcan en este código, se le impondrá una multa de 2 veces el valor diario de la Unidad de Medida y Actualización, con perjuicio de ser destituido, sin responsabilidad para el Estado, en el caso de reincidencia.
 
 ###### Artículo 253.
 
@@ -3249,7 +3319,11 @@ Las notificaciones que no fueren hechas en la forma que establecen las disposici
 
 Si se admite la promoción, se dará vista a las partes por el término de tres días para que expongan lo que a su derecho convenga; transcurrido dicho plazo se dictará resolución.
 
-Si se declarare la nulidad de la notificación, se impondrá una multa de cinco a diez veces el salario mínimo general vigente de la zona económica a la que pertenece el Estado de Baja California Sur, al servidor público, sin que exceda el 30% de su sueldo mensual, o actuario responsable, mismo que en caso de reincidencia podrá ser destituido de su cargo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Si se declarare la nulidad de la notificación, se impondrá una multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización, al servidor público, sin que exceda el
+
+30% de su sueldo mensual, o actuario responsable, mismo que en caso de reincidencia podrá ser destituido de su cargo.
 
 Las promociones de nulidad, notoriamente infundadas, se desecharán de plano.
 
@@ -3299,9 +3373,11 @@ Cuando exista excusa del Magistrado conocerá del negocio el Pleno del Tribunal 
 
 Las partes podrán, acompañando las pruebas pertinentes, recusar, en cualquier estado del juicio hasta el momento de la celebración de la audiencia final, al magistrado cuando se encuentre en alguno de los casos de impedimento señalados en este Código. Interpuesta la recusación, el magistrado recusado procederá conforme lo dispone el artículo anterior.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 265.
 
-La resolución que decida la recusación o excusa es irrevocable. Si se declara improcedente o no probada la causa de la misma, se impondrá al recusante, una multa equivalente de 100 a 150 veces el salario mínimo de la zona económica que corresponda.
+La resolución que decida la recusación o excusa es irrevocable. Si se declara improcedente o no probada la causa de la misma, se impondrá al recusante, una multa equivalente de 100 a 150 veces el valor diario de la Unidad de Medida y Actualización.
 
 #### Sección IV. De los casos de improcedencia y del sobreseimiento
 
@@ -3539,7 +3615,9 @@ En los juicios que se tramiten ante el Tribunal Unitario de lo Contencioso Admin
 
 Todas las cuestiones diversas a las anteriores, se reservarán para la sentencia.
 
-El Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, impondrá sanción de 100 a 150 veces el salario mínimo general de la zona económica que corresponda, al actor o demandante que promueva cualquier incidente que resulte notoriamente frívolo e improcedente.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, impondrá sanción de 100 a 150 veces el valor diario de la Unidad de Medida y Actualización, al actor o demandante que promueva cualquier incidente que resulte notoriamente frívolo e improcedente.
 
 ###### Artículo 285.
 
@@ -3575,7 +3653,9 @@ En el auto que admita el incidente anterior, el magistrado ordenará correr tras
 
 Dentro de los cinco días hábiles siguientes a partir de que se haya recibido el informe, o de que haya vencido el término para presentarlo, el magistrado dictará resolución en la que decrete o niegue la suspensión o decida sobre la garantía ofrecida.
 
-Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de la garantía, el tribunal declarará la nulidad de las actuaciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de uno a tres salarios mínimos vigente en el estado, elevado al mes.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de la garantía, el tribunal declarará la nulidad de las actuaciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de una a tres veces el valor diario de la Unidad de Medida y Actualización, elevado al mes.
 
 #### Sección VII. De las pruebas
 
@@ -3773,7 +3853,9 @@ V. Si el Tribunal resuelve que hubo omisión total en el cumplimiento de la sent
 
 VI. Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución, si se solicita ante la autoridad ejecutora y se garantiza el interés fiscal en los términos del artículo 184.
 
-A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución definitiva, se le impondrá una multa de veinte a ciento veinte días de salario mínimo general diario vigente en el área geográfica correspondiente al Estado de Baja California Sur. Existiendo resolución definitiva, si el Tribunal considera que la queja es improcedente, se ordenará instruirla como juicio.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución definitiva, se le impondrá una multa de veinte a ciento veinte veces el valor diario de la Unidad de Medida y Actualización. Existiendo resolución definitiva, si el Tribunal considera que la queja es improcedente, se ordenará instruirla como juicio.
 
 VII. Tratándose del incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado, la queja se interpondrá por escrito ante el magistrado, en cualquier momento.
 
@@ -3898,3 +3980,11 @@ B.O. 30 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N.DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
