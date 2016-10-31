@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-organismo-publico-descentralizado-92918
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-08"
-last_updated: "2016-03-18"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE PUEBLA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 8 de febrero de 2013.
 
@@ -93,23 +93,37 @@ B.2. Dirección de Salud Pública y Vigilancia Epidemiológica
 
 B.3. Dirección de Protección contra Riesgos Sanitarios
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+B.3. BIS. Dirección de Operación de Unidades Médicas
+
 B.4. Unidad del Sistema de Urgencias Médicas y Desastres
 
 B.5. Unidad de Coordinación de Jurisdicciones Sanitarias
 
-C) Coordinación de Planeación, Evaluación y Desarrollo
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+C) Coordinación de Planeación, Evaluación, Desarrollo y Operación
 
 C.1 Dirección de Planeación y Programación
 
 C.2. Dirección de Evaluación de los Servicios de Salud
 
-D) Coordinación de Administración y Finanzas
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-D.1. Dirección de Administración y Finanzas
+C.3. Dirección de Operación de Obra, Bienes, Servicios Generales y Procesos de Gestión
 
-D.2. Dirección de Administración de Personal y Desarrollo Humano
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-D.3. Dirección de Operación e Infraestructura
+C.4 Dirección de Operación de Personal
+
+D) (DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
+
+D.1. (DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
+
+D.2. (DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
+
+D.3. (DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
 
 D.4. (DEROGADO, P.O. 18 DE MARZO DE 2016)
 
@@ -177,7 +191,9 @@ XII. Ordenar la integración de la información sistemática respecto del estado
 
 XIII. Instruir en los casos que proceda y conforme a las disposiciones aplicables en la materia, la adjudicación, contratación y/o ejecución de obra pública y servicios relacionados con la misma, así como la adjudicación y contratación de adquisiciones, arrendamientos y servicios;
 
-XIV. Establecer los Comités previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con la Misma;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIV. Establecer, de acuerdo con las normas aplicables, los Comités previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las mismas;
 
 XV. Promover ante las instancias correspondientes la regularización de los inmuebles que tenga en uso el Organismo;
 
@@ -283,7 +299,9 @@ V. Supervisar que las áreas de su adscripción participen en la elaboración y 
 
 VI. Proponer a su superior jerárquico estrategias de simplificación administrativa, información y comunicación con el público, en materia de su competencia;
 
-VII. Colaborar con la unidad administrativa competente en la integración del Programa Operativo y del Programa Anual de Trabajo en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VII. Colaborar con la unidad administrativa correspondiente, en la integración de la programación anual de metas e indicadores en el ámbito de su competencia;
 
 VIII. Instruir la integración del anteproyecto del presupuesto de la coordinación a su cargo, y proponerlo a su superior jerárquico para la aprobación de la Junta de Gobierno, y una vez autorizado, supervisar su ejecución, de conformidad con los ordenamientos aplicables;
 
@@ -353,7 +371,9 @@ XIV. Proponer a su superior jerárquico la capacitación y el desarrollo del per
 
 XV. Asesorar técnicamente en el ámbito de su competencia, a las áreas del Organismo y a las demás instancias agrupadas al sector salud, e informar a su superior jerárquico de los resultados obtenidos;
 
-XVI. Colaborar en la integración del Programa Operativo y del Programa Anual de Trabajo en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVI. Colaborar en la integración de la programación anual de metas e indicadores en el ámbito de su competencia;
 
 XVII. Proponer, a su superior jerárquico, la modificación o supresión de las áreas de su adscripción, de conformidad con las disposiciones aplicables;
 
@@ -371,13 +391,19 @@ XXI. Cumplir y hacer cumplir las disposiciones que incidan en el ámbito de su c
 
 El Titular de la Coordinación de Servicios de Salud, dependerá de la Dirección General y tendrá, además de las atribuciones que señala el artículo 15 del Reglamento, las siguientes:
 
-I. Someter a consideración del Director General las políticas y estrategias en materia de seguridad en salud, así como el establecimiento, coordinación y evaluación de políticas y estrategias en materia de prestación de servicios de salud y de salud pública, y una vez aprobadas, coordinar su ejecución;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Someter a consideración del Director General las políticas y estrategias en materia de seguridad en salud, así como el establecimiento, coordinación y evaluación de políticas y estrategias en materia de prestación de servicios de salud, riesgos sanitarios, salud pública, urgencias médicas y desastres, y una vez aprobadas coordinar su ejecución;
 
 II. Coordinar la integración, ejecución y evaluación de programas de salud pública y vigilancia epidemiológica, así como lo relativo a la prestación de servicios en atención primaria a la salud y en servicios de especialidad médica;
 
-III. Coordinar la operación en el ámbito de competencia estatal del Sistema Nacional de Vigilancia Epidemiológica, así como fomentar la planificación y gestión del fortalecimiento de tecnologías que se requieran para su desarrollo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Coordinar los procesos de evaluación del desempeño del Sistema Estatal de Salud, en lo referente a programas de salud pública y de prestación de servicios médicos en el ámbito estatal y jurisdiccional, de conformidad con las disposiciones aplicables;
+III. Organizar la operación en el ámbito de competencia estatal del Sistema Nacional de Vigilancia Epidemiológica, así como fomentar la planificación y gestión del fortalecimiento de tecnologías que se requieran para su desarrollo;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Dirigir los procesos de evaluación del desempeño del Sistema Estatal de Salud, en lo referente a programas de salud pública y de prestación de servicios médicos en el ámbito estatal y jurisdiccional, de conformidad con las disposiciones aplicables;
 
 V. Evaluar y proponer estrategias en materia de salud, así como para la modernización del Organismo;
 
@@ -395,9 +421,21 @@ XI. Definir el diseño y operación de un sistema integral de abasto hacia las u
 
 XII. Presentar al Director General el diagnóstico de las necesidades de recursos humanos en salud, para la operación adecuada del Sistema Estatal de Salud;
 
-XIII. Vigilar que la información estadística del Sistema Estatal de Salud cumpla con las políticas y normas previstas en las disposiciones federales y estatales vigentes; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-XIV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+XIII. Vigilar que la información estadística del Sistema Estatal de Salud cumpla con las políticas y normas previstas en las disposiciones federales y estatales vigentes;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIV. Someter a consideración del Director General, las políticas, normas, métodos, sistemas, estrategias y procedimientos en materia de organización y administración de abasto de medicamentos, material de curación y consumibles médicos, mantenimiento de equipo médico y electromecánico, servicios médicos y paramédicos, y una vez autorizados coordinar su implementación en las Unidades Médicas, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XV. Coadyuvar con la Coordinación de Planeación, Evaluación, Desarrollo y Operación en la ejecución de proyectos innovadores; así como de aquellas iniciativas que contribuyan al fortalecimiento operativo del Organismo; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
 #### SECCIÓN I. DE LA DIRECCIÓN DE ATENCIÓN A LA SALUD
 
@@ -441,7 +479,9 @@ XVII. Vigilar el cumplimiento de la normatividad de la prestación de servicios 
 
 XVIII. Vigilar el cumplimiento de los convenios y acuerdos de gestión que se suscriban en el marco del Sistema de Protección Social en Salud, así como los programas relacionados con éste;
 
-XIX. Remitir previo acuerdo de su superior jerárquico a la Dirección de Administración y Finanzas, la propuesta para el otorgamiento de ayudas que se relacionen con las funciones de asistencia social del Organismo, conforme a las disposiciones aplicables e informar de los resultados a su superior jerárquico;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIX. Remitir a la Dirección de Operación de Obra, Bienes, Servicios Generales y Procesos de Gestión, previo acuerdo de su superior jerárquico, la propuesta para el otorgamiento de ayudas que se relacionen con las funciones de asistencia social del Organismo, conforme a las disposiciones aplicables e informar de los resultados a su superior jerárquico;
 
 XX. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
 
@@ -529,9 +569,33 @@ XIV. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documen
 
 XV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
-#### SECCIÓN IV. DE LA UNIDAD DE COORDINACIÓN DE JURISDICCIONES SANITARIAS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-#### SECCIÓN V. DE LA UNIDAD DEL SISTEMA DE URGENCIAS MÉDICAS Y DESASTRES
+#### SECCIÓN III BIS. DE LA DIRECCIÓN DE OPERACIÓN DE UNIDADES MÉDICAS
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 20 BIS.- El Titular de la Dirección de Operación de Unidades Médicas, dependerá del Coordinador de Servicios de Salud y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
+
+I. Coadyuvar en el ámbito de su competencia con la Dirección de Planeación y Programación, en la conducción del proceso de modernización administrativa del Organismo;
+
+II. Administrar el abasto de medicamentos, material de curación y consumibles médicos, el mantenimiento de equipo médico y electromecánico, los servicios médicos y paramédicos, de conformidad con las políticas, normas, métodos, sistemas, estrategias, procedimientos y demás disposiciones aplicables;
+
+III. Vigilar el cumplimiento de las obligaciones establecidas en los instrumentos jurídicos suscritos por el Organismo en materia de abasto de medicamentos, material de curación y consumibles médicos, servicios médicos y paramédicos, mantenimiento de equipo médico y electromecánico; y en los casos que proceda, solicitar a la unidad administrativa competente se proceda a la suspensión, terminación anticipada o rescisión de contratos, de conformidad con las disposiciones aplicables;
+
+IV. Recibir de las unidades administras (sic) adscritas a la Coordinación de Servicios de Salud los requerimientos de abasto de bienes, medicamentos, material de curación y consumibles médicos, servicios médicos y paramédicos, mantenimiento de equipo médico y electromecánico; y verificar que cumplan con las disposiciones aplicables;
+
+V. Solicitar a la Dirección de Operación de Obra, Bienes, Servicios Generales y Procesos de Gestión, el abasto de bienes, medicamentos, material de curación y consumibles médicos, servicios médicos y paramédicos, mantenimiento de equipo médico y electromecánico, de conformidad con las disposiciones aplicables;
+
+VI. Integrar y remitir a la Dirección de Asuntos Jurídicos, previo acuerdo de su superior jerárquico la información concerniente para la atención de las auditorías que se practiquen al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización en el ámbito de su competencia;
+
+VII. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud;
+
+VIII. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables; y
+
+IX. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+
+#### SECCIÓN IV. DE LA UNIDAD DE COORDINACIÓN DE JURISDICCIONES SANITARIAS
 
 ###### ARTÍCULO 21.
 
@@ -559,7 +623,7 @@ X. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documenta
 
 XI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN Y PROGRAMACIÓN
+#### SECCIÓN V. DE LA UNIDAD DEL SISTEMA DE URGENCIAS MÉDICAS Y DESASTRES
 
 ###### ARTÍCULO 22.
 
@@ -575,7 +639,9 @@ IV. Realizar en coordinación con la Dirección de Atención a la Salud los proc
 
 V. Vigilar la aplicación de programas de respuesta inmediata por las áreas competentes del Organismo;
 
-VI. Participar, previo acuerdo de su superior jerárquico, en el comité de seguridad en salud, en materia de contingencias y emergencias sanitarias;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Participar, previo acuerdo de su superior jerárquico con el Comité Estatal para la Seguridad en Salud;
 
 VII. Coordinarse con las unidades administrativas competentes para la atención de emergencias epidemiológicas y atención de desastres;
 
@@ -589,11 +655,15 @@ XI. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias document
 
 XII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
-### CAPÍTULO VII. DE LA COORDINACIÓN DE PLANEACIÓN, EVALUACIÓN Y DESARROLLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO VII. DE LA COORDINACIÓN DE PLANEACIÓN, EVALUACIÓN, DESARROLLO Y OPERACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 23.
 
-El Titular de la Coordinación de Planeación, Evaluación y Desarrollo, dependerá de la Dirección General y tendrá, además de las atribuciones que señala el artículo 15 del Reglamento, las siguientes:
+El Titular de la Coordinación de Planeación, Evaluación, Desarrollo y Operación, dependerá de la Dirección General y tendrá, además de las atribuciones que señala el artículo 15 del Reglamento, las siguientes:
 
 I. Coordinar la integración del Programa Sectorial de Salud competencia del Organismo, y ordenar el trámite correspondiente una vez aprobado por la Junta de Gobierno;
 
@@ -603,15 +673,21 @@ III. Validar el Diagnóstico de Salud del Estado y ordenar se remita a las autor
 
 IV. Someter a consideración de su superior jerárquico los estudios prospectivos en materia de atención a la salud;
 
-V. Presentar al Director General el Programa Anual de Trabajo y el Programa Operativo del Organismo para la aprobación de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI. Someter a consideración del Director General la propuesta de inversión en materia de ampliación, sustitución, fortalecimiento y construcción de obras de unidades médicas; así como reportar la misma a las autoridades federales y estatales competentes;
+V. Presentar al Director General la programación anual de metas e indicadores del Organismo para la aprobación de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Someter a consideración del Director General la propuesta de inversión en materia de ampliación, sustitución, fortalecimiento y construcción de obras de unidades médicas; así como reportar la misma a las autoridades federales y estatales competentes, conforme a los acuerdos o convenios de coordinación respectivos y las disposiciones vigentes aplicables;
 
 VII. Establecer las estrategias para la instrumentación, operación y fortalecimiento administrativo y financiero de los programas que se realicen en coordinación con las diferentes áreas del Organismo;
 
 VIII. Proponer a su superior jerárquico, el Programa Estratégico de Desarrollo de Tecnologías de la Información y Telecomunicaciones, en observancia a las disposiciones aplicables para su aprobación de la Junta de Gobierno;
 
-IX. Emitir, previo acuerdo con el Director General, las políticas operativas y líneas de acciones en materia de tecnologías de la información y telecomunicaciones, en apego a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IX. Emitir, previo acuerdo con el Director General, las políticas operativas y líneas de acción aplicables al interior del Organismo en materia de tecnologías de la información y telecomunicaciones, en apego a las disposiciones aplicables;
 
 X. Participar en las actividades relacionadas con el desarrollo de proyectos interinstitucionales de tecnologías de la información y telecomunicaciones, en el ámbito de competencia del Organismo, conforme a las disposiciones aplicables;
 
@@ -623,39 +699,139 @@ XIII. Supervisar el cumplimiento de proyectos y estrategias de mejora de la cali
 
 XIV. Someter a la aprobación del Director General los mecanismos para la obtención de las acreditaciones y certificaciones del Organismo;
 
-XV. Impulsar, conjuntamente con las demás coordinaciones, la ejecución de proyectos innovadores, así como de aquellas iniciativas que contribuyan al fortalecimiento operativo del Organismo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XV. Impulsar, conjuntamente con la Coordinación de Servicios de Salud, la ejecución de proyectos innovadores, así como de aquellas iniciativas que contribuyan al fortalecimiento operativo del Organismo;
 
 XVI. Coordinar la integración de los informes de cumplimiento a los acuerdos asumidos por el Organismo con instancias federales y regionales e instruir se remitan a las mismas;
 
-XVII. Vigilar que las acciones en materia de transparencia y acceso a la información pública, se cumplan en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVII. Implementar las acciones en materia de transparencia y acceso a la Información Pública, en los términos de la legislación y normatividad aplicable;
 
 XVIII. Supervisar la elaboración del apartado del informe de gobierno correspondiente al Organismo, y remitirlo a la dependencia competente previa autorización del Director General;
 
-XIX. Validar y someter a la aprobación del Director General para autorización de la Junta de Gobierno, los manuales de organización, de procedimientos, de servicios al público y demás necesarios para el funcionamiento del Organismo; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-XX. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+XIX. Validar y someter a la aprobación del Director General para autorización de la Junta de Gobierno, la Estructura Orgánica, los manuales de organización, de procedimientos, de servicios al público y demás necesarios para el funcionamiento del Organismo;
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN DE LOS SERVICIOS DE SALUD
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XX. Someter a consideración del Director General, las políticas, normas, métodos, sistemas, estrategias y procedimientos en materia de organización, administración y operación de los recursos financieros, humanos, materiales, abasto, servicios generales, inventarios, archivos, almacenes, conservación y mantenimiento de bienes muebles e inmuebles, y coordinar su implementación de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXI. Poner a consideración del Director General las políticas, normas y estrategias que deban observarse en el Organismo, para la planeación y programación en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXII. Proponer a su superior jerárquico, para aprobación de la Junta de Gobierno el anteproyecto del presupuesto anual del Organismo, así como controlar su ejercicio y contabilidad respectivos una vez autorizados;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXIII. Coordinar la administración y operación de los recursos que integran el patrimonio del Organismo;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXIV. Validar y someter a consideración del Director General, para aprobación ante las instancias correspondientes, el proyecto de actualización anual de cuotas de recuperación, de conformidad con los acuerdos o convenios de coordinación respectivos y las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXV. Validar y remitir a su superior jerárquico los estados financieros de la Entidad para su presentación y aprobación de la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXVI. Coordinar la integración de la cuenta pública del Organismo y someterla a consideración del Director General para la aprobación de la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXVII. Remitir al Director General las propuestas para el otorgamiento de ayudas que se relacionen con las funciones de asistencia social y con programas a cargo del Organismo;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXVIII. Validar la propuesta de los programas anuales de adquisiciones, arrendamientos y servicios; así como de obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa y someterlos a consideración del Director General, para su presentación y aprobación de la Junta de Gobierno, de conformidad con los acuerdos o convenios de coordinación respectivos y las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXIX. Supervisar, y en su caso, dirigir los procedimientos de adjudicación de los contratos en materia de adquisiciones, arrendamientos y servicios, así como los relativos a la obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa que requiera el Organismo, de conformidad con los acuerdos o convenios de coordinación respectivos y las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXX. Autorizar los tabuladores de precios unitarios de obras por administración directa y servicios a cargo del Organismo, y la actualización de los mismos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXI. Coordinar los mecanismos, procedimientos y sistemas de administración de documentos y archivo, de conformidad con las disposiciones aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXII. Coordinar el establecimiento, control y evaluación del Programa Interno de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXIII. Conducir las relaciones laborales del Organismo con sus trabajadores, conforme a las disposiciones aplicables y participar en el análisis y aplicación de las Condiciones Generales de Trabajo, e informar a su superior jerárquico del resultado de dichas acciones;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXIV. Proponer al Director General los nombramientos del personal adscrito al Organismo y ordenar su trámite una vez autorizados;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXV. Coordinar, previo acuerdo de su superior jerárquico los asuntos del personal del Organismo, tales como altas, bajas, vacantes, cambios de adscripción, licencias, liquidaciones, pago de cualquier remuneración, descuentos y retenciones, así como los demás aspectos relacionados con los recursos humanos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXVI. Establecer previo acuerdo con su superior jerárquico, las políticas en materia de selección, contratación, inducción, capacitación, desarrollo y evaluación del personal, así como ordenar la ejecución de las acciones correspondientes para el desarrollo e impulso del servicio civil de carrera de los servidores públicos del Organismo;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXVII. Proponer al superior jerárquico, de conformidad con las disposiciones aplicables, las modificaciones a la estructura orgánica del Organismo, al tabulador de sueldos, al catálogo de puestos, y las demás que resulten necesarias para el funcionamiento del Organismo;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXVIII. Supervisar que se realicen los pagos de obligaciones fiscales a las autoridades competentes, conforme a las disposiciones normativas aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXIX. Coordinar el proceso de modernización administrativa del Organismo;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XL. Vigilar que se cumpla (sic) las disposiciones en materia fiscal y hacendarias, así como las demás aplicables en las relaciones de trabajo que tenga el Organismo, y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XLI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN Y PROGRAMACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 24.
 
-El Titular de la Dirección de Planeación y Programación, dependerá de la Coordinación de Planeación, Evaluación y Desarrollo y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
+El Titular de la Dirección de Planeación y Programación, dependerá de la Coordinación de Planeación, Evaluación, Desarrollo y Operación y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 I. Proponer a su superior jerárquico el Plan Maestro de Infraestructura en Salud, así como las propuestas para su actualización;
 
 II. Coordinar la integración del Diagnóstico de Salud del Estado, y remitirlo a las autoridades federales competentes;
 
-III. Dirigir la integración y elaboración de análisis y estudios para justificar las necesidades en infraestructura y equipamiento, ante las autoridades federales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Dirigir la integración y elaboración de análisis y estudios para justificar las necesidades en infraestructura médica, concerniente a las solicitudes de ampliación, sustitución, fortalecimiento y construcción de unidades médicas, así como de equipamiento, ante las autoridades federales;
 
 IV. Validar de conformidad con las disposiciones federales en la materia, las propuestas de atención a la salud, que sometan a su consideración las unidades administrativas del Organismo;
 
 V. Promover y proponer acciones para optimizar los recursos del Organismo, de conformidad con las disposiciones aplicables;
 
-VI. Coordinar e integrar con la participación de las unidades administrativas de la Entidad, la propuesta del Programa Anual de Trabajo y del Programa Operativo del Organismo, de acuerdo a las disposiciones aplicables, para la presentación ante su superior jerárquico;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Coordinar e integrar con la participación de las unidades administrativas de la Entidad, la propuesta de la programación anual de metas e indicadores del Organismo, de acuerdo a las disposiciones aplicables, para la presentación ante su superior jerárquico;
 
 VII. Supervisar y verificar los sistemas de planeación y organización del Organismo, conforme a las disposiciones aplicables, así como establecer las acciones preventivas y correctivas pertinentes;
 
-VIII. Elaborar los estudios socioeconómicos que correspondan a la inversión en infraestructura médica, concerniente a las solicitudes de ampliación, sustitución, fortalecimiento y construcción de unidades médicas;
+VIII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2016)
 
 IX. Presentar a su superior jerárquico la propuesta de inversión en materia de ampliación, sustitución, fortalecimiento y construcción de obras de unidades médicas;
 
@@ -667,13 +843,17 @@ XII. Formular y proponer a su superior jerárquico las políticas operativas, no
 
 XIII. Coordinar la formulación y la aplicación del Plan de Recuperación en caso de desastres y la continuidad de la operación de tecnologías de la información y telecomunicaciones, en observancia a las disposiciones aplicables en la materia;
 
-XIV. Coordinar que las acciones en materia de transparencia y acceso a la Información Pública, se cumplan en los términos de la legislación y normatividad aplicable;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIV. Instrumentar las acciones en materia de transparencia y acceso a la Información Pública, revisando se cumplan en los términos de la legislación y normatividad aplicable;
 
 XV. Dirigir la integración de los manuales de organización, de procedimientos, de servicios al público y demás necesarios para el adecuado funcionamiento del Organismo;
 
 XVI. Proponer a su superior jerárquico, las modificaciones que requiera la estructura orgánica del Organismo;
 
-XVII. Dirigir el proceso de modernización administrativa en el Organismo, en coordinación con la Dirección de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVII. Dirigir el proceso de modernización administrativa en el Organismo, en coordinación con la Dirección de Operación de Obra, Bienes, Servicios Generales y Procesos de Gestión;
 
 XVIII. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
 
@@ -683,15 +863,21 @@ XX. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias document
 
 XXI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN DE LOS SERVICIOS DE SALUD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 25.
 
-El Titular de la Dirección de Evaluación de los Servicios de Salud, dependerá de la Coordinación de Planeación, Evaluación y Desarrollo y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
+El Titular de la Dirección de Evaluación de los Servicios de Salud, dependerá de la Coordinación de Planeación, Evaluación, Desarrollo y Operación y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
 
-I. Integrar el Programa Sectorial de Salud, el Programa Operativo y los demás programas específicos en materia de servicios de salud del Organismo, de acuerdo con las disposiciones aplicables, y someterlo a consideración de su superior jerárquico;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Analizar la información referente a los avances técnico-financieros del Programa Anual de Trabajo, del Programa Operativo y proyectos de modernización del Organismo, de acuerdo con la normatividad vigente en la materia;
+I. Integrar el Programa Sectorial de Salud, la evaluación de la programación anual de metas e indicadores y los demás programas específicos en materia de servicios de salud del Organismo, de acuerdo con las disposiciones aplicables, y someterlo a consideración de su superior jerárquico;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Analizar la información referente a los avances técnico - financieros para la evaluación de la programación anual de metas e indicadores y proyectos de modernización del Organismo, de acuerdo con la normatividad vigente en la materia;
 
 III. Formular los proyectos, programas y estrategias de mejora de la calidad del Organismo, en cumplimiento a lo establecido por la legislación y normatividad aplicables;
 
@@ -717,67 +903,25 @@ XIII. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información 
 
 XIV. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud;
 
-XV. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-XVI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+XV. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables;
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE OPERACIÓN E INFRAESTRUCTURA
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL Y DESARROLLO HUMANO
+XVI. Someter a consideración de su superior jerárquico los estudios prospectivos en materia de atención a la salud, realizados de manera interna o externa; y
 
-### CAPÍTULO VIII. DE LA COORDINACIÓN DE ADMINISTRACIÓN Y FINANZAS
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-###### ARTÍCULO 26.
+XVII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
-El Titular de la Coordinación de Administración y Finanzas, dependerá de la Dirección General y tendrá, además de las atribuciones que señala el artículo 15 del Reglamento, las siguientes:
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-I. Someter a consideración del Director General, las políticas, normas, métodos, sistemas, estrategias y procedimientos en materia de organización y administración de los recursos financieros, humanos, materiales, abasto, servicios generales, inventarios, archivos, almacenes, conservación y mantenimiento de bienes muebles e inmuebles, adquisiciones, servicios, arrendamientos, obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa, y coordinar su implementación una vez autorizados, de conformidad con las disposiciones aplicables;
+#### SECCIÓN III. DIRECCIÓN DE OPERACIÓN DE OBRA, BIENES, SERVICIOS GENERALES Y PROCESOS DE GESTIÓN
 
-II. Proponer a su superior jerárquico, para aprobación de la Junta de Gobierno el anteproyecto del presupuesto anual del Organismo, así como controlar su ejercicio y contabilidad respectivos una vez autorizado;
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Coordinar la administración de los recursos que integran el patrimonio del Organismo;
-
-IV. Proponer al Director General las políticas y estrategias para la asignación de los recursos financieros a los programas en materia de salubridad general, regulación y control sanitarios que le sean presentados por las unidades administrativas del Organismo;
-
-V. Validar y someter a consideración del Director General el proyecto de actualización anual de cuotas de recuperación, de conformidad con las disposiciones aplicables;
-
-VI. Validar y remitir a su superior jerárquico los estados financieros de la Entidad para su presentación y aprobación de la Junta de Gobierno;
-
-VII. Coordinar la integración de la cuenta pública del Organismo y someterla a consideración del Director General para la aprobación de la Junta de Gobierno;
-
-VIII. Remitir al Director General las propuestas para el otorgamiento de ayudas que se relacionen con las funciones de asistencia social y con programas a cargo del Organismo;
-
-IX. Establecer, previo acuerdo con su superior jerárquico las políticas, métodos y procedimientos necesarios en la formulación y ejecución de programas en materia de adquisiciones, arrendamientos, servicios, inversión, conservación y mantenimiento de bienes muebles e inmuebles;
-
-X. Coordinar la integración y ejecución de los programas anuales de adquisiciones, arrendamientos y servicios; así como de obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa y someterlos a consideración del Director General, para su presentación y aprobación de la Junta de Gobierno;
-
-XI. Supervisar, y en su caso, dirigir los procedimientos de adjudicación de los contratos en materia de adquisiciones, arrendamientos y servicios, así como los relativos a la obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa que requiera el Organismo, de conformidad con las disposiciones aplicables y disponibilidad presupuestal correspondiente;
-
-XII. Autorizar los tabuladores de precios unitarios de obras y servicios a cargo del Organismo, y la actualización de los mismos;
-
-XIII. Coordinar los mecanismos, procedimientos y sistemas de administración de documentos y archivo, de conformidad con las disposiciones aplicables en la materia;
-
-XIV. Coordinar el establecimiento, control y evaluación del Programa Interno de Protección Civil;
-
-XV. Conducir las relaciones laborales del Organismo con sus trabajadores, conforme a las disposiciones aplicables y participar en el análisis y aplicación de las Condiciones Generales de Trabajo, e informar a su superior jerárquico del resultado de dichas acciones;
-
-XVI. Proponer al Director General los nombramientos del personal adscrito al Organismo y ordenar su trámite una vez autorizados;
-
-XVII. Coordinar, previo acuerdo de su superior jerárquico los asuntos del personal del Organismo, tales como altas, bajas, vacantes, cambios de adscripción, licencias, liquidaciones, pago de cualquier remuneración, descuentos y retenciones, así como los demás aspectos relacionados con los recursos humanos;
-
-XVIII. Establecer previo acuerdo con su superior jerárquico, las políticas en materia de selección, contratación, inducción, capacitación, desarrollo y evaluación del personal, así como ordenar la ejecución de las acciones correspondientes para el desarrollo e impulso del servicio civil de carrera de los servidores públicos del Organismo;
-
-XIX. Proponer al superior jerárquico, de conformidad con las disposiciones aplicables, las modificaciones a la estructura orgánica del Organismo, al tabulador de sueldos, al catálogo de puestos, y las demás que resulten necesarias para el funcionamiento del Organismo;
-
-XX. (DEROGADA, P.O. 18 DE MARZO DE 2016)
-
-XXI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
-
-#### SECCIÓN IV
-
-###### ARTÍCULO 27.
-
-El Titular de la Dirección de Administración y Finanzas, dependerá del Coordinador de Administración y Finanzas y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
+ARTÍCULO 25 BIS.- El Titular de la Dirección de Operación de Obra, Bienes, Servicios Generales y Procesos de Gestión, dependerá del Coordinador de Planeación, Evaluación, Desarrollo y Operación y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
 
 I. Validar y someter a consideración de su superior jerárquico las políticas, lineamientos y demás que deban observarse en materia presupuestal y administración de valores financieros, así como dirigir su correcta aplicación de conformidad con las disposiciones aplicables;
 
@@ -795,83 +939,71 @@ VII. Vigilar el cumplimiento de las disposiciones aplicables para la captación,
 
 VIII. Operar y someter a consideración de su superior jerárquico la integración y los mecanismos de control interno de los movimientos de la cuenta pública del Organismo;
 
-IX. Coadyuvar, en el ámbito de su competencia, con la Dirección de Planeación y Programación, en la conducción del proceso de modernización administrativa;
+IX. Coadyuvar en el ámbito de su competencia con la Dirección de Planeación y Programación, en la conducción del proceso de modernización administrativa;
 
-X. Analizar la procedencia presupuestal de las propuestas presentadas para el otorgamiento de ayudas en materia de asistencia social, con apego a las disposiciones aplicables, y una vez aprobadas por la Junta de Gobierno realizar los trámites procedentes ante la dependencia competente;
+X. Analizar la procedencia presupuestal de las propuestas presentadas para el otorgamiento de ayudas en materia de asistencia social, con apego a las disposiciones aplicables, y una vez aprobadas por la Junta de Gobierno realizar los trámites procedentes ante la instancia competente;
 
 XI. Proponer a su superior jerárquico los lineamientos generales para el ejercicio de los recursos que se desconcentran o se transfieren a las jurisdicciones sanitarias, unidades administrativas y médicas del Organismo;
 
 XII. Tramitar las transferencias, modificaciones y ampliaciones de recursos financieros, de conformidad con las disposiciones aplicables;
 
-XIII. Ejecutar las acciones correspondientes para realizar el pago de las obligaciones fiscales del Organismo, en términos de las disposiciones aplicables;
+XIII. Realizar las acciones correspondientes para efectuar el pago de las obligaciones fiscales del Organismo, en términos de las disposiciones aplicables, así como proponer se otorguen los poderes notariales para el cumplimiento de este tipo de obligaciones;
 
 XIV. Aplicar, en el ámbito de su competencia, las políticas para la baja y destino final de los bienes muebles del Organismo, de conformidad con la normatividad aplicable;
 
-XV. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
+XV. Proponer a su superior jerárquico las políticas, normas, métodos, sistemas, estrategias, procedimientos y demás disposiciones aplicables para la operación de los recursos materiales, servicios generales, inventarios de bienes muebles e inmuebles, archivos, almacenes, conservación y mantenimiento a bienes muebles e inmuebles, radiocomunicación, suministro de combustibles, adquisiciones, servicios, arrendamientos, obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa;
 
-XVI. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud;
+XVI. Gestionar el arrendamiento de bienes inmuebles que requiera el Organismo, de conformidad con las disposiciones aplicables;
 
-XVII. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables; y
+XVII. Coordinar la integración de los programas anuales de adquisiciones, arrendamientos y servicios, así como de obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa, de conformidad con las disposiciones aplicables y proponerlos a su superior jerárquico;
 
-XVIII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+XVIII. Coadyuvar con la Dirección de Asuntos Jurídicos, en las acciones de regularización de la propiedad de los bienes inmuebles del Organismo;
 
-###### ARTÍCULO 28.
+XIX. Coordinar los procedimientos de adjudicación de los contratos en materia de adquisiciones, arrendamientos y servicios, así como los relativos a la obra pública y servicios relacionados con la misma que requiera el Organismo, desde su inicio hasta su conclusión, así como llevar a cabo su trámite de pago, de conformidad con las disposiciones aplicables, e informar periódicamente a su superior jerárquico el resultado de dichas acciones;
 
-El Titular de la Dirección de Operación e Infraestructura, dependerá del Coordinador de Administración y Finanzas y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
+XX. Coordinar la ejecución de obra pública, y en su caso, los servicios relacionados con la misma, así como llevar a cabo la supervisión permanente por sí, o por terceros de ésta, y vigilar que se ejecuten y cumplan con los avances y tiempos previstos, de conformidad con las normas y especificaciones técnicas y administrativas aplicables;
 
-I. Administrar los recursos materiales, abasto, servicios generales, inventarios de bienes muebles e inmuebles, archivos, almacenes, conservación y mantenimiento a bienes muebles e inmuebles, radiocomunicación, suministro de combustibles, adquisiciones, servicios, arrendamientos, obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa, de conformidad con las políticas, normas, métodos, sistemas, estrategias, procedimientos y demás disposiciones aplicables;
+XXI. Proponer al Coordinador de Planeación, Evaluación, Desarrollo y Operación los tabuladores de precios unitarios de obras y servicios a cargo del Organismo, así como la actualización de los mismos;
 
-II. Gestionar el arrendamiento de bienes inmuebles que requiera el Organismo, de conformidad con las disposiciones aplicables;
+XXII. Autorizar las estimaciones de obra pública, y en su caso, de los servicios relacionados con la misma, en el ámbito de competencia de la Entidad e instruir los actos de entrega-recepción y la suscripción de las actas correspondientes;
 
-III. Dirigir la integración de los programas anuales de adquisiciones, arrendamientos y servicios, así como de obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa, de conformidad con las disposiciones aplicables y proponerlos a su superior jerárquico;
+XXIII. Supervisar que se recabe y resguarde la documentación necesaria para integrar los expedientes técnicos unitarios de las obras públicas, y en su caso, de los servicios relacionados con las mismas a cargo de la Entidad; así como, los expedientes de adjudicaciones que le competan;
 
-IV. Instrumentar los procedimientos de adjudicación de los contratos en materia de adquisiciones, arrendamientos y servicios, así como los relativos a la obra pública y servicios relacionados con la misma que requiera el Organismo, desde su inicio hasta su conclusión, así como llevar a cabo su trámite de pago, de conformidad con las disposiciones aplicables, e informar periódicamente a su superior jerárquico el resultado de dichas acciones;
+XXIV. Supervisar los pagos, retenciones y penalizaciones que deriven de los pedidos o contratos en el ámbito de su competencia;
 
-V. Coordinar la ejecución de obra pública, y en su caso, los servicios relacionados con la misma, así como llevar a cabo la supervisión permanente por sí, o por terceros de ésta, y vigilar que se ejecuten y cumplan con los avances y tiempos previstos, de conformidad con las normas y especificaciones técnicas y administrativas aplicables;
+XXV. Coordinar las acciones y programas respecto de las compras consolidadas que requiera el Organismo;
 
-VI. Proponer al Coordinador de Administración y Finanzas los tabuladores de precios unitarios de obras y servicios a cargo del Organismo, así como la actualización de los mismos;
+XXVI. Dirigir la aplicación de las medidas de control técnico de insumos y bienes muebles del Organismo, de conformidad con las disposiciones aplicables;
 
-VII. Autorizar las estimaciones de obra pública, y en su caso, de los servicios relacionados con la misma, en el ámbito de competencia de la Entidad e instruir los actos de entrega-recepción y la suscripción de las actas correspondientes;
+XXVII. Instruir los actos relacionados con la entrega-recepción de los bienes muebles e inmuebles que se otorguen a favor del Organismo;
 
-VIII. Recabar y resguardar la documentación necesaria para integrar los expedientes técnicos unitarios de las obras públicas, y en su caso, de los servicios relacionados con las mismas a cargo de la Entidad, así como los expedientes de adquisiciones;
+XXVIII. Proponer la baja y destino final de los bienes muebles del Organismo, de conformidad con las disposiciones aplicables;
 
-IX. Verificar que las garantías entregadas por los proveedores o contratistas, de los pedidos o contratos en materia de adquisiciones, arrendamientos y servicios, así como las relativas a la obra pública y servicios relacionados con la misma, cumplan con las disposiciones aplicables, y supervisar que éstas se actualicen en tiempo y forma, así como solicitar la cancelación procedente, o en su caso, la devolución de las mismas;
+XXIX. Dirigir los mecanismos, procedimientos y sistemas para la administración de documentos y archivos, de conformidad con las disposiciones aplicables
 
-X. Gestionar los pagos, retenciones y penalizaciones que deriven de los pedidos o contratos en el ámbito de su competencia;
+XXX. Dirigir la ejecución para el establecimiento, control y evaluación del Programa Interno de Protección Civil que requiera la Entidad, coordinándose con las autoridades competentes, de conformidad con las disposiciones aplicables
 
-XI. Instrumentar y resolver los procedimientos administrativos para la suspensión, terminación anticipada y rescisión de los contratos en materia de adquisiciones, arrendamientos y servicios, así como los relativos a la obra pública y servicios relacionados con la misma, de conformidad con las disposiciones aplicables;
+XXXI. Coadyuvar con la Dirección de Planeación y Programación en la elaboración del Plan Maestro de Infraestructura en Salud;
 
-XII. Dirigir las acciones y programas respecto de las compras consolidadas que requiera el Organismo;
+XXXII. Realizar las modificaciones a los presupuestos autorizados a la obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa, en términos de las disposiciones aplicables;
 
-XIII. Dirigir la aplicación de las medidas de control técnico de insumos y bienes muebles del Organismo, de conformidad con las disposiciones aplicables;
+XXXIII. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
 
-XIV. Participar con la Dirección de Asuntos Jurídicos, en las acciones de regularización de la propiedad de los bienes inmuebles del Organismo;
+XXXIV. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud;
 
-XV. Intervenir en los actos relacionados con la entrega-recepción de los bienes muebles e inmuebles que se otorguen o destinen a favor del Organismo;
+XXXV. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables;
 
-XVI. Proponer la baja y destino final de los bienes muebles del Organismo, de conformidad con las disposiciones aplicables;
+XXXVI. Someter a consideración de su superior jerárquico, las políticas y estrategias para la asignación de los recursos financieros a los programas en materia de salubridad general, regulación y control sanitarios que sean requeridos por las áreas operativas competentes; y
 
-XVII. Dirigir los mecanismos, procedimientos y sistemas para la administración de documentos y archivos, de conformidad con las disposiciones aplicables;
+XXXVII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
-XVIII. Dirigir la ejecución para el establecimiento, control y evaluación del Programa Interno de Protección Civil que requiera la Entidad, coordinándose con las autoridades competentes, de conformidad con las disposiciones aplicables;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-XIX. Proponer mecanismos de carácter administrativo que permitan el abasto de bienes en las unidades administrativas del Organismo, de conformidad con los requerimientos y al presupuesto autorizado en la materia;
+#### SECCIÓN IV. DIRECCIÓN DE OPERACIÓN DE PERSONAL
 
-XX. Coadyuvar con la Dirección de Planeación y Programación en la actualización del Plan Maestro de Infraestructura en Salud y en la integración del Programa Anual de Inversiones del Organismo;
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-XXI. Gestionar las modificaciones a los presupuestos autorizados a la obra pública y servicios relacionados con la misma, incluida la obra pública por administración directa, en términos de las disposiciones aplicables;
-
-XXII. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
-
-XXIII. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud;
-
-XXIV. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables; y
-
-XXV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
-
-###### ARTÍCULO 29.
-
-El Titular de la Dirección de Administración de Personal y Desarrollo Humano, dependerá del Coordinador de Administración y Finanzas y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
+ARTÍCULO 25 TER. El Titular de la Dirección de Operación de Personal, dependerá del Coordinador de Planeación, Evaluación, Desarrollo y Operación y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
 
 I. Dirigir, previo acuerdo con su superior jerárquico, las relaciones laborales del Organismo con sus trabajadores, conforme a los ordenamientos legales aplicables;
 
@@ -887,7 +1019,7 @@ VI. Promover, previo acuerdo con su superior jerárquico, la creación de plazas
 
 VII. Cumplir y promover la aplicación de las disposiciones en materia fiscal y hacendaria, así como las demás aplicables en las relaciones de trabajo que tenga el Organismo;
 
-VIII. Autorizar la determinación de impuestos que deban retenerse al personal del Organismo y remitirla al área competente para los trámites correspondientes, de conformidad con las disposiciones aplicables;
+VIII. Autorizar la determinación de impuestos que deban retenerse al personal del Organismo y remitirla a la Dirección de Operación de Obra, Bienes, Servicios Generales y Procesos de Gestión, para los trámites correspondientes, de conformidad con las disposiciones aplicables;
 
 IX. Autorizar el trámite de altas, bajas, reubicaciones, cambios de adscripción, cambios de nómina, comisiones, nombramientos, liquidaciones, así como el pago de sueldos y prestaciones del personal, de conformidad con la normatividad aplicable;
 
@@ -899,29 +1031,63 @@ XII. Autorizar y remitir a su superior jerárquico los contratos que deban suscr
 
 XIII. Promover el desarrollo de actividades culturales, cívicas, sociales, deportivas, recreativas y de seguridad e higiene en el trabajo del personal del Organismo;
 
-XIV. Coordinar el análisis y elaboración de las propuestas de creación, modificación o supresión de la estructura orgánica del Organismo y someterla a su superior jerárquico, e instruir, previa aprobación de la Junta de Gobierno, el trámite de registro y autorización correspondientes;
+XIV. Coordinar el análisis y elaboración de las propuestas de creación, modificación o supervisión de la estructura orgánica del Organismo y someterla a su superior jerárquico, e instruir, previa aprobación de la Junta de Gobierno, el trámite de registro y autorización correspondiente;
 
-XV. Proponer a su superior jerárquico las modificaciones al tabulador de sueldos, catálogo de puestos y las demás que resulten necesarias para el funcionamiento del Organismo, con base en la normatividad establecida en la materia, y una vez aprobadas, dirigir su aplicación;
+XV. Proponer a su superior jerárquico las modificaciones al tabulador de sueldos, catálogo de puestos y las demás que resulten necesarias para el funcionamiento del Organismo, con base en la normatividad establecida en la materia y, una vez aprobadas, llevar a cabo su aplicación;
 
 XVI. Instrumentar y evaluar los programas, sistemas y mecanismos para el otorgamiento de las prestaciones a personal del Organismo;
 
 XVII. Autorizar, en los casos que proceda, el pago de los sueldos, prestaciones económicas y descuentos al personal del Organismo, de conformidad con la normatividad aplicable;
 
-XVIII. Elaborar las planillas de cuantificación derivadas de resoluciones emitidas por autoridad competente y aquéllas que requiera la Dirección de Asuntos Jurídicos para los pagos correspondientes;
+XVIII. Elaborar las planillas de cuantificación derivadas de resoluciones emitidas por autoridad competente y aquellas que requiera la Dirección de Asuntos Jurídicos para los pagos correspondientes;
 
 XIX. Someter a consideración de su superior jerárquico, los sistemas informáticos y programas de desarrollo administrativo de personal y de nóminas, de conformidad con las disposiciones aplicables;
 
 XX. Someter a consideración de su superior jerárquico la distribución de plazas vacantes y de nueva creación de conformidad con las disposiciones aplicables;
 
-XXI. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
+XXI. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique (sic) al Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
 
-XXII. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud;
+XXII. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud.
 
 XXIII. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables; y
 
 XXIV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO VIII. DE LA COORDINACIÓN DE ADMINISTRACIÓN Y FINANZAS
+
+###### ARTÍCULO 26.
+
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
+
+###### ARTÍCULO 27.
+
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE OPERACIÓN E INFRAESTRUCTURA
+
+###### ARTÍCULO 28.
+
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL Y DESARROLLO HUMANO
+
+###### ARTÍCULO 29.
+
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2016)
+
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE MARZO DE 2016)</small>
+
+#### SECCIÓN IV
 
 ###### ARTÍCULO 30.
 
@@ -961,23 +1127,41 @@ XIII. Expedir en el ámbito de su competencia, las certificaciones de las consta
 
 XIV. Dictaminar en definitiva las actas administrativas que las unidades administrativas instrumenten a los trabajadores del Organismo, por transgresión a las disposiciones laborales aplicables e instruir su notificación y la de los avisos suscritos por el Director General, incluyendo las rescisiones laborales, así como las sanciones que se impongan a los trabajadores, de conformidad con las disposiciones aplicables;
 
-XV. Coadyuvar con la Dirección de Operación e Infraestructura, en los procesos de regularización inmobiliaria, respecto de los inmuebles que estén destinados al Organismo y que bajo cualquier título posea;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XV. Coadyuvar con la Dirección de Operación de Obra, Bienes, Servicios Generales y Procesos de Gestión, en los procesos de regularización inmobiliaria, respecto de los inmuebles que estén destinados al Organismo y que bajo cualquier título posea;
 
 XVI. Coordinar la atención y seguimiento al cumplimiento de las auditorías y revisiones que se realicen a la Entidad por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
 
 XVII. Recibir y atender las solicitudes de información, documentación y demás que les formulen las autoridades jurisdiccionales, administrativas y ministeriales;
 
-XVIII. Dirigir las acciones para recabar la documentación requerida por las compañías de seguros y tramitar en los casos procedentes la indemnización, en los casos que se notifique el robo, daño o pérdida total de los bienes propiedad de la Entidad; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-XIX. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+XVIII. Dirigir las acciones para recabar la documentación requerida por las compañías de seguros y tramitar en los casos procedentes la indemnización, en los supuestos en que se notifique el robo, daño o pérdida total de los bienes propiedad de la Entidad;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIX. Formular los proyectos de los contratos y convenios en materia de adquisiciones, arrendamientos y servicios; así como de obra pública y servicios relacionados con las mismas;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XX. Verificar que las garantías entregadas por los proveedores o contratistas, de los pedidos o contratos en materia de adquisiciones, arrendamientos y servicios, así como las relativas a la obra pública y servicios relacionados con la misma, cumplan con las disposiciones aplicables, y supervisar que éstas se actualicen en tiempo y forma, así como enviar las solicitudes relativas a la devolución o cancelación a las instancias competentes previo informe de las áreas responsables del seguimiento de los pedidos o contratos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXI. Instrumentar y resolver los procedimientos administrativos para la suspensión, terminación anticipada y rescisión de los contratos en materia de adquisiciones, arrendamientos y servicios, así como los relativos a la obra pública y servicios relacionados con la misma, de conformidad con las disposiciones aplicables, previo requerimiento de las áreas responsables del seguimiento de los contratos y convenios; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
 ### CAPÍTULO X. DE LAS JURISDICCIONES SANITARIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 32.
 
-La Jurisdicción Sanitaria, es el órgano técnico-administrativo, que realiza funciones de planeación, dirección, coordinación, control, supervisión y evaluación de los servicios de atención médica, salud pública y asistencia social, dentro de una circunscripción territorial determinada, esta depende jerárquicamente en materia de salud de la Coordinación de Servicios de Salud y está sujeta al control y evaluación administrativa y financiera de la Coordinación de Administración y Finanzas; a la que se encuentran adscritos los Centros de Salud, Centros de Salud con Servicios Ampliados, Hospitales Integrales, Hospitales Generales y demás Unidades Médicas que se especifiquen en el respectivo Manual de Organización.
+La Jurisdicción Sanitaria, es el órgano técnico-administrativo, que realiza funciones de planeación, dirección, coordinación, control, supervisión y evaluación de los servicios de atención médica, salud pública y asistencia social, dentro de una circunscripción territorial determinada, ésta depende jerárquicamente en materia de salud de la Coordinación de Servicios de Salud y está sujeta al control y evaluación administrativa y financiera de la Coordinación de Planeación, Evaluación, Desarrollo y Operación; a la que se encuentran adscritos los Centros de Salud, Centros de Salud con Servicios Ampliados, Hospitales Integrales, Hospitales Generales y demás Unidades Médicas que se especifiquen en el respectivo Manual de Organización.
 
 Cada Jurisdicción sanitaria tendrá una Jefatura, su Titular tendrá en el ámbito administrativo las contenidas en el artículo 16 de este Reglamento, así como las atribuciones siguientes:
 
@@ -993,7 +1177,9 @@ V. Formular y desarrollar el Programa de Salud y Asistencia Social de la Jurisdi
 
 VI. Integrar el Diagnóstico de Salud, para integrar la participación de los municipios y las instituciones de salud, así como los sectores público, social y privado, de acuerdo a la normatividad vigente;
 
-VII. Realizar y presentar a los Coordinadores de Servicios de Salud y de Administración y Finanzas el anteproyecto de programa anual de gasto desconcentrado, de acuerdo a los lineamientos en materia de planeación y programación;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VII. Realizar y presentar a los Coordinadores de Servicios de Salud y de Planeación, Evaluación, Desarrollo y Operación el anteproyecto de programa anual de gasto desconcentrado, de acuerdo a los lineamientos en materia de planeación y programación;
 
 VIII. Organizar los servicios de las unidades médicas de primer y segundo nivel de atención mediante la actualización permanente del Estudio de Regionalización Operativa, que permita reorientar las acciones para alcanzar la cobertura total de la población;
 
@@ -1009,17 +1195,23 @@ XIII. Atender prioritariamente las emergencias epidemiológicas y la atención m
 
 XIV. Aplicar las funciones de regulación y fomento sanitario que le delegue el Director General en la circunscripción territorial de su competencia, así como vigilar y asesorar la aplicación de las correspondientes a la materia de la salubridad local, de acuerdo con la normatividad emitida al respecto y la legislación aplicable;
 
-XV. Desarrollar y presentar a los Coordinadores de Servicios de Salud y de Administración y Finanzas, el manual de organización, de procedimientos y de servicios al público de la Jurisdicción Sanitaria, de conformidad con las disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XV. Desarrollar y presentar a los Coordinadores de Servicios de Salud y de Planeación, Evaluación, Desarrollo y Operación, el manual de organización, de procedimientos y de servicios al público de la Jurisdicción Sanitaria, de conformidad con las disposiciones aplicables en la materia;
 
 XVI. Promover y establecer acciones que mejoren el desarrollo administrativo y la calidad en la atención al público entre los prestadores de servicios bajo su responsabilidad, de acuerdo con la normatividad aplicable en la materia;
 
 XVII. Coordinar las acciones que en materia de formación de recursos humanos e investigación para la salud, se realicen en el ámbito de la Jurisdicción Sanitaria, de conformidad con la normatividad aplicable;
 
-XVIII. Administrar directamente o a través de sus diferentes unidades médicas, los recursos humanos, financieros y materiales asignados, de acuerdo con las normas, métodos y procedimientos que para tal efecto establezca la Coordinación de Administración y Finanzas, así como observar los lineamientos y normatividad que emita la autoridad competente;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XVIII. Administrar directamente o a través de sus diferentes unidades médicas, los recursos humanos, financieros y materiales asignados, de acuerdo con las normas, métodos y procedimientos que para tal efecto establezca la Coordinación de Planeación, Evaluación, Desarrollo y Operación, así como observar los lineamientos y normatividad que emita la autoridad competente;
 
 XIX. Captar y reportar directamente o a través de sus diferentes unidades médicas los ingresos por cuotas de recuperación, de conformidad con la normatividad aplicable;
 
-XX. Elaborar y mantener actualizado el inventario de bienes e insumos y unidades médicas en el ámbito de su competencia, e informar del mismo a las Coordinaciones de Servicios de Salud y de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XX. Elaborar y mantener actualizado el inventario de bienes e insumos y unidades médicas en el ámbito de su competencia, e informar del mismo a las Coordinaciones de Servicios de Salud y de Planeación, Evaluación, Desarrollo y Operación;
 
 XXI. Cumplir los lineamientos que emita la instancia competente para regular el funcionamiento de las actividades de control, auditoria y atención de quejas y denuncias;
 
@@ -1037,9 +1229,9 @@ XXV. Vigilar que la prestación de los servicios de salud a los beneficiarios de
 
 XXVI. Incorporar en sus actas de entrega-recepción a los Centros de Salud, Centros de Salud con Servicios Ampliados, Hospitales Integrales, Hospitales Generales y demás Unidades Médicas ubicadas en la jurisdicción de su adscripción, y
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-XXVII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno, el Director General o los Coordinadores de Servicios de Salud o de Administración y Finanzas, en el ámbito de su competencia.
+XXVII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno, el Director General o los Coordinadores de Servicios de Salud o de Planeación, Evaluación, Desarrollo y Operación, en el ámbito de su competencia.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
@@ -1092,3 +1284,23 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO. Las unidades administrativas del Organismo, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirán utilizando las formas oficiales, formatos y demás papelería existente en los que conste su denominación anterior, hasta que se agoten.
 
 CUARTO. Todo trámite que se haya iniciado o se encuentre en proceso de resolución a la entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse por la unidad administrativa a la que le sean conferidas atribuciones para ello, conforme a este Reglamento.
+
+P.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente al de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a cualquier unidad administrativa que se suprime, modifica su denominación o adscripción, se entenderá atribuido a la que se le confiera la competencia específica que en cada caso se relacione.
+
+CUARTO. Las unidades administrativas del Organismo, continuarán utilizando las formas oficiales, formatos y demás papelería existente en los que conste la denominación anterior, hasta que se agoten respecto de los asuntos que con motivo de la supresión o fusión formen parte de sus atribuciones.
+
+Asimismo, la Coordinación de Servicios de Salud y la Coordinación de Planeación, Evaluación, Desarrollo y Operación, así como sus unidades administrativas, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberán realizar las modificaciones conducentes en los sellos que utilizan para el adecuado desarrollo de sus funciones.
+
+QUINTO. Todo asunto en trámite, que a la entrada en vigor del presente Decreto, se haya iniciado o se encuentre en proceso, deberá continuar tramitándose de acuerdo con las disposiciones legales y normatividad vigentes al momento de iniciarse por la unidad administrativa a la que le sean conferidas atribuciones para ello, conforme a este Reglamento.
+
+SEXTO. Toda la documentación e información física y electrónica que corresponda a la Coordinación de Administración y Finanzas, deberá ser transferida a la Coordinación de Servicios de Salud o a la Coordinación de Planeación, Evaluación, Desarrollo y Operación según corresponda conforme a sus atribuciones.
+
+SÉPTIMO. En tanto se expidan los manuales administrativos, el Director General está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
