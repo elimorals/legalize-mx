@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-sanidad-animal-vegetal-pesquera-y-acuicola-del-51867"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2006-09-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE SANIDAD ANIMAL, VEGETAL, PESQUERA Y ACUICOLA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE SANIDAD ANIMAL, VEGETAL, PESQUERA Y ACUICOLA DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE SANIDAD ANIMAL, VEGETAL, PESQUERA Y ACUÍCOLA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de septiembre de 2006.
 
@@ -367,7 +367,9 @@ I.- Amonestación.
 
 II.- Apercibimiento.
 
-III.- Multa por el equivalente de 50 a 20,000 días de salario mínimo general vigente en la capital del Estado en el momento de imponer la sanción.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III.- Multa por el equivalente de 50 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
 
 IV.- Cancelación de permiso u otros trámites administrativos.
 
@@ -393,9 +395,11 @@ I.- Causen daños a las propiedades vecinas por el empleo de prácticas nocivas 
 
 II.- Omitan registrarse ante las instancias legales que correspondan o no mantengan actualizado su registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 53.
 
-Se impondrá multa por el equivalente de 50 a 20,000 días de salario mínimo general vigente en la capital del Estado, independiente de la responsabilidad legal en que pudieran incurrir, a quienes:
+Se impondrá multa por el equivalente de 50 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, independiente de la responsabilidad legal en que pudieran incurrir, a quienes:
 
 I.- Trabajen las áreas reservadas a estas actividades productivas, sin observar correctamente las prácticas y técnicas establecidas en materia de sanidad.
 
@@ -482,3 +486,13 @@ PRESIDENTA
 DIP. ROSA DELIA COTAMONTAÑO
 
 SECRETARIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
