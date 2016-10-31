@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2015-12-31"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -141,7 +141,11 @@ La tasa de este Impuesto es:
 
 a) Del 2% sobre los valores establecidos en los incisos a), b) y c) del Artículo anterior.
 
-b) Tratándose de vehículos modelos de más de 10 años anteriores, únicamente se pagará una cuota de dos salarios mínimos vigentes en el Estado.
+> <small>[N. DE E. SE ADVIERTE QUE ESTE INCISO FUE REFORMADO POR ARTÍCULO TRIGÉSIMO DEL DECRETO 2379, PUBLICADO EN EL B.O. 31 DE OCTUBRE DE 2016, SE SUGIERE CONSULTAR LA PÁGINA 50 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: “b) Tratándose de vehículos modelos de más de 10 años anteriores, únicamente se pagará una cuota equivalente a dos veces el valor diario de la Unidad de Medida y Actualización”.]</small>
+
+> <small>(REFORMADO POR ARTÍCULO TRIGÉSIMO SÉPTIMO DEL DECRETO 2379, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Tratándose de vehículos modelos de más de 10 años anteriores, únicamente se pagará una cuota de dos veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 12.
 
@@ -455,7 +459,11 @@ I. Instrumentos y herramientas de trabajo.
 
 II. Las cuotas por concepto de aportaciones de seguridad social efectuadas al Instituto Mexicano del Seguro Social y al Instituto del Fondo Nacional de la Vivienda de los Trabajadores.
 
-III. Los vales de despensa, canjeables por artículos de primera necesidad, en cantidad que no rebase el 40% del salario mínimo general, vigente en el Estado, pagándose por el excedente el impuesto.
+> <small>[N. DE E. SE ADVIERTE QUE ESTA FRACCIÓN FUE REFORMADA POR ARTÍCULO TRIGÉSIMO DEL DECRETO 2379, PUBLICADO EN EL B.O. 31 DE OCTUBRE DE 2016, SE SUGIERE CONSULTAR LA PÁGINA 51 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "III. Los vales de despensa, canjeables por artículos de primera necesidad, en cantidad que no rebase el 40% del valor de la Unidad de Medida y Actualización, pagándose por el excedente el impuesto."]</small>
+
+> <small>(REFORMADA POR ARTÍCULO TRIGÉSIMO SÉPTIMO DEL DECRETO 2379, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Los vales de despensa, canjeables por artículos de primera necesidad, en cantidad que no rebase el 40% del valor diario de la Unidad de Medida y Actualización, pagándose por el excedente el impuesto.
 
 IV. Las aportaciones al Sistema de Ahorro para el Retiro, así como las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por este concepto.
 
@@ -467,11 +475,13 @@ VII. Gastos funerarios.
 
 VIII. Viáticos.
 
-> <small>(REFORMADO, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>[N. DE E. SE ADVIERTE QUE ESTE ARTÍCULO FUE REFORMADO POR ARTÍCULO TRIGÉSIMO DEL DECRETO 2379, PUBLICADO EN EL B.O. 31 DE OCTUBRE DE 2016, SE SUGIERE CONSULTAR LA PÁGINA 51 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "Artículo 36.- Este impuesto se causará, liquidará y pagará a razón del 2.5% sobre el monto total del (sic) los pagos a que se refiere el artículo anterior, efectuados durante el mes calendario anterior a la fecha en que se realice el pago, aún cuando no exceda del correspondiente valor de la Unidad de Medida y Actualización."]</small>
+
+> <small>(REFORMADO POR ARTÍCULO TRIGÉSIMO SÉPTIMO DEL DECRETO 2379, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Este impuesto se causará, liquidará y pagará a razón del 2.5% sobre el monto total del los pagos a que se refiere el artículo anterior, efectuados durante el mes calendario anterior a la fecha en que se realice el pago, aun cuando no exceda del salario mínimo correspondiente a la zona económica.
+Este impuesto se causará, liquidará y pagará a razón del 2.5% sobre el monto total del (sic) los pagos a que se refiere el artículo anterior, efectuados durante el mes calendario anterior a la fecha en que se realice el pago, aún cuando no exceda del valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 37.
 
@@ -1228,3 +1238,11 @@ B.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
