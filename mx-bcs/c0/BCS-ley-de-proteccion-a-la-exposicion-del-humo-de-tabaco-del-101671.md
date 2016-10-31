@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-a-la-exposicion-del-humo-de-tabaco-del-101671
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2014-06-30"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN A LA EXPOSICIÓN DEL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 30 de junio de 2014.
 
@@ -411,19 +411,25 @@ En el caso de reincidencia, se aplicará el doble del monto de la sanción impue
 
 Para la fijación de la multa que deberá hacerse entre el mínimo y máximo establecido, se tomará en cuenta la gravedad de la infracción concreta, las condiciones económicas de la persona física o moral a la que se sancionará la reincidencia y demás circunstancias que sirvan para individualizar la sanción.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-Se sancionará con multa equivalente de diez a cien días de salario mínimo diario general vigente en el Estado, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por la Secretaría.
+Se sancionará con multa equivalente de diez a cien veces el valor diario de la Unidad de Medida y Actualización, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 34.
 
-A los propietarios, poseedores o responsables de los establecimientos mercantiles que no cumplan con las disposiciones de la presente ley, serán sancionados con multa equivalente de mil a cuatro mil días de salario mínimo diario general vigente en el Estado.
+A los propietarios, poseedores o responsables de los establecimientos mercantiles que no cumplan con las disposiciones de la presente ley, serán sancionados con multa equivalente de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización.
 
 En los casos de reincidencia en el periodo de un año, se aplicará hasta el doble de la sanción impuesta en la primera ocasión; en caso de segunda reincidencia, procederá la clausura temporal o definitiva del establecimiento, o la suspensión parcial o total del servicio, para lo cual se dará vista a la autoridad municipal que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 35.
 
-Se sancionará con multa equivalente de mil a cuatro mil días de salario mínimo diario general vigente en el Estado, al titular de la concesión o permiso cuando se trate de vehículos de transporte público de pasajeros, que toleren o permitan la realización de conductas prohibidas por esta ley.
+Se sancionará con multa equivalente de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, al titular de la concesión o permiso cuando se trate de vehículos de transporte público de pasajeros, que toleren o permitan la realización de conductas prohibidas por esta ley.
 
 En los casos de reincidencia en el periodo de un año, se aplicará hasta el doble de la sanción impuesta en la primera ocasión; en caso de segunda reincidencia, se deberá dar vista a la Dirección de Transporte del Estado en la que se solicite la revocación de la concesión o permiso.
 
@@ -500,3 +506,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
