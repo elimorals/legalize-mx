@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2016-07-31"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -95,9 +95,15 @@ Al desarrollo económico concurrirán con responsabilidad social, el sector púb
 
 Bajo criterios de equidad social y productividad se apoyará e impulsará a las empresas de los sectores social y privado de la economía estatal, sujetándolos a las modalidades que dicte el interés público y al uso en beneficio general, de los recursos productivos, cuidando su conservación y el medio ambiente.
 
-La Ley alentará y protegerá la actividad económica que realicen los sectores social y privado, y proveerá las condiciones para que el desenvolvimiento de dichos sectores contribuya al desarrollo económico estatal, promoviendo la competitividad.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 2380 PUBLICADO EN EL B.O. DE 31 DE OCTUBRE DE 2016, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL CONTENIDO DEL SIGUIENTE PÁRRAFO.]</small>
 
-El Estado organizará y operará con eficiencia y eficacia un sistema de planeación democrática del desarrollo estatal que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la entidad.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El Estado organizará y operará con eficiencia y eficacia un sistema de planeación democrática del desarrollo estatal que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la entidad. Asimismo, velará por la estabilidad de las finanzas públicas con el fin de coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El plan Estatal de Desarrollo deberá observar dicho principio.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El Estado organizará y operará con eficiencia y eficacia un sistema de planeación democrática del desarrollo estatal que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la entidad. Asimismo, velará por la estabilidad de las finanzas públicas con el fin de coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El plan Estatal de Desarrollo deberá observar dicho principio.
 
 > <small>(REFORMADO, B.O. 22 DE JUNIO DE 2016)</small>
 
@@ -1127,23 +1133,35 @@ XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación y con 
 
 XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
 
-> <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XXVI.- Autorizar al Titular del Poder Ejecutivo para contratar empréstitos a nombre del Estado y a los Ayuntamientos para contratarlos a nombre de los Municipios, así como a los Organismos Descentralizados Estatales, Municipales o Intermunicipales, a las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y a los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal, siempre que se destinen a inversiones públicas productivas, conforme a las bases que se establezcan en la Ley correspondiente, y por los conceptos y hasta por los montos aprobados.
+XXVI.- Autorizar, por el voto de las dos terceras partes de los miembros presentes de la legislatura, al Titular del Poder Ejecutivo para contratar obligaciones y empréstitos a nombre del Estado y a los Ayuntamientos para contratarlos a nombre de los Municipios, así como a los Organismos Descentralizados Estatales, Municipales o Intermunicipales, a las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y a los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantías o el establecimiento de la fuente de pago, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que se establezcan en la Ley correspondiente, y por los conceptos y hasta por los montos aprobados. El Ejecutivo del Estado y los Ayuntamientos, informarán del ejercicio de tales autorizaciones al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
 
-Autorizar al Gobernador para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de los Organismos Descentralizados Estatales, Municipales o Intermunicipales, de las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y de los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal.
+Autorizar al Gobernador, en los mismos términos del primer párrafo de la presente fracción, para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de los Organismos Descentralizados Estatales, Municipales o Intermunicipales, de las Empresas de Participación Estatal Mayoritaria, Municipal o Intermunicipal; y de los Fideicomisos Públicos, que formen parte de la Administración Pública Paraestatal o Paramunicipal.
 
-> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
-
-Autorizar la emisión de valores ya sea de manera directa o indirecta por el Estado y los Municipios, siempre que los recursos derivados de la misma se destinen a inversiones públicas productivas.
+Autorizar, en los mismos términos del primer párrafo de la presente fracción, la emisión de valores ya sea de manera directa o indirecta por el Estado y los Municipios, siempre que los recursos derivados de la misma se destinen a inversiones públicas productivas.
 
 > <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 XXVI Bis.- Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de Contratos de Servicios de Largo Plazo, que tengan por objeto prestar diversos servicios que la ley prevea, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos del Estado correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos.
 
-> <small>(REFORMADA, B.O. 5 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de N$150,000.00 (Ciento cincuenta mil nuevos pesos 00/100 m.n.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+XXVII.- Autorizar al Gobernador para que ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles propiedad del Estado, cuando su valor exceda de $1'100,000.00 (Un Millón Cien Mil Pesos 00/100 M.N.), previo avalúo catastral cuando se trate de inmuebles y de autoridad administrativa competente tratándose de bienes muebles.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El valor que se establece en el párrafo anterior, se actualizará anualmente el primero de enero de cada año, considerando el periodo comprendido desde el decimotercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Para tal efecto, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+No se requerirá autorización del Congreso del Estado para ejercer actos de dominio cuando se trate de bienes muebles adquiridos con recursos de naturaleza federal o convenidos con el propio Gobierno Federal, cuando se trate de recursos autorizados para ello en el Presupuesto de Egresos del Estado, o bien, cuando el destinatario sea algún ente público estatal o municipal.
+
+El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad.
 
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 
@@ -1157,9 +1175,9 @@ XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a lo
 
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días posteriores a la apertura del segundo periodo ordinario de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
 
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre so (sic) organización interna, recursos, funcionamiento y resoluciones.
+La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, el cual cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley de la materia. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Asimismo, dicho ente fiscalizará las acciones de Estado y Municipios en materia de fondos, recursos locales y deuda pública.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1439,9 +1457,17 @@ XVI Bis.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización d
 
 XVII.- Ejercer el presupuesto de egresos;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XVIII.- Contratar empréstitos con la aprobación del Congreso del Estado destinado a inversiones públicas productivas.
+XVIII.- Contratar obligaciones y empréstitos con la aprobación del Congreso del Estado, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y así como otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a la ley de la materia, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que el Congreso del Estado apruebe.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Sin perjuicio de lo anterior, el Ejecutivo del Estado podrá contratar obligaciones para cubrir necesidades de corto plazo, sin rebasar los limites máximos y condiciones establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El Ejecutivo informará al Congreso del Estado del ejercicio de las facultades referidas en el párrafo anterior al rendir la cuenta pública. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente.
 
 > <small>(REFORMADA, B.O. 20 DE JUNIO DE 2006)</small>
 
@@ -1991,13 +2017,17 @@ II.- Los ingresos que adquiera por concepto de convenios, participaciones legale
 
 107.- La Ley determinará la organización y funcionamiento de las oficinas de Hacienda en el Estado.
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-108.- Anualmente, durante la primera quincena del mes de noviembre, el Gobernador presentará al Congreso del Estado el proyecto de presupuesto.
+108.- La iniciativa de la Ley de Ingresos y el proyecto de Presupuesto de Egresos, se elaborarán conforme a las disposiciones legales de la materia, con base en objetivos, parámetros cuantificables e indicadores y deberán ser congruentes con el Plan Estatal de Desarrollo y los programas derivados del mismo, debiéndose de incluir las partidas necesarias, para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de largo plazo, durante la vigencia de los mismos.
 
-> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-En el proyecto de Presupuesto de Egresos correspondiente se incluirán las partidas necesarias, para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de largo plazo, durante la vigencia de los mismos.
+Los recursos económicos de que disponga el Estado, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezca el Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior.
 
 109.- El año fiscal comprenderá del primero de enero al treinta y uno de diciembre, inclusive.
 
@@ -2289,9 +2319,9 @@ Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio
 
 ### CAPITULO VIII. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-148.- Son facultades y obligaciones del Ayuntamiento:
+148.- Son facultades y obligaciones de los Ayuntamientos:
 
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 
@@ -2415,9 +2445,17 @@ De igual manera, los Ayuntamientos podrán concurrir con el Gobernador del Estad
 
 Para los efectos señalados, las autoridades fiscales Municipales, como integrantes del organismo a que se refiere el párrafo anterior, se reunirán trimestralmente con las autoridades fiscales del Gobierno del Estado.
 
-> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XXVII.- Contratar empréstitos a nombre del Municipio, con la aprobación previa del Congreso del Estado, siempre que se destinen a inversiones públicas productivas, conforme a las bases establecidas en la Ley correspondiente y por los conceptos y hasta por los montos aprobados.
+XXVII.- Contratar obligaciones y empréstitos a nombre del Municipio, con la aprobación previa del Congreso del Estado, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos, así como otorgar garantías respecto al endeudamiento de estos entes. Lo anterior, conforme a la ley de la materia, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que el Congreso del Estado apruebe.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Sin perjuicio de lo anterior, los Ayuntamientos podrán contratar obligaciones para cubrir necesidades de corto plazo, sin rebasar los límites máximos y condiciones establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los Ayuntamientos informarán al Congreso del Estado del ejercicio de las facultades referidas en el párrafo anterior al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
 
 > <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
 
@@ -2549,9 +2587,9 @@ XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria 
 
 ## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
 
-> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-156.- Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del poder Judicial y a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la administración pública estatal o municipal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en los que incurran en el desempeño de sus funciones.
+156.- Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Legislativo del Estado o en la Administración Pública Estatal o Municipal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en los que incurran en el desempeño de sus funciones.
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -3762,3 +3800,15 @@ TERCERO.- El Consejo de la Judicatura iniciará sus funciones el día de su inst
 CUARTO.- El Pleno del Tribunal Superior de Justicia deberá, proponer al Congreso del Estado, dentro del Presupuesto para el ejercicio 2017, el ajuste de las partidas presupuestales que ejercerá el Consejo de la Judicatura, por única ocasión y el Pleno del Tribunal, a efecto que los recursos materiales y financieros sean acordes a las necesidades y objeto de la presente Reforma Constitucional.
 
 QUINTO.- De igual manera el Pleno del Tribunal Superior de Justicia, llevará a cabo los ajustes correspondientes, a fin de que no se vean afectados los derechos laborales ni sindicales, conforme a la Ley, en la transición de la administración interna de la plantilla que integra los Recursos Humanos y materiales del Poder Judicial del Estado, por parte del Consejo de la Judicatura al momento de su inicio de funciones.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2380.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE EXPIDE LA LEY DE PRESUPUESTO Y CONTROL DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR; Y SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Presupuesto y Control del Gasto Público Estatal, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 6 de fecha 20 de febrero de 1984.
+
+TERCERO.- Se abroga la Ley de Deuda Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 48 de fecha 25 de noviembre del 2006.
+
+CUARTO.- Los Poderes del Estado de Baja California Sur, las Dependencias y Entidades del Poder Ejecutivo y los Organismos Autónomos deberán efectuar los ajustes correspondientes en sus Reglamentos Internos o equivalentes.
