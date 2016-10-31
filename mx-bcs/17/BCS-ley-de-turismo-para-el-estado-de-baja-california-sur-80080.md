@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2015-09-01"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -871,7 +871,9 @@ Las infracciones que los prestadores de servicios turísticos cometan a lo dispu
 
 Los infractores se harán acreedores a las siguientes sanciones:
 
-I.- Multa de 25 a 100 días de salario mínimo vigente en el Estado, por el incumplimiento a lo dispuesto en el Artículo 40 fracciones I, y IV; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I.- Multa de 25 a 100 veces el valor diario de la Unidad de Medida y Actualización, por el incumplimiento a lo dispuesto en el Artículo 40 fracciones I, II y IV; y
 
 II.- Suspensión de 15 días naturales por el incumplimiento de las obligaciones establecidas en el Artículo 40 fracciones VIII y IX.
 
@@ -923,7 +925,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFREDO PORRAS DOMÍNGUEZ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 31 DE JULIO DE 2012.
 
@@ -955,14 +957,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 B.O. 1 DE SEPTIEMBRE DE 2015.
 
-DECRETO 2289, POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 3, LAS FRACCIONES XXV Y XXVI EL ARTÍCULO 5, LA FRACCIÓN IV Y V DEL ARTÍCULO 6, LA FRACCIÓN I Y XV DEL ARTÍCULO 7, LA FRACCIÓN VII Y VIII DEL ARTÍCULO 8, EL ARTÍCULO 21 , EL ARTÍCULO 28, LA DENOMINACIÓN DEL TÍTULO CUARTO Y LA DENOMINACIÓN DEL CAPÍTULO II DEL MISMO TÍTULO CUARTO; Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 3, SE ADICIONA LA FRACCIÓN I BIS Y LA FRACCIÓN XXVII AL ARTÍCULO 5, LA FRACCIÓN VI AL ARTÍCULO 6, LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 7, LA FRACCIÓN IX AL ARTÍCULO 8, EL ARTÍCULO 8 BIS, UN CAPÍTULO QUINTO AL TÍTULO TERCERO DENOMINADO "ATLAS TURÍSTICO DE BAJA CALIFORNIA SUR" CONTENIENDO EL ARTÍCULO 20 TER, LOS ARTÍCULOS 21 BIS Y 21 TER A LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+## [N. DE E. TRANSITORIO DEL "DECRETO 2289.- POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 3, LAS FRACCIONES XXV Y XXVI EL ARTÍCULO 5, LA FRACCIÓN IV Y V DEL ARTÍCULO 6, LA FRACCIÓN I Y XV DEL ARTÍCULO 7, LA FRACCIÓN VII Y VIII DEL ARTÍCULO 8, EL ARTÍCULO 21 , EL ARTÍCULO 28, LA DENOMINACIÓN DEL TÍTULO CUARTO Y LA DENOMINACIÓN DEL CAPÍTULO II DEL MISMO TÍTULO CUARTO; Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 3, SE ADICIONA LA FRACCIÓN I BIS Y LA FRACCIÓN XXVII AL ARTÍCULO 5, LA FRACCIÓN VI AL ARTÍCULO 6, LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 7, LA FRACCIÓN IX AL ARTÍCULO 8, EL ARTÍCULO 8 BIS, UN CAPÍTULO QUINTO AL TÍTULO TERCERO DENOMINADO "ATLAS TURÍSTICO DE BAJA CALIFORNIA SUR" CONTENIENDO EL ARTÍCULO 20 TER, LOS ARTÍCULOS 21 BIS Y 21 TER A LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 1 DE SEPTIEMBRE DE 2015.
 
-DECRETO 2290, POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 7 Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 8 Y EL ARTÍCULO 22; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 20 BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 28, TODOS DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2290.- POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 7 Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 8 Y EL ARTÍCULO 22; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 20 BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 28, TODOS DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Segundo.- En el Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal 2017, deberán incluirse las partidas presupuestales necesaria para los pueblos mágicos, a efecto de dar cumplimiento a lo ordenado por este Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
