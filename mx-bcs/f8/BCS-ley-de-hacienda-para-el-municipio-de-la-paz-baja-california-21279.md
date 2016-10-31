@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2015-07-10"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -113,9 +113,11 @@ IV. El Tesorero Municipal
 
 V. Las demás Autoridades Municipales a quienes las Leyes confieran atribuciones en materia fiscal.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Para efectos de esta Ley y demás disposiciones legales vigentes en el Municipio de La Paz, cuando se apliquen tarifas, sanciones u otros conceptos, tasados en salarios mínimos, se aplicará el salario mínimo diario general vigente en el Estado de Baja California Sur en el momento de la causación o bien en el momento en que la omisión sea descubierta por la autoridad correspondiente.
+Para efectos de esta Ley y demás disposiciones legales vigentes en el Municipio de La Paz, cuando se apliquen tarifas, sanciones u otros conceptos, se tasarán utilizando como referente el valor diario de la Unidad de Medida y Actualización en el momento de la causación o bien en el momento en que la omisión sea descubierta por la autoridad correspondiente.
 
 ## TÍTULO SEGUNDO. IMPUESTOS
 
@@ -203,7 +205,9 @@ I. 2.00 al millar anual si están explotados por su dueño.
 
 II. 2.5 al millar, si no están explotados por su dueño.
 
-En ningún caso el Impuesto Predial anual sobre la propiedad rústica será inferior a tres salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En ningún caso el Impuesto Predial anual sobre la propiedad rústica será inferior a tres veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -223,7 +227,9 @@ IV. A razón de 5.5 al millar anual sobre el valor catastral de los predios no e
 
 Se considerará lote baldío aquél que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno, siempre y cuando no esté habitado por el propietario, ni se destine a uso distinto.
 
-En ningún caso el impuesto predial anual sobre la propiedad urbana deberá ser inferior a 3 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En ningún caso el impuesto predial anual sobre la propiedad urbana deberá ser inferior a 3 veces el valor diario de la Unidad de Medida y Actualización
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -235,7 +241,9 @@ El Impuesto Predial se cubrirá en las oficinas recaudadoras correspondientes:
 
 I. Sobre la propiedad urbana, rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados en los primeros días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
 
-Si el impuesto anual equivale a 3 salarios mínimos en el caso de la propiedad rústica y a 3 salarios mínimos en el caso de la propiedad urbana, deberá cubrirse en una sola exhibición dentro del mes de Enero del año que corresponda.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Si el impuesto anual equivale a 3 veces el valor diario de la Unidad de Medida y Actualización en el caso de la propiedad rústica y en el caso de la propiedad urbana, deberá cubrirse en una sola exhibición dentro del mes de enero del año que corresponda.
 
 II. El Ayuntamiento podrá decidir que otra instancia distinta a la municipal recaude lo relativo al impuesto predial, en parcialidades de forma mensual y/o bimestral, en las cuales se pagará lo correspondiente a la doceava y/o sexta parte del monto anual que resulte de la tasa fijada en esta Ley, de acuerdo al valor comercial; dichos pagos se realizarán dentro de los primeros 10 días de cada mes.
 
@@ -271,15 +279,23 @@ III. Por un año, las fincas inutilizadas por incendio, derrumbe u otra causa se
 
 Están obligados al pago del Impuesto Sobre Adquisición de Bienes Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicadas en el territorio del Municipio de La Paz, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará a la tasa del 2% del valor del inmueble.
 
-Cuando el bien que se adquiera sea terreno y construcción destinada a casa habitación, el impuesto se calculará aplicando la tasa del 2% del valor del inmueble, después de reducirlo en 5 veces el salario mínimo general de la zona elevado al año.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cuando el bien que se adquiera sea terreno y construcción destinada a casa habitación, el impuesto se calculará aplicando la tasa del 2% del valor del inmueble, después de reducirlo en 5 veces el valor diario de la Unidad de Medida y Actualización elevado al año.
 
 En el caso de adquisición de casa - habitación de interés social, quedarán exentas del pago del impuesto, siempre y cuando el adquirente demuestre no tener él y/o su cónyuge otra propiedad.
 
-Se considera vivienda de interés social aquella que su costo de adquisición sea menor a 7,500 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% sobre el valor de avalúo, después de reducirlo en 5 veces el salario mínimo general vigente de la zona, elevado al año.
+Se considera vivienda de interés social aquella que su costo de adquisición sea menor a 7,500 veces el valor diario de la Unidad de Medida y Actualización.
 
-Al cederse los derechos hereditarios o enajenarse bienes de la sucesión antes de la adjudicación de los bienes, el impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa del 1% sobre el valor del avalúo, después de reducirlo en 5 veces el salario mínimo general vigente de la zona, elevado al año, independientemente del que se cause por el cesionario, por la sucesión o por el adquiriente.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% sobre el valor de avalúo, después de reducirlo en 5 veces el valor diario de la Unidad de Medida y Actualización, elevado al año.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Al cederse los derechos hereditarios o enajenarse bienes de la sucesión antes de la adjudicación de los bienes, el impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa del 1% sobre el valor del avalúo, después de reducirlo en 5 veces el valor diario de la Unidad de Medida y Actualización, elevado al año, independientemente del que se cause por el cesionario, por la sucesión o por el adquiriente.
 
 ###### Artículo 26.
 
@@ -581,13 +597,21 @@ TARIFA:
 
 a) Zona pavimentada, asfaltada, Adoquinada o empedrada:
 
-1. Solares baldíos no cercados, por metro Lineal o fracción. 0.01 del salario mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. Solares sin edificar, por metro Cuadrado. 0.005 del salario mínimo
+1. Solares baldíos no cercados, por metro lineal o fracción. 0.01 del valor diario de la Unidad de Medida y Actualización.
 
-3. Construcciones ruinosas no cercadas, por metro cuadrado. 0.01 del salario mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-4. Construcciones ruinosas, por metro Cuadrado de construcción. 0.01 del salario mínimo
+2. Solares sin edificar, por metro Cuadrado. 0.005 del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+3. Construcciones ruinosas no cercadas, por metro cuadrado. 0.01 del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+4. Construcciones ruinosas, por metro cuadrado de construcción. 0.01 del valor diario de la Unidad de Medida y Actualización.
 
 b) Zonas con servicio de energía eléctrica, agua y drenaje, se cobrará el 50% de las tarifas establecidas en el inciso a) del presente artículo.
 
@@ -703,9 +727,11 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por la Tesorería General Municipal, en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad sin perjuicio de las aclaraciones posteriores a que haya lugar.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 65.
 
-Causarán un salario mínimo los derechos por toda clase de constancias o certificaciones no detalladas en la presente Ley y expedidas por los servidores públicos municipales, así como las copias de documentos existentes en los archivos de las dependencias y organismos municipales, a solicitud de los interesados.
+Causarán el equivalente a una vez el valor diario de la Unidad de Medida y Actualización los derechos por toda clase de constancias o certificaciones no detalladas en la presente Ley y expedidas por los servidores públicos municipales, así como las copias de documentos existentes en los archivos de las dependencias y organismos municipales, a solicitud de los interesados.
 
 ###### Artículo 66.
 
@@ -927,17 +953,25 @@ Los servicios prestados por las oficinas catastrales, causarán un derecho que s
 
 TARIFA:
 
-I. Por cada copia de planos incluida la certificación 4 salarios mínimos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Avalúos periciales por cada predio incluida la construcción sobre su valor. Sin que pueda ser inferior a dos salarios mínimos 0.8 al millar.
+I. Por cada copia de planos incluida la certificación 4 veces el valor diario de la Unidad de Medida y Actualización
 
-III. Certificados, por cada hoja o fracción 0.3 del salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Otorgamiento de claves catastrales, por cada una 1.5 salarios mínimos
+II. Avalúos periciales por cada predio incluida la construcción sobre su valor. Sin que pueda ser inferior a dos veces el valor diario de la Unidad de Medida y Actualización 0.8 al millar.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. Por búsqueda de datos para proporcionar información económica 1.5 salario mínimo.
+III. Certificados, por cada hoja o fracción 0.3 del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Otorgamiento de claves catastrales, por cada una 1.5 veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Por búsqueda de datos para proporcionar información económica. 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -947,93 +981,151 @@ VI. Por deslindes o levantamientos prediales que se realicen a solicitud de part
 
 a) EN LA ZONA URBANA:
 
-hasta 250 m2. 6 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 251 m2 hasta 500 m2. 8 salarios mínimos.
+Hasta 250 M2. 6 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 501m2 hasta 1,000m2. 15 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 1,001 m2 hasta 2,000m2. 40 salarios mínimos.
+De 251 M2 hasta 500 M2. 8 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 2,001m2 hasta 5,000m2. 90 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 5,000m2 hasta 10,000m2(una hectárea) 90 a 115.5 salarios mínimos.
+De 501 M2 hasta 1,000 M2. 15 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 1,001 M2 hasta 2,000 M2. 40 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 2,001 M2 hasta 5,000 M2. 90 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 5,000 M2 hasta 10,000 M2 (una hectárea) 90 a 115.5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Predios rústicos y accidentado (sic), de más de 4 puntos:
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Hasta 01 Hectárea. 80 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Mayor a 01 hectárea hasta 05 hectáreas. 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-b) PREDIOS RÚSTICOS Y ACCIDENTADOS:
-
-de más de 4 puntos:
-
-hasta 01 Hectárea. 80 salarios mínimos.
-
-mayor a 01 hectárea hasta 05 hectáreas. 100 salarios mínimos.
-
 mayores de 5 hectárea. $7.00 por m.l. de perímetro del predio
 
-En deslindes fuera del área urbana de la Ciudad de La Paz se cobrarán de manera adicional los gastos de traslado y viáticos del personal de campo asignado a razón de 0.25 salarios mínimos por kilómetro de distancia medido a partir de las oficinas de la dirección de catastro.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-VII. Por expedición de coordenadas UTM de 5 salarios mínimos en adelante
+En deslindes fuera del área urbana de la Ciudad de La Paz se cobrarán de manera adicional los gastos de traslado y viáticos del personal de campo asignado a razón de 0.25 veces el valor diario de la Unidad de Medida y Actualización por kilómetro de distancia medido a partir de las oficinas de la Dirección de Catastro.
 
-VIII. Por elaboración de planos de 10 a 150 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VII. Por expedición de coordenadas UTM de 5 veces el valor diario de la Unidad de Medida y Actualización en adelante
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VIII. Por elaboración de planos de 10 a 150 veces el valor diario de la Unidad de Medida y Actualización
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 IX. Impresión de planos:
 
-a) Blanco y negro. de 2 a 5 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) A color. de 3 a 10 salarios mínimos.
+A) Blanco y negro. de 2 a 5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+B) A color. de 3 a 10 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 X. Recepción de documentos en forma Extemporánea:
 
-hasta 15 días naturales. 1 salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 16 a 30 días naturales. 2 salarios mínimos.
+Hasta 15 días naturales. 1 vez el valor diario de la Unidad de Medida y Actualización.
 
-de 31 a 45 días naturales. 3 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 46 a 60 días naturales. 4 salarios mínimos.
+De 16 a 30 días naturales. 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 61 a 90 días naturales. 5 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 91 días a 6 meses. 10 salarios mínimos.
+De 31 a 45 días naturales. 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 6 meses un día a 1 año. 20 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 1 año un día a 2 años. 30 salarios mínimos.
+De 46 a 60 días naturales. 4 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 2 años más un día en adelante. 50 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 61 a 90 días naturales. 5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 91 días a 6 meses. 10 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 6 meses un día a 1 año. 20 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 1 año un día a 2 años. 30 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+De 2 años más un día en adelante. 50 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 XI. Por registro de perito valuador o tipógrafo.
 
-a) Registro inicial. 60 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Revalidación de registro anual. 50 salarios mínimos
+A) Registro inicial. 60 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+B) Revalidación de registro anual. 50 veces el valor diario de la Unidad de Medida y Actualización
 
 Por acceso a los archivos y por registro de deslindes o levantamientos prediales que realicen peritos topógrafos acreditados en la Dirección de Catastro:
 
-a) En la Zona Urbana:
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-hasta 450M2. 2 salarios mínimos
+A) En la Zona Urbana:
 
-de 451m2. hasta 900m2. 3 salarios mínimos
+Hasta 450 M2. 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 901m2. hasta 10,000m2 (01 hectárea). 15 salarios mínimos
+De 451 M2. Hasta 900 M2. 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 10,001m2, en adelante. 15 a 19.15 salarios mínimos.
+De 901 M2. Hasta 10,000 M2. 15 veces el valor diario de la Unidad de Medida y Actualización.
 
-b) Predios Rústicos y accidentados de más de 4 puntos:
+(01 hectárea) De 10,001 M2, en adelante. 15 a 19.15 veces el valor diario de la Unidad de Medida y Actualización.
 
-01 hectárea. 19.25 salarios mínimos
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-hasta 10 hectáreas. 38.5 salarios mínimos
+B) Predios Rústicos y accidentados de más de 4 puntos: 19.25 veces el valor diario de la Unidad de Medida y Actualización.
 
-de 11 hasta 50 hectáreas. 57.75 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+01 hectárea. 38.5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Hasta 10 hectáreas. 57.75 veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+de 11 hasta 50 hectáreas. (sic)
 
 Mayores a 50 hectáreas. Se caracteriza la diferencia con 50 hectáreas de acuerdo al grupo del inciso B) que pertenezca.
 
@@ -1041,45 +1133,69 @@ Mayores a 50 hectáreas. Se caracteriza la diferencia con 50 hectáreas de acuer
 
 XII. Por venta de productos digitales:
 
-a) Planimetría de la ciudad de la paz incluyendo nombres de calles y colonias a nivel manzanero. 100 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Altimetría de la Ciudad de La Paz. 50 salarios mínimos.
+a) Planimetría de la ciudad de La Paz, incluyendo nombres de calles y colonias a nivel manzanero. 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-c) Planimetría de localidades urbanas diferentes a la ciudad de La Paz. 45 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d) Altimetría de localidades urbanas diferentes a la ciudad de La Paz. 35 salarios mínimos.
+b) Altimetría de la Ciudad de La Paz. 50 veces el valor diario de la Unidad de Medida y Actualización.
 
-e) Imagen digital blanco y negro orto-rectificada. 40 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-f) Impresión láser de imagen digital blanco y negro orto-rectificada. 5 salarios mínimos por página tamaño carta.
+c) Planimetría de localidades urbanas diferentes a la Ciudad de La Paz. 45 veces el valor diario de la Unidad de Medida y Actualización.
 
-g) Imagen de fotografía aérea digital blanco y negro. 7 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-h) Impresión láser de imagen fotográfica aérea blanco y negro. 2.5 salarios mínimos por pagina tamaño carta.
+d) Altimetría de localidades urbanas diferentes a la Ciudad de La Paz. 35 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XIII. Llenado de manifestación catastral. 01 salario mínimo.
+e) Imagen digital blanco y negro orto-rectificada. 40 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XIV. Otorgamiento de cédula catastral. 4 salarios mínimos
+f) Impresión láser de imagen digital blanco y negro orto-rectificada. 5 veces el valor diario de la Unidad de Medida y Actualización por página tamaño carta.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-XV. Emisión de certificado de no propiedad. 1.5 salarios mínimos.
+g) Imagen de fotografía aérea digital blanco y negro. 7 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+h) Impresión láser de imagen fotográfica aérea blanco y negro. 2.5 veces el valor diario de la Unidad de Medida y Actualización por pagina tamaño carta.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIII. Llenado de manifestación catastral. 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XIV. Otorgamiento de cédula catastral. 4 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+XV. Emisión de certificado de no propiedad. 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 XVI. Emisión de certificados de medidas y colindancias:
 
-Predios regulares hasta 4 puntos. 1.5 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Predios irregulares de 5 a 10 puntos. 2 salarios mínimos.
+Predios regulares hasta 4 puntos. 1.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-Predios de más de 11 puntos. 3 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Certificado especial. 3 salarios mínimos.
+Predios irregulares de 5 a 10 puntos. 2 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Predios de más de 11 puntos. 3 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Certificado especial. 3 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO IV. LICENCIAS PARA CONSTRUCCIÓN
 
@@ -1097,7 +1213,9 @@ Para obtener la licencia a la que se refiere el artículo anterior, se deberá p
 
 La expedición o refrendo de las licencias causarán derechos 7 al millar sobre el valor de la construcción, según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a los que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
 
-La expedición de licencia de autorización por uso del suelo, causará un derecho de 1 a 20 salarios mínimos, con base en la descripción del articulo 75 de esta misma Ley.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+La expedición de licencia de autorización por uso del suelo, causará un derecho de 1 a 20 veces el valor diario de la Unidad de Medida y Actualización, con base en la descripción del articulo 75 de esta misma Ley.
 
 La expedición de licencia de urbanización para los desarrollos urbanos, tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominales, industriales o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
@@ -1109,7 +1227,95 @@ Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo
 
 La Dependencia Municipal correspondiente podrá autorizar el registro de director responsable de obra, la fusión, subdivisión, lotificación o relotificación de predios, así como el uso del suelo para desarrollos urbanos y uso del suelo urbano para giros comerciales, dar visto bueno de seguridad y operación de obra previo pago de acuerdo a la siguiente:
 
-(VÉASE ARCHIVO ANEXO)
+TARIFA:
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Concepto Veces el valor diario de la
+
+Unidad de Medida y
+
+Actualización
+
+a) Registro anual de director responsable de obra. 20
+
+b) Autorización de fusión de predios por unidad. 2
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+c) Autorización de subdivisión, lotificación y 3
+
+relotificación de predios por unidad.
+
+d) Inspección de terminación de obras. 3
+
+e) Inspección de avance de obra. 3
+
+f) Autorización del uso del suelo comercial 20
+
+en la zona centro.
+
+g) Autorización del uso del suelo comercial en las 15
+
+principales avenidas.
+
+h) Autorización del uso del suelo comercial 10
+
+en fraccionamiento y conjuntos habitacionales.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+i) Supervisión técnica 10
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+j) Llenado de formato de inicio y terminación de obra 1
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+k) Cancelación de subdivisión, lotificación y relotificación 3
+
+de predios por unidad
+
+La ejecución de las obras sin la licencia respectiva, se sancionará conforme a la siguiente
+
+TARIFA:
+
+I. Locales comerciales:
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Veces el valor diario de la Unidad de Medida y
+
+Actualización
+
+Area Cimentación Muro Losa Acabados
+
+Menos de 30 m2 5 8 16 32
+
+De 31 a 100 m2 12 25 50 100
+
+De 101 a 200 m2 17 38 75 150
+
+De 201 m2 en adelante 50 100 150 300
+
+II. Casa habitación:
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Veces el valor diario de la Unidad de Medida y
+
+Actualización
+
+Area Cimentación Muro Losa Acabados
+
+Menos de 30 m2 3 6 12 24
+
+De 31 a 100 m2 7 12 25 50
+
+De 101 a 200 m2 9 17 38 75
+
+De 201 m2 en adelante 25 50 75 150
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1133,75 +1339,85 @@ a). Tarifas para aparatos medidores:
 
 SERVICIO DOMÉSTICO
 
-Consumo mensual en metros cúbicos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Hasta 17 M3 (cuota mínima) 1 día salario mínimo diario.
+Consumo mensual en Veces el valor diario de la Unidad de Medida y
 
-Hasta 24 M3 5 días de salario mínimo.
+metros cúbicos. Actualización
 
-Hasta 35 M3 3 días salario mínimo.
+Hasta 17 M3 (cuota mínima) 1
 
-Hasta 50 M3 4.3 días de salario mínimo.
+Hasta 24 M3 1.5
 
-Hasta 80 M3 10 días de salario mínimo
+Hasta 35 M3 3
 
-Hasta 100 M3 17 días de salario mínimo
+Hasta 50 M3 4.3
 
-Hasta 125 M3 26 días de salario mínimo
+Hasta 80 M3 10
 
-Hasta 150 M3 52 días de salario mínimo
+Hasta 100 M3 17
 
-Hasta 250 M3 94.7 días salario mínimo
+Hasta 125 M3 26
 
-Hasta 500 M3 231.8 días de salario mínimo
+Hasta 150 M3 52
 
-Mas de 500 M3 0.5 días de salario mínimo Por metro cubico
+Hasta 250 M3 94.7
+
+Hasta 500 M3 231.8
+
+Mas de 500 M3 0.5, por metro cubico
 
 SERVICIO COMERCIAL
 
-Consumo mensual en metros cúbicos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Hasta 17 M3 (cuota mínima) 2.3 días salario diario.
+Consumo mensual en Veces el valor diario de la Unidad de Medida y
 
-Hasta 24 M3 4 días de salario mínimo.
+metros cúbicos. Actualización
 
-Hasta 50 M3 8.8 días de salario mínimo.
+Hasta 17 M3 (cuota mínima) 2.3
 
-Hasta 80 M3 18.2 días de salario mínimo.
+Hasta 24 M3 4
 
-Hasta 100 M3 26.7 días de salario mínimo.
+Hasta 50 M3 8.8
 
-Hasta 125 M3 38.4 días de salario mínimo
+Hasta 80 M3 18.2
 
-Hasta 150 M3 59 días de salario mínimo
+Hasta 100 M3 26.7
 
-Hasta 250 M3 113 días de salario mínimo
+Hasta 125 M3 38.4
 
-Hasta 500 M3 269.5 días de salario mínimo
+Hasta 150 M3 59
 
-Mas de 500 M3 0.6 días de salario mínimo por M3
+Hasta 250 M3 113
+
+Hasta 500 M3 269.5
+
+Mas de 500 M3 0.6, por metro cúbico
 
 SERVICIO INDUSTRIAL Y TURÍSTICO
 
-Consumo mensual en metros cúbicos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+Consumo mensual en Veces el valor diario de la Unidad de Medida y
 
-Hasta 24 M3 (cuota mínima) 5.0 días de salario mínimo.
+metros cúbicos. Actualización
 
-Hasta 50 M3 (cuota mínima) 10.5 días de salario mínimo
+Hasta 24 M3 (cuota mínima) 5.0
 
-Hasta 100 M3 24.6 días de salario mínimo.
+Hasta 50 M3 (cuota mínima) 10.5
 
-Hasta 125 M3 35.5 días de salario mínimo.
+Hasta 100 M3 24.6
 
-Hasta 150 M3 63.4 días de salario mínimo.
+Hasta 125 M3 35.5
 
-Hasta 250 M3 118 días de salario mínimo.
+Hasta 150 M3 63.4
 
-Hasta 500 M3 289.3 días de salario mínimo.
+Hasta 250 M3 118
 
-Mas de 500 M3. 0.7 días de salario mínimo por cada M3
+Hasta 500 M3 289.3
+
+Mas de 500 M3. 0.7, por cada metro cúbico
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1437,13 +1653,21 @@ Los derechos por legalización de firmas, expedición de constancias, certificad
 
 TARIFA:
 
-I. Legalización de firmas, expedición de certificados, copias certificadas y certificaciones 1 salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, por cada hoja 1 salario mínimo.
+I. Legalización de firmas, expedición de certificados, copias certificadas y certificaciones 1 vez el valor diario de la Unidad de Medida y Actualización.
 
-III. Expedición de copias certificadas de constancias existentes en los archivos del Municipio por cada hoja 1 salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Búsqueda de documentos del archivo municipal, cuando no se precisen los datos y fechas del acto 2 salarios mínimos.
+II. Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, por cada hoja 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Expedición de copias certificadas de constancias existentes en los archivos del Municipio por cada hoja 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Búsqueda de documentos del archivo municipal, cuando no se precisen los datos y fechas del acto 2 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO IX. SERVICIOS FUNERARIOS Y PANTEONES
 
@@ -1453,29 +1677,43 @@ IV. Búsqueda de documentos del archivo municipal, cuando no se precisen los dat
 
 Por el otorgamiento de derechos a perpetuidad del terreno que se ocupe en los panteones o cementerios municipales de las cabeceras municipales o delegaciones, causarán las cuotas siguientes:
 
-I. Fosa de 2 metros a perpetuidad 3 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Fosa de 1.20 metros a perpetuidad 2 salarios mínimos
+I. Fosa de 2 metros a perpetuidad, 3 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Fosa de 1.20 metros a perpetuidad, 2 veces el valor diario de la Unidad de Medida y Actualización.
 
 III. En los servicios adicionales se cobrará de acuerdo a la siguiente tarifa:
 
-a) Construcción de una gaveta 20 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Construcción de dos gavetas 40 salarios mínimos
+a) Construcción de una gaveta, 20 veces el valor diario de la Unidad de Medida y Actualización.
 
-c) Construcción de tres gavetas 60 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d) Construcción de cuatro gavetas 80 salarios mínimos
+b) Construcción de dos gavetas, 40 veces el valor diario de la Unidad de Medida y Actualización.
 
-e) Construcción de gaveta para infante 10 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+c) Construcción de tres gavetas, 60 veces el valor diario de la Unidad de Medida y Actualización.
 
-f) Sellamiento de fosas y reposición. 7 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+d) Construcción de cuatro gavetas, 80 veces el valor diario de la Unidad de Medida y Actualización.
 
-h) (sic) Venta de losas para sellamiento. 1 salario mínimo c/u
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+e) Construcción de gaveta para infante, 10 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+f) Sellamiento de fosas y reposición, 7 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+g) Venta de losas para sellamiento, 1 vez el valor diario de la Unidad de Medida y Actualización c/u.
 
 IV. Fosa común exenta
 
@@ -1511,19 +1749,19 @@ TARIFAS:
 
 I. A quienes tengan contratado un seguro funerario con este organismo pagarán:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-a. Por suscripción de contrato 2.6 salarios mínimos
+a. Por suscripción de contrato, 2.6 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b. Por cuota mensual para vigencia del contrato 0.67 del salario mínimo
+b. Por cuota mensual para vigencia del contrato, 0.67 del valor diario de la Unidad de Medida y Actualización.
 
 El pago por los derechos a que se refieren los dos incisos anteriores comprenden:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-1. Un ataúd metálico de costo no mayor de 49.8 salarios mínimos
+1. Un ataúd metálico de costo no mayor de 49.8 veces el valor diario de la Unidad de Medida y Actualización.
 
 2. Preparación de cadáver
 
@@ -1539,129 +1777,181 @@ Los derechos derivados del contrato de seguro surtirán efectos una vez transcur
 
 II. A quienes soliciten los servicios funerarios y no cuenten con contrato de seguro funerario, se les aplicará la siguiente tarifa:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-a) Fosa de 2 metros a perpetuidad 46 salarios mínimos
+a) Fosa de 2 metros a perpetuidad, 46 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Fosa de 1.20 metros a perpetuidad 21.3 salarios mínimos
+b) Fosa de 1.20 metros a perpetuidad, 21.3 veces el valor diario de la Unidad de Medida y Actualización.
 
 c) En los servicios adicionales se cobrará de acuerdo a la siguiente tarifa:
 
-1. Construcción de una gaveta 20 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. Construcción de dos gavetas 40 salarios mínimos
+1. Construcción de una gaveta, 20 veces el valor diario de la Unidad de Medida y Actualización.
 
-3. Construcción de tres gavetas 60 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-4. Construcción de cuatro gavetas 80 salarios mínimos
+2. Construcción de dos gavetas, 40 veces el valor diario de la Unidad de Medida y Actualización.
 
-5. Construcción de gaveta para infante 10 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+3. Construcción de tres gavetas, 60 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+4. Construcción de cuatro gavetas, 80 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+5. Construcción de gaveta para infante, 10 veces el valor diario de la Unidad de Medida y Actualización.
 
 d) Fosa común exenta
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-e) Servicios funerarios con ataúd metálico con costo no mayor de 49.8 salarios mínimos, servicio de preparación de cuerpo, sala de velación, carroza fúnebre local y fosa de una gaveta ademada: 140 salarios mínimos
+e) Servicios funerarios con ataúd metálico, con costo no mayor de 49.8 veces el valor diario de la Unidad de Medida y Actualización (servicio de: preparación de cuerpo, sala de velación, carroza fúnebre local y fosa de una gaveta ademada), 140 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-f) Servicios funerarios sin ataúd: con servicio de: Preparación de cuerpo, sala de velación, Carroza fúnebre local y fosa de una gaveta Ademada: 114 salarios mínimos
+f) Servicios funerarios sin ataúd, con servicio de: preparación de cuerpo, sala de velación, carroza fúnebre local y fosa de 1 gaveta ademada, 114 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 III. Servicios Adicionales
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-a) Servicio funerario sin ataúd, Traslado Fuera del Estado 100 salarios mínimos
+a) Servicio funerario sin ataúd, traslado fuera del Estado, 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Traslados terrestres en carroza fúnebre 0.31 del salario mínimo por kilómetro
+b) Traslados terrestres en carroza fúnebre, 0.31 del valor diario de la Unidad de Medida y Actualización por kilómetro
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 c) Servicios de cremación:
 
-Completa para adulto 100 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Por miembro amputado 47 salarios mínimos
+Completa para adulto, 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-Completa para infante 47 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+Por miembro amputado, 47 veces el valor diario de la Unidad de Medida y Actualización.
 
-Cremación de restos áridos 76.5 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d) Alquiler de nichos por diez años 60 salarios mínimos
+Completa para infante, 47 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cremación de restos áridos, 76.5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+d) Alquiler de nichos por diez años, 60 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 e) Venta de ataúdes:
 
-Venta de ataúd metálico. 49.8 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Ataúd medida especial para infante de 0.60 metros. 18.5 salarios mínimos
+Ataúd metálico, 49.8 veces el valor diario de la Unidad de Medida y Actualización.
 
-Ataúd medida especial para infante de 1.20 metros. 21 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Ataúd medida especial para infante de 1.40 metros. 23 salarios mínimos
+Ataúd medida especial para infante de 0.60 metros, 18.5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Ataúd medida especial para infante de 1.20 metros, 21 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Ataúd medida especial para infante de 1.40 metros, 23 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 f) Preparación de cuerpos:
 
-Cuerpo de Adulto. 25 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Cuerpo de Infante. 15 salarios mínimos
+Cuerpo de Adulto, 25 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-g) Renta de carroza local. 15 salarios mínimos
+Cuerpo de Infante, 15 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+g) Renta de carroza local, 15 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 h) Renta de salas de velación:
 
-Sala de velación principal por 24 horas. 50 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Sala de velación por 24 horas. 36 salarios mínimos
+Sala de velación principal por 24 horas, 50 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Sala de velación por 24 horas, 36 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 i) Venta de urnas.
 
-1.- Urna infantil. 8.5 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2.- Urna mármol 12.5 salarios mínimos
+1.- Urna infantil, 8.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-3.- Urna cubo mármol 17 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-4.- Urna alternativa 17 salarios mínimos
+2.- Urna mármol, 12.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-5.- Urna de mármol alternativa 21 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-6.- Urna jarquin de mármol 21 salarios mínimos
+3.- Urna cubo mármol, 17 veces el valor diario de la Unidad de Medida y Actualización.
 
-7.- Urna maple 25.5 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-8.- Urna Metálica 34 salarios mínimos
+4.- Urna alternativa, 17 veces el valor diario de la Unidad de Medida y Actualización.
 
-9.- Urna de columnas 42 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+5.- Urna de mármol alternativa, 21 veces el valor diario de la Unidad de Medida y Actualización.
 
-j) Renta de ataúd metálico 25 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+6.- Urna jarquin de mármol, 21 veces el valor diario de la Unidad de Medida y Actualización.
 
-k) Renta de nichos por 10 años 60 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+7.- Urna maple, 25.5 veces el valor diario de la Unidad de Medida y Actualización.
 
-l) Ataúd especial 68 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+8.- Urna Metálica, 34 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+9.- Urna de columnas, 42 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+j) Renta de ataúd metálico, 25 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+k) Renta de nichos por 10 años, 60 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+l) Ataúd especial, 68 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO X. SERVICIOS DE RASTROS
 
@@ -1671,17 +1961,29 @@ Los derechos relativos al uso de los servicios de Rastro Municipal, que incluyen
 
 TARIFA:
 
-I. Ganado vacuno y equino, por cada uno 3 salarios mínimos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Ganado porcino, por cada uno 2 salarios mínimos.
+I. Ganado vacuno y equino, por cada uno 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-III. Ganado caprino y lanar, por cada uno 1.5 salarios mínimos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Aves y otros 0.08 del salario mínimo.
+II. Ganado porcino, por cada uno 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-V. Por uso de frigorífico por canal, diario 0.2 del salario mínimo a partir del segundo día.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Cuando no exista rastro, se pagará por cada animal 0.5 del salario mínimo.
+III. Ganado caprino y lanar, por cada uno 1.5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Aves y otros 0.08 del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Por uso de frigorífico por canal, diario 0.2 del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cuando no exista rastro, se pagará por cada animal 0.5 del valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 98.
 
@@ -1693,9 +1995,13 @@ Por cada animal sacrificado clandestinamente se pagará una sanción equivalente
 
 Por la guía de traslado de animales vivos para su sacrificio en el rastro municipal se cobrará:
 
-I. Traslado hasta 10 cabezas 0.26 salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Más de 10 cabezas 1 salario mínimo por traslado
+I. Traslado hasta 10 cabezas 0.26 del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Más de 10 cabezas 1 vez el valor diario de la Unidad de Medida y Actualización por traslado.
 
 ### CAPÍTULO XI. ALINEAMIENTO DE PREDIOS, NÚMEROS OFICIALES Y MEDICIÓN DE TERRENOS
 
@@ -1707,15 +2013,19 @@ El alineamiento de predios sobre vía pública y la expedición de número ofici
 
 TARIFA:
 
-Hasta 20 metros lineales. 3 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+I. Hasta 20 metros lineales, 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-Por alineamientos que se realicen a solicitud de particulares, fuera de la ciudad de La Paz, se pagará una cuota adicional de 0.25 del salario mínimo por kilómetro cuadrado.
+Por alineamiento (sic) que se realicen a solicitud de particulares, fuera de la ciudad de La Paz, se pagará una cuota adicional de 0.25 del valor diario de la Unidad de Medida y Actualización por kilómetro recorrido.
 
-Por metro lineal adicional. 10% del salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Por la expedición del número oficial. 1 salario mínimo.
+II. Por metro lineal adicional, 10% del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Por la expedición del número oficial, 1 vez el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1727,9 +2037,11 @@ El derecho por alineamiento de predios sobre la vía pública será causado ante
 
 Los alineamientos de predios tendrán vigencia por seis meses, contados a partir de la fecha de su expedición.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 103.
 
-Por la medición que haga el Municipio de La Paz de terrenos propios, para efectos de regularización, se pagarán tres salarios mínimos por lote o fracción.
+Por la medición que haga el Municipio de La Paz de terrenos propios, para efectos de regularización, se pagarán tres veces el valor diario de la Unidad de Medida y Actualización por lote o fracción.
 
 ### CAPÍTULO XII. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD Y DE MORADA CONYUGAL
 
@@ -1741,11 +2053,17 @@ TARIFA:
 
 I. De vecindad:
 
-a) A extranjeros para que regularicen su situación migratoria, naturalización y recuperación de nacionalidad y para otros fines análogos 15 salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b). A quienes soliciten certificado para cualquier fin distinto de los mencionados en el inciso anterior 1 salario mínimo.
+a) A extranjeros para que regularicen su situación migratoria, naturalización y recuperación de nacionalidad y para otros fines análogos 15 veces el valor diario de la Unidad de Medida y Actualización
 
-II. De morada conyugal 1 salario mínimo.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b). A quienes soliciten certificado para cualquier fin distinto de los mencionados en el inciso anterior 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. De morada conyugal 1 vez el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO XIII. SERVICIOS DE SEGURIDAD Y TRÁNSITO
 
@@ -1859,13 +2177,17 @@ Por concepto de inscripción en cursos de educación vial, por cada participante
 
 El objeto de este derecho consiste en la prestación del servicio extraordinario de seguridad pública diurna y nocturna que proporcione el Municipio de La Paz a través de la Dirección General de Seguridad y Tránsito Municipal.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 114.
 
-Son sujetos de este Derecho, las personas físicas o morales a quienes se les preste el servicio extraordinario de seguridad pública, ya sea a solicitud de éstos o cuando la autoridad municipal lo juzgue conveniente o necesario; debiendo cubrir por agente una cuota diaria equivalente de 3 a 6 veces el salario mínimo, en forma mensual, debiendo renovarse el contrato semestralmente.
+Son sujetos de este Derecho, las personas físicas o morales a quienes se les preste el servicio extraordinario de seguridad pública, ya sea a solicitud de éstos o cuando la autoridad municipal lo juzgue conveniente o necesario; debiendo cubrir por agente una cuota diaria equivalente de 3 a 6 veces el valor diario de la Unidad de Medida y Actualización, en forma mensual, debiendo renovarse el contrato semestralmente.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 115.
 
-El servicio extraordinario de seguridad pública para eventos especiales causará 0.8 salario mínimo por hora y por elemento.
+El servicio extraordinario de seguridad pública para eventos especiales causará 0.8 del valor diario de la Unidad de Medida y Actualización por hora y por elemento.
 
 ### CAPÍTULO XIV. DE ASEO, LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE BASURA
 
@@ -1877,71 +2199,79 @@ Es objeto de este derecho el servicio que por recolección de basura presta el M
 
 TARIFA
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-a) Pequeño comercio que no genere alimentos como misceláneas. De 1 a 4 salarios mínimos al mes cuando el servicio sea de 2 veces a la semana. De 6 a 8 salarios mínimos al mes cuando el servicio sea diario
+a) Pequeño comercio que no genere alimentos como misceláneas. De 1 a 4 veces el valor diario de la Unidad de Medida y Actualización al mes, cuando el servicio sea de 2 veces a la semana.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+De 6 a 8 veces el valor diario de la Unidad de Medida y Actualización al mes cuando el servicio sea diario.
 
-b) Negocios que generen alimentos como pequeños restaurantes, fondas, puestos fijos y semifijos de alimentos. De 1 a 6 salarios mínimos al mes cuando el servicio sea de 2 veces a la semana. De 6 a 8 salarios mínimos al mes cuando el servicio sea diario.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+b) Negocios que generen alimentos como pequeños restaurantes, fondas, puestos fijos y semifijos de alimentos. De 1 a 6 veces el valor diario de la Unidad de Medida y Actualización al mes cuando el servicio sea de 2 veces a la semana.
 
-c) Restaurantes, almacenes comerciales, industriales, bancos, hospitales, sanatorios, laboratorios, casas de huéspedes y similares, sin incluir los desechos tóxicos Biológicos. De 16 a 25 salarios mínimos al mes cuando el servicio sea de 2 veces a la semana. De 26 a 40 salarios mínimos al mes cuando el servicio sea diario.
+De 6 a 8 veces el valor diario de la Unidad de Medida y Actualización al mes cuando el servicio sea diario.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d) Moteles y Hoteles:
+c) Restaurantes, almacenes comerciales, industriales, bancos, hospitales, sanatorios, laboratorios, casas de huéspedes y similares, sin incluir los desechos tóxicos biológicos. De 16 a 25 veces el valor diario de la Unidad de Medida y Actualización al mes cuando el servicio sea de 2 veces a la semana.
 
-Cuando la frecuencia sea de 2 veces a la semana:
+De 26 a 40 veces el valor diario de la Unidad de Medida y Actualización al mes cuando el servicio sea diario.
 
-1. Hasta 25 habitaciones 15 salarios mínimos al mes
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. Hasta 50 habitaciones 25 salarios mínimos al mes
+d) Moteles y Hoteles: Cuando la frecuencia sea de 2 veces a la semana:
 
-3. Hasta 99 habitaciones 40 salarios mínimos al mes
+1. Hasta 25 habitaciones 15 veces el valor diario de la Unidad de Medida y Actualización al mes.
 
-4. De 100 o más habitaciones 50 salarios mínimos al mes
+2. Hasta 50 habitaciones 25 veces el valor diario de la Unidad de Medida y Actualización al mes
 
-Cuando la frecuencia sea diaria se cobrará de 60 a 100 salarios mínimos mensuales
+3. Hasta 99 habitaciones 40 veces el valor diario de la Unidad de Medida y Actualización al mes
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+4. De 100 o más habitaciones 50 veces el valor diario de la Unidad de Medida y Actualización al mes
 
-e) Maquiladoras 50 salarios mínimos mensuales cuando sea 2 veces por semana. De 60 a 100 salarios mínimos mensuales cuando sea diaria.
+Cuando la frecuencia sea diaria se cobrará de 60 a 100 veces el valor diario de la Unidad de Medida y Actualización mensuales.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-f) Salones de baile o fiestas:
+e) Maquiladoras 50 veces el valor diario de la Unidad de Medida y Actualización mensuales cuando sea 2 veces por semana.
 
-1. Hasta de 200 personas 11 salarios mínimos por servicio.
+De 60 a 100 veces el valor diario de la Unidad de Medida y Actualización mensuales cuando sea diaria.
 
-2. Hasta de 300 personas 20 salarios mínimos por servicio.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-3. Mas de 500 personas 30 salarios mínimos por servicio.
+f) Salones de baile o de fiestas:
+
+1.- Hasta de 200 personas 11 veces el valor diario de la Unidad de Medida y Actualización por servicio.
+
+2.- Hasta de 300 personas 20 veces el valor diario de la Unidad de Medida y Actualización por servicio.
+
+3.- Mas de 500 personas 30 veces el valor diario de la Unidad de Medida y Actualización por servicio.
 
 g) Aquellos propietarios de giros comerciales que tiren sus propios residuos en el relleno sanitario propiedad del Municipio. 20 centavos por kilogramo
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-h) Empresas particulares que se dediquen a realizar el servicio de recolección de basura a comercios, establecimientos, colonias, e.t.c., con fines lucrativos y tiren los residuos en el relleno sanitario propiedad del Municipio de La Paz. de 15 a 100 salarios mínimos mensuales
+h) Empresas particulares que se dediquen a realizar el servicio de recolección de basura a comercios, establecimientos, colonias, etc. con fines lucrativos y tiren los residuos en el relleno sanitario propiedad del Municipio de La Paz. De 15 a 100 veces el valor diario de la Unidad de Medida y Actualización mensuales.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-i) Servicio especial de recolección de basura con limpieza a instalaciones, comercios, embarcaciones, etcétera. De 15 a 50 salarios mínimos por servicio
+i) Servicio especial de recolección de basura con limpieza a instalaciones, comercios, embarcaciones, etc. De 15 a 50 veces el valor diario de la Unidad de Medida y Actualización por servicio.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-j) Personas que se encuentren infragantes, tirando basura, escombro y demás, fuera del relleno sanitario, como arroyos, calles, caminos vecinales. 100 salarios mínimos
+j) Personas que se encuentren en flagrancia, tirando basura, escombro y demás, fuera del relleno sanitario, como arroyos, calles, caminos vecinales. 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-k) Establecimientos comerciales, industriales y de servicios, que saquen la basura los días que no les toca el servicio o después que la unidad recolectora realiza su recorrido. 1 a 50 salarios mínimos
+k) Establecimientos comerciales, industriales y de servicios, que saquen la basura los días que no les toca el servicio o después que la unidad recolectora realiza su recorrido. De 1 a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO XV. POR SERVICIOS DE INSPECCIÓN MUNICIPAL
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 117.
 
-Los derechos por el servicio de inspección municipal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realicen en el Municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o persona moral que lo solicite y/o cuando la autoridad municipal lo dicte conveniente. Los derechos se cobrarán de 1 a 3 salarios mínimos.
+Los derechos por el servicio de inspección municipal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realicen en el Municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o persona moral que lo solicite y/o cuando la autoridad municipal lo dicte conveniente. Los derechos se cobrarán de 1 a 3 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO XVI. BIENES DE USO COMÚN Y OCUPACIÓN DE LA VÍA PÚBLICA
 
@@ -1951,37 +2281,57 @@ Por la ocupación de la vía pública, el Ayuntamiento se reservará la facultad
 
 TARIFA:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-I. Automóviles de sitio o taxis por metro Lineal anualmente. 3 salarios mínimos dentro del primer cuadro de la ciudad. 2 salarios mínimos fuera del primer cuadro de la ciudad.
+I. Automóviles de sitio o taxis por metro lineal, anualmente, 3 veces el valor diario de la Unidad de Medida y Actualización dentro del primer cuadro de la ciudad y 2 veces el valor diario de la Unidad de Medida y Actualización fuera del primer cuadro de la ciudad;
 
-II. Estacionamientos para particulares que vivan junto al estacionamiento solicitado, por metro lineal, anualmente. 4 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Estacionamientos exclusivos para uso comercial, por metro lineal anualmente. 8 salarios mínimos en el primer cuadro de la ciudad de La Paz y 4 salarios mínimos en otros lugares.
+II. Estacionamientos para particulares que vivan junto al estacionamiento solicitado, por metro lineal, anualmente, 4 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente. 2 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. Vehículos automotores con amplificador de sonido diariamente. 1 salario mínimo
+III. Estacionamientos exclusivos para uso comercial, por metro lineal, anualmente, 8 veces el valor diario de la Unidad de Medida y Actualización el (sic) primer cuadro de la ciudad de La Paz y 4 veces el valor diario de la Unidad de Medida y Actualización en otros lugares;
 
-VI. Ubicación de aparatos que funcionen con Monedas, fichas, tarjetas u otras similares 0.25 del salario mínimo diario
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente, 2 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Vehículos automotores con amplificador de sonido diariamente. 1 vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Ubicación de aparatos que funcionen con monedas, fichas, tarjetas u otras similares 0.25 del valor diario de la Unidad de Medida y Actualización;
 
 VII. Instalación de puestos:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-a) Semifijos por metro cuadrado Hasta 4 m2, 0.26 del salario mínimo diario. De 4.01 m2 en adelante, 0.75 del salario mínimo diario.
+a) Semifijos por metro cuadrado, hasta 4 metros cuadrados 0.26 del valor diario de la Unidad de Medida y Actualización, y de 4.01metros (sic) cuadrados en adelante, 0.75 del valor diario de la Unidad de Medida y Actualización;
 
-b) Ambulantes 0.25 del salario mínimo diario
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Ambulantes 0.25 del valor diario de la Unidad de Medida y Actualización.
 
 VIII. Cualquier otro uso o concesión de la vía pública otorgado por la Autoridad Municipal de carácter temporal, provisional o permanente.
 
-a) En el primer cuadro de la ciudad por día y por metro lineal 1 salario mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) En principales calles y avenidas, por día 0.25 del salario mínimo
+a) En el primer cuadro de la ciudad, por día y por metro lineal, 1 vez el valor diario de la Unidad de Medida y Actualización;
 
-c) Resto de la ciudad de La Paz y delegaciones municipales por día 0.15 del salario mínimo
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IX. Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no destinados para tal fin, deberá recabar autorización Municipal cubriendo una cuota diaria de 2 salarios mínimos
+b) En principales calles y avenidas, por día 0.25 del valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c) Resto de la ciudad de La Paz y delegaciones municipales por día 0.15 del valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IX. Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no destinados para tal fin, deberá recabar autorización Municipal cubriendo una cuota diaria de 2 veces el valor diario de la Unidad de Medida y Actualización.
 
 Los pagos anuales se harán por adelantado en los meses de Enero y Febrero de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente.
 
@@ -1997,9 +2347,11 @@ Las licencias se otorgarán por cada giro y no por domicilio o propietario, prev
 
 Los establecimientos que realicen diversas actividades concretas deberán obtener licencia por cada una de ellas.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 121.
 
-Los giros que no estén inscritos en el padrón correspondiente, y los que no hubieran obtenido licencia para su funcionamiento u operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales, y se les impondrá una sanción de 3 a 50 salarios mínimos, conforme al procedimiento que se establece en el título único de las Infracciones y Sanciones de la presente Ley.
+Los giros que no estén inscritos en el padrón correspondiente, y los que no hubieran obtenido licencia para su funcionamiento u operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales, y se les impondrá una sanción de 3 a 50 veces el valor diario de la Unidad de Medida y Actualización, conforme al procedimiento que se establece en el título único de las Infracciones y Sanciones de la presente Ley.
 
 ###### Artículo 122.
 
@@ -2019,9 +2371,11 @@ Las licencias, permisos y registros a que se refiere este capítulo, deberán ob
 
 El periodo de refrendo de licencias, tanto en giros como en anuncios, se iniciará el primero de enero y concluirá el día último de marzo, pudiendo prorrogarse con carácter general cuando así lo determine, mediante acuerdo escrito, la Tesorería General Municipal no excediendo dicha prórroga del día último del mes de abril.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 126.
 
-En los casos de cambio de denominación o razón social, domicilio o actividad, sucesión de derechos y obligaciones o clausura de actividades, los contribuyentes están obligados a devolver las licencias a la Tesorería General Municipal, simultáneamente al aviso correspondiente. El incumplimiento de esta disposición será sancionado con multa de 3 a 50 salarios mínimos.
+En los casos de cambio de denominación o razón social, domicilio o actividad, sucesión de derechos y obligaciones o clausura de actividades, los contribuyentes están obligados a devolver las licencias a la Tesorería General Municipal, simultáneamente al aviso correspondiente. El incumplimiento de esta disposición será sancionado con multa de 3 a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -2033,13 +2387,17 @@ Todo establecimiento comercial con venta y/o consumo de bebidas alcohólicas que
 
 Las empresas de cualquier índole que por el desarrollo de sus actividades sea necesario designarles inspectores o interventores municipales, o ambos a la vez, bien sea para la vigilancia o aplicación del reglamento o disposiciones gubernativas o para vigilar la recaudación del impuesto, otorgarán las facilidades necesarias para la realización de tales actos.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 129.
 
-Los causantes están obligados a colocar en lugar visible del establecimiento la licencia municipal para funcionamiento del giro y mostrar a los inspectores y demás autoridades debidamente acreditados, la documentación que les soliciten para el desempeño de sus funciones, así como proporcionar toda información que sea necesaria para la revisión o investigación correspondiente. La violación a estas disposiciones será sancionada con multa de 10 hasta 50 salarios mínimos. Lo anterior sin perjuicio de las responsabilidades de tipo penal en que pueda incurrir.
+Los causantes están obligados a colocar en lugar visible del establecimiento la licencia municipal para funcionamiento del giro y mostrar a los inspectores y demás autoridades debidamente acreditados, la documentación que les soliciten para el desempeño de sus funciones, así como proporcionar toda información que sea necesaria para la revisión o investigación correspondiente. La violación a estas disposiciones será sancionada con multa de 10 hasta 50 veces el valor diario de la Unidad de Medida y Actualización. Lo anterior sin perjuicio de las responsabilidades de tipo penal en que pueda incurrir.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 130.
 
-La falta oportuna de las declaraciones así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravable, y, en general, el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad de tipo penal en que se incurre, con multa de 150 salarios mínimos.
+La falta oportuna de las declaraciones así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravable, y, en general, el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad de tipo penal en que se incurre, con multa de 150 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 131.
 
@@ -2055,13 +2413,21 @@ TARIFA
 
 I. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2003)
 
-II. Venta de bebidas alcohólicas en bailes o espectáculos, ferias y otros eventos con fines de lucro, por cada evento De 25 a 500 salarios mínimos.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. a) Utilización de aparatos de sonido de locales comerciales y similares que emitan o funcionen en la vía publica con fines publicitarios y otros 2 salarios mínimos diarios
+II. Venta de bebidas alcohólicas en bailes o espectáculos, ferias y otros eventos con fines de lucro, por cada evento De 25 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
-b) Aparatos de sonido instalados en ferias, juegos mecánicos, circos, espectáculos en campo abierto y similares, diariamente por cada uno De 1 hasta 5 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Actividades de prestación de servicios de manera semifija 1 salario mínimo diario
+III. Actividades consistentes en:
+
+a) Utilización de aparatos de sonido de locales comerciales y similares que emitan o funcionen en la vía pública con fines publicitarios y otros, 2 veces el valor diario de la Unidad de Medida y Actualización
+
+b) Aparatos de sonido instalados en ferias, juegos mecánicos, circos, espectáculos en campo abierto y similares, diariamente por cada uno, De 1 hasta 5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Actividades de prestación de servicios de manera semifija 1 vez el valor diario de la Unidad de Medida y Actualización;
 
 V. Cuando los contribuyentes eventuales o ambulantes a que se refiere la fracción anterior, empleen vehículos, pagarán además de la cuota establecida, las siguientes tasas:
 
@@ -2091,7 +2457,9 @@ III. La base de este derecho es el tipo de giro, licencia, autorización o permi
 
 Por la recepción, análisis y revisión de permisos nuevos, cambio de giro, nombre o razón social, sucesión de derechos y obligaciones, así como la emisión de permisos y certificados que por dichos conceptos y similares extienda el Municipio para la operación de establecimientos con venta almacenaje, distribución o consumo de bebidas alcohólicas, estarán sujetos a la siguiente tarifa:
 
-a) Recepción, análisis y revisión de solicitudes de permisos nuevos, cambio de giro, cambio de nombre o razón social, de establecimientos para operar la venta almacenaje, distribución y consumo de bebidas alcohólicas: 10 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+a) Recepción, análisis y revisión de solicitudes de permisos nuevos, cambio de giro, cambio de nombre o razón social, de establecimientos para operar la venta almacenaje, distribución y consumo de bebidas alcohólicas: 10 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 136.
 
@@ -2099,55 +2467,73 @@ Son sujetos de este derecho las personas físicas o morales que se dediquen a la
 
 I. Por la expedición de licencias para el funcionamiento de establecimientos que almacenen, distribuyan, vendan y/o presten servicios que incluyan el consumo de bebidas alcohólicas, deberán causar derechos dentro de los rangos que establecen las tarifas que a continuación se mencionan y que deberán precisarse de acuerdo a lo que establezca el Ayuntamiento en su tabla tarifaria:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-a) Distribuidores con venta de bebidas alcohólicas 5,224 hasta 6,531 salarios mínimos.
+a) Distribuidores con venta de bebidas alcohólicas, 5,224 hasta 6,531 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 b) Centros nocturnos:
 
-1. En zona turística 2,700 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. Fuera del área turística 2,000 salarios mínimos
+1. En zona turística, 2,700 veces el valor diario de la Unidad de Medida y Actualización;
 
-3. Centros nocturnos de esparcimiento controlados por el Sector Salud, de 3,750 a 5,250 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+2. Fuera del área turística, 2,000 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+3. Centros nocturnos de esparcimiento controlados por el Sector Salud, de 3,750 a 5,250 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 c) Cantinas, bares, cervecerías, café cantante, peñas culturales:
 
-1. En zona turística, 1,500 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. Fuera de la zona turística, 1,000 salarios mínimos
+1. En zona turística, 1,500 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d) Tiendas departamentales 3,000 salarios mínimos
+2. Fuera de la zona turística, 1,000 salarios mínimos.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-e) Licorerías, Depósitos, y tienda de alimentos (ultramarinos) de 1,050 salarios mínimos.
+d) Tiendas departamentales, 3,000 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+e) Licorerías, Depósitos, y tienda de alimentos (ultramarinos) de 1,050 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 f) Restaurant bar, hoteles y moteles:
 
-1. en zona turística 1,500 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. fuera de la zona turística, 1,200 salarios mínimos
+1.- En zona turística, 1,500 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-g) Restaurantes con venta de cerveza y licor solo con el consumo de alimentos
+2.- Fuera de la zona turística, 1,200 veces el valor diario de la Unidad de Medida y Actualización.
 
-1. en zona turística 750 salarios mínimos
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-2. fuera de la zona turística, 500 salarios mínimos
+g) Restaurantes con venta de cerveza y licor, solo con el consumo de alimentos:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-h) Centros recreativos, clubes privados con membresía, asociaciones civiles y clubes deportivos de 150 a 500 salarios mínimos.
+1.- En zona turística, 750 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+2.- Fuera de la zona turística, 500 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+h) Centros recreativos, clubes privados con membresía, asociaciones civiles y clubes deportivos de 150 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
 II. La tabla tarifaria del inciso g) de la fracción anterior podrá disminuir tomando en cuenta la importancia demográfica, económica o turística del lugar donde se pretende establecer la licencia, de igual forma, a su capital social o a su número de empleados.
 
@@ -2155,37 +2541,47 @@ II. La tabla tarifaria del inciso g) de la fracción anterior podrá disminuir t
 
 III. El Ayuntamiento estará en facultad de otorgar permisos de los giros que a continuación se indican:
 
-a) Venta o consumo de bebidas alcohólicas de moderación de hasta 12º GL o vinos generosos al menudeo, en cenadurías, loncherías, cocinas económicas, coctelerías y negocios similares, por cada evento. De 4.5 a 21 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Servibares o sistemas similares instalados en hoteles, moteles, suites, departamentos amueblados demás establecimientos similares, por cada uno 1.5 salario mínimo anual
+a) Venta o consumo de bebidas alcohólicas de moderación de hasta 12° GL o vinos generosos al menudeo, en cenadurías, loncherías, cocinas económicas, coctelerías y negocios similares, por cada evento, de 4.5 a 21 veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Producción o elaboración, destilación, ampliación, mezcla o transformación de bebidas alcohólicas (con venta al mayoreo y menudeo.) 75 salarios mínimos anuales
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-d) Giros donde se utilicen vinos y licores para preparar bebidas a bases de café, jugos, frutas, etc. 75 salarios mínimos anuales
+b) Servibares o sistemas similares instalados en hoteles, moteles, suites, departamentos amueblados (sic) demás establecimientos similares, por cada uno 1.5 veces el valor diario de la Unidad de Medida y Actualización anual;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c) Producción o elaboración, destilación, ampliación, mezcla o transformación de bebidas alcohólicas (con venta al mayoreo y menudeo.) 75 veces el valor diario de la Unidad de Medida y Actualización anuales;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+d) Giros donde se utilicen vinos y licores para preparar bebidas a bases (sic) de café, jugos, frutas, etc., 75 veces el valor diario de la Unidad de Medida y Actualización anuales;
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 e) Ferias, eventos deportivos y diversiones análogas de carácter transitorio de acuerdo a los siguientes conceptos y tarifas:
 
-I. Kermés. 05 salarios mínimos.
+1.- Kermés, 05 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Degustación y eventos con bebidas de cortesía. 10 salarios mínimos
+2.- Degustación y eventos con bebidas de cortesía, 10 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Exhibiciones, arrancones, y carreras de automóviles. 40 salarios mínimos.
+3.- Exhibiciones, arrancones, y carreras de automóviles, 40 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Lucha libre. 40 salarios mínimos.
+4.- Lucha libre, 40 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Funciones de box profesional. 50 salarios mínimos.
+5.- Funciones de Box profesional, 50 veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Charreadas y rodeos. 30 salarios mínimos.
+6.- Charreadas y rodeos, 30 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Corridas de toros. 30 salarios mínimos
+7.- Corridas de toros, 30 veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. Baile popular. 40 salarios mínimos.
+8.- Baile Popular, 40 veces el valor diario de la Unidad de Medida y Actualización;
 
-IX. Conciertos musicales masivos. 80 salarios mínimos.
+9.- Conciertos musicales masivos, 80 veces el valor diario de la Unidad de Medida y Actualización;
 
-X. Carreras de caballos. 40 salarios mínimos.
+10.- Carreras de caballos, 40 veces el valor diario de la Unidad de Medida y Actualización;
 
-XI. Peleas de gallos. 30 salarios mínimos
+11.- Peleas de Gallos, 30 veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando cualquiera de las actividades señaladas en las fracciones que anteceden se celebren en la zona rural se cobrará solamente el 50% de las tarifas respectivas.
 
@@ -2199,9 +2595,11 @@ Para efecto de la revalidación anual para operar locales destinados al almacena
 
 Para efectos de cambio de actividad o giro comercial, razón social y nombre comercial, y aquellos por motivo de sucesión de derechos, se cubrirá a razón del 10% sobre los montos establecidos para la expedición de licencias.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 139.
 
-Para efectos de la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, se causarán derechos de 1 a 6 salarios mínimos diarios por hora para lo cual deberán especificarse en la tabla tarifaria que determine la autoridad municipal.
+Para efectos de la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, se causarán derechos de 1 a 6 veces el valor diario de la Unidad de Medida y Actualización por hora para lo cual deberán especificarse en la tabla tarifaria que determine la autoridad municipal.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -2237,13 +2635,17 @@ Serán responsables solidarios los propietarios de los inmuebles, predios o finc
 
 También serán responsables solidarios las personas físicas o morales que fijen anuncios o lleven a cabo la publicidad.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 147.
 
-La base del pago de estos derechos será 1.6% dentro del primer cuadro de la ciudad y en el resto 1.2% diario del salario mínimo general vigente en el Estado de Baja California Sur por metro cuadrado.
+La base del pago de estos derechos será 1.6% dentro del primer cuadro de la ciudad y en el resto 1.2% del valor diario de la Unidad de Medida y Actualización por metro cuadrado.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 148.
 
-Los anuncios semifijos o eventuales pagarán este derecho al equivalente a un salario mínimo diario por metro cuadrado.
+Los anuncios semifijos o eventuales pagarán este derecho al equivalente a una vez el valor diario de la Unidad de Medida y Actualización por metro cuadrado.
 
 ###### Artículo 149.
 
@@ -2269,29 +2671,25 @@ Artículo 150 bis. Todos los propietarios o explotadores de giros o actividades 
 
 Los ingresos que por servicios en materia ambiental obtenga el Municipio, serán conforme a la siguiente:
 
-I. Dictamen Técnico de ecología. 5 días de salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Autorización de derribo de árbol. 3 días de salario mínimo
+I. Dictamen Técnico de ecología, 5 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Resolución de Dictamen 3 días de salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-técnico de ecología para
+II. Autorización de derribo de árbol, 3 veces el valor diario de la Unidad de Medida y Actualización;
 
-micro generadores de
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-residuos peligrosos.
+III. Resolución de Dictamen técnico de ecología para micro generadores de residuos peligrosos, 3 veces el valor diario de la Unidad de Medida y Actualización; y
 
-IV. Reportes Técnicos Ambientales. 3 días de salario mínimo
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. Autorización de sonido en giros 3 días de salario mínimo
+IV. Reportes Técnicos Ambientales, 3 veces el valor diario de la Unidad de Medida y Actualización.
 
-comerciales, en los horarios y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-con el volumen que
-
-determine la autoridad
-
-municipal.
+V. Autorización de sonido en giros comerciales, en los horarios y con el volumen que determine la autoridad municipal, 3 veces el valor diario de la Unidad de Medida y Actualización.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
@@ -2339,11 +2737,11 @@ Los bienes de uso común o destinados al servicio del Municipio, no podrán ser 
 
 ### CAPITULO III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 155.
 
-Los propietarios de los vehículos de todo tipo que sean almacenados en los terrenos o corralones de depósito del Municipio, pagarán la cantidad equivalente al 0.25 de un salario mínimo, por cada día de almacenaje, a partir del onceavo día de su ingreso, siempre y cuando el vehículo esté a disposición del propietario.
+Los propietarios de los vehículos de todo tipo que sean almacenados en los terrenos o corralones de depósito del Municipio, pagarán la cantidad equivalente al 0.25 del valor diario de la Unidad de Medida y Actualización, por cada día de almacenaje, a partir del onceavo día de su ingreso, siempre y cuando el vehículo esté a disposición del propietario.
 
 ### CAPÍTULO IV. VENTA DE BIENES MOSTRENCOS
 
@@ -2357,9 +2755,13 @@ Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrenco
 
 Todas las personas con capacidad legal tienen derecho a solicitar en compra, sin perjuicio de terceros, un terreno de propiedad Municipal, susceptible de ser transmitido; si la enajenación es procedente, el valor unitario se aplicará conforme al Avalúo Pericial que en cada caso se practique.
 
-Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a cinco salarios mínimos.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la Escritura o Título de Propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 salarios mínimos por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
+Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la Escritura o Título de Propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 veces el valor diario de la Unidad de Medida y Actualización por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
 
 ### CAPÍTULO VI. VENTA DE PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
@@ -2395,11 +2797,17 @@ Por la ocupación de locales, almacenes y/o el uso de cuartos fríos en los merc
 
 TARIFA:
 
-I. Accesorios, locales, expendios y puestos, según ubicación y superficie, diariamente por m2 0.02 del salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Servicio de frigoríficos, diariamente por m2 0.1 salario mínimo.
+I.- Accesorios, locales, expendios y puestos, según ubicación y superficie, diariamente por metro cuadrado, 0.02 del valor diario de la Unidad de Medida y Actualización;
 
-III. Servicio de almacenamiento, por m2 diariamente 0.02 salario mínimo.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Servicio de frigoríficos, diariamente por metro cuadrado, 0.1 del valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III.- Servicio de almacenamiento, por metro cuadrado diariamente, 0.02 del valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 164.
 
@@ -2417,9 +2825,11 @@ Por la expedición de los formatos oficiales para todos los cobros de la Haciend
 
 ### CAPITULO IX. ESTACIONAMIENTO MUNICIPAL
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 167.
 
-Por la recepción, guarda y devolución de vehículos de propulsión automotriz en el estacionamiento público propiedad del Municipio, se causará un 20% del salario mínimo general por hora a los usuarios de este servicio.
+Por la recepción, guarda y devolución de vehículos de propulsión automotriz en el estacionamiento público propiedad del Municipio, se causará un 20% del valor diario de la Unidad de Medida y Actualización por hora a los usuarios de este servicio.
 
 ### CAPÍTULO X. PRODUCTOS DIVERSOS
 
@@ -2427,9 +2837,13 @@ Por la recepción, guarda y devolución de vehículos de propulsión automotriz 
 
 Quedan comprendidos dentro de este capítulo los productos por la venta de planos de los centros de población del Municipio, el servicio de fotocopiado de documentos a particulares, y todas aquellas que realice el Ayuntamiento en sus funciones de derecho privado de acuerdo a las siguientes tarifas:
 
-a) Venta de planos de los centros de población municipal 2 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-b) Servicio de fotocopiado 0.03 del salario mínimo
+a) Venta de planos de los centros de población municipal, 2 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Servicio de fotocopiado 0.03 del valor diario de la Unidad de Medida y Actualización.
 
 ## TÍTULO QUINTO. APROVECHAMIENTOS
 
@@ -2810,3 +3224,11 @@ Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días 
 B.O. 10 DE JULIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
