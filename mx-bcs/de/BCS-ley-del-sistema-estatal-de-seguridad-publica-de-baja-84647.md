@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2016-10-14"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2016 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 31 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO # 2375 PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
