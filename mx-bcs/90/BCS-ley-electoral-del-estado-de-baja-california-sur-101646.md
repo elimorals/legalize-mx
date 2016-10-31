@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-101646"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2014-06-28"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el sábado 28 de junio de 2014.
 
@@ -1897,11 +1897,17 @@ No se considerarán dentro de los topes de campaña los gastos que realicen los 
 
 El Consejo General, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
 
-I. Para la elección de Gobernador del Estado, a más tardar el día último de octubre del año anterior al de la elección, el tope máximo de gastos de campaña será equivalente a lo que resulte de multiplicar el número total de ciudadanos inscritos en el padrón electoral en la entidad a la fecha de corte de julio del año previo al de la elección, por el treinta y cinco por ciento del salario mínimo diario vigente en la región;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Para la elección de diputados, a más tardar el día último de diciembre del año anterior de la elección, el tope máximo de gastos de campaña para la elección de diputados por el principio de mayoría relativa será a lo que resulte de multiplicar el número total de ciudadanos inscritos en el padrón electoral del distrito correspondiente a la fecha de corte de julio del año previo al de la elección, por el treinta y cinco por ciento del salario mínimo diario vigente en la región; y
+I. Para la elección de Gobernador del Estado, a más tardar el día último de octubre del año anterior al de la elección, el tope máximo de gastos de campaña será equivalente a lo que resulte de multiplicar el número total de ciudadanos inscritos en el padrón electoral en la entidad a la fecha de corte de julio del año previo al de la elección, por el treinta y cinco por ciento del valor diario de la Unidad de Medida y Actualización;
 
-III. Para la elección de integrantes de Ayuntamientos del Estado, a más tardar el día último de diciembre del año anterior de la elección, el tope máximo de gastos de campaña para la elección, será a lo que resulte de multiplicar el número total de ciudadanos inscritos en el padrón electoral del municipio correspondiente a la fecha de corte de julio del año previo al de la elección, por el treinta y cinco por ciento del salario mínimo diario vigente en la región.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Para la elección de diputados, a más tardar el día último de diciembre del año anterior de la elección, el tope máximo de gastos de campaña para la elección de diputados por el principio de mayoría relativa será a lo que resulte de multiplicar el número total de ciudadanos inscritos en el padrón electoral del distrito correspondiente a la fecha de corte de julio del año previo al de la elección, por el treinta y cinco por ciento del valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Para la elección de integrantes de Ayuntamientos del Estado, a más tardar el día último de diciembre del año anterior de la elección, el tope máximo de gastos de campaña para la elección, será a lo que resulte de multiplicar el número total de ciudadanos inscritos en el padrón electoral del municipio correspondiente a la fecha de corte de julio del año previo al de la elección, por el treinta y cinco por ciento del valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 114.
 
@@ -3197,7 +3203,9 @@ El financiamiento al que tendrán derecho los partidos políticos y sus modalida
 
 I.- Para el sostenimiento de actividades ordinarias permanentes:
 
-a) El Consejo General del Instituto Estatal Electoral, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente en la región;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+a) El Consejo General del Instituto Estatal Electoral, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización;
 
 b) El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en la forma que establece el inciso a), de la Base II, del artículo 41 de la Constitución General;
 
@@ -3457,7 +3465,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los limites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
@@ -3469,7 +3479,9 @@ II. Respecto de las agrupaciones políticas;
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta, y
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 c) Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -3477,7 +3489,9 @@ III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elecció
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, y
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, y
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -3485,7 +3499,9 @@ IV. Respecto de los Candidatos Independientes:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -3497,11 +3513,17 @@ V. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol�
 
 a) Con amonestación pública;
 
-b) Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientos días de salario mínimo general vigente en el Estado; en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la contratación de propaganda política o electoral distinta a radio y televisión, con multa de hasta el doble del precio comercial de dicho tiempo;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-c) Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta cinco mil días de salario mínimo general vigente en el Estado, en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de propaganda política o electoral distinta al radio y televisión, con multa de hasta el doble del precio comercial de la misma, y
+b) Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización; en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la contratación de propaganda política o electoral distinta a radio y televisión, con multa de hasta el doble del precio comercial de dicho tiempo;
 
-d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil días de salario mínimo general vigente para el Estado, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c) Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de propaganda política o electoral distinta al radio y televisión, con multa de hasta el doble del precio comercial de la misma, y
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 VI. Respecto de observadores electorales u organizaciones de observadores electorales;
 
@@ -3509,13 +3531,17 @@ a) Con amonestación pública;
 
 b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales, y
 
-c) Con multa de hasta doscientos días de salario mínimo general vigente para el Estado, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+c) Con multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
 
 VII. Respecto de los medios de comunicación distintos a los de radio y televisión:
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente en el Estado, que en el caso de concesionarios de radio será de hasta cincuenta mil días de salario mínimo; en caso de reincidencia hasta con el doble de los montos antes señalados, según corresponda; y
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, que en el caso de concesionarios de radio será de hasta cincuenta mil veces el valor diario de la Unidad de Medida y Actualización; en caso de reincidencia hasta con el doble de los montos antes señalados, según corresponda; y
 
 c) Cuando no cumplan las disposiciones de la presente Ley aprobadas por el Instituto, los mensajes a que se refiere este Capítulo, además de la multa que, en su caso se imponga, deberán subsanar de inmediato la omisión, conforme lo disponga el Instituto;
 
@@ -3523,7 +3549,9 @@ VIII. Respecto de las organizaciones de ciudadanos que pretendan constituir part
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta, y
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político.
 
@@ -3531,7 +3559,9 @@ IX. Respecto de las organizaciones sindicales, laborales o patronales, o de cual
 
 a) Con amonestación pública, y
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta.
 
 ###### Artículo 267.
 
@@ -4256,3 +4286,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
