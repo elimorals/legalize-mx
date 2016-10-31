@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-971
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-20"
-last_updated: "2013-12-20"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 20 de diciembre de 2013.
 
@@ -307,7 +307,9 @@ Para la solicitud de los servicios que brinda la Procuraduría se deberá:
 
 I.- Acudir a las oficinas de esta Institución, proporcionar la información que se le solicite y firmar carta compromiso;
 
-II.- Se valorará si el solicitante del servicio es susceptible de que se le otorgue el servicio de representación jurídica, para lo cual se verificará que sus ingresos no sean superiores a 93 (noventa y tres) salarios mínimos mensuales, para lo cual deberán acreditar constancia de percepciones correspondientes. En caso de que su ingreso sea superior, únicamente se le brindará asesoría jurídica, y;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Se valorará si el solicitante del servicio es susceptible de que se le otorgue el servicio de representación jurídica, para lo cual se verificará que sus ingresos no sean superiores a 93 (noventa y tres) veces el valor mensual de la Unidad de Medida y Actualización, para lo cual deberán acreditar constancia de percepciones correspondientes. En caso de que su ingreso sea superior, únicamente se le brindará asesoría jurídica, y;
 
 III.- Presentarse puntualmente a las citas que le sean programas (sic) por los diversos departamentos de la Procuraduría y facilitar la información y documentación que les (sic) sea requerida para la elaboración de su trámite.
 
@@ -450,3 +452,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
