@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-109764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-01"
-last_updated: "2015-09-01"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 1 de septiembre de 2015.
 
@@ -403,7 +403,9 @@ Respecto de libros entregados en depósito legal, quienes cumplan con la obligac
 
 Ante el incumplimiento por primera vez del depósito legal en el plazo establecido en esta Ley, el Titular de la Biblioteca Depositaria o la persona que para esos efectos designe el Titular del Instituto Sudcaliforniano de Cultura, procederá a requerir al infractor otorgando un plazo de 15 días hábiles para su cumplimiento.
 
-Ante el desacato al apercibimiento requerimiento referido, el infractor será sancionado con una multa de 1 00 a 200 veces el salario mínimo vigente en el Estado de Baja California Sur, la cual se duplicará en caso de reincidencia ocurrida durante un año y se hará exigible por medio del Procedimiento Administrativo de Ejecución. El pago de la multa, no exime del cumplimiento de la obligación del Depósito Legal.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Ante el desacato al requerimiento referido, el infractor será sancionado con una multa de 100 a 200 veces el valor diario de la Unidad de Medida y Actualización, la cual se duplicará en caso de reincidencia ocurrida durante un año y se hará exigible por medio del Procedimiento Administrativo de Ejecución. El pago de la multa, no exime del cumplimiento de la obligación del Depósito Legal.
 
 ### CAPÍTULO NOVENO. DEL FOMENTO A LA LECTURA Y AL LIBRO EN LOS MEDIOS DE COMUNICACIÓN ESTATALES
 
@@ -472,3 +474,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
