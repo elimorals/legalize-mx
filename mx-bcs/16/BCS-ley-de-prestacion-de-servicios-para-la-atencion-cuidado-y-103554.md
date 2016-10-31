@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10355
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2016-08-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2014.
 
@@ -1017,9 +1017,9 @@ I. Amonestación con apercibimiento;
 
 II. Amonestación pública;
 
-> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Multa administrativa de 100 a 1000 del valor diario de la Unidad de Medida y Actualización vigente;
+III. Multa administrativa de 100 a 1000 veces el valor diario de la Unidad de Medida y Actualización;
 
 IV. Suspensión temporal de la autorización; y
 
@@ -1149,7 +1149,7 @@ LUIS ANDRÉS CÓRDOVA URRUTIA
 
 B.O. 20 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2368 SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 21, XIII Y XIV DEL 22, 24, 27, FRACCIONES I Y III DEL 38, 40, 49, LA DENOMINACIÓN DEL CAPÍTULO XI, 77, 78 Y FRACCIÓN III DEL 98; Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 21 Y LA FRACCIÓN XV AL ARTÍCULO 22, TODOS DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2368 SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 21, XIII Y XIV DEL 22, 24, 27, FRACCIONES I Y III DEL 38, 40, 49, LA DENOMINACIÓN DEL CAPÍTULO XI, 77, 78 Y FRACCIÓN III DEL 98; Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 21 Y LA FRACCIÓN XV AL ARTÍCULO 22, TODOS DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -1160,3 +1160,11 @@ TERCERO.- Se le concede al Titular del Poder Ejecutivo del Estado, un término d
 CUARTO.- Los prestadores de servicios para la Atención, Cuidado y Desarrollo Integral Infantil que cuenten o no con licencias expedidas con anterioridad a la entrada en vigor del presente Decreto, contarán con un término de ciento ochenta días hábiles a efecto de regularizar su situación, para lo cual deberán cumplir con los requisitos previstos en este ordenamiento jurídico.
 
 QUINTO.- A partir de la entrada en vigor del presente Decreto, se les concede un plazo de noventa días a los Ayuntamientos del Estado, para que realicen adecuaciones a sus Bandos de Policía y Buen Gobierno, Reglamentos y demás disposiciones, en atención a lo dispuesto por esta Ley.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
