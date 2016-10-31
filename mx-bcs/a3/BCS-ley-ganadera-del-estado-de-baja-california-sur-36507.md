@@ -4,7 +4,7 @@ identifier: "BCS-ley-ganadera-del-estado-de-baja-california-sur-36507"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2015-05-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY GANADERA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 2003.
 
@@ -151,7 +151,7 @@ X.- El Poder Judicial del Estado.
 
 Son Autoridades y Organismos auxiliares:
 
-I. Las organizaciones ganaderas legalmente constituidas de conformidad a lo dispuesto en esta Ley, previa notificación de la autoridad competente.
+I.- Las organizaciones ganaderas legalmente constituidas de conformidad a lo dispuesto en esta Ley, previa notificación de la autoridad competente.
 
 II.- Los inspectores habilitados nombrados por el Ejecutivo del Estado, a propuesta de las organizaciones ganaderas.
 
@@ -1492,3 +1492,11 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 B.O. 20 DE MAYO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
