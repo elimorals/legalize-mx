@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2014-11-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
@@ -111,7 +111,7 @@ VI. La contratación de arrendamiento financiero de bienes muebles;
 
 VII. La prestación de servicios profesionales, así como la contratación de consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales bajo el régimen de honorarios y (sic);
 
-VIII. Los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para las Dependencias y Entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales; y (sic)
+VIII. Los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para las Dependencias y Entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales; y
 
 IX. En todos los casos en que esta Ley haga referencia a las adquisiciones, arrendamientos y servicios, se entenderá que se trata respectivamente, de adquisiciones, arrendamientos de bienes muebles y de prestación de servicios de cualquier naturaleza;
 
@@ -725,9 +725,13 @@ XVIII. Cuando no existan por lo menos tres proveedores idóneos, previa investig
 
 Las Dependencias, Entidades y Organismos Autónomos, podrán optar por no llevar a cabo el procedimiento de Licitación Pública en los siguientes supuestos:
 
-I. Podrá contratarse por adjudicación directa cuando el importe de cada operación no exceda del equivalente a la cantidad de cuatro mil setecientos un veces el salario mínimo diario general vigente en el Estado de Baja California Sur, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Podrá contratarse por Invitación a cuando menos a tres personas, cuando el monto sea superior al equivalente a la cantidad de cuatro mil setecientos un veces el salario mínimo diario general vigente en el Estado de Baja California Sur, hasta el equivalente, a Doce mil Ochocientos Veintiún veces el salario mínimo diario general vigente en el Estado de Baja California Sur, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+I. Podrá contratarse por adjudicación directa cuando el importe de cada operación no exceda del equivalente a la cantidad de cuatro mil setecientas un veces el valor diario de la Unidad de Medida y Actualización, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Podrá contratarse por invitación a cuando menos a tres personas, cuando el monto sea superior al equivalente a la cantidad de cuatro mil setecientas un veces el valor diario de la Unidad de Medida y Actualización, hasta el equivalente, a doce mil ochocientas veintiún veces el valor diario de la Unidad de Medida y Actualización, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 
 ###### Artículo 54.
 
@@ -1049,11 +1053,11 @@ La Contraloría podrá verificar la calidad de las especificaciones de los biene
 
 ### Capítulo Único
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 76.
 
-Los Licitantes o Proveedores que infrinjan las disposiciones contenidas en esta Ley serán sancionados por la Contraloría con multa equivalente a la cantidad de cincuenta hasta seiscientos cuarenta veces el salario mínimo diario general vigente en el Estado de Baja California Sur, en la fecha de la infracción, o hasta el equivalente a la cantidad de mil Novecientos (sic) veces el salario mínimo diario general vigente en el Estado, en caso de reincidencia.
+Los licitantes o proveedores que infrinjan las disposiciones contenidas en esta ley serán sancionados por la Contraloría con multa equivalente a la cantidad de cincuenta hasta seiscientas cuarenta veces el valor diario de la Unidad de Medida y Actualización, en la fecha de la infracción, o hasta el equivalente a la cantidad de mil novecientas veces el valor diario de la Unidad de Medida y Actualización, en caso de reincidencia.
 
 ###### Artículo 77.
 
@@ -1262,3 +1266,11 @@ TERCERO.- La Contraloría General del Estado deberá expedir las bases conforme 
 B.O. 20 DE NOVIEMBRE DE 2014.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
