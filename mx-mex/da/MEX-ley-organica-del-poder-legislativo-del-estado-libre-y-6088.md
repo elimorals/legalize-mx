@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2016-09-07"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -403,7 +403,7 @@ El Presidente de la Directiva, lo será también de la Legislatura.
 
 ###### Artículo 43.
 
-Los integrantes de la Directiva que presidirán la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera sesión.
+Los integrantes de la Directiva que presidirán la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del periodo; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del periodo respectivo, antes de la primera sesión.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -791,9 +791,13 @@ XVI.- Coordinar las tareas legislativas, políticas y administrativas de la Legi
 
 XVII.- Las demás que le confieran la ley, el reglamento o la Asamblea.
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE OCTUBRE DE 2016)</small>
 
-XVIII.- Poder otorgar de manera anual, en representación de la Legislatura, durante el mes de septiembre, la Orden Mexiquense de la Medalla de Honor "José María Luis Mora" al o a los mexiquenses que se hayan distinguido por sus méritos en el ámbito cultural, académico, artístico, deportivo, científico, social, económico o político; para lo cual se observará lo dispuesto en el Decreto que crea dicho reconocimiento.
+XVIII.- Poder otorgar de manera anual, en representación de la Legislatura, durante el mes de septiembre, la Orden Mexiquense de la Medalla de Honor "José María Luis Mora", al o a los mexiquenses que se hayan distinguido por sus méritos en el ámbito cultural, académico, artístico, deportivo, científico, social, económico o político; para lo cual se observará lo dispuesto en el Decreto que crea dicho reconocimiento.
+
+> <small>(ADICIONADO, G.G. 31 DE OCTUBRE DE 2016)</small>
+
+Cuando se considere que sea digno de reconocerse en el mismo año en que ya se hubiese otorgado dicho galardón, la Junta de Coordinación Política, mediante acuerdo, podrá entregar de manera excepcional la Orden Mexiquense de la Medalla de Honor "José María Luis Mora".
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2168,3 +2172,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los 5 días del mes de septiembre del año dos mil dieciséis.
+
+G.G. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 143.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVIII DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
