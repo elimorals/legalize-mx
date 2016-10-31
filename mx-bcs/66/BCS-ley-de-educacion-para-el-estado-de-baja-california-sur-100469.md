@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-100469"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-22"
-last_updated: "2015-12-20"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 22 de abril de 2014.
 
@@ -1313,7 +1313,9 @@ Las disposiciones de esta (sic) artículo no son aplicables a los trabajadores d
 
 Las infracciones enumeradas en el artículo anterior se sancionaran con:
 
-I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el estado y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; o
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I.- Multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; o
 
 II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente.
 
@@ -1507,10 +1509,18 @@ El presente Decreto entrara en vigor a partir del ejercicio fiscal del año 2016
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 20 DE NOVIEMBRE DE 2015.
+B.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 20 DE DICIEMBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.-SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
