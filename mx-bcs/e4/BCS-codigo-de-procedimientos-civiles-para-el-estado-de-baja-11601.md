@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2016-08-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -401,7 +401,9 @@ Son correcciones disciplinarias:
 
 I. El apercibimiento o amonestación;
 
-II. La multa que no podrá exceder en los juzgados de paz del equivalente hasta de tres días salario mínimo general vigente; en los juzgados menores, hasta cinco días de salario mínimo general vigente; en los juzgados de primera instancia de lo civil y familiar hasta de diez días salario mínimo general vigente y hasta veinte días el salario mínimo general vigente, en el Tribunal Superior de Justicia;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. La multa que no podrá exceder en los juzgados de paz del equivalente hasta de tres veces el valor diario de la Unidad de Medida y Actualización; en los juzgados menores, hasta cinco veces el valor diario de la Unidad de Medida y Actualización; en los juzgados de primera instancia de lo civil y familiar hasta de diez veces el valor diario de la Unidad de Medida y Actualización y hasta veinte veces el valor diario de la Unidad de Medida y Actualización, en el Tribunal Superior de Justicia;
 
 III. Los que se resistieren a cumplir la orden de expulsión serán arrestados hasta por un término de seis horas; y
 
@@ -443,7 +445,9 @@ La oficialía de partes de cada tribunal recibirá los escritos subsecuentes que
 
 Los servidores públicos encargados de la recepción de escritos y documentos en ningún caso y por ningún motivo podrán rechazar promoción alguna.
 
-En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en las oficialías de partes comunes, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el juzgado que convenga, o desistiéndose de la instancia más de una vez, sin acreditar la necesidad de hacerlo, o cualquier acción similar, la parte promovente y sus abogados patronos se harán acreedores, solidariamente, a una multa que no será menor de quince ni mayor de noventa días el salario mínimo general diario vigente en el Estado y que será impuesta por el Presidente del Tribunal Superior de Justicia.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en las oficialías de partes comunes, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el juzgado que convenga, o desistiéndose de la instancia más de una vez, sin acreditar la necesidad de hacerlo, o cualquier acción similar, la parte promovente y sus abogados patronos se harán acreedores, solidariamente, a una multa que no será menor de quince ni mayor de noventa veces el valor diario de la Unidad de Medida y Actualización y que será impuesta por el Presidente del Tribunal Superior de Justicia.
 
 ###### Artículo 66.
 
@@ -787,7 +791,9 @@ Si después que el notificador se hubiere cerciorado de que la persona por notif
 
 Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios y en la habitación no se pudiere, conforme al artículo anterior, hacer la notificación, se podrá hacer ésta en el lugar en donde se encuentre.
 
-En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo pena de multa equivalente de hasta diez días de salario mínimo general vigente en el Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo pena de multa equivalente de hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 En caso de ocultamiento del demandado, a petición del actor y previa comprobación de este hecho, el emplazamiento podrá practicarse por edictos en los términos previstos por este Código.
 
@@ -1201,7 +1207,9 @@ Decidida la competencia enviará los autos al juez declarado competente, con tes
 
 El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro, tampoco podrá emplearlo sucesivamente.
 
-En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, multa equivalente hasta sesenta días de salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, multa equivalente hasta sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 169.
 
@@ -1353,9 +1361,11 @@ En el incidente de recusación son admisibles todos los medios de prueba estable
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 190.
 
-Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa equivalente hasta de treinta días de salario mínimo general diario vigente en el Estado, si fueren un Secretario o Juez de Primera Instancia y hasta de sesenta días de dicho salario, si fuere Magistrado.
+Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa equivalente hasta de treinta veces el valor diario de la Unidad de Medida y Actualización, si fueren un Secretario o Juez de Primera Instancia y hasta de sesenta veces dicho valor, si fuere magistrado.
 
 ###### Artículo 191.
 
@@ -2253,7 +2263,9 @@ VI. La falta de presentación del escrito del perito del oferente de la prueba, 
 
 En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III ó IV según corresponda.
 
-En los casos a que se refiere el párrafo anterior, el juez sancionará a los peritos omisos con multa equivalente a sesenta días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En los casos a que se refiere el párrafo anterior, el juez sancionará a los peritos omisos con multa equivalente a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
 VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo;
 
@@ -2315,9 +2327,11 @@ Así mismo, se consignarán los hechos al Ministerio Público para efectos de in
 
 No habrá recurso alguno contra las resoluciones que se dicten en el trámite o la decisión de la recusación.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 343.
 
-En caso de ser desechada la recusación, se impondrá al recusante una sanción pecuniaria hasta por el equivalente a 120 días de salario mínimo general vigente en el Estado, que se aplicará en favor de su contraparte, siempre que se hubiere promovido de mala fe.
+En caso de ser desechada la recusación, se impondrá al recusante una sanción pecuniaria hasta por el equivalente a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, que se aplicará en favor de su contraparte, siempre que se hubiere promovido de mala fe.
 
 ###### Artículo 344.
 
@@ -2357,11 +2371,15 @@ Todos los que tengan conocimiento de los hechos que las partes deben de probar, 
 
 Las partes tendrán obligación de presentar sus propios testigos; sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite, expresando las causas de su imposibilidad que el juez calificará bajo su prudente arbitrio.
 
-El juez ordenará la citación con apercibimiento de arresto hasta por treinta y seis horas o multa equivalente hasta treinta días de salario mínimo general diario vigente en el Estado, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El juez ordenará la citación con apercibimiento de arresto hasta por treinta y seis horas o multa equivalente hasta treinta veces el valor diario de la Unidad de Medida y Actualización, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
 
 La prueba se declarará desierta si no es presentado el testigo por el oferente o si ejecutados los medios de apremio antes mencionados, no se logra dicha presentación.
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una sanción pecuniaria a favor del colitigante, equivalente hasta de sesenta días de salario mínimo general vigente en el Estado en el momento de imponerse la misma, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una sanción pecuniaria a favor del colitigante, equivalente hasta de sesenta veces el valor diario de la Unidad de Medida y Actualización en el momento de imponerse la misma, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
 
 ###### Artículo 349.
 
@@ -2527,7 +2545,9 @@ Durante la audiencia no se pueden redargüir de falsos ni desconocer documentos 
 
 Los peritos dictaminarán por escrito u oralmente en presencia de las partes y del tercero en discordia si lo hubiere. Tanto las partes como el tercero y el juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia, en la cual se rendirá la prueba, y el tercero dirá su parecer.
 
-Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de quince días del salario mínimo general vigente en el Estado en caso de que no concurran, salvo causa grave que calificará el juez.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de quince veces el valor diario de la Unidad de Medida y Actualización en caso de que no concurran, salvo causa grave que calificará el juez.
 
 ###### Artículo 382.
 
@@ -2703,7 +2723,9 @@ Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por Ministerio de Ley:
 
-I. Las sentencias pronunciadas en juicio cuyo interés no pase de 182 veces el salario mínimo diario general vigente en el Estado, a excepción de las dictadas en las controversias en materia de arrendamiento de fincas urbanas destinadas a habitación;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Las sentencias pronunciadas en juicio cuyo interés no pase de ciento ochenta y dos veces el valor diario de la Unidad de Medida y Actualización, a excepción de las dictadas en las controversias en materia de arrendamiento de fincas urbanas destinadas a habitación;
 
 II. Las sentencias de segunda instancia;
 
@@ -3645,11 +3667,11 @@ V. Una vez presentados todos los dictámenes, el juez contará con el plazo de 5
 
 VI. En lo demás, se estará a lo dispuesto por las reglas generales de la prueba pericial contenidas en el presente ordenamiento.
 
-> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 553.
 
-Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos de juzgado, debiendo mediar entre una y otra publicación cinco días hábiles y, entre la última y la fecha del remate igual plazo. Si el valor del bien pasara del equivalente a 180 días de salario mínimo general vigente en el Estado, se insertarán además los edictos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Hecho el avalúo se sacarán los bienes a subasta pública, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos de juzgado, debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate igual plazo. Si el valor del bien pasara del equivalente a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, se insertarán además los edictos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 ###### Artículo 554.
 
@@ -4357,9 +4379,11 @@ La apelación admitida en ambos efectos suspende desde luego la ejecución de la
 
 Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido que se admitan en ambos efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 679.
 
-De los autos y de las sentencias interlocutorias de los que se derive una ejecución que pueda causar daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso y, en un plazo que no exceda de seis días, otorga garantía a satisfacción del juez para responder, en su caso, de los daños y perjuicios que puedan ocasionarse con la suspensión. La garantía atenderá a la cuantía del asunto y no podrá ser inferior al equivalente a sesenta días del salario mínimo general diario vigente en el Estado.
+De los autos y de las sentencias interlocutorias de los que se derive una ejecución que pueda causar daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso y, en un plazo que no exceda de seis días, otorga garantía a satisfacción del juez para responder, en su caso, de los daños y perjuicios que puedan ocasionarse con la suspensión. La garantía atenderá a la cuantía del asunto y no podrá ser inferior al equivalente a sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Si el tribunal confirmase la resolución apelada, condenará al recurrente al pago de dichas indemnizaciones, fijando el importe de los daños y perjuicios que se hayan causado, además de lo que importen las costas.
 
@@ -4519,9 +4543,11 @@ El recurso de queja contra resoluciones del juez se interpondrá ante éste, den
 
 La falta de remisión del recurso de queja e informe con justificación dentro del término de tres días por parte del juez al Superior dará lugar a la imposición de una corrección disciplinaria por parte del Superior, de oficio o a petición del quejoso.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 707.
 
-Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa hasta de quince días de salario mínimo general vigente en el Estado.
+Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa hasta de quince veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 708.
 
@@ -4643,9 +4669,11 @@ La junta de rectificación y graduación será presidida por el juez, procedién
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios, según el Código Civil.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 727.
 
-Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano, imponiéndosele, además, una multa hasta de cincuenta días salario mínimo.
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano, imponiéndosele, además, una multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 728.
 
@@ -5079,7 +5107,9 @@ Si la declaración de herederos la solicitare el concubino supérstite o parient
 
 El Juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
 
-Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de los de mayor circulación si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el salario mínimo vigente en el Estado.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de los de mayor circulación si el valor de los bienes hereditarios excediere de un monto equivalente a cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 789.
 
@@ -5359,9 +5389,11 @@ Si no hubiere mayoría, el juez nombrará partidor eligiéndolo entre los propue
 
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 842.
 
-El juez pondrá a disposición del partidor los autos, y bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multa hasta de cien días salario mínimo vigente en el Estado.
+El juez pondrá a disposición del partidor los autos, y bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multa hasta de cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 843.
 
@@ -5425,9 +5457,11 @@ V. Expresión de las cantidades que algún heredero quede reconociendo a otro, y
 
 VI. La firma de todos los interesados.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 851.
 
-La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de quinientos días salario mínimo en el Estado.
+La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO X. Declaración de ser formal el testamento ológrafo
 
@@ -5777,7 +5811,9 @@ II. Derechos reales sobres inmuebles;
 
 III. Alhajas y muebles preciosos, y
 
-IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda del equivalente a un año de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda del equivalente al valor anual de la Unidad de Medida y Actualización.
 
 ###### Artículo 898.
 
@@ -6047,9 +6083,11 @@ El juez y las partes podrán interrogar a los testigos con relación a los hecho
 
 La audiencia se llevará a cabo dentro de los treinta días contados a partir del auto que ordene el traslado, en la inteligencia de que la demanda inicial deberá ser proveída dentro del término de tres días.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 934.
 
-Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba de imponerle una multa hasta por el equivalente a treinta días de salario mínimo vigente en el Estado, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba de imponerle una multa hasta por el equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
 ###### Artículo 935.
 
@@ -6167,9 +6205,11 @@ Las citas se extenderán en formatos impresos, agregando una copia de la cita al
 
 La persona encargada de entregar la cita recogerá en la copia, recibo de ella, la cual, si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra persona presente, en su nombre, asentándose en la copia a quien se haya hecho la entrega y el motivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 957.
 
-En los casos a que se refiere el artículo 953, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador, y si éste se negare le será impuesta una multa hasta de cinco días salario.
+En los casos a que se refiere el artículo 953, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador, y si éste se negare le será impuesta una multa hasta de cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 En la copia de la cita se asentará la razón de lo ocurrido.
 
@@ -6191,9 +6231,11 @@ El que se presente como actor o como demandado usando el nombre de otro para hac
 
 Del juicio
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 960.
 
-Si el día y hora señalados para la celebración de la audiencia no estuviere presente injustificadamente el actor y sí el demandado, se impondrá a aquél una multa de hasta cinco días salario mínimo general diario vigente en el Estado, que se aplicará al demandado por vía de indemnización y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Si el día y hora señalados para la celebración de la audiencia no estuviere presente injustificadamente el actor y sí el demandado, se impondrá a aquél una multa de hasta cinco veces el valor diario de la Unidad de Medida y Actualización, que se aplicará al demandado por vía de indemnización y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ###### Artículo 961.
 
@@ -6472,3 +6514,11 @@ SEGUNDO. Por lo que hace a las normas en materia de mediación que refiere la pr
 TERCERO. Los asuntos cuya ejecución inició con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
