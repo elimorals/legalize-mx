@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2016-08-01"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -167,7 +167,7 @@ XVI. Establecimiento de mecanismos que permitan la actualización, seguimiento y
 
 XVII. Las relativas a la verificación del cumplimiento de obligaciones fiscales derivadas de disposiciones reglamentarias; y
 
-XVIII. Para la constitución de fondos y otros esquemas de aportación destinados a: (a) La atención a necesidades de servicios públicos e infraestructura; (b) La asignación de recursos, a favor de localidades con mayores necesidades de satisfactores básicos, bajo criterios redistributivos, destinados a contribuir a su desarrollo equilibrado; (c) El financiamiento de proyectos de carácter regional o intermunicipal, destinados a la realización de obras de infraestructura social y acciones de impacto regional o intermunicipal que beneficien a sectores que se encuentran en condiciones de rezago social y que logren un desarrollo regional equilibrado; (d) El saneamiento financiero del Municipio, el establecimiento de mecanismos que faciliten el otorgamiento de garantías y el pago de obligaciones derivadas de operaciones de financiamiento, la contratación de créditos y la creación de reservas contra la fluctuación en tasas de interés; (e) Orientar y cofinanciar obras y servicios contenidos en programas específicos; y (t) La prestación de servicios públicos del Municipio, regionales o intermunicipales.
+XVIII. Para la constitución de fondos y otros esquemas de aportación destinados a: (a) La atención a necesidades de servicios públicos e infraestructura; (b) La asignación de recursos, a favor de localidades con mayores necesidades de satisfactores básicos, bajo criterios redistributivos, destinados a contribuir a su desarrollo equilibrado; (c) El financiamiento de proyectos de carácter regional o intermunicipal, destinados a la realización de obras de infraestructura social y acciones de impacto regional o intermunicipal que beneficien a sectores que se encuentran en condiciones de rezago social y que logren un desarrollo regional equilibrado; (d) El saneamiento financiero del Municipio, el establecimiento de mecanismos que faciliten el otorgamiento de garantías y el pago de obligaciones derivadas de operaciones de financiamiento, la contratación de créditos y la creación de reservas contra la fluctuación en tasas de interés; (e) Orientar y cofinanciar obras y servicios contenidos en programas específicos; y (f) La prestación de servicios públicos del Municipio, regionales o intermunicipales.
 
 En la suscripción de los acuerdos y convenios referidos el Municipio a través del Presidente Municipal observará, en lo conducente, la responsabilidad de establecer las bases que permitan la participación conjunta de los sectores social y privado en la ejecución de los planes y programas de desarrollo regional y municipal, asimismo podrá incorporar la definición y establecimiento de los criterios, estrategias y bases para la aportación de recursos humanos, financieros y materiales, destinados a su ejecución.
 
@@ -727,7 +727,7 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 112.
 
-Las disposiciones de este Capítulo tienen por objeto regular la integración, organización y funcionamiento de las Mesas Directivas de Vecinos de barrios, colonias, fraccionamientos y unidades habitacionales del Municipio, mismas que deberán constituirse conforme a los lineamientos establecidos en este Capítulo, con excepción de aquéllos que se constituyan bajo el régimen de propiedad en condominio, los que deberán organizarse conforme a lo establecido por la Ley que Regula el Régimen de Propiedad en Condominio para el Estado de Puebla, el Reglamento Municipal respectivo y demás legislación aplicable.
+Las disposiciones de este Capítulo tienen por objeto regular la integración, organización y funcionamiento de las Mesas Directivas de Vecinos de barrios, colonias, fraccionamientos y unidades habitacionales del Municipio, mismas que deberán constituirse conforme a los lineamientos establecidos en este Capítulo, con excepción de aquellos que se constituyan bajo el régimen de propiedad en condominio, los que deberán organizarse conforme a lo establecido por la Ley que Regula el Régimen de Propiedad en Condominio para el Estado de Puebla, el Reglamento Municipal respectivo y demás legislación aplicable.
 
 ###### Artículo 113.
 
@@ -2247,9 +2247,13 @@ II. Lugares privados los no comprendidos en la fracción I que antecede y cuyo d
 
 Se consideran faltas o infracciones administrativas al presente Capítulo:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-I. CONTRA LA SEGURIDAD PÚBLICA y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a sesenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
+I. CONTRA LA SEGURIDAD PÚBLICA y se sancionarán administrativamente con:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+1. Amonestación, 2.- Multa del equivalente del valor diario de 5 a 60 unidades de medida y actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o; 4.- Trabajo a favor de la comunidad a las personas que:
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -2259,11 +2263,15 @@ a) Utilicen objetos detonantes de cualquier tipo que atenten contra la seguridad
 
 b) Detonen cohetes o enciendan juegos pirotécnicos sin permiso de la autoridad competente; o bien, contando con éste, no se apeguen a lo establecido en el mismo;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 c) Formen parte de grupos que causen molestia o escándalo a las personas en lugares públicos, en sus domicilios o proximidad de los mismos;
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 d) Organicen o participen en juegos de velocidad o arrancones con cualquier vehículo automotor, en lugares públicos no permitidos para ello, o dentro de los permitidos sin respetar las especificaciones de seguridad poniendo en riesgo la integridad física, la vida de las personas, de los demás conductores, peatones y los bienes particulares o del Municipio;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 e) Ingresen, sin autorización, en zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o de recreo;
 
@@ -2279,53 +2287,89 @@ g) Obstruyan o impidan con cualquier objeto entradas o salidas de personas y/o c
 
 h) Realicen en plazas, jardines y demás sitios públicos, toda clase de juegos que constituyan un peligro para la comunidad o coloquen tiendas, cobertizos, techos o vehículos, que obstruyan el libre tránsito de peatones o vehículos, la correcta visibilidad, así como la buena imagen del lugar;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 i) Impidan, dificulten o entorpezcan el ejercicio de facultades de las Autoridades Municipales en general; así como la prestación de los servicios públicos municipales y de cualquier otra Autoridad Administrativa;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 j) Impidan, obstruyan por cualquier medio las labores de los cuerpos de Seguridad Pública y Protección Civil dentro del ejercicio de sus funciones;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 k) Apaguen, sin autorización, el alumbrado público o afecten la infraestructura del mismo que impida su normal funcionamiento;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 l) Cambien de lugar las señales públicas, ya sean de tránsito o de cualquier otro señalamiento oficial; y
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 m) Provoquen derrumbes, incendios y demás hechos o actos similares, en lugares públicos o privados.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. CONTRA LA SALUBRIDAD Y EL MEDIO AMBIENTE y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a sesenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad a las personas que:
+II. CONTRA LA SALUBRIDAD Y EL MEDIO AMBIENTE y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa del equivalente del valor diario de 5 a 60 unidades de medida y actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 a) Orinen o defequen en cualquier lugar público o privado, no autorizado para ello;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 b) Hagan uso irresponsable del agua en lugares públicos o desperdicien el agua potable en la vía pública, haciendo uso irresponsable de mangueras, recipientes u otros conductos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 c) Ensucien, desvíen o retengan los cauces de agua, ya sea en depósitos, tanques, fuentes públicas, acueductos o sistemas de alcantarillado del Municipio;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 d) Arrojen, en lugares públicos, lotes baldíos, drenajes o en lugares no aptos del Municipio, animales sacrificados o muertos, así como sustancias fétidas;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 e) Arrojen, tiren o depositen basura, desechos o residuos de cualquier especie en lugares públicos y fuera de los sitios destinados para tal efecto, así como realizar cualquier otro acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común u otras de acceso público o libre tránsito;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 f) Quemen basura, llantas, pastizales o terrenos baldíos, o cualquier similar, así como hagan fogatas, utilicen combustible o materiales flamables, sin la autorización correspondiente, provocando un trastorno al ambiente, tanto en sitios públicos o privados;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 g) Fumen dentro de locales cerrados en los que se expendan al público alimentos para su consumo, hospitales, clínicas, centros de salud, salas de espera, auditorios, bibliotecas, vehículos de servicio colectivo de pasajeros, oficinas de las unidades administrativas del Municipio de Puebla, donde se proporcionen atención directa al público, tiendas de autoservicio, áreas de atención al público, oficinas bancarias, financieras, industriales, comerciales o de servicios, salones de clase de las escuelas, similares y profesionales y cualesquiera otros que por su naturaleza, se asemejen a los señalados en este inciso.
 
 La prohibición de fumar en los lugares señalados en este inciso, no se aplicará en los casos en los que esta actividad se realice dentro de las áreas específicas para fumadores;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 h) Omitan recoger las heces fecales de un animal que se encuentren bajo su custodia en lugares públicos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 i) Posean animales sin adoptar las medidas de higiene necesarias que expidan olores altamente desagradables, que éstos tengan plagas o que emitan ladridos que ocasionen molestia a los vecinos;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 j) Destruyan, maltraten árboles, flores y cualquier ornamento que se encuentre en las plazas, parques y cualquier otro tipo de lugares públicos y de propiedad privada;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 k) Dispongan de flores, plantas, árboles o cualquier otro tipo de objetos que pertenezca a la Autoridad Municipal o de propiedad particular, sin el permiso de quien tenga el derecho de otorgarlo; y
 
-I) Siendo poseedores o tengan bajo su custodia animales a los cuales les permitan que beban de la fuente pública, así como pasten, defequen o hagan daños en los jardines y áreas verdes o cualquier otro lugar público.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+l) Siendo poseedores o tengan bajo su custodia animales a los cuales les permitan que beban de la fuente pública, así como pasten, defequen o hagan daños en los jardines y áreas verdes o cualquier otro lugar público.
 
-III. CONTRA EL INTERÉS Y BIENESTAR COLECTIVO DE LA SOCIEDAD, y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a cincuenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad, a las personas que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. CONTRA EL INTERÉS Y BIENESTAR COLECTIVO DE LA SOCIEDAD, y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa del equivalente del valor diario de 5 a 50 unidades de medida (sic) actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 a) Siendo propietarios o responsables de cualquier especie de animales permitan que éstos transiten, sin tomar las medidas de seguridad necesarias como bozal, cadena, entre otras, según la especie, para prevenir y evitar cualquier posible ataque a las personas, o daños y perjuicios a terceros; independientemente de las sanciones en otras materias;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 b) Alteren el orden o la tranquilidad de las personas en lugares públicos, privados o espectáculos públicos;
 
@@ -2337,17 +2381,27 @@ c) Realicen u organicen el comercio en la vía pública o en lugares públicos s
 
 d) Promuevan, organicen o participen en juegos de azar o apuesta en lugar público no autorizado para ello, o aun contando con autorización, no se sujeten a las especificaciones que dicha autorización contenga;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 e) Vendan, ofrezcan o por cualquier medio distribuyan bebidas alcohólicas en forma clandestina o en días no permitidos por las leyes;
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
 f) Ofrezcan, fomenten o propicien la venta de boletos de espectáculos públicos a precios superiores a los autorizados; no cuenten con la autorización previa de la autoridad municipal correspondiente para ello, o aun contando con autorización, no se sujeten a las especificaciones que la misma contenga;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 g) Alteren el orden, arrojen cualquier objeto o provoquen disturbios en los espectáculos públicos o en las entradas y salidas a ellos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 h) Produzcan ruido con cualquier herramienta, vehículo o aparato electrónico que por su volumen o estruendo provoquen alteración a la paz social y tranquilidad de las personas; siempre que no se trate del cumplimiento, realización o desarrollo de una obra de servicios públicos o privados que cuente con la autorización correspondiente;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 i) Alteren, rompan, dañen o mutilen los sellos de clausura o las boletas de infracciones de tránsito, giros comerciales, normatividad entre otras o cualquier tipo de notificación, que sea realizada por la Autoridad Municipal y de cualquier otra Autoridad Administrativa; independientemente de la sanción penal a que se haga acreedor;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 j) Arrojen a la vía pública, lotes baldíos, ríos o barrancas, basura u objetos que puedan causar molestia a los vecinos, transeúntes o vehículos;
 
@@ -2355,9 +2409,15 @@ j) Arrojen a la vía pública, lotes baldíos, ríos o barrancas, basura u objet
 
 k) Impidan el acceso a perros guía que asistan a invidentes, débiles visuales o personas con cualquier otra discapacidad, en los lugares públicos y privados o transporte público;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 l) Ejerzan actos de comercio dentro del área de cementerios, templos, monumentos, edificios públicos, en aquellos lugares que por su tradición y costumbre deberán ser respetadas, y en lugares no autorizados; a menos que cuenten con la autorización y el permiso correspondiente para tal efecto;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 m) Vendan o proporcionen a los menores de edad, bebidas alcohólicas y/o tóxicos y/o cigarros en cualquiera de sus modalidades;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 n) Vendan, ofrezcan sus productos o mercancías, sin el permiso de la Autoridad competente en lugares distintos al giro comercial autorizado, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y
 
@@ -2373,35 +2433,59 @@ o) Impidan u obstruyan con objetos o vehículos los accesos, usos de las rampas 
 
 p) impidan u obstruyan con objetos o vehículos los accesos y uso de las rampas y demás infraestructura urbana que permite el libre tránsito a las personas con discapacidad.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. CONTRA LA INTEGRIDAD FÍSICA Y MORAL DE LOS INDIVIDUOS, se sancionarán con: 1.- Amonestación, 2.- Multa de diez a cien días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad, a las personas que:
+IV. CONTRA LA INTEGRIDAD FÍSICA Y MORAL DE LOS INDIVIDUOS, se sancionarán con: 1.- Amonestación, 2.- Multa del equivalente del valor diario de 10 a 100 unidades de medida y actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 a) Sostengan relaciones sexuales o actos eróticos sexuales en la vía pública, en áreas comunes, o en el interior de un vehículo automotor mientras permanezcan en lugares públicos;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 b) Induzcan u obliguen que una persona ejerza la mendicidad;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 c) Encontrándose en estado de embriaguez o bajo el influjo de estupefacientes o que produzcan cualquier efecto similar, circulen o caminen en lugares públicos, causando escándalo o molestia a las personas;
 
-d) Manejen un vehículo automotor de combustión interna o eléctricos, motocicleta, motocicletas adaptadas, bicicleta, bicicletas adaptadas, bicimotos, triciclos, automotores, motonetas, remolques, semovientes cuando se utilicen como medio de transporte, vehículos agrícolas, de maquinaría pesada o para la construcción, en estado de embriaguez o bajo el influjo de cualquier estupefaciente o sustancia psicotrópica, u otras sustancias que causen efectos similares;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+d) Manejen un vehículo automotor de combustión interna o eléctricos, motocicleta, motocicletas adaptadas, bicicleta, bicicletas adaptadas, bicimotos, triciclos, automotores, motonetas, remolques, semovientes cuando se utilicen como medio de transporte, vehículos agrícolas, de maquinaria pesada o para la construcción, en estado de embriaguez o bajo el influjo de cualquier estupefaciente o sustancia psicotrópica, u otras sustancias que causen efectos similares;
 
-En el caso exclusivo de la conducta a la que se refiere el inciso d) en el rubro de multa; ésta deberá ser sancionada de cincuenta a cien días de salario mínimo general vigente en el Municipio de Puebla.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+En el caso exclusivo de la conducta a la que se refiere el inciso d) en el rubro de multa; ésta deberá ser sancionada con el equivalente al valor diario de 50 a 100 unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 e) Ingieran bebidas alcohólicas o alguna otra que cause efectos similares en lugares públicos no autorizados para ello, o bien dentro de un vehículo automotor, mientras permanezcan en lugares públicos;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 f) Ejerzan, permitan o sean usuarios de la prostitución, en lugares públicos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 g) Consuman, ingieran, inhalen estupefacientes, psicotrópicos, enervantes o cualquier sustancia tóxica en lugares públicos o privados, incluyendo a menores de edad; independientemente que en el caso de venta serán puestos a disposición inmediata de las autoridades competentes;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 h) Golpeen o traten con evidente violencia a otra persona, en lugares públicos, privados o de espectáculos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 i) Arrojen contra otra persona líquidos, polvos o sustancias, que puedan mojarla, mancharla o causar algún daño físico;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 j) Provoquen a un perro o cualquier otro animal para que ataque a una persona;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 k) Estando encargados de la guarda o custodia de un enfermo mental, deje a éste deambular libremente en lugares públicos y peligre su integridad;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 l) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad que reincida en la comisión de una falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del menor;
 
@@ -2409,7 +2493,11 @@ l) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado 
 
 l Bis.) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad y que no acuda al programa de reinserción familiar y social que para tal efecto el Juez Calificador canalizó a alguna comisión, dependencia, institución, órgano o cualquier otra, habiendo sido apercibidos de lo anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 m) Que permitan el acceso a centros de entretenimiento, bares, pulquerías o cualquier otro lugar a los que se refiere el artículo 611 de este Código Reglamentario, a menores de dieciocho años de edad, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 n) Comercialicen, difundan o exhiban en lugares públicos en cualquier forma material visual o auditivo pornográfico u obsceno;
 
@@ -2417,15 +2505,21 @@ n) Comercialicen, difundan o exhiban en lugares públicos en cualquier forma mat
 
 ñ) Coloquen cables u otros objetos en la vía pública, que pongan en riesgo la integridad física de las personas que circulan por la misma, sin la autorización de la autoridad competente, o excediendo aquélla con la que contaren;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 o) Se les sorprenda en posesión o custodia ilegal de cualquier especie de animal feroz, peligroso, para seguridad, guardia o protección, que pueda atentar contra la vida de las personas; o dejen que deambule sólo en la vía pública;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 p) Transporten animales feroces y de espectáculos sin jaulas o camiones que garanticen la seguridad e integridad de la ciudadanía; y
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 q) Inciten a los animales para que se acometan entre ellos o hacer peleas provocadas en un espectáculo público o privado; quedando exceptuadas de esta sanción las corridas de toros, novillos y becerros, así como las peleas de gallos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. CONTRA LOS BIENES DE PROPIEDAD PRIVADA Y PROPIEDAD DEL MUNICIPIO y se sancionará con: 1.- Amonestación, 2.- Multa de quince a cien días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad, a las personas que:
+V. CONTRA LOS BIENES DE PROPIEDAD PRIVADA Y PROPIEDAD DEL MUNICIPIO y se sancionará con: 1.- Amonestación, 2.- Multa del equivalente del valor diario de 15 a 100 unidades de medida y actualización al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
 
 a) Utilicen el servicio público de transporte y se negasen a pagar el importe correspondiente;
 
@@ -2495,7 +2589,9 @@ Para la correcta aplicación del artículo anterior y hacer cumplir sus determin
 
 I. Amonestación.- Es la reconvención, pública o privada, que el Juez haga al infractor. La amonestación privada se realizará si se trata de la infracción primigenia y con amonestación pública en caso de reincidencia;
 
-II. Multa.- Es la cantidad en dinero que el infractor debe pagar y que en ningún caso podrá exceder del equivalente a 100 días de salario mínimo general vigente en el Municipio de Puebla, al momento de cometerse la infracción; exceptuándose cuando se trate del responsable solidario a quien se le impondrá una multa hasta de 500 días de salario mínimo general vigente en el Municipio de Puebla, al momento de cometerse la infracción;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Multa.- Es la cantidad en dinero que el infractor debe pagar y que en ningún caso podrá exceder del equivalente del valor diario de 100 unidades de medida y actualización al momento de cometerse la infracción; exceptuándose cuando se trate del responsable solidario a quien se le impondrá una multa hasta el equivalente del valor diario de 500 unidades de medida y actualización al momento de cometerse la infracción;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -2543,9 +2639,11 @@ Se exceptúan de la inconmutabilidad a los menores de edad.
 
 A efecto de cumplir cabalmente con lo dispuesto en este artículo, se llevará un registro de los infractores, a través de los medios que se estimen convenientes por parte de la Sindicatura Municipal, estableciendo en dicho registro el nombre del infractor, la fecha, el motivo y la sanción impuesta, debiendo consultarse la existencia previa en el registro, para el efecto de establecer la reincidencia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 211.
 
-La base para cuantificar la multa a que se refiere el artículo anterior, será el salario mínimo general vigente en el Municipio de Puebla al momento de cometerse la infracción.
+La base para cuantificar la multa a que se refiere el artículo anterior, será el valor diario de la unidad de medida y actualización al momento de cometerse la infracción.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -3393,13 +3491,17 @@ En el caso de menores de edad, serán sus padres, tutores, representantes legale
 
 La petición deberá formularse por el menor, por escrito y con la autorización de sus padres, tutores o representantes legales, debiendo ser firmada por ambos. Anexando a dicha solicitud comprobante domiciliario fidedigno.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 236 Sexies.
 
-En caso de que los padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, en su carácter de responsables solidarios, no cumplieran con la reparación establecida, se sancionarán con multa hasta de quinientos días de salario mínimo general vigente en la zona económica en la que se encuentra comprendido el Municipio de Puebla, al momento de cometerse la infracción; dejando a salvo los derechos del quejoso para hacerlos valer en la vía legal correspondiente.
+En caso de que los padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, en su carácter de responsables solidarios, no cumplieran con la reparación establecida, se sancionarán con multa hasta el equivalente del valor diario de 500 unidades de medida y actualización al momento de cometerse la infracción; dejando a salvo los derechos del quejoso para hacerlos valer en la vía legal correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 En caso de que el responsable solidario no cubriera la multa impuesta por el Juez Calificador, se girará oficio a la Autoridad Fiscal competente para que determine el crédito fiscal correspondiente y en su caso inicie el Procedimiento Administrativo de Ejecución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 En el caso de reincidencia de la conducta del menor a que se refiere el artículo se aplicará doble sanción a los responsables solidarios.
 
@@ -3637,8 +3739,6 @@ DISPOSICIONES GENERALES
 
 Las disposiciones del presente Capítulo tienen por objeto regular la seguridad vial, el tránsito municipal y la movilidad de personas y vehículos motorizados y no motorizados, en las Vías Públicas ubicadas dentro de la extensión territorial del Municipio, así como proveer en el orden de la administración pública municipal al cumplimiento de las normas federales y estatales y sus respectivos reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 254.
@@ -3711,7 +3811,9 @@ XXXII. Persona con discapacidad: Es aquella que tenga deficiencias físicas, men
 
 XXXIII. Red Urbana de Transporte Articulado (RUTA): Es aquél servicio que se presta a través de corredores de transporte público de pasajeros, el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público total o parcialmente confinados. El sistema comprenderá la troncal correspondiente y las rutas alimentadoras del mismo;
 
-XXXIV. Salario mínimo general vigente: El establecido para la zona económica correspondiente al Municipio;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+XXXIV. Unidad de Medida y Actualización: Referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores.
 
 XXXV. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
 
@@ -5721,19 +5823,19 @@ IV. La inhabilitación o suspensión del infractor para conducir en el Municipio
 
 Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario, debiendo ser trasladados al Depósito Oficial de Vehículos y para la inmovilización de los mismos, los medios mecánicos que se consideren pertinentes, cuidando en ambos casos no dañar los vehículos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 353.
 
-Las faltas y violaciones a las disposiciones de este Capítulo que cometan los sujetos del mismo serán sancionadas administrativamente por el Ayuntamiento, y serán ejecutadas por el Departamento de Infracciones, según sea el caso y corresponderá a la imposición de una multa por el importe de 2 a 100 días de salario mínimo general vigente en el Municipio, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones vigente.
+Las faltas y violaciones a las disposiciones de este Capítulo que cometan los sujetos del mismo serán sancionadas administrativamente por el Ayuntamiento, y serán ejecutadas por el Departamento de Infracciones, según sea el caso y corresponderá a la imposición de una multa por el equivalente al valor diario del importe de 2 a 100 unidades de medida y actualización, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones vigente.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 La Dirección de Tránsito podrá realizar amonestación verbal en los casos que así proceda.
 
-Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código Penal del Estado de Puebla, Código Reglamentario para el Municipio de Puebla, o algún otro ordenamiento que resulte aplicable.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código Penal del Estado de Puebla, Código Reglamentario para el Municipio de Puebla, o algún otro ordenamiento que resulte aplicable.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
@@ -5745,9 +5847,11 @@ TABULADOR DE INFRACCIONES Y SANCIONES
 
 De las infracciones en general y otras obligaciones.
 
-> <small>N. DE E. VÉASE TABLA EN LA CUARTA SECCIÓN DEL P.O. DE 2 DE MARZO DE 2015, PÁGINAS DE LA 46 A LA 55.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA CUARTA SECCIÓN DEL P.O. DE 2 DE MARZO DE 2015, PÁGINAS DE LA 46 A LA 55.]</small>
 
-> <small>N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.</small>
+> <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6943,11 +7047,11 @@ La infracción o contravención a las disposiciones del presente Capítulo dará
 
 Para la fijación de la sanción económica, ésta deberá hacerse entre el mínimo y el máximo establecidos, se deberá tomar en cuenta la gravedad de la infracción, las condiciones económicas del infractor ya sea persona física o moral a la que se sanciona, y demás circunstancias que sirvan para individualizar la sanción.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 451.
 
-La infracción de los artículos 382, 383, 409, 410, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 425, 436, 437, 438 y 454 de este Capítulo, o el incumplimiento contenido en el artículo 444, se sancionará con el equivalente de 50 a 5,000 días de salario mínimo general vigente en el Municipio de Puebla. Cuando haya reincidencias, se procederá (sic) la clausura temporal de los inmuebles o instalaciones descritos en los artículos antes mencionados, con excepción de escuelas y unidades habitacionales.
+La infracción de los artículos 382, 383, 409, 410, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 425, 436, 437, 438 y 454 de este Capítulo, o el incumplimiento contenido en el artículo 444, se sancionará con el equivalente al valor diario de 50 a 5,000 unidades de medida y actualización. Cuando haya reincidencias, se procederá (sic) la clausura temporal de los inmuebles o instalaciones descritos en los artículos antes mencionados, con excepción de escuelas y unidades habitacionales
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -7585,9 +7689,13 @@ DE LAS SANCIONES
 
 La Unidad Operativa Municipal de Protección Civil impondrá las sanciones correspondientes por no cumplir con las medidas de seguridad señaladas en el presente Capítulo, en todos los demás casos de infracciones la autoridad encargada de imponer sanciones será la Coordinación de Fiscalización de Espectáculos Públicos. Debiendo sancionarse indistintamente con:
 
-I. Multa de 100 a 1000 días del salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravenir lo dispuesto en los artículos 479, 483, 484, 486, 487, 488, 489, 490 y 490 Bis.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-Multa de 400 a 500 días del salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravenir lo dispuesto en los artículos 492 Quinquies, 492 Sexies, 492 Septies y 492 Octies del presente Capítulo.
+I. Multa equivalente al valor diario de 100 a 1000 unidades de medida y actualización al momento de determinarla, por contravenir lo dispuesto en los artículos 479, 483, 484, 486, 487, 488, 489, 490 y 490 Bis.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Multa equivalente al valor diario de 400 a 500 unidades de medida y actualización al momento de determinarla, por contravenir lo dispuesto en los artículos 492 Quinquies, 492 Sexies, 492 Septies y 492 Octies del presente Capítulo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -8723,7 +8831,9 @@ h). Portar armas e introducir a la Plaza toda clase de debidas (sic) embriagante
 
 i) Ocupar los espacios destinados para las personas con discapacidad, sin serlo.
 
-A quien infrinja estas disposiciones, se le consignará al Juzgado Calificador para que se le aplique la sanción correspondiente, que consistirá en multa de cuatro a doce veces días de salario mínimo general diario, vigente en el Municipio de Puebla; o en su defecto, un arresto hasta por dieciocho horas.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. A quien infrinja estas disposiciones, se le consignará al Juzgado Calificador para que se le aplique la sanción correspondiente, que consistirá en multa equivalente al valor diario de 4 a 12 unidades de medida y actualización; o en su defecto, un arresto hasta por dieciocho horas.
 
 Para los efectos de estas prohibiciones, se considera como espectador, a toda persona que estando dentro de la Plaza, no forme parte del personal actuante o de servicio.
 
@@ -8755,13 +8865,21 @@ V. Cancelación de la licencia de funcionamiento.
 
 El incumplimiento a lo preceptuado a este Ordenamiento, se sancionará de la forma siguiente:
 
-I. Las multas a las Empresas serán entre doscientas y seiscientas veces el salario mínimo general diario vigente en el Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Las multas a los ganaderos serán entre doscientas y seiscientas veces el salario mínimo general diario vigente en el Municipio de Puebla;
+I. Las multas a las Empresas serán el equivalente al valor diario entre 200 y 600 unidades de medida y actualización;
 
-III. Las multas a los matadores serán entre cien y quinientas veces el salario mínimo general diario vigente en el Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Las multas a las cuadrillas y a los empleados de la Plaza, serán entre diez y cincuenta veces el salario mínimo general diario, vigente en el Municipio de Puebla.
+II. Las multas a los ganaderos serán el equivalente al valor diario entre 200 y 600 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Las multas a los matadores serán el equivalente al valor diario entre 100 y 500 unidades de medida y actualización.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Las multas a las cuadrillas y a los empleados de la Plaza, serán el equivalente al valor diario entre 10 y 50 unidades de medida y actualización.
 
 Del pago de todas estas multas, será solidariamente responsable la Empresa.
 
@@ -9367,7 +9485,9 @@ DE LAS SANCIONES
 
 Las infracciones al presente Capítulo cometidas en los establecimientos a que se refiere este Capítulo, serán sancionadas indistintamente con una o más de las siguientes sanciones:
 
-I. Multa de 100 a 1000 días salario mínimo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Multa del equivalente al valor diario de 100 a 1000 unidades de medida y actualización;
 
 II. Arresto administrativo hasta por 36 horas;
 
@@ -9423,11 +9543,11 @@ La resolución respectiva podrá ser recurrida a través del Recurso de Revisió
 
 A las personas que vendan o enajenen bebidas alcohólicas en la vía pública se les sancionará con arresto hasta por treinta y seis horas no conmutable con multa, así como decomiso de la mercancía.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 619.
 
-Los establecimientos que expendan bebidas alcohólicas sin licencia de funcionamiento, serán sancionados por la Unidad de Normatividad y Regulación Comercial con multa de 100 a 500 días de salario mínimo general diario vigente para el Estado de Puebla y además serán clausurados en forma definitiva.
+Los establecimientos que expendan bebidas alcohólicas sin licencia de funcionamiento, serán sancionados por la Unidad de Normatividad y Regulación Comercial con multa del equivalente al valor diario de 100 a 500 unidades de medida y actualización, y además serán clausurados en forma definitiva.
 
 ###### Artículo 620.
 
@@ -9445,9 +9565,11 @@ IV. Las circunstancias de tiempo y lugar en que haya sido cometida la infracció
 
 (DEROGADO, P.O. 27 DE MARZO DE 2006)
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 622.
 
-La base para cuantificar la multa será el salario mínimo general diario vigente en el Municipio de Puebla al momento de cometerse la infracción.
+La base para cuantificar la multa será la Unidad de Medida y Actualización diaria, vigente en la República Mexicana, al momento de cometerse la infracción.
 
 ###### Artículo 623.
 
@@ -9611,9 +9733,9 @@ Para el caso de los establecimientos cuyo giro comercial sea financiero, afianza
 
 Será aplicable a los establecimientos con giros comerciales de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple así como el original para su cotejo del contrato de adhesión o instrumento legal, debidamente registrado ante la Institución competente que regule su actividad.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-Los establecimientos con giro comercial de casa de empeño, así como las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso, fianza cuyo monto asegurado sea equivalente a cuatro mil veces el salario mínimo vigente en el Estado de Puebla, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para su constancia.
+Los establecimientos con giro comercial de casa de empeño, así como las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso, fianza cuyo monto asegurado sea equivalente al valor diario de 4,000 unidades de medida y actualización, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para su constancia.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
@@ -9841,7 +9963,9 @@ Lugar Paseo Bravo y Seminario Palafoxiano.
 
 Corresponde a la Unidad de Normatividad y Regulación Comercial determinar, calificar e imponer a quienes violen el presente Capítulo y los que resulten aplicables en la materia, indistintamente las siguientes sanciones:
 
-I. Multa equivalente al importe de 5 a 500 días de salario mínimo vigente en el Municipio de Puebla en el momento de la infracción;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Multa equivalente al valor diario de 5 a 500 unidades de medida y actualización en el momento de la infracción;
 
 II. Clausura temporal del negocio de 3 a 45 días; y
 
@@ -9861,13 +9985,17 @@ Para quienes permitan a los vendedores que comercializan en la vía pública, ve
 
 Las infracciones cometidas por establecimientos que se dediquen a la compra venta de oro, cobre, monedas y metales, casas de empeño y personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, serán sancionadas con:
 
-I. Multa desde doscientos cincuenta hasta ochocientos salarios mínimos vigentes en el Estado de Puebla;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Multa del equivalente al valor diario de 250 hasta 800 unidades de medida y actualización;
 
 II. Cancelación de la licencia; y
 
 III. Clausura temporal o definitiva.
 
-A. Sin perjuicio de las responsabilidades de orden penal que pudieran originarse, se impondrá multa de doscientos cincuenta a trescientos días de salario mínimo vigente en el Estado de Puebla y/o la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+A. Sin perjuicio de las responsabilidades de orden penal que pudieran originarse, se impondrá multa del equivalente al valor diario de 250 a 300 unidades de medida y actualización y/o la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo cuando:
 
 I. El licenciatario omita anexar al contrato de adhesión, los documentos que amparen la identidad del pignorante y los demás requisitos señalados en el presente Capítulo;
 
@@ -9875,7 +10003,9 @@ II. El licenciatario solicite extemporáneamente la revalidación de la licencia
 
 III. El licenciatario no actualice los dispositivos y material tecnológico que al efecto señale el Manual de Operaciones a que se hace referencia en el artículo 632 Bis.
 
-B. Se impondrá multa de setecientos cincuenta a ochocientos días de salario mínimo vigente en el Estado de Puebla y la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+B. Se impondrá multa del equivalente al valor diario de 750 a 800 unidades de medida y actualización y la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo, cuando:
 
 I. El licenciatario acumule dos multas por la misma causa dentro de un ejercicio fiscal.
 
@@ -12417,7 +12547,7 @@ VIII. Informe técnico de autorización emitido por la Unidad Operativa Municipa
 
 LICENCIA DE CONSTRUCCIÓN ESPECÍFICA
 
-## TÍTULO ÚNICO. DE LOS SERVICIOS PÚBLICOS A CARGO DEL MUNICIPIO DE PUEBLA
+## TÍTULO ÚNICO. DE LOS SERVICIOS A CARGO DEL MUNICIPIO DE PUEBLA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -16303,15 +16433,19 @@ El almacenamiento de los materiales explosivos que no ofrecen por sí los peligr
 
 VIVIENDAS DE INTERÉS SOCIAL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 1097.
 
-Se entiende como construcción de interés social, toda aquella que no exceda de la que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el Municipio de Puebla.
+Se entiende como construcción de interés social, toda aquella que no exceda de la que resulte de multiplicar por 15 el valor diario la unidad de medida y actualización elevada al año.
 
 ###### Artículo 1098.
 
 El área de vivienda de interés social no solamente será considerada aquella destinada a casa habitación, sino también aquellas áreas destinadas al recreo, deportes, áreas de acceso, estacionamiento, zonas comerciales y demás áreas que se requieran dentro del conjunto.
 
-Se entiende por vivienda popular, aquella que al término de su edificación su valor no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el estado.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+Se entiende por vivienda popular, aquella que al término de su edificación su valor no exceda de la suma que resulte de multiplicar por 25 el valor diario la unidad de medida y actualización elevada al año.
 
 ###### Artículo 1099.
 
@@ -17305,15 +17439,23 @@ II. Artículos 1108 y 1109, la clausura de la obra y multa del 3% del costo del 
 
 III. Artículos 1110, 1111 y 1112, la clausura del inmueble y multa equivalente a cien salarios mínimos vigentes en la región;
 
-IV. Artículo 1113, el cumplimiento inmediato y multa equivalente a diez salarios mínimos vigentes en la región;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. Artículo 1114, la multa equivalente a 50 salarios mínimos vigentes en la región.
+IV. Artículo 1113, el cumplimiento inmediato y multa equivalente al valor diario de 10 unidades de medida y actualización;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Artículo 1114, la multa equivalente al valor diario de 50 unidades de medida y actualización.
 
 La Dirección, sancionará a los propietarios, a los Peritos Directores Responsables de Obra o Corresponsables y a quienes resulten responsables de las infracciones comprobadas, en las visitas de inspección a que se refiere este apartado. Las sanciones no eximen al infractor de la obligación de corregir las irregularidades que hayan dado motivo al levantamiento de la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2016)</small>
+
 VI. SANCIONES A LOS PERITOS DIRECTORES RESPONSABLE (SIC) DE OBRA, A LOS PROPIETARIOS Y/O POSEEDORES: Se sancionará a los Peritos Directores Responsables de Obra, a los propietarios y/o poseedores, en los siguientes términos:
 
-a) Multa de 20 a 30 veces el salario mínimo general en el Municipio:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+a). Multa del equivalente al valor diario de 20 a 30 unidades de medida y actualización:
 
 1. Cuando en una obra en proceso no muestre o no se exhiban los documentos, planos, licencia, bitácora correspondiente a solicitud del inspector supervisor de la Dirección.
 
@@ -17323,7 +17465,9 @@ a) Multa de 20 a 30 veces el salario mínimo general en el Municipio:
 
 4. Cuando no se dé aviso de terminación de las obras dentro de los 20 días naturales posteriores al vencimiento de la licencia correspondiente.
 
-b) De 60 a 80 veces el salario mínimo general en el Municipio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+b). Multa del equivalente al valor diario de 60 a 80 unidades de medida y actualización.
 
 1. Cuando el Perito Director Responsable de Obra no asista, por más de 4 semanas consecutivas, a la obra, sin justificación en bitácora.
 
@@ -17345,13 +17489,17 @@ d) Multa de 20 a 30 tantos de los importes de la licencia:
 
 Cuando realicen excavaciones que afecten la estabilidad del propio inmueble o de las construcciones de predios vecinos o de la vía pública.
 
-e) Multa de 100 a 150 veces el salario mínimo general en el Municipio:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-Cuando para obtener la expedición de licencias de construcción o durante la construcción o uso del inmueble se hayan presentado documentos falsos, independientemente de la pena que por la comisión de ese delito corresponda.
+e). Multa del equivalente al valor diario de 100 a 150 unidades de medida y actualización.
+
+Cuando para obtener la expedición de licencia de construcción o durante la construcción o durante la construcción (sic) o uso del inmueble se hayan presentado documentos falsos, independiente de la pena que por la comisión de ese delito corresponda.
 
 VII. SANCIONES ESPECÍFICAS PARA PERITOS DIRECTORES RESPONSABLES DE OBRA:
 
-a) Multa de hasta 150 veces el salario mínimo general en el Municipio:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+a). Multa del equivalente al valor diario hasta 150 unidades de medida y actualización:
 
 1. Cuando en la construcción o demolición de obras o para llevar a cabo excavaciones usen explosivos, sin la previa autorización de la autoridad competente y habiendo informado lo correspondiente a la Dirección cuando menos siete días hábiles de anticipación.
 
@@ -18529,7 +18677,9 @@ I. Suspensión de obras;
 
 II. Demolición; o
 
-III. Multa de doscientas hasta mil veces el Salario Mínimo General Diario vigente en el Municipio de Puebla al momento en que se cometió la infracción.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Multa del equivalente al valor diario de 200 hasta 1,000 unidades de medida y actualización al momento en que se cometió la infracción.
 
 ###### Artículo 1250.
 
@@ -18857,9 +19007,9 @@ VII. Verificar que los anuncios se coloquen conforme a los medios de control que
 
 VIII. Declarar bajo protesta de decir verdad las medidas totales del área de exhibición del anuncio;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IX. Exhibir fianza expedida por institución debidamente autorizada cuando se trate de aquellos anuncios señalados en las fracciones I, III, V, VI, VII, VIII, X, XI y XII del artículo 1299 del presente ordenamiento, a favor de la Tesorería Municipal, por un monto de 500 a 1,500 días de salario mínimo general vigente en el Municipio de Puebla al momento de su otorgamiento, para garantizar el retiro del anuncio, monto que será determinado por la Agencia de acuerdo al anuncio que se trate, de conformidad con lo establecido en el artículo 268 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+IX. Exhibir fianza expedida por institución debidamente autorizada cuando se trate de aquellos anuncios señalados en las fracciones I, III, V, VI, VII, VIII, X, XI y XII del artículo 1299 del presente ordenamiento, a favor de la Tesorería Municipal, por un monto del equivalente al valor diario de 500 a 1,500 unidades de medida y actualización al momento de su otorgamiento, para garantizar el retiro del anuncio, monto que será determinado por la Agencia de acuerdo al anuncio que se trate, de conformidad con lo establecido en el artículo 268 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
@@ -20635,9 +20785,9 @@ La resolución respectiva podrá ser recurrida a través del recurso de inconfor
 
 Cuando los anunciantes, propietarios, poseedores, titulares y/o responsables solidarios de los anuncios, se opongan u obstaculicen el ejercicio de las facultades que tienen las Autoridades consignadas en el presente Capítulo, estas últimas podrán en forma indistinta:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-a) Imponer una multa de 30 hasta 1,000 veces el salario mínimo general vigente en el Municipio de Puebla al momento de determinarla;
+a) Imponer una multa del equivalente al valor diario de 30 hasta 1,000 unidades de medida y actualización al momento de determinarla;
 
 b) Solicitar el auxilio de la fuerza pública que permita la ejecución de la diligencia correspondiente; y
 
@@ -20731,29 +20881,29 @@ La contravención a las disposiciones de este Capítulo, se sancionarán de la s
 
 I. Se aplicará amonestación con apercibimiento a los titulares de los permisos publicitarios, por violaciones a los artículos del 1281 al 1294;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Multa de 30 a 100 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1263, 1266, 1267 fracciones I a V, VII y VIII, 1272, 1277,1278 fracciones I a VI y 1295;
+II. Multa del equivalente al valor diario de 30 a 100 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1263, 1266, 1267 fracciones I a V, VII y VIII; 1272, 1277, 1278 fracciones I a VI y 1295;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Multa de 30 a 300 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1255, 1271, 1299 fracción VIII, 1308 fracciones VIII y IX, 1309, 1310,1315 y 1316;
+III. Multa del equivalente al valor diario de 30 a 300 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1255, 1271, 1299 fracción VIII, 1308 fracciones VIII y IX, 1309, 1310, 1315 y 1316;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Multa de 30 a 400 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por hacer caso omiso a la amonestación o apercibimiento, en términos de la fracción I de este artículo, así como por la contravención a los artículos 1264 fracciones I, II y V, 1279, 1299 fracciones II a V, 1308 fracciones I a VII, X y XI, 1325 y 1326;
+IV. Multa del equivalente al valor diario de 30 a 400 unidades de medida y actualización al momento de determinarla, por hacer caso omiso a la amonestación o apercibimiento, en términos de la fracción I de este artículo, así como por la contravención a los artículos 1264 fracciones I, II y V, 1279, 1299 fracciones II a V, 1308 fracciones I a VII, X y XI, 1325 y 1326;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. Multa de 40 a 500 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1317, 1320, 1327 y 1328;
+V. Multa del equivalente al valor diario de 40 a 500 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1317, 1320, 1327 y 1328;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI. Multa de 150 a 1,200 días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, por contravención a los artículos 1256 incisos a), b) y d), 1258, 1263 bis, 1264 fracciones III, IV, VI, VII, VIII y IX, 1265, 1269, 1270, 1270 Ter, 1272 Quáter, 1273, 1299 fracciones I, VI, VII, X, XI y XII;
+VI. Multa del equivalente al valor diario de 150 a 1,200 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1256 incisos a), b) y d), 1258, 1263 bis, 1264 fracciones III, IV, VI, VII, VIII y IX, 1265, 1269, 1270, 1270 Ter, 1272 Quáter, 1273, 1299 fracciones I, VI, VII, X, XI y XII.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-VII. Multa de 150 a 1,500 días de salario mínimo general vigente en el Municipio al momento de determinarla, a los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Capítulo y que cuenta con Licencia, Permiso y/o Permiso Publicitario, según lo prevea el presente ordenamiento y los demás que le sean aplicables; y a las personas físicas o jurídicas propietarias o poseedoras de los inmuebles y vehículos en los que se instale el anuncio, sin contar éste con la Licencia, Permiso y/o Publicitario Publicitario (sic) correspondiente;
+VII. Multa del equivalente al valor diario de 150 a 1,500 unidades de medida y actualización al momento de determinarla, a los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Capítulo y que cuenta con Licencia, Permiso y/o Permiso Publicitario, según lo prevea el presente ordenamiento y los demás que le sean aplicables; y a las personas físicas o jurídicas propietarias o poseedoras de los inmuebles y vehículos en los que se instale el anuncio, sin contar éste con la Licencia, Permiso y/o Publicitario correspondiente;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20769,13 +20919,19 @@ d) Clausura definitiva en los supuestos señalados en el artículo 1330 fraccion
 
 e) La clausura definitiva origina subsecuentemente el retiro del anuncio.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2016)</small>
 
 IX. Retiro del anuncio en los siguientes casos:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 a) Cuando no cuente con Licencia, Permiso y/o Permiso Publicitario;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 b) Cuando la Agencia, haya determinado la clausura y el anunciante, propietario, poseedor, titular y/o responsable solidario del anuncio permanezca en una situación irregular y/o no haya pagado los derechos y multas a las que se hizo acreedor o en su caso haga caso omiso al cumplimiento de sus obligaciones; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2016)</small>
 
 c) Cuando se incurra en los supuestos señalados en los artículos 1329 fracciones I a IV; y 1330 fracciones III, IV y V.
 
@@ -20787,9 +20943,9 @@ La reincidencia se sancionará con la imposición del doble de la multa impuesta
 
 Los responsables solidarios, a que se refiere el artículo 1256 de este ordenamiento, responderán por el pago de gastos y multas, que determine la autoridad competente, por las infracciones cometidas al presente Capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-Cualquier otra violación a las disposiciones del presente Capítulo, cuya sanción no esté expresamente prevista y que implique contravención grave al espíritu del presente Capítulo, se impondrá multa de 200 a 2,500 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla. Se impondrá la multa señalada en el presente artículo y se procederá al retiro del anuncio con cargo al particular, cuando:
+Cualquier otra violación a las disposiciones del presente Capítulo, cuya sanción no esté expresamente prevista y que implique contravención grave al espíritu del presente Capítulo, se impondrá multa del equivalente al valor diario de 200 a 2,500 unidades de medida y actualización al momento de determinarla. Se impondrá la multa señalada en el presente artículo y se procederá al retiro del anuncio con cargo al particular, cuando:
 
 a) Con su instalación se cause perjuicio al interés social o se contravengan disposiciones de orden público.
 
@@ -20855,7 +21011,9 @@ Los anuncios políticos o electorales, se sujetarán a las disposiciones que al 
 
 Queda estrictamente prohibido fijar, instalar, y ubicar anuncios políticos o electorales dentro de la Zona de Monumentos a que se refiere el artículo 1186 fracción XXX de este Código, aun cuando sean tiempos electorales, con la finalidad de salvaguardar el patrimonio histórico de la Ciudad de Puebla.
 
-Quien infrinja lo dispuesto por el párrafo anterior, serán sancionados con una multa de 200 a 3,000 días de salario mínimo general vigente en el Municipio al momento de determinarla.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+Quien infrinja lo dispuesto por el párrafo anterior, serán sancionados con una multa del equivalente al valor diario de 200 a 3,000 unidades de medida y actualización al momento de determinarla.
 
 ###### Artículo 1344.
 
@@ -20881,11 +21039,11 @@ La colocación de todo anuncio electoral que no esté ubicado en los lugares aut
 
 El Ayuntamiento acordará lo que estime conveniente, a efecto de salvaguardar la imagen urbana, procurando desde luego, que en la Zona de Monumentos declarada así mediante Decreto publicado en el Diario Oficial de la Federación de fecha dieciocho de noviembre de mil novecientos setenta y siete, no se coloque ningún tipo de anuncios políticos o electorales y que en las demás zonas del territorio del Municipio de Puebla, no se produzca contaminación visual ni colocación o fijación excesiva de este tipo de anuncios, independientemente de que la que sea colocada, deberá ser retirada por quienes tengan la calidad de responsables en términos del presente Capítulo, a más tardar en un término de diez días.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 1348.
 
-En caso de incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa de 1,000 días de salario mínimo general vigente en el Municipio al momento de determinarla, en el entendido de que las infracciones al presente Capitulo relativos a la propaganda electoral, se sujetarán a lo dispuesto por el artículo 1344 del presente ordenamiento. Lo anterior, independientemente de las sanciones a que se hagan acreedores por virtud de la aplicación del presente Código Reglamentario.
+En caso de incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa del equivalente al valor diario de 1,000 unidades de medida y actualización al momento de determinarla, en el entendido de que las infracciones al presente Capítulo relativos a la propaganda electoral, se sujetarán a lo dispuesto por el artículo 1344 del presente ordenamiento. Lo anterior, independientemente de las sanciones a que se hagan acreedores por virtud de la aplicación del presente Código Reglamentario.
 
 ###### Artículo 1349.
 
@@ -20893,11 +21051,11 @@ La imposición de la sanción a que se refiere el artículo anterior por la inob
 
 # LIBRO CUARTO. SERVICIOS PÚBLICOS
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 ## TÍTULO ÚNICO
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL ACUERDO DE CABILDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PUBLICADO EN EL P.O. 7 DE SEPTIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE CAPÍTULO.</small>
-
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
 
@@ -21393,7 +21551,9 @@ II. Colocar depósitos para almacenar sus desechos y el de sus clientes;
 
 III. Entregar los residuos sólidos urbanos que generen, a los camiones recolectores, pagando la cuota correspondiente; y
 
-IV. La Unidad Administrativa que otorgue el permiso correspondiente, emitirá copia al Organismo para que, en caso de incumplimiento, sancione al solicitante del mismo. En los casos de espectáculos cuyo organizador no tenga domicilio en esta Ciudad deberá dejar depósito equivalente a 200 días de salario mínimo, el cual se devolverá cuando se compruebe que ha dejado limpio el sitio donde realizó sus actividades.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. La Unidad Administrativa que otorgue el permiso correspondiente, emitirá copia al Organismo para que, en caso de incumplimiento, sancione al solicitante del mismo. En los casos de espectáculos cuyo organizador no tenga domicilio en esta Ciudad deberá dejar depósito equivalente al valor diario de 200 unidades de medida y actualización, el cual se devolverá cuando se compruebe que ha dejado limpio el sitio donde realizó sus actividades.
 
 ###### Artículo 1366.
 
@@ -21739,57 +21899,65 @@ A quien infrinja el presente Capítulo, se le impondrá indistintamente por part
 
 I. Amonestación;
 
-II. Multas con base en días de salario mínimo (DSM) vigente en la Ciudad de Puebla en el momento de la infracción y bajo los siguientes criterios:
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+II. Multas con base al valor diario de unidades de medida y actualización en el momento de la infracción y bajo los siguientes criterios:
 
-a) De 1 a 10 (DSM).- A quienes mantengan sucias las banquetas y arroyos del frente de sus casas o comercios hacia la vía pública sin causa justificada, y a quienes no respeten los horarios y días de recolección indicados por el Organismo.
+a) Equivalente al valor diario de 1 a 10 unidades de medida y actualización a quienes mantengan sucias las banquetas y arroyos del frente de sus casas o comercios hacia la vía pública sin causa justificada y a quienes no respeten los horarios y días de recolección indicados por el Organismo.
 
-b) De 1 a 20 (DSM).- A quien sea sorprendido o se le detecte depositando basura en la vía pública, haciendo montoneras o depositándola fuera de contenedores, hasta por un volumen que no exceda el de una cubeta de 20 litros, si la cantidad es mayor se sancionará proporcionalmente al volumen equivalente en cubetas depositadas.
+b) Equivalente al valor diario de 1 a 20 unidades de medida y actualización a quien sea sorprendido o se le detecte depositando basura en la vía pública, haciendo montoneras o depositándola fuera de contenedores, hasta por un volumen que no exceda el de una cubeta de 20 litros, si la cantidad es mayor se sancionará proporcionalmente al volumen equivalente en cubetas depositadas.
 
-c) De 1 a 10 (DSM).- A las personas que se les sorprenda efectuando labores de pepena, en la vía pública.
+c) Equivalente al valor diario de 1 a 10 unidades de medida y actualización, a las personas que se les sorprenda efectuando labores de pepena, en la vía pública.
 
-d) De 1 a 30 (DSM).- A quienes sean sorprendidos arrojando cadáveres de animales en la vía pública, barrancas o terrenos baldíos.
+d) Equivalente al valor diario de 1 a 30 unidades de medida y actualización, a quienes sean sorprendidos arrojando cadáveres de animales en la vía pública, barrancas o terrenos baldíos.
 
-e) De 5 a 20 (DSM) A los peatones, automovilistas o sus acompañantes, choferes o usuarios del transporte público que sean sorprendidos en flagrancia arrojando basura a la vía pública.
+e) Equivalente al valor diario de 5 a 20 unidades de medida y actualización, a los peatones, automovilistas o sus acompañantes, choferes o usuarios del transporte público que sean sorprendidos en flagrancia arrojando basura a la vía pública.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2013)</small>
+f) Equivalente al valor diario de 10 a 100 unidades de medida y actualización, a quienes sean sorprendidos o se les detecte depositando residuos sólidos urbanos, en lugares distintos a los sitios de disposición final autorizados por el Organismo, de igual forma a quienes quemen basura en montoneras, barrancas y terrenos baldíos; y a quien traslade residuos sólidos urbanos (sic) basura sin la autorización escrita del Organismo.
 
-f) De 10 a 100 (DSM).- A quienes sean sorprendidos o se les detecte depositando residuos sólidos urbanos en lugares distintos a los sitios de disposición final autorizados por el Organismo, de igual forma a quienes quemen basura en montoneras, barrancas y terrenos baldíos; y a quien traslade residuos sólidos urbanos basura sin la autorización escrita del Organismo.
+g) Equivalente al valor diario de 10 a 150 unidades de medida y actualización, a quienes sean sorprendidos arrojando escombro de construcción y cualquier otro tipo de desechos a barrancas, ríos, lagos y reservas ecológicas y vía pública.
 
-g) De 10 a 150 (DSM).- A quienes sean sorprendidos arrojando escombro de construcción y cualquier otro tipo de desechos a barrancas, ríos, lagos y reservas ecológicas y vía pública.
+h) Equivalente al valor diario de 50 a 1,500 unidades de medida y actualización, a los comercios, industrias, prestadores de servicios, empresas de diversiones y/o de espectáculos públicos, hospitales y clínicas que no cuenten con el contrato con el concesionario autorizado, para la prestación del servicio de recolección, transporte y disposición final de residuos sólidos municipales generados por sus actividades.
 
-h) De 50 a 1,500 (DSM).- A los comercios, industrias, prestadores de servicios, empresas de diversiones y/o de espectáculos públicos, hospitales y clínicas que no cuenten con el contrato con el concesionario autorizado, para la prestación del servicio de recolección, transporte y disposición final de residuos sólidos municipales generados por sus actividades.
+i) Equivalente al valor diario de 50 a 2,000 unidades de medida y actualización, a quienes sean sorprendidos o se les detecte depositando residuos sólidos peligrosos en la vía pública, barrancas, ríos, lagos, reservas ecológicas y además en el caso de industrias y comercios, en las unidades de transporte de los concesionarios, sus contenedores, Relleno Sanitario y en general sitios diferentes a los autorizados por el Organismo. Asimismo será impuesta a aquellos recolectores de basura no autorizados.
 
-i) De 50 a 2,000 (DSM).- A quienes sean sorprendidos o se les detecte depositando residuos sólidos peligrosos en la vía pública, barrancas, ríos, lagos, reservas ecológicas y además en el caso de industrias y comercios, en las unidades de transporte de los concesionarios, sus contenedores, Relleno Sanitario y en general sitios diferentes a los autorizados por el Organismo. Asimismo será impuesta a aquellos recolectores de basura no autorizados.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+III.- Multa al concesionario de la recolección y transporte que incumpla, con alguna de las disposiciones del presente Capítulo en base al valor diario de la unidad de medida y actualización a la fecha de violación del mismo y bajo los siguientes criterios:
 
-III. Multa al concesionario de la recolección y transporte que incumpla, con alguna de las disposiciones del presente Capítulo en base al salario mínimo vigente a la fecha de violación del mismo y bajo los siguientes criterios:
+a) Equivalente al valor diario de 100 a 150 unidades de medida y actualización, por cambio de rutas y horarios u omisión del servicio en sectores de la colonia sin autorización del Organismo y por incumplimiento en la entrega al Organismo de los reportes, fianzas y estados financieros auditados indicados en el contrato concesión.
 
-a) 100 a 150 (DSM).- Por cambio de rutas y horarios u omisión del servicio en sectores de la colonia sin autorización del Organismo y por incumplimiento en la entrega al Organismo de los reportes, fianzas y estados financieros auditados, indicados en el contrato concesión.
+b) Equivalente al valor diario de 1,500 a 2,000 unidades de medida y actualización, por modificar el método de recolección de los desechos sólidos en alguna de las colonias de su responsabilidad sin autorización previa del Organismo.
 
-b) 1,500 a 2,000 (DSM).- Por modificar d método de recolección de los desechos sólidos en alguna de las colonias de su responsabilidad sin autorización previa del Organismo.
+c) Equivalente al valor diario de 2,500 a 3,000 unidades de medida y actualización, el omitir el servicio de recolección y transporte de los residuos sólidos municipales en alguna colonia que esté bajo su responsabilidad, excepto cuando por causa justificada haya sido aprobada por el Organismo.
 
-c) 2,500 a 3,000 (DSM).- Omitir el servicio de recolección y transporte de los residuos sólidos municipales en alguna colonia que esté bajo su responsabilidad, excepto cuando por causa justificada haya sido aprobada por el Organismo.
+d) Equivalente al valor diario de 4,000 a 4,100 unidades de medida y actualización, el aumentar unilateralmente las tarifas autorizadas y/o convenidas con los usuarios del servicio, ya sea por colonia, industria o comercio y sin autorización por escrito del Organismo.
 
-d) 4,000 a 4,100 (DSM).- Aumentar unilateralmente las tarifas autorizadas y/o convenidas con los usuarios del servicio, ya sea por colonia, industria o comercio y sin autorización por escrito del Organismo.
+e) Equivalente al valor diario de 5,000 a 5,100 unidades de medida y actualización, cuando el concesionario transporte y/o deposite en el Relleno Sanitario residuos sólidos peligrosos, procedentes de industrias y comercios sin especificación del análisis CRETIB, o en el caso de instalaciones de valoración, que procesen materiales diferentes a los listados en el Manifiesto de Impacto Ambiental aprobado. El Organismo deslindará responsabilidades entre el concesionario y el generador, y presentará reporte a la Procuraduría Federal de Protección al Medio Ambiente.
 
-e) 5,000 a 5,100 (DSM).- Cuando el concesionario transporte y/o deposite en el Relleno Sanitario residuos sólidos peligrosos, procedentes de industrias y comercios sin especificación del análisis CRETIB, o en el caso de instalaciones de valoración, que procesen materiales diferentes a los listados en el Manifiesto de Impacto Ambiental aprobado. El Organismo deslindará responsabilidades entre el concesionario y el generador, y presentará reporte a la Procuraduría Federal de Protección al Medio Ambiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
+IV.- Multa al concesionario de la disposición final por incumplimiento de alguna de las disposiciones del presente Capítulo en base al valor diario de las unidades de medida y actualización a la fecha de la violación del mismo y bajo los siguientes criterios:
 
-IV. Multa al concesionario de la disposición final por incumplimiento de alguna de las disposiciones del presente Capítulo, en base a días de salario mínimo (DSM) vigente a la fecha de la violación del mismo y bajo los siguientes criterios:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-a) 100 a 150 (DSM).- En caso de Relleno Sanitario, por reducir el frente de trabajo de cada celda, por abajo de lo indicado en el proyecto ejecutivo o por no prestar un servicio eficiente a los concesionarios de la recolección y transporte, o por no proporcionar al Organismo los reportes, fianzas y estados financieros auditados que se indican en el contrato concesión.
+a) Equivalente al valor diario de 100 a 150 unidades de medida y actualización en caso de Relleno Sanitario, por reducir el frente de trabajo de cada celda, por abajo de lo indicado en el proyecto ejecutivo o por no prestar un servicio eficiente a los concesionarios de la recolección y transporte, o por no proporcionar al Organismo los reportes, fianzas, y estados financieros auditados que se indican en el contrato concesión.
 
-b) 1,000 a 1,100 (DSM).- En caso de Relleno Sanitario, por modificar sin autorización escrita del Organismo las características del proyecto ejecutivo aprobado en cuanto a niveles, áreas de disposición final, espesores de las capas de basura y cubierta, o por cada día de retraso en la terminación de las celdas, de acuerdo al programa de obra aprobado por el Organismo y por modificaciones al proceso, sin autorización escrita de la autoridad competente y/o del Organismo, en caso de otro tipo de disposición final.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-c) 2,000 a 2,500 (DSM).- En caso de Relleno Sanitario, por permitir el escurrimiento de lixiviados fuera de las celdas y los cárcamos de rebombeo y por incumplimiento de los parámetros de medición de gases a la atmósfera, en caso de incineradores.
+b) Equivalente al valor diario de 1,000 a 1,100 unidades de medida y actualización en caso de relleno sanitario, por modificar sin autorización escrita del Organismo las características del proyecto ejecutivo aprobado en cuanto a niveles, áreas de disposición final, espesores de las capas de basura y cubierta, o por cada día de retraso en la terminación de las celdas de acuerdo al programa de obra aprobado por el Organismo y por modificaciones al proceso sin autorización escrita de la autoridad competente y/o del Organismo, en caso de otro tipo de disposición final.
 
-d) 4,000 4,500 (DSM).- Por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los concesionarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos no autorizados por la autoridad competente, para el transporte de residuos sólidos peligrosos en caso de instalaciones de valorización.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-e) 5,000 a 5,500 (DSM).- No cumplir con los requisitos solicitados en el Manifiesto de Impacto Ambiental aprobado por la autoridad competente, en todos los casos o por permitir la disposición final de residuos sólidos peligrosos en caso de Relleno Sanitario.
+c) Equivalente al valor diario de 2,000 a 2,500 unidades de medida y actualización en caso de Relleno Sanitario, por permitir el escurrimiento de lixiviados fuera de las celdas y los cárcamos de rebombeo y por incumplimiento de los parámetros de medición de gases a la atmósfera, en caso de incineradores.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+d) Equivalente al valor diario de 4,000 a 4,500 unidades de medida y actualización, por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los concesionarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos no autorizados por la autoridad competente para el transporte de residuos sólidos peligrosos en caso de instalaciones de valorización.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+e) Equivalente al valor diario de 5,000 a 5,500 unidades de medida y actualización, por no cumplir con los requisitos solicitados en el Manifiesto de Impacto Ambiental aprobado por la autoridad competente, en todos los casos o por permitir la disposición final de residuos sólidos peligrosos en caso de Relleno Sanitario.
 
 El listado anterior es enunciativo más no limitativo. Las infracciones al presente Capítulo, serán sancionadas de manera análoga a las anteriormente señaladas, tomando en consideración lo dispuesto por el artículo 1389 del presente Capítulo.
 
@@ -21819,9 +21987,13 @@ IV. El carácter intencional o negligente de la acción constitutiva de la infra
 
 V. Las circunstancias del tiempo y lugar en que haya sido cometida la infracción; y
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 VI. El beneficio o directamente obtenido por el infractor, derivado de los actos que motiven la sanción.
 
-Tratándose de jornaleros, obreros y trabajadores, no podrá imponérseles una multa mayor del importe de un día de salario.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+Tratándose de jornaleros, obreros y trabajadores, no podrá imponérseles una multa mayor del valor diario de una unidad de medida y actualización.
 
 Para los efectos de este Capítulo, será considerado como reincidente el ciudadano que cometa más de una vez conductas que impliquen infracciones a un mismo precepto.
 
@@ -22489,7 +22661,9 @@ Corresponde al Presidente Municipal por conducto de la Unidad de Normatividad y 
 
 I. Amonestación;
 
-II. Multa equivalente al importe de 5 a 350 días de salario mínimo vigente en el Municipio de Puebla en el momento de la infracción;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Multa equivalente del valor diario de 5 a 350 unidades de medida y actualización en el momento de la infracción;
 
 III. Clausura temporal del negocio de 3 a 45 días;
 
@@ -23155,9 +23329,11 @@ DE LAS INFRACCIONES Y SANCIONES
 
 Independientemente de las sanciones a que se hagan acreedores los infractores a las disposiciones municipales, y demás disposiciones estatales y federales, serán sancionados todos aquellos bodegueros y prestadores de servicios que no cumplan con lo dispuesto en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 1515.
 
-La base para cuantificar las multas establecidas dentro de este ordenamiento, será el salario mínimo general diario vigente en el Municipio de Puebla, al momento de cometerse la infracción.
+La base para cuantificar las multas establecidas dentro de este ordenamiento, será el valor diario de la unidad de medida y actualización al momento de cometerse la infracción.
 
 ###### Artículo 1516.
 
@@ -23177,17 +23353,29 @@ Si transcurridos los plazos a que se refiere el artículo anterior, no se recogi
 
 Los bodegueros que cometan una o más infracciones a este Capítulo, se harán acreedores a las sanciones siguientes:
 
-I. Multa equivalente a quince días de salario mínimo, por no contribuir con los gastos de la Central de Abasto, establecidos en la fracción V del artículo 1480 de este ordenamiento;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Multa equivalente a veinte días de salario por comercializar fuera de los límites de su bodega, o por comercializar en las áreas comunes de la Central de Abasto;
+I. Multa equivalente al valor diario de 15 unidades de medida y actualización, por no contribuir con los gastos de la Central de Abasto, establecidos en la fracción V del artículo 1480 de este ordenamiento;
 
-III. Multa equivalente a treinta días de salario mínimo, por no contar con el equipo de trabajo a que hace referencia la fracción VIII del artículo 1480 del presente ordenamiento; en caso de reincidencia se procederá a la clausura del local;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Multa equivalente a veinte días de salario mínimo por no sujetarse al horario establecido en este Capítulo;
+II. Multa equivalente al valor diario de 20 unidades de medida y actualización, por comercializar fuera de los límites de su bodega, o por comercializar en las áreas comunes de la Central de Abasto;
 
-V. Multa equivalente a veinte días de salario mínimo, por invadir los pasillos con básculas.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI. Multa equivalente a treinta días de salario mínimo, por rentar o prestar total o parcialmente los andenes de la Central de Abasto; y
+III. Multa equivalente al valor diario de 30 unidades de medida y actualización, por no contar con el equipo de trabajo a que hace referencia la fracción VIII del artículo 1480 del presente ordenamiento; en caso de reincidencia se procederá a la clausura del local;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Multa equivalente al valor diario de 20 unidades de medida y actualización, por no sujetarse al horario establecido en este Capítulo;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Multa equivalente al valor diario de 20 unidades de medida y actualización, por invadir los pasillos con básculas.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI. Multa equivalente al valor diario de 30 unidades de medida y actualización, por rentar o prestar total o parcialmente los andenes de la Central de Abasto; y
 
 VII. En el caso de alteración de básculas se aplicará la sanción que imponga la autoridad competente revisora o a solicitud del Consejo o del cliente afectado.
 
@@ -23219,9 +23407,11 @@ V. Trabajar sin la credencial que, para tal efecto, expidan el Consejo y la Dire
 
 VI. Hacer carga y descarga en zonas de tránsito vehicular y/o peatonal.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 1522.
 
-Los diableros que no realicen las aportaciones correspondientes a la Administración de la Central de Abasto, deberán pagar una multa equivalente a un día de salario mínimo, por cada semana que hayan prestado sus servicios sin haber pagado.
+Los diableros que no realicen las aportaciones correspondientes a la Administración de la Central de Abasto, deberán pagar una multa equivalente al valor diario de una unidad de medida y actualización, por cada semana que hayan prestado sus servicios sin haber pagado.
 
 ###### Artículo 1523.
 
@@ -23239,13 +23429,21 @@ a) Por no portar la credencial expedida por la Dirección de Abasto y Comercio I
 
 b) Por no cumplir con la obligación establecida en la fracción V del artículo 1484 de este Capítulo.
 
-II. Multa equivalente a un día de salario mínimo por estacionarse en un lugar específico, durante un tiempo mayor al necesario para atender a sus clientes;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Multa equivalente a tres días de salario mínimo, por cada día que se establezcan en alguna de las áreas comunes de la Central de Abasto;
+II. Multa equivalente al valor diario de una unidad de medida y actualización, por estacionarse en un lugar específico, durante un tiempo mayor al necesario para atender a sus clientes;
 
-IV. Multa equivalente a diez días de salario mínimo, por no cumplir con cada una de las obligaciones señaladas en la fracción VI del artículo 1484 de este Capítulo; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-V. Multa equivalente a tres días de salario mínimo, por cada día que prestaron sus servicios sin haber realizado sus aportaciones correspondientes a la Administración de la Central de Abasto.
+III. Multa equivalente al valor diario de 3 unidades de medida y actualización, por cada día que se establezcan en alguna de las áreas comunes de la Central de Abasto;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Multa equivalente al valor diario de 10 unidades de medida y actualización, por no cumplir con cada una de las obligaciones señaladas en la fracción VI del artículo 1484 de este Capítulo; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Multa equivalente al valor diario de 3 unidades de medida y actualización, por cada día que prestaron sus servicios sin haber realizado sus aportaciones correspondientes a la Administración de la Central de Abasto.
 
 ###### Artículo 1525.
 
@@ -23261,15 +23459,21 @@ b) Por estacionarse a realizar su venta, en algún lugar no contemplado o prohib
 
 II. Retiro de la mercancía y cancelación de la credencial, por vender otros productos de los autorizados en su credencial;
 
-III. Multa equivalente a un día de salario mínimo, por cada semana que hayan prestado sus servicios sin realizar sus aportaciones correspondientes a la Administración de la Central de Abasto; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Multa equivalente a tres días de salario mínimo por trabajar sin uniforme.
+III. Multa equivalente al valor diario de una unidad de medida y actualización por cada semana que hayan prestado sus servicios sin realizar sus aportaciones correspondientes a la Administración de la Central de Abasto; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Multa equivalente al valor diario de 3 unidades de medida y actualización, por trabajar sin uniforme.
 
 ###### Artículo 1526.
 
 Los taxistas y propietarios de las camionetas de acarreo que cometan una o más infracciones a este Capítulo, se harán acreedores a las siguientes sanciones:
 
-I. Multa equivalente a diez días de salario mínimo:
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Multa equivalente al valor diario de 10 unidades de medida y actualización;
 
 a) Por trabajar sin uniforme.
 
@@ -23283,7 +23487,9 @@ II. Suspensión temporal del servicio, por no identificar su vehículo como adsc
 
 III. Suspensión del servicio por tres días y baja por reincidencia, al violar las disposiciones de vialidad y tránsito dispuestas para la Central de Abasto, así como por cargar o descargar en zonas de tránsito vehicular y/o peatonal de la misma; y
 
-IV. Multa equivalente a tres días de salario mínimo, por cada semana que preste sus servicios dentro de la Central de Abasto, sin pagar sus cuotas correspondientes a la Administración de la misma.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Multa equivalente al valor diario de 3 unidades de medida y actualización, por cada semana que preste sus servicios dentro de la Central de Abasto, sin pagar sus cuotas correspondientes a la Administración de la misma.
 
 ###### Artículo 1527.
 
@@ -23299,11 +23505,15 @@ III. Retiro del producto o mercancía y del maletero del área, por invadir pasi
 
 b) Camionetas.
 
-I. Retiro del producto o mercancía y multa de diez días de salario mínimo, por vender productos no autorizados;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Retiro del producto o mercancía y multa del equivalente al valor diario de10 (sic) unidades de medida y actualización, por vender productos no autorizados;
 
 II. Retiro del producto o mercancía, y se impedirá la entrada del vehículo por no pagar sus derechos por piso; y
 
-III. Retiro del producto y multa equivalente a cinco días de salario mínimo, por invadir pasillos y zonas de circulación peatonal y vehicular.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Retiro del producto y multa equivalente al valor diario de 5 unidades de medida y actualización, por invadir pasillos y zonas de circulación peatonal y vehicular.
 
 ### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
@@ -24033,9 +24243,9 @@ Sin perjuicio de las normas establecidas en cualquier ordenamiento aplicable, la
 
 I. Amonestación;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Multa de 10 a 200 veces el salario mínimo general diario vigente en el Municipio, a juicio de la Dirección General de la Agencia, la que determinará por escrito lo conducente;
+II. Multa del equivalente al valor diario de 10 a 200 unidades de medida y actualización, a juicio de la Dirección General de la Agencia, la que determinará por escrito lo conducente;
 
 III. En su caso, revocación de la concesión otorgada a panteones particulares;
 
@@ -24889,9 +25099,9 @@ XI.- Abandonar productos cárnicos en las instalaciones del rastro o en el merca
 
 XII.- Infringir las disposiciones que en la materia determine el Ayuntamiento, en su caso, el concesionario.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-DE LAS INFRACCIONES Y SANCIONES
+DE LA (SIC) INFRACCIONES Y SANCIONES
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -24915,23 +25125,41 @@ V.- Decomiso.
 
 Son infracciones administrativas:
 
-I.- La falta del sello sanitario y/o documentación comprobatoria de la sanidad y legal procedencia de los productos cárnicos en canales, en piezas o en partes que se comercialicen en el Municipio, ya sean, nacionales o del extranjero; en cuyo caso, se impondrá multa de treinta a mil quinientos días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, decomiso;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II.- Alterar documentos oficiales: permisos, licencias y actas de visita; en cuyo caso, se impondrá multa de treinta a quinientos días de salario mínimo general, vigente en la ciudad de Puebla;
+I.- La falta del sello sanitario y/o documentación comprobatoria de la sanidad y legal procedencia de los productos cárnicos en canales, en piezas o en partes que se comercialicen en el Municipio, ya sean, nacionales o del extranjero; en cuyo caso, se impondrá multa del equivalente al valor diario de 30 a 1,500 unidades de medida y actualización, en su caso, decomiso;
 
-III.- No cumplir con las normas de higiene en las instalaciones de establecimientos o centros comerciales, que procesen, industrialicen y expendan el producto cárnico; en cuyo caso, se impondrá multa de cincuenta a mil quinientos días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, se procederá a la clausura;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV.- Sacrificar ganado mayor o menor fuera de las instalaciones del Rastro Municipal, sin autorización del Ayuntamiento; en cuyo caso, se impondrá multa de cincuenta a mil días de salario mínimo general, vigente en la ciudad de Puebla; además de la clausura;
+II.- Alterar documentos oficiales: permisos, licencias y actas de visita; en cuyo caso, se impondrá multa del equivalente al valor diario de 30 a 500 unidades de medida y actualización;
 
-V.- Introducir, sacrificar, refrigerar, transportar, comercializar productos cárnicos contaminados que pongan en riesgo la salud de la población en el Municipio; en cuyo caso, se impondrá multa de cien a mil días de salario mínimo general, vigente en la ciudad de Puebla; además del decomiso y/o revocación de permisos, licencias y autorizaciones;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-VI.- Omitir la entrega de la licencia de funcionamiento cuando se los requiera la Autoridad Municipal; en este caso, se impondrá multa de treinta a mil día (sic) de salario mínimo general, vigente en la ciudad de Puebla; además de la revocación de permisos, licencias y autorizaciones;
+III.- No cumplir con las normas de higiene en las instalaciones de establecimientos o centros comerciales, que procesen, industrialicen y expendan el producto cárnico; en cuyo caso, se impondrá multa del equivalente al valor diario de 50 a 1,500 unidades de medida y actualización, en su caso, se procederá a la clausura;
 
-VII.- Falta de la documentación comprobatoria de la sanidad y legal procedencia del ganado mayor o menor en pie, que entra al rastro; en este caso, se impondrá multa de treinta a quinientos días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, decomiso;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-VIII.- Omitir el informe al rastro del ganado mayor o menor en pie accidentado o que haya mostrado signos de enfermedad durante su transporte; en este caso, se impondrá multa de cincuenta a mil días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, decomiso; y
+IV.- Sacrificar ganado mayor o menor fuera de las instalaciones del Rastro Municipal, sin autorización del Ayuntamiento; en cuyo caso, se impondrá multa del equivalente al valor diario de 50 a 1,000 unidades de medida y actualización, además de la clausura;
 
-IX.- Las demás violaciones a lo establecido en el presente Capítulo; en cuyo caso, se impondrá multa de treinta a mil quinientos días de salario mínimo general, vigente en la ciudad de Puebla.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+V.- Introducir, sacrificar, refrigerar, transportar, comercializar productos cárnicos contaminados que pongan en riesgo la salud de la población en el Municipio; en cuyo caso, se impondrá multa del equivalente al valor diario de 100 a 1,000 unidades de medida y actualización, además del decomiso y/o revocación de permisos, licencias y autorizaciones;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VI.- Omitir la entrega de la licencia de funcionamiento cuando se los requiera la Autoridad Municipal; en este caso, se impondrá multa del equivalente al valor diario de 30 a 1,000 unidades de medida y actualización, además de la revocación de permisos, licencias y autorizaciones;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VII.- Falta de la documentación comprobatoria de la sanidad y legal procedencia del ganado mayor o menor en pie, que entra al rastro; en este caso, se impondrá multa del equivalente al valor diario de 30 a 500 unidades de medida y actualización, en su caso, decomiso;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+VIII.- Omitir el informe al rastro del ganado mayor o menor en pie accidentado o que haya mostrado signos de enfermedad durante su transporte; en este caso, se impondrá multa del equivalente al valor diario de 50 a 1,000 unidades de medida y actualización, en su caso, decomiso; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+IX.- Las demás violaciones a lo establecido en el presente Capítulo; en cuyo caso, se impondrá multa del equivalente al valor diario de 30 a 1,500 unidades de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -25553,13 +25781,17 @@ VI. Obstaculice condicione o impida el estacionamiento en la vía pública.
 
 Las infracciones a los preceptos de este Capítulo, señaladas en los artículos 1686 y 1686 bis, serán sancionadas administrativamente por las autoridades competentes, con una o más de las siguientes sanciones:
 
-I. Multa de veinticinco a treinta y cinco días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones IV, VI, XIII y XVII del artículo 1686, así como las fracciones I y V del artículo 1686 bis de esté Capítulo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Multa de treinta y seis a cincuenta días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones VIII, XII, XIV, XV y XVI del artículo 1686, así como las fracciones II y III del artículo 1686 bis de este Capítulo;
+I. Multa del equivalente al valor diario de 25 a 35 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones IV, VI, XIII y XVII del artículo 1686, así como las fracciones I y V del artículo 1686 bis de éste Capítulo;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Multa de cincuenta y un a setenta días de salario mínimo vigente en el Estado de Puebla al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones I, II, III, V, VII, IX y X del artículo 1686, así como las fracciones IV y VI del artículo 1686 Bis de este Capítulo;
+II. Multa del equivalente al valor diario de 36 a 50 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones VIII, XII, XIV, XV y XVI del artículo 1686, así como las fracciones II y III del artículo 1686 bis de este Capítulo;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Multa del equivalente al valor diario de 50 a 70 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones I, II, III, V, VII, IX, y X del artículo 1686, así como las fracciones IV y VI del artículo 1686 Bis de este Capítulo;
 
 IV. Clausura total o parcial, definitiva o temporal del estacionamiento; y
 
@@ -26789,7 +27021,9 @@ Cuando en el lugar objeto de la diligencia, alguno o algunas personas manifieste
 
 Las infracciones de carácter administrativo a los preceptos contenidos en el presente Capítulo del Código Reglamentario para el Municipio de Puebla, serán sancionadas conforme a lo siguiente:
 
-I. Multa por el equivalente de uno o cien días de salario mínimo general vigente en el Estado de Puebla, en el momento a imponer la sanción.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Multa por el equivalente del valor diario de 1 a 100 unidades de medida y actualización, en el momento a imponer la sanción.
 
 II. Reparación del daño ocasionado.
 
@@ -27749,67 +27983,157 @@ I. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2012)
 
 II. Apercibimiento;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-III. Multa de 20 a 3000 mil días de salario mínimo vigente en el Estado:
+III. Multa del equivalente al valor diario de 20 a 3000 unidades de medida y actualización
 
-SUPUESTO NORMATIVO INFRACCIÓN
-
-1.- Por carecer del dictamen favorable de la Dirección de Ecología, en los giros comerciales para los que se requiera, de conformidad con el presente Capítulo y las disposiciones de este Código Reglamentario Municipal
-
-De 10 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-2.- Por sobrepasar los límites establecidos en la normatividad ambiental vigente o causar molestias a la ciudadanía, al no controlar las emisiones contaminantes a la atmósfera procedente de fuentes fijas de competencia municipal
-
-De 10 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-3.- Por no dar aviso a la autoridad competente de las fallas en los equipos de control de contaminantes a la atmósfera en fuentes fijas de competencia municipal
-
-De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-4.- Por falta de permiso de la Dirección de Ecología para efectuar combustión a cielo abierto
-
-De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-5.- Por carecer de inscripción en el Padrón Municipal de giros de competencia municipal potencialmente emisores de contaminación ostensible a la atmósfera
-
-De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-6.- Por descarga al sistema de drenaje municipal, cauces naturales o al subsuelo aguas, productos o líquidos residuales provenientes de procesos cuyos parámetros estén fuera de las normas contempladas en la legislación y reglamentación ambiental vigente
-
-De 20 a 1500 días de Salario Mínimo Vigente en el Municipio de Puebla
+SUPUESTO NORMATIVO / INFRACCIÓN
 
 SUPUESTO NORMATIVO INFRACCIÓN
 
-7.- Por contaminar con residuos y no manejarlos, transportarlos y disponerlos adecuadamente de conformidad con la legislación ambiental vigente
+1. Por carecer del dictamen favorable Del equivalente
 
-De 15 a 50 días de Salario Mínimo Vigente en el Municipio de Puebla
+de la Subdirección de Ecología y Medio al valor diario de
 
-8.- Por realizar poda o derribo sin la autorización municipal, por unidad, independientemente de reparar el daño causado
+Ambiente, en los giros comerciales para 10 a 175 unidades
 
-De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+los que se requiera, de conformidad con de medida y
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+el presente Capítulo y las disposiciones actualización
 
-9.- Los giros comerciales, industriales o de servicios fijos o móviles que emitan ruido o vibraciones a la atmósfera que rebasen los niveles máximos permisibles.
+de este Código Reglamentario Municipal
 
-De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+2. Por sobrepasar los límites establecidos Del equivalente
 
-10.- Por carecer de bitácora de operación y mantenimiento de sus equipos de control anticontaminantes
+en la normatividad ambiental vigente o al valor diario de
 
-De 10 a 20 días de Salario Mínimo Vigente en el Municipio de Puebla
+causar molestias a la ciudadanía, al no 10 a 350 unidades
 
-11.- Por almacenar inadecuadamente o sin permiso de la autoridad competente residuos o substancias consideradas como peligrosas o contaminantes, así como abandonar en la vía pública o sitios públicos residuos provenientes de clínicas u hospitales
+controlar las emisiones contaminantes a de medida y
 
-De 35 a 300 días de Salario Mínimo Vigente en el Municipio de Puebla
+la atmósfera procedente de fuentes fijas actualización
 
-12.- Por carecer de equipo y autorización para la incineración o traslado de residuos y sustancias peligrosas por parte de la autoridad competente
+de competencia municipal
 
-De 10 a 200 días de Salario Mínimo Vigente en el Municipio de Puebla
+3. Por no dar aviso a la autoridad Del equivalente
 
-13.- Cuando las contravenciones a la reglamentación municipal vigente a que se refiere esta fracción, conlleven un riesgo de desequilibrio ecológico por casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, la sanción aplicable será
+competente de las fallas en los equipos al valor diario de
 
-De 50 a 3000 días de Salario Mínimo Vigente en el Municipio de Puebla
+de control de contaminantes a la atmósfera 20 a 350 unidades
+
+en fuentes fijas de competencia municipal de medida y
+
+actualización
+
+4. Por falta de permiso de la autoridad Del equivalente
+
+competente para efectuar combustión a cielo al valor diario de
+
+abierto 20 a 350 unidades
+
+de medida y
+
+actualización
+
+5. Por carecer de inscripción en el Padrón Del equivalente
+
+Municipal de giros de competencia municipal al valor diario de
+
+potencialmente emisores de contaminación 20 a 175 unidades
+
+ostensible a la atmósfera de medida y
+
+actualización
+
+6. Por descarga al sistema de drenaje Del equivalente
+
+municipal, cauces naturales o al subsuelo al valor diario de
+
+aguas, productos o líquidos residuales 20 a 1,500 unidades
+
+provenientes de procesos cuyos parámetros de medida y
+
+estén fuera de las normas contempladas en la actualización
+
+legislación y reglamentación ambiental vigente
+
+7. Por contaminar con residuos y no manejarlos, Del equivalente
+
+transportarlos y disponerlos adecuadamente al valor diario de
+
+de conformidad con la legislación ambiental 15 a 50 unidades
+
+vigente de medida y
+
+actualización
+
+8. Por realizar poda o derribo sin la Del equivalente
+
+autorización municipal, por unidad, al valor diario de
+
+independientemente de reparar el 20 a 175 unidades
+
+daño causado de medida y
+
+actualización
+
+9. Los giros comerciales, industriales o de Del equivalente
+
+servicios que emitan ruido o vibraciones al valor diario de
+
+a la atmósfera que rebasen los niveles 20 a 175 unidades
+
+máximos permisibles de la normatividad de medida y
+
+vigente, o que causen molestias a la actualización
+
+ciudadania.
+
+10. Por carecer de bitácora de operación y Del equivalente
+
+mantenimiento de sus equipos de control al valor diario de
+
+anticontaminantes 10 a 20 unidades
+
+de medida y
+
+actualización
+
+11. Por almacenar inadecuadamente o sin Del equivalente
+
+permiso de la autoridad competente residuos al valor diario de
+
+o substancias consideradas como peligrosas 35 a 300 unidades
+
+o contaminantes, así como abandonar en la vía de medida y
+
+pública o sitios públicos residuos provenientes actualización
+
+de clínicas u hospitales
+
+12. Por carecer de equipo y autorización para Del equivalente
+
+la incineración o traslado de residuos y sustancias al valor diario de
+
+peligrosas por parte de la autoridad competente 10 a 200 unidades
+
+de medida y
+
+actualización
+
+13. Cuando las contravenciones a la Del equivalente
+
+reglamentación municipal vigente a que se al valor diario de
+
+refiere esta fracción, conlleven un riesgo de 50 a 3,000 unidades
+
+desequilibrio ecológico por casos de de medida y
+
+contaminación con repercusiones peligrosas actualización
+
+para los ecosistemas, sus componentes o la
+
+salud pública, la sanción aplicable será
 
 Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto;
 
@@ -27829,9 +28153,13 @@ VIII. Arresto administrativo hasta por treinta y seis horas.
 
 En caso de no contar con autorización expresa por parte de la Agencia conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
 
-I.- Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente de quince días de salario mínimo vigentes en el Municipio de Puebla, por cada árbol derribado y tendrá el compromiso de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II.- Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente de cincuenta días de salario mínimo vigentes en el Municipio de Puebla, por cada árbol derribado y tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados; y
+I. Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 15 unidades de medida y actualización, por cada árbol derribado y tendrá el compromiso de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 50 unidades de medida y actualización, por cada árbol derribado y tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados; y
 
 III.- Cuando el derribo se realice para la construcción de obras, cuyas dimensiones, impliquen un fuerte impacto ambiental de la zona, para la recuperación de cobertura vegetal, la Agencia determinará la especie y número, considerándose el impacto al ambiente de la zona, independientemente de poder sancionar con clausura temporal o definitiva el lugar de la obra.
 
@@ -29343,11 +29671,9 @@ Las sanciones administrativas por violaciones a las disposiciones legales de est
 
 I. Apercibimiento por escrito de la autoridad municipal competente o amonestación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
-
-II. Multa por un importe de 1 a 5000 días de salario mínimo vigente en la Ciudad de Puebla, la cual podrá permutarse por arresto hasta por treinta y seis horas o por trabajo a favor de la comunidad, en los términos del presente Capítulo;
+II. Multa por un importe del equivalente al valor diario de 1 a 5,000 unidades de medida y actualización, la cual podrá permutarse por arresto hasta por treinta y seis horas o por trabajo a favor de la comunidad, en los términos del presente Capítulo;
 
 III. Clausura definitiva cuando exista reincidencia en los casos que haya motivado una clausura temporal o cuando se trate de hechos, actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por este Capítulo; y
 
@@ -29369,13 +29695,11 @@ VI. Trabajo a favor de la comunidad.
 
 Procederá el apercibimiento o amonestación por el Juez Calificador, en su caso, en aquellos supuestos en los que por primera vez se moleste a algún animal o se le dé un golpe que no deje huella o secuela y en aquellos casos que contemple el Capítulo de Policía y Gobierno del presente Código Reglamentario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 1920.
 
-Las multas causarán un importe de 1 a 5000 días de salario mínimo vigente en el Estado, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones y los siguientes criterios:
+Las multas causarán un importe del equivalente al valor diario de 1 a 5,000 unidades de medida y actualización, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones y los siguientes criterios:
 
 a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
@@ -29384,6 +29708,8 @@ a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 b) Sanciones que se determinarán de la siguiente manera:
 
 (VÉASE ARCHIVO ANEXO)
+
+> <small>[N. DE E. VÉASE ANEXOS EN EL P.O. DE 31 DE OCTUBRE DE 2016, PÁGINA 31.]</small>
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -29947,7 +30273,9 @@ A quien sea sorprendido elaborando graffitis, se le trasladará al Juzgado Calif
 
 En el caso de propietarios, encargados de establecimientos o de personas que expendan o ayuden a los menores a conseguir las sustancias tóxicas y pinturas en aerosol, serán sancionadas de acuerdo a lo siguiente:
 
-I. Multa de 10 a 200 veces el salario mínimo diario vigente en el Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+I. Multa del equivalente al valor diario de 10 a 200 unidades de medida y actualización;
 
 II. Cancelación del permiso para la venta de dichas substancias y pinturas en aerosol;
 
@@ -30307,7 +30635,9 @@ TABLA NÚMERO UNO
 
 ## TÍTULO ÚNICO
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL ACUERDO DE CABILDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PUBLICADO EN EL P.O. 7 DE SEPTIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE CAPÍTULO.</small>
+
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
 
@@ -31445,11 +31775,15 @@ Para cubrir la vacante de un Servidor Público que haya obtenido la licencia, la
 
 Cuando por necesidades del servicio público se lleve a cabo una reestructuración o reorganización administrativa que implique supresión o modificación de áreas de las dependencias de la Administración Pública Municipal, el Servidor Público deberá ser reubicado en otra área, sin perjuicio de su Categoría Profesional y Nivel Personal, respetando la residencia de su adscripción.
 
-> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 # LIBRO SÉPTIMO
 
-> <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
 ### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
 
@@ -32567,7 +32901,9 @@ I. Presentar con cinco días de anticipación cuando menos a la fecha en que vay
 
 II. Presentar en la sesión ordinaria de la Comisión en la que se haya discutido y aprobado el programa correspondiente; la autorización de salida de la Comisión a que pertenezca el boxeador, la cual deberá ser firmada además por el Jefe del Servicio Médico de la Comisión que la haya expedido, para comprobar que el boxeador al salir estaba en buenas condiciones para cumplir su compromiso, y
 
-III. Serán sancionados con un equivalente a 25 salarios mínimos vigentes en el Estado, los boxeadores o luchadores locales estelaristas, que no se presenten ante la Comisión en la Sesión Ordinaria en que se dicten y aprueben los programas de las funciones en los que vaya a tomar parte.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Serán sancionados con un equivalente al valor diario de 25 unidades de medida y actualización, los boxeadores o luchadores locales estelaristas, que no se presenten ante la Comisión en la Sesión Ordinaria en que se dicten y aprueben los programas de las funciones en los que vaya a tomar parte.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -33157,13 +33493,17 @@ La Comisión, acepta por lo que se refiere a la vigencia o plazo por el cual se 
 
 Para los efectos de la garantía mínima anual correspondiente del presente Capitulo, los boxeadores se clasificaran en las siguientes categorías:
 
-I. Estelaristas 250 salarios mínimos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Semifinalistas 150 salarios mínimos vigentes en el Estado.
+I. Estelaristas equivalente al valor diario de 250 unidades de medida y actualización.
 
-III. Preliminares
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-de 6 u 8 asaltos 100 salarios mínimos vigentes en el Estado.
+II. Semifinalistas equivalente al valor diario de 150 unidades de medida y actualización.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Preliminares de 6 u 8 asaltos equivalente al valor diario de 100 unidades de medida y actualización.
 
 IV. Preliminares de 4 asaltos, podrán firmar si lo desean, únicamente carta poder a un representante, quedando obligadas ambas partes a suscribir el contrato correspondiente, con la garantía establecida cuando suban de categoría.
 
@@ -33245,11 +33585,11 @@ Cuando alguna empresa de box profesional organice dentro del Municipio peleas de
 
 Cuando la Comisión, acepte un retador a un Título Estatal, deberá comunicarlo a la Asociación o Consejo de Box correspondiente, para su aprobación y notificación del reconocimiento del retador, la Asociación o Consejo de Box correspondiente emplazará al Campeón quien deberá exponer su título ante el retador en un plazo no mayor de cuarenta y cinco días a partir de la fecha en que fue emplazado.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 2222.
 
-El Campeón Estatal y el retador deberán hacer un depósito equivalente a 200 salarios mínimos vigentes en el Estado, ante la Comisión, para garantizar que se llevará a efecto la pelea titular y los cuales serán devueltos al término de la función.
+El Campeón Estatal y el retador deberán hacer un depósito equivalente al valor diario de 200 unidades de medida y actualización, ante la Comisión, para garantizar que se llevará a efecto la pelea titular y los cuales serán devueltos al término de la función.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -33395,7 +33735,9 @@ La Comisión podrá imponer a los infractores de las disposiciones contenidas en
 
 I. Amonestaciones públicas o privadas;
 
-II. Sanciones económicas, que puede ir de los diez a los cien días de salario mínimo general vigente de la zona tomando en cuenta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Sanciones económicas, que puede ir del equivalente al valor diario de los 10 a las 100 unidades de medida y actualización, tomando en cuenta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
 
 III. Suspensión temporal de la licencia que pueden ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
 
@@ -34707,7 +35049,7 @@ DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
 ###### Artículo 2335 Sexies.
 
-El Premio Municipal de Investigación Histórica: "Hugo Leicht" será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+El Premio Municipal de Investigación Histórica: “Hugo Leicht” será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -35217,11 +35559,17 @@ III. Mantener permanentemente actualizados sus Portales Transaccionales y los da
 
 Las violaciones al presente Capitulo serán sancionadas sin perjuicio de las acciones legales que procedan, por el Honorable Ayuntamiento de Puebla, mismas que son:
 
-I. A quien altere, distorsione, menoscabe o modifique los documentos públicos que se emitan o reciban a través de los medios electrónicos de comunicación, se le impondrá una multa por el importe de 100 a 200 días de salario mínimo general vigente en el Municipio y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. A quien haga uso indebido de los medios electrónicos a cargo de los servidores públicos del Gobierno Municipal, se le impondrá una multa por el importe de 50 a 100 días de salario mínimo general vigente en el Municipio y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
+I. A quien altere, distorsione, menoscabe o modifique los documentos públicos que se emitan o reciban a través de los medios electrónicos de comunicación, se le impondrá una multa por el equivalente al valor diario de 100 a 200 unidades de medida y actualización, y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
 
-III. A quien elimine, borre o impida que cualquier archivo sea enviado y recibido en tiempo y forma legal se le impondrá una multa por el importe de 100 a 200 días de salario mínimo general vigente en el Municipio y en caso de ser usuario la revocación de su cuenta de correo electrónico.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. A quien haga uso indebido de los medios electrónicos a cargo de los servidores públicos del Gobierno Municipal, se le impondrá una multa por el equivalente al valor diario de 50 a 100 unidades de medida y actualización, y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. A quien elimine, borre o impida que cualquier archivo sea enviado y recibido en tiempo y forma legal se le impondrá una multa por el equivalente al valor diario de 100 a 200 unidades de medida y actualización, y en caso de ser usuario la revocación de su cuenta de correo electrónico.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
@@ -36033,21 +36381,13 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 
 TERCERO. Por única ocasión, el Consejo de Premiación correspondiente, determinará lo procedente respecto de las convocatorias que se encuentren en proceso, así como de la entrega de los Premios.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+P.O. 31 DE OCTUBRE DE 2016.
 
-PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 14 DE OCTUBRE DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LA COMISIÓN DE PATRIMONIO Y HACIENDA PÚBLICA MUNICIPAL, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
-SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
-TERCERO.- Las referencias que contengan las disposiciones normativas de jerarquía inferior al Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia o los convenios de colaboración, coordinación u otros instrumentos convencionales que aludan a la Unidad de Atención a Población Vulnerable o a la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad relativas a disposiciones previas a esta reforma y que son motivo de la misma, se entenderán implícitamente aludidas a la Unidad de Asistencia e Inclusión Social y a la Dirección General de Integración Social y se mantendrán en vigor en tales términos, por lo que estas últimas unidades administrativas referidas, en su caso, deberán proponer los correspondientes convenios modificatorios de ser necesario y otros que en lo sucesivo se requieran para el cumplimiento de sus facultades estatutarias.
-
-CUARTO.- Únicamente se derogan las disposiciones normativas de jerarquía inferior a la presente reforma al Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, en aquello que se opongan o contravengan expresamente al presente Acuerdo.
-
-QUINTO.- Los asuntos en trámite y otros elementos que guarden relación con la administración, operación de establecimientos asistenciales para niñez migrante, motivo de la presente reforma deberán ser transferidos por la Unidad de Atención a Población Vulnerable o la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad para su continuidad hacia la Unidad de Asistencia e Inclusión Social y a la Dirección General de Integración Social en un plazo de 15 días hábiles a partir de la entrada en vigor del presente, sin que se demerite el desarrollo de los trabajos, lo anterior de conformidad con lo dispuesto por los artículos 45 y 46 de los Lineamientos Generales para la regulación de los procesos de entrega-recepción y de rendición de cuentas de la Administración Pública Federal, cuya última reforma fue publicada en el Diario Oficial de la Federación el seis de diciembre de dos mil dieciocho.
-
-SEXTO.- Las eventualidades que surjan relacionadas con recursos materiales, humanos u otras de diversa índole serán resueltas por el Jefe de la Unidad de Administración y Finanzas, conforme a lo dispuesto por el artículo 19, fracción VI del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el cinco de diciembre de dos mil diecinueve.
-
-D.O.F. 10 DE AGOSTO DE 2023.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 
 ## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023” OBTENIDOS DE: https://www.dof.gob.mx/2023/DIF/EstatutoSNDIF.pdf]
 
