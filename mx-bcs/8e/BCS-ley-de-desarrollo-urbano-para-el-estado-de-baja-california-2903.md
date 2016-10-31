@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-desarrollo-urbano-para-el-estado-de-baja-california-2903
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-22"
-last_updated: "2015-05-31"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2903&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 22 de julio de 1994.
 
@@ -1595,7 +1595,9 @@ LAS SANCIONES ADMINISTRATIVAS PODRAN CONSISTIR EN:
 
 I.- CLAUSURA TEMPORAL O DEFINITIVA, PARCIAL O TOTAL DE LAS INSTALACIONES, CONSTRUCCIONES, OBRAS Y SERVICIOS;
 
-II.- MULTA DESDE CINCO HASTA MIL DIAS EQUIVALENTES AL SALARIO MINIMO VIGENTE, O HASTA EL 10% DEL VALOR COMERCIAL DEL INMUEBLE;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- MULTA DESDE CINCO HASTA MIL VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, O HASTA EL 10% DEL VALOR COMERCIAL DEL INMUEBLE;
 
 III.- CANCELACION DEFINITIVA DE LOS PERMISOS Y LICENCIAS;
 
@@ -1716,3 +1718,11 @@ SEGUNDO.- El Reglamento Interno del Consejo Estatal de Ordenamiento Territorial,
 B.O. 31 DE MAYO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
