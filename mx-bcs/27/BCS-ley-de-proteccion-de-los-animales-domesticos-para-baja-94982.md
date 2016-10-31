@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-de-los-animales-domesticos-para-baja-94982"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-20"
-last_updated: "2013-06-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN DE LOS ANIMALES DOMÉSTICOS PARA BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2013.
 
@@ -339,15 +339,21 @@ I. Amonestación;
 
 II. Trabajo comunitario para difundir la presente ley o aseo de la vía pública y parques;
 
-III. Multas de cuatro a cien veces el equivalente a salarios mínimos y;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Multas equivalente de cuatro a cien veces el valor diario de la Unidad de Medida y Actualización; y
 
 IV. Arresto administrativo por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar, independientemente de la aplicación de otros ordenamientos legales aplicables.
 
-En el caso de que las infracciones, hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas, con la explotación y cuidado de los animales víctimas de los malos tratos, o que sean propietarios de vehículos exclusivamente destinados a transporte de éstos, la multa será de diez a cincuenta veces el salario mínimo de nuestra zona, sin perjuicio de las demás sanciones, que procedan conforme a los ordenamientos legales.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En el caso de que las infracciones, hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas, con la explotación y cuidado de los animales víctimas de los malos tratos, o que sean propietarios de vehículos exclusivamente destinados a transporte de éstos, la multa será equivalente de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las demás sanciones, que procedan conforme a los ordenamientos legales.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 26.
 
-Los propietarios, administradores o encargados de rastros que no cumplan con las disposiciones señaladas en esta ley, se harán acreedores a multas que podrán ser desde cuatro hasta sesenta veces el equivalente del salario mínimo vigente y en su caso la cancelación de los permisos para ejercer las actividades propias de los mismos.
+Los propietarios, administradores o encargados de rastros que no cumplan con las disposiciones señaladas en esta ley, se harán acreedores a multas que podrán ser desde el equivalente a cuatro hasta sesenta veces el valor diario de la Unidad de Medida y Actualización y en su caso la cancelación de los permisos para ejercer las actividades propias de los mismos.
 
 ###### Artículo 27.
 
@@ -408,3 +414,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
