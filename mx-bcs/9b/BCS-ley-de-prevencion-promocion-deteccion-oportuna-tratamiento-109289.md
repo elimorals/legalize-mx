@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-prevencion-promocion-deteccion-oportuna-tratamiento-1092
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-20"
-last_updated: "2015-07-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DE PREVENCIÓN, PROMOCIÓN, DETECCIÓN OPORTUNA, TRATAMIENTO, CONTROL Y REINSERCIÓN SOCIAL DE LAS PERSONAS CON ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 2267, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL AÑO DOS MIL DIECISÉIS.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de julio de 2015.
 
@@ -763,7 +761,9 @@ Las violaciones a esta Ley y su reglamento, sin perjuicio de la responsabilidad 
 
 I. Amonestación con apercibimiento;
 
-II. Multa de cincuenta hasta trescientas veces el salario mínimo general diario vigente; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Multa de cincuenta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización; y
 
 III. Suspensión parcial o total de actividades y servicios o la clausura del centro de atención.
 
@@ -858,3 +858,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
