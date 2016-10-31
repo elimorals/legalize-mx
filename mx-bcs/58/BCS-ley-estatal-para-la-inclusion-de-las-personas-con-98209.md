@@ -4,7 +4,7 @@ identifier: "BCS-ley-estatal-para-la-inclusion-de-las-personas-con-98209"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-27"
-last_updated: "2014-07-31"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 27 de enero de 2014.
 
@@ -1379,7 +1379,9 @@ Las medidas de seguridad se mantendrán vigentes hasta en tanto se subsane la ir
 
 Las infracciones a las disposiciones de esta ley, serán sancionadas por la autoridad competente en la materia con:
 
-I.- Multa de treinta a quinientos días de salario mínimo general vigente en la entidad al momento de cometerse la infracción, la que podrá ser duplicada en caso de reincidencia;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I.- Multa de treinta a quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción, la que podrá ser duplicada en caso de reincidencia;
 
 II.- Revocación de la autorización, permiso o licencia de construcción o de funcionamiento;
 
@@ -1574,3 +1576,11 @@ B.O. 31 DE JULIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- A fin de dar cumplimiento inmediato a la presente ley, el Titular del Poder Ejecutivo del Estado de Baja California Sur, designará previa la instalación del Consejo Estatal, por única ocasión al Director del Instituto, a efecto de que este último se encargue de la organización de la instalación del Consejo Estatal para la Inclusión de Personas con Discapacidad, además de ser el encargado de elaborar en coordinación con el Ejecutivo Estatal el proyecto de Reglamento de la institución.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
