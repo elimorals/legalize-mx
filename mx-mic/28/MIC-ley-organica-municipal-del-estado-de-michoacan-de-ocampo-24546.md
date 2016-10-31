@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2016-06-23"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -789,7 +789,7 @@ X. En general, las demás que establece la Constitución Política de los Estado
 
 e).- En materia de cultura:
 
-l. Elaborar el diagnóstico y el programa municipal de cultural (sic) el catálogo de su patrimonio y el de sus principales manifestaciones culturales;
+I. Elaborar el diagnóstico y el programa municipal de cultural (sic) el catálogo de su patrimonio y el de sus principales manifestaciones culturales;
 
 II. Promover el establecimiento de centros, casas de cultura u organismos similares para el fomento del desarrollo cultural, alentando la participación social en las diversas actividades culturales;
 
@@ -2647,6 +2647,142 @@ IX. Las demás que le señale su reglamento, de esta Ley y otras disposiciones j
 
 Los ayuntamientos proporcionarán, con base en su Presupuesto de Egresos, los recursos necesarios al Consejo Municipal de la Crónica para el cumplimiento de su objeto y atribuciones.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. INSTITUTO MUNICIPAL DE PLANEACIÓN
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+### Capítulo Único
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 176.
+
+El Instituto Municipal de Planeación, es un órgano profesional especializado en la planeación del desarrollo del Municipio, que procure y permita la permanencia de los planes, a corto, mediano y largo plazo, la equidad en el desarrollo y la participación social, que impulse la competitividad económica y el equilibrio ambiental de los planes, programas y proyectos del Municipio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 177.
+
+La creación del Instituto Municipal de Planeación, será de observancia general para los Municipios en que se divide el Estado, como un organismo público y consultivo, descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio.
+
+El Instituto Municipal de Planeación, contará con un Consejo Directivo presidido por el Presidente Municipal, además estará integrado por lo menos por tres miembros ciudadanos que no desempeñen algún cargo de la Administración Pública o tengan militancia en algún partido político, así como funcionarios del Ayuntamiento designados por el Presidente Municipal sin que éstos sean mayor al número de ciudadanos integrantes del Consejo Directivo.
+
+La designación del Titular del Instituto Municipal de Planeación, se realizará a través del Consejo Directivo, mediante convocatoria pública dando prioridad e inclusión a la sociedad organizada y de acuerdo con el reglamento que cada Ayuntamiento elabore para su funcionamiento y será por un periodo de tres años pudiendo reelegirse hasta por un periodo más.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 178.
+
+Para ser Titular del Instituto Municipal de Planeación se requiere:
+
+I. Ser originario del Municipio, o contar con al menos dos años de residencia, y tener su domicilio permanente en él;
+
+II. No desempeñar algún cargo dentro de la Administración Pública y no tener militancia en algún partido político;
+
+III. Ser de reconocida honorabilidad; y,
+
+IV. Demostrar conocimiento profesional sobre las actividades y acontecimientos pasados y presentes que afectan la situación del municipio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 179.
+
+Los cargos del Titular y de los demás integrantes del Consejo Directivo del Instituto Municipal de Planeación serán honorarios.
+
+La designación de los demás integrantes ciudadanos del Consejo Directivo deberá cumplir con los mismos requisitos que se establecen para el Titular.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 180.
+
+Se pierde la calidad de Titular del Instituto Municipal de Planeación:
+
+I. Por causa grave que imposibilite el cumplimiento de sus funciones;
+
+II. Por incumplimiento constante de sus obligaciones o por ausencias injustificadas; y,
+
+III. Por renuncia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 181.
+
+El Instituto Municipal de Planeación tiene los siguientes objetivos:
+
+I. Fortalecer el proceso de planeación estratégica integral para el desarrollo sustentable a corto, mediano y largo plazo del Municipio;
+
+II. Orientar el desarrollo del Municipio a través de la coordinación de los organismos de participación ciudadana;
+
+III. Promover la continuidad de los planes y los programas municipales de desarrollo;
+
+IV. Elaborar estudios y proyectos técnicos viables urbanos, semiurbanos y/o rurales, en apoyo a los programas municipales;
+
+V. Coordinarse con las dependencias, entidades y unidades administrativas para diseñar la metodología para la elaboración de planes, programas y demás instrumentos del sistema municipal de planeación, así como de los proyectos de investigación y sistemas de información, que den sustento a los mismos;
+
+VI. Crear, actualizar y dirigir el banco municipal de información estadística básica, a través de los instrumentos de investigación estadística y de actualización cartográfica, así como poner a disposición del Municipio, el sistema de información geográfica municipal;
+
+VII. Elaborar estudios e identificar las zonas prioritarias de atención, para facilitar su desarrollo económico y social;
+
+VIII. Elaborar estudios y proyectos para fortalecer el proceso de toma de decisiones del Ayuntamiento, así como impulsar el cumplimiento de los compromisos establecidos en el Plan Municipal de Desarrollo;
+
+IX. Incorporar la participación ciudadana en el proceso de planeación; y,
+
+X. Crear un modelo de articulación, entre la sociedad y el Gobierno Municipal para el apoyo técnico y normativo dentro del proceso de planeación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 182.
+
+El Instituto Municipal de Planeación, tendrá las siguientes atribuciones:
+
+I. Coadyuvar en la elaboración, actualización, seguimiento y cumplimiento al Plan Municipal de Desarrollo;
+
+II. Asegurar la participación de representantes de la sociedad organizada, a través del Instituto Municipal de Planeación;
+
+III. Promover la congruencia del Plan Municipal de Desarrollo con la planeación Estatal y Federal;
+
+IV. Participar en los procesos de planeación a largo plazo del desarrollo en los centros de población;
+
+V. Promover la celebración de convenios para el logro de los objetivos del desarrollo integral del Municipio;
+
+VI. Propiciar la vinculación para coadyuvar con otras estructuras de planeación para el desarrollo sustentable del Municipio;
+
+VII. Proponer al Ayuntamiento estrategias y acciones para la conservación, mejoramiento, crecimiento y zoniûcación (sic) de los centros de población;
+
+VIII. Proponer al Ayuntamiento las áreas naturales protegidas y las zonas sujetas a conservación ecológica de competencia Municipal;
+
+IX. Elaborar programas en materia de desarrollo sustentable en el ámbito Municipal;
+
+X. Elaborar programas que alienten el fortalecimiento de las actividades económicas y el mejoramiento de las condiciones de vida de los habitantes del Municipio, privilegiando aquellos que fortalezcan el consumo interno y la generación de mano de obra;
+
+XI. Coadyuvar en la elaboración de los expedientes técnicos de integración de las obras, acciones y programas;
+
+XII. Participar en los comités, comisiones, subcomisiones y órganos Municipales y Estatales en materia de planeación, en los términos que señale la normatividad aplicable;
+
+XIII. Facilitar la celebración de acuerdos de cooperación entre la sociedad y las diferentes instancias del Gobierno Municipal, para generar mecanismos que aseguren la permanente participación ciudadana en los procesos de planeación Municipal; y,
+
+XIV. Todas aquellas atribuciones que las Leyes, Reglamentos y el Ayuntamiento le conceden.
+
 ARTÍCULOS TRANSITORIOS:
 
 ###### ARTÍCULO PRIMERO.
@@ -2948,3 +3084,15 @@ P.O. 23 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 149 POR EL QUE “SE REFORMA LA FRACCIÓN III DEL AL (SIC) ARTÍCULO 146 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 176 POR EL QUE SE “ADICIONA EL TÍTULO DÉCIMO SEGUNDO Y LOS ARTÍCULOS 176, 177, 178, 179, 180, 181 Y 182 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del inicio del ejercicio fiscal de 2017, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los Ayuntamientos deberán incluir en su programación presupuestal y financiera anual para el ejercicio 2017, fondos para la creación y funcionamiento del Instituto Municipal de Planeación, además de los que el propio Instituto se hiciera llegar.
+
+TERCERO. La designación del Titular y demás integrantes del Instituto Municipal de Planeación por primera y única ocasión se realizará por el Ayuntamiento en el momento de su creación a propuesta de las organizaciones de la sociedad civil.
+
+CUARTO. Una vez que entre en vigor el presente decreto, los Ayuntamientos tendrán un plazo no mayor a 180 días para la elaboración del reglamento interno del Instituto Municipal de Planeación.
