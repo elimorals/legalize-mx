@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-justicia-administrativa-para-el-estado-de-baja-44512"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2008-12-24"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005
 
@@ -59,11 +59,11 @@ II. Superior: El órgano jurisdiccional de alzada respecto de aquel que conozca 
 
 III. Magistrado: Titular del órgano jurisdiccional que conozca del juicio contencioso administrativo y de los recursos que se interpongan en éste.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. COMPETENCIA DE LA SALA UNITARIA ADMINISTRATIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 3°.
 
@@ -85,11 +85,11 @@ VII. Contra actos de autoridad relacionados con la interpretación, cumplimiento
 
 VIII. Para denunciar la responsabilidad patrimonial extracontractual reclamada al Estado, a los Municipios, o a las entidades paraestatales o municipales;
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 IX. Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia de la Sala Unitaria Administrativa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO
 
@@ -133,7 +133,7 @@ Las audiencias serán públicas, salvo los casos en que la moral, el interés p�
 
 Cuando las leyes o reglamentos establezcan algún recurso o medio de defensa administrativo, será optativo para el particular agotarlo o intentar directamente el juicio ante la Sala Unitaria Administrativa. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa administrativo. Contra la resolución dictada en el recurso administrativo procede el juicio ante la Sala Unitaria Administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 10.
 
@@ -141,7 +141,9 @@ La Sala Unitaria Administrativa para hacer cumplir sus determinaciones o para im
 
 I. Amonestación;
 
-II. Multa equivalente al monto de cinco a sesenta días de salario mínimo vigente en la ciudad de La Paz;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II. Multa equivalente al monto de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Arresto hasta por veinticuatro horas;
 
@@ -241,13 +243,15 @@ En el expediente respectivo, el Actuario asentará razón del envío por correo 
 
 Todas las notificaciones surtirán efectos a partir del día hábil siguiente al en que sean practicadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 20.
 
 Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. La Sala Unitaria Administrativa decidirá de plano sin formar expediente. Declarada la nulidad el procedimiento se repondrá a partir de la notificación irregular.
 
-Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente al monto de uno a cinco días de salario mínimo diario vigente en el Estado de Baja California Sur. El mismo servidor podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente al monto de una a cinco veces el valor diario de la Unidad de Medida y Actualización. El mismo servidor podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
 
 ###### Artículo 21.
 
@@ -263,7 +267,7 @@ II. Se contarán por días hábiles.
 
 ### CAPITULO IV. DE LOS IMPEDIMENTOS Y EXCUSAS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 23.
 
@@ -303,7 +307,9 @@ Las partes en juicio podrán, dentro del término de ocho días a partir de que 
 
 El impedimento se decidirá de plano, previo informe que rinda el recusado en la inteligencia de que las partes, al denunciar, ofrecerán las pruebas en que funden su petición, sin que sean admisibles pruebas testimoniales, periciales o la confesión.
 
-Si el Magistrado del Superior declara infundado el motivo del impedimento, impondrá al promovente una multa de 10 a 70 veces el salario mínimo diario general vigente en el Estado de Baja California Sur, en la fecha en que denunció el impedimento.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Si el Magistrado del Superior declara infundado el motivo del impedimento, impondrá al promovente una multa de 10 a 70 veces el valor diario de la Unidad de Medida y Actualización, en la fecha en que denunció el impedimento.
 
 ### CAPITULO V. DE LOS INCIDENTES
 
@@ -413,7 +419,7 @@ V. Una copia de la demanda y de los documentos anexados a ella, para cada una de
 
 Cuando el actor no acompañe los documentos a que se refiere este Artículo, dará lugar a que se le requiera en los términos establecidos en el Artículo 33, pero por lo que hace al acto o resolución impugnados o al acta de notificación, bastará que manifieste bajo protesta de decir verdad que no se levantó o que no se le dejó copia de ellos, para que se tenga por presentada la demanda.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 36.
 
@@ -547,7 +553,7 @@ Las pruebas supervinientes podrán presentarse hasta antes de dictarse sentencia
 
 El Magistrado instructor está facultado para calificar la pertinencia de las pruebas ofrecidas por las partes, y desechará aquellas que no se relacionen con los puntos controvertidos.
 
-> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 52.
 
@@ -587,9 +593,13 @@ Del reconocimiento se levantará un acta que firmarán todos los que concurriero
 
 Los testigos no podrán pasar de tres respecto de cada hecho. Deberán ser presentados por el oferente en la fecha de la audiencia y sólo en el caso de que éste manifieste bajo protesta de decir verdad su imposibilidad para presentarlos, el Magistrado los mandará citar si se proporcionan sus domicilios.
 
-El Magistrado ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince días de salario mínimo general diario vigente en el Estado de Baja California Sur, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta días de salario mínimo general diario vigente en el Estado de Baja California Sur, debiendo declararse desierta la prueba testimonial.
+El Magistrado ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince veces el valor diario de la Unidad de Medida y Actualización, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promoverte (sic) una multa equivalente de treinta veces el valor diario de la Unidad de Medida y Actualización, debiendo declararse desierta la prueba testimonial.
 
 ###### Artículo 60.
 
@@ -705,7 +715,9 @@ IV. Cuando las autoridades demandadas no provean sobre la suspensión del acto c
 
 El recurso deberá interponerse por escrito ante el Magistrado instructor que conozca o hubiere conocido del juicio, dentro de cinco días hábiles contados a partir del siguiente al en que se haya efectuado la notificación de la resolución recurrida, acompañando una copia del recurso para cada una de las partes.
 
-Admitido el recurso, el Magistrado requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de cinco días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda. La falta de los informes establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta días del salario mínimo vigente en el Estado de Baja California Sur, que impondrá de plano el Magistrado que conozca de la queja al resolver el recurso.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Admitido el recurso, el Magistrado requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de cinco días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda. La falta de los informes establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización, que impondrá de plano el Magistrado que conozca de la queja al resolver el recurso.
 
 Interpuesto el recurso y a solicitud de parte, el Magistrado mandará suspender la ejecución hasta en tanto se dicte resolución.
 
@@ -797,7 +809,7 @@ EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 B.O. 24 DE DICIEMBRE DE 2008.
 
@@ -808,3 +820,11 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado de Baja California Sur, deberá de redistribuir los Tocas en las Salas Unitarias que correspondan en razón de la materia, debiéndose publicar dicha redistribución en el Boletín Judicial del Poder Judicial del Estado de Baja California Sur para conocimiento de las partes interesadas en los Tocas respectivos.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
