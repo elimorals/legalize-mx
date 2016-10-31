@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-regimen-de-propiedad-en-condominio-del-estado-5789
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-30"
-last_updated: "2016-08-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 30 de noviembre de 2007.
 
@@ -1161,11 +1161,17 @@ En caso de existir varios Condominios por donde pueda darse el paso a dichos bie
 
 La contravención a las disposiciones de esta Ley, dará lugar a la imposición de las siguientes sanciones económicas, dictadas por resolución judicial o administrativa en el ámbito de sus respectivas competencias:
 
-I.- Con multa por el equivalente a diez veces la Unidad de Medida y Actualización Diaria Vigente en el Estado, el incumplimiento de lo dispuesto por los artículos 21 y 25 fracciones IV y IX;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II.- Con multa por el equivalente a veinte veces la Unidad de Medida y Actualización Diaria Vigente en el Estado, el incumplimiento de lo dispuesto por el artículo 25, fracciones II, V, y VI, y
+I.- Con multa por el equivalente a diez veces el valor diario de la Unidad de Medida y Actualización, el incumplimiento de lo dispuesto por los artículos 21 y 25 fracciones IV y IX;
 
-III.- Con multa por el equivalente a treinta veces la Unidad de Medida y Actualización Diaria Vigente en el Estado, el incumplimiento de lo dispuesto por los artículos 9°, último párrafo solo para el caso del Administrador, 25, fracciones I, III, VII y VIII; 29 segundo párrafo; 40, cuando el Administrador durante su gestión causare un daño patrimonial, en perjuicio de los Condóminos o en los bienes comunes del Condominio; primer párrafo del 41 y 68.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Con multa por el equivalente a veinte veces el valor diario de la Unidad de Medida y Actualización, el incumplimiento de lo dispuesto por el artículo 25 fracciones II, V, y VI; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III.- Con multa por el equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización, el incumplimiento de lo dispuesto por los artículos 9°, último párrafo solo para el caso del Administrador, 25, fracciones I, III, VII y VIII; 29 segundo párrafo; 40, cuando el Administrador durante su gestión causare un daño patrimonial, en perjuicio de los Condóminos o en los bienes comunes del Condominio; 41, primer párrafo y 68 primer párrafo.
 
 En los casos de reincidencia, se aplicará hasta el doble del máximo de la sanción originalmente impuesta.
 
@@ -1216,3 +1222,11 @@ PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su public
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Los regímenes de propiedad en condominio constituidos con anterioridad a la entrada en vigor del presente Decreto, seguirán rigiéndose bajo los términos de su Escritura Constitutiva y Reglamento correspondiente.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
