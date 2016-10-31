@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidad-patrimonial-para-el-estado-y-44508"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2005-03-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de marzo de 2005.
 
@@ -73,7 +73,9 @@ Para la debida interpretación y aplicación de este ordenamiento se entenderá 
 
 I.- Estado: El gobierno estatal, los gobiernos municipales, los organismos paraestatales y paramunicipales, así como los tribunales y órganos estatales y municipales administrativos.
 
-II.- Unidad: El salario mínimo diario vigente en el Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Unidad: valor diario de la Unidad de Medida y Actualización.
 
 III.- Daño Emergente: El que requiere el reclamante para su sostenimiento personal mientras dure incapacitado.
 
@@ -149,7 +151,9 @@ Los afectados podrán celebrar convenio con las dependencias y entidades, a fin 
 
 Las indemnizaciones se fijarán de acuerdo con las siguientes modalidades:
 
-a) Si el reclamante obtiene un ingreso mensual inferior a doscientos días de salario mínimo general vigentes en la capital de la entidad, una vez substanciado el procedimiento respectivo le corresponderá la reparación integral, consistente en el pago del daño emergente, de lucro cesante o perjuicio, y del resarcimiento por el daño moral.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+a) Si el reclamante obtiene un ingreso mensual inferior al equivalente a doscientas unidades, una vez substanciado el procedimiento respectivo le corresponderá la reparación integral, consistente en el pago del daño emergente, de lucro cesante o perjuicio, y del resarcimiento por el daño moral.
 
 b) Si el reclamante rebasa el límite anterior, le corresponderá una reparación equitativa, consistente en el pago del daño emergente y resarcimiento del daño moral.
 
@@ -173,7 +177,9 @@ Los montos de las indemnizaciones en el caso de daños personales o muerte se ca
 
 Además de la indemnización prevista en el párrafo anterior, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos comprobables que en su caso se eroguen, de conformidad con la propia Ley Federal del Trabajo en lo que se refiere a riesgos de trabajo. Los gastos médicos serán considerados sólo en los casos en que el reclamante no tenga derecho a su atención en las instituciones estatales o federales de seguridad social.
 
-El pago del salario íntegro o percepción comprobable que deje de percibir el afectado mientras subsista la imposibilidad de trabajar, será considerado sólo en los casos en que no le sean cubiertos por las instituciones estatales o federales de seguridad social. En los casos que no perciba salario o que no sea posible cuantificar su percepción, el afectado tendrá derecho a que se le consideren hasta tres salarios mínimos diarios vigentes en el Estado.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+El pago del salario íntegro o percepción comprobable que deje de percibir el afectado mientras subsista la imposibilidad de trabajar, será considerado sólo en los casos en que no le sean cubiertos por las instituciones estatales o federales de seguridad social. En los casos que no perciba salario o que no sea posible cuantificar su percepción, el afectado tendrá derecho a que se le consideren hasta el equivalente a tres unidades.
 
 ###### Artículo 21.
 
@@ -368,3 +374,13 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
