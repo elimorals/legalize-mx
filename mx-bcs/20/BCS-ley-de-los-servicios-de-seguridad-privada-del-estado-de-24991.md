@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-servicios-de-seguridad-privada-del-estado-de-24991"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-20"
-last_updated: "2016-10-14"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCS"
 ---
 # LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de marzo de 2002.
 
@@ -389,7 +387,9 @@ El incumplimiento por parte de los prestadores del servicio a las obligaciones e
 
 I.- Amonestación con difusión pública de la misma;
 
-II.- Multa de hasta tres mil veces el salario mínimo general vigente en le (sic) Entidad;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- Multa de hasta tres mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- Suspensión temporal de la autorización hasta que se corrija el incumplimiento, con difusión pública de dicha suspensión;
 
@@ -411,9 +411,11 @@ V.- El monto del beneficio obtenido, daño o perjuicio económicos que se hayan 
 
 Para efectos de esta Ley se entiende por reincidencia la comisión de dos o más infracciones en un período no mayor de seis meses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 34.
 
-En caso de que una persona física o moral preste servicios de seguridad privada sin contar con la autorización de la Coordinación Estatal, o cuando el prestador no hubiere obtenido la (sic) refrendo, se procederá a la clausura del establecimiento mercantil y se impondrá al infractor una multa por el equivalente a cinco mil veces el salario mínimo general vigente en la Entidad.
+En caso de que una persona física o moral preste servicios de seguridad privada sin contar con la autorización de la Coordinación Estatal, o cuando el prestador no hubiere obtenido el refrendo, se procederá a la clausura del establecimiento mercantil y se impondrá al infractor una multa por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Las demás causas que constituyan infracción a los ordenamientos jurídicos que regulen los servicios materia de esta Ley, así como las sanciones aplicables a cada una de ellas serán determinadas por el reglamento.
 
@@ -602,3 +604,11 @@ P.O. 14 DE OCTUBRE DE 2016.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 Articulo Segundo.- El Titular del Poder Ejecutivo del Estado, deberá expedir dentro de los 90 días siguientes a la publicación del presente Decreto, el reglamento para llevar a cabo la evaluación y certificación del personal directivo, administrativo y operativo de las empresas que prestan servicios de seguridad privada en el Estado, a fin de que dicho personal, esté debidamente evaluado y certificado, en un plazo que no excederá de un año contado a partir de la entrada en vigor del presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
