@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-24773
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2015-12-31"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE REGULA EL ALMACENAJE, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -921,17 +921,17 @@ Los casos de reincidencia se sancionarán aplicando doble multa de la que se hub
 
 (DEROGADO, B.O. 31 DE AGOSTO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-Se impondrá multa de 100 días de salario mínimo al miembro del consejo que de manera injustificada, no asista a las sesiones previstas en el artículo 10 de esta ley y con ello impida o retrase el normal funcionamiento del mismo.
+Se impondrá multa de 100 veces el valor diario de la Unidad de Medida y Actualización al miembro del consejo que de manera injustificada, no asista a las sesiones previstas en el artículo 10 de esta ley y con ello impida o retrase el normal funcionamiento del mismo.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Se impondrá multa de 200 días de salario mínimo y en su caso la suspensión temporal para la venta y consumo de bebidas alcohólicas hasta por 10 días, a quienes incumplan las obligaciones previstas en la fracción III del artículo 22 o incurran en alguno de los supuestos prohibidos en las fracciones II, III, IV, V y VI del artículo 23 de la presente ley.
+Se impondrá multa de 200 veces el valor diario de la Unidad de Medida y Actualización y en su caso la suspensión temporal para la venta y consumo de bebidas alcohólicas hasta por 10 días, a quienes incumplan las obligaciones previstas en la fracción III del artículo 22 o incurran en alguno de los supuestos prohibidos en las fracciones II, III, IV, V y VI del artículo 23 de la presente ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -941,13 +941,17 @@ Se impondrá multa de 200 días de salario mínimo y en su caso la suspensión t
 
 A quienes expendan al público bebidas alcohólicas sin contar con la licencia respectiva, se les impondrá además de la multa que corresponda, la clausura temporal del establecimiento en tanto no se realicen los trámites correspondientes.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-Se impondrá multa de 350 días de salario mínimo y en su caso, la revocación de la licencia, a quienes vendan bebidas alcohólicas que estén adulteradas, contaminadas o alteradas, en los términos de la fracción I del artículo 23 de la presente ley.
+Se impondrá multa de 350 veces el valor diario de la Unidad de Medida y Actualización y en su caso, la revocación de la licencia, a quienes vendan bebidas alcohólicas que estén adulteradas, contaminadas o alteradas, en los términos de la fracción I del artículo 23 de la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 39.
 
-Se impondrá multa de 200 días de salario mínimo y en su caso la revocación de la licencia, al dueño o encargado del establecimiento, cuyo giro sea la venta o consumo de bebidas alcohólicas que:
+Se impondrá multa de 200 veces el valor diario de la Unidad de Medida y Actualización y en su caso la revocación de la licencia, al dueño o encargado del establecimiento, cuyo giro sea la venta o consumo de bebidas alcohólicas que:
 
 I. Venda bebidas de contenido alcohólico en los lugares y días prohibidos por la presente ley, o en los horarios prohibidos por el Ayuntamiento correspondiente.
 
@@ -1214,3 +1218,11 @@ B.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
