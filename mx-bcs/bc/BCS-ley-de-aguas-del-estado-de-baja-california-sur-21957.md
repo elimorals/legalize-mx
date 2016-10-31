@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2011-10-10"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -1605,13 +1605,21 @@ XX. A los funcionarios o empleados que concedan licencia para construcciones, si
 
 Las infracciones a que se refiere el Artículo anterior serán sancionadas administrativamente por el Ayuntamiento o el Organismo Operador, a excepción de las señaladas en las fracciones IX y XX, las que serán sancionadas por el superior jerárquico o autoridad que corresponda:
 
-I. Con multa por el equivalente de cinco a cincuenta veces el Salario Mínimo General vigente en el Estado de Baja California Sur, tratándose de las infracciones a que se refieren las fracciones II, IV, VI;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Con multa por el equivalente de cinco a veinte veces el Salario Mínimo General vigente en el Estado de Baja California Sur, tratándose de la fracción (sic) V, X, XI, XII y XVII;
+I. Con multa por el equivalente de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, tratándose de las infracciones a que se refieren las fracciones II, IV y VI;
 
-III. Con multa por el equivalente de cinco a cuarenta veces el Salario Mínimo General vigente en el Estado de Baja California Sur, en el caso de las fracciones I, III y VII, XIII y XVII; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Con multa por el equivalente de cien a quinientas veces el Salario Mínimo General vigente en el Estado de Baja California Sur, tratándose de la fracción VIII, XIV, XV y XVI.
+II. Con multa por el equivalente de cinco a veinte veces el valor diario de la Unidad de Medida y Actualización, tratándose de la fracción V, X, XI, XII y XVII;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Con multa por el equivalente de cinco a cuarenta veces el valor diario de la Unidad de Medida y Actualización, en el caso de las fracciones I, III y VII, XIII y XVII; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Con multa por el equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de la fracción VIII, XIV, XV y XVI.
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
@@ -1681,15 +1689,25 @@ VIII. Cualquier otra Infracción a esta Ley o a su Reglamento que no esté expre
 
 Las infracciones a que se refiere el Artículo anterior, serán sancionadas por la Junta de Gobierno del Organismo Operador o en su caso la Comisión:
 
-I. Con multa de quinientos a dos mil días de Salario Mínimo General vigente en el Estado, tratándose de las fracciones I, IV y VII;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II. Con multa de mil a cuatro mil días de Salario Mínimo General vigente en el Estado, en caso de la fracción II;
+I. Con multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de las fracciones I, IV y VII;
 
-III. Con multas de cien a mil días de Salario Mínimo General vigente en el Estado, tratándose de la fracción III;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-IV. Con multa de mil a cinco mil días de Salario Mínimo General vigente en el Estado en que se cometa la infracción, tratándose de las fracciones V y VI; y
+II. Con multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, en caso de la fracción II;
 
-V. Con multa de hasta quinientos días de Salario Mínimo General vigente en el Estado, en el caso de la fracción VIII.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Con multas de cien a mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de la fracción III;
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+IV. Con multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento en que se cometa la infracción, tratándose de las fracciones V y VI; y
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+V. Con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, en el caso de la fracción VIII.
 
 En caso de reincidencia, la Junta de Gobierno del Organismo Operador o en su caso la Comisión podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
@@ -1842,3 +1860,11 @@ B.O. 10 DE OCTUBRE DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. La Comisión Estatal del Agua, contará con un plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, para elaborar el Programa Estatal para el Fomento de la Cultura del Cuidado del Agua a partir del año 2012.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
