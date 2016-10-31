@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-archivo-administrativo-e-historico-del-96442"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-23"
-last_updated: "2013-10-23"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 23 de octubre de 2013.
 
@@ -249,9 +249,11 @@ VI. Los Síndicos y Regidores designados como integrantes de la Comisión de Dep
 
 El incumplimiento de las disposiciones contenidas en el presente Reglamento será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León vigente y demás ordenamientos aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 21.
 
-En la medida en que se modifiquen las condiciones socioeconómicas del Municipio y en virtud del desarrollo y modernización administrativa, el R. Ayuntamiento considerará la modificación y actualización del presente Reglamento sujetándose a lo dispuesto en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+En la medida en que se modifiquen las condiciones socioeconómicas del Municipio y en virtud del desarrollo y modernización administrativa, el R. Ayuntamiento considerará la modificación y actualización del presente Reglamento sujetándose a lo dispuesto en la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 ###### ARTÍCULO 22.
 
@@ -312,6 +314,16 @@ En la medida que se modifiquen las condiciones socioeconómicas del Municipio, e
 ###### ARTÍCULO 31.
 
 Para garantizar la participación ciudadana en la revisión para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al Secretario del Ayuntamiento a fin de que el Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del R. Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+### CAPÍTULO IX (SIC). DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+
+###### ARTÍCULO 32.
+
+Las dependencias y entidades administrativas de la Administración Pública Municipal responsables de la aplicación del presente reglamento tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, invisibilidad (sic) y progresividad, establecidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -392,3 +404,13 @@ PRESIDENTE MUNICIPAL
 LIC. GILBERTO RAMOS DE LA GARZA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO DE ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquense las presentes reformas en el Periódico Oficial del Estado.
