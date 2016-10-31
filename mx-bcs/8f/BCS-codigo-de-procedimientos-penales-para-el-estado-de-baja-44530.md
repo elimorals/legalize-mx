@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2016-04-19"
+last_updated: "2016-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO 2176 POR EL QUE SE EMITEN LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PUBLICADAS EN EL B.O. DE 27 DE JUNIO DE 2014, Y REFORMADO POR DECRETO 2338 PUBLICADO EN EL B.O. DE 19 DE ABRIL DE 2016, EN EL MOMENTO QUE INICIE SU VIGENCIA EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS TÉRMINOS Y MODALIDADES ADOPTADOS EN LAS PRESENTES DECLARATORIAS EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO 2176 POR EL QUE SE EMITEN LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PUBLICADAS EN EL B.O. DE 27 DE JUNIO DE 2014, Y REFORMADO POR DECRETO 2338 PUBLICADO EN EL B.O. DE 19 DE ABRIL DE 2016, EN EL MOMENTO QUE INICIE SU VIGENCIA EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS TÉRMINOS Y MODALIDADES ADOPTADOS EN LAS PRESENTES DECLARATORIAS EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -803,7 +803,9 @@ Son correcciones disciplinarias:
 
 I.- El apercibimiento;
 
-II.- La multa de uno a cincuenta días de salario mínimo general, vigente en el momento y lugar en que se cometa la falta;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+II.- La multa de una a cincuenta veces el valor diario de la Unidad de Medida y Actualización, vigente en el momento en que se cometa la falta;
 
 III.- Arresto hasta por treinta y seis horas; y
 
@@ -813,7 +815,9 @@ IV.- Suspensión de funcionarios o empleados hasta por un mes.
 
 El ministerio público y el juzgador, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio, antes de proceder por el delito de desobediencia a un mandato de autoridad:
 
-I.- Multa de diez a cincuenta días de salario mínimo general vigente en el momento y lugar en que se produjo la desobediencia;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I.- Multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se produjo la desobediencia;
 
 II.- Auxilio de la fuerza pública; y
 
@@ -1157,7 +1161,7 @@ XXIII.- Evasión de presos, cuando se dé el auxilio de servidor público, de co
 
 XXIV.- Falsedad en declaraciones realizadas ante el ministerio público o la autoridad judicial, de conformidad a lo establecido en el segundo párrafo del artículo 189 del código penal;
 
-XXV.- Peculado, de conformidad a lo establecido en la fracción II del artículo 154 del código penal; y (sic)
+XXV.- Peculado, de conformidad a lo establecido en la fracción II del artículo 154 del código penal; y
 
 XXVI.- Fraude, cometido en perjuicio de tres o más personas, proveniente del mismo tipo de conducta engañosa.
 
@@ -1215,9 +1219,11 @@ En este caso, el propietario del inmueble presentará ante el Juez el título de
 
 El acta en que se constituya este gravamen será enviada al Encargado del Registro Público de la Propiedad y del Comercio, para que haga su anotación en forma inmediata y gratuita.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### ARTÍCULO 157.
 
-La fianza personal será admisible con la sola calificación de la solvencia e idoneidad del fiador, hecha por el juez, cuando el monto de la caución no exceda del importe de cinco meses de salario mínimo general. Si el monto de la caución es mayor, el fiador declarará bajo protesta si ha otorgado con anterioridad alguna caución, así como la cuantía y circunstancias de la misma.
+La fianza personal será admisible con la sola calificación de la solvencia e idoneidad del fiador, hecha por el juez, cuando el monto de la caución no exceda del importe de cinco veces el valor mensual de la Unidad de Medida y Actualización. Si el monto de la caución es mayor, el fiador declarará bajo protesta si ha otorgado con anterioridad alguna caución, así como la cuantía y circunstancias de la misma.
 
 El fiador deberá exhibir para demostrar su solvencia económica, títulos de propiedad de bienes inmuebles, certificados negativos de gravámenes y avalúo de su valor comercial, superior tres veces al menos, al monto fijado como caución, dejando copia fotostática certificada en el expediente, aceptando en diligencia especial constituirse en fiador del inculpado y presentarlo cuando la autoridad judicial se lo requiera, debiendo depositar ante el juez de la causa, los documentos con los cuales se acredite la solvencia económica del fiador.
 
@@ -2443,7 +2449,9 @@ El plazo a que se refiere el párrafo primero de este artículo, se duplicará c
 
 A fin de apreciar la importancia de las pruebas que pretenden desahogarse en la ampliación del término constitucional, el oferente deberá especificar invariablemente el objeto de las mismas, pudiendo el juez negar la ampliación solicitada cuando no se trate de pruebas pertinentes o que puedan influir en la resolución que habrá de dictarse.
 
-Cuando habiéndose concedido la ampliación solicitada, las pruebas no se desahoguen por causas imputables a la defensa, se le aplicará multa al oferente hasta cincuenta días de salario.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cuando habiéndose concedido la ampliación solicitada, las pruebas no se desahoguen por causas imputables a la defensa, se le aplicará multa al oferente hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 360.
 
@@ -3059,7 +3067,9 @@ La falta del informe a que se refiere el párrafo anterior, establece la presunc
 
 La interposición del recurso no es obstáculo para que el juez subsane la omisión, debiendo informar esta circunstancia al tribunal que conozca de la queja, sin que esto impida que el superior le imponga un correctivo, cuando proceda.
 
-En cambio, cuando se deseche la queja, se impondrá al recurrente una multa de veinte a cuarenta días de salario mínimo vigente al momento de su interposición.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+En cambio, cuando se deseche la queja, se impondrá al recurrente una multa de veinte a cuarenta veces el valor diario de la Unidad de Medida y Actualización vigente al momento de su interposición.
 
 ### CAPÍTULO VII. DECLARACIÓN DE INOCENCIA
 
@@ -3828,3 +3838,11 @@ Artículo primero.- El presente Decreto entrará en vigor el día de su publicac
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
 Artículo Tercero.- Remítase una copia de este Instrumento Legislativo, para su conocimiento, a las legislaturas de las entidades federativas, así como al H. Congreso de la Unión.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVA A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
