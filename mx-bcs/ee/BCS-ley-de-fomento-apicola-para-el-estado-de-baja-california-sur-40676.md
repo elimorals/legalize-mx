@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-apicola-para-el-estado-de-baja-california-sur-40
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-10"
-last_updated: "2007-11-30"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO APICOLA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de agosto de 2004.
 
@@ -379,9 +379,15 @@ II. Multa.
 
 El importe de las multas a que se refiere el artículo anterior, se aplicará conforme a la siguiente tabla:
 
-MOTIVO ARTÍCULO MULTA EN SALARIOS
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-MÍNIMOS
+MOTIVO ARTÍCULO MULTA EN VECES EL
+
+VALOR DIARIO DE LA
+
+UNIDAD DE MEDIDA Y
+
+ACTUALIZACIÓN
 
 POR 10 FRACC. DE 10 A 15 VECES
 
@@ -482,3 +488,11 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 B.O. 30 DE NOVIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
