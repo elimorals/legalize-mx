@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2016-08-20"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -709,9 +709,11 @@ Los Oficiales del Registro Civil, sólo podrán negarse a autorizar un matrimoni
 
 El Oficial del Registro Civil que autorice un matrimonio, teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será sancionado con la destitución del cargo, sin perjuicio de la responsabilidad penal en que pueda haber incurrido.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 116.
 
-El Oficial del Registro Civil que, sin motivo justificado, niegue o retarde la celebración de un matrimonio, será sancionado la primera vez con la multa equivalente a 30 días de salario mínimo vigente y, en caso de reincidencia, con la destitución del cargo.
+El Oficial del Registro Civil que, sin motivo justificado, niegue o retarde la celebración de un matrimonio, será sancionado la primera vez con la multa equivalente a 30 veces el valor diario de la Unidad de Medida y Actualización y, en caso de reincidencia, con la destitución del cargo.
 
 ###### Artículo 117.
 
@@ -773,9 +775,11 @@ VIII.- Nombre, apellidos, edad, nacionalidad, ocupación y domicilio de los test
 
 En todos los casos de muerte violenta o las acaecidas en los centros de reclusión, no se hará mención en los registros de esta circunstancia, o dato alguno que pudiera afectar al difunto o a su familia.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 126.
 
-Los habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios, asilos de ancianos o cualquier institución similar y los encargados de los hoteles o mesones, tienen obligación de dar aviso al Oficial del Registro Civil, dentro de las 24 horas siguientes del fallecimiento. En caso de omisión, se sancionará al responsable con multa de 20 a 50 días de salario mínimo.
+Los habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios, asilos de ancianos o cualquier institución similar y los encargados de los hoteles o mesones, tienen obligación de dar aviso al Oficial del Registro Civil, dentro de las 24 horas siguientes del fallecimiento. En caso de omisión, se sancionará al responsable con multa de 20 a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 127.
 
@@ -2653,9 +2657,11 @@ El obligado a dar alimentos cumple esta obligación asignando una pensión sufic
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos de éste, cuando se trate de un hijo en custodia ajena o cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 461.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos. Determinados por convenio, los alimentos tendrán un incremento automático equivalente al porcentaje en que aumente el salario mínimo diario vigente en el Estado de Baja California Sur, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en la misma proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos. Determinados por convenio, los alimentos tendrán un incremento automático equivalente al porcentaje en que aumente el valor diario de la Unidad de Medida y Actualización, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en la misma proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ###### Artículo 462.
 
@@ -4353,9 +4359,11 @@ Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el lug
 
 Independientemente de la ubicación de los bienes, cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 741.
 
-El valor máximo de avalúo de los bienes que integren el patrimonio de familia, conforme al artículo 735, será la cantidad que resulte de multiplicar 15,000 veces el importe del salario mínimo general diario vigente en el Estado, en la época en que se constituya el patrimonio.
+El valor máximo de avalúo de los bienes que integren el patrimonio de familia, conforme al artículo 735, será la cantidad que resulte de multiplicar 15,000 veces el valor diario de la Unidad de Medida y Actualización vigente en la época en que se constituya el patrimonio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ENERO DE 2014)</small>
 
@@ -4371,7 +4379,9 @@ III.- La existencia de la familia a cuyo favor desea constituir el patrimonio, d
 
 IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes, fuera de las servidumbres o del supuesto a que refiere el segundo párrafo del artículo 739; y
 
-V.- Que el valor de los bienes que van a constituir el patrimonio de familia, no excede de 15,000 veces el salario mínimo diario de la región.
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+V.- Que el valor de los bienes que van a constituir el patrimonio de familia, no excede de 15,000 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, B.O. 27 DE ENERO DE 2014)</small>
 
@@ -4681,9 +4691,11 @@ El Ministerio Público, si estima que procede, deducirá ante el juez competente
 
 El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie, observándose lo dispuesto en la parte final del artículo 789.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 797.
 
-El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa hasta de diez días de salario mínimo, sin perjuicio de las penas que señale el respectivo Código.
+El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa hasta de diez veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que señale el respectivo Código.
 
 ## TÍTULO TERCERO. De la posesión
 
@@ -7561,9 +7573,11 @@ Si la identidad del testador no pudiera ser verificada, se declarará esta circu
 
 En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 1412.
 
-Se prohibe a los notarios públicos y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de multa por el equivalente a cien días de salario mínimo diario vigente en el Estado a los notarios públicos y de la mitad a los que no lo fueren.
+Se prohíbe a los notarios públicos y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de multa por el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización a los notarios públicos y de la mitad a los que no lo fueren.
 
 ###### Artículo 1413.
 
@@ -7753,9 +7767,11 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Testamento público simplificado es aquél que se otorga ante notario público respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización del inmueble que lleven a cabo las autoridades del Gobierno Federal, del Estado o Municipios o cualquiera de sus dependencias o entidades, o en acto posterior.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 1455.
 
-El precio del inmueble o su valor de avalúo no debe exceder del equivalente a 25 veces el salario mínimo general vigente en el Estado de Baja California Sur elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el artículo anterior, no importará su monto.
+El precio del inmueble o su valor de avalúo no debe exceder del equivalente a 25 veces el valor diario de la Unidad de Medida y Actualización elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el artículo anterior, no importará su monto.
 
 ###### Artículo 1456.
 
@@ -9509,7 +9525,9 @@ Cuando sin el empleo de mecanismos, instrumentos u otros objetos análogos, a qu
 
 La reparación del daño debe consistir a elección del ofendido en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en el Estado y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del valor diario de la Unidad de Medida y Actualización y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -11575,13 +11593,17 @@ La donación puede hacerse verbalmente o por escrito.
 
 No puede hacerse donación verbal más que de bienes muebles.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2248.
 
-La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de treinta días de salario mínimo general en el Estado en el momento de la operación.
+La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de treinta veces el valor diario de la Unidad de Medida y Actualización en el momento de la operación.
+
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 2249.
 
-Si el valor de los muebles excede de ciento ochenta días de salario mínimo general, la donación debe hacerse por escrito.
+Si el valor de los muebles excede de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, la donación debe hacerse por escrito.
 
 ###### Artículo 2250.
 
@@ -11659,7 +11681,9 @@ Si en el primer caso del artículo anterior el padre no hubiere revocado la dona
 
 La donación no podrá ser revocada por superveniencia de hijos:
 
-I.- Cuando sea menor del importe de treinta días salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+I.- Cuando sea menor del importe de treinta veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Cuando sea antenupcial;
 
@@ -12075,15 +12099,19 @@ El arrendador que no haga las obras que ordene la autoridad de Salubridad Públi
 
 El arrendador no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la Ley para que sea fiador.
 
-Si la renta mensual no excede del equivalente a diez días de salario mínimo general vigente en el Estado, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Si la renta mensual no excede del equivalente a diez veces el valor diario de la Unidad de Medida y Actualización, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
 ###### Artículo 2355.
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2353.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2356.
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede del importe de quince días salario mínimo general; por quincenas vencidas, si la renta es de diez a quince días salario mínimo; y por semanas, también vencidas, cuando la renta no llegue a diez días de salario mínimo.
+La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede del importe de quince veces el valor diario de la Unidad de Medida y Actualización; por quincenas vencidas, si la renta es de diez a quince veces el valor diario de la Unidad de Medida y Actualización; y por semanas, también vencidas, cuando la renta no llegue a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO IX. Del modo de terminar el arrendamiento
 
@@ -12341,9 +12369,11 @@ La desafectación de los inmuebles destinados a un contrato de tiempo compartido
 
 Para celebrar el contrato de habitación en tiempo compartido, deberá obtenerse de la dependencia municipal correspondiente, una constancia de que la construcción de las casas o edificios de que se trate, con sus pasillos, andadores, escaleras, elevadores, patios, estacionamientos y demás dependencias de uso común satisfacen las exigencias técnicas y de seguridad sanitarias que sirvieron de base para el otorgamiento de la licencia de construcción.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2408.
 
-Los contratos celebrados sin la licencia a que se refiere el artículo anterior, estarán afectados de nulidad absoluta y el compartidor será sancionado por la autoridad que expida las licencias, con multa hasta del equivalente a mil cuatrocientos sesenta días de salario mínimo general.
+Los contratos celebrados sin la licencia a que se refiere el artículo anterior, estarán afectados de nulidad absoluta y el compartidor será sancionado por la autoridad que expida las licencias, con multa hasta del equivalente a mil cuatrocientas sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 2409.
 
@@ -12517,7 +12547,9 @@ Tampoco puede retener el bien como prenda que garantice otro crédito que tenga 
 
 Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
-La responsabilidad de que habla este artículo no excederá de la suma del equivalente a treinta días salario mínimo general cuando no se pueda imputar culpa al hotelero o a su personal.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+La responsabilidad de que habla este artículo no excederá de la suma del equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización cuando no se pueda imputar culpa al hotelero o a su personal.
 
 ###### Artículo 2450.
 
@@ -12631,9 +12663,9 @@ El mandato debe otorgarse en escritura pública o en carta poder firmada ante do
 
 I.- Cuando sea general;
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-II.- Cuando el interés del negocio para el que se confiere llegue al equivalente del importe de ciento ochenta días de salario mínimo general o exceda de esa cantidad;
+II.- Cuando el interés del negocio para el que se confiere llegue al equivalente del importe de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización o exceda de esa cantidad;
 
 > <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
 
@@ -12643,11 +12675,13 @@ III.- Cuando en virtud de él, haya de ejecutar el mandatario, a nombre del mand
 
 IV.- En el supuesto del segundo párrafo del artículo 2462.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2470.
 
-El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda del importe de treinta días salario mínimo general y no llegue al equivalente de ciento ochenta días salario mínimo general.
+El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda del importe de treinta veces el valor diario de la Unidad de Medida y Actualización y no llegue al equivalente de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización.
 
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de treinta días salario mínimo general.
+Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 2471.
 
@@ -12983,9 +13017,11 @@ El contrato de obras a precio alzado, cuando el empresario dirige la obra y pone
 
 Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2532.
 
-Siempre que el empresario se encargue por ajuste cerrado de la obra en bien inmueble cuyo valor sea de más de trescientos sesenta y cinco días salario mínimo general, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+Siempre que el empresario se encargue por ajuste cerrado de la obra en bien inmueble cuyo valor sea de más de trescientos sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 
 ###### Artículo 2533.
 
@@ -14117,13 +14153,17 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, c
 
 El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación, cuya cuantía no exceda del equivalente a cien días salario mínimo en el Estado, no se exigirá que el fiador tenga bienes inmuebles,
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+Cuando la fianza sea para garantizar el cumplimiento de una obligación, cuya cuantía no exceda del equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, no se exigirá que el fiador tenga bienes inmuebles.
 
 La fianza puede substituirse con prenda o hipoteca.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2762.
 
-Para otorgar una fianza legal o judicial por más del equivalente a cien días salario mínimo general se presentará un certificado expedido por el encargado del Registro Público de la propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+Para otorgar una fianza legal o judicial por más del equivalente a cien veces el valor diario de la Unidad de Medida y Actualización se presentará un certificado expedido por el encargado del Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
 ###### Artículo 2763.
 
@@ -14611,9 +14651,11 @@ De las transacciones
 
 La transacción es un contrato por el cual las partes, haciéndose recíprocas concesiones, terminan una controversia presente o previenen una futura.
 
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+
 ###### Artículo 2855.
 
-La transacción que previene controversias futuras debe constar por escrito si el interés excede del importe de noventa días salario mínimo general en el Estado.
+La transacción que previene controversias futuras debe constar por escrito si el interés excede del importe de noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 2856.
 
@@ -15642,3 +15684,11 @@ PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicaci
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Los regímenes de propiedad en condominio constituidos con anterioridad a la entrada en vigor del presente Decreto, seguirán rigiéndose bajo los términos de su Escritura Constitutiva y Reglamento correspondiente.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
