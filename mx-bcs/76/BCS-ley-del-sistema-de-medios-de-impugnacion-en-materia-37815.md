@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-de-medios-de-impugnacion-en-materia-37815"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-27"
-last_updated: "2014-06-28"
+last_updated: "2016-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 27 de febrero de 2004.
 
@@ -753,7 +753,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por cien veces el salario mínimo diario general vigente en el Estado de Baja California Sur, la cual podrá duplicarse en caso de reincidencia; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+
+III. Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización, la cual podrá duplicarse en caso de reincidencia; y
 
 IV. Auxilio de la fuerza pública.
 
@@ -914,3 +916,11 @@ Cuarto.- Para los efectos previstos en el tercer párrafo del artículo 61 del p
 Por lo que hace a los Juicios de Inconformidad presentados para impugnar los resultados de la elección de Gobernador del Estado y de Ayuntamientos del proceso electoral de 2018, éstos deberán ser resueltos a más tardar el día 12 de agosto de dicho año.
 
 Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2379.- SE REFORMAN DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA ARMONIZACIÓN EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
