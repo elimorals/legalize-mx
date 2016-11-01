@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg515-2015-del-consejo-general-del-instituto-110274
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-10-22"
-last_updated: "2015-10-22"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110274&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-12"
 ---
 # ACUERDO INE/CG515/2015 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS APLICABLES A LA ENTREGA Y RECEPCION ELECTRONICA O SATELITAL DE LAS ORDENES DE TRANSMISION Y MATERIALES
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 1 DE NOVIEMBRE DE 2016, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS APLICABLES A LA ENTREGA Y RECEPCIÓN ELECTRÓNICA O SATELITAL DE LAS ÓRDENES DE TRANSMISIÓN Y MATERIALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de octubre de 2015.
 
@@ -60,3 +62,23 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 > <small>[N. DE E. VÉASE LINEAMIENTOS APLICABLES A LA ENTREGA Y RECEPCIÓN ELECTRÓNICA O SATELITAL DE LAS ÓRDENES DE TRANSMISIÓN Y MATERIALES EN LA PRIMERA SECCIÓN DEL D.O.F. DE 22 DE OCTUBRE DE 2015, PÁGINAS DE LA 99 A LA 105.]</small>
 
 > <small>[N. DE E. VÉASE CRONOGRAMA DE INSTRUMENTACIÓN DE LA ENTREGA Y RECEPCIÓN ELECTRÓNICA DE MATERIALES Y LAS ÓRDENES DE TRANSMISIÓN EN LA PRIMERA SECCIÓN DEL D.O.F. DE 22 DE OCTUBRE DE 2015, PÁGINAS DE LA 106 A LA 107.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS LINEAMIENTOS Y EL CRONOGRAMA APROBADOS MEDIANTE EL DIVERSO INE/CG515/2015, EN VIRTUD DE LA IMPLEMENTACIÓN DE LA CARGA ELECTRÓNICA DE ESTRATEGIAS DE TRANSMISIÓN, ASÍ COMO DEL SISTEMA INTEGRAL DE GESTIÓN DE REQUERIMIENTOS EN MATERIA DE RADIO Y TELEVISIÓN".]</small>
+
+ACUERDO
+
+PRIMERO.- Se modifican los Lineamientos aplicables a la entrega y recepción electrónica o satelital de las órdenes de transmisión y materiales aprobados mediante Acuerdo INE/CG515/2015, incluyendo el cronograma para la implementación del sistema de entrega y recepción electrónica o satelital de las órdenes de transmisión, los cuales se adjuntan al presente Acuerdo y forman parte integrante del mismo.
+
+SEGUNDO.- Se instruye al Secretario Ejecutivo para que, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos notifique el presente Acuerdo a los concesionarios y permisionarios de radio y televisión, Partidos Políticos Nacionales y locales, así como a las autoridades electorales.
+
+TERCERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+CUARTO.- Se instruye al Secretario Ejecutivo a que implemente las medidas necesarias para la oportuna publicación de este Acuerdo en el Diario Oficial de la Federación.
+
+Los anexos pueden ser consultados en la siguiente dirección electrónica:
+
+http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/2016/08_Agosto/CGor201608-26/CGor201608-26-ap-5-x1.pdf
