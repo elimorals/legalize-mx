@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2016-08-09"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -233,9 +233,13 @@ Las autoridades educativas locales participarán en la actualización e integrac
 
 XXIII.- Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad escolar, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel;
 
-XXIV.- Proveer la información que el Instituto Nacional de Evaluación Educativa requiera para el ejercicio de sus funciones, así como cumplir con los lineamientos que éste emita y demás funciones que de manera análoga le correspondan de conformidad con la normatividad aplicable; y
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
 
-XXVI (SIC).- Las demás que le confiera la presente ley y otras disposiciones aplicables.
+XXIV.- Capacitar a los responsables de los centros educativos en materia de protección civil, y conocimiento acerca de la normatividad referente a la seguridad y los planes de contingencia de disturbios; para que lo difundan entre el personal docente y administrativo de dichos centros;
+
+XXV.- Proveer la información que el Instituto Nacional de Evaluación Educativa requiera para el ejercicio de sus funciones, así como cumplir con los lineamientos que éste emita y demás funciones que de manera análoga le correspondan de conformidad con la normatividad aplicable; y
+
+XXVI.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1788,3 +1792,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 566.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XXIV, Y SE RECORRE EL ACTUAL A LA FRACCIÓN XXV QUE SE CREA, AL IGUAL QUE LA FRACCIÓN XXVI DEL ARTÍCULO 9, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
