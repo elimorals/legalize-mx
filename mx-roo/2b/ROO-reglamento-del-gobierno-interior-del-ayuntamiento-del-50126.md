@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2016-10-25"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -1005,6 +1005,10 @@ V. Estudiar la conveniencia y proponer la celebración de convenios con la Feder
 
 VI. Estudiar la intervención municipal en la formulación y aplicación de programas de transporte público y las concesiones que se constituyan para la prestación de este servicio, cuando se ejerzan en el espacio territorial del Municipio.
 
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+VII. Resolver respecto al otorgamiento de la anuencia para uso de suelo comercial en predios ubicados en zonas de transformación de conformidad con las disposiciones del Programa de Desarrollo Urbano del Centro de Población de la Ciudad de Cancún, vigente.
+
 ###### Artículo 111.
 
 Corresponde a la Comisión de Educación, Cultura y Deportes:
@@ -1842,3 +1846,9 @@ P.O. 25 DE OCTUBRE DE 2016.
 Primero.- La presente reforma reglamentaria entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo.- Se derogan todas las disposiciones reglamentarias que se opongan a la presente reforma.
+
+P.O. 1 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 13-16/591. SÉPTIMO PUNTO DEL ORDEN DEL DÍA DE LA SEXAGÉSIMA SÉPTIMA SESIÓN ORDINARIA, EN EL QUE SE APRUEBA DICTAMEN MEDIANTE EL CUAL SE ADICIONAN CON UNA FRACCIÓN VII AL ARTÍCULO 110 DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL H. AYUNTAMIENTO DE BENITO JUÁREZ”.]
+
+ÚNICO.- La presente reforma reglamentaria entrará en vigor, el día de su publicación en el periódico oficial del estado de Quintana Roo.
