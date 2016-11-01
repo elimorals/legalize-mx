@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-10-07"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -521,9 +519,11 @@ II. Ampliaciones, reparaciones y reformas de edificios existentes; y,
 
 III. Sanciones por infringir dicha normatividad.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 36°.
 
-Las instancias encargadas de autorizar los proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a prestar servicios al público, especialmente clínicas, hospitales, hoteles, restaurantes, oficinas públicas, bancos, terminales de pasajeros, plazas comerciales y tiendas de autoservicio, plazas públicas, parques recreativos y unidades deportivas, deberán obligar a que se instalen, según corresponda a la magnitud y clase del proyecto, sanitarios, baños, estacionamientos, elevadores, rampas y salidas de emergencia adaptados a las personas que se desplacen en silla con ruedas, así como guías o surcos lineales para personas con discapacidad visual.
+Las instancias encargadas de autorizar los proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a prestar servicios al público, especialmente clínicas, hospitales, hoteles, restaurantes, oficinas públicas, bancos, terminales de pasajeros, plazas comerciales y tiendas de autoservicio, plazas públicas, parques recreativos y unidades deportivas, deberán obligar a que se instalen, según corresponda a la magnitud y clase del proyecto, ventanillas, taquillas, asientos, sanitarios, baños, estacionamientos, elevadores, rampas y salidas de emergencia adaptados a las personas que se desplacen en silla con ruedas y para las personas de talla pequeña, para quienes se deberá contar además con escalones universales fijos y móviles, así como guías o surcos lineales para personas con discapacidad visual.
 
 ###### Artículo 37°.
 
@@ -1160,3 +1160,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 577.- SE REFORMA EL ARTÍCULO 36 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
