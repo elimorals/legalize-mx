@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2015-10-27"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -51,7 +51,9 @@ Para efectos de esta ley se entenderá por:
 
 I. Agua potable: la que puede ser ingerida sin provocar efectos nocivos a la salud y reúne las características establecidas por las normas oficiales mexicanas.
 
-II. Aguas de uso doméstico: Los volúmenes de agua utilizados para satisfacer las necesidades de los residentes de las viviendas, destinada al uso particular, riego de jardines y árboles de ornato, incluyendo el abrevadero de sus animales domésticos que no constituyan una actividad lucrativa.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+II. Aguas de uso doméstico: Los volúmenes de agua utilizados para satisfacer las necesidades de los residentes de las viviendas, destinada al uso particular, riego de jardines y árboles de ornato, incluyendo el abrevadero de sus animales domésticos que no constituyan una actividad lucrativa. Se considerará también como uso doméstico la utilización del servicio de volúmenes de agua por parte de personas que, mediante el autoempleo, realicen actividades económicas de carácter comercial en la casa-habitación en la que residan.
 
 III. Agua pluvial: la proveniente de la lluvia, nieve o granizo.
 
@@ -107,7 +109,9 @@ XXVIII. Tarifa: la tabla de precios que deben pagar los usuarios como contrapres
 
 XXIX. Toma: es el punto de interconexión entre la infraestructura o red secundaria para el abastecimiento de los servicios públicos y la infraestructura intradomiciliaria de cada predio.
 
-XXX. Uso doméstico: la utilización de agua destinada al uso particular de las personas y del hogar, así como el riego de jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos, siempre que estas últimas dos aplicaciones no constituyan actividades lucrativas.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XXX. Uso doméstico: la utilización de agua destinada al uso particular de las personas y del hogar, así como el riego de jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos, siempre que estas últimas dos aplicaciones no constituyan actividades lucrativa (sic). Se considerará también como uso doméstico la utilización del servicio de volúmenes de agua por parte de personas que, mediante el autoempleo, realicen actividades económicas de carácter comercial en la casa-habitación en la que residan.
 
 XXXI. Uso público urbano: la utilización del agua para el riego de áreas verdes de propiedad estatal y municipal y para el abastecimiento de las instalaciones que presten servicios públicos.
 
@@ -777,7 +781,9 @@ J).- De servicios generales a la comunidad.
 
 Las cuotas o tarifas se fijarán de conformidad a lo dispuesto en los artículos 16 y 22 de esta ley y con base en los estudios económicos, que formularán anualmente los organismos operadores, pudiendo apoyarse en su caso en empresas especializadas, en los que deberán considerarse el costo global de las obras e instalaciones necesarias para la prestación de los servicios, su mantenimiento, el mejoramiento y ampliación de los sistemas, las condiciones socio-económicas de la población, así como el volumen de agua que se consuma, el uso a que se destine y la estimación de los recursos hidráulicos potenciales y disponibles.
 
-Se otorgará un 50% de descuento a las personas pensionadas y a las mayores de 60 años, en su recibo de de (sic) agua potable del servicio doméstico, en el domicilio donde legalmente residan. Este descuento solo será aplicable en el consumo que determine el organismo operador en los municipios. De sobrepasar este consumo, se deberá liquidar el exceso en su totalidad.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+Se considerará como consumo doméstico el uso del servicio de agua potable por parte de personas que, mediante el autoempleo, realicen actividades económicas de carácter comercial en la casa-habitación en la que residan, excluyendo aquellas en las que el agua sea el insumo principal de un proceso productivo que se realice con fines de comercialización. Se otorgará un 50% de descuento a las personas pensionadas y a las mayores de 60 años, en su recibo de agua potable del servicio doméstico, en el domicilio donde legalmente residan. Este descuento solo será aplicable en el consumo que determine el organismo operador en los municipios. De sobrepasar este consumo, se deberá liquidar el exceso en su totalidad.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
@@ -1118,3 +1124,13 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su public
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 562.- SE REFORMAN LAS FRACCIONES II Y XXX DEL ARTÍCULO 1 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 75, DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los organismos operadores de agua deberán hacer el ajuste en el cobro derivado de los servicios de manera automática, sin que medie solicitud alguna de los usuarios.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
