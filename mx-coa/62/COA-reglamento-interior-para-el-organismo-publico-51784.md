@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-para-el-organismo-publico-51784"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-15"
-last_updated: "2011-10-25"
+last_updated: "2016-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR PARA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA"
 
-REGLAMENTO INTERIOR PARA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA"
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR PARA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA DE ZARAGOZA", PUBLICADO EN EL P.O. DE 1 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2011.
+REGLAMENTO INTERIOR PARA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA"
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 15 de septiembre de 2006.
 
@@ -555,9 +557,9 @@ XVIII. Rendir ante la Dirección General del Organismo los informes de actividad
 
 XIX. Elaborar de acuerdo a los lineamientos de la Coordinación Administrativa de la Secretaría de Salud, los Manuales de Organización y demás de naturaleza similar que se requieran para el adecuado funcionamiento de la Dirección; y
 
-XX. Las demás que le confiera otras disposiciones aplicables, así como las que le asigne la Dirección General del Organismo o la Junta de Gobierno; (sic)
+XX. Las demás que le confiera otras disposiciones aplicables, así como las que le asigne la Dirección General del Organismo o la Junta de Gobierno;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
@@ -591,7 +593,7 @@ XIII. Coadyuvar en la definición de prioridades del programa de inversión con 
 
 XIV. Elaborar de acuerdo a los lineamientos de la Coordinación Administrativa de la Secretaría de Salud, los Manuales de Organización, de Políticas y Procedimientos y demás de naturaleza similar que se requieran para el adecuado funcionamiento de las unidades adscritas a la coordinación;
 
-XV. Observar los criterios que emita la Dirección de Asuntos Jurídicos y consultarla cuando los asuntos impliquen cuestiones jurídicas, así como proporcionar la información que requiera en los plazos y en los términos que dicha unidad administrativa le solicite; y (sic)
+XV. Observar los criterios que emita la Dirección de Asuntos Jurídicos y consultarla cuando los asuntos impliquen cuestiones jurídicas, así como proporcionar la información que requiera en los plazos y en los términos que dicha unidad administrativa le solicite; y
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2010)</small>
 
@@ -645,7 +647,7 @@ XXVII.- Desempeñar las comisiones, representaciones y funciones que le confiera
 
 XXVIII.- Las demás que le confiera otras disposiciones aplicables, así como las que le asigne la Dirección General del Organismo o la Junta de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 27.
 
@@ -823,7 +825,7 @@ XVIII. Las demás que le confiera otras disposiciones aplicables, así como las 
 
 Corresponde al titular del Centro Estatal de Transfusión Sanguínea, el ejercicio de las siguientes atribuciones y obligaciones:
 
-I. Aplicar las políticas, procedimientos y normas de operación para el Centro Estatal de Transfusión Sanguínea del Organismo y supervisar el cumplimiento de las mismas, de acuerdo a las disposiciones emitidas de (sic) la Secretaría y la Secretaría Estatal;
+I. Aplicar las políticas, procedimientos y normas de operación para el Centro Estatal de Transfusión Sanguínea del Organismo y supervisar el cumplimiento de las mismas, de acuerdo a las disposiciones emitidas de la Secretaría y la Secretaría Estatal;
 
 II. Participar en la planeación de programas y proyectos en el ámbito de su competencia, en coordinación con las áreas correspondientes, definiendo los recursos necesarios para su cumplimiento conforme al Diagnóstico Estatal de Salud y a las Normas, Políticas y Estrategias que se señalen a nivel Estatal y/o Federal;
 
@@ -970,3 +972,11 @@ PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su pu
 P.O. 25 DE OCTUBRE DE 2011.
 
 UNICO.- El Presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR PARA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Organismo Público Descentralizado de la Administración Pública Estatal denominado "Servicios de Salud de Coahuila", publicado en el Periódico Oficial del Gobierno del Estado N° 74, de fecha 15 de Septiembre de 2006, así mismo, se derogan todas las disposiciones que se opongan al presente reglamento.
