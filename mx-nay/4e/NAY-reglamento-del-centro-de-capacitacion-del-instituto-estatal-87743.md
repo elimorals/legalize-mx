@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-del-centro-de-capacitacion-del-instituto-estatal-877
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-28"
-last_updated: "2013-11-02"
+last_updated: "2016-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DEL CENTRO DE CAPACITACIÓN DEL INSTITUTO ESTATAL ELECTORAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Novena Sección del Periódico Oficial del Estado de Nayarit, el sábado 28 de abril del 2012.
 
@@ -79,9 +79,11 @@ Las actividades que desarrolle el Centro serán en apoyo a las actividades del I
 
 ### CAPITULO SEGUNDO. De la Estructura del Centro
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 5.
 
-El Centro estará a cargo de un Director designado por el presidente del Instituto Estatal Electoral.
+El Centro estará a cargo de un Director designado por el Consejero Presidente del Instituto Estatal Electoral, dos coordinadores y demás personal administrativo que se designe por la Junta Estatal Ejecutiva.
 
 ###### Artículo 6.
 
@@ -119,9 +121,17 @@ XIV. Las demás que le confieran la Junta Estatal Ejecutiva.
 
 El Centro contará con dos coordinadores, propuestos por el Director del Centro y aprobados por el Presidente del Instituto;
 
-a) Un Coordinador Académico, y
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
 
-b) Un Coordinador Administrativo
+a) Un Coordinador Académico,
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+b) Un Coordinador Administrativo, y
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+c) Personal Administrativo.
 
 ###### Artículo 8.
 
@@ -175,7 +185,11 @@ VI. Expedir Constancias de no adeudo de material bibliográfico, hemerográfico 
 
 VII. Resguardar el acervo documental del Centro; y
 
-VIII. Las demás que le confiera este Reglamento y el Presidente del Instituto.
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Administrar los recursos.
+
+IX. Las demás que le confiera este Reglamento y el Presidente del Instituto.
 
 ## TITULO SEGUNDO. De las Academias Especializadas
 
@@ -415,9 +429,17 @@ El procedimiento que los aspirantes deberán cumplir para ingresar a nivel posgr
 
 I. Examen de conocimientos;
 
-II. Entrevista y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
 
-III. Valoración curricular.
+II. Entrevista;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+III. Valoración curricular, y
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+IV. Cuota de recuperación.
 
 Los alumnos serán seleccionados dando preferencia a los servidores electorales en activo del Instituto y a los integrantes de las representaciones de los partidos políticos debidamente acreditados ante el Instituto Estatal Electoral.
 
@@ -487,15 +509,17 @@ c) La realización y defensa de tesis aprobada por el Coordinador del Centro.
 
 d) Satisfacer los demás requisitos administrativos que se establezcan.
 
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
 II. Para obtener el grado de maestro.
 
-a) Contar con la certificación total de estudios aceptada por las autoridades educativas correspondientes.
+e) (sic) Contar con la certificación total de estudios aceptada por las autoridades educativas correspondientes.
 
-b) Contar con constancia de no adeudo de material bibliográfico, hemerográfico y digital emitida por la Coordinación del Centro.
+f) Contar con constancia de no adeudo de material bibliográfico, hemerográfico y digital emitida por la Coordinación del Centro.
 
-c) La realización y defensa de la tesis correspondiente o la inclusión de un artículo especializado en alguna revista indizada en el padrón de excelencia del CONACyT.
+g) La realización y defensa de la tesis correspondiente o la inclusión de un artículo especializado en alguna revista indizada en el padrón de excelencia del CONACyT o acreditar el 50% de créditos de grado superior.
 
-d) Satisfacer los demás requisitos administrativos que se establezcan.
+h) Satisfacer los demás requisitos administrativos que se establezcan.
 
 III. Para obtener el grado de doctor.
 
@@ -507,11 +531,17 @@ c) La realización y defensa de la tesis correspondiente
 
 d) Satisfacer los demás requisitos administrativos que se establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 42.
 
-La obtención de grados académicos en el centro será individual y a través de la modalidad de tesis profesional, la que será expuesta ante un sínodo conformado por tres docentes del claustro académico, con el grado no menor que corresponda a la sustentación, integrado por la Coordinación del Centro.
+La obtención de grados académicos en el centro será individual y en el caso de la modalidad de tesis profesional, será expuesta ante un sínodo conformado por tres docentes del claustro académico, con el grado no menor que corresponda a la sustentación, integrado por la Coordinación del Centro.
 
 En ningún caso se podrá programar un examen para la obtención de grados académicos antes de 90 días contados a partir de la fecha de la última evaluación del plan de estudios correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+En su caso, constancia expedida por la institución educativa mediante la cual se acredite el 50% de los créditos de grado superior.
 
 ###### Artículo 43.
 
@@ -595,7 +625,9 @@ VII. Presentar los exámenes o trabajos que se determinen.
 
 VIII. Evitar la deshonestidad académica, es decir, plagio académico y la usurpación del producto intelectual de otros autores en los trabajos motivo de evaluación;
 
-IX. Observar una conducta adecuada que permita el buen financiamiento académico y administrativo; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+IX. Cumplir con la cuota de recuperación del programa que curse.
 
 X. Las demás que señalen las autoridades del Instituto y del Centro.
 
@@ -1012,3 +1044,13 @@ Atentamente En la democracia, todos participamos.- Tepic, Nayarit; 26 de abril d
 P.O. 2 DE NOVIEMBRE DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT.
+
+P.O. 1 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO DEL CENTRO DE CAPACITACIÓN DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT”.]
+
+PRIMERO.- Se aprueba la reforma a los artículos 5, 7, 9, 29, 41, 42 y 50 del Reglamento del Centro de Capacitación del Instituto Electoral en los términos de los CONSIDERANDOS IV y V del presente Acuerdo.
+
+SEGUNDO.- Realícese los trámites administrativos ante la Dirección de Educación Superior de la Secretaria de Educación Pública, para los efectos a que haya lugar.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado.
