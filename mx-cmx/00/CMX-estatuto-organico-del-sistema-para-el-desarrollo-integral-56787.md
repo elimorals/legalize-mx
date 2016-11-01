@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-56787
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-09-24"
-last_updated: "2015-01-30"
+last_updated: "2016-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56787&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2007-07-06"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MEXICO -- ANTES ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL --
 
-ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE NOVIEMBRE DE 2016.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de septiembre de 2007.
 
@@ -40,7 +40,9 @@ AVISO POR EL QUE SE DA A CONOCER LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL SI
 
 ÚNICO.- Que mediante acuerdo SO/XLI/14/07, La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, con fundamento en el artículo 70, fracción VIII de la Ley Orgánica de la Administración Pública del Distrito Federal y 10, fracción IV del Decreto por el que se crea un Organismo Público Descentralizado de la Administración Pública del Distrito Federal con personalidad jurídica y patrimonio propio, aprobó en su XLI Sesión Ordinaria, celebrada el 6 de julio del año 2007, las modificaciones al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Distrito Federal y su publicación en la Gaceta Oficial del Distrito Federal, para su debida difusión, para quedar como sigue:
 
-ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. DEL ÁMBITO DE COMPETENCIA, ORGANIZACIÓN Y PATRIMONIO
 
@@ -112,9 +114,9 @@ III. Dirección General
 
 IV. Dirección Ejecutiva de Asuntos Jurídicos
 
-> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
 
-IV Bis. Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia;
+IV. Bis Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México;
 
 V. Dirección Ejecutiva de Asistencia Alimentaria
 
@@ -282,6 +284,10 @@ I. Administrar y representar legalmente al Sistema con las más amplias facultad
 
 II. Planear, dirigir y controlar el funcionamiento del Organismo conforme a las disposiciones generales aplicables, con sujeción a los acuerdos de la Junta de Gobierno;
 
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+II. Bis. Desempeñar el cargo de la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, en términos del nombramiento que emita el Jefe de Gobierno y cumplir con las facultades y obligaciones que establecen los ordenamientos aplicables.
+
 III. Presentar a la Junta de Gobierno los estados financieros trimestrales, con los comentarios, informes y recomendaciones de la Comisaria o Comisario y de la Auditora o Auditor Externo, así como el informe anual del desempeño de las actividades del Organismo. Asimismo, ejecutar los acuerdos de la Junta de Gobierno;
 
 IV. Someter a la aprobación de la Junta de Gobierno los planes de trabajo, presupuesto, informe de actividades y estados financieros anuales del Organismo;
@@ -364,65 +370,53 @@ XX. Consolidar con las organizaciones sociales, civiles y académicas, una relac
 
 XXI. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE NOVIEMBRE DE 2016)</small>
 
-### CAPITULO V BIS. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE LA DEFENSORÍA DE LOS DERECHOS DE LA INFANCIA
+### CAPÍTULO V BIS. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE LA PROCURADURÍA DE PROTECCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2016)</small>
 
-ARTÍCULO 16 BIS. La Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia tendrá a su cargo las siguientes atribuciones:
+ARTÍCULO 16 BIS. La Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México tendrá las siguientes atribuciones:
 
-I. Representar legalmente los intereses de las niñas y los niños, ante las autoridades judiciales o administrativas, en todos los trámites y procedimientos relacionados con ellos, de conformidad con las disposiciones legales aplicables en la materia;
+I. Fomentar la protección integral de los derechos de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México en términos de la Ley de los Derechos de las Niñas, Niños y Adolescentes de la Ciudad de México y su reglamento;
 
-II. Implementar un sistema de planeación, seguimiento, monitoreo y evaluación de las políticas públicas y de los programas destinados a la niñez, así como de la aplicación de las leyes en la materia;
+II. Denunciar ante la autoridad ministerial aquellos hechos que se presuman constitutivos de delito en agravio de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México;
 
-III. Impulsar programas para la promoción, defensa y restitución de los derechos de las niñas y los niños, conforme a los principios de supervivencia y desarrollo, no discriminación, interés superior y protección integral. Así como promover programas específicos, para atender los casos de niñas y niños privados de cuidado parental o que se encuentren en una situación en que sus derechos humanos hayan sido o puedan ser vulnerados;
+III. Participar en la detección y recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México y coordinar la implementación de un plan de restitución, en colaboración y participación oportuna y articulada con las autoridades competentes;
 
-IV. Coordinar los programas de orientación, asistencia y patrocinio jurídico, así como de orientación social y psicológica a niñas y niños, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado, conforme a la Ley, las políticas y lineamientos internos y demás disposiciones aplicables;
+IV. Iniciar los procedimientos legales correspondientes ante las autoridades competentes, respecto de niñas, niños y adolescentes bajo la tutela temporal del DIF CDMX;
 
-V. Vigilar la observancia de las disposiciones constitucionales que salvaguardan los derechos de las niñas y los niños, así como las contenidas en los tratados internacionales suscritos por nuestro país en los términos del artículo 133 Constitucional y las previstas en la legislación aplicable;
+V. Prestar asesoría y representación en suplencia, coadyuvante y originaria a niñas, niños y adolescentes que habitan o transitan en la Ciudad de México, de acuerdo a la normatividad aplicable a cada caso;
 
-VI. Coordinar programas de equidad de género, prevención, atención y protección a niñas y niños víctimas de violencia familiar, encaminados a detener el contexto de violencia en el que se desarrollan, medir el nivel de riesgo en que se encuentran y según sea el caso, coadyuvar con otras instituciones públicas y privadas a salvaguardar la integridad física, mental y el respeto de sus derechos;
+VI. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes que viven o transitan en la Ciudad de México hayan sido restringidos o vulnerados, salvo en los casos de violencia;
 
-VII. Controlar, dirigir y coordinar a los Consejos Locales de Tutelas; así como promover las acciones legales necesarias para salvaguardar la integridad de la población en estado de vulnerabilidad que así lo requiera;
+VII. Solicitar a la autoridad ministerial competente la imposición de medidas precautorias, cautelares, de seguridad y de protección, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México;
 
-VIII. Realizar las acciones correspondientes para crear y mantener un sistema de información sobre la niñez, que incluya la situación de las niñas y los niños en instituciones públicas o privadas y en centros donde trabajen, vivan o concurran, brindar el acompañamiento de los organismos dedicados a la infancia;
+VIII. Ordenar, fundada y motivadamente, la aplicación de medidas urgentes de protección especial, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes que habitan o transitan en la Ciudad de México, dando aviso de inmediato a la autoridad ministerial y jurisdiccional competente, por si o a través del personal facultado para ello en términos de la normatividad aplicable;
 
-IX. Emitir recomendaciones y lineamientos para armonizar las acciones y programas de las diferentes dependencias que atiendan a la infancia; en términos de la Ley de los Derechos de las Niñas y Niños en el Distrito Federal;
+IX. Solicitar el auxilio de las instituciones policiales competentes para la imposición de las medidas urgentes de protección;
 
-X. Integrar la lista de personas con aptitud legal y moral para desempeñar la tutela en términos de la Ley y de las demás disposiciones aplicables;
+X. Solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente, en caso de incumplimiento de las medidas urgentes de protección;
 
-XI. Vigilar el ejercicio de la tutela de las niñas y niños;
+XI. Coordinar la atención de los reportes de violencia familiar, maltrato, abandono, descuido o negligencia, en agravio de niñas, niños y adolescentes que habitan o transitan en la Ciudad de México, mediante la implementación de acciones de prevención, investigación e intervención social;
 
-XII. Coordinar la atención de los reportes de maltrato, abandono, descuido o negligencia, que sean objeto las niñas, los niños, por parte de sus padres, tutores, de quien los tenga bajo su cuidado y atención y de cualquier persona, para su investigación y tratamiento social, y de ser procedente interponer las denuncias correspondientes;
+XII. Recibir y tramitar las solicitudes de las personas interesadas en adoptar niñas, niños y/o adolescentes que se encuentren bajo la tutela del DIF-CDMX y brindarles capacitación al respecto;
 
-XIII. Ordenar la realización de visitas domiciliarias y el envío de citatorios para investigar la veracidad de los reportes de maltrato o violación de los derechos de las niñas y los niños y requerir la presencia de éstos, así como de sus familiares, tutores y quien los tenga a su cargo, para fines de investigación y tratamiento social;
+XIII. Promover, impulsar y suscribir convenios de participación y colaboración, con los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa, protección y restitución de los derechos de la niñez y adolescencia;
 
-XIV. Ejercer la custodia provisional de niñas y niños que se encuentren en estado de abandono y desamparo, iniciando los procedimientos legales correspondientes ante las autoridades competentes;
+XIV. Elaborar los lineamientos y procedimientos a los que se sujetará para la restitución de los derechos;
 
-XV. Promover ante el Ministerio Público y Juez de lo Familiar según corresponda su intervención para rescatar a niñas y niños que se encuentren en riesgo, expresándole los motivos y fundamentos correspondientes;
+XV. Coordinar los programas de orientación, asistencia y patrocinio jurídico, así como de orientación social y psicológica a niñas y niños, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado, conforme a la Ley, las políticas y lineamientos internos y demás disposiciones aplicables;
 
-XVI. Asistir a las niñas o niños y comparecer ante el órgano jurisdiccional en los casos en que por ley corresponda o se le designe para ejercer la tutela, guarda y custodia, pérdida de patria potestad y adopción de niñas y niños, sin contravenir las disposiciones legales aplicables en la materia;
+XVI. Colaborar en la realización y promoción de estudios e investigaciones para la defensa y restitución de los derechos de la niñez y adolescencia;
 
-XVII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones en favor de la atención, defensa y protección de los derechos de niñas y niños;
+XVII. Atender, organizar, integrar, dirigir supervisar, evaluar y dar seguimiento de acuerdo a las normas y/o reglas de operación de los programas sociales asignados;
 
-XVIII. Establecer de acuerdo con los lineamientos y directrices emitidas por la Dirección General del Organismo y con apego a la legislación aplicable, las Políticas y Lineamientos de la Defensoría;
+XVIII. Coordinar la realización de estudios de trabajo social y psicológico a petición de la autoridad jurisdiccional, en términos de la ley y demás disposiciones aplicables en la materia;
 
-XIX. Planear, organizar, integrar, dirigir, supervisar, evaluar y dar seguimiento de acuerdo a las normas y los lineamientos establecidos, a la atención a niñas y niños en riesgo y/o situación de abandono y/o de calle;
+XIX. Expedir las copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo de los originales atendiendo a lo dispuesto en las leyes de protección de datos personales; y
 
-XX. Elaborar programas específicos de detección, prevención y atención de las diversas problemáticas que enfrenta la niñez en riesgo y situación de calle del Distrito Federal a nivel social, familiar, escolar, jurídico y recreativo;
-
-XXI. Promover relaciones institucionales e interinstitucionales, estudios y análisis para fortalecer las acciones de los programas de la niñez en riesgo y en situación de calle;
-
-XXII. Difundir y promover una cultura de respeto a los derechos de la niñez en lo general y en particular, aquellos que se encuentren en riesgo y situación de calle;
-
-XXIII. Coordinar el desarrollo del Comité de Adopciones así como la supervisión y vigilancia de los cuidados alternativos de las niñas y niños incorporados a un hogar provisional o sustituto, en términos de la Ley y demás disposiciones aplicables;
-
-XXIV. Coordinar la realización de estudios de trabajo social y psicológicos a petición de la autoridad competente y en términos de la Ley y demás disposiciones aplicables en la materia;
-
-XXV. Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales; y,
-
-XXVI. Las demás que le confiera la Dirección General y las disposiciones aplicables.
+XX. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN EJECUTIVA DE ASISTENCIA ALIMENTARIA
 
@@ -538,9 +532,17 @@ XXI. Promover y fomentar Programas emergentes que permitan abastecer de agua pot
 
 XXII. Brindar las facilidades y apoyo necesario para que la Dirección Ejecutiva de Niñas y Niños Talento lleve a cabo las actividades extraescolares y eventos correspondientes al Programa de Niñas y Niños Talento; y,
 
-> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
 
-XXIII. Las demás que le confiera la Dirección General y las disposiciones aplicables.
+XXIII. Impulsar programas para la promoción, defensa y restitución de los derechos de las niñas, niños y adolescentes, conforme a los principios de supervivencia y desarrollo, no discriminación, interés superior y protección integral;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XXIV. Difundir y promover una cultura de respeto a los derechos de la niñez en lo general y en particular de aquellos que se ubican en una situación de vulnerabilidad o riesgo;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XXV. Las demás que le confiera la Dirección General y las disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE ENERO DE 2015)</small>
 
@@ -688,7 +690,29 @@ XVIII. Asistir legalmente a las personas con discapacidad ante la autoridad judi
 
 XVIII Bis. Expedir copias certificadas de los documentos existentes en sus archivos, únicamente previo cotejo con los originales; y,
 
-XIX. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Controlar, dirigir y coordinar a los consejos locales de tutelas, así como promover las acciones legales necesarias para salvaguardar la integridad de la población en estado de vulnerabilidad que así lo requiera. Asimismo deberá participar y promover los estudios e investigaciones multidisciplinarios conducentes en material de reconocimiento de la capacidad jurídica de las personas con discapacidad;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XX. Integrar la lista de personas con aptitud legal y moral para desempeñar la tutela en términos de la Ley en la materia y de demás disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XXI. Vigilar el ejercicio de la tutela de las personas con discapacidad cuando el juez lo ordene al Consejo Local de Tutelas en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Ordenar la realización de visitas domiciliarias y el envío de citatorios para investigar la veracidad de los reportes de maltrato o violación de los derechos de los adultos mayores y requerir la presencia de éstos, así como de sus familiares, tutores y quien los tenga a su cargo, para fines de investigación y tratamiento social;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XXIII. Expedir constancias a las Asociaciones, Sociedades Civiles e Instituciones de Asistencia Privada en material de discapacidad y desarrollo familiar, de conformidad con lo establecido en el Código Fiscal de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 2016)</small>
+
+XXIV. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE AGOSTO DE 2009)</small>
 
@@ -1025,3 +1049,21 @@ QUINTO.- Las unidades administrativas del Organismo que se transferirán a la Di
 SEXTO.- Las unidades administrativas cuyas funciones se transfieren en virtud de las presentes modificaciones, deberán formalizar cualquier tipo de acto incluyendo actas de entrega-recepción, que sean necesarios para los traspasos, transferencias, sustituciones y demás acciones que correspondan, de acuerdo con las nuevas funciones y estructura aprobada en un plazo no mayor de 15 días a partir de la entrada en vigor del presente aviso.
 
 SÉPTIMO.- Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a las presentes modificaciones.
+
+G.O. 1 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DAN A CONOCER LAS REFORMAS AL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Las reformas del presente Estatuto entrará (sic) en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Los recursos materiales, humanos y financieros de la Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia se transferirán a la Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en la Ciudad de México.
+
+TERCERO.- Las unidades administrativas cuyas funciones se transfieren en virtud de las presentes modificaciones, deberán formalizar cualquier tipo de acto incluyendo actas de entrega-recepción, que sean necesarios para los traspasos, transferencias, sustituciones y demás acciones que correspondan, de acuerdo con las nuevas funciones y estructura aprobada dentro de un plazo que no exceda de 120 días naturales a partir de la entrada en vigor del presente aviso y a partir de ello iniciaran su operación.
+
+CUARTO.- Las unidades administrativas del Sistema realizarán las adecuaciones y gestiones ante las instancias correspondientes, para la modificación del Manual Administrativo del Organismo y demás instrumentos que sean necesarios para el adecuado desarrollo de sus atribuciones.
+
+QUINTO.- En tanto se expiden los manuales a que hace mención este Estatuto, se aplicarán los actuales en lo que no se opongan al mismo, los titulares de las Direcciones Ejecutivas quedarán facultados para resolver los asuntos en el ámbito de su competencia.
+
+SEXTO.- Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a las presentes modificaciones.
+
+SÉPTIMO.- Las actuaciones que en ejercicio de sus facultades y atribuciones hubiere llevado a cabo la Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia, serán válidas y eficaces con la nueva denominación de la Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, en términos del artículo quinto transitorio de la Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México.
