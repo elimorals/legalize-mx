@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-el-desarrollo-y-fomento-al-turismo-en-el-estado-de-418
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-09"
-last_updated: "2009-10-21"
+last_updated: "2016-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY PARA EL DESARROLLO Y FOMENTO AL TURISMO EN EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 2 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL DESARROLLO Y FOMENTO AL TURISMO EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 9 de noviembre de 2004.
 
@@ -856,3 +858,15 @@ P.O. 21 DE OCTUBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE TURISMO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley para el Desarrollo y Fomento al Turismo en el Estado de Chiapas, publicada en el Periódico Oficial No. 269 Tomo II, de fecha martes 9 de noviembre del Año 2004.
+
+Artículo Tercero.- Comuníquese a los Municipios del Estado para que realicen las modificaciones conducentes a sus ordenamientos relacionados con el objeto de la presente Ley.
+
+Artículo Cuarto.- El Titular de la Secretaría de Turismo, deberá someter a consideración y aprobación del Titular del Poder Ejecutivo del Estado, el proyecto de Reglamento de la presente Ley en un plazo no mayor a 90 días hábiles contados a partir del día siguiente a la publicación del presente Decreto.
