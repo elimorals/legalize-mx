@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2016-07-06"
+last_updated: "2016-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -129,11 +129,15 @@ XXIII.- La vigilancia de la aplicación del reglamento para la determinación de
 
 XXIV.- La atención materno-infantil;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2016)</small>
 
-XXV.- El programa de nutrición materno-infantil, en las comunidades indígenas del Estado, el cual debe diseñarse, planearse y administrarse en coordinación y consulta con los pueblos y comunidades indígenas, para tomar en cuenta sus especificidades culturales; y,
+XXV.- El programa de nutrición materno-infantil, en las comunidades indígenas del Estado, el cual debe diseñarse, planearse y administrarse en coordinación y consulta con los pueblos y comunidades indígenas, para tomar en cuenta sus especificidades culturales;
 
-XXVI.- Las demás atribuciones específicas que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2016)</small>
+
+XXVI.- El diagnóstico, tratamiento y vinculación de las enfermedades raras, y
+
+XXVII.- Las demás atribuciones específicas que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B).- Corresponde al Estado en materia de salubridad local, la regulación, control y fomento sanitario de:
 
@@ -4456,5 +4460,13 @@ P.O. 6 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS TREINTA Y SIETE POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 56 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
 
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70 , fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 2 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO OCHENTA Y NUEVE POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS FRACCIONES DEL APARTADO A) DEL ARTICULO 3 DE LA LEY DE SALUD DEL ESTADO DE MORELOS."]
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
