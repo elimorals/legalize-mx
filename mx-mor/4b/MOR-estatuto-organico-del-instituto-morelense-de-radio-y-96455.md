@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-morelense-de-radio-y-96455"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-30"
-last_updated: "2013-10-30"
+last_updated: "2016-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO MORELENSE DE RADIO Y TELEVISIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2016.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 30 de octubre de 2013.
 
@@ -105,7 +105,9 @@ I. El Gobernador del Estado quien la presidirá por sí o por el representante q
 
 II. El Titular de la Secretaría de Gobierno;
 
-III. El Titular de la Secretaria de Información y Comunicación;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2016)</small>
+
+III. La persona titular de la Secretaría de Administración;
 
 IV. El Titular de la Secretaría de Cultura;
 
@@ -520,3 +522,13 @@ C. María Brenda Valderrama Blanco
 Secretaria de Innovación, Ciencia y Tecnología
 
 Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 9, DEL ESTATUTO ORGÁNICO DEL INSTITUTO MORELENSE DE RADIO Y TELEVISIÓN”.]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
