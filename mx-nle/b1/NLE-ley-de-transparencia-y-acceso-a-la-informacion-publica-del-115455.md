@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2016-07-01"
+last_updated: "2016-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 2 DE NOVIEMBRE DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 2 DE NOVIEMBRE DE 2016.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -1113,11 +1113,15 @@ IV. Las metas y objetivos de las Áreas de conformidad con sus programas operati
 
 V. Los indicadores relacionados con temas de interés público o trascendencia social que conforme a sus funciones, deban establecer;
 
-VII (SIC). Los indicadores que permitan rendir cuenta de sus objetivos y resultados;
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Los indicadores estratégicos y de gestión, así como los resultados obtenidos en las evaluaciones del desempeño que se realicen a través de la verificación del grado de cumplimiento de sus objetivos y metas;
+VI. Los indicadores que permitan rendir cuenta de sus objetivos y resultados;
 
-VIII (SIC). El directorio de todos los Servidores Públicos, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
+
+VII. Los indicadores estratégicos y de gestión, así como los resultados obtenidos en las evaluaciones del desempeño que se realicen a través de la verificación del grado de cumplimiento de sus objetivos y metas;
+
+VIII. El directorio de todos los Servidores Públicos, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
 
 IX. La remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración, dicha información deberá vincularse con el nombre completo del servidor público, cargo y nivel de puesto;
 
@@ -1253,15 +1257,25 @@ a) De licitaciones públicas o procedimientos de invitación restringida:
 
 9. La partida presupuestal, de conformidad con el clasificador por objeto del gasto, en el caso de ser aplicable;
 
-9 (SIC). Origen de los recursos especificando si son federales, estatales o municipales, así como el tipo de fondo de participación o aportación respectiva;
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
 
-10. Los convenios modificatorios que, en su caso, sean firmados, precisando el objeto y la fecha de celebración;
+10. Origen de los recursos especificando si son federales, estatales o municipales, así como el tipo de fondo de participación o aportación respectiva;
 
-11. Los informes de avance físico y financiero sobre las obras o servicios contratados;
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
 
-12. El convenio de terminación; y
+11. Los convenios modificatorios que, en su caso, sean firmados, precisando el objeto y la fecha de celebración;
 
-13. El finiquito;
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
+
+12. Los informes de avance físico y financiero sobre las obras o servicios contratados;
+
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
+
+13. El convenio de terminación; y
+
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
+
+14. El finiquito;
 
 b) De las adjudicaciones directas:
 
@@ -1923,7 +1937,7 @@ Cuando la Comisión considere que existe un incumplimiento total o parcial de la
 
 ###### Artículo 124.
 
-En caso de que la Comisión considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
+En caso de que la Comisión considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
 
 ## TÍTULO SEXTO. INFORMACIÓN CLASIFICADA
 
@@ -2393,9 +2407,13 @@ V. Las partes y el tercero interesado podrán ofrecer únicamente como pruebas d
 
 VI. Una vez desahogadas las pruebas, las partes tendrán un plazo común de tres días para que aleguen lo que a su derecho convenga, durante dicho plazo el Comisionado ponente podrá determinar la celebración de audiencias con las partes, así como decretar diligencias para mejor proveer;
 
-VIII (SIC). Concluido el plazo señalado en la fracción VI del presente artículo, el Comisionado ponente decretará el cierre de instrucción y no se admitirá información adicional de las partes; y
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
 
-IX. Decretado el cierre de instrucción, el expediente pasará a resolución.
+VII. Concluido el plazo señalado en la fracción VI del presente artículo, el Comisionado ponente decretará el cierre de instrucción y no se admitirá información adicional de las partes; y
+
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Decretado el cierre de instrucción, el expediente pasará a resolución.
 
 Procederá la Acumulación de dos o más procedimientos cuando se solicite a instancia de parte o de oficio, en cualquier momento del procedimiento, hasta antes de que se cierre la instrucción y se ponga en estado de resolución.
 
