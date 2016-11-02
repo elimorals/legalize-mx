@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2012-07-04"
+last_updated: "2016-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-04-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE NOVIEMBRE DE 2016.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -439,7 +439,9 @@ III. Promover la difusión de la información técnica y científica generada en
 
 IV. Participar en el ámbito de su competencia, en el desarrollo de los programas docentes y de asistencia que lleve a cabo el Instituto.
 
-V. Coordinar la planeación, organización y ejecución de los programas de maestría y doctorado en ciencias médicas que se imparten en el Instituto.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+V. Participar en el ámbito de su competencia, en la evaluación de protocolos de investigación de los programas de maestría y doctorado en ciencias médicas que se imparten en el Instituto.
 
 VI. Coordinar y dirigir las actividades tendientes a definir las necesidades de equipo especializado para el desarrollo de proyectos de investigación.
 
@@ -465,11 +467,15 @@ III. Coordinar la aplicación de los mecanismos y procesos establecidos para la 
 
 IV. Realizar conforme a la normatividad vigente y a las políticas internas establecidas, el seguimiento de los proyectos de investigación básica y de desarrollo tecnológico, así como de las publicaciones que se deriven de cada uno de éstos.
 
-V. Mantener estrecha comunicación con la Subdirección de Investigación Clínica y con la Dirección de Asistencia, para afinar los mecanismos que agilicen y favorezcan el desarrollo de los proyectos de investigación.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+V. Mantener estrecha comunicación con la Subdirección de Investigación Clínica y con la Dirección Médica, para afinar los mecanismos que agilicen y favorezcan el desarrollo de los proyectos de investigación.
 
 VI. Establecer y promover relaciones con grupos de investigación básica y de desarrollo tecnológico nacionales y extranjeros.
 
-VII. Supervisar que la operación del Bioterio y de la Unidad de Fabricación de Bioprótesis se realice de acuerdo a las normas, políticas y lineamientos establecidos.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+VII. Supervisar que la operación del Bioterio se realice de acuerdo a las normas, políticas y lineamientos establecidos.
 
 VIII. Promover el desarrollo científico y técnico del personal de la Subdirección, a fin de favorecer el desarrollo de las investigaciones.
 
@@ -497,7 +503,9 @@ III. Coordinar la aplicación de los mecanismos y procesos establecidos para la 
 
 IV. Realizar conforme a la normatividad vigente y a las políticas internas establecidas, el seguimiento de los proyectos de investigación clínica y de las publicaciones que se derivaron de cada uno de ellos.
 
-V. Mantener estrecha comunicación con la Subdirección de Investigación Básica y con la Dirección Médica, para afinar los mecanismos que agilicen y favorezcan el desarrollo de los proyectos de investigación clínica.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+V. Mantener estrecha comunicación con la Subdirección de Investigación Básica y Tecnológica y con la Dirección Médica, para afinar los mecanismos que agilicen y favorezcan el desarrollo de los proyectos de investigación clínica.
 
 VI. Establecer y promover relaciones con grupos de investigación clínica nacionales y extranjeros.
 
@@ -506,6 +514,10 @@ VII. Organizar conforme a la norma respectiva, el archivo y la custodia de la do
 VIII. Participar en los Comités que le sean designados por las autoridades del Instituto.
 
 IX. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+X. Supervisar que la fabricación de bioprótesis se realice de acuerdo a las normas, políticas y lineamientos establecidos.
 
 ###### ARTICULO 35o.
 
@@ -575,19 +587,35 @@ IV. Dirigir, supervisar y evaluar la calidad de las actividades asistenciales de
 
 V. Dirigir programas tácticos y programas operativos encaminados a desarrollar procesos de mejora para elevar la calidad del cuidado que ejerce el personal de enfermería que labora en la Institución.
 
-VI. Promover instrumentos administrativos de organización de las actividades asistenciales, docentes, investigación y administrativas de cada uno de los profesionales que conforman la plantilla del personal de Enfermería.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
-VII. Organizar y aplicar los mecanismos necesarios para establecer las especificaciones técnicas de los insumos y equipos que necesita el personal de enfermería; así como la evaluación técnica de los mismos.
+VI. Proponer instrumentos administrativos de organización de las actividades asistenciales, docentes, administrativas y de investigación de cada uno de los profesionales que conforman la plantilla del personal de Enfermería.
+
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+VII. Proponer y aprobar los mecanismos necesarios para establecer las especificaciones técnicas de los insumos y equipos que necesita el personal de enfermería; así como la evaluación técnica de los mismos.
 
 VIII. Planear, organizar, dirigir y evaluar la capacitación y educación continua del personal de enfermería.
 
-IX. Consolidar recursos humanos de enfermería de excelencia: licenciados en enfermería que otorguen cuidados de calidad, bilingües y con conocimientos en informática; enfermeras cardiológicas en postgrado y en postécnico, enfermeras nefrológicas, enfermeras administradoras en los servicios de enfermería y en circulación extracorpórea y maestros en administración de los servicios de salud.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
-X. Apoyar y promover la investigación de enfermería en el campo clínico, docente y administrativo con la finalidad de proporcionar servicio con fundamento científico y calidad humana.
+IX. Conducir la formación de recursos humanos de enfermería de excelencia: licenciados en enfermería que otorguen cuidados de calidad, bilingües y con conocimientos en informática; enfermeras cardiológicas y enfermeras nefrológicas de nivel posgrado; enfermeras administradoras en los servicios de enfermería y enfermeras en circulación extracorpórea en nivel postécnico y maestros en administración de los servicios de salud.
+
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+X. Proponer y promover la investigación de enfermería en el campo clínico, docente y administrativo con la finalidad de proporcionar servicio con fundamento científico y calidad humana.
 
 XI. Dirigir y evaluar las actividades de investigación de acuerdo a las normas Institucionales y los recursos financieros, humanos y logísticos.
 
 XII. Participar en los comités que le sean designados por las autoridades del Instituto y realiza los trabajos especiales que dentro del ámbito de su competencia que le sean solicitados por las autoridades del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Administrar el funcionamiento de albergues de pacientes y familiares del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Conducir el programa del voluntariado, sigamos aprendiendo y de apoyo espiritual a pacientes y sus familiares.
 
 ###### ARTICULO 38o.
 
@@ -683,13 +711,17 @@ XI. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 La Subdirección de Recursos Materiales tendrá las siguientes funciones:
 
-I. Revisar, validar y proponer para su autorización el Programa Anual de Adquisiciones.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
-II. Revisar, validar y supervisar el cumplimiento del Programa Anual de Contratación de Servicios.
+I. Revisar, validar y proponer para su autorización el Programa Anual de Adquisiciones, Arrendamientos y Servicios.
+
+II. (DEROGADA, D.O.F. 2 DE NOVIEMBRE DE 2016)
 
 III. Coadyuvar en la elaboración del Programa Operativo Anual del Instituto, en lo relativo a su área de competencia.
 
-IV. Coordinar y supervisar las funciones de las áreas de adquisiciones, almacenes, farmacia y de activo fijo y servicios generales y evaluar que se realicen de acuerdo a sus programas de trabajo y a los manuales de procedimientos respectivos.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+IV. Coordinar y supervisar las funciones de las áreas de adquisiciones, almacenes, farmacia y de activo fijo y evaluar que se realicen de acuerdo a sus programas de trabajo y a los manuales de procedimientos respectivos.
 
 V. Supervisar que la ejecución del Programa Anual de Adquisiciones se desarrolle acorde al presupuesto autorizado.
 
@@ -741,7 +773,9 @@ XI. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 La Subdirección de Servicios Generales tendrá las siguientes funciones:
 
-I. Coordinar y supervisar las actividades de los Departamentos de Intendencia; Lavandería, Ropería y Costura; Mantenimiento, Conservación y Construcción; Ingeniería Biomédica, Dietética y Nutrición y la Unidad de Seguridad y Servicios.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+I. Coordinar y supervisar las actividades de Intendencia; Lavandería; Mantenimiento, Conservación y Construcción; Ingeniería Biomédica, Dietética y Nutrición y de Seguridad y Servicios.
 
 II. Participar en la elaboración del anteproyecto anual de programa-presupuesto del Instituto en lo relativo a servicios generales.
 
@@ -761,7 +795,9 @@ IX. Vigilar que las actividades implementadas en cada una de las áreas adscrita
 
 X. Coadyuvar en el proceso de adquisiciones, arrendamientos y obras públicas, a fin de asegurar su desarrollo transparente.
 
-XI. Supervisar la correcta ejecución de los Programas Anuales de Obras Públicas.
+> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+XI. Supervisar la correcta programación, ejecución y cumplimiento de los Programas Anuales de Contratación de Servicios y de Obras Públicas.
 
 XII. Participar en los diversos comités que le sean señalados por la normatividad vigente, así como los designados por las autoridades del Instituto.
 
@@ -805,6 +841,8 @@ XV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 Se podrán crear e instaurar las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
 
+> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. DE 2 DE NOVIEMBRE DE 2016, DIFIERE EN EL NÚMERO DE PÁRRAFOS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL, PÁGINAS DE LA 76 A LA 77.]</small>
+
 ###### ARTICULO 45o.
 
 bis. El Instituto cuenta con las Comisiones, Comités y Subcomités que a continuación se mencionan:
@@ -827,11 +865,21 @@ Comisión de Convivencia Infantil que realizará las funciones que señalan las 
 
 Comisión Evaluadora para el Otorgamiento del Premio Nacional de Administración Pública que realizará las funciones que señala la Norma para Otorgar el Premio de Administración Pública.
 
-Comisión de Bioética, tendrá las funciones que le señalan el Reglamento de la Ley General de Salud en Materia de Investigación para la Salud y, el artículo 41 bis y el artículo 98 fracción II de la Ley General de Salud.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
-Comisión de Investigación, tendrá las funciones que le señalan el Reglamento de la Ley General de Salud en Materia de Investigación para la Salud y el artículo 98 fracción I de la Ley General de Salud.
+Comité Hospitalario de Bioética, con fundamento en el artículo 41 bis, fracción I de la Ley General de Salud, para la resolución de los problemas derivados de la atención médica a que se refiere el artículo 33 de la Ley General de Salud; así como para el análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparte en el área de salud, así como promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia médica. Asimismo, promoverá la educación bioética permanentemente de sus miembros y del personal del Instituto.
 
-Comisión de Bioseguridad, tendrá las funciones que le señalan el Reglamento de la Ley General de Salud en Materia de Investigación para la Salud y el artículo 98 fracción III de la Ley General de Salud.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Comité de Investigación, con fundamento en el artículo 98 fracción I de la Ley General de Salud y el artículo 111 del Reglamento de la Ley General de Salud en Materia de Investigación para la Salud, evaluará la calidad técnica y el mérito científico de la investigación propuesta, formulando la opinión correspondiente, y emitirá el dictamen que, en su caso, debe contener la opinión de los Comités de Ética en Investigación y de Bioseguridad.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Comité de Ética en Investigación, con fundamento en el artículo 98, fracción II, de la Ley General de Salud y el artículo 109 del Reglamento de la Ley General de Salud en Materia de Investigación para la Salud, evaluará y dictaminará los protocolos de investigación en seres humanos, formulando las recomendaciones de carácter ético procedentes, para lo cual revisará los riesgos y los beneficios de la investigación, así como la carta del consentimiento informado del sujeto que será objeto de la investigación, entre otros elementos, para garantizar el bienestar y los derechos de los sujetos de investigación, así como dar seguimiento a dichas recomendaciones. Asimismo, elaborará los lineamientos y guías éticas para la realización de investigación en seres humanos del Instituto.
+
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Comité de Bioseguridad, con fundamento en el artículo 98, fracción III, de la Ley General de Salud y el artículo 110 del Reglamento de la Ley General de Salud en Materia de Investigación para la Salud, emitirá la opinión técnica de los aspectos de bioseguridad de las investigaciones propuestas, mediante la revisión de las instalaciones, los materiales y métodos involucrados, entre otros elementos, a fin de garantizar el resguardo de la integridad física biológica del personal ocupacionalmente expuesto, así como de los sujetos de investigación, la comunidad y el medio ambiente.
 
 Comisión Interna de Investigación en Salud, tendrá las funciones que señala el Reglamento para el Ingreso, la Promoción y la Permanencia al Sistema Institucional de Investigadores en Ciencias Médicas de la Secretaría de Salud.
 
@@ -839,21 +887,43 @@ Comité de Calidad y Seguridad del Paciente, tendrá las funciones señaladas en
 
 Comité de Control de Infecciones Nosocomiales, tendrá las funciones que le señalan los Lineamientos para la Organización y Funcionamiento de los Comités Técnico Médicos Hospitalarios y demás disposiciones aplicables.
 
-Comité de Adquisiciones, Arrendamientos y Servicios, tendrá las funciones que le señalan la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y el Reglamento de la misma, el Manual Administrativo de Aplicación General en Materia de Adquisiciones, Arrendamientos y Servicios del Sector Público, y las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos de Bienes Muebles y Servicios del Instituto Nacional de Cardiología Ignacio Chávez actualizadas en su caso y las demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Comité de Adquisiciones, Arrendamientos y Servicios, tendrá las funciones que le señalan el artículo 22 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y el Capítulo Segundo del Reglamento de la misma; el apartado 5.1 del Manual Administrativo de Aplicación General en Materia de Adquisiciones, Arrendamientos y Servicios del Sector Público, y las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Cardiología Ignacio Chávez actualizadas en su caso y las demás disposiciones aplicables.
 
 Comité de Cuadro Básico de Medicamentos, Material de Curación, Equipo Médico y Precios tendrá las funciones que le señalan el Reglamento de la Comisión Interinstitucional del Cuadro Básico de Insumos del Sector Salud y demás disposiciones aplicables.
 
 Comité de Bienes Muebles, tendrá las funciones que le señalan la Ley General de Bienes Nacionales.
 
-Comité de Información, tendrá las funciones que le señalan la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y sus criterios de operación.
+> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
-Comité de Mejora Regulatoria Interna, tendrá las funciones que se señalan en los Lineamientos por los que se establece el Proceso de Calidad Regulatoria en el Instituto Nacional de Cardiología Ignacio Chávez.
+Comité de Transparencia, tendrá las funciones que le señalan el artículo 44 de la Ley General de Transparencia y Acceso a la Información Pública.
+
+> <small>(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
 Comité para el Programa de Ahorro de Energía, tendrá las funciones que señala el Acuerdo que establece las disposiciones generales para el Programa de Energía en la Administración Pública Federal.
 
 Comité de Control y Desempeño Institucional, tendrá las funciones que le señalan en el Manual Administrativo de Aplicación General en Material de Control Interno.
 
 Comité de Recepción de Quejas y Asesoramiento en casos de Hostigamiento y Acoso Sexual del Instituto Nacional de Cardiología Ignacio Chávez que realizará las funciones que señala el Protocolo de Intervención para casos de Hostigamiento y Acoso Sexual emitido por la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Comité de Ética y de Prevención de Conflictos de Interés, tendrá las funciones que establece el apartado 6 de los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés.
+
+(Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 3 de mayo de 2016)
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Comité Interno de Vigilancia del Uso Adecuado de los Recursos Destinados a la Investigación, tendrá las funciones que establece la Ley de los Institutos Nacionales de Salud, así como las que se señalan en su acta de instalación.
+
+(Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 25 de marzo de 2013)
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Comité Interno de Trasplantes tendrá las funciones que establece el Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos.
+
+(Aprobado en la 2ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 09 de octubre de 2013)
 
 Subcomité de Morbi-Mortalidad, tendrá las funciones que establece la normatividad vigente en la materia.
 
@@ -876,6 +946,12 @@ Subcomité de Cuidados Paliativos, tendrá las funciones que establece su acta d
 Subcomité de Reporte, Seguimiento y Prevención de Eventos Adversos, tendrá las funciones que establece su acta de instalación.
 
 Subcomité de Protección Civil, tendrá las funciones que establece su manual de funcionamiento y normatividad vigente en la materia.
+
+> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+
+Subcomité Revisor de Convocatorias, tendrá la función de vigilar que las mismas contengan los requisitos que señalan el artículo 29 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+
+(Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 3 de mayo de 2016)
 
 ### CAPITULO IX. DE LOS ORGANOS DE VIGILANCIA, CONTROL Y EVALUACION
 
@@ -952,3 +1028,13 @@ SEGUNDO. Se modifica el Estatuto Orgánico del Instituto Nacional de Cardiologí
 TERCERO. El Director General del Instituto deberá inscribir este Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
 
 Aprobado en la Ciudad de México, Distrito Federal, a los tres días del mes de abril de dos mil doce.- El Director General del Instituto Nacional de Cardiología Ignacio Chávez, Marco Antonio Martínez Ríos.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ”.]
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico entran en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+TERCERO. Las modificaciones en comento deberán inscribirse en el Registro Público de Organismos Descentralizados con fundamento en el artículo 15 de la Ley Federal de las Entidades Paraestatales.
