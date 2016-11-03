@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2013-12-04"
+last_updated: "2016-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -425,15 +425,17 @@ II.- Cuando se trate de cualquier clase de créditos o deudas a cargo de la Fede
 
 III.- Cuando se hubieran entregado anticipos a cuenta de participaciones.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 13.
 
-De las retenciones:
+De las afectaciones a las participaciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las participaciones que correspondan al Estado y a los Municipios, son inembargables no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo aquéllas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos provenientes del Impuesto Especial Sobre Producción y Servicios de Gasolinas y Diesel a que se refiere el Artículo 4-A, fracción I, de la Ley de Coordinación Fiscal, que podrán ser afectadas en garantía como fuente de pago de obligaciones contraídas por el Estado o Municipios, o afectadas en ambas modalidades con autorización de la Legislatura e inscritas en el Registro Estatal de Obligaciones y Financiamientos de la Secretaría de Finanzas y Planeación del Gobierno del Estado y en el Registro Público Único a cargo de la Secretaría de Hacienda y Crédito Público, atendiendo a lo previsto en el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como, de las personas físicas o morales de nacionalidad mexicana.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+Los Municipios podrán convenir que el Estado afecte sus participaciones o aportaciones susceptibles de afectación, para efectos de lo establecido en el párrafo anterior.
 
-Las participaciones que correspondan a los Municipios, son inembargables y no están sujetas a retención, excepto que la Auditoría Superior del Estado lo determine cuando exista motivo fundado o bien a fin de solventar los créditos contratados y documentos en los que establezca como garantía las participaciones que el Municipio debe recibir.
+No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las compensaciones que se requiera efectuar al Estado, como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos del Estado y de los Municipios con las obligaciones que tengan con la Federación, cuando exista acuerdo entre las partes interesadas, o así lo determine la Ley de Coordinación Fiscal.
 
 ###### ARTICULO 14.
 
@@ -721,51 +723,25 @@ La Unidad de Programas Coordinados Federación-Estado y la Auditoría Superior d
 
 El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios en proporción directa al número de habitantes con que cuente el Estado, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 29.
 
-Las aportaciones y sus accesorios que con cargo a los fondos a que se refieren los capítulos V y VI reciban los municipios no serán embargables, ni el Gobierno del Estado podrá, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos en los artículos 20 y 27 de esta ley.
+Las aportaciones y sus accesorios, que con cargo a los Fondos previstos en el artículo 25 fracciones III, IV, V, VII y VIII de la Ley de Coordinación Fiscal, que reciba el Estado y sus Municipios no serán embargables, ni podrán bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarse a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50, 51 y 52 de la mencionada ley. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 26, 29, 33, 37, 40, 42, 45 y 47 de la Ley en comento.
 
-Dichas aportaciones serán administradas y ejercidas por los municipios, conforme a la legislación aplicable. Por lo tanto, deberán registrarlas como ingresos propios destinados específicamente a los fines establecidos en los citados artículos.
+Estas aportaciones serán administradas y ejercidas por el Estado y sus Municipios con base en las legislaciones locales en lo que no contravenga a las disposiciones federales, salvo en los casos de los recursos para el pago de servicios personales derivados del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo. En todos los casos deberán registrarse como ingresos destinados a los fines específicos establecidos en los artículos señalados en el párrafo anterior.
 
-El control y supervisión del manejo de los recursos a que se refieren los capítulos V y VI quedará a cargo de las siguientes autoridades, en las etapas que se indican:
+El control, la evaluación y fiscalización del manejo de los recursos a que se refieren los capítulos V y VI de esta ley quedará a cargo de las autoridades federales en términos de la Ley de Coordinación Fiscal y de las siguientes autoridades del Estado y de los Municipios, en las etapas que se indican:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las entidades federativas, corresponderá a la Secretaría de la Función Pública;
-
-II.- Recibidos los recursos de los fondos de que se trate por los municipios, hasta su erogación total, corresponderá a las autoridades de los gobiernos municipales según corresponda.
+I. Recibidos los recursos de los fondos de que se trate por los municipios, hasta su erogación total, corresponderá a las autoridades de los gobiernos municipales según corresponda.
 
 La supervisión y vigilancia no podrán implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de los fondos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. La fiscalización de las cuentas públicas de los Municipios, será efectuada por el Poder Legislativo del Estado, por conducto de la Auditoría Superior del Estado, conforme a la legislación en la materia, a fin de verificar que las dependencias de los Municipios aplicaron los recursos de los fondos para los fines previstos en esta ley.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-III. La fiscalización de las cuentas públicas de los municipios, será efectuada por el Poder Legislativo del Estado, por conducto de su Auditoría Superior del Estado conforme a la legislación en la materia, a fin de verificar que las dependencias de los municipios aplicaron los recursos de los fondos para los fines previstos en esta ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-IV. La Auditoría Superior de la Federación de la Cámara de Diputados al fiscalizar la cuenta pública federal que corresponda, verificará que las dependencias del ejecutivo federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos de los fondos a los que se refiere este capítulo, la misma se realizará en términos del artículo 3º, fracción III, de su ley orgánica.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-Cuando las autoridades Municipales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos del fondo no han sido aplicados a los fines que por cada fondo se señale en la ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública en forma inmediata.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+Cuando las autoridades Estatales o Municipales en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos del fondo no han sido aplicados a los fines que por cada fondo se señale en la Ley, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación, y a la Secretaría de la Función Pública en forma inmediata.
 
 Por su parte, cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta ley, deberán hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
-
-Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la hacienda pública federal en que, en su caso, incurran las autoridades del Estado o Municipios exclusivamente por motivo de la desviación de los recursos recibidos de los fondos señalados, para fines distintos a los previstos en este capítulo, serán sancionados en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas por la autoridad del Estado que corresponda con base en sus propias leyes.
 
 TRANSITORIOS:
 
@@ -893,7 +869,7 @@ P.O. 13 DE DICIEMBRE DE 2010.
 
 PRIMERO.· En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público quedan en suspenso los siguientes:
 
-I.·IMPUESTOS
+I.- IMPUESTOS
 
 1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
 
@@ -915,7 +891,7 @@ I.·IMPUESTOS
 
 10. Sobre explotación y venta de primera mano de diversos materiales para construcción
 
-II.-DERECHOS
+II.- DERECHOS
 
 A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
 
@@ -943,7 +919,7 @@ C). Uso de las vías públicas o la tenencia de bienes sobre las mismas.
 
 No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
 
-D).·Actos de inspección y vigilancia.
+D). Actos de inspección y vigilancia.
 
 Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
 
@@ -1038,3 +1014,77 @@ P.O. 4 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 008 POR EL QUE SE EXPIDE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS; POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO; POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I. IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II. DERECHOS
+
+A) Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B) Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C) Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D) Actos de inspección y vigilancia.
+
+E) Los conceptos a que se refieren los incisos anteriores de esta fracción, sin excepción alguna, en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
