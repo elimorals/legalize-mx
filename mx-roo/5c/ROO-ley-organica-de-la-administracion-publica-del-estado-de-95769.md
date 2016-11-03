@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2016-04-29"
+last_updated: "2016-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -239,6 +239,12 @@ Los titulares de las dependencias de la Administración Pública Estatal, amplia
 
 En el proceso de entrega y recepción, los titulares de las dependencias mencionadas en esta Ley, con la intervención de la Secretaría de la Gestión Pública, de la Oficialía Mayor y de la Auditoría Superior del Estado, entregarán los asuntos de su competencia, así como los recursos que les hayan sido asignados, conforme a la legislación y normatividad aplicable a la materia.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 29
+
+BIS. Los titulares de las dependencias a que se refiere esta ley, serán responsables de proporcionar la información y documentación relacionada con la captación, recaudación, administración, manejo, ejercicio, cobro o recepción en pago directo o indirecto de recursos públicos federales o participaciones federales, que le sea solicitada por la Auditoría Superior de la Federación en el procedimiento de fiscalización de las cuentas públicas, en términos de lo dispuesto en la Ley de Fiscalización y Rendición de Cuentas de la Federación.
+
 ### CAPÍTULO SEGUNDO. De las Atribuciones de los Titulares de las Dependencias del Poder Ejecutivo
 
 ###### ARTÍCULO 30.
@@ -401,9 +407,13 @@ XXV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 A la Secretaría de Finanzas y Planeación corresponde el despacho de los siguientes asuntos:
 
-I. Conducir la política hacendaria del Estado en materias de administración tributaria, planeación, ingresos, gasto público y procuración fiscal, en los términos de la legislación aplicable y las políticas del Titular del Poder Ejecutivo del Estado; así mismo, ejercer el presupuesto de egresos en los términos de la legislación respectiva, considerando la participación de la Oficialía Mayor en lo que se refiere al Gasto Corriente;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-II. Elaborar el Anteproyecto de Egresos y los Programas de Ingresos y Egresos del Estado. De igual manera, formular y presentar al Gobernador del Estado, para su posterior remisión a la Legislatura en términos de la legislación aplicable, de los proyectos y sus modificaciones de Ley de Ingresos, del Presupuesto de Egresos y el Programa General del Gasto Público. También intervenir en las operaciones en que el Ejecutivo del Estado haga uso del crédito público y llevar el registro contable de la deuda pública del Estado;
+l. Conducir la política hacendaria del Estado en materias de administración tributaria, planeación, ingresos, gasto público, procuración fiscal, disciplina financiera y responsabilidad hacendaria, en los términos de la legislación aplicable y las políticas del Titular del Poder Ejecutivo del Estado; asimismo, ejercer el presupuesto de egresos en los términos de la legislación respectiva, considerando la participación de la Oficialía Mayor en lo que se refiere al Gasto Corriente;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+II. Elaborar el Anteproyecto de Egresos y los Programas de Ingresos y Egresos del Estado, conforme a la legislación aplicable, observando en todo caso lo dispuesto en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable. De igual manera, formular y presentar al Gobernador del Estado, para su posterior remisión a la Legislatura en términos de la legislación aplicable, de los proyectos y sus modificaciones de Ley de Ingresos, del Presupuesto de Egresos y el Programa General del Gasto Público. También intervenir en las operaciones en que el Ejecutivo del Estado haga uso del crédito público y llevar el registro contable de la deuda pública del Estado;
 
 III. Proyectar y coordinar las políticas de planeación del desarrollo del gasto de Inversión del Estado y formular con las dependencias y entidades de la Administración Pública los programas estatales, sectoriales, regionales e institucionales respectivos, asegurando su interrelación; asimismo, coordinar su evaluación y promover su oportuna actualización, bajo las directrices del Titular del Poder Ejecutivo del Estado;
 
@@ -427,7 +437,7 @@ XII. Normar, coordinar, supervisar y consolidar los sistemas estatales de planea
 
 XIII. Conducir, regular, administrar, operar y supervisar el Sistema de Contabilidad del Estado, para lo cual fijará, emitirá y evaluará criterios y lineamientos en dicha materia;
 
-XIV. Proponer al Gobernador de (sic) Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
+XIV. Proponer al Gobernador el (sic) Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
 
 XV. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el equilibrio financiero de la Administración Pública del Estado;
 
@@ -469,7 +479,17 @@ XXXII. Fungir como fideicomitente único del Gobierno del Estado en la constituc
 
 XXXIII. Intervenir en la autorización de contratos y convenios en los que se afecte el presupuesto de egresos, verificando la disponibilidad de recursos financieros en las partidas correspondientes, y
 
-XXXIV. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV. Realizar la evaluación del análisis socioeconómico de costo y beneficio de cada programa o proyecto del Estado, así como integrar y administrar el Registro de proyectos de inversión pública productiva del Estado de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XXXV. Elaborar la estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten ante la Legislatura del Estado y realizar las estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XXXVI. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 34.
 
@@ -1496,3 +1516,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Se deberán realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Quintana Roo y a las demás disposiciones reglamentarias que regulen sobre los Servicios Especiales de Vigilancia, en los términos del presente decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 008 POR EL QUE SE EXPIDE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS; POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO; POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
