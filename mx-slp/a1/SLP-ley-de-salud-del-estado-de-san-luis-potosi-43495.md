@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2016-09-17"
+last_updated: "2016-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -725,13 +725,13 @@ I. Que se garantice a la población del Estado la atención y asistencia de la s
 
 II. Que los establecimientos de los sectores públicos, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
 
 ARTICULO 27 BIS. Los profesionales que podrán preescribir (sic) medicamentos son:
 
-l. Médicos;
+I. Médicos;
 
 II. Homeópatas;
 
@@ -838,6 +838,10 @@ Para los efectos de esta Ley se considera usuaria o usuario de servicios de salu
 ###### ARTICULO 39.
 
 Las personas usuarias tendrán derecho a obtener prestaciones de salud oportunas con perspectiva de género, sin discriminación, de calidad idónea, y a recibir atención profesional éticamente responsable; cuando se trate de atención a personas usuarias de pueblos originarios o comunidades indígenas, éstas tendrán derecho a obtener la información necesaria en su legua (sic), así como trato respetuoso y digno de los profesionales y auxiliares de la salud.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+De igual forma, el estado garantizará el derecho a la inmunización por medio de las vacunas que se encuentran en las diferentes cartillas que maneja el sector salud, a fin de asegurar el desarrollo de la salud óptima de la población.
 
 Las personas usuarias tendrán derecho de elegir de manera libre y voluntaria al médico que los atienda, de entre los médicos de la unidad del primer nivel de atención que les corresponda por domicilio, en función del horario de labores, y de la disponibilidad de espacios del médico elegido, además con base en las reglas generales que determine cada institución. En el caso de las instituciones de seguridad social, sólo los asegurados podrán ejercer este derecho, a favor suyo y de sus beneficiarios.
 
@@ -1037,7 +1041,7 @@ Los servicios que se prestan en la materia constituyen un medio para el ejercici
 
 Quienes practiquen esterilización sin la voluntad de la o el paciente, o ejerzan presión para que la admitan, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1055,13 +1059,13 @@ V. Que una vez fecundado el ovocito deberá ser implantado a la solicitante, y
 
 VI. Que está prohibido todo diagnóstico preimplantatorio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 57 TER. Previo al inicio del tratamiento, las o los cónyuges, o las o los concubinos, deberán dar su consentimiento por escrito ante un Notario Público con la asistencia de dos testigos, anexándose el certificado médico de un especialista en la materia, de una institución pública de salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1153,13 +1157,13 @@ Para tal efecto, se establecerá la coordinación necesaria entre las autoridade
 
 ### CAPITULO IX. Medicina Tradicional, y el Acceso a la Salud de los Pueblos y Comunidades Indígenas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 67 BIS. Se reconoce a la medicina tradicional indígena, como el conjunto de sistemas de atención a la salud, que tiene sus raíces en los conocimientos sobre la salud y la enfermedad que los diferentes pueblos y comunidades indígenas y rurales han acumulado a través de su historia, y que ha incorporado elementos provenientes de otras medicinas, como la medicina antigua española, la medicina africana y, en menor medida, la medicina occidental.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1173,7 +1177,7 @@ ARTICULO 67 QUATER. La Secretaría de Salud del Estado establecerá los programa
 
 En los hospitales generales y regionales del Estado que traten población indígena, deberá haber dentro del área de trabajo social, cuando menos una persona traductora de las lenguas náhuatl, tenek y xi' oi, conforme a la población indígena que se atienda, a fin de que las personas indígenas que no hablen suficientemente el español, puedan recibir de manera óptima la atención que requieren.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1183,7 +1187,7 @@ ARTICULO 67 QUINQUE (SIC). El Estado promoverá acciones conjuntas con las comun
 
 Las autoridades comunitarias participarán como coadyuvantes en las campañas de salud, y de vacunación; así como las tendientes a erradicar la violencia en contra de las mujeres; y aquéllas referidas a la atención preventiva de la salud y, en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1205,7 +1209,7 @@ Además, su titular, o quien éste designe, será parte integrante del Consejo E
 
 El Centro Estatal de Trasplantes participará con el Consejo Nacional de Trasplantes, en el fomento y promoción de la cultura de donación, y le proporcionará la información correspondiente del Estado, en los términos de los acuerdos de coordinación respectivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -3929,7 +3933,7 @@ LIC. Alfonso Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE DICIEMBRE DE 2007.
 
@@ -4111,7 +4115,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decret
 
 P.O. 7 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0194.- SE REFORMAN LOS ARTÍCULOS 7° EN SUS FRACCIONES, VII, Y VIII, 25 EN SU FRACCIÓN IX, 91 EN SU FRACCIÓN I, 92 EN SU FRACCIÓN IV, 93, Y 96 EN SUS FRACCIONES, I, V, Y VI; Y SE ADICIONAN A LOS ARTÍCULOS, 5° EN SU APARTADO A LA FRACCIÓN XI BIS, 7° LAS FRACCIONES, IX, X, Y XI, 8° LA FRACCIÓN XIII BIS, EL ARTÍCULO 51 BIS, Y 96 LAS FRACCIONES, VII, VIII, Y IX, DE Y A (SIC) LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0194.- SE REFORMAN LOS ARTÍCULOS 7° EN SUS FRACCIONES, VII, Y VIII, 25 EN SU FRACCIÓN IX, 91 EN SU FRACCIÓN I, 92 EN SU FRACCIÓN IV, 93, Y 96 EN SUS FRACCIONES, I, V, Y VI; Y SE ADICIONAN A LOS ARTÍCULOS, 5° EN SU APARTADO A LA FRACCIÓN XI BIS, 7° LAS FRACCIONES, IX, X, Y XI, 8° LA FRACCIÓN XIII BIS, EL ARTÍCULO 51 BIS, Y 96 LAS FRACCIONES, VII, VIII, Y IX, DE Y A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4156,3 +4160,11 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0415.- SE ADICIONA PÁRRAFO AL ARTÍCULO 39 DE LA LEY DE SALUD DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al (sic) este Decreto.
