@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2016-10-28"
+last_updated: "2016-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -99,11 +99,15 @@ Es finalidad del Estado procurar y promover la participación de todos los ciuda
 
 A fin de lograr este objeto, el Estado organizará un sistema de planeación democrática en lo político, social y cultural, para el desarrollo estatal integral y sustentable, que imprima solidez, dinamismo, permanencia y equidad al crecimiento económico, estableciendo para tal efecto los convenios adecuados con la Federación.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 10.
 
-Al Estado corresponde impulsar el desarrollo económico en equilibrio con el medio ambiente, procurar el progreso compartido y la distribución equitativa de la riqueza para garantizar la justicia social, a cuyo efecto planeará, conducirá, coordinará y orientará la actividad económica, en la esfera de su competencia, regulando y fomentando las actividades de interés general a la cual concurrirán los diversos sectores de población de conformidad a las leyes de la materia, con irrestricto apego a las libertades consagradas en la Constitución Federal y la del Estado.
+Al Estado corresponde impulsar el desarrollo económico en equilibrio con el medio ambiente y con perspectiva de género, procurar el progreso compartido y la distribución equitativa de la riqueza para garantizar la justicia social, a cuyo efecto planeará, conducirá, coordinará y orientará la actividad económica, en la esfera de su competencia, regulando y fomentando las actividades de interés general a la cual concurrirán los diversos sectores de población de conformidad a las leyes de la materia, con irrestricto apego a las libertades consagradas en la Constitución Federal y la del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. Los planes estatal y municipales deberán observar dicho principio.
 
 ###### ARTICULO 11.
 
@@ -1281,9 +1285,9 @@ XIX.- Elegir la Diputación Permanente.
 
 XX.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado así como a los Consejeros Ciudadanos del Consejo de la Judicatura y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XXI.- Legislar en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios, social y estatalmente necesarios.
+XXI.- Legislar con perspectiva de género en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios, social y estatalmente necesarios.
 
 XXII.- Autorizar la participación del Ejecutivo en comisiones inter estatales de desarrollo regional.
 
@@ -1293,9 +1297,9 @@ XXIII.- Ratificar o rechazar los convenios que celebren el Ejecutivo con el Gobi
 
 XXIV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XXV.- Autorizar al Ejecutivo y a los Ayuntamientos para contratar Empréstitos a nombre del Estado y de los Municipios, Organismos Descentralizados y Empresas de Participación Estatal y Municipal, siempre que se destinen a Inversiones Públicas productivas, conforme a las bases que establezca la Ley de Deuda Pública del Estado y por los conceptos y montos que la Legislatura señale anualmente en los respectivos Presupuestos. El Ejecutivo y los Ayuntamientos en su caso, informarán de su ejercicio al rendir la Cuenta Pública.
+XXV.- Autorizar al Ejecutivo y a los Ayuntamientos para contratar Empréstitos a nombre del Estado y de los Municipios, Órganos autónomos, Organismos Descentralizados y Empresas Públicas y Fideicomisos, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura de deuda, las que deberán realizarse bajo las mejores condiciones de mercado; así como aprobar los montos de endeudamiento, los cuales deberán incluirse en la Ley de Ingresos, conforme a las bases de la Ley correspondiente. El Ejecutivo y los Ayuntamientos en su caso, informarán anualmente sobre el ejercicio de dicha deuda, al momento de rendir la cuenta pública.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
 
@@ -1399,6 +1403,10 @@ L.- (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
 
 LI.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+LII. Autorizar la celebración de los convenios del Estado o sus Municipios, en caso de adherirse al mecanismo de contratación de Deuda Estatal Garantizada de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
 #### SECCION QUINTA. De la Diputación Permanente
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2016)</small>
@@ -1487,9 +1495,9 @@ La Legislatura del Estado, al elegir al Titular del Órgano de Fiscalización Su
 
 El Órgano de Fiscalización Superior del Estado tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
+I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, incluyendo las acciones en materia de fondos, recursos locales y deuda pública, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
 
 También fiscalizará directamente los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los usuarios del sistema financiero.
 
@@ -1561,11 +1569,23 @@ De igual forma, los servidores públicos estatales y municipales, así como cual
 
 Las entidades fiscalizadas, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados.
 
-#### SECCION PRIMERA. Del Gobernador
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+#### SECCION SEPTIMA. DE LAS FACULTADES DE LA LEGISLATURA EN MATERIA DE DEUDA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 77
+
+BIS. El Estado y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que establezcan la legislatura en la ley correspondiente, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que las mismas aprueben. El ejecutivo y los ayuntamientos informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+La Legislatura por el voto de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Estado y los Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley de Disciplina Financiera de las Entidades Federativas y de los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 ### CAPITULO III. Del Poder Ejecutivo
 
-#### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
+#### SECCION PRIMERA. Del Gobernador
 
 ###### ARTICULO 78.
 
@@ -1665,9 +1685,7 @@ I.- El Gobernador sustituto constitucional, o el designado para concluir el per�
 
 II.- El Gobernador interino, el provisional o el ciudadano que bajo, cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-#### SECCION TERCERA. De la Administración del Ejecutivo
-
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+#### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
 
 ###### ARTICULO 90.
 
@@ -1761,7 +1779,9 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 1981)</small>
 
-#### SECCION PRIMERA. Del Presidente Municipal
+#### SECCION TERCERA. De la Administración del Ejecutivo
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 92.
 
@@ -3459,9 +3479,9 @@ IV. Las leyes no establecerán exenciones o subsidios en favor de persona o inst
 
 V.- Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, debiendo incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales y sujetándose a lo dispuesto en el artículo 165 de esta Constitución. Asimismo, podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-VI. La Deuda Pública Municipal se sujetará a lo que disponga la Ley e invariablemente requerirá de la aprobación de la Legislatura del Estado.
+VI.- La Deuda Pública Municipal se sujetará a lo previsto por la Constitución Política de los Estados Unidos Mexicanos y a lo que disponga la Ley correspondiente e invariablemente requerirá de la aprobación de la Legislatura del Estado.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3470,6 +3490,10 @@ VII. La Legislatura del Estado, revisará y fiscalizará la Cuenta Pública de c
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 La Legislatura, en coordinación con los Municipios, garantizará la disposición de la información de la Cuenta Pública Municipal a la comunidad en general, con base a lo que establezca la Ley que reglamente el acceso a la información pública gubernamental, que al efecto expida la Legislatura.
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- Autorizar los convenios para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, así como suscribir los convenios previa la autorización de la Legislatura, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3561,11 +3585,11 @@ Las relaciones laborales entre los Municipios y sus trabajadores se regirán por
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 160.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo, del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo y de la Fiscalía General del Estado de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del gobierno del Estado y de los ayuntamientos y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, organismos descentralizados de la administración pública estatal o municipal, empresas de participación estatal o municipal y fideicomisos públicos del estado o de los municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo, del Tribunal Electoral de Quintana Roo, del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo y de la Fiscalía General del Estado de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones; así como, por el manejo indebido de recursos públicos y la deuda pública.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4846,3 +4870,11 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
 
 TERCERO. Se faculta al Fiscal General del Estado para que expida el Acuerdo de creación de un Órgano de Control y Evaluación Interna (sic) adscrito a la Fiscalía General del Estado, así como la designación del titular del mismo, el cual tendrá temporalmente las atribuciones relativas a la fiscalización de los recursos públicos, sanción de sus servidores públicos y de evaluación de su situación patrimonial, establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, hasta en tanto, la Legislatura del Estado implemente el Sistema Nacional Anticorrupción, de conformidad con lo dispuesto por el Artículo Transitorio Tercero del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado en el Diario Oficial de la Federación el día 18 de Julio de 2016.
+
+P.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 009 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO"].
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que contravengan lo dispuesto por el presente Decreto.
