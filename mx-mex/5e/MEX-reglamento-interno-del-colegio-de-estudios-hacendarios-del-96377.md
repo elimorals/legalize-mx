@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-colegio-de-estudios-hacendarios-del-9637
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-23"
-last_updated: "2013-10-23"
+last_updated: "2016-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el miércoles 23 de octubre de 2013.
 
@@ -473,7 +473,7 @@ XI. Realizar las gestiones necesarias ante las autoridades educativas que corres
 
 XII. Las demás que señale el Director y la reglamentación del Colegio.
 
-### CAPÍTULO IX. DE LA UNIDAD DE ADMIN ISTRACIÓN Y FINANZAS
+### CAPÍTULO IX. DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
 ###### Artículo 39.
 
@@ -1390,3 +1390,21 @@ VOCAL EJECUTIVO
 DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- El presente reglamento, entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento Interno del Colegio de Estudios Hacendarios, publicado el 23 de octubre ce (sic) 2013, en la "Gaceta de Gobierno" del Estado.
+
+TERCERO.- Los asuntos que se encuentren en trámite al entrar en vigor el presente reglamento, se resolverán conforme a las disposiciones legales del mismo.
+
+CUARTO.- El presente reglamento aplicará para los alumnos de generaciones anteriores del Colegio para los efectos que les beneficien.
+
+QUINTO.- Todo lo no previsto en el presente reglamento se someterá a consideración del Consejo Académico para su acuerdo correspondiente, previa autorización de la Autoridad Educativa de la Secretaría de Educación.
+
+SEXTO: El desconocimiento del presente Reglamento no exime a nadie de su cumplimiento.
