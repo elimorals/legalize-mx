@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2015-09-19"
+last_updated: "2016-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -373,13 +373,17 @@ XX. Colaborar con la Subdirección de Sustentabilidad de la Comisión Nacional d
 
 XXI. Crear programas sobre NAMA (Acciones Nacionales Apropiadas de Mitigación para. reducir emisiones de efecto invernadero); y promover políticas públicas que los incluyan;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XXII. Realizar las gestiones necesarias para la obtención de recursos y/o estímulos económicos provenientes de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de urbanización y equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes, y
+XXII. Realizar las gestiones necesarias para la obtención de recursos y/o estímulos económicos provenientes de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de urbanización y equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XXIII. Aplicar y hacer cumplir la presente Ley, su reglamento, y las demás disposiciones que regulen la materia.
+XXIII. Llevar a cabo acciones o programas que incentiven o promuevan la planeación vertical en los nuevos centros de población, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XXIV. Aplicar y hacer cumplir la presente Ley, su reglamento, y las demas disposiciones que regulen la materia.
 
 El Titular del Ejecutivo del Estado podrá ejercer las atribuciones antes señaladas por sí o a través de la Secretaría.
 
@@ -469,13 +473,17 @@ XX. Conforme a los convenios previamente celebrados entre el Ejecutivo del Estad
 
 XXI. Substanciar el procedimiento administrativo que previenen (sic) esta Ley para la aplicación de sanciones en el ámbito de su competencia, así como el recurso de reconsideración;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XXII. Promover las gestiones necesarias para la obtención de recursos y/o estímulos económicos de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes, y
+XXII. Promover las gestiones necesarias para la obtención de recursos y/o estímulos económicos de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XXIII. Las demás que esta Ley, su reglamentación, y las leyes respectivas le otorguen.
+XXIII. Crear y promover acciones que fomenten un desarrollo sustentable en relación al crecimiento urbano conforme al Plan Estatal de Desarrollo, realizando las gestiones necesarias para su correcta observancia, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XXIV. Las demás que esta Ley, su reglamentación, y las leyes respectivas le otorguen.
 
 ###### ARTICULO 19.
 
@@ -597,13 +605,17 @@ XLIII. Colaborar con la Comisión Nacional de Vivienda en la identificación y d
 
 XLIV. Promover las gestiones necesarias para obtención de recursos y/o estímulos económicos de programas federales, como apoyo para los nuevos fraccionamientos que requieran de ejecución de proyectos y obras de equipamiento urbano, cumpliendo siempre con la legislación y normatividad aplicables vigentes;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XLV. Promover la participación del sector privado para realizar inversiones de proyectos y obras de equipamiento urbano en áreas de donación, de acuerdo a la legislación y normas vigentes, y
+XLV. Promover la participación del sector privado para realizar inversiones de proyectos y obras de equipamiento urbano en áreas de donación, de acuerdo a la legislación y normas vigentes;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XLVI. Las demás que le señalen esta Ley, su reglamento y otras normas aplicables.
+XLVI. Fomentar e incentivar un crecimiento vertical en los nuevos fraccionamientos, en coordinación con la Comisión Nacional de Vivienda, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XLVII. Las demás que le señalen esta Ley, su reglamento y otras normas aplicables.
 
 ## TITULO TERCERO. DE LOS ORGANISMOS DE PARTICIPACION SOCIAL Y CONSULTA
 
@@ -889,6 +901,10 @@ V. Los análisis de riesgo.
 
 Los Planes de Desarrollo Urbano que se expidan para integrar las zonificaciones de los centros de población, se elaborarán conforme las disposiciones de ésta Ley y serán publicados íntegramente en el Periódico Oficial del Estado, en un período que no exceda de noventa días contados a partir de su aprobación y decreto y, serán publicados en forma abreviada en el diario de mayor circulación en el Estado, en un plazo no mayor de veinte días contados a partir de la publicación en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 30 BIS. Los planes de Desarrollo Urbano que se expidan, deberán fomentar el desarrollo sustentable para las generaciones futuras y, con esto, incluir la implementación del crecimiento urbano vertical para dichos fines.
+
 ###### ARTICULO 31.
 
 La versión abreviada de un Plan de Desarrollo Urbano, para los efectos de la publicación prevista en el artículo anterior, se integrará con los siguientes elementos:
@@ -951,7 +967,9 @@ III. Mejorar las condiciones ambientales de los centros de población;
 
 IV. Estructurar la relación entre los centros de población con base en las regiones y de los servicios que se requieran, estableciendo la función de los centros de población y la política aplicable para obtener el grado óptimo de autosuficiencia regional;
 
-V. Desconcentrar las áreas urbanas de la Entidad en donde se presente un crecimiento excesivo de la población, fomentando las ciudades medias;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+V. Implementar un crecimiento urbano vertical como medida preventiva para evitar el despoblamiento en áreas urbanas de la Entidad;
 
 VI. Promover el asentamiento de la población dispersa en el medio rural, en centros de población que garanticen un mínimo de condiciones de infraestructura y servicios, y
 
@@ -1529,9 +1547,17 @@ Los Planes de Desarrollo Urbano podrán ser actualizados o modificados, cuando:
 
 I. Exista una variación sustancial en las condiciones que le dieron origen;
 
-II. Se produzcan cambios en el aspecto financiero que los hagan irrealizables o incosteables, y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-III. Sobrevenga otra causa que impida su ejecución.
+II. Se produzcan cambios en el aspecto financiero que los hagan irrealizables o incosteables;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+III. Sobrevenga otra causa que impida su ejecución, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+IV. Exista una irregularidad en la que no se garantice un desarrollo sostenible.
 
 ###### ARTICULO 72.
 
@@ -2069,9 +2095,17 @@ El Estado, celebrará acuerdos de coordinación con las Dependencias y Entidades
 
 I. La transferencia, enajenación o destino de terrenos de propiedad federal para el desarrollo urbano y la vivienda, a favor del Estado y los Municipios y de los promotores privados, conforme a las disposiciones jurídicas aplicables;
 
-II. La asociación o cualquier otra forma de participación que determinen los núcleos agrarios, a efecto de aprovechar terrenos ejidales y comunales para el desarrollo urbano y la vivienda y evitar su ocupación irregular, sujetándose a lo dispuesto en ésta Ley, y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-III. La adquisición o expropiación de terrenos ejidales o comunales, en coordinación con las autoridades agrarias que correspondan, de acuerdo a lo previsto en la Ley Agraria y en esta Ley, a favor del Estado y de los Municipios.
+II. La asociación o cualquier otra forma de participación que determinen los núcleos agrarios, a efecto de aprovechar terrenos ejidales y comunales para el desarrollo urbano y la vivienda y evitar su ocupación irregular, sujetándose a lo dispuesto en ésta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+III. La adquisición o expropiación de terrenos ejidales o comunales, en coordinación con las autoridades agrarias que correspondan, de acuerdo a lo previsto en la Ley Agraria y en esta Ley, a favor del Estado y de los Municipios, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+IV. La implementación de programas para otorgar estímulos fiscales a aquellas personas que adquieran viviendas de planeación vertical, así como también las que elaboren proyectos que fomenten o incentiven el crecimiento urbano vertical y un desarrollo sustentable en los mismos.
 
 ###### ARTICULO 111.
 
@@ -3701,9 +3735,17 @@ VI. No se deberán contemplar alineamientos continuos de larga extensión, para 
 
 VII. En los desarrollos de vivienda de alta densidad, será de trescientos cincuenta metros como máximo la distancia entre el lote o edificio de recorrido vehicular y los terrenos en que se ubiquen los diversos servicios de equipamiento básico. Para los desarrollos habitacionales restantes, la distancia máxima referida se aumentará conforme disminuya la densidad de población;
 
-VIII. Se procurará evitar que al frente de las viviendas se sitúen los patios de servicio; cuando fuere inevitable hacerlo, su interior no deberá quedar expuesto a la vista desde la vía pública o las áreas comunes en su caso, y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-IX. Se evitará proyectar con imagen uniforme los diferentes sectores del desarrollo urbano, para lo cual se acentuarán las características distintivas de las respectivas calles, andadores y plazas, con el objeto de que, al romperse su monotonía, los habitantes puedan ubicarlos adecuadamente y sentirse identificados con sus distintos sectores.
+VIII. Se procurará evitar que al frente de las viviendas se sitúen los patios de servicio; cuando fuere inevitable hacerlo, su interior no deberá quedar expuesto a la vista desde la vía pública o las áreas comunes en su caso;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+IX. Se evitará proyectar con imagen uniforme los diferentes sectores del desarrollo urbano, para lo cual se acentuarán las características distintivas de las respectivas calles, andadores y plazas, con el objeto de que, al romperse su monotonía, los habitantes puedan ubicarlos adecuadamente y sentirse identificados con sus distintos sectores, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+X. Se implementarán programas que otorguen estímulos fiscales a aquellos proyectos en que el sector privado fomente el desarrollo sustentable, así como el crecimiento urbano vertical en zonas urbanas de la Entidad.
 
 ###### ARTICULO 219.
 
@@ -4160,3 +4202,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los cincuenta y ocho municipios que integran el Estado Libre y Soberano de San Luis Potosí deberán, en un plazo no mayor a noventa días hábiles a partir de la publicación de este Decreto, reformar su Bando de Policía y Gobierno y, posteriormente, deberán modificar sus leyes de Ingresos en los términos de lo dispuesto por este Decreto.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0417.- SE REFORMAN LOS ARTÍCULOS 17, 18, 19, 34, 71, 110 Y 218 Y ADICIONAN A LOS ARTÍCULOS 17, 18, 19, 30 BIS, 71, 110, Y 218 DE Y A LA LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
