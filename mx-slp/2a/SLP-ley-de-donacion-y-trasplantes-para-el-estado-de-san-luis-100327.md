@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-para-el-estado-de-san-luis-100327
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2014-03-25"
+last_updated: "2016-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de marzo de 2014.
 
@@ -559,9 +559,13 @@ II. Ante notario público;
 
 III. Ante dos testigos y ratificado ante notario público, o
 
-IV. Mediante el formato que el CENATRA y el CETRA autorice, ante dos testigos y depositado en el Registro.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-Los notarios públicos ante quienes se haga constar o se ratifique la voluntad de ser donador de órganos, tejidos y componentes, bajo su más estricta responsabilidad, evitarán el acceso a dicha información, de terceros ajenos al propio donador. El trámite notarial a que se refiere este párrafo, no generará costo alguno al potencial donador.
+IV. Mediante el formato que el CENATRA y el CETRA autorice, ante dos testigos y depositado en el Registro, emitiendo a su vez una credencial que identifique al disponente.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+Los notarios públicos ante quienes se haga constar o se ratifique la voluntad de ser donador de órganos, tejidos y componentes, bajo su más estricta responsabilidad, evitarán el acceso a dicha información, de terceros ajenos al propio donador.
 
 En los casos de muerte con causa legal, el consentimiento del disponente secundario podrá ser otorgado mediante comparecencia que al efecto se rinda ante el Ministerio Público, en los términos del artículo 60 de la presente Ley.
 
@@ -585,7 +589,9 @@ VII. Nombre y domicilio del cónyuge, concubina o concubinario, si tuviere;
 
 VIII. Si fuese soltero, nombre y domicilio de los padres y, a falta de éstos, de alguno de sus familiares más cercanos;
 
-IX. El señalamiento de que por propia voluntad y a título gratuito consiente en la disposición de órganos, tejidos o componentes de que se trate, expresándose si esta disposición se entenderá hecha entre vivos o para después de su muerte;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+IX. El señalamiento de que por propia voluntad y a título gratuito consiente en la disposición de órganos, tejidos o componentes de que se trate, expresándose si esta disposición se entenderá hecha entre vivos, o para después de su muerte, en cuyo caso se autoriza el uso de procedimientos invasivos en caso de muerte;
 
 X. Identificación clara y precisa del órgano objeto del trasplante;
 
@@ -598,6 +604,18 @@ XIII. Constar en documento público o privado, señalando nombre, firma y domici
 XIV. Lugar y fecha en que se emite, y
 
 XV. Firma o huella digital.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+A efecto de dar cumplimiento a la voluntad del disponente, será necesario en los supuestos por, y sin causa legal, lo siguiente:
+
+a) Si el disponente porta el documento que lo hace donador, el CETRA estará obligado a entregar el documento que lo acredita como donador, a los donadores secundarios.
+
+b) Si el disponente no porta el documento que lo hace donador, los familiares estarán obligados a entregar el documento que lo acredite como donador, al CETRA.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+En ambos casos, la autoridad competente está obligada a verificar en el Registro Estatal de Trasplantes, que el documento que lo hace donador tenga plena vigencia, para proceder inmediatamente cuando la autorización sea para después de la muerte.
 
 ###### ARTÍCULO 35.
 
@@ -783,9 +801,15 @@ IV. Constatar que el receptor es susceptible a ser trasplantado;
 
 V. Brindar la información necesaria a los receptores, disponentes y familiares en relación a estos procedimientos terapéuticos;
 
-VI. Promover la actualización del personal que participe en la realización de trasplantes, y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-VII. Verificar que en la realización de los trasplantes se cumpla lo dispuesto por el artículo 31 de la presente Ley.
+VI. Promover la actualización del personal que participe en la realización de trasplantes;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+VII. Notificar en un tiempo no mayor a una hora al CETRA cuando exista la pérdida de vida de un paciente dentro de un establecimiento conforme lo establece el artículo 316 de la Ley General de Salud, a fin de que éste verifique en el Registro Estatal de Trasplantes, si la persona fallecida es donadora, así como la valoración de (sic) adecuada del caso, y la factibilidad de la donación de los órganos y/o tejidos, y
+
+VIII. Verificar que en la realización de los trasplantes se cumpla lo dispuesto por el artículo 31 de la presente Ley.
 
 Los comités a que se refiere este artículo, se conformaran con personal médico especializado en materia de trasplantes, y en forma interdisciplinaria bajo la responsabilidad de la institución, y su integración deberá ser aprobada en términos del artículo referido.
 
@@ -1012,3 +1036,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0416.- SE REFORMAN LOS ARTÍCULOS 33, 34 Y 48; Y ADICIONAN LOS ARTÍCULOS 34 Y 48 DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
