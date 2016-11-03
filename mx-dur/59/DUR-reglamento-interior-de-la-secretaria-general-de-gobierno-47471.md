@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-general-de-gobierno-47471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2005-03-31"
+last_updated: "2016-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE DURANGO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 3 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Bis del Periódico Oficial del Estado de Durango, el jueves 31 de marzo de 2005.
 
@@ -573,7 +575,7 @@ El Tribunal de Conciliación y Arbitraje funcionará conforme a la normatividad 
 
 La Dirección General de Transportes es una dependencia de la Secretaría encargada de la planeación, regulación, control, supervisión y evaluación de la prestación del servicio público del transporte en el Estado.
 
-###### Articulo 32.
+###### Artículo 32.
 
 Son atribuciones del Director General de Transportes:
 
@@ -696,3 +698,13 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR.- DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría General de Gobierno del Estado de Durango, publicado en el Periódico Oficial del Estado número 26 BIS, de fecha 31 (sic) marzo de 2005.
