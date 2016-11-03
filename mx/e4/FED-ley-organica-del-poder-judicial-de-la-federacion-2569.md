@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2016-06-17"
+last_updated: "2016-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LOPJF"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
-
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE “LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.”]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -3818,6 +3818,16 @@ I. Antes del 20 de abril de 2015, la Cámara de Senadores elegirá al magistrado
 
 II. A más tardar el 30 de octubre de 2016, la Cámara de Senadores elegirá a siete nuevos magistrados electorales de la Sala Superior que iniciarán su mandato el 4 de noviembre de 2016; dos de ellos concluirán su mandato el 31 de octubre de 2019, dos más el 31 de octubre de 2022 y los tres restantes el 31 de octubre de 2025. Al aprobar los nombramientos el Senado deberá señalar el período de mandato que corresponde a cada magistrado. Todos aquellos que hayan desempeñado el cargo de magistrado electoral no podrán ser reelectos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE NOVIEMBRE DE 2016)</small>
+
+Los siete magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, electos por la Cámara de Senadores el 20 de octubre de 2016 y cuyo mandato inicia el 4 de noviembre del mismo año, desempeñarán su encargo conforme a lo siguiente:
+
+a) Los dos Magistrados electos originalmente para el periodo comprendido del 4 de noviembre de 2016 al 31 de octubre de 2019, durarán en su encargo hasta el 31 de octubre de 2023;
+
+b) Los dos Magistrados electos originalmente para el periodo comprendido del 4 de noviembre de 2016 al 31 de octubre de 2022, durarán en su encargo hasta el 31 de octubre de 2024, y
+
+c) Los tres Magistrados restantes, ejercerán su encargo en los mismos términos de la elección realizada por la Cámara de Senadores, en el periodo comprendido del 4 de noviembre de 2016 al 31 de octubre de 2025.
+
 Artículo Quinto.- Para efectos del escalonamiento en la elección de los magistrados de las Salas Regionales establecido en el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo siguiente:
 
 a) Los magistrados que sean electos para ocupar las plazas vacantes a la entrada en vigor del presente Decreto serán electos por un período que concluirá el 7 de marzo de 2013.
@@ -3993,3 +4003,13 @@ Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal,
 Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
 
 Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+D.O.F. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL", PUBLICADO EL 1o. DE JULIO DE 2008”.]
+
+Primero. El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A la entrada en vigor del presente Decreto, la Cámara de Senadores realizará, durante la presente Legislatura, las acciones necesarias para dar cumplimiento al mismo en relación con los dos magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, electos el 20 de octubre de 2016 y cuyo mandato concluirá el 31 de octubre de 2019 y de los dos magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, electos en esa misma fecha y cuyo mandato concluirá el 31 de octubre de 2022. Las acciones deberán de incluir la correspondiente toma de protesta para el desempeño del cargo con su nueva duración.
+
+El Senado de la República emitirá una declaración para la aplicación del presente Decreto una vez publicado.
