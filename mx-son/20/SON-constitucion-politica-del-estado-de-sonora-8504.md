@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2016-07-11"
+last_updated: "2016-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -2385,17 +2385,19 @@ Cuando las licitaciones a que hace referencia el párrafo anterior no sean idón
 
 El manejo de recursos económicos estatales se sujetará a las bases de esta Constitución.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 150-A.
 
-En el Estado, las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señalan esta Constitución y las leyes aplicables.
+En el Estado, las mujeres y los hombres tienen los mismos derechos civiles y políticos; de manera igualitaria podrán ser electas y electos y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señalan esta Constitución y las leyes aplicables.
 
-Los partidos políticos que participen en los procesos electorales locales para integración del Congreso del Estado, deberán garantizar la paridad entre los géneros en la totalidad de sus candidaturas, debiendo sus fórmulas estar compuestas por candidatos del mismo género.
+Los partidos políticos o coaliciones deberán garantizar en la postulación de fórmulas de candidatos a diputados por los principios de mayoría relativa, la paridad entre los géneros en la totalidad de sus candidaturas, debiendo sus fórmulas de propietario y suplente estar compuestas por candidatos del mismo género en la elección que se trate. En las listas de fórmulas de candidatos a diputados por el principio de representación proporcional deberá observarse la paridad entre los géneros y se integrarán por fórmulas de genero distintos en forma alternada en la elección correspondiente.
 
-En los procesos electorales municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán, en términos de equidad, que se postule una proporción paritaria de candidatos de ambos géneros. Se exceptúa de lo anterior, el caso de que las candidaturas de mayoría relativa sean resultado de un proceso de elección interna de democracia directa. Las planillas deberán integrarse por candidatos propietarios y suplentes del mismo género.
+En los procesos electorales municipales que se rige por el principio de mayoría relativa se observará la paridad horizontal y vertical para ambos géneros. Las planillas deberán integrarse por candidatos propietarios y suplentes del mismo género.
 
-Las listas de representación proporcional a cargos de elección popular a nivel estatal y municipal de propietarios y suplentes, se conformarán y asignarán en fórmulas y planillas, bajo el principio de alternancia de ambos géneros, hasta agotar el derecho de cada partido político.
+Se entenderá por paridad de género vertical en la postulación de los candidatos de planillas de ayuntamientos, la obligación de los partidos políticos o coaliciones, de salvaguardar en todo momento la paridad y la igualdad entre los géneros. En las candidaturas que integren cada planilla de Ayuntamiento deberá alternarse el género en la elección respectiva.
+
+Se entenderá por paridad de género horizontal la obligación de los partidos políticos y coaliciones para salvaguardar la postulación de 50% de candidatas y 50% de candidatos, respeto de la totalidad de candidaturas a presidentes municipales en el proceso electoral correspondiente.
 
 > <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -3496,3 +3498,17 @@ C) Los diputados del Congreso del Estado para integrar la LXII Legislatura, ser�
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado a más tardar el 30 de junio de 2017, deberá llevar a cabo las modificaciones necesarias para la adecuación de la legislación secundaria en materia electoral, a efecto de homogenizarla a las disposiciones que contiene la presente Ley.
+
+B.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 91, QUE REFORMA EL ARTÍCULO 150-A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el computo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley número 264, que reforma el tercer párrafo del artículo 150-A de la Constitución Política del Estado de Sonora, aprobada por el Pleno de la Sexagésima Legislatura, en sesión del día 30 de junio de 2015.
