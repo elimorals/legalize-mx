@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2016-08-19"
+last_updated: "2016-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -49,9 +49,11 @@ La presente ley tiene por objeto reglamentar la organización y funcionamiento d
 
 El Poder Legislativo se deposita en una asamblea denominada Congreso del Estado que tendrá su residencia oficial en el municipio de Xalapa-Enríquez, Veracruz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-El Congreso se integrará, conforme a las bases que establece la Constitución local, por el número de Diputados que señale el Código Electoral de la Entidad y se renovará en su totalidad cada tres años.
+El Congreso se integrará, conforme a las bases que establece la Constitución Local, por cincuenta diputados y se renovará en su totalidad cada tres años.
 
 El ejercicio de las funciones de los Diputados durante el período constitucional para el que fueron electos constituye una Legislatura. El Año Legislativo se computará del cinco de noviembre al cuatro de noviembre del año siguiente.
 
@@ -120,6 +122,10 @@ Ninguna autoridad podrá ejecutar mandatos judiciales o administrativos sobre lo
 ###### Artículo 12.
 
 El Congreso del Estado, en el año de su renovación, celebrará la Sesión de Instalación que tendrá lugar, en su recinto oficial, a las once horas del cinco de noviembre de ese año. Al efecto, el Presidente, Vicepresidente y Secretario de la Diputación Permanente de la Legislatura que concluye sus funciones, previa comprobación del quórum, presidirán la Sesión de Instalación para el solo efecto de declarar formalmente instalado el nuevo Congreso y, además, proveer lo necesario para que los Diputados electos a la nueva Legislatura elijan de entre sí, en escrutinio secreto y por mayoría de votos emitidos en cédulas, a los integrantes de la Mesa Directiva.
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+Si a la Sesión de Instalación del nuevo Congreso no acudiere el Presidente de la Mesa Directiva de la Diputación Permanente de la Legislatura que concluye sus funciones, será sustituido por el Vicepresidente; si la ausencia fuere de éste o del Secretario, se les podrá suplir con cualquier otro miembro de la misma Diputación Permanente.
 
 ###### Artículo 13.
 
@@ -329,15 +335,17 @@ h) La creación de entidades paramunicipales.
 
 XVII. Llevar el registro de la situación patrimonial de los servidores públicos estatales y municipales, los cuales se harán públicos en los términos establecidos por la ley;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar a propuesta de los partidos políticos representados en el Congreso del Estado, previa realización de una amplia consulta a la sociedad que realicen éstos, a los Consejeros Electorales del Consejo General del Instituto Electoral Veracruzano, en los términos que fije la ley; y nombrar al titular de la Contraloría General del Instituto Electoral Veracruzano, a propuesta de instituciones públicas de educación superior del Estado, previa convocatoria que para el efecto se emita;
+XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, nombrar al titular de la Contraloría General del Instituto Electoral Veracruzano, a propuesta de instituciones públicas de educación superior del Estado, previa convocatoria que para el efecto se emita;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial, al Presidente de la Comisión Estatal de Derechos Humanos y a los consejeros del Instituto Veracruzano de Acceso a la Información;
+XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial y al Presidente de la Comisión Estatal de Derechos Humanos; y con la aprobación de las dos terceras partes de los diputados presentes, a los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales;
 
-XX. Ratificar, con la aprobación de las dos terceras partes de sus integrantes, el nombramiento de un miembro del Consejo de la Judicatura y del Procurador General de Justicia;
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XX. Ratificar, con la aprobación de las dos terceras partes de sus integrantes, el nombramiento de un miembro del Consejo de la Judicatura;
 
 XXI. Conceder al Gobernador, a los Diputados, a los magistrados y a los consejeros de la Judicatura que hubiere designado, licencia temporal para separarse de su cargo. No se podrán conceder licencias por tiempo indefinido.
 
@@ -387,7 +395,11 @@ XXXVII. Recibir del Gobernador, de los Diputados, de los magistrados, de los int
 
 XXXVIII. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley constituya un ataque a la soberanía o autonomía del Estado, o de la Constitución Federal;
 
-XXXIX. Aprobar, con el voto de las dos terceras partes de sus integrantes, la división del Estado en distritos electorales, de acuerdo con el último censo general de población, y fijar la circunscripción y cabecera de ellos, tomando en consideración los estudios realizados por el Instituto Electoral Veracruzano;
+XXXIX. (DEROGADA, G.O. 3 DE NOVIEMBRE DE 2016)
+
+> <small>(ADICIONADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX Bis. Aprobar el Plan Veracruzano de Desarrollo;
 
 XL. Cambiar su sede, provisionalmente, si para ello existe el acuerdo de las dos terceras partes del total de los Diputados presentes, notificando su determinación a los Poderes Ejecutivo y Judicial;
 
@@ -397,9 +409,9 @@ XLI. Sesionar por lo menos una vez cada año en la cabecera de algún municipio 
 
 XLII. Recibir el informe escrito que sobre el estado que guarda la administración pública presente el Ejecutivo, realizar su análisis y, en su caso, conforme a lo dispuesto por esta Ley, solicitar al Gobernador ampliar la información mediante preguntas por escrito, y citar a los Secretarios del Despacho o equivalentes, quienes comparecerán y rendirán informes bajo protesta de decir verdad;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XLIII. Recibir los informes escritos que entreguen los Magistrados Presidentes de los Tribunales Superior de Justicia, Electoral, de lo Contencioso Administrativo y de Conciliación y Arbitraje, sobre las actividades realizadas por esos órganos del Poder Judicial en el año correspondiente;
+XLIII. Recibir los informes escritos que entreguen los Magistrados Presidentes de los Tribunales Superior de Justicia, de lo Contencioso Administrativo y de Conciliación y Arbitraje, sobre las actividades realizadas por esos órganos del Poder Judicial en el año correspondiente;
 
 XLIV. Determinar por sí, o a solicitud del Gobernador del Estado, la celebración de un referendo, sujetándose previamente a las formalidades del proceso legislativo y de conformidad con las leyes aplicables;
 
@@ -409,9 +421,9 @@ XLV. Solicitar al Gobernador del Estado la celebración de un plebiscito, sujet�
 
 XLVI. Elaborar, aprobar y ejercer su presupuesto anual de egresos, de conformidad con la legislación aplicable. La Comisión de Administración y Presupuesto preparará el anteproyecto anual de egresos del Congreso, para los efectos de lo dispuesto en el artículo 33 fracción IV de esta ley; el que, en su caso, será turnado al titular del Poder Ejecutivo a fin de que se incluya en la iniciativa anual del presupuesto de egresos del Gobierno del Estado;
 
-> <small>(ADICIONADA, G.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-XLVII. Organizar anualmente, a través de la Comisión Permanente de Equidad, Género y Familia, el Parlamento de las Mujeres Veracruzanas; y
+XLVII. Organizar anualmente, a través de la Comisión Permanente para la Igualdad de Género, el Parlamento de las Mujeres Veracruzanas;
 
 > <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2014)</small>
 
@@ -445,7 +457,9 @@ La Mesa Directiva del Congreso del Estado se integrará con un Presidente, un Vi
 
 El Congreso del Estado, previa comprobación del quórum, elegirá a la Mesa Directiva en escrutinio secreto y por el voto, mediante cédula, de la mayoría de los Diputados presentes.
 
-Para la elección de la Mesa Directiva, los Grupos Legislativos postularán fórmulas de candidatos para su integración; pero los coordinadores de los Grupos Legislativos no podrán formar parte de la Mesa Directiva del Congreso.
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+Para la elección de la Mesa Directiva, con excepción de la del primer año de ejercicio, los grupos legislativos postularán fórmulas de candidatos para su integración. Los coordinadores de los grupos legislativos no podrán formar parte de la Mesa Directiva del Congreso.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -591,15 +605,17 @@ VII. Las demás que expresamente señalen la Constitución del Estado, esta ley,
 
 El grupo legislativo es la asociación de diputados que se constituye para funcionar durante una Legislatura, con el propósito de garantizar la libre expresión de las corrientes políticas representadas en el Congreso; así como participar en la toma de decisiones, coadyuvar en los trabajos legislativos y contribuir a la disciplina interna del Congreso, en los términos que señala esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-El grupo legislativo se integrará con al menos tres diputados y sólo podrá haber uno por cada partido político que cuente con representación en el Congreso. Se constituirá en la primera sesión ordinaria de la Legislatura, si sus integrantes proceden de un mismo partido político; de provenir de partidos diversos o ser independientes, cuando sus integrantes así lo decidan, pero en este último caso no podrá existir más de un grupo. Al efecto, cada grupo legislativo entregará a la Secretaría General la documentación siguiente:
+El grupo legislativo se integrará con al menos tres diputados y sólo podrá haber uno por cada partido político que cuente con representación en el Congreso. Se constituirá en la primera sesión ordinaria de la Legislatura, si sus integrantes proceden de un mismo partido político; de provenir de partidos diversos o ser independientes, cuando sus integrantes así lo decidan, pero en este último caso no podrá existir más de un grupo, con excepción de la fusión de dos o más grupos legislativos previamente constituidos. Al efecto, cada grupo legislativo entregará a la Secretaría General la documentación siguiente:
 
 a) Acta en la que conste la decisión de sus miembros de constituirse en Grupo, con especificación del nombre del mismo y lista de sus integrantes; y
 
 b) El nombre del Diputado que haya sido designado como Coordinador del Grupo Legislativo y los nombres de quienes desempeñen otras actividades directivas.
 
-El Secretario General hará publicar los documentos constitutivos de los Grupos Legislativos.
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+El Secretario General hará publicar los documentos constitutivos de los grupos legislativos en el portal de Internet del Congreso.
 
 ###### Artículo 28.
 
@@ -635,9 +651,9 @@ El coordinador del grupo legislativo que cuente con la mayoría absoluta de dipu
 
 Si ningún Grupo tuviere la mayoría absoluta de diputados, la presidencia de la Junta será ocupada por toda la Legislatura por el coordinador del que cuente con la mayoría relativa, siempre que el número de diputados de ese Grupo sea superior a veinte. En caso de que dos Grupos Legislativos se encontraren en el supuesto descrito, sus coordinadores presidirán la Junta, por plazos equivalentes, en el orden que ellos acuerden.
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-De no actualizarse alguna de las hipótesis previstas en los párrafos precedentes, la responsabilidad de presidir la Junta recaerá en los coordinadores de los Grupos Legislativos que cuenten al menos con diez diputados cada uno, durante plazos proporcionales a su representación, de acuerdo al orden decreciente de diputados que los conformen.
+De no actualizarse alguna de las hipótesis previstas en los párrafos precedentes, la responsabilidad de presidir la Junta recaerá en los coordinadores de los tres grupos legislativos que cuenten con el mayor número de diputados, durante plazos proporcionales a su representación, de acuerdo al orden decreciente de diputados que los conformen.
 
 > <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -739,155 +755,91 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 39.
 
 Serán permanentes las Comisiones siguientes:
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
 I. Administración y Presupuesto;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+II. Agua Potable y Saneamiento;
 
-II. Asuntos Indígenas;
+III. Asuntos Indígenas;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-III. Atención y Protección de Periodistas;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-IV. Ciencia y Tecnología;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+IV. Atención y Protección de Periodistas;
 
 V. Comunicaciones;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+VI. Ciencia y Tecnología;
 
-VI. Derechos Humanos y Atención a Grupos Vulnerables y Migrantes;
+VII. Derechos de la Niñez y la Familia;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+VIII. Derechos Humanos y Atención a Grupos Vulnerables;
 
-VII. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
+IX. Desarrollo Agropecuario, Rural y Forestal;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+X. Desarrollo Artesanal;
 
-VIII. Desarrollo Económico;
+XI. Desarrollo Económico;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XII. Desarrollo Metropolitano;
 
-IX. Desarrollo Metropolitano;
+XIII. Desarrollo Social, Humano y Regional;
 
-> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2014)</small>
+XIV. Desarrollo Urbano, Ordenamiento Territorial, Vivienda y Fundo Legal;
 
-X. Desarrollo Social, Humano y Regional;
+XV. Desarrollo y Fortalecimiento Municipal;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XVI. Educación y Cultura;
 
-XI. Desarrollo y Fortalecimiento Municipal;
+XVII. Gobernación;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XVIII. Hacienda del Estado;
 
-XII. Editorial, Biblioteca y Archivo;
+XIX. Hacienda Municipal
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XX. Instructora;
 
-XIII. Educación y Cultura;
+XXI. Justicia y Puntos Constitucionales;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+XXII. Juventud y Deporte;
 
-XIV. Para la Igualdad de Género;
+XXIII. Límites Territoriales Intermunicipales;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXIV. Medio Ambiente, Recursos Naturales y Cambio Climático;
 
-XV. Gestoría y Quejas;
+XXV. Organización Política y Procesos Electorales;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXVI. Para la Igualdad de Género;
 
-XVI. Gobernación;
+XXVII. Participación Ciudadana, Gestoría y Quejas;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXVIII. Pesca y Acuacultura;
 
-XVII. Hacienda del Estado;
+XXIX. Población y Atención a Migrantes;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXX. Procuración de Justicia;
 
-XVIII. Hacienda Municipal;
+XXXI. Promoción Comercial y Fomento a la Inversión;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXXII. Protección Civil;
 
-XIX. Instructora;
+XXXIII. Salud y Asistencia;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXXIV. Seguridad Pública;
 
-XX. Justicia y Puntos Constitucionales;
+XXXV. Seguridad Social;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXXVI. Trabajo y Previsión Social;
 
-XXI. Juventud y Deporte;
+XXXVII. Transparencia y Acceso a la Información;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+XXXVIII. Transporte, Tránsito y Vialidad;
 
-XXII. Límites Territoriales Intermunicipales;
+XXXIX. Turismo; y
 
-> <small>(REFORMADA, G.O. 13 DE MAYO DE 2016)</small>
-
-XXIII. Medio ambiente, recursos naturales, aguas y cambio climático;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXIV. Organización Política y Procesos Electorales;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXV. Procuración de Justicia;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXVI. Protección Civil;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXVII. Salud y Asistencia;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXVIII. Seguridad Pública;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXIX. Trabajo y Previsión Social;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXX. Transparencia y Acceso a la Información;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXXI. Transporte, Tránsito y Vialidad;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXXII. Turismo; y
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-XXXIII. Vigilancia;
-
-> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
-
-XXXIV. Derechos de la Niñez y la Familia.
-
-> <small>(ADICIONADA, G.O. 19 DE AGOSTO DE 2016)</small>
-
-XXXV. Desarrollo Artesanal.
-
-> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2016)</small>
-
-XXXVI. Desarrollo Urbano, Ordenamiento Territorial y Vivienda.
+XL. Vigilancia.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -935,7 +887,7 @@ VIII. Autorizar, con el voto de las dos terceras partes de los Diputados present
 
 IX. Convocar a elecciones extraordinarias, si faltaren a la vez un Diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta ocurra antes de un año para que las elecciones ordinarias se efectúen;
 
-X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al (sic) cabo tras concluir el receso;
+X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
 
 > <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -1117,7 +1069,9 @@ IV. Dirigir, ejecutar y supervisar los trabajos y el cumplimiento de las atribuc
 
 V. Recibir las declaraciones de situación patrimonial de los servidores públicos estatales y municipales, de conformidad con la ley de la materia y demás disposiciones aplicables, declaraciones que sólo podrán hacerse públicas por mandamiento judicial;
 
-VI. Designar y remover, previo acuerdo de la Junta de Trabajos Legislativos, a los Secretarios de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros, los que deberán reunir los mismos requisitos que para ser Secretario General;
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+
+VI. Designar y remover, previo acuerdo de la Junta de Trabajos Legislativos, a los Secretarios de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros; y por acuerdo de la Junta de Coordinación Política, a los demás titulares de las Unidades Administrativas del Congreso;
 
 VII. Formular, respecto de los servicios previstos en el presente Título, los programas anuales de naturaleza administrativa y financiera;
 
@@ -1564,3 +1518,13 @@ G.O. 19 DE AGOSTO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 922 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un plazo no mayor a treinta días naturales, contado a partir del inicio de vigencia de este Decreto, el Congreso del Estado realizará las adecuaciones correspondientes en la Reglamentación Interior y en Materia de Servicios Administrativos del Poder Legislativo.
