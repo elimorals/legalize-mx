@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-deuda-publica-del-estado-de-quintana-roo-13386"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-18"
-last_updated: "2010-11-16"
+last_updated: "2016-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 3 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016. (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 18 de diciembre de 1998.
 
@@ -71,7 +73,7 @@ IV. Legislatura: La Honorable Legislatura del Estado de Quintana Roo;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-V. Secretaría: la (sic) Secretaría de Hacienda del Estado de Quintana Roo;
+V. Secretaría: la Secretaría de Hacienda del Estado de Quintana Roo;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -83,7 +85,7 @@ VII. Crédito Público: La aptitud jurídica, política, económica y moral de l
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-VIII. Deuda Pública: las (sic) obligaciones de pasivo, directas o contingentes, que resulten de operaciones de endeudamiento mediante las cuales las entidades reciban un ingreso numerario sobre el crédito público de las entidades. La deuda pública puede agruparse en las siguientes categorías:
+VIII. Deuda Pública: las obligaciones de pasivo, directas o contingentes, que resulten de operaciones de endeudamiento mediante las cuales las entidades reciban un ingreso numerario sobre el crédito público de las entidades. La deuda pública puede agruparse en las siguientes categorías:
 
 a. Deuda Pública del Estado: la que contraiga el Estado por conducto del Poder Ejecutivo como responsables directos o como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades, a través de las siguientes formas;
 
@@ -105,11 +107,11 @@ i. Deuda del Instituto: es la deuda que se contrae por éste en los mercados fin
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-IX. Empréstitos: las (sic) operaciones de endeudamiento directo o contingente que resulten del crédito público que celebren el Estado o los municipios;
+IX. Empréstitos: las operaciones de endeudamiento directo o contingente que resulten del crédito público que celebren el Estado o los municipios;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-X. Créditos: las (sic) operaciones de endeudamiento, directo o contingente, que resulten del crédito público que celebren el Estado o los Municipios;
+X. Créditos: las operaciones de endeudamiento, directo o contingente, que resulten del crédito público que celebren el Estado o los Municipios;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -133,31 +135,31 @@ XII. Valores: Son los valores representativos de un empréstito o crédito colec
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XIII. Servicio de la Deuda Pública: son (sic) los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico (sic) o financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
+XIII. Servicio de la Deuda Pública: son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico (sic) o financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XIV. Inversiones Públicas Productivas: las (sic) destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos; a las operaciones de refinanciamiento y reestructuración de la deuda pública que tengan como objeto el mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que pretenda contraer, siempre que en forma directa o indirecta, inmediata o mediata, generen economías o ahorros en los ingresos de las entidades; Asimismo (sic), se consideran inversiones públicas productivas para efectos de esta Ley, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales o calamidades declaradas por el Titular del Poder Ejecutivo Estatal;
+XIV. Inversiones Públicas Productivas: las destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos; a las operaciones de refinanciamiento y reestructuración de la deuda pública que tengan como objeto el mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que pretenda contraer, siempre que en forma directa o indirecta, inmediata o mediata, generen economías o ahorros en los ingresos de las entidades; Asimismo, se consideran inversiones públicas productivas para efectos de esta Ley, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales o calamidades declaradas por el Titular del Poder Ejecutivo Estatal;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XV. Montos y Conceptos de Endeudamiento Autorizado: son (sic) los derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y de las leyes de ingresos de los municipios, según corresponda;
+XV. Montos y Conceptos de Endeudamiento Autorizado: son los derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y de las leyes de ingresos de los municipios, según corresponda;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XVI. Operaciones de Refinanciamiento: son (sic) los empréstitos o créditos que se celebren por las entidades, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original, por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
+XVI. Operaciones de Refinanciamiento: son los empréstitos o créditos que se celebren por las entidades, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original, por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XVII. Operaciones de Reestructuración: son (sic) los empréstitos o créditos que celebren las entidades, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación;
+XVII. Operaciones de Reestructuración: son los empréstitos o créditos que celebren las entidades, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XVIII. Operaciones financieras de cobertura: las (sic) operaciones financieras que tienden a evitar o reducir riesgos económico (sic) o financieros derivados de créditos o empréstitos obtenidos por las Entidades con base en esta Ley;
+XVIII. Operaciones financieras de cobertura: las operaciones financieras que tienden a evitar o reducir riesgos económico (sic) o financieros derivados de créditos o empréstitos obtenidos por las Entidades con base en esta Ley;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XIX. Órganos de Gobierno: los (sic) consejos, juntas directivas, comités técnicos o equivalentes, de las entidades de la administración pública paraestatal y paramunicipal;
+XIX. Órganos de Gobierno: los consejos, juntas directivas, comités técnicos o equivalentes, de las entidades de la administración pública paraestatal y paramunicipal;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -165,11 +167,11 @@ XX. Proyectos Públicos Privados: Son todos aquellos programas que se desarrolle
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XXI. Proyecto de Prestación de Servicios: las (sic) obligaciones multianuales, directas o contingentes, que resulten del establecimiento de contratos de prestación de servicios pagados con gasto corriente y que no constituyen deuda;
+XXI. Proyecto de Prestación de Servicios: las obligaciones multianuales, directas o contingentes, que resulten del establecimiento de contratos de prestación de servicios pagados con gasto corriente y que no constituyen deuda;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-XXII. Registro: el (sic) Registro de Obligaciones y Empréstitos del Estado de Quintana Roo;
+XXII. Registro: el Registro de Obligaciones y Empréstitos del Estado de Quintana Roo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -221,7 +223,7 @@ En los casos no previstos en esta Ley, se aplicarán supletoriamente las disposi
 
 ###### ARTICULO 9º.
 
-Son autoridades en materia de deuda pública, dentro de sus respectivas competencias, la Legislatura, el Ejecutivo del Estado, La (sic) Secretaría, los ayuntamientos, los presidentes municipales, los tesoreros municipales, los titulares de las entidades a que se refiere el Artículo 2º fracciones III y IV, los comités técnicos de financiamiento creados conforme al Artículo 17 de esta Ley y El Instituto.
+Son autoridades en materia de deuda pública, dentro de sus respectivas competencias, la Legislatura, el Ejecutivo del Estado, La Secretaría, los ayuntamientos, los presidentes municipales, los tesoreros municipales, los titulares de las entidades a que se refiere el Artículo 2º fracciones III y IV, los comités técnicos de financiamiento creados conforme al Artículo 17 de esta Ley y El Instituto.
 
 ###### ARTICULO 10.
 
@@ -998,3 +1000,21 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 ARTÍCULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. DE 3 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 008 POR EL QUE SE EXPIDE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUINTANA ROO Y SUS MUNICIPIOS; POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE QUINTANA ROO; POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Deuda Pública del Estado de Quintana Roo publicada el 18 de diciembre de 1998 mediante Decreto número 180 de la VIII Legislatura del Estado de Quintana Roo y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los trámites pendientes ante el Registro de Obligaciones y Empréstitos del Estado de Quintana Roo contemplado en la Ley de Deuda Pública del Estado de Quintana Roo que se abroga, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio del trámite.
+
+CUARTO. Únicamente la modificación de las afectaciones de participaciones en ingresos federales y otros ingresos que, bajo cualquier modalidad o forma, se hubiesen celebrado por los Entes Públicos, a efecto de garantizar o realizar el pago de financiamientos, con anterioridad a la fecha de entrada en vigor del presente Decreto, requerirá de la autorización de la Legislatura.
+
+QUINTO. Las autorizaciones emitidas por la Legislatura con anterioridad a la entrada en vigor de esta Ley para la contratación de Financiamientos que no se hayan formalizado, continuarán surtiendo todos sus efectos y los Entes Públicos no están obligados a cumplir con lo dispuesto en la presente Ley respecto a la autorización de la Legislatura y la forma de contratación de los Financiamientos. Para efectos de claridad, una vez celebrados dichos Financiamientos deberán de cumplir todas las obligaciones de registro e información establecidas en la presente Ley.
+
+SEXTO. El Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley, disponiendo de un plazo de hasta 180 días naturales a partir de la entrada de vigor en la presente Ley para realizar cualquier adecuación para cumplir con lo establecido en la presente Ley. Durante dicho plazo, el Registro de Obligaciones y Empréstitos del Estado de Quintana Roo contemplado en la Ley de Deuda Pública del Estado de Quintana Roo que se abroga continuará operando al amparo de la normatividad anterior.
+
+SÉPTIMO. Las menciones que en las leyes, reglamentos, Decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley de Deuda Pública del Estado de Quintana Roo, se entenderán referidas a la Ley de Deuda Pública del Estado de Quintana Roo y sus Municipios.
