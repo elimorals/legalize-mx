@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-deuda-publica-del-estado-de-campeche-y-sus-municipios-91
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2015-10-06"
+last_updated: "2016-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE OBLIGACIONES, FINANCIAMIENTOS Y DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 4 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de diciembre de 2012.
 
@@ -668,3 +670,19 @@ P.O. 6 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. NÚMERO 88 POR EL QUE SE EXPIDE LA LEY DE OBLIGACIONES, FINANCIAMIENTOS Y DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Deuda Pública del Estado de Campeche y sus Municipios, expedida mediante Decreto No. 261 y publicada en el Periódico Oficial del Estado de Campeche el día 26 de diciembre de 2012.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que opongan al presente decreto.
+
+CUARTO.- En el caso de los Entes Públicos que se ubiquen en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hacen referencia el artículo 41 de ésta Ley, podrá establecer un Techo de Financiamiento Neto, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+QUINTO.- Los convenios de otorgamiento de transferencias o financiamientos celebrados entre Entes Públicos de conformidad con el artículo 27 de la Ley que se abroga, continuarán en vigor hasta su conclusión final en términos de los compromisos que se hayan pactado. En todos los casos, la vigencia de los mismos y su pago total deberán concluir como fecha límite el 15 de junio de 2021, en cumplimiento del artículo 34 de esta nueva Ley.
+
+SEXTO.- Todas las referencias hechas en el presente Decreto a la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado, se entenderán hechas a la Ley de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche, hasta en tanto entre en vigor aquélla.
