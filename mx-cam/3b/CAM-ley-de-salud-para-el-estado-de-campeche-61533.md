@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2015-09-14"
+last_updated: "2016-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 286, PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2015, LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS 10 DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -178,6 +176,22 @@ VIII. Promover un sistema de prevención de riesgos que coadyuve al desarrollo d
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
 
 IX. Promover campañas que procuren el acceso y el fomento a la cultura del consumo de agua en instituciones educativas.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+X. Proporcionar orientación a la población sobre la importancia de la alimentación nutritiva suficiente y de calidad y su relación con los beneficios a la salud;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+XI. Impulsar el bienestar y desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades culturales, tomando en cuenta sus valores y organización social;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+XII. Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
 
 ###### Artículo 6.
 
@@ -2616,3 +2630,11 @@ NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábile
 DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
 
 UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
+
+P.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 86 POR EL QUE "SE ADICIONAN LAS FRACCIONES X, XI, XII Y XIII AL ARTÍCULO 5 A LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
