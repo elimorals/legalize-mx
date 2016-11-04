@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-15450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-11"
-last_updated: "2014-12-12"
+last_updated: "2016-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de noviembre de 1999.
 
@@ -355,7 +355,7 @@ I. Plazo para efectuarlo a partir de la fecha en que sea exigible la obligación
 
 II. Tasa de descuento que en su caso se pacte por pronto pago; y,
 
-III. Tasa de gastos financieros que en su caso se pacte por (sic) inclumplimiento al pago en el plazo que se establezca conforme a la fracción I, que en ningún caso podrá ser mayor a la establecida en la Ley de Ingresos del Estado, tratándose de prórroga para pago de créditos fiscales, especificando que dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días de calendario desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
+III. Tasa de gastos financieros que en su caso se pacte por inclumplimiento (sic) al pago en el plazo que se establezca conforme a la fracción I, que en ningún caso podrá ser mayor a la establecida en la Ley de Ingresos del Estado, tratándose de prórroga para pago de créditos fiscales, especificando que dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días de calendario desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
 
 ###### ARTICULO 27.
 
@@ -467,95 +467,57 @@ El Comité, deberá participar invariablemente en las etapas de calificación de
 
 Las disposiciones de este Reglamento, en lo conducente, serán aplicables para el caso de los ayuntamientos, cuando resulte aplicable a ellos, lo dispuesto por el artículo 17 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo.
 
+[N. DE E. DEL ANÁLISIS AL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2016, SE ADVIERTE QUE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DE ESTE ARTÍCULO, PASANDO DE CINCO A CUATRO PÁRRAFOS].
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 38.
 
-Tratándose de adquisiciones y contrataciones de servicios para la ejecución del programa de Seguridad Pública y acciones conexas, se autoriza la constitución de un Subcomité de Adquisiciones del Fondo de Seguridad Pública, el cual tendrá las mismas atribuciones que el Comité para efectuar los procedimientos, en esta materia, a que se refiere el artículo 5º de este Reglamento. En cuanto a la constitución de este Subcomité, el Comité Técnico de este Fideicomiso de Seguridad Pública determinará la integración del mismo.
+Para los programas de Seguridad y Procuración de Justicia, se autoriza la constitución de Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, que de igual forma tendrá las atribuciones que tiene conferidas el Comité para efectuar los procedimientos a los que se refiere el artículo 5° de este Reglamento, en los rubros de Seguridad Pública y Procuración de Justicia, siempre y cuando sea para la aplicación de recurso federal.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-Asimismo, para los programas de Seguridad Pública y de Procuración de Justicia, se autoriza la constitución del Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, que de igual forma tendrá las atribuciones que tiene conferidas el Comité para efectuar los procedimientos a los que se refiere el artículo 5° de este Reglamento, en los rubros de Seguridad Pública y Procuración de Justicia.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
-
-El Subcomité estará integrado por la Presidencia, tres vocales y un Secretario Técnico:
+El Subcomité estará integrado por la Presidencia y tres vocales, todos con derecho a voz y voto, en caso de empate el Presidente tendrá voto de calidad:
 
 Presidencia.
 
-l. El Titular de la dependencia encargada de la Seguridad Pública del Estado;
+1. El Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 Tres vocales.
 
-l. Un representante de la dependencia a cargo de la Procuración de Justicia del Estado;
+1. El Titular de la Secretaría de Contraloría, o quien éste designe.
 
-2. Un representante de la Secretaría de Finanzas y Administración;
+2. El Titular de la Secretaría de Finanzas y Administración, o quien éste designe.
 
-3. Un representante del Centro Estatal de Certificación, Acreditación y Control de Confianza;
+3. El Director General del Comité de Adquisiciones del Poder Ejecutivo, o quien éste designe.
 
-Secretaría Técnica.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-l. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
-
-La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, con derecho a voz pero sin derecho a voto.
+La Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrá representante permanente en el Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, con derecho a voz pero sin derecho a voto.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
 
 Las facultades y atribuciones del Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo y de sus integrantes se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-ARTICULO 38 BIS.- Se autoriza la constitución del Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, que de igual forma tendrá las atribuciones que tiene conferidas el Comité para efectuar los procedimientos a los que se refiere el artículo 5° de este Reglamento, en el rubro de Salud.
+ARTICULO 38 BIS. Las sesiones que celebra el Pleno del Comité de Adquisiciones del Poder Ejecutivo, según el asunto que se trate, podrán ser:
 
-El Subcomité estará integrado por:
+I. Plenaria: Las que se efectúan con la totalidad de los miembros del Pleno; y,
 
-Presidencia.
+II. De Gabinete: La (sic) que se desarrollan por el Director General y los tres vocales representantes del Gobierno.
 
-I. Titular de los Servicios de Salud de Michoacán;
+Para efectos de la fracción II la instalación de la sesión de Gabinete, deberán asistir la totalidad de los integrantes, asimismo se deberá de justificar y motivar la convocatoria y desahogo de la sesión, tratándose de:
 
-El Titular de la Delegación Administrativa de los Servicios de Salud o su equivalente, será quien fungirá como suplente del Presidente.
+a) Información reservada cuya divulgación ponga en riesgo la seguridad del Estado y sus municipios;
 
-Vocales.
+b) Información reservada cuya divulgación ponga en riesgo la recaudación de contribuciones;
 
-I. Titular de la Subdirección de Recursos Financieros o su equivalente en los Servicios de Salud de Michoacán;
+c) Información que pueda dañar la estabilidad financiera o económica del Estado; y:
 
-II. Un Representante de la Unidad Solicitante de los Servicios de Salud de Michoacán interesada en la adquisición de los bienes, arrendamiento o contratación de los servicios; y,
+d) Las demás que determine el Director General en razón de la naturaleza de los asuntos o bien en caso de urgencia.
 
-III. El Director General del Comité de Adquisiciones del Poder Ejecutivo o quien éste designe.
-
-Secretaría Técnica.
-
-I. Titular de la Subdirección de Recursos Materiales o su equivalente en los Servicios de Salud de Michoacán.
-
-La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán, con derecho a voz pero sin derecho a voto.
-
-Las facultades y atribuciones del Subcomité de Adquisiciones del Organismo Público Descentralizado Servicios de Salud de Michoacán y de sus integrantes, se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2014)</small>
-
-ARTICULO 38 TER. Se autoriza la constitución del Subcomité de Adquisiciones de Política y Desarrollo Social, que se encargará de ejecutar los procedimientos y las acciones necesarias en esta materia, para efectuar las adquisiciones y contratación de servicios relacionados con la operación del Programa de Atención a Necesidades Básicas, de conformidad con las Reglas de Operación del mismo; así como también las relacionadas con el cumplimiento de los objetivos de la Política Social en el Estado y del Sistema Estatal de Desarrollo Social.
-
-El Subcomité estará integrado por:
-
-Presidencia.
-
-I. Titular de la Secretaría de Política Social, quien eventualmente podrá designar suplente;
-
-Vocales.
-
-I. Titular de la Delegación Administrativa de la Secretaría de Política Social;
-
-II. Un Representante de la Dirección interesada en la adquisición de los bienes, arrendamiento o contratación de los servicios; y
-
-III. El Director General del Comité de Adquisiciones del Poder Ejecutivo o quien éste designe.
-
-Secretaría Técnica.
-
-I. Titular de la Secretaría Técnica de la Secretaría de Política Social.
-
-Los integrantes señalados contarán con derecho a voz y voto; el Presidente, además tendrá voto de calidad en caso de empate.
-
-La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones de Política y Desarrollo Social, con derecho a voz pero sin derecho a voto.
+ARTICULO 38 TER. (DEROGADO, P.O. 4 DE NOVIEMBRE DE 2016)
 
 ### Capítulo VI. De la Información y Verificación
 
@@ -654,3 +616,15 @@ Para la organización, funcionamiento y atribuciones de dicho Subcomité, éste 
 ###### ARTICULO CUARTO.
 
 El Comité de Adquisiciones del Poder Ejecutivo, tendrá como máximo 15 días hábiles a partir de la instalación del Subcomité para compartir al mismo, a solicitud de éste, el Padrón de Proveedores de la Administración Pública Estatal actualizado, así como los formatos, las bases y lineamientos autorizados por dicho Órgano y todo lo relacionado con los procedimientos para llevar a cabo las adquisiciones y contratación de servicios que señala la ley de la materia.
+
+P.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 38 Y 38 BIS Y SE DEROGA EL ARTÍCULO 38 TER DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Los procedimientos de contratación que se encuentren en trámite, se resolverán conforme al procedimiento vigente en el momento de su inicio.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+Artículo Cuarto. El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, deberá expedir la reforma a su Reglamento Interno, afectado por el presente Decreto, en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
