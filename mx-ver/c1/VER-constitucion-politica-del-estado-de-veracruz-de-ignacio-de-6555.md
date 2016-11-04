@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2016-10-13"
+last_updated: "2016-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -113,15 +113,23 @@ Habrá jueces de control que garanticen los derechos de los imputados y de las v
 
 La legislación ordinaria preverá medios alternos para la solución de controversias, y los requisitos para su aplicación. El Estado organizará el servicio de defensoría pública que deberá contar con calidad y profesionalismo, especialmente en la defensa de los justiciables pertenecientes a los pueblos y comunidades indígenas.
 
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-Los habitantes del Estado gozarán de todas las garantías y libertades consagradas en la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+En el Estado todas las personas gozarán de los derechos humanos y garantías para su protección, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de origen, raza, color, sexo, idioma, religión, opinión política, preferencias sexuales, condición o actividad social. Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de generar las condiciones necesarias para que las personas gocen de los derechos que establece esta Constitución; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
+Todas las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, por lo que deberán generar las condiciones necesarias para que las personas gocen de los derechos humanos que establece esta Constitución y prevenir, investigar, sancionar y reparar las violaciones a los mismos; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
 
 Está prohibida la pena de muerte.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+Los adolescentes a quienes se les atribuya la comisión o participación en un hecho que la ley señale como delito, en ningún caso podrán ser juzgados o sancionados como adultos y estarán sujetos a un sistema integral de justicia a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes, que garantizarán sus derechos humanos, así como aquellos derechos específicos que por su condición de personas en desarrollo les corresponden. En la aplicación de este sistema deberán observarse, siempre que procedan, formas alternativas de justicia.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+En cada caso, las medidas de orientación, protección y tratamiento que se impongan a los adolescentes deberán ser racionales y proporcionales al hecho realizado y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades atendiendo en todo momento a la protección integral y al interés superior de la niñez. El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad. Los niños y las niñas menores de doce años sólo serán sujetos de asistencia social.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -145,15 +153,27 @@ El uso y disfrute colectivo de los recursos naturales por las comunidades indíg
 
 El estado y los municipios en el ámbito de sus respectivas competencias reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, y a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, impulsarán el respeto y conocimiento de las diversas culturas existentes en la entidad, y combatirán toda forma de discriminación.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 6.
 
-Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad.
+Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad, dando especial atención a la integración de las personas con discapacidad.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
 
 La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el varón en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+Las niñas, niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación, protección y sano esparcimiento para su desarrollo integral.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+El interés superior de la niñez deberá ser considerado de manera primordial en todas las decisiones y actuaciones del Estado, quien respetará y garantizará de manera plena los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos y principios reconocidos a las niñas, niños y adolescentes. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 
 > <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -163,7 +183,7 @@ El Estado promoverá, en la medida de los recursos presupuestales disponibles, e
 
 Toda persona gozará del derecho a la información, así como al de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados.
 
-(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
 
@@ -217,7 +237,9 @@ a) El sistema educativo será laico;
 
 b) Impulsará la educación en todos sus niveles y modalidades, y establecerá la coordinación necesaria con las autoridades federales en la materia;
 
-c) Fomentará el conocimiento de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+c) Fomentará el respeto a los derechos humanos, el conocimiento de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
 
 d) Desarrollará y promoverá el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural;
 
@@ -791,9 +813,9 @@ XXXIX. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna le
 
 XXXIX Bis. Aprobar el Plan Veracruzano de Desarrollo, en los términos de la ley respectiva.
 
-> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-XL. Aprobar, con el voto de las dos terceras partes de sus integrantes, la división del Estado en distritos electorales, de acuerdo con el último censo general de población, y fijar la circunscripción y cabecera de ellos, tomando en consideración los estudios realizados por el Instituto Electoral Veracruzano;
+XL. Llamar, a solicitud de la Comisión Estatal de Derechos Humanos, a las autoridades o servidores públicos responsables para que comparezcan ante este órgano legislativo, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por dicha Comisión Estatal;
 
 > <small>(ADICIONADA, G.O. 17 DE JULIO DE 2015)</small>
 
@@ -1441,9 +1463,15 @@ VIII. Designar provisionalmente a quien sustituya al Consejero de la Judicatura 
 
 VIII bis. Designar provisionalmente a quien sustituya al Contralor General del Instituto Electoral Veracruzano, en caso de renuncia, inhabilitación, ausencia o muerte, informando al Congreso en la primera sesión que lleve a cabo tras concluir el receso, para que se proceda a la designación definitiva;
 
-IX. Conocer de los asuntos relacionados con la hacienda de los municipios y la práctica de auditorías, revisión y aprobación de las cuentas respectivas; y
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-X. Las demás que le confiera expresamente esta Constitución.
+IX. Conocer de los asuntos relacionados con la hacienda de los municipios y la práctica de auditorías, revisión y aprobación de las cuentas respectivas;
+
+> <small>(ADICIONADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+X. Conocer de las negativas a las recomendaciones emitidas por la Comisión Estatal de Derechos Humanos por parte de las autoridades y servidores públicos, pudiendo llamarlos a solicitud de dicha Comisión, para que comparezcan ante este órgano legislativo a efecto de que expliquen el motivo de su negativa; y
+
+XI. Las demás que le confiera expresamente esta Constitución.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1659,7 +1687,9 @@ El Poder Judicial del Estado tendrá las siguientes atribuciones:
 
 I. Garantizar la supremacía y control de esta Constitución mediante su interpretación y anular las leyes o decretos contrarios a ella;
 
-II. Proteger y salvaguardar los derechos humanos que el pueblo de Veracruz se reserve, mediante el juicio de protección correspondiente;
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+II. Proteger y salvaguardar los derechos humanos reconocidos por la Constitución General de la República, los tratados internacionales de los que el Estado Mexicano sea parte y esta Constitución, así como los que el pueblo de Veracruz se reserve, mediante el juicio de protección correspondiente;
 
 III. Interpretar y aplicar las leyes del fuero común y las federales en jurisdicción concurrente;
 
@@ -1811,7 +1841,9 @@ Toda persona en el Estado tiene derecho, en la forma y términos establecidos po
 
 Para el cumplimiento de las atribuciones señaladas en las fracciones I y II del artículo 56 de esta Constitución, el Tribunal Superior de Justicia contará con una Sala Constitucional, integrada por tres magistrados, que tendrá competencia para:
 
-I. Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos humanos, por actos o normas de carácter general que conculquen derechos humanos que el pueblo de Veracruz se reserve, provenientes de:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+I. Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos humanos, por actos o normas de carácter general que conculquen derechos humanos que el pueblo de Veracruz se reserve y reparar, en los términos que establezca la ley respectiva, las violaciones a dichos derechos provenientes de:
 
 a) El Congreso del Estado;
 
@@ -2019,11 +2051,27 @@ LA REMOCIÓN REALIZADA POR EL FISCAL GENERAL DEL ESTADO, RESPECTO AL FISCAL ESPE
 
 II. El conocimiento y sustanciación de las quejas en contra de los actos u omisiones de naturaleza administrativa que violen derechos humanos, provenientes de cualquier autoridad o servidor público, la realizará la Comisión Estatal de Derechos Humanos, conforme a las siguientes bases:
 
-a) La Comisión estará a cargo de un presidente que será nombrado por el Congreso del Estado, con la aprobación de las dos terceras partes de sus integrantes. En sus recesos, la Diputación Permanente hará el nombramiento con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva;
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-b) La Comisión formulará recomendaciones no vinculatorias, así como denuncias y quejas ante las autoridades respectivas; este organismo no será competente en asuntos electorales, laborales y jurisdiccionales; y
+a) La Comisión estará a cargo de un presidente que será nombrado por el Congreso del Estado, con la aprobación de las dos terceras partes de sus integrantes. En sus recesos, la Diputación Permanente hará el nombramiento con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva.
 
-c) Ante el incumplimiento reiterado de sus recomendaciones, la Comisión podrá hacerlas del conocimiento del Congreso y de la autoridad que estime pertinente.
+La Comisión tendrá un consejo consultivo, nombrado por el Congreso en los términos que señale la Ley.
+
+La Ley determinará los procedimientos a seguir para la presentación de las propuestas al Congreso del Estado;
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+b) La Comisión formulará recomendaciones públicas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas; este organismo no será competente en asuntos electorales ni jurisdiccionales;
+
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+c) Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+
+El Congreso podrá llamar a las autoridades o servidores públicos responsables para que comparezcan ante dicho órgano legislativo a efecto de que expliquen el motivo de su negativa; y
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+d) El Presidente de la Comisión Estatal de Derechos Humanos, que lo será también del Consejo Consultivo, durará en su función cinco años, podrá ser reelegido sólo para un segundo periodo y podrá ser removido en sus funciones en los términos del Título Quinto de esta Constitución. La designación del titular de la presidencia así como de los integrantes del Consejo Consultivo se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
 
 > <small>(REFORMADA, G.O. 24 DE JUNIO DE 2009)</small>
 
@@ -12484,3 +12532,27 @@ Artículo Tercero. El Congreso del Estado, en un plazo no mayor de treinta días
 Artículo Cuarto. Para los fines a que se refiere el presente Decreto, la persona que sea elegida para ocupar el cargo de Gobernador del Estado durante el periodo comprendido del día primero de diciembre de dos mil dieciséis al treinta de noviembre de dos mil dieciocho dispondrá de cuatro meses, contados a partir de que le sea entregada la constancia de mayoría correspondiente, para elaborar y someter a la aprobación del Congreso del Estado el Plan Veracruzano de Desarrollo de su administración. Dicho Plan deberá ser aprobado y publicado a más tardar el primero de diciembre de dos mil dieciséis.
 
 Al efecto, el Gobernador Electo podrá convocar a ciudadanos, servidores públicos y asesores expertos en la materia, para la realización de los trabajos necesarios para la elaboración del Plan Veracruzano de Desarrollo.
+
+G.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 917 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 918 QUE ADICIONA DIVERSOS PÁRRAFOS A LOS ARTÍCULOS 4 Y 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 919 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
