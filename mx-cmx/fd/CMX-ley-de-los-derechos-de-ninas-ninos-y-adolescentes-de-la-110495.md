@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2015-11-12"
+last_updated: "2016-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO, EL PRESENTE DECRETO ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS POSTERIORES A SU PUBLICACIÓN.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -76,15 +74,25 @@ VI. Regular la participación de los sectores privado y social en las acciones t
 
 VII. Impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para las niñas, niños y adolescentes;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-Para garantizar la protección de los derechos humanos de niñas, niños y adolescentes en la Ciudad de México, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
+Para garantizar la protección de los derechos humanos de niñas, niños y adolescentes en la Ciudad de México, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley.
+
+> <small>[N. DE E. REUBICADO ANTES PARTE DEL PRIMER PÁRRAFO , G.O. 4 DE NOVIEMBRE DE 2016]</small>
+
+Para tal efecto, deberán:
 
 I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos, género y niñez, en el diseño y la instrumentación de políticas y programas de gobierno;
 
 II. Promover la participación de todos los sectores de la sociedad, tomando en cuenta la opinión de niñas, niños y adolescentes considerando los aspectos culturales, éticos, afectivos, educativos y de salud, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
 
 III. Implementar los mecanismos para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas sociales y gubernamentales, legislación y compromisos derivados de las normas constitucionales y de los tratados internacionales celebrados por el Estado mexicano de manera transparente y accesible.
+
+> <small>(ADICIONADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+IV. Establecer mecanismos para prevenir el abuso y maltrato, o explotación laboral o sexual.
 
 Las autoridades administrativas de la ciudad de México y de sus órganos político administrativos, así como la Asamblea Legislativa, en el ámbito de sus respectivas competencias, deberán incluir en sus proyectos de presupuesto la asignación de recursos que permita dar cumplimiento a las acciones ordenadas por la presente Ley.
 
@@ -222,13 +230,11 @@ XIV. La accesibilidad, y
 
 XV. La debida diligencia estricta.
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-El interés superior de la niña, niño y adolescente, es el derecho sustantivo que exige adoptar un enfoque proactivo basado en los derechos humanos, en el que colaboren todos los responsables de garantizar el bienestar, físico, psicológico, cultural y espiritual de manera integral de niñas, niños y adolescentes, así como reconocer su dignidad humana. Asimismo, debe ser considerado como principio interpretativo fundamental y como una norma de procedimiento siempre que se tenga que tomar una decisión que afecte a una niña, niño o adolescente en concreto.
-
-El interés superior es el principio que debe regir todo acto de autoridad para garantizar el ejercicio de los derechos humanos a niñas, niños y adolescentes. Por lo tanto, toda autoridad de la Ciudad de México, en el ejercicio de sus funciones, debe sustentar toda su actuación en este principio comenzando con mecanismos efectivos de escucha de niñas, niños y adolescentes.
-
-Toda persona e institución, de manera conjunta con las autoridades, en la Ciudad de México, debe actuar en observancia a este principio.
+El interés superior de la niña, niño y adolescente, es el derecho sustantivo que exige adoptar un enfoque proactivo basado en los derechos humanos, en el que colaboren todos los responsables de garantizar el bienestar, físico, psicológico, cultural y espiritual de manera integral de niñas, niños y adolescentes, el respeto a su sexualidad y sano desarrollo psicosexual, así como reconocer su dignidad humana. Asimismo, debe ser considerado como principio interpretativo fundamental y como una norma de procedimiento siempre que se tenga que tomar una decisión que afecte a una niña, niño o adolescente en concreto.
 
 ###### Artículo 8.
 
@@ -638,6 +644,8 @@ Las autoridades y los órganos político administrativos, en el ámbito de sus r
 
 Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)
+
 ###### Artículo 50.
 
 Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias impulsarán las acciones necesarias para garantizar los derechos sexuales y reproductivos de niñas, niños y adolescentes, estableciendo entre otras medidas las siguientes:
@@ -648,7 +656,9 @@ II. Prevenir embarazos de las niñas y las adolescentes;
 
 III. Proporcionar servicios gratuitos y profesionales en materia de salud sexual y reproductiva.
 
-IV. Desarrollar campañas de comunicación masiva para prevenir el abuso sexual de niñas, niños y adolescentes.
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+IV. Desarrollar campañas de comunicación masiva para prevenir el abuso sexual de niñas, niños y adolescentes, así como para el normal desarrollo psicosexual de las niñas y niños.
 
 ###### Artículo 51.
 
@@ -1701,3 +1711,13 @@ SE EXPIDEN EN LA CIUDAD DE MÉXICO, A LOS TRECE DÍAS DEL MES DE ABRIL DEL AÑO 
 DIRECTOR DE LEGISLACIÓN Y TRÁMITES INMOBILIARIOS
 
 LIC. FALVIO MARTÍNEZ ZAVALA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
