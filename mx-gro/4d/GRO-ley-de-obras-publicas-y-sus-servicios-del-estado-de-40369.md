@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-obras-publicas-y-sus-servicios-del-estado-de-40369"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-23"
-last_updated: "2004-07-23"
+last_updated: "2016-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE OBRAS PUBLICAS Y SUS SERVICIOS DEL ESTADO DE GUERRERO NUMERO 266
 
-LEY DE OBRAS PUBLICAS Y SUS SERVICIOS DEL ESTADO DE GUERRERO NUMERO 266
+LEY DE OBRAS PÚBLICAS Y SUS SERVICIOS DEL ESTADO DE GUERRERO NÚMERO 266
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de julio de 2004.
 
@@ -117,21 +117,33 @@ VII. Los dictámenes, peritajes, avalúos y revisiones técnico-normativas, apli
 
 VIII. Todos aquéllos de naturaleza análoga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 5.
 
-Como órgano de Asesoría y Consulta para la aplicación de esta Ley, se crea la Comisión Intersecretarial Consultiva de la Obra Pública, que se integrará por:
+Como órgano de Asesoría y Consulta para la aplicación de esta Ley, se crea la Comisión Consultiva de la Obra Pública, que se integrará por:
 
 I. El Secretario de Desarrollo Social;
 
 II. El Secretario de Finanzas y Administración;
 
-III. El Secretario de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+III. El Secretario de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
 IV. El Secretario de Desarrollo Económico;
 
-V. El Coordinador General de Fortalecimiento Municipal; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-VI. El Contralor General del Estado.
+V. El Secretario de la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+VI. El Presidente de la Comisión de Desarrollo Urbano y Obras Públicas del H. Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+VII. El Coordinador General de Fortalecimiento Municipal.
 
 La Comisión será presidida por el Secretario de Desarrollo Social, e invitará a sus sesiones a representantes de otras dependencias y entidades, así como a los sectores social y privado, cuando por la naturaleza de los asuntos que deban tratar, se considere pertinente su participación.
 
@@ -329,9 +341,13 @@ II. Por administración directa.
 
 Salvo algunas excepciones se ejecutará obra por administración directa, cuando se deriven de fenómenos naturales o siniestros no previstos, como es el caso de sismos, huracanes, inundaciones, entre otros.
 
-Las obras que no se encuentren enmarcadas en el párrafo anterior, se ejecutarán por administración directa siempre y cuando no rebasen el monto de diez mil salarios mínimos. Además de cumplir con lo anterior, las dependencias, entidades y ayuntamientos estarán obligadas a realizar la afiliación de los trabajadores ante el Instituto Mexicano del Seguro Social, así como contratar a un perito responsable como supervisor externo colegiado, ya que no deben ser juez y parte.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-Una vez que se rebase el monto de diez mil salarios mínimos, el método a seguir será por licitación pública o por invitación, según sea el caso.
+Las obras que no se encuentren enmarcadas en el párrafo anterior, se ejecutarán por administración directa siempre y cuando no rebasen el monto de diez mil veces al valor diario de la Unidad de Medida y Actualización. Además de cumplir con lo anterior, las dependencias, entidades y ayuntamientos estarán obligadas a realizar la afiliación de los trabajadores ante el Instituto Mexicano del Seguro Social, así como contratar a un perito responsable como supervisor externo colegiado, ya que no deben ser juez y parte.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+Una vez que se rebase el monto de diez mil veces al valor diario de la Unidad de Medida y Actualización, el método a seguir será por licitación pública o por invitación, según sea el caso.
 
 ### CAPITULO SEGUNDO. DEL PADRON DE CONTRATISTAS DE OBRAS PUBLICAS
 
@@ -655,13 +671,19 @@ XI. Se acepta la ejecución de los trabajos a título de dación en pago, en los
 
 Las dependencias, entidades y ayuntamientos, bajo su responsabilidad, podrán contratar obras públicas o sus servicios, sin sujetarse al procedimiento de licitación pública, a través de los de invitación a cuando menos tres personas o de adjudicación directa en:
 
-I. Tratándose de obras públicas, siempre que el monto de la obra pública objeto del contrato, no exceda de veinte mil veces el salario real mínimo respectivamente, de la región donde se realice la obra; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-II. Tratándose de los servicios relacionados con las obras públicas, siempre que el monto de los servicios no exceda de diez mil salarios reales mínimos profesionales respectivamente, de la región donde se realice el servicio.
+I. Tratándose de obras públicas, siempre que el monto de la obra pública objeto del contrato, no exceda de veinte mil veces al valor diario de la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+II. Tratándose de los servicios relacionados con las obras públicas, siempre que el monto de los servicios no exceda de diez mil veces al valor diario de la Unidad de Medida y Actualización.
 
 Los montos de inversión aprobados para las obras públicas y sus servicios, estarán indexados por los índices de inflación que publique el Banco de México.
 
-Para los efectos de las fracciones I y II, la Secretaría de Desarrollo Urbano y Obras Públicas, publicará el factor de salario real mínimo y profesional en el Periódico Oficial del Gobierno del Estado de Guerrero.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos de las fracciones I y II, la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial publicará el valor diario de la Unidad de Medida y Actualización en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 En casos excepcionales, el titular de la dependencia, el órgano de gobierno de la entidad o el ayuntamiento, de manera indelegable y bajo su responsabilidad, podrá fijar un número de salario mayor al indicado en este artículo, debiéndolo hacer del conocimiento del Órgano de Control Interno.
 
@@ -867,7 +889,7 @@ Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de
 
 Para efectos de la revisión y ajuste de los costos, la fecha de origen de los precios será la del acto de presentación y apertura de proposiciones;
 
-II. Los incrementos o decrementos de los costos de los insumos, serán calculados con base en los índices nacionales de precios productor con servicios que determine el Banco de México. Cuando los índices que requiera el contratista y la dependencia, entidad o ayuntamiento no se encuentren dentro de los publicados por el Banco de México, las dependencias, entidades y ayuntamientos procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que expida el Banco de México;
+II. Los incrementos o decrementos de los costos de los insumos, serán calculados con base en los índices nacionales de precios (sic) productor con servicios que determine el Banco de México. Cuando los índices que requiera el contratista y la dependencia, entidad o ayuntamiento no se encuentren dentro de los publicados por el Banco de México, las dependencias, entidades y ayuntamientos procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que expida el Banco de México;
 
 III. Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato, el costo por financiamiento estará sujeto a las variaciones de la tasa de interés que el contratista haya considerado en su propuesta; y
 
@@ -1228,3 +1250,17 @@ El Secretario de Desarrollo Urbano y de Obras Públicas.
 C. ARQ. JUAN FARILL HERRERA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SUS SERVICIOS DEL ESTADO DE GUERRERO NÚMERO 266”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al titular del Poder Ejecutivo para los efectos constitucionales procedentes.
