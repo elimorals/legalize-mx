@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2016-02-03"
+last_updated: "2016-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1619,17 +1617,17 @@ Las faltas temporales de los magistrados de la Sala Superior serán cubiertas po
 
 Las licencias a los magistrados serán concedidas por la Sala Superior hasta por 15 días. Las que excedan del plazo anterior, pero no de 60 días, sólo podrá concederlas el Gobernador del Estado, con la aprobación de la Legislatura o la Diputación Permanente, en los términos previstos por la Constitución Política del Estado Libre y Soberano de México.
 
-> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 210.
 
-El Tribunal tendrá un Presidente, quien durará en su encargo tres años, pudiendo ser reelecto por otro período igual.
+El Tribunal tendrá un Presidente y un Vicepresidente, quienes durarán en su encargo tres años, pudiendo ser reelectos por otro período igual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 211.
 
-El Tribunal contará con un secretario general del pleno, secretarios generales de acuerdos, secretario particular de la presidencia, directores, jefes de unidad, jefes de departamento, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, mediador conciliador, actuarios y demás servidores públicos necesarios para su funcionamiento.
+El Tribunal contará con un Vicepresidente, secretario general del pleno, secretarios generales de acuerdos, secretario particular de la presidencia, directores, jefes de unidad, jefes de departamentos, secretarios de acuerdos, secretarios proyectistas, asesores comisionados, mediador conciliador, actuarios y demás servidores públicos necesarios para su funcionamiento.
 
 El ingreso y promoción de estos servidores públicos, se realizará mediante el sistema de carrera jurisdiccional, en la que se considerarán los factores de honestidad, preparación, eficiencia y antigüedad.
 
@@ -1661,15 +1659,19 @@ Los servidores públicos del Tribunal tendrán cada año dos períodos vacaciona
 
 #### SECCION SEGUNDA. De la Sala Superior
 
-> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 216.
 
-La Sala Superior se integrará con los magistrados nombrados para conformarla, de entre los cuales será electo el presidente del Tribunal.
+La Sala Superior se integrará con los magistrados nombrados para conformarla, de entre los cuales será electo el Presidente y el Vicepresidente del Tribunal.
+
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 La Sala Superior actuará en pleno y en tres secciones, que tendrán su sede, en los municipios de Toluca, Tlalnepantla y Ecatepec, cuya jurisdicción será establecida en el Reglamento Interior del Tribunal.
 
-El pleno estará integrado por los magistrados de las secciones de Sala Superior y el Presidente del Tribunal; para sesionar será necesaria la presencia del Presidente del Tribunal y cuando menos seis Magistrados.
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+
+El pleno estará integrado por los magistrados de las secciones de Sala Superior, por el Presidente y el Vicepresidente del Tribunal; para sesionar será necesaria la presencia del Presidente y del Vicepresidente del Tribunal y cuando menos seis Magistrados.
 
 > <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
@@ -1683,7 +1685,9 @@ Las resoluciones del pleno se tomarán por unanimidad o por mayoría de votos de
 
 Son atribuciones del pleno de la Sala Superior:
 
-I. Designar al presidente del Tribunal;
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+
+I. Designar al Presidente y al Vicepresidente del Tribunal.
 
 II. Aprobar la integración de la jurisprudencia del Tribunal;
 
@@ -1721,9 +1725,11 @@ XIII. Conocer y resolver los recursos de inconformidad en contra de las resoluci
 
 XIV. Las demás que se señalen en este Código.
 
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 219.
 
-Las secciones de la sala superior se integrarán con tres magistrados cada una, de entre los cuales se elegirán a sus presidentes. Para que puedan sesionar será indispensable la presencia de sus tres integrantes. El presidente del Tribunal no integrará sección.
+Las secciones de la sala superior se integrarán con tres magistrados cada una, de entre los cuales se elegirán a sus presidentes. Para que puedan sesionar será indispensable la presencia de sus tres integrantes. El presidente del Tribunal no integrará sección. El Vicepresidente se excluye de la rotación de la presidencia de la sección que corresponda.
 
 ###### Artículo 220.
 
@@ -1785,9 +1791,17 @@ XI. Las demás que se señalen en este Código.
 
 El presidente del Tribunal será designado en la primera sesión de la sala superior que se celebre durante el mes de enero del año que corresponda, a la que se convocará a los magistrados que la integren.
 
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 224.
 
-El presidente del Tribunal será suplido en sus faltas temporales por el magistrado de la sala superior que designe el pleno. Si la falta es definitiva se designará nuevo presidente para concluir el período.
+Las faltas temporales del Presidente que no excedan de treinta días naturales, las cubrirá el Vicepresidente como encargado del despacho. Cuando las faltas excedan de este plazo, el Vicepresidente quedará como Presidente para concluir el período respectivo.
+
+El Vicepresidente tendrá las mismas atribuciones del Presidente al ejercer este cargo por ausencia temporal.
+
+El Vicepresidente que concluya como Presidente podrá ser elegido como Presidente del Tribunal por un nuevo período completo.
+
+El Vicepresidente del Tribunal será suplido en sus faltas temporales por el magistrado de la sala superior que designe el pleno. Si la falta es definitiva se designará nuevo Vicepresidente para concluir el período.
 
 ###### Artículo 225.
 
@@ -1801,7 +1815,9 @@ III. Convocar a sesiones del pleno de la sala superior, dirigir los debates y co
 
 IV. Formular los proyectos de resolución de las contradicciones entre sentencias dictadas por las secciones de la sala superior y las salas regionales;
 
-V. Designar o remover al personal jurídico y administrativo del Tribunal, a propuesta de la sección, sala regional o dependencia de su adscripción;
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+
+V. Designar o remover previo acuerdo con el Vicepresidente del Tribunal, al personal jurídico y administrativo, a propuesta de la sección, sala regional o dependencia de su adscripción.
 
 VI. Conceder o negar licencias al personal jurídico y administrativo del Tribunal;
 
@@ -1829,9 +1845,35 @@ XIV. Admitir cuando proceda los recursos de inconformidad que se interpongan en 
 
 XV. Las demás que establezca este Código.
 
-#### SECCION CUARTA. De las Salas Regionales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 4 DE NOVIEMBRE DE 2016)</small>
 
-#### SECCION PRIMERA. De las Disposiciones Generales
+#### SECCION TERCERA BIS. Del Vicepresidente del Tribunal
+
+> <small>(ADICIONADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 225 Bis.
+
+El Vicepresidente del Tribunal será designado en la primera sesión de la Sala Superior que se celebre durante el mes de enero del año que corresponda, a la que se convocará a los magistrados que la integren.
+
+> <small>(ADICIONADO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 225 Ter.
+
+El Vicepresidente auxiliará en sus funciones al Presidente y tiene como atribuciones:
+
+I. Coordinar y supervisar las acciones en materia de capacitación y profesionalización que se realizan en el Tribunal, debiendo acordar con el Director General del Instituto de Formación Profesional las gestiones y labores indispensables para la preparación y desarrollo del personal jurídico y administrativo.
+
+II. Realizar visitas a las secciones de la Sala Superior y Salas Regionales e informar al Presidente del Tribunal.
+
+III. Analizar y formular proyectos de resolución que por la relevancia o trascendencia de criterio le sean encomendados por el Presidente.
+
+IV. Presidir el Comité de Transparencia del Tribunal y desempeñar las funciones en materia de derecho de acceso a la información.
+
+V. Rendir al Presidente en el mes de noviembre de cada año, un informe de las actividades realizadas en el Tribunal.
+
+VI. Las demás que establezca el presente Código, otros ordenamientos jurídicos aplicables y las que le encomiende el Presidente.
+
+#### SECCION CUARTA. De las Salas Regionales
 
 ###### Artículo 226.
 
@@ -1873,9 +1915,7 @@ La competencia de las salas regionales por razón de territorio se determina por
 
 ### CAPITULO TERCERO. Del Juicio Contencioso Administrativo
 
-#### SECCION SEGUNDA. De la Demanda
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+#### SECCION PRIMERA. De las Disposiciones Generales
 
 ###### Artículo 229.
 
@@ -1977,7 +2017,9 @@ Los secretarios de acuerdos autorizarán las actuaciones jurisdiccionales. Tambi
 
 Las resoluciones del Tribunal tendrán el carácter de acuerdos, sentencias interlocutorias y sentencias definitivas. Los acuerdos son las determinaciones de trámite. Son sentencias interlocutorias las que ponen fin al juicio o recurso, sin decidir la cuestión principal. Las sentencias definitivas son las que resuelven el juicio o recurso en lo principal.
 
-#### SECCION TERCERA. De la Contestación de Demanda
+#### SECCION SEGUNDA. De la Demanda
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 238.
 
@@ -2079,7 +2121,7 @@ II. Encontrare motivo manifiesto e indudable de improcedencia; y
 
 III. Prevenido el actor para que aclare, corrija o complete la demanda, no lo hiciere.
 
-#### SECCION CUARTA. De la Suspensión del Acto Impugnado
+#### SECCION TERCERA. De la Contestación de Demanda
 
 ###### Artículo 247.
 
@@ -2135,9 +2177,7 @@ Si la parte demandada no contesta dentro del término legal respectivo, el Tribu
 
 En los juicios en que no exista tercero interesado, las autoridades u organismos demandados podrán allanarse a la demanda, en cuyo caso se dictará de inmediato la resolución favorable a la parte actora.
 
-#### SECCION QUINTA. De las Cuestiones Previas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+#### SECCION CUARTA. De la Suspensión del Acto Impugnado
 
 ###### Artículo 254.
 
@@ -2191,7 +2231,9 @@ El acuerdo en que se niegue la suspensión deja expedita la facultad de la autor
 
 Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los 15 días siguientes a la notificación del auto que declare ejecutoriada la sentencia o la ejecutoria respectiva. La sala dará vista a las demás partes por un término de tres días y citará a una audiencia de pruebas y alegatos dentro de los tres días siguientes, en la que dictará la resolución que corresponda.
 
-#### SECCION SEXTA. De la Improcedencia y Sobreseimiento
+#### SECCION QUINTA. De las Cuestiones Previas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 261.
 
@@ -2233,7 +2275,7 @@ En cualquier momento de la tramitación del proceso administrativo, o en la etap
 
 (DEROGADO, G.G. 21 DE DICIEMBRE DE 2001)
 
-#### SECCION SEPTIMA. De la Audiencia
+#### SECCION SEXTA. De la Improcedencia y Sobreseimiento
 
 ###### Artículo 267.
 
@@ -2283,6 +2325,40 @@ IV. Cuando la autoridad demandada haya satisfecho claramente las pretensiones de
 
 V. En los demás casos en que por disposición constitucional o legal haya impedimento para emitir resolución definitiva.
 
+#### SECCION SEPTIMA. De la Audiencia
+
+###### Artículo 269.
+
+La audiencia del juicio tendrá por objeto:
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+I. Desahogar las pruebas debidamente ofrecidas y admitidas;
+
+II. Oír los alegatos; y
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+III. Dictar la sentencia o cuando la naturaleza del asunto lo amerite en un plazo no mayor de quince días.
+
+###### Artículo 270.
+
+Abierta la audiencia el día y hora señalados, el secretario de acuerdos llamará a las partes, peritos, testigos y demás personas que por disposición de la ley deban de intervenir en el juicio y se determinará quienes deban permanecer en el salón y quienes en lugar separado para ser introducidos en su oportunidad. La falta de asistencia de las partes no impedirá la celebración de la audiencia.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
+
+Si el tercero interesado se apersona en la audiencia, ésta podrá suspenderse, exclusivamente para el desahogo de las pruebas que le sean admitidas y cuya naturaleza lo exija.
+
+###### Artículo 271.
+
+Concluido el desahogo de las pruebas, las partes podrán alegar en forma escrita o verbal por sí o por medio de sus representantes. Los alegatos verbales no podrán exceder de 10 minutos por cada una de las partes.
+
+###### Artículo 272.
+
+Una vez oídos los alegatos de las partes, la sala resolverá el juicio en la misma audiencia. Sólo cuando por el número de constancias que deban tomarse en cuenta podrá reservarse el dictado de la sentencia dentro de un término no mayor de cinco días.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 22 DE ENERO DE 2014)</small>
+
 #### SECCIÓN SÉPTIMA BIS. Del Juicio Sumario
 
 > <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
@@ -2327,41 +2403,7 @@ Artículo 272 F.- Cuando los particulares impugnen la omisión de dar respuesta 
 
 Artículo 272 G.- Los particulares podrán hasta antes del día de la audiencia del juicio sumario expresar su voluntad de formular una ampliación de demanda en los términos del presente Código. De ser procedente, el Magistrado dictará acuerdo en el que se pronuncie sobre la procedencia de la ampliación de demanda, abriendo el plazo para su formulación y ordenando la continuación del proceso en la vía ordinaria.
 
-###### Artículo 269.
-
-La audiencia del juicio tendrá por objeto:
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-I. Desahogar las pruebas debidamente ofrecidas y admitidas;
-
-II. Oír los alegatos; y
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-III. Dictar la sentencia o cuando la naturaleza del asunto lo amerite en un plazo no mayor de quince días.
-
-###### Artículo 270.
-
-Abierta la audiencia el día y hora señalados, el secretario de acuerdos llamará a las partes, peritos, testigos y demás personas que por disposición de la ley deban de intervenir en el juicio y se determinará quienes deban permanecer en el salón y quienes en lugar separado para ser introducidos en su oportunidad. La falta de asistencia de las partes no impedirá la celebración de la audiencia.
-
-> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
-
-Si el tercero interesado se apersona en la audiencia, ésta podrá suspenderse, exclusivamente para el desahogo de las pruebas que le sean admitidas y cuya naturaleza lo exija.
-
-###### Artículo 271.
-
-Concluido el desahogo de las pruebas, las partes podrán alegar en forma escrita o verbal por sí o por medio de sus representantes. Los alegatos verbales no podrán exceder de 10 minutos por cada una de las partes.
-
-###### Artículo 272.
-
-Una vez oídos los alegatos de las partes, la sala resolverá el juicio en la misma audiencia. Sólo cuando por el número de constancias que deban tomarse en cuenta podrá reservarse el dictado de la sentencia dentro de un término no mayor de cinco días.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 22 DE ENERO DE 2014)</small>
-
 #### SECCION OCTAVA. De la Sentencia
-
-#### SECCION NOVENA. Del Cumplimiento de la Sentencia
 
 ###### Artículo 273.
 
@@ -2444,6 +2486,8 @@ I. Las que no admitan ningún recurso;
 II. Las que, admitiendo algún recurso, no fueren recurridas, o habiéndolas sido se haya desechado o sobreseido o hubiese resultado infundado; y
 
 III. Las consentidas expresamente por las partes o sus representantes legítimos.
+
+#### SECCION NOVENA. Del Cumplimiento de la Sentencia
 
 ###### Artículo 279.
 
@@ -2645,13 +2689,17 @@ Cuando las partes invoquen la jurisprudencia del Tribunal, lo harán por escrito
 
 El Consejo de la Justicia Administrativa del Tribunal, es un órgano que tiene por objeto la administración de su patrimonio, así como la vigilancia, supervisión y control disciplinario del personal jurídico y administrativo.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 295.
 
-Para el cumplimiento de su objeto, el Consejo de la Justicia Administrativa se integrará por el presidente del Tribunal, un Magistrado de Sala Superior y un Magistrado de Sala Regional, los magistrados serán designados por el pleno de la Sala Superior.
+Para el cumplimiento de su objeto, el Consejo de la Justicia Administrativa se integrará por el Vicepresidente del Tribunal, un Magistrado de Sala Superior y un Magistrado de Sala Regional, los magistrados serán designados por el pleno de la Sala Superior.
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 Los magistrados de la Sala Superior y Regional que lo integren, deben tener una antigüedad de tres años como mínimo y serán designados por el Pleno de la Sala Superior, durando en este encargo tres años, al término del cual serán sustituidos de manera escalonada.
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
 El Secretario General del Pleno lo será también del Consejo.
 
@@ -3086,3 +3134,15 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 144.- POR EL QUE SE REFORMAN EL ARTÍCULO 210, EL PRIMER PÁRRAFO DEL ARTÍCULO 211, EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 216, LA FRACCIÓN I DEL ARTÍCULO 218, EL ARTÍCULO 219, EL ARTÍCULO 224, LA FRACCIÓN V DEL ARTÍCULO 225, EL PRIMER PÁRRAFO DEL ARTÍCULO 295 Y SE ADICIONA LA SECCIÓN TERCERA BIS "DEL VICEPRESIDENTE DEL TRIBUNAL" AL CAPÍTULO SEGUNDO "DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO" AL TÍTULO TERCERO "DEL PROCESO ADMINISTRATIVO" Y SUS ARTÍCULOS 225 BIS Y 225 TER, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Tribunal de lo Contencioso Administrativo del Estado de México tendrá un plazo no mayor de noventa días hábiles a partir de la entrada en vigor del presente Decreto para adecuar su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
