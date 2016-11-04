@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2016-09-15"
+last_updated: "2016-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -1364,7 +1364,7 @@ I. Nombre, denominación o razón social, nacionalidad, domicilio para oír y re
 
 > <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra o el desarrollo de la actividad, la superficie de terreno requerido, incluyendo la manifestación de las actividades previas realizadas en el predio,; (sic) el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias para la ejecución del proyecto y monto destinado a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad, el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y, en su caso el programa para el abandono de las obras o el cese de las actividades;
+II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra o el desarrollo de la actividad, la superficie de terreno requerido, incluyendo la manifestación de las actividades previas realizadas en el predio,; el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias para la ejecución del proyecto y monto destinado a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad, el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y, en su caso el programa para el abandono de las obras o el cese de las actividades;
 
 III. Aspectos generales del medio natural y socioeconómico del área donde pretenda desarrollarse la obra o actividad;
 
@@ -3162,7 +3162,9 @@ Las disposiciones del presente capítulo son aplicables a las fuentes fijas y m�
 
 Para la protección a la atmósfera se considerarán los siguientes criterios:
 
-I. Las políticas y programas de las autoridades ambientales deberán estar dirigidas a garantizar que la calidad del aire sea satisfactoria en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+I. Las políticas y programas de las autoridades ambientales deberán estar dirigidas a garantizar que la calidad del aire sea satisfactoria en el Distrito Federal con base en los niveles máximos permisibles de emisión de contaminantes a la atmósfera, establecidos en las normas oficiales mexicanas y demás normativa aplicable; y
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3186,7 +3188,9 @@ Para regular, prevenir, controlar, reducir o evitar la contaminación de la atm�
 
 I. Coordinarse con la Federación, entidades federativas y municipios de la zona conurbada para la planeación y ejecución de acciones coordinadas en materia de gestión de la calidad del aire;
 
-II. Elaborar un programa local de gestión de calidad del aire, sujeto a revisión y ajuste periódico;
+> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
+II. Elaborar un programa local de gestión de calidad del aire, sujeto a revisión y ajuste periódico, con base en los niveles máximos permisibles de emisión de contaminantes a la atmósfera, establecidos en las normas oficiales mexicanas y demás normativa aplicable;
 
 III. Requerir a los responsables de fuentes emisoras de su competencia, el cumplimiento de los limites máximos permisibles de emisión de contaminantes, las normas oficiales mexicanas y las normas ambientales para el Distrito Federal, de conformidad con esta Ley, la Ley General, en materias de competencia local, y sus reglamentos;
 
@@ -3298,9 +3302,11 @@ Los responsables de las fuentes fijas podrán solicitar su exención al Programa
 
 #### SECCIÓN III. CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
 
+> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 139.
 
-La Secretaría podrá limitar la circulación de vehículos automotores en el Distrito Federal, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
+La Secretaría podrá limitar la circulación de vehículos automotores en el Distrito Federal, con base a los niveles máximos permisibles de emisión de contaminantes a la atmósfera, establecidos en las normas oficiales mexicanas y demás normativa aplicable, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -4638,29 +4644,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+G.O. 4 DE NOVIEMBRE DE 2016.
 
-PRIMERO. La presente Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL”.]
 
-SEGUNDO. Lo dispuesto en los artículos 1, fracción II, 8, fracción IV, 17, fracción XXIV, el artículo 30, fracción VIII, de la presente Ley, no entrarán en vigor hasta que concluya la consulta mandatada por la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 81/2018, y en su caso el Congreso deberá realizar las reformas o adiciones necesarias a estos artículos a partir de lo establecido por los pueblos y comunidades indígenas y afromexicanas en dicho proceso de consulta.
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
-TERCERO. Se abroga la Ley Número 777 del Sistema de Seguridad Pública del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 68 alcance I, de fecha 24 de agosto de 2018.
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial para el Distrito Federal.
 
-CUARTO. Los ayuntamientos municipales deberán hacer las previsiones presupuestales necesarias para el cumplimiento de la presente Ley, y en un plazo que no exceda de ciento ochenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la Ley, sin perjuicio de sus facultades constitucionales.
-
-QUINTO. Se derogan todas las disposiciones legales que contravengan esta Ley; en materia de seguridad privada hasta en tanto no se expida la normatividad específica continuará su vigencia.
-
-SEXTO. Los procedimientos iniciados antes de la entrada en vigor de la presente Ley se seguirán tramitando hasta su conclusión conforme a las disposiciones de la Ley que se abroga.
-
-SÉPTIMO. El Congreso del Estado deberá aprobar a más tardar en la segunda quincena del mes de mayo del año 2022, las reformas al Artículo 14 de la Constitución Política del Estado Libre y Soberano de Guerrero, y a la Ley número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, ambas en materia de Seguridad Comunitaria.
-
-OCTAVO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
-
-NOVENO. En vías de cumplimiento a la Resolución recaída a la Acción de Inconstitucionalidad 81/2018, remítase a la Suprema Corte de Justicia de la Nación para su conocimiento y efectos legales conducentes.
-
-DÉCIMO. Remítase al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su observancia y conocimiento general.
-
-P.O. 3 DE MAYO DE 2022.
+TERCERO.- El Jefe de Gobierno del Distrito Federal realizará dentro de los 180 días posteriores a la publicación de este decreto, las modificaciones en la reglamentación correspondiente.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
 
