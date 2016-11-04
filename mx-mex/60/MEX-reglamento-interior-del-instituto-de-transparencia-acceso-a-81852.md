@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-transparencia-acceso-a-818
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-20"
-last_updated: "2015-03-25"
+last_updated: "2016-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MEXICO Y MUNICIPIOS -ANTES REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN EL G.G. DE 4 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MÉXICO Y MUNICIPIOS.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 20 de junio de 2011.
 
@@ -1484,3 +1486,19 @@ Quinto.- Se ordena a la Dirección de Administración y Finanzas realice las ade
 Sexto.- Se ordena a la Dirección de Administración y Finanzas la emisión de sellos oficiales y demás adecuaciones conducentes para que la Dirección de Protección de Datos Personales se encuentre en aptitud de ejercer sus atribuciones; lo anterior, dentro de los quince días hábiles siguientes a la entrada en vigor del presente acuerdo.
 
 Séptimo.- Se instruye a las Direcciones de Informática y Jurídica y de Verificación, para que en un plazo de quince días hábiles siguientes a la entrada en vigor del presente acuerdo, lleven a cabo la entrega formal de los asuntos y archivos que se encuentran bajo su resguardo, que en términos del presente acuerdo, forman parte de las atribuciones de la Dirección de Protección de Datos Personales.
+
+G.G. DE 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+TERCERO. Se abroga el Reglamento Interior de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, publicado en el Periódico Oficial “Gaceta del Gobierno” del Estado de México el 20 de junio de 2011.
+
+CUARTO. El Instituto emitirá los lineamientos para el funcionamiento del Pleno y las comisiones, en tanto éstos se emitan, su operación continuará en términos del reglamento y los lineamientos que hasta la fecha los regulan.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+SEXTO. Todos los asuntos que se encuentren en trámite a la entrada del presente Reglamento se concluirán conforme a la normativa vigente a su inicio.
