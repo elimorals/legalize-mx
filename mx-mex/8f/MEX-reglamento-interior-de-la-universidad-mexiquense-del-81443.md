@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-mexiquense-del-81443"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-16"
-last_updated: "2011-05-16"
+last_updated: "2016-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO, DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO, PUBLICADO EN LA G.G. DE 4 DE NOVIEMBRE DE 2016 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 16 de mayo de 2011.
 
@@ -416,3 +418,17 @@ ING. GILBERTO CORTÉS BASTIDA
 RECTOR DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 4 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIVERSIDAD MEXIQUENSE DEL BICENTENARIO”.]
+
+PRIMERO.- Las autoridades administrativas procederán a hacer explícita la igualdad de género cuando se refiere a personas y a órganos de la institución.
+
+SEGUNDO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+CUARTO.- Se abroga el Reglamento Interior de la Universidad Mexiquense del Bicentenario publicado en el Periódico Oficial "Gaceta del Gobierno" en fecha 16 de mayo de 2011.
