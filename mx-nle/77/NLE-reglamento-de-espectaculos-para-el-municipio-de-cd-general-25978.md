@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-cd-general-2597
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-02-23"
-last_updated: "2016-04-04"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE CD. GENERAL M. ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de febrero de 1996.
 
@@ -79,7 +79,7 @@ De las Sanciones y Recursos 26
 
 TRANSITORIOS 31
 
-El C. JESUS MANUEL MARTINEZ MARTlNEZ, Presidente Municipal de Ciudad General M. Escobedo, Nuevo León, a los habitantes de éste Municipio, hacer saber:
+El C. JESUS MANUEL MARTINEZ MARTINEZ, Presidente Municipal de Ciudad General M. Escobedo, Nuevo León, a los habitantes de éste Municipio, hacer saber:
 
 Que el R. Ayuntamiento de Ciudad General M. Escobedo, Nuevo León, en SESION ORDINARIA DE CABILDO celebrada el día 05 (cinco) de Octubre de 1995 (mil novecientos noventa y cinco), aprobó el REGLAMENTO DE ESPECTACULOS para Ciudad General M. Escobedo, Nuevo León: con fundamento en lo dispuesto por los Artículos 63 Fracción V y 131 primer párrafo de la Constitución Política del Estado de Nuevo León, en concordancia con lo previsto por los Artículos 10, 14, 26 inciso a). Fracción VII, Inciso b). Fracción IV; 30 Fracción VI; 32, 160, 161, 162, 163, 164, 165, 166, 167 y 168 de la Ley Orgánica de la Adminisnistración (sic) Pública Municipal del Estado de Nuevo León, en los siguientes términos.
 
@@ -685,7 +685,7 @@ Para que la Autoridad Municipal proceda a expedir Permiso que autorice la presen
 
 3.- Allegar acta constitutiva de la sociedad.
 
-4.- Señalar la clase de espectáculos (sic) que se pretenda presentar.
+4.- Señalar la clase de espectáculos que se pretenda presentar.
 
 5.- La ubicación del lugar donde se pretenda llevar a efecto el espectáculo.
 
@@ -827,9 +827,9 @@ La determinación de las faltas y la imposición de las sanciones por cualquiera
 
 La Autoridad Municipal en los términos del presente capítulo aplicará las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-I.- Multa desde 5 a 1,500 veces el salario mínimo general diario, vigente en Escobedo, N.L.
+I.- Multa desde 5 a 1,500 cuotas, en el entendido de que cuota es el monto equivalente al valor diario en pesos de la Unidad de Medida y Actualización.
 
 II.- Clausura temporal de hasta 30 días o definitiva del establecimiento.
 
@@ -1051,7 +1051,7 @@ BLANCA NORA TORRES PEQUEÑO
 
 3er.- Regidor
 
-MELITON VAZQUEZ MARTlNEZ
+MELITON VAZQUEZ MARTINEZ
 
 4o.- Regidor
 
@@ -1087,7 +1087,7 @@ LIC. JOSE GUADALUPE CHAVEZ GARZA
 
 SINDICO SEGUNDO
 
-JUAN ELlAS VILLARREAL RIVERA
+JUAN ELIAS VILLARREAL RIVERA
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -1100,6 +1100,14 @@ SEGUNDO: Envíese al Periódico Oficial del Estado por conducto de la Secretarí
 P.O. 4 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APROBÓ POR UNANIMIDAD LA REFORMA POR MODIFICACIÓN DE LA FRACCIÓN A), DEL ARTICULO 3; DEL PRIMER PÁRRAFO, DEL ARTICULO 4; DEL ARTICULO 6; DEL ARTICULO 7; DEL ARTICULO 47; DEL ARTICULO 95; DEL ARTICULO 96; DEL ARTICULO 97; DE LA FRACCIÓN I., DEL ARTICULO 105; Y DEL PUNTO 4., DEL ARTICULO 114; TODOS DEL REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEÓN".]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA POR MODIFICACIÓN DE LA FRACCIÓN I. DEL ARTÍCULO 105 DEL REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE GENERAL ESCOBEDO, N.L.”.]
 
 Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
 
