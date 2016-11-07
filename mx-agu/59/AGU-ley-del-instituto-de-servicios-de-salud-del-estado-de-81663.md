@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-servicios-de-salud-del-estado-de-81663"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-13"
-last_updated: "2016-07-18"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALlENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de junio de 2011.
 
@@ -267,9 +267,11 @@ La Junta de Gobierno funcionará en los términos que disponga la Ley para el Co
 
 ### CAPÍTULO III. De la Dirección General
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-Para garantizar la aplicación de las políticas del Gobierno del Estado en materia de Salud, el cargo de Director General lo podrá ocupar el Secretario de Salud del Estado, en cuyo caso, el primero de estos cargos será honorífico.
+Para garantizar la aplicación de las políticas del Gobierno del Estado en materia de Salud, el cargo de Director General lo podrá ocupar el Secretario de Salud del Estado, en cuyo caso, el segundo de estos cargos será honorífico.
 
 ###### ARTÍCULO 20.
 
@@ -494,3 +496,11 @@ Para el período de transición del Hospital, este último, el ISSEA y en su cas
 ###### ARTÍCULO OCTAVO.
 
 Se autoriza el ejercicio del gasto del Hospital durante el ejercicio fiscal del año 2016, debiendo observar todas las disposiciones aplicables del Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2016, Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaría del Estado de Aguascalientes y sus Municipios y demás normas relativas y aplicables al gasto público.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 426.- SE REFORMA EL ARTÍCULO 19 DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
