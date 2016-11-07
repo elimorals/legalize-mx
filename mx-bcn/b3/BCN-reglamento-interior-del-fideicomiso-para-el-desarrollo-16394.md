@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-fideicomiso-para-el-desarrollo-16394"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-11"
-last_updated: "2000-02-11"
+last_updated: "2016-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO PARA EL DESARROLLO URBANO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de febrero de 2000.
 
@@ -31,55 +31,77 @@ EL COMITE TECNICO DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA MUN
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO PARA EL DESARROLLO URBANO DE MEXICALI, BAJA CALIFORNIA
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-El presente ordenamiento tiene como objeto definir y regular la estructura orgánica y funcional de la entidad paramunicipal de la Administración Pública Municipal de Mexicali, denominado Fideicomiso para el Desarrollo Urbano de Mexicali, Baja California; de conformidad a lo establecido en el Contrato de Fideicomiso, siendo de observancia obligatoria para el personal que lo integra.
+###### ARTÍCULO 1.
 
-###### ARTICULO 2.
+El presente ordenamiento tiene como objeto definir y regular la estructura orgánica y funcional de la entidad paramunicipal de la Administración Pública Municipal de Mexicali, denominado Fideicomiso para el Desarrollo Urbano de Mexicali, Baja California, de conformidad a lo establecido en el Contrato de Fideicomiso, siendo de observancia obligatoria para el personal que lo integra.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 2.
 
 Para los efectos de este reglamento se entenderá por:
 
-I.- FIDUM.- La entidad paramunicipal denominada Fideicomiso para el Desarrollo Urbano de Mexicali, Baja California.
+I.- FIDUM.- Fideicomiso para el Desarrollo Urbano de Mexicali, Baja California.
 
-II.- COMITE TECNICO.- Organo colegiado cuyo objeto consiste en administrar la entidad; y
+II.- COMITÉ TECNICO.- Órgano colegiado cuyo objeto consiste en administrar el FIDUM, y
 
 III.- MUNICIPIO.- El Municipio de Mexicali, Baja California.
 
-###### ARTICULO 3.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-El FIDUM es una entidad auxiliar de la Administración Pública Municipal, creado mediante Acuerdo de Cabildo del H. XV Ayuntamiento de Mexicali, publicado el día 03 de Febrero de 1998, en el Periódico Oficial del Estado de Baja California.
+###### ARTÍCULO 3.
 
-###### ARTICULO 4.
+El FIDUM tiene por objeto administrar en su parte aprovechable, los bienes inmuebles fideicomitidos, como reserva territorial para continuar con su desarrollo y aprovechamiento, así como para su enajenación a los diversos promotores públicos y privados para la vivienda y desarrollo urbano.
 
-El FIDUM tiene por objeto el administrar en su parte aprovechable, los bienes inmuebles fideicomitidos, como reserva territorial para continuar con su desarrollo y aprovechamiento, así como para su enajenación a los diversos promotores públicos y privados para la vivienda y desarrollo urbano.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-### CAPITULO II. DE SU ESTRUCTURA ORGANICA
-
-###### ARTICULO 5.
+###### ARTÍCULO 4.
 
 Para el cumplimiento de su objeto y atribuciones, el Fideicomiso para el Desarrollo Urbano de Mexicali, tendrá su domicilio legal en la ciudad de Mexicali, Baja California.
 
-### CAPITULO III. DE LAS FUNCIONES DE LA DIRECCIÓN
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTICULO 6.
+### CAPITULO II. DE SU ESTRUCTURA ORGANICA
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 5.
 
 Para el mejor estudio, planeación y desempeño de las atribuciones de su competencia, el FIDUM contará con la siguiente estructura orgánica:
 
 I.- Dirección;
 
-II.- Departamento de Administración y Finanzas;
+II.- Subdirección;
 
-III.- Departamento Técnico; y
+III.- Departamento Técnico;
 
-IV.- Departamento de Comercialización.
+IV.- Coordinación de Administración y Finanzas;
 
-### CAPITULO IV. DE LAS FACULTADES DE LOS DEPARTAMENTOS
+V.- Coordinación de Comercialización;
 
-###### ARTICULO 7.
+VI.- Coordinación de Informática;
 
-La Dirección para el cumplimiento de sus atribuciones en la organización y administración del FIDUM previstas en el Contrato de Fideicomiso, tendrá las siguientes funciones:
+VII.- Coordinación Jurídica.
+
+La Subdirección, el Departamento y las Coordinaciones a que se refiere este artículo, servirán de apoyo a la Dirección para el ejercicio de sus derechos y cumplimiento de sus obligaciones.
+
+Para los efectos de este Reglamento, el Departamento y las Coordinaciones serán denominadas Unidades Administrativas.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO III. DE LAS FUNCIONES DE LA DIRECCION
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 6.
+
+La Direcciónpara (sic) el cumplimiento de sus atribuciones en la organización y administración del FIDUM previstas en el Contrato de Fideicomiso, tendrá las siguientes funciones:
 
 I.- Administrar el FIDUM de conformidad con las resoluciones que emita el Comité Técnico y las disposiciones legales aplicables;
 
@@ -89,57 +111,67 @@ III.- Proyectar, promover, coordinar, contratar y ejecutar los programas y accio
 
 IV.- Representar y proteger los intereses del FIDUM ante particulares, así como ante autoridades y dependencias administrativas de los distintos órdenes de gobierno;
 
-V.- Dar seguimiento e informar al Comité Técnico sobre los avances relacionados con los acuerdos tomados por éste;
+V.- Dar seguimiento e informar al Comité Técnico sobre los avances relacionados con los acuerdos tomados por este;
 
-VI.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas al organismo y sus departamentos;
+VI.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas al organismo y sus Unidades Administrativas;
 
 VII.- Asegurar el buen uso y aplicación de los recursos financieros, materiales y humanos, así como tomar las medidas necesarias para un mejor y mayor control y rendimiento de los mismos;
 
 VIII.- Ejercer el presupuesto asignado y supervisar el ejercicio físico-financiero de los programas a través de los flujos y análisis comparativos;
 
-IX.- Aprobar y supervisar el cumplimiento de los programas que se formulen por los departamentos del FIDUM;
+IX.- Aprobar y supervisar el cumplimiento de los programas que se formulen por la Sub Dirección del FIDUM;
 
 X.- Formular y presentar para su aprobación al Comité Técnico, los proyectos de presupuestos de ingresos y egresos del FIDUM;
 
-XI.- Presentar para conocimiento y aprobación del Comité Técnico, los informes semestrales de avances financieros y programático, así como un informe anual del estado que guarde la administración y patrimonio del FIDUM;
+XI.- Presentar para su conocimiento y aprobación del Comité Técnico los informes semestrales de avances financieros y programáticos así como un informe anual del estado que guarde la administración y patrimonio del FIDUM;
 
 XII.- Promover programas de crédito e inversión para desarrollar los terrenos que integran el patrimonio fideicomitido susceptible de enajenarse;
 
-XIII.- Solicitar informes periódicos de los trabajos a los titulares de los departamentos del FIDUM;
+XIII.- Solicitar informes periódicos de los trabajos a la Sub Dirección del FIDUM;
 
-XIV.- Designar y contratar al personal laboral que integrará la estructura administrativa del FIDUM;
+XIV.- Designar y contratar al personal laboral que integra la estructura administrativa del FIDUM, así como la contratación de personal eventual para el área técnica en períodos de ejecución de obra a realizar en los terrenos que forman parte del patrimonio del FIDUM;
 
 XV.- Celebrar los actos jurídicos necesarios e indispensables para el cumplimiento de los fines del FIDUM;
 
-XVI.- Ser el principal responsable de la contabilidad y de la formulación de la cuenta pública del FIDUM; y
+XVI.- Ser el principal responsable de la contabilidad y de la formulación de la cuenta pública del FIDUM, y
 
-XVII.- Las demás que le sean otorgadas por el Comité Técnico, y las que se deriven de las disposiciones legales administrativas aplicables.
+XVII.- Las demás que le sean otorgadas por el Comité Técnico, y las que se deriven de las disposiciones legales y administrativas aplicables.
 
-###### ARTICULO 8.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-Corresponde a los jefes de Departamento del FIDUM, el ejercicio de las siguientes facultades comunes:
+### CAPITULO IV. DE LAS FACULTADES DE LA SUBDIRECCION Y DEL DEPARTAMENTO
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 7.
+
+Corresponde al Sub Directorasí (sic) como al Jefe de Departamento del FIDUM, el ejercicio de las siguientes facultades comunes:
 
 I.- Acordar con el Director, la resolución de asuntos relevantes que se atiendan en el área de su responsabilidad;
 
-II.- Establecer las normas, criterios, sistemas y procedimientos de carácter técnico, que deban regir al Departamento;
+II.- Establecer las normas, criterios, sistemas y procedimientos de carácter técnico, que deban regir su área.
 
-III.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del Departamento a su cargo;
+III.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del área a su cargo;
 
 IV.- Formular el proyecto de presupuesto de egresos por programa relativo a su área, conforme a las normas establecidas;
 
-V.- Formular conforme a los lineamientos establecidos, lo relativo al manual de organización y procedimientos correspondiente a su área;
+V.- Formular conforme a los lineamientos establecidos, lo relativo al manual de organización y procedimientos correspondientes a su área;
 
 VI.- Desempeñar las comisiones que el Director les encomiende;
 
-VII.- Vigilar que se cumpla con la normatividad aplicable en los asuntos concernientes a su área;
+VII.- Vigilar que se cumpla con la normatividad aplicable en los asuntos concernientes a su área:
 
-VIII.- Proporcionar la información, datos y la cooperación técnica que les sea requerida por las demás unidades del FIDUM y por las dependencias municipales normativas; y
+VIII.- Proporcionar la información, datos y la cooperación técnica que les sea requerida por las demás unidades de FIDUM y por las dependencias municipales normativas; y
 
 IX.- Las demás que les confiera el Director, y las que se deriven de las disposiciones legales y administrativas aplicables.
 
-###### ARTICULO 9.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-Son atribuciones del Departamento de Administración y Finanzas:
+###### ARTÍCULO 8.
+
+La Subdirección tendrá a su cargo la coordinación de las Unidades Administrativas.
+
+Son atribuciones de la Subdirección:
 
 I.- Llevar el control de los ingresos recaudados por concepto de comercialización de los bienes inmuebles fideicomitidos;
 
@@ -151,7 +183,7 @@ IV.- Integrar debidamente los expedientes del personal que labora en el FIDUM de
 
 V.- Adquirir, proporcionar y suministrar los bienes y servicios necesarios para el adecuado desarrollo de los programas del FIDUM;
 
-VI.- Mantener actualizados los inventarios de los recursos humanos, así como de los bienes muebles e inmuebles que sean propiedad del FIDUM;
+VI.- Mantener actualizado los inventarios de los recursos humanos, así como de los bienes muebles e inmuebles que sean propiedad del FIDUM;
 
 VII.- Aplicar las políticas y procedimientos para la conservación y mantenimiento de los bienes muebles e inmuebles propiedad del FIDUM;
 
@@ -163,19 +195,41 @@ X.- Proponer a la Dirección las políticas de gasto y control interno;
 
 XI.- Programar, controlar y evaluar la adecuada aplicación del presupuesto autorizado;
 
-XII.- Elaborar en coordinación con la Dirección y Jefes de Departamento, el presupuesto anual de ingresos y egresos, en base a las necesidades de cada área;
+XII.- Elaborar en coordinación con la Dirección y Jefe de Departamento, el presupuesto anual de ingresos y egresos, en base a las necesidades de cada área;
 
 XIII.- Elaborar los estados financieros para su presentación ante el Comité Técnico por parte de la Dirección;
 
-XIV.- Supervisar la elaboración de nóminas y recibos de pago al personal, así como las liquidaciones de impuestos retenidos, cuotas al IMSS, SAR e INFONAVIT, y demás obligaciones fiscales a que está sujeto el FIDUM;
+XIV.- Supervisar la elaboración de nominas y recibos de pago al personal, así como las liquidaciones de impuestos retenidos, cuotas al IMSS, RCV e INFONAVIT, y demás obligaciones fiscales a que está sujeto el FIDUM;
 
 XV.- Supervisar el manejo de las cuentas bancarias e inversiones a cargo del FIDUM, entregando periódicamente a la Dirección, los reportes que para tal efecto requiera;
 
-XVI.- Elaborar y mantener actualizados los manuales de organización y procedimientos para las diferentes áreas del FIDUM; y
+XVI.- Elaborar y mantener actualizados los manuales de organización y procedimientos para las diferentes áreas del FIDUM;
 
-XVII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+XVII.- Atender y dar información a personas interesadas en la adquisición de predios propiedad del FIDUM;
 
-###### ARTICULO 10.
+XVIII.- Supervisar la recepción de solicitudes para la adquisición de predios propiedad del FIDUM, así como la documentación que corresponda;
+
+XIX.- Coordinar y supervisar la elaboración de estudios socioeconómicos a las personas solicitantes de predios propiedad del FIDUM;
+
+XX.- Analizar y validar los resultados de los estudios socioeconómicos realizados a personas solicitantes de predios propiedad del FIDUM, y determinar la asignación de los mismos;
+
+XXI.- Custodiar y controlar los archivos en los que se consignen los expedientes de asignatarios de predios propiedad del FIDUM;
+
+XXII.- Representar al FIDUM en las reuniones que se realicen con los colonos de los diversos fraccionamientos desarrollados por el FIDUM;
+
+XXIII.- Celebrar los contratos provisionales en relación a los predios propiedad del FIDUM, con los asignatarios de los mismos;
+
+XXIV.- Coordinar con el área técnica las acciones necesarias para la reubicación de posesionarios o ejidatarios en los terrenos propiedad del FIDUM;
+
+XXV.- Promocionar la disponibilidad de terrenos propiedad del FIDUM hacia los sectores público y privado, procurando el adecuado desarrollo urbano de la reserva territorial;
+
+XXVI.- Informar a la Dirección sobre la situación que guarde la comercialización de los predios propiedad del FIDUM;
+
+XXVII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 9.
 
 Son atribuciones del Departamento Técnico:
 
@@ -183,9 +237,9 @@ I.- Vigilar el cumplimiento de los programas de obras, conservación y mantenimi
 
 II.- Elaborar los informes relativos a su área, en relación a los proyectos de obra a construir en las reservas que constituyen el patrimonio fideicomitido;
 
-III.- Elaborar y supervisar los estudios y proyectos técnicos obras a ejecutar en los terrenos que forman parte del patrimonio del FIDUM;
+III.- Elaborar y supervisar los estudios y proyectos técnicos, de las obras a ejecutar en los terrenos que forman parte del patrimonio del FIDUM;
 
-IV.- Realizar acciones en coordinación con el Departamento de Comercialización para la reubicación de posesionarios o ejidatarios asentados en tierras propiedad del FIDUM;
+IV.- Realizar acciones para la reubicación de posesionarios o ejidatarios en tierras propiedad del FIDUM;
 
 V.- Elaborar proyectos ejecutivos de vivienda para la reubicación de posesionarios o ejidatarios asentados en tierras propiedad del FIDUM;
 
@@ -193,57 +247,149 @@ VI.- Controlar y dar seguimiento a relotificaciones o subdivisiones que surjan e
 
 VII.- Coordinar y supervisar la elaboración de expedientes técnicos de las obras ejecutadas por el FIDUM;
 
-VIII.- Supervisar la elaboración de reportes mensuales de avances de obra ejecutadas por el FIDUM;
+VIII.- Supervisar la elaboración de reportes mensuales de avances de obra (sic) ejecutadas por el FIDUM;
 
 IX.- Colaborar con la Dirección en la gestión ante las instancias gubernamentales correspondientes, de los proyectos de obras en los terrenos que forman parte del patrimonio del FIDUM;
 
-X.- Coordinar la celebración de convenios de colaboración para la ejecución de obras en los desarrollos urbanos del FIDUM, con diversas autoridades gubernamentales;
+X.- Proponer a la Dirección la celebración de convenios de colaboración con diversas autoridades gubernamentales, para la ejecución de obras en los desarrollos urbanos del FIDUM,
 
 XI.- Coordinar y supervisar la elaboración de deslindes catastrales de los desarrollos urbanos del FIDUM;
 
 XII.- Llevar a cabo los concursos de las obras a realizar en los terrenos que forman parte del patrimonio del FIDUM;
 
-XIII.- Supervisar el desempeño y la calidad en el servicio que presta el personal adscrito al Departamento; y
+XIII.- Supervisar el desempeño y la calidad en el servicio que presta el personal adscrito al Departamento;
 
-XIV.- Las demás que se deriven de las disposiciones legales administrativas aplicables.
+XIV.- Proponer a la Dirección la contratación de personal eventual que requiera, en periodo o ejecución de obra a realizar en los terrenos que forman parte del patrimonio del FIDUM;
 
-###### ARTICULO 11.
+XV.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
 
-Son atribuciones del Departamento de Comercialización:
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-I.- Atender y dar información a personas interesadas en la adquisición de predios de propiedad del FIDUM;
+###### ARTÍCULO 10.
 
-II.- Supervisar la recepción de solicitudes para la adquisición de predios propiedad del FIDUM, así como de la documentación que corresponda;
+Corresponde a los Coordinadores de área del FIDUM, el ejercicio de las siguientes facultades comunes:
 
-III.- Coordinar y supervisar la elaboración de estudios socioeconómicos a las personas solicitantes de predios propiedad del FIDUM;
+I.- Acordar con el Subdirector, la resolución de asuntos relevantes que se atiendan en el área de su responsabilidad;
 
-IV.- Analizar y validar los resultados de los estudios socioeconómicos realizados a personas solicitantes de predios propiedad del FIDUM, y determinar la asignación de los mismos;
+II.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de la Coordinación a su cargo;
 
-V.- Custodiar y controlar los archivos en los que se consignen los expedientes de asignatarios de predios propiedad del FIDUM;
+III.- Formular el proyecto de presupuesto de egresos por programa relativo a su área, conforme a las normas establecidas;
 
-VI.- Representar al FIDUM en las reuniones que se realicen con colonos de los diversos fraccionamientos desarrollados por el FIDUM;
+IV.- Formular conforme a los lineamientos establecidos, lo relativo al manual de organización y procedimientos correspondientes a su área;
 
-VII.- Celebrar los contratos provisionales en relación a los predios propiedad del FIDUM, con los asignatarios de los mismos;
+V.- Desempeñar las comisiones que el Subdirector les encomiende;
 
-VIII.- Coordinar con el área técnica las acciones necesarias para la reubicación de posesionarios o ejidatarios en los terrenos de propiedad del FIDUM;
+VI.- Vigilar que se cumpla con la normatividad aplicable en los asuntos concernientes a su área;
 
-IX.- Promocionar la disponibilidad de terrenos propiedad del FIDUM hacia los sectores público y privado, procurando el adecuado desarrollo urbano de la reserva territorial;
+VII.- Proporcionar la información, datos y la cooperación técnica que les sea requerida por las demás unidades del FIDUM y por las dependencias municipales normativas; y
 
-X.- Informar a la Dirección sobre la situación que guarde la comercialización de los predios propiedad del FIDUM; y
+VIII.- Las demás que les confiere el Subdirector, y las que se deriven de las disposiciones legales y administrativas aplicables.
 
-XI.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTICULO 12.
+###### ARTÍCULO 11.
 
-En las ausencias temporales del Director, por motivo de comisión, incapacidad o vacaciones, el despacho y resolución de los asuntos correspondientes al cargo, serán cubiertas por el Jefe de Departamento del FIDUM que él designe, previa notificación por escrito, en la que se establezcan las atribuciones específicas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
+Son atribuciones de la Coordinación de Administración y Finanzas:
 
-###### ARTICULO 13.
+I.- Supervisar y controlar la correcta aplicación de los recursos financieros.
 
-En las ausencias temporales de los Jefes de Departamento, por motivo de comisión, incapacidad o vacaciones, el despacho y resolución de los asuntos correspondientes al cargo serán cubiertas por el servidor público que el Director designe, previa notificación por escrito, en las que se establezcan las atribuciones específicas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
+II.- Aplicar las políticas y criterios establecidos para el control y manejo de los recursos materiales.
 
-T R A N S I T O R I O S (SIC)
+III.- Supervisar los registros y la correcta aplicación contable, de las operaciones del fideicomiso.
 
-### CAPITULO V. DE LA SUPLENCIA DE TITULARES
+IV.- Supervisar que la información de los estados financieros sea veraz y oportuna.
+
+V.- Supervisar el correcto y oportuno cumplimiento de las obligaciones fiscales.
+
+VI.- Coadyuvar en la elaboración del presupuesto de egresos del organismo.
+
+VII.- Elaborar informes sobre la situación del ejercicio del presupuesto del fideicomiso.
+
+VIII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 12.
+
+Son atribuciones de la Coordinación de Comercialización:
+
+I.- Verificar los estudios socioeconómicos y llevar a cabo las asignaciones de vivienda y lotes pertenecientes a este organismo.
+
+II.- Llevar a cabo la promoción y aplicación de los programas que se realicen con el apoyo del sector social.
+
+III.- Realizar convenios sobre cuentas atrasadas, cancelaciones y reasignaciones de los predios concernientes al fideicomiso.
+
+IV.- Llevar el control de la cartera vencida de todos los predios del fideicomiso.
+
+V.- Coordinar la elaboración y entrega de notificaciones por cartera vencida, terrenos abandonados o citatorios diversos de todos los predios pertenecientes al fideicomiso.
+
+VI.- Presentar informes periódicos de las actividades encomendadas al jefe inmediato.
+
+VII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 13.
+
+Son atribuciones de la Coordinación Jurídica:
+
+I.- Proporcionar asesoría jurídica en aspectos relacionados con el fideicomiso.
+
+II.- Tramitar la regularización de las reservas territoriales del fideicomiso.
+
+III.- Redactar contratos de compra-venta a personas físicas o morales.
+
+IV.- Realizar gestiones jurídicas ante las diferentes dependencias gubernamentales.
+
+V.- Tramitar ante el notario público la adquisición de derechos y cesiones de riego.
+
+VI.- Dar seguimiento a los diversos asuntos que se encuentren ante los diversos órganos jurisdiccionales.
+
+VII.- Presentar todo tipo de denuncias, querellas y demandas, que se originen por los contratos celebrados con las personas físicas o morales.
+
+VIII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO V. DE LAS FACULTADES DE LAS COORDINACIONES
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 14.
+
+Son atribuciones de la Coordinación de Informática:
+
+I.- Apoyar a los usuarios en algún problema que se les presente con el equipo de cómputo.
+
+II.- Llevar una relación de base de datos en coordinación con informática.
+
+III.- Elaborar (sic) presentación de documentos en base a las necesidades del área.
+
+IV.- Respaldar la información de los sistemas contables.
+
+V.- Implementar sistemas de cómputo que optimicen las labores operativas y administrativas del fideicomiso.
+
+VI.- Dar mantenimiento preventivo al equipo de cómputo.
+
+VII.- Las demás que se deriven de las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 15.
+
+En las ausencias temporales del Director, por motivo de comisión, incapacidad o vacaciones, el despacho o resolución de los asuntos correspondientes al cargo, serán cubiertas por el Subdirector del FIDUM, previa notificación por escrito, en la que se establezcan las atribuciones especificas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 16.
+
+En las ausencias temporales del Subdirector, por motivo de comisión, incapacidad o vacaciones, el despacho y resolución de los asuntos correspondientes al cargo serán cubiertas por el servidor público que el Director designe, previa notificación por escrito, en la que se establezcan las atribuciones especificas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO UNICO.
 
@@ -282,3 +428,17 @@ REGIDOR COORDINADOR DE LA COMISION DE OBRAS Y SERVICIOS PUBLICOS
 C.P. MANUEL AGUILAR BOJORQUEZ
 
 TESORERO MUNICIPAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL FIDEICOMISO PAR EL DESARROLLO URBANO DE MEXICALI".]
+
+###### ARTICULO PRIMERO.
+
+EI Comité Técnico del Fideicomiso para el Desarrollo Urbano de Mexicali, Baja California, en ejercicio de la atribución conferida en el Contrato de Fideicomiso, en la Clausula Séptima, Inciso "L", aprueba las presentes Reformasal (sic) Reglamento Interior que lo rige.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas realizadas al presente Reglamento Interior, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
