@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2016-10-28"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1537,7 +1537,7 @@ I.- Aborto culposo.- Cuando sea resultado de una conducta culposa de la mujer em
 
 II.- Aborto cuando el embarazo es resultado de una violación o de una inseminación artificial.- Cuando el embarazo sea resultado de una violación o de una inseminación artificial practicada en contra de la voluntad de la embarazada, siempre que el aborto se practique dentro del término de los noventa días de la gestación y el hecho haya sido denunciado, caso en el cual bastará la comprobación de los hechos por parte del Ministerio Público para autorizar su práctica;
 
-III.- Aborto terapéutico.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, quien dará aviso de inmediato al Ministerio Público, y éste oirá el dictamen de un médico legista, siempre que esto fuere posible y no sea peligrosa la demora.
+III.- Aborto terapéutico.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, quien dará aviso de inmediato al Ministerio Público, y éste oirá el dictamen de un médico legista, siempre que ésto fuere posible y no sea peligrosa la demora.
 
 ### CAPITULO VI. LESIONES
 
@@ -2171,9 +2171,9 @@ Si se hiciere uso de la violencia física o moral o se realice la conducta a que
 
 Artículo 180 TER.- Agravación de la punibilidad.- Las penas previstas en los artículos 180 y 180 Bis, se aumentarán hasta en una mitad, cuando en el abuso sexual concurra alguna de las circunstancias siguientes:
 
-I.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido;
+I.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido,
 
-II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
+II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, guarda o educación o aproveche la confianza en el depositada,
 
 > <small>(REFORMADA POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2519,7 +2519,7 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 
 ###### Artículo 208
 
-QUATER.- Excluyente de la acción penal.- Será causa excluyente de la acción penal el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
+QUARTER.- Excluyente de la acción penal.- Será causa excluyente de la acción penal el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
@@ -2657,9 +2657,9 @@ V.- Al fabricante, empresario, contratista o constructor de una obra cualquiera,
 
 VI.- Al que venda o traspase una negociación sin autorización de los acreedores de ella, o sin que el nuevo adquirente se comprometa a responder de los créditos, siempre que estos últimos resulten insolutos. Cuando la enajenación sea hecha por una persona moral, serán penalmente responsables los que autoricen aquella y los dirigentes, administradores o mandatarios que la efectúen;
 
-VII.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos con el subsidio o la franquicia;
+VII.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtue los fines perseguidos con el subsidio o la franquicia;
 
-VIII.- A los intermediarios en operaciones de traslación de dominio de bienes inmuebles o gravámenes reales sobre estos, que obtengan dinero, títulos o valores por el importe de su precio o a cuenta de el o para constituir ese gravamen, si no los destinaren, en todo o en parte, al objeto de la operación concertada, por su disposición en provecho propio o de otro;
+VIII.- A los intermediarios en operaciones de traslación de dominio de bienes inmuebles o gravámenes reales sobre éstos, que obtengan dinero, títulos o valores por el importe de su precio o a cuenta de el o para constituir ese gravámen, si no los destinaren, en todo o en parte, al objeto de la operación concertada, por su disposición en provecho propio o de otro;
 
 Para los efectos de este delito se entenderá que un intermediario no ha dado su destino, o ha dispuesto en todo o en parte del dinero, títulos o valores obtenidos por el importe del precio o a cuenta del inmueble objeto de la traslación de dominio o del gravamen real, si no realiza su depósito en Nacional Financiera, S.A., o en cualquier institución de depósito, dentro de los treinta días siguientes a su recepción, a favor de su propietario o poseedor, a menos que lo hubiere entregado, dentro de ese término, al vendedor o al deudor del gravamen real, o devuelto al comprador, o al acreedor del mismo gravamen.
 
@@ -2905,7 +2905,7 @@ c) Registro de la fecha, cantidad y tipo de metales que se hayan adquirido, reci
 
 ###### Artículo 233.
 
-Tipo y punibilidad.- Al que sin cerciorarse de su procedencia legítima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
+Tipo y Punibilidad.- Al que sin cerciorarse de su procedencia legítima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
@@ -3151,7 +3151,7 @@ Además de las penas señaladas, se privará de los derechos de la patria potest
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DICIEMBRE DE 2006)</small>
 
-Artículo 238 BIS.- Agravación de la punibilidad.- La pena señalada en El artículo anterior, se incrementará hasta en una tercera parte más, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
+Artículo 238 BIS.- Agravación de la punibilidad.- La pena señalada en el artículo anterior, se incrementará hasta en una tercera parte más, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACION Y EXHUMACION
 
@@ -3183,7 +3183,7 @@ IX.- Registre o haga registrar un divorcio o nulidad de matrimonio que no hubies
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-Cuando se trate de los supuestos previstos en las fracciones III y VI de este articulo, el delito se perseguirá por querella de parte ofendida.
+Cuando se trate de los supuestos previstos en las fracciones III y VI de este artículo, el delito se perseguirá por querella de parte ofendida.
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2015)</small>
 
@@ -3389,7 +3389,7 @@ Cuando se cause daño a las personas y/o a las cosas se le impondrá prisión de
 
 ###### Artículo 256.
 
-Agravación de la pena.- Si el delito se comete por conductores de vehículo destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el salario mínimo y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
+Agravación de la pena.- Si el delito se comete por conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso de que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el salario mínimo y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
 
 ### CAPITULO III
 
@@ -3817,7 +3817,7 @@ IV.- Al servidor público que suponga tener alguna otra comisión, empleo o carg
 
 ###### Artículo 291.
 
-Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
+Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al que sin habersele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
@@ -3884,6 +3884,10 @@ XVI. Cuando el servidor público retarde o entorpezca maliciosamente, la procura
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 XVII. Cuando otorgue permisos, autorizaciones o aprobaciones, para urbanizar o fraccionar el suelo, en cualquiera de las etapas en que se encuentre y sea omiso en verificar o exigir que los interesados cumplan con todos los requisitos previstos en la ley y sus reglamentos.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XVII (SIC).- Los Titulares de los Órganos de Control de las entidades fiscalizadas que no ejerciten las medidas correctivas, prevenciones o las sanciones que legalmente correspondan con motivo de la fiscalización superior de las cuentas públicas o en su caso no haya dado seguimiento hasta su total terminación a las observaciones emitidas por el Congreso del Estado.
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
@@ -4059,7 +4063,7 @@ II.- El servidor público que con motivo de la querella, denuncia o información
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
 
-III.- EI servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, infunda o provoque miedo a cualquier persona para evitar que ésta manifieste opiniones o deje de hacerlo, relativas a la actuación de cualquier servidor público, respecto del desempeño de su función, empleo, cargo o comisión.
+III.- El servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, infunda o provoque miedo a cualquier persona para evitar que ésta manifieste opiniones o deje de hacerlo, relativas a la actuación de cualquier servidor público, respecto del desempeño de su función, empleo, cargo o comisión.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -5524,3 +5528,9 @@ P.O. 28 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 636 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 339 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 647 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN XVII AL ARTÍCULO 293 DEL CÓDIGO PENAL PARA EL DEL (SIC) ESTADO DE BAJA CALIFORNIA.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
