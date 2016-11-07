@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2016-09-05"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1263,11 +1263,9 @@ De estos impedimentos sólo es dispensable el parentesco de consanguinidad en l�
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dura el lazo jurídico resultante de la adopción.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
 ###### Artículo 155.
 
-Cuando la mujer no resulte culpable en la disolución del matrimonio, puede contraer nuevas nupcias aún dentro de los trescientos días posteriores, sólo si acredita que no se encuentra en estado de gravidez mediante certificado expedido por Institución Oficial.
+(DEROGADO, P.O. 7 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 156.
 
@@ -2499,11 +2497,17 @@ Se presumen hijos de los cónyuges:
 
 I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial. En estos supuestos, cuando el cónyuge no sea el padre biológico del niño o niña, para su registro tendrá lugar un trámite administrativo en el cual la progenitora y el padre biológico, se presentarán personalmente ante la Oficialía del Registro Civil exhibiendo una declaratoria en la que manifiesten bajo protesta de decir verdad de que él es el padre biológico de la niña o niño.
 
 ###### Artículo 349.
 
 Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+La presunción establecida en el artículo anterior no será aplicable cuando la mujer acredite que ha estado separada de su cónyuge y el hijo fuere reconocido por persona diferente al mismo.
 
 ###### Artículo 350.
 
@@ -2525,9 +2529,11 @@ III.- Si ha reconocido expresamente por suyo al hijo de su mujer;
 
 IV.- Si el hijo no nació capaz de vivir.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 353.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+Las cuestiones relativas a la paternidad del hijo nacido después de disuelto el matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
 
 ###### Artículo 354.
 
@@ -2547,9 +2553,11 @@ Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los her
 
 Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 358.
 
-Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 155, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
@@ -3107,9 +3115,13 @@ La custodia es un derecho y obligación que corresponde a quienes ejercen la pat
 
 En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores de edad. En caso de desacuerdo, el Juez resolverá en el juicio respectivo lo conducente oyendo al Ministerio Público.
 
-En este supuesto, con base en el interés superior del menor de edad, éste quedará bajo los cuidados y atenciones de uno de ellos.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor de edad, conforme a las modalidades previstas en el convenio o resolución judicial.
+En este supuesto, con base en el interés superior del menor de edad, éste quedará bajo los cuidados y atenciones de uno o ambos progenitores, atendiendo a lo que el Juez considere más benéfico.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+El cónyuge que no ejerza la custodia estará obligado a colaborar en la alimentación del menor de edad y conservará los derechos de vigilancia y de convivencia con el mismo, conforme a las modalidades previstas en el convenio o resolución judicial.
 
 Durante la tramitación del juicio y a petición de cualquiera de las partes, el Juez podrá proveer respecto de la guarda y custodia, así como de la convivencia como medida provisional.
 
@@ -7243,9 +7255,11 @@ El heredero o legatario no puede enajenar su parte en la herencia sino después 
 
 El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo será nula.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 1206.
 
-Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia y si las porciones son iguales, la suerte decidirá quien hace uso del derecho.
+Si dos o más coherederos quisieren hacer uso del derecho del tanto, se estará a las reglas respectivas para la partición y la adjudicación, que para las sucesiones dispone el Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 1207.
 
@@ -9427,15 +9441,17 @@ La mayoría de los interesados, o la autorización judicial en su caso, determin
 
 DE LA PARTICION.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1648.
 
-Aprobado el inventario el albacea debe hacer en seguida (sic) la partición de la herencia.
+Aprobado el inventario se procederá enseguida a la partición de la herencia.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1649.
 
-A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
+A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador, y en caso de manifestar su oposición a la división, se estará a las reglas para la partición y la adjudicación que dispone para las sucesiones el Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 1650.
 
@@ -17082,3 +17098,27 @@ P.O. 5 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 412.- SE REFORMAN LOS ARTÍCULOS 1206, 1648 Y 1649 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 419.- SE REFORMA EL ARTÍCULO 439 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 427.- SE DEROGA EL ARTÍCULO 155; SE REFORMAN LOS ARTÍCULOS 348, 349, 353 Y 358, DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
