@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-aguascalientes-28
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-06-06"
-last_updated: "2010-02-15"
+last_updated: "2016-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
-LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1993.
 
@@ -101,6 +101,10 @@ VIII. Suscribir contratos y convenios con personas físicas o morales y con inst
 
 IX. Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención de título de: “Técnico Superior Universitario”; así como programas de continuidad de estudios para sus egresados y para los de otras Instituciones de Educación Superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciatura y posgrados, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe (sic) Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas, en tanto se constituye el Consejo de Universidades Tecnológicas, los cuales deberán garantizar una formación profesional y una cultura científica y tecnológica.
 
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+X.- Promover, realizar y organizar todo tipo de eventos académicos, deportivos, culturales y de formación holística, ya sea a nivel municipal, estatal, regional, nacional e internacional.
+
 ### CAPITULO SEGUNDO. De la Organización de la Universidad
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
@@ -155,9 +159,11 @@ V. No ocupar cargos directivos o administrativos en la Universidad.
 
 El cargo de miembro del Consejo Directivo será honorario y su desempeño será compatible, dentro de la Universidad, únicamente con la realización de tareas académicas. Los miembros del Consejo Directivo no podrán ser designados para cargos de dirección en la Universidad antes de los dos años, contados a partir de su separación de dicho cargo.
 
-###### ARTICULO 9o.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-El Consejo Directivo tendrá la facultad de designar y remover al Rector de la Universidad y, en su caso, de conocer y aceptar su renuncia. La designación la hará el Consejo Directivo, a propuesta del Gobernador del Estado, de acuerdo con los requisitos que para el efecto se señalen en esta Ley.
+###### ARTICULO 9º.
+
+El Gobernador Constitucional del Estado, tendrá la facultad de designar y remover al Rector de la Universidad y, en su caso, de conocer y aceptar su renuncia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2005)</small>
 
@@ -171,9 +177,9 @@ I.- Designar a los Secretarios de Vinculación y Académico, a los Directores de
 
 II.- Expedir el Estatuto de la Ley Orgánica, los reglamentos y las disposiciones relativas a la estructura, organización y funciones técnico, académico y administrativo de la Universidad.
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-III.- Conocer de la creación, modificación o suspensión de carreras, recursos y planes de estudio propuestos por el Rector.
+III.- Conocer de la creación, modificación o suspensión de carreras, posgrados, cursos y planes de estudio propuestos por el Rector.
 
 IV.- Examinar y, en su caso, aprobar los proyectos anuales de ingreso y los presupuestos de egresos.
 
@@ -203,9 +209,11 @@ XI.- Las demás que le sean conferidas por esta Ley, por las disposiciones estat
 
 El Rector acudirá a las sesiones del Consejo Directivo cuantas veces éste se lo solicite y para cumplir las facultades y obligaciones que se le asignan en el Artículo 14 de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 12.
 
-El Rector será el representante legal de la Universidad y su funcionario ejecutivo; durará en su cargo tres años, pudiendo ser designado nuevamente para un solo período adicional.
+El Rector será el representante legal de la Universidad y su funcionario ejecutivo; durará en su encargo cuatro años, pudiendo ser designado nuevamente para un periodo adicional.
 
 ###### ARTICULO 13.
 
@@ -245,15 +253,21 @@ V.- Presentar y someter a consideración del Consejo Directivo para su discusió
 
 VI.- Dar a conocer anualmente al Consejo Directivo el plan de trabajo de la Universidad y presentar cuatrimestralmente el informe de las actividades realizadas.
 
-VII.- Las demás que le otorguen la presente Ley, el Estatuto y los Reglamentos que normen la vida de la Universidad.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
+VII.- Expedir constancias y certificar copia de cualquier documento emitido por la Universidad.
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- Las demás que le otorguen la presente Ley, el Estatuto y los Reglamentos que normen la vida de la Universidad.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 15.
 
-En sus ausencias temporales del Rector será sustituido por el Secretario de Vinculación; las ausencias temporales no excederán de quince días, salvo las causas plenamente justificadas que prevea el Estatuto.
+En ausencias temporales del Rector, este será sustituido por el Secretario Académico, quien tendrá las facultades que fije la presente Ley, así como el Estatuto Interno, las ausencias temporales no excederán de quince días, salvo las causas plenamente justificadas que prevea el Estatuto.
 
-En caso de ausencia definitiva, el Secretario de Vinculación ejercerá las funciones del Rector hasta que el Consejo Directivo designe a un Interino, quien concluirá el periodo de cuatro años correspondiente al titular separado de su cargo, en los términos de la presente Ley.
+En caso de ausencia definitiva, el Secretario Académico ejercerá las funciones del Rector hasta que el Gobernador del Estado designe a un interino, quien concluirá el periodo de cuatro años correspondiente al titular separado de su cargo, en los términos de la presente Ley.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2005)</small>
 
@@ -297,7 +311,9 @@ Las agrupaciones de alumnos serán totalmente independientes de las autoridades 
 
 El Patrimonio de la Universidad estará constituido por:
 
-I.- Los ingresos que obtenga de las colegiaturas y servicios que preste en el ejercicio de sus facultades y en el cumplimiento de su objeto.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+I.- Los ingresos que obtenga por concepto de colegiaturas y cuotas de alumnos, donaciones, derechos, ahorros, servicios que preste en el ejercicio de sus facultades y en el cumplimiento de su objeto, serán integrados al patrimonio de ésta, no pudiendo ser contabilizados bajo ninguna circunstancia como aportaciones de la Secretaría de Educación Pública o de Gobierno del Estado. Los recursos señalados serán administrados y operados libremente por la Universidad Tecnológica de Aguascalientes, debiéndose de canalizar prioritariamente a proyectos académicos y de infraestructura encaminados a la educación, ampliación, reposición y/o sustitución de los equipos de talleres y laboratorios, contando con la previa aprobación del Consejo Directivo de la Universidad.
 
 II.- Por las aportaciones que le otorguen como subsidio el Gobierno Federal y el Gobierno del Estado.
 
@@ -386,3 +402,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las adecuaciones a la normatividad interna de la Universidad Tecnológica del Estado, se deberán expedir en un término que no exceda de noventa días a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 425.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
