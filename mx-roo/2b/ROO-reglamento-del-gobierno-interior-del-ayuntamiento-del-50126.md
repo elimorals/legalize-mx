@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2016-11-01"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -117,9 +117,11 @@ El Ayuntamiento celebrará sus sesiones en el recinto oficial que para tal efect
 
 ### CAPÍTULO IV. DE LA INSTALACION DEL AYUNTAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-El Ayuntamiento se instalará en ceremonia pública y solemne el día 10 de abril del año de la elección. A esta sesión comparecerán los ciudadanos que resultaron electos para ocupar los cargos de Presidente, Síndico y Regidores, a fin de rendir la Protesta de Ley para asumir el ejercicio de sus funciones.
+El Ayuntamiento se instalará en ceremonia pública y solemne el día 30 de septiembre del año de la elección. A esta sesión comparecerán los ciudadanos que resultaron electos para ocupar los cargos de Presidente, Síndico y Regidores, a fin de rendir la Protesta de Ley para asumir el ejercicio de sus funciones.
 
 Para tal efecto, en la última sesión ordinaria del mes inmediato anterior a la fecha de terminación del período constitucional del Ayuntamiento que concluye, se nombrará una Comisión Instaladora, integrada por tres regidores, con el objeto de acordar con el Ayuntamiento electo, lo conducente respecto a la sesión de instalación.
 
@@ -191,6 +193,10 @@ Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que s
 
 En caso de que la sesión de instalación no se hubiere celebrado en la fecha señalada en el artículo 9 de este reglamento, por inasistencia de la mayoría de los integrantes del Ayuntamiento entrante, el Presidente electo o en su ausencia, él que haga las veces de éste, notificará de inmediato tal situación a la Legislatura del Estado, para que convoque a una nueva sesión de instalación a celebrarse dentro de las cuarenta y ocho horas siguientes, sin perjuicio de que proceda en términos del Artículo 108 fracción II de la Ley de los Municipios del Estado de Quintana Roo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Los miembros del Ayuntamiento electo que no asuman su encargo dentro del plazo establecido por la Constitución Política del Estado, sin causa debidamente justificada a juicio de la autoridad electoral, serán sancionados conforme lo disponga el Código Penal del Estado.
+
 ###### Artículo 19.
 
 En todo caso, la sesión de instalación se celebrará sin mayor limitación y bajo la estricta responsabilidad que impone este Reglamento al Ayuntamiento electo.
@@ -203,11 +209,21 @@ El Presidente Municipal comunicará oficialmente la instalación e integración 
 
 Al término de la Sesión Solemne de Instalación, el Ayuntamiento procederá en su Primera Sesión Ordinaria a lo siguiente:
 
-I. Nombrar al Secretario General, Tesorero, Contralor Municipal y al Director de Seguridad Pública Municipal;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-II. Aprobar la integración de las Comisiones a que se refiere la Ley de los Municipios, y
+I. Nombrar al Secretario/a General del Ayuntamiento, Tesorero/a, Contralor/a, Secretario/a Municipal de Seguridad Pública y Tránsito, Director/a del Sistema DIF y los Directores/a de Ingresos y Egresos de la Tesorería;
 
-III. Proceder a la entrega recepción de la situación que guarda la Administración Pública Municipal.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+II. Aprobar la integración de las Comisiones a que se refiere la Ley de los Municipios, las cuales podrán nominarse de conformidad con la terminología que establezcan las disposiciones federales y estatales; y,
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+III. Proceder y dar cuenta de la entrega recepción respecto de la situación que guarda la Administración Pública Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+El nombramiento de los cargos indicados con antelación se hará, inicialmente, a propuesta del Presidente Municipal, en caso de que se rechazara una o más de éstas, el Ayuntamiento procederá a designar los faltantes de entre las propuestas que formulen, tanto el Presidente Municipal como los Regidores.
 
 ### CAPÍTULO V. DE LA ENTREGA-RECEPCION
 
@@ -283,7 +299,9 @@ XIII. Citar a los funcionarios del Ayuntamiento que estime conveniente, para que
 
 XIV. Ordenar que los acuerdos aprobados por el Ayuntamiento, se comuniquen a quien corresponda;
 
-XV. Someter a consideración al Pleno del Ayuntamiento la propuesta de las personas que ocupen el cargo de Secretario, Tesorero, Contralor y Director General de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XV. Someter a consideración del Ayuntamiento la propuesta de las personas que ocupen el cargo de Secretario General del Ayuntamiento, Tesorero, Contralor, Secretario Municipal de Seguridad Pública y Tránsito, Director del Sistema DIF y los Directores de Ingresos y Egresos de la Tesorería;
 
 XVI. Excitar, a nombre del Ayuntamiento, a cualquiera de las Comisiones, para que presenten su dictamen en fecha determinada, si han transcurrido 40 días después de que la iniciativa les haya sido turnada, y
 
@@ -315,19 +333,67 @@ El Síndico Municipal es el encargado de vigilar el adecuado funcionamiento de l
 
 Independientemente de las facultades y obligaciones establecidas en la Ley de los Municipios del Estado de Quintana Roo, las leyes, reglamentos y demás ordenamientos jurídicos, el Síndico Municipal, contará con las siguientes atribuciones en las sesiones del Ayuntamiento:
 
-I. Asistir con toda puntualidad a las Sesiones, teniendo derecho a participar en ellas con voz y voto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-II. Guardar el orden y respeto a los miembros del Ayuntamiento y al recinto oficial donde se celebren las Sesiones;
+I. Vigilar el correcto funcionamiento de la Hacienda Pública Municipal y presidir la Comisión de Hacienda del Ayuntamiento;
 
-III. Solicitar al Presidente Municipal le conceda el uso de la palabra para expresar su criterio respecto al asunto que considere pertinente, esperando el turno que le corresponda;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-IV. Rendir ante el Ayuntamiento, los informes relativos a la Comisión de Hacienda, cuantas veces le sea solicitado;
+II. Rendir los informes trimestrales relativos a la Comisión de Hacienda o cuantas veces le sea solicitado por el Ayuntamiento;
 
-V. Presentar al Ayuntamiento los informes o dictámenes que se le soliciten en relación con sus obligaciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-VI. Formular las protestas conducentes cuando estime perjudiciales los acuerdos del Ayuntamiento, y
+III. Presentar al Ayuntamiento los informes o dictámenes que se le soliciten en relación con sus obligaciones;
 
-VII. Presentar al Ayuntamiento las iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas o adiciones a los mismos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+IV. Formular el inventario general de bienes del Municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+V. Ser Apoderado/a Jurídico del Ayuntamiento ante instancias judiciales en los que el Municipio sea parte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VI. Auxiliar al Ministerio Público, tanto Federal como Estatal, en el ejercicio de sus facultades constitucionales cuando éstos lo soliciten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VII. Verificar que los contratos y convenios que celebre el Municipio con personas físicas o morales se ajusten a las disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Vigilar que el gasto público sea realizado en la forma y términos previstos en las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+IX. Remitir a la Legislatura del Estado, la Cuenta Pública Municipal, del ejercicio inmediato anterior, para su revisión y fiscalización;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+X. Presentar al Ayuntamiento iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas o adiciones a los mismos;
+
+Presentar propuestas para los cargos de Secretario/a General, Tesorero/a, Contralor/a Municipal, Secretario/a Municipal de Seguridad Pública y Transito Municipal y los Directores/as de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por la Presidencia Municipal.
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XI. Asistir con toda puntualidad a las Sesiones, tendiendo derecho a participar en ellas con voz y voto. Así como guardar el orden y respeto a los miembros del Ayuntamiento y al recinto oficial donde se celebren las Sesiones;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XII. Solicitar al Presidente Municipal le conceda el uso de la palabra para expresar su criterio respecto al asunto que considere pertinente, esperando el turno que le corresponda;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Formular las protestas conducentes cuando estime perjudiciales los acuerdos del Ayuntamiento
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Solicitar y obtener del Tesorero Municipal, la información relativa a la Hacienda Pública Municipal, al ejercicio del presupuesto, al Patrimonio Municipal y demás documentación de la gestión municipal, necesaria para el cumplimiento de sus funciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XV. Las demás que le atribuyan la presente Ley, los reglamentos y acuerdos del Ayuntamiento.
 
 ### CAPÍTULO IV. DE LOS REGIDORES
 
@@ -339,23 +405,47 @@ Los Regidores son los encargados de deliberar, analizar, resolver y velar por la
 
 Independientemente de las facultades y obligaciones establecidas en la Ley de los Municipios del Estado de Quintana Roo y las demás las (sic) leyes, reglamentos y ordenamientos jurídicos, los Regidores contarán con las siguientes:
 
-I. Acudir puntualmente e (sic) día y hora al que fueron convocados para la celebración de Sesión, participando con voz y voto;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-II. Solicitar al Presidente Municipal el uso de la palabra, esperando el turno que les corresponda para su intervención;
+I. Asistir puntualmente a las sesiones del Ayuntamiento;
 
-III. Guardar el orden y respeto a los miembros del Ayuntamiento y al recinto oficial donde se celebren (sic) la Sesión;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-IV. Cumplir con las funciones correspondientes a su cargo, las que le fueran conferidas, así como las inherentes a la Comisión de que formen parte;
+II. Vigilar la correcta observancia de los acuerdos y disposiciones del ayuntamiento;
 
-V. Participar en las Comisiones Ordinarias o Especiales que se le encomiende (sic), excepción hecha del caso en que tuviera interés personal en algún asunto;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-VI. Proporcionar al Ayuntamiento todos los informes o dictámenes que se les requieran en el desempeño de sus funciones;
+III. Integrar las comisiones para las que fueron designados, actuando en las mismas con la mayor eficiencia y prontitud;
 
-VII. Presentar al Ayuntamiento el plan anual de trabajo de sus respectivas comisiones y la adopción de las medidas que estimen pertinentes para el mejor desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Rendir al Ayuntamiento un informe trimestral de las labores que desarrollen sus respectivas comisiones, y
+IV. Cumplir las funciones correspondientes a su cargo, así como las inherentes a la Comisión de que formen parte;
 
-IX. Presentar al Ayuntamiento las iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas o adiciones a los mismos.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+V. Rendir trimestralmente los informes relacionados a su Comisión o cada vez que lo solicite el Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VI. Vigilar los ramos de la administración que le encomiende el Ayuntamiento, los programas respectivos y proponer en su caso al Ayuntamiento, las medidas que estimen procedentes para mejorar el funcionamiento de la Administración Pública Municipal;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VII. Presentar al Ayuntamiento, Iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
+
+Presentar propuestas para los cargos de Secretario/a General, Tesorero/a, Contralor/a Municipal, Director/a de Seguridad Pública Municipal y los Directores/as de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por la Presidencia Municipal.
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Solicitar al Síndico/a, informes relativos a su gestión, referente a la Hacienda, Presupuesto y Patrimonio Municipales;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+IX. Solicitar y obtener del Titular o Titulares de las dependencias relacionadas con la Comisión Ordinaria que presidan, la información relativa a sus programas y acciones, así como los resultados de su gestión municipal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+X. Las demás que les atribuyan la presente Ley, los reglamentos y acuerdos del Ayuntamiento.
 
 ## TÍTULO TERCERO. DE LAS SESIONES DEL AYUNTAMIENTO
 
@@ -415,9 +505,13 @@ El acta de cada Sesión deberá ser firmada por quienes participaron en la Sesi�
 
 Cualquier persona podrá solicitar una constancia oficial de los acuerdos del Ayuntamiento, y éste estará obligado a proporcionarlo, salvo que lo solicitado se refiera a un asunto que por su naturaleza se considere confidencial o reservado de acuerdo con el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Benito Juárez, Quintana Roo.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 44.
 
-Se promoverá la radiodifusión en vivo de las Sesiones del Ayuntamiento, a excepción de las convocadas como privadas, y la difusión de las actas de las Sesiones a través de la página electrónica del Municipio.
+La radiodifusión en vivo de las Sesiones del Ayuntamiento, y la difusión de las actas de las Sesiones a través de la página electrónica del Municipio, serán obligatorias, a excepción de las convocadas como privadas.
+
+Los integrantes del Ayuntamiento y los servidores públicos responsables de esta omisión, serán sancionados en los términos que prevengan las leyes en materia de transparencia y acceso a la información pública y las de responsabilidades de los servidores públicos.
 
 ### CAPÍTULO II. DE LAS SESIONES ORDINARIAS
 
@@ -769,9 +863,11 @@ No obstante lo dispuesto en los primeros párrafos de este artículo, cualquier 
 
 Las Comisiones Ordinarias o Especiales deberán iniciar sus labores dentro de los 15 días posteriores a su integración y sus resoluciones se adoptarán por mayoría de votos y quien se opusiera a los criterios de su Comisión lo argumentará ante el Pleno del Ayuntamiento mediante un voto particular.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 91.
 
-Para el despacho de los negocios de su incumbencia, las Comisiones Ordinarias y Especiales podrán celebrar sesiones cuantas veces sea necesario para el correcto desahogo de los asuntos de su competencia. En todo caso el número de sesiones nunca será menor de dos al mes.
+Para el despacho de los negocios de su incumbencia, las Comisiones Ordinarias y Especiales podrán celebrar sesiones cuantas veces sea necesario para el correcto desahogo de los asuntos de su competencia. En todo caso el número de sesiones nunca será menor de una al mes.
 
 ###### Artículo 92.
 
@@ -780,6 +876,10 @@ Las Comisiones Ordinarias o Especiales se reunirán mediante convocatoria de sus
 ###### Artículo 93.
 
 Los miembros de las Comisiones Ordinarias o Especiales están obligados a acudir puntualmente a sus reuniones y sólo podrán faltar a ellas por causa justificada debidamente comunicada y autorizada por el Presidente de la respectiva Comisión.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+La inasistencia a las sesiones de las comisiones será sancionada de la misma forma en que se sancione la inasistencia a la (sic) sesiones del Ayuntamiento.
 
 ###### Artículo 94.
 
@@ -819,13 +919,21 @@ VIII. Presentar, para su aprobación, proyectos de modificación a los Reglament
 
 IX. Elaborar su programa anual de trabajo;
 
-X. Rendir, al Ayuntamiento en Pleno, un informe trimestral de sus actividades;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+X. Rendir, al Ayuntamiento en Pleno, un informe semestral de sus actividades;
 
 XI. Organizar y mantener un archivo de todos los asuntos que les sean turnados;
 
 XII. Sesionar cuando menos dos veces al mes, y
 
 XIII. Las demás actividades que se deriven del presente Reglamento, así como los demás ordenamientos aplicables, los acuerdos tomados por el Ayuntamiento y los que adopten por sí mismas con relación a la materia o materias de su competencia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 98 Bis.
+
+Los titulares de las dependencias, unidades administrativas, organismos descentralizados, entidades paramunicipales o fideicomisos públicos, deberán informar trimestralmente al Presidente Municipal y al Regidor titular de la Comisión que corresponda, de las actividades desarrolladas por la Dependencia o Unidad a su cargo.
 
 ###### Artículo 99.
 
@@ -1305,7 +1413,7 @@ VI. Los servidores públicos municipales que se pretende los acompañen, que en 
 
 ###### Artículo 128.
 
-En la Sesión Ordinaria inmediata a la culminación de la visita, los integrantes de la Comisión Especial, por conducto de su presidente, deberá rendir un informe al Ayuntamiento que contenga las actividades realizadas y los beneficios obtenidos durante ésta;
+En la Sesión Ordinaria inmediata a la culminación de la visita, los integrantes de la Comisión Especial, por conducto de su presidente, deberá (sic) rendir un informe al Ayuntamiento que contenga las actividades realizadas y los beneficios obtenidos durante ésta;
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -1337,7 +1445,9 @@ Toda Comisión deberá presentar su dictamen al Pleno del Ayuntamiento, dentro d
 
 Para el mejor cumplimiento de sus funciones, las Comisiones tendrán la coordinación que sea necesaria con las dependencias de la Administración Pública Municipal, pero en ningún caso podrán atribuirse funciones ejecutivas respecto a los ramos bajo su responsabilidad.
 
-El titular de la dependencia o entidad estará obligado a proporcionar la información en un plazo razonable; si la misma no fuere remitida, la Comisión podrá dirigirse oficialmente en queja al titular de la dependencia o al Presidente.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Los titulares de las dependencias, unidades administrativas, organismos descentralizados, entidades paramunicipales o fideicomisos públicos, deberá (sic) rendir los informes que le solicite el Ayuntamiento o la comisión edilicia correspondiente, dentro de un término no mayor a cinco días hábiles; en caso de que, por su extensión o dificultad para recabar la información, se requiera de un plazo mayor, lo comunicará al requirente, para que le sea concedida la ampliación correspondiente. De no recibirse el informe solicitado dentro del plazo concedido, se le podrán aplicar al funcionario omiso las sanciones previstas por el Reglamento Orgánico de la Administración Pública Centralizada o por el Reglamento Orgánico de la Administración Pública Descentralizada, sin perjuicio de las que correspondan conforme a otras disposiciones legales aplicables.
 
 Los integrantes de la Comisión están obligados a guardar reserva en relación con la información que obtengan conforme al presente artículo.
 
@@ -1723,9 +1833,11 @@ La Administración Pública Municipal, se regula por los ordenamientos municipal
 
 Las relaciones de los miembros del Ayuntamiento con las dependencias de la Administración Pública Municipal, se darán a través del Presidente Municipal, quien es el superior jerárquico de los empleados municipales y como tal, responsable directo de la función administrativa del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 186.
 
-El Ayuntamiento, a propuesta del Presidente Municipal, podrá remover al Secretario General, Tesorero, Contralor Municipal y Director General de Seguridad Pública, Tránsito y Bomberos, cuando a juicio del Ayuntamiento dichos funcionarios incurran a faltas que afecten el eficaz funcionamiento de la administración municipal en alguno de sus ramos.
+El Ayuntamiento, a propuesta del Presidente Municipal, podrá remover al Secretario/a General del Ayuntamiento, Tesorero/a, Contralor/a, Secretario/a Municipal de Seguridad Pública y Tránsito, Director/a del Sistema DIF y los Directores/a de Ingresos y Egresos de la Tesorería, cuando a juicio del Ayuntamiento dichos funcionarios incurran a faltas que afecten el eficaz funcionamiento de la administración municipal en alguno de sus ramos.
 
 En todo caso la propuesta deberá estar debidamente fundada y motivada y contener elementos de juicio que justifiquen esta petición.
 
@@ -1852,3 +1964,11 @@ P.O. 1 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO 13-16/591. SÉPTIMO PUNTO DEL ORDEN DEL DÍA DE LA SEXAGÉSIMA SÉPTIMA SESIÓN ORDINARIA, EN EL QUE SE APRUEBA DICTAMEN MEDIANTE EL CUAL SE ADICIONAN CON UNA FRACCIÓN VII AL ARTÍCULO 110 DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL H. AYUNTAMIENTO DE BENITO JUÁREZ”.]
 
 ÚNICO.- La presente reforma reglamentaria entrará en vigor, el día de su publicación en el periódico oficial del estado de Quintana Roo.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 13-16/650 SÉPTIMO PUNTO DEL ORDEN DEL DÍA DE LA SEPTUAGÉSIMA SEGUNDA SESIÓN ORDINARIA, DE FECHA 14 DE SEPTIEMBRE DEL 2016, EN LA QUE SE APRUEBA POR UNANIMIDAD DE VOTOS DE LOS INTEGRANTES DEL HONORABLE AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, 2013-2016, LA INICIATIVA MEDIANTE LA CUAL, LA CIUDADANA SILVIA PONCE SÁNCHEZ, DÉCIMA CUARTA REGIDORA Y PRESIDENTA DE LA COMISIÓN DE REGLAMENTACIÓN Y MEJORA REGULATORIA, SOMETE A LA CONSIDERACIÓN DE LOS INTEGRANTES DEL HONORABLE AYUNTAMIENTO, COMO UN ASUNTO DE OBVIA Y URGENTE RESOLUCIÓN LA INICIATIVA POR LA QUE SE REFORMAN LOS ARTÍCULOS 9°, 18, 21, 27, 30, 32, 44, 91, 98 FRACCIÓN X, 134 SEGUNDO PÁRRAFO Y 186 PRIMER PÁRRAFO Y SE ADICIONAN LOS ARTÍCULOS 93 CON UN SEGUNDO PÁRRAFO Y 98 BIS DEL REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, Y SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13 Y CUATRO PÁRRAFOS AL ARTÍCULO 14, AMBOS DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO; Y, SE REFORMA Y ADICIONAN SEIS PÁRRAFOS AL ARTÍCULO 6° DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DESCENTRALIZADA DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO, EN LOS TÉRMINOS DE LA PROPIA INICIATIVA”.]
+
+PRIMERO.- La presente reforma reglamentaria entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a la presente.
