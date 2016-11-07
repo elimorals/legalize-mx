@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2016-10-31"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -13113,7 +13113,7 @@ Cuando se implemente el servicio de valet parking, será necesario contar con ba
 
 ## TÍTULO ÚNICO. DE LAS PRERROGATIVAS DEL TRABAJO MUNICIPAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 789.
 
@@ -29785,7 +29785,9 @@ DEL RECURSO DE INCONFORMIDAD
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación del presente Capítulo, podrán ser impugnadas, mediante el recurso de inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
 
-### CAPÍTULO 30. JUBILACIONES A EMPLEADOS MUNICIPALES
+### CAPÍTULO 30. JUBILACIONES Y PENSIONES A TRABAJADORES MUNICIPALES
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1929.
 
@@ -30647,19 +30649,23 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 1981.
 
-Las disposiciones del presente Capítulo se aplicarán a los funcionarios, empleados y trabajadores del Ayuntamiento del Municipio de Puebla.
+Las disposiciones del presente Capítulo se aplicarán a los trabajadores del Ayuntamiento del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1982.
 
-Para los efectos del presente Capítulo, se entiende por jubilado al funcionario, empleado o trabajador a quien el Honorable Cabildo, mediante dictamen, otorgue una jubilación.
+Para los efectos del presente Capítulo, se entiende por jubilado o pensionado al trabajador a quien el Honorable Cabildo, mediante dictamen, otorgue una jubilación o pensión.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+El trabajador jubilado es aquel que obtiene su jubilación al cumplir los años de servicio que se establece en el presente Capítulo.
+
+El trabajador pensionado es quien debido a una inhabilitación médica está impedido para cumplir con el tiempo necesario para su jubilación. En este caso, obtendrá su pensión, si cumple con cuando menos 15 años de servicio efectivo.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1983.
 
-Los Servidores Públicos del Municipio que tengan derecho a su jubilación, deberán presentar ante el Secretario del Ayuntamiento la siguiente documentación en original y nueve tantos de copias fotostáticas:
+Los trabajadores del Municipio que tengan derecho a su jubilación, deberán presentar ante el Secretario del Ayuntamiento, en original y nueve tantos de copias fotostáticas, la documentación siguiente:
 
 I.- Solicitud de jubilación dirigida al C. Presidente Municipal;
 
@@ -30675,11 +30681,13 @@ VI.- Último ticket de pago;
 
 VII.- Comprobante domiciliario;
 
-VIII.- Credencial de Elector; y
+VIII.- Identificación oficial vigente; y
 
-IX.- Gafete expedido por el H. Ayuntamiento del Municipio de Puebla.
+IX.- Credencial expedida por el H. Ayuntamiento del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+Los trabajadores del Municipio que tengan derecho a una pensión deberán presentar la documentación anterior, anexando la opinión técnica expedida por el Sistema Municipal DIF.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1984.
 
@@ -30693,19 +30701,37 @@ III.- Las interrupciones que hubiera tenido en sus servicios activos por licenci
 
 Para los efectos de cómputo a que se refiere este artículo la Secretaria del Ayuntamiento considerará un año, cuando el trabajador haya laborado seis meses y un día.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1985.
 
-Tendrá derecho a ser jubilado, al 100% del salario integral por el H. Ayuntamiento, el empleado, trabajador o funcionario que cumpla, en el caso de las mujeres 27 años y, en el caso de los hombres 30 años de servicio, prestados de manera ininterrumpida a favor del mismo, que así lo solicite.
+Tendrá derecho a ser jubilado, al 100% del salario integral por el H. Ayuntamiento, trabajador que cumpla, en el caso de las mujeres 27 años y, en el caso de los hombres 30 años de servicio, prestados de manera ininterrumpida a favor del mismo, que así lo solicite. Para los efectos de jubilación, se tomará en cuenta el tiempo durante el cual el trabajador dejó de prestar sus servicios por enfermedad o por accidente de trabajo justificados, por resoluciones emitidas por el Tribunal de Conciliación y Arbitraje del Municipio de Puebla, o acordadas espontáneamente entre el Ayuntamiento y el Sindicato.
 
-Para los efectos de jubilación, se tomará en cuenta el tiempo durante el cual el funcionario, empleado o trabajador dejó de prestar sus servicios por enfermedad o por accidente de trabajo justificados, por resoluciones emitidas por el Tribunal de Arbitraje del Municipio de Puebla, o acordadas espontáneamente entre el Ayuntamiento y el Sindicato.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1986.
 
-Los trabajadores que se encuentren física o mentalmente imposibilitados para la vida laboral, previo dictamen médico, expedido por el IMSS y, que no cumplan con los 27 años para el caso de las mujeres, o 30 años de servicios para el caso de los hombres, tendrán derecho a su jubilación al cumplir, cuando menos, 15 años de servicio efectivo; el porcentaje de la jubilación se determinará por la siguiente tabla:
+Las jubilaciones se incrementarán, en el mismo porcentaje salarial que se pacte para los trabajadores activos del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 1987.
+
+La tramitación de las jubilaciones seguirá el procedimiento siguiente:
+
+I.- La solicitud por escrito será dirigida al Presidente Municipal y presentada en la Secretaría del Ayuntamiento, quien pedirá a la Secretaría de Administración informe respecto del sueldo que perciba el trabajador y del tiempo que debe computársele para los efectos de su jubilación;
+
+II.- El Secretario del Ayuntamiento turnará a la Sindicatura Municipal en un tiempo no mayor de 20 días la solicitud con la certificación de antigüedad sobre el tiempo efectivamente laborado por el trabajador;
+
+III.- La Sindicatura hará la propuesta a los Regidores que integran la Comisión de Patrimonio y Hacienda Pública Municipal, quienes, emitirán el dictamen que proceda, el que se pondrá a la consideración del Honorable Cabildo para que tome el acuerdo correspondiente; y
+
+IV.- Agotado el procedimiento anterior y en caso de que el Cabildo no dictamine en el plazo de 90 días naturales, se dará por otorgada la jubilación a favor del trabajador que la solicitó.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 1988.
+
+Los trabajadores que se encuentren inhabilitados medicamente para la vida laboral, previa opinión técnica expedida por el Sistema Municipal DIF y, que no cumplan con los 27 años para el caso de las mujeres, o 30 años de servicios para el caso de los hombres, tendrán derecho a su pensión al cumplir, cuando menos, 15 años de servicio efectivo. El porcentaje de la pensión se determinará por la siguiente tabla:
 
 HOMBRES MUJERES
 
@@ -30739,61 +30765,137 @@ HOMBRES MUJERES
 
 29 años de servicio 95%
 
-###### Artículo 1987.
-
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
-
-###### Artículo 1988.
-
-Las jubilaciones se incrementarán, en el mismo porcentaje salarial que se pacte para los trabajadores activos del Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1989.
 
-La tramitación de las jubilaciones seguirá el procedimiento siguiente:
+La factibilidad de las pensiones será analizada por el Comité Técnico, el cual estará integrado por:
 
-I.- La solicitud por escrito será dirigida al Ciudadano Presidente Municipal y presentada en la Secretaría del Ayuntamiento, quien pedirá a la Secretaría de Administración informe respecto del sueldo que perciba el trabajador y del tiempo que debe computársele para los efectos de su jubilación;
+I. Un Presidente que será el Regidor (a) Presidente (a) de la Comisión de Patrimonio y Hacienda Pública Municipal;
+
+II. Un Secretario que será el Regidor (a) Presidente (a) de la Comisión de Trabajo; y
+
+III. Siete Vocales:
+
+a. El Regidor (a) Presidente (a) de la Comisión de Salud y de Grupos en Situación de Vulnerabilidad;
+
+b. El Titular de la Secretaría del Ayuntamiento;
+
+c. El Titular de la Sindicatura Municipal;
+
+d. El Titular de la Secretaría de Administración;
+
+e. El Titular de la Tesorería Municipal;
+
+f. El Director General del Sistema Municipal DIF; y
+
+g. El Secretario General del Sindicato Único de Empleados y trabajadores del Honorable Ayuntamiento de Puebla "Benito Juárez".
+
+IV. El Titular de la Contraloría Municipal. como Comisario, con derecho a voz pero sin voto.
+
+Los Integrantes del Comité Técnico de Pensiones tendrán derecho a voz y voto, pudiendo nombrar un suplente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 1989 Bis.
+
+La tramitación de las pensiones seguirá el procedimiento siguiente:
+
+I.- La solicitud por escrito será dirigida al Ciudadano Presidente Municipal y presentada en la Secretaría del Ayuntamiento, quien pedirá a la Secretaría de Administración informe respecto del sueldo que perciba el trabajador y del tiempo que debe computársele para los efectos de su pensión;
 
 II.- El Secretario del Ayuntamiento turnará a la Sindicatura Municipal en un tiempo no mayor de 20 días la solicitud con la certificación de antigüedad sobre el tiempo efectivamente laborado por el trabajador;
 
-III.- La Sindicatura hará la propuesta a los Regidores que integran la H. Comisión de Hacienda, quienes, emitirán el dictamen que proceda, el que se pondrá a la consideración del Honorable Cabildo para que tome el acuerdo correspondiente; y
+III.- La Sindicatura presentará la propuesta correspondiente al Comité Técnico de Pensiones, quienes analizarán la factibilidad de la pensión;
 
-IV.- Agotado el procedimiento anterior y en caso de que el Cabildo no dictamine en el plazo de 90 días naturales, se dará por otorgada la jubilación a favor del trabajador que la solicitó.
+IV.- El Comité Técnico de Pensiones sesionará dentro de un término no mayor a 30 días para llevar a cabo la revisión y análisis del expediente, pudiendo convocar al trabajador (a), una vez valorado turnará el acuerdo a la Comisión de Patrimonio y Hacienda Pública Municipal, quienes emitirán el dictamen que proceda, el que se pondrá a la consideración del Honorable Cabildo para que tome el acuerdo correspondiente; y
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+V.- Agotado el procedimiento anterior y en caso de que el Cabildo no dictamine en el plazo de 90 días, se dará por otorgada la pensión a favor del trabajador que la solicitó.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 1989 Ter.
+
+Los trabajadores que deseen tramitar la opinión técnica expedida por el Sistema Municipal DIF, deberán apegarse al procedimiento siguiente:
+
+I. El trabajador estará obligado a dar aviso inmediato a su superior jerárquico, así como a la Dirección de Recursos Humanos de la Secretaría de Administración sobre las causas justificadas que le impidan concurrir al trabajo y que puedan provocar estado de inhabilitación médica, salvo caso de fuerza mayor.
+
+II. Deberá entregar, ante la Dirección de Atención a la Salud del Sistema Municipal DIF, la solicitud de opinión técnica, debiendo acompañar los requisitos siguientes:
+
+a. Documentación médica en donde se haya realizado el diagnóstico del padecimiento o enfermedad, expedida por alguna de las Instituciones del Sistema Nacional de Salud y que cumplan con los criterios establecido (sic) en la NOM-004-SSA3-2012 del expediente clínico.
+
+b. Solicitud de inhabilitación médica dirigida a la Dirección de Atención a la Salud del Sistema Municipal DIF.
+
+III. La Dirección de Atención a la Salud del Sistema Municipal DIF remitirá al Departamento de Atención Medica la solicitud y documentación recibida, para que el personal médico valore la documentación, citando al trabajador para realizar una revisión médica general.
+
+IV. El Departamento de Atención Médica informará al Director de Atención de la Salud, de manera clara y precisa, si con la documentación médica presentada y con la revisión médica general al trabajador (a), existen elementos para confirmar o negar la existencia de inhabilitación médica.
+
+V. El Director de Atención a la Salud recibirá el informe del Departamento de Atención Médica, para su revisión; en caso de no existir observación alguna, emitirá la opinión técnica correspondiente, entregándoselo al interesado para continuar con los trámites ante la Secretaría del Ayuntamiento.
+
+VI. El Director de Atención a la Salud remitirá el expediente completo del trabajador (a) al Comité Técnico de Pensiones, dentro del término de 60 días a partir de la recepción de solicitud de inhabilitación médica.
+
+VII. El Comité Técnico de Pensiones recibirá el expediente, que contendrá la opinión técnica de la Dirección de Atención a la Salud del Sistema Municipal DIF, la solicitud firmada por el trabajador (a), la documentación médica y todas las constancias que se hayan generado.
+
+VIII. El Comité Técnico de Pensiones sesionará dentro de un término no mayor a 30 días para llevar a cabo la revisión y análisis del expediente, pudiendo convocar al trabajador (a), emitiendo el acuerdo correspondiente.
+
+Este proceso no podrá exceder de 90 días.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 1989 Quáter.
+
+El trabajador (a) perderá su pensión cuando:
+
+I.- Por si o de acuerdo con otra persona se haya provocado intencionalmente la inhabilitación médica;
+
+II.- Resulte responsable del delito intencional que originó la inhabilitación médica;
+
+III.- Padezca un estado de inhabilitación médica anterior a su contratación y que haya sido omiso al momento de su contratación; y
+
+IV.- Cuando desempeñe un cargo, empleo remunerado o reciba alguna otra prestación similar.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 1989 Quinquies.
+
+Los trabajadores que soliciten el otorgamiento de una pensión, deberán sujetarse a las investigaciones de carácter médico, social y económico que el Ayuntamiento, a través del Comité Técnico de Pensiones, estime necesarias para comprobar si existe o subsiste el estado de inhabilitación médica.
+
+Con la finalidad de evitar simulaciones en el otorgamiento de la pensión referida cualquier irregularidad que se advierta sobre el particular por parte del Ayuntamiento será sancionada por la autoridad correspondiente de conformidad con lo dispuesto a las normas penales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1990.
 
-Para determinar el monto de la jubilación se tomará como base el último sueldo integral que perciba el trabajador.
+Cuando un pensionado se niegue a someterse a exámenes previos o posteriores a los tratamientos médicos prescritos o abandone estos, el Ayuntamiento ordenara la suspensión por pago de pensión. Dicha suspensión subsistirá mientras el pensionado no cumpla con lo dispuesto en este artículo.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1991.
 
-La comprobación del tiempo de servicio se hará por medio de la certificación de antigüedad, que emita el Secretario del Ayuntamiento, considerando el tiempo efectivamente laborado.
+Para determinar el monto de las jubilaciones y pensiones se tomará como base el último sueldo integral que perciba el trabajador.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1992.
 
-El retiro del servicio del trabajador de base, se hará efectivo a partir del primer día en que, el Sindicato presente a la persona que cubrirá la plaza vacante generada por la jubilación.
+La comprobación del tiempo de servicio se hará por medio de la certificación de antigüedad que emita el Secretario del Ayuntamiento, considerando el tiempo efectivamente laborado.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1993.
 
-La H. Comisión de Hacienda podrá proponer al H. Cabildo a un jubilado para desempeñar un cargo, empleo o trabajo si tiene facultades o aptitudes para servirlo eficazmente en este caso el jubilado nombrado, recibirá la pensión respectiva y una compensación respectiva asignada.
+El retiro del servicio del trabajador, surtirá efecto a partir del día siguiente a la aprobación en Cabildo.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1994.
 
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
+La Comisión de Patrimonio y Hacienda Pública Municipal podrá proponer al Honorable Cabildo a un jubilado para desempeñar un cargo, empleo o trabajo si tiene facultades o aptitudes para servirlo eficazmente, en este caso el jubilado nombrado, recibirá la pensión respectiva y una compensación respectiva asignada.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1995.
 
-La jubilación se extingue por muerte del jubilado, correspondiéndole a su beneficiario el pago de extinción de jubilación consistente en 13 meses de la cantidad que percibía el trabajador jubilado.
+La jubilación o pensión se extingue por muerte del jubilado o pensionado, correspondiéndole a su beneficiario el pago de extinción de jubilación o pensión consistente en 13 meses de la cantidad que percibía el trabajador jubilado.
 
 Los beneficiarios del jubilado fallecido, para cobrar el importe por la extinción de jubilación deberán presentar a la Secretaría del Ayuntamiento, en original y copia fotostática de la documentación siguiente:
 
@@ -30803,7 +30905,7 @@ II.- Acta de defunción;
 
 III.- Acta de Nacimiento del Beneficiario;
 
-IV.- Credencial de Elector del Beneficiario;
+IV.- Identificación Oficial del Beneficiario;
 
 V.- Credencial expedida por el Ayuntamiento que lo acredite como Jubilado;
 
@@ -30811,15 +30913,15 @@ VI.- Constancia de la designación de Beneficiarios; y
 
 VII.- Último ticket de pago.
 
-El pago por concepto de extinción de jubilación, la pagará el Ayuntamiento en una sola exhibición y en un plazo no mayor de sesenta días naturales, contados a partir de que la Secretaría del Ayuntamiento, reciba la solicitud y documentación correspondiente.
+El pago por concepto de extinción de jubilación o pensión, la pagará el Ayuntamiento en una sola exhibición y en un plazo no mayor de sesenta días, contados a partir de que la Secretaría del Ayuntamiento, reciba la solicitud y documentación correspondiente.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1995 Bis.
 
-Cuando ocurra la muerte de un jubilado se pagará al beneficiario, por concepto de pago de marcha, la cantidad equivalente a siete meses del monto total del salario, entendiéndose como tal la pensión que mensualmente percibía el trabajador jubilado. En caso de no haber designado beneficiario, será el Tribunal de Arbitraje del Municipio de Puebla, quien determine los mismos.
+Cuando ocurra la muerte de un jubilado o pensionado se pagará al beneficiario, por concepto de pago de marcha, la cantidad equivalente a siete meses del monto total del salario, entendiéndose como tal la pensión que mensualmente percibía el trabajador jubilado. En caso de no haber designado beneficiario, será el Tribunal de Conciliación y Arbitraje del Municipio de Puebla quien determine los mismos.
 
-Para la solicitud de pago de marcha, el beneficiario deberá presentar a la Secretaría de Administración y Tecnologías de la Información, por conducto de la Dirección de Recursos Humanos, la siguiente documentación:
+Para la solicitud de pago de marcha, el beneficiario deberá presentar a la Secretaría de Administración, por conducto de la Dirección de Recursos Humanos, la siguiente documentación:
 
 I. Solicitud de pago de marcha;
 
@@ -30827,23 +30929,21 @@ II. Acta de defunción y comprobante de gastos funerarios; e
 
 III. Identificación oficial del beneficiario.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 1996.
 
-Son beneficiarios de los jubilados y por lo tanto tienen derecho a las prestaciones que establecen las disposiciones de este Capítulo:
+Son beneficiarios de los jubilados y pensionados por lo tanto tienen derecho a las prestaciones que establecen las disposiciones de este Capítulo:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+I.- La persona o personas designadas como beneficiarios por el jubilado o pensionado, ante la Secretaría del Ayuntamiento, podrán ser renovados o modificados por el jubilado o pensionado cuantas veces quiera y en cualquier momento; la última designación depositada en la Secretaría, deja sin efecto a las anteriores; y
 
-I.- La persona o personas designadas como beneficiarios por el jubilado, ante la Secretaria del Ayuntamiento, podrán ser renovados o modificados por el jubilado cuantas veces quiera y en cualquier momento; la última designación depositada en la Secretaría, deja sin efecto a las anteriores; y
+II.- Cuando el trabajador jubilado o pensionado no hubiere designado beneficiarios, se entregará el pago de extinción de jubilación a los beneficiarios que determine el Tribunal de Conciliación y Arbitraje del Municipio de Puebla.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2007)</small>
-
-II.- Cuando el trabajador jubilado no hubiere designado beneficiarios, se entregará el pago de extinción de jubilación a los beneficiarios que determine el H. Tribunal de Arbitraje del Municipio de Puebla.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1997.
 
-Es imprescriptible e irrenunciable el derecho al otorgamiento de una jubilación, siempre y cuando el trabajador satisfaga todos y cada uno de los requisitos establecidos en este Capítulo.
+Es imprescriptible e irrenunciable el derecho al otorgamiento de una jubilación o pensión, siempre y cuando el trabajador satisfaga todos y cada uno de los requisitos establecidos en este Capítulo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
@@ -36369,7 +36469,7 @@ P.O. 7 DE ENERO DE 2016.
 
 P.O. 30 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE TURISMO, ARTE Y CULTURA, POR EL QUE APRUEBA QUE EL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA LLEVE EL NOMBRE DE HUGO LEICHT”.]
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE TURISMO, ARTE Y CULTURA, POR EL QUE APRUEBA QUE EL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA LLEVE EL NOMBRE DE HUGO LEICHT".]
 
 ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
@@ -36389,20 +36489,14 @@ PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicac
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 
-## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023” OBTENIDOS DE: https://www.dof.gob.mx/2023/DIF/EstatutoSNDIF.pdf]
+P.O. 7 DE NOVIEMBRE DE 2016.
 
-PRIMERO. Publíquese el Extracto del presente Acuerdo en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 1 DE NOVIEMBRE DE 2016, QUE APRUEBA EL DICTAMEN EMITIDO POR LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
-SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
-TERCERO. Se abrogan, el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, su Nota Aclaratoria, su Modificación y el ACUERDO por el que se modifica nuevamente; publicados en el Diario Oficial de la Federación el 05 de diciembre de 2019, el 31 de marzo de 2020, el 27 de agosto de 2021 y el 29 de diciembre de 2021, respectivamente.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 
-Las referencias que contengan todas (sic) disposiciones de jerarquía inferior al presente ordenamiento se entenderán implícitamente aludidas a los términos manejados por el presente Estatuto, sin que se requiera mayor modificación.
+TERCERO. El Comité Técnico de Pensiones contará con cinco días naturales, a partir de la entrada en vigor del presente Dictamen, para su debida instalación.
 
-Únicamente se derogan las disposiciones normativas de jerarquía inferior al presente ordenamiento en lo que se opongan o contravengan expresamente a sus disposiciones.
-
-La persona Titular del Organismo deberá impulsar, con el apoyo de la Dirección General de Asuntos Jurídicos y las demás unidades administrativas de la Entidad, coordinadas por dicha Dirección General, la actualización progresiva de la normatividad en comento, para su armonización con el presente Estatuto.
-
-CUARTO. Los nombramientos realizados a la servidora y servidor público que actualmente ocupan la titularidad (sic) las unidades administrativas referidas en el presente Estatuto o del Órgano Interno de Control, mantendrán su vigencia, sin requerir ratificación e independientemente del cambio en la posición de la unidad administrativa a su cargo, dentro de la estructura orgánica del Organismo, o del cambio que haya existido en la denominación, en cuyo caso los nombramientos se entenderán conforme a las denominaciones señaladas en el presente ordenamiento.
-
-QUINTO. La presente reforma únicamente representa movimientos estructurales desregulados pues no generan impacto presupuestal, por lo tanto, los objetivos, atribuciones y funciones del Organismo y sus Unidades Administrativas continuarán siendo las mismas.
+CUARTO. Todos aquellos trabajadores del Ayuntamiento que hayan realizado su trámite de jubilación o pensión ante la Secretaría del Ayuntamiento, podrán ajustarse a las disposiciones que se establecen en el presente Dictamen.
