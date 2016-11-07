@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2016-08-22"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3889,7 +3889,7 @@ El actor deberá ofrecer pruebas al presentar su demanda, sea por escrito o por 
 
 El Juez podrá actuar e intervenir de oficio en los asuntos de alimentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2015)</small>
 
@@ -3897,7 +3897,11 @@ El Juez podrá actuar e intervenir de oficio en los asuntos de alimentos.
 
 Las personas señaladas en el artículo 337 del Código Civil podrán acudir ante el Juez por escrito o por comparecencia personal para demandar el pago de alimentos, pudiendo solicitar una pensión alimenticia provisional mientras se resuelve el juicio, en cuyo caso en el escrito o comparecencia se deberá manifestar, bajo protesta de decir verdad, los hechos que le constan sobre la situación económica del demandado, el monto y origen de sus ingresos, bienes y propiedades, así como el nivel de vida que haya proporcionado al acreedor en los últimos dos años, debiendo acompañar:
 
-I. Los atestados del registro civil que acrediten el vínculo de parentesco entre el acreedor y el deudor así como los documentos que acrediten su legitimación para solicitar alimentos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+I. Los atestados del registro civil que acrediten el vínculo de parentesco entre el acreedor y el deudor, así como los documentos que acrediten su legitimación para solicitar alimentos. Tratándose de la comparecencia, el responsable de recibirla entregará al solicitante un formato oficial indicando los atestados del registro civil que se requieran, el cual deberá presentar en el Registro Civil, a efecto de que le sean expedidos de forma gratuita; el Registro Civil deberá remitir al responsable de recibir la comparecencia los atestados a fin de acompañarlos al escrito respectivo.
 
 II. Identificación oficial en términos del Artículo 90, numeral 3 de este Código;
 
@@ -4599,13 +4603,19 @@ Cuando los herederos sean mayores, y el interés del fisco, si lo hubiere, esté
 
 El acuerdo de separación deberá denunciarse al juez, quien dará por terminado el juicio, poniéndose los bienes a disposición de los herederos, observándose lo dispuesto en el artículo 1658 del Código Civil.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 675.
 
-En todo juicio sucesorio se formarán cuatro secciones compuestas de los cuadernos necesarios. Deben iniciarse las secciones simultáneamente cuando no hubiere impedimento de hecho.
+En todo juicio sucesorio se tramitará una audiencia de sucesión y otra de inventarios que culminarán respectivamente; la primera con sentencia interlocutoria que contenga las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y preferencia de derechos; la segunda, con la resolución sobre el inventario y avalúo, en su caso, la aprobación del convenio a que los herederos y legatarios lleguen• sobre la repartición de los bienes; o en su defecto, la declaración de adjudicación a los herederos en copropiedad de los bienes hereditarios. En la ejecución de la sentencia de adjudicación de los bienes en copropiedad, se tramitará un procedimiento respecto a la administración y otro respecto a la partición. Y si existiere acuerdo sobre la repartición de los bienes, el procedimiento respecto a la administración.
+
+Las audiencias referidas en el párrafo anterior, deberán celebrarse en un término no mayor a un año.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 676.
 
-La primera sección se llamará de sucesión y contendrá en sus respectivos casos:
+La primera audiencia, que es la de sucesión, tratará, en sus respectivos casos:
 
 I.- El testamento o testimonio de protocolización o la denuncia del intestado;
 
@@ -4613,41 +4623,61 @@ II.- Las citaciones a los herederos y la convocación a los que se crean con der
 
 III.- Lo relativo al nombramiento y remoción de albaceas e interventores, y al reconocimiento de derechos hereditarios;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 IV.- Los incidentes que se promuevan sobre el nombramiento o remoción de tutores;
 
-V.- Las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y preferencia de derechos.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+V.- Las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar, la preferencia de derechos y la solicitud de que realicen los inventarios solemnes.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 677.
 
-La sección segunda se llamará de inventarios y contendrá:
+La segunda audiencia, que es de inventarios contendrá:
 
 I.- El inventario provisional del interventor;
 
-II.- El inventario y avalúo que forme el albacea;
+II.- El inventario y avalúo que se forme;
 
-III.- Los incidentes que se promuevan; y
+III.- Los incidentes que se promuevan y se decidan en esta audiencia;
 
-IV.- La resolución sobre el inventario y avalúo.
+IV.- La resolución sobre el inventario y avalúo;
+
+V.- Los acuerdos sobre cómo se deben repartir los derechos hereditarios hecho por los herederos y legatarios; y
+
+VI.- A falta de los acuerdos sobre la partición de los derechos, la adjudicación en copropiedad a los herederos de los bienes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 678.
 
-La tercera sección se llamará de administración y contendrá:
+En ejecución de sentencia, se tramitará un procedimiento para la administración y comprenderá:
 
 I.- Todo lo relativo a la administración;
 
 II.- Las cuentas, su glosa y clasificación; y
 
-III.- La comprobación de haberse cubierto el impuesto fiscal.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+III.- La comprobación de haberse cubierto el impuesto fiscal. En lo no previsto en este capítulo se estará en lo conducente a las reglas para la ejecución de sentencias y las relativas de los incidentes en general.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 679.
 
-La cuarta sección se llamará de partición y contendrá:
+En ejecución de sentencia, se tramitará un procedimiento para la partición y contendrá:
 
 I.- El proyecto de distribución provisional de los productos de los bienes hereditarios;
 
-II.- El proyecto de partición de los bienes;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-III.- Los incidentes que se promuevan respecto a los proyectos a que se refieren las fracciones anteriores;
+II.- Los acuerdos sobre la partición de los bienes y de terminación de copropiedad cuando no hubo acuerdos en la segunda audiencia conforme a las reglas de este capítulo;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+III.- Los trámites para la venta de los bienes de copropiedad y entrega de su producto y las cuestiones que se promuevan respecto a los proyectos a que se refieren las fracciones anteriores;
 
 IV.- Los arreglos relativos;
 
@@ -4689,6 +4719,8 @@ En la junta prevenida por el artículo 680 podrán los herederos nombrar interve
 
 ### CAPITULO IV. Inventario y Avalúo
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 686.
 
 Quien promueva un intestado, deberá presentar con la denuncia los justificantes de la muerte del autor de la herencia y los que acrediten su parentesco con éste si lo tuviere; además bajo protesta de decir verdad expresará los nombres y domicilio de los parientes en línea recta y del cónyuge supérstite o a falta de ellos el de los colaterales dentro del cuarto grado de que tenga conocimiento y, de ser posible presentará también certificado de las partidas del Registro Civil que demuestren el parentesco. Además, acompañará copia del escrito de denuncia y de los demás documentos.
@@ -4719,9 +4751,11 @@ El albacea nombrado tendrá carácter de definitivo.
 
 Los herederos inconformes con el nombramiento de albacea podrán nombrar interventor con arreglo al Código Civil.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 692.
 
-Si el Ministerio Público o cualquier pretendiente se opone a la declaración de herederos o alega incapacidad de alguno de ellos, se sujetará a juicio el pleito a que la oposición dé lugar, con el albacea o heredero respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
+Si el Ministerio Público o cualquier pretendiente se opone a la declaración de herederos o alega incapacidad de alguno de ellos, se sujetará a juicio el pleito a que la oposición dé lugar, con el albacea o heredero respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes prevista para la partición en la ejecución de sentencia o la entrega del precio de la venta del valor de su remate.
 
 ###### ARTICULO 693.
 
@@ -4741,11 +4775,21 @@ Si nadie se presenta reclamando la herencia o si no fuere reconocido el derecho 
 
 ###### ARTICULO 696.
 
-Dentro de los diez días siguientes a la aceptación de su cargo, el albacea deberá proceder simultáneamente a la formación del inventario y del avalúo de los bienes de la sucesión. Para tal efecto, dará aviso al juzgado a fin de que éste prevenga a los interesados se pongan de acuerdo en el nombramiento de un perito valuador que asesore en sus labores al albacea y los aperciba de que si no hacen saber su acuerdo al juzgado dentro del término de seis días o el propuesto no acepta el cargo, el juez hará la designación.
+Desde la aceptación de su cargo, el albacea deberá formar simultáneamente el inventario y avalúo de los bienes de la sucesión, para lo cual se sujetará a las reglas siguientes:
 
-Si cuando menos la mayoría de los interesados manifiesta su conformidad con que el avalúo sea hecho bajo la responsabilidad del albacea, no se hará designación de perito y el albacea fijará a los bienes el valor que estime justo, pudiendo consultar con peritos de su confianza, quienes en su caso firmarán también el avalúo.
+I.- En la primera audiencia, una vez hecha la declaración de herederos, si el albacea ya aceptó el cargo en ésta, iniciará el plazo para que formule simultáneamente el inventario y avalúo de los bienes de la sucesión, en el entendido que de no rendirlos en el plazo correspondiente, será removido de plano y sin ningún recurso, salvo que se trate de heredero único.
 
-Al hacerse el nombramiento de perito en el caso previsto en el párrafo primero, el juez hará también la designación de un tercero para el caso de que hubiere oposición entre el albacea y su asesor nombrado.
+II.- Si la mayoría de los interesados presentes manifiesta su conformidad en que el albacea fije a los bienes el valor que estime justo así se valuarán, pudiendo consultar con peritos de su confianza; en caso de inconformidad, los herederos podrán oponerse conforme a las reglas de la fracción IV de este artículo.
+
+III.- Dentro de los veinte días siguientes, contados a partir de la audiencia en que el albacea acepte el cargo, deberá exhibir sus inventarios y avalúos, ya sea que emita los valores por sí o con la opinión del perito que haya designado para que lo asesore en sus labores, salvo el supuesto del artículo 709 de este código.
+
+IV.- Dentro de los diez días siguientes al auto que tenga por rendido el inventario y avalúo del albacea, los interesados inconformes con el avalúo manifestarán su oposición por escrito junto con la opinión de un perito, el cuál será a costa de los mismos; en el entendido que de no hacerlo así, precluirá su derecho y se les tendrá por conformes con el avalúo emitido por el albacea por sí o con la opinión del perito que lo asesoró en sus labores.
+
+V.- Al existir el avalúo del albacea por sí o con la opinión del perito que le asesoró en sus labores y del perito de los inconformes, si el valor entre ellos no es superior al veinte por ciento, el juez promediará el valor; si excede, el juez hará la designación de un tercero para que emita opinión que lo asesore y fallará lo que estime justo.
+
+VI.- En el supuesto de que el albacea no acepte el cargo en la audiencia de que trata este artículo, en esta audiencia se emitirá auto en el que se le requiera para que lo acepte dentro del término de tres días, bajo apercibimiento que de no hacerlo, será removido del cargo, salvo que se trate de heredero único. En este caso, dentro de los veinte días siguientes, contados a partir de la resolución que tenga al albacea aceptando el cargo, deberá de exhibir sus inventarios y avalúos, ya sea que emita los valores por sí o con la opinión del perito que designe para que lo asesore en sus labores, continuando el trámite en lo conducente como se prevé en este artículo.
+
+En caso de que el albacea incumpla con alguna de las obligaciones que le impone el presente Código, el Juez podrá decretar la pérdida de los honorarios que en su caso le correspondan.
 
 ###### ARTICULO 697.
 
@@ -4773,13 +4817,17 @@ III.- Cuando habiendo menores interesados, el Ministerio Público lo solicite;
 
 IV.- En los demás casos que expresamente lo prevenga este Código.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 700.
 
-El inventario se formará con intervención del Ministerio Público, por Notario designado por la mayoría de los interesados y en su defecto o cuando no se pongan de acuerdo en su nombramiento dentro del término que para el efecto señale el juez, por el secretario del juzgado, pudiendo intervenir personalmente el juez cuando lo estime necesario.
+El inventario solemne se formará con intervención del Ministerio Público, solamente cuando sea beneficiaria la beneficencia pública, o cuando se solicite en los casos que haya menores o incapacitados. En los demás supuestos, por Notario designado por quienes tengan interés de que así se formen, si lo solicitan en tiempo la mayoría de los interesados, gastos que serán exclusivamente a costa de éstos; cuando no exista acuerdo mayoritario, el inventario se formará por el secretario del juzgado, pudiendo intervenir personalmente el juez cuando lo estime necesario.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 701.
 
-Antes de iniciarse la formación de inventarios solemnes deberá citarse a los interesados en la sucesión, por medio de cédula o correo con acuse de recibo.
+La solicitud para la formación de los inventarios solemnes solo podrá hacerse en la primera audiencia. Igual será para la beneficencia pública, si ya está enterada su representación de la existencia de la sucesión; si no lo está, podrá hacerlo dentro de los cinco días siguientes al día que se apersone al juicio, hasta antes de que concluya la segunda audiencia.
 
 ###### ARTICULO 702.
 
@@ -4827,9 +4875,11 @@ Cuando el albacea o los peritos juzguen conveniente razonar sobre alguno de los 
 
 Todos los objetos deberán estimarse según su estado y valor actuales.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 709.
 
-El albacea deberá concluir las operaciones de inventario y avalúo dentro de sesenta días contados desde el nombramiento del perito valuador o desde que se hubiere manifestado conformidad con que el avalúo sea hecho bajo su responsabilidad conforme al artículo 707. Si los bienes se encuentran ubicados a grandes distancias o si por la naturaleza de los negocios no se creyera bastante el término concedido, el juez podrá ampliarlo prudentemente hasta por otros sesenta días.
+Las operaciones de inventario y avalúo deberán concluir dentro de veinte días contados desde que el albacea acepte el cargo, conforme al artículo 696 de este código. Cuando los bienes se encuentren ubicados a grandes distancias o si por la naturaleza de los negocios no se creyera bastante el término concedido, el juez podrá ampliar el plazo hasta por otros veinte días.
 
 ###### ARTICULO 710.
 
@@ -4837,29 +4887,35 @@ Si pasados los términos que señalan los artículos 696 y 709 el albacea no pro
 
 La remoción a que se refiere el último precepto, se hará de plano.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 711.
 
-Presentados el inventario y avalúo, se correrá traslado de ellos por cinco días a cada uno de los interesados que no lo hubieren suscrito y transcurrido este término, si manifiestan su conformidad o no se evacuaron los traslados, el juez sin más trámite los aprobará o reprobará, con la reserva, en el primer caso, de que si aparecen nuevos bienes se listarán en el lugar respectivo.
+Presentados o formados el inventario y el avalúo en términos del artículo 696 de este Código, se convocará a todos los interesados a la audiencia que refiere el artículo 677 de este Código, quedando apercibidos que de no comparecer por sí o por medio de un apoderado con facultades suficientes para poder conciliar y suscribir convenios, se adjudicarán en copropiedad en los porcentajes que correspondan a todos los interesados los bienes hereditarios, contando el juez con las más amplias facultades de conciliación para tal efecto.
+
+En el supuesto de que los interesados lleguen a acuerdos, el juez, sin más trámite, los aprobará o reprobará, con la reserva, en el primer caso, de que si aparecen nuevos bienes se listarán en el lugar respectivo; en el segundo, de no existir en la misma audiencia después de la primera desaprobación de la propuesta en una segunda oportunidad un convenio, se procederá a la adjudicación de los bienes en copropiedad.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 712.
 
-Si se dedujere oposición contra el inventario y avalúo, ésta se substanciará en forma incidental, debiendo ser común la audiencia si fueren varias las oposiciones, y a ella concurrirán los interesados y el perito que hubiese practicado la valorización, para que con las pruebas rendidas se discuta la cuestión promovida.
+Si se dedujere oposición contra el inventario y avalúo, se substanciará con un escrito de cada interesado en el que manifieste concretamente en qué consiste su oposición, debiendo resolverse lo conducente en la segunda audiencia, antes de proceder a los acuerdos de partición o de adjudicación de los bienes en copropiedad.
 
-Si en la oposición se controvierte el avalúo, para darle curso es indispensable expresar concretamente cuál es el valor que se atribuye a cada uno de los bienes.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 713.
 
-En la tramitación de este incidente cada parte es responsable de la asistencia de los peritos que propusiere, de manera que la audiencia no se suspenderá por la ausencia de todos o de alguno de los propuestos.
-
-Si dejaren de presentarse los peritos perderán el derecho de cobrar honorarios por los trabajos practicados.
+En la tramitación de esta cuestión cada interesado es responsable de la presentación de sus pruebas, las que serán desahogadas en ésta audiencia.
 
 ###### ARTICULO 714.
 
 Si los reclamentes (sic) fueren varios o idénticas sus oposiciones, deberán nombrar representante común.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 715.
 
-La interlocutoria que se dicte en el caso del artículo 712 será apelable.
+La resolución que se dicte en los casos del artículo 712 será apelable, sólo en el supuesto del inventario o de no haber mediado el juez correctamente el porcentaje del veinte por ciento del valor entre la opinión del albacea, o en su caso, los peritajes respectivos.
 
 ###### ARTICULO 716.
 
@@ -4886,6 +4942,8 @@ Aprobados el inventario y el avalúo por el juez, no podrán reformarse sino por
 Los gastos de inventario y avalúo serán a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
 ### CAPITULO VI. De la Rendición de Cuentas
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 720.
 
@@ -4949,15 +5007,19 @@ Si nadie se presenta alegando derechos a la herencia o por no haber sido reconoc
 
 El dinero y alhajas se depositarán en la Secretaría de Finanzas, pero el juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 733.
 
-Aprobados el inventario y el avalúo de los bienes y terminados los incidentes a que uno y otro hubieren dado lugar se procederá a la liquidación del caudal.
+Aprobados el inventario y el avalúo de los bienes y resueltas las cuestiones a que uno y otro hubieren dado lugar se procederá a la liquidación del caudal.
 
 ### CAPITULO VII. De la Liquidación y Partición de la Herencia
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 734.
 
-El albacea, dentro de los quince días siguientes, a la aprobación del inventario, presentará al juzgado un proyecto de distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deba entregarse a los herederos y legatarios, en proporción a su haber. La distribución de los productos se hará en efectivo o en especie.
+El albacea, dentro de los diez días siguientes a la conclusión de la segunda audiencia, presentará al juzgado un proyecto de distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deba entregarse a los herederos y legatarios, en proporción a su haber. La distribución de los productos se hará en efectivo o en especie.
 
 ###### ARTICULO 735.
 
@@ -5007,7 +5069,7 @@ Las operaciones comprendidas en este capítulo y el precedente, se tramitarán p
 
 ###### ARTICULO 744.
 
-Aprobadas las operaciones de inventario y avalúo, dentro de los quince días siguientes presentará el albacea el proyecto de partición de los bienes, observando para ello lo que dispone el Código Civil y con sujeción a este capítulo y si no pudiere hacer por sí mismo la partición, lo manifestará al Juez dentro de los tres días de aprobados el inventario y el avalúo, a fin que se nombre contador que lo haga.
+Aprobados el inventario y avalúo en la segunda audiencia, en el supuesto de que no se llegó en ella a ningún acuerdo de adjudicación, si es presente la mayoría de los interesados y pidieren que se difiera la declaración de adjudicación de los bienes en copropiedad, el juez lo concederá por una sola vez por diez días para que en forma extrajudicial lleguen a los acuerdos correspondientes de partición y lo comuniquen al juzgado. Concluido el plazo sin que haya un acuerdo, quedarán por ministerio de ley adjudicados en copropiedad los bienes hereditarios a los herederos, y para su división, se procederá conforme a las reglas para la división de la cosa común previstas para la ejecución de sentencia, las especiales de este capítulo y las que resulten aplicables del Código Civil.
 
 ###### ARTICULO 745.
 
@@ -5035,49 +5097,47 @@ IV.- Los coherederos del heredero condicional, siempre que aseguren el derecho d
 
 V.- Los herederos del heredero que muere antes de la partición.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 747.
 
-Cuando el albacea no haga la partición por sí mismo, promoverá dentro del tercer día de aprobadas las operaciones de inventario y avalúo, la elección de un contador o abogado con título oficial registrado, para que haga la división de los bienes. El juez convocará a los herederos por medio de cédula, a una junta dentro de los tres días siguientes, a fin de que se haga en su presencia la elección.
+Para la segunda audiencia, se citará al cónyuge, aunque no tenga el carácter de heredero para ser tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal.
 
-Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propuestos.
-
-El cónyuge aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 748.
 
-El juez pondrá a disposición del partidor los autos, y bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, concediéndole el término que solicite, siempre que no exceda de sesenta días, para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de cinco a diez días de salario mínimo general vigente en el Estado.
+El valor para la venta de los bienes en la ejecución de sentencia, será integro el que haya fijado el albacea o perito que le asesore, en su caso, el que se obtuvo mediante los avalúos de que trata este capítulo.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 749.
 
-El partidor pedirá a los interesados las instrucciones que juzgue necesarias a fin de hacer las adjudicaciones de conformidad con ellos en todo lo que estén de acuerdo, o de conciliar en lo posible sus pretensiones.
-
-Podrá ocurrir al juez para que por cédula los cite a junta, a fin de que en ella los interesados fijen de común acuerdo las bases de la partición, que se considerará como un convenio. Si no hubiere conformidad, el partidor se sujetará a los principios legales.
-
 En todo caso, al hacerse la división se separarán los bienes que correspondan al cónyuge que sobreviva conforme a las capitulaciones matrimoniales o a las disposiciones que regulan la sociedad conyugal.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 750.
 
-El proyecto de partición se sujetará en todo caso a la designación de partes que hubiere hecho el testador.
+La partición se sujetará en todo caso a la designación de partes que hubiere hecho el testador. Si hubiere bienes gravados se especificarán los gravámenes, indicando el modo de redimirlos o de dividirlos entre los herederos.
 
-A falta de convenio entre los interesados, se incluirán en cada porción bienes de la misma especie si fuere posible.
-
-Si hubiere bienes gravados se especificarán los gravámenes, indicando el modo de redimirlos o de dividirlos entre los herederos.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 751.
 
-Concluído el proyecto de partición, el juez lo mandará poner a la vista de los interesados en la secretaría por un término de diez días. Vencido este término sin hacerse oposición o cuando se presente el proyecto suscrito de conformidad por todos los interesados, el juez lo aprobará y dictará sentencia de adjudicación mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el secretario, una nota en que se haga constar la adjudicación.
+Cuando se presente el acuerdo suscrito de conformidad por todos los interesados, el juez lo aprobará y dictará resolución de adjudicación mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el secretario, una nota en que se haga constar la adjudicación.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 752.
 
-Si se dedujere oposición contra el proyecto se substanciará en forma incidental, procurando, si fueren varios los opositores, que la audiencia sea común y concurran los interesados y el partidor para que se discutan las cuestiones promovidas y se reciban pruebas.
+Durante el desarrollo del juicio sucesorio, cualquier heredero o legatario tiene la facultad de pedir al juez su impulso.
 
-Para dar curso a la oposición será indispensable expresar concretamente el motivo de la inconformidad y las pruebas que se invoquen como base de la oposición.
-
-Si los que se opusieron dejaren de concurrir a la audiencia, se les tendrá por desistidos.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 753.
 
-Si la reclamación fuere relativa a la clase de bienes asignados y no hubiere convenio, los bienes que se discutan se venderán observándose lo dispuesto en los artículos 758 al 762.
+En cualquier momento del juicio sucesorio, hecha la declaración de herederos, estos y los legatarios pueden llegar a acuerdos hasta antes de los supuestos en que este título no lo permite.
 
 ###### ARTICULO 754.
 
@@ -5091,13 +5151,17 @@ En el caso del artículo anterior, la elección será del que deba pagar la here
 
 Los bienes que fueren indivisibles o que desmerezcan mucho en la división, podrán adjudicarse a uno de los herederos con la condición de abonar a los otros el exceso, en dinero.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 757.
 
-Si no pudiera realizarse lo dispuesto en el artículo anterior y los herederos no convinieren en usufructuar los bienes en común u otra manera de pago, se procederá a su venta, prefiriéndose al heredero que haga mejor postura.
+Si no pudiera realizarse lo dispuesto en el artículo anterior y los herederos no convinieren otra manera de pago, se procederá a su venta, prefiriéndose al heredero que haga mejor postura. En la venta siempre será preferente la puja de los herederos, en igualdad de circunstancias entre éstos y terceros.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 758.
 
-La venta se hará en pública subasta admitiendo licitadores extraños, siempre que haya menores o que alguno de los herederos lo pida.
+La venta siempre se hará en pública subasta, admitiendo licitadores extraños.
 
 ###### ARTICULO 759.
 
@@ -5107,29 +5171,43 @@ La diferencia que hubiere en el precio aumentará o disminuirá la masa heredita
 
 Si se suscitare cuestión sobre si los bienes admiten cómoda división, el juez oyendo a un perito que él nombre, decidirá lo que proceda en justicia.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 761.
 
-Si verificadas tres almonedas no hubiere postor para los bienes que no admitan cómoda división, se sortearán y al que designe la suerte se adjudicarán por la mitad de su valor.
+Si verificadas tres almonedas con rebaja cada una del diez por ciento, no hubiere postor para los bienes que no admitan cómoda división, se sortearán y al que designe la suerte se le adjudicarán en el último valor.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 762.
 
-Lo que en el caso del artículo anterior exceda de la cuota del heredero adjudicatario, será reconocido por éste, salvo convenio en otro sentido.
+Lo que en el caso del artículo anterior exceda de la cuota del heredero adjudicatario, será reconocido por éste a favor los demás herederos, salvo pacto en contrario.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 763.
 
-si la cosa adjudicada no cubriere la cuota del heredero adjudicatario y no pudiere completarse ésta con otros bienes, la diferencia se reconocerá sobre otro inmueble.
+Si la cosa adjudicada no cubriere la cuota del heredero adjudicatario y no pudiere completarse ésta con otros bienes, la diferencia se reconocerá, si lo hubiere, sobre otro inmueble, de no haberlo, se pagará la diferencia.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 764.
 
-Si varios herederos pretenden una misma cosa de la herencia, se licitará entre ellos y lo que se diere de más sobre su precio legítimo, entrará al fondo común.
+Si varios herederos pretenden una misma cosa de la herencia, previo a la subasta de los bienes en la ejecución de sentencia, y antes de que se emita el auto que convoca a los postores para su venta, se convocará a una audiencia especial por única ocasión por lista de acuerdos, y se licitará entre ellos, y lo que se diere de más sobre su precio legítimo, entrará al fondo común.
+
+De no adjudicarse a ninguno de los interesados los bienes, se continuará con el procedimiento de ejecución en el estado en que se encuentre.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 765.
 
-Si hubiere alguna cosa que todos rehusaren recibir, se observará lo dispuesto en el artículo 753 y los que en él se citan.
+Si hubiere alguna cosa que todos rehusaren recibir, se procederá a su venta en ejecución de sentencia.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 766.
 
-Cualquier heredero puede, aun después de sorteada la cosa, en los casos de los artículos 761 y 765 evitar la adjudicación por la mitad del precio aumentando éste y si hubiere varios pretendientes habrá lugar a la licitación.
+Cualquier heredero puede, antes de que se venda judicialmente alguna cosa, evitar su venta pagando el precio asignado en el avalúo con dinero; si hubiere varios pretendientes se estará a lo que prevé el artículo 764 de este Código.
 
 ###### ARTICULO 767.
 
@@ -5173,9 +5251,11 @@ II.- Los legatarios de cantidad, de alimentos, de educación y de pensiones, mie
 
 La adjudicación de bienes hereditarios se otorgará con las formalidades que la ley exige para su venta. El notario ante el que se otorgue la escritura será designado por el albacea.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 773.
 
-Contra la sentencia que apruebe o repruebe la partición, procede el recurso de apelación.
+En contra de la resolución que apruebe o repruebe la partición, procede el recurso de apelación.
 
 ### CAPITULO IX. Transmisión Hereditaria del Patrimonio Familiar
 
@@ -6342,3 +6422,23 @@ P.O. 22 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 412.- SE REFORMAN LOS ARTÍCULOS 1206, 1648 Y 1649 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 418.- SE REFORMA EL ARTÍCULO 572 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los quince días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Antes del inicio de vigencia del presente Decreto, los Poderes Ejecutivo y Judicial del Estado, establecerán el contenido del formato oficial a utilizar para la solicitud de atestados del registro civil, así como sus correspondientes medidas de seguridad, tales como firma y sello autorizados.
