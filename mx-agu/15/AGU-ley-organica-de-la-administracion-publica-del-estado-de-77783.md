@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2016-09-20"
+last_updated: "2016-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -38,10 +38,6 @@ Decreto Número 19
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, para quedar en los siguientes términos:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO TERCERO Y QUINTO DEL DECRETO NÚMERO 168 MEDIANTE EL CUAL SE APRUEBA LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2014, TODA REFERENCIA A LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE AGUASCALIENTES REALIZADA EN OTROS ORDENAMIENTOS, SE ENTENDERÁ HECHA A LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; ASÍ COMO TODA REFERENCIA AL ARTÍCULO 25 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE AGUASCALIENTES QUE SE (SIC) REALIZADA EN OTROS ORDENAMIENTOS, SE ENTENDERÁ HECHA AL ARTÍCULO 55 DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, RESPECTIVAMENTE.</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DEL 10 DE JUNIO DE 2013, LAS REFERENCIAS AL INSTITUTO DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES QUE HAGAN LAS LEYES Y DEMÁS DISPOSICIONES ADMINISTRATIVAS, EN ADELANTE SE ATENDERÁN REALIZADAS A LA SECRETARÍA DE LA JUVENTUD.</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
@@ -855,7 +851,7 @@ IV. Evaluar los programas de desarrollo económico y social del Estado y vigilar
 
 V. Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo de la Entidad;
 
-VI. Promover la simplificación del marco regulatorio en la forma que lo establece la Ley de Gestión Empresarial y Mejora Regulatoria del Estado, para facilitar e impulsar la actividad empresarial;
+VI. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2016)
 
 VII. (DEROGADA, P.O. 15 DE JUNIO DE 2015)
 
@@ -2248,3 +2244,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Para el efecto de cumplir con lo dispuesto en el presente Decreto las autoridades administrativas competentes tendrán un término de 180 días contados a partir de su publicación en el Periódico Oficial del Estado, para realizar las adecuaciones administrativas y reglamentarias necesarias a fin de garantizar la operatividad de lo dispuesto en la presente reforma.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 424.- SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
