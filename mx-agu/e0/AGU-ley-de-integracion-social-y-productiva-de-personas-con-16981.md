@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2015-06-15"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -41,9 +41,13 @@ LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
 ### CAPITULO I. Disposiciones Generales
 
-###### ARTICULO 1º.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-La presente Ley es de orden público y de interés social, su objeto es establecer las normas tendientes a la resolución de los problemas que afectan a las personas con discapacidad y que éstas puedan ser susceptibles de integrarse social y productivamente a la comunidad para su completa realización personal, y motivar a la población para que favorezca la incorporación de este grupo a las diferentes actividades de carácter social, cultural, laboral, educativas y deportivas, en condiciones de igualdad con el resto de la sociedad.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 1°.
+
+La presente Ley es de orden público y de interés social, su objeto es establecer las bases que permitan la plena inclusión de las personas con discapacidad, conforme al artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, con el propósito de asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales, dentro del marco de respeto, igualdad y equiparación de oportunidades, eliminando las barreras sociales para la incorporación de este grupo a las diferentes actividades de carácter social, cultural, laboral, educativas y deportivas.
 
 ###### ARTICULO 2º.
 
@@ -61,17 +65,35 @@ c).- Fomentar la participación así como apoyar la actividad de las organizacio
 
 Para los efectos de esta Ley se entiende por persona con discapacidad, aquella persona con algún impedimento físico o requerimiento especial, por padecer una alteración funcional prolongada o permanente, física o mental, que implique desventajas considerables para su integración familiar, escolar, socia, laboral, deportiva y política.
 
-###### ARTICULO 4º.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Las dependencias estatales y municipales dentro de sus plantes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas con discapacidad.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 4°.
+
+Las dependencias estatales y municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas con discapacidad.
+
+Las políticas públicas deberán contemplar la discapacidad como eje transversal, siendo éstas reflejadas en las líneas de acción de las dependencias y entidades de la administración pública Estatal y Municipal, en cualquier ámbito de actuación pública, tomando en cuenta las necesidades, los derechos y las demandas de las personas con discapacidad en todo el Estado.
+
+Las dependencias de la administración pública Estatal y Municipales en el ámbito de su competencia, impulsarán el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación, acciones afirmativas positivas que permitan la integración social de las personas con discapacidad.
+
+Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida social, cultural, económica y política.
+
+Las personas con discapacidad gozarán de todos los derechos que establece la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales sin distinción de origen étnico, nacionalidad, género, edad, condición social, económica o de salud, religión, opinión, estado civil, preferencias sexuales, embarazo, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad y que tenga por objeto anular o menoscabar los derechos y libertades de las personas. Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
+
+Las medidas contra la discriminación consisten en la prohibición de conductas que tengan por objeto o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, incomunicado, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
 
 ###### ARTICULO 5º.
 
 Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia del Estado, promover la interrelación sistemática de acciones en favor de las personas con discapacidad que lleven a cabo las instituciones públicas; además de operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de educación especial y asistencia social a este sector de la población.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 6º.
 
-El Ejecutivo del Estado, a través del Instituto de Salud del Estado, auxiliado por el Sistema para el Desarrollo Integral de la Familia, y de la Secretaría de Desarrollo Social del Estado, promoverá, ejecutará, y coordinará con la Federación y los Municipios, convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas de prevención de discapacidades, que tienda a la orientación, planeación familiar, consejo genético, atención perinatal, detección y diagnóstico precoz, asistencia pediátrica, en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo y en el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para alcanzar el objetivo de esta ley.
+El Ejecutivo del Estado, a través del Instituto de Servicios de Salud, auxiliado por el Sistema para el Desarrollo Integral de la Familia, y de la Secretaría de Bienestar y Desarrollo Social, promoverá, ejecutará, y coordinará con la Federación y los Municipios, convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas de prevención de discapacidades, que tienda a la orientación, planeación familiar, consejo genético, atención perinatal, detección y diagnóstico precoz, asistencia pediátrica, en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo y en el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para alcanzar el objetivo de esta ley.
 
 ###### ARTICULO 7º.
 
@@ -89,9 +111,29 @@ V.- Proponer al Ejecutivo del Estado programas alternativos para la organizació
 
 VI.- Establecer un seguimiento a los programas que se implementen para dar cumplimiento al objeto de esta ley;
 
-VII.- Realizar evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de competencia del presente instrumento legal, a efecto de presentar las observaciones que correspondan al Ejecutivo del Estado; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VIII.- Extender reconocimientos a las personas físicas o morales que se hayan distinguido permanentemente en la promoción y defensa de los derechos de las personas con discapacidad.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VII.- Realizar evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de competencia del presente instrumento legal, a efecto de presentar las observaciones que correspondan al Ejecutivo del Estado;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- Extender reconocimientos a las personas físicas o morales que se hayan distinguido permanentemente en la promoción y defensa de los derechos de las personas con discapacidad;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+IX.- Impulsar la participación solidaria de la sociedad y la familia en la preservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+X.- Promover campañas de comunicación efectivas de sensibilización pública en los medios, destinada a fomentar actitudes receptivas respecto de los derechos de las personas con discapacidad, y a promover percepciones positivas y una mayor conciencia social respecto de las características propias de las personas con discapacidad.
 
 ###### ARTICULO 8º.
 
@@ -107,19 +149,47 @@ d).- Un representante del Instituto de Educación de Aguascalientes;
 
 e).- Un representante del Instituto Cultural de Aguascalientes;
 
-f).- Un representante del Instituto de Salud del Estado de Aguascalientes;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-g).- Un representante de la Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+f).- Un representante del Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+g).- Un representante de la Secretaría de Bienestar y Desarrollo Social del Estado;
 
 h).- Un representante de la Secretaría de Desarrollo Económico;
 
-i).- Un representante del Instituto Aguascalentense del Deporte;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+i).- Un representante del Instituto del Deporte del Estado de Aguascalientes;
 
 j).- Un representante de la Dirección General del Trabajo del Estado;
 
 k).- Un representante del Consejo Estatal de las personas con discapacidad;
 
-l).- Representantes de Cámaras Empresariales y de Servicios a invitación del Presidente; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+l).- Representantes de Cámaras Empresariales y de Servicios a invitación del Presidente;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+m).- El Diputado Presidente de la Comisión de Derechos Humanos del Congreso del Estado;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+n).- El Presidente de la Comisión Estatal de Derechos Humanos; y
 
 El Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad podrá invitar a los representantes o delegados de las autoridades federales en el Estado para que asistan a las reuniones del mismo y en su caso propongan o emitan las opiniones respecto de asuntos que sean de su competencia.
 
@@ -147,7 +217,11 @@ IV.- Promover y fomentar acciones en favor de las personas con discapacidad;
 
 V.- Dar cumplimiento y seguimiento a los convenios que firme el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Aguascalientes que tengan por objeto la promoción integral de las personas con discapacidad en el Estado;
 
-VI.- Vigilar que los apoyos otorgados a las personas físicas y morales cuyos objetivos sean la atención a personas con discapacidad sean aplicados para los fines para los cuales les fueron otorgados;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VI.- Vigilar que los apoyos otorgados a las personas físicas y morales cuyos objetivos sean la atención a personas con discapacidad sean aplicados para los fines para los cuales les fueron otorgados. Será prioridad la atención de aquellas personas con discapacidad que sufren un grado mayor de discriminación, como son, las personas con discapacidad con grado severo, las que viven en el área rural, o bien las que no pueden representarse a sí mismas;
 
 VII.- Llevar a cabo un padrón de personas con discapacidad y de instituciones legalmente constituidas;
 
@@ -221,9 +295,35 @@ V.- Educación especial;
 
 VI.- Incorporación laboral;
 
-VII.- Creación de bolsas de trabajo para personas con discapacidad; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VIII.- Incorporación y entrenamiento físico especializado.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VII.- Creación de bolsas de trabajo para personas con discapacidad;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- Incorporación y entrenamiento físico especializado;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+IX.- Asesorar a las personas con discapacidad agredidas física, emocional o sexualmente, tratadas con negligencia, que no cuenten con una familia o se encuentren en estado de abandono, tengan acceso a los medios que les permitan ejercer su autonomía y desarrollar una vida digna;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+X.- Asesorar sobre la construcción en vivienda, de la estructura y servicios adecuados para personas con discapacidad; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XI.- Impulsar la inclusión de personas con discapacidad en todas las actividades que puedan desempeñar en la Administración Pública del Estado de Aguascalientes y de los Municipios.
 
 ###### ARTICULO 20.
 
@@ -264,6 +364,12 @@ Los servicios de albergues y centros comunitarios tienen el objetivo de atender 
 ###### ARTICULO 26.
 
 Estos albergues y centros comunitarios podrán ser promovidos por la Administración Pública Estatal o Municipal, organizaciones privadas o por las propias personas con discapacidad y sus familiares.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+La Comisión Estatal de Derechos Humanos tendrá la facultad de revisar los albergues y centros comunitarios, para garantizar la tutela de los derechos de las personas con discapacidad.
 
 ###### ARTICULO 27.
 
@@ -321,6 +427,12 @@ El apoyo y orientación psicológicos tendrán en cuenta las características in
 
 De conformidad con el Plan Nacional de Educación, el Poder Ejecutivo del Estado a través del Instituto de Educación de Aguascalientes, deberá vigilar que todas aquellas personas con discapacidad, a quienes les resulte imposible la integración en el sistema educativo ordinario, se incorporen al sistema educativo especial.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+En el sistema educativo ordinario, tanto público como privado en todos sus niveles, el Instituto de Educación de Aguascalientes, deberá brindar trato digno y garantizar que las instalaciones cuenten con las especificaciones técnicas de accesibilidad y seguridad para las personas con discapacidad.
+
 ###### ARTICULO 37.
 
 La educación especial de los alumnos con posibilidades de integración se impartirá en las instituciones ordinarias, públicas o privadas del sistema educativo mediante la adaptación de los planes básicos de la currícula y programas de apoyo, según las condiciones de las deficiencias que afecten a cada alumno y se iniciarán tan pronto como requiera cada caso, acomodando su ulterior proceso al desarrollo psicológico de cada sujeto y no a criterios estrictamente cronológicos.
@@ -355,9 +467,13 @@ La educación especial deberá contar con el personal interdisciplinario técnic
 
 Todo personal que intervenga en la educación especial deberá poseer la especialización, experiencia y aptitudes necesarias, dará un trato humano y profesional, se procurará que en el área de elaboración de los programas correspondientes se cuente además con título profesional.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 43.
 
-Todos los hospitales, tanto infantiles como de rehabilitación que funcionen con cargo a recursos públicos, deberán contar con una sección pedagógica la cual será coordinada, supervisada y atendida por el Instituto de Educación de Aguascalientes y el Instituto de Salud de Aguascalientes, para prevenir la marginación del proceso educativo de los alumnos en edad escolar internados en esos hospitales.
+Todos los hospitales, tanto infantiles como de rehabilitación que funcionen con cargo a recursos públicos, deberán contar con una sección pedagógica la cual será coordinada, supervisada y atendida por el Instituto de Educación de Aguascalientes y el Instituto de Servicios de Salud del Estado de Aguascalientes, para prevenir la marginación del proceso educativo de los alumnos en edad escolar internados en esos hospitales.
 
 ### CAPITULO VIII. Rehabilitación Socio-económica
 
@@ -465,9 +581,29 @@ Son derechos que esta Ley reconoce y protege en favor de las personas con algún
 
 I.- Desplazarse libremente en los espacios públicos;
 
-II.- Disfrutar de los servicios públicos en igualdad de circunstancias que cualquier otro ciudadano; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-III.- Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos y de transporte, mediante la construcción de las especificaciones arquitectónicas de diseño y mecánicas de los medios de transporte apropiadas.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+II.- Disfrutar de los servicios públicos en igualdad de circunstancias que cualquier otro ciudadano;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+III.- Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos y de transporte, mediante la construcción de las especificaciones arquitectónicas de diseño y mecánicas de los medios de transporte apropiadas;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+IV. Contar con espacios físicos donde se realicen, practiquen o presenten actividades deportivas y culturales, con las especificaciones técnicas para garantizar la accesibilidad y la seguridad de las personas con discapacidad que participen como espectadores, deportistas o artistas; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+V. Tener acceso a equipo especializado para diferentes tipos de discapacidad en los sitios públicos, adecuado a los nuevos avances de la tecnología de la información y las comunicaciones, como instrumentos de lectura y escritura para la comunicación táctil, los macrotipos, los dispositivos multimedia de fácil acceso, así como el lenguaje escrito, los sistemas auditivos, los medios de voz digitalizada y formatos aumentativos o alternativos de comunicación. Los gobiernos estatales y municipales garantizarán estos derechos de acuerdo con la disponibilidad presupuestaria.
 
 ###### ARTICULO 63.
 
@@ -483,7 +619,11 @@ En los vehículos de transporte colectivo, los cuatro primeros asientos, serán 
 
 Los concesionarios podrán realizar convenios con las diversas Instituciones públicas y privadas para establecer beneficios en los vehículos de transporte para personas con discapacidad.
 
-Esta disposición será aplicable en los vehículos con capacidad para más de diez pasajeros y su aplicación corresponderá coordinadamente con la Secretaría de Desarrollo Social y la Dirección General de Seguridad Pública y Vialidad del Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Esta disposición será aplicable en los vehículos con capacidad para más de diez pasajeros y su aplicación corresponderá coordinadamente con la Secretaría de Bienestar y Desarrollo Social del Estado y la Dirección General de Seguridad Pública y Vialidad del Estado.
 
 El Ejecutivo del Estado promoverá que los autobuses de transporte urbano estén adaptados para el ascenso y descenso de personas con discapacidad. Estos vehículos transitarán por las rutas de mayor circulación, con base en el estudio realizado por las autoridades competentes y a la demanda de la población.
 
@@ -515,7 +655,11 @@ El incumplimiento a las disposiciones contenidas en esta Ley, será motivo para 
 
 I.- Amonestación;
 
-II.- Multa de uno hasta mil veces de salario mínimo vigente en la Entidad a la fecha en que ocurra el incumplimiento;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa de diez hasta mil veces la unidad de medida y actualización vigente en la Entidad a la fecha en que ocurra el incumplimiento;
 
 III.- Arresto hasta por treinta y seis horas;
 
@@ -524,6 +668,12 @@ IV.- Clausura parcial o total, temporal o definitiva de las fuentes o actividade
 V.- Aseguramiento de objetos con los cuales se cause perjuicio a las personas tuteladas por esta Ley; y
 
 VI.- Tratándose de Servidores Públicos, la sanción será desde la amonestación hasta la destitución del cargo, de conformidad con lo que establece la Ley de Responsabilidades de Servidores Públicos del Estado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+En el caso de que se imponga las sanciones contempladas en las fracciones I, II y III de este artículo, el infractor deberá asistir a un curso sobre Derechos Humanos, que contemple temas sobre la cultura de la dignidad y respeto de las personas con discapacidad, con el objeto de sensibilizar y concientizar, a fin de eliminar las costumbres y estereotipos que afectan a las personas con discapacidad. Dicho curso será impartido por el personal especializado de la Comisión Estatal de Derechos Humanos.
 
 ###### ARTICULO 69.
 
@@ -648,3 +798,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 423.- REFORMAS Y ADICIONES A LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a los noventa días siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
