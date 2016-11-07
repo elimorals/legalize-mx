@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-10-21"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -285,9 +285,19 @@ Las normas relativas a los Derechos Humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado y los Municipios deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes.
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación, a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, al desarrollo urbano sustentable, a la movilidad universal y a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación, a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+El Estado garantizará el derecho de toda persona a la movilidad universal, atendiendo a los principios de igualdad, accesibilidad, disponibilidad y sustentabilidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 El acceso al agua para consumo personal y doméstico es un derecho que tiene toda persona. La Ley garantizará su distribución y saneamiento; las autoridades en la materia tienen la obligación de respetar, proteger y cumplir con la prestación de éste servicio en los términos de la Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
 
@@ -331,7 +341,7 @@ I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y
 
 II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La Ley determinará los supuestos específicos en que procederá la declaración de inexistencia de la información.
 
-III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley.
+III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la Ley.
 
 IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación, cancelación y oposición al tratamiento de éstos en los términos que establezca la Ley.
 
@@ -525,7 +535,11 @@ Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por l
 
 La planeación estatal del desarrollo es un medio para el eficiente y eficaz desempeño de la responsabilidad del Gobierno del Estado y de los Gobiernos Municipales con relación al desarrollo integral de la entidad y tenderá a alcanzar los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Baja California.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+El Gobierno del Estado y los Gobiernos Municipales en el ámbito de sus respectivas competencias proveerán las medidas necesarias para el ordenamiento territorial de los asentamientos humanos, estableciendo adecuadas provisiones, usos, reservas y destino de tierras, aguas y bosques de jurisdicción estatal, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población y las ciudades, con el objeto de garantizar un desarrollo urbano sustentable para elevar el nivel y la calidad de vida de la población urbana y rural, en los términos del párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 Corresponde al Ejecutivo del Estado, así como a los Gobiernos Municipales, en los términos que dispongan las leyes, coordinarse con el Consejo Nacional de Evaluación de la Política de Desarrollo Social a efecto de dar seguimiento a las recomendaciones en los rubros de medición de la pobreza y evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social. El Ejecutivo del Estado y los Gobiernos Municipales crearán los órganos de coordinación que correspondan para la evaluación de las políticas de desarrollo social en el Estado.
 
@@ -977,9 +991,13 @@ XXXIX.- Elegir por mayoría calificada, al titular de la Comisión Estatal de lo
 
 XL.- A solicitud del Presidente de la Comisión Estatal de Derechos Humanos, citar a las autoridades o servidores públicos responsables, que no acepten o incumplan las recomendaciones de la Comisión Estatal de Derechos Humanos, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-XLI.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
+XLI.- Legislar en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano sustentable de los centros de población, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos, en la presente Constitución y en las leyes aplicables; y
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XLII.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
 
 ### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
@@ -1367,7 +1385,9 @@ XVIII.- Tener el mando directo de la fuerza pública de los municipios cuando el
 
 XIX.- Conceder licencias de acuerdo a la Ley del Servicio Civil y demás disposiciones aplicables en la materia y aceptar las renuncias de los funcionarios y empleados del Ejecutivo;
 
-XX.- Proveer a la ejecución de las obras públicas;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Proveer a la ejecución de las obras públicas y dictar las medidas necesarias para el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sustentable, así como participar en coordinación con los Municipios, en la planeación y regulación de las zonas de conurbación, en los términos que establezcan las leyes aplicables.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2165,7 +2185,9 @@ Sin perjuicio de su competencia constitucional, en el desempeño de las funcione
 
 En los términos de las leyes federales y estatales relativas, corresponde a los municipios:
 
-I.- Participar en la formulación de los planes de desarrollo regional. Cuando el Gobierno del Estado formule proyectos de planes o programas de desarrollo regional, asegurará la intervención de los municipios que deban involucrarse;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como participar en la formulación de los planes de desarrollo regional. Cuando el Gobierno del estado formule proyectos de planes o programas de desarrollo urbano o regional, asegurará la intervención de los municipios que deban involucrarse;
 
 II.- Participar en la creación y administración de sus reservas territoriales;
 
@@ -2185,11 +2207,21 @@ VIII.- Garantizar la sustentabilidad del desarrollo en su territorio, creando la
 
 IX.- Prestar y regular en sus competencias territoriales el servicio de transporte público;
 
-X.- Regular, autorizar, controlar y vigilar en sus competencias territoriales, la venta, almacenaje y consumo público de bebidas con graduación alcohólica;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-XI.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y
+X.- Reglamentar en los términos de la Ley aplicable, el transporte sustentable de personas no motorizado, así como su incorporación a la política ambiental y de desarrollo urbano municipal;
 
-XII.- Las demás que establezcan las Leyes.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XI.- Regular, autorizar, controlar y vigilar en sus competencias territoriales, la venta, almacenaje y consumo público de bebidas con graduación alcohólica;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XII.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XIII.- Las demás que establezcan las Leyes.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2200,6 +2232,10 @@ Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y as
 Tratándose de la asociación con municipios de otros estados, se deberá contar con la aprobación del Congreso del Estado.
 
 Cuando a juicio del Ayuntamiento respectivo resulte necesario, se podrá convenir con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y por el propio Municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Cuando dos o más centros urbanos situados en territorios de dos o más municipios, tanto del Estado como de otras entidades federativas colindantes, presenten conurbación, entendida como una continuidad física, demográfica económica y social que formen o tiendan a formar dos o más centros de población, la federación, las entidades federativas y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros, con apego a las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2567,17 +2603,21 @@ El destino de las donaciones intervivos o testamentarias hechas conforme a las l
 
 Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 104.
 
 La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo de la esposa y de los hijos.
 
+Para complementar lo anterior, la vivienda será considerada como un área prioritaria para el desarrollo del Estado y será objeto de protección especial por parte de las autoridades en los términos que establezcan las leyes respectivas.
+
 El Estado y Municipios por conducto de sus oficialías del registro civil establecerán los mecanismos de coordinación necesarios para el registro gratuito e inmediato del recién nacido y la entrega gratuita de la primera copia certificada del acta de nacimiento. Para el cumplimiento de este fin, podrán realizar los convenios que correspondan con las instituciones públicas o privadas de salud.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+Asimismo, para garantizar la seguridad jurídica inmobiliaria en el Estado, la Ley establecerá los mecanismos y procedimientos para la modernización y vinculación del Registro Público de la Propiedad y los catastros municipales, con información armonizada y homologada conforme a las disposiciones federales aplicables.
 
-Asimismo, para garantizar la seguridad jurídica inmobiliaria en el Estado, la ley establecerá los mecanismos y procedimientos para la modernización y vinculación del Registro Público de la Propiedad y los catastros municipales, con información armonizada y homologada conforme a las disposiciones federales aplicables.
+Se consideran de interés social y utilidad pública el ordenamiento territorial de los asentamientos humanos; las declaratorias sobre usos, reservas y destinos de predios; la zonificación y planes de desarrollo urbano; los programas de regulación de la tenencia de la tierra; la protección y determinación de reservas ecológicas y la construcción de vivienda de interés social; la planeación y regulación para la fundación, conservación, mejoramiento y crecimiento de los polos de desarrollo, ciudades medias y áreas concentradoras de servicios.
+
+El Ejecutivo del Estado y los Ayuntamientos ejercerán sus atribuciones en materia de desarrollo urbano sustentable procurando la interrelación de las ciudades y el campo; distribuyendo equitativamente los beneficios y cargas del proceso de urbanización y las actividades económicas en el territorio del Estado; y previniendo riesgos y contingencias ambientales y urbanas en los centros de población, en los términos de las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -4272,3 +4312,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En un plazo no mayor al de 365 días contados a partir de la entrada en vigor del presente Decreto, los ayuntamientos del Estado deberán emitir las disposiciones reglamentarias correspondientes.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 583 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 11, 27, 49, 83, 84 Y 104 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
