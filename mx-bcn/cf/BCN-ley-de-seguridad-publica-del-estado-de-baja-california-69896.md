@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2016-10-21"
+last_updated: "2016-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -1759,11 +1759,21 @@ Los estímulos se ajustarán a lo establecido en el Decreto de Presupuesto de Eg
 
 La promoción es el acto mediante el cual se otorga a los Miembros de las Instituciones Policiales, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
 
-Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediato correspondiente a su grado o cuando se actualice la promoción post morten (sic).
 
 Al Miembro que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
 
 Para ocupar un grado dentro de las Instituciones Policiales se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+ARTÍCULO 125 BIS.- Cuando algún integrante de las instituciones policiales pierda la vida como consecuencia de actos del servicio excepcionalmente meritorios, en condiciones de heroísmo, sobresaliente capacidad profesional o entrega total al servicio a la patria o a la institución perteneciente, las instancias responsables del Servicio Profesional de Carrera Policial, reunirá los elementos de juicio que acrediten las circunstancias extraordinarias y, de ser el caso, propondrá al Titular a cargo de la Institución la promoción post mortem del policía.
+
+La Secretaría respectiva remitirá al Sistema Nacional de Seguridad Pública un informe anual que contenga las consideraciones y valoraciones para el otorgamiento de las promociones otorgadas.
+
+Los beneficiarios de los policías ascendidos en los términos del presente artículo, tendrán derecho a las prestaciones sociales correspondientes al grado inmediato superior concedido, independientemente de los años de servicio y años de grado que haya cumplido.
 
 ###### ARTÍCULO 126.
 
@@ -2582,3 +2592,11 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 682 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 57 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 Único: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 648 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 125 Y LA ADICIÓN AL ARTÍCULO 125 BIS DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La adición al artículo 125 de la Ley de Seguridad Pública del Estado, entrará en vigor el día siguiente al de su publicación en el periódico oficial del estado.
+
+SEGUNDO.- Para dar cumplimiento a lo establecido en el artículo 125 bis del presente decreto, se deberán hacer las adecuaciones necesarias en los respectivos presupuestos, a efecto de su entrada en vigor en el próximo ejercicio gubernamental correspondiente al año 2017.
