@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2016-08-22"
+last_updated: "2016-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -38,8 +38,6 @@ Decreto Número 331
 ###### ARTÍCULO PRIMERO.
 
 Se aprueba el Código Penal para el Estado de Aguascalientes, para quedar en los siguientes términos:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO OCTAVO TRANSITORIO DEL PRESENTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2013, TODA REFERENCIA A LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES QUE SE REALICE EN OTRAS LEYES SE ENTENDERÁ HECHA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES.</small>
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
@@ -1133,11 +1131,19 @@ III. La comercialización, distribución o difusión, de fotografías o videogra
 
 IV. El almacenamiento o posesión, con fines de comercialización, de fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+V. Extraer o utilizar de forma indebida, imágenes de actos de exhibicionismo corporal o de carácter sexual, contenidos en un aparato para el procesamiento de datos o cualquier dispositivo de almacenamiento de información, en perjuicio de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo.
+
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá, mostrar la vagina, pene, senos, glúteos o ano.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Al responsable de Pornografía infantil y de incapaces se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de 12 años de edad, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Al responsable de Pornografía infantil y de incapaces se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de 12 años de edad o persona que no tenga capacidad para comprender el significado del hecho o resistirlo, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -1779,7 +1785,9 @@ Al responsable de Usurpación de Profesiones se le aplicarán de 6 meses a 5 añ
 
 Ejercicio indebido del propio derecho. El Ejercicio Indebido del Propio Derecho consiste en el empleo de la violencia física o moral, o la furtividad, para hacer efectivo un derecho o pretendido derecho que puede ejercitarse por vía legal.
 
-Al responsable de Ejercicio Indebido del Propio Derecho se le aplicarán de 6 meses a 3 años de prisión y de 15 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Al responsable de Ejercicio Indebido del Propio Derecho se le aplicarán de 6 meses a 3 años de prisión y de 15 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el Ejercicio Indebido del Propio Derecho se usó para lograr el pago de una deuda o supuesta deuda, se aplicarán de 9 meses a 3 años con 6 meses de prisión, de 30 a 60 días multa y el pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 165.
 
@@ -2062,6 +2070,12 @@ I. Acceder a la información contenida en un aparato para el procesamiento de da
 II. Interferir el buen funcionamiento de un sistema operativo, programa de computadora, base de datos o cualquier archivo informático, sin autorización de su propietario o poseedor legítimo.
 
 Al responsable del Acceso Informático Indebido se le aplicará de 1 a 3 meses de prisión, de 150 a 300 días multa así como el pago de la reparación de los daños y perjuicios ocasionados. Si quien realiza el Acceso Informático Indebido es el responsable del mantenimiento o seguridad del sistema de información sobre el que se perpetra, se le aplicará de 2 a 6 meses de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Si mediante el Acceso Informático Indebido referido en la Fracción I, se accede o difunden imágenes o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales de cualquier persona, sin permiso de ésta o bien, del propietario o tenedor legítimo del aparato para el procesamiento de datos o del dispositivo de almacenamiento de información de que se trate, al responsable se le aplicará de 1 a 3 años de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
 
 ### CAPÍTULO XIV. Tipos Penales Protectores de la Dignidad de los Muertos
 
@@ -2355,11 +2369,89 @@ Para la adecuada aplicación de la presente figura típica, se entiende por vía
 
 Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transporte Culposos se le aplicarán de 3 meses a 2 años de prisión y de 10 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 200.
 
 Atentados al equilibrio ecológico culposos. Los Atentados al Equilibrio Ecológico Culposos consisten en desechar, descargar, o realizar actos con materiales o residuos que ocasionen o puedan ocasionar daños; o despedir o descargar en la atmósfera, gases, humos y polvos que ocasionen o puedan ocasionar daños; o descargar, depositar o infiltrar aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos y demás depósitos o corrientes de agua, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, rebasando los límites fijados en las normas técnicas propuestas por la Ley de Protección Ambiental para el Estado de Aguascalientes, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
 
 Al responsable de Atentados al Equilibrio Ecológico Culposos, se le aplicarán de 6 meses a 4 años de prisión, de 10 a 100 días multa, reparación total de los daños y perjuicios causados y suspensión, privación e inhabilitación de derechos, funciones, cargos, comisiones, empleos o profesiones de 6 meses a 2 años.
+
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+# LIBRO TERCERO. INDEMNIZACIONES
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+## TÍTULO ÚNICO. PROCEDENCIA DE LA INDEMNIZACIÓN POR PRIVACIÓN DE LA LIBERTAD O CONDENA INJUSTA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 201.
+
+Derecho de indemnización. Si el procesado es liberado por haber sido privado de su libertad injustamente, es absuelto, se dicta el sobreseimiento a su favor, o se declara procedente su reconocimiento de inocencia, por decisión de la propia autoridad judicial o por cumplimiento de ejecutoria de amparo, será indemnizado en razón del tiempo de privación de libertad, salvo que él haya provocado su propia persecución u ocultado o alterado dolosamente la prueba que condujo al error judicial.
+
+Este precepto también regirá en los procedimientos que tengan por objeto la aplicación de una medida de seguridad.
+
+En caso de fallecimiento del titular del derecho a recibir indemnización, éste pasará a su cónyuge, concubina, concubinario, hijos, o demás herederos o dependientes económicos.
+
+La aplicación de una ley posterior más benigna durante el procedimiento que torne injusta la pena o la medida de seguridad, no habilitará la indemnización regulada en este título.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 202.
+
+Trámite para otorgar la indemnización. La persona que tenga derecho a la indemnización referida en el Artículo 201 de este Código, podrá hacerla válida mediante escrito presentado ante el Pleno del Supremo Tribunal de Justicia, luego de que cause estado la sentencia o la resolución que declare el sobreseimiento; tratándose del reconocimiento de inocencia, se procederá conforme a lo dispuesto por el Artículo 490 del Código Nacional de Procedimientos Penales y se fijará el importe de la indemnización conforme a las reglas previstas en el Artículo 203 de este Código.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 203.
+
+Bases para el cálculo. El Pleno del Supremo Tribunal de Justicia requerirá al Juez para que le remita el expediente, y fijará el importe de la indemnización con base a las siguientes reglas:
+
+l. Si la persona estaba desempleada al momento de dar inicio la privación de su libertad, se le deberá indemnizar en razón de un día de salario mínimo general vigente por cada día, hasta que concluya tal privación;
+
+II. Si la persona tenia empleo al momento de dar inicio la privación de su libertad y al concluirla aún lo conserva, deberá recibir indemnización a razón del salario real que dejó de percibir en su fuente de empleo, además de las prestaciones laborales que no haya gozado por estar privada de la libertad;
+
+III. En caso de que la persona contara con empleo al momento de dar inicio la privación de su libertad, y que en el transcurso del periodo que dure tal privación se le rescindiera su relación laboral, deberá recibir indemnización equivalente a las prestaciones que con motivo de un despido injustificado ordena la legislación laboral aplicable;
+
+IV. En caso de que al momento de dar inicio la privación de la libertad de la persona, ésta no fuera un trabajador asalariado pero desarrollara alguna actividad económica por cuenta propia, deberá recibir indemnización equivalente al promedio de ingresos que por dicha actividad recibía diariamente hasta el momento de su detención, multiplicado por el número de días que haya estado privada de su libertad.
+
+La autoridad judicial deberá allegarse por sí, o bien, a través de las partes o terceros, información suficiente para fijar el monto de la indemnización.
+
+En la resolución en que se ordene la indemnización, se podrá establecer la conducta que hubiere propiciado el error judicial.
+
+En todo caso, se deberá ordenar la publicación en el Periódico Oficial del Estado, de un extracto de la sentencia o de la resolución que declare su absolución, sobreseimiento o reconocimiento de inocencia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 204.
+
+Ejercicio de otras vías. La indemnización que se otorgue en términos del Artículo anterior, no será impedimento para que quien la reciba pueda ejercer otras acciones ante los tribunales competentes por la vía que corresponda.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 205.
+
+Obligación indemnizatoria. El Estado pagará la indemnización regulada en este título haciendo uso, preferentemente, del Fondo para la Indemnización de Sentenciados Absueltos; una vez pagada la indemnización, el Poder Ejecutivo, a través de la vía civil correspondiente, podrá exigir la cantidad erogada a los particulares que hayan contribuido al error judicial; tratándose de servidores públicos que hayan intervenido por el ejercicio de sus funciones, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, en materia de responsabilidad administrativa resarcitoria.
+
+El Fondo para la Indemnización de Sentenciados Absueltos, únicamente podrá ser destinado a lo establecido por este título y estará integrado por:
+
+I. La aportación anual que se le asigne en el Presupuesto de Egresos del Estado de Aguascalientes;
+
+II. Las aportaciones que para este fin realicen los particulares u organismos privados, públicos y sociales, nacionales e internacionales de manera altruista;
+
+III. Los productos financieros que se obtengan de las inversiones y reinversiones de los recursos asignados al Fondo;
+
+IV. Lo recuperado por el Estado en términos del primer párrafo del presente Artículo; y
+
+V. Los demás ingresos que por ley le sean asignados.
+
+La Secretaría de Finanzas del Estado, constituirá este Fondo y lo pondrá a disposición del Supremo Tribunal de Justicia del Estado, a fin de que entregue las indemnizaciones correspondientes.
+
+En ningún caso, la Secretaría de Finanzas del Estado podrá disponer del capital mediante el que se constituya el Fondo, mismo que se deberá invertir en valores gubernamentales de renta fija del más alto rendimiento, a fin de que se incremente con los intereses que se acumulen.
 
 T R A N S I T O R I O S
 
@@ -2457,7 +2549,7 @@ SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 9 de mayo de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 11 DE NOVIEMBRE DE 2013.
 
@@ -2540,3 +2632,37 @@ P.O. 22 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 417.- SE REFORMA EL ARTÍCULO 164, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 420.- SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 117 Y 181 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia dentro del término de 120 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado constituirá la Unidad Especializada en Delitos Informáticos, dentro del término de 120 días naturales contados a partir del día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado de Aguascalientes; dicha Unidad estará encargada de auxiliar al Ministerio Público en la investigación de las conductas relacionadas con el presente Decreto y otros tipos penales cometidos a través de plataformas informáticas.
+
+Dentro del término referido en el párrafo anterior, la Fiscalía General del Estado deberá realizar los ajustes pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado y a toda su normatividad interna, a efecto de constituir y poner en funcionamiento a la Unidad Especializada en Delitos Informáticos.
+
+P.O. 7 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 421.- SE ADICIONA UN LIBRO TERCERO DENOMINADO “INDEMNIZACIONES” AL CAPÍTULO ÚNICO Y LOS ARTÍCULOS 201, 202, 203, 204 Y 205 AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Fondo para la Indemnización de Sentenciados Absueltos referido en el Artículo 204 de este Decreto, es el mismo que prevé el Artículo 303 del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del Decreto 331 publicado en el Periódico Oficial del Estado el 20 de mayo de 2013.
