@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2016-04-26"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO SIN NÚMERO DE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, VÉASE LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO PUBLICADOS EN EL P.O. DE 18 DE AGOSTO DE 2014.
-
-NOTA 2. LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014, SU AMPLIACIÓN Y REFORMA PUBLICADAS EN LOS P.O. DE FECHAS 10 DE OCTUBRE DE 2015 Y 26 DE ABRIL DE 2016 RESPECTIVAMENTE; POR LO QUE PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -67,9 +63,17 @@ IV. Fiscalía General: La Fiscalía General del Estado de Nayarit;
 
 V. Fiscal General: El Fiscal General del Estado de Nayarit;
 
-VI. Instituto: El Instituto de Capacitación Especializada en Procuración de Justicia, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VII. Servicio de carrera: Al Servicio de Carrera de Procuración de Justicia.
+VI. Instituto: El Instituto de Capacitación Especializada en Procuración de Justicia;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII. Servicio de carrera: Al Servicio de Carrera de Procuración de Justicia, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VIII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## Título Segundo. De la Fiscalía General
 
@@ -1157,9 +1161,11 @@ La amonestación es el acto mediante el cual se le llama la atención al servido
 
 La amonestación podrá ser pública o privada dependiendo de las circunstancias específicas de la falta y, en ambos casos, se comunicará por escrito al infractor, archivándose una copia de la misma en su expediente personal.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 83.
 
-La sanción económica que se podrá imponer al infractor será de entre diez hasta cien días de salario mínimo vigente en el Estado. La imposición de esta sanción no será obstáculo para que el servidor público desempeñe sus funciones ordinariamente.
+La sanción económica que se podrá imponer al infractor será de entre diez hasta cien veces la UMA. La imposición de esta sanción no será obstáculo para que el servidor público desempeñe sus funciones ordinariamente.
 
 ###### Artículo 84.
 
@@ -1364,3 +1370,9 @@ Segundo.- El presente Decreto deberá difundirse mediante Bando Solemne en el Es
 Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las Legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
 
 Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaria Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
