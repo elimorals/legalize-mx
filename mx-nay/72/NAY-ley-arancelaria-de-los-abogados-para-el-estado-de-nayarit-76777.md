@@ -4,7 +4,7 @@ identifier: "NAY-ley-arancelaria-de-los-abogados-para-el-estado-de-nayarit-76777
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-04"
-last_updated: "2010-09-04"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ARANCELARIA DE LOS ABOGADOS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 4 de septiembre de 2010.
 
@@ -75,9 +75,11 @@ La autorización para oír y recibir notificaciones hecha a favor de un licencia
 
 Las acciones sobre honorarios profesionales deberán plantearse por los interesados ante el juez competente, en la vía civil, según corresponda.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-Para los efectos de aplicación de esta ley, por día de salario deberá entenderse el equivalente al salario mínimo general vigente en la entidad, en el momento que se haga exigible el pago por concepto de honorarios profesionales.
+Para los efectos de aplicación de esta ley, por UMA deberá entenderse el equivalente al valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 10.
 
@@ -95,17 +97,21 @@ Si varias personas encomiendan un negocio, todas ellas serán solidariamente res
 
 ### Capítulo II. De la consultoría jurídica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 13.
 
-La consulta jurídica es la pregunta o propuesta que se hace a un licenciado en derecho o abogado respecto de algún asunto pidiéndole su orientación, consejo u opinión profesional. Se cobrará de 6 a 12 días de salarios dependiendo la importancia técnica y económica del asunto.
+La consulta jurídica es la pregunta o propuesta que se hace a un licenciado en derecho o abogado respecto de algún asunto pidiéndole su orientación, consejo u opinión profesional. Se cobrará dependiendo la importancia técnica y económica del asunto de 6 a 12 veces la UMA.
 
 Por cada consulta entregada por escrito, según la importancia del asunto, las dificultades técnicas del negocio y extensión de éste, podrá cobrarse un 30% adicional del costo que resulte de la cantidad estipulada según las tarifas del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Por la vista, lectura o examen de los demás documentos de expedientes para instruirse en el asunto, sólo para emitir opinión, se podrá cobrar de 4 a 5 días de salario.
+Por la vista, lectura o examen de los demás documentos de expedientes para instruirse en el asunto, sólo para emitir opinión, se podrá cobrar de cuatro a cinco veces la UMA.
 
-Si el expediente excediera de 150 fojas se cobrarán 3 días de salario más por cada 50 fojas adicionales.
+Si el expediente excediera de 150 fojas se cobrarán tres veces la UMA por cada 50 fojas adicionales.
 
 ### Capítulo III. De los honorarios comunes a los diversos juicios
 
@@ -113,19 +119,33 @@ Si el expediente excediera de 150 fojas se cobrarán 3 días de salario más por
 
 En cualquier juicio, para cuya tramitación se pacte la prestación de servicios profesionales, se regulará el pago de honorarios con las siguientes tarifas:
 
-I. Por formular la demanda, la contestación a la demanda o la contestación con reconvención, o el escrito inicial de cualquier procedimiento, de 10 a 20 días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Por los escritos de ofrecimiento de pruebas, de 5 a 10 días de salario;
+I. Por formular la demanda, la contestación a la demanda o la contestación con reconvención, o el escrito inicial de cualquier procedimiento, de diez a veinte veces la UMA;
 
-III. Por la formulación de los alegatos, hasta 5 días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo juez de los autos, de 10 a 20 días de salario;
+II. Por los escritos de ofrecimiento de pruebas, de cinco a diez veces la UMA;
 
-V. Por asistencia a juntas, audiencias o diligencias dentro o fuera del local del juzgado, en el mismo partido judicial, de 6 a 12 días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VI. Por todo recurso o trámite llevado en segunda instancia, de 10 a 20 días de salario;
+III. Por la formulación de los alegatos, hasta cinco veces la UMA;
 
-VII. Por cualquier escrito necesario para la tramitación del proceso u otro trámite o diligencia no señalada en las fracciones antes citadas, hasta 5 días de salario, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo juez de los autos, de diez a veinte veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+V. Por asistencia a juntas, audiencias o diligencias dentro o fuera del local del juzgado, en el mismo partido judicial, de seis a doce veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VI. Por todo recurso o trámite llevado en segunda instancia, de diez a veinte veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII. Por cualquier escrito necesario para la tramitación del proceso u otro trámite o diligencia no señalada en las fracciones antes citadas, hasta cinco veces la UMA, y
 
 VIII. En los casos de presentación de escritos, vista de documentos para instruirse, diligencias y audiencias que se realicen fuera del partido judicial en que se desarrollo el juicio, se estará a lo señalado por el artículo 6 de este ordenamiento, salvo convenio en contrario.
 
@@ -139,11 +159,17 @@ Se consideran de cuantía determinada o determinable, los asuntos en los que en 
 
 Para el cobro de los asuntos de cuantía determinada, independientemente del resultado del negocio, se estará atendiendo a la cuantía a lo siguiente:
 
-I. Hasta de 100 días de salario, se cobrará el 20 % del valor total del juicio o negocio;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Cuando sea superior a los 100 días de salario, pero menor a 1000 días de salario, se cobrará un 15 % del valor total del negocio, y
+I. Hasta cien veces la UMA, se cobrará el 20 % del valor total del juicio o negocio;
 
-III. Si es mayor a 1000 días de salario, se cobrará un 10 % del valor total del juicio o negocio.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Cuando sea superior a cien, pero menor a mil veces la UMA, se cobrará un 15 % del valor total del negocio, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Si es mayor a mil veces la UMA, se cobrará un 10 % del valor total del juicio o negocio.
 
 ###### Artículo 18.
 
@@ -175,11 +201,15 @@ Cuando un licenciado en derecho o abogado se encargue de un negocio iniciado o n
 
 En los juicios sucesorios se podrá cobrar:
 
-l. Por la tramitación general del juicio en lo principal y sus incidentes atendiendo al valor real fijado por peritos de los bienes inventariados:
+I. Por la tramitación general del juicio en lo principal y sus incidentes atendiendo al valor real fijado por peritos de los bienes inventariados:
 
-a) Un 15% si el valor real de los bienes no excede los 1000 días de salario, y
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-b) Un 10% si el valor real fijado de los bienes excede de los 1000 días de salario.
+a) Un 15% si el valor real de los bienes no excede mil veces la UMA, y
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+b) Un 10% si el valor real de los bienes excede de mil veces la UMA.
 
 II. En caso de tramitación parcial, los honorarios se cobrarán de acuerdo a los trabajos que se hayan realizado y conforme a las bases siguientes:
 
@@ -211,13 +241,21 @@ II. Por los demás actos, conforme a las disposiciones del capítulo III de este
 
 En los asuntos de orden penal se determinarán los honorarios con base en lo siguiente:
 
-I. Por asistirlos en la audiencia de declaración ministerial, de 10 a 20 días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Por rendir y desahogar pruebas de descargo, de 20 a 50 días de salario;
+I. Por asistirlos en la audiencia de declaración ministerial, de diez a veinte veces la UMA;
 
-III. Por obtener el archivo o reserva de la averiguación previa o el perdón del ofendido de 30 a 100 días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV. Si interviene como defensor en el proceso en primera instancia, podrá percibir de 30 a 300 días de salario, atendiendo a las posibilidades económicas del procesado, naturaleza y dificultades técnicas que implique la tramitación, y
+II. Por rendir y desahogar pruebas de descargo, de veinte a cincuenta veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Por obtener el archivo o reserva de la averiguación previa o el perdón del ofendido de treinta a cien veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Si interviene como defensor en el proceso en primera instancia, podrá percibir de treinta a trescientas veces la UMA, atendiendo a las posibilidades económicas del procesado, naturaleza y dificultades técnicas que implique la tramitación, y
 
 V. Por la tramitación de la segunda instancia respecto a la sentencia definitiva, el 50% respecto de los honorarios que corresponden a la primera instancia.
 
@@ -229,7 +267,9 @@ En los asuntos administrativos, se cobrará de acuerdo a las siguientes bases:
 
 I. Si el asunto es de cuantía determinada o determinable o indeterminada, se hará de acuerdo a los capítulos IV y V de este ordenamiento, respectivamente;
 
-II. Si se trata de concesiones, entendiéndose por tales las que una autoridad administrativa puede abstenerse de otorgar, de 50 a 100 días de salario, atendiendo para ello a la importancia del mismo, a las dificultades técnicas que impliquen su tramitación y a las posibilidades económicas del que recibe el servicio, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Si se trata de concesiones, entendiéndose por tales las que una autoridad administrativa puede abstenerse de otorgar, de cincuenta a cien veces la UMA, atendiendo para ello a la importancia del mismo, a las dificultades técnicas que implique su tramitación y a las posibilidades económicas del que recibe el servicio, y
 
 III. Tratándose de concesiones diferentes a las que previene la fracción anterior, será de conformidad a las cuotas a que se refiere la fracción I de este artículo.
 
@@ -259,13 +299,17 @@ Cuando se patrocine respecto a asuntos relativos a la pequeña propiedad, se cob
 
 En los juicios de amparo en los que se patrocine al quejoso o al tercero perjudicado, se podrá cobrar con base en los capítulos III y IV de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-En los casos en que no sea posible cuantificar el negocio, o que éste no pueda estimarse pecuniariamente, se podrá cobrar de 40 a 300 días de salario, atendiendo a la importancia del asunto, al trabajo requerido y a las posibilidades económicas del que recibe los servicios.
+En los casos en que no sea posible cuantificar el negocio, o que éste no pueda estimarse pecuniariamente, se podrá cobrar de cuarenta a trescientas veces la UMA, atendiendo a la importancia del asunto, al trabajo requerido y a las posibilidades económicas del que recibe los servicios.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
-Tratándose de amparos laborales y agrarios, sean de cuantía determinada o indeterminada, los honorarios no podrán exceder de 150 días de salario.
+Tratándose de amparos laborales y agrarios, sean de cuantía determinada o indeterminada, los honorarios no podrán exceder de ciento cincuenta veces la UMA.
 
 ### Capítulo XII. De la ética profesional
 
@@ -356,3 +400,11 @@ Contenido Página
 ### Capítulo XI. Tramitación de Juicios de Amparo 8
 
 ### Capítulo XII. De la ética profesional 9. Transitorios 10
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ARANCELARIA DE LOS ABOGADOS PARA EL ESTADO DE NAYARIT".]
+
+Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
