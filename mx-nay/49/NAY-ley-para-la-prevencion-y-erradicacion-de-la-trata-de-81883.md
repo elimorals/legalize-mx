@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-prevencion-y-erradicacion-de-la-trata-de-81883"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-15"
-last_updated: "2011-06-15"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY PARA LA PREVENCION Y ERRADICACION DE LA TRATA DE PERSONAS EN EL ESTADO DE NAYARIT
 
-LEY PARA LA PREVENCION Y ERRADICACION DE LA TRATA DE PERSONAS EN EL ESTADO DE NAYARIT.
+LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE NAYARIT.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Octava del Periódico Oficial del Estado de Nayarit, el miércoles 15 de junio de 2011.
 
@@ -147,9 +147,13 @@ c) Trasladar, acoger o mantener en situación de explotación a una o más perso
 
 d) Obtener un lucro directo o indirecto de la trata, sus actos constitutivos y los delitos conexos;
 
-XX. Uso de la fuerza.- Los actos a través de los cuales se realiza violencia física o moral, para obtener el sometimiento de la víctima, y
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXI. Victima.- La persona ofendida por las conductas constitutivas del delito de trata de personas.
+XX. UMA.- la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXI. Uso de la fuerza.- Los actos a través de los cuales se realiza violencia física o moral, para obtener el sometimiento de la víctima, y
+
+XXII. Víctima.- La persona ofendida por las conductas constitutivas del delito de trata de personas.
 
 ###### Artículo 5.
 
@@ -461,15 +465,19 @@ VI. Participar en las acciones que sean necesarias para ayudar a la víctima del
 
 ### CAPÍTULO XI. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-Se impondrá multa de entre cincuenta a doscientas veces el salario mínimo general vigente en el Estado de Nayarit, a quienes en el desempeño de un empleo, cargo o comisión en los Poderes Ejecutivo, Legislativo y Judicial, o en los Municipios, incumplan las obligaciones que les impone el presente ordenamiento.
+Se impondrá multa de cincuenta a doscientas veces la UMA a quienes en el desempeño de un empleo, cargo o comisión en los Poderes Ejecutivo, Legislativo y Judicial, o en los Municipios, incumplan las obligaciones que les impone el presente ordenamiento.
 
 Al efecto, las instancias de responsabilidad de las dependencias y poderes señalados, verificarán bajo su más estricta responsabilidad el debido cumplimiento y aplicación de las sanciones que establece el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 34.
 
-Los ayuntamientos de la entidad, en el ámbito de su competencia, podrán imponer multas de entre cincuenta a cien veces el salario mínimo vigente en el Estado de Nayarit, a los propietarios de los establecimientos comerciales que incumplan las disposiciones de esta ley.
+Los ayuntamientos de la entidad, en el ámbito de su competencia, podrán imponer multas de cincuenta a cien veces la UMA, a los propietarios de los establecimientos comerciales que incumplan las disposiciones de esta ley.
 
 Dicha sanción podrá duplicarse en caso de reincidencia, sin perjuicio de la suspensión o cancelación de la licencia correspondiente u otras sanciones que a juicio de la autoridad correspondiente pudiera imponer.
 
@@ -486,3 +494,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. J. Dolores Salvador Galindo Flores, Presidente.- Rubrica.- Dip. Roberto Contreras Cantabrana, Secretario.- Rubrica.- Dip. Juan José Castellanos Franco, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los catorce días del mes de junio del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno.- Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
