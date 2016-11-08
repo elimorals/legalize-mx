@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2016-03-11"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -383,7 +383,9 @@ ARTÍCULO 40 "B".- En ningún caso se promoverán de oficio las cuestiones de co
 
 Cuando se hubiere optado por uno de los dos medios de promover la competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlo sucesivamente.
 
-Si se declara improcedente una incompetencia, se aplicará al que la intentó, multa hasta de treinta días de salario a favor del Fondo Auxiliar del Poder Judicial del Estado, sin perjuicio de la condenación en costas.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Si se declara improcedente una incompetencia, se aplicará al que la intentó, multa hasta de treinta veces la UMA a favor del Fondo Auxiliar del Poder Judicial del Estado, sin perjuicio de la condenación en costas.
 
 #### SECCION CUARTA. CUESTIONES DE COMPETENCIA ENTRE JUECES DEL ESTADO DE NAYARIT Y OTROS ORGANOS JURISDICCIONALES
 
@@ -463,13 +465,17 @@ En las actuaciones judiciales no se emplearán abreviaturas ni se borrarán las 
 
 Las audiencias serán públicas, exceptuándose las que se refieran a divorcio, nulidad de matrimonio y las demás en que a juicio del Tribunal convenga que sean secretas.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 54.
 
-Los Magistrados y Jueces tienen el deber de mantener el buen orden, mostrar y exigir que se guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que cometieren con multa que podrá ser hasta de treinta días de salario, teniendo en cuenta lo que al respecto dispone el artículo 21 Constitucional.
+Los Magistrados y Jueces tienen el deber de mantener el buen orden, mostrar y exigir que se guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que cometieren con multa que podrá ser hasta de treinta veces la UMA, teniendo en cuenta lo que al respecto dispone el artículo 21 Constitucional.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 La multa se hará efectiva a través del procedimiento económico-coactivo y por conducto de la autoridad exactora correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 Asimismo podrá emplearse el auxilio de la fuerza pública, para el mantenimiento del orden, cuando así se requiera.
 
@@ -517,7 +523,9 @@ Los Jueces y Magistrados podrán ordenar que se subsane toda omisión que notare
 
 Los Tribunales para hacer cumplir sus determinaciones pueden emplear, sin sujetarse al orden, cualquiera de los siguientes medios de apremio que estimen eficaz:
 
-I.- Multa hasta por las cantidades a que se refiere el artículo 54, la cual podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I.- Multa hasta por las cantidades a que se refiere el artículo 54, la cual podrá duplicarse en caso de reincidencia; para tales efectos se entenderá por UMA a la Unidad de Medida y Actualización considerando su valor en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 II.- Auxilio de la fuerza Pública y la ruptura de cerraduras si fuese necesario;
 
@@ -959,9 +967,11 @@ En la ejecución de las providencias no se admitirá excepción alguna.
 
 Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá promoverla dentro de tres días, si el juicio hubiere de tramitarse en el lugar en que aquélla se dictó. Si debiere seguirse en otro lugar, el Juez aumentará a los tres días señalados uno por cada doscientos kilómetros o fracción que exceda de la mitad.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 112.
 
-Si el promovente no cumple con lo dispuesto en el artículo que precede, se le impondrá multa hasta de veinte días de salario y, luego que lo pida la parte interesada, la providencia precautoria se revocará.
+Si el promovente no cumple con lo dispuesto en el artículo que precede, se le impondrá multa hasta de veinte veces la UMA y, luego que lo pida la parte interesada, la providencia precautoria se revocará.
 
 ###### ARTICULO 113.
 
@@ -1307,9 +1317,11 @@ La parte que interponga la recusación, no podrá alzarla en ningún tiempo, ni 
 
 Los Magistrados y Jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 161.
 
-Declarada procedente, quedará definitivamente separado para conocer del asunto el Magistrado, Juez o Secretario recusado, designándose quien debe sustituirlo; en caso contrario, se impondrá al recusante una multa hasta por veinte días de salario.
+Declarada procedente, quedará definitivamente separado para conocer del asunto el Magistrado, Juez o Secretario recusado, designándose quien debe sustituirlo; en caso contrario, se impondrá al recusante una multa de hasta veinte veces la UMA.
 
 ###### ARTICULO 162.
 
@@ -1531,7 +1543,9 @@ b).- El señalamiento específico de las cuestiones que fueron materia del estud
 
 c).- Nombre y firma del perito responsable encargado de practicar el examen pericial genético.
 
-Si faltare alguno de estos requisitos el juez requerirá al perito para que en el término de tres días los subsane, apercibido que de no hacerlo se hará acreedor a una sanción económica de hasta 100 salarios mínimos vigentes en la entidad. En caso de persistir la negativa del perito en atender el requerimiento, se le revocará su nombramiento dándole vista al Consejo de la Judicatura; asimismo se designará a un nuevo perito para que el término de ley emita (sic) el dictamen correspondiente.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Si faltare alguno de estos requisitos el juez requerirá al perito para que en el término de tres días los subsane, apercibido que de no hacerlo se hará acreedor a una sanción económica de hasta cien veces la UMA. En caso de persistir la negativa del perito en atender el requerimiento, se le revocará su nombramiento dándole vista al Consejo de la Judicatura; asimismo se designará a un nuevo perito para que en términos de ley emita el dictamen correspondiente.
 
 III.- El costo económico de la prueba genética se referirá únicamente a aquellos gastos que sean considerados estrictamente necesarios para su ejecución y correcto desarrollo, debiendo ser cubiertos por el demandado cuando del análisis realizado se desprenda la filiación que se le reclama, en caso contrario la erogación correrá a cargo del solicitante. El pago por los servicios del perito habrá de ser solventado por la parte solicitante de manera provisional hasta en tanto se resuelva en definitiva el vínculo filial.
 
@@ -1561,9 +1575,11 @@ Al día siguiente en que se termine el período de ofrecimiento de pruebas, el J
 
 No se admitirán diligencias de prueba contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, imposibles o notoriamente inverosímiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 197.
 
-El Juez, al calificar la admisibilidad de las pruebas en los casos que se solicite el término extraordinario, determinará el monto de la cantidad que el promovente deposite para garantizar la multa, que será hasta de veinte días de salario, en caso de no rendirse la prueba. Si este depósito no se efectúa dentro de los tres días siguientes al en que se notifique el auto admisorio, no surtirá efectos la dilación.
+El Juez, al calificar la admisibilidad de las pruebas en los casos que se solicite el término extraordinario, determinará el monto de la cantidad que el promovente deposite para garantizar la multa, que será hasta de veinte veces la UMA, en caso de no rendirse la prueba. Si este depósito no se efectúa dentro de los tres días siguientes al en que se notifique el auto admisorio, no surtirá efectos la dilación.
 
 Si el litigante al que se hubiera concedido el término extraordinario no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, se le impondrá multa que se hará efectiva del depósito que se hubiera otorgado para garantizar.
 
@@ -1589,7 +1605,9 @@ I.- A citar al absolvente personalmente, cuando menos veinticuatro horas antes d
 
 Si el que debe absolver posiciones no radica en el lugar del juicio, recibirá la prueba confesional el Juez del lugar en que reside, librando exhorto si es fuera del Estado u oficio comisorio dentro de él, acompañando, cerrado y sellado el pliego en que constan aquellas que previamente deberán ser calificadas y sacar copia que autorizada con la firma del Juez y Secretario exhortantes quedará en la Secretaría del Tribunal;
 
-II.- A citar a los testigos desde la primera vez bajo el apercibimiento de multa hasta por veinte días de salario o de ser conducidos por la policía, en caso de no comparecer sin causa justificada, a no ser que la parte que los ofreció se hubiera comprometido a presentarlos y sin perjuicio de su derecho a sustituirlos, condicionando esto último a una sola vez y a que no se haya recibido su testimonio;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- A citar a los testigos desde la primera vez bajo el apercibimiento de multa hasta por veinte veces la UMA o de ser conducidos por la policía, en caso de no comparecer sin causa justificada, a no ser que la parte que los ofreció se hubiera comprometido a presentarlos y sin perjuicio de su derecho a sustituirlos, condicionando esto último a una sola vez y a que no se haya recibido su testimonio;
 
 III.- A dar todas las facilidades necesarias al perito para el examen de objetos, documentos, lugares o personas, para que rinda su dictamen a la hora de la audiencia y ordenará se le cite con el mismo apercibimiento que a los testigos;
 
@@ -1611,9 +1629,11 @@ III.- Ser socio, inquilino, arrendador o amigo de alguna de las partes.
 
 El Juez calificará de plano la recusación. Contra el auto en que se admita o se deseche la recusación, no procede recurso alguno. Admitida, nombrará nuevo perito.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 201.
 
-En caso de ser desechada la recusación, se impondrá al recusante una multa hasta de veinte días de salario.
+En caso de ser desechada la recusación, se impondrá al recusante una multa hasta de veinte veces la UMA.
 
 #### SECCION QUINTA. AUDIENCIA DE RECEPCION
 
@@ -1745,11 +1765,13 @@ Solo pueden reconocer un documento privado el que lo firma, el que lo manda exte
 
 El perito dictaminará por escrito que presentará en la audiencia. Las partes y el Juez podrán formular observaciones y hacer preguntas que éste último estime pertinentes.
 
-El perito citado oportunamente será sancionado con multa hasta de veinte días de salario en caso de que no concurra, salvo causa grave que calificará el Juez.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+El perito citado oportunamente será sancionado con multa hasta de veinte veces la UMA en caso de que no concurra, salvo causa grave que calificará el Juez.
 
-Si resulta inexacto el señalamiento de domicilio del perito y de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente multa hasta de veinte días de salario. Asimismo se declarará perdido su derecho al desahogo del peritaje de su parte, lo mismo cuando el oferente no presente al perito si se obligó a ello.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Sí resulta inexacto el señalamiento de domicilio del perito y de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente multa hasta de veinte veces la UMA. Asimismo, se declarará perdido su derecho al desahogo del peritaje de su parte, lo mismo cuando el oferente no presente al perito sí se obligó a ello.
 
 ###### ARTICULO 223.
 
@@ -1763,9 +1785,11 @@ Los testigos primero declararán espontáneamente sobre los hechos, pudiendo el 
 
 Deben asentarse en el acta literalmente el testimonio, así como las preguntas, repreguntas y respuestas que se generen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 225.
 
-Si el señalamiento del domicilio de los testigos resultare inexacto y de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa hasta de veinte días de salario.
+Sí el señalamiento del domicilio de los testigos resultare inexacto y de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente multa hasta de veinte veces la UMA.
 
 Asimismo deberá declararse desierta la prueba testimonial. Esta norma se aplicará también cuando, sin causa justificada, el oferente no presente a sus testigos.
 
@@ -1979,9 +2003,11 @@ Del escrito de aclaración se dará vista a la parte contraria, para que dentro 
 
 La resolución que aclare una sentencia se considera parte de ésta, sin que varíe su sustancia.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 257.
 
-La improcedencia de la aclaración motiva que se sancione a quien la hubiere solicitado con una multa de hasta veinte días de salario.
+La improcedencia de la aclaración motiva que se sancione a quien la hubiere solicitado con multa de hasta veinte veces la UMA.
 
 #### SECCION TERCERA. EJECUTORIEDAD
 
@@ -2445,7 +2471,9 @@ Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción 
 
 Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia en la audiencia deberán presentar a sus testigos. Respecto a la pericial, deberá estarse a lo ordenado en el juicio ordinario en cuanto a dicha prueba.
 
-Si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, no estar en posibilidad de exhibir documentos que no tienen a su disposición el juez en cuanto a la prueba testimonial mandará citar a los testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta sesenta días de salario mínimo general vigente en la entidad, o arresto hasta por treinta y seis horas; y respecto a la prueba documental requerirá a las autoridades y terceros que tengan en su poder los documentos, apercibiéndolos con la imposición de una sanción pecuniaria, en favor de la parte adjudicada, por el equivalente a sesenta días de salario mínimo general vigente, que se hará efectiva por orden del propio juez; y si fuese insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia, en la inteligencia de que estos terceros podrán manifestarle al juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se les requiere.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, no estar en posibilidad de exhibir documentos que no tienen a su disposición el juez en cuanto a la prueba testimonial mandará citar a los testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá multa de hasta sesenta veces la UMA, o arresto hasta por treinta y seis horas; y respecto a la prueba documental requerirá a las autoridades y terceros que tengan en su poder los documentos, apercibiéndolos con la imposición de una sanción pecuniaria, en favor de la parte adjudicada, por el equivalente a sesenta veces la UMA, que se hará efectiva por orden del propio juez; y si fuese insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia, en la inteligencia de que estos terceros podrán manifestarle al juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se les requiere.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
@@ -2629,7 +2657,9 @@ c).- La sentencia o auto firmes que hayan puesto término al juicio.
 
 V.- Se sustanciará en los términos del artículo anterior, con la salvedad de que la sentencia que se pronuncie será irrecurrible; y
 
-VI.- Si en ésta se condena a pagar la responsabilidad, determinará la cantidad con que deba ser indemnizada la parte reclamante por los daños y perjuicios que hubiere sufrido, pero en ningún caso alterará la resolución firme que haya recaído en el juicio en que se hubiere ocasionado aquélla. Si fuera absolutoria, en la misma se condenará en costas al demandante y se le impondrá una multa hasta de veinte días de salario.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VI.- Si en ésta se condena a pagar la responsabilidad, determinará la cantidad con que deba ser indemnizada la parte reclamante por los daños y perjuicios que hubiere sufrido, pero en ningún caso alterará la resolución firme que haya recaído en el juicio en que se hubiere ocasionado aquélla. Si fuera absolutoria, en la misma se condenará en costas al demandante y se le impondrá una multa hasta de veinte veces la Unidad de Medida y Actualización.
 
 ### CAPITULO VI
 
@@ -3313,9 +3343,11 @@ En la junta de rectificación y graduación se procederá al examen de los créd
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 440.
 
-Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido imponiéndosele además una multa hasta de veinte días de salario.
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido imponiéndosele además multa de hasta veinte veces la UMA.
 
 ###### ARTICULO 441.
 
@@ -4365,9 +4397,9 @@ Si la declaración de herederos la solicitaren parientes colaterales del cuarto 
 
 El Juez, prudentemente podrá ampliar el plazo anterior, cuando, por el origen del autor de la sucesión u otras circunstancias, se presuma que pueda haber parientes fuera de la República.
 
-> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Los edictos se publicarán además como lo previene el artículo 72, si el valor de los bienes hereditarios excediera de dos mil veces el salario,
+Los edictos se publicarán además como lo previene el artículo 72, si el valor de los bienes hereditarios excediera de dos mil veces la UMA.
 
 ###### ARTICULO 564.
 
@@ -4583,7 +4615,9 @@ Concluido el proyecto de partición, el Juez mandará ponerlo a la vista de los 
 
 Vencido éste sin haber oposición, el Juez aprobará el proyecto y dictará sentencia de adjudicación, mandando entregar a cada interesado los bienes que le hubieren sido aplicados con los títulos de propiedad, después de ponerse en ellos, por el Secretario, una nota en que haga constar la adjudicación.
 
-La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de ciento ochenta y dos días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de ciento ochenta y dos veces la UMA.
 
 ###### ARTICULO 604.
 
@@ -4741,9 +4775,11 @@ La nulidad de actuaciones por falta o defecto en el emplazamiento, es la única 
 
 #### SECCION PRIMERA. EXCEPCION DE COSA JUZGADA
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 623.
 
-Cuando de conformidad con lo dispuesto en los artículos 260 a 263 se haga valer a petición de parte la cosa juzgada, se dará forma al incidente respectivo y, si es declarado procedente, además de los efectos contemplados en los dispositivos antes citados, se condenará en costas a quien promoviere el nuevo juicio y se le impondrá una multa de hasta veinte días de salario.
+Cuando de conformidad con lo dispuesto en los artículos 260 a 263 se haga valer a petición de parte la cosa juzgada, se dará forma al incidente respectivo y, si es declarado procedente, además de los efectos contemplados en los dispositivos antes citados, se condenará en costas a quien promoviere el nuevo juicio y se le impondrá multa de hasta veinte veces la UMA.
 
 #### SECCION SEGUNDA. LITISPENDENCIA
 
@@ -4903,7 +4939,9 @@ V.- Decidiendo el recurso de revocación;
 
 VI.- Las que se dicten con carácter provisional, excepto aquellas en que se disponga otra cosa;
 
-VII.- Decidiendo el fondo del asunto cuya suerte principal no exceda del equivalente a ciento ochenta y dos días de salario vigente en la fecha en que se pronuncie la sentencia;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII.- Decidiendo el fondo del asunto cuya suerte principal no exceda del equivalente a ciento ochenta y dos veces la UMA en la fecha que se pronuncie la sentencia;
 
 VIII.- Declarando ejecutoriada una sentencia;
 
@@ -5107,7 +5145,9 @@ VIII.- La concesión de la ejecución de una resolución de tribunales de otros 
 
 IX.- La resolución que se dicte con carácter de definitiva decidiendo cualquier cuestión de índole familiar, salvo las referidas a alimentos, diferencias conyugales y las contempladas en las fracciones IX a XI del artículo 645 del presente código;
 
-X.- La resolución que apruebe la partición, siempre y cuando exceda de dos mil días de salario; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+X.- La resolución que apruebe la partición, siempre y cuando exceda de dos mil veces la UMA, y
 
 XI.- Resoluciones dictadas en incidentes de liquidación o similares.
 
@@ -5135,7 +5175,9 @@ III. Si no se ofrecieren pruebas, las ofrecidas no fueren admitidas, o concluida
 
 Si se encontraren violaciones al procedimiento que dejaren sin defensa a cualquier persona con interés legítimo, se ordenará la reposición de aquél siempre que sea trascendente en el resultado del fallo, debiendo precisar el efecto o efectos y hacer un extrañamiento al inferior.
 
-Podrá suplirse la deficiencia de los agravios y si al hacerlo el Tribunal de Alzada encontrare que se debe no a la ignorancia, sino a la negligencia, irresponsabilidad o falta de ética del apelante o de su abogado patrono, impondrá a cada uno o a ambos según el caso, una multa de hasta treinta días de salario;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Podrá suplirse la deficiencia de los agravios y si al hacerlo el Tribunal de Alzada encontrare que se debe no a la ignorancia, sino a la negligencia, irresponsabilidad o falta de ética del apelante o de su abogado patrono, impondrá a cada uno o a ambos según el caso, multa de hasta treinta veces la UMA;
 
 IV. Si se tuviere conocimiento de oficio o a petición de parte sobre la existencia de apelación devolutiva pendiente de resolver, cuando ya haya citación para decidir el fondo en primera o segunda instancia, se suspenderá el pronunciamiento de la sentencia definitiva mientras la apelación devolutiva pendiente no sea resuelta; y
 
@@ -5330,3 +5372,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente de su publicac
 Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
 
 Tercero.- Comuníquese la presente resolución a las Direcciones de Registro Civil en el Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
