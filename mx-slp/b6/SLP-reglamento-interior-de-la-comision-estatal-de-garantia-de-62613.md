@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-comision-estatal-de-garantia-de-62613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-17"
-last_updated: "2016-05-31"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "SLP"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA DE ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. LAS REFORMAS APROBADAS EN EL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA Y ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. 31 DE MAYO DE 2016.]</small>
-
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA DE ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de julio de 2008.
 
@@ -771,7 +769,7 @@ XVII. Tener a su cargo el Registro Estatal de Archivos;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2013)</small>
 
-XVIII. Coadyuvar en la elaboración de los los planes y programas de capacitación en materia de archivos, documentación y organización y conservación de soportes documentales;
+XVIII. Coadyuvar en la elaboración de los los (sic) planes y programas de capacitación en materia de archivos, documentación y organización y conservación de soportes documentales;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -1380,3 +1378,25 @@ Primero.- La presente reforma entrará en vigor al día siguiente al de su aprob
 Segundo.- Se ordena la publicación de esta reforma en los estrados de la Comisión, así como en el Periódico Oficial del Gobierno del Estado.
 
 Tercero.- Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente reglamento.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA DE ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ”.]
+
+Primero. El presente Reglamento entrará en vigor al siguiente día al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga el Reglamento interior de la Comisión publicado en el Periódico Oficial del Estado el día 17 de julio de 2008, así como sus modificaciones y cualquier otra disposición administrativa de igual o menor rango que se oponga al presente Reglamento.
+
+Tercero.- Aquellos recursos de queja, procedimientos de imposición de sanciones o cualquier otro medio de impugnación que se encuentren en trámite con antelación a la entrada en vigor del presente reglamento, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Asimismo, se faculta a la Secretaría de Pleno, anteriormente denominada Secretaría Ejecutiva, para que tramite y desahogue hasta su total conclusión, los procedimientos antes señalados, en el entendido que deberán sustanciarse conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, publicada en edición extraordinaria del Periódico Oficial del Estado el 18 de octubre de 2007.
+
+Cuarto. La generación y publicación de las versiones estenográficas de las actas de Sesiones de Pleno se hará exigible a partir de que entre en vigor la publicación de las obligaciones de transparencia.
+
+Quinto. La Secretaria de Pleno firmará los convenios a que se refiere el artículo 36 fracción VII de la Ley de Transparencia y acceso a la Información Pública, hasta en tanto el Pleno designe al Titular de la Secretaría Técnica.
+
+Sexto. Se ordena su publicación en el Periódico Oficial del Gobierno del Estado de San Luis Potosí, en la página de internet de este órgano colegiado y circúlese esta disposición entre el personal de la Comisión.
+
+Séptimo. La Secretaría Técnica comenzará a ejercer sus funciones hasta en tanto se autorice la partida presupuestal, se asigne (sic) los recursos necesarios para su operación y se designen (sic) a su titular.
+
+Octavo.- La persona que actualmente ocupa el puesto de Titular de la Secretaría Ejecutiva pasa a ser la Titular de la Secretaría de Pleno a que se refiere el presente Reglamento, por lo que podrá actuar como tal a partir de la vigencia del presente ordenamiento, en la inteligencia de que no se afecta ningún derecho en cuanto a su relación laboral se refiere, así como su antigüedad en esta Comisión.
