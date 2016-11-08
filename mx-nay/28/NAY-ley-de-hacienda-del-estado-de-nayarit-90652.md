@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2014-12-02"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -335,7 +335,9 @@ El impuesto se liquidará presentando la factura o documento en que se haya hech
 
 Tratándose de adquisición de vehículos, el adquirente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores operaciones de compraventa.
 
-Cuando el sujeto obligado al pago de este impuesto no liquide el mismo en los plazos aquí previstos, se harán acreedores al pago de una multa equivalente a tres días de salario mínimo general vigente en la Entidad, por cada mes de retraso en el pago.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Cuando el sujeto obligado al pago de este impuesto no liquide el mismo en los plazos aquí previstos, se hará acreedor al pago de una multa equivalente a tres veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, por cada mes de retraso en el pago.
 
 Para este efecto se considerará como fecha de la adquisición la que aparezca en la factura o documento en que se haya hecho constar la misma a favor del sujeto obligado, en su defecto la que corresponda al mes inmediato anterior al de la realización del trámite de baja y alta respectivo.
 
@@ -1456,3 +1458,9 @@ Artículo único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 2 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al dial siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 29 DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
