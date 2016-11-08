@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2016-09-05"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -561,8 +561,6 @@ Los empréstitos que solicite el Estado y los municipios sólo se autorizarán c
 
 V.- Revisar la Cuenta Pública del año anterior, que deberán presentarle a más tardar el 28 de febrero de cada año los titulares de los Poderes del Estado, los Ayuntamientos de la Entidad, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada de Gobierno del Estado y de los Ayuntamientos.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
-
 La revisión de la Cuenta Pública la realizará el Congreso a través de la Entidad de Fiscalización Superior del Estado, denominada Órgano Superior de Fiscalización del Estado de Aguascalientes, para tal efecto, la Cuenta Pública se turnará al Órgano Superior de Fiscalización, por conducto de la Comisión de Vigilancia, a fin de que fiscalice los resultados de la gestión financiera, compruebe que los ingresos estén de acuerdo a la Ley de Ingresos del Estado, que las partidas gastadas estén justificadas y que son conforme con las normas de ejecución de los presupuestos de egresos y el cumplimiento de los objetivos contenidos en los programas.
 
 Si del examen que el Órgano Superior de Fiscalización del Estado realice, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
@@ -673,13 +671,17 @@ XXXIV.- Autorizar la realización de Proyectos de Prestación de Servicios al Es
 
 XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrativo dotando de plena autonomía para dictar sus fallos, y que tenga a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal, con los particulares; estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones; y
+XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrativo dotando de plena autonomía para dictar sus fallos, y que tenga a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal, con los particulares; estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXXVII.- Las demás que le concede esta Constitución y la General de la República.
+XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Comisión de Gobierno a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXVIII.- Las demás que le concede esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -987,7 +989,7 @@ II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre l
 
 III.- Solicitar al Congreso la autorización para realizar los Proyectos de Prestación de Servicios, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
 
@@ -1041,11 +1043,17 @@ XVIII.- Ejercer las facultades que en materia de Vialidad Estatal le asignen las
 
 XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
 
-El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición; y
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2014)</small>
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
 
-XX.- Las demás que esta Constitución y la General de la República le confieren.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Objetar, en su caso, el nombramiento de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, designados por el Congreso del Estado, conforme a lo dispuesto por la Ley de la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXI.- Las demás que esta Constitución y la Constitución Política de los Estados Unidos Mexicanos le confieren.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1089,9 +1097,11 @@ Del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
-### CAPITULO UNICO.
+### CAPITULO VIGÉSIMO
 
-DEL PODER JUDICIAL.
+De la Inviolabilidad de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 51.
 
@@ -1233,9 +1243,33 @@ VIII.- Las demás facultades que le concede esta Constitución y las que estable
 
 Los Magistrados, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2013)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-CAPITULO DECIMOTERCERO
+CAPÍTULO DECIMOTERCERO
+
+De los Órganos Constitucionales Autónomos
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 58 Bis.
+
+Los órganos constitucionales autónomos del Estado de Aguascalientes, son entidades establecidas directamente en esta Constitución que mantienen relaciones de coordinación con otros órganos del Estado y que gozan de autonomía e independencia funcional así como financiera, las cuales tienen las facultades y obligaciones que expresamente les otorga la normatividad aplicable.
+
+Dichos órganos tienen como propósito atender funciones estatales coyunturales.
+
+Los órganos constitucionales autónomos del Estado de Aguascalientes, son:
+
+I.- El Instituto Estatal Electoral y el Tribunal Electoral, previstos en el Artículo 17, Apartado B de esta Constitución;
+
+II.- La Fiscalía General del Estado, prevista en el Artículo 59 de esta Constitución;
+
+III.- La Comisión Estatal de Derechos Humanos, prevista en el Artículo 62 de esta Constitución; y
+
+IV.- El Instituto de Transparencia del Estado, previsto en el Artículo 62 A de esta Constitución.
+
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOTERCERO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
+
+CAPITULO DECIMOCUARTO
 
 Del Sistema de Justicia Penal Acusatorio, el Ministerio Público, el Sistema de Seguridad Pública y los Derechos Humanos.
 
@@ -1441,9 +1475,31 @@ V. El Congreso del Estado llamará a los electos para que rindan la protesta de 
 
 La Ley establecerá las bases del servicio profesional en el organismo.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-CAPITULO DECIMOCUARTO
+Artículo 62 A.- Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El derecho a la información será garantizado por el Estado.
+
+El Instituto de Transparencia del Estado de Aguascalientes es un órgano autónomo, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica y de gestión; responsable de garantizar el cumplimiento del derecho de acceso a la información pública y la protección de los datos personales en posesión de los sujetos obligados conforme a los principios, bases y procedimientos establecidos en el Artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley local de la materia y demás disposiciones aplicables; regirá su funcionamiento de acuerdo a los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el Instituto para el buen desahogo de sus funciones. Para asegurar el cumplimiento de sus determinaciones, el Instituto podrá imponer las medidas de apremio que prevea la ley.
+
+El Instituto se integrará por tres Comisionados nombrados por el Congreso del Estado privilegiándose la experiencia en materia de acceso a la información pública y protección de datos personales, así como la igualdad de género en su conformación. Los requisitos para ser Comisionado se especificarán en la Ley de la materia.
+
+El Gobernador del Estado podrá objetar los nombramientos de Comisionados conforme a lo previsto en esta Constitución y en la Ley de la materia.
+
+El Congreso del Estado llamará a quien haya sido designado Comisionado para que rinda la protesta de ley.
+
+Los Comisionados durarán en su encargo un período de siete años, sin derecho a reelegirse.
+
+El Comisionado Presidente del Instituto será designado por los propios comisionados mediante mayoría de votos, durará en su encargo tres años pudiendo ser reelecto para un periodo igual, siempre y cuando la duración de su nombramiento lo permita.
+
+El Instituto contará con un Consejo Consultivo cuya conformación, funcionamiento y designación de sus integrantes se regulará en la Ley.
+
+La Ley de la materia y las disposiciones reglamentarias respectivas, establecerán las bases y principios del servicio civil de carrera en el Instituto.
+
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOCUARTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
+
+CAPITULO DECIMOQUINTO
 
 De la Hacienda Pública.
 
@@ -1491,9 +1547,9 @@ IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especifica
 
 V. El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este Artículo.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOQUINTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
-CAPITULO DECIMOQUINTO
+CAPITULO DECIMOSEXTO
 
 Del Municipio.
 
@@ -1689,17 +1745,17 @@ XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal,
 
 Se establece la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ENERO DE 1984)</small>
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOSEXTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
-CAPITULO DECIMOSEXTO
+CAPITULO DECIMOSEPTIMO
 
 De la Responsabilidad de los Servidores Públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 73.
 
-Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, a los Comisionados del Instituto de Transparencia del Estado y al personal de éste, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos y a los órganos u organismos autónomos quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -1859,9 +1915,9 @@ La comisión de delitos por parte de cualquier servidor público o particulares 
 
 V.- El Órgano Superior de Fiscalización o los órganos de control interno respectivos, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad, deberá presentar la denuncia correspondiente ante la Fiscalía Especializada en Combate a la Corrupción.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOSEPTIMO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
-CAPITULO DECIMOSEPTIMO
+CAPITULO DECIMOCTAVO
 
 Prevenciones Generales.
 
@@ -1947,9 +2003,9 @@ El Gobernador Provisional a que se refiere el artículo anterior, inmediatamente
 
 El Gobernador Provisional a que se refieren los dos artículos anteriores, ejercerá las funciones que esta Constitución concede al Congreso en materia electoral, y nombrará en su caso Magistrados Interinos del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOCTAVO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
-CAPITULO DECIMOCTAVO
+CAPITULO DECIMONONO
 
 De las Reformas a la Constitución.
 
@@ -1963,13 +2019,7 @@ I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del 
 
 II.- Si transcurrieren quince días desde la fecha en que los Ayuntamientos hayan recibido el proyecto de reforma, sin que se hubiere recibido en el Congreso el resultado de la votación, se entenderá que aceptan la reforma o adición.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-CAPITULO DECIMONONO
-
-De la Inviolabilidad de esta Constitución.
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMONONO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
 ### CAPITULO PRIMERO.
 
@@ -3027,8 +3077,36 @@ Se deberán realizar las modificaciones normativas correspondientes para cumplim
 
 P.O. 5 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 366.- SE REFORMA EL ARTÍCULO 27 C EN SU FRACCIÓN IV; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 73 EN SU SEGUNDO PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 82 A Y 82 B, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 366.- SE REFORMA EL ARTÍCULO 27 C EN SU FRACCIÓN IV; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 73 EN SU SEGUNDO PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 82 A Y 82 B, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia una vez que entren en vigor las adecuaciones legales necesarias para su aplicación, lo cual deberá ocurrir a más tardar el 19 de julio de 2017.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 335.- SE REFORMA EL ARTÍCULO 27, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Transparencia del Estado de Aguascalientes previsto en el Artículo 62 A, es el mismo organismo público autónomo a que se refiere el Artículo 42 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 22 de mayo de 2006, mediante Decreto Número 169; en consecuencia, conservará los recursos financieros y materiales, así como sus trabajadores.
+
+###### ARTÍCULO TERCERO.
+
+Quienes actualmente se desempeñen como Comisionados del Instituto de Transparencia del Estado de Aguascalientes, se les ratifica en el cargo únicamente para el periodo que comprende del 1° de enero al 31 de diciembre del 2017, esto con el propósito de que completen siete años (sic) ejercicio.
+
+###### ARTÍCULO CUARTO.
+
+A más tardar el 15 de octubre de 2017, la Comisión de Gobierno del Congreso del Estado deberá emitir la convocatoria respectiva, a fin de designar a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes que fungirán a partir del 1 de enero de 2018, tomando en consideración lo siguiente:
+
+I.- Se elegirá a un comisionado que durará en su encargo tres años;
+
+II.- Se elegirá a un comisionado que durará en su encargo cinco años; y
+
+III.- Se elegirá a un comisionado que durará en su encargo siete años.
+
+Los comisionados nombrados en términos de lo señalado en las fracciones anteriores, no tendrán derecho a reelegirse.
