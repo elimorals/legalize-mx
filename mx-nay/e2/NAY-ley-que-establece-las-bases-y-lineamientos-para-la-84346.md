@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-establece-las-bases-y-lineamientos-para-la-84346"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-17"
-last_updated: "2013-04-17"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE ESTABLECE LAS BASES Y LINEAMIENTOS PARA LA DELIMITACIÓN TERRITORIAL DEL ESTADO DE NAYARIT Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 17 de diciembre de 2011.
 
@@ -93,7 +93,7 @@ VII. Convenio, documento mediante el cual dos o más Ayuntamientos acuerdan, con
 
 VIII. Magistrado Instructor, Magistrado integrante de la Sala Constitucional-Electoral designado por el Presidente de ésta para resolver de la demanda de delimitación territorial, planteada en vía contenciosa;
 
-IX. Unidad, al equivalente a un día de salario mínimo general vigente en la entidad;
+IX. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2016)
 
 X. Ley, Ley que Establece las Bases y Lineamientos para la Delimitación Territorial del Estado de Nayarit y sus Municipios;
 
@@ -422,3 +422,9 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Consti
 P.O. 17 DE ABRIL DE 2013.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 5 DE LA LEY QUE ESTABLECE LAS BASES Y LINEAMIENTOS PARA LA DELIMITACIÓN TERRITORIAL DEL ESTADO DE NAYARIT Y SUS MUNICIPIOS".]
+
+Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
