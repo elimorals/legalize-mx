@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-257
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-17"
-last_updated: "2014-11-29"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 17 de agosto de 2002
 
@@ -99,9 +99,17 @@ Para los efectos de esta ley se entenderá por:
 
 I. Correo electrónico: sistema de comunicación a través de redes informáticas que provee un espacio para la recepción y envío de documentos digitales;
 
-II. Documento digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-III. Sala: Sala Constitucional-Electoral del Tribunal Superior de Justicia del Poder Judicial del Estado de Nayarit.
+II. Documento digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Sala: Sala Constitucional-Electoral del Tribunal Superior de Justicia del Poder Judicial del Estado de Nayarit, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -221,7 +229,9 @@ La autoridad administrativa o la Sala, para hacer cumplir sus determinaciones o 
 
 I. Amonestación;
 
-II. Multa de 10 a 200 días de salario mínimo vigente en el Estado, en caso de reincidencia se podrá aplicar hasta el doble de la sanción señalada; si el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día; y tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Multa de diez a doscientas veces la UMA, en caso de reincidencia se podrá aplicar hasta el doble de la sanción señalada; si el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día; y tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
 III. Expulsión temporal de las personas del lugar donde se lleve a cabo la diligencia, cuando ello fuere necesario para su continuación;
 
@@ -315,7 +325,9 @@ En el momento de la notificación se entregará al notificado o a la persona con
 
 Toda notificación personal, realizada con quien deba entenderse, será legalmente válida aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
-El notificador asentará razón de todas y cada una de las circunstancias observadas en la diligencia de notificación. Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez días de salarios mínimos.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El notificador asentará razón de todas y cada una de las circunstancias observadas en la diligencia de notificación. Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces la UMA.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -1099,7 +1111,9 @@ La Sala ordenará que los oficios comisarios o exhortos se remitan a su destino 
 
 Quien así lo solicite, tendrá la obligación en el plazo de diez días hábiles de su recepción, de comparecer ante el órgano exhortado y entregar al órgano exhortante el acuse respectivo, pudiéndose devolver el documento de que conste la diligencia por conducto del mismo particular.
 
-A quien incumpla con el párrafo que antecede, se le impondrá una multa que podrá ser hasta de treinta días de salario mínimo, teniendo en cuenta lo que al respecto dispone el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. La multa se hará efectiva a través del procedimiento administrativo de ejecución y por conducto de la autoridad exhortante correspondiente.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A quien incumpla con el párrafo que antecede, se le impondrá multa de hasta treinta veces la UMA, teniendo en cuenta lo que al respecto dispone el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. La multa se hará efectiva a través del procedimiento administrativo de ejecución y por conducto de la autoridad exhortante correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -2185,7 +2199,9 @@ En el propio oficio en que se hiciere la notificación a los demandados, se les 
 
 Si dentro de los tres días siguientes de la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la Sala, de oficio o a petición de parte, dará vista a quien deba cumplirlo para que manifieste lo que a su derecho convenga, apercibiéndole en ese mismo acto, que en caso de no desahogar la misma, se hará acreedor a la multa de que trata el párrafo siguiente. Se formulará la misma vista cuando el actor manifestare que existe defecto o exceso en la ejecución de la sentencia, o que se ha repetido el acto impugnado.
 
-La Sala resolverá si los demandados han cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado; de lo contrario, los requerirá para que cumplan la decisión respectiva en un plazo de tres días posteriores a aquél en que surta efectos la notificación, previniéndolos que, en caso de renuencia, se les impondrá multa, a cada uno hasta por la cantidad equivalente de 50 a 1,000 días de salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+La Sala resolverá si los demandados han cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado; de lo contrario, los requerirá para que cumplan la decisión respectiva en un plazo de tres días posteriores a aquél en que surta efectos la notificación, previniéndolos que, en caso de renuencia, se le impondrá a cada uno multa de cincuenta hasta mil veces la UMA.
 
 Transcurrido el plazo a que alude el párrafo anterior, sin que las autoridades hubieren dado cumplimiento a la sentencia, se decretará en su caso la ejecución forzosa de la misma, haciéndose efectivo el apercibimiento de la multa a que alude el párrafo anterior. Si existe algún acto material que ejecutar, cuando la naturaleza del acto lo permita, lo podrá hacer la Sala por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido el sentido de la misma, el Magistrado Instructor que corresponda procederá a dictarla en rebeldía de la autoridad, dentro de un término que no excederá de cinco días. Lo anterior, sin perjuicio de las responsabilidades en que pueda incurrir la autoridad demandada.
 
@@ -2422,3 +2438,9 @@ En tanto se efectúan las adecuaciones normativas correspondientes, las atribuci
 Cuarto.- Para los efectos previstos en el artículo segundo transitorio, fracción V, del Decreto de reformas a la Constitución Política del Estado Libre y Soberano de Nayarit, publicado el 05 de abril de 2014 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, los Magistrados Presidentes de los Tribunales Superior de Justicia y de Justicia Administrativa, respectivamente, dentro de los cinco días hábiles siguientes a la publicación oficial de la presente resolución, deberán celebrar encuentro institucional con la finalidad de acordar los actos preparatorios que resulten necesarios para llevar a cabo el proceso de entrega-recepción de los recursos materiales y financieros entre el Tribunal que se extingue y el Poder Judicial del Estado de Nayarit.
 
 Quinto.- Atendiendo a la reestructuración que se hace respecto del cuerpo y articulado de la Ley de Justicia y Procedimientos Administrativos, se resuelve la publicación íntegra del instrumento normativo.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
