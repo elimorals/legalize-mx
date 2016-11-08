@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2016-09-30"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NAY"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-[NOTA 2: LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014 Y SU AMPLIACIÓN DE 10 DE OCTUBRE DE 2015, PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.]
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -437,9 +437,11 @@ III. La sordomudez, careciendo totalmente de instrucción.
 
 Los inimputables que hayan ejecutado acciones u omisiones tipificadas como delitos, serán recluidos en establecimientos especiales, por un tiempo que no excederá al máximo de la pena aplicable al delito de que se trate.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 44.
 
-En los casos previstos en este capítulo las personas o enfermos a quienes se aplica reclusión, podrán ser entregadas a quien corresponda hacerse cargo de ellas, siempre que se otorgue caución, depósito o hipoteca hasta por la cantidad equivalente hasta seis meses del salario mínimo vigente en el Estado, a juicio del Juez, para garantizar el daño que pudiera causar por no haberse tomado las precauciones necesarias para su vigilancia.
+En los casos previstos en este capítulo las personas o enfermos a quienes se aplica reclusión, podrán ser entregadas a quien corresponda hacerse cargo de ellas, siempre que se otorgue caución, depósito o hipoteca hasta por la cantidad equivalente hasta seis meses de la Unidad de Medida y Actualización calculados en días, a juicio del Juez, para garantizar el daño que pudiera causar por no haberse tomado las precauciones necesarias para su vigilancia.
 
 ###### ARTÍCULO 45.
 
@@ -639,11 +641,15 @@ La sanción pecuniaria comprende la multa y la reparación del daño.
 
 La multa consiste en el pago de una suma de dinero al Estado que se fijará por días multa, los cuales no podrán exceder de diez mil veces.
 
-Para los efectos de este Código el día multa será el equivalente al salario mínimo diario vigente en el lugar donde se cometa el delito.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos de este Código el día multa será el equivalente al valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 57.
 
-La multa mínima será igual al importe de tres días de salario; la multa máxima sea el equivalente a los días de salario que en cada caso fije la Ley.
+La multa mínima será igual al importe de tres días; la multa máxima será el equivalente a los días de que en cada caso fije la Ley.
 
 ###### ARTÍCULO 58.
 
@@ -651,9 +657,11 @@ Cuando la Ley señale como sanción una multa se impondrá al imputado, aunque �
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por trabajo en beneficio de la víctima o trabajo a favor de la comunidad.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 59.
 
-Cuando la Ley fije solamente el máximo de una multa el término mínimo de esta sanción es el importe de tres días de salario.
+Cuando la Ley fije solamente el máximo de una multa el término mínimo de esta sanción es el importe de tres días.
 
 ###### ARTÍCULO 60.
 
@@ -687,7 +695,9 @@ IV. El resarcimiento de los perjuicios ocasionados, o
 
 V. El pago de los salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad temporal para trabajar en oficio, arte o profesión, de conformidad a lo dispuesto en la Ley Federal del Trabajo.
 
-Si el ofendido no percibía utilidad o salario, o no pudiere determinarse éste, el monto de la reparación del daño se fijará teniendo en cuenta el salario mínimo vigente en la Entidad.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Si el ofendido no percibía utilidad o salario, o no pudiere determinarse éste, el monto de la reparación del daño se fijará teniendo en cuenta la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 65.
 
@@ -933,7 +943,9 @@ El supuesto previsto en el párrafo anterior será aplicable a quien habiendo si
 
 En los casos de delitos culposos se impondrá hasta la mitad de las penas y medidas de seguridad asignadas por la ley al delito doloso que corresponda, con excepción de lo previsto en el presente artículo. Además, inhabilitación de tres meses hasta por el tiempo de la sanción para manejar vehículos de motor, motores o maquinaria, cuando el delito se hubiere cometido al usar alguno de estos instrumentos.
 
-Cuando se causare homicidio, a consecuencia de culpa; la sanción será de dos a ocho años de prisión y multa de veinte a noventa días de salario mínimo. En el supuesto que sean dos o más víctimas la sanción será de cuatro a nueve años de prisión.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Cuando se causare homicidio, a consecuencia de culpa; la sanción será de dos a ocho años de prisión y multa de veinte a noventa días. En el supuesto que sean dos o más víctimas la sanción será de cuatro a nueve años de prisión.
 
 Cuando se causare lesiones a consecuencia de culpa que pongan en peligro la vida, se perseguirá oficiosamente.
 
@@ -1027,9 +1039,11 @@ La disolución traerá como consecuencia la publicación de la sentencia y la ca
 
 Cuando ya esté cubierta la sanción económica que se hubiere impuesto, y siempre que la pena de prisión no exceda de cinco años, podrá obtener el sentenciado el beneficio de la conmutación de la sanción; salvo lo previsto en este Código.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 109.
 
-En el caso del artículo anterior, la multa será el equivalente al diez por ciento del salario mínimo vigente, por cada día de prisión conmutado.
+En el caso del artículo anterior, la multa será el equivalente al diez por ciento del valor diario de la Unidad de Medida y Actualización, por cada día de prisión conmutado.
 
 ###### ARTÍCULO 110.
 
@@ -1069,7 +1083,9 @@ I. La sanción impuesta no exceda de cinco años;
 
 II. Se cubra la reparación del daño en caso de existir condena al pago de cantidad líquida, y
 
-III. Caucione el cumplimiento de la multa y la pena de prisión impuesta. Cada día de prisión se garantizará con importe equivalente a medio día de salario mínimo vigente en la región.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Caucione el cumplimiento de la multa y la pena de prisión impuesta. Cada día de prisión se garantizará con importe equivalente a medio día.
 
 La garantía a que se refieren las fracciones II y III podrá consistir en depósito en efectivo, fianza personal o de compañía afianzadora legalmente autorizada, prenda, hipoteca o fideicomiso legalmente constituido.
 
@@ -1371,9 +1387,11 @@ La potestad para ejercer la acción penal, se extingue en los casos de cumplimie
 
 ### CAPÍTULO I. DELITOS CONTRA EL ORDEN CONSTITUCIONAL DEL ESTADO Y SU INTEGRIDAD TERRITORIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 159.
 
-Se impondrá de dos a nueve años de prisión y multa hasta el equivalente de sesenta días de salario a quien o quienes ejecuten los actos siguientes:
+Se impondrá de dos a nueve años de prisión y multa hasta el equivalente de sesenta días a quien o quienes ejecuten los actos siguientes:
 
 I. Reformar la Constitución Política del Estado Libre y Soberano de Nayarit, sin tener facultades legales para ello o abolirla o suspenderla;
 
@@ -1389,9 +1407,11 @@ Cuando los hechos delictuosos de que trata este artículo sean cometidos por fun
 
 ### CAPÍTULO II. CONSPIRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 160.
 
-Hay conspiración cuando dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos III y IV de este Título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión y multa hasta el equivalente de quince días de salario.
+Hay conspiración cuando dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos III y IV de este Título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión y multa hasta el equivalente de quince días.
 
 De consumarse los ilícitos pretendidos, únicamente se aplicarán las sanciones que correspondan a los mismos.
 
@@ -1411,9 +1431,11 @@ IV. Substraer de la obediencia del Gobierno a algún Municipio o parte integrant
 
 V. Despojar de sus atribuciones a alguno de los Poderes del Estado, impedirles el libre ejercicio de ellas o usurpárselas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 162.
 
-Se impondrá prisión de dos a diez años y multa equivalente hasta de sesenta días de salario, por cualquiera de los delitos previstos en el artículo precedente y además en los casos siguientes:
+Se impondrá prisión de dos a diez años y multa equivalente hasta de sesenta días, por cualquiera de los delitos previstos en el artículo precedente y además en los casos siguientes:
 
 I. Al que residiendo en territorio ocupado por el Gobierno bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres, medios de transporte o de radiocomunicación o impida que las tropas del Gobierno reciban estos auxilios.
 
@@ -1463,9 +1485,11 @@ Cuando en las rebeliones se pusiere en ejercicio, para hacerlas triunfar, el hom
 
 Son responsables de sedición los que reunidos tumultuariamente, pero sin armas, resistan a la autoridad o la ataquen para impedirle el libre ejercicio de sus funciones con alguno de los fines a que se refiere el artículo 161.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 171.
 
-La sedición se sancionará de uno a cinco años de prisión y multa equivalente hasta de cincuentas días de salario.
+La sedición se sancionará de uno a cinco años de prisión y multa equivalente hasta de cincuenta días.
 
 ###### ARTÍCULO 172.
 
@@ -1473,23 +1497,29 @@ En lo que es aplicable a la sedición se observarán los artículos 164,165, 167
 
 ### CAPÍTULO V. DELITOS CONTRA LA INTEGRIDAD TERRITORIAL DEL ESTADO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 173.
 
-Se impondrá de uno a tres años de prisión y multa equivalente hasta quince días de salario, al que destruya o quite las señales que marcan los límites del Estado, o que de cualquier otro modo haga que se confundan, si por ello se origina un conflicto al propio Estado. Faltando esta circunstancia la sanción será de tres meses a un año de prisión y multa equivalente hasta de diez días de salario.
+Se impondrá de uno a tres años de prisión y multa equivalente hasta quince días, al que destruya o quite las señales que marcan los límites del Estado, o que de cualquier otro modo haga que se confundan, si por ello se origina un conflicto al propio Estado. Faltando esta circunstancia la sanción será de tres meses a un año de prisión y multa equivalente hasta de diez días.
 
 ### CAPÍTULO VI. TERRORISMO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 174.
 
-A los que individualmente o en forma colectiva ejecuten actos sucesivos de violencia en las personas o en las cosas, tendientes a producir en la sociedad el terror o con el objeto de alterar el orden público, utilizando artefactos explosivos o medios similares o por incendio o inundación, se les aplicará prisión de tres a doce años y multa equivalente hasta de cien días de salario.
+A los que individualmente o en forma colectiva ejecuten actos sucesivos de violencia en las personas o en las cosas, tendientes a producir en la sociedad el terror o con el objeto de alterar el orden público, utilizando artefactos explosivos o medios similares o por incendio o inundación, se les aplicará prisión de tres a doce años y multa equivalente hasta de cien días.
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
 ### CAPÍTULO I. EVASIÓN DE PRESOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 175.
 
-Se aplicará de tres a siete años de prisión y multa equivalente hasta de cien días de salario, al que ponga en libertad o favoreciere la evasión de algún detenido por falta o delito, procesado o condenado. Si el delincuente fuere el encargado de conducir o custodiar al prófugo, será además destituido de su empleo e inhabilitado de uno a diez años para obtener otro similar.
+Se aplicará de tres a siete años de prisión y multa equivalente hasta de cien días, al que ponga en libertad o favoreciere la evasión de algún detenido por falta o delito, procesado o condenado. Si el delincuente fuere el encargado de conducir o custodiar al prófugo, será además destituido de su empleo e inhabilitado de uno a diez años para obtener otro similar.
 
 Para la determinación de las sanciones aplicables se tendrán en cuenta, además de las circunstancias que expresan los artículos 91 y 92 de este Código, la calidad del prófugo, la gravedad del delito que se le impute y el monto de la sanción que le hubiere impuesto.
 
@@ -1515,9 +1545,11 @@ Al detenido, procesado o condenado que se fugue del centro donde se ejecute su p
 
 Si la evasión se efectuare exclusivamente por descuido o negligencia del custodio o conductor, éste será sancionado con pena de prisión de dos a cinco años. Esta sanción cesará al momento en que se logre la reaprehensión del prófugo, si ésta se consiguiere por las gestiones del custodio o conductor responsable y antes de que pasen cuatro meses contados desde la evasión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 181.
 
-A los servidores públicos o agentes de la fuerza pública, que ilegalmente permitan la salida de detenidos, procesados o condenados, para que por cualquier tiempo permanezcan fuera de las prisiones, se les impondrán de tres meses a seis años de prisión y multa equivalente hasta de diez días de salario.
+A los servidores públicos o agentes de la fuerza pública, que ilegalmente permitan la salida de detenidos, procesados o condenados, para que por cualquier tiempo permanezcan fuera de las prisiones, se les impondrán de tres meses a seis años de prisión y multa equivalente hasta de diez días.
 
 Para la aplicación de éstas sanciones, se tomará en cuenta la gravedad del delito o falta imputada al detenido.
 
@@ -1547,9 +1579,11 @@ V. Las que otras leyes o reglamentos señalen como tales.
 
 Los funcionarios y agentes de la autoridad pueden portar armas necesarias para el ejercicio de su cargo.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 185.
 
-Se aplicará de uno a tres años de prisión y multa de cinco a veinte días de salario, al que porte alguna de las armas a que se refiere el artículo 183.
+Se aplicará de uno a tres años de prisión y multa de cinco a veinte días, al que porte alguna de las armas a que se refiere el artículo 183.
 
 ###### ARTÍCULO 186.
 
@@ -1563,9 +1597,11 @@ En todos los casos incluidos en este capítulo además de las sanciones señalad
 
 ### CAPÍTULO IV. ASOCIACIONES DELICTUOSAS
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 187.
 
-Se impondrá de tres a ocho años de prisión y multa hasta el equivalente de diez días de salario, al miembro de una asociación o banda de tres o más personas, organizada, en la que se reconozca jerarquía entre sus miembros y con el propósito permanente de delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
+Se impondrá de tres a ocho años de prisión y multa hasta el equivalente de diez días, al miembro de una asociación o banda de tres o más personas, organizada, en la que se reconozca jerarquía entre sus miembros y con el propósito permanente de delinquir, independientemente de la sanción que le corresponda por el delito que cometa.
 
 ###### ARTÍCULO 188.
 
@@ -1575,9 +1611,11 @@ Se entiende por pandilla la reunión habitual, ocasional o transitoria de tres o
 
 Cuando se ejecuten uno o más delitos por pandilla, se aplicarán a los que intervengan en su comisión, además de las penas que les correspondan por el o los delitos cometidos, la sanción de seis meses a tres años de prisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 190.
 
-Comete el delito de atentado contra la seguridad de la comunidad y se le aplicará sanción de uno a seis años de prisión y multa de doscientos a cuatrocientos días de salario, a quien sin causa justificada posea o porte cualquiera de los siguientes objetos:
+Comete el delito de atentado contra la seguridad de la comunidad y se le aplicará sanción de uno a seis años de prisión y multa de doscientos a cuatrocientos días, a quien sin causa justificada posea o porte cualquiera de los siguientes objetos:
 
 I. Uno o más equipos de comunicación que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales, cuando tenga relación con el artículo 216 y siempre que dichos aparatos estén en funcionamiento;
 
@@ -1599,29 +1637,37 @@ Las penas a las que se refiere el presente artículo, se aumentarán hasta en un
 
 ### CAPÍTULO V. DELITOS DE TRÁNSITO EJECUTADOS POR CONDUCTORES DE VEHÍCULOS O AUTORIDADES DE TRÁNSITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 191.
 
-Se impondrá prisión de uno a tres años y multa de veinte a cien días de salario y suspensión de la licencia para manejar por igual término, al que conduzca un vehículo de motor en estado de ebriedad plenamente comprobado, o bajo la influencia de narcóticos o sustancias tóxicas.
+Se impondrá prisión de uno a tres años y multa de veinte a cien días, y suspensión de la licencia para manejar por igual término, al que conduzca un vehículo de motor en estado de ebriedad plenamente comprobado, o bajo la influencia de narcóticos o sustancias tóxicas.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 Para efectos de este Código, se considera que una persona se encuentra en estado de ebriedad, si tiene en su cuerpo, al menos cualquiera de las cantidades siguientes o su equivalente: En la sangre 0.8 gramos de alcohol por litro, en la orina 1.3 miligramos de alcohol por mililitro, o en el aire exhalado 0.4 miligramos de alcohol por litro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 192.
 
-Al conductor de vehículo que por el hecho de estacionarse en carretera o camino en la noche sin las luces de protección perfectamente visibles, o por estacionarlo sin el abanderamiento adecuado en curva o columpio, cualquiera que sea la hora del día, en tal forma que no pueda verse a distancia suficiente para evitar una colisión, se le impondrá por este solo hecho, sanción de tres meses a dos años de prisión y multa de uno a cinco días de salario y suspensión para manejar vehículos por igual lapso.
+Al conductor de vehículo que por el hecho de estacionarse en carretera o camino en la noche sin las luces de protección perfectamente visibles, o por estacionarlo sin el abanderamiento adecuado en curva o columpio, cualquiera que sea la hora del día, en tal forma que no pueda verse a distancia suficiente para evitar una colisión, se le impondrá por este solo hecho, sanción de tres meses a dos años de prisión y multa de uno a cinco días, y suspensión para manejar vehículos por igual lapso.
 
 La sanción señalada se aplicará independientemente de las que correspondan por otros delitos que resulten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 193.
 
-Incurre en responsabilidad penal el propietario o conductor de un vehículo automotor que transite con placas sobrepuestas. Al infractor de este tipo penal se le sancionará con prisión de dos a cinco años y multa de cien a quinientas veces el importe del salario mínimo.
+Incurre en responsabilidad penal el propietario o conductor de un vehículo automotor que transite con placas sobrepuestas. Al infractor de este tipo penal se le sancionará con prisión de dos a cinco años y multa de cien a quinientas veces la Unidad de Medida y Actualización diaria.
 
 Para efectos punibles se entiende por placas sobrepuestas el que vehículos automotores porten láminas de identificación para circular, emitidas por autoridad competente que no les correspondan legalmente o que no sean vigentes tratándose de placas de procedencia extranjera.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 194.
 
-Se impondrá de tres meses a dos años de prisión y multa de uno a cinco días de salario mínimo, al servidor público, empleado o perito de tránsito que en el examen para la comprobación de las condiciones requeridas por la Ley o Reglamentos para el otorgamiento de las licencias de conductores de vehículos, produzcan dictámenes o certificaciones sin que concurran en el examinado todos o alguno de los requisitos correspondientes y al que expida la licencia a sabiendas de que falta alguno o algunos de éstos requisitos.
+Se impondrá de tres meses a dos años de prisión y multa de uno a cinco días, al servidor público, empleado o perito de tránsito que en el examen para la comprobación de las condiciones requeridas por la Ley o Reglamentos para el otorgamiento de las licencias de conductores de vehículos, produzcan dictámenes o certificaciones sin que concurran en el examinado todos o alguno de los requisitos correspondientes y al que expida la licencia a sabiendas de que falta alguno o algunos de éstos requisitos.
 
 ###### ARTÍCULO 195.
 
@@ -1659,9 +1705,11 @@ Al que ponga en movimiento un carro, camión o vehículo similar y lo abandone, 
 
 ### CAPÍTULO II. VIOLACIÓN O RETENCIÓN DE CORRESPONDENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 202.
 
-Se aplicarán de tres meses a seis meses de prisión y multa equivalente de tres meses de salario mínimo:
+Se aplicarán de tres meses a seis meses de prisión y multa equivalente a tres meses de la Unidad de Medida y Actualización.
 
 I. Al que abra indebidamente una comunicación escrita que no esté dirigida a él;
 
@@ -1681,9 +1729,11 @@ Las disposiciones del artículo 202 no comprenden la correspondencia que circule
 
 ### CAPÍTULO I. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 205.
 
-Se aplicarán de uno a tres años de prisión y multa de uno a diez días de salario mínimo, al que empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones, o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
+Se aplicarán de uno a tres años de prisión y multa de uno a diez días, al que empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones, o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1695,17 +1745,21 @@ I. La coacción hecha a la autoridad pública por medio de la violencia física 
 
 II. Quien se oponga, obstruya, impida total o parcialmente que se cumpla la función de investigación de los delitos.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 207.
 
-Al que sin causa legítima rehusare prestar un servicio de interés público a que la Ley lo obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de uno a cinco años de prisión y multa de uno a cinco días de salario mínimo.
+Al que sin causa legítima rehusare prestar un servicio de interés público a que la Ley lo obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de uno a cinco años de prisión y multa de uno a cinco días.
 
 ###### ARTÍCULO 208.
 
 Al que sin excusa legal se negare a comparecer ante la autoridad a rendir su declaración, cuando legalmente se le exija, no será considerado como responsable del delito previsto en el artículo anterior, sino después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso, para que comparezca a declarar o a rendir los informes que se le pidan.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 209.
 
-El que debiendo ser examinado en una averiguación, en un proceso penal o como testigo en un juicio civil sin que le aprovechen las excepciones establecidas por las leyes de la materia según el caso, se niegue a otorgar la protesta de ley o a declarar, se le aplicará de inmediato, como medio de apremio y previo apercibimiento, una multa de uno a cinco días de salario, si persistiere en su actitud, se le sancionará con prisión de uno a cinco años de prisión.
+El que debiendo ser examinado en una averiguación, en un proceso penal o como testigo en un juicio civil sin que le aprovechen las excepciones establecidas por las leyes de la materia según el caso, se niegue a otorgar la protesta de ley o a declarar, se le aplicará de inmediato, como medio de apremio y previo apercibimiento, una multa de uno a cinco días, si persistiere en su actitud, se le sancionará con prisión de uno a cinco años de prisión.
 
 ###### ARTÍCULO 210.
 
@@ -1713,13 +1767,17 @@ Cuando la ley autorice el empleo del apremio para hacer efectiva las determinaci
 
 ### CAPÍTULO II. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 211.
 
-El que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización, será sancionado con prisión de tres meses a un año y multa de uno a cinco días de salario.
+El que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización, será sancionado con prisión de tres meses a un año y multa de uno a cinco días.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 212.
 
-Cuando el delito se cometa por dos o más personas, de común acuerdo, la sanción será de tres meses a tres años de prisión y multa de dos a diez días de salario, si sólo se hiciere una simple oposición material, sin violencia a las personas; existiendo violencia, la sanción será de uno a cuatro años de prisión y multa de dos a diez días de salario, sin perjuicio de observar las reglas del concurso.
+Cuando el delito se cometa por dos o más personas, de común acuerdo, la sanción será de tres meses a tres años de prisión y multa de dos a diez días de Unidad de Medida y Actualización, si sólo se hiciere una simple oposición material, sin violencia a las personas; existiendo violencia, la sanción será de uno a cuatro años de prisión y multa de dos a diez días, sin perjuicio de observar las reglas del concurso.
 
 ### CAPÍTULO III. VIOLACIÓN DE SELLOS
 
@@ -1737,17 +1795,21 @@ Cuando de común acuerdo violaren las partes interesadas en un negocio civil los
 
 Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de tres a siete años de prisión, además de las sanciones que le corresponda por el delito o los delitos cometidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 216.
 
-Se impondrá una pena de dos a diez años de prisión y multa de doscientos a cuatrocientos días de salario, a quien aceche, vigile o realice actos tendientes a obtener información sobre la ubicación, actividades, operativos o en general las labores de seguridad pública y de persecución del delito, con la finalidad de proporcionarla a terceras personas para facilitarles la comisión de delitos o posibilitarle la huida a un delincuente o grupo delincuencial.
+Se impondrá una pena de dos a diez años de prisión y multa de doscientos a cuatrocientos días, a quien aceche, vigile o realice actos tendientes a obtener información sobre la ubicación, actividades, operativos o en general las labores de seguridad pública y de persecución del delito, con la finalidad de proporcionarla a terceras personas para facilitarles la comisión de delitos o posibilitarle la huida a un delincuente o grupo delincuencial.
 
 Además de las sanciones previstas en el párrafo anterior, se impondrá hasta una mitad más de la pena de prisión que le corresponda, al que realice la conducta descrita en este artículo utilizando para ello cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
 
 Sin perjuicio de lo anterior, las penas señaladas en este artículo, se aumentarán hasta en una mitad más de la que corresponda por el delito cometido, cuando para su perpetración se utilicen uno o más menores de edad.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 217.
 
-Los ultrajes hechos al Ejecutivo, al Congreso del Estado, al Tribunal Superior de Justicia o a cualquiera otra Institución Pública, se sancionará con prisión de tres meses a un año y multa equivalente hasta de tres meses de salario.
+Los ultrajes hechos al Ejecutivo, al Congreso del Estado, al Tribunal Superior de Justicia o a cualquiera otra Institución Pública, se sancionará con prisión de tres meses a un año y multa equivalente hasta de tres meses de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO V. ULTRAJES A INSIGNIAS PÚBLICAS
 
@@ -1759,9 +1821,11 @@ Al que ultraje las insignias del Estado o de un Municipio o de cualquiera de sus
 
 ### CAPÍTULO ÚNICO. DEL DELITO DE CONTAGIO SEXUAL O NUTRICIÓN, DE LA PROPAGACIÓN DE ENFERMEDADES Y DE LA FALSIFICACIÓN O ADULTERACIÓN DE PRODUCTOS ALIMENTICIOS O MEDICINALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 219.
 
-El que sabiendo que está enfermo de un mal venéreo en periodo de infectante o de una enfermedad grave y fácilmente transmisible, tenga relaciones sexuales y así ponga en simple peligro de contagio la salud de otro, será sancionado con prisión de tres meses a dos años y multa de uno a diez días de salario, sin perjuicio de su reclusión en un hospital hasta que cese el periodo infectante.
+El que sabiendo que está enfermo de un mal venéreo en periodo de infectante o de una enfermedad grave y fácilmente transmisible, tenga relaciones sexuales y así ponga en simple peligro de contagio la salud de otro, será sancionado con prisión de tres meses a dos años y multa de uno a diez días, sin perjuicio de su reclusión en un hospital hasta que cese el periodo infectante.
 
 Las mismas sanciones e igual reclusión se impondrán a la mujer que padeciendo una de las enfermedades citadas en el párrafo anterior, amamante a un hijo extraño, salvo el caso de que el menor amamantado padeciere desde antes la misma enfermedad y a los padres o tutores que a sabiendas que su hijo o pupilo padece alguna de las citadas enfermedades en período infectante, lo entreguen a una nodriza para que los amamante.
 
@@ -1779,15 +1843,19 @@ Se presumirá el conocimiento de la enfermedad, cuando el agente o el menor amam
 
 Cuando se trate de cónyuges o de personas en concubinato, sólo se procederá por querella del ofendido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 222.
 
-El que a sabiendas de que padece enfermedad venérea incurable, a través de relaciones sexuales o de cualquier otro medio contagie a otro, será sancionado con prisión de diez a veinte años y multa de cien a cuatrocientos días de salario mínimo, sin perjuicio de las medidas de seguridad que se puedan decretar, a efecto de evitar posteriores contagios.
+El que a sabiendas de que padece enfermedad venérea incurable, a través de relaciones sexuales o de cualquier otro medio contagie a otro, será sancionado con prisión de diez a veinte años y multa de cien a cuatrocientos días, sin perjuicio de las medidas de seguridad que se puedan decretar, a efecto de evitar posteriores contagios.
 
 La misma sanción se impondrá a quien sin padecerla, por cualquier medio y de manera dolosa contagie a otro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 223.
 
-Se impondrá de seis meses a cinco años de prisión y multa de diez a cuarenta días de salario:
+Se impondrá de seis meses a cinco años de prisión y multa de diez a cuarenta días:
 
 I. Al que elabore, comercie, falsifique o adultere sustancias, productos químicos, comestibles, bebidas o medicamentos que puedan causar estragos a la salud o disminuyan su poder alimenticio o curativo;
 
@@ -1797,19 +1865,23 @@ III. Al que oculte, sustraiga, venda o compre alimentos, bebidas o sustancias ma
 
 IV. Al que envenene o infeccione comestibles, bebidas, cosas para venderlas al público o usare sustancias venenosas o nocivas para teñir, colorear, pintar, envolver o envasar los citados artículos, así como al que envenene o infeccione las aguas de un manantial, de un estanque, fuente o cualquier otro depósito de agua, destinada a ingerirla, sean públicos o privados.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 224.
 
-Se impondrá prisión de uno a seis años y multa de uno a diez días de salario, al que utilice medios directos y eficaces de propagación de una enfermedad.
+Se impondrá prisión de uno a seis años y multa de uno a diez días, al que utilice medios directos y eficaces de propagación de una enfermedad.
 
-Si el infractor fuere médico, biólogo o farmacéutico, o se dedicare a la venta de medicamentos, la sanción será de dos a doce años de prisión y multa de cinco a treinta días de salario, sin perjuicio de las sanciones que correspondan por la responsabilidad médica o técnica si se realiza el daño.
+Si el infractor fuere médico, biólogo o farmacéutico, o se dedicare a la venta de medicamentos, la sanción será de dos a doce años de prisión y multa de cinco a treinta días, sin perjuicio de las sanciones que correspondan por la responsabilidad médica o técnica si se realiza el daño.
 
 ###### ARTÍCULO 225.
 
 Los productos falsificados o adulterados con sustancias nocivas y los aparatos y demás objetos que se emplearen en la comisión de los delitos a que se refiere este título, serán decomisados en todo caso y se pondrán a disposición de las autoridades sanitarias del Estado, quienes procederán a su destrucción o aprovechamiento lícito.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 226.
 
-Al que con un fin de lucro cause molestias a las personas por la intensidad del volumen de cualquier aparato de sonido, se le impondrá de tres meses a dos años de prisión y multa de uno a cinco días de salario, sin perjuicio del decomiso del aparato de sonido a juicio de la autoridad judicial.
+Al que con un fin de lucro cause molestias a las personas por la intensidad del volumen de cualquier aparato de sonido, se le impondrá de tres meses a dos años de prisión y multa de uno a cinco días, sin perjuicio del decomiso del aparato de sonido a juicio de la autoridad judicial.
 
 ###### ARTÍCULO 227.
 
@@ -1821,9 +1893,11 @@ Estas disposiciones sólo serán aplicables cuando no contravengan otras de car�
 
 ### CAPÍTULO I. ULTRAJES A LA MORAL PÚBLICA O A LAS BUENAS COSTUMBRES E INCITACIÓN A LA PROSTITUCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 228.
 
-Se aplicará de uno a tres años de prisión y multa de uno a cinco días de salario:
+Se aplicará de uno a tres años de prisión y multa de uno a cinco días:
 
 I. Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos, y al que los exponga, distribuya o haga circular;
 
@@ -1849,17 +1923,23 @@ III. La celebración de actos de exhibicionismo corporal de carácter sexual, co
 
 IV. La comisión de hechos delictuosos, y de asociación delictuosa.
 
-Al responsable de la corrupción de menores de dieciocho años de edad o incapaces se le aplicará de cuatro a ocho años de prisión y multa de ochenta a doscientos días de salario mínimo, así como el pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al responsable de la corrupción de menores de dieciocho años de edad o incapaces se le aplicará de cuatro a ocho años de prisión y multa de ochenta a doscientos días, así como el pago total de la reparación de los daños y perjuicios ocasionados.
 
 También incurre en corrupción y se hará acreedor a las sanciones que establece el párrafo anterior, aquella persona que venda o suministre a menores de dieciocho años de edad o incapaces, material pornográfico o sustancias tóxicas, como solventes, alcoholes, medicamentos y cualquier otra sustancia que produzca efectos similares.
 
 No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 231.
 
-Al que emplee a menores de dieciocho años de edad o incapaces en cantinas, tabernas o centros de vicio, se le sancionará con prisión de cuatro a ocho años, y multa de ochenta a doscientos días de salario y cierre del establecimiento hasta por treinta días.
+Al que emplee a menores de dieciocho años de edad o incapaces en cantinas, tabernas o centros de vicio, se le sancionará con prisión de cuatro a ocho años, y multa de ochenta a doscientos días y cierre del establecimiento hasta por treinta días.
 
-Asimismo se sancionará con prisión de dos a cinco años, multa de sesenta a ciento veinte días de salario y cierre del establecimiento hasta por treinta días al que permita el acceso a menores de dieciocho años de edad o incapaces a los lugares antes citados.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Asimismo, se sancionará con prisión de dos a cinco años, multa de sesenta a ciento veinte días y cierre del establecimiento hasta por treinta días al que permita el acceso a menores de dieciocho años de edad o incapaces a los lugares antes citados.
 
 En ambos supuestos se procederá a la cancelación del permiso en caso de reincidencia.
 
@@ -1875,7 +1955,9 @@ I. El que comprometa u ofrezca los servicios de un menor de 18 años de edad o i
 
 II. El que a cambio de retribución económica, en especie o de cualquier índole, tenga relaciones sexuales con persona menor de dieciocho años de edad o incapaz.
 
-Al que cometa este delito, se le impondrá de siete a doce años de prisión y multa de mil a dos mil días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al que cometa este delito, se le impondrá de siete a doce años de prisión y multa de mil a dos mil días.
 
 ### CAPÍTULO III. LENOCINIO
 
@@ -1889,25 +1971,35 @@ II. El que induzca o solicite a una persona para que con otra comercie sexualmen
 
 III. El que encubra, concierte o permita el comercio carnal de un menor de edad.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 235.
 
-El lenocinio se sancionará en el caso de la fracción I del artículo anterior, con prisión de uno a cinco años; en el caso de la fracción II, de uno a seis años y multa de uno a diez días de salario, y en el caso de la fracción III, con prisión de dos a siete años y multa de tres a quince días de salario.
+El lenocinio se sancionará en el caso de la fracción I del artículo anterior, con prisión de uno a cinco años; en el caso de la fracción II, de uno a seis años y multa de uno a diez días, y en el caso de la fracción III, con prisión de dos a siete años y multa de tres a quince días.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 236.
 
-Al que dé en arrendamiento una finca, teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de seis meses a tres años y multa de diez a treinta días de salario.
+Al que dé en arrendamiento una finca, teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de seis meses a tres años y multa de diez a treinta días.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 237.
 
-Si el delincuente fuere ascendiente, tutor o curador, o tuviere cualquiera otra autoridad sobre la persona explotada, se le impondrá prisión de uno a ocho años y multa de quince a cuarenta y cinco días de salario y será privado de todo derecho sobre los bienes de aquélla.
+Si el delincuente fuere ascendiente, tutor o curador, o tuviere cualquiera otra autoridad sobre la persona explotada, se le impondrá prisión de uno a ocho años y multa de quince a cuarenta y cinco días y será privado de todo derecho sobre los bienes de aquélla.
 
 ### CAPÍTULO IV. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 238.
 
-Al que provoque públicamente a cometer algún delito o haga la apología de éste o de algún vicio, se le aplicará prisión de uno a cinco años y multa de diez a cincuenta días de salario. Si el delito no se ejecutare en caso contrario, se aplicará al provocador la sanción anterior, sin perjuicio de la que corresponda por su participación en el delito cometido.
+Al que provoque públicamente a cometer algún delito o haga la apología de éste o de algún vicio, se le aplicará prisión de uno a cinco años y multa de diez a cincuenta días. Si el delito no se ejecutare en caso contrario, se aplicará al provocador la sanción anterior, sin perjuicio de la que corresponda por su participación en el delito cometido.
 
 ### CAPÍTULO ÚNICO. REVELACIÓN DE SECRETOS
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ## TÍTULO SÉPTIMO
 
@@ -1915,11 +2007,13 @@ Al que provoque públicamente a cometer algún delito o haga la apología de és
 
 ###### ARTÍCULO 239.
 
-Se aplicará prisión de tres meses a un año y multa de uno a cinco días de salario, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo o de la confianza en él depositada o por alguna otra causa.
+Se aplicará prisión de tres meses a un año y multa de uno a cinco días, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo o de la confianza en él depositada o por alguna otra causa.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 240.
 
-La sanción será de uno a cinco años de prisión y multa de uno a diez días de salario y suspensión de profesión, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
+La sanción será de uno a cinco años de prisión y multa de uno a diez días y suspensión de profesión, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
 
 ## TÍTULO OCTAVO. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS
 
@@ -1963,9 +2057,13 @@ d) Realice o contrate obra pública, deudas, adquisiciones, arrendamientos, enaj
 
 IX. Teniendo en su cargo fondos públicos, les dé a sabiendas sin la autorización correspondiente de quien tenga facultades para ello, una aplicación pública distinta de aquélla a que estuvieren destinados o hiciere un pago ilegal.
 
-Al que infrinja lo establecido en las fracciones I a la IV se le impondrá de tres meses a tres años de prisión y multa de treinta a ciento cincuenta días de salario mínimo, sin perjuicio de aplicarse otras sanciones derivadas del ejercicio indebido a su cargo.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Al que infrinja lo establecido en las fracciones V a la IX se le impondrá de tres meses a tres años de prisión y multa de treinta a trescientas veces el salario mínimo, si el monto de las operaciones no excede el equivalente de setecientas veces el salario mínimo; y se impondrá de dos a doce años de prisión y multa de treinta a trescientas veces el salario mínimo, cuando el monto de las operaciones exceda al equivalente de setecientas veces el salario mínimo.
+Al que infrinja lo establecido en las fracciones I a la IV se le impondrá de tres meses a tres años de prisión y multa de treinta a ciento cincuenta días, sin perjuicio de aplicarse otras sanciones derivadas del ejercicio indebido a su cargo.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al que infrinja lo establecido en las fracciones V a la IX se le impondrá de tres meses a tres años de prisión y multa de treinta a trescientos días, si el monto de las operaciones no excede el equivalente de setecientas veces la Unidad de Medida y Actualización diaria; y se impondrá de dos a doce años de prisión y multa de treinta a trescientos días, cuando el monto de las operaciones exceda al equivalente de setecientas veces la Unidad de Medida y Actualización diaria.
 
 Las penalidades anteriores podrán ser reducidas hasta la mitad si el servidor público resarce a quien causó el daño, el importe total de las operaciones realizadas en un término no mayor de treinta días.
 
@@ -1999,7 +2097,9 @@ X. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo
 
 XI. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación.
 
-Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años y multa de treinta a doscientos días de salario mínimo y destitución e inhabilitación por el mismo lapso para desempeñar otro empleo, cargo o comisión pública.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años y multa de treinta a doscientos días y destitución e inhabilitación por el mismo lapso para desempeñar otro empleo, cargo o comisión pública.
 
 ###### ARTÍCULO 244.
 
@@ -2009,7 +2109,9 @@ I. El Servidor Público que por sí o por interpósita persona utilizando la vio
 
 II. El Servidor Público que con motivo de la querella, denuncia o la información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que la presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
-Al que comete el delito de intimidación se le impondrá de uno a nueve años de prisión, multa por un monto de treinta a trescientas veces el salario mínimo diario y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo cargo o comisión pública.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al que comete el delito de intimidación se le impondrá de uno a nueve años de prisión, multa por un monto de treinta a trescientos días y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo cargo o comisión pública.
 
 Las sanciones señaladas con antelación serán aplicadas sin perjuicio de las que se establezcan en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
@@ -2023,7 +2125,9 @@ Tampoco lo serán las penalidades que sean consecuencias únicamente de sancione
 
 Son reglas aplicables al delito de tortura, las siguientes:
 
-I. Al que cometa el delito de tortura se le sancionará con pena privativa de libertad de dos a diez años, y de doscientos a quinientos días de salario mínimo diario vigente en el momento de aplicar la multa, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I. Al que cometa el delito de tortura se le sancionará con pena privativa de libertad de dos a diez años, y de doscientos a quinientos días en el momento de aplicar la multa, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión;
 
 II. Si además de tortura resulta delito diverso, se estará a las reglas de concurso de delito;
 
@@ -2039,7 +2143,9 @@ V. Cualquier autoridad que conozca un hecho de tortura, está obligado a denunci
 
 Comete el delito de coalición de Servidores Públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
 
-A los que cometan el delito de coalición, se les impondrá prisión de tres meses a dos años y multa de diez a sesenta días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A los que cometan el delito de coalición, se les impondrá prisión de tres meses a dos años y multa de diez a sesenta días.
 
 ### CAPÍTULO VI. PECULADO
 
@@ -2051,7 +2157,9 @@ I. El servidor público que por sí o por interpósita persona solicite o reciba
 
 II. El que dé u ofrezca dinero o cualquier otra dádiva a la persona encargada de un servicio público del estado, municipal o descentralizado o de participación estatal, o algún servidor público que preste sus servicios en los poderes Ejecutivo, Legislativo y Judicial, para que haga un acto ilícito u omita uno lícito relacionado con sus funciones.
 
-Al que cometa el delito de cohecho se le sancionará con tres meses a cinco años de prisión y multa de quince a sesenta días de salario; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al que cometa el delito de cohecho se le sancionará con tres meses a cinco años de prisión y multa de quince a sesenta días; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
 
 ### CAPÍTULO VII. CONCUSIÓN
 
@@ -2059,15 +2167,17 @@ Al que cometa el delito de cohecho se le sancionará con tres meses a cinco año
 
 Comete el delito de peculado toda persona encargada de un servicio público del estado, municipal o descentralizado, aun cuando sea en comisión por tiempo limitado y no tenga el carácter de funcionario, quien, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o al Municipio, al organismo descentralizado a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 249.
 
-Al que cometa el delito de peculado se le aplicarán de uno a nueve años de prisión y multa de treinta a cincuenta días de salario y destitución de empleo o cargo e inhabilitación para desempeñar otros similares.
+Al que cometa el delito de peculado se le aplicarán de uno a nueve años de prisión y multa de treinta a cincuenta días y destitución de empleo o cargo e inhabilitación para desempeñar otros similares.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 250.
 
-La sanción será de uno a seis meses de prisión y multa de cinco a quince días de salario, si dentro de los treinta días siguientes a aquél en que se descubrió el delito devolviere el responsable lo sustraído.
-
-Esta disposición se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
+La sanción será de uno a seis meses de prisión y multa de cinco a quince días, si dentro de los treinta días siguientes a aquél en que se descubrió el delito devolviere el responsable lo sustraído.
 
 ### CAPÍTULO VIII. DELITOS COMETIDOS EN LA CUSTODIA DE DOCUMENTOS
 
@@ -2097,9 +2207,13 @@ II. Teniendo a su cargo la custodia de documentos o efectos sellados por la auto
 
 III. Abra o consienta abrir sin la autorización correspondiente, papeles o documentos cerrados cuya custodia le estuviere confiada.
 
-Al responsable de este delito se le impondrá prisión de tres meses a cinco años y multa de diez a treinta días de salario mínimo.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al responsable de este delito se le impondrá prisión de tres meses a cinco años y multa de diez a treinta días.
 
 ### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 255.
 
@@ -2111,19 +2225,27 @@ Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguien
 
 I. Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit;
 
-II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario, se impondrá de tres meses a seis años de prisión y multa de treinta a trescientos días de salario al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión pública, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario, se impondrá de dos a catorce años de prisión, multa de trescientos a quinientas veces el salario y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión pública.
+II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda el equivalente a cinco mil veces el salario, se impondrá de tres meses a seis años de prisión y multa de treinta a trescientos días al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión pública, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario, se impondrá de dos a catorce años de prisión, multa de trescientos a quinientas veces la Unidad de Medida y Actualización diaria y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión pública.
 
 ### CAPÍTULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 256.
 
-Al servidor público que por sí o por interpósita persona, influyere en otro servidor público o servidores públicos, valiéndose del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal, jerárquica o de cualquier otra índole con éste, o con otros u otros (sic) servidor público, para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente un beneficio económico para sí o para un tercero, o bien para afectar los servicios o funcionalidad del Estado, se le impondrá pena de prisión de tres a siete años y multa de ciento cincuenta a setecientos días de salario mínimo. Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad más.
+Al servidor público que por sí o por interpósita persona, influyere en otro servidor público o servidores públicos, valiéndose del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal, jerárquica o de cualquier otra índole con éste, o con otros u otros (sic), servidor público para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente un beneficio económico para sí o para un tercero, o bien para afectar los servicios o funcionalidad del Estado, se le impondrá pena de prisión de tres a siete años y multa de ciento cincuenta a setecientos días. Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad más.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 257.
 
-El particular que influyere en un servidor público o en un grupo de servidores públicos valiéndose de cualquier situación derivada de su relación personal o de cualquier otra índole con éste, estos o con otro u otros servidores públicos, para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente, un beneficio económico para sí o para un tercero, o bien para afectar los servicios o funcionalidad del Estado, será sancionado con pena de prisión de un mes a seis años y multa de cien a quinientos días de salario mínimo. Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad más.
+El particular que influyere en un servidor público o en un grupo de servidores públicos valiéndose de cualquier situación derivada de su relación personal o de cualquier otra índole con éste, estos o con otro u otros servidores públicos, para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente, un beneficio económico para sí o para un tercero, o bien para afectar los servicios o funcionalidad del Estado, será sancionado con pena de prisión de un mes a seis años y multa de cien a quinientos días. Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad más.
 
 ###### ARTÍCULO 258.
 
@@ -2137,9 +2259,11 @@ En todos los casos previstos en este Capítulo, las dádivas, presentes o regalo
 
 ### CAPÍTULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 260.
 
-Se impondrá suspensión de tres meses a tres años o destitución del cargo y en ambos casos multa de diez a treinta días de salario a los funcionarios, empleados o auxiliares de la administración de justicia que cometan algunos de los delitos siguientes:
+Se impondrá suspensión de tres meses a tres años o destitución del cargo y en ambos casos multa de diez a treinta días a los funcionarios, empleados o auxiliares de la administración de justicia que cometan algunos de los delitos siguientes:
 
 I. Conocer de negocios contra los cuales tengan impedimento legal o abstenerse de conocer de los que les correspondan sin tener impedimento para ello;
 
@@ -2157,9 +2281,11 @@ VII. Retardar o entorpecer maliciosamente o por negligencia la administración d
 
 VIII. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos, los indicios, huellas o vestigios del hecho delictuoso o los instrumentos, objetos o productos del delito.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 261.
 
-Se impondrá suspensión de tres meses a tres años y multa de diez a treinta días de salario, al defensor de oficio de un inculpado, que sólo se concrete a aceptar el cargo o a solicitar la libertad caucional, sin promover injustificadamente las pruebas conducentes o que no interponga los recursos procedentes contra las resoluciones en que se adviertan violaciones notorias a la Ley.
+Se impondrá suspensión de tres meses a tres años y multa de diez a treinta días, al defensor de oficio de un inculpado, que sólo se concrete a aceptar el cargo o a solicitar la libertad caucional, sin promover injustificadamente las pruebas conducentes o que no interponga los recursos procedentes contra las resoluciones en que se adviertan violaciones notorias a la Ley.
 
 ###### ARTÍCULO 262.
 
@@ -2169,7 +2295,7 @@ Las disposiciones de los artículos anteriores se aplicarán, en lo conducente, 
 
 ###### ARTÍCULO 263.
 
-Se impondrá prisión de uno a cinco años, multa de diez a treinta días de salario y suspensión en el ejercicio profesional de tres meses a dos años, a los abogados, patronos o litigantes, cuando éstos últimos no sean ostensiblemente patrocinados por abogados, si cometen algunos de los delitos siguientes:
+Se impondrá prisión de uno a cinco años, multa de diez a treinta días y suspensión en el ejercicio profesional de tres meses a dos años, a los abogados, patronos o litigantes, cuando éstos últimos no sean ostensiblemente patrocinados por abogados, si cometen algunos de los delitos siguientes:
 
 I. Alegar, a sabiendas, hechos falsos o leyes inexistentes o derogadas;
 
@@ -2197,11 +2323,15 @@ IV. Al defensor particular en los casos del artículo 261 de éste Código.
 
 ### CAPÍTULO I. FALSIFICACIÓN DE DOCUMENTOS DE CRÉDITO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 265.
 
 Los médicos, cirujanos, parteros, dentistas, veterinarios, practicantes o pasantes de medicina y demás profesionales similares y auxiliares, serán responsables por los daños que causen en la práctica de su profesión, en los términos siguientes:
 
-I. Además de las sanciones fijadas para los delitos que resulten consumados, según sean intencionales o culposos, se les aplicará de dos a seis años de prisión y multa de doscientos a mil días de salario mínimos, así como suspensión de uno a cinco años en el ejercicio de la profesión o inhabilitación definitiva en caso de reincidencia, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I. Además de las sanciones fijadas para los delitos que resulten consumados, según sean intencionales o culposos, se les aplicará de dos a seis años de prisión y multa de doscientos a mil días, así como suspensión de uno a cinco años en el ejercicio de la profesión o inhabilitación definitiva en caso de reincidencia, y
 
 II. Estarán obligados a la responsabilidad civil, no solamente por sus actos propios, sino también solidariamente por los de sus ayudantes, enfermeros o practicantes, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
 
@@ -2209,9 +2339,11 @@ II. Estarán obligados a la responsabilidad civil, no solamente por sus actos pr
 
 El artículo anterior, se aplicará a los médicos que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada, y no den aviso inmediato a la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 267.
 
-A quienes ejerzan la medicina y sin causa justificada, se nieguen a prestar sus servicios a un enfermo que lo solicite por notoria urgencia, poniendo en peligro la vida de dicho enfermo, serán sancionados con multa hasta de quinientos días de salario.
+A quienes ejerzan la medicina y sin causa justificada, se nieguen a prestar sus servicios a un enfermo que lo solicite por notoria urgencia, poniendo en peligro la vida de dicho enfermo, serán sancionados con multa hasta de quinientos días.
 
 Si se produce daño por la falta de intervención se les impondrán, además, prisión de uno a ocho años e inhabilitación para el ejercicio profesional por el término de tres meses a dos años.
 
@@ -2227,9 +2359,11 @@ III. Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cu
 
 La misma sanción se impondrá a los encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver, e igualmente a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituya la medicina, específicamente recetada por otra que cause daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 269.
 
-Cuando una persona efectúe una exploración ginecológica por motivos deshonestos, se le sancionará con prisión de uno a cinco años y multa de diez a cuarenta días de un salario. Si con la exploración se causa el desfloramiento de la mujer, las sanciones serán de dos a nueve años de prisión y multa de veinte a cien días de salario.
+Cuando una persona efectúe una exploración ginecológica por motivos deshonestos, se le sancionará con prisión de uno a cinco años y multa de diez a cuarenta días. Si con la exploración se causa el desfloramiento de la mujer, las sanciones serán de dos a nueve años de prisión y multa de veinte a cien días.
 
 ###### ARTÍCULO 270.
 
@@ -2241,23 +2375,27 @@ Estarán asimismo obligados a la responsabilidad civil en los términos de la fr
 
 ### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES Y TROQUELES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 271.
 
-Al que cometa el delito de falsificación de un documento de crédito, se le impondrá de uno a diez años de prisión y multa de cinco a treinta días de salario.
+Al que cometa el delito de falsificación de un documento de crédito, se le impondrá de uno a diez años de prisión y multa de cinco a treinta días.
 
 ###### ARTÍCULO 272.
 
 Comete el delito de que habla el artículo anterior, el que falsificare obligaciones u otros documentos de crédito, cupones de interés o de dividendos de los mismos, legalmente emitidos por particulares, por sociedades o empresas, o por las administraciones públicas del Estado o de cualquiera de los municipios.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 273.
 
-Al que introduzca al Estado o ponga en circulación los documentos falsos de que habla el artículo anterior, se sancionará con prisión de dos a diez años y multa de veinte a cien días de salario mínimo.
+Al que introduzca al Estado o ponga en circulación los documentos falsos de que habla el artículo anterior, se sancionará con prisión de dos a diez años y multa de veinte a cien días.
 
 ### CAPÍTULO III. FALSIFICACIÓN DE DOCUMENTOS EN GENERAL
 
 ###### ARTÍCULO 274.
 
-Se impondrá prisión de dos a diez años y multa de diez a cincuenta días de salario:
+Se impondrá prisión de dos a diez años y multa de diez a cincuenta días.
 
 I. Al que falsifique los sellos de los Poderes del Estado, de sus dependencias, oficinas o Instituciones Públicas del Estado o de Notarios Públicos;
 
@@ -2269,9 +2407,11 @@ IV. Al que, a sabiendas de su falsedad hiciera uso indebido de los sellos, marca
 
 V. Al que, a sabiendas de su falsedad hiciera uso indebido de los sellos, marcas, punzones y demás objetos de que se habla en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 275.
 
-Se impondrá prisión de uno a cinco años y multa de diez a cincuenta días de salario:
+Se impondrá prisión de uno a cinco años y multa de diez a cincuenta días:
 
 I. Al que falsifique sellos, marcas, contraseñas o estampillas de un particular, de una casa comercial, de un banco, de un establecimiento industrial, o un boleto o ficha de un espectáculo público;
 
@@ -2284,6 +2424,8 @@ IV. Al que, a sabiendas, hiciere uso indebido de las llaves, sellos, marcas y de
 V. Al que falsifique, altere, modifique o desprenda parcial o totalmente por cualquier medio el número de identificación vehicular que imprime el fabricante en la estructura de los vehículos automotores.
 
 ### CAPÍTULO IV. FALSIFICACIÓN DE CERTIFICACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 276.
 
@@ -2321,19 +2463,25 @@ II. Que resulte o pueda resultar perjuicio a la sociedad, al Estado o a un parti
 
 III. Que el falsario haga la falsificación sin consentimiento de la persona a quien resulte o pueda resultar perjuicio o sin el de aquélla en cuyo nombre hizo el documento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 278.
 
-La falsificación de documentos públicos o privados de que habla el artículo 276, se sancionará con prisión de dos a diez años y multa de veinte a cien días de salario.
+La falsificación de documentos públicos o privados de que habla el artículo 276, se sancionará con prisión de dos a diez años y multa de veinte a cien días.
 
 Iguales sanciones se impondrán al que a sabiendas hiciere uso indebido de un documento falso, sea público o privado.
 
-Se impondrán de cuatro a diez años de prisión y multa de trescientos a mil días de salario al responsable de la falsificación de documentos prevista en las fracciones X y XI del artículo 276.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Se impondrán de cuatro a diez años de prisión y multa de trescientos a mil días al responsable de la falsificación de documentos prevista en las fracciones X y XI del artículo 276.
 
 ### CAPÍTULO V. DE LA CERTIFICACIÓN, FORMALIZACIÓN, REGISTRO E INSCRIPCIÓN DE INMUEBLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 279.
 
-Se sancionará con uno a cinco años de prisión y multa de veinte a cien días de salario:
+Se sancionará con uno a cinco años de prisión y multa de veinte a cien días:
 
 I. Al Servidor Público que, por engaño o sorpresa, hiciere que alguien firme un documento público, que no habría firmado sabiendo su contenido;
 
@@ -2349,21 +2497,27 @@ VI. A los encargados de un servicio de comunicaciones que supongan o falsifiquen
 
 ### CAPÍTULO VI. FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS A UNA AUTORIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 280.
 
-A quien certifique o participe dando forma a actos, convenios, o contratos con el propósito de transmitir la propiedad o posesión de inmuebles en contravención a lo dispuesto en las normas, planes o programas de desarrollo urbano, o sin comprobar la existencia de las autorizaciones, permisos o licencias de las autoridades competentes, se le impondrá una pena de tres a seis años de prisión y multa de trescientos a quinientos días de salario mínimo general vigente en la entidad.
+A quien certifique o participe dando forma a actos, convenios, o contratos con el propósito de transmitir la propiedad o posesión de inmuebles en contravención a lo dispuesto en las normas, planes o programas de desarrollo urbano, o sin comprobar la existencia de las autorizaciones, permisos o licencias de las autoridades competentes, se le impondrá una pena de tres a seis años de prisión y multa de trescientos a quinientos días.
 
-Cuando la certificación y formalización de actos, convenios o contratos a que se refiere el párrafo anterior, se inscriban o registren por parte de los servidores públicos de Catastro y del Registro Público de la Propiedad y del Comercio sin ajustarse a las disposiciones legales y administrativas aplicables, se impondrá a los responsables una pena de uno a cinco años de prisión y multa de cien a trescientos días de salario mínimo general vigente.
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO, EL CONTENIDO DEL TERCER PÁRRAFO, QUEDÓ INMERSO EN EL PRESENTE PÁRRAFO.]</small>
 
-Se le impondrá además de dichas sanciones, la destitución e inhabilitación de uno a cinco años, para desempeñar otro empleo, cargo, o comisión pública.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Cuando la certificación y formalización de actos, convenios o contratos a que se refiere el párrafo anterior, se inscriban o registren por parte de los servidores públicos de Catastro y del Registro Público de la Propiedad y del Comercio sin ajustarse a las disposiciones legales y administrativas aplicables, se impondrá a los responsables una pena de uno a cinco años de prisión y multa de cien a trescientos días. Se le impondrá además de dichas sanciones, la destitución e inhabilitación de uno a cinco años, para desempeñar otro empleo, cargo, o comisión públicos.
 
 Serán nulos de pleno derecho las certificaciones, formalizaciones, registro e inscripciones que se otorguen en contravención a lo dispuesto en este artículo.
 
 ### CAPÍTULO VII. VARIACIÓN U OCULTACIÓN DEL NOMBRE O DEL DOMICILIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 281.
 
-Se impondrá de tres a siete años de prisión y multa de cincuenta a doscientos días de salario al que:
+Se impondrá de tres a siete años de prisión y multa de cincuenta a doscientos días, al que:
 
 I. En entrevista, interrogatorio, declaración o cualquier manifestación ante alguna autoridad pública distinta de la judicial, en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad;
 
@@ -2381,9 +2535,11 @@ VI. Siendo autoridad, rinda a otra informes en los que afirme una falsedad o nie
 
 VII. Se conduzca con falsedad ante fedatario público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 282.
 
-El testigo, el perito, el intérprete o el declarante a que se refieren las fracciones II, IV y V del artículo anterior, que retracte espontáneamente sus falsas declaraciones u opiniones rendidas en juicio antes de que pronuncien sentencia, solo pagará una multa de uno a cinco días de salario.
+El testigo, el perito, el intérprete o el declarante a que se refieren las fracciones II, IV y V del artículo anterior, que retracte espontáneamente sus falsas declaraciones u opiniones rendidas en juicio antes de que pronuncien sentencia, solo pagará una multa de uno a cinco días.
 
 Pero si faltaren también a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo previsto por éste capítulo, considerándolo como reincidentes.
 
@@ -2397,15 +2553,19 @@ II. Quien dolosamente realice reportes falsos, a los centros de servicio de resp
 
 III. Quien con el propósito de inculpar a alguien como responsable de un delito simule la existencia de pruebas.
 
-A los responsables de las conductas referidas en las fracciones anteriores, se les impondrá de uno a cinco años de prisión y multa de cincuenta a trescientos días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A los responsables de las conductas referidas en las fracciones anteriores, se les impondrá de uno a cinco años de prisión y multa de cincuenta a trescientos días.
 
 Cuando derivado de un reporte falso se originen daños o pérdidas en contra de personas o cosas, se aplicará las reglas de concurso de delitos, además de condenarse a la reparación de los daños ocasionados.
 
 ### CAPÍTULO VIII. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 284.
 
-Se sancionará con prisión de uno a cinco años y multa de diez a cincuenta días de salario:
+Se sancionará con prisión de uno a cinco años y multa de diez a cincuenta días:
 
 I. Al que oculte su nombre o apellido y tome otro imaginario o el de otra persona, al declarar ante una autoridad;
 
@@ -2415,9 +2575,11 @@ III. Al servidor público que en los actos propios de su cargo, atribuya a una p
 
 ### CAPÍTULO IX. USO INDEBIDO DE CONDECORACIONES, INSIGNIAS, DISTINTIVOS O UNIFORMES
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 285.
 
-Se sancionará con prisión de tres meses a tres años y multa de uno a diez días de salario:
+Se sancionará con prisión de tres meses a tres años y multa de uno a diez días:
 
 I. Al que, sin ser servidor público, se atribuya ese carácter y ejerza algunas de las funciones correspondientes, y
 
@@ -2437,9 +2599,11 @@ e) Con objeto de lucrar, se asocie a profesionistas legalmente autorizados con f
 
 ###### ARTÍCULO 286.
 
-Se sancionará con prisión de uno a cinco años y multa de diez a cincuenta días de salario, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, que sean exclusivos de funcionarios o de personas que tengan carácter de autoridad en el Estado.
+Se sancionará con prisión de uno a cinco años y multa de diez a cincuenta días, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, que sean exclusivos de funcionarios o de personas que tengan carácter de autoridad en el Estado.
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 287.
 
@@ -2451,21 +2615,25 @@ Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no
 
 ### CAPÍTULO I. ATENTADOS AL PUDOR
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 288.
 
-Se impondrá prisión de uno a cincos años y multa de diez a cincuenta días de salario, a quien explote a menores de edad o personas con discapacidad, induciéndolos a la mendicidad.
+Se impondrá prisión de uno a cincos (sic) años y multa de diez a cincuenta días, a quien explote a menores de edad o personas con discapacidad, induciéndolos a la mendicidad.
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS SEXUALES
 
 ### CAPÍTULO II. ESTUPRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 289.
 
-Al que sin consentimiento de una persona púber, ejecute en ella un acto erótico, sin el propósito directo e inmediato de llegar a la cópula, se le impondrá sanción de seis meses a dos años de prisión y multa de tres a diez días de salario.
+Al que sin consentimiento de una persona púber, ejecute en ella un acto erótico, sin el propósito directo e inmediato de llegar a la cópula, se le impondrá sanción de seis meses a dos años de prisión y multa de tres a diez días.
 
-Si se cometiera en impúber o en persona que por cualquier causa no pudiere resistir, la sanción será de uno a cinco años y multa de diez a treinta días de salario.
+Si se cometiera en impúber o en persona que por cualquier causa no pudiere resistir, la sanción será de uno a cinco años y multa de diez a treinta días.
 
-Cuando se cometa el delito valiéndose de su posición jerárquica o de cualquier circunstancia que implique subordinación, se le impondrá de dos a siete años de prisión y multa de veinte a cien salarios mínimos.
+Cuando se cometa el delito valiéndose de su posición jerárquica o de cualquier circunstancia que implique subordinación, se le impondrá de dos a siete años de prisión y multa de veinte a cien Unidades de Medida y Actualización diarias.
 
 ###### ARTÍCULO 290.
 
@@ -2473,15 +2641,19 @@ El ilícito de atentados al pudor, solo se perseguirá a petición del ofendido 
 
 ### CAPÍTULO III. VIOLACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 291.
 
-Al que tenga cópula con una persona mayor de doce y menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrá de uno a seis años de prisión, y multa de cien a trescientos días de salario mínimo.
+Al que tenga cópula con una persona mayor de doce y menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrá de uno a seis años de prisión, y multa de cien a trescientos días.
 
 La seducción o el engaño se presumen salvo prueba en contrario.
 
 Se entiende por cópula la introducción total o parcial del miembro viril en el cuerpo de la víctima por vía anal, vaginal u oral.
 
-Al que en el ejercicio de sus funciones, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, cometa el delito de estupro, se le impondrá de tres a nueve años de prisión y una multa de doscientos a quinientos días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al que en el ejercicio de sus funciones, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, cometa el delito de estupro, se le impondrá de tres a nueve años de prisión y una multa de doscientos a quinientos días.
 
 ###### ARTÍCULO 292.
 
@@ -2489,9 +2661,11 @@ No se procederá contra el estuprador, sino por queja de persona ofendida o de s
 
 ### CAPÍTULO IV. HOSTIGAMIENTO O ACOSO SEXUAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 293.
 
-Se sancionará con prisión de seis a veinte años y multa de cien a trescientos días de salario mínimo, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
+Se sancionará con prisión de seis a veinte años y multa de cien a trescientos días, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
 
 Se entiende por cópula la introducción total o parcial del miembro viril en el cuerpo de la víctima, ya sea por vía anal, oral o vaginal.
 
@@ -2503,9 +2677,11 @@ El tratamiento psicológico al que se refiere el párrafo anterior, deberá prop
 
 En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el perdón y por tanto continuará el proceso en sus etapas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 294.
 
-Se sancionará con prisión de diez a treinta años y multa de cien a trescientos días de salario mínimo, cuando la violación se cometa en los siguientes casos:
+Se sancionará con prisión de diez a treinta años y multa de cien a trescientos días, cuando la violación se cometa en los siguientes casos:
 
 I. La violación de un ascendiente a su descendiente, o de éste a aquél, sin importar el grado u origen del parentesco;
 
@@ -2533,29 +2709,41 @@ IV. Cuando el sujeto activo por medio de la violencia física o moral obligue al
 
 ### CAPÍTULO I. DE LA SUPOSICIÓN Y SUPRESIÓN DEL ESTADO CIVIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 296.
 
-Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral, vecinal o cualquier otro que implique subordinación, respeto o ventaja, se le impondrá de dos a seis años de prisión y multa de cien a trescientos días de salario.
+Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral, vecinal o cualquier otro que implique subordinación, respeto o ventaja, se le impondrá de dos a seis años de prisión y multa de cien a trescientos días.
 
-Si el sujeto pasivo fuere menor de edad o incapaz, la pena será de tres a ocho años de prisión y multa de doscientos a cuatrocientos días de salario mínimo.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Si el sujeto pasivo fuere menor de edad o incapaz, la pena será de tres a ocho años de prisión y multa de doscientos a cuatrocientos días.
 
 Las penas previstas en este artículo son independientes de cualquier otro delito que resulte cometido con motivo del acoso.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 297.
 
-Al que con fines lascivos, sexuales o de lujuria, asedie reiteradamente a una persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días de salario.
+Al que con fines lascivos, sexuales o de lujuria, asedie reiteradamente a una persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días.
 
 ### CAPÍTULO II. EXPOSICIÓN DE MENORES
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO III. SUSTRACCIÓN Y TRÁFICO DE MENORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
 ### CAPÍTULO IV. BIGAMIA
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 298.
 
-Se impondrá de uno a seis años de prisión y multa de diez a treinta días de salario al que con el fin de alterar el estado civil, ejecute alguno de los hechos siguientes:
+Se impondrá de uno a seis años de prisión y multa de diez a treinta días, a (sic) que con el fin de alterar el estado civil, ejecute alguno de los hechos siguientes:
 
 I. Atribuir un recién nacido a mujer que no sea realmente su madre;
 
@@ -2571,9 +2759,11 @@ La anterior sanción será aumentada hasta una mitad más cuando se trate (sic) 
 
 ### CAPÍTULO V. INCESTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 299.
 
-Al que abandone en una casa de expósitos a un menor de siete años que se le hubiere confiado, o lo entregue a otro establecimiento de beneficencia o a cualquier otra persona, sin anuencia de la que se lo confió o de la autoridad en su defecto, se le aplicará de uno a tres años de prisión y multa de tres a quince días de salario.
+Al que abandone en una casa de expósitos a un menor de siete años que se le hubiere confiado, o lo entregue a otro establecimiento de beneficencia o a cualquier otra persona, sin anuencia de la que se lo confió o de la autoridad en su defecto, se le aplicará de uno a tres años de prisión y multa de tres a quince días.
 
 ###### ARTÍCULO 300.
 
@@ -2581,19 +2771,25 @@ Los ascendientes o tutores que entreguen a un menor de siete años que esté baj
 
 ### CAPÍTULO VI. ABANDONO DE FAMILIARES
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 301.
 
-Al familiar de un menor de dieciocho años o incapaz que lo sustraiga o retenga, sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la tenga, se le impondrá de uno a ocho años de prisión y multa de diez a cuarenta días de salario.
+Al familiar de un menor de dieciocho años o incapaz que lo sustraiga o retenga, sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la tenga, se le impondrá de uno a ocho años de prisión y multa de diez a cuarenta días.
 
 Cuando el responsable de la sustracción o retención sea uno de los progenitores se perseguirá por querella.
 
 No se aplicarán las sanciones anteriores a los progenitores que incurran en los actos señalados, cuando medie causa justificada, entendiéndose por estas, toda conducta realizada por el desposeído que perjudique evidentemente la salud física o moral del menor.
 
-Cuando la sustracción o retención de un menor de dieciocho años se realice por una persona distinta a las indicadas en el primer párrafo, se impondrá de cinco a diez años de prisión y multa de diez a sesenta días de salario. Si se pone en libertad al menor, espontáneamente, antes de quince días y sin causarle algún perjuicio, se aplicará como sanción de dos a ocho años de prisión.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Cuando la sustracción o retención de un menor de dieciocho años se realice por una persona distinta a las indicadas en el primer párrafo, se impondrá de cinco a diez años de prisión y multa de diez a sesenta días. Si se pone en libertad al menor, espontáneamente, antes de quince días y sin causarle algún perjuicio, se aplicará como sanción de dos a ocho años de prisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 302.
 
-Se impondrá de diez a cincuenta años de prisión y multa de doscientos a quinientos días de salario mínimo, a quien cometa el delito de tráfico de menores en alguna de las modalidades siguientes:
+Se impondrá de diez a cincuenta años de prisión y multa de doscientos a quinientos días, a quien cometa el delito de tráfico de menores en alguna de las modalidades siguientes:
 
 I. Al que por medio de la violencia física o moral, o mediante engaños o furtivamente, sustraiga a un menor de dieciocho años de la custodia de sus progenitores, o de aquellos que ejerzan la patria potestad o la tutela, con fines comerciales o para apropiárselo;
 
@@ -2603,19 +2799,19 @@ III. A quien venda, compre o de cualquier otra forma disponga de un menor de die
 
 Igual pena se aplicará al que teniendo conocimiento de las actividades de tráfico de menores o a la venta clandestina de órganos o parte de su cuerpo, no lo denuncie a las autoridades.
 
-A quienes dirijan, organicen o aporten recursos económicos, técnicos o materiales que permitan el ejercicio de tráfico de menores o la venta clandestina de órganos o parte de su cuerpo, se les aplicará de veinte a cincuenta años de prisión y multa de quinientos días de salario mínimo.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A quienes dirijan, organicen o aporten recursos económicos, técnicos o materiales que permitan el ejercicio de tráfico de menores o la venta clandestina de órganos o parte de su cuerpo, se les aplicará de veinte a cincuenta años de prisión y multa de quinientos días.
 
 ### CAPÍTULO VII. VIOLENCIA FAMILIAR
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 303.
 
-Se impondrá de seis meses a cinco años y multa de tres a quince días de salario al que estando unido a una persona en matrimonio, contraiga otro con las formalidades legales. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio ilegítimo.
+Se impondrá de seis meses a cinco años y multa de tres a quince días, al que estando unido a una persona en matrimonio, contraiga otro con las formalidades legales. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio ilegítimo.
 
-A quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su consentimiento para la celebración del nuevo matrimonio, así como a los testigos que con igual conocimiento intervengan en el acto, se les impondrá de tres meses a tres años de prisión y multa de uno a diez días de salario.
+A quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su consentimiento para la celebración del nuevo matrimonio, así como a los testigos que con igual conocimiento intervengan en el acto, se les impondrá de tres meses a tres años de prisión y multa de uno a diez días.
 
 ###### ARTÍCULO 304.
 
@@ -2623,9 +2819,11 @@ El término para la prescripción de la acción penal por bigamia, empezará a c
 
 ### CAPÍTULO ÚNICO. DELITOS EN MATERIA DE INHUMACIÓN, EXHUMACIÓN Y PROFANACIÓN DE CADÁVERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 305.
 
-Se impondrá de uno a seis años de prisión y multa de tres a quince días de salario, a los ascendientes que tengan cópula con sus descendientes, cuando exista consentimiento de ambos. La sanción aplicable a los descendientes será de seis meses a tres años de prisión y multa de uno a diez días de salario.
+Se impondrá de uno a seis años de prisión y multa de tres a quince días, a los ascendientes que tengan cópula con sus descendientes, cuando exista consentimiento de ambos. La sanción aplicable a los descendientes será de seis meses a tres años de prisión y multa de uno a diez días.
 
 Se aplicará esta última sanción en caso de incesto entre hermanos.
 
@@ -2633,15 +2831,13 @@ Se aplicará esta última sanción en caso de incesto entre hermanos.
 
 ###### ARTÍCULO 306.
 
-Al que sin causa justificada, falte en forma total o parcial, ésta última sólo cuando ya se haya decretado la pensión provisional o definitiva por el juez de familia; o por convenio firmado ante cualquier autoridad distinta a la judicial, por más de treinta días naturales a la obligación de suministrar alimentos a sus hijos, cónyuge, concubina o cualquier otra persona con quien tenga el deber de asistencia conforme al Código Civil para el Estado de Nayarit, aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero, se le impondrá de dos a cinco años de prisión y multa de treinta a doscientos días de salario mínimo vigente en la entidad.
+Al que sin causa justificada, falte en forma total o parcial, ésta última sólo cuando ya se haya decretado la pensión provisional o definitiva por el juez de familia; o por convenio firmado ante cualquier autoridad distinta a la judicial, por más de treinta días naturales a la obligación de suministrar alimentos a sus hijos, cónyuge, concubina o cualquier otra persona con quien tenga el deber de asistencia conforme al Código Civil para el Estado de Nayarit, aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero, se le impondrá de dos a cinco años de prisión y multa de treinta a doscientos días.
 
-La penalidad antes referida podrá aumentarse hasta en una mitad más, cuando el deudor alimentario abandone o incumpla sus obligaciones de asistencia alimentaria para con una mujer en estado de gravidez con quien se presuma la paternidad en razón de la relación de matrimonio o concubinato que los una.
-
-Además de las sanciones señaladas y de la reparación del daño a que se tenga derecho, en caso de reincidencia el juez podrá decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que pudiere tener el sujeto activo a su favor respecto de la víctima.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 307.
 
-A quien con el propósito de eludir, evitar o suspender el cumplimiento de sus obligaciones alimentarias decretadas previamente por autoridad judicial, se coloque en estado de insolvencia, ya sea renunciando o abandonando su trabajo, solicitando licencia sin goce de sueldo, dilapidando sus bienes o simulando actos jurídicos para tal efecto, se le impondrá de cuatro a ocho años de prisión y multa de treinta a trescientos días de salario mínimo vigente en la entidad.
+A quien, con el propósito de eludir, evitar o suspender el cumplimiento de sus obligaciones alimentarias decretadas previamente por autoridad judicial, se coloque en estado de insolvencia, ya sea renunciando o abandonando su trabajo, solicitando licencia sin goce de sueldo, dilapidando sus bienes o simulando actos jurídicos para tal efecto, se le impondrá de cuatro a ocho años de prisión y multa de treinta a trescientos días.
 
 ###### ARTÍCULO 308.
 
@@ -2671,9 +2867,9 @@ II. Aquella persona con la que el sujeto activo hubiere procreado hijos en comú
 
 III. Los parientes del sujeto activo en línea recta ascendente o descendente sin límite de grado, el pariente colateral hasta el cuarto grado o por afinidad hasta el segundo grado.
 
-Al responsable del delito de violencia familiar se le impondrá de uno a ocho años de prisión y multa de cien a trescientos días de salario mínimo vigente en la entidad, pudiendo el juez decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que tenga respecto de la víctima.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Al responsable del delito de violencia familiar se le impondrá de uno a ocho años de prisión y multa de cien a trescientos días, pudiendo el juez decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que tenga respecto de la víctima.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2723,7 +2919,11 @@ VII. Exista imposibilidad material de la víctima de denunciar la violencia fami
 
 ### CAPÍTULO III. ALLANAMIENTO DE MORADA, OFICINA O ESTABLECIMIENTO MERCANTIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO IV. ASALTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ## TÍTULO DÉCIMO QUINTO
 
@@ -2731,7 +2931,7 @@ VII. Exista imposibilidad material de la víctima de denunciar la violencia fami
 
 ###### ARTÍCULO 314.
 
-Se impondrá prisión de tres meses a tres años y multa de uno a diez días de salario:
+Se impondrá prisión de tres meses a tres años y multa de uno a diez días:
 
 I. Al que ilegalmente retenga, destruya, mutile, oculte o sepulte un cadáver o un feto humano, o parte de éstos, o mande hacerlo;
 
@@ -2739,9 +2939,11 @@ II. Al que oculte, o sin los requisitos legales sepulte, o mande ocultar o sepul
 
 III. Al que exhume un cadáver sin los requisitos legales o con violación de derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 315.
 
-Se impondrá prisión de tres meses a tres años y multa de uno a diez días de salario:
+Se impondrá prisión de tres meses a tres años y multa de uno a diez días:
 
 I. Al que sin causa legal viole un túmulo, un sepulcro o un féretro, y
 
@@ -2755,13 +2957,17 @@ II. Al que profane un cadáver o restos humanos con actos de vilipendio, obsceni
 
 Comete el delito de amenazas, el que valiéndose de cualquier medio intimide a otro con causarle un mal en su persona, en su honor, en su prestigio, en sus bienes o en la persona, honor, prestigio o bienes de alguien con quien esté ligado con cualquier vínculo.
 
-El delito de amenazas se sancionará con prisión de seis meses a dos años de prisión y multa de diez a cincuenta días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El delito de amenazas se sancionará con prisión de seis meses a dos años de prisión y multa de diez a cincuenta días.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ARTÍCULO 316 BIS.- Se equipara a las amenazas, el uso de la violencia verbal o la intimidación verbal o escrita, ya sea de manera personal o a través de cualquier medio, que se realice de manera reiterada o continua y fuera del marco legal, para requerir el pago de adeudos derivados de actividades mercantiles, incluyendo empréstitos o financiamientos.
 
-Al responsable de amenazas equiparadas, se le impondrá una pena de prisión de seis meses a dos años y multa de diez a cincuenta días de salario mínimo.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al responsable de amenazas equiparadas, se le impondrá una pena de prisión de seis meses a dos años y multa de diez a cincuenta días.
 
 ###### ARTÍCULO 317.
 
@@ -2777,7 +2983,9 @@ I. Si lo que exigió y recibió fue dinero o algún documento o cosa estimable e
 
 II. Si exigió que el amenazado cometiera un delito, la sanción de la amenaza y la que le corresponda por su participación en el que resulte, se sujetarán a las reglas del concurso, y
 
-III. Si lo que exigió fue que dejara de ejecutar un acto lícito, se le impondrá sanción de tres meses a dos años de prisión y multa de uno a diez días de salario.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Si lo que exigió fue que dejará de ejecutar un acto lícito, se le impondrá sanción de tres meses a dos años de prisión y multa de uno a diez días.
 
 ### CAPÍTULO VII. EXTORSIÓN
 
@@ -2787,19 +2995,19 @@ Comete el delito de chantaje quien exija de otro la entrega de una cantidad de d
 
 El delito de chantaje se comete también cuando el amenazador pretenda que el amenazado u otra persona contraigan sin o contra su voluntad, alguna obligación o que realice determinado acto o deje de realizarlos.
 
-A quien cometa el delito de chantaje, se le impondrán de uno a tres años de prisión y multa de cinco a treinta días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A quien cometa el delito de chantaje, se le impondrán de uno a tres años de prisión y multa de cinco a treinta días.
 
 Si lo que se exigió fue la entrega de cantidades o efectos y ésta se realiza, además de las sanciones que señala el párrafo anterior se aplicarán las de robo con violencia.
 
 ### CAPÍTULO VIII. DESAPARICIÓN FORZADA DE PERSONAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 320.
 
-Al que se introduzca a un departamento, vivienda, aposento o dependencia de una casa habitación sin motivo justificado, sin orden de autoridad competente, furtivamente, con engaño, violencia o sin permiso de la persona autorizada para darlo, se le impondrá de seis meses a dos años de prisión y multa de cincuenta a cien días de salario.
+Al que se introduzca a un departamento, vivienda, aposento o dependencia de una casa habitación sin motivo justificado, sin orden de autoridad competente, furtivamente, con engaño, violencia o sin permiso de la persona autorizada para darlo, se le impondrá de seis meses a dos años de prisión y multa de cincuenta a cien días.
 
 Si el hecho se realiza por dos o más personas o por servidor público en ejercicio de sus funciones o con motivo de ellas, la pena será de uno a cuatro años de prisión.
 
@@ -2807,19 +3015,25 @@ Se impondrán las penas previstas en el párrafo anterior, al que se introduzca 
 
 ### CAPÍTULO I. GOLPES SIMPLES
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 321.
 
-Comete el delito de asalto el que en despoblado o paraje solitario haga uso de la violencia física o moral sobre una persona con el propósito de causarle un mal, obtener un lucro o beneficio, o de conseguir su consentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia empleado, independientemente del hecho delictuoso que resulte cometido, se aplicará prisión de cinco a quince años y multa de treinta a ochenta días de salario.
+Comete el delito de asalto el que en despoblado o paraje solitario haga uso de la violencia física o moral sobre una persona con el propósito de causarle un mal, obtener un lucro o beneficio, o de conseguir su consentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia empleado, independientemente del hecho delictuoso que resulte cometido, se aplicará prisión de cinco a quince años y multa de treinta a ochenta días.
 
 Para los efectos del párrafo anterior se considera paraje solitario, como el lugar situado en poblado o despoblado, que por la hora en que los hechos acontecen, el sujeto pasivo se encuentra imposibilitado para pedir auxilio y obtenerlo.
 
 La misma sanción se aplicará cuando se haga uso de la violencia física o moral estando la víctima en un vehículo particular o de transporte público, independientemente del lugar en que se encuentre o cuando se cometa en contra de una oficina bancaria, recaudadora u otra en que existan caudales, respecto de personas que las custodien o transporten aquellos.
 
-Si el asalto se efectuare de noche o si fueren varios los asaltantes se aplicará prisión de siete a veinte años y multa de cincuenta a doscientos días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Si el asalto se efectuare de noche o si fueren varios los asaltantes se aplicará prisión de siete a veinte años y multa de cincuenta a doscientos días.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 322.
 
-A quienes asalten un poblado o ranchería se les sancionará con prisión de veinte a cuarenta años y multa de cincuenta a doscientos días de salario, si fueren los cabecillas o jefes y de veinte a treinta años de prisión y multa de veinte a cien días de salario a los demás, sin perjuicio de aplicar las reglas de concurso por cualesquiera otros delitos que se cometan.
+A quienes asalten un poblado o ranchería se les sancionará con prisión de veinte a cuarenta años y multa de cincuenta a doscientos días de Unidad de Medida y Actualización, si fueren los cabecillas o jefes y de veinte a treinta años de prisión y multa de veinte a cien días a los demás, sin perjuicio de aplicar las reglas de concurso por cualesquiera otros delitos que se cometan.
 
 ### CAPÍTULO II. INJURIAS
 
@@ -2833,9 +3047,11 @@ Si el agente espontáneamente libera a la víctima dentro de las veinticuatro ho
 
 La pena de prisión se aumentará en una mitad más, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años o por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto del agente.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 324.
 
-Se impondrán de tres a ocho años de prisión y de cincuenta a doscientos días de multa, y al pago de los salarios y prestaciones legales de la víctima, a quien obligue a otro a prestarle trabajos o servicios personales sin la retribución debida, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio.
+Se impondrán de tres a ocho años de prisión y de cincuenta a doscientos días, y al pago de los salarios y prestaciones legales de la víctima, a quien obligue a otro a prestarle trabajos o servicios personales sin la retribución debida, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio.
 
 ###### ARTÍCULO 325.
 
@@ -2844,6 +3060,8 @@ Al que prive a otro de su libertad, con el propósito de realizar un acto sexual
 Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de tres meses a tres años de prisión.
 
 ### CAPÍTULO III. DIFAMACIÓN
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 326.
 
@@ -2867,9 +3085,7 @@ Las penas señaladas en el artículo anterior se incrementarán hasta en una mit
 
 ### CAPÍTULO IV. CALUMNIA
 
-(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 328.
 
@@ -2893,9 +3109,13 @@ Comete el delito de desaparición forzada de personas el servidor público que e
 
 Es igualmente responsable del delito de desaparición forzada de personas, aquel que sin ser servidor público, incurra en la conducta descrita en el párrafo anterior, con la autorización, ayuda, aquiescencia o tolerancia de servidores públicos.
 
-Se impondrá una pena de doce a cuarenta años de prisión y multa de cuatrocientos a mil días de salario a quien cometa el delito de desaparición forzada de personas, así como destitución e inhabilitación de cinco a veinte años para desempeñar empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Igualmente será responsable del delito de desaparición forzada de personas y será acreedor a una pena de cuatro a ocho años de prisión y multa de cuatrocientos a setecientos días de salario, así como destitución e inhabilitación para el desempeño de cualquier cargo, comisión o empleo públicos de tres a diez años, el servidor público que sin ser partícipe y teniendo conocimiento de la perpetración de este delito, no diere aviso a la autoridad competente o conociendo los planes para su comisión, no adopte las medidas necesarias para evitarlo.
+Se impondrá una pena de doce a cuarenta años de prisión y multa de cuatrocientos a mil días a quien cometa el delito de desaparición forzada de personas, así como destitución e inhabilitación de cinco a veinte años para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Igualmente será responsable del delito de desaparición forzada de personas y será acreedor a una pena de cuatro a ocho años de prisión y multa de cuatrocientos a setecientos días, así como destitución e inhabilitación para el desempeño de cualquier cargo, comisión o empleo públicos de tres a diez años, el servidor público que sin ser partícipe y teniendo conocimiento de la perpetración de este delito, no diere aviso a la autoridad competente o conociendo los planes para su comisión, no adopte las medidas necesarias para evitarlo.
 
 Las penas previstas en los dos párrafos anteriores podrán ser disminuidas hasta una tercera parte en beneficio del responsable, cuando suministre información que permita esclarecer los hechos, y hasta en la mitad, cuando contribuya a lograr la localización y liberación de la víctima con vida.
 
@@ -2911,7 +3131,7 @@ Los términos para la prescripción previstos en este Código, respecto del deli
 
 ###### ARTÍCULO 330.
 
-Se aplicará de tres meses a un año de prisión o multa de uno a diez días de salario al que diere a otro, fuera de riña, una bofetada, latigazo o cualquiera otro golpe simple que no cause lesión alguna, si los infiere con intención de ofender, y no se hace en ejercicio del derecho de corrección. Dichas sanciones serán de tres meses a tres años de prisión y multa de uno a diez días de salario, cuando los golpes simples se infieran a un ascendiente.
+Se aplicará de tres meses a un año de prisión o multa de uno a diez días al que diere a otro, fuera de riña, una bofetada, latigazo o cualquiera otro golpe simple que no cause lesión alguna, si los infiere con intención de ofender, y no se hace en ejercicio del derecho de corrección. Dichas sanciones serán de tres meses a tres años de prisión y multa de uno a diez días, cuando los golpes simples se infieran a un ascendiente.
 
 ###### ARTÍCULO 331.
 
@@ -2923,15 +3143,19 @@ No se procederá contra el autor de golpes, sino por queja del ofendido, a no se
 
 Se entiende por injuria, toda expresión proferida o toda acción para manifestar desprecio a otro, o con el fin de hacerle alguna ofensa.
 
-El delito de injurias se sancionará con prisión de tres meses a un año o multa de tres a diez días de salario, a juicio del Juez.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El delito de injurias se sancionará con prisión de tres meses a un año o multa de tres a diez días de Unidad de Medida y Actualización, a juicio del Juez.
 
 Cuando las injurias fueren recíprocas, el Juez podrá según las circunstancias, declarar exentas de sanción a las dos partes o exigirles caución de no ofender.
 
 ### CAPÍTULO IV. DISPARO DE ARMA DE FUEGO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 333.
 
-Se aplicará prisión de tres meses a dos años y multa de tres a quince días de salario al que comunicare a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado, que cause o puede causarle deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien.
+Se aplicará prisión de tres meses a dos años y multa de tres a quince días al que comunicare a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado, que cause o puede causarle deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien.
 
 ###### ARTÍCULO 334.
 
@@ -2943,9 +3167,11 @@ II. Si el hecho imputado está declarado cierto, por sentencia irrevocable y el 
 
 ### CAPÍTULO V. INSTIGACIÓN O AYUDA AL SUICIDIO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 335.
 
-Se aplicará de seis meses a dos años de prisión o multa de tres a quince días de salario al que impute falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se le imputa.
+Se aplicará de seis meses a dos años de prisión o multa de tres a quince días al que impute falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se le imputa.
 
 (NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2954,6 +3180,8 @@ Se aplicará de seis meses a dos años de prisión o multa de tres a quince día
 Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que en dicho proceso se dicte sentencia ejecutoria. En este caso, la prescripción comenzará a correr cuando termine el proceso.
 
 ### CAPÍTULO VI. PARRICIDIO
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 337.
 
@@ -2997,31 +3225,43 @@ No servirá de excusa de la difamación, NI DE LA CALUMNIA, que el hecho imputad
 
 ### CAPÍTULO VII. FILICIDIO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 342.
 
 La lesión consiste en todo daño en el cuerpo de alguien, o cualquier alteración de la salud, producida por una causa externa imputable a una persona.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 343.
 
-Al que infiera una lesión que no ponga el peligro la vida del ofendido y tarde en sanar menos de quince días, se le impondrá de tres meses a un año de prisión y multa de uno a cinco días de salario. Si tardare en sanar más de quince días se le impondrán de seis meses a dos años de prisión y multa de tres a diez días de salario.
+Al que infiera una lesión que no ponga el (sic) peligro la vida del ofendido y tarde en sanar menos de quince días, se le impondrá de tres meses a un año de prisión y multa de uno a cinco días. Si tardare en sanar más de quince días se le impondrán de seis meses a dos años de prisión y multa de tres a diez días.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 344.
 
-Se impondrán de dos a seis años de prisión y multa de tres a quince días de salario al que infiera una lesión que deje a la ofendida cicatriz en la cara, perpetuamente notable.
+Se impondrán de dos a seis años de prisión y multa de tres a quince días al que infiera una lesión que deje a la ofendida cicatriz en la cara, perpetuamente notable.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 345.
 
-Se impondrán de tres a diez años de prisión y multa de cincuenta a cien días de salario al que infiera una lesión que perturbe para siempre la vista, o disminuya la facultad de oír, entorpezca o debilite permanentemente una mano, un brazo, una pierna, o cualquiera otro órgano, el uso de la palabra o alguna de las facultades mentales.
+Se impondrán de tres a diez años de prisión y multa de cincuenta a cien días al que infiera una lesión que perturbe para siempre la vista, o disminuya la facultad de oír, entorpezca o debilite permanentemente una mano, un brazo, una pierna, o cualquiera otro órgano, el uso de la palabra o alguna de las facultades mentales.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 346.
 
-Se impondrán de cuatro a doce años de prisión y multa de cien a doscientos días de salario al que infiera una lesión de la que resulte una enfermedad segura o probablemente incurable, la inutilización completa o la pérdida de un ojo, de un brazo, de una mano, de una pierna o de un pie, o de cualquier otro órgano cuando quede perjudicada para siempre cualquier función orgánica o cuando el ofendido quede sordo o con una deformidad incorregible.
+Se impondrán de cuatro a doce años de prisión y multa de cien a doscientos días al que infiera una lesión de la que resulte una enfermedad segura o probablemente incurable, la inutilización completa o la pérdida de un ojo, de un brazo, de una mano, de una pierna o de un pie, o de cualquier otro órgano; cuando quede perjudicada para siempre cualquier función orgánica o cuando el ofendido quede sordo o con una deformidad incorregible.
 
-Se impondrán de cinco a quince años de prisión y multa de doscientos a trescientos días de salario al que infiera una lesión a consecuencia de la cual resulte incapacidad permanente para trabajar, enajenación mental, la pérdida de la vista o del habla o de las funciones sexuales.
+Se impondrán de cinco a quince años de prisión y multa de doscientos a trescientos días, al que infiera una lesión a consecuencia de la cual resulte incapacidad permanente para trabajar, enajenación mental, la pérdida de la vista o del habla o de las funciones sexuales.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 347.
 
-Al que infiera lesiones que pongan en peligro la vida, se le impondrán de tres a ocho años de prisión y multa de diez a treinta días de salario, sin perjuicio de las sanciones que le correspondan conforme a los artículos anteriores.
+Al que infiera lesiones que pongan en peligro la vida, se le impondrán de tres a ocho años de prisión y multa de diez a treinta días, sin perjuicio de las sanciones que le correspondan conforme a los artículos anteriores.
 
 ###### ARTÍCULO 348.
 
@@ -3077,13 +3317,17 @@ III. Que fue a causa de la constitución física de la víctima, o de las circun
 
 No se tendrá como mortal una lesión aunque muera el que la recibió, cuando la muerte sea resultado de una causa anterior a la lesión y sobre la cual ésta no haya influido, o cuando la lesión se hubiere agravado por causas posteriores, como la aplicación de medicamentos positivamente nocivos, operaciones quirúrgicas infortunadas, excesos o imprudencias del paciente o de los que lo rodearon.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 357.
 
-Al responsable de cualquier homicidio simple intencional que no tenga señalada una sanción especial en este Código, se le impondrán de diez a veinte años de prisión y multa de quince a cien días de salario.
+Al responsable de cualquier homicidio simple intencional que no tenga señalada una sanción especial en este Código, se le impondrán de diez a veinte años de prisión y multa de quince a cien días.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 358.
 
-Cuando el homicidio se cometa en riña, se impondrá al responsable la sanción de cuatro a diez años de prisión si es el provocado; y de seis a doce años si es provocador, y en ambos casos multa de diez a cincuenta días de salario.
+Cuando el homicidio se cometa en riña, se impondrá al responsable la sanción de cuatro a diez años de prisión si es el provocado y de seis a doce años si es provocador, y en ambos casos multa de diez a cincuenta días.
 
 Cuando en la riña intervengan tres o más personas, se observarán las reglas siguientes:
 
@@ -3095,21 +3339,17 @@ III. Cuando sean varias las lesiones, unas mortales y otras no y se ignore quié
 
 IV. Cuando las lesiones no fueren mortales sino por su número y no se pueda averiguar quiénes las infirieron, se aplicará de cuatro a siete años de prisión, a todos los que hubieren atacado al occiso.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 359.
 
-Al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
+Salvo el caso de la fracción IX del artículo 361 de este código, al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
 ### CAPÍTULO I. ROBO
 
 ###### ARTÍCULO 360.
 
 La riña es la contienda de obra con el ánimo de dañarse recíprocamente.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3137,15 +3377,11 @@ V. Cuando se causen por inundación, incendio, minas, bombas o explosivos;
 
 VI. Cuando se dé tormento al ofendido, o se obre con ensañamiento o crueldad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 VII. Cuando se cometan por motivos de preferencia sexual, religiosa u origen racial;
 
 VIII. Cuando dolosamente se prive de la vida o se cause un menoscabo a la salud o la integridad física de los miembros de corporaciones policiales, fuerzas armadas o de cualquier otro tipo de instituciones de seguridad pública, así como de los servidores públicos encargados de las labores de administración, impartición o procuración de justicia, siempre que se ejecuten a consecuencia del desempeño legítimo de sus funciones, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3169,7 +3405,9 @@ f) El homicidio se cometa para ocultar una violación o evitar que se denuncie o
 
 g) La víctima haya sido incomunicada o privada de su libertad, de cualquier forma.
 
-A quien prive de la vida a una mujer por razones de misoginia se le impondrá una pena de veintidós a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario mínimo.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A quien prive de la vida a una mujer por razones de misoginia se le impondrá una pena de veintidós a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad, matrimonio, concubinato, noviazgo, amistad o cualquier otra relación sentimental de hecho, laboral, docente, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja, y se acredita cualquiera de los supuestos anteriores, se impondrán de veinticinco a cincuenta años de prisión.
 
@@ -3223,53 +3461,63 @@ Tratándose de una relación de parentesco, se impondrá además de la prisión,
 
 ARTÍCULO 361 QUÁTER.- Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia en el delito de feminicidio, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días de multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 362.
 
-Se impondrá sanción de cinco a doce años de prisión y multa de uno a diez días de salario al ascendiente que prive de la vida al corruptor de su hija que esté bajo su potestad, si lo hiciere en el momento de sorprenderlos en el acto carnal o en un momento próximo a su consumación, siempre que no hubiere procurado la corrupción de su hija, pues en caso contrario quedará sujeto a las disposiciones sobre homicidio.
+Se impondrá sanción de cinco a doce años de prisión y multa de uno a diez días al ascendiente que prive de la vida al corruptor de su hija que esté bajo su potestad, si lo hiciere en el momento de sorprenderlos en el acto carnal o en un momento próximo a su consumación, siempre que no hubiere procurado la corrupción de su hija, pues en caso contrario quedará sujeto a las disposiciones sobre homicidio.
 
 ### CAPÍTULO II. ABIGEATO
 
 ###### ARTÍCULO 363.
 
-Se impondrá prisión de tres meses a dos años y multa hasta de tres a diez días de salario al que dispare un arma de fuego, que ponga en peligro la integridad de las personas.
+Se impondrá prisión de tres meses a dos años y multa hasta de tres a diez días al que dispare un arma de fuego, que ponga en peligro la integridad de las personas.
 
 ### CAPÍTULO III. ABUSO DE CONFIANZA
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 364.
 
-Al que instigue o ayude a otro al suicidio se le impondrá sanción de tres a diez años de prisión y multa de cinco a cincuenta días de salario. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la prisión será de cuatro a doce años y multa de diez a setenta y cinco días de salario. Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años de prisión.
+Al que instigue o ayude a otro al suicidio se le impondrá sanción de tres a diez años de prisión y multa de cinco a cincuenta días. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la prisión será de cuatro a doce años y multa de diez a setenta y cinco días. Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años de prisión.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 365.
 
-El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, será sancionado con prisión de tres meses a dos años de prisión y multa hasta de diez días de salario.
+El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, será sancionado con prisión de tres meses a dos años de prisión y multa hasta de diez días.
 
 ### CAPÍTULO IV. FRAUDE
 
 ###### ARTÍCULO 366.
 
-Al que prive de la vida a cualquier ascendiente consanguíneo, en línea recta o a su padre o madre adoptiva, conociendo el delincuente ese parentesco, se le aplicará de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario.
+Al que prive de la vida a cualquier ascendiente consanguíneo, en línea recta o a su padre o madre adoptiva, conociendo el delincuente ese parentesco, se le aplicará de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
 ### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 367.
 
-Al que prive de la vida a un descendiente consanguíneo en línea recta o a su hijo adoptivo, sabiendo el delincuente ese parentesco, se le aplicarán de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario.
+Al que prive de la vida a un descendiente consanguíneo en línea recta o a su hijo adoptivo, sabiendo el delincuente ese parentesco, se le aplicarán de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
 ### CAPÍTULO VI. USURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 368.
 
 Aborto es la interrupción del embarazo en cualquier momento de la preñez.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 369.
 
-Se impondrá de cuatro meses a un año de prisión y multa hasta de veinte días de salario, a la madre que voluntariamente procure un aborto o consienta en que otro la haga abortar dentro de los primeros tres meses de embarazo.
+Se impondrá de cuatro meses a un año de prisión y multa hasta de veinte días, a la madre que voluntariamente procure un aborto o consienta en que otro la haga abortar dentro de los primeros tres meses de embarazo.
 
-Cuando el aborto se practique después de los tres meses de embarazo, se aplicará de uno a tres años de prisión y multa de veinte a cincuenta días de salario.
+Cuando el aborto se practique después de los tres meses de embarazo, se aplicará de uno a tres años de prisión y multa de veinte a cincuenta días.
 
-La sanción prevista en el párrafo anterior se aplicará al que haga abortar a una mujer a solicitud de ésta en las mismas condiciones, con tal que no se trate de un abortador de oficio o de persona ya condenada por ese delito, pues en tal caso la sanción será de uno a cuatro años de prisión y multa hasta de cincuenta días de salario.
+La sanción prevista en el párrafo anterior se aplicará al que haga abortar a una mujer a solicitud de ésta en las mismas condiciones, con tal que no se trate de un abortador de oficio o de persona ya condenada por ese delito, pues en tal caso la sanción será de uno a cuatro años de prisión y multa hasta de cincuenta días.
 
-Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de cinco a diez años y multa hasta de cincuenta días de salario, y si mediare violencia física o moral, de seis a doce años de prisión y multa hasta de sesenta días de salario.
+Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de cinco a diez años y multa hasta de cincuenta días, y si mediare violencia física o moral, de seis a doce años de prisión y multa hasta de sesenta días.
 
 ###### ARTÍCULO 370.
 
@@ -3285,23 +3533,31 @@ No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada 
 
 ### CAPÍTULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 373.
 
 El que abandone a un menor incapaz de cuidarse a sí mismo o a una persona enferma, poniendo en peligro la integridad corporal de éstos, teniendo la obligación de cuidarlos, se le aplicará de tres meses a cuatro años de prisión y suspensión hasta por cinco años de los derechos de patria potestad o tutela, según el caso, e incapacidad para heredar en los términos de la ley civil.
 
 En caso de resultar además algún daño, se aplicarán las reglas del concurso.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 374.
 
-Al que encuentre abandonado o abandone en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona lesionada, inválida o amenazada de un peligro cualquiera, se aplicará de tres meses a dos años de prisión y multa hasta de diez días de salario si no diere aviso a la autoridad u omitiere prestarles el auxilio necesario, cuando pudiere hacerlo sin riesgo personal.
+Al que encuentre abandonado o abandone en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona lesionada, inválida o amenazada de un peligro cualquiera, se aplicará de tres meses a dos años de prisión y multa hasta de diez días, si no diere aviso a la autoridad u omitiere prestarles el auxilio necesario, cuando pudiere hacerlo sin riesgo personal.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 375.
 
-El automovilista, motorista, conductor de vehículo cualquiera, ciclista o jinete que deje en estado de abandono, sin prestarle o facilitarle asistencia a persona a quien dañó por atropellamiento, choque o de cualquier otra forma, será sancionado con la pena de uno a cinco años de prisión, por esta sola circunstancia e independientemente del lugar en que esto ocurra. Si del abandono resultare la muerte, la sanción será de tres a ocho años de prisión y multa hasta de cuarenta días de salario.
+El automovilista, motorista, conductor de vehículo cualquiera, ciclista o jinete que deje en estado de abandono, sin prestarle o facilitarle asistencia a persona a quien dañó por atropellamiento, choque o de cualquier otra forma, será sancionado con la pena de uno a cinco años de prisión, por esta sola circunstancia e independientemente del lugar en que esto ocurra. Si del abandono resultare la muerte, la sanción será de tres a ocho años de prisión y multa hasta de cuarenta días.
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPÍTULO VIII. DAÑO EN LAS COSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 376.
 
@@ -3317,23 +3573,35 @@ Se equiparan al robo y se sancionarán como tal la disposición o destrucción d
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aun cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 379.
 
-Tanto para la aplicación de las sanciones, como para establecer el monto o la cuantía que correspondan a los delitos de este Título, se tomará en consideración para su fijación el salario mínimo general diario vigente en el Estado en el momento de la ejecución. En los artículos correspondientes, cuando se hable de salarios se entenderá que se refiere al mínimo general vigente en el Estado.
+Tanto para la aplicación de las sanciones, como para establecer el monto o la cuantía que correspondan a los delitos de este Título, se tomará en consideración para su fijación la Unidad de Medida y Actualización diaria vigente en el momento de la ejecución.
 
 ###### ARTÍCULO 380.
 
 El delito de Robo se sancionará conforme a las reglas siguientes:
 
-I. Cuando el valor de lo robado no exceda de cien veces el salario, se impondrá de tres meses a dos años de prisión y multa de diez a treinta días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Cuando exceda de cien veces el salario, pero no de quinientas, la sanción será de dos a cuatro años de prisión y multa de quince a sesenta días de salario;
+I. Cuando el valor de lo robado no exceda de cien veces el salario, se impondrá de tres meses a dos años de prisión y multa de diez a treinta días;
 
-III. Cuando exceda de quinientas veces el salario, pero no de dos mil, la sanción será de cuatro a diez años de prisión y multa de veinte a cien días de salario, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV. Cuando exceda de dos mil veces el salario, la sanción será de cinco a trece años de prisión y multa de cuarenta a doscientos días de salario.
+II. Cuando exceda de cien veces el salario, pero no de quinientas, la sanción será de dos a cuatro años de prisión y multa de quince a sesenta días;
 
-Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco del objeto del apoderamiento, pero si por alguna circunstancia no fuere valorado o no sea estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará prisión de tres meses a seis años y multa de diez a treinta días de salario mínimo.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Cuando exceda de quinientas veces el salario, pero no de dos mil, la sanción será de cuatro a diez años de prisión y multa de veinte a cien días, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Cuando exceda de dos mil veces el salario, la sanción será de cinco a trece años de prisión y multa de cuarenta a doscientos días.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco del objeto del apoderamiento, pero si por alguna circunstancia no fuere valorado o no sea estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará prisión de tres meses a seis años y multa de diez a treinta días.
 
 En los casos de tentativa de robo, cuando no fuere posible determinar su monto, se aplicarán de tres meses a tres años de prisión.
 
@@ -3377,9 +3645,11 @@ En todo caso de robo, si el Juez creyera conveniente, podrá suspender al delinc
 
 A quien se imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicará de uno a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además pagará al ofendido como responsabilidad civil el doble del alquiler, arrendamiento o interés de la cosa usada.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 384.
 
-Se impondrá de uno a nueve años de prisión y multa hasta el equivalente de diez días de salario, al que robe postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o partes de estos implementos, o cualquier objeto o aparato de uso en la agricultura o en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
+Se impondrá de uno a nueve años de prisión y multa hasta el equivalente de diez días, al que robe postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o partes de estos implementos, o cualquier objeto o aparato de uso en la agricultura o en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
 
 ###### ARTÍCULO 385.
 
@@ -3393,13 +3663,17 @@ El infractor quedará exonerado de toda sanción en los casos siguientes:
 
 I. Cuando sin emplear engaño, ni medios violentos, se apodera del alimento estrictamente indispensable para satisfacer sus necesidades personales o familiares de alimentación del momento, y
 
-II. Cuando el valor de lo robado no exceda del equivalente a treinta días de salario, sea restituido por el responsable espontáneamente y pague los daños y perjuicios antes de que la autoridad lo aprehenda por el delito cometido, y siempre que no se haya ejecutado el robo por medio de la violencia.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Cuando el valor de lo robado no exceda del equivalente a treinta días, sea restituido por el responsable espontáneamente y pague los daños y perjuicios antes de que la autoridad lo aprehenda por el delito cometido, y siempre que no se haya ejecutado el robo por medio de la violencia.
 
 ###### ARTÍCULO 387.
 
 Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
 
 ### CAPÍTULO IX. OCUPACIÓN ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PÚBLICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 388.
 
@@ -3409,21 +3683,33 @@ Comete el delito de abigeato, el que se apodera de una o más cabezas de ganado 
 
 Al responsable del delito de abigeato consumado en ganado bovino, equino, mular o asnal se le sancionará conforme a las reglas siguientes:
 
-I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de dos a cinco años y multa de diez a cincuenta días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de cuatro a ocho años de prisión y multa de quince a sesenta días de salario, y
+I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de dos a cinco años y multa de diez a cincuenta días;
 
-III. Si el apoderamiento excediere de diez cabezas de ganado, se sancionará con prisión de seis a diez años y multa de veinte a setenta días de salario.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de cuatro a ocho años de prisión y multa de quince a sesenta días, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Si el apoderamiento excediere de diez cabezas de ganado, se sancionará con prisión de seis a diez años y multa de veinte a setenta días.
 
 ###### ARTÍCULO 390.
 
 Cuando el abigeato recaiga sobre ganado caprino, ovino o porcino, el delito se sancionará conforme a las reglas siguientes:
 
-I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de uno a tres años y multa de uno a diez días de salario;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de dos a cuatro años de prisión y multa de siete a treinta días de salario, y
+I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de uno a tres años y multa de uno a diez días;
 
-III. Si excediere de diez cabezas de ganado, se sancionará con prisión de tres a cinco años y multa de diez a cuarenta días de salario.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de dos a cuatro años de prisión y multa de siete a treinta días, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Si excediere de diez cabezas de ganado, se sancionará con prisión de tres a cinco años y multa de diez a cuarenta días.
 
 ###### ARTÍCULO 391.
 
@@ -3435,9 +3721,11 @@ II. Aprovechándose de las condiciones de confusión que se produzcan por desord
 
 III. Si el apoderamiento a que se refiere este artículo, se verifica con violencia física o moral, o de noche, o por dos o más personas.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 392.
 
-Al responsable del delito de robo consumado en un apiario, se le sancionará de uno a cuatro años de prisión y multa de cinco a veinte días de salario.
+Al responsable del delito de robo consumado en un apiario, se le sancionará de uno a cuatro años de prisión y multa de cinco a veinte días.
 
 ###### ARTÍCULO 393.
 
@@ -3447,25 +3735,29 @@ Las mismas sanciones que señalan los dos artículos anteriores se aplicarán a 
 
 Se equipara al abigeato y se le aplicarán las mismas sanciones que respectivamente señalan los artículos 389 y 390 de este Código, al que ampare una o más cabezas de ganado robado con documentación alterada o expedida a nombre de otro.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 395.
 
-Al que transporte ganado de procedencia ilegal, sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de seis meses a cuatro años de prisión y multa de tres a quince días de salario.
+Al que transporte ganado de procedencia ilegal, sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de seis meses a cuatro años de prisión y multa de tres a quince días.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 396.
 
-Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se le impondrá prisión de tres a ocho años y multa de diez a treinta días de salario.
+Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se le impondrá prisión de tres a ocho años y multa de diez a treinta días.
 
 ### CAPÍTULO X. DELITOS INFORMÁTICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 397.
 
-Al que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión de tres meses a dos años y multa de diez a treinta días de salario, cuando el monto del abuso no exceda cien veces del salario.
+Al que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión de tres meses a dos años y multa de diez a treinta días, cuando el monto del abuso no exceda cien veces la Unidad de Medida y Actualización diaria.
 
-Si excede de esta cantidad, pero no de quinientas veces el salario, la prisión será de dos a cuatro años y multa de quince hasta sesenta días de salario.
+Si excede de esta cantidad pero no de quinientas veces la Unidad de Medida y Actualización diaria, la prisión será de dos a cuatro años y multa de quince hasta sesenta días.
 
-Si el monto es mayor de quinientas pero no (sic) dos mil veces el salario, la prisión será de cuatro a diez años y la multa de veinte a cien días de salario.
-
-Si el monto es mayor de dos mil salarios, la prisión será de seis a doce años y multa de cuarenta a doscientos días de salario.
+Si el monto es mayor de quinientas pero no dos mil veces la Unidad de Medida y Actualización diaria, la prisión será de cuatro a diez años y la multa de veinte a cien días. Si el monto es mayor de dos mil Unidades de Medida y Actualización diarias, la prisión será de seis a doce años y multa de cuarenta a doscientos días.
 
 ###### ARTÍCULO 398.
 
@@ -3489,13 +3781,21 @@ Comete el delito de fraude, el que engañando a alguno o aprovechándose del err
 
 El delito de fraude se sancionará con las penas siguientes:
 
-I. Con prisión de tres meses a dos años y multa de diez a treinta días de salario, cuando el valor de lo defraudado no exceda de cien veces del salario mínimo vigente;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Con prisión de dos a cuatro años y multa de quince a sesenta días de salario, cuando el valor de lo defraudado excediera de cien pero no de quinientas veces el salario;
+I. Con prisión de tres meses a dos años y multa de diez a treinta días, cuando el valor de lo defraudado no exceda de cien veces la Unidad de Medida y Actualización diaria.
 
-III. Con prisión de cuatro a diez años y multa hasta de veinte a cien días de salario, si el valor de lo defraudado excediera de quinientas pero no de dos mil veces el salario, o
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV. Con prisión de cinco a trece años y multa hasta de cuarenta a doscientos días de salario, si el valor de lo defraudado fuere mayor de dos mil veces el salario.
+II. Con prisión de dos a cuatro años y multa de quince a sesenta días, cuando el valor de lo defraudado excediera de cien, pero no de quinientas veces la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Con prisión de cuatro a diez años y multa hasta de veinte a cien días, si el valor de lo defraudado excediera de quinientas pero no de dos mil veces la Unidad de Medida y Actualización diaria, o
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Con prisión de cinco a trece años y multa hasta de cuarenta a doscientos días, si el valor de lo defraudado fuere mayor de dos mil veces la Unidad de Medida y Actualización.
 
 Cuando el sujeto pasivo entregue la cosa de que se trata a virtud no solo de engaños, sino de maquinaciones o artificios que para obtener esa entrega se hayan empleado, la pena señalada en las fracciones anteriores, se aumentará con prisión de tres meses a dos años.
 
@@ -3555,9 +3855,11 @@ XVIII. AL QUE INCUMPLA UN ACUERDO DE VOLUNTADES CELEBRADO ANTE AUTORIDAD COMPETE
 
 XIX. Al que hubiere obtenido dinero o lucro mediante la obligación de proporcionar servicios profesionales de educación superior y que estos prescindan de reconocimiento de validez oficial emitido por la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 402.
 
-Se considerará como autor del delito de fraude y será sancionado con prisión de tres a diez años y multa de diez a cincuenta días de salario el que engañado a uno, haciéndose pasar como servidor público o como agente de compañía nacional o extranjera de enganche de trabajadores, lo contrate para prestar sus servicios en el extranjero, a sueldo fijo o a destajo, o lo induzca sin contrato, a trasladarse al extranjero, para ahí contraer la obligación respectiva del trabajo.
+Se considerará como autor del delito de fraude y será sancionado con prisión de tres a diez años y multa de diez a cincuenta días, el que engañado (sic) a uno, haciéndose pasar como servidor público o como agente de compañía nacional o extranjera de enganche de trabajadores, lo contrate para prestar sus servicios en el extranjero, a sueldo fijo o a destajo, o lo induzca sin contrato, a trasladarse al extranjero, para ahí contraer la obligación respectiva del trabajo.
 
 Iguales sanciones se impondrán a servidores públicos, de las categorías indicadas, cuando obtuvieren del trabajador dádivas u otros beneficios ilegales, a través de la celebración de los contratos, aún en el supuesto de que estuvieren facultados a intervenir en ellos.
 
@@ -3573,9 +3875,11 @@ Las sanciones para este delito serán las mismas que para el fraude establece el
 
 ### CAPÍTULO I. ENCUBRIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 404.
 
-Se impondrá prisión de dos a ocho años y multa de cien a trescientos días de salario:
+Se impondrá prisión de dos a ocho años y multa de cien a trescientos días:
 
 I. Al que aprovechando la ignorancia o notoria necesidad de una persona, realizare cualquier préstamo, aún encubierto con otra forma contractual, con intereses que excedan el costo porcentual promedio que fija el Banco de México o el indicador que legalmente lo sustituya, vigente en el mes inmediato anterior al día en que se pacte la obligación, u otras ventajas evidentemente desproporcionadas, para sí o para otro;
 
@@ -3589,9 +3893,11 @@ Cuando una persona moral facilite los medios para la comisión del presente ilí
 
 ### CAPÍTULO II. ENCUBRIMIENTO POR RECEPTACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 405.
 
-Se aplicarán las sanciones de uno a cinco años de prisión y multa de tres a diez días de salario:
+Se aplicarán las sanciones de uno a cinco años de prisión y multa de tres a diez días:
 
 I. Al que de propia autoridad y haciendo violencia física o moral en las personas o en las cosas, o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno, o haga uso de él o de un derecho real que no le pertenezca;
 
@@ -3599,7 +3905,9 @@ II. Al que de propia autoridad y haciendo uso de cualquiera de los medios indica
 
 III. Al que en los términos de las fracciones anteriores, cometa despojo de aguas.
 
-La pena será aplicable, aun cuando el derecho a la posesión de la cosa usurpada sea dudoso o esté en disputa. Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en este artículo, se aplicará a los instigadores, y a quienes dirijan la invasión, de tres a diez años de prisión y multa hasta el equivalente de cincuenta días de salario.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+La pena será aplicable, aun cuando el derecho a la posesión de la cosa usurpada sea dudoso o esté en disputa. Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en este artículo, se aplicará a los instigadores, y a quienes dirijan la invasión, de tres a diez años de prisión y multa hasta el equivalente de cincuenta días.
 
 A las sanciones que señala este artículo se sumarán las que correspondan por la violencia, la amenaza o por las de cualquier otro delito que resulte cometido.
 
@@ -3607,7 +3915,7 @@ A las sanciones que señala este artículo se sumarán las que correspondan por 
 
 ###### ARTÍCULO 406.
 
-Se impondrán de cinco a doce años de prisión y multa de cinco a veinte días de salario a los que causen incendio, inundación o explosión con daño o peligro de:
+Se impondrán de cinco a doce años de prisión y multa de cinco a veinte días a los que causen incendio, inundación o explosión con daño o peligro de:
 
 I. Un edificio, vivienda o cuarto donde se encuentre alguna persona;
 
@@ -3621,11 +3929,13 @@ V. Montes, bosques, selvas, pastos, mieses o cultivos de cualquier otro género.
 
 Cuando el daño en las cosas se produzca por culpa, para la imposición de las sanciones, se estará a lo previsto por el primer párrafo del artículo 96 en relación al 409 de este Código.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 407.
 
-Se aplicarán de uno a ocho años de prisión y multa de tres a quince días de salario a los que intencionalmente introduzcan o irrumpan con sus ganados a los predios, causando daño a los cultivos agrícolas o pastizales de cualquier especie.
+Se aplicarán de uno a ocho años de prisión y multa de tres a quince días a los que intencionalmente introduzcan o irrumpan con sus ganados a los predios, causando daño a los cultivos agrícolas o pastizales de cualquier especie.
 
-Cuando el daño se produzca por culpa o negligencia del propietario del ganado, o del encargado de la conducción o custodia de éste, la sanción aplicable será de seis meses a cuatro años de prisión y multa de uno a diez días de salario.
+Cuando el daño se produzca por culpa o negligencia del propietario del ganado, o del encargado de la conducción o custodia de éste, la sanción aplicable será de seis meses a cuatro años de prisión y multa de uno a diez días.
 
 ###### ARTÍCULO 408.
 
@@ -3635,27 +3945,33 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se cause daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 410.
 
-Se equipara al delito de daño en las cosas y se castigará imponiéndose una sanción de tres meses a tres años de prisión y multa de cincuenta a setenta y cinco días de salario mínimo general vigente, así como la reparación del daño al que:
+Se equipara al delito de daño en las cosas y se castigará imponiéndose una sanción de tres meses a tres años de prisión y multa de cincuenta a setenta y cinco días, así como la reparación del daño al que:
 
 I. Utilizando cualquier tipo de sustancia o medio realice pintas, escrituras, dibujos, signos, códigos, tallones, mensajes, figuras o gráficos de todo tipo, que alteren o modifiquen su presentación original en bienes muebles e inmuebles, sin consentimiento del dueño o quien legalmente posea la cosa, o
 
-II. Cuando el daño se cometa en bienes de dominio público, monumentos, edificios, sitios o bienes considerados parte del patrimonio cultural con valor histórico o arquitectónico, o el daño se cause sobre bienes de cantera, piedra, madera o cualquier material de difícil o imposible reparación, se sancionará con pena de seis meses a seis años de prisión y multa de cincuenta a ciento cincuenta días de salario mínimo general vigente.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Cuando el daño se cometa en bienes de dominio público, monumentos, edificios, sitios o bienes considerados parte del patrimonio cultural con valor histórico o arquitectónico, o el daño se cause sobre bienes de cantera, piedra, madera o cualquier material de difícil o imposible reparación, se sancionará con pena de seis meses a seis años de prisión y multa de cincuenta a ciento cincuenta días.
 
 Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la Ley que lo regule.
 
 ###### ARTÍCULO 411.
 
-Se impondrá de uno a cinco años de prisión y multa hasta el equivalente de treinta días de salario, al que de propia autoridad y haciendo uso de la violencia física en las personas o en las cosas, se apodere de un edificio destinado a un servicio público cualquiera que éste sea.
+Se impondrá de uno a cinco años de prisión y multa hasta el equivalente de treinta días, al que de propia autoridad y haciendo uso de la violencia física en las personas o en las cosas, se apodere de un edificio destinado a un servicio público cualquiera que éste sea.
 
-Se impondrá de uno a siete años de prisión y multa hasta el equivalente de cuarenta días de salario a los instigadores, o quienes dirijan la ocupación y a quienes la instiguen.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Se impondrá de uno a siete años de prisión y multa hasta el equivalente de cuarenta días a los instigadores, o quienes dirijan la ocupación y a quienes la instiguen.
 
 Las sanciones a que se refiere este artículo son independientes de las que correspondan por otros delitos.
 
 ###### ARTÍCULO 412.
 
-Se le impondrá una pena de dos a seis años de prisión y multa de trescientos a mil días de salario, al que de manera dolosa y sin derecho alguno, ni autorización de quien pueda otorgarlo conforme a la Ley, utilice o tenga acceso a una base de datos, sistemas o red de computadoras o a cualquier parte de la misma, con el firme propósito de diseñar, ejecutar o alterar un esquema o artificio, con el fin de defraudar, obtener dinero, bienes o información en perjuicio de otro.
+Se le impondrá una pena de dos a seis años de prisión y multa de trescientos a mil días, al que de manera dolosa y sin derecho alguno, ni autorización de quien pueda otorgarlo conforme a la Ley, utilice o tenga acceso a una base de datos, sistemas o red de computadoras o a cualquier parte de la misma, con el firme propósito de diseñar, ejecutar o alterar un esquema o artificio, con el fin de defraudar, obtener dinero, bienes o información en perjuicio de otro.
 
 La misma sanción del párrafo anterior se impondrá, a quien intercepte, interfiera, reciba, use, altere, dañe o destruya un soporte lógico o programa de computadora o los datos contenidos en la misma, en la base, sistema o red con el fin de defraudar, obtener dinero, bienes o información en perjuicio de otro.
 
@@ -3665,7 +3981,9 @@ La misma sanción del párrafo anterior se impondrá, a quien intercepte, interf
 
 Comete el delito de fraccionamiento ilegal de inmuebles, el que por sí o por interpósita persona, fraccione o divida en lotes, un terreno de cualquier naturaleza, con o sin edificaciones, propio o ajeno, transfiera o prometa transferir, la propiedad, la posesión o cualquier otro derecho de un inmueble, cualquiera que sea su régimen jurídico o condición, careciendo de las licencias, autorizaciones o permisos de la autoridad administrativa correspondiente.
 
-Al responsable de este delito, se le impondrá de seis a doce años de prisión y multa de quinientos a mil días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Al responsable de este delito, se le impondrá de seis a doce años de prisión y multa de quinientos a mil días.
 
 Para efectos punibles, se considera que incurren en la misma responsabilidad:
 
@@ -3707,19 +4025,19 @@ Se entiende por asentamiento humano irregular el grupo de personas que se establ
 
 ###### ARTÍCULO 417.
 
-Se impondrá de tres a siete años de prisión y multa hasta el equivalentes (sic) de treinta días de salario al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad correspondiente o a sustraerse a la acción de ésta, u ocultare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo.
+Se impondrá de tres a siete años de prisión y multa hasta el equivalentes (sic) a treinta días, al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad correspondiente o a sustraerse a la acción de ésta, u ocultare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo.
 
 Igual sanción se aplicará a quien no procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa va a cometerse o se estén cometiendo si son de los que se persiguen de oficio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente a cien días, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio doloso, parricidio, filicidio u homicidio contra la mujer por razón de misoginia.
 
-Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente de cien días de salario, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio doloso, parricidio, filicidio o feminicidio.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 418.
 
-Se impondrá de cuatro a ocho años de prisión y multa de diez a cuarenta días de salario, al que con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señale este Código.
+Se impondrá de cuatro a ocho años de prisión y multa de diez a cuarenta días al que con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, salvo los casos específicos que señale este Código.
 
 ###### ARTÍCULO 419.
 
@@ -3727,7 +4045,7 @@ En los casos del artículo 417, quedan exceptuados de sanción aquellos que no p
 
 ###### ARTÍCULO 420.
 
-Se impondrá de cuatro a ocho años de prisión y multa de cincuenta a cien días de salario, al que adquiera, posea, venda, enajene, pignore, traslade, reciba, oculte, suministre o trafique, uno o más vehículos automotores robados o parte de éstos.
+Se impondrá de cuatro a ocho años de prisión y multa de cincuenta a cien días, al que adquiera, posea, venda, enajene, pignore, traslade, reciba, oculte, suministre o trafique, uno o más vehículos automotores robados o parte de éstos.
 
 La pena aumentará hasta en una mitad más, cuando de la investigación y peritajes que se realicen por parte del ministerio público, se desprenda que en el o los vehículos robados, se encontraron modificaciones en sus números originales de identificación como remarcación, alteración, trasplante o copia.
 
@@ -3741,25 +4059,41 @@ Los adquirentes, detentadores o comercializadores no serán sancionados cuando a
 
 Los actos u omisiones que alteren y afecten el equilibrio ecológico y la protección al ambiente, se castigarán:
 
-I. De tres meses a seis años de prisión y multa, por equivalente de cien a diez mil días de salario mínimo, al que, sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación a que se refiere la Ley de la materia, realice, autorice u ordene la realización de actividades que, conforme a este mismo ordenamiento, se considere como no riesgosas, que ocasionen graves daños a la salud pública o a los ecosistemas.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Cuando las actividades consideradas como no riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se elevará la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo en el momento que se cometa;
+I. De tres meses a seis años de prisión y multa, por equivalente de cien a diez mil días, al que, sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación a que se refiere la Ley de la materia, realice, autorice u ordene la realización de actividades que, conforme a este mismo ordenamiento, se considere como no riesgosas, que ocasionen graves daños a la salud pública o a los ecosistemas.
 
-II. De tres meses a seis años de prisión y multa, por el equivalente de mil a diez mil días de salario mínimo, al que, sin autorización de la autoridad estatal o municipal, o contraviniendo los términos en que ésta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, rehúse, recicle, recolecte, trate, deseche, descargue, disponga o en general, realice actos con materiales o residuos que no sean considerados altamente peligrosos, con arreglo a la Ley de la materia y que le compete conocer al Estado y municipios, que ocasionen o puedan ocasionar graves daños a la salud pública, a los ecosistemas o sus elementos, previo dictamen que al efecto emitan las autoridades administrativas competentes.
+Cuando las actividades consideradas como no riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se elevará la pena hasta tres años más de prisión y la multa hasta veinte mil días;
 
-III. De tres meses a cinco años de prisión y multa, por el equivalente de cien a diez mil días de salario mínimo, al que, con violación a lo establecido en las disposiciones legales, reglamentarias y normas técnicas aplicables, realice, autorice u ordene la descarga a la atmósfera de gases, humo o polvos, que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o a los ecosistemas, en el ámbito de la competencia estatal o municipal;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-De tres meses a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo, al que, sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias o normas técnicas aplicables, descargue, deposite o infiltre, ya sea que lo autorice o lo ordene, aguas residuales, desechos o contaminantes, en los suelos, aguas marinas, ríos, cuencas, vasos o demás depósitos o corrientes de agua en jurisdicción estatal, o en su caso municipal, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna, o los ecosistemas.
+II. De tres meses a seis años de prisión y multa, por el equivalente de mil a diez mil días, al que, sin autorización de la autoridad estatal o municipal, o contraviniendo los términos en que ésta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, rehúse, recicle, recolecte, trate, deseche, descargue, disponga o en general, realice actos con materiales o residuos que no sean considerados altamente peligrosos, con arreglo a la Ley de la materia y que le compete conocer al Estado y municipios, que ocasionen o puedan ocasionar graves daños a la salud pública, a los ecosistemas o sus elementos, previo dictamen que al efecto emitan las autoridades administrativas competentes.
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. De tres meses a cinco años de prisión y multa, por el equivalente de cien a diez mil días, al que, con violación a lo establecido en las disposiciones legales, reglamentarias y normas técnicas aplicables, realice, autorice u ordene la descarga a la atmósfera de gases, humo o polvos, que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o a los ecosistemas, en el ámbito de la competencia estatal o municipal;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. De tres meses a cinco años de prisión y multa por el equivalente de cien a diez mil días, al que, sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias o normas técnicas aplicables, descargue, deposite o infiltre, ya sea que lo autorice o lo ordene, aguas residuales, desechos o contaminantes, en los suelos, aguas marinas, ríos, cuencas, vasos o demás depósitos o corrientes de agua en jurisdicción estatal, o en su caso municipal, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna, o los ecosistemas.
+
+(REUBICADO [N. DE E. ANTES PÁRRAFO TERCERO DE LA FRACCIÓN III], P.O. 8 DE NOVIEMBRE DE 2016)
 
 Cuando se trate de aguas para ser entregadas en bloque a los centros de población, la pena se elevará hasta tres años más;
 
-IV. De tres meses a cinco años de prisión y multa, por el equivalente de cien y diez mil días de salario mínimo, a quien, en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, genere emisiones o ruido, vibraciones, energía térmica, lumínica, colores o contaminación visual en zona de jurisdicción estatal o municipal, que ocasionen graves daños a la salud pública, la flora, la fauna o a los ecosistemas, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-V. De tres a ocho años de prisión y multa, por el equivalente de cien a diez mil días de salario mínimo, a quien sin tomar las debidas precauciones e informar previamente a las autoridades municipales y ejidales inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
+V. De tres meses a cinco años de prisión y multa, por el equivalente de cien y diez mil días, a quien, en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, genere emisiones o ruido, vibraciones, energía térmica, lumínica, colores o contaminación visual en zona de jurisdicción estatal o municipal, que ocasionen graves daños a la salud pública, la flora, la fauna o a los ecosistemas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VI. De tres a ocho años de prisión y multa, por el equivalente de cien a diez mil días, a quien sin tomar las debidas precauciones e informar previamente a las autoridades municipales y ejidales inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 422.
 
-Se impondrá de tres meses a tres años de prisión y multa de sesenta a trescientos sesenta días de salario mínimo, a quien siendo propietario o poseedor por cualquier título o encargado de la guarda o custodia de un animal vertebrado, realice en perjuicio de éste cualquiera de las conductas siguientes:
+Se impondrá de tres meses a tres años de prisión y multa de sesenta a trescientos sesenta días, a quien siendo propietario o poseedor por cualquier título o encargado de la guarda o custodia de un animal vertebrado, realice en perjuicio de éste cualquiera de las conductas siguientes:
 
 I. La muerte producida utilizando un medio que prolongue la agonía, causándole sufrimientos innecesarios, salvo en aquellos eventos autorizados por la autoridad competente;
 
@@ -3936,3 +4270,9 @@ Primero.- El presente Decreto entrará en vigor a los ciento ochenta días conta
 Segundo.- El artículo 361 fracción IX, del Código Penal para el Estado de Nayarit, seguirá surtiendo efectos en las investigaciones y procesos respecto de los hechos cometidos con anterioridad a la entrada en vigor del presente Decreto.
 
 Tercero.- Antes de la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá integrar la Unidad Especializada en Prevención, Combate y Erradicación de la Violencia contra la Mujer por cuestión de Género, así como emitir el Protocolo de Investigación del Delito de Feminicidio. Para tales efectos, en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2017 deberán realizarse las previsiones presupuestales necesarias.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
