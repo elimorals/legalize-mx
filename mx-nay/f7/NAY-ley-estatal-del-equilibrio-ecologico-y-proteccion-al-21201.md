@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2016-09-05"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -141,7 +141,9 @@ XVII. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicado
 
 XVIII. Desequilibrio Ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afectan negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XIX. Día Multa: Multa equivalente a un día de salario mínimo general vigente al momento de aplicar la sanción correspondiente;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIX. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
 XX. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
@@ -2209,9 +2211,9 @@ Artículo 145 C.- El reglamento establecerá los requisitos que deberá cumplir 
 
 Artículo 145 D.- Es obligación de la Secretaría realizar inspecciones periódicas con el propósito de regular el funcionamiento de la red de centros de verificación vehicular.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Artículo 145 E.- Una vez otorgada la concesión, el permisionario entregará a la Secretaría de Finanzas antes de 5 días hábiles una fianza que garantice ante la Secretaría el buen desempeño del servicio y el resguardo de la papelería oficial. Esta fianza deberá ser expedida por una institución autorizada por la cantidad equivalente a 2000 salarios mínimos generales vigentes en la zona, y deberá ser actualizada anualmente.
+Artículo 145 E.- Una vez otorgada la concesión, el permisionario entregará a la Secretaría de Finanzas antes de 5 días hábiles una fianza que garantice ante la Secretaría el buen desempeño del servicio y el resguardo de la papelería oficial. Esta fianza deberá ser expedida por una institución autorizada por la cantidad equivalente a dos mil veces la UMA.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -3623,7 +3625,9 @@ Cuando se ordene alguna de las medidas de seguridad previstas en esta Ley, indic
 
 Las violaciones a los preceptos de esta Ley, su reglamento y las disposiciones que de ella emanen serán sancionadas administrativamente con una o más de las siguientes sanciones:
 
-I.- Multa por el equivalente de veinte a cincuenta mil días de salario mínimo general vigente en el Estado de Nayarit en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I.- Multa por el equivalente de veinte a cincuenta mil veces la UMA;
 
 II.- Clausura temporal o definitiva, total o parcial, cuando:
 
@@ -3649,9 +3653,9 @@ En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces 
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Artículo 253 A.- En caso de que durante el procedimiento de evaluación de la manifestación de impacto ambiental, informe preventivo o estudio de riesgo, o durante el acto de inspección y vigilancia o procedimiento administrativo, se detecte que existe falsedad u omisión en la información proporcionada, el promovente y prestador de servicios ambientales se considerarán corresponsales y a ambos se les impondrá una multa de veinte a mil días de salario mínimo vigente en el Estado.
+Artículo 253 A.- En caso de que durante el procedimiento de evaluación de la manifestación de impacto ambiental, informe preventivo o estudio de riesgo, o durante el acto de inspección y vigilancia o procedimiento administrativo, se detecte que existe falsedad u omisión en la información proporcionada, el promovente y prestador de servicios ambientales se considerarán corresponsales y a ambos se les impondrá una multa de veinte a mil veces la UMA.
 
 ###### Artículo 254.
 
@@ -3689,9 +3693,13 @@ En los casos en que se imponga como sanción la clausura temporal, la autoridad 
 
 La autoridad correspondiente dará a los bienes decomisados alguno de los siguientes destinos:
 
-I.- Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5,000 veces el salario mínimo general vigente en el Estado de Nayarit al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el salario diario mínimo general vigente en el Estado de Nayarit al momento de imponer la sanción; y
+I.- Venta directa en aquellos casos en que el valor de lo decomisado no exceda de cinco mil veces la UMA al momento de imponer la sanción;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Remate en subasta pública cuando el valor de lo decomisado exceda de cinco mil veces la UMA al momento de imponer la sanción;
 
 III.- Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas. Tratándose de especies y subespecies de flora y fauna silvestre, éstas podrán ser donadas a zoológicos públicos siempre que se garantice la existencia de condiciones adecuadas para su desarrollo o
 
@@ -3928,3 +3936,9 @@ P.O. 5 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE MODIFICA EL ARTÍCULO 111 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
