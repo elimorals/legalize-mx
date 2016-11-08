@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-agua-potable-y-alcantarillado-del-estado-de-nayarit-1095
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-04"
-last_updated: "2015-12-22"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 4 de octubre de 1995.
 
@@ -1391,9 +1391,11 @@ XVI. EL QUE RECIBA AL SERVICIO PÚBLICO DE AGUA POTABLE Y ALCANTARILLADO O QUIEN
 
 XVII. EL QUE EN CUALQUIER FORMA TRANSGREDA O INCUMPLA LO DISPUESTO EN ESTA LEY.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 115.
 
-LAS INFRACCIONES A QUE SE REFIERE EL ARTICULO ANTERIOR SERAN SANCIONADAS ADMINISTRATIVAMENTE A JUICIO DEL ORGANISMO OPERADOR RESPECTIVO, O EN SU DEFECTO, POR LA COMISION ESTATAL DE AGUA POTABLE Y ALCANTARILLADO, CON MULTAS EQUIVALENTES DE DIEZ A QUINIENTOS DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL AREA GEOGRAFICA EN QUE SE COMETA.
+LAS INFRACCIONES A QUE SE REFIERE EL ARTICULO ANTERIOR SERAN SANCIONADAS ADMINISTRATIVAMENTE A JUICIO DEL ORGANISMO OPERADOR RESPECTIVO, O EN SU DEFECTO, POR LA COMISION ESTATAL DE AGUA POTABLE Y ALCANTARILLADO, CON MULTA DE DIEZ A QUINIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACION CALCULADA EN TERMINOS DE LA LEY REGLAMENTARIA DEL ARTICULO 26, APARTADO B, PARRAFO SEXTO, DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 PARA SANCIONAR LAS FALTAS ANTERIORES, SE CLASIFICARAN LAS INFRACCIONES TOMANDO EN CONSIDERACION LA GRAVEDAD DE LA FALTA, LAS CONDICIONES ECONOMICAS DEL INFRACTOR Y LA REINCIDENCIA.
 
@@ -1592,3 +1594,9 @@ P.O. 22 DE DICIEMBRE DE 2015.
 Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Cuando se haga referencia a la Secretaría de Desarrollo Rural y Medio Ambiente se entenderá por nombradas la Secretaría del Medio Ambiente y la Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca, en tanto no entre en vigor el decreto por el cual se fusionan dichas dependencias, de conformidad con lo dispuesto en la Fe de Erratas de fecha 24 de octubre de 2015 al decreto que reforma, deroga y adiciona diversas disposiciones de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit; publicado en el periódico Oficial con fecha 03 de octubre del año 2015.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 115 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
