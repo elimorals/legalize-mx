@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-extincion-de-dominio-para-el-estado-de-nayarit-106526"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-27"
-last_updated: "2014-12-27"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NAYARIT
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR SESENTA DÍAS POSTERIORES A SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 27 de diciembre de 2014.
 
@@ -64,6 +62,10 @@ II. Código Nacional: el Código Nacional de Procedimientos Penales;
 III. Hecho ilícito: hecho antijurídico en el que concurran los elementos del tipo penal, y
 
 IV. Juez: el juez competente en materia de extinción de dominio.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+V. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3.
 
@@ -371,7 +373,9 @@ Reglas y principios en las audiencias
 
 Las audiencias deberán celebrarse de forma oral bajo los principios de inmediación, concentración, contradicción, continuidad y publicidad; salvo las excepciones previstas en esta ley.
 
-Las audiencias serán conducidas por el juez, quien las presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con multa de treinta a cien días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Las audiencias serán conducidas por el juez, quien las presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con multa de treinta a cien días de la UMA.
 
 En el desahogo de las pruebas en la audiencia de juicio, los testigos y los peritos deberán declarar de viva voz al tenor de los interrogatorios y contrainterrogatorios que se les formulen.
 
@@ -734,3 +738,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintiséis días del mes de Diciembre del año dos mil catorce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO."]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
