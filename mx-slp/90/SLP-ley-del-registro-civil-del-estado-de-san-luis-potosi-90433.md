@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2014-11-18"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -321,7 +321,7 @@ VI. Saber leer y escribir;
 
 VII. No ser Ministro de ningún culto religioso en servicio activo, y
 
-VIII. No estar en servicio activo dentro del ejército o algún cuerpo de seguridad pública; (sic)
+VIII. No estar en servicio activo dentro del ejército o algún cuerpo de seguridad pública;
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
@@ -883,7 +883,13 @@ El matrimonio se celebrará dentro de los quince días siguientes en el lugar, d
 
 En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial, los pretendientes y dos testigos por cada uno de ellos, que acrediten su identidad.
 
-A continuación el Oficial leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado, y las diligencias practicadas e, interrogará, a los testigos acerca de si les consta que los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y, si están conformes, los declarará unidos en nombre de la ley y la sociedad.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A continuación él o, la Oficial leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado, y las diligencias practicadas e, interrogará a los testigos, acerca de si les consta que los pretendientes son las mismas personas a que se refiere la solicitud.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Preguntará además a los pretendientes, si están de acuerdo en unirse en matrimonio, así como si han entendido los alcances legales de los derechos y obligaciones que asumirán con éste, en caso afirmativo, los declarará unidos en nombre de la ley y la sociedad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
 
@@ -1165,7 +1171,7 @@ El Oficial a quien se comunique que una tutela registrada en los libros a su car
 
 ###### ARTÍCULO 136.
 
-Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles al Oficial, se podrán corregir gratuitamente a petición de parte interesada, en un plazo de tres días hábiles, contados a partir del registro del acto o hecho del estado civil, mediante procedimiento administrativo seguido en la Dirección, conforme lo señale el reglamento respectivo-(sic) cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que, judicialmente, se pruebe la falsedad de éste.
+Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles al Oficial, se podrán corregir gratuitamente a petición de parte interesada, en un plazo de tres días hábiles, contados a partir del registro del acto o hecho del estado civil, mediante procedimiento administrativo seguido en la Dirección, conforme lo señale el reglamento respectivo- cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que, judicialmente, se pruebe la falsedad de éste.
 
 Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán, dentro de los tres días siguientes a su inscripción, ser aclaradas ante el propio Oficial, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y, en su caso, de los demás actos del Registro Civil relacionados, previa revisión y autorización de la Dirección, para la anotación marginal respectiva en el acta de que se trate.
 
@@ -1466,3 +1472,11 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0421.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 17, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 97 EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL MISMO ARTÍCULO 97 PÁRRAFO TERCERO, DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
