@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "2016-10-21"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el Miércoles 1 de Febrero de 1984.
 
@@ -115,27 +115,25 @@ Los titulares de las áreas de responsabilidades de las dependencias y entidades
 
 Los procedimientos para la aplicación de sanciones que se refiere el artículo 122 Constitucional, se desarrollarán autónomamente, según su naturaleza, y por la vía procesal que corresponda, debiéndose integrar los expedientes respectivos y canalizar su tramitación a la Autoridad que deba conocer en los términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 5°.
 
-Para los efectos de esta ley se entiende por:
+Para efectos de esta ley se entiende por:
 
-Ley: A la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+I. Contraloría Interna: A los órganos de control interno de las dependencias y entidades de la administración pública estatal y municipal, así como de la Fiscalía General del Estado y de los demás entes públicos.
 
-Secretaría: A la Secretaría de la Contraloría del Estado.
+II. Dependencias: A las consideradas como tales en la Ley Orgánica del Poder Ejecutivo del Estado, en la Ley Municipal del Estado y los Reglamentos de Administración Municipal incluidos sus órganos administrativos desconcentrados, así como la Fiscalía General del Estado.
 
-Contraloría Interna: A los órganos de control interno de las dependencias y entidades de la administración pública estatal, y municipal así como de la Procuraduría General de Justicia del Estado; y la de los demás entes públicos.
+III. Entes Públicos: las personas de derecho público de carácter estatal y municipal, por disposición legal o constitucional, que comprende entre otros a los poderes del estado, los organismos constitucionalmente autónomos, los ayuntamientos, los organismos públicos descentralizados, empresas estatales y municipales, así como fideicomisos, mandatos y fondos con participación estatal o municipal.
 
-Dependencias: A las consideradas como tales en la Ley Orgánica del Poder Ejecutivo del Estado, en la Ley Municipal del Estado y los Reglamentos de Administración Municipal incluidos sus órganos administrativos desconcentrados así como la Procuraduría General de Justicia del Estado.
+IV. Entidades: A las consideradas como entidades paraestatales en la Ley Orgánica del Poder Ejecutivo del Estado y en la Ley Municipal del Estado.
 
-Entidades: A las consideradas como entidades paraestatales en la Ley Orgánica del Poder Ejecutivo del Estado y en la Ley Municipal del Estado.
+V. Órgano: Al Órgano de Fiscalización Superior del Estado.
 
-Órgano: Al Órgano de Fiscalización Superior del Estado.
+VI. Secretaría: A la Secretaría de la Contraloría General del Estado.
 
-> <small>(ADICIONADO, P. O. 20 DE JULIO DE 2011)</small>
-
-Entes Públicos: las personas de derecho público de carácter estatal y municipal, por disposición legal o constitucional, que comprende entre otros a los poderes del estado, los organismos constitucionalmente autónomos, los ayuntamientos, los organismos públicos descentralizados, empresas estatales y municipales, así como fideicomisos, mandatos y fondos con participación estatal o municipal.
+VII. UMA: A la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TITULO SEGUNDO
 
@@ -375,7 +373,9 @@ Presentada la excusa o la recusación, se calificará dentro de los tres días n
 
 Tanto el inculpado como el denunciante o querellante, podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como pruebas ante la sección respectiva o ante el congreso.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren, la Sección o el Congreso a instancia del interesado, señalará a la Autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de tres a treinta días el salario mínimo diario vigente en el Estado, sanción que se hará efectiva si la Autoridad no cumpliere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren, la Sección o el Congreso a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle multa de tres a treinta veces la UMA, sanción que se hará efectiva si la autoridad no cumpliere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
 
 Por su parte, la Sección o el Congreso solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien las solicitase no las remite dentro del plazo discrecional que se le señala, se impondrá la multa a que se refiere el párrafo anterior.
 
@@ -473,9 +473,9 @@ Una vez concluido el empleo, cargo o comisión, el servidor público deberá obs
 
 Los obsequios que se hagan de acuerdo con los supuestos anteriores se entenderán cedidos al patrimonio del estado o al municipio según sea el caso, debiendo los servidores públicos hacer entrega de ellos.
 
-Si el servidor público incumple con lo dispuesto en el párrafo anterior, su conducta será sancionada conforme a la penalidad prevista para el delito de cohecho y se hará del conocimiento de la autoridad competente para que se le consigne ante el Ministerio Público, en los términos de la legislación correspondiente independientemente de las demás sanciones que procedan.
+> <small>(REFORMADO [N. DE E. ANTES PÁRRAFOS QUINTO Y SEXTO], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de este dispositivo, deberán ser declarados por éstos en la manifestación anual de bienes cuando el valor unitario de cada obsequio exceda a treinta días de salario mínimo general vigente en la capital del estado.
+Si el servidor público incumple con lo dispuesto en el párrafo anterior, su conducta será sancionada conforme a la penalidad prevista para el delito de cohecho y se hará del conocimiento de la autoridad competente para que se le consigne ante el Ministerio Público, en los términos de la legislación correspondiente independientemente de las demás sanciones que procedan. Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de este dispositivo, deberán ser declarados por éstos en la manifestación anual de bienes cuando el valor unitario de cada obsequio exceda de treinta veces la UMA.
 
 XIV. Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el estado o el municipio le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XII;
 
@@ -645,7 +645,9 @@ En ningún caso la sanción económica que se imponga podrá ser menor o igual a
 
 El monto de la sanción económica impuesta se actualizará, para efectos de su pago, en la forma y términos que establece el Código Fiscal de la Federación, tratándose de contribuciones y aprovechamientos.
 
-Cuando el acto u omisión implique beneficio, o cause daños o perjuicios, además se impondrá la sanción de inhabilitación de tres meses hasta diez años, si aquellos son de hasta el equivalente a doscientas veces el salario mínimo general mensual vigente en el Estado y de once a veinte años si excede de dicho límite.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Cuando el acto u omisión implique beneficio, o cause daños o perjuicios, además se impondrá la sanción de inhabilitación de tres meses hasta diez años, si aquellos son de hasta doscientas veces el valor mensual de la UMA y de once a veinte años si excede de dicho límite.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -661,7 +663,9 @@ Para que una persona que hubiere sido inhabilitada en los términos de la ley po
 
 La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa para el inhabilitado, como para el titular de la dependencia o entidad en los términos de la ley, siendo nulo de pleno derecho el nombramiento o contrato que en su caso se haya realizado; y en cuanto a los sueldos o prestaciones que hubiere percibido el inhabilitado deberán ser resarcidas en su totalidad por el titular de la dependencia o entidad que le permitió desempeñar el cargo o comisión, aún estando impedido para ello.
 
-Para los efectos de la ley se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Para efectos de la ley se entenderá por UMA mensual, el determinado conforme a la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2004)</small>
 
@@ -865,7 +869,9 @@ Si el servidor público, presunto responsable confesara su responsabilidad por e
 
 Para el cumplimiento de las atribuciones que les confiere la ley, la Secretaría o el contralor interno, podrán emplear los siguientes medios de apremio:
 
-I.- Multa de hasta veinte veces el salario mínimo general diario vigente en el Estado, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I.- Multa de hasta veinte veces la UMA, y
 
 II.- Auxilio de la fuerza pública.
 
@@ -1280,3 +1286,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT, EN MATERIA DE DISCIPLINA FINANCIERA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
