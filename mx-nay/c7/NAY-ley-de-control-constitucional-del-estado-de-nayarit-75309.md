@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-control-constitucional-del-estado-de-nayarit-75309"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-02"
-last_updated: "2010-06-02"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 2 de junio de 2010.
 
@@ -69,9 +69,17 @@ VI. Periódico oficial: Periódico Oficial, Órgano de Gobierno del Estado de Na
 
 VII. Procurador: Procurador General de Justicia del Estado;
 
-VIII. Sala Constitucional: Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IX. Presidente de la sala: Presidente de la Sala Constitucional.
+VIII. Sala Constitucional: Sala Constitucional del Tribunal Superior de Justicia del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX. Presidente de la sala: Presidente de la Sala Constitucional, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+X. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3.
 
@@ -139,7 +147,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa de cincuenta hasta doscientas veces el salario mínimo, cuando expresamente no se señale en esta ley multa distinta. En caso de reincidencia se podrá aplicar hasta el doble de la sanción señalada;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Multa de cincuenta hasta doscientas veces las UMA, cuando expresamente no se señale en esta ley multa distinta. En caso de reincidencia se podrá aplicar hasta el doble de la sanción señalada;
 
 IV. Auxilio de la fuerza pública;
 
@@ -147,7 +157,9 @@ V. Arresto hasta por treinta y seis horas, y
 
 VI. Destitución del servidor público y en su caso, denuncia de hechos, ante la autoridad competente.
 
-Las multas previstas en esta ley se impondrán a razón de días de salario, sirviendo como base para calcularlas el mínimo general vigente en el estado al momento de realizarse la conducta sancionada.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Las multas previstas en esta ley se impondrán a razón del valor de la UMA al momento de realizarse la conducta sancionada.
 
 ### Capítulo V. De las partes
 
@@ -481,9 +493,11 @@ El recurso de reclamación deberá interponerse dentro de los cinco días y en �
 
 El recurso de reclamación se promoverá ante el Presidente de la sala, quien correrá traslado a las demás partes para que dentro del término de cinco días aleguen lo que a su derecho convenga. Transcurrido este último término, el Presidente de la sala turnará los autos a un magistrado distinto del instructor a fin de que elabore el proyecto de resolución que deba someterse al Pleno dentro del término de quince días.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 57.
 
-Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, una multa de diez a ciento veinte días de salario.
+Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, multa de diez a ciento veinte veces la UMA.
 
 #### Sección II. De la queja
 
@@ -503,9 +517,11 @@ I. En los casos de la fracción I del artículo 58, ante el magistrado instructo
 
 II. Tratándose del (sic) fracción II del propio artículo 58, ante el Presidente de la sala dentro del año siguiente al de la notificación a la parte interesada de los actos por los que se haya dado cumplimiento a la sentencia, o al en que la entidad o poder extraño afectado por la ejecución tenga conocimiento de esta última.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 60.
 
-Admitido el recurso se requerirá a la autoridad contra la cual se hubiere interpuesto para que dentro de un término de quince días deje sin efectos la norma general o acto que diere lugar al recurso o, para que rinda un informe y ofrezca pruebas. La falta o deficiencia de este informe establecerá la presunción de ser ciertos los hechos imputados, sin perjuicio de que se le imponga una multa de diez a ciento ochenta días de salario.
+Admitido el recurso se requerirá a la autoridad contra la cual se hubiere interpuesto para que dentro de un término de quince días deje sin efectos la norma general o acto que diere lugar al recurso o, para que rinda un informe y ofrezca pruebas. La falta o deficiencia de este informe establecerá la presunción de ser ciertos los hechos imputados, sin perjuicio de que se le imponga multa de diez a ciento ochenta veces la UMA.
 
 Transcurrido el término señalado en el párrafo anterior y siempre que subsista la materia del recurso, en el supuesto de la fracción I del artículo 59, el magistrado instructor fijará fecha para la celebración de una audiencia dentro de los diez días siguientes a fin de que se desahoguen las pruebas y se formulen por escrito los alegatos; para el caso de la fracción II del artículo 59, el Presidente de la sala, turnará el expediente a un magistrado instructor para los mismos efectos.
 
@@ -860,3 +876,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Rigoberto Ríos Jara, Presidente.- Rúbrica.- Dip. Juan José Castellanos Franco, Secretario.- Rúbrica.- Dip. José Luis Lozano Gárate, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, al primer día del mes de junio del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE CONTROL CONSTITUCIONAL DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
