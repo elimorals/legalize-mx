@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-46138"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-27"
-last_updated: "2011-07-20"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 27 de agosto de 2005.
 
@@ -93,11 +93,13 @@ d) Todos los que participen en la comisión del delito de tortura, ya sea en su 
 
 Para todos los efectos legales se califica como grave el delito de tortura a que se refiere el artículo 3 de esta Ley.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 5.
 
-A quien cometa el delito de tortura se le sancionará con pena privativa de libertad de los dos a diez años y multa de doscientos a quinientos días de salario mínimo general vigente en el Estado, en el momento de aplicar la multa e inhabilitación para el desempeño de cualquier cargo, empleo, comisión o servicio público, hasta por dos tantos del lapso de privación de libertad impuesta.
+A quien cometa el delito de tortura se le sancionará con pena privativa de libertad de dos a diez años y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización considerada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, e inhabilitación para el desempeño de cualquier cargo, empleo, comisión o servicio público, hasta por dos tantos del lapso de privación de libertad impuesta.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
 
 La sanción establecida en el párrafo anterior, se aplicará independientemente de la correspondiente a otros delitos que se configuren, aplicándose al caso las reglas del concurso de delitos, en los términos establecidos por el Código Penal para el Estado de Nayarit.
 
@@ -240,3 +242,9 @@ Y en cumplimiento a lo dispuesto de la fracción II del artículo 69 de la Const
 P.O. 20 DE JULIO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 5 DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
