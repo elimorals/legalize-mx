@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-quejas-y-denuncias-del-instituto-electoral-y-7721
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-29"
-last_updated: "2010-10-29"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE COAHUILA
 
-REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE COAHUILA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE QUEJAS Y DENUNCIA DEL INSTITUTO ELECTORAL DE COAHUILA, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de octubre de 2010.
 
@@ -344,3 +346,15 @@ RUBRICA
 LIC. ROSA MIRELLA CASTILLO ARIAS
 
 SECRETARIA EJECUTIVA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE COAHUILA, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTOS (SIC) DE QUEJAS Y DENUNCIA DEL INSTITUTO ELECTORAL DE COAHUILA”.]
+
+PRIMERO. El presente reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las denuncias y notificaciones realizadas por correo electrónico, sólo tendrán efecto hasta en tanto existan las condiciones necesarias para utilizar dicho medio su admisión.
+
+TERCERO. Se abroga el Reglamento de Quejas del Instituto Electoral y de Participación Ciudadana de Coahuila, publicado en el Periódico Oficial el viernes 29 de octubre de 2010.
