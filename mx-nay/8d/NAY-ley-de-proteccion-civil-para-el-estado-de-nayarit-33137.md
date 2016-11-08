@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-civil-para-el-estado-de-nayarit-33137"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-23"
-last_updated: "2016-09-05"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 23 de Julio de 2003.
 
@@ -249,29 +249,33 @@ XLV. Simulacro: Representación mediante una simulación de las acciones de resp
 
 XLVI. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
 
-(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XLVII. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
-
-(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
-
-XLVIII. Unidades de Protección Civil: Los organismos de la administración pública de las entidades federativas, municipales o de las delegaciones, encargados de la organización, coordinación y operación del Sistema Nacional, en su demarcación territorial;
+XLVII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
 (ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-XLIX. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+XLVIII. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
 
 (ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-L. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+XLIX. Unidades de Protección Civil: Los organismos de la administración pública de las entidades federativas, municipales o de las delegaciones, encargados de la organización, coordinación y operación del Sistema Nacional, en su demarcación territorial;
 
 (ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-LI. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+L. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
 
 (ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
-LII. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
+LI. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
+
+LII. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+
+(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 5 DE SEPTIEMBRE DE 2016)
+
+LIII. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2013)</small>
 
@@ -1477,7 +1481,9 @@ La contravención a las disposiciones de la presente ley, dará lugar a la impos
 
 I.- Clausura temporal o definitiva, parcial o total;
 
-II.- Multa de veinte hasta cinco mil veces el salario mínimo general diario vigente en el estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa de veinte hasta cinco mil veces la UMA;
 
 III.- Arresto administrativo, en los casos de infracciones que se determinen en los reglamentos municipales, conforme al artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones de este ordenamiento y de la Ley Municipal para el Estado; y
 
@@ -1487,15 +1493,17 @@ IV.- El incumplimiento de los artículos contenidos en el Capítulo VIII del pre
 
 La contravención a las disposiciones de esta ley, se sancionará en la forma siguiente:
 
-I.- Las infracciones a los artículos 5 y 7 de este mismo ordenamiento se sancionarán con el equivalente de cien a cinco mil días de salario mínimo general vigente de la zona económica de la Entidad, excepto en lo que se refiere a las escuelas. En caso de reincidencia se procederá a la clausura temporal de los inmuebles descritos en los artículos antes mencionados, con excepción de centros escolares y unidades habitacionales;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+I.- Las infracciones a los artículos 5 y 7, de cien a cinco mil veces la UMA, excepto en lo que se refiere a las escuelas. En caso de reincidencia se procederá a la clausura temporal de los inmuebles descritos en los artículos antes mencionados, con excepción de centros escolares y unidades habitacionales;
 
-II. La infracción al artículo 6 se sancionará con el equivalente de veinte a cien días de salario mínimo general vigente en el estado, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+II.- La infracción al artículo 6, de veinte a cien veces la UMA, y
 
-III. En caso de incumplimiento a cualesquiera otra obligación que determine esta Ley, distintas a las establecidas en los artículos 5, 6 y 7, se impondrá al infractor una sanción equivalente de veinte a cinco mil días de salario mínimo general vigente en la zona económica que corresponda al lugar donde se cometa la infracción, dependiendo de la gravedad de la misma.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III.- En caso de incumplimiento a cualquier otra obligación que determine esta Ley, de veinte a cinco mil veces la UMA, dependiendo de la gravedad de la misma.
 
 Las sanciones pecuniarias antes previstas, se duplicarán en los casos de reincidencia.
 
@@ -1634,3 +1642,9 @@ P.O. 5 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN CIVIL PARA DE NAYARIT”.]
 
 Artículo primero (sic).- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
