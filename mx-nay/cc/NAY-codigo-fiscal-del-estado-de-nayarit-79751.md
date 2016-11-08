@@ -4,7 +4,7 @@ identifier: "NAY-codigo-fiscal-del-estado-de-nayarit-79751"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-22"
-last_updated: "2011-01-22"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 CÓDIGO FISCAL DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESIÓN ACTUALIZADA DE LA PUBLICACIÓN DEL PERIÓDICO OFICIAL No. 10 DE FECHA 22 DE ENERO DE 2011.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Sección Décima Octava del Periódico Oficial del Estado de Nayarit, el sábado 22 de enero de 2011.
 
@@ -203,7 +201,9 @@ IX. Registro, al Registro Federal y Estatal de Contribuyentes;
 
 X. Periódico Oficial, al Periódico Oficial Órgano del Gobierno del Estado de Nayarit;
 
-XI. Salario, al salario mínimo general diario vigente en el Estado, en el momento de la realización de la situación jurídica o de hecho prevista en este Código;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XI. UMA, a la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 XII. Contribuyente.- La persona física o moral o la unidad económica sin personalidad jurídica, mexicana o extranjera, que de acuerdo con las leyes está obligada al pago de una contribución determinada, en favor del fisco estatal; y
 
@@ -399,9 +399,11 @@ Cuando el saldo a favor del contribuyente se hubiera originado con posterioridad
 
 En ningún caso las autoridades fiscales podrán condonar total o parcialmente las contribuciones ni recargos correspondientes, excepto lo establecido en el artículo 46 de este código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 35.
 
-El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco del estado, expresados en pesos o salarios, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones no se actualizarán por fracciones de mes.
+El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco del estado, expresados en pesos o en la UMA, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones no se actualizarán por fracciones de mes.
 
 En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
@@ -1019,9 +1021,13 @@ IV.- Señalar como domicilio fiscal para efectos del Registro un lugar distinto 
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De veinte a veinticinco salarios, a la comprendida en la fracción I; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- De diez a quince salarios, a las señaladas en las fracciones II, III y IV.
+I.- De veinte a veinticinco veces la UMA, a la comprendida en la fracción I, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- De diez a quince veces la UMA, a las señaladas en las fracciones II, III y IV.
 
 ###### ARTICULO 78.
 
@@ -1045,25 +1051,43 @@ A quien cometa alguna de las infracciones a que se refiere el artículo anterior
 
 I.- Para las señaladas en las fracciones I y II:
 
-a).- Tratándose de declaraciones, de ocho a doce salarios. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella declarando contribuciones adicionales, sobre la misma se le aplicará también la multa a que se refiere este inciso;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-b).- Por presentar una declaración, solicitud, aviso o constancia fuera del plazo señalado en el requerimiento o por su incumplimiento, de 10 a 20 salarios; y
+a) Tratándose de declaraciones, de ocho a doce veces la UMA. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella declarando contribuciones adicionales, sobre la misma se le aplicará también la multa a que se refiere este inciso;
 
-c).- De ocho a diez salarios en los demás documentos;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+b) Por presentar una declaración, solicitud, aviso o constancia fuera del plazo señalado en el requerimiento o por su incumplimiento, de diez a veinte veces la UMA, y
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+c) De ocho a diez veces la UMA en los demás documentos.
 
 II.- Respecto de la establecida en la fracción III;
 
-a).- Por no poner el nombre o ponerlo equivocadamente, de cuatro a seis salarios;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-b).- Por no poner el domicilio o ponerlo equivocadamente, de tres a cinco salarios;
+a) Por no poner el nombre o ponerlo equivocadamente, de cuatro a seis veces la UMA;
 
-c).- Por no asentar o asentar incorrectamente cualquier otro dato diverso a los anteriores, por cada dato, de uno a dos salarios; y
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-d).- En los demás casos, de dos a tres salarios;
+b) Por no poner el domicilio o ponerlo equivocadamente, de tres a cinco veces la UMA;
 
-III.- Tratándose de la comprendida en la fracción IV, de tres a diez salarios;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV.- Para la señalada en la fracción V, de diez a cincuenta salarios; y
+c) Por no asentar o asentar incorrectamente cualquier otro dato diverso a los anteriores, por cada dato, de uno a dos veces la UMA, y
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+d) En los demás casos, de dos a tres veces la UMA.
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III.- Tratándose de la comprendida en la fracción IV, de tres a diez veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV.- Para la señalada en la fracción V, de diez a cincuenta veces la UMA, y
 
 V.- Para la establecida en la fracción VI, del 20% al 30% de la devolución o compensación indebida.
 
@@ -1087,13 +1111,21 @@ VI.- Expedir comprobantes fiscales asentando nombre, denominación, razón socia
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes sanciones:
 
-I.- De treinta a ochenta salarios, a la comprendida en la fracción I;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- De veinte a cincuenta salarios, a las señaladas en las fracciones II y III;
+I.- De treinta a ochenta veces la UMA, a la comprendida en la fracción I;
 
-III.- De sesenta a cien días de salario mínimo, a la señalada en la fracción IV; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV.- De cincuenta a doscientos salarios, a las comprendidas en las fracciones V y VI.
+II.- De veinte a cincuenta veces la UMA, a las señaladas en las fracciones II y III;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III.- De sesenta a cien veces la UMA, a la señalada en la fracción IV, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV.- De cincuenta a doscientas veces la UMA, a las comprendidas en las fracciones V y VI.
 
 En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de diez días.
 
@@ -1111,11 +1143,17 @@ III.- No suministrar los datos e informes sobre clientes y proveedores que legal
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas.
 
-I.- De ochenta a doscientos salarios, a la comprendida en la fracción I;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cincuenta a ciento cincuenta salarios, a la señalada en la fracción II; y
+I.- De ochenta a doscientas veces la UMA, a la comprendida en la fracción I;
 
-III.- De treinta a cien salarios, para la establecida en la fracción III.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- De cincuenta a ciento cincuenta veces la UMA, a la señalada en la fracción II, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III.- De treinta a cien veces la UMA, para la establecida en la fracción III.
 
 ###### ARTICULO 84.
 
@@ -1153,13 +1191,21 @@ XIV.- Violar otras disposiciones fiscales en forma no prevista en las fracciones
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De treinta a cien días de salarios, para las señaladas en las fracciones I, VIII y XIV;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cuarenta y cinco a ciento veinte salarios, para las consignadas en las fracciones V, IX, XI y XII;
+I.- De treinta a cien veces la UMA, para las señaladas en las fracciones I, VIII y XIV;
 
-III.- De sesenta a ciento cincuenta salarios, para las establecidas en las fracciones II, III, IV, VI, VII y X; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV.- De cincuenta a ciento veinte salarios, para la comprendida en la fracción XIII.
+II.- De cuarenta y cinco a ciento veinte veces la UMA, para las consignadas en las fracciones V, IX, XI y XII;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III.- De sesenta a ciento cincuenta veces la UMA, para las establecidas en las fracciones II, III, IV, VI, VII y X, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV.- De cincuenta a ciento veinte veces la UMA, para la comprendida en la fracción XIII.
 
 ###### ARTICULO 86.
 
@@ -1193,13 +1239,21 @@ XII.- Violar otras disposiciones fiscales en forma distinta a las previstas en l
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas;
 
-I.- De treinta a cien salarios, para las señaladas en las fracciones VI, X y XII;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cuarenta y cinco a ciento veinte salarios, para las consignadas en las fracciones II, IV, VII y XI;
+I.- De treinta a cien veces la UMA, para las señaladas en las fracciones VI, X y XII;
 
-III.- De sesenta a ciento cincuenta salarios, para las establecidas en las fracciones I, III, VIII y IX, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV.- De cincuenta a ciento veinte salarios, para la comprendida en la fracción V, cuando no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución.
+II.- De cuarenta y cinco a ciento veinte veces la UMA, para las consignadas en las fracciones II, IV, VII y XI;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III.- De sesenta a ciento cincuenta veces la UMA, para las establecidas en las fracciones I, III, VIII y IX, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV.- De cincuenta a ciento veinte veces la UMA, para la comprendida en la fracción V, cuando no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución.
 
 ###### ARTICULO 88.
 
@@ -1227,9 +1281,13 @@ IX.- Infringir disposiciones fiscales en forma distinta de las previstas en las 
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De treinta a cien salarios, para las consignadas en las fracciones V, VI y IX;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cuarenta y cinco a ciento veinte salarios, para la prevista en la fracción I; y
+I.- De treinta a cien veces la UMA, para las consignadas en las fracciones V, VI y IX;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- De cuarenta y cinco a ciento veinte veces la UMA, para la prevista en la fracción I, y
 
 III.- De uno a dos tantos el importe de las contribuciones omitidas, para las señaladas en las fracciones II, III, IV, VII y VIII.
 
@@ -1321,7 +1379,7 @@ I.- Grabe o manufacture sin autorización de la Secretaría, matrices, punzones,
 
 II.- Imprima, grave (sic) o troquele sin autorización de la Secretaría, placas, tarjetones o comprobantes de pago de contribuciones u objetos que se utilicen oficialmente como medios de control fiscal;
 
-III.- Altere en sus características las placas, tarjetones o comprobantes de pago de prestaciones fiscales u otros objetos que utilicen oficialmente como medios de control fiscal; y (sic)
+III.- Altere en sus características las placas, tarjetones o comprobantes de pago de prestaciones fiscales u otros objetos que utilicen oficialmente como medios de control fiscal; y
 
 IV.- Forme los objetos señalados en la fracción anterior con los fragmentos de otros recortados o mutilados;
 
@@ -1373,21 +1431,29 @@ VII.- No entere a las autoridades fiscales dentro del plazo que se le fije en el
 
 VIII.- Para registrar sus operaciones contables, fiscales o sociales lleve dos o más libros o registros similares con distintos asientos o datos;
 
-IX.- Destruya, ordene o permita la destrucción total o parcial de los libros o registros de contabilidad que prevengan las leyes aplicables; y (sic)
+IX.- Destruya, ordene o permita la destrucción total o parcial de los libros o registros de contabilidad que prevengan las leyes aplicables; y
 
 X.- Sustituya o cambie las páginas foliadas de los libros o registros a que se refiere la fracción anterior;
 
 XI.- Disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 106.
 
-El delito de defraudación fiscal se sancionará de acuerdo al monto de lo defraudado, expresado en salarios, conforme a las siguientes penas:
+El delito de defraudación fiscal se sancionará de acuerdo al monto de lo defraudado, expresado en la UMA, conforme a las siguientes penas:
 
-I.- Si el monto de lo defraudado es hasta de trescientos cincuenta salarios, de tres meses a tres años de prisión;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- Si el monto de lo defraudado es superior a trescientos cincuenta y hasta mil cuatrocientos salarios, de seis meses a seis años de prisión; y
+I.- Si el monto de lo defraudado es de hasta trescientos cincuenta veces la UMA, de tres meses a tres años de prisión;
 
-III.- Si el monto de lo defraudado es mayor a mil cuatrocientos salarios, de seis meses a nueve años de prisión.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Si el monto de lo defraudado es superior a trescientos cincuenta y hasta mil cuatrocientas veces la UMA, de seis meses a seis años de prisión, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III.- Si el monto de lo defraudado es mayor a mil cuatrocientas veces la UMA, de seis meses a nueve años de prisión.
 
 Cuando no se pueda determinar el monto de lo defraudado o de lo que se intentó defraudar, la pena será de uno a seis años de prisión.
 
@@ -1633,7 +1699,9 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios por notificación previstos en la Ley de Hacienda.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez salarios mínimos.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces la UMA.
 
 ###### ARTICULO 131.
 
@@ -1751,7 +1819,7 @@ III.- Cancelación;
 
 IV.- Condonación;
 
-V.- Prescripción; y (sic)
+V.- Prescripción; y
 
 VI.- Subrogación;
 
@@ -1785,7 +1853,9 @@ Procederá la cancelación contable en las cuentas públicas de los créditos fi
 
 I.- Cuando los sujetos de los créditos sean insolventes, previa comprobación de esta circunstancia por la Secretaría y siempre que medie acuerdo fundado de autoridad competente; y
 
-II.- Por incosteabilidad cuando su importe sea menor a una y no mayor a 30 salario (sic) mínimos y no se paguen espontáneamente dentro de los noventa días siguientes a la fecha en que la autoridad fiscal competente haya exigido el pago, y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Por incosteabilidad cuando su importe sea menor a treinta veces la UMA y no se paguen espontáneamente dentro de los noventa días siguientes a la fecha en que la autoridad fiscal competente haya exigido el pago, y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -2049,7 +2119,9 @@ El remate deberá ser convocado al día siguiente de haber quedado firme el aval
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a mil ochocientas veinticinco días de salario mín2qimo (sic), la convocatoria se publicará en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a mil ochocientos veinticinco veces la UMA, la convocatoria se publicará en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTICULO 178.
 
@@ -2240,3 +2312,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. José Luis Lozano Gárate, Presidente.- RÚBRICA.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- RÚBRICA.- Dip. Jaime Arturo Briseño Quintana, Secretario.- RÚBRICA.
 
 Y en cumplimiento a lo dispuesto en Fracción II del Articulo 69 de (sic) Constitución Política del Estado para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintidós días del mes de enero del año dos mil once.- Lic. Ney González Sánchez.- RÚBRICA.- La secretario (sic) general de gobierno.- Lic. Angélica Patricia Sánchez Medina.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
