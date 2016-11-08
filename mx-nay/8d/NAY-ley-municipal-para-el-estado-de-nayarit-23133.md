@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2016-10-21"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NAY"
 ---
 # LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -945,7 +943,9 @@ Para hacer cumplir los acuerdos del Ayuntamiento y sus propias resoluciones, los
 
 I.- Apercibimiento;
 
-II.- Multa de cinco hasta 10 días del salario mínimo vigente;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa de cinco hasta 10 días de la Unidad de Medida y Actualización diaria;
 
 III.- Arresto hasta por treinta y seis horas en los términos señalados por la Constitución Federal; y
 
@@ -4054,3 +4054,9 @@ Quinto.- El registro de proyectos de inversión pública productiva de los munic
 Sexto.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia la fracción I, del artículo 162, del presente Decreto, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y hasta el ejercicio fiscal 2022.
 
 En lo correspondiente al último párrafo del artículo 162 de este Decreto, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando el Municipio se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 66 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
