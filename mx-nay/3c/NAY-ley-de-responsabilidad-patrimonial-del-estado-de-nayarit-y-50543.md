@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidad-patrimonial-del-estado-de-nayarit-y-5054
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE NAYARIT Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 24 de mayo de 2006.
 
@@ -59,13 +59,21 @@ Para los efectos de esta ley se entenderá por:
 
 I. Actividad administrativa irregular: aquella que cause daño a los bienes y derechos de los particulares que no tengan la obligación jurídica de soportarlo en virtud de no existir fundamento legal o causa jurídica de justificación para legitimar el daño de que se trate.
 
-II. Reclamación: La promoción formulada por los particulares tendiente a obtener una indemnización por responsabilidad patrimonial de los sujetos obligados; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Reclamación: La promoción formulada por los particulares tendiente a obtener una indemnización por responsabilidad patrimonial de los sujetos obligados;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 III. Autoridad competente: La autoridad encargada de conocer y resolver los procedimientos de responsabilidad patrimonial. A opción del reclamante:
 
-a. En la vía administrativa: Respecto de las dependencias, entidades y Fideicomisos Públicos de la administración pública estatal, la Secretaría de la Contraloría General del Estado; los poderes Legislativo y Judicial, los Organismos autónomos Estatales y Municipales, los Ayuntamientos y sus Organismos descentralizados determinarán la unidad administrativa que fungirá como tal.
+a) En la vía administrativa: Respecto de las dependencias, entidades y Fideicomisos Públicos de la administración pública estatal, la Secretaría de la Contraloría General del Estado; los poderes Legislativo y Judicial, los Organismos autónomos Estatales y Municipales, los Ayuntamientos y sus Organismos descentralizados determinarán la unidad administrativa que fungirá como tal.
 
-b. En la vía contenciosa: El Tribunal de Justicia Administrativa del Estado.
+b) En la vía contenciosa: El Tribunal de Justicia Administrativa del Estado, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 4.
 
@@ -201,7 +209,9 @@ III. La reclamación quede sin materia:
 
 Se desecharán de plano las reclamaciones de indemnización por responsabilidad patrimonial que sean improcedentes.
 
-A quien promueva una reclamación notoriamente improcedente o que sea declarada infundada por haberse interpuesto sin motivo, se le impondrá una multa de diez a treinta salarios mínimos vigentes en el Estado.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A quien promueva una reclamación notoriamente improcedente o que sea declarada infundada por haberse interpuesto sin motivo, se le impondrá multa de diez a treinta veces la UMA.
 
 Las entidades públicas deberán denunciar ante el Ministerio Público a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de alguna lesión con el propósito de acreditar indebidamente la responsabilidad patrimonial de éstos o de obtener alguna de las indemnizaciones a que se refiere esta ley.
 
@@ -348,3 +358,11 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" del Honorable Congreso del Est
 Dip. Antonio Sandoval Pazos, Presidente.- Rúbrica.- Dip. Ma. Eugenia García Espino, Secretario.- Rúbrica.- Dip. Rafael Vega Herrera, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veinte días del mes de Abril del año dos mil seis.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE NAYARIT Y SUS MUNICIPIOS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
