@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-para-adolescentes-del-estado-de-nayarit-51707"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2011-06-15"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 9 de septiembre de 2006.
 
@@ -81,7 +83,7 @@ VII. Consejo Técnico Interdisciplinario: El órgano auxiliar de Centro de Inter
 
 VIII. Defensor de Oficio Especializado: El servidor público encargado de la defensa legal del adolescente, designado para ello;
 
-IX. Dirección de Reintegración Social para Adolescentes: la (sic) unidad administrativa de la Secretaría General de Gobierno facultada para ejecutar y vigilar las medidas que se impongan al adolescente;
+IX. Dirección de Reintegración Social para Adolescentes: la unidad administrativa de la Secretaría General de Gobierno facultada para ejecutar y vigilar las medidas que se impongan al adolescente;
 
 X. Juez: El titular del Juzgado especializado en la impartición de justicia para adolescentes del Poder Judicial, encargado de conocer y resolver en primera instancia y lo relativo al beneficio de la suspensión de la medida conforme a lo previsto por esta Ley;
 
@@ -89,9 +91,17 @@ X. Juez: El titular del Juzgado especializado en la impartición de justicia par
 
 XI. Magistrados: Los integrantes de la Sala del Tribunal Superior de Justicia a quienes les corresponde, en el ámbito de su competencia, conocer y resolver de los medios de impugnación interpuestos en el proceso instaurado al adolescente previstos en esta Ley;
 
-XII. Ministerio Público: La autoridad especializada, encargada de la investigación y persecución de las conductas tipificadas como delitos en las leyes penales del Estado que se atribuyan al adolescente, adscrita a la Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XIII. Policía Estatal.- Cuerpo especializado bajo el mando del Ministerio Público encargado de auxiliarlo, en la investigación de las conductas antisociales atribuidas al adolescente.
+XII. Ministerio Público: La autoridad especializada, encargada de la investigación y persecución de las conductas tipificadas como delitos en las leyes penales del Estado que se atribuyan al adolescente, adscrita a la Procuraduría General de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Policía Estatal: Cuerpo especializado bajo el mando del Ministerio Público encargado de auxiliarlo, en la investigación de las conductas antisociales atribuidas al adolescente, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIV. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO SEGUNDO. Principios, Derechos y Garantías
 
@@ -239,7 +249,9 @@ Los padres, tutores, representantes o personas con las que el adolescente tenga 
 
 Todo adolescente tendrá derecho a que no se divulgue su identidad, ni el nombre de sus padres o cualquier dato que permita su identificación pública, salvo cuando se encuentre prófugo y atendiendo a la peligrosidad y gravedad del delito, buscando preservar la seguridad de la comunidad.
 
-Con la excepción señalada en el párrafo anterior, el servidor público que divulgue total o parcialmente por cualquier medio de comunicación el nombre, hecho o documento relativo a un proceso judicial en cualquier fase en la que éste se encuentre y en el que se atribuya una conducta antijurídica a un adolescente, se le impondrá una multa de cien a trescientos salarios mínimos vigentes en la entidad.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Con la excepción señalada en el párrafo anterior, el servidor público que divulgue total o parcialmente por cualquier medio de comunicación el nombre, hecho o documento relativo a un proceso judicial en cualquier fase en la que éste se encuentre y en el que se atribuya una conducta antijurídica a un adolescente, se le impondrá una multa de cien a trescientas veces la UMA.
 
 Las autoridades deberán garantizar que la información que brinden sobre estadísticas no contravenga el derecho previsto en este artículo.
 
@@ -1824,3 +1836,9 @@ Artículo Segundo. Los asuntos en actual trámite de la Sala Penal del Tribunal 
 P.O. 15 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
