@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-inversion-publica-para-el-estado-de-nayarit-14292"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-19"
-last_updated: "1998-12-19"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE INVERSION PUBLICA PARA EL ESTADO DE NAYARIT
 
-LEY DE INVERSION PUBLICA PARA EL ESTADO DE NAYARIT
+LEY DE INVERSIÓN PÚBLICA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley Publicada en la Tercera Sección Periódico Oficial del Estado de Nayarit el sábado 19 de diciembre de 1998.
 
@@ -73,9 +73,11 @@ X.- Programas.- Contenido de bases y criterios que deberán observar las depende
 
 XI.- Organos de Vigilancia.- Las dependencias y entidades de la administración pública, que coadyuven en su ejercicio con el objeto de la Ley.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 3o.
 
-Las inversiones públicas que se sujetarán a esta Ley, serán aquellas que por su importancia estratégica, e impacto económico y social en la región o Municipio, requieran de una estricta planeación y programación, y el monto de su ejecución, sea superior a cien mil salarios mínimos vigentes en el Estado. Las inversiones públicas se sujetarán en su caso, al ejercicio del Presupuesto Anual de Egresos del Estado o de la Hacienda Municipal, así como a las disposiciones que en esta Ley se establece.
+Las inversiones públicas que se sujetarán a esta Ley, serán aquellas que por su importancia estratégica, e impacto económico y social en la región o Municipio, requieran de una estricta planeación y programación, y el monto de su ejecución sea superior a cien mil veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos. Las inversiones públicas se sujetarán en su caso, al ejercicio del Presupuesto Anual de Egresos del Estado o de la Hacienda Municipal, así como a las disposiciones que en esta Ley se establecen.
 
 ### CAPITULO SEGUNDO. DE LOS PROYECTOS DE INVERSION
 
@@ -256,3 +258,11 @@ Rigoberto Ochoa Zaragoza.
 El Secretario General de Gobierno.
 
 Lic. Sigfrido de la Torre Miramontes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 3o DE LA LEY DE INVERSIÓN PÚBLICA PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
