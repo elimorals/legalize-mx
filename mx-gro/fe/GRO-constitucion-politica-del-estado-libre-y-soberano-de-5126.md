@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2016-10-07"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1135,7 +1135,9 @@ a) Contratar obras y servicios públicos cuando éstos contraigan obligaciones q
 
 b) Presupuestar erogaciones plurianuales para proyectos de inversión en infraestructura;
 
-c) Contratar empréstitos cuando se garanticen con las participaciones federales;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+c) Contratar empréstitos cuando se paguen o garanticen con las participaciones y/o aportaciones federales susceptibles de afectarse de acuerdo a la Ley de Coordinación Fiscal y/o ingresos propios;
 
 d) Enajenar, gravar y transmitir la posesión o dominio de bienes;
 
@@ -1169,9 +1171,13 @@ XXXVII. Ejercer ante las instancias correspondientes las acciones en defensa del
 
 XXXVIII. Expedir bases para autorizar al Gobernador y a los municipios la celebración de contratos para la prestación de servicios de mediano y largo plazo, dirigidos a crear infraestructura pública con la participación del sector privado;
 
-XXXIX. Expedir bases para determinar la capacidad de endeudamiento del Estado, los requisitos para autorizar al Gobernador la negociación de empréstitos, sus límites y condiciones, así como las formas de supervisión de las finanzas públicas;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XL. Otorgar autorización al Gobernador para que recurra al endeudamiento directo como fuente de recursos, atendiendo a lo previsto en el artículo 62, fracción IV, de esta Constitución;
+XXXIX. Expedir bases para determinar la capacidad de endeudamiento del Estado, los requisitos para autorizar al Gobernador la negociación de empréstitos, sus límites y condiciones, así como las formas de supervisión de las finanzas públicas de conformidad con la legislación federal aplicable;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XL. Otorgar autorización al Gobernador para que recurra al endeudamiento como fuente de recursos, atendiendo a lo previsto en el artículo 62, fracción IV, de esta Constitución;
 
 XLI. Cambiar la residencia de los Poderes del Estado;
 
@@ -1193,9 +1199,13 @@ II. En caso que el presupuesto de egresos propuesto por el Gobernador no fuera a
 
 III. Examinar, discutir y aprobar las leyes de ingresos de los municipios, las cuales no podrán establecer exenciones ni subsidios a favor de persona o institución alguna;
 
-IV. Autorizar la contratación de endeudamiento por parte del gobierno del Estado y los Ayuntamientos, con el voto de las dos terceras partes del total de sus integrantes, que no podrá exceder del diez por ciento del monto de su presupuesto anual.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Cualesquiera (sic) que sea el supuesto de endeudamiento, el Congreso del Estado analizará que la petición sea fundada y motivada, a efecto de su posible autorización. La Ley de Deuda Pública del Estado establecerá los casos para atender circunstancias extraordinarias, incluyendo las que se deriven de los efectos de los fenómenos naturales;
+IV. Autorizar la contratación de endeudamiento por parte del gobierno del Estado y los Ayuntamientos, con el voto de las dos terceras partes de sus miembros presentes en sesión.
+
+Cualesquiera que sea el supuesto de endeudamiento, el Congreso del Estado analizará que la petición sea fundada y motivada, a efecto de su posible autorización. La Ley de Deuda Pública del Estado establecerá, entre otros, los casos para atender circunstancias extraordinarias, incluyendo las que se deriven de los efectos de los fenómenos naturales.
+
+La contratación de obligaciones y empréstitos del Estado, Municipios y organismos públicos, será en observancia a lo previsto en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos y las Leyes de la materia.
 
 V. Legislar en materia de responsabilidad hacendaria, previendo lo relativo a las obligaciones que corresponden al Gobernador y a los Ayuntamientos de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente, así como un sistema de alertas sobre el manejo de la deuda y las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones;
 
@@ -1567,7 +1577,9 @@ IX. Planear y conducir el desarrollo integral del Estado en el ámbito de su com
 
 X. Mantener relaciones políticas e institucionales con el gobierno federal y con los gobiernos de las demás entidades federativas;
 
-XI. Recurrir al endeudamiento directo y contratar empréstitos para inversiones públicas productivas, de conformidad con lo estipulado en el artículo 62, fracciones (sic) IV, de esta Constitución y la Ley de Deuda Pública del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XI. Recurrir al endeudamiento y contratar empréstitos para inversiones públicas productivas, en los términos y condiciones que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes de la materia;
 
 XII. Enajenar, donar, permutar o conceder el uso y disfrute de bienes de propiedad estatal, previa autorización del Congreso del Estado que habrá de votar con dos terceras partes del total de sus integrantes;
 
@@ -3219,7 +3231,9 @@ a) Incluir los tabuladores desglosados de las remuneraciones que perciban los se
 
 b) En caso de estipular erogaciones plurianuales para proyectos de inversión en infraestructura, deberán contar con la autorización previa del Congreso del Estado, e incluirse en los subsecuentes presupuestos de egresos.
 
-IX. Contraer deuda, fundada y motivada, que no exceda del 10 por ciento del presupuesto anual asignado por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX. Contraer deuda, fundada y motivada, en los términos y condiciones que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes de la materia;
 
 X. Acordar anualmente las remuneraciones de sus integrantes, de conformidad con lo dispuesto en la normativa aplicable;
 
@@ -3325,11 +3339,13 @@ La hacienda pública del Estado será administrada por el Gobernador del Estado 
 
 6. La ley determinará la organización y funcionamiento de las oficinas y dependencias de la hacienda pública del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 182.
 
-El gobierno del Estado podrá recurrir a empréstitos como fuente de recursos, previa autorización del Congreso del Estado, que no podrán exceder del diez por ciento de su presupuesto autorizado.
+El gobierno del Estado podrá recurrir a empréstitos como fuente de recursos, de conformidad con lo establecido en la fracción IV del artículo 62 de esta Constitución y las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 El endeudamiento se empleará únicamente en casos excepcionales o que estén plenamente motivados y fundados, de acuerdo a los fines establecidos en la ley de Deuda Pública del Estado.
 
@@ -4746,3 +4762,15 @@ SEGUNDO. Una vez emitida la Declaratoria por el Congreso del Estado, la presente
 TERCERO. Remítase este Decreto al Licenciado Héctor Astudillo Flores, Gobernador Constitucional del Estado de Guerrero, para su conocimiento y efectos procedentes.
 
 CUARTO. Publíquese el presente Decreto para el conocimiento Oficial del Gobierno del Estado de Guerrero, en el portal Web del Congreso del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 224 POR EL QUE SE REFORMAN LOS ARTÍCULOS 61 FRACCIONES XXVIII, INCISO C), XXXIX Y XL; 62 FRACCIÓN IV; 91 FRACCIÓN XI; 178 FRACCIÓN IX; Y 182 PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los Honorables Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO.- Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
