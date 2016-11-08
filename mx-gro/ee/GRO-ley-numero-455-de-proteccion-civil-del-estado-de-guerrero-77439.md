@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-455-de-proteccion-civil-del-estado-de-guerrero-77439
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-19"
-last_updated: "2015-08-25"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 455 DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 19 de noviembre de 2010.
 
@@ -265,43 +265,83 @@ XII. Las demás acciones necesarias para incrementar la eficacia en el cumplimie
 
 El Consejo Estatal, es la instancia superior de coordinación, consulta, planeación, compilación, registro, definición, supervisión y evaluación de políticas públicas del Sistema Estatal.
 
-###### ARTÍCULO 9°.
+(REPUBLICADO, P.O. 8 DE NOVIEMBRE DE 2016)
+
+###### ARTÍCULO 9º.
 
 El Consejo Estatal, estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. El Secretario de Seguridad Pública y Protección Civil, quien fungirá como Secretario Ejecutivo;
+I. La o el titular del Poder Ejecutivo Estatal, quién lo presidirá;
 
-III. El Secretario de Desarrollo Social del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV. El Secretario de Finanzas y Administración;
+II. La o el titular de la Secretaría de Protección Civil, quien fungirá como Secretario Ejecutivo;
 
-V. El Secretario de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VI. El Secretario de Educación (sic) Guerrero;
+III. La o el titular de la Secretaría de Seguridad Pública del Estado;
 
-VII. El Secretario de Salud;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VIII. El Secretario de Desarrollo Rural;
+IV. La o el titular de la Secretaría de Desarrollo Social del Estado de Guerrero;
 
-IX. El Subsecretario de Protección Civil, quien será el Secretario Técnico;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-X. El Comandante de la Región Militar en el Estado;
+V. La o el titular de la Secretaría de Finanzas y Administración;
 
-XI. El Comandante de la Región Naval en el Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XII. El Delegado de la Secretaría de Medio Ambiente y Recursos Naturales;
+VI. La o el titular de la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
-XIII. Delegación de la Secretaría de Comunicaciones y Transporte;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XIV. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia (DIF-GRO);
+VII. La o el titular de la Secretaría de Educación Guerrero;
 
-XV. El Director General de Comunicación Social del Gobierno del Estado de Guerrero, quien será el enlace informativo con los medios de comunicación;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XVI. Un Representante idóneo de la Universidad Autónoma de Guerrero y de otras instituciones de educación superior en el Estado;
+VIII. La o el titular de la Secretaría de Salud;
 
-XVII. El Delegado Estatal de la Cruz Roja.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX. La o el titular de la Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+X. La o el titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XI. La o el titular de la Subsecretaría de Protección Civil, quien será el Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XII. La o el titular de la Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia (DIF-GRO);
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIII. La o el titular de la Dirección General de Comunicación Social del Gobierno del Estado de Guerrero, quien será el enlace informativo con los medios de comunicación;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Un Representante de la Universidad Autónoma de Guerrero y de otras instituciones de educación superior en el Estado.
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XV. La o el titular de la Comandancia de la Región Militar en el Estado;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVI. La o el titular de la Comandancia de la Región Naval en el Estado;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVII. La o el titular de la Delegación de la Secretaría de Comunicaciones y Transporte; y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. La o el titular de la Delegación Estatal de la Cruz Roja.
 
 El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretario Ejecutivo. Los demás integrantes del Consejo Estatal deberán asistir personalmente.
 
@@ -365,6 +405,20 @@ XXII. Promover e impulsar la realización de estudios e investigaciones científ
 
 XXIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+ARTÍCULO 11 BIS. El Consejo Estatal deberá actuar con base en los siguientes principios:
+
+I. Prioridad en la protección a la vida, la salud y la integridad de las personas;
+
+II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en la prestación del auxilio;
+
+III. Difusión en todas las fases de la protección civil, particularmente en la prevención;
+
+IV. Legalidad, control, eficacia, racionalidad, equidad, transparencia y rendición de cuentas en la administración de los recursos públicos; y
+
+V. Respeto a los derechos humanos.
+
 ###### ARTÍCULO 12.
 
 Con el propósito de desarrollar la adecuada planeación, la prevención, auxilio y recuperación de las actividades de protección civil, y para incorporar la participación activa y comprometida de la sociedad, tanto en lo individual como en lo colectivo, ante los desafíos de la protección civil, el Consejo Estatal tendrá las Comisiones Permanentes siguientes:
@@ -409,7 +463,9 @@ VII. Promover el estricto cumplimiento de los objetivos de la protección civil,
 
 VIII. Proponer y someter a consideración del Consejo Estatal, el Plan y el Programa Estatal de Protección Civil, procurando su amplia difusión en el Estado;
 
-IX. Incluir en el Proyecto de Presupuesto de Egresos del Estado de cada ejercicio fiscal, el Fondo de Atención a Emergencias y Desastres, estableciendo los montos para la operación de cada uno de ellos conforme a las disposiciones aplicables, cuya coordinación será responsabilidad de la Secretaría de Seguridad Pública y Protección Civil;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX. Incluir en el Proyecto de Presupuesto de Egresos del Estado de cada ejercicio fiscal, el Fondo de Atención a Emergencias y Desastres, estableciendo los montos para la operación de cada uno de ellos conforme a las disposiciones aplicables, cuya coordinación será responsabilidad de la Secretaría de Protección Civil;
 
 X. Operar los recursos del Fondo de Atención a Desastres y Emergencias, de acuerdo a la normatividad vigente en la materia;
 
@@ -471,7 +527,11 @@ XVIII. Someter al Pleno del Consejo Estatal los instrumentos normativos para su 
 
 XIX. Ejercer la representación legal del Consejo Estatal; y
 
-XX. Las demás que se establezcan en otras disposiciones normativas;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX (SIC). Suscribir Convenio con el Centro Nacional de Prevención de Desastres (CENA-PRED), para que a través de la Escuela Nacional de Protección Civil (ENAPROC) se realicen frecuentemente la capacitación académica de los servidores públicos de la Secretaria de Protección Civil; y
+
+XXI. Las demás que se establezcan en otras disposiciones normativas;
 
 ###### ARTÍCULO 17.
 
@@ -579,7 +639,7 @@ X. Las demás que se establezcan en otras disposiciones normativas.
 
 Los Presidentes de los Consejos Municipales para cumplir con los objetivos de la protección civil, tendrán las obligaciones siguientes:
 
-l. Presidir las sesiones del Consejo Municipal;
+I. Presidir las sesiones del Consejo Municipal;
 
 II. Elaborar el Programa Municipal y someterlo al Consejo Municipal para su análisis y aprobación, en su caso;
 
@@ -597,7 +657,9 @@ VIII. Elaborar el Atlas Municipal de Riesgos;
 
 IX. Suscribir convenios de coordinación en protección civil;
 
-X. Comunicar a la Subsecretaría de Protección Civil cuando exista algún riesgo que pueda generar condiciones de emergencia o desastre en sus Municipios;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+X. Comunicar a la Secretaría de Protección Civil cuando exista algún riesgo que pueda generar condiciones de emergencia o desastre en sus Municipios
 
 XI. Proveer a la población alojamiento, alimentación, atención médica y seguridad púbica ante una emergencia o desastre; y
 
@@ -613,9 +675,11 @@ Ante la presencia de agentes perturbadores que sus efectos rebasen la capacidad 
 
 ### CAPÍTULO III. DE LAS UNIDADES MUNICIPALES DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-Las Unidades Municipales son la primera instancia de actuación especializada, para conocer de la situación de riesgos, emergencias o desastres. En caso de que éstas superen su capacidad de respuesta, acudirá a la Secretaría de Seguridad Pública y Protección Civil, en los términos de esta Ley.
+Las Unidades Municipales son la primera instancia de actuación especializada, para conocer de la situación de riesgos, emergencias o desastres. En caso de que éstas superen su capacidad de respuesta, acudirá a la Secretaría (sic) Protección Civil, en los términos de esta Ley.
 
 ###### ARTÍCULO 27.
 
@@ -671,7 +735,9 @@ Los Comisarios y Delegados Municipales así como los Comisariados de Bienes Ejid
 
 I. Participar en la coordinación y ejecución del Programa Municipal, en las fases de prevención y auxilio a la población;
 
-II. Informar a la Unidad Municipal de Protección Civil o a la Subsecretaría de Protección Civil, en caso de ocurrir una emergencia o desastre;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Informar a la Unidad Municipal de Protección Civil o a la Secretaría de Protección Civil, en caso de ocurrir una emergencia o desastre;
 
 III. Identificar las zonas de riesgo y alto riego en su comunidad e informar a las autoridades de protección civil;
 
@@ -775,9 +841,11 @@ VIII. Las demás que establezca la presente Ley, su Reglamento o las que determi
 
 Cuando debido a la magnitud de los riesgos, emergencias o desastres, sea necesaria la ocurrencia simultánea de las autoridades estatales y municipales de protección civil, la Subsecretaría de Protección Civil, será quien coordine los trabajos de respuesta ante la contingencia en el lugar de los hechos.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría de Seguridad Pública y Protección Civil, por conducto de la Subsecretaría de Protección Civil, promoverá que en los establecimientos a que se refiere esta Ley, se instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las Unidades Municipales de Protección Civil.
+La Secretaría de Protección Civil, promoverá que en los establecimientos a que se refiere esta Ley, se instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las Unidades Municipales de Protección Civil.
 
 ###### ARTÍCULO 36.
 
@@ -815,9 +883,11 @@ IV. Estudiar, desarrollar y aplicar tecnologías para la prevención y mitigaci�
 
 V. Prever y difundir la presencia de fenómenos perturbadores de origen natural o entrópico, a través de acciones de identificación, seguimiento, planeadas y organizadas a fin de advertir a la sociedad de la magnitud y alcance de estos, comunicándolo al Centro Estatal de Alertamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 41.
 
-El Centro Estatal de Alertamiento, es el órgano de prevención social, con que cuenta la Secretaría de Seguridad Pública y Protección Civil, responsable de informar o alertar mediante el envío de comunicados a la población, sobre los fenómenos naturales y sociales, que puedan afectar la seguridad y tranquilidad de la sociedad, así como el bienestar personal y patrimonial de los individuos, y tendrá las atribuciones generales siguientes:
+El Centro Estatal de Alertamiento, es el órgano de prevención social, con que cuenta la Secretaría de Protección Civil, responsable de informar o alertar mediante el envío de comunicados a la población, sobre los fenómenos naturales y sociales, que puedan afectar la seguridad y tranquilidad de la sociedad, así como el bienestar personal y patrimonial de los individuos, y tendrá las atribuciones generales siguientes:
 
 I. Fomentar la cultura de la prevención y la autoprotección;
 
@@ -945,9 +1015,11 @@ El Subprograma de Recuperación y Vuelta a la Normalidad, determinará las accio
 
 Los Municipios deberán contar con su Programa Municipal, de manera similar al del Estado, de conformidad con los lineamientos establecidos en esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 53.
 
-Se podrán establecer Programas Especiales, para atender de manera particular un evento o actividad, y serán implementados por los particulares o las áreas sustantivas y estratégicas de la administración pública estatal o municipal según corresponda, debiendo ser autorizados y supervisados por la Subsecretaría de Protección Civil o la Unidad Municipal de Protección Civil, respectivamente, cuando:
+Se podrán establecer Programas Especiales, para atender de manera particular un evento o actividad, y serán implementados por los particulares o las áreas sustantivas y estratégicas de la administración pública estatal o municipal según corresponda, debiendo ser autorizados y supervisados por la Secretaría de Protección Civil o la Unidad Municipal de Protección Civil, respectivamente, cuando:
 
 I. Se identifiquen riesgos específicos que puedan afectar de manera grave a la población, como:
 
@@ -1013,9 +1085,11 @@ Para los efectos del artículo anterior, deberán integrarse las comisiones y eq
 
 El Estado y los Municipios en coordinación con las autoridades competentes, revisarán los planes de atención a la población en casos de desastres, con énfasis en el control y la calidad de los servicios vitales y en la seguridad pública.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 60.
 
-El Estado a través de la Secretaría de Seguridad Pública y Protección Civil y los Municipios a través de las Unidades de Protección Civil, así como las cámaras industriales, elaborarán un padrón de las empresas que manejan materiales y residuos peligrosos, complementado con un inventario y lista única de los materiales peligrosos que se manejan. Esta información se incorporará a los Atlas, de Riesgos correspondientes.
+El Estado a través de la Secretaría de Protección Civil y los Municipios a través de las Unidades de Protección Civil, así como las cámaras industriales, elaborarán un padrón de las empresas que manejan materiales y residuos peligrosos, complementado con un inventario y lista única de los materiales peligrosos que se manejan. Esta información se incorporará a los Atlas de Riesgos correspondientes.
 
 ###### ARTÍCULO 61.
 
@@ -1213,9 +1287,13 @@ La aplicación de esta Ley corresponde a:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Seguridad Pública y Protección Civil;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-III. El Subsecretario de Protección Civil;
+II. El Secretario de Protección Civil;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. El Secretario de Seguridad Pública;
 
 IV. Los Presidentes Municipales;
 
@@ -1223,9 +1301,11 @@ V. Los titulares de las Unidades Municipales de Protección Civil; y
 
 VI. Los Inspectores de Protección Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 84.
 
-El Subsecretario de Protección Civil podrá presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos destinados para protección civil; así mismo, deberá ordenar la inspección, llevar el control y vigilancia, de los establecimientos siguientes:
+El Secretario de Protección Civil podrá presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos destinados para protección civil; así mismo, deberá ordenar la inspección, llevar el control y vigilancia, de los establecimientos siguientes:
 
 a). Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos, centros vacacionales;
 
@@ -1245,7 +1325,9 @@ h). Catedrales, templos y demás edificios destinados al culto;
 
 i). Centros comerciales, supermercados, tiendas de departamentos, mercados;
 
-j). Oficinas de la administración pública estatal, incluyendo las correspondientes a organismos descentralizados y concesionarios de servicios públicos, así como las dedicadas a oficinas de administración privada, de profesionales, de la industria, de la banca y del comercio;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+j). Oficinas de la administración pública estatal, incluyendo las correspondientes a organismos descentralizados y concesionarios de servicios públicos, así como las dedicadas a oficinas de administración privada, de profesionales, de la industria, de la banca y del comercio; Las instalaciones que albergan los Poderes Legislativo y Judicial respectivamente.
 
 k). Centrales, instalaciones o delegaciones de policía, penitenciarias, centros de reclusión y demás edificios e instalaciones destinados a proporcionar y preservar la seguridad pública;
 
@@ -1275,9 +1357,11 @@ Esta Ley, el Presupuesto de Egresos del Estado, así como las disposiciones admi
 
 Las declaratorias previstas en este Capítulo, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, con posterioridad a su emisión, sin que ello afecte su validez y efectos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 89.
 
-Es tarea de la Secretaría de Seguridad Pública y Protección Civil impulsar en los procesos de planeación y presupuestación que operan en el Estado de Guerrero, se aprueben recursos destinados a la creación de un Fondo de Atención a Emergencias y Desastres, que permitan la ejecución de los programas y el cumplimiento de sus objetivos y metas.
+Es tarea de la Secretaría de Protección Civil impulsar en los procesos de planeación y presupuestación que operan en el Estado de Guerrero, se aprueben recursos destinados a la creación de un Fondo de Atención a Emergencias y Desastres, que permitan la ejecución de los programas y el cumplimiento de sus objetivos y metas.
 
 El Gobierno del Estado identificará el instrumento Financiero, que reciba aportaciones voluntarias y obligatorias por derechos de registro de Organizaciones no gubernamentales.
 
@@ -1305,9 +1389,11 @@ En el presupuesto de egresos de cada ejercicio fiscal del Estado y de los Munici
 
 El Estado y los Municipios, podrán recibir donaciones para fortalecer una cultura en materia de protección civil en la población, así como para la mitigación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de emergencia, siniestro o desastre; así mismo, podrán donar bienes y proporcionar servicios de conformidad a sus capacidades, a poblaciones de otras entidades del país que hayan sufrido daños por la ocurrencia de agentes perturbadores.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 93.
 
-El Poder Legislativo, en los procesos de planeación y presupuestación que operan en el Estado, preverá la creación de un Fondo de Atención a Emergencias y Desastres, estableciendo los montos para la operación de cada uno de ellos conforme a las disposiciones aplicables, cuyo ejercicio estará bajo la responsabilidad de la Secretaría de Seguridad Pública y Protección Civil, para el cumplimiento de los objetivos de los planes, programas y acciones en Protección Civil, especialmente en aquellos enfocados a la prevención, generación y consolidación de la cultura de protección civil. Dichos fondos podrán recibir aportaciones voluntarias y obligatorias por derechos de registro de Organizaciones no Gubernamentales o aportaciones gubernamentales.
+El Poder Legislativo, en los procesos de planeación y presupuestación que operan en el Estado, preverá la creación de un Fondo de Atención a Emergencias y Desastres, estableciendo los montos para la operación de cada uno de ellos conforme a las disposiciones aplicables, cuyo ejercicio estará bajo la responsabilidad de la Secretaría de Protección Civil, para el cumplimiento de los objetivos de los planes, programas y acciones en Protección Civil, especialmente en aquellos enfocados a la prevención, generación y consolidación de la cultura de protección civil. Dichos fondos podrán recibir aportaciones voluntarias y obligatorias por derechos de registro de Organizaciones no Gubernamentales o aportaciones gubernamentales.
 
 ## TÍTULO SÉPTIMO. DE LOS PROCEDIMIENTOS
 
@@ -1469,13 +1555,17 @@ En el supuesto a que se contrae este artículo, la Subsecretaría de Protección
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 112.
 
-Son autoridades competentes para imponer las sanciones administrativas por violación a las disposiciones de esta Ley, su Reglamento y demás disposiciones en materia de protección civil, a que se refiere el presente capítulo, la Subsecretaría de Protección Civil, y en los Municipios, las Unidades de Protección Civil; sin perjuicio de la responsabilidad civil o penal correspondiente.
+Son autoridades competentes para imponer las sanciones administrativas por violación a las disposiciones de esta Ley, su Reglamento y demás disposiciones en materia de protección civil, a que se refiere el presente capítulo, la Secretaría de Protección Civil, y en los Municipios, las Unidades de Protección Civil; sin perjuicio de la responsabilidad civil o penal correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 113.
 
-Recibida el acta de inspección por la Subsecretaría de Protección Civil, iniciará procedimiento administrativo en el que se ordenara la notificación en forma personal al interesado para que en un término de diez días hábiles a partir del día hábil siguiente a la notificación manifieste por escrito lo que a su derecho convenga, en relación al acta de inspección y ofrezca pruebas en relación con los hechos u omisiones que en aquella se asienten; para que adopte de inmediato las medidas correctivas que sean necesarias, fundando y motivando el requerimiento.
+Recibida el acta de inspección por la Secretaría de Protección Civil, iniciará procedimiento administrativo en el que se ordenará la notificación en forma personal al interesado para que en un término de diez días hábiles a partir del día hábil siguiente a la notificación manifieste por escrito lo que a su derecho convenga, en relación al acta de inspección y ofrezca pruebas en relación con los hechos u omisiones que en aquella se asienten; para que adopte de inmediato las medidas correctivas que sean necesarias, fundando y motivando el requerimiento.
 
 No se requerirá la incoación de procedimiento administrativo, si el particular cumplió en tiempo y forma con los requerimientos precisados en el acta circunstanciada de inspección.
 
@@ -1505,9 +1595,11 @@ La imposición de sanciones se hará sin perjuicio de la responsabilidad que, co
 
 Al momento de imponer una sanción consistente en multa, el monto será fijado en la misma resolución, indicando que deberá ser pagada por el infractor en la Administración Fiscal del Estado o Tesorería Municipal, según sea el caso.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 119.
 
-Cuando en los establecimientos se realicen actos o servicios que constituyan, técnicamente riesgos inminentes, la Subsecretaría de Protección Civil o de las Unidades Municipales de Protección Civil, según corresponda, procederán de inmediato a suspender dichas actividades; también ordenarán el desalojo del inmueble y aplicarán las demás medidas de seguridad que resulten procedentes enunciadas en este ordenamiento, además de las sanciones que correspondan, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones señaladas en otros ordenamientos.
+Cuando en los establecimientos se realicen actos o servicios que constituyan técnicamente riesgos inminentes, la Secretaría de Protección Civil o de las Unidades Municipales de Protección Civil, según corresponda, procederán de inmediato a suspender dichas actividades; también ordenarán el desalojo del inmueble y aplicarán las demás medidas de seguridad que resulten procedentes enunciadas en este ordenamiento, además de las sanciones que correspondan, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones señaladas en otros ordenamientos.
 
 ###### ARTÍCULO 120.
 
@@ -1667,9 +1759,11 @@ III.- El tiempo por el que debe permanecer la cédula en el lugar donde se fije,
 
 Contra las resoluciones definitivas dictados (sic) por las autoridades de protección civil, procede el recurso de reconsideración.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 143.
 
-El recurso de reconsideración se interpondrá por escrito ante el Secretario de Seguridad Pública y Protección Civil, tratándose de resoluciones dictadas por la Subsecretaría de Protección Civil y las pronunciadas por el titular de las Unidades Municipales de Protección Civil, será al superior jerárquico en un plazo no mayor de quince días hábiles contados a partir de la fecha de su notificación.
+El recurso de reconsideración se interpondrá por escrito ante la Secretaría (sic) Protección Civil, tratándose de resoluciones dictadas por dicha Secretaría y las pronunciadas por el titular de las Unidades Municipales de Protección Civil, será al superior jerárquico en un plazo no mayor de quince días hábiles contados a partir de la fecha de su notificación.
 
 ###### ARTÍCULO 144.
 
@@ -1918,3 +2012,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 243 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 455 DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, Licenciado Héctor Astudillo Flores, para su conocimiento y efectos legales procedentes.
