@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2014-05-28"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -81,13 +81,17 @@ V.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras neces
 
 VI.- Persona con discapacidad.- Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VII.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales, y
+VII.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VIII.- Rehabilitación.- Proceso de duración limitada y con el objeto definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social.
+VIII.- Rehabilitación.- Proceso de duración limitada y con el objeto definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX.- UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -737,7 +741,9 @@ Las infracciones a las disposiciones de esta Ley serán sancionados con:
 
 I.- Amonestación con apercibimiento;
 
-II.- Multa de uno a doscientas veces el salario mínimo diario vigente en la Entidad, la cual se duplicará en caso de reincidencia;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa de una a doscientas veces la UMA, la cual se duplicará en caso de reincidencia;
 
 III.- Arresto hasta por treinta y seis horas;
 
@@ -858,3 +864,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE MAYO DE 2014.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
