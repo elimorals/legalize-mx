@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-de-los-enfermos-en-etapa-terminal-para-el-89720
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-12"
-last_updated: "2012-09-12"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS DE LOS ENFERMOS EN ETAPA TERMINAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el miércoles 12 de septiembre 2012.
 
@@ -101,9 +101,17 @@ XVI. Personal de Salud.- Profesionales, especialistas, técnicos, auxiliares y d
 
 XVII. Registro.- El control y registro documental de las solicitudes de declaración de voluntad y su ejecución, que tendrá en su resguardo la Secretaría de Salud del Estado y el Organismo;
 
-XVIII. Representante.- El apoderado, tutor o mandatario especial designado por el autor de la declaración de voluntad o por la ley, responsable de hacer valer su manifestación descrita en la solicitud respectiva ante el organismo y/o personal de salud, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XIX. Solicitud de Declaración de Voluntad.- Documento gratuito expedido por el Organismo o el instrumento fuera de protocolo que ante Notario Público se formalice, en el que cualquier persona que reúna los requisitos que establece esta ley, podrá realizar su declaración de voluntad.
+XVIII. Representante.- El apoderado, tutor o mandatario especial designado por el autor de la declaración de voluntad o por la ley, responsable de hacer valer su manifestación descrita en la solicitud respectiva ante el organismo y/o personal de salud;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Solicitud de Declaración de Voluntad.- Documento gratuito expedido por el Organismo o el instrumento fuera de protocolo que ante Notario Público se formalice, en el que cualquier persona que reúna los requisitos que establece esta ley, podrá realizar su declaración de voluntad, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XX. UMA.- A la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 4.
 
@@ -521,13 +529,21 @@ III. Las demás que establezcan las leyes aplicables en la materia.
 
 A quienes incurran en las responsabilidades señaladas en el artículo 45, se les aplicarán las siguientes sanciones:
 
-I. En el caso de la fracción I, se aplicará a los responsables multa de 500 a 1000 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. A los responsables del caso establecido en la fracción II, se les aplicará multa de 300 a 500 días de salario mínimo vigente en la entidad;
+I. En el caso de la fracción I, se aplicará a los responsables multa de quinientas a mil veces la UMA;
 
-III. En el caso de la fracción III, se aplicará a los responsables multa de 100 a 300 días de salario mínimo vigente en el Estado, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV. A quienes incurran en cualquiera de los supuestos a que se refiere la última fracción del precepto aludido, se les aplicará multa de 100 a 500 días de salario mínimo vigente en la entidad.
+II. A los responsables del caso establecido en la fracción II, se les aplicará multa de trescientas a quinientas veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. En el caso de la fracción III, se aplicará a los responsables multa de cien a trescientas veces la UMA, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. A quienes incurran en cualquiera de los supuestos a que se refiere la fracción IV, se les aplicará multa de cien a quinientas veces la UMA.
 
 ## Transitorios
 
@@ -548,3 +564,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Jocelyn Patricia Fernández Molina, Presidenta.- Rúbrica.- Dip. Fátima del Sol Gómez Montero, Secretaria.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los doce días del mes de Septiembre del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno.- Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE LOS ENFERMOS EN ETAPA TERMINAL PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
