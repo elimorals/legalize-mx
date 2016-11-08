@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-09"
-last_updated: "2015-12-09"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 9 de diciembre de 2015.
 
@@ -649,7 +649,9 @@ Las sanciones podrán consistir en:
 
 I. Amonestación;
 
-II. Multa de cincuenta hasta mil días de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Multa de cincuenta hasta mil veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 III. Suspensión hasta por tres meses para operar la concesión o permiso para la prestación de servicios, o
 
@@ -684,3 +686,11 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. María Angélica Sánchez Cervantes, Secretaria.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los ocho días del mes de Diciembre del año dos mil quince.- C. ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Mtro. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 68 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
