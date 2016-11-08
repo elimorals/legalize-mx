@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-43497"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-29"
-last_updated: "2012-05-23"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de enero de 2005.
 
@@ -97,6 +97,10 @@ XIX. Arancel: El Arancel de Notarios para el Estado de Nayarit;
 
 XX. Kinegrama: Instrumento de seguridad para los documentos, como el holograma que consiste en una estructura de difracción microscópica.
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXI. UMA: La Unidad de Medida y Actualización considerando su valor en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 3.
 
 La vigilancia, inspección y coordinación de la función Notarial, compete al Ejecutivo, y la ejerce, por conducto de la Secretaría y de la Dirección.
@@ -109,7 +113,7 @@ I. Vigilar a través de la Dirección, el estricto cumplimiento por parte de los
 
 II. Atender las quejas, denuncias y acusaciones presentadas por la ciudadanía, en contra de Notarios en el desempeño de sus funciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 III.- Expedir, revocar y autorizar con observancia en las disposiciones de esta Ley;
 
@@ -187,7 +191,7 @@ Es obligación del Ejecutivo, del Colegio y de los Notarios, que la población r
 
 El Ejecutivo instrumentará las medidas necesarias para facilitar la actividad notarial a fin de que la prestación del servicio se lleve a cabo en función de los principios a que se refiere el artículo 8 de esta Ley.
 
-> <small>(REFORMADO PRIMERO PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 Para los efectos del ejercicio de la función notarial el Estado de Nayarit se dividirá en cinco Demarcaciones Notariales, comprendiendo cada una los siguientes Municipios:
 
@@ -233,7 +237,7 @@ El Notario ejerce su función sin sometimiento al erario y sin sueldo o iguala d
 
 De conformidad con los postulados del Notariado Latino incorporado al sistema del Notariado local, en cada instrumento y en la asesoría relativa el Notario deberá proceder conforme a los principios jurídicos y deontológicos de su oficio profesional; consiguientemente, no podrá tratar a una parte como su cliente y a la otra no, sino la consideración será personal y profesionalmente competente por igual desde la buena fe y la asesoría imparcial a cada parte o persona que solicite su servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 16.
 
@@ -367,7 +371,7 @@ El aspirante a Notario, el que haya sido Notario del Estado de Nayarit o el Nota
 
 El Notario que consienta con las conductas descritas por los artículos 34 y 35 de esta ley, se hará acreedor a la sanción prevista en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 38.
 
@@ -465,7 +469,7 @@ Cuando se trate de solicitud de designación y no mediare propuesta formulada a 
 
 Cuando exista persona propuesta por el Notario Titular, ésta deberá someterse al examen previsto en la presente ley, pero no será necesario que esté inscrita en el padrón de aspirantes a Notario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 48.
 
@@ -571,7 +575,7 @@ c) En general, toda persona que ejerza el derecho al servicio notarial en térmi
 
 #### Sección Segunda. De los Exámenes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 57.
 
@@ -615,7 +619,7 @@ Para acreditar los requisitos a que se refieren las fracciones I y III del artí
 
 La Dirección tendrá en todo tiempo, facultades para examinar y en su caso investigar la veracidad, legalidad y validez de los elementos aportados por el solicitante. En caso de incongruencia, falsedad o insuficiencia, la solicitud será rechazada de plano, dentro de un plazo que no deberá exceder de 15 días a partir de la conclusión de las investigaciones realizadas, expresándose de manera puntual la fundamentación y motivación de la resolución correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 59.
 
@@ -629,13 +633,13 @@ III. Indicar el número de las notarías vacantes y de nueva creación, y
 
 IV. Señalar la obligación de pagar previamente, los derechos que determine la Ley de Ingresos para el Estado de Nayarit, por la práctica del examen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 60.
 
 Para obtener la patente de Notario titular, o en su caso de Notario Suplente Adscrito, el profesional del Derecho interesado, además de no estar impedido para presentar examen, conforme a la fracción VIII del artículo 63 de esta Ley, deberá:
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 Para el caso de patente de notario titular:
 
@@ -679,7 +683,7 @@ II. El jurado estará integrado por:
 
 a. Un Presidente, nombrado por el Ejecutivo, que deberá ser Notario.
 
-b. Un secretario, que será el Director, quien se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes de Aspirante a Notario, Notario Suplente Adscrito o en su caso en el Libro de Registro de Exámenes de Oposición, y (sic)
+b. Un secretario, que será el Director, quien se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes de Aspirante a Notario, Notario Suplente Adscrito o en su caso en el Libro de Registro de Exámenes de Oposición, y
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
@@ -723,7 +727,7 @@ Además de regirse por lo anterior, el examen para la obtención de la patente d
 
 La calificación que otorgue el jurado será sin sujeción a escala alguna, apegándose al procedimiento y formatos establecidos en las fracciones XIV y XV del artículo 61 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 63.
 
@@ -817,7 +821,9 @@ El Ejecutivo preguntará:
 
 Para que el Notario pueda actuar, debe:
 
-I. Obtener fianza a favor de la autoridad competente, por la cantidad que resulte de multiplicar por dos mil, el importe del salario mínimo general diario en la capital del Estado, vigente a la fecha de la constitución de la misma. El Notario deberá obtenerla de compañía legalmente autorizada por el monto señalado. Dicha fianza deberá mantenerse vigente y actualizarse en el mes de enero de cada año, modificándose en la misma forma en que se haya modificado a esa fecha el salario mínimo de referencia. El Notario deberá presentar anualmente de la compañía legalmente autorizada, el documento que acredite la constitución de la fianza correspondiente ante la autoridad competente. La omisión en que incurra el Notario a esta disposición será sancionada por la autoridad administrativa en términos de la presente ley. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I. Obtener fianza a favor de la autoridad competente, por la cantidad de dos mil veces el valor diario de la UMA. El Notario deberá obtenerla de compañía legalmente autorizada por el monto señalado. Dicha fianza deberá mantenerse vigente y actualizarse en el mes de enero de cada año, modificándose en la misma forma en que se haya modificado a esa fecha la UMA de referencia. El Notario deberá presentar anualmente de la compañía legalmente autorizada, el documento que acredite la constitución de la fianza correspondiente ante la autoridad competente. La omisión en que incurra el Notario a esta disposición será sancionada por la autoridad administrativa en términos de la presente ley. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
 
 II. Proveerse a su costa, previa autorización de la Dirección, de protocolo y sello, registrar el sello y su firma, ante ésta; el Registro Público, y el Colegio, una vez realizado el pago de los derechos que señale la Ley de Ingresos del Estado. Establecer libremente una oficina para el desempeño de su función en el lugar de residencia que se le haya fijado dentro del territorio de la Demarcación Notarial correspondiente, la cual deberá contar con el equipo mecánico y electrónico necesario para la eficaz prestación del servicio, e iniciar el ejercicio de sus funciones en un plazo que no excederá de sesenta días naturales contados a partir de la fecha en que rinda su protesta;
 
@@ -843,7 +849,7 @@ De los elementos notariales: Sello de autorizar y Protocolo.
 
 SELLO DE AUTORIZAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 72.
 
@@ -1161,7 +1167,7 @@ Si la escritura contuviere varios actos jurídicos y dentro del término que se 
 
 El Notario que autorice una escritura en la que mencione a otra u otras escrituras anteriores extendidas en su protocolo, que no hayan sido objeto de registro, lo advertirá así al otorgante interesado y cuidará, una vez que haya sido expensado para ello, en su caso, que se haga en aquél la inscripción o inscripciones, así como la anotación o anotaciones correspondientes. Si el libro de que se trate estuviera depositado definitivamente en la Dirección, el Notario comunicará a dicha dependencia lo procedente para que ésta, previo pago del derecho correspondiente, haga la anotación o anotaciones del caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 119.
 
@@ -1171,7 +1177,7 @@ I. Si el acto revocado o renunciado consta en el protocolo de la Notaría a su c
 
 II. Cuando el acto revocado o renunciado conste en protocolo a cargo de otro Notario del Estado de Nayarit, lo comunicará por escrito a aquél, para que dicho Notario proceda en los términos de la fracción anterior;
 
-III. Si el libro de protocolo de que se trate, sea de la notaría a su cargo o de otra del Estado de Nayarit, ya estuviere depositado en definitiva en la Dirección, la comunicación de la revocación o renuncia será hecha al titular de esa dependencia para que éste haga la anotación complementaria indicada; y (sic)
+III. Si el libro de protocolo de que se trate, sea de la notaría a su cargo o de otra del Estado de Nayarit, ya estuviere depositado en definitiva en la Dirección, la comunicación de la revocación o renuncia será hecha al titular de esa dependencia para que éste haga la anotación complementaria indicada; y
 
 IV. Si el poder o mandato renunciado o revocado constare en protocolo fuera del Estado de Nayarit, el Notario lo comunicará por correo certificado al Notario a cargo de quien esté el protocolo, para que haga la anotación correspondiente y será a cargo del interesado cerciorarse que se haga esta;
 
@@ -1565,9 +1571,9 @@ I.- Por el Notario suplente adscrito.
 
 II.- Por otro Notario con quien tenga celebrado convenio de Asociación.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 179.
 
@@ -1851,15 +1857,17 @@ III. Por realizar cualquier actividad que sea incompatible con el desempeño de 
 
 IV. Por provocar por culpa o dolo, la nulidad de un instrumento o testimonio, siempre que cause daño o perjuicio directos a los prestatarios;
 
-V. Por no ajustarse al arancel o a los convenios legalmente celebrados en materia de honorarios legalmente aplicables, y (sic)
+V. Por no ajustarse al arancel o a los convenios legalmente celebrados en materia de honorarios legalmente aplicables, y
 
 VI. Por no contar con la certificación de actualización que cada año expedirá el Colegio.
 
 VII. Por no contar con el equipamiento necesario para una eficaz prestación del servicio notarial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 222.
 
-Se sancionará al Notario con multa de uno a doce meses de salario mínimo general vigente en el momento del incumplimiento:
+Se sancionará al Notario con multa de una a doce veces el valor mensual de la UMA al momento de su incumplimiento:
 
 I. Por reincidir, en alguno de los supuestos señalados en el artículo anterior o por no haber constituido o reconstituido la fianza a partir de la aplicación de la sanción a que se refiere la fracción I del artículo anterior;
 
@@ -1965,7 +1973,7 @@ I. Con los documentos que los Notarios del Estado remitan a éste, según las pr
 
 II. Con los protocolos, que no sean aquellos que los Notarios puedan conservar en su poder;
 
-III. Con los sellos de los Notarios que deban depositarse o inutilizarse, conforme a las disposiciones de esta ley; y (sic)
+III. Con los sellos de los Notarios que deban depositarse o inutilizarse, conforme a las disposiciones de esta ley; y
 
 IV. Con los expedientes, manuscritos, libros y demás documentos que conforme a esta ley deba mantener en custodia definitiva.
 
@@ -2051,7 +2059,7 @@ El Director será nombrado y removido libremente por el Ejecutivo, En las licenc
 
 El Colegio de Notarios del Estado de Nayarit, es una persona moral, con personalidad jurídica y patrimonio propios, constituida para el cumplimiento de la garantía institucional del notariado. Ejercerá las facultades de representación, organización, gestión intervención, verificación y opinión que ésta Ley y su Estatuto le otorgan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 238.
 
@@ -2204,3 +2212,9 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 23 DE MAYO DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
