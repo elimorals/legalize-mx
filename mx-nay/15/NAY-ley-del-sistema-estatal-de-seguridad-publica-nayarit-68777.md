@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-estatal-de-seguridad-publica-nayarit-68777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-23"
-last_updated: "2015-09-15"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de mayo de 2009.
 
@@ -123,9 +123,17 @@ XV.- Registro Estatal: el Registro Estatal de Personal de las Instituciones de S
 
 XVI.- Secretaría: a la Secretaría de Seguridad Pública;
 
-XVII.- Secretario Ejecutivo: el Titular del Secretariado Ejecutivo del Consejo estatal; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XVIII.- Sistema: al Sistema Estatal de Seguridad Pública.
+XVII.- Secretario Ejecutivo: el Titular del Secretariado Ejecutivo del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVIII.- Sistema: al Sistema Estatal de Seguridad Pública; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIX.- UMA: a la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1361,9 +1369,11 @@ La amonestación podrá ser pública o privada dependiendo de las circunstancias
 
 La suspensión es la interrupción temporal de los efectos del nombramiento por el tiempo que señale la sanción, la cual será sin goce de sueldo y no podrá exceder de un año.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 89.
 
-La sanción económica que se imponga al infractor, será de diez a cien días de salario mínimo vigente en el estado; cuando se aplique esta sanción al servidor público, éste desempeñará sus funciones como ordinariamente las realizaba.
+La sanción económica que se imponga al infractor, será de diez a cien veces la UMA; cuando se aplique esta sanción al servidor público, éste desempeñará sus funciones como ordinariamente las realizaba.
 
 ###### Artículo 90.
 
@@ -1539,7 +1549,7 @@ El Centro Estatal de Control de Confianza y Evaluación del Desempeño, en térm
 
 ###### Artículo 112.
 
-La Evaluación de Control de Confianza y del Desempeño, contará cuando menos, con las fases del (sic) proceso siguientes:
+La Evaluación de Control de Confianza y del Desempeño, contará cuando menos, con las fases del proceso siguientes:
 
 I.- Reclutamiento y Preselección;
 
@@ -1989,7 +1999,9 @@ El incumplimiento por parte de los prestadores del servicio de seguridad privada
 
 I.- Amonestación, con difusión pública de la misma;
 
-II.- Multa de 100 hasta 1000 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa de cien hasta mil veces la UMA;
 
 III.- Clausura temporal del registro, hasta que se corrija el incumplimiento, con difusión pública de esta medida; y,
 
@@ -2038,5 +2050,11 @@ P.O. 20 DE JULIO DE 2011.
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 P.O. 15 DE SEPTIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
