@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-victimas-para-el-estado-de-nayarit-102295"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-23"
-last_updated: "2014-08-23"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Décima Séptima del Periódico Oficial del Estado de Nayarit, el sábado 23 de agosto de 2014.
 
@@ -113,15 +113,19 @@ XXII. Sistema: Sistema Nacional de Atención a Víctimas;
 
 XXIII. Sistema Estatal: El Sistema Estatal de Atención a Víctimas;
 
-XXIV. Víctima: Persona física que ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un hecho que la ley señala como delito;
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXV. Víctima directa: Personas que de manera individual o colectiva hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquier lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del (sic) Nayarit o en los Tratados Internacionales de los que el Estado mexicano sea parte;
+XXIV. UMA: La Unidad de Medida y Actualización considerando su valor en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXVI. Víctimas indirectas: Familiares o aquellas personas físicas que, teniendo una relación inmediata con la víctima directa, hubieran sufrido cualquier especie de daño como consecuencia del hecho victimizante;
+XXV. Víctima: Persona física que ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un hecho que la ley señala como delito;
 
-XXVII. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un hecho que la ley señala como delito, y
+XXVI. Víctima directa: Personas que de manera individual o colectiva hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquier lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del (sic) Nayarit o en los Tratados Internacionales de los que el Estado mexicano sea parte;
 
-XXVIII. Violación de Derechos Humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución federal, local o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
+XXVII. Víctimas indirectas: Familiares o aquellas personas físicas que, teniendo una relación inmediata con la víctima directa, hubieran sufrido cualquier especie de daño como consecuencia del hecho victimizante;
+
+XXVIII. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un hecho que la ley señala como delito, y
+
+XXIX. Violación de Derechos Humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución federal, local o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
 
 ###### Artículo 5.
 
@@ -939,7 +943,9 @@ b) La resolución firme emitida por la autoridad judicial.
 
 La determinación de la Comisión deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
 
-El monto de la compensación subsidiaria a la que se podrá obligar al Estado, será hasta de quinientas veces el salario mínimo mensual vigente en la entidad, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El monto de la compensación subsidiaria a la que se podrá obligar al Estado, será de hasta quinientas veces el valor mensual de la UMA, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
 
 ###### Artículo 73.
 
@@ -1518,3 +1524,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" del Honorable Congr
 Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.- Dip. Miguel Ángel Mú Rivera, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintidós días del mes de Agosto del año dos mil catorce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
