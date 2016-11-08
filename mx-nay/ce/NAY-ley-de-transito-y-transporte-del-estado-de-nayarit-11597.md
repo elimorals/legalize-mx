@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2016-09-21"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -1855,7 +1855,9 @@ ARTICULO 193 TER.- Los proyectos de infraestructura para crear ciclovías en las
 
 La Dirección sancionará las infracciones que en seguida se detallan, tomando en cuenta las circunstancias en que se cometan y conforme a los mínimos y máximos que a continuación se establecen.
 
-A. Se sancionará con multa de hasta cinco días de salario mínimo general vigente en el Estado, los casos en que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+A. Se sancionará con multa de hasta cinco veces la UMA por:
 
 1.- No se respeten las señales de tránsito o las indicaciones del agente;
 
@@ -1909,7 +1911,9 @@ A. Se sancionará con multa de hasta cinco días de salario mínimo general vige
 
 26.- Por conducir utilizando audífonos conectados a aparatos de sonido.
 
-B. Se sancionará con multa de cinco hasta diez días de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+B. Se sancionará con multa de cinco hasta diez veces la UMA por:
 
 1.- No respetar el paso de educandos en zonas escolares;
 
@@ -1939,7 +1943,9 @@ B. Se sancionará con multa de cinco hasta diez días de salario mínimo general
 
 14.- Conducir los vehículos de servicio público de pasaje, en evidente desaseo personal o de la unidad.
 
-C.- Se sancionará con multa de diez hasta veinte días de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+C.- Se sancionará con multa de diez hasta veinte veces la UMA por:
 
 l.- Dar vuelta en "U" en zonas prohibidas o de alta densidad de tránsito;
 
@@ -1983,7 +1989,9 @@ l.- Dar vuelta en "U" en zonas prohibidas o de alta densidad de tránsito;
 
 21. Por participar en choque o volcamiento, causando daños si es responsable, con independencia de las demás responsabilidades legales que le resulten.
 
-D.- Se sancionará con multa de treinta hasta cien días de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+D.- Se sancionará con multa de treinta hasta cien veces la UMA por:
 
 1. En los casos en que el permisionario de servicio público de transporte, por sí o a través de sus trabajadores modifique o altere el tipo de servicio, las tarifas, itinerarios, horarios o rutas autorizadas;
 
@@ -2063,7 +2071,9 @@ F.- Se aplicará de ochenta hasta cien días de la UMA:
 
 5. Por conducir un vehículo automotor destinado al servicio público permisionado utilizando aparatos electrónicos de comunicación o cualquier otro análogo que representen un distractor para la conducción segura; exceptuando a los conductores que operen aparatos de radio frecuencia por motivo de su trabajo.
 
-G.- Se aplicará multa de 100 hasta 200 días de salario mínimo general vigente en el Estado a quien altere por cualquier medio, el uso de las placas que correspondan al vehículo que se conduzca o circular con placas sobrepuestas.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+G.- Se aplicará multa de 100 hasta 200 veces la UMA a quien altere por cualquier medio, el uso de las placas que correspondan al vehículo que se conduzca o circular con placas sobrepuestas.
 
 ###### ARTICULO 195.
 
@@ -2246,3 +2256,9 @@ Primero.- El presente Decreto entrara en vigor en un plazo de sesenta días natu
 Segundo.- Una vez publicado el presente Decreto las autoridades locales de la materia deberán realizar campañas de difusión a fin de que la población en general tenga conocimiento del mismo.
 
 Tercero.- Los procesos administrativos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto en el cual se apliquen los artículos 106 en su fracción II, 107 en su fracción IV y 198, se regirán bajo las mismas reglas.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
