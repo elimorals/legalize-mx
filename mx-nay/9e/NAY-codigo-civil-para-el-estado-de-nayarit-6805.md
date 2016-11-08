@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2016-03-11"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -639,11 +639,13 @@ El acta de reconocimiento de hijos contendrá: Nombre propio, apellidos, sexo, f
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del título séptimo de este libro.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 81.
 
-La omisión del registro, en el caso del artículo que antecede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de 1 a 3 veces el monto del salario mínimo general vigente en la zona de que se trate, que impondrá y hará efectivo el Oficial ante quien se haga valer el reconocimiento.
+La omisión del registro, en el caso del artículo que antecede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero a los responsables de la omisión se les aplicará multa de una a tres veces la UMA, que impondrá y hará efectivo el Oficial ante quien se haga valer el reconocimiento.
+
+Para efectos de este Código se entiende por UMA a la Unidad de Medida y Actualización considerando su valor en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -879,11 +881,11 @@ El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento d
 
 Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el consentimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 108.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, en la primera ocasión, con una multa de veinte a cincuenta veces el monto del salario mínimo general vigente en la zona de que se trate, que impondrá y hará efectiva el Presidente Municipal, y en caso de reincidencia, con la destitución del cargo.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, en la primera ocasión, con multa de veinte a cincuenta veces la UMA, que impondrá y hará efectiva el Presidente Municipal, y en caso de reincidencia, con la destitución del cargo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
@@ -2169,11 +2171,11 @@ El obligado a dar alimentos cumple la obligación asignando una pensión compete
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 304.
 
-Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio, o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en el Estado de Nayarit, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio, o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual de la UMA, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ###### Artículo 305.
 
@@ -3301,11 +3303,11 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mi
 
 No pueden ser nombrados tutores o curadores las personas que desempeñen el cargo de Juez de Primera Instancia, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 452.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado o quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quien haya vivido, están obligados a dar parte del fallecimiento al Juez respectivo, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de 1 a 3 veces el monto del salario vigente en la zona de que se trate, que hará efectiva la Autoridad Judicial correspondiente. Los Oficiales del Registro Civil, las Autoridades Administrativas y las Judiciales tienen la obligación de dar aviso a los Jueces correspondientes.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado o quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quien haya vivido, están obligados a dar parte del fallecimiento al Juez respectivo, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de aplicarles multa de una a tres veces la UMA, que hará efectiva la Autoridad Judicial correspondiente. Los Oficiales del Registro Civil, las Autoridades Administrativas y las Judiciales tienen la obligación de dar aviso a los Jueces correspondientes.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
@@ -4789,11 +4791,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 718.
 
-El valor de los bienes afectos al patrimonio de la familia será la cantidad que resulte de multiplicar hasta 20,000 veces el importe del salario mínimo general vigente en el Estado de Nayarit, en la época en que se constituya dicho patrimonio, con sujeción a avalúo realizado por perito oficial debidamente autorizado en el que se determinará el valor comercial de los bienes en cuestión.
+El valor de los bienes afectos al patrimonio de la familia será la cantidad que resulte de multiplicar la UMA por veinte mil, en la época en que se constituya dicho patrimonio, con sujeción a avalúo realizado por perito oficial debidamente autorizado en el que se determinará el valor comercial de los bienes en cuestión.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2000)</small>
 
@@ -7651,9 +7653,9 @@ La reparación del daño debe consistir a elección del ofendido, en el restable
 
 Cuando el daño se cause a las personas y produzca incapacidad total permanente, parcial permanente, total temporal, o parcial temporal; el grado de reparación y el cálculo de la indemnización correspondiente se determinarán atendiendo a lo dispuesto por la Ley Federal del Trabajo.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Si el daño ocasionado trae como consecuencia la muerte, se tomará como base el equivalente a dos mil quinientos salarios mínimos vigentes en la entidad; misma que se integrará a la masa hereditaria de la víctima, en los términos de la legislación de la materia.
+Si el daño ocasionado trae como consecuencia la muerte, se tomará como base el equivalente a dos mil quinientas veces la UMA; misma que se integrará a la masa hereditaria de la víctima, en los términos de la legislación de la materia.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -10377,11 +10379,13 @@ Si al concluir la prórroga continúa el arrendatario ocupando la finca sin opos
 
 En su caso, el arrendador, deberá manifestar su oposición dentro de los diez días siguientes al vencimiento.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1820-D.
 
-Para los efectos de este Capítulo, la renta deberá estipularse en moneda nacional. La renta sólo podrá ser incrementada anualmente, en su caso, el aumento no podrá exceder del 80% respecto al incremento porcentual autorizado al salario mínimo general de la zona económica de la Entidad, aplicado al precio de la renta, en el año en que el Contrato se renueve o se prorrogue.
+Para los efectos de este Capítulo, la renta deberá estipularse en moneda nacional. La renta sólo podrá ser incrementada anualmente, en su caso, el aumento no podrá exceder del 80% respecto al incremento porcentual autorizado de la UMA, aplicado al precio de la renta, en el año en que el Contrato se renueve o se prorrogue.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
 
 Será nula de pleno derecho la estipulación de renta que rebase los límites señalados en este Artículo, por lo que en tal caso, el arrendatario sólo pagará el límite legal.
 
@@ -11015,21 +11019,21 @@ El mandato debe otorgarse en escritura pública o en carta poder firmada ante do
 
 I.- Cuando sea general;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- Cuando el interés del negocio para que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Estado de Nayarit, al momento de otorgarse; o cuando se requiera para la enajenación de inmuebles.
+II.- Cuando el interés del negocio para que se confiere sea superior al equivalente a mil veces la Unidad de Medida y Actualización, al momento de otorgarse; o cuando se requiera para la enajenación de inmuebles;
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario a nombre del mandante, algún acto que, conforme a la ley deba constar en instrumento público; y
 
 IV.- Para que el mandatario pueda hacer donaciones en nombre o por cuenta del mandante, deberá éste otorgar poder especial en cada caso.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1928.
 
-El mandato podrá otorgarse en escrito privado firmado ante dos testigos y ratificadas las firmas del otorgante y los testigos cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Estado de Nayarit, al momento de otorgarse.
+El mandato podrá otorgarse en escrito privado firmado ante dos testigos y ratificadas las firmas del otorgante y los testigos cuando el interés del negocio para el que se confiere no exceda de mil veces la UMA, al momento de otorgarse.
 
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces el salario mínimo general vigente en el Estado de Nayarit al momento de otorgarse.
+Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta la UMA al momento de otorgarse.
 
 ###### Artículo 1929.
 
@@ -14865,7 +14869,9 @@ Faltando alguna de las referidas solemnidades, quedará sin efecto el testamento
 
 Artículo 2683 BIS.- Testamento público simplificado es aquél que se otorga ante el notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que contenga la regularización de un inmueble que lleven a cabo los organismos descentralizados del Gobierno del Estado o Municipios, o cualquier dependencia o Entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
 
-I.- Que el precio del inmueble o su valor de avalúo no exceda de la cantidad que resulte de multiplicar 9,125 por el importe del salario mínimo general diario vigente en el Estado de Nayarit; al momento de la adquisición.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda de la cantidad que resulte de multiplicar la UMA por nueve mil ciento veinticinco, al momento de la adquisición.
 
 En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
 
@@ -16350,3 +16356,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente de su publicac
 Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
 
 Tercero.- Comuníquese la presente resolución a las Direcciones de Registro Civil en el Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
