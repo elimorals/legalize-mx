@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-conservacion-proteccion-y-puesta-en-valor-del-13504"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-28"
-last_updated: "2002-09-28"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE CONSERVACION, PROTECCION Y PUESTA EN VALOR DEL PATRIMONIO HISTORICO Y CULTURAL DEL ESTADO DE NAYARIT
 
-LEY DE CONSERVACION, PROTECCION Y PUESTA EN VALOR DEL PATRIMONIO HISTORICO Y CULTURAL DEL ESTADO DE NAYARIT
+LEY DE CONSERVACIÓN, PROTECCIÓN Y PUESTA EN VALOR DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el sábado 28 de octubre de 1989.
 
@@ -131,7 +131,9 @@ Los propietarios de inmuebles colindantes a un monumento o bien inmueble declara
 
 Las obras de restauración y conservación en bienes declarados bajo protección, que se ejecuten sin la autorización o permiso correspondiente, o que violen los otorgados, serán suspendidas en los términos del presente Ordenamiento, y en su caso, se procederá a su demolición, así como a su restauración o reconstrucción.
 
-Las obras de demolición, restauración o reconstrucción serán por cuenta del interesado y su reincidencia será sancionada con multa hasta por el equivalente de tres meses el salario mínimo en la Entidad.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Las obras de demolición, restauración o reconstrucción serán por cuenta del interesado y su reincidencia será sancionada con multa de hasta tres veces el valor mensual de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos
 
 ###### ARTICULO 13o.
 
@@ -231,7 +233,7 @@ El Secretario General de Gobierno.
 
 Lic. Pedro Ponce de León Montes.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE AGOSTO DE 2002
 
@@ -271,4 +273,10 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12 DE LA LEY DE CONSERVACIÓN, PROTECCIÓN Y PUESTA EN VALOR DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
