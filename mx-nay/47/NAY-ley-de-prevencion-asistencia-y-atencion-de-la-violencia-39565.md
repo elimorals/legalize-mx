@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-39565"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-12"
-last_updated: "2005-08-13"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE NAYARIT
 
-LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE NAYARIT
+LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 12 de mayo de 2004.
 
@@ -71,9 +71,17 @@ c).- Maltrato Sexual.- Todo acto u omisión reiterado que puede consistir en ind
 
 VI.- VIOLENCIA INTRAFAMILIAR.- Al uso de la fuerza física o moral, en contra de un miembro de la familia por otro integrante de la misma, y que atente contra la integridad psicológica o física, independientemente de la que pueda producir o no lesiones sea dentro de una relación de parentesco, uniones de hecho como el concubinato, o matrimonios efectuados de acuerdo a las costumbres, tradiciones y ritos indígenas o a uniones maritales, quedando excluidas aquellas que sean esporádicas o transitorias, salvo en los casos en que subsista el vínculo matrimonial o alguna relación paterno filial;
 
-VII.- GENERADORES DE VIOLENCIA INTRAFAMILIAR.- A quienes realizan actos de maltrato, psicológico o físico, hacia las personas con las que tenga algún vínculo familiar; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VIII.- RECEPTORES DE VIOLENCIA INTRAFAMILIAR.- A los individuos o grupos que sufren el maltrato físico o psicológico.
+VII.- GENERADORES DE VIOLENCIA INTRAFAMILIAR.- A quienes realizan actos de maltrato, psicológico o físico, hacia las personas con las que tenga algún vínculo familiar;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- RECEPTORES DE VIOLENCIA INTRAFAMILIAR.- A los individuos o grupos que sufren el maltrato físico o psicológico, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IX.- UMA.- A la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3°.
 
@@ -383,13 +391,17 @@ IV. Cualquier acción u omisión que cause un daño, perjuicio o menoscabo a la 
 
 Las infracciones a la presente Ley se sancionarán:
 
-I. Con multa de tres a diez días de salario mínimo general vigente en el estado de Nayarit, por el incumplimiento a lo previsto en la fracción I del artículo 28 de la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Con multa de 15 a 50 días de salario mínimo general vigente en el estado de Nayarit, por el incumplimiento a los convenios y resoluciones a que se refieren los artículos 22, 25 y 28, fracciones II y III, de la presente Ley;
+I. Con multa de tres a diez veces la UMA, por el incumplimiento a lo previsto en la fracción I del artículo 28;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-III.- Con multa de hasta 90 días de salario mínimo general vigente en el estado de Nayarit por la comisión de actos de violencia intrafamiliar, de conformidad a la fracción IV del artículo 28 de esta Ley, sin perjuicio de las sanciones que impongan otras autoridades administrativas y jurisdiccionales por la misma conducta desplegada;
+II. Con multa de quince a cincuenta veces la UMA, por el incumplimiento a los convenios y resoluciones a que se refieren los artículos 22, 25 y 28, fracciones II y III;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Con multa de hasta noventa veces la UMA por la comisión de actos de violencia intrafamiliar, de conformidad a la fracción IV del artículo 28, sin perjuicio de las sanciones que impongan otras autoridades administrativas y jurisdiccionales por la misma conducta desplegada;
 
 IV. Independientemente de la aplicación de las multas a que se refieren las fracciones anteriores, se sancionará con arresto administrativo inconmutable hasta por 36 horas al infractor que incurra en reincidencia.
 
@@ -432,3 +444,9 @@ P.O. 13 DE AGOSTO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
