@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2016-10-21"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -205,13 +205,17 @@ XXXIV. Obligaciones a corto plazo: cualquier Obligación contratada con Instituc
 
 XXXV. Presupuesto de Egresos: el presupuesto de egresos del Estado o Municipio, aprobado por el Congreso del Estado o el Ayuntamiento, respectivamente;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento, y
+XXXVI. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXXVII. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados.
+XXXVII. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXVIII. UMA: la Unidad de Medida y Actualización considerando su valor en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -399,7 +403,7 @@ XXXVI. Las demás que le sean conferidas por esta ley o cualquier otro ordenamie
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-###### Artículo 7° Bis.
+###### Artículo 7 Bis.
 
 Los servidores públicos y las personas físicas o morales, públicas o privadas, que capten, reciban, recauden, administren, manejen, ejerzan y custodien recursos públicos, deberán cumplir sin excusa los requerimientos que les formule el Órgano, durante la planeación, desarrollo de las auditorías y el seguimiento de las acciones que emita dentro de los plazos establecidos en esta ley, de conformidad con los procedimientos establecidos y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
@@ -407,7 +411,9 @@ Cuando esta ley no establezca plazo para la remisión de información, el Órgan
 
 Si derivado de la naturaleza, complejidad o imposibilidad real de cumplir los requerimientos de información formulados por parte del Órgano, el Sujeto Fiscalizable requiere de un plazo mayor para atenderlos, aquél determinará el plazo de entrega de información, el cual será improrrogable.
 
-Los servidores públicos o los particulares que no atiendan los requerimientos del Órgano, salvo que exista disposición legal o mandato judicial que se los impida, o bien se les haya otorgado una ampliación de plazo por los casos indicados en el párrafo anterior, el auditor general o los titulares de las áreas responsables de la práctica de las auditorías y visitas del Órgano podrán imponerles como medida de apremio una multa de cien a seiscientos días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Los servidores públicos o los particulares que no atiendan los requerimientos del Órgano, salvo que exista disposición legal o mandato judicial que se los impida, o bien se les haya otorgado una ampliación de plazo por los casos indicados en el párrafo anterior, el auditor general o los titulares de las áreas responsables de la práctica de las auditorías y visitas del Órgano podrán imponerles como medida de apremio multa de cien hasta seiscientas veces el valor diario de la UMA.
 
 La reincidencia se sancionará con una multa hasta del doble de la ya impuesta, sin perjuicio de las demás sanciones que procedan conforme a la Ley.
 
@@ -1513,9 +1519,11 @@ El importe de las indemnizaciones y de las sanciones que se recuperen en los té
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 71.
 
-El Auditor General, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste que no exceda de veinte veces el salario mínimo general mensual vigente en la capital del Estado, en la fecha en que se cometa la infracción.
+El Auditor General, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y que el daño causado por éste no exceda de veinte veces el valor mensual de la UMA.
 
 ### CAPÍTULO X. DEL RECURSO DE RECONSIDERACIÓN
 
@@ -1627,9 +1635,13 @@ Los sujetos de fiscalización, deberán rendir al Órgano, en un plazo que no ex
 
 Para los efectos de esta ley, se entenderá por situaciones excepcionales aquéllas en las cuales, de la denuncia que al efecto se presente, se deduzca al menos alguna probable responsabilidad en las circunstancias siguientes:
 
-a) Un daño patrimonial que afecte a la hacienda pública estatal, por un monto que resulte superior a diez mil veces el salario mínimo diario general vigente en el estado;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-b) Un daño patrimonial que afecte a la hacienda pública de algún municipio, por un monto que resulte superior a seis mil veces el salario mínimo diario general vigente en el estado;
+a) Un daño patrimonial que afecte a la hacienda pública estatal, por un monto superior a diez mil veces el valor diario de la UMA;
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+b) Un daño patrimonial que afecte a la hacienda pública de algún municipio, por un monto superior a seis mil veces el valor diario de la UMA;
 
 c) Hechos que impliquen la comisión de probables conductas delictivas;
 
@@ -1824,3 +1836,9 @@ SEGUNDO.- Las disposiciones relacionadas con el equilibrio presupuestario y resp
 TERCERO.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria de los Municipios, a que se refiere el artículo 33, inciso A, fracción II, del inciso f; e inciso B, fracción IV, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2018.
 
 CUARTO.- Las reformas relativas a la Cuenta Pública y a los informes de Avance de Gestión Financiera, entrarán en vigor en el ejercicio fiscal 2017 y en el ejercicio fiscal 2018, según corresponda, de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
