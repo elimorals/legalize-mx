@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-regula-el-regimen-de-propiedad-en-condominio-de-25089"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-12"
-last_updated: "2002-06-12"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit el miércoles 12 de junio de 2002.
 
@@ -79,7 +79,11 @@ XIII.Mayoría simple: El 50% más uno del total de votos o condóminos, según s
 
 XIV.Reglamento: El Reglamento de Condominio y Administración, el cual es el instrumento jurídico que complementa y especifica las disposiciones de esta Ley y de la Escritura Constitutiva, de acuerdo a las características de cada condominio;
 
-XV.Unidad de Propiedad Exclusiva: Es el departamento, casa o local y los elementos anexos que le correspondan obre el cual el condómino tiene un derecho de propiedad y de uso exclusivo.
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XV. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+
+XVI. Unidad de Propiedad Exclusiva: Es el departamento, casa o local y los elementos anexos que le correspondan obre (sic) el cual el condómino tiene un derecho de propiedad y de uso exclusivo.
 
 ## TITULO SEGUNDO. DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
 
@@ -801,13 +805,21 @@ Las violaciones a lo establecido por la presente Ley y demás disposiciones que 
 
 Las contravenciones a las disposiciones de esta ley serán sancionadas con multa que se aplicará de acuerdo con los siguientes criterios:
 
-I.Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de uno a cien días de salario mínimo general vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos, que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes, o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de uno a doscientos días de salario mínimo general vigente en la capital del Estado ;
+I. Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, de una a cien veces la UMA;
 
-III.Por aquellas faltas que provoquen un daño patrimonial o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de uno a trescientos días de salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV.Por la contravención a las demás disposiciones que establece esta ley, de uno a cuatrocientos días de salario;
+II. Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos, que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes, o que afecten el funcionamiento del condominio, de una a doscientas veces la UMA;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Por aquellas faltas que provoquen un daño patrimonial o pongan en riesgo la seguridad del inmueble o las personas, de una a trescientas veces la UMA, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Por la contravención a las demás disposiciones que establece esta ley, de una a cuatrocientas veces la UMA.
 
 En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
 
@@ -856,3 +868,11 @@ Y en cumplimiento de lo dispuesto en la fracción II del artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
