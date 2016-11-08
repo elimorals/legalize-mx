@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-regula-las-casas-de-empeno-en-el-estado-de-nayarit-6770
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2009-03-04"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Sexta al Periódico Oficial del Estado de Nayarit, el miércoles 4 de marzo de 2009.
 
@@ -80,6 +80,10 @@ VII Permiso - Acto administrativo por medio del cual se autoriza el establecimie
 VIII Peticionario - La persona física o moral que conforme a la Ley solicite la expedición, revalidación o modificación del Permiso.
 
 IX Secretaría - La Secretaría de Finanzas del Estado de Nayarit.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+X UMA - La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 7.
 
@@ -367,9 +371,11 @@ II Suspensión.
 
 III Cancelación del permiso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-Se impondrá multa de cincuenta a quinientos salarios mínimos, cuando:
+Se impondrá multa de cincuenta a quinientas veces la UMA, cuando:
 
 I Una persona física o moral instale o haga funcionar una casa de empeño sin contar con el permiso expedido por la Secretaría, o realice las actividades que regula la presente Ley sin autorización.
 
@@ -472,3 +478,11 @@ D A D O en la Universidad Tecnológica de Nayarit, declarada recinto oficial de 
 Dip. Julio Tomás Mondragón Peña, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- Rúbrica.- Dip. Miguel Antonio Fregozo Rivera, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dos días del mes de marzo del año dos mil nueve.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
