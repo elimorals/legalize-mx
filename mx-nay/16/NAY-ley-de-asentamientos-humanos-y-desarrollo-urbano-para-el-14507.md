@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2013-12-21"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -287,17 +287,21 @@ XXIX. Secretaría.- La Secretaría de Obras Públicas del Gobierno del Estado;
 
 XXX. Servicios urbanos.- Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades de tipo colectivo en los centros de población;
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXI. UMA.- La Unidad de Medida y Actualización, considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXXI. Urbanización.- El proceso técnico para lograr a través de acciones materiales ordenadas, la adecuación de los espacios que la población y sus comunidades requieren para su asentamiento;
+XXXII. Urbanización.- El proceso técnico para lograr a través de acciones materiales ordenadas, la adecuación de los espacios que la población y sus comunidades requieren para su asentamiento;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXXII. Usos.- Los fines particulares a que podrán dedicarse determinadas zonas, áreas, o predios de un centro de población, y
+XXXIII. Usos.- Los fines particulares a que podrán dedicarse determinadas zonas, áreas, o predios de un centro de población, y
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XXXIII. Zonificación.- La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
+XXXIV. Zonificación.- La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
 ###### ARTÍCULO 5o.
 
@@ -3375,7 +3379,9 @@ I. Amonestación verbal o por escrito;
 
 II. Clausura temporal o definitiva, total o parcial, de las instalaciones, construcciones, obras y servicios;
 
-III. Multa de uno hasta diez mil veces el monto del salario mínimo diario vigente en la zona económica donde se genere la infracción o de hasta el diez por ciento del valor comercial de los inmuebles;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Multa de uno hasta diez mil veces la UMA o de hasta el diez por ciento del valor comercial de los inmuebles;
 
 IV. Demolición total o parcial de las obras efectuadas en contravención a las disposiciones de esta Ley;
 
@@ -3590,3 +3596,9 @@ P.O. 21 DE DICIEMBRE DE 2013.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- El Titular del Poder Ejecutivo del Estado, y los Ayuntamientos en el ámbito de su competencia, deberán modificar la reglamentación conducente, dentro de los 180 días naturales contados a partir de su vigencia.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
