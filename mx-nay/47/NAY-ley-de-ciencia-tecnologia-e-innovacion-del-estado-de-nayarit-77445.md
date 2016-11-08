@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nayarit-77
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-23"
-last_updated: "2015-10-17"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de octubre de 2010.
 
@@ -129,13 +129,17 @@ XIII. Repositorio: la plataforma digital centralizada que siguiendo estándares 
 
 XIV. Repositorio Nacional: Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XV. Sistema Estatal de Ciencia, Tecnología e Innovación: al conjunto de instituciones relacionadas con esta temática, el marco jurídico que las sustenta, las políticas públicas estatales que constituyen sus directrices de desarrollo y los programas y proyectos que se derivan de las mismas, y
+XV. Sistema Estatal de Ciencia, Tecnología e Innovación: al conjunto de instituciones relacionadas con esta temática, el marco jurídico que las sustenta, las políticas públicas estatales que constituyen sus directrices de desarrollo y los programas y proyectos que se derivan de las mismas;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XVI. Unidades de Vinculación y Transferencia de Conocimiento: las unidades creadas por las universidades e instituciones de educación superior o los centros públicos de investigación, que tiene como propósito generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios en el Estado.
+XVI. UMA: a la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Unidades de Vinculación y Transferencia de Conocimiento: las unidades creadas por las universidades e instituciones de educación superior o los centros públicos de investigación, que tiene como propósito generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios en el Estado.
 
 ###### Artículo 4.
 
@@ -505,7 +509,9 @@ La canalización de recursos por parte del COCYTEN, para proyectos, investigacio
 
 I. La debida aplicación y adecuado aprovechamiento de los recursos que sean proporcionados;
 
-II. Los beneficiarios rendirán a la Junta de Gobierno a través del Director General, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos; asimismo, en proyectos y contratación de servicios que superen el monto equivalente a cinco mil días de salario mínimo general vigente en el área geográfica correspondiente a la Entidad, se deberá entregar una fianza que avale el posible incumplimiento del contrato correspondiente, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Los beneficiarios rendirán a la Junta de Gobierno a través del Director General, los informes periódicos que se establezcan sobre el desarrollo y resultados de sus trabajos; asimismo, en proyectos y contratación de servicios que superen el monto equivalente a cinco mil veces la UMA, se deberá entregar una fianza que avale el posible incumplimiento del contrato correspondiente, y
 
 III. Los derechos de propiedad industrial e intelectual, respecto de los resultados obtenidos por las personas físicas o morales que reciban ayuda del COCYTEN, serán materia de regulación específica en los instrumentos jurídicos que al efecto se celebren, en los que se garantizarán los intereses del Estado, del COCYTEN y de los investigadores.
 
@@ -960,3 +966,9 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 17 DE OCTUBRE DE 2015.
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT”.]
+
+Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
