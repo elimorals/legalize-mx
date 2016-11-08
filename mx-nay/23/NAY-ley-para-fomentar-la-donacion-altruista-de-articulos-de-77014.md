@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-fomentar-la-donacion-altruista-de-articulos-de-77014"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-13"
-last_updated: "2010-10-13"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY PARA FOMENTAR LA DONACION ALTRUISTA DE ARTICULOS DE PRIMERA NECESIDAD DEL ESTADO DE NAYARIT
 
-LEY PARA FOMENTAR LA DONACION ALTRUISTA DE ARTICULOS DE PRIMERA NECESIDAD DEL ESTADO DE NAYARIT
+LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 13 de octubre de 2010.
 
@@ -75,9 +75,17 @@ IV. Donatario.- Institución que recibe del donante, o a través del DIF, artíc
 
 V. Donación altruista.- Acción voluntaria consistente en la entrega gratuita de artículos de primera necesidad con objeto de mejorar la situación social de los individuos mediante la promoción de su desarrollo y bienestar;
 
-VI. Beneficiario.- Persona cuyos recursos económicos no le permiten obtener total o parcialmente los artículos de primera necesidad que requiere para subsistir, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VII. Artículos de primera necesidad.- Aquellos que el ser humano necesita para satisfacer sus requerimientos primarios como son alimentación, salud, vestido y habitación.
+VI. Beneficiario.- Persona cuyos recursos económicos no le permiten obtener total o parcialmente los artículos de primera necesidad que requiere para subsistir;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII. Artículos de primera necesidad.- Aquellos que el ser humano necesita para satisfacer sus requerimientos primarios como son alimentación, salud, vestido y habitación, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VIII. UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Capítulo III. Del Registro
 
@@ -125,7 +133,7 @@ III. Vigilar que el destino de los alimentos sea precisamente el de suministrar 
 
 IV. Adoptar las demás medidas de control sanitario que en su caso le señale el DIF, mediante circulares de carácter general;
 
-V. Velar por que (sic) sus miembros cumplan con esta ley y las demás disposiciones vigentes de la materia, y
+V. Velar por que sus miembros cumplan con esta ley y las demás disposiciones vigentes de la materia, y
 
 VI. Contar con un sistema de contabilidad y un registro de donantes.
 
@@ -139,7 +147,7 @@ Las Instituciones harán del conocimiento público el monto total obtenido por l
 
 ###### Artículo 9.
 
-Los actos y contratos celebrados por las instituciones registradas conforme a este ordenamiento, que se relacionen con el cumplimiento directo de los fines que motivaron que este persigue (sic), se encuentran exentos del pago de impuestos y derechos estatales y municipales.
+Los actos y contratos celebrados por las instituciones registradas conforme a este ordenamiento, que se relacionen con el cumplimiento directo de los fines que motivaron que este persigue, se encuentran exentos del pago de impuestos y derechos estatales y municipales.
 
 ### Capítulo V. Atribuciones del Sistema para el Desarrollo Integral de la Familia
 
@@ -189,9 +197,11 @@ Las resoluciones emitidas respecto del recurso de reconsideración podrán ser r
 
 ### Capítulo VI. De las Sanciones Administrativas
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 15.
 
-Se impondrá multa administrativa de cien y hasta quinientas veces el salario mínimo general vigente en el Estado de Nayarit, a la persona física o moral que se le sorprenda practicando el desperdicio de alimentos en cantidades industriales o comerciales.
+Se impondrá multa administrativa de cien y hasta quinientas veces la UMA, a la persona física o moral que se le sorprenda practicando el desperdicio de alimentos en cantidades industriales o comerciales.
 
 ###### Artículo 16.
 
@@ -220,3 +230,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Antonio Carrillo Ramos, Presidente.- Rúbrica.- Dip. Jaime Arturo Briseño Quintana, Secretario.- Rúbrica.- Dip. Luis Alberto Salinas Cruz, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los trece días del mes de octubre del año dos mil diez.- Lic. Ney González Sánchez. Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
