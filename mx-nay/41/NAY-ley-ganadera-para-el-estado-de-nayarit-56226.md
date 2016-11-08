@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-para-el-estado-de-nayarit-56226"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-04-08"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY GANADERA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 4 de julio de 2007.
 
@@ -141,9 +141,17 @@ XXVIII. Tatuajes.- La impresión de dibujos, letras o números indelebles en la 
 
 XXIX. Terrenos de agostadero.- Los cubiertos con vegetación nativa o mejorada, constituye fuente de forraje para el pastoreo extensivo de animales domésticos y fauna silvestre y que por su naturaleza, ubicación, potencial y aptitud, no son susceptibles de explotación agrícola;
 
-XXX. Unión.- a la Unión Ganadera Regional, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXXI. Vías pecuarias.- Los caminos, veredas y en general todas las rutas establecidas por la costumbre, que siguen los ganados para llegar a los abrevaderos de uso común, a los embarcaderos, y en general las que siguen en su movilización de una zona ganadera a otra o bien a los centros de acopio, sacrificio y consumo.
+XXX. UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXI. Unión.- La Unión Ganadera Regional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXII. Vías Pecuarias.- Los caminos, veredas y en general todas las rutas establecidas por la costumbre, que siguen los ganados para llegar a los abrevaderos de uso común, a los embarcaderos, y en general las que siguen en su movilización de una zona ganadera a otra o bien a los centros de acopio, sacrificio y consumo.
 
 ###### ARTÍCULO 6.
 
@@ -1301,9 +1309,9 @@ La fabricación de sellos oficiales, registradores, fechadores. Con cualquier le
 
 Toda persona física o colectiva queda obligada a denunciar a las personas que les ordenen la confección de uno o más sellos de los que se indican en el artículo anterior de esta ley, cuando no les entregue la orden correspondiente a que se refiere dicho precepto.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-La Secretaría y las autoridades municipales girarán circulares a las imprentas fabricantes de sellos, haciéndoles saber que en caso de desobediencia, serán considerados como autores de delito, correspondiéndole una sanción de 3 a 6 años de prisión y multa de 100 a 500 días de salario mínimo vigente en la entidad.
+La Secretaría y las autoridades municipales girarán circulares a las imprentas fabricantes de sellos haciéndoles saber que, en caso de desobediencia, serán considerados como autores de delito, correspondiéndole una sanción de 3 a 6 años de prisión y multa de cien a quinientas veces la UMA.
 
 ### CAPÍTULO II. EJERCICIO DE LA MEDICINA VETERINARIA Y ZOOTECNIA
 
@@ -1333,11 +1341,21 @@ I. Apercibimiento;
 
 II. Multa, en los siguientes términos:
 
-De 10 a 100 días de salario mínimo, previo apercibimiento, por infringir los artículos 31, 32, 33, 35 primer y último párrafo, 38, 39 fracción III, 41, 51 y 120.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-De 25 a 150 días de salario mínimo por infracciones a los artículos 24 último párrafo, 40, 57, 61, 68, 109 ultimo párrafo, 114, 146 segundo párrafo y 151.
+a) De diez a cien veces la UMA, previo apercibimiento, por infringir los artículos 31, 32, 33, 35 primer y último párrafo, 38, 39 fracción III, 41, 51 y 120.
 
-De 50 a 200 días de salario mínimo por infringir los artículos 46, 48, 67, 70, 90, 111, 112, 118, 119, 123, 130, 131, 133, 146 primer párrafo y 153. De 100 a 300 días de salario mínimo por infracciones a los artículos 74 fracción V, 75, 115, 116, 117, 137, 142 Y (sic) 164 último párrafo.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+b) De veinticinco a ciento cincuenta veces la UMA por infracciones a los artículos 24 último párrafo, 40, 57, 61, 68, 109 último párrafo, 114, 146 segundo párrafo y 151.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+c) De cincuenta a doscientas veces la UMA por infringir los artículos 46, 48, 67, 70, 90, 111, 112, 118, 119, 123, 130, 131, 133, 146 primer párrafo y 153.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+d) De 100 a 300 veces la UMA por infracciones a los artículos 74 fracción V, 75, 115, 116, 117, 137, 142 y 164 último párrafo.
 
 En lo que respecta a los artículos 137 y 164 último párrafo, la sanción se impondrá por cabeza de ganado.
 
@@ -1359,11 +1377,11 @@ En caso de reincidencia, se podrá aplicar una multa hasta por el doble de las c
 
 Para la imposición de sanciones, la Secretaría, tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor, debiendo conceder previamente audiencia al interesado en los términos que establezca el reglamento de esta ley.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 173.
+###### Artículo 173.
 
-En los casos en que esta ley no prevea una sanción específica, la Secretaría podrá imponer una multa de 10 a 300 días de salario mínimo o arresto administrativo hasta por treinta y seis horas.
+En los casos en que esta ley no prevea una sanción específica, la Secretaría podrá imponer una multa de diez a trescientas veces la UMA o arresto administrativo hasta por treinta y seis horas.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
@@ -1404,3 +1422,9 @@ P.O. 16 DE MARZO DE 2013.
 P.O. 8 DE ABRIL DE 2014.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY GANADERA PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
