@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2016-09-21"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -1173,7 +1173,9 @@ XVI.- Incumplir con las medidas correctivas derivadas de las visitas de inspecci
 
 Las infracciones enumeradas en el artículo anterior, se sancionarán con:
 
-I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I.- Multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización calculada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos. Las multas impuestas podrán duplicarse en caso de reincidencia;
 
 II.- Clausura del plantel educativo, la que puede ser temporal o indefinida hasta en tanto se corrijan las infracciones, y
 
@@ -1382,3 +1384,9 @@ P.O. 21 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 80 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
