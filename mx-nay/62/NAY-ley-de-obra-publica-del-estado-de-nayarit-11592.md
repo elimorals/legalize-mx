@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "2005-03-23"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
 
-LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
+LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
@@ -239,7 +239,7 @@ Los servidores públicos que autoricen actos en contravención a lo dispuesto en
 
 Por regla general, la obra pública se adjudicará a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que serán abiertos públicamente a fin de asegurar al Estado las mejores condiciones disponibles, en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, conforme a lo que establece el presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 24.
 
@@ -263,7 +263,7 @@ VII.- La información sobre los porcentajes a otorgar por concepto de anticipos,
 
 VIII.- Los criterios conforme a los cuales se adjudicará el contrato. Las dependencias y entidades enviarán a la Secretaría de Obras y Servicios Públicos y a la Secretaría de la Contraloría General, la convocatoria en el momento en que aquella sea expedida y remitirán además los documentos de apoyo que se requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 25.
 
@@ -405,7 +405,7 @@ Este tipo de contrato no podrá ser modificado en monto o plazo, ni estará suje
 
 Al acto de presentación y apertura de proposiciones, solo podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, dicho acto se llevará a cabo en dos etapas, conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
 
 I.- En la primera etapa, los licitantes entregarán sus proposiciones, en sobres cerrados en forma inviolable; se procederá a la apertura de la propuesta técnica exclusivamente y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por la dependencia, o entidad, transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación;
 
@@ -413,7 +413,7 @@ Se levantará acta de esta primera etapa, en la que se harán constar las propue
 
 Los participantes rubricarán los sobres cerrados que contengan las propuestas económicas de aquellos licitantes cuyas propuestas técnicas no hubieren sido desechadas, y quedarán en custodia de la propia dependencia o entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
 
 II.- En la segunda etapa, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa o en el análisis detallado de las mismas; a los licitantes, cuyas propuestas técnicas hayan sido rechazadas en el análisis detallado, mediante escrito se les hará de su conocimiento las causas por las que fueron rechazadas. Se dará lectura en voz alta al importe total de las propuestas que cubran los requisitos exigidos. Los participantes rubricarán el catálogo de conceptos, en que se consignen los precios y el importe total de los trabajos objeto de la licitación y los programas de trabajo respectivos.
 
@@ -463,7 +463,7 @@ X. La descripción pormenorizada de la obra que se deba ejecutar, debiendo acomp
 
 XI. En su caso, los procedimientos mediante las cuales las partes, entre si, resolverán controversias futuras y previsibles que pudieren versar sobre problemas específicos de carácter técnico y administrativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 17 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 38.
 
@@ -629,19 +629,19 @@ Los órganos internos de control de las dependencias y entidades, previamente a 
 
 En la ejecución de obras por administración directa serán aplicables, en lo conducente, las disposiciones de esta Ley.
 
-> <small>(REFORMADO N. DE E. ANTES ART. 55, P.O. 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ANTES ART. 55], P.O. 17 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 53.
 
 No quedan comprendidos dentro de los servicios relacionados con la obra pública, los que tengan como fin la contratación y ejecución de la obra de que se trate por cuenta y orden de las dependencias y entidades, por lo que no podrán celebrarse contratos de servicios para tal objeto.
 
-> <small>(REFORMADO N. DE E. ANTES ART. 53, P.O. 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ANTES ART. 53], P.O. 17 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 54.
 
 La dependencia o entidad, deberá enviar a la Secretaría de Finanzas copia de los títulos de propiedad si los hubiere y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos de inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad Estatal.
 
-> <small>(REFORMADO N. DE E. ANTES ART. 55, P.O. 17 DE MAYO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ANTES ART. 55], P.O. 17 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 55.
 
@@ -685,11 +685,21 @@ Las dependencias y entidades, preferentemente invitarán a cuando menos tres con
 
 Las dependencias y entidades, bajo su responsabilidad, podrán llevar a cabo obra pública a través del procedimiento de invitación a cuando menos tres contratistas o por adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos que al efecto se establecen a continuación:
 
-I.- Adjudicación directa.- Hasta un monto de cuatro mil cuatrocientos cuarenta y cinco salarios mínimos correspondientes a la zona del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- Invitación restringida.- De cuatro mil cuatrocientos cuarenta y cinco salarios mínimos hasta el monto de treinta y siete mil seiscientos cuarenta y cinco salarios mínimos correspondientes a la zona del Estado; y
+I. Adjudicación Directa.- Hasta cuatro mil cuatrocientos cuarenta y cinco veces la UMA;
 
-III.- Licitación pública.- Cualquier monto que rebase treinta y siete mil seiscientos cuarenta y cinco salarios mínimos correspondientes a la zona del Estado.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Invitación Restringida.- Mayor a cuatro mil cuatrocientos cuarenta y cinco y hasta treinta y siete mil seiscientos cuarenta y cinco veces la UMA, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Licitación Pública.- Cualquier monto que rebase treinta y siete mil seiscientos cuarenta y cinco veces la UMA.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Para efectos de esta Ley se entiende por UMA el valor diario de la Unidad de Medida y Actualización considerado en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 59.
 
@@ -725,9 +735,11 @@ La Secretaria de la Contraloría General del Estado en el ejercicio de sus facul
 
 DE LAS INFRACCIONES Y SANCIONES.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 62.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o los lineamientos que en base a ella se dicten, serán sancionados por la Secretaria de la Contraloría General del Estado, independientemente de la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, con multa equivalente de cincuenta a trescientas veces de salario mínimo correspondiente a la zona del Estado.
+Quienes infrinjan las disposiciones contenidas en esta Ley o los lineamientos que en base a ella se dicten, serán sancionados por la Secretaria de la Contraloría General del Estado, independientemente de la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, con multa de cincuenta a trescientas veces la UMA.
 
 ###### ARTICULO 63.
 
@@ -837,7 +849,7 @@ El Secretario General de Gobierno.
 
 C.P. Antonio Echevarría Domínguez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE MAYO DE 1997.
 
@@ -898,3 +910,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los entes públicos comenzarán a realizar las retenciones correspondientes al derecho por Servicios de Vigilancia, Inspección y Control de la obra pública a cada una de las estimaciones que se paguen a partir de que hayan transcurrido quince días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
