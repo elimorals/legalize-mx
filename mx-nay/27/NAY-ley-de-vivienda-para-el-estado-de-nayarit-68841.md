@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-vivienda-para-el-estado-de-nayarit-68841"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-06"
-last_updated: "2009-06-06"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 6 de junio de 2009.
 
@@ -145,11 +145,15 @@ XXX.- VIVIENDA DIGNA: Límite inferior al que se pueden reducir las característ
 
 XXXI.- VIVIENDA ECONÓMICA: Es la vivienda con una superficie de construcción variable entre 46 y 55 metros cuadrados. Para el INFONAVIT es aquella con un precio de venta igual o menor a 117.0631 UVSMMDF.
 
-XXXII.- VIVIENDA DE INTERÉS SOCIAL: Es aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en esta zona económica.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXII.- VIVIENDA DE INTERÉS SOCIAL: Es aquella cuyo valor, al término de su edificación, no exceda del monto que resulte de multiplicar por quince el valor anual de la Unidad de Medida y Actualización considerado en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 XXXIII.- VIVIENDA MARGINAL: Aquella que es resultado de asentamientos irregulares y se desarrolla sin ajustarse a los ordenamientos aplicables.
 
-XXXIV.- VIVIENDA MEDIA: Aquella cuyo valor al término de la edificación, no exceda de la cantidad que resulte de multiplicar por 65 el salario mínimo general elevado al año de esta zona económica.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV.- VIVIENDA MEDIA: Aquella cuyo valor, al término de su edificación, no exceda de la cantidad que resulte de multiplicar por 65 el valor anual de la Unidad de Medida y Actualización considerado en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos
 
 XXXV.- VIVIENDA MEDIA-ALTA: Es la vivienda con una superficie de construcción variable entre 101 y 200 metros cuadrados.
 
@@ -157,11 +161,17 @@ XXXVI.- VIVIENDA MULTIFAMILIAR: Habitación que da alojamiento a dos o más fami
 
 XXXVII.- VIVIENDA NUEVA: La vivienda por iniciar, en proceso o terminada, que nunca ha sido habitada y tenga hasta 3 años de antigüedad.
 
-XXXVIII.- VIVIENDA RESIDENCIAL: Es la vivienda con una superficie de construcción mayor a 200 metros cuadrados. Aquella cuyo valor al término de la edificación, no exceda de la cantidad que resulte de multiplicar por 140 el salario mínimo general elevado al año de esta zona económica.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXXIX.- VIVIENDA RESIDENCIAL ALTA: Aquella cuyo valor al término de la edificación, exceda de la cantidad que resulte de multiplicar por 140 el salario mínimo general elevado al año de esta zona económica.
+XXXVIII.- VIVIENDA RESIDENCIAL: Es la vivienda con una superficie de construcción mayor a 200 metros cuadrados. Aquella cuyo valor al término de su edificación, no exceda de la cantidad que resulte de multiplicar por 140 el valor anual de la Unidad de Medida y Actualización considerado en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
-XL.- VIVIENDA POPULAR: Definida en la Alianza para la Vivienda como aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en esta zona económica.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX.- VIVIENDA RESIDENCIAL ALTA: Aquella cuyo valor al término de su edificación, exceda de la cantidad que resulte de multiplicar por 140 el valor anual de la Unidad de Medida y Actualización considerado en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XL.- VIVIENDA POPULAR: Definida en la Alianza para la Vivienda como aquella cuyo valor al término de su edificación, no exceda de la cantidad que resulte de multiplicar por veinticinco el valor anual de la Unidad de Medida y Actualización considerado en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 XLI.- VIVIENDA PROGRESIVA: Se considera como la línea de acción orientada a incrementar el inventario habitacional existente, mediante programas caracterizados por abrir un proceso que permita complementar y consolidar la vivienda en el tiempo.
 
@@ -1264,3 +1274,11 @@ D A D O en la universidad Tecnológica de Nayarit, decreta Recinto Provisional d
 Dip. Rodolfo Coronado Montaño, Presidente.- Rúbrica.- Dip. Miguel Antonio Fregozo Rivera, Secretario.- Rúbrica.- Dip. Marco Antonio Cambero Gómez, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los cuatro días del mes de junio del año dos mil nueve.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
