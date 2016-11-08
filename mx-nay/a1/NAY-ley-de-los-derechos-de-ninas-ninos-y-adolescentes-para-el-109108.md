@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2015-07-08"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL, ÓRGANO DE GOBIERNO DEL ESTADO DE NAYARIT.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -139,9 +137,17 @@ XXVI. Sistema Municipal de Protección: El Sistema de Protección Integral de Ni
 
 XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia de cada municipio del Estado;
 
-XXVIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXIX. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXVIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXIX. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXX. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 5.
 
@@ -1745,9 +1751,11 @@ III. Los datos que aporten niñas, niños y adolescentes, o por quienes ejerzan 
 
 IV. Cualquier otro elemento o circunstancia de convicción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 140.
 
-A quienes incurran en las infracciones previstas en el artículo 138 apartado B se les impondrá multa de hasta mil quinientos días de salario mínimo general vigente en el Estado al momento de realizarse la conducta sancionada.
+A quienes incurran en las infracciones previstas en el artículo 138 apartado B se les impondrá multa de hasta mil quinientas veces la UMA al momento de realizarse la conducta sancionada.
 
 En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente al que:
 
@@ -1816,3 +1824,11 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial
 Dip. Sofía Bautista Zambrano, Presidenta.- Rúbrica.- Dip. Francisco Javier Monroy lbarra, Secretario.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los siete días del mes de Julio del año dos mil quince.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT".]
+
+Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
