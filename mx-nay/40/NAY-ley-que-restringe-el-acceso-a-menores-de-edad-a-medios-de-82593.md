@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-restringe-el-acceso-a-menores-de-edad-a-medios-de-82593
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-13"
-last_updated: "2011-08-13"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE RESTRINGE El ACCESO A MENORES DE EDAD A MEDIOS DE COMUNICACIÓN CON CONTENIDO EXCLUSIVO PARA ADULTOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera, del Periódico Oficial del Estado de Nayarit el sábado 13 de agosto de 2011.
 
@@ -163,7 +163,9 @@ Todo acuerdo o resolución que se dicte durante el procedimiento deberá estar d
 
 La autoridad municipal podrá imponer las sanciones por la infracción a las disposiciones que se señalan en este ordenamiento y el reglamento correspondiente, conforme a lo siguiente:
 
-I.- Multa de veinte a cien días de salario mínimo general vigente en el Estado, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I.- Multa de veinte a cien veces el valor de la Unidad de Medida y Actualización considerada en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
 
 II.- En caso de reincidencia, se decretará la suspensión o cancelación de licencias o permisos de funcionamiento, sin perjuicio de la imposición de la multa.
 
@@ -200,3 +202,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. J. Dolores Salvador Galindo Flores, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- Rúbrica.- Dip. Roberto Contreras Cantabrana, Secretario. - Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los doce días del mes de agosto del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno.- Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 DE LA LEY QUE RESTRINGE EL ACCESO A MENORES DE EDAD Á MEDIOS DE COMUNICACIÓN CON CONTENIDO EXCLUSIVO PARA ADULTOS DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
