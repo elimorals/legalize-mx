@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2015-12-22"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -2803,7 +2803,9 @@ Las sanciones administrativas podrán ser:
 
 I.- Amonestación con apercibimiento;
 
-II.- Multa;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa será el equivalente al valor de la Unidad de Medida y Actualización en los términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 III.- Clausura temporal o definitiva, que podrá ser parcial o total, y
 
@@ -2821,25 +2823,31 @@ III.- Las condiciones socio-económicas del infractor, y
 
 IV.- La calidad de reincidente del infractor.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 285.
+###### ARTICULO 285.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 48, 49, 74, 91, 109, 110, 111, primer párrafo del 114 bis, 123, 160, 255, 256 y 257 de la presente Ley.
+Se sancionará con multa de hasta veinte veces UMA, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 91, 109, 110, 111, 114 bis primer párrafo, 123, 160, 255, 256 y 257 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 286.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113 y 119 de esta Ley.
+Se sancionará con multa de diez hasta cien veces de la UMA, la violación a las disposiciones contenidas en los artículos 101, 113 y 119 de esta Ley.
 
-La violación de las disposiciones contenidas en los artículos 264 y 279 de esta Ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
+La violación de las disposiciones contenidas en los artículos 264 y 279 de esta Ley, se sancionará con multa de cincuenta hasta quinientas veces de la UMA.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 287.
 
-Se sancionará con multa equivalente de doscientas a dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los Artículos 62, 87, 88 y 100 de esta Ley.
+Se sancionará con multa de doscientas a dos mil veces de la UMA, la violación de las disposiciones contenidas en los artículos 62, 87, 88 y 100 de esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 288.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa hasta por quinientas veces el salario mínimo general diario vigente, en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 285 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa hasta por quinientas veces de la UMA, atendiendo a las reglas de calificación que se establecen en el artículo 285 de esta Ley.
 
 ###### ARTICULO 289.
 
@@ -3184,3 +3192,9 @@ P.O. 22 DE DICIEMBRE DE 2015.
 Primero. El presente decreto entrará en vigor a partir del primero de enero del año dos mil dieciséis, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo. Los Servicios de Salud de Nayarit contarán con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente decreto, a fin de que realicen las adecuaciones reglamentarias, administrativas y demás que resulten necesarias para su plena eficacia.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
