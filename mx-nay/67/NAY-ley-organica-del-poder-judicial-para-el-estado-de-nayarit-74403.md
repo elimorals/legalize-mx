@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2016-10-21"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -239,7 +239,9 @@ Son atribuciones del Pleno del Tribunal Superior de Justicia:
 
 10. Requerir la participación del Consejo de la Judicatura, siempre que sea necesario para la adecuada coordinación y funcionamiento entre los órganos del Poder Judicial del Estado.
 
-11. Apercibir, amonestar e imponer multas en favor del fondo auxiliar del Poder Judicial, hasta por noventa días del importe del salario mínimo general vigente en el estado, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto a algún órgano o miembro del Tribunal Superior de Justicia, en sus promociones por escrito o por cualquier otro medio.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+11. Apercibir, amonestar e imponer multas en favor del fondo auxiliar del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto de algún órgano o miembro del Tribunal Superior de Justicia, en sus promociones por escrito o por cualquier otro medio.
 
 12. Conocer sobre la interpretación y las controversias que se deriven de contratos o incumplimiento de obligaciones contraídas con particulares o dependencias públicas con el Tribunal Superior de Justicia.
 
@@ -499,7 +501,9 @@ Corresponde conocer y resolver a las salas de los asuntos siguientes:
 
 3. De las recusaciones y excusas de sus miembros y de los jueces, solicitando en el primer caso, la designación del sustituto al Presidente del Tribunal Superior de Justicia; y en el segundo designando al competente.
 
-4. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa días del importe del salario mínimo general vigente en el Estado, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto al Pleno de las Salas o a alguno de sus miembros, en sus promociones por escrito o por cualquier otro medio.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+4. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto al Pleno de las Salas o a alguno de sus miembros, en sus promociones por escrito o por cualquier otro medio.
 
 5. Emitir las medidas necesarias para el cumplimiento de los principios de la función judicial en las materias de su competencia.
 
@@ -1119,7 +1123,9 @@ Son atribuciones del Consejo de la Judicatura:
 
 25. Dentro del ámbito de su competencia imponer a los servidores públicos judiciales, previa garantía de audiencia y defensa, las sanciones que procedan conforme a la ley cundo (sic) incurran en actos u omisiones que la transgredan y cuando de ello se desprenda la probable comisión de delitos intencionales denunciar los hechos al ministerio público.
 
-26. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa días del importe del salario mínimo general vigente en el Estado, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto a algún órgano o miembro del Consejo, en sus promociones por escrito o por cualquier otro medio.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+26. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto a algún órgano o miembro del Consejo, en sus promociones por escrito o por cualquier otro medio.
 
 27. Tomar las medidas que exijan el buen servicio y disciplina en los juzgados, así como en sus órganos internos.
 
@@ -1697,7 +1703,9 @@ Las sanciones aplicables a las faltas administrativas consistirán en:
 
 2. Amonestación privada o pública.
 
-3. Multa.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+3. Multa será el equivalente al valor de la Unidad de Medida y Actualización en los términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 4. Suspensión del empleo, cargo o comisión por un periodo no menor de tres días ni mayor a un año.
 
@@ -1781,15 +1789,19 @@ Artículo 133
 
 La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato en sus términos.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 Artículo 134
 
-Si la autoridad competente estimare que la queja fue interpuesta sin aportar algún medio de prueba de su imputación, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en el estado al momento de interponerse la queja.
+Si la autoridad competente estimare que la queja fue interpuesta sin aportar algún medio de prueba de su imputación, se impondrá al quejoso o a su representante, o abogado, o a ambos, multa de diez a ciento veinte veces de la UMA al momento de interponerse la queja.
 
 Artículo 135
 
 1. Para el cumplimiento de las atribuciones que les confiere esta ley, las autoridades podrán aplicar los siguientes medios de apremio:
 
-a. Sanción económica hasta de veinte veces el salario mínimo diario vigente en el estado.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+a. Sanción económica hasta de veinte veces la UMA.
 
 b. Auxilio de la fuerza pública.
 
@@ -2138,3 +2150,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con la salvedad prevista en el transitorio siguiente.
 
 SEGUNDO.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria, a que se refiere el presente Decreto, entrarán en vigor en las fechas señaladas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
