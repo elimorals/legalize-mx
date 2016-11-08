@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-de-geografia-estadistica-y-evaluacion-del-10652
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-27"
-last_updated: "2014-12-27"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 27 de diciembre de 2014.
 
@@ -87,9 +87,17 @@ XIV. Sistema: Al Sistema Estatal de Información Estadística y Geográfica;
 
 XV. Sistema Nacional: Al Sistema Nacional de Información Estadística y Geográfica;
 
-XVI. Subsistemas: A los Subsistemas Estatales de Información, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XVII. Unidades: Las dependencias y entidades que integran la Administración Pública Estatal, así como las dependencias y entidades de los municipios, y del INEGI, que cuenten con atribuciones para desarrollar Actividades, o que cuenten con registros administrativos que permitan obtener información estadística y geográfica.
+XVI. Subsistemas: A los Subsistemas Estatales de Información;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVII. UMA: A la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Unidades: Las dependencias y entidades que integran la Administración Pública Estatal, así como las dependencias y entidades de los municipios, y del INEGI, que cuenten con atribuciones para desarrollar Actividades, o que cuenten con registros administrativos que permitan obtener información estadística y geográfica.
 
 ### Capítulo II. Autoridades en Materia de Información Estadística y Geográfica
 
@@ -523,35 +531,55 @@ Para efectos del presente artículo, se consideran como recolectoras las persona
 
 Las infracciones a lo dispuesto por el artículo 39 de esta ley, serán sancionadas con multa de:
 
-I. 1 hasta 200 salarios mínimos para la establecida en la fracción V;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. De 100 hasta 500 salarios mínimos para la establecida en la fracción IV, y
+I. Una hasta doscientas veces de la UMA para la establecida en la fracción V;
 
-III. De 400 hasta 700 salarios mínimos para las establecidas en las fracciones de la I a la III.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Cien hasta quinientas veces de la UMA para la establecida en la fracción IV, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Cuatrocientas hasta setecientas veces de la UMA para las establecidas en las fracciones de la I a la III.
 
 ###### Artículo 43.
 
 Las infracciones a lo dispuesto por el artículo 40 de esta ley, serán sancionadas con multa de:
 
-I. De 1 hasta 200 salarios mínimos para las establecidas en las fracciones VI y VII;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. De 100 hasta 500 salarios mínimos para las establecidas en las fracciones IV y V, y
+I. Una hasta doscientas veces de la UMA para las establecidas en las fracciones VI y VII;
 
-III. De 400 hasta 700 salarios mínimos para las establecidas en las fracciones de la I a la III.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Cien hasta quinientas veces de la UMA para las establecidas en las fracciones IV y V, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Cuatrocientas hasta setecientas veces de la UMA para las establecidas en las fracciones de la I a la III.
 
 ###### Artículo 44.
 
 Las infracciones a lo dispuesto por el artículo 41 de esta ley, serán sancionadas con multa de:
 
-I. De 1 hasta 200 salarios mínimos para la establecida en la fracción III;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. De 100 hasta 500 salarios mínimos para la establecida en la fracción II, y
+I. Una hasta doscientas veces de la UMA para la establecida en la fracción III;
 
-III. De 400 hasta 700 salarios mínimos para la establecida en la fracción I.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Cien hasta quinientas veces de la UMA para la establecida en la fracción II, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Cuatrocientas hasta setecientas veces de la UMA para la establecida en la fracción I.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 45.
 
-Para efectos de cuantificación de las multas, por salario mínimo se entenderá el salario mínimo general diario vigente en el Estado, al momento de cometerse la infracción.
+Para efectos de cuantificación de las multas, se tomará en cuenta el equivalente al monto diario vigente de la UMA al momento de cometerse la infracción.
 
 ###### Artículo 46.
 
@@ -578,3 +606,11 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic, su capital, a los veintiséis días del mes de Diciembre del año dos mil catorce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE NAYARIT.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
