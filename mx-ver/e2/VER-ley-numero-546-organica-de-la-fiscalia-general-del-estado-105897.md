@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2016-06-28"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 546 ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 PUBLICADO EL VEINTIOCHO DE JUNIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE ADICIONARON DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -65,6 +63,28 @@ El Ministerio Público se organizará en una Fiscalía General como organismo au
 
 Los servidores públicos de la Fiscalía General se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El patrimonio propio de la Fiscalía General estará constituido por:
+
+I. Los bienes muebles e inmuebles destinados al cumplimiento de sus actividades, y de los cuales sea titular, y de los que en un futuro adquiera;
+
+II. Las partidas, estatales y federales, que anualmente se le asignen en el Presupuesto de Egresos del Estado; o las que gestione en diferentes organismos nacionales o internacionales y que coadyuven al cumplimiento de sus funciones;
+
+III. Los fondos y las donaciones que reciba, bien sean en numerario o en especie;
+
+IV. Las percepciones derivadas de suscripciones, pago de cuotas de inscripción por la participación en cursos, seminarios, programas de estudio y análogos, que sean impartidos por la Fiscalía General del Estado;
+
+V. Los derechos de autor y los ingresos que se deriven de su explotación, en términos de la legislación aplicable; y
+
+VI. Los ingresos que perciba por cualquier concepto, tales como:
+
+a) La adjudicación de bienes muebles e inmuebles, asegurados y decomisados, de conformidad con las disposiciones legales aplicables;
+
+b) Del fondo auxiliar; y
+
+c) Los demás que pudieran generarse, conforme a derecho.
+
 ###### Artículo 3.
 
 Glosario
@@ -103,7 +123,13 @@ XV. Policías: Las Instituciones de Seguridad Pública;
 
 XVI. Policía Acreditable: Los miembros de las policías, especializados en Análisis Táctico, Investigación y Reacción, acreditados para esta función;
 
-XVII. Policía de Investigación: El personal de la Fiscalía General especializado en la investigación de delitos;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Policía de Investigación: La Policía Ministerial especializada en la investigación de delitos, que incluye a los Detectives;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVII Bis. Policía Científica. El cuerpo especializado de Policías con capacidades para procesar la escena del hecho probablemente delictivo;
 
 XVIII. Peritos: Los cuerpos de investigación científica de los delitos;
 
@@ -263,9 +289,7 @@ VII. Ordenar la detención o retención del probable responsable, o responsables
 
 En el caso de que el detenido sea extranjero, le hará saber que tiene derecho a recibir protección consular, y dejará debida constancia de ello;
 
-(NOTA: EL 17 DE MARZO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ENERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-VIII. SUSPENDER LA INVESTIGACIÓN, EN CUALQUIER ETAPA DE LA MISMA, CUANDO OBSERVE QUE UNA PERSONA INVOLUCRADA EN LA COMISIÓN DE UN HECHO DELICTUOSO PRESENTA SIGNOS DE INIMPUTABILIDAD POR CAUSAS DE PSICOSIS O RETRASO MENTAL; Y SOLICITAR LA REPRESENTACIÓN LEGAL DEL IMPUTADO, QUE ESTARÁ A CARGO DEL DEFENSOR DESIGNADO, Y LA DE UN TUTOR ESPECIAL; ASÍ COMO LA APERTURA DE UN PROCEDIMIENTO ESPECIAL PARA ENFERMOS MENTALES, AL JUEZ DE LA ADSCRIPCIÓN;
+VIII. (DEROGADA, G.O. 8 DE NOVIEMBRE DE 2016)
 
 IX. Vigilar el debido aseguramiento de los instrumentos, huellas, objetos y productos del delito, en términos de ley y de la normatividad legal aplicable a la cadena de custodia;
 
@@ -383,6 +407,10 @@ Para el ejercicio de sus funciones y el despacho de los asuntos que le competen,
 
 I. Abogado General;
 
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I Bis. Oficial Mayor;
+
 II. Visitador General;
 
 III. Fiscal de Investigaciones Ministeriales;
@@ -399,7 +427,13 @@ V. Fiscales Coordinadores Especializados;
 
 VI. Directores;
 
-VII. Fiscales de Distrito;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII. Fiscales de Distrito de las Unidades Integrales;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII Bis. Fiscales Encargados de las Sub-Unidades Integrales;
 
 VIII. Fiscales Especiales;
 
@@ -409,9 +443,21 @@ X. Fiscales;
 
 XI. Peritos;
 
-XII. Unidades de Atención Temprana;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XIII. Órganos Desconcentrados; y
+XII. Unidades y Sub-Unidades de Atención Temprana;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XII Bis. Facilitadores;
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XII Ter. Facilitadores Especializados en Justicia para Adolescentes;
+
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Otros Órganos, y
 
 XIV. Demás unidades administrativas necesarias para el funcionamiento y operación de la Fiscalía General que se establezcan en el Reglamento de esta Ley y otras disposiciones legalmente aplicables.
 
@@ -439,7 +485,9 @@ I. Colaborar con la Procuraduría o Fiscalía General de la República, con la P
 
 II. Solicitar la colaboración, así como informes o documentos a las dependencias y entidades de la administración pública estatal y municipal, y organismos autónomos del Estado, así como de otras entidades federativas y municipios de la República, en términos de lo señalado en la fracción anterior;
 
-III. Requerir informes y documentos de los particulares, sujetándose a los términos previstos en las disposiciones legalmente aplicables;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. Requerir informes y documentos a los particulares y a las personas morales, sujetándose a los términos previstos en las disposiciones legalmente aplicables;
 
 IV. Poner en conocimiento del Tribunal Superior de Justicia del Estado los criterios contradictorios que lleguen a sustentarse entre los juzgados y las salas, a fin de que se decida el criterio a seguir;
 
@@ -458,6 +506,30 @@ IX. Impartir capacitación sistemática, especializada y permanente en materia d
 X. Definir y establecer políticas, en coordinación con las instituciones de seguridad pública federal, estatal y municipales, en materia de prevención del delito, procuración y administración de justicia con perspectiva de género, con base en el análisis de las estadísticas criminales y victimales obtenidas del sistema de delitos cometidos en contra de mujeres; y
 
 XI. Promover la participación responsable de la sociedad civil, con el fin de que se cumpla con los programas que le competan, en los términos que en ellos se establezcan.
+
+> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 18 Bis.
+
+Atribuciones en materia de Justicia para Adolescentes
+
+En materia de justicia para adolescentes se aplicará un Sistema Integral de Justicia para Adolescentes, y para ello tendrá las atribuciones siguientes:
+
+I. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes, salvaguardando en todo momento el interés superior de la niñez, así como el de sus derechos;
+
+II. Vigilar la observancia de los principios constitucionales en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
+
+III. Conducir a las policías y peritos especializados en la investigación de los hechos que la ley señale como delitos;
+
+IV. Solicitar a la autoridad administrativa especializada la evaluación de riesgos;
+
+V. Ejercer la acción penal ante los tribunales especializados;
+
+VI. Privilegiar el principio de mínima intervención, a través de la aplicación de criterios de oportunidad y soluciones alternas;
+
+VII. Generar información estadística para el Sistema Nacional previsto en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; y
+
+VIII. Las que determine la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y demás leyes y reglamentos aplicables.
 
 ###### Artículo 19.
 
@@ -591,7 +663,9 @@ Atribuciones en Materia de Transparencia
 
 Las atribuciones en materia de transparencia y acceso a la información comprenden:
 
-I. Recibir y atender las solicitudes de información que realicen los particulares, en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública para el Estado;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I. Recibir y atender las solicitudes de información que realicen los particulares, en los términos previstos por la normatividad aplicable;
 
 II. Diseñar procedimientos que faciliten la tramitación y adecuada atención a las solicitudes de acceso a la información pública;
 
@@ -657,7 +731,9 @@ VI. Promover la prevención y erradicación a la discriminación de género, com
 
 VII. Encomendar a los servidores públicos de la Fiscalía General, el estudio de asuntos específicos, independientemente de las funciones que el Reglamento de esta Ley les señale;
 
-VIII. Organizar y dirigir a los Fiscales en cualquiera de sus denominaciones, Policía de Investigación, a la Unidad de Política Criminal y a los servicios periciales, ejerciendo el mando directo sobre dichas unidades;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Organizar y dirigir a los Fiscales en cualquiera de sus denominaciones, Policía de Investigación, a la Unidad de Análisis de la Información, y a los servicios periciales, ejerciendo el mando directo sobre dichas unidades;
 
 IX. Desistirse de los recursos interpuestos, en contra de resoluciones que no causen agravios y, en su caso, allanarse con los que presente la defensa, oyendo la opinión de sus Fiscales.
 
@@ -713,7 +789,9 @@ Son atribuciones indelegables del Fiscal General las siguientes:
 
 I. Intervenir en los casos previstos por la Constitución del Estado y en sus leyes secundarias;
 
-II. Autorizar el desistimiento del ejercicio de la acción penal posterior a la formulación de la imputación;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Autorizar el desistimiento del ejercicio de la acción penal en cualquier momento del procedimiento hasta antes de la sentencia;
 
 III. Desistirse del recurso de apelación ante las Salas del Tribunal Superior de Justicia;
 
@@ -747,13 +825,19 @@ En sus ausencias temporales, el Fiscal General será suplido por quien éste des
 
 Del Abogado General
 
-El Abogado General estará adscrito a la oficina del Fiscal General, tendrá las facultades y atribuciones que determinen esta Ley, su Reglamento y demás normatividad aplicable.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El Abogado General dependerá directamente del Fiscal General, será el titular de la Dirección General Jurídica y tendrá las facultades y atribuciones que determinen esta Ley, su Reglamento y demás normatividad aplicable.
+
+> <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-De la Unidad de Política Criminal
+De la Unidad de Análisis de la Información.
 
-La Unidad de Política Criminal estará adscrita a la oficina del Fiscal General, dependerá del Abogado General, y cumplirá las funciones que en materia de política criminal establecen esta Ley y su Reglamento.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+La Unidad de Análisis de la Información estará adscrita a la oficina del Fiscal General, y cumplirá las funciones que en materia de inteligencia y política criminal establecen esta Ley, su Reglamento, y demás normatividad aplicable.
 
 ### CAPÍTULO II. DE LA VISITADURÍA GENERAL
 
@@ -777,9 +861,13 @@ V. Verificar y vigilar que los servidores públicos actúen con estricto respeto
 
 VI. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean de su competencia, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas;
 
-VII. Iniciar y resolver los procedimientos administrativos de responsabilidad, cuando en la realización de las visitas de inspección o de los estudios técnico-jurídicos que realice en las distintas áreas de la Fiscalía General, se detecten faltas u omisiones que contravengan esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Iniciar las investigaciones ministeriales o carpetas de investigación, cuando de la realización de las visitas de inspección o de los estudios técnico-jurídicos que realice en las distintas áreas de la Fiscalía General, se detecten hechos posiblemente constitutivos de delito cometidos por servidores públicos de la misma, y perseguir el delito ante los tribunales competentes;
+VII. Iniciar, substanciar y resolver los procedimientos administrativos de responsabilidad, cuando en la realización de las visitas de inspección o de los estudios técnico-jurídicos que realice en las distintas áreas de la Fiscalía General, se detecten faltas u omisiones que contravengan esta Ley y demás disposiciones aplicables; así como iniciar, substanciar y resolver los procedimientos de separación a que se refiere esta Ley en su Título Octavo, e imponer las sanciones que la ley señale;
+
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Iniciar las carpetas de investigación, cuando de la realización de las visitas de inspección o de los estudios técnico jurídicos que realice en las distintas áreas de la Fiscalía General, se detecten hechos posiblemente constitutivos de delito cometidos por servidores públicos de la misma, y perseguir el delito ante los tribunales competentes;
 
 IX. Formular el proyecto de calendario mensual de las visitas de inspección y evaluación técnico-jurídica a las diversas áreas de la Fiscalía General, y someterlo a consideración del Fiscal General;
 
@@ -831,7 +919,9 @@ d) La ubicación y los ámbitos territorial y material de competencia de los Fis
 
 e) El Fiscal General expedirá las normas necesarias para la coordinación y la articulación de los Fiscales de Distrito y las unidades especializadas, a efecto de garantizar la unidad de actuación y dependencia jerárquica de la Fiscalía General.
 
-### CAPÍTULO VI. DE LAS UNIDADES DE ATENCIÓN TEMPRANA
+### CAPÍTULO VI. DE LAS UNIDADES Y SUB-UNIDADES DE ATENCIÓN TEMPRANA
+
+> <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 39.
 
@@ -945,13 +1035,17 @@ IV. Incurrir en cualquiera de las hipótesis delictivas perseguidas con motivo d
 
 El Fiscal General deberá informar al Congreso del Estado de la remoción del Fiscal Especializado en Combate a la Corrupción, para efectos de lo previsto en el párrafo final de la fracción I del artículo 67 de la Constitución del Estado.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO VII. DE LA POLICÍA DE INVESTIGACIÓN
 
 ###### Artículo 40.
 
-Unidades de Atención Temprana
+Unidades y Sub-Unidades de Atención Temprana
 
-La Fiscalía General por sí, o en convenio con las instituciones de seguridad pública y de atención a víctimas, establecerá Unidades de Atención Temprana en los diferentes municipios del Estado, con el fin de:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+La Fiscalía General por sí, o en convenio con las instituciones de seguridad pública y de atención a víctimas, establecerá Unidades y Sub-Unidades de Atención Temprana en los diferentes municipios del Estado, con el fin de:
 
 I. Dar atención temprana a las víctimas del delito y, en su caso, canalizarlas a los Centros Especializados en Atención a Víctimas, tanto de la Fiscalía General como de las instituciones públicas o privadas, para recibir atención médica, sicológica y asesoría jurídica; y
 
@@ -981,9 +1075,13 @@ Su estructura orgánica y la forma en la que intervendrá se determinará en est
 
 Conducción y Mando
 
-La Policía de Investigación estará bajo la conducción y mando del Fiscal General, así como del Abogado General, Fiscal de Investigaciones Ministeriales, Fiscales Regionales, Fiscales Especiales, Fiscales de Distrito, Fiscales y Fiscales Especializados, en general adscritos a las Unidades Integrales, en sus respectivos distritos judiciales; y de todo servidor público que, por razón de su jerarquía, realice funciones de Fiscal.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-Los elementos de la Policía de Investigación actuarán bajo la conducción y mando de la Fiscalía General y la auxiliarán en la investigación de los delitos y, en su caso, en la persecución de los presuntos responsables. En consecuencia, acatarán las instrucciones que se les dicten para tal efecto, cumplirán las actuaciones que les encomienden durante la investigación y deberán hacer cumplir las citaciones, presentaciones y notificaciones que se les ordenen. También ejecutarán las órdenes de aprehensión, cateos y otros mandamientos que dispongan los órganos jurisdiccionales.
+La Policía de Investigación estará bajo la conducción y mando del Fiscal General, así como del Abogado General, Fiscal de Investigaciones Ministeriales, Fiscales Regionales, Fiscales Coordinadores Especializados, Fiscales Especiales, Fiscales de Distrito, Fiscales y Fiscales Especializados, en general adscritos a las Unidades o Sub-Unidades Integrales, en sus respectivos distritos judiciales; y de todo servidor público que, por razón de su jerarquía, realice funciones de Fiscal.
+
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+La Policía de Investigación actuará bajo la conducción y mando de la Institución del Ministerio Público, y la auxiliará en la investigación de los delitos y, en su caso, en la persecución de los presuntos responsables. En consecuencia, acatarán las instrucciones que se les dicten para tal efecto, cumplirán las actuaciones que les encomienden durante la investigación y deberán hacer cumplir las citaciones, presentaciones y notificaciones que se le ordenen. También ejecutarán las órdenes de aprehensión, cateos y otros mandamientos que dispongan los órganos jurisdiccionales.
 
 ### CAPÍTULO ÚNICO. DE LA RELACIÓN CON LAS POLICÍAS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
@@ -1009,7 +1107,9 @@ Los peritos, en ejercicio de su encargo, tienen autonomía técnica, por lo que 
 
 Recolección de Evidencia
 
-Los peritos recolectarán la evidencia, procediendo a su debido embalaje y preservación, y pondrán a disposición del Fiscal el material sensible y significativo que resulte de sus intervenciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Los Peritos y la Policía Científica recolectarán indicios, evidencias, o elementos materiales probatorios, procediendo a su debido embalaje y preservación, y pondrán a disposición del Fiscal el material sensible y significativo que resulte de sus intervenciones.
 
 Los peritos rendirán sus dictámenes e informes dentro de los términos que les sean fijados por el Fiscal que corresponda.
 
@@ -1017,7 +1117,9 @@ Los Servicios Periciales también actuarán en auxilio de las instituciones púb
 
 ## TÍTULO QUINTO. DE LA CONDUCCIÓN Y MANDO
 
-### CAPÍTULO I. DE LOS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO I. DE LOS ÓRGANOS
+
+> <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 47.
 
@@ -1077,15 +1179,21 @@ En tal supuesto, los mencionados servidores públicos deberán comunicar de inme
 
 El Fiscal examinará las actuaciones que le hubieren sido entregadas y dispondrá lo conducente para la regularización de la indagatoria.
 
-## TÍTULO SEXTO. ÓRGANOS DESCONCENTRADOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+## TÍTULO SEXTO. DE OTROS ÓRGANOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ### CAPÍTULO II. DEL CENTRO ESTATAL DE ATENCIÓN A VÍCTIMAS DEL DELITO
 
 ###### Artículo 51.
 
-Órganos Desconcentrados
+Órganos
 
-Para el mejor ejercicio de sus funciones, la Fiscalía General contará con los siguientes órganos desconcentrados:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Para el mejor ejercicio de sus funciones, la Fiscalía General contará además con los siguientes órganos:
 
 I. Centro Estatal de Atención a Víctimas;
 
@@ -1095,7 +1203,7 @@ III. Instituto de Formación Profesional;
 
 IV. Centro de Evaluación y Control de Confianza; y
 
-V. Instituto de Asesoría Jurídica.
+V. (DEROGADA, G.O. 8 DE NOVIEMBRE DE 2016)
 
 ### CAPÍTULO III. DEL ÓRGANO ESPECIALIZADO EN MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
@@ -1103,7 +1211,9 @@ V. Instituto de Asesoría Jurídica.
 
 Centro Estatal de Atención a Víctimas del Delito
 
-El Centro Estatal de Atención a Víctimas del Delito estará bajo el mando directo del Fiscal General y brindará sus servicios a través de las oficinas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El Centro Estatal de Atención a Víctimas del Delito estará bajo el mando directo de la Fiscalía Coordinadora Especializada en Asuntos Indígenas y de Derechos Humanos, y brindará sus servicios a través de las oficinas siguientes:
 
 I. De Trabajo Social;
 
@@ -1111,7 +1221,13 @@ II. Clínica;
 
 III. De Enlace Interinstitucional;
 
-IV. De dirección y capacitación al personal de las Unidades de Atención Temprana; y
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III Bis. De Orientación Jurídica;
+
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Coordinador de Enlaces de Atención Victimal en las Unidades y Sub-Unidades de Atención Temprana; y
 
 V. Las demás que ésta y otras leyes establezcan.
 
@@ -1145,7 +1261,9 @@ El Fiscal General podrá suscribir convenios de colaboración con el Poder Judic
 
 Del Instituto de Formación Profesional
 
-El Instituto de Formación Profesional es un órgano público desconcentrado de la Fiscalía General y tendrá como objetivo implementar programas de capacitación, actualización y especialización para el personal de la Fiscalía General; así como coordinar, con otras autoridades competentes, las actividades que se generen en materia de capacitación y profesionalización, para lo que gestionará los recursos materiales y financieros que se requieran.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El Instituto de Formación Profesional tendrá como objetivo implementar programas de capacitación, actualización y especialización para el personal de la Fiscalía General; así como coordinar, con otras autoridades competentes, las actividades que se generen en materia de capacitación y profesionalización, para lo que gestionará los recursos materiales y financieros que se requieran, en coordinación con la Dirección General de Administración.
 
 Su organización y funcionamiento se regirán por las disposiciones que establezcan la presente Ley y su Reglamento, y otras disposiciones legalmente aplicables.
 
@@ -1187,13 +1305,15 @@ Acreditación del Servicio Social
 
 El Director del Instituto de Formación Profesional expedirá y suscribirá el documento por el que se acredite la prestación del servicio social o la realización de práctica profesional, integrándolo a los expedientes o archivos correspondientes.
 
-### CAPÍTULO VI. DEL INSTITUTO DE ASESORÍA JURÍDICA
+### CAPÍTULO VI
 
 ###### Artículo 60.
 
 Del Centro de Evaluación y Control de Confianza
 
-El Centro de Evaluación y Control de Confianza es un órgano público desconcentrado de la Fiscalía General, el cual estará bajo el mando directo del Fiscal General, y su organización y funcionamiento se regirán por las disposiciones de la presente Ley, del Reglamento y de las demás disposiciones legales aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El Centro de Evaluación y Control de Confianza estará bajo el mando directo del Fiscal General, y su organización y funcionamiento se regirán por las disposiciones de la presente Ley, del Reglamento y de las demás disposiciones legales aplicables.
 
 El Centro, además de realizar las evaluaciones establecidas por el Centro Nacional de Certificación y Acreditación, podrá realizar o practicar otro tipo de evaluaciones que considere necesarias, previo acuerdo con el Fiscal General.
 
@@ -1241,7 +1361,9 @@ XIII. Las demás que establezcan otras disposiciones legales aplicables.
 
 Requisito para Ingreso y Permanencia
 
-Los Fiscales Regionales, Fiscales Especiales, Fiscales de Distrito, Fiscales Especializados, Fiscales, Peritos y Policía de Investigación, tanto para su ingreso como para su permanencia, deberán cumplir con el requisito de someterse y aprobar el proceso de evaluación de control de confianza, de conformidad con la normatividad aplicable.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Los Fiscales, Facilitadores, Peritos, Policía de Investigación y de toda aquella en sus distintas modalidades, y Auxiliares de Fiscal, tanto para su ingreso como para su permanencia, deberán cumplir con el requisito de someterse y aprobar el proceso de evaluación de control de confianza, de conformidad con la normatividad aplicable.
 
 ###### Artículo 64.
 
@@ -1263,7 +1385,9 @@ V. Poligráfico.
 
 Objeto de Procesos de Evaluación
 
-Los procesos de evaluación tendrán por objeto comprobar que los Fiscales Regionales, Fiscales Especiales, Fiscales de Distrito, Fiscales Especializados, Fiscales, Peritos y Policías de Investigación, así como de los de nuevo ingreso a dichos cargos, den debido cumplimiento a los principios de buena fe, legalidad, honradez, objetividad, imparcialidad, eficiencia, profesionalismo, indivisibilidad, jerarquía y autonomía en sus funciones.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Los procesos de evaluación tendrán por objeto comprobar que los Fiscales, Facilitadores, Peritos, Policía de Investigación y de toda aquella en sus distintas modalidades, y Auxiliares de Fiscal, así como de los de nuevo ingreso a dichos cargos, den debido cumplimiento a los principios de buena fe, legalidad, honradez, objetividad, imparcialidad, eficiencia, profesionalismo, indivisibilidad, jerarquía y autonomía en sus funciones.
 
 ###### Artículo 66.
 
@@ -1275,7 +1399,9 @@ Los exámenes del procedimiento de evaluación y de control de confianza se valo
 
 Citación
 
-Los que deban someterse al proceso de evaluación serán citados, con un término mínimo de veinticuatro horas, a la práctica de las evaluaciones correspondientes. En caso de no presentarse sin mediar causa justificada, después de tres notificaciones consecutivas, se les tendrá por no aprobados.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Los que deban someterse al proceso de evaluación serán citados, con un término mínimo de veinticuatro horas, a la práctica de las evaluaciones correspondientes. En caso de no presentarse sin mediar causa justificada, después de tres notificaciones consecutivas, se dará cumplimiento a lo establecido en la presente Ley, en su Reglamento y en el Reglamento del Servicio Profesional de Carrera, para efecto de la sanción correspondiente.
 
 ###### Artículo 68.
 
@@ -1287,7 +1413,9 @@ Se considera información reservada la contenida en los expedientes y reportes d
 
 Cese por Incumplimiento
 
-Los Fiscales Regionales, Fiscales Especiales, Fiscales de Distrito, Fiscales Especializados, Fiscales, Peritos y Policía Investigadora que no cumplan con los requisitos de permanencia en los procesos de evaluación de control de confianza cesarán en sus funciones y dejarán de surtir efecto sus nombramientos, sin responsabilidad para la Fiscalía General, previo desahogo del procedimiento que se establece en esta Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Los Fiscales, Facilitadores, Peritos, Policía de Investigación y de toda aquella en sus distintas modalidades, y Auxiliares de Fiscal que no cumplan con los requisitos de permanencia en los procesos de evaluación de control de confianza cesarán en sus funciones y dejarán de surtir efecto sus nombramientos, sin responsabilidad para la Fiscalía General, previo desahogo del procedimiento que se establece en esta Ley.
 
 Los nombramientos de los servidores públicos a que se refiere el párrafo anterior dejarán de surtir sus efectos por las causas establecidas en el Reglamento de esta Ley, previo cumplimiento del procedimiento respectivo.
 
@@ -1295,9 +1423,9 @@ Los nombramientos de los servidores públicos a que se refiere el párrafo anter
 
 Medida Precautoria
 
-Antes, al inicio, o durante la tramitación del procedimiento administrativo, el titular de la Visitaduría General, previo acuerdo con el Fiscal General, podrá determinar como medida precautoria la suspensión temporal de los Fiscales, Peritos y Policía de Investigación, hasta en tanto se resuelva el procedimiento correspondiente, con el objetivo de salvaguardar el interés social o el orden público derivado de las funciones que realizan en la investigación y persecución de los delitos, de convenir así para el mejor cumplimiento del servicio de procuración de justicia.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-La medida precautoria aludida en el párrafo anterior no prejuzga sobre la responsabilidad que se impute.
+Antes, al inicio, o durante la tramitación del procedimiento administrativo, el titular de la Visitaduría General, previo acuerdo con el Fiscal General, podrá determinar como medida precautoria la suspensión temporal de los Fiscales, Facilitadores, Peritos, Policía de Investigación y Auxiliares de Fiscal hasta en tanto se resuelva el procedimiento correspondiente, con el objetivo de salvaguardar el interés social o el orden público derivado de las funciones que realizan en la investigación y persecución de los delitos, de convenir así para el mejor cumplimiento del servicio de procuración de justicia. La medida precautoria aludida no prejuzga sobre la responsabilidad que se impute.
 
 ###### Artículo 71.
 
@@ -1307,7 +1435,9 @@ El Centro expedirá la certificación a quienes aprueben las evaluaciones de con
 
 La certificación a que se refiere el párrafo anterior deberá expedirse en un plazo no mayor a sesenta días naturales, contados a partir de la conclusión del proceso de certificación, a efecto de su registro. La certificación y el registro respectivo tendrán una vigencia de tres años.
 
-Para efectos de revalidación de la certificación y el registro, seis meses antes de la expiración de su vigencia, los Fiscales, Peritos y Policía de Investigación deberán someterse a los procesos de evaluación respectivos. Será responsabilidad del titular del área de adscripción solicitar con oportunidad al Centro de Evaluación y Control de Confianza la programación de las evaluaciones correspondientes. En todo caso, el propio servidor público tendrá derecho a solicitar la programación de sus evaluaciones.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Para efectos de revalidación de la certificación y el registro, seis meses antes de la expiración de su vigencia, los Fiscales, Facilitadores, Peritos, Policía de Investigación y Auxiliares de Fiscal deberán someterse a los procesos de evaluación respectivos. Será responsabilidad del titular del área de adscripción solicitar con oportunidad al Centro de Evaluación y Control de Confianza la programación de las evaluaciones correspondientes. En todo caso, el propio servidor público tendrá derecho a solicitar la programación de sus evaluaciones.
 
 Ningún servidor público de los que señala el presente Capítulo podrá prestar sus servicios en la Fiscalía General, si no cuenta con la certificación vigente.
 
@@ -1317,63 +1447,25 @@ Evaluación Aleatoria
 
 El Centro de Evaluación y Control de Confianza someterá, de manera aleatoria, a los servidores públicos señalados en el artículo anterior a los procedimientos de evaluación y control de confianza.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO ÚNICO. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
 ###### Artículo 73.
 
-Instituto de Asesoría Jurídica
-
-El Instituto de Asesoría Jurídica es un órgano desconcentrado de la Fiscalía General, con domicilio legal en la capital del Estado, el cual estará bajo el mando directo del Fiscal General; su organización y funcionamiento se regirán por las disposiciones de la presente Ley y su Reglamento, de la Ley de Protección a las Víctimas para el Estado y demás disposiciones legales aplicables.
+(DEROGADO, G.O. 8 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 74.
 
-Objeto
-
-El Instituto tendrá por objeto garantizar el acceso de la víctima u ofendido del delito a la justicia que imparte el Estado, como derecho humano y garantía individual contenidos en la Constitución, a través de la asesoría jurídica gratuita, que se le brindará a la víctima u ofendido, bajo los términos previstos en la presente Ley.
+(DEROGADO, G.O. 8 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 75.
 
-Objetivos
-
-El Instituto tendrá como objetivos específicos los siguientes:
-
-I. Brindar asesoría a la víctima o al ofendido de un delito;
-
-II. Informar de los derechos que a su favor establece la Constitución y, cuando se solicite, informar sobre el desarrollo del procedimiento penal;
-
-III. Coadyuvar con el Fiscal;
-
-IV. Promover ante el Fiscal para que reciba todos los datos o elementos de prueba con que se cuente, tanto en la investigación como en el proceso;
-
-V. Promover para que se desahoguen las diligencias correspondientes;
-
-VI. Intervenir en el juicio e interponer los recursos que prevea la Ley, en legítima defensa de los derechos de la víctima o del ofendido;
-
-VII. Asegurar que se brinde atención médica y psicológica de urgencia a la víctima u ofendido;
-
-VIII. Asesorar a la víctima u ofendido para que solicite adecuadamente la reparación del daño;
-
-IX. Auxiliar a la víctima u ofendido para que solicite las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos, y
-
-X. Asesorar a la víctima u ofendido del delito para que impugne en tiempo y forma, ante la autoridad judicial, las omisiones del Fiscal en la investigación de los delitos, así como las resoluciones de reserva o archivo temporal, el no ejercicio de la acción penal o su desistimiento, o suspensión del procedimiento, cuando no esté satisfecha la reparación del daño; así como aquellos otros derechos señalados en la normatividad aplicable.
-
-Los servidores públicos de la Administración Pública Estatal y Municipal, dentro del ámbito de su competencia, estarán obligados, en todo tiempo, a prestar auxilio al Instituto; en consecuencia deberán, sin demora, proporcionar gratuitamente los dictámenes, informes, certificaciones, constancias y copias que les sean solicitadas en el ejercicio de sus funciones.
-
-El servicio de asesoría jurídica será público y gratuito.
+(DEROGADO, G.O. 8 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 76.
 
-Para el cumplimiento de su objeto, el Instituto podrá:
-
-I. Organizarse bajo un régimen de desconcentración administrativa, y con un sistema de atención personalizado a los usuarios;
-
-II. Celebrar convenios de coordinación y apoyo con los distintos sectores sociales y organismos públicos y privados, para coadyuvar en la consecución de los fines de esta Ley;
-
-III. Obtener, mediante convenios de cooperación, servicios de asesoría y capacitación para el personal del Instituto, para el mejor cumplimiento de sus fines;
-
-IV. Promover y organizar programas de difusión de los servicios que presta el Instituto; y
-
-V. Ejercer las demás atribuciones que se deriven de la presente Ley.
+(DEROGADO, G.O. 8 DE NOVIEMBRE DE 2016)
 
 ## TÍTULO SÉPTIMO. RÉGIMEN DE LOS SERVIDORES PÚBLICOS
 
@@ -1383,7 +1475,9 @@ V. Ejercer las demás atribuciones que se deriven de la presente Ley.
 
 Régimen Laboral del Personal Ministerial, Pericial y Policial
 
-Los Fiscales, Peritos y Policías de Investigación que formen parte de la Fiscalía General, con base a los artículos 21 y 123, apartado B, fracción XIII, de la Constitución, quedarán sujetos al Servicio de Carrera, en los términos de la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad, la presente Ley, su Reglamento y la normatividad que para tal efecto expida el Fiscal General.
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Los Fiscales, Facilitadores, Peritos, Policías de Investigación y de toda aquella en sus distintas modalidades, y Auxiliares de Fiscal que formen parte de la Fiscalía General, con base a los artículos 21 y 123, apartado B, fracción XIII, de la Constitución, quedarán sujetos al Servicio de Carrera, en los términos de la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad, la presente Ley, su Reglamento y la normatividad que para tal efecto expida el Fiscal General.
 
 ###### Artículo 78.
 
@@ -1539,9 +1633,13 @@ c) La remoción por incurrir en causas de responsabilidad con motivo de su encar
 
 Procedimiento de Separación
 
-La separación del Servicio, por el incumplimiento de los requisitos de permanencia, se realizará como sigue:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-I. El superior jerárquico deberá presentar queja fundamentada y motivada ante la Visitaduría General, en la cual deberá señalar el requisito de permanencia que presuntamente haya sido incumplido por el miembro del Servicio de que se trate; en el escrito de queja ofrecerá las pruebas y, en su caso, indicará los nombres de testigos y señalará, para la compulsa de los documentos que no tuviere en su poder, el archivo en que éstos se encuentren;
+La separación del servicio, por el incumplimiento de los requisitos de permanencia, se realizará mediante un procedimiento administrativo, conforme a lo señalado en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, en aplicación supletoria, además de lo siguiente:
+
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I. El superior jerárquico inmediato del Fiscal, Facilitador, Perito, o Auxiliar de Fiscal, deberá presentar queja fundamentada y motivada ante la Visitaduría General, en la cual deberá señalar el requisito de permanencia que presuntamente haya sido incumplido por el miembro del Servicio de que se trate; en el escrito de queja ofrecerá las pruebas y, en su caso, indicará los nombres de testigos y señalará, para la compulsa de los documentos que no tuviere en su poder, el archivo en que éstos se encuentren;
 
 II. La Visitaduría General fijará fecha y hora para que tenga verificativo una audiencia de ofrecimiento, admisión, desahogo de pruebas y alegatos. Dicha audiencia podrá diferirse por única ocasión cuando existan pruebas que necesiten especial preparación para su desahogo; serán admisibles todas las pruebas con excepción de la confesional y aquellas que no tengan relación con los hechos controvertidos, las cuales serán desechadas de plano.
 
@@ -1549,11 +1647,17 @@ Para la verificación de la audiencia señalada en el párrafo anterior, la Visi
 
 III. La Visitaduría General podrá suspender al miembro del Servicio hasta en tanto resuelva lo conducente;
 
-IV. Una vez celebrada la audiencia de pruebas y alegatos, la Visitaduría General resolverá sobre la queja respectiva, en un término de cuarenta y cinco días, aplicando las sanciones contenidas en este ordenamiento;
+> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. Una vez celebrada la audiencia de pruebas y alegatos, la Visitaduría General resolverá sobre la queja respectiva, en un plazo no mayor de seis meses, aplicando las sanciones contenidas en este ordenamiento;
 
 V. Cuando se resuelva la separación del Servicio, se procederá a la cancelación del certificado del servidor público, debiéndose hacer la comunicación respectiva al Registro Nacional de Personal de Seguridad Pública; y
 
 VI. Contra la resolución de la Visitaduría General procederá el recurso de Revocación ante el Fiscal General, el cual se substanciará en términos del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+VII. Contra la resolución del Fiscal General no procederá recurso alguno.
 
 ### CAPÍTULO I. DE LA CONSTITUCIÓN DEL FONDO AUXILIAR
 
@@ -1830,3 +1934,17 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. La fiscalía General del Estado realizará, dentro del plazo previsto por el Artículo Cuarto Transitorio del Decreto 881, por el que se adicionan cuatro párrafos al final de la fracción I del Artículo 67 de la Constitución Política del Estado, las adecuaciones reglamentarias correspondientes, conforme a lo previsto en el presente Decreto.
+
+G.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 926 QUE DEROGA, REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El orientador jurídico de la Fiscalía General que haya sido asignado a la víctima, con la finalidad de actuar como asesor jurídico de la misma, dentro de una carpeta de investigación, deberá continuar desempeñándose como tal, hasta en tanto se le nombre un asesor jurídico, por la autoridad competente.
+
+CUARTO. Dentro del término de sesenta días siguientes al inicio de la vigencia del presente Decreto, deberá ajustarse el contenido del Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Veracruz de Ignacio de la Llave, para su pleno cumplimiento.
+
+QUINTO. El Congreso del Estado deberá adecuar, en un plazo no mayor de sesenta días, contado a partir del siguiente al del inicio de vigencia de este Decreto, la legislación en materia de víctimas del delito, a efecto de incorporar las previsiones necesarias para el fortalecimiento del servicio de asesoría jurídica gratuita a las víctimas del delito.
