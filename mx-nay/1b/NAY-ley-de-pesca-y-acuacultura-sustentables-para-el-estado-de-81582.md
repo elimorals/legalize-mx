@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-81582
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2016-03-03"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
 
@@ -389,29 +389,33 @@ L. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
 LI. Sistema Estatal de Información: Sistema Estatal de Información y Estadística Pesquera y Acuícola;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
-
-LII. Unidad de Manejo: Se integra con las áreas comprendidas en una zona delimitada, en la que se establece un conjunto de unidades de producción con una infraestructura básica y las instalaciones necesarias para su operación y funcionamiento compartido, operada de forma común;
+LII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-LIII. Unidad de Pesca: Es la unidad operacional ocupada en la pesca y formada por el complejo de mano de obra y equipo, que puede llevar a cabo operaciones de pesca;
+LIII. Unidad de Manejo: Se integra con las áreas comprendidas en una zona delimitada, en la que se establece un conjunto de unidades de producción con una infraestructura básica y las instalaciones necesarias para su operación y funcionamiento compartido, operada de forma común;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-LIV. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
+LIV. Unidad de Pesca: Es la unidad operacional ocupada en la pesca y formada por el complejo de mano de obra y equipo, que puede llevar a cabo operaciones de pesca;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
 
-LV. Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en periodos específicos.
+LV. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+
+LVI. Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de especies acuáticas vivas, en periodos específicos.
 
 ### Capítulo II. Competencias
 
@@ -2403,7 +2407,9 @@ Las infracciones a los preceptos de la presente Ley, su reglamento y los planes 
 
 I. Amonestación pública con apercibimiento;
 
-II. Multa, que podrá ser de cincuenta hasta veinticinco mil veces el salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II. Multa, que podrá ser de cincuenta hasta veinticinco mil veces la UMA;
 
 III. El aseguramiento de los recursos pesqueros o acuícolas vivos, sus productos, subproductos y productos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo de dichos recursos;
 
@@ -2449,21 +2455,31 @@ Cuando en una misma acta se haga constar que las infracciones fueron cometidas p
 
 Las sanciones por las infracciones a esta ley se aplicarán sin perjuicio de las penas que correspondan a los delitos en que incurran los infractores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 149.
 
-La imposición de multas a que se refiere la fracción II del artículo 142, se determinará en la forma siguiente:
+La imposición de multas por infracciones al artículo 141, se determinará en la forma siguiente:
 
-I. Con el equivalente de 50 a 100 días de salario mínimo vigente a quien cometa las infracciones señaladas en la fracción IX del artículo 141;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II. Con el equivalente de 101 a 1,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones I, II, VI, VIII, XII, XV; y XXI del artículo 141;
+I. De cincuenta a cien veces la UMA a quien cometa la infracción señalada en la fracción IX;
 
-III. Con el equivalente de 1,001 a 10,000 veces el salario mínimo quien cometa las infracciones señaladas en las fracciones III, IV, V, X, XI, XVIII, XIX, y XX del artículo 141, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-IV. Con el equivalente de 10,001 a 25,000 veces el salario mínimo quien cometa las infracciones señaladas en las fracciones XIII, XIV y XVI del artículo 141.
+II. De ciento uno a mil veces la UMA a quien cometa las infracciones señaladas en las fracciones I, II, VI, VIII, XII, XV y XXI;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+III. De mil uno a diez mil veces la UMA a quien cometa las infracciones señaladas en las fracciones III, IV, V, X, XI, XVIII, XIX y XX, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+IV. De diez mil uno a veinticinco mil veces la UMA a quien cometa las infracciones señaladas en las fracciones XIII, XIV y XVI.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 En el caso de reincidencia, el monto de la multa a imponer será el doble a la multa impuesta en la primera infracción.
 
@@ -2552,3 +2568,9 @@ P.O. 3 DE MARZO DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Dentro de un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, los municipios deberán integrar el Padrón a que refiere el artículo 22 Bis.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
