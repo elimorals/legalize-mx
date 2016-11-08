@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2016-09-05"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -107,9 +107,17 @@ XV. Padrón Estatal de Mascotas.- Instrumento de información y control en mater
 
 XVI. Protección a los animales.- La ejecución de acciones encaminadas al trato digno y respetuoso de los ejemplares de la fauna, cualquiera que sea su tipo;
 
-XVII. Trato Digno y Respetuoso.- Medidas necesarias que se brindan a los animales para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, experimentación, adiestramiento o sacrificio, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XVIII. Unidades de manejo de conservación de la fauna silvestre.- Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, y dentro de los cuales se dé seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyan.
+XVII. Trato Digno y Respetuoso.- Medidas necesarias que se brindan a los animales para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, experimentación, adiestramiento o sacrificio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Unidades de manejo de conservación de la fauna silvestre.- Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, y dentro de los cuales se dé seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyan.
 
 ###### ARTÍCULO 5°.
 
@@ -681,23 +689,27 @@ El incumplimiento, violaciones e infracciones cometidas a la presente ley, se sa
 
 I. Apercibimiento;
 
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 II. Multa en los términos siguientes:
 
-De 3 a 10 días de salario mínimo general vigente en la entidad, previo apercibimiento al infractor, por infringir los artículos 32, 33 fracciones I, II, IV, V, 34 fracciones I, II, III, V, VIII, X, 39 y 40.
+a) De tres a diez veces la UMA, previo apercibimiento al infractor, por infringir los artículos 32, 33, fracciones I, II, IV y V, 34, fracciones I, II, III, V, VIII y X, 39 y 40.
 
-De 7 a 15 días de salario mínimo por infracciones a los artículos 19, 34 fracciones IV, VI, VIII, IX, XIII, XIV, 36, 38, 49, 59 fracción III, 61 y 62.
+b) De siete a quince veces la UMA por infracción a los artículos 19, 34, fracciones IV, VI, VIII, IX, XIII y XIV, 36, 38, 49, 59, fracción III, 61 y 62.
 
-De 20 a 40 días de salario mínimo por infracciones a los artículos 34 fracciones XI y XII, 37, 46, 48 y 50.
+c) De veinte a cuarenta veces la UMA por infracción a los artículos 34, fracciones XI y XII, 37, 46, 48 y 50.
 
-De 25 a 50 días de salario mínimo por infracción a los artículos 51, 53, 57 y 58 en lo relativo a su primer supuesto.
+d) De veinticinco a cincuenta veces la UMA por infracción a los artículos 51, 53, 57 y 58 en lo relativo a su primer supuesto.
 
-De 50 a 100 días de salario mínimo, por infringir los artículos 58 en su segundo supuesto y 59, fracciones I, II y IV.
+e) De cincuenta a cien veces la UMA, por infringir los artículos 58 en su segundo supuesto, y 59, fracciones I, II y IV.
 
 III. Arresto Administrativo hasta por 36 horas;
 
 IV. Las demás que señalen otras disposiciones aplicables.
 
-Las infracciones a lo dispuesto en esta ley, que en el cuerpo de la misma no tuviere señalada una sanción específica, serán sancionadas a juicio de la autoridad competente con multa de 3 a 100 días de salario o arresto hasta por 36 horas.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Las infracciones a lo dispuesto en esta ley, que en el cuerpo de la misma no tuvieren señalada una sanción específica, serán sancionadas a juicio de la autoridad competente con multa de tres a cien veces la UMA o arresto hasta por 36 horas.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2015)</small>
 
@@ -766,3 +778,9 @@ P.O. 5 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
