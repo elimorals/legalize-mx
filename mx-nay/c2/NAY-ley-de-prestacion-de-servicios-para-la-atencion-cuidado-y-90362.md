@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-90362
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-03"
-last_updated: "2012-11-03"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 3 de noviembre 2012.
 
@@ -97,9 +97,17 @@ XVI. Reglamento: Reglamento de la Ley de Prestación de Servicios para la Atenci
 
 XVII. Secretaría: Secretaría de Educación del Estado de Nayarit;
 
-XVIII. Servicios de Cuidado Infantil: Los servicios de Atención, Cuidado y Desarrollo Integral Infantil, dirigidos a procurar el bienestar de los niños en los Centros de Atención, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XIX. Usuario: La persona que utilice los servicios de un Centro de Atención, en cualquiera de sus modalidades y tipos, quienes podrán ser los padres, el tutor, quien ejerza la patria potestad, guarda y custodia del niño o la persona responsable de su cuidado y crianza.
+XVIII. Servicios de Cuidado Infantil: Los servicios de Atención, Cuidado y Desarrollo Integral Infantil, dirigidos a procurar el bienestar de los niños en los Centros de Atención;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIX. UMA: a la Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XX. Usuario: La persona que utilice los servicios de un Centro de Atención, en cualquiera de sus modalidades y tipos, quienes podrán ser los padres, el tutor, quien ejerza la patria potestad, guarda y custodia del niño o la persona responsable de su cuidado y crianza.
 
 ###### Artículo 6.
 
@@ -977,7 +985,9 @@ Las violaciones a los preceptos de esta Ley y su Reglamento, por parte de los Pr
 
 Las autoridades competentes tomando en consideración las circunstancias, modalidades y modelos de cada Centro de Atención, podrán imponer las siguientes sanciones administrativas:
 
-I. Multa administrativa de 100 a 1000 días de salario mínimo general vigente en la entidad;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+I. Multa administrativa de cien a mil veces la UMA;
 
 II. Suspensión temporal de la autorización a que se refiere esta Ley, y
 
@@ -1068,3 +1078,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Fernando Ornelas Salas, Presidente.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.- Dip. Sergio Eduardo Hinojosa Castañeda, Secretario. Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los dos días del mes de Noviembre del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
