@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-fisica-y-deporte-para-el-estado-de-nayarit-74405
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-03"
-last_updated: "2014-11-08"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 3 de abril de 2010.
 
@@ -127,13 +127,17 @@ XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuent
 
 XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XIV. Recreación Física: Actividad física con fines de esparcimiento que permiten la utilización positiva del tiempo libre, y
+XIV. Recreación Física: Actividad física con fines de esparcimiento que permiten la utilización positiva del tiempo libre;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 XV. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando a su cuerpo por medio de ellas.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XVI. UMA: Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 4.
 
@@ -1123,9 +1127,9 @@ V. Destitución e Inhabilitación para ejercer cargos directivos en Organismos D
 
 VI. Expulsión inmediata de las instalaciones deportivas;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-VII. Multa de 10 a 90 días de salario mínimo general vigente en el Estado, y
+VII. Multa de diez a noventa veces la UMA, y
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
@@ -1494,3 +1498,9 @@ Artículo tercero.- Los ayuntamientos deberán modificar o emitir la reglamentac
 P.O. 8 DE NOVIEMBRE DE 2014.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
