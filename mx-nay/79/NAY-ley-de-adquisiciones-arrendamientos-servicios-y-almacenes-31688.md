@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-servicios-y-almacenes-31688
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-04"
-last_updated: "2010-09-25"
+last_updated: "2016-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial de Estado de Nayarit, el miércoles 4 de Junio de 2003.
 
@@ -80,6 +80,10 @@ X.- Entidades: Los organismos descentralizados, empresas o fideicomisos público
 XI.- Área Financiera: La unidad responsable de la obtención y administración de los recursos humanos y materiales en los entes públicos.
 
 XII.- Adquisiciones, Arrendamientos y Servicios: La adquisición y arrendamiento de bienes muebles y de contratación de servicios.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XIII.- UMA: Unidad de Medida y Actualización, considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3°.
 
@@ -835,9 +839,11 @@ El titular del área administrativa del órgano usuario, autorizará la document
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 72.
 
-Los oferentes o proveedores que infrinjan las disposiciones contenidas en esta ley, serán sancionados por el área administrativa con multa equivalente a la cantidad de cincuenta a cinco mil veces el salario mínimo general vigente en el estado, en la fecha de la infracción.
+Los oferentes o proveedores que infrinjan las disposiciones contenidas en esta ley, serán sancionados por el área administrativa con multa equivalente a la cantidad de cincuenta a cinco mil veces la UMA.
 
 Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos y, en su caso, del pago de los daños y perjuicios que se ocasionen a los entes públicos.
 
@@ -1000,3 +1006,9 @@ P.O. 13 DE DICIEMBRE DE 2003.
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
 Artículo único.- El presente decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
