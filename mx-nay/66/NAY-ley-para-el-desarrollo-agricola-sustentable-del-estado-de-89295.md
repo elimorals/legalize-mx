@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-agricola-sustentable-del-estado-de-89295
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2015-05-19"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 11 de agosto de 2012.
 
@@ -143,9 +143,17 @@ XXXI.- Sistema-Producto Agrícola: El conjunto de elementos y agentes concurrent
 
 XXXII.- SEMANAY: La Secretaría del Medio Ambiente para el Estado de Nayarit;
 
-XXXIII.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-XXXIV.- Valor Agregado: Es el valor adicional que adquiere un producto al ser transformado durante el proceso productivo.
+XXXIII.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV.- UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+XXXV.- VALOR AGREGADO: Es el valor adicional que adquiere un producto al ser transformado durante el proceso productivo.
 
 ###### Artículo 4.
 
@@ -469,7 +477,7 @@ X.- Las demás actividades que contribuyan a garantizar la sustentabilidad de la
 
 De conformidad a lo dispuesto en los artículos anteriores, el Ejecutivo Estatal y Municipal, cuando así lo convengan con el Gobierno Federal, fomentarán el uso del suelo más pertinente de acuerdo con sus características y potencial productivo, así como los procesos de producción más adecuados para la conservación y mejoramiento de las tierras y el agua.
 
-Los programas y acciones especificas del gobierno estatal de fomento a la producción, atenderán prioritariamente el criterio de sustentabilidad en relación con el aprovechamiento de los recursos, ajustando las oportunidades de mercado y tomando en cuenta los planteamientos de los organismos coadyuvantes, los productores independientes y las organizaciones gremiales del sector agrícola, en cuanto a la aceptación de las prácticas y tecnologías para la producción.
+Los programas y acciones específicas del gobierno estatal de fomento a la producción, atenderán prioritariamente el criterio de sustentabilidad en relación con el aprovechamiento de los recursos, ajustando las oportunidades de mercado y tomando en cuenta los planteamientos de los organismos coadyuvantes, los productores independientes y las organizaciones gremiales del sector agrícola, en cuanto a la aceptación de las prácticas y tecnologías para la producción.
 
 #### Sección Segunda. Del Financiamiento Rural
 
@@ -639,7 +647,7 @@ El Gobierno Estatal con la participación de la SAGARPA, podrá contratar a trav
 
 Con el objeto de reducir los índices de riesgo y la vulnerabilidad de las unidades productivas ante contingencias climatológicas, la Secretaría en coordinación con el Gobierno Federal, establecerá programas de reconversión productiva de cultivos en las regiones que presentan siniestralidad recurrente y baja productividad, proponiendo nuevas alternativas de cultivos y el establecimiento de la agricultura por contrato con empresas ampliamente reconocidas.
 
-Estos apoyos se aplicarán únicamente en las regiones que requieran programas de reconversión productiva, así como en las que la Secretaria y el Consejo determinen, tomando en cuenta las alternativas sustentables probadas de cambios tecnológicos o cambio de patrón de cultivos. Los apoyos que se otorguen en reconversión tecnológica o de cultivos deberan ser considerados en los planes de desarrollo estatal, municipal y en los proyectos de desarrollo distrital, denominados territoriales, operándolos en forma coordinada y complementaria con los tres órdenes de gobierno.
+Estos apoyos se aplicarán únicamente en las regiones que requieran programas de reconversión productiva, así como en las que la Secretaria y el Consejo determinen, tomando en cuenta las alternativas sustentables probadas de cambios tecnológicos o cambio de patrón de cultivos. Los apoyos que se otorguen en reconversión tecnológica o de cultivos deberán ser considerados en los planes de desarrollo estatal, municipal y en los proyectos de desarrollo distrital, denominados territoriales, operándolos en forma coordinada y complementaria con los tres órdenes de gobierno.
 
 ###### Artículo 50.
 
@@ -811,9 +819,7 @@ La Secretaría, a solicitud de las organizaciones de productores, podrá invitar
 
 ###### Artículo 72.
 
-Con la finalidad de optimizar la producción agrícola en la entidad, la Secretaria inducirá el cambio de aquellos cultivos que por factores de indole natural, cultural y económico, no sean los más convenientes, por otros sistemas de producción que representen una mejor alternativa para los productores, atendiendo a las necesidades de la entidad y del país, de conformidad con los objetivos del Plan Nacional y Estatal de
-
-Desarrollo.
+Con la finalidad de optimizar la producción agrícola en la entidad, la Secretaria inducirá el cambio de aquellos cultivos que por factores de índole natural, cultural y económico, no sean los más convenientes, por otros sistemas de producción que representen una mejor alternativa para los productores, atendiendo a las necesidades de la entidad y del país, de conformidad con los objetivos del Plan Nacional y Estatal de Desarrollo.
 
 ### Capítulo II. De la investigación agrícola y transferencia de tecnología
 
@@ -1201,7 +1207,9 @@ La infracción de las disposiciones de esta ley y de la reglamentación que de e
 
 I.- Apercibimiento;
 
-II.- Multa de treinta y hasta un mil veces el salario mínimo general diario vigente en el Estado de Nayarit, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa de treinta hasta mil veces la UMA, que se duplicará en caso de reincidencia;
 
 III.- Cancelación del registro, permiso o apoyos institucionales estatales;
 
@@ -1257,7 +1265,7 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del Ho
 
 Dip. Fernando Ornelas Salas, Presidente.- Rúbrica.- Dip. Miguel Ángel Arce Montiel, Secretario.- Rúbrica.- Dip. Leonor Naya Mercado, Secretaria.- Rúbrica.
 
-Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los once días del mes de agosto del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno.- Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los once días del mes de agosto del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno.- Lic. José Trinidad Espinoza Vargas.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -1270,3 +1278,9 @@ P.O. 19 DE MAYO DE 2015.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT”.]
+
+Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
