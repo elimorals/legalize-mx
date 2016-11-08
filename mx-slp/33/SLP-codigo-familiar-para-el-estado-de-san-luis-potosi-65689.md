@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2015-09-17"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -162,6 +162,10 @@ III. Expresar la voluntad para unirse en matrimonio;
 IV. Estar libre de impedimento legal, y
 
 V. Certificado médico en el que se establezca el estado de salud de las o los pretendientes.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Él o la oficial ante quien se lleven a cabo los trámites para celebrar el matrimonio, deberá entregar a los contrayentes la información expedida por la Dirección, respecto de los derechos, deberes y obligaciones que nacen del matrimonio, así como las consecuencias por su incumplimiento.
 
 ###### ARTICULO 18.
 
@@ -3472,3 +3476,11 @@ DECRETO 1197, POR EL QUE SE REFORMA EL ARTÍCULO 276; Y ADICIONA EL ARTÍCULO 26
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0421.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 17, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 97 EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL MISMO ARTÍCULO 97 PÁRRAFO TERCERO, DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
