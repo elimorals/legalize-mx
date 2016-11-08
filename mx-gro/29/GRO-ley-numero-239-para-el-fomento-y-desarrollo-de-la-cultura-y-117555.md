@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-239-para-el-fomento-y-desarrollo-de-la-cultura-y-117
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-05"
-last_updated: "2013-11-05"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 239 PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Alcance I al Número 89 del Periódico Oficial del Estado de Guerrero, el martes 5 de noviembre de 2013.
 
@@ -1043,6 +1043,46 @@ Los espacios alternativos para la difusión cultural, son los que la sociedad ci
 
 Los Municipios, en el marco de su competencia, reglamentarán la operación de los espacios alternativos para la difusión cultural, señalando los requisitos para que obtengan reconocimiento jurídico, el trámite de permisos, requisitos para su operación, el uso de espacios públicos e incentivos fiscales, cuando sea el caso.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 104.
+
+El Estado y los Municipios dentro del ámbito de sus respectivas competencias, protegerán el valor cultural de las artesanías guerrerenses, para ello, elaborarán y ejecutarán programas y acciones que impulsen la producción artesanal y su comercialización municipal, estatal, nacional e internacional, permitiendo la inclusión de distintos grupos poblacionales, sobre todo en aquéllos que por razón de género, edad, discapacidad o cualquier otra condición física o mental, económica y social se encuentren en situación de vulnerabilidad, garantizando en todo momento el respeto y la sana convivencia.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 105.
+
+Sin menoscabo de las atribuciones previstas en la Ley Orgánica de la Administración Pública del Estado de Guerrero en vigor, la presente Ley y demás disposiciones legales aplicables, la Secretaría de Cultura, en apoyo a las distintas secretarías y dependencias de la Administración Pública Estatal y a los Ayuntamientos, llevarán a cabo:
+
+I. Un padrón de artesanos;
+
+II. Los inventarios, catálogos para proteger, preservar y difundir las creaciones artesanales en el Estado;
+
+III. La organización de la promoción de los productores de artesanías y (sic) apoyará a estos con financiamientos, asistencia técnica y disposición de materias primas;
+
+IV. El establecimiento de las medidas que coadyuven a la comercialización equitativa y eficiente de las artesanías; y
+
+V. La elaboración de programas de difusión, gestión, formación y capacitación a los artesanos, brindándoles al mismo tiempo la orientación pertinente en materia de respeto y protección de los derechos de autor y los derechos conexos, con la finalidad (sic) favorecer la creatividad individual, el desarrollo de las industrias culturales y la promoción de la diversidad cultural.
+
+En las acciones que ésta realice, deberá observar y garantizar el cumplimiento de todas aquellas disposiciones que le sean obligatorias en razón de equidad, transparencia, derechos humanos, cumplimiento, y demás disposiciones legales e instrumentos internacionales que así lo prevean.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 106.
+
+La Secretaría de Cultura, con la intervención que corresponda a las secretarías y dependencias del Poder Ejecutivo y a los Ayuntamientos, se ocuparán de contribuir para:
+
+I. Realizar investigaciones sobre los artesanos y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal;
+
+II. Crear y apoyar escuelas para artesanos;
+
+III. Establecer un Instituto de Investigación de las Artesanías del Estado de Guerrero; y,
+
+IV. Difundir las artesanías guerrerenses por todos los medios a su alcance.
+
+Para lo dispuesto en la fracción III del artículo 105 y las fracciones II y III del artículo 106 de la presente ley, el Gobierno del Estado y los Municipios, deberán implementarlo atendiendo en todo momento a la disponibilidad de recursos conforme a los presupuestos de egresos autorizados.
+
 T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
@@ -1102,3 +1142,15 @@ EL SECRETARIO DE CULTURA.
 LIC. MANUEL ZEPEDA MATA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244, POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 239 PARA EL FOMENTO Y DESARROLLO DE LA CULTURA Y LAS ARTES DEL ESTADO DE GUERRERO".]
+
+PRIMERO.-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.-La Secretaría de Cultura del Gobierno del Estado en coordinación con las secretarías y dependencias del Poder Ejecutivo y los Ayuntamientos, dentro de un plazo que no excederá de noventa días posteriores a la publicación del presente Decreto, deberán crear el Instituto de Investigación de las Artesanías del Estado de Guerrero, con los lineamientos que la misma determine.
+
+CUARTO (sic).- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
