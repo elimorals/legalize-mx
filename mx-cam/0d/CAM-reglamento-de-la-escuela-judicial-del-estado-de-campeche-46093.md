@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-escuela-judicial-del-estado-de-campeche-46093"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-15"
-last_updated: "2014-02-05"
+last_updated: "2016-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 05 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Judicial del Periódico Oficial del Estado de Campeche, el lunes 15 de agosto de 2005.
 
@@ -107,9 +107,13 @@ b) El Director, y
 
 c) El Consejo Académico.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 8.
 
-El Director de la EJEC, podrá ser un Magistrado del Poder Judicial o un Profesor-Investigador de la misma, a propuesta del Presidente del Tribunal Superior de Justicia y designado en Sesión de Pleno, por mayoría de votos.
+El Director de la EJEC será designado a propuesta del Presidente del Honorable Tribunal Superior de Justicia, en sesión de Pleno y por mayoría de votos.
+
+El Director podrá tener el cargo con carácter honorífico cuando así lo determine el Tribunal Pleno.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -547,7 +551,7 @@ Cuando el alumno cause baja provisional o definitiva y no fuese servidor judicia
 
 ### Capítulo VII. Del egreso de la EJEC
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 53.
 
@@ -797,7 +801,7 @@ c) Impartir las enseñanzas teóricas y prácticas que le correspondan conforme 
 
 d) Efectuar las tutorías de los alumnos que se le encomienden,
 
-e) Realizar las evaluaciones de conocimientos de los alumnos, y (sic)
+e) Realizar las evaluaciones de conocimientos de los alumnos, y
 
 f) Entregar puntualmente a la Dirección de la EJEC los resultados de las asistencias y evaluaciones para su cómputo final,
 
@@ -951,7 +955,7 @@ CERTIFICA: Que este Reglamento fue dictado y debidamente aprobado por el Pleno d
 
 Se expide la presente Certificación en la Ciudad y Puerto de Campeche, Capital del mismo nombre.- Estados Unidos Mexicanos, a los Once días del mes de Agosto de Dos mil cinco.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 23 DE NOVIEMBRE DE 2010.
 
@@ -964,3 +968,9 @@ P.O. 5 DE FEBRERO DE 2014.
 PRIMERO: Las reformas al reglamento de la Escuela Judicial del Estado de Campeche entrarán en vigor según lo establecido en el artículo 3 del Código Civil del Estado de Campeche.
 
 SEGUNDO: Con fundamento en el Código Civil vigente del Estado y la Ley de Transparencia y Acceso a la Información Pública del Estado remítase para su publicación en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.
+
+P.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO DEL PLENO POR EL QUE SE "REFORMA AL ARTÍCULO 8 DEL REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- En términos del artículo 4 del Código Civil vigente en el Estado la presente reforma entrará en vigor el día diez de noviembre del actual, para lo cual se remite el presente documento al Periódico Oficial del Gobierno del Estado para su publicación por una sola vez así como en el Portal de Transparencia del Honorable Tribunal Superior de Justicia del Estado.
