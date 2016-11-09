@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2016-02-22"
+last_updated: "2016-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 113 DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2016 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 22 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -103,6 +103,10 @@ III Ter.- Establecer las medidas tendentes a prevenir embarazos de las niñas y 
 
 IV.- La salud mental.
 
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+IV Bis.- El tratamiento integral del dolor y la atención de los enfermos en situación terminal.
+
 V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud.
 
 VI.- La promoción de la formación de recursos humanos para la salud.
@@ -139,9 +143,13 @@ XVIII Bis.- La Protección Social en Salud.
 
 XIX.- Prevención de infecciones de transmisión sexual; y
 
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Garantizar el pleno, libre e informado ejercicio de los derechos de los enfermos en situación terminal que señala esta Ley y demás ordenamientos aplicables.
+
 > <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
 
-XX.- Las demás materias que determinen esta Ley y demás disposiciones generales aplicables.
+XXI.- Las demás materias que determinen esta Ley y demás disposiciones generales aplicables.
 
 B.- En materia de salubridad local, el control sanitario de:
 
@@ -205,31 +213,35 @@ V.- Régimen: al Régimen Estatal de Protección Social en Salud, que es el Orga
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2016)</small>
 
-VI. Atención médica: Al conjunto de servicios que se proporcionen a la persona con el fin de proteger, promover y restaurar su salud.
+VI.- Atención médica: Al conjunto de servicios que se proporcionen a la persona con el fin de proteger, promover y restaurar su salud.
 
 VII.- Sistema; al Sistema de Protección Social en Salud a que se refiere los artículos 330 y 331 de esta Ley; y
 
 VIII.- Salubridad General: las facultades contenidas en el artículo 3º de la presente, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos.
 
-> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-IX.- Establecimiento: Lugar en que se venden, distribuyen o ingieren bebidas alcohólicas. Se excluye el caso del consumo gratuito de bebidas alcohólicas en domicilios particulares o eventos particulares: y
+IX.- Cuidados básicos: La higiene, alimentación, hidratación, curaciones y mantener las vías aéreas permeables de los enfermos en situación terminal;
 
-> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-X.- Bebidas alcohólicas: Todas las que contengan alcohol etílico en una proporción mayor al 2% en volumen, y que se clasifican de la siguiente manera:
+X.- Cuidados paliativos: El cuidado activo y total de aquellas enfermedades que no responden a los tratamientos curativos, que incluye los cuidados básicos y el control del dolor y de otros síntomas, así como la atención de aspectos psicológicos, sociales e incluso espirituales;
 
-a) De bajo contenido alcohólico: Son productos que contienen hasta 6 grados GAY LUSSAC (G.. L.).
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-b) De medio contenido alcohólico: Son productos que contienen entre 6.1 grados G.. L. y 20 grados G.. L.
+XI.- Enfermo en situación terminal: Paciente con diagnóstico sustentado en datos objetivos, de una enfermedad incurable, progresiva y mortal a corto o mediano plazo; con escasa o nula respuesta a tratamiento específico disponible y pronóstico de vida inferior a seis meses;
 
-c) De alto contenido alcohólico: Son productos que contienen entre 20.1 grados G .. L. y 55 grados G.. L.
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-Los productos cuyo contenido alcohólico sea mayor de 55 grados G.. L. se consideran como alcohol no potable y no se autorizará su venta o suministro al público, para ingestión directa.
+XII.- Medidas desproporcionadas: Las que constituyen una carga grave para el enfermo en situación terminal, entendiéndose como aquellas medidas cuyo perjuicio es mayor que los beneficios esperados;
 
-(ADICIONADA, G.O. 9 DE FEBRERO DE 2016) (F. DE E., G.O. 22 DE FEBRERO DE 2016)
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-XI.- Salud Sexual y Reproductiva: Es el enfoque integral para analizar y responder a las necesidades de hombres y mujeres respecto a la sexualidad y la reproducción, otorgar la capacidad de disfrutar de una vida sexual responsable y sin riesgos, garantizar el derecho de decisión y frecuencia de procrear y fomentar un estado general de bienestar físico, mental y social, en todos los aspectos relacionados con el sistema reproductivo, sus funciones y procesos.
+XIII.- Tratamiento del dolor: Todas aquellas medidas destinadas a mejorar la calidad de vida del paciente en situación terminal, que prescribe y suministra un profesionista de la salud, orientadas a reducir los sufrimientos físicos y emocionales, ocasionados por una enfermedad terminal; y
+
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+XIV.- Enfermedad terminal: Aquella que no tiene tratamiento específico curativo o con capacidad para retrasar la evolución y que por ello conlleva a la muerte en un tiempo variable, generalmente inferior a seis meses; es progresiva; provoca síntomas intensos, multifactoriales, cambiantes y conlleva un gran sufrimiento físico y psicológico en la familia y el paciente.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -465,7 +477,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes.
 
-III.- La atención médica, que comprende las actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias.
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+III.- La atención médica, que comprende las actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
 
 > <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
 
@@ -476,6 +490,10 @@ IV.- La atención materno-infantil.
 V.- La planificación familiar.
 
 VI.- La salud mental.
+
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+VI Bis.- La atención de los enfermos en situación terminal.
 
 VII.- La prevención y control de las enfermedades bucodentales.
 
@@ -507,11 +525,11 @@ La Secretaría de Salud y Asistencia del Estado, coadyuvará con las demás depe
 
 ### CAPITULO II. ATENCION MEDICA
 
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 34.
 
-Se entiende por atención médica el conjunto de servicios que se proporcionan a la persona con el fin de proteger, promover y restaurar su salud.
+Se entiende por atención médica al conjunto de servicios que se proporciona a las personas para que disfruten del más alto nivel posible de salud física, mental y emocional.
 
 ###### ARTICULO 35.
 
@@ -521,7 +539,13 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno.
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas o mentales.
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas o mentales; y
+
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+IV.- Paliativas, que incluyen la disminución del dolor y el cuidado integral para preservar la calidad de vida del paciente en situación terminal.
 
 > <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2016)</small>
 
@@ -631,9 +655,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 55.
 
-La Secretaría de Salud y Asistencia del Estado y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de invalidez y de rehabilitación de inválidos.
+La Secretaría de Salud y Asistencia del Estado y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás organizaciones que tengan por objeto participar coordinadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, en los de prevención de invalidez y de rehabilitación de inválidos, así como en los de cuidados paliativos.
 
 ###### ARTICULO 56.
 
@@ -805,41 +831,179 @@ A estos efectos, se establecerá la coordinación necesaria entre las autoridade
 
 Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsobles (sic) de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; a tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+## TITULO TERCERO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO I. DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 BIS.- Son derechos de los enfermos en situación terminal:
+
+l. Recibir atención médica integral;
+
+II. Ingresar a las instituciones de salud cuando requieran atención médica;
+
+III. Recibir un trato digno, respetuoso y profesional, que procure mejorar su calidad de vida;
+
+IV. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad, y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+V. Dar su consentimiento informado y por escrito para la aplicación o no, de los tratamientos y medicamentos sugeridos por el personal de salud;
+
+VI. Solicitar al médico responsable que le administre medicamentos que mitiguen su dolor;
+
+VII. Recibir la asesoría psicológica y tanatológica que sea necesaria tanto para el paciente en situación terminal como para sus familiares cercanos;
+
+VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento curativo;
+
+IX. Dejar libre y voluntariamente la institución de salud en que esté hospitalizado, previa firma del formato de exoneración de responsabilidad médica institucional;
+
+X. Designar a algún familiar, representante legal, tutor o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido para expresar su voluntad;
+
+XI. Recibir la visita de algún ministro de culto cuando así lo solicite el enfermo en situación terminal, su familia, tutor, la persona de su confianza o su representante legal;
+
+XII. Estar con sus familiares en el proceso de enfermedad y agonía sin límite de horarios; y
+
+XIII. Los demás que señalen las leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 TER.- Cuando el enfermo en situación terminal sea niño, niña o adolescente, además de los derechos señalados en el artículo anterior, podrá asistir al programa de cuidados paliativos pediátricos e infantiles.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 QUÁTER.- Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, para recibir o no, cualquier tratamiento que considere innecesario o desproporcionado, en caso de que llegase a padecer una enfermedad en situación terminal. Dicho documento podrá ser revocado en cualquier momento.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 QUINQUIES.- El paciente en situación terminal, mayor de edad y en pleno uso de sus facultades mentales, tiene derecho a la suspensión voluntaria del tratamiento curativo y como consecuencia al inicio del tratamiento estrictamente paliativo, en la forma y términos previstos en esta Ley.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 SEXIES.- La suspensión voluntaria del tratamiento curativo supone la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal del paciente y el inicio de tratamientos enfocados de manera exclusiva a la disminución del dolor y los demás apoyos previstos en esta Ley.
+
+En este caso, el médico especialista en el padecimiento del paciente terminal deberá abstenerse de aplicar medidas desproporcionadas, dejando que su padecimiento evolucione naturalmente.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 SEPTIES.- El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 OCTIES.- Si el enfermo en situación terminal se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este título serán asumidas por los padres o el tutor, y a falta de éstos, por su representante legal, alguna persona de su confianza mayor de edad o juez, de conformidad con las disposiciones aplicables.
+
+Si el enfermo en situación terminal es un niño, niña o adolescente, las decisiones derivadas de los derechos señalados en este título serán asumidas por los padres o el tutor, y a falta de éstos por su representante legal, alguna persona de su confianza mayor de edad o juez, de conformidad con las disposiciones aplicables, quienes deberán en todo momento escuchar la opinión del menor y decidir en atención a su interés superior.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 NONIES.- Los cuidados paliativos se proporcionarán desde el momento en que el médico especialista diagnostique el estado terminal de la enfermedad.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 DECIES.- Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera libre, voluntaria e informada, tome el enfermo en los términos de este Título.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 UNDECIES.- En casos de urgencia médica y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, además de la ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista o por el Comité de Bioética de la institución.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 DUODECIES.- Los cuidados paliativos serán proporcionados en las instituciones de salud, siempre bajo prescripción y supervisión médica.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 TERDECIES.- Los cuidados paliativos pediátricos comprenderán la atención física de los niños, niñas y adolescentes y la terapia ocupacional y recreativa, con el objeto de atender las necesidades afectivas, sociales, físicas, psicológicas y emocionales adecuadas a la edad del enfermo.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 QUATERDECIES.- Todos los documentos a que se refiere este Título se regirán de acuerdo a lo que se establezca en el Reglamento de esta Ley y demás disposiciones aplicables, debiéndose utilizar al efecto los formatos que emita la Secretaría de Salud del Gobierno del Estado de Veracruz.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO II. FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 QUINQUIDECIES.- Son obligaciones de las instituciones de salud:
+
+l. Garantizar el servicio y las instalaciones de calidad, tanto de internamiento como ambulatorias, para la atención debida a los enfermos en situación terminal y, en especial, para la prestación de los cuidados paliativos, llevados a cabo por especialistas;
+
+II. Garantizar a las personas enfermas en situación terminal la atención debida y las opciones disponibles, proveyéndoles de los cuidados necesarios para evitarles el sufrimiento desde el momento del diagnóstico de la enfermedad crónica no recuperable hasta el momento de su deceso; y
+
+III. Garantizar la capacitación y actualización permanentes de médicos y enfermeras que presten los servicios de salud y, en especial, de cuidados paliativos y atención a enfermos en situación terminal.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 SEXIDECIES.- La Secretaría de Salud del Gobierno del Estado de Veracruz realizará las acciones necesarias para que los cuidados paliativos formen parte de los servicios básicos de salud que presten las instituciones, con el objetivo de garantizar atención médica integral a los enfermos.
+
+Asimismo diseñará programas e implementará acciones para fomentar en los ciudadanos la cultura de los cuidados paliativos.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 SEPTIDECIES.- La Secretaría de Salud del Gobierno del Estado de Veracruz celebrará convenios con instituciones, asociaciones y organizaciones privadas para brindar Atención Pediátrica Especializada, en el cuidado y atención a niños, niñas y adolescentes enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO III. DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MEDICOS Y DEL PERSONAL SANITARIO
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 OCTODECIES.- Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados académica, humana y técnicamente por instituciones autorizadas para ello.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 NOVODECIES.- Los médicos tratantes y el equipo sanitario responsables de otorgar los cuidados paliativos tendrán el derecho de recibir terapia psicológica cuantas veces se requiera, según la situación general en el centro de salud o el caso concreto.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 VICIES.- Los médicos tratantes tendrán las siguientes obligaciones:
+
+l. Proporcionar toda la información necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II. Pedir el consentimiento informado del enfermo en situación terminal, por escrito y ante dos testigos, para realizar los tratamientos o medidas a tomar respecto de la enfermedad incurable. Dicho escrito deberá ser anexado al expediente médico del paciente;
+
+III. Informar oportunamente al enfermo en situación terminal, a su familia, tutor, representante legal o a la persona de su confianza sobre las opciones que existan en cuanto a cuidados paliativos;
+
+IV. Informar oportunamente al enfermo en situación terminal, a la familia, tutor, representante legal o a la persona de su confianza, cuando el tratamiento curativo no dé resultados;
+
+V. Respetar la decisión del enfermo en situación terminal en cuanto al tratamiento curativo, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI. Garantizar que se brinden los cuidados básicos al paciente en todo momento;
+
+VII. Procurar las medidas mínimas necesarias para preservar la calidad de vida de los enfermos en situación terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta Ley;
+
+IX. Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+
+X. Las demás que señalen las leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 UNVICIES.- Los médicos tratantes podrán administrar fármacos paliativos a un enfermo en situación terminal, con el objeto de aliviar el dolor u otros síntomas que presente el paciente durante el avance de su enfermedad.
+
+En estos casos será necesario el consentimiento del enfermo, su familia, tutor, representante legal o persona de su confianza.
+
+En ningún evento se administrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso, el personal responsable estará sujeto a las disposiciones penales aplicables.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 DUOVICIES.- El personal médico que deje de proporcionar los cuidados básicos a los pacientes en situación terminal, según el avance de la enfermedad, será sancionado conforme lo establecen las leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 TERCIVICIES.- El personal médico que, por decisión propia, deje de proporcionar el tratamiento o cuidado paliativo sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, sin el de su familia o persona de confianza, será sancionado conforme lo establecen las leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 73 QUATERVICIES.- Queda prohibida la práctica de la eutanasia, entendida como homicidio por piedad, así como el suicidio asistido. En tal caso, se estará a lo que señalan las disposiciones penales aplicables.
+
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
 ### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
-
-### CAPITULO I BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGIA
-
-> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
-
-ARTICULO 77 BIS.- Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren de:
-
-I. Cédula de especialista legalmente expedida por las autoridades educativas competentes.
-
-II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, de acuerdo a la LexArtis Ad Hoc de cada especialidad, expedido por el Consejo de la especialidad según corresponda, de conformidad con el artículo 75 de la presente Ley.
-
-Los médicos especialistas podrán pertenecer a una agrupación médica, cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad; agrupaciones que se encargan de garantizar el profesionalismo y ética de los expertos en esta práctica de la medicina.
-
-El Comité Normativo Nacional de Consejos de Especialidades Médicas y los Consejos de Especialidades Médicas para la aplicación del presente artículo y lo dispuesto en el Titulo Cuarto de la presente ley, se sujetarán a las disposiciones que emita la Secretaría de Salud.
-
-> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
-
-ARTICULO 77 TER.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 77 Bis.
-
-> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
-
-ARTICULO 77 QUATER.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 77, 77 Bis y 77 Ter.
-
-> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
-
-ARTICULO 77 QUINQUIES.- Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud un directorio electrónico, con acceso al público, que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución o Instituciones educativas que avalen su ejercicio profesional.
-
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
-
-## TITULO QUINTO. INVESTIGACION PARA LA SALUD
-
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### ARTICULO 74.
 
@@ -889,9 +1053,33 @@ Quienes ejerzan las actividades profesionales técnicas y auxiliares y las espec
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE AGOSTO DE 2015)</small>
 
-### CAPITULO UNICO
+### CAPITULO I BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGIA
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTICULO 77 BIS.- Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren de:
+
+I. Cédula de especialista legalmente expedida por las autoridades educativas competentes.
+
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, de acuerdo a la LexArtis Ad Hoc de cada especialidad, expedido por el Consejo de la especialidad según corresponda, de conformidad con el artículo 75 de la presente Ley.
+
+Los médicos especialistas podrán pertenecer a una agrupación médica, cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad; agrupaciones que se encargan de garantizar el profesionalismo y ética de los expertos en esta práctica de la medicina.
+
+El Comité Normativo Nacional de Consejos de Especialidades Médicas y los Consejos de Especialidades Médicas para la aplicación del presente artículo y lo dispuesto en el Titulo Cuarto de la presente ley, se sujetarán a las disposiciones que emita la Secretaría de Salud.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTICULO 77 TER.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 77 Bis.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTICULO 77 QUATER.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 77, 77 Bis y 77 Ter.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTICULO 77 QUINQUIES.- Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud un directorio electrónico, con acceso al público, que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución o Instituciones educativas que avalen su ejercicio profesional.
+
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTICULO 78.
 
@@ -915,7 +1103,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las autoridades sanitarias del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Veracruz, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### ARTICULO 83.
 
@@ -953,9 +1141,9 @@ Los aspectos docentes del internado de pregrado, y de las residencias de especia
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevarán a cabo de acuerdo a los lineamientos establecidos por las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-## TITULO SEXTO. INFORMACION PARA LA SALUD
+## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO UNICO
 
 ###### ARTICULO 88.
 
@@ -1003,9 +1191,9 @@ Quien realice investigación en seres humanos, en contravención a lo dispuesto 
 
 En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal en su caso o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
-## TITULO SEPTIMO. PROMOCION DE LA SALUD
+## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO III. NUTRICION
+### CAPITULO UNICO
 
 ###### ARTICULO 93.
 
@@ -1023,9 +1211,9 @@ III.- Recursos físicos, humanos y financieros disponibles para la protección d
 
 Los establecimientos que presten los servicios de salud y los profesionales, técnicos y auxiliares de la salud del Estado, proporcionarán a éste y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar información que señalen otras disposiciones legales.
 
-## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 95.
 
@@ -1043,7 +1231,7 @@ III.- Control de los efectos nocivos del ambiente en la salud.
 
 IV.- Salud ocupacional.
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### ARTICULO 97.
 
@@ -1059,7 +1247,7 @@ III.- Orientar y capacitar a la población en materia de nutrición, salud menta
 
 Las autoridades sanitarias del Estado, en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población. El Gobierno del Estado, en coordinación con las autoridades federales competentes, promoverán programas de educación para la salud que pueden ser difundidos en los medios masivos de comunicación social que actúen en el ámbito del Estado.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 99.
 
@@ -1073,7 +1261,7 @@ El Gobierno del Estado formulará y desarrollará programas estatales de nutrici
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 102.
 
@@ -1105,7 +1293,7 @@ Los usuarios que aprovechen en su servicio aguas que posteriormente sean utiliza
 
 La Secretaría de Salud y Asistencia del Estado, en coordinación con las autoridades federales competentes, con las autoridades ejidales y comunales correspondientes y la autoridad estatal encargada de la administración del sistema de riego, orientará a la población para evitar la contaminación de agua de presas, pluviales, lagos y otras que se utilicen para riego o uso doméstico, originada por substancias tóxicas, plaguicidas, desperdicios o basura.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO V. SALUD OCUPACIONAL
 
 ###### ARTICULO 108.
 
@@ -1115,11 +1303,9 @@ La Secretaría de Salud y Asistencia del Estado tendrá a su cargo el control sa
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS Y DEFUNCION
+## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)</small>
-
-### CAPITULO IV. ACCIDENTES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 110.
 
@@ -1127,7 +1313,7 @@ El Gobierno del Estado, en coordinación con las autoridades federales e institu
 
 Asimismo, ejercerá el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
-### CAPITULO UNICO
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 111.
 
@@ -1239,7 +1425,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias estatales determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfectación y otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 125.
 
@@ -1263,9 +1449,9 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud, deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO IV. ACCIDENTES
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO UNICO
 
 ###### ARTICULO 128.
 
@@ -1291,9 +1477,11 @@ Para una mayor eficacia de las acciones a las que se refiere este artículo, se 
 
 > <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)</small>
 
-## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS Y DEFUNCION
 
-### CAPITULO I. DISPOSICIONES COMUNES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 130.
 
@@ -1397,7 +1585,9 @@ Para una mayor eficacia de las acciones a las que se refiere este artículo, se 
 
 ARTICULO 154 BIS.- (DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
-### CAPITULO II. DE LOS EXPENDIOS DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
+
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 155.
 
@@ -1421,7 +1611,7 @@ III.- Hábitos de consumo del alcohol en los diferentes grupos de población.
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO III. DE LAS BEBIDAS ALCOHOLICAS
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 157.
 
@@ -1438,6 +1628,82 @@ Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta
 I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas.
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+###### ARTICULO 159.
+
+El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución, en el territorio del Estado de Veracruz, del programa nacional contra la farmacodependencia.
+
+###### ARTICULO 160.
+
+El Gobierno del Estado y los municipios, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+
+I.- Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapacitados.
+
+II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas.
+
+III.- Brindarán la atención médica que se requiera a las personas que realicen o hayan realizado el consumo de inhalantes.
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
+
+A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos, que no se ajusten al control que dispongan el Gobierno Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan, en los términos de esta Ley.
+
+TITULO DECIMOPRIMERO
+
+SALUBRIDAD LOCAL
+
+### CAPITULO II. DE LOS EXPENDIOS DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+
+###### ARTICULO 161.
+
+Compete a la Secretaría de Salud y Asistencia del Estado, en los términos de esta Ley y demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el artículo 3°, apartado "B" de esta Ley.
+
+###### ARTICULO 162.
+
+Esta Ley contiene las bases normativas a las que deberán sujetarse los Ayuntamientos para la expedición de los reglamentos para el control sanitario de los servicios públicos a que se refiere la fracción III del artículo 115 de la Constitución Política de la República.
+
+###### ARTICULO 163.
+
+La concurrencia del Estado y los Ayuntamientos en el control sanitario de los servicios públicos a que se refiere el artículo 115, fracción II y 116, fracción IV, se establecerá en los reglamentos que para cada materia se expidan en los términos del artículo anterior.
+
+###### ARTICULO 164.
+
+Se entiende por control y regulación sanitaria, el conjunto de actos que lleve a cabo la autoridad, a fin de prevenir riesgos y daños a la salud de la población, que comprende: el otorgamiento de autorizaciones, la vigilancia sanitaria, la aplicación de medidas de seguridad y la imposición de sanciones a los establecimientos, servicios o personas a que se refiere esta Ley.
+
+###### ARTICULO 165.
+
+La Secretaría de Salud y Asistencia del Estado, emitirá las normas técnicas a que quedará sujeto el control sanitario en materia de salubridad local.
+
+###### ARTICULO 166.
+
+Los establecimientos y vehículos dedicados al transporte a que se refiere el artículo 3°, apartado "B" de esta Ley, requieren para su funcionamiento:
+
+I.- Licencia sanitaria, expedida por la Secretaría de Salud y Asistencia del Estado.
+
+II.- Contar en su caso, con permiso sanitario, todo el personal que en ellos labore.
+
+###### ARTICULO 167.
+
+Todo cambio de propietario de un establecimiento de razón y denominación social, o la cesión de derechos notariales, deberá ser notificado a la Secretaría de Salud y Asistencia del Estado, en un plazo no mayor de 30 días, a partir de la fecha en que se hubiere realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+
+###### ARTICULO 168.
+
+Las normas técnicas que expida la Secretaría de Salud y Asistencia del Estado, surtirán sus efectos al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+### CAPITULO III. DE LAS BEBIDAS ALCOHOLICAS
+
+###### ARTICULO 169.
+
+De conformidad con la norma técnica que expida la Secretaría de Salud, la Secretaría de Salud y Asistencia del Estado, ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos y bebidas no alcohólicas en el Estado.
+
+###### ARTICULO 170.
+
+La Secretaría de Salud y Asistencia del Estado y los municipios, en el ámbito de sus respectivas competencias, en los términos de esta Ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este capítulo.
+
+###### ARTICULO 171.
+
+El Ejecutivo del Estado podrá celebrar con los municipios, los convenios conducentes para que éstos asuman los servicios sanitarios relacionados con los establecimientos a que se refiere este capítulo.
 
 ### CAPITULO III BIS. DE LA PROHIBICION DE VENTA DE BEBIDAS ALCOHOLICAS A MENORES DE EDAD
 
@@ -1551,82 +1817,6 @@ XI. Autoridades competentes para verificar y, en su caso, sancionar las conducta
 
 ARTICULO 177 DECIES. Los ayuntamientos instrumentarán, en coordinación con los propietarios de establecimientos, campañas de información sobre los riesgos relacionados con el consumo excesivo de bebidas alcohólicas y con la conducción de vehículos automotores bajo los influjos de éstas.
 
-###### ARTICULO 159.
-
-El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución, en el territorio del Estado de Veracruz, del programa nacional contra la farmacodependencia.
-
-###### ARTICULO 160.
-
-El Gobierno del Estado y los municipios, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
-
-I.- Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapacitados.
-
-II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas.
-
-III.- Brindarán la atención médica que se requiera a las personas que realicen o hayan realizado el consumo de inhalantes.
-
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
-
-A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos, que no se ajusten al control que dispongan el Gobierno Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan, en los términos de esta Ley.
-
-TITULO DECIMOPRIMERO
-
-SALUBRIDAD LOCAL
-
-### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
-
-###### ARTICULO 161.
-
-Compete a la Secretaría de Salud y Asistencia del Estado, en los términos de esta Ley y demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el artículo 3°, apartado "B" de esta Ley.
-
-###### ARTICULO 162.
-
-Esta Ley contiene las bases normativas a las que deberán sujetarse los Ayuntamientos para la expedición de los reglamentos para el control sanitario de los servicios públicos a que se refiere la fracción III del artículo 115 de la Constitución Política de la República.
-
-###### ARTICULO 163.
-
-La concurrencia del Estado y los Ayuntamientos en el control sanitario de los servicios públicos a que se refiere el artículo 115, fracción II y 116, fracción IV, se establecerá en los reglamentos que para cada materia se expidan en los términos del artículo anterior.
-
-###### ARTICULO 164.
-
-Se entiende por control y regulación sanitaria, el conjunto de actos que lleve a cabo la autoridad, a fin de prevenir riesgos y daños a la salud de la población, que comprende: el otorgamiento de autorizaciones, la vigilancia sanitaria, la aplicación de medidas de seguridad y la imposición de sanciones a los establecimientos, servicios o personas a que se refiere esta Ley.
-
-###### ARTICULO 165.
-
-La Secretaría de Salud y Asistencia del Estado, emitirá las normas técnicas a que quedará sujeto el control sanitario en materia de salubridad local.
-
-###### ARTICULO 166.
-
-Los establecimientos y vehículos dedicados al transporte a que se refiere el artículo 3°, apartado "B" de esta Ley, requieren para su funcionamiento:
-
-I.- Licencia sanitaria, expedida por la Secretaría de Salud y Asistencia del Estado.
-
-II.- Contar en su caso, con permiso sanitario, todo el personal que en ellos labore.
-
-###### ARTICULO 167.
-
-Todo cambio de propietario de un establecimiento de razón y denominación social, o la cesión de derechos notariales, deberá ser notificado a la Secretaría de Salud y Asistencia del Estado, en un plazo no mayor de 30 días, a partir de la fecha en que se hubiere realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
-
-###### ARTICULO 168.
-
-Las normas técnicas que expida la Secretaría de Salud y Asistencia del Estado, surtirán sus efectos al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
-
-### CAPITULO V. DE LAS CONSTRUCCIONES
-
-###### ARTICULO 169.
-
-De conformidad con la norma técnica que expida la Secretaría de Salud, la Secretaría de Salud y Asistencia del Estado, ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos y bebidas no alcohólicas en el Estado.
-
-###### ARTICULO 170.
-
-La Secretaría de Salud y Asistencia del Estado y los municipios, en el ámbito de sus respectivas competencias, en los términos de esta Ley y demás disposiciones aplicables, autorizarán la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este capítulo.
-
-###### ARTICULO 171.
-
-El Ejecutivo del Estado podrá celebrar con los municipios, los convenios conducentes para que éstos asuman los servicios sanitarios relacionados con los establecimientos a que se refiere este capítulo.
-
-### CAPITULO VI. LIMPIEZA PUBLICA
-
 ###### ARTICULO 172.
 
 De conformidad con la norma técnica que expida la Secretaría de Salud, la Secretaría de Salud y Asistencia del Estado ejercerá el control sanitario de los establecimientos que expendan o suministren bebidas alcohólicas en el Estado.
@@ -1681,9 +1871,9 @@ Lo dispuesto en el artículo anterior rige además para el expendio, en envase a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE JULIO DE 2015)</small>
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
 
-### CAPITULO VIII. RASTROS
+### CAPITULO V. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 178.
 
@@ -1701,7 +1891,7 @@ Los mercados y centros de abasto, desde el punto de vista higiénico, estarán b
 
 Los vendedores locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetará a lo que disponga esta Ley, y los reglamentos respectivos, así como las normas técnicas correspondientes.
 
-### CAPITULO IX. PANTEONES
+### CAPITULO VI. LIMPIEZA PUBLICA
 
 ###### ARTICULO 182.
 
@@ -1739,7 +1929,7 @@ Cuando los propietarios o poseedores de construcciones o terrenos declarados pel
 
 Los propietarios o poseedores de los edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran, para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones aplicables y las normas técnicas correspondientes.
 
-### CAPITULO X. ESTABLOS, GRANJAS AVICOLAS, PISCICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 191.
 
@@ -1773,7 +1963,7 @@ Por ningún motivo se manipulará la basura antes de su llegada al basurero o la
 
 Para toda actividad relacionada con este capítulo, se acatará lo dispuesto por esta Ley, las demás disposiciones aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XI. RECLUSORIOS
+### CAPITULO VIII. RASTROS
 
 ###### ARTICULO 199.
 
@@ -1807,7 +1997,7 @@ Los proyectos para la implantación de sistemas de alcantarillado, deberán ser 
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en el mar o en arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPITULO XII. BAÑOS PUBLICOS, GIMNASIOS Y CLUBES DEPORTIVOS
+### CAPITULO IX. PANTEONES
 
 ###### ARTICULO 207.
 
@@ -1845,7 +2035,7 @@ El transporte de carne, para el comercio dentro del territorio del Estado, deber
 
 Las disposiciones a que se refiere, este capítulo, también son aplicables respecto a la matanza de aves para su venta al público, incluyendo pavos o guajolotes, gallinas, gallos, pollos, patos, codornices, palomas y otras.
 
-### CAPITULO XIII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. ESTABLOS, GRANJAS AVICOLAS, PISCICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 216.
 
@@ -1869,7 +2059,7 @@ El funcionamiento de los panteones y agencias funerarias, estará sujeto a esta 
 
 Para el debido control de los panteones establecidos en el territorio estatal, la Secretaría llevará un Registro Público Estatal de Panteones, el cual contendrá la información que anualmente le remitan los Ayuntamientos de la Entidad.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS, COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
+### CAPITULO XI. RECLUSORIOS
 
 ###### ARTICULO 220.
 
@@ -1897,7 +2087,7 @@ Para el funcionamiento de los establecimientos a que se refiere este capítulo, 
 
 Las condiciones sanitarias que deben reunir estos establecimientos, estarán fijadas por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS DE HOSPEDAJE Y RESTAURANTES
+### CAPITULO XII. BAÑOS PUBLICOS, GIMNASIOS Y CLUBES DEPORTIVOS
 
 ###### ARTICULO 224.
 
@@ -1911,7 +2101,7 @@ Los reclusorios estarán sujetos al control sanitario del Gobierno del Estado, d
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con departamentos de baño de regadera, retretes, peluquería, dietología, enfermería para la atención de los reclusos en los casos en que no ameriten hospitalización; áreas conyugales; servicios de psiquiatría, etc.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XIII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 227.
 
@@ -1929,7 +2119,7 @@ Para el funcionamiento al público de los baños, gimnasios o clubes deportivos,
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, las disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría de Salud y Asistencia del Estado.
 
-### CAPITULO XVII. GASOLINERAS
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS, COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
 
 ###### ARTICULO 230.
 
@@ -1943,7 +2133,7 @@ El funcionamiento de los establecimientos a que se refiere el artículo anterior
 
 Para su funcionamiento al público, previamente deberá obtener autorización sanitaria de la autoridad estatal.
 
-### CAPITULO XVIII. DE LA CAMPAÑA CONTRA LA HIDROFOBIA
+### CAPITULO XV. ESTABLECIMIENTOS DE HOSPEDAJE Y RESTAURANTES
 
 ###### ARTICULO 233.
 
@@ -1963,19 +2153,19 @@ II.- Lavandería, el establecimiento dedicado al lavado de ropa.
 
 III.- Lavadero público, el establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
 
-### CAPITULO XIX. DE LAS CAMPAÑAS CONTRA OTRAS ENFERMEDADES
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 236.
 
 Para los efectos de esta Ley, se entiende por establecimiento de hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello y por restaurantes, los lugares destinados a elaborar y servir alimentos al público.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVII. GASOLINERAS
 
 ###### ARTICULO 237.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga de alimentos perecederos o imperecederos o de pasajeros sea terrestre, fluvial, aéreo o marítimo, y sea cual fuere su medio de propulsión.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO XVIII. DE LA CAMPAÑA CONTRA LA HIDROFOBIA
 
 ###### ARTICULO 238.
 
@@ -1985,7 +2175,7 @@ Para los efectos de esta Ley, se entiende por gasolinera, el establecimiento des
 
 Las gasolineras deberán contar con las instalaciones sanitarias y cumplir con las normas de seguridad que se establezcan en el reglamento correspondiente y otras disposiciones legales aplicables.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO XIX. DE LAS CAMPAÑAS CONTRA OTRAS ENFERMEDADES
 
 ###### ARTICULO 240.
 
@@ -2007,7 +2197,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 Queda prohibido poseer animales domésticos en aquellos edificios de condominios o departamentos en los que deban utilizar pasillos, escaleras o elevadores comunes.
 
-### CAPITULO UNICO
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 245.
 
@@ -2017,7 +2207,7 @@ TITULO DECIMOSEGUNDO
 
 AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 246.
 
@@ -2089,7 +2279,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad local que se presten, se efectuarán en la forma que establezca la legislación aplicable.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 258.
 
@@ -2147,7 +2337,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO UNICO
 
 ###### ARTICULO 266.
 
@@ -2183,7 +2373,7 @@ TITULO DECIMOTERCERO
 
 VIGILANCIA SANITARIA
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 271.
 
@@ -2245,7 +2435,7 @@ TITULO DECIMOCUARTO
 
 MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 280.
 
@@ -2343,9 +2533,7 @@ Quedan exceptuados, aquellos bienes que se encuentren a disposición de autorida
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio se ordenará, previa observancia de la garantía de audiencia y dictamen pericial, cuando, a juicio de las autoridades sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 293.
 
@@ -2425,9 +2613,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO II. DE LOS BENEFICIARIOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### ARTICULO 305.
 
@@ -2501,9 +2687,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que corresponda.
 
-### CAPITULO III. DE LAS APORTACIONES PARA EL SISTEMA DE PROTECCION SOCIAL EN SALUD
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 315.
 
@@ -2567,7 +2751,7 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Veracruz.
 
-### CAPITULO IV. DE LAS CUOTAS FAMILIARES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2595,9 +2779,9 @@ DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO II. DE LOS BENEFICIARIOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 330.
 
@@ -2681,9 +2865,9 @@ VII.- Es facultad del Régimen, a través de los Servicios de Salud, proveer de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
+### CAPITULO III. DE LAS APORTACIONES PARA EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 335.
 
@@ -2729,7 +2913,7 @@ VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del o
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VII. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+### CAPITULO IV. DE LAS CUOTAS FAMILIARES
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2753,9 +2937,9 @@ Ambos recursos se administrarán y ejercerán con base en los acuerdos de coordi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 340.
 
@@ -2791,9 +2975,9 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
+### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 345.
 
@@ -2817,11 +3001,19 @@ Las responsabilidades administrativas, civiles y penales que deriven de la desvi
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
+### CAPITULO VII. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 347.
 
 El Sistema de Protección Social en Salud contará con un Régimen Estatal de Protección Social en Salud, como Organismo Público Descentralizado sectorizado a la Secretaría de Salud, con la estructura y funciones que le asignen el decreto de creación y su reglamento interior.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 348.
 
@@ -2896,6 +3088,10 @@ X.- Hacer uso responsable de los servicios de salud; y
 XI.- Proporcionar de manera fehaciente la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 351.
 
@@ -3140,3 +3336,15 @@ G.O. 16 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 932 QUE REFORMA LOS ARTÍCULOS 29, FRACCIÓN III; 34; 35, FRACCIÓN III; Y 55; ADICIONA LAS FRACCIONES IV BIS Y XX AL APARTADO "A" DEL ARTÍCULO 3º, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; LAS FRACCIONES IX, X, XI, XII, XIII Y XIV AL ARTÍCULO 4º; LA FRACCIÓN VI BIS AL ARTÍCULO 29; LA FRACCIÓN IV AL ARTÍCULO 35; Y CREA UN TÍTULO TERCERO BIS DENOMINADO "DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL" DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El Ejecutivo deberá emitir las adecuaciones necesarias al Reglamento correspondiente para su debida aplicación dentro de los noventa días siguientes a la fecha de publicación de la presente reforma, sin que la falta de reglamentación limite su aplicación.
+
+Tercero. El Ejecutivo deberá proveer de las partidas presupuestales específicas suficientes dentro del presupuesto anual de egresos del Estado de Veracruz, para la debida implementación de la prestación de los servicios de Cuidados Paliativos en el Sistema Estatal de Salud.
+
+Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
