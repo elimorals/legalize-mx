@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2016-02-17"
+last_updated: "2016-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -253,7 +253,17 @@ V. Establecer programas que involucren a los padres de familia o tutores en la a
 
 VI. Promover en los docentes el conocimiento de los derechos humanos;
 
-VII. Elaborar y, en su caso, ajustar el calendario escolar con atención al fijado por la autoridad educativa federal, garantizando el número de días efectivos de clases previstos en éste;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+VII. Elaborar y en su caso ajustar el calendario escolar respecto al establecido por la Secretaría de Educación Pública, cuando ello resulte necesario en atención a requerimientos y necesidades específicas de la Entidad, garantizando el número de días efectivos de clases previstos en la Ley General de Educación.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+En los municipios indígenas de la Entidad, que señale como tales la autoridad competente en la materia, se suspenderán las clases de educación básica hasta la media superior, los días treinta y uno de octubre, primero, dos y tres de noviembre del año escolar que corresponda, con motivo de las festividades dedicadas a los muertos.
+
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+El calendario escolar y sus ajustes se publicarán cada año en la Gaceta Oficial del Estado de Veracruz.
 
 VIII. Prestar los servicios de formación, actualización y desarrollo profesional para los maestros o docentes, de conformidad con lo dispuesto por la Ley General del Servicio Profesional Docente, en esta ley y demás disposiciones aplicables;
 
@@ -1974,3 +1984,13 @@ G.O. 17 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 933 QUE REFORMA Y ADICIONA DOS PÁRRAFOS A LA FRACCIÓN VII DEL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. La autoridad educativa estatal realizará los ajustes al calendario escolar a partir del siguiente año lectivo que corresponda a la publicación del presente Decreto.
+
+TERCERO. La Secretaría de Educación y la Secretaría de Desarrollo Social del Estado de Veracruz determinarán los municipios indígenas sujetos al presente Decreto.
