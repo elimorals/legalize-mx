@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2016-06-06"
+last_updated: "2016-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 13 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, EXCEPTO SU TÍTULO TERCERO Y DEMÁS DISPOSICIONES RELATIVAS A LA MATERIA DE TRANSPORTE PÚBLICO.]</small>
+
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 13 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, EXCEPTO SU TÍTULO TERCERO Y DEMÁS DISPOSICIONES RELATIVAS A LA MATERIA DE TRANSPORTE PÚBLICO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -1541,6 +1541,10 @@ A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y r
 
 Los vehículos que presten el servicio en las modalidades de urbano, suburbano y foráneo deberán estar equipados con gobernadores electrónicos de velocidad variable, circuitos para cerrar automáticamente sus puertas y que impidan que se abran mientras el vehículo se encuentre en movimiento o no permitan la marcha de la unidad si las puertas están abiertas; un sistema de posicionamiento global electrónico y dispositivos de conteo de pasajeros.
 
+> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+Para contribuir a mejorar la movilidad, la Secretaría promoverá la firma de convenios para la prestación del servicio en la modalidad de Transporte Escolar, en el que participen padres de familia, Secretaría de Educación de Veracruz y los concesionarios.
+
 ###### Artículo 121.
 
 Los vehículos contarán con equipo anticontaminante y cumplirán con las normas sobre no emisión de sustancias o de energía nocivas, en la forma y términos que disponga la Ley Estatal de Protección Ambiental y demás normatividad aplicable.
@@ -2304,3 +2308,11 @@ G.O. 6 DE JUNIO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 928 QUE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 120 DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
