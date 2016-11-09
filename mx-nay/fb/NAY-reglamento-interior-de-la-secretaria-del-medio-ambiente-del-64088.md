@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-del-medio-ambiente-del-640
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-04"
-last_updated: "2010-10-30"
+last_updated: "2016-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE DEL ESTADO DE NAYARIT
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO RURAL Y MEDIO AMBIENTE, PUBLICADO EN LA SECCIÓN DÉCIMA SEGUNDA AL NÚMERO 086 DEL P.O. DE 9 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2010.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL MEDIO AMBIENTE DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 4 de octubre de 2008.
 
@@ -597,8 +599,32 @@ Dado en el Palacio de Gobierno, Sede del Poder Ejecutivo, en la ciudad de Tepic,
 
 A T E N T A M E N T E "SUFRAGIO EFECTIVO. NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL.- RÚBRICA.- PROFA. CORA CECILIA PINEDO ALONSO, SECRETARIA GENERAL DE GOBIERNO.- RÚBRICA.- ING. LUIS CARLOS TAPIA PÉREZ, SECRETARIO DEL MEDIO AMBIENTE.- RÚBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 30 DE OCTUBRE DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO RURAL Y MEDIO AMBIENTE".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de la publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 27 de Noviembre de 2010; así como el Reglamento Interior de la Secretaría del Medio Ambiente del Estado de Nayarit publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 04 de Octubre de 2008, las Reformas y Adiciones a diversos artículos del Reglamento Interior de la Secretaría, publicado el día 30 de Octubre de 2010, así como todas las disposiciones administrativas y normativas que se opongan al presente Reglamento Interior.
+
+###### ARTÍCULO TERCERO.
+
+Aquellos asuntos que al entrar en vigor el presente Reglamento se encuentren en trámite a cargo de alguna de las Unidades que se suprimen, modifican su denominación o cambio de adscripción dentro de la propia serán turnados para su conocimiento y resolución a la Unidad Administrativa que le corresponda, conforme a las disposiciones de este Ordenamiento Jurídico.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se designa al Titular de la Contraloría Interna, la Secretaría de la Contraloría General asumirá los asuntos que la Ley de Responsabilidades de los Servidores Públicos del Estado le confiere a las Contralorías Internas de las Dependencias de la Administración Pública Estatal, conforme lo dispuesto en el artículo 15 de la Ley Orgánica del Poder Ejecutivo.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expidan el Manual General de Organización, manuales administrativos y demás disposiciones normativas complementarias a que se refiere este Reglamento, el Secretario queda facultado para decidir lo conducente.
