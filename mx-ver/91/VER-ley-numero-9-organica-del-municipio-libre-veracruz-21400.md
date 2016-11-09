@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2016-08-19"
+last_updated: "2016-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -55,9 +55,11 @@ El Municipio Libre es la base de la división territorial y de la organización 
 
 El Municipio Libre contará con personalidad jurídica y patrimonio propios, será gobernado por un Ayuntamiento y no existirá autoridad intermedia entre éste y el Gobierno del Estado.
 
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-El nombre de los Municipios sólo podrá ser modificado a solicitud de los Ayuntamientos interesados, por el voto de las dos terceras partes de los integrantes del Congreso, previa opinión del Gobernador del Estado, de los Agentes y Subagentes Municipales, así como de los Jefes de Manzana.
+El nombre de los municipios sólo podrá ser modificado a solicitud de los Ayuntamientos interesados, por el voto de las dos terceras partes de los integrantes del Congreso, previa opinión del Gobernador del Estado, de los Agentes y Subagentes Municipales, así como de los Jefes de Manzana y Comisario Municipal.
 
 ###### Artículo 4.
 
@@ -71,7 +73,9 @@ Las controversias que surjan entre dos o más municipios del Estado, se resolver
 
 El Congreso del Estado podrá crear, suprimir o fusionar municipios, así como modificar su extensión, mediante el voto de las dos terceras partes de sus integrantes, escuchando previamente la opinión del Gobernador del Estado y del Ayuntamiento o los Ayuntamientos de los municipios interesados.
 
-La opinión se producirá con el voto de las dos terceras partes de los integrantes de los Ayuntamientos, después de escuchar a los Agentes y Subagentes Municipales, así como a los Jefes de Manzana.
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+La opinión se producirá con el voto de las dos terceras partes de los integrantes de los Ayuntamientos, después de escuchar a los Agentes y Subagentes Municipales, y Comisario Municipal, así como a los Jefes de Manzana.
 
 ###### Artículo 6.
 
@@ -114,6 +118,10 @@ II. Manzana, que será la superficie de terreno urbano delimitado por vía públ
 III. Congregación, que será el área rural o urbana, donde residirá el Agente Municipal; y
 
 IV. Ranchería, que será una porción de la población y del área rural de una congregación, donde residirá el Subagente Municipal.
+
+> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+V. Caserío que será una porción de la población y del área rural de una ranchería donde residirá el Comisario Municipal.
 
 ###### Artículo 11.
 
@@ -1379,15 +1387,19 @@ V. Promover acciones de desarrollo económico con los municipios vecinos, cuando
 
 VI. Vigilar la aplicación de los recursos provenientes de los programas productivos basados en la agricultura por contrato y agricultura certificada, dirigidos a los productores, cumpliendo con la normatividad establecida por el Estado o la Federación.
 
-### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
+### CAPÍTULO IX. DE LOS JEFES DE MANZANA, COMISARIO MUNICIPAL Y ORGANISMOS AUXILIARES
+
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 61.
 
 Los Agentes y Subagentes Municipales son servidores públicos que funcionarán en sus respectivas demarcaciones como auxiliares de los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-Los Agentes y Subagentes Municipales cuidarán la observancia de las leyes y reglamentos aplicables en el lugar de su residencia, y tomarán las medidas que se requieran para mantener la tranquilidad y seguridad de los habitantes de las congregaciones y rancherías, según el caso. Al efecto, estarán obligados a:
+Los Agentes y Subagentes Municipales cuidarán la observancia de las leyes y reglamentos aplicables en el lugar de su residencia y tomarán las medidas que se requieran para mantener la tranquilidad y seguridad de los habitantes de las congregaciones y rancherías, según el caso. Al efecto, estarán obligados a:
 
 I. Dar aviso inmediato al Ayuntamiento de cualquier alteración en el orden público y de las medidas que hayan tomado para corregirlas;
 
@@ -1411,9 +1423,9 @@ V. Promover que en sus respectivas demarcaciones se establezcan los servicios p�
 
 VI. Vigilar el cumplimiento del precepto de la enseñanza obligatoria, tanto para los niños como para las niñas;
 
-> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
-VII. Dar parte a las autoridades de la aparición de cualquier calamidad pública para que se tomen las medidas convenientes;
+VII. Dar parte a las autoridades de la aparición de cualquier calamidad pública para que se tomen las medidas convenientes, así como participar activamente en los programas de protección civil implementados por las autoridades federales y estatales;
 
 > <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
@@ -1435,21 +1447,29 @@ XI. Solicitar al Ayuntamiento los medios que estimen necesarios para el desempe�
 
 XII. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPÍTULO X. DE LOS CRONISTAS MUNICIPALES
 
 > <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
 
 ###### Artículo 63.
 
-Los Jefes de Manzana son auxiliares del Ayuntamiento encargados de procurar que se cumplan los bandos de policía y gobierno, así como los reglamentos, circulares y disposiciones administrativas de observancia general en el municipio al que pertenezcan. Los Jefes de Manzana serán designados por el Ayuntamiento a propuesta del Presidente Municipal.
+Los Jefes de Manzana y el Comisario Municipal son auxiliares del Ayuntamiento encargados de procurar que se cumplan los bandos de policía y gobierno, así como los reglamentos, circulares y disposiciones administrativas de observancia general en el municipio al que pertenezcan. Los Jefes de Manzana y el Comisario Municipal serán designados por el Ayuntamiento a propuesta del Presidente Municipal.
+
+(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2016, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 64.
 
-Para ser Jefe de Manzana se requiere tener su domicilio en ella, un modo honesto de vivir, saber leer y escribir y no tener antecedentes penales.
+Para ser Jefe de Manzana o Comisario Municipal se requiere tener su domicilio en la manzana o caserío que le corresponde, UN MODO HONESTO DE VIVIR, saber leer y escribir Y NO TENER ANTECEDENTES PENALES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 65.
 
-Los Jefes de Manzana tendrán las atribuciones siguientes:
+Los Jefes de Manzana y el Comisario Municipal tendrán las atribuciones siguientes:
 
 I. Ejecutar las resoluciones y acuerdos que le instruya el Ayuntamiento, dentro de la circunscripción territorial correspondiente a su nombramiento;
 
@@ -1459,7 +1479,9 @@ III. Promover la vigilancia del orden público;
 
 IV. Promover el establecimiento de servicios públicos;
 
-V. Actuar como conciliador en los conflictos que se le presenten;
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+V. Actuar como conciliador o mediador en los conflictos que se les presenten y en su caso orientar a las partes, a acudir ante algún centro de Justicia Alternativa o Centro de Mediación y Conciliación de la Fiscalía General, ambas del Estado de Veracruz de Ignacio de la Llave.
 
 VI. Auxiliar a las autoridades federales, estatales o municipales, en el desempeño de sus atribuciones;
 
@@ -2121,7 +2143,9 @@ V. Determinación de las condiciones y formas en que el concesionario deberá ot
 
 VI. Señalar el procedimiento que deberá tramitarse y los medios de impugnación que podrán interponerse, en aquellos casos en que resulten afectados los derechos de los usuarios del servicio concesionado; y
 
-VII. La aprobación del Ayuntamiento, escuchando la opinión de los Agentes y Subagentes Municipales, así como de los jefes de manzana.
+> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+VII. La aprobación del Ayuntamiento, escuchando la opinión de los Agentes, Subagentes Municipales, así como de los Jefes de Manzana y el Comisario Municipal.
 
 > <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -2257,6 +2281,8 @@ En caso de extinción de la concesión de servicios públicos municipales, los b
 
 ### CAPÍTULO IV. DE LOS CONVENIOS, LA COORDINACIÓN Y LA ASOCIACIÓN MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 102.
 
 Los propietarios o poseedores de predios, con o sin edificaciones, estarán obligados a contribuir para el costo de las obras públicas municipales que planifiquen o realicen los municipios, en la medida que incrementen el valor e impliquen una mejora específica de esas propiedades o posesiones, siempre que se trate de predios comprendidos en la zona colindante a las obras realizadas, de acuerdo con las reglas siguientes:
@@ -2303,7 +2329,7 @@ XII. El costo de las obras se dividirá en partes iguales entre el Municipio y l
 
 ###### Artículo 103.
 
-Los municipios podrán celebrar convenios, previa autorización del Congreso del Estado o de la Diputación Permanente, la que se otorgará siempre y cuando la coordinación o asociación arrojen un beneficio en la prestación de los servicios a los habitantes de los municipios, exista un acuerdo de cabildo aprobado por las dos terceras partes de sus miembros y se haya escuchado a los Agentes y Subagentes Municipales, así como a los Jefes de Manzana. Esta disposición regirá para los casos siguientes:
+Los municipios podrán celebrar convenios, previa autorización del Congreso del Estado o de la Diputación Permanente, la que se otorgará siempre y cuando la coordinación o asociación arrojen un beneficio en la prestación de los servicios a los habitantes de los municipios, exista un acuerdo de cabildo aprobado por las dos terceras partes de sus miembros y se haya escuchado a los Agentes y Subagentes Municipales, Comisario Municipal, así como a los Jefes de Manzana. Esta disposición regirá para los casos siguientes:
 
 I. Con municipios de otras entidades federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan;
 
@@ -2343,9 +2369,11 @@ El Presidente, el Síndico, el Regidor de la Comisión de Hacienda y Patrimonio 
 
 Los Ayuntamientos formularán cada año, en el mes de enero, un inventario general y avalúo de los bienes municipales de cualquiera naturaleza que sean. Concurrirán a su formulación el Presidente Municipal, la Comisión de Hacienda y Patrimonio Municipal y el Tesorero. El inventario y el avalúo se extenderá por triplicado, y quedará un ejemplar en el archivo municipal, uno en la Tesorería y el otro se remitirá al Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 106.
 
-En la primera quincena del mes de agosto de cada año, las Comisiones, oyendo a los Agentes y Subagentes Municipales, así como a los Jefes de Manzana, elaborarán un proyecto de Presupuesto de Egresos en lo referente a su ramo, en el que se indiquen las necesidades a satisfacer para el año siguiente y su costo, señalando las prioridades, debiendo presentarlo a la Comisión de Hacienda y Patrimonio Municipal.
+En la primera quincena del mes de agosto de cada año, las Comisiones, oyendo a los Agentes y Subagentes Municipales, Comisario Municipal, así como a los Jefes de Manzana, elaborarán un proyecto de Presupuesto de Egresos en lo referente a su ramo, en el que se indiquen las necesidades a satisfacer para el año siguiente y su costo, señalando las prioridades, debiendo presentarlo a la Comisión de Hacienda y Patrimonio Municipal.
 
 En la segunda quincena del mes de agosto los servidores públicos mencionados en el artículo anterior, con base en los ingresos y egresos que tengan autorizados y los proyectos de las Comisiones, formularán cada año los proyectos presupuestales de ingresos y egresos para el ejercicio correspondiente al año siguiente.
 
@@ -3822,3 +3850,19 @@ G.O. 19 DE AGOSTO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 929 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 930 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
