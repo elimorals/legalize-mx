@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-la-comision-estatal-de-los-derechos-humanos-del-100289"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2016-05-04"
+last_updated: "2016-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el viernes 27 de diciembre de 2013.
 
@@ -235,7 +235,9 @@ XVII. Realizar visitas periódicas a:
 
 a) Los pueblos, albergues o zonas de concentración indígena, con la finalidad de verificar el irrestricto respeto a los derechos humanos y sociales que les reconoce la Constitución y Constitución Local, las leyes y reglamentos que de ambas emanan, así como los instrumentos internacionales que México haya ratificado sobre derechos de los pueblos indígenas.
 
-b) Los orfanatos, asilos, hospicios, instituciones y organismos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de los niños contenidos en las leyes federales, locales, en los instrumentos internacionales sobre los derechos de la infancia que hayan sido ratificados por México o de los que forme parte, así como los derechos de la educación y la salud que establece la Constitución.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+b) Los orfanatos, asilos, hospicios, instituciones y organismos, para verificar la observancia y respeto de los derechos de las niñas, niños y adolescentes, contenidos en las leyes federales, locales, en los instrumentos internacionales sobre los derechos de la infancia que hayan sido ratificados por México o de los que forme parte, así como los derechos de la educación y la salud que establece la Constitución.
 
 c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y ancianos, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad estatal o municipal, para cerciorarse del absoluto respeto a los derechos humanos de las personas que son atendidas en esas instituciones.
 
@@ -255,17 +257,21 @@ XXII. Las demás que se establezcan en la presente Ley, su reglamento y las dem�
 
 La Comisión Estatal no tendrá más restricciones a sus atribuciones, facultades y competencias, que las que de manera expresa señale la Constitución, la Constitución local y las demás disposiciones en la materia.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-La Comisión Estatal contará con las siguientes Visitadurías Generales Especializadas:
+La Comisión Estatal contará con las siguientes Visitadurías:
 
-I. Visitaduría General de Atención de Asuntos de la Mujer.
+I. Visitaduría General Especializada en Atención de Asuntos de la Mujer.
 
-II. Visitaduría General de Atención de Asuntos Indígenas.
+II. Visitaduría General Especializada en Atención de Asuntos Indígenas.
 
-III. Visitaduría General de Atención de Asuntos de Migrantes.
+III. Visitaduría General Especializada en Atención de Asuntos de Migrantes.
 
-Las Visitadurías, tendrán como función el seguimiento de los expedientes de quejas que se radiquen en la Comisión Estatal hasta su total conclusión, así como la de proponer para aprobación del Consejo Consultivo, estudios, iniciativas de ley, investigaciones, proyectos específicos y fomento de políticas públicas en materia de derechos humanos, con acciones que prioricen la igualdad de oportunidades y equidad de género; el respeto sin discriminación a los derechos humanos y libertades fundamentales de mujeres y hombres, el respeto de los indígenas, de grupos vulnerables, de migrantes y la sociedad en general.
+IV. Visitaduría General Especializada en Atención de Asuntos de Niñas, Niños y Adolescentes.
+
+Las Visitadurías, tendrán como función el seguimiento de los expedientes de quejas que se radiquen en la Comisión Estatal hasta su total conclusión, así como la de proponer para aprobación del Consejo Consultivo, estudios, iniciativas de ley, investigaciones, proyectos específicos y fomento de políticas públicas en materia de derechos humanos, con acciones que prioricen la igualdad de oportunidades y equidad de género; el respeto sin discriminación a los derechos humanos y libertades fundamentales de mujeres y hombres, el respeto de los indígenas, de grupos vulnerables, de migrantes y la sociedad en general, así como el respeto, protección y promoción de los derechos humanos de las niñas, niños y adolescentes.
 
 ###### Artículo 21.
 
@@ -341,7 +347,9 @@ El Presidente no estará subordinado con motivo de sus funciones y opiniones, a 
 
 El Presidente podrá ser separado del cargo o destituido y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Décimo Segundo de la Constitución local.
 
-Durante las ausencias temporales del Presidente, sus funciones y su representación legal serán ejercidas por el o la Visitador General Especializado de Atención de Asuntos de Migrantes, en ausencia de éste por el Visitador General Especializado de Atención de Asuntos de la Mujer, y en su caso, por el Visitador General Especializado de Atención de Asuntos Indígenas.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+Durante las ausencias temporales del Presidente, sus funciones y representación legal serán ejercidas por la o el Visitador General Especializado en Atención de Asuntos de Migrantes, por lo que, en ausencia de éste, podrán realizar dichas atribuciones de manera indistinta, la o el Visitador General Especializado en Atención de Asuntos de la Mujer, la o el Visitador General Especializado en Atención de Asuntos Indígenas, y por la o el Visitador General Especializado en Atención de Asuntos de Niñas, Niños y Adolescentes, según lo instruido por el Presidente.
 
 Se entenderá por ausencia temporal aquellas que no excedan de treinta días. De lo contrario se entenderá como definitiva.
 
@@ -797,7 +805,9 @@ En todo caso, una vez recibida la recomendación, la autoridad o servidor públi
 
 La Comisión Estatal no estará obligada a entregar ninguna de sus pruebas a la autoridad o servidor público a la cual dirigió una recomendación o a algún particular. Si dichas pruebas le son solicitadas, resolverá si se entregarán o no; excepto en los casos en que el quejoso o sus familiares en línea ascendente o descendente en cualquier grado o colaterales hasta el segundo grado, ofrezcan como medio de convicción en un procedimiento jurisdiccional las pruebas o constancias que integraron la queja ventilada ante la propia Comisión Estatal.
 
-En los casos en que las pruebas sean solicitadas, los Visitadores, podrán determinar discrecionalmente si se accede a la solicitud respectiva, observando los principios establecidos en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2016)</small>
+
+En los casos en que las pruebas sean solicitadas, los Visitadores, podrán determinar discrecionalmente si se accede a la solicitud respectiva, observando los principios establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas.
 
 ###### Artículo 69.
 
@@ -950,3 +960,13 @@ P.O. 4 DE MAYO DE 2016.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 013 POR MEDIO DEL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Presidente de la Comisión Estatal de los Derechos Humanos deberá someter a consideración de los Consejeros del Consejo Consultivo para su aprobación, las adecuaciones que correspondan al reglamento interior y demás normatividad aplicable, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
