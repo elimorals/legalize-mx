@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2016-10-11"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2635,13 +2635,17 @@ XIX. Cualquier servidor público que, teniendo la obligación de ejecutar crédi
 
 XX. A quien apruebe u otorgue un nombramiento supernumerario que trascienda el periodo constitucional del titular de la entidad pública, en el que se otorgó;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXI. A quien apruebe u otorgue definitividad en el puesto, empleo, cargo o comisión al servidor público, tenga un nombramiento temporal de carácter interino, provisional o de obra determinada, sin observar lo dispuesto por la legislación y reglamentación relativa al escalafón, servicio civil o la aplicable, o
+XXI. A quien apruebe u otorgue definitivita (sic) en el puesto, empleo, cargo o comisión al servidor público, tenga un nombramiento temporal de carácter interino, provisional o de obra determinada, sin observar lo dispuesto por la legislación y reglamentación relativa al escalafón, servicio civil o la aplicable;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXII. A quien apruebe u otorgue un nombramiento a un servidor público, cuando contravenga lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+XXII. A quien apruebe u otorgue un nombramiento a un servidor público, cuando contravenga lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+XXIII. A quien apruebe en los presupuestos de egresos, remuneraciones para los servidores públicos que contravengan lo dispuesto en el artículo 111 de la Constitución Política del Estado de Jalisco.
 
 Al que cometa el delito de abuso de autoridad se le impondrán las siguientes sanciones:
 
@@ -6472,3 +6476,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 [N DE E. TRANSITORIO DEL “DECRETO 25882/LXI/16 QUE REFORMA LOS ARTÍCULOS 21, 122, 142-L, 146, 154, 175, 209, 217, 218 Y 223, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25904/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 42, 43, 44, 45, 46, 46- BIS, 49 Y 56, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 92 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 46 BIS DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PúBLICO DEL ESTADO DE JALISCO, MODIFICA EL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La reforma del artículo 46 bis de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor el 31 de octubre de 2018.
