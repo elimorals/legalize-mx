@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2014-12-23"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -3081,9 +3081,25 @@ ART. 613.- Los edictos se publicarán por dos meses con intervalo de quince día
 
 ART. 614.- La persona representante está obligada a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable de los daños y perjuicios que se sigan al ausente y es causa legítima de remoción.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+ART. 614 BIS.- En el supuesto de que la desaparición del ausente haya sido forzada, la parte interesada hará del conocimiento del Juez tal circunstancia, y remitirá las constancias que tuviere en su poder para comprobarlo.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+ART. 614 TER.- El Juez podrá solicitar de manera inmediata a las autoridades competentes y allegarse de todos los medios de prueba que considere pertinentes para determinar si existe la presunción de que la desaparición fue forzada.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+ART. 614 QUÁTER.- En caso de que el Juez considere de que hay presunción de que la ausencia se debe a una desaparición forzada, se substanciará el procedimiento a que se refiere este capítulo sin la obligación de publicar los edictos a los que aluden los arábigos, 595, 612, 613, y 614; tampoco será necesario llevar a cabo lo dispuesto en el numeral 596 de este Ordenamiento.
+
 ### CAPITULO II. De la Declaración de Ausencia
 
 ART. 615.- Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+ART. 615 BIS.- En los supuestos de que el Juez haya declarado que existe presunción de que la ausencia se debe a una desaparición forzada, la acción para pedir la declaración de ausencia se podrá solicitar pasados tres meses desde el día en que haya sido nombrado el representante.
 
 ART. 616.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia, sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren noticias suyas, o desde la fecha en que se hayan tenido las últimas.
 
@@ -10448,3 +10464,11 @@ P.O. 23 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0422 BIS.- SE ADICIONA LOS ARTÍCULOS, 614 BIS, 614 TER, 614 QUÁTER, Y 615 BIS, AL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
