@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-comision-de-transparencia-y-51747"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-14"
-last_updated: "2008-07-15"
+last_updated: "2016-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2008.
+REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 14 de septiembre de 2006.
 
@@ -175,15 +177,15 @@ XVI. Acordar los lineamientos y proyectos de difusión, estudio, enseñanza y di
 
 XVII. Presentar anualmente informe por escrito a la Legislatura Local, en los términos de lo que establece la Ley;
 
-> <small>(REFORMADA, P.O.16 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
 XVIII. Interpretar la Ley, favoreciendo el interés general de la información en posesión de los sujetos obligados por la misma.
 
-> <small>(REFORMADA, P.O.16 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2007)</small>
 
 XIX. Aprobar la aplicación de los recursos que, al cierre de cada ejercicio fiscal, queden en poder de la Comisión y que provengan de las partidas aprobadas en su correspondiente presupuesto de egresos; y
 
-> <small>(ADICIONADA, P.O.16 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2007)</small>
 
 XX. Las demás que le señalen la Ley, este Reglamento y demás disposiciones legales y administrativas aplicables.
 
@@ -1097,7 +1099,7 @@ El presente Acuerdo fue aprobado por unanimidad de votos, por el Pleno de la Com
 
 C.D.O. Gonzalo E. Bojórquez Risueño, Comisionado Presidente.- C.P. Tirso A. R. de la Gala Gómez, Comisionado.- Licda. Teresa del J. León Buenfil, Comisionada.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 16 DE ENERO DE 2007.
 
@@ -1108,3 +1110,15 @@ SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial del Estado.
 P.O. 15 DE JULIO DE 2008.
 
 ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO NO. COTAIPEC/021/16 “DEL PLENO DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, POR EL QUE SE APRUEBA EL REGLAMENTO INTERIOR DE LA PROPIA COMISIÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Comisión de Acceso a la información Pública del Estado de Campeche, publicado en el Periódico Oficial del Estado el 14 septiembre de 2006.
+
+TERCERO. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche que cambien de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+CUARTO. Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia conforme a este ordenamiento.
