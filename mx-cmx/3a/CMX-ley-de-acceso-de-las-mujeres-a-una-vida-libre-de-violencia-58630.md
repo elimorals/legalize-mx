@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2015-11-26"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -146,9 +146,25 @@ II. La libertad y autonomía de las mujeres;
 
 III. La no discriminación;
 
-IV. La equidad de género; y
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-V. La transversalidad de la perspectiva de género.
+IV. La igualdad de género;
+
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+V. La transversalidad de la perspectiva de género, y la coordinación institucional en términos del artículo 11 de esta ley;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+VI. Seguridad Jurídica, en términos del artículo 54 de la propia ley;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+VII. La protección y seguridad; y
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+VIII. El apoyo y desarrollo integral de la víctima.
 
 ###### Artículo 5.
 
@@ -1365,3 +1381,11 @@ CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del
 G.O. 26 DE NOVIEMBRE DE 2015.
 
 PRIMERO (sic).- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
