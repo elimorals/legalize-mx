@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2016-10-27"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -368,6 +368,12 @@ V. Participar, dentro de su región, en los programas que lleve a cabo la Secret
 VI. Supervisar los rastros municipales, los centros de acopio privados de las especies domésticas productivas y los centros de sacrificio para certificar la legal procedencia del ganado que en estos lugares se encuentren, y
 
 VII. Las que le otorguen la presente ley, su reglamento y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 16
+
+bis.- Para ser supervisor regional pecuario o inspector de ganadería municipal, se requiere acreditar conocimiento en la materia, así como de los requisitos que señala el reglamento respectivo.
 
 ###### Artículo 17.
 
@@ -1600,3 +1606,9 @@ P.O. 27 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25897/LXI/16 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 25538/LX/2015".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25906/LXI/16 QUE ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
