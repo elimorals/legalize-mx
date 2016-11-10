@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-simbolos-oficiales-del-estado-de-jalisco-75929"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-07"
-last_updated: "2016-10-11"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 7 de agosto de 2010.
 
@@ -167,7 +165,9 @@ Uso de la Bandera del Estado
 
 1. Los edificios públicos y los planteles educativos deben contar con la Bandera del Estado, con el objeto de rendirle honores y utilizarse en actos cívicos.
 
-2. El saludo civil a la Bandera del Estado es de pie en posición de firmes, con la mano derecha extendida sobre el pecho y la palma hacia abajo a la altura del corazón, y con la cabeza descubierta.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+2. EI saludo civil a la Bandera del Estado es de pie en posición de firmes y con la cabeza descubierta.
 
 3. La Bandera del Estado no saluda a persona o símbolo alguno, salvo mediante ligera inclinación y sin tocar el suelo a:
 
@@ -269,7 +269,7 @@ que a Jalisco su vida ofrendó.
 
 3. La música oficial del Himno del Estado es la siguiente:
 
-> <small>N. DE E. VEASE PARTITURA EN LA SECCION III DEL P.O. DE 7 DE AGOSTO DE 2010, DE LA PAGINA 8 A LA 9.</small>
+> <small>N. DE E. VÉASE PARTITURA EN LA SECCIÓN III DEL P.O. DE 7 DE AGOSTO DE 2010, DE LA PAGINA 8 A LA 9.</small>
 
 ###### Artículo 14.
 
@@ -382,3 +382,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25894/LXI/16 QUE REFORMA EL ARTÍCULO 11 DE LA LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
