@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2015-03-13"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -927,6 +927,12 @@ La Secretaría gestionará en coordinación con la Secretaría de Desarrollo Eco
 
 Se promoverán incentivos o estímulos fiscales a los prestadores que cumplan con los ordenamientos, normas oficiales y lineamientos en materia de turismo, así como aquellos que fomenten el empleo, la accesibilidad en beneficio de las personas con discapacidad y en materia de protección al medio ambiente, de conformidad con las Leyes de Ingresos y de Egresos del Estado para el ejercicio fiscal que corresponda y las demás leyes en la materia.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 70 Bis.
+
+El Congreso del Estado, a través de su Comisión de Turismo, concederá cada año, un galardón a los prestadores de servicios que se destaquen por su interés, creatividad, inversión, atención y promoción de la actividad turística en el Estado.
+
 ###### Artículo 71.
 
 El Ejecutivo Estatal podrá crear un fideicomiso para financiar los programas y acciones que se instrumenten para la promoción de la actividad turística del Estado.
@@ -1234,3 +1240,15 @@ P.O. 13 DE MARZO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 70 BIS A LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, dentro de los noventa días naturales siguientes contados a partir de la fecha de entrada en vigor de este Decreto, a propuesta de la Comisión de Turismo, aprobará los lineamientos con base en los cuáles se otorgue el galardón materia del artículo 70 Bis de la Ley de Turismo del Estado de Puebla.
