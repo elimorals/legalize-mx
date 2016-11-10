@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2016-11-04"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE NOVIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE NOVIEMBRE DE 2016.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -1571,9 +1571,9 @@ Todos los miembros del Consejo deberán ser personas que se hayan distinguido po
 
 Los Consejeros designados por el Pleno del Tribunal Superior de Justicia, deberán reunir los requisitos señalados en el artículo 89 de esta Constitución y gozar de reconocimiento en el ámbito judicial. En el caso de los integrantes del Comité Consultivo éstos tendrán el carácter de honoríficos y por tanto no tendrán derecho a remuneración alguna por el ejercicio o desempeño de este cargo, debiendo cumplir con las fracciones I, II, IV y V del artículo 89 de esta Constitución, y no podrán desempeñar cualquier otro cargo, empleo o comisión que pueda resultar en un conflicto de intereses.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 10 DE NOVIEMBRE DE 2016)
 
-El Consejo del (sic) Judicatura funcionará en Pleno o en comisiones, y será competente para resolver sobre la designación, adscripción, ratificación y remoción de jueces, así como de los demás asuntos que la Ley determine.
+El Consejo de la Judicatura funcionará en Pleno o en comisiones, y será competente para resolver sobre la designación, adscripción, ratificación y remoción de jueces, así como de los demás asuntos que la Ley determine.
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -3439,17 +3439,21 @@ DÉCIMO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 
 P.O. 4 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia del mismo, sin perjuicio de lo dispuesto en los Artículos Transitorios siguientes.
 
 SEGUNDO. El Congreso del Estado dentro del plazo previsto en el Transitorio Cuarto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado el veintisiete de mayo de dos mil quince, en el Diario Oficial de la Federación, expedirá las Leyes y aprobará las adecuaciones normativas a que haya lugar, conforme a este Decreto.
 
-TERCERO. En lo relativo a la fiscalización y control de recursos públicos, continuará aplicándose la legislación vigente a la entrada en vigor de este Decreto, hasta en tanto, entren en vigor las Leyes y adecuaciones normativas a que se refiere el Artículo Transitorio Tercero del presente Decreto, y sin perjuicio de lo dispuesto en el artículo Tercero Transitorio de la Declaratoria que contiene el Decreto del Honorable Congreso del Estado, por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado, el veintiocho de noviembre de dos mil doce.
+> <small>(F. DE E., P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+TERCERO. En lo relativo a la fiscalización y control de recursos públicos, continuará aplicándose la legislación vigente a la entrada en vigor de este Decreto, hasta en tanto, entren en vigor las Leyes y adecuaciones normativas a que se refiere el Artículo Transitorio Segundo del presente Decreto, y sin perjuicio de lo dispuesto en el artículo Tercero Transitorio de la Declaratoria que contiene el Decreto del Honorable Congreso del Estado, por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado, el veintiocho de noviembre de dos mil doce.
 
 En materia de responsabilidades de servidores públicos del Estado y sus municipios, continuará aplicándose la legislación vigente a la entrada en vigor de este Decreto, hasta en tanto, entre en vigor la legislación aplicable en el Estado de Puebla.
 
-CUARTO. Los procedimientos legales, administrativos y demás asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y de las Leyes y adecuaciones normativas referidas en el Artículo Transitorio Tercero, continuarán sustanciándose hasta su total conclusión y se resolverán conforme a las disposiciones vigentes al momento de su inicio, disposiciones que también serán aplicables, para los asuntos que deriven o sean consecuencia de los mismos.
+> <small>(F. DE E., P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+CUARTO. Los procedimientos legales, administrativos y demás asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y de las Leyes y adecuaciones normativas referidas en el Artículo Transitorio Segundo, continuarán sustanciándose hasta su total conclusión y se resolverán conforme a las disposiciones vigentes al momento de su inicio, disposiciones que también serán aplicables, para los asuntos que deriven o sean consecuencia de los mismos.
 
 QUINTO. El titular de la Secretaría encargada del control interno del Poder Ejecutivo del Estado, así como los titulares de los órganos internos de control estatales, municipales y de los organismos constitucionalmente autónomos, que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo en los términos en que fueron nombrados.
 
