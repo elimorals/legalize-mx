@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2016-10-11"
+last_updated: "2016-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -177,17 +175,25 @@ XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otra
 
 XX.- Fomentar la cultura de la transparencia, el acceso a la información pública y la protección de los datos personales, con la finalidad de propiciar el ejercicio de estos derechos fundamentales y consolidar el avance democrático en el Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXI.- Divulgar el desarrollo económico, cultural y social de las diversas regiones del estado, en particular en aquellas regiones donde el grado de migración social es alto o muy alto, fomentando la concientización del estudiante como parte de una sociedad jalisciense en constante crecimiento, buscando generar un sentido de pertenencia y confianza en el estado, y
+XXI. Divulgar el desarrollo económico, cultural y social de las diversas regiones del estado, en particular en aquellas regiones donde el grado de migración social es alto o muy alto, fomentando la concientización del estudiante como parte de una sociedad jalisciense en constante crecimiento, buscando generar un sentido de pertenencia y confianza en el estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXII.- Promover el conocimiento, así como la adecuada, responsable y segura utilización de las nuevas tecnologías de la información, ponderando y difundiendo, en conjunto con los padres de familia, los alcances del derecho a la protección de los datos personales.
+XXII. Promover el conocimiento, así como la adecuada, responsable y segura utilización de las nuevas tecnologías de la información, ponderando y difundiendo, en conjunto con los padres de familia, los alcances del derecho a la protección de los datos personales;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXIII.- Promover el conocimiento, la cultura y el respeto de los derechos humanos.
+XXIII. Promover el conocimiento, la cultura y el respeto de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+XXIV. Fomentar el desarrollo de habilidades en el manejo de la economía; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+XXV. Promover e impulsar el estudio de las bellas artes y artesanías como medio para el desarrollo integral de la persona y la armonía social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3902,3 +3908,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25890/LXI/16 QUE REFORMA LAS FRACCIONES XXI, XXII Y XXIII Y SE ADICIONAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
