@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-instituto-electoral-del-estado-de-28542
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-11"
-last_updated: "2015-01-03"
+last_updated: "2016-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -1018,11 +1020,11 @@ LIC. JAVIER FIGUEROA BALDOVINES.-Rúbrica.
 
 CONSEJERO ELECTORAL
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 3 DE ENERO DE 2015.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
 PRIMERO.- Este Consejo General en atención a los considerandos vertidos, determina la reforma de los artículos 40, 42, 48, 49, 54 y 79 del Reglamento Interior del Instituto Electoral del Estado, para quedar conforme la propuesta señalada en el considerando 8º del presente documento.
 
@@ -1031,3 +1033,11 @@ SEGUNDO.- El presente acuerdo entrará en vigor el día de su aprobación por el
 TERCERO.- Se instruye al Secretario Ejecutivo del Instituto Electoral del Estado, para que notifique el contenido del presente acuerdo a los Consejos Municipales y partidos políticos acreditados.
 
 CUARTO.- Con fundamento en el artículo 113 del Código de la materia, publíquese el presente acuerdo en el Periódico Oficial "El Estado de Colima" y en la página de internet del Instituto Electoral del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Es de abrogarse y se abroga el Reglamento Interior del Instituto Electoral del Estado de Colima, aprobado por el Consejo General de este Instituto mediante Acuerdo número 7, del 30 de diciembre de 2002, publicado en el Periódico Oficial "El Estado de Colima" el día 11 de enero de 2003; asimismo, se derogan todas las disposiciones de los demás Reglamentos del Instituto Electoral del Estado de Colima que se opongan al presente ordenamiento.
