@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-tecnicos-generales-para-la-publicacion-114411"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-04-13"
 
 LINEAMIENTOS TÉCNICOS GENERALES PARA LA PUBLICACIÓN, HOMOLOGACIÓN Y ESTANDARIZACIÓN DE LA INFORMACIÓN DE LAS OBLIGACIONES ESTABLECIDAS EN EL TÍTULO QUINTO Y EN LA FRACCIÓN IV DEL ARTÍCULO 31 DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, QUE DEBEN DE DIFUNDIR LOS SUJETOS OBLIGADOS EN LOS PORTALES DE INTERNET Y EN LA PLATAFORMA NACIONAL DE TRANSPARENCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2016.
 
 Lineamientos publicados en la Séptima, Octava, Novena y Décima Sección del Diario Oficial de la Federación, el miércoles 4 de mayo de 2016.
 
@@ -372,3 +372,27 @@ ANEXO XIII
 ANEXO XIV
 
 > <small>[N. DE E. VÉASE ANEXO XIV PERSONAS FÍSICAS Y/O MORALES QUE RECIBAN Y EJERZAN RECURSOS PÚBLICOS O REALICEN ACTOS DE AUTORIDAD, EN LA DÉCIMA SECCIÓN DEL D.O.F. DEL 4 DE MAYO DE 2016, PÁGINAS DE LA 119 A LA 128.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LOS PUNTOS DE ACUERDO MEDIANTE EL CUAL SE REALIZAN MODIFICACIONES A LOS FORMATOS ESTABLECIDOS EN LOS ANEXOS DE LOS LINEAMIENTOS TÉCNICOS GENERALES PARA LA PUBLICACIÓN, HOMOLOGACIÓN Y ESTANDARIZACIÓN DE LA INFORMACIÓN DE LAS OBLIGACIONES ESTABLECIDAS EN EL TÍTULO QUINTO Y EN LA FRACCIÓN IV DEL ARTÍCULO 31 DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, QUE DEBEN DE DIFUNDIR LOS SUJETOS OBLIGADOS EN LOS PORTALES DE INTERNET Y EN LA PLATAFORMA NACIONAL DE TRANSPARENCIA.]</small>
+
+PRIMERO. Se aprueba el Acuerdo mediante el cual se modifican los Anexos de los Lineamientos Técnicos para la publicación, homologación y estandarización de la información de las obligaciones establecidas en el Título Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los sujetos obligados en los portales de Internet y en la Plataforma Nacional de Transparencia, para quedar en términos del Anexo Único que forman parte integral del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Publíquese la reforma propuesta en el Anexo del presente Acuerdo a los Anexos de los Lineamientos Técnicos Generales para la publicación, homologación y estandarización de la información de las obligaciones establecidas en el Título Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los sujetos obligados en los portales de Internet y en la Plataforma Nacional de Transparencia en el Diario Oficial de la Federación.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en la página electrónica del Sistema Nacional y de sus integrantes, asimismo, envíese a las direcciones de correo electrónico institucional de los integrantes del Sistema Nacional a través de la dirección de correo del Secretario Ejecutivo (federico.guzman@inai.org.mx).
+
+QUINTO. Se instruye al Secretario Ejecutivo a ejecutar el presente acuerdo en sus términos.
+
+Así lo acordó el Pleno del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en su Segunda Sesión Ordinaria, celebrada el veintiséis de octubre de dos mil dieciséis, en la Ciudad de México, lo que se certifica y se hace constar, con fundamento en el artículo 12 fracción XII y 13 fracciones VII y VIII del Reglamento del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+ANEXO ÚNICO
+
+Anexo del presente Acuerdo, mediante el cual se realizan modificaciones a los Anexos de los Lineamientos Técnicos Generales para la publicación, homologación y estandarización de la información de las obligaciones establecidas en el Título Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los sujetos obligados en los portales de Internet y en la Plataforma Nacional de Transparencia, para quedar como siguen:
+
+> <small>[N. DE E. VÉASE REFORMAS A LOS ANEXOS I, II, V, VIII Y IX EN EL D.O.F. DE 10 DE NOVIEMBRE DE 2016, PAGINAS DE LA 100 A LA 108.]</small>
