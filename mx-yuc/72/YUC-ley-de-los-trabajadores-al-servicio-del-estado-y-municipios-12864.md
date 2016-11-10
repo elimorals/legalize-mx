@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2011-05-04"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -227,9 +227,19 @@ Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más d
 
 Por cada cinco días de trabajo, disfrutará el trabajador de dos días de descanso continuo cuando menos, de preferencia sábados y domingos, con goce de salario íntegro.
 
+> <small>(REFORMADO, D.O. 10 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 32.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos.
+Las mujeres disfrutarán de un descanso de un mes antes de la fecha que aproximadamente se fije para el parto, así como de los tres meses posteriores a este, con goce íntegro de su sueldo.
+
+En el período de lactancia, y hasta por un plazo de seis meses, las mujeres tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos.
+
+> <small>(ADICIONADO, D.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 32 Bis.
+
+Las mujeres trabajadoras gozarán de un permiso al año, con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de mama y cervicouterino; para justificar este permiso, se deberé presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
 
 ###### ARTICULO 33.
 
@@ -1310,3 +1320,15 @@ Las disposiciones legales y reglamentarias, y en general los documentos en que s
 ###### ARTÍCULO SEXTO.
 
 Las reformas a esta Ley, no podrán aplicarse retroactivamente en perjuicio de trabajador alguno.
+
+D.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Ampliación de beneficios
+
+El beneficio otorgado en el presente Decreto, podrá ser extensivo a las mujeres trabajadoras de las entidades paraestatales del estado, en tanto éstas adecuan su normatividad interna que las regula.
