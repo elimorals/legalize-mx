@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2008-09-10"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -84,6 +84,12 @@ f). ENTIDADES: Los organismos, empresas y fideicomisos señalados en las fraccio
 ###### ARTICULO 1o. Bis.
 
 Las disposiciones de esta ley son de observancia obligatoria para las dependencias y órganos de los Poderes Legislativo y Judicial, sin perjuicio de lo dispuesto en sus respectivas leyes orgánicas, así como para todos aquellos organismos que manejen o apliquen recursos provenientes de los erarios estatal o municipal. Las atribuciones que en esta ley se confieren al titular del Poder Ejecutivo y a dependencias de la Administración Pública del Estado se ejercerán, en la esfera de competencia de los Poderes Legislativo y Judicial y organismos en mención, por las dependencias y órganos de éstos homólogos de aquéllos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 1o TER.- Las dependencias de la Administración Pública Estatal, los municipios y los organismos descentralizados garantizarán la accesibilidad de las personas con discapacidad a edificios, espacios públicos, así como en obra pública existente o por desarrollarse, asegurando el disfrute de sus derechos y eliminado (sic) cualquier forma de discriminación.
 
 ###### ARTICULO 2o.
 
@@ -177,7 +183,7 @@ VI.- Prever las obras principales, así como las complementarias o accesorias y 
 
 VII.- Prever y considerar los avances tecnológicos aplicables en función de la naturaleza de las obras y la selección de materiales, productos, equipos y procedimientos de tecnología estatal, regional y municipal, que satisfagan los requerimientos técnicos y económicos del proyecto;
 
-VIII.- Tomar en cuenta, preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras; y (sic)
+VIII.- Tomar en cuenta, preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras; y
 
 IX.- Tomar en cuenta preferentemente en igualdad de circunstancias a los contratistas de la localidad;
 
@@ -191,15 +197,17 @@ XI.- Prever y considerar las acciones a realizar, antes, durante y después de s
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
 
-XII.- Prever y considerar la coordinación con otras dependencias y entidades que realicen obras en las mismas áreas; y (sic)
+XII.- Prever y considerar la coordinación con otras dependencias y entidades que realicen obras en las mismas áreas; y
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
 
 XIII.- Prever y considerar los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse. Los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XIV.- Garantizar el fácil acceso y desplazamiento de las personas con discapacidad, debiéndose observar las normas técnicas que dicte la autoridad competente en términos de lo establecido en la fracción I del artículo 7 de la Ley para el Desarrollo Integral de las Personas con Discapacidad en el Estado de Campeche.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+XIV.- Garantizar el fácil acceso y desplazamiento de las personas con discapacidad, debiéndose observar las normas técnicas que dicte la autoridad competente en términos de lo establecido en las fracciones I, VII, VIII y XII del artículo 7 de la Ley Integral para las Personas con Discapacidad en el Estado de Campeche. En el caso de edificaciones, vías de comunicación y equipamiento que se encuentren construidas y no sean aptas para el desplazamiento de las personas con discapacidad, se deberán realizar las adecuaciones pertinentes, para su accesibilidad y movimiento.
 
 ###### ARTICULO 10.
 
@@ -772,3 +780,11 @@ P.O. 10 DE SEPTIEMBRE DE 2008.
 Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 85 POR EL QUE "SE ADICIONA UN ARTÍCULO 1 TER Y SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 9 DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los diez días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
