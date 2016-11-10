@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2015-11-12"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -1319,9 +1319,11 @@ Los registros definitivos no se extinguen en cuanto a terceros, sino por su canc
 
 Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en registro.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 127.
 
-Podrán pedir la cancelación de un registro, las partes que hayan intervenido directamente en el acto o contrato de cuyo registro se trate, y cualquiera otra persona que resulte perjudicada por este registro; debiendo tramitarse judicialmente la solicitud respectiva en forma de incidente, cuando la cuestión surja entre las partes y lo registrado sea una demanda, un embargo o cualquier otro acto judicial, que no sea una sentencia, y en juicio sumario en todos los demás casos, salvo que alguna disposición especial establezca otra cosa.
+Podrán pedir la cancelación de un registro, las partes que hayan intervenido directamente en el acto o contrato de cuyo registro se trate, y cualquiera otra persona que resulte perjudicada por este registro; debiendo tramitarse judicialmente la solicitud respectiva en forma de incidente, cuando la cuestión surja entre las partes y lo registrado sea una demanda, un embargo o cualquier otro acto judicial, que no sea una sentencia, y en juicio sumario en todos los demás casos, salvo lo previsto por el numeral 131 fracción VI de este mismo ordenamiento o que alguna disposición especial establezca otra cosa.
 
 ###### Artículo 128.
 
@@ -1350,6 +1352,10 @@ IV. Se declare la nulidad de la inscripción o registro;
 V. Sea enajenado por venta de autoridad, el inmueble que reporte el gravamen, en el caso previsto en el artículo 2146 del Código; y
 
 VI. Cuando tratándose de una cédula hipotecaria o un embargo, hayan transcurrido tres años desde la fecha de su registro y no se prorrogue en los términos de ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Cuando opere la caducidad registral prevista en la fracción VI, la cancelación se tramitará ante el Registro Público de la Propiedad.
 
 ###### Artículo 132.
 
@@ -1590,3 +1596,9 @@ QUINTO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por cond
 P.O. 12 DE NOVIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco"
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25898/LXI/16 QUE REFORMA LOS ARTÍCULOS 127 Y 131 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
