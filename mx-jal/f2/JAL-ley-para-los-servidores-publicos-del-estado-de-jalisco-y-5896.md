@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2016-10-27"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -133,13 +133,21 @@ Los servidores públicos que desempeñen nombramientos temporales de carácter i
 
 Quien otorgue un nombramiento supernumerario en contravención al primer párrafo, o un nombramiento definitivo en contravención al segundo párrafo, ambos de este artículo, será sujeto de responsabilidad penal y administrativa, en los términos de la legislación de la materia.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 ###### Art. 7°.
 
-Los servidores públicos, con nombramiento temporal por tiempo determinado que la naturaleza de sus funciones sean de base, que estén en servicio por seis años y medio consecutivos o por nueve años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses, tendrán derecho a que se les otorgue nombramiento definitivo; a excepción de los relativos al Poder Legislativo y a los municipios, a quienes se les otorgará dicho nombramiento cuando estén en servicio por tres años y medio consecutivos o por cinco años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses. Quien otorgue un nombramiento definitivo a quien no reúna el tiempo que establece este párrafo será sujeto de responsabilidad penal y administrativa, en los términos de la legislación de la materia.
+Los servidores públicos, con nombramiento temporal por tiempo determinado que la naturaleza de sus funciones sean de base, que estén en servicio por seis años y medio consecutivos o por nueve años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses, tendrán derecho a que se les otorgue nombramiento definitivo; a excepción de los relativos al Poder Legislativo y a los municipios, a quienes se les otorgará dicho nombramiento cuando estén en servicio por tres años y medio consecutivos o por cinco años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses. Quien otorgue un nombramiento definitivo a quien no reúna el tiempo y no tenga la capacidad requerida, será sujeto de responsabilidad penal y administrativa, en los términos de la legislación de la materia.
 
-El derecho obtenido por los servidores públicos en los términos del párrafo anterior deberá hacerse efectivo de inmediato, mediante la asignación de la plaza vacante correspondiente o la creación de una nueva, y a más tardar en el siguiente ejercicio fiscal; siempre y cuando permanezca la actividad para la que fueron contratados, se tenga la capacidad requerida y cumplan con los requisitos de ley.
+Además de lo previsto en el párrafo anterior, para hacer efectivo el nombramiento definitivo, se deberá acreditar lo siguiente:
+
+I. Que permanezca la actividad para la que fue contratado el servidor público;
+
+II. Que exista suficiencia presupuestal; y
+
+III. Que la plaza laboral esté vacante.
+
+El derecho obtenido en los términos señalados en los párrafos anteriores, deberá hacerse efectivo a más tardar en el siguiente ejercicio fiscal.
 
 Los servidores públicos supernumerarios, una vez contratados de manera definitiva, podrán solicitar les sea computada la antigüedad desde su primer contrato para efectos del escalafón y del servicio civil de carrera.
 
@@ -701,6 +709,10 @@ Cuando los servidores públicos aspiren a un cargo público de elección popular
 
 Para que los permisos o licencias se concedan es requisito previo la solicitud por escrito con 8 días anteriores a la fecha en que debe empezar a surtir sus efectos el mismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+En caso de que un servidor público sea llamado a comparecer por autoridad competente, la entidad otorgará el permiso o justificará la falta, previa demostración del requerimiento.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 42 Bis.
@@ -717,7 +729,9 @@ Para las suplencias de los servidores públicos a que se refiere este artículo,
 
 Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación; gozarán siempre de noventa días de descanso, pudiendo ser, treinta días antes de la fecha que aproximadamente se fije para el parto, y sesenta días después del mismo; durante estos períodos percibirán el sueldo íntegro que les corresponda. Lo anterior, independientemente de que la autoridad encargada de expedir las incapacidades, las otorgue o no en el momento acertado. Ese lapso se considerará como tiempo efectivo de trabajo.
 
-Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán derecho a un descanso extraordinario por cada tres horas de trabajo, en la inteligencia de que aquellas, con jornadas de seis horas y media o menos, disfrutarán de un solo descanso de media hora, para alimentar a sus hijos.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán derecho a un descanso extraordinario por cada tres horas de trabajo, en la inteligencia de que aquellas, con jornadas de seis horas y media o menos, disfrutarán de un solo descanso de media hora, para alimentar a sus hijos, así como gozar del derecho al uso de un espacio adecuado donde pueden extraer su leche materna.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
@@ -743,7 +757,17 @@ III. A los que tengan más de diez años de servicio, hasta 120 días con goce d
 
 Los cómputos deberán hacerse por servicios continuos o cuando, de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de seis meses.
 
+> <small>(REFORMADO [N. DE E ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Las licencias podrán dividirse o fragmentarse durante el lapso de un año, de acuerdo a las necesidades médicas del servidor público.
+
 ### CAPITULO IV. De los sueldos
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 45.
+
+Sueldo es la remuneración o retribución que debe pagarse al servidor público por los servicios prestados. Dicha remuneración debe ser adecuada, irrenunciable y proporcional a sus responsabilidades por el desempeño de su función, empleo, cargo o comisión.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -763,9 +787,17 @@ I. Se considera remuneración o retribución toda percepción en efectivo o en e
 
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente;
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-IV. Las remuneraciones y sus tabuladores serán públicos, respetando los datos personales, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+III. Ningún servidor público podrá tener una remuneración igual o mayor al Gobernador o a su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos; que su remuneración sea producto de las condiciones generales de trabajo; que sea derivado de un trabajo técnico calificado; o, sea resultado de la especialización en su función. El excedente no deberá ser mayor a la mitad de la remuneración establecida para que (sic) el Gobernador del Estado en el presupuesto correspondiente;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+IV. Las remuneraciones y sus tabuladores serán públicos, respetando los datos personales, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+V. Ningún servidor público podrá percibir remuneración adicional alguna por el desempeño de los cargos, comisiones, representaciones o alguna otra función similar, que ocupe de manera inherente, derivada o complementaria al cargo principal;
 
 El sueldo de los servidores públicos, en ningún caso puede ser disminuido, pero si puede permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo.
 
@@ -787,7 +819,11 @@ a) El Gobernador del Estado o la persona que éste designe en su representación
 
 b) El Presidente del Supremo Tribunal de Justicia del Estado o quien designe el pleno del mismo para comparecer en su lugar;
 
-c) Los dos representantes del Poder Legislativo nombrados por la asamblea;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+c) Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Hacienda y Presupuestos y de Administración;
 
 d) El Consejero Presidente de la Comisión Estatal de Derechos Humanos;
 
@@ -853,23 +889,27 @@ Sólo podrán hacerse retenciones, descuentos o deducciones al sueldo, cuando se
 
 I. De deudas contraídas con la Entidad Pública por concepto de anticipos, de pagos hechos en exceso, errores o pérdidas debidamente comprobadas;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-II. Del cobro de cuotas sindicales o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el servidor hubiere manifestado previamente de una manera expresa y por escrito su conformidad. La manifestación relativa al cobro de la cuota sindical tiene el efecto de acreditar su pertenencia al sindicato.
+II. Del cobro de cuotas sindicales o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el servidor hubiese manifestado previamente de una manera expresa su conformidad;
 
 En ningún caso se podrá retener a un servidor público, respecto de una plaza determinada, su cuota sindical para más de un sindicato;
 
-III. De aquellas ordenados por la Dirección de Pensiones del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+III. De aquellas ordenados por el Instituto de Pensiones del Estado de Jalisco;
 
 IV. De los descuentos ordenados por la Autoridad Judicial competente para cubrir alimentos que fueren exigidos al servidor;
 
 V. De descuentos en favor de Instituciones de Seguridad Social; y
 
-VI. Del pago de abonos para cubrir obligaciones derivadas de la adquisición, construcción, reparación o mejoras de casas habitación, así como de su uso, o al pago de pasivos adquiridos por estos conceptos, y siempre que la afectación se haga mediante fideicomiso en instituciones nacionales de crédito.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+VI. De los pagos para cubrir obligaciones derivadas de pasivos adquiridos por el servidor público, siempre y cuando éste exprese su consentimiento y exista convenio de la dependencia o entidad pública.
 
-El monto total de los descuentos será el que convengan el servidor público y la Entidad Pública, sin que pueda ser mayor de treinta por ciento del excedente del valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI, de este precepto.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+El monto total de los descuentos no podrá ser mayor del treinta por ciento del excedente del (sic) la unidad de medida y actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
 
 ###### Art. 50.
 
@@ -1091,6 +1131,8 @@ XXIX. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos
 
 ### CAPITULO I. De las obligaciones de las entidades públicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
 ###### Art. 56.
 
 Son obligaciones de las Entidades Públicas, en las relaciones laborales con sus servidores:
@@ -1165,19 +1207,17 @@ XVI. Realizar los descuentos correspondientes, vía nómina, de las inasistencia
 
 XVII. Realizar los movimientos, trámites o procesos administrativos para el cumplimiento de las resoluciones dictadas en el procedimiento establecido en el artículo 26 de esta ley;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 XVIII. Implementar registros de asistencia que den certeza al trabajador día a día, de donde el trabajador obtenga una constancia expresa de lo asentado;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 XIX. Permitir la consulta y entregar al servidor público copia del expediente laboral, a su costa; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XX. Otorgar al trabajador premiso (sic) por luto, de cuatro días naturales consecutivos posteriores al deceso, de sus padres, hijos, hermanos, cónyuge, concubina o concubinario.
-
-El trabajador acreditará el evento dentro de los quince días hábiles siguientes, con la presentación ante el área administrativa correspondiente, de una copia certificada del acta de defunción.
+XX. Otorgar a los servidores públicos capacitación o actualización complementarias, que tengan por objeto la formación de conformidad con las normas que rijan la buena gestión y la excelencia en el servicio público.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
@@ -2794,3 +2834,11 @@ P.O. 27 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25891/LXI/16 QUE REFORMA EL ARTÍCULO 56 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+[N DE E. TRANSITORIOS DEL "DECRETO NÚMERO 25904/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 42, 43, 44, 45, 46, 46-BIS, 49 Y 56, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 92 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 46 BIS DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, MODIFICA EL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La reforma del artículo 46 bis de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor el 31 de octubre de 2018.
