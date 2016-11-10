@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-nacional-y-del-1113
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-15"
-last_updated: "2016-06-09"
+last_updated: "2016-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-10-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de enero de 2016.
 
@@ -367,7 +367,9 @@ El Órgano de Enlace tendrá las facultades siguientes:
 
 I. Fungir como enlace con el Instituto;
 
-II. Supervisar que se cumpla el Estatuto y la normativa que rige al Servicio en el OPLE respectivo;
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2016)</small>
+
+II. Coadyuvar en la supervisión del cumplimiento del Estatuto y la normativa que rige al Servicio en el OPLE respectivo.
 
 III. Coadyuvar en la Selección, Ingreso, Profesionalización, Capacitación, Promoción, Evaluación, Cambios de Adscripción, Rotación, Titularidad, Permanencia y Disciplina o Procedimiento Laboral Disciplinario, de acuerdo con la normativa y disposiciones que determine el Instituto;
 
@@ -2425,9 +2427,11 @@ La DESPEN notificará de manera fehaciente en el plazo establecido en los lineam
 
 La DESPEN tomará las previsiones necesarias para que el evaluador reponga, en su caso, los resultados de la evaluación del desempeño producto de la resolución de las inconformidades.
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 282.
 
-La DESPEN propondrá a la Junta para su aprobación, los lineamientos en la materia, previo conocimiento de la Comisión del Servicio.
+La DESPEN pondrá a consideración de la Junta los Lineamientos en la materia, previo conocimiento de la Comisión del Servicio. A su vez, la Junta propondrá al Consejo General, para su aprobación, los referidos Lineamientos.
 
 ### CAPÍTULO VIII. DE LA TITULARIDAD, PROMOCIÓN, INCENTIVOS Y PREMIOS ESPECIALES
 
@@ -4891,11 +4895,13 @@ La Promoción es el movimiento horizontal por medio del cual el Miembro del Serv
 
 Dentro del primer trimestre de cada año, los OPLE deberán informar a la DESPEN, el presupuesto asignado a la Promoción, mismo que será aplicado exclusivamente para este fin.
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 636.
 
-El Órgano de Enlace de los OPLE determinará el cumplimiento de los requisitos para la Promoción y emitirá el dictamen correspondiente, que enviará para verificación de la DESPEN, previo a la aprobación del órgano superior de dirección de los OPLE y de conformidad con los lineamientos en la materia.
+El Órgano de Enlace de los OPLE determinará el cumplimiento de los requisitos para la promoción y emitirá el Dictamen correspondiente, el cual será verificado por el órgano superior de dirección de los OPLE; de ser autorizado por éste, el Dictamen se enviará para su aprobación a la DESPEN. Lo anterior, de conformidad con los Lineamientos en la materia.
 
-El dictamen de Promoción aprobado deberá integrarse al Registro del Servicio.
+El Dictamen de promoción aprobado deberá integrarse al registro del Servicio.
 
 #### SECCIÓN III. DE LOS INCENTIVOS
 
@@ -5804,3 +5810,13 @@ Quincuagésimo quinto.- La normativa en materia de uso de firma electrónica o f
 D.O.F. 9 DE JUNIO DE 2016.
 
 > <small>[N. DE E. ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE MODIFICA EL ARTÍCULO SÉPTIMO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA (ESTATUTO), NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 10 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE PROPONE MODIFICACIONES AL ACUERDO INE/CG909/2015, EN ACATAMIENTO A LA SENTENCIA DE LA H. SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN AL RESOLVER EL RECURSO DE APELACIÓN IDENTIFICADO CON EL NÚMERO DE EXPEDIENTE SUP-RAP-754/2015 Y SUP-RAP-759/2015 ACUMULADO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Segundo. Se ordena que las modificaciones aprobadas entren en vigor de manera inmediata.
+
+Tercero. Se instruye al Secretario Ejecutivo para que a través de la Dirección Jurídica, notifique el presente Acuerdo, por el que se acata la sentencia emitida en el expediente SUP-RAP-754/2015 y SUP-RAP-759/2015 acumulado, a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+
+Cuarto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
