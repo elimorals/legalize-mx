@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2016-08-20"
+last_updated: "2016-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -901,6 +901,12 @@ El Estado promoverá los medios para el fomento, difusión y desarrollo sustenta
 
 VI. Las autoridades estatales y municipales organizarán el sistema estatal de planeación para que, mediante el fomento del desarrollo sustentable y una justa distribución del ingreso y la riqueza, se permita a las personas y grupos sociales el ejercicio de sus derechos, cuya seguridad y bienestar protege esta Constitución.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Las autoridades a que se refiere el párrafo anterior, en el marco del sistema estatal de planeación, observarán los principios de sostenibilidad y estabilidad de las finanzas públicas a fin de coadyuvar a generar condiciones favorables para el desarrollo económico y el empleo.
+
+(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
+
 La ley establecerá los criterios para la instrumentación, control y evaluación del plan y los programas de manera objetiva, con base en indicadores que la doten de confiabilidad;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
@@ -909,17 +915,17 @@ VII. Las autoridades estatales y municipales para garantizar el respeto de los d
 
 Toda persona tiene derecho al acceso y uso equitativo y sustentable, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará la defensa de este derecho en los términos de la ley, con la participación de la Federación, de los municipios y de la ciudadanía para la consecución de dichos fines;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Los poderes del Estado, municipios y sus dependencias y entidades que ejerzan presupuesto público estatal deberán publicar mensualmente, en forma pormenorizada, sus estados financieros;
+VIII. Los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos en términos de lo señalado en esta Constitución; los Municipios; los organismos descentralizados, empresas de participación estatal o municipal mayoritaria, así como cualquier otro ente sobre el que el Estado o Municipios tengan control sobre sus decisiones o que ejerzan presupuesto público estatal o municipal; deberán llevar registros de ingresos y egresos, mantener su contabilidad y publicar su cuenta pública y la información financiera que generen conforme a la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 IX. Las autoridades estatales y municipales promoverán y garantizarán la transparencia y el derecho a la información pública, en el ámbito de su competencia, y
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-X. El Estado y los municipios planearán, regularán y fomentarán la actividad económica mediante la competitividad, con la concurrencia de los sectores social, público y privado, en el marco de libertades que otorga la Constitución General de la República; procurarán la generación de empleos y una más justa distribución del ingreso y la riqueza, y bajo criterios de equidad social, productividad y sustentabilidad presupuestaria apoyarán e impulsarán a las empresas de los sectores social y privado de la economía.
+X. El Estado y los municipios planearán, regularán y fomentarán la actividad económica mediante la competitividad, con la concurrencia de los sectores social, público y privado, en el marco de libertades que otorga la Constitución General de la República; procurarán el desarrollo económico, la generación de empleos y una más justa distribución del ingreso y la riqueza, y bajo criterios de equidad social, productividad y sustentabilidad presupuestaria apoyarán e impulsarán a las empresas de los sectores social y privado de la economía. Los presupuestos de ingresos y egresos del Estado y sus municipios deberán sujetarse a los principios de equilibrio, sostenibilidad, estabilidad financiera y responsabilidad hacendaria.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
@@ -1081,7 +1087,13 @@ El Congreso sesionará por lo menos cuatro veces al mes durante los periodos com
 
 Para el conocimiento de los dictámenes relativos a la materia de responsabilidad de los servidores públicos, deberá convocarse a la celebración de sesiones extraordinarias.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 26.
+
+Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Legislativo no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
 ###### Art. 26.
 
@@ -1223,15 +1235,17 @@ II. Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por
 
 III. Fijar la división territorial, política y administrativa del Estado, así como la denominación de los municipios y localidades que lo compongan;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-IV. Determinar los gastos del Estado para cada ejercicio fiscal conforme a los lineamientos que establezca la ley, así como las contribuciones del Estado y municipios para cubrirlos; revisar, examinar y fiscalizar las cuentas públicas correspondientes, en los términos dispuestos por esta Constitución, mediante el análisis y estudio que se haga de la revisión del gasto y de las cuentas públicas, apoyándose para ello en la Auditoría Superior del Estado, sin perjuicio de su autonomía técnica y de gestión;
+IV. Determinar los gastos del Estado para cada ejercicio fiscal conforme a los lineamientos y principios que en materia de disciplina financiera, equilibrio, sostenibilidad financiera y responsabilidad hacendaria establezca la legislación en materia de disciplina financiera de las entidades federativas y los municipios así como la normatividad aplicable; establecer las contribuciones del Estado y municipios para cubrirlos; revisar, examinar y fiscalizar las cuentas públicas correspondientes, en los términos dispuestos por esta Constitución, mediante el análisis y estudio que se haga de la revisión del gasto, ejercicio de la deuda pública y de las cuentas públicas apoyándose para ello en la Auditoría Superior del Estado, sin perjuicio de su autonomía técnica y de gestión. El presupuesto anual deberá incluir las erogaciones plurianuales destinadas al cumplimiento de las obligaciones asumidas por el Estado o sus entes públicos, aprobadas por el Congreso del Estado y para el caso de omisión, el Ejecutivo del Estado realizará las adecuaciones presupuestarias necesarias para su cumplimiento, en los términos y condiciones previstos en el decreto que autorizó la contratación de las obligaciones;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 V. Crear y suprimir empleos públicos, salvo el caso de los empleos públicos municipales y los casos en que expresamente esta Constitución lo permita a otra autoridad;
 
-VI. Dar bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Federal; aprobar los contratos respectivos, reconocer y mandar pagar las deudas que contraiga la Entidad;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+VI. Dar las bases mediante ley en materia de empréstitos, obligaciones y garantías de pago estatal y municipales, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Federal y la ley federal reglamentaria en la materia. Así como autorizar con el voto de la mayoría de las dos terceras partes de los miembros de la legislatura presentes, la contratación de dichos empréstitos u obligaciones y los montos máximos para que el Estado, los municipios y sus respectivos entes públicos puedan contratarlos en las mejores condiciones del mercado, previo análisis de su destino, plazos y capacidad de pago y, en su caso, el otorgamiento de garantías o el establecimiento de la fuente de pago;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
 
@@ -1249,9 +1263,9 @@ IX. Elegir a los Magistrados del Supremo Tribunal de Justicia y del Tribunal de 
 
 X. Designar al titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana, en la forma y términos que establece la presente Constitución y la ley de la materia;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XI. Autorizar al titular del Poder Ejecutivo para que celebren actos jurídicos que trasciendan el ejercicio de su administración o representen enajenaciones de su respectivo patrimonio, en los términos que disponga la ley;
+XI. Autorizar al titular del Poder Ejecutivo, así como a sus entes públicos, para que celebren actos jurídicos que trasciendan el ejercicio de la administración estatal, representen enajenaciones o una afectación de su respectivo patrimonio o de su presupuesto de egresos en más de un ejercicio fiscal, y a los Ayuntamientos, así como a sus respectivos entes públicos, para que celebren actos jurídicos relativos a financiamientos y obligaciones que trasciendan el ejercicio de la administración municipal, en los términos que disponga la ley;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2001)</small>
 
@@ -1385,7 +1399,9 @@ La revisión y auditoría pública de la cuenta pública y de los estados financ
 
 La Auditoría Superior, en el ejercicio de sus atribuciones, puede decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-Corresponde a la Auditoría Superior del estado de Jalisco la revisión de las cuentas públicas y estados financieros de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Corresponde a la Auditoría Superior del estado de Jalisco la revisión de las cuentas públicas, estados financieros y el destino y ejercicio de los recursos obtenidos mediante empréstitos u obligaciones de:
 
 I. Los poderes Ejecutivo, Legislativo y Judicial;
 
@@ -1395,15 +1411,27 @@ III. La Universidad de Guadalajara y los demás organismos públicos descentrali
 
 IV. Los ayuntamientos, organismos públicos, descentralizados, empresas de participación municipal mayoritaria y fideicomisos públicos municipales.
 
+(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
+
 También será objeto de la revisión de la Auditoría Superior del estado de Jalisco, en los términos de la ley, cualquier persona o entidad pública o privada que reciba o maneje recursos públicos.
+
+(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
 
 Son principios rectores de la auditoría pública del gasto y las cuentas públicas la posterioridad, anualidad, definitividad, confiabilidad, legalidad, independencia, transparencia, objetividad, imparcialidad y profesionalismo.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)
+
 La Auditoría Superior del estado de Jalisco tendrá a su cargo:
 
-I. Auditar en forma posterior los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los poderes Ejecutivo, Legislativo y Judicial, de los organismos públicos autónomos y de los municipios de la entidad, así como de los entes públicos de índole estatal y municipal e instituciones, que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, a través de los informes que se rendirán en los términos que establezcan las leyes estatales y federales;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-Sin menoscabo al principio de anualidad, los informes a que se refiere el párrafo precedente de esta fracción, en las situaciones excepcionales que determine la ley, podrán requerir a los sujetos auditados que procedan a la revisión de los conceptos que se estimen pertinentes y le rindan un informe. Si estos requerimientos, no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.
+I. Auditar en forma posterior los ingresos, los egresos, y la deuda pública del Gobierno del Estado y los Municipios; las garantías que, en su caso, otorgue el Gobierno del Estado respecto a los empréstitos contraídos por los Municipios y sus organismos descentralizados cuando no se comprometan recursos del orden federal; el manejo, la custodia y la aplicación de fondos y recursos de los poderes Ejecutivo, Legislativo y Judicial, de los organismos públicos autónomos y de los municipios de la entidad, así como de los entes públicos de índole estatal y municipal e instituciones que administren fondos o valores públicos cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares, a través de los informes que se rendirán en los términos que establezcan las leyes estatales y federales;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Sin menoscabo al principio de anualidad, los informes a que se refiere el párrafo precedente de esta fracción, en las situaciones excepcionales que determine la ley, podrán requerir a los sujetos auditados que procedan a la revisión de los conceptos que se estimen pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.
+
+(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
 
 La Auditoría Superior del estado de Jalisco y los órganos de control propios de los poderes del Estado, de los municipios, de los organismos públicos estatales autónomos, organismos públicos descentralizados y fideicomisos estatales o municipales, establecerán los procedimientos necesarios que les permitan el mejor cumplimiento de sus respectivas atribuciones;
 
@@ -1625,9 +1653,9 @@ Son facultades y obligaciones del Gobernador del Estado:
 
 I. Promulgar, ejecutar, hacer que se ejecuten las leyes y ejercer en su caso, la facultad de hacer observaciones a las mismas en los términos y plazos que establece esta Constitución;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-II. Presentar cada año al Congreso, a más tardar el día 1° de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, para el ejercicio fiscal siguiente;
+II. Presentar cada año al Congreso, a más tardar el día 1º. de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, para el ejercicio fiscal siguiente, en términos de lo que establezcan las disposiciones legales;
 
 III. Rendir por escrito al Congreso, el día primero de febrero de cada año, un informe anual del estado que guarda la administración pública, mismo que podrá enviar o presentarlo personalmente;
 
@@ -1647,7 +1675,9 @@ VIII. Expedir los reglamentos que resulten necesarios, a fin de proveer en la es
 
 IX. Nombrar y remover a los servidores públicos cuyos nombramientos o remoción no corresponda, conforme a la ley, a otra autoridad;
 
-X. Organizar y conducir la planeación del desarrollo del Estado y establecer los medios para la consulta ciudadana y la participación social;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+X. Organizar y conducir la planeación del desarrollo del Estado, velando por la sostenibilidad de las finanzas públicas y establecer los medios para la consulta ciudadana y la participación social;
 
 XI. Cuidar de la recaudación, aplicación e inversión de los caudales del Estado, con arreglo a las leyes;
 
@@ -1685,13 +1715,19 @@ XXIII. Divulgar la legislación local en el Estado; y
 
 XXIV. Hacer la propuesta de delimitación de las regiones metropolitanas que se encuentren ubicadas dentro del territorio del estado, a partir de la declaratoria de áreas metropolitanas que haga el Congreso del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos, y
+XXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXVI. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
+XXVI. Conducir la administración de la hacienda pública del estado, en términos de la legislación aplicable para tal efecto, podrá ejercer las autorizaciones que para la obtención de empréstitos emita el Congreso del Estado, adquirir el financiamiento público temporal o crédito de corto plazo, en los términos, condiciones y modalidades autorizados por la legislación en materia de disciplina financiera, realizar las operaciones de conversión, adecuación, canje, refinanciamiento o reestructura de la deuda pública, dentro de los montos y plazos máximos previstos en los decretos originales de autorización legislativa emitidos, y gestionar estas mismas operaciones a las entidades públicas estatales, siempre que se obtenga o acrediten mejoras en las condiciones previamente adquiridas o se requiera para la sustentabilidad de las obligaciones adquiridas debiendo informar al Congreso del Estado conforme lo establezca la Ley.
+
+El Ejecutivo del Estado y los entes públicos estatales, incluyendo los fideicomisos públicos, no podrán contraer créditos u obligaciones en los últimos tres meses de la administración pública que les corresponda; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+XXVII. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1809,7 +1845,9 @@ El pleno del Supremo Tribunal y el del Tribunal de lo Administrativo, elaborará
 
 A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar, para su valoración, invariablemente, el proyecto de presupuesto elaborado por el Poder Judicial.
 
-En ningún caso el presupuesto del Poder Judicial podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra oficial de inflación que publique el Banco de México.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Judicial no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -2423,7 +2461,43 @@ Cuando los casos citados en el presente artículo involucren a una o más entida
 
 ### CAPITULO I. De las responsabilidades de los servidores públicos
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 90.
+
+Los servidores públicos del Estado y de los municipios serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, así como el incumplimiento de las leyes o normas en materia de manejo de recursos públicos, contratación y ejercicio de la deuda pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 91.
+
+Los servidores públicos pueden incurrir en responsabilidad política, penal, administrativa, civil y las establecidas en la legislación en materia de disciplina financiera, que será determinada a través de:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
+I. El juicio político;
+
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA REFORMA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “… II. El procedimiento previsto en la legislación penal, previa declaración de procedencia para los servidores públicos en los casos previstos por esta Constitución;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2016)</small>
+
+II. EL PROCEDIMIENTO PREVISTO EN LA LEGISLACIÓN PENAL;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
+III. El procedimiento administrativo, y
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
+IV. El procedimiento ordinario.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 92.
+
+Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; el Presidente de la Junta Local de Conciliación y Arbitraje; a los consejeros electorales del Instituto Electoral del Estado; a los magistrados del Tribunal Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, así como los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera (sic) naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 88.
 
@@ -2433,27 +2507,33 @@ I. Las contribuciones sobre la propiedad inmobiliaria, incluyendo tasas adiciona
 
 Los municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones;
 
-II. Las participaciones federales y estatales que correspondan a los municipios, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-III. Los ingresos derivados de la prestación de servicios públicos a su cargo.
+II. Las participaciones federales y estatales, así como las aportaciones federales que correspondan a los municipios, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+III. Los ingresos derivados de la prestación de servicios públicos a su cargo; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+IV. Los derivados de empréstitos u operaciones financieras y otros ingresos extraordinarios expresamente autorizadas por el Congreso del Estado, así como los ingresos de operaciones de crédito de corto plazo.
+
+(REPUBLICADO, P.O. 10 DE NOVIEMBRE DE 2016)
 
 El patrimonio municipal se compondrá con los bienes de dominio público y los bienes de dominio privado, de conformidad con lo que establezca la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-###### Art. 89.
+###### Artículo 89.
 
-El Congreso del Estado aprobará las leyes de ingresos de los municipios y revisará y fiscalizará las cuentas públicas municipales, en los términos de lo dispuesto por esta Constitución y las leyes que de ella emanen. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y en las reglas establecidas en las leyes municipales respectivas.
+El Congreso del Estado conforme a los lineamientos y principios que en materia de disciplina financiera, equilibrio, sostenibilidad financiera y responsabilidad hacendaria establezca la legislación en materia de disciplina financiera; aprobará las leyes de ingresos de los municipios, así como las obligaciones que en materia de empréstitos, obligaciones financieras y otras formas de financiamiento que pretendan ejercer con cargo a su capacidad crediticia, incluida la celebración de obligaciones con vigencia multianual, en los términos de lo dispuesto por esta Constitución y las leyes que de ella emanen. Los presupuestos de egresos serán aprobados por los ayuntamientos en términos de lo dispuesto por la legislación en materia de disciplina financiera y con base en sus ingresos disponibles, los principios de sostenibilidad financiera, responsabilidad hacendaria y en las reglas establecidas en las leyes municipales respectivas.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+En caso de que algún Municipio por razones excepcionales incurra en un balance presupuestario de recursos disponibles negativo deberá someter a la aprobación del Congreso del Estado la autorización correspondiente.
 
 Las leyes estatales no establecerán exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
-
-Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, conforme al procedimiento que se establezca en la ley de la materia, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, conforme al procedimiento que se establezca en la ley de la materia, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; así como los ingresos derivados de financiamiento.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen conforme a la ley.
 
@@ -3558,3 +3638,11 @@ P.O. 20 DE AGOSTO DE 2016.
 PRIMERO. Envíese lo conducente del presente decreto, junto con los debates que hubiere provocado, a los ayuntamientos del Estado, para los efectos del artículo 117 de nuestra constitución local.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25865/LXI/16 QUE REFORMA LOS ARTÍCULOS 15, 26, 35, 35-BIS, 50, 57, 88, 89, 90, 91 Y 92 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO ACUERDO LEGISLATIVO AL-834-LXI-16”.]
+
+PRIMERO. Envíese lo conducente del presente decreto, junto con los debates que hubiere provocado, a los ayuntamientos del Estado, para los efectos del artículo 117 de nuestra Constitución Local.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
