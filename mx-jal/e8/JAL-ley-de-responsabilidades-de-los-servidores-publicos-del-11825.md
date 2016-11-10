@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2016-10-11"
+last_updated: "2016-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -1267,6 +1267,14 @@ La interposición del recurso suspenderá, en tanto se resuelve, los efectos de 
 
 La ejecución de las sanciones administrativas impuestas en resolución firme se llevará a cabo de inmediato en los términos que establezca la resolución; surtirán sus efectos al notificarse la misma y se considerarán de orden público.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 92 bis. Al servidor público que apruebe en los presupuestos de egresos, remuneraciones que contravengan lo dispuesto en la Constitución Política del Estado de Jalisco, serán destituidos del cargo y serán inhabilitados para ejercer empleo, cargo o comisión dentro del servicio público hasta por un término de tres años.
+
+La misma sanción se aplicará al servidor público que reciba una remuneración superior a la que por ley le corresponde y no restituya el excedente dentro de los cuarenta y cinco días siguientes de su recepción.
+
+La sanción prevista en este artículo es adicional al pago de los daños y perjuicios causados por el servidor público responsable, en los términos del artículo 75.
+
 ## TÍTULO SEXTO. DE LA SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
 
 ### Capítulo Único. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
@@ -1774,3 +1782,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25879/LXI/16 QUE REFORMA LOS ARTÍCULOS 55 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y 61 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25904/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 42, 43, 44, 45, 46, 46-BIS, 49 Y 56, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 92 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 46 BIS DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, MODIFICA EL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La reforma del artículo 46 bis de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor el 31 de octubre de 2018.
