@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-la-ley-de-la-procuraduria-general-de-justicia-703
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-25"
-last_updated: "2009-09-25"
+last_updated: "2016-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "QUE"
 ---
 # REGLAMENTO DE LA LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-REGLAMENTO DE LA LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE FECHA 10 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de septiembre de 2009.
 
@@ -2369,3 +2371,17 @@ Lic. Juan Martín Granados Torres
 Procurador General de Justicia del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”]
+
+Artículo Primero. El presente Reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de la Procuraduría General de Justicia del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 25 de septiembre de 2009.
+
+Artículo Tercero. La Fiscalía General, seguirá aplicando las disposiciones reglamentarias y administrativas que no se opongan al presente.
+
+Artículo Cuarto. Los procedimientos de cualquier naturaleza iniciados antes de la emisión del presente Reglamento se resolverán conforme a las disposiciones vigentes a su inicio o que deben ser sustanciados con base en la normatividad vigente al momento del hecho.
