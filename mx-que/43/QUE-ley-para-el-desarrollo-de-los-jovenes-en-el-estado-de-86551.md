@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2014-02-07"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -751,13 +751,53 @@ Podrán participar en el Parlamento, los jóvenes queretanos que cumplan con los
 
 La Comisión de la Juventud y Deporte de la Legislatura del Estado, otorgará anualmente el Premio Estatal de la Juventud, a aquellos jóvenes que se hayan destacado en alguna actividad tales como académicas, artísticas, productivas, innovación tecnológica, labor social y protección al ambiente; con el propósito de incentivar su labor y la de los demás jóvenes, previa convocatoria que al efecto se expida.
 
-## Título Séptimo. De las responsabilidades y sanciones
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-### Capítulo Único. De las responsabilidades y sanciones
+## Título Séptimo. Del Concurso Estatal de Oratoria y Debate Político
+
+"Hugo Gutiérrez Vega"
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 70.
 
-Las autoridades y servidores públicos considerados en la presente Ley que incumplan con la misma, serán sujeto de responsabilidad de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro y la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+La Secretaría de la Juventud del Poder Ejecutivo del Estado llevará a cabo de forma anual el Concurso Estatal de Oratoria y Debate Político "Hugo Gutiérrez Vega", cuyo objeto será el fomento a la cultura democrática participativa en la formación y desarrollo de los jóvenes queretanos.
+
+La organización, así como el establecimiento de bases y lineamientos para la convocatoria, selección de aspirantes, logística y desarrollo del concurso, estará a cargo de la Secretaría. La convocatoria deberá ser publicada el primer viernes del mes de marzo del año que corresponda.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 71.
+
+Existirá un jurado calificador, cuya función consistirá en determinar al ganador del concurso. El jurado será honorífico y se integrará por:
+
+I. Los integrantes de la Comisión de Juventud y Deporte del Poder Legislativo;
+
+II. El titular de la Secretaría de la Juventud del Poder Ejecutivo del Estado, o la persona que para el efecto designe; y
+
+III. Tres representantes de la sociedad civil organizada vinculados con la oratoria y temas de desarrollo de la juventud.
+
+El jurado calificador será conformado por la Secretaría de la Juventud en el mes de enero de cada año, determinando a quienes serán representantes de la sociedad civil y que además podrán participar con el mismo carácter en los dos años subsecuentes.
+
+> <small>(ADICIONADO, P.O.11 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 72.
+
+Podrán participar en el Concurso, quienes cumplan con los requisitos establecidos en las bases y lineamientos de la convocatoria respectiva.
+
+## Título Octavo. De las responsabilidades y sanciones
+
+### Capítulo Único. De las responsabilidades y sanciones
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 73.
+
+Los servidores públicos que incumplan con las obligaciones establecidas en la presente Ley, serán sujetos de procedimiento de responsabilidad en los términos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
 ## TRANSITORIOS
 
@@ -818,3 +858,11 @@ P.O. 7 DE FEBRERO DE 2014.
 Artículo Primero. La presente Ley, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
