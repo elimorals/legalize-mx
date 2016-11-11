@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-454-de-presupuesto-y-disciplina-fiscal-del-77092"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2013-05-21"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 454 DE PRESUPUESTO Y DISCIPLINA FISCAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 15 de octubre de 2010.
 
@@ -201,11 +201,13 @@ Los Municipios estarán obligados a entregar a la Secretaría Informes Trimestra
 
 El Titular del Poder Ejecutivo del Estado, a través de la Secretaría y a petición expresa de los Poderes Legislativo y Judicial, así como los Organismos Públicos Autónomos, proporcionará a éstos la asesoría y apoyo técnico que requieran en materia de programación, presupuestación y contabilidad, así como todos los datos estadísticos, estudios o informes que soliciten con relación a la preparación y ejecución de sus respectivos presupuestos.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 11.
 
-Los Poderes Legislativo y Judicial y los Organismos Públicos Autónomos, elaborarán sus propios Proyectos de Presupuestos, los cuales serán enviados por sus respectivos responsables al Titular del Poder Ejecutivo para su inclusión en el Proyecto de Presupuesto de Egresos del Estado que se envía para su aprobación al Congreso. Una vez aprobado, será ejercido con plena autonomía.
+Los Poderes Legislativo y Judicial y los Organismos Públicos Autónomos, elaborarán sus propios Proyectos de Presupuestos, los cuales serán enviados por sus respectivos responsables al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egresos del Estado que se envía para su análisis, discusión, revisión y aprobación al Congreso. Una vez aprobado, será ejercido con plena autonomía.
 
-En ningún caso los Presupuestos de los Poderes Legislativo y del Judicial será inferior al ejercido el año inmediato anterior actualizado con base en la cifra oficial de inflación que publique el Banco de México.
+Los presupuestos de los poderes Ejecutivo, Legislativo y Judicial; así como de los Organismos Públicos Autónomos no podrán incrementarse de manera automática, dichos presupuestos tendrán que planearse en base a resultados, con políticas y criterios de austeridad, racionalidad, estableciendo indicadores que permitan el seguimiento y evaluación al desempeño del gasto público y ser acordes a las necesidades y prioridades del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LA COMISIÓN ESTATAL DE GASTO Y FINANCIAMIENTO
 
@@ -1194,3 +1196,13 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248 POR EL QUE SE REFORMA EL ARTÍCULO 11 DE LA LEY NÚMERO 454 DE PRESUPUESTO Y DISCIPLINA FISCAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
