@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-comision-reguladora-de-energia-105615"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-02-09"
-last_updated: "2015-02-09"
+last_updated: "2016-11-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105615&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-12-18"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION REGULADORA DE ENERGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO Y EL TRANSITORIO SEGUNDO DEL ACUERDO NÚM. A/041/2016 QUE EXPIDE EL CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 11 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de febrero de 2015.
 
@@ -640,3 +642,13 @@ PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deja sin efectos el Código de Conducta de la Comisión Reguladora de Energía aprobado el 16 de julio de 2012 por el Comité de Ética y Vigilancia del Código de Conducta de la Comisión Reguladora de Energía.
 
 México, Distrito Federal, a 18 de diciembre de 2014.- El Presidente, Francisco J. Salazar Diez de Sollano.- Rúbrica.- Los Comisionados: Francisco José Barnés de Castro, Marcelino Madrigal Martínez, Noé Navarrete González, Cecilia Montserrat Ramiro Ximénez, Jesús Serrano Landeros, Guillermo Zúñiga Martínez.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE EXPIDE EL CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA”.]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deja sin efectos el Código de Conducta de la Comisión Reguladora de Energía aprobado el 18 de diciembre de 2014 por el Órgano de la Comisión Reguladora de Energía.
