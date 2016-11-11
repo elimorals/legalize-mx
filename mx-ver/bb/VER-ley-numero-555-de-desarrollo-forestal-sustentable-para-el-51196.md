@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-555-de-desarrollo-forestal-sustentable-para-el-51196
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-14"
-last_updated: "2015-08-10"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -81,6 +81,8 @@ DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA L
 
 ### CAPÍTULO II. Autorizaciones en Materia Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ## TÍTULO QUINTO. MEDIDAS DE CONSERVACIÓN FORESTAL
 
 ### CAPÍTULO III. Recursos Forestales Ubicados en Comunidades Indígenas
@@ -97,9 +99,11 @@ Esta Ley es de interés social, orden público y observancia general en el Estad
 
 El objeto de la presente Ley es regular y fomentar las acciones de conservación, protección, restauración, producción, ordenación, cultivo, manejo y aprovechamiento que se realicen sobre los ecosistemas forestales, los servicios ambientales que estos ofrecen, las cuencas hidrológico forestales y los recursos forestales maderables, independientemente del sitio en que se ubiquen estos últimos, para propiciar el desarrollo forestal sustentable de la Entidad; así como determinar las atribuciones que corresponden al Ejecutivo Estatal y a las Autoridades de los Municipios responsables de su aplicación.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-En lo no previsto en esta Ley se aplicarán de manera supletoria las disposiciones de la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable y la Ley Estatal de Protección al Ambiente.
+En lo no previsto en esta Ley se aplicarán de manera supletoria las disposiciones de la Ley General de Desarrollo Forestal Sustentable, la Ley Estatal de Protección al Ambiente y el Código de Procedimientos Administrativos para el Estado de Veracruz.
 
 ###### Artículo 4.
 
@@ -147,6 +151,30 @@ XI. SERVICIO ESTATAL FORESTAL: Al Órgano de la Administración Pública que se 
 
 XII. ZONIFICACIÓN: Al instrumento técnico de planeación que permite ordenar el territorio del Estado en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
 
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XIII. La Procuraduría: a la Procuraduría Estatal de Protección al Medio Ambiente.
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Los Municipios: a las autoridades Municipales.
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XV. Las autoridades Municipales: las responsables de atender la política ambiental municipal, facultadas en el artículo 7 de la Ley Estatal de Protección Ambiental.
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XVI. El FAV: El Fondo Ambiental Veracruzano.
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Fondo Forestal Estatal: Instrumento financiero específico para recibir recursos provenientes del aprovechamiento forestal, sanciones y compensaciones por infracciones a la normatividad aplicable en terrenos diversos al forestal.
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Subfiso: Instrumento financiero específico para el Fondo Forestal Estatal.
+
 ###### Artículo 6.
 
 Para la atención eficiente y concertada del sector forestal en el Estado se crea el Servicio Estatal Forestal, que además de coadyuvar con el Servicio Nacional Forestal, conjuntará instancias de los órdenes de gobierno, políticas, programas, instrumentos, servicios, recursos y acciones institucionales, con el propósito de atender de manera integral el desarrollo económico, social y ambiental de las personas y comunidades que se relacionan y dependen de la actividad silvícola.
@@ -165,13 +193,21 @@ I. Secretaría de Medio Ambiente, cuyo titular lo presidirá;
 
 II. Secretaría de Seguridad Pública;
 
-III. Secretaría de Desarrollo Social y Medio Ambiente;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-IV. Procuraduría General de Justicia;
+III. Secretaría de Desarrollo Social
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+IV. Fiscalía General del Estado
 
 V. Titulares de las dependencias y entidades de los órdenes de gobierno federal o estatal que tengan a su cargo la atención de actividades o materias relacionadas con el sector forestal; y
 
 VI. Las Autoridades Municipales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VII. La Procuraduría.
 
 ###### Artículo 8.
 
@@ -199,11 +235,17 @@ El Reglamento determinará los términos para su constitución y funcionamiento,
 
 Son autoridades competentes para procurar la regulación y el fomento de las acciones del desarrollo forestal sustentable en la Entidad, de acuerdo a las esferas de sus atribuciones:
 
-I. El Ejecutivo del Estado a través de la Secretaría de Medio Ambiente;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+I. El Ejecutivo del Estado a través de la Secretaría y la Procuraduría;
 
 II. El Gobierno Federal atendiendo lo que se dispone en la Ley General de Desarrollo Forestal Sustentable; y
 
 III. Las autoridades municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+En términos de lo antes dispuesto, y con apego a la Ley Orgánica del Poder Ejecutivo del Estado, la Secretaría se coordinará y concurrirá en el ejercicio de las atribuciones que son materia de esta ley, con la Procuraduría y las Autoridades Municipales en función de la competencia que esta Ley y su reglamento, la Ley Orgánica invocada, la Ley Orgánica del Municipio Libre u otras afines les otorguen.
 
 #### SECCIÓN PRIMERA. Atribuciones del Ejecutivo del Estado
 
@@ -304,6 +346,10 @@ XXXV. Elaborar estudios para, en su caso, recomendar a la Federación el estable
 XXXVI. Instituir el Premio Forestal Estatal como medio de reconocer la labor y desempeño realizados por personas en beneficio del sector forestal. El Reglamento de la Ley y demás disposiciones aplicables establecerán las características de los estímulos así como los lineamientos para su procedencia; y
 
 XXXVII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos, y que no estén exclusiva y expresamente otorgados a la Federación o a los Municipios.
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX (SIC). Emitir las autorizaciones en materia forestal, competencia del Estado en terrenos diversos al forestal.
 
 #### SECCIÓN SEGUNDA. Atribuciones de los Ayuntamientos
 
@@ -426,6 +472,14 @@ El Sistema tendrá como objetivo coordinar y concertar las acciones de instituci
 ###### ARTÍCULO 16.
 
 Por medio del sistema de Ventanilla Única, la autoridad estatal y municipal brindará una atención eficiente al usuario del sector forestal, conforme a los procedimientos que establezca el reglamento de esta ley.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+El sistema de Ventanilla única dará inicio una vez que la autoridad municipal integre una propuesta con elementos presupuestales y técnicos y sea presentada a la autoridad estatal y ésta la valide.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+Se establecerá entre la autoridad estatal y la autoridad municipal un sistema de atención y seguimiento en apego a esta ley y su reglamento, acordado por ambas partes, el cual dará cumplimiento al Plan de Desarrollo Municipal y al Plan Veracruzano de Desarrollo.
 
 ###### Artículo 17.
 
@@ -583,7 +637,7 @@ Los profesionales forestales deberán participar en los programas de asistencia 
 
 ###### Artículo 34.
 
-La Secretaría, en coordinación con la Secretaría de Desarrollo Social y Medio Ambiente, en los términos de los convenios y acuerdos de coordinación suscritos con la Secretaría de Medio Ambiente y Recursos Naturales podrá otorgar autorizaciones para:
+La Secretaría, en los términos de los convenios y acuerdos de coordinación suscritos con la Secretaría de Medio Ambiente y Recursos Naturales podrá otorgar autorizaciones para:
 
 I. Dictaminar, autorizar y evaluar los programas de manejo forestal así como evaluar y asistir a los servicios técnicos forestales;
 
@@ -833,6 +887,8 @@ La Secretaría de Finanzas y Planeación y la Secretaría diseñarán, propondr�
 
 ### CAPÍTULO I. Prevención y Vigilancia Forestal
 
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 68.
 
 La Secretaría promoverá y difundirá a nivel regional y local las medidas, programas e instrumentos económicos a que se refiere este Capítulo, con el propósito de que se canalicen de manera oportuna a los interesados. De igual forma, deberá establecer los mecanismos de asesoría necesarios.
@@ -857,15 +913,27 @@ V. Los pagos por concepto de multas impuestas por infracciones a esta Ley; y
 
 VI. El importe de los remates o venta de productos forestales y de los objetos e instrumentos decomisados, con motivo de infracciones a la legislación en materia forestal.
 
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VII. Los pagos por concepto de compensaciones derivadas del aprovechamiento forestal.
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Los pagos por concepto de sanciones administrativas y compensaciones derivadas de infracciones por incumplimiento a la normatividad en materia forestal.
+
 La existencia del Fondo no limita la creación de diversos instrumentos privados o sociales que tengan una relación directa con el desarrollo forestal.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 70.
 
-Para la operación del Fondo Forestal Estatal se creará el correspondiente Fideicomiso como instrumento financiero, en términos de lo que se establece en la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz, instrumento en el que se depositarán los recursos provenientes de las aportaciones enumeradas en el artículo anterior.
+Para la operación del Fondo Forestal Estatal, la Secretaría creó el Fideicomiso denominado Fondo Ambiental Veracruzano, como instrumento financiero, el cual considera la creación de un subfiso en materia forestal para dar operatividad al Fondo Forestal Estatal, en términos de lo que establece la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz, instrumento en el que se depositarán los recursos provenientes de las aportaciones enumeradas en el artículo anterior.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 71.
 
-Los recursos que el Fondo Forestal Estatal obtenga por el cobro de bienes y servicios ambientales se entregarán directamente a los proveedores de dichos servicios en atención a los acuerdos que al respecto se suscriban.
+Los recursos que el Fondo Forestal Estatal obtenga por el cobro de bienes y servicios ambientales se depositarán directamente a la cuenta que corresponda al subfiso en materia forestal del Fondo Ambiental Veracruzano.
 
 ###### Artículo 72.
 
@@ -923,7 +991,7 @@ III. Fomentar y apoyar la formación, capacitación y actualización de los pres
 
 ###### Artículo 77.
 
-La prevención y vigilancia forestales, la atención de las denuncias, instauración de procedimientos administrativos, las visitas y operativos de inspecciones forestales, determinación de medidas de seguridad, calificación y sanción de infracciones o en su caso denuncia de delitos que afecten ecosistemas forestales, estará a cargo de la Secretaría en los términos de los acuerdos y convenios suscritos con la Secretaría de Medio Ambiente y Recursos Naturales.
+La prevención y vigilancia forestales, la atención de las denuncias, instauración de procedimientos administrativos, las visitas y operativos de inspecciones en terrenos diversos a lo forestal, determinación de medidas de seguridad, calificación y sanción de infracciones o en su caso denuncia de delitos que afecten ecosistemas diversos a los forestales, estará a cargo de la Procuraduría.
 
 La concertación de las acciones y recursos para cumplir con los objetivos de la prevención, vigilancia e inspección forestales se dará en el seno del Servicio Estatal Forestal.
 
@@ -943,9 +1011,11 @@ Todo individuo que tenga conocimiento de la comisión de actos u omisiones comet
 
 Con base en los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la Secretaría, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, su Reglamento, así como en las Normas Oficiales Mexicanas, realizar operativos de inspección y determinar la aplicación de las medidas de prevención necesarias para el efectivo cumplimiento de las disposiciones legales.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 81.
 
-La Secretaría, por conducto del personal autorizado, realizará las visitas de inspección y los operativos en áreas críticas o en áreas de especial atención, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, su Reglamento, las normas oficiales mexicanas aplicables y las demás disposiciones que de ellos se deriven.
+La Procuraduría, por conducto del personal autorizado, realizará las visitas de inspección y los operativos en terrenos diversos a lo forestal competencia del Estado, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, su Reglamento, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellos se deriven.
 
 Los propietarios y poseedores de terrenos forestales o de aptitud preferentemente forestal, los titulares de autorizaciones de aprovechamiento de recursos forestales maderables, quienes realicen actividades de forestación y de reforestación, así como las personas que transporten, almacenen, transformen o comercialicen materias primas forestales, deberán dar facilidades al personal autorizado de la Secretaría, para la realización de visitas u operativos de inspección. En caso contrario, se aplicarán las medidas de seguridad y sanciones previstas en la presente Ley y en las demás disposiciones aplicables.
 
@@ -977,13 +1047,19 @@ La Secretaría podrá dar destino final a los productos maderables o no maderabl
 
 Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicarán, en su caso, las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se ordene el levantamiento de la sanción.
 
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+Cuando de las visitas u operativos de inspección en terrenos diversos a lo forestal, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas diversos a los forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la Procuraduría podrá ordenar las medidas de seguridad señaladas en el artículo anterior.
+
 ### CAPÍTULO V. Infracciones
 
 ###### Artículo 86.
 
 Son infracciones a lo establecido en esta ley:
 
-I. Realizar en terrenos forestales o preferentemente forestales cualquier tipo de obras o actividades distintas a las actividades forestales inherentes a su uso, en contravención de esta ley, su reglamento o de las Normas Oficiales Mexicanas aplicables;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+I. Realizar en terrenos diversos a los forestales o preferentemente forestales actividades de derribo, poda o aprovechamiento, en contravención de esta ley, su reglamento o de las Normas Oficiales Mexicanas aplicables;
 
 II. Obstaculizar al personal autorizado para la realización de visitas de inspección;
 
@@ -1165,12 +1241,20 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+G.O. 11 DE NOVIEMBRE DE 2016.
 
-ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 931 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-P.O. 18 DE JULIO DE 2016.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-> <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBAN LAS REFORMAS A LOS 19 REGLAMENTOS DE GARZA GARCÍA, NUEVO LEÓN”.]</small>
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+TERCERO. Los asuntos que a la entrada en vigor del presente Decreto se encontraran en trámite ante alguna de las áreas administrativas de la Secretaría de Medio Ambiente que, como consecuencia de este Decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+CUARTO. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia forestal, se entenderán referidos a la Secretaría de Medio Ambiente, como cabeza de sector.
+
+QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferidas a la Procuraduría Estatal de Protección al Medio Ambiente y Municipios, éstos deberán realizarlas con los recursos y personal con que cuentan actualmente previa capacitación, o en su defecto, contratar el personal necesario con el perfil técnico acorde a la actividad conferida.
+
+SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+SÉPTIMO. Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
