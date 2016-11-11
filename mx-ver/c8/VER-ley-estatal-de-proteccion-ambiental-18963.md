@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2014-07-16"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -371,11 +371,13 @@ VI. Preservar y restaurar el equilibrio ecológico y la protección al ambiente 
 
 VII. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos y de conformidad a lo establecido por las Normas Oficiales Mexicanas;
 
-VIII. Formular y evaluar el programa municipal de protección al ambiente;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Formular, evaluar y promover el programa municipal de protección al medio ambiente y el cuidado forestal en las zonas urbanas y rurales;
 
 IX. Formular y conducir la política municipal de información y difusión en materia ambiental;
 
-X. Formular y evaluar el programa municipal de protección al ambiente;
+X. (DEROGADA, G.O. 11 DE NOVIEMBRE DE 2016)
 
 XI. Crear y regular zonas de conservación, preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley;
 
@@ -1597,7 +1599,7 @@ La Secretaría deberá promover y apoyar el manejo de la flora y fauna silvestre
 
 ### CAPÍTULO I. APROVECHAMIENTOS DEL AGUA
 
-###### Articulo 115.
+###### Artículo 115.
 
 La Secretaría en coordinación con los municipios realizará las acciones siguientes en materia de aguas estatales:
 
@@ -2877,7 +2879,7 @@ I.- La audiencia se celebrará con o sin la asistencia del interesado o su repre
 
 II.- La audiencia se suspenderá por una sola vez, para continuarse a los diez días hábiles siguientes en la hora que indique la autoridad, cuando esté pendiente de desahogarse una prueba por causa imputable a la autoridad.
 
-###### Articulo 206.
+###### Artículo 206.
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el artículo anterior, sin que se haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo de tres días hábiles, presenten por escrito sus alegatos.
 
@@ -2897,7 +2899,7 @@ La autoridad competente podrá verificar el cumplimiento de los requerimientos a
 
 Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores sobre medidas correctivas; y del acta correspondiente que se levante se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas para corrección, la autoridad competente podrá imponer además de las sanciones que procedan conforme al artículo 212 de esta ley, una multa adicional que no exceda de los límites máximos señalados en dicho precepto.
 
-###### Articulo 210.
+###### Artículo 210.
 
 En los casos en que el infractor cumpla con las medidas correctivas o de urgente aplicación, o subsane las irregularidades detectadas, dentro de los plazos ordenados por la autoridad competente, si el infractor no es reincidente se podrá revocar o modificar la sanción o sanciones impuestas.
 
@@ -2967,7 +2969,7 @@ En el caso de que el infractor realice las medidas correctivas o de urgente apli
 
 La autoridad correspondiente podrá otorgar al infractor, la opción para pagar la multa o su equivalente mediante aportaciones para la protección, preservación o restauración del ambiente y los recursos naturales, o investigaciones ambientales; siempre y cuando se garanticen las obligaciones del infractor, no se trate de riesgo inminente de desequilibrio ecológico o daño y deterioro grave de los recursos naturales, o contaminación con repercusiones peligrosas para los ecosistemas o la salud pública, y la autoridad justifique plenamente su decisión.
 
-###### Articulo 218.
+###### Artículo 218.
 
 Cuando proceda como sanción el decomiso o clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
 
@@ -3218,3 +3220,21 @@ CUARTO.- Se derogan todas las disposiciones legales y administrativas que contra
 QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
 
 SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
+
+G.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 931 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Decreto se encontraran en trámite ante alguna de las áreas administrativas de la Secretaría de Medio Ambiente que, como consecuencia de este Decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+CUARTO. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia forestal, se entenderán referidos a la Secretaría de Medio Ambiente, como cabeza de sector.
+
+QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferidas a la Procuraduría Estatal de Protección al Medio Ambiente y Municipios, éstos deberán realizarlas con los recursos y personal con que cuentan actualmente previa capacitación, o en su defecto, contratar el personal necesario con el perfil técnico acorde a la actividad conferida.
+
+SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+SÉPTIMO. Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
