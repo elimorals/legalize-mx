@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2016-06-18"
+last_updated: "2016-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -42,8 +42,6 @@ D E C R E T A
 ###### ARTÍCULO PRIMERO.
 
 Se expide la LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, para quedar redactada de la siguiente manera:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 868/2015 II P.O., PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2015, CUALQUIER DISPOSICIÓN CONSTITUCIONAL, LEGAL Y REGLAMENTARIA EN LA QUE SE HAGA REFERENCIA AL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁ EN LO SUBSECUENTE REFERIDA AL TRIBUNAL SUPERIOR DE JUSTICIA. ASÍ MISMO, LAS FUNCIONES, FACULTADES, DERECHOS Y OBLIGACIONES ESTABLECIDOS A CARGO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO, EN CONTRATOS, CONVENIOS O ACUERDOS, CELEBRADOS CON DEPENDENCIAS O ENTIDADES DEL GOBIERNO DEL ESTADO, DE LA FEDERACIÓN Y DE LOS MUNICIPIOS Y CUALQUIER PERSONA FÍSICA O MORAL, SE ENTENDERÁ QUE CORRESPONDEN AL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE CHIHUAHUA.</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
@@ -107,13 +105,15 @@ El Poder Judicial, de acuerdo con su régimen interno, administrará y ejercerá
 
 ###### ARTÍCULO 6.
 
-Los tribunales del Poder Judicial estarán expeditos para administrar justicia pronta y gratuita dentro de los plazos y en los términos que establezcan las leyes. Cualquier juez del Estado que conozca de un asunto que no sea de su competencia, solamente podrá declinarla o declarar la inhibitoria una vez que haya practicado las diligencias que no admitan demora o emitido las resoluciones que resulten urgentes, las que habrán de realizarse conforme a las leyes que regulen el caso.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 7.
 
 Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que, en ejercicio de sus atribuciones legales, les dirijan los magistrados y jueces:
 
-I. Los servidores públicos del Estado, sin importar su rango y jerarquía.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+I. Los servidores públicos de la Federación, Estado y municipios, de cualquiera de los poderes públicos del Estado u organismos autónomos, sin importar su rango y jerarquía.
 
 II. Los defensores y procuradores.
 
@@ -133,29 +133,23 @@ IX. Los síndicos e interventores de concursos.
 
 X. Los demás a los que la ley les confiera dicho carácter.
 
-Los auxiliares de impartición de justicia se regirán por las leyes respectivas en cuanto a los requisitos y condiciones para el ejercicio de sus funciones. En tanto que, los honorarios constituirán una equitativa retribución, pero en ningún caso podrán significar una carga excesiva para los que soliciten la prestación del servicio; por lo cual, su importe deberá ser fijado por la autoridad judicial, de acuerdo a las reglas y consideraciones que dispongan las leyes.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+Los auxiliares de impartición de justicia se regirán por las leyes respectivas en cuanto a los requisitos y condiciones para el ejercicio de sus funciones. En su caso, cuando procedan, los honorarios constituirán una equitativa retribución, pero en ningún caso podrán significar una carga excesiva para los que soliciten la prestación del servicio; por lo cual, su importe deberá ser fijado por la autoridad judicial, de acuerdo a las reglas y consideraciones que dispongan las leyes.
 
 Será la Comisión, el órgano encargado de integrar y actualizar el cuerpo de auxiliares de la administración de justicia que hayan de fungir ante los órganos del Poder Judicial en las materias que estime necesarias.
 
 ###### ARTÍCULO 8.
 
-Los magistrados y jueces tienen el deber de mantener el orden de los debates judiciales y de exigir que las partes, sus representantes y abogados, les guarden y se guarden entre sí el respeto y consideración correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos o audiencias. Corregirán las faltas que se cometieren imponiéndole al responsable una corrección disciplinaria, e incluso hacer uso de la fuerza pública si lo amerita el caso. Si las faltas llegaren a ser constitutivas de delitos, se dará vista al Ministerio Público.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 9.
 
-Son medidas de corrección disciplinaria, las siguientes:
-
-I. Amonestación.
-
-II. Multa de hasta cien veces el salario mínimo. Tratándose de jornaleros u obreros, la multa no podrá exceder de su jornal o salario de un día de trabajo.
-
-III. Auxilio de la fuerza pública.
-
-IV. Arresto hasta por treinta y seis horas.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 10.
 
-Siempre que las autoridades judiciales, en el ejercicio de sus facultades, impongan multas como medidas disciplinarias, se comunicará a la oficina exactora relativa para que las haga efectivas.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 11.
 
@@ -559,15 +553,17 @@ Las determinaciones del Pleno deberán ser publicadas en el Periódico Oficial d
 
 ### CAPÍTULO TERCERO. DEL PRESIDENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 44.
 
-El Presidente del Tribunal Superior de Justicia lo será también del Pleno y no integrará sala. Durará en su encargo cuatro años, concluyendo su ejercicio el cuatro de octubre del año que corresponda, con la posibilidad de ser reelecto. Su elección se hará de entre los magistrados, por mayoría de votos de los integrantes presentes del Pleno, en sesión que para ese único objeto se celebre el cinco de octubre del año en que corresponda la elección.
+El Presidente del Tribunal Superior de Justicia lo será también del Pleno y no integrará sala. Durará en su encargo tres años, pudiendo ser reelecto para el periodo inmediato siguiente, por una ocasión. Su elección se hará de entre los magistrados, por el voto de las dos terceras partes de los integrantes presentes del Pleno.
 
-El día de la elección y hasta antes de que se conozca el resultado de la misma, la Presidencia se ejercerá interinamente por el magistrado que corresponda, en el orden señalado en la fracción II, del artículo 260.
+Para ser elegido Presidente se requiere haber desempeñado el cargo de magistrado durante un periodo mínimo de cinco años ininterrumpidos. Lapso, el inmediato anterior, cuya computación se hará a partir de que el magistrado haya sido nombrado, de manera definitiva, por el Congreso del Estado. Para los efectos de este cómputo, la reelección no implica un nuevo nombramiento sino la prolongación del nombramiento definitivo.
 
-En la designación de Presidente, ningún magistrado tendrá voto de calidad, en caso de empate, se realizará una segunda votación con los candidatos que obtuvieron igualdad de votos. Si ninguno obtiene mayoría, de entre estos se elegirá Presidente al magistrado de mayor antigüedad en el cargo y, en igualdad de condiciones, al mayor de edad.
+El día de la elección y hasta antes de que se conozca el resultado de la misma, la Presidencia se ejercerá interinamente por el magistrado de más antigüedad en el cargo.
+
+En caso de que ningún magistrado alcance las dos terceras partes de los votos, se realizará una segunda votación entre los dos candidatos que obtuvieron más votación. Si ninguno de ellos obtiene las dos terceras partes, se elegirá Presidente al de mayor antigüedad en el cargo y, en igualdad de condiciones, al de mayor edad.
 
 ###### ARTÍCULO 45.
 
@@ -843,7 +839,7 @@ En materia de extinción de dominio, las salas civiles conocerán de los recurso
 
 ###### ARTÍCULO 68.
 
-Las resoluciones de las salas deberán ser firmadas por sus titulares y, en su caso, autorizadas por el secretario de acuerdos, quien tendrá fe pública en todo lo relativo al ejercicio de su cargo.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 69.
 
@@ -1459,19 +1455,45 @@ V. Un sistema de capacitación y desarrollo de los servidores públicos del Pode
 
 Salvo los magistrados y jueces, la designación de los cargos judiciales se llevará a cabo por la Comisión, previo examen de aptitud, en los términos de esta Ley y el Estatuto de Carrera Judicial.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 128.
 
-Las designaciones de jueces que deban hacerse en las plazas vacantes, de carácter definitivo, deberán ser cubiertas mediante concurso de oposición que fije la Comisión, el cual será público.
+Las designaciones de jueces que deban hacerse en las plazas vacantes, de carácter definitivo, deberán ser cubiertas mediante concurso de oposición, el cual será público y deberá ajustarse, sin excepción alguna y como mínimo, a la totalidad de las disposiciones establecidas en este precepto.
 
-Los concursos de oposición se sujetarán al procedimiento establecido en el Estatuto y a los lineamientos generales que para tales efectos expida el Pleno.
+Previamente a que tenga lugar cualquier concurso de oposición cuyo objeto sea la adscripción de nuevos jueces se deberá abrir, de manera inevitable, un intervalo de quince días hábiles a fin de que la sociedad y las instituciones de gobierno interesadas realicen, con carácter orientador, propuestas en relación con el concurso. Al efecto, el Pleno, por conducto de las dos terceras partes de sus integrantes, deberá aprobar el documento en el que se convoque a la sociedad y a las instituciones gubernamentales a formular propuestas. En el entendido de que dicho documento deberá ser publicado en el Periódico Oficial del Estado y en la prensa local de mayor difusión. Se tendrá como primer día del intervalo de quince a que se refiere este párrafo, el primer día hábil siguiente a que se haya realizado la publicación en el Periódico Oficial del Estado.
+
+Todos los concursos de oposición que tengan como propósito la adscripción de jueces de primera instancia deberán contar, inevitablemente, con los siguientes requisitos:
+
+I. Con una metodología que garantice, al máximo posible, que los aspirantes no tendrán acceso al contenido de las evaluaciones antes de su aplicación respectiva. Por evaluaciones deben entenderse todos los exámenes que tengan por objeto evaluar el perfil y la capacidad del aspirante.
+
+II. Con mecanismos tendentes a garantizar que los funcionarios judiciales a quienes se encomiende la selección de aspirantes, como jurado y de cara a la designación del Pleno, tomen sus decisiones de manera objetiva e imparcial. Queda prohibida, en absoluto, la integración de órganos de selección en los que uno o varios de sus integrantes, por cualquier razón, tenga ventaja sobre el resto de sus integrantes.
+
+III. Si una o varias de las materias que conocerá el aspirante a juez, en caso de ser elegido, tiene metodología de litigio a través de audiencia, el concurso de oposición deberá contar con un programa, serio y profundo, de simulación de audiencias, las cuales serán públicas.
+
+IV. El Pleno, por conducto de las dos terceras partes de los miembros que comparezcan a la sesión respectiva, deberá elegir a un grupo de funcionarios judiciales para la elaboración de los exámenes de conocimientos y del programa de simulación de audiencias. El órgano colegiado a que se refiere este párrafo quedará integrado por siete miembros: el Presidente del Tribunal, tres magistrados elegidos por medio de insaculación según el ramo a evaluar, y tres funcionarios judiciales más, que deberán ser propuestos y aprobados por las dos terceras partes de los integrantes del Pleno que comparezcan a la sesión respectiva. Para la selección del perfil de este último grupo de funcionarios judiciales se deberá tomar en cuenta, como base fundamental, la trayectoria profesional, las aportaciones en materia académica y el prestigio profesional. Las decisiones que tome este cuerpo colegiado se tomarán por mayoría calificada, esto es, por las dos terceras partes de sus miembros.
+
+V. Todo concurso de oposición deberá contar con un curso de preparación.
+
+VI. El Pleno, por conducto de las dos terceras partes de los magistrados que comparezcan a la sesión, deberá establecer: quiénes serán los profesores del concurso de oposición, quiénes revisarán los exámenes de conocimientos y quiénes fungirán como jurados en los programas de simulación de audiencias.
+
+La propuesta de los profesores, encargados de revisar exámenes de conocimientos y jurados del programa de simulación de audiencias deberá ser realizada por los miembros del órgano colegiado señalado en la fracción IV de este precepto. Propuesta cuya autorización corresponde exclusivamente al Pleno, por medio de las dos terceras partes de los magistrados que acudan a la sesión respectiva.
+
+VII. Queda prohibido, absolutamente, tasar los resultados de las evaluaciones psicométricas y de confianza.
+
+Las tareas de elaborar la metodología de resguardo de las evaluaciones y los mecanismos para garantizar objetividad e imparcialidad a que se refieren las fracciones I y II de este artículo es facultad exclusiva del Pleno. En efecto, por conducto de las dos terceras partes de los magistrados que comparezcan a la sesión de que se trate, el Pleno establecerá cuáles serán las disposiciones para dar cumplimiento a lo dispuesto en materia de resguardo de exámenes y de imparcialidad y objetividad por parte de los jurados.
+
+El proyecto de concurso de oposición deberá ser realizado por la Comisión, y su aprobación corresponde exclusivamente al Pleno del Tribunal, por conducto de las dos terceras partes de los magistrados que comparezcan a la sesión de que se trate.
+
+Cualquier disposición que contravenga lo dispuesto en este artículo, se considerará nula.
 
 ###### ARTÍCULO 129.
 
-La organización y aplicación de los exámenes de aptitud para los funcionarios públicos a que se refiere este Título, distintos de los magistrados, estarán a cargo del Instituto en términos de las bases que determine la Comisión y de conformidad con lo que disponen esta Ley y el Estatuto de Carrera Judicial.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 130.
 
-El jurado encargado de aplicar los instrumentos de evaluación en los concursos de oposición será integrado por la Comisión, o por quien esta designe. En cualquier caso, podrá solicitar la participación de magistrados o jueces de la materia para la que se evalúan los cargos.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 131.
 
@@ -1801,43 +1823,59 @@ Los servicios del Instituto de Justicia Alternativa serán orales, confidenciale
 
 El Instituto de Justicia Alternativa ejercerá sus atribuciones por conducto de un director, subdirectores, coordinadores de área, facilitadores y demás personal necesario para atender a la población estatal y que autorice el presupuesto.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 179.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+Corresponde al Tribunal la evaluación de los riesgos que, para el proceso y sus intervinientes, representen los imputados; la supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como el cumplimiento de las condiciones establecidas a los imputados en la suspensión del proceso a prueba, las cuales estarán a cargo del Instituto de Servicios Previos al Juicio.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 180.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+El Instituto es el órgano desconcentrado del Poder Judicial, con autonomía técnica, encargado de ejercer las funciones señaladas en el artículo que antecede. Asimismo, le corresponde diseñar, aplicar y, en su caso, coordinar estrategias, planes y programas para cumplir con sus atribuciones, todo ello acorde a lo que las leyes de la materia prevean. Para el ejercicio de sus funciones, el Instituto podrá celebrar convenios con instituciones de carácter público o privado.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 181.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+El Instituto se regirá por los principios de presunción de inocencia, imparcialidad, objetividad, subsidiariedad, proporcionalidad, confidencialidad, legalidad, dignidad, obligatoriedad, responsabilidad e interinstitucionalidad.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 182.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+El Instituto ejercerá sus atribuciones por conducto de un director, subdirectores, coordinadores de área y demás personal necesario para atender a la población estatal y que autorice la Comisión, de conformidad con el presupuesto. A esta corresponderá la facultad de nombramiento a propuesta del Presidente y deberá atender a la propuesta que realicen los expertos en ese tema.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 183.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+El Instituto tendrá su sede en la ciudad de Chihuahua y contará con oficinas en sedes regionales, de acuerdo a las necesidades o requerimientos del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 184.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+El Director del Instituto y los titulares de las unidades regionales podrán solicitar a cualquier autoridad, siempre y cuando no exista disposición en contrario, información inherente a sus funciones, la cual deberá manejar sobre las bases de la Ley de Protección de Datos Personales del Estado de Chihuahua y su similar de carácter federal, según sea el caso.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 185.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+Toda autoridad está obligada a colaborar con los funcionarios del Instituto de Servicios Previos al Juicio. Solamente por cuestiones de seguridad podrá ser negado el auxilio. De igual forma, el cuerpo policíaco o la autoridad investigadora que sea la responsable de la detención de una persona, deberá facilitar el acceso inmediato con el detenido y la carpeta de investigación, a efecto de que se desarrollen los procesos inherentes a las funciones del Instituto.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 186.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+El Instituto de Servicios Previos al Juicio deberá enviar los reportes de evaluación de riesgos procesales, antes de comenzar la audiencia inicial, al Ministerio Público y a la defensa, quienes deberán recibirlos. De igual forma, deberá enviar informes o los documentos necesarios a las partes para la imposición, modificación, sustitución o revocación de medidas cautelares o suspensión condicional del proceso. El Ministerio Público y la defensa, deberán recibir los reportes y la demás información que el Instituto de Servicios Previos al Juicio genere en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 187.
 
-(DEROGADO, P.O. 18 DE JUNIO DE 2016)
+Cuando un Juez haya impuesto alguna medida cautelar distinta a la prisión preventiva o haya aprobado la suspensión condicional del proceso dentro de una causa, deberá notificar la decisión al Instituto de Servicios Previos al Juicio, a efecto de que inicie la supervisión del imputado. En caso de incumplimiento de alguna o de la totalidad de las medidas cautelares, el Instituto deberá notificar a las partes. Tratándose de incumplimiento de las condiciones establecidas al imputado durante la suspensión condicional del proceso, el Instituto deberá notificarlo tanto a las partes como al Juez que las decretó.
 
 ###### ARTÍCULO 188.
 
@@ -2429,7 +2467,9 @@ II. De uno a diez años: al funcionario o empleado que con la comisión de la fa
 
 III. De diez a veinte años: al funcionario o empleado que con la comisión de la falta administrativa, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior; así como al funcionario o empleado que cometa una falta administrativa considerada como grave.
 
-### CAPÍTULO TERCERO
+### CAPÍTULO TERCERO. DEL INSTITUTO DE SERVICIOS PREVIOS AL JUICIO
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 235.
 
@@ -2984,3 +3024,23 @@ El presente Decreto entrará en vigor el día 13 de junio del año 2016, fecha e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0014/2016 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 7, EN SU FRACCIÓN I Y PENÚLTIMO PÁRRAFO; 44, 128, 179, 180, 181, 182, 183, 184, 185, 186 Y 187; SE ADICIONA UN CAPÍTULO TERCERO DEL INSTITUTO DE SERVICIOS PREVIOS AL JUICIO; Y SE DEROGAN LOS ARTÍCULOS 6, 8, 9, 10, 68, 129 Y 130 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 3 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, APARTADO I, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 150/2016, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SEGUNDO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+SEGUNDO.- EL PERÍODO DEL ACTUAL PRESIDENTE CONCLUYE AL ENTRAR EN VIGOR EL PRESENTE DECRETO, POR LO QUE EL PLENO SESIONARÁ DENTRO DE LAS SIGUIENTES CUARENTA Y OCHO HORAS PARA HACER LA DESIGNACIÓN DEL PRESIDENTE. LAS FUNCIONES DE PRESIDENTE, INMEDIATAMENTE DESPUÉS DE QUE ENTRE EN VIGOR ESTE DECRETO, SERÁN ASUMIDAS POR LA PERSONA DE MAYOR ANTIGÜEDAD EN EL CARGO DE MAGISTRADO, QUIEN SE ENCARGARÁ DE CONVOCAR AL PLENO Y REALIZAR LA SESIÓN EN LA QUE SE ELIJA AL NUEVO PRESIDENTE DEL TRIBUNAL. EN CASO DE QUE, POR CUALQUIER RAZÓN, NO SE LLEVE A CABO LA DESIGNACIÓN DE PRESIDENTE DENTRO DE LAS CUARENTA Y OCHO HORAS, EL MAGISTRADO DECANO, ES DECIR, EL DE MAYOR ANTIGÜEDAD EN EL CARGO, ASUMIRÁ LA PRESIDENCIA POR EL TIEMPO QUE SEA NECESARIO Y HASTA QUE LA ELECCIÓN DEL NUEVO PRESIDENTE SE REALICE.
+
+TERCERO.- Cualquier proceso de selección de jueces que se esté llevando a cabo en el momento de iniciación de la vigencia del presente Decreto, deberá reponerse para el efecto de que se dé cumplimiento absoluto a lo dispuesto en este Decreto.
+
+CUARTO.- Con relación al Instituto de Servicios Previos al Juicio, para su óptimo funcionamiento se tomarán las previsiones financieras necesarias dentro del presupuesto de egresos.
+
+El Ejecutivo del Estado continuará desempeñando las funciones que le fueron atribuidas, hasta quedar integrado en su totalidad el Instituto de Servicios Previos al Juicio.
+
+QUINTO.- Realícense las gestiones y medidas a que haya lugar para que el presente Decreto se publique de manera urgente en el Periódico Oficial del Estado, en los términos de las disposiciones que resulten aplicables.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
