@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-ciudadano-de-seguridad-publica-del-81837
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-10"
-last_updated: "2012-04-13"
+last_updated: "2016-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2011.
 
@@ -91,7 +93,7 @@ VII.- Solicitar a las autoridades competentes la información que le sea necesar
 
 VIII.- Emitir opiniones y sugerencias para la actualización, elaboración y evaluación del Programa de Seguridad Pública para el Estado de Baja California;
 
-IX,- Preparar, elaborar, publicar y distribuir material informativo sobre la cultura de la legalidad, la prevención del delito y sistemas de protección ciudadana, tendiente a formar conciencia de su utilidad, en centros escolares y en la comunidad;
+IX.- Preparar, elaborar, publicar y distribuir material informativo sobre la cultura de la legalidad, la prevención del delito y sistemas de protección ciudadana, tendiente a formar conciencia de su utilidad, en centros escolares y en la comunidad;
 
 X.- Promover la oportuna integración, instalación y adecuado funcionamiento de las comisiones a que se refiere el presente Reglamento, así como conocer de los informes de las mismas;
 
@@ -131,9 +133,9 @@ Los cargos de Consejeros son honoríficos, y por lo tanto, no recibirán retribu
 
 La designación de los Consejeros Ciudadanos, que deba realizar el Ejecutivo Estatal, se llevará a cabo en los siguientes términos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-I.- Dentro de los primeros seis meses de cada tres años, emitirá convocatoria pública, a través del Periódico Oficial del Estado de Baja California y cuando menos en un diario de circulación estatal, a efecto de que las organizaciones de la sociedad civil, asociaciones empresariales, agrupaciones profesionales legalmente constituidas e instituciones de educación superior, presenten sus propuestas por escrito y acrediten la satisfacción de los requisitos mencionados en el Artículo 13 del Reglamento.
+I.- Dentro de los primeros seis meses de cada cuatro años, emitirá convocatoria pública a través del Periódico Oficial del Estado de Baja California y cuando menos en un diario de circulación estatal, a efecto de que las organizaciones de la sociedad civil, asociaciones empresariales, agrupaciones profesionales legalmente constituidas e instituciones de educación superior, presenten sus propuestas por escrito y acrediten la satisfacción de los requisitos mencionados en el Artículo 13 de este Reglamento.
 
 El plazo para la presentación de propuestas será de veinte días naturales, contados a partir del día siguiente a aquél en que se publique la convocatoria en el Periódico Oficial del Estado.
 
@@ -143,25 +145,33 @@ II.- Dentro de los quince días naturales siguientes a la recepción de las prop
 
 El Consejo Ciudadano deberá de instalarse con la totalidad de los Consejeros, dentro de los diez días naturales siguientes a la elección de los Consejeros Ciudadanos, cuando así corresponda. El Ejecutivo Estatal convocará a los Consejeros al acto de instalación.
 
+> <small>(REFORMADO [N. DE. E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+Del acto de instalación se levantará el acta correspondiente, misma que será firmada por la totalidad de Consejeros que asistan al mismo, en la cual invariablemente deberá de contener la fecha de inicio y de conclusión del Consejo Ciudadano instalado; así también la misma deberá de ser notificada a los Consejeros, al Ejecutivo Estatal y a los Municipios, en los términos de este Reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-Los Consejeros Ciudadanos serán elegidos por un periodo de tres años y podrán ser insaculados para un segundo periodo, siempre y cuando sean nuevamente propuestos por las asociaciones, organismos, agrupaciones, o instituciones mencionadas en el Artículo 7 del presente Reglamento y sigan cumpliendo los requisitos para ser electos que establece el presente Reglamento.
-
-En ningún caso, los Consejeros Ciudadanos podrán permanecer más de seis años en el cargo para el cual fueron elegidos.
+Los Consejeros Ciudadanos señalados en el artículo 7 del presente Reglamento, serán elegidos por un periodo de cuatro años, sin posibilidad de reelección inmediata.
 
 ###### Artículo 10.
 
 Los Consejeros Gubernamentales estarán en sus funciones por todo el tiempo que duren en su encargo y, una vez que este concluya, serán substituidos automáticamente por la persona que lo ocupe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 11.
 
-El Consejero Presidente será designado de entre los Consejeros Ciudadanos, con la aprobación de la mayoría de éstos, mediante voto en forma abierta o por cédula, a más tardar el día de la instalación del Consejo Ciudadano. Dicho cargo será anual y rotativo, pero podrá ser reelecto por única ocasión para el periodo inmediato posterior por decisión de la mayoría de los Consejeros Ciudadanos.
+El Consejero Presidente será electo en sesión de Consejeros Ciudadanos, en los términos del párrafo quinto del artículo 92 de la Ley de Seguridad Pública del Estado de Baja California, mediante voto en forma abierta o por cédula, en el día de la instalación del Consejo Ciudadano o dentro de los diez días hábiles siguientes a dicha instalación. Dicho cargo será por un periodo de dos años y rotativo, pero podrá ser reelecto por única ocasión para el otro periodo inmediato posterior de dos años, en los mismo (sic) términos del presente artículo, siempre y cuando siga cumpliendo los requisitos para ser Consejero Ciudadano.
 
 Para el cumplimiento de lo establecido en el presente Artículo, se deberá de levantar el acta en la sesión correspondiente, la cual invariablemente deberá de contener la fecha de inicio y de conclusión del cargo; así también la misma deberá de notificarse a los Consejeros, al Ejecutivo Estatal y a los Municipios, en los términos del Reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-Los Consejeros Ciudadanos salientes seguirán en su cargo, hasta en tanto inicien sus funciones los Consejeros Ciudadanos entrantes.
+Los Consejeros Ciudadanos y Consejero Presidente salientes seguirán en su cargo, hasta en tanto inicien sus funciones los Consejeros Ciudadanos y Consejero Presidente entrantes.
 
 ### CAPÍTULO IV. REQUISITOS PARA LA ELECCIÓN DE CONSEJEROS CIUDADANOS Y SECRETARIO TÉCNICO
 
@@ -175,17 +185,27 @@ II.- Contar con una edad mínima de 25 años el día de la elección;
 
 III.- Tener residencia en el Estado durante los últimos cinco años;
 
-IV.- No desempeñar ni haber desempeñado cargo de elección popular, ni haber sido registrado como candidato para alguno de ellos, en los tres años anteriores a la fecha de su elección;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+IV.- No desempañar (sic) ni haber desempeñado cargo de elección popular, no haber sido registrado como candidato para alguno de ellos o como candidato independiente, en los tres años anteriores a la fecha de su elección;
 
 V.- No desempeñar ni haber desempeñado cargo alguno en ningún partido político, en los tres años anteriores a la fecha de su elección;
 
-VI.- No haber ocupado cargo de primer o segundo nivel en la Administración Pública Federal, Estatal o Municipal, durante el año anterior a la fecha de su elección;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VI.- No ocupar cargo público a excepción de lo establecido en el párrafo cuarto del artículo 92 de la Ley de Seguridad Pública del Estado de Baja California, en lo relativo a las propuestas realizadas por las instituciones de educación superior; así como no haber ocupado cargo de primer o segundo nivel en la Administración Pública Federal, Estatal o Municipal, durante el año anterior a la fecha de su elección;
 
 VII.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito alguno, o estar sujeto a proceso penal;
 
 VIII.- Ser propuesto por asociaciones, organismos no gubernamentales, empresariales, agrupaciones profesionales, constituidas y registradas conforme a las leyes respectivas, o instituciones de educación superior, y de conformidad con la convocatoria respectiva, y
 
 IX.- Las demás que determinen las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 13 Bis.
+
+En el supuesto de que un Consejero Ciudadano acepte contender a un cargo de elección popular, deberá de notificar por escrito al Consejo Ciudadano su renuncia, dentro de los cinco días hábiles siguientes a la fecha en que aceptó tal nominación; en el supuesto de no hacerlo, al tener conocimiento el Consejo Ciudadano de tal circunstancia en Sesión extraordinaria convocada para ese único efecto, mediante acuerdo removerá automáticamente de su cargo de Consejero Ciudadano. Para su substitución se observará lo establecido por el artículo 26 del presente Reglamento.
 
 ###### Artículo 14.
 
@@ -427,9 +447,11 @@ XIX.- Las demás que determine el Consejo Ciudadano o el Consejero Presidente, e
 
 Para la designación del Secretario Técnico, el Consejo Ciudadano por conducto del Consejero Presidente, presentará una terna al Ejecutivo Estatal dentro de los cinco días hábiles siguientes a su instalación, quien hará la designación de entre los candidatos propuestos, dentro de los cinco días hábiles siguientes a la presentación de las propuestas. En caso de no designar a ninguno en el plazo señalado, se designará como Secretario Técnico al primer enlistado en la terna.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-El Secretario Técnico durará en funciones por un período de tres años, y no estará impedido para ser nuevamente propuesto y seleccionado, pero en ningún caso podrá permanecer más de seis años en el cargo para el cual fue nombrado.
+El Secretario Técnico durará en funciones por un periodo de cuatro años y no estará impedido para ser nuevamente propuesto y seleccionado para dicho cargo.
 
 ###### Artículo 39.
 
@@ -472,3 +494,15 @@ P.O. 13 DE ABRIL DE 2012.
 ###### ARTÍCULO PRIMERO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, 8, 9, 11, 12, 13 Y 38; ASÍ COMO SE ADICIONA UN ARTÍCULO 13 BIS, TODOS DEL REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN LA SECCIÓN III DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE FECHA 10 DE JUNIO DE 2011".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día primero de enero del año dos mil diecisiete, fecha en que deberá de iniciarse el proceso para la instalación de (sic) Consejo Ciudadano de Seguridad Pública del Estado de Baja California, empezando con la designación de los Consejeros Ciudadanos señalados en el artículo 7 de este Reglamento y demás aplicables.
+
+TERCERO.- Los actuales Consejeros Ciudadanos electos por el Ejecutivo Estatal, podrán participar en el proceso a que se hace referencia en el Transitorio que antecede, siempre y cuando sigan cumpliendo con los requisitos establecidos en el presente Reglamento.
+
+CUARTO.- Los actuales Consejeros Ciudadanos electos por el Ejecutivo Estatal, así como el Consejero Presidente, seguirán en su cargo hasta en tanto inicien sus funciones los Consejeros Ciudadanos y Consejero Presidente electos en el proceso señalado en el Artículo Transitorio Segundo de éste Decreto.
