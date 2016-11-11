@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-111265"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-15"
-last_updated: "2015-12-15"
+last_updated: "2016-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2016
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1 DE ENERO DE 2016.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -48,6 +46,8 @@ LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2016
 En el Ejercicio Fiscal 2016, el Estado de Quintana Roo recibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se mencionan:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS DE LA 231 A LA 236.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 11 DE NOVIEMBRE DE 2016, PÁGINA 30]</small>
 
 CONCEPTOS DE INGRESOS EN SUSPENSO
 
@@ -202,3 +202,13 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 012 POR EL QUE SE REFORMA EL ARTÍCULO 1 EN LOS CONCEPTOS DE INGRESOS DERIVADOS DE FINANCIAMIENTOS, EMPRÉSTITOS Y TOTAL DE LA LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2016".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
