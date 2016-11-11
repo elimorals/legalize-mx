@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-apodaca-4137
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2016-08-31"
+last_updated: "2016-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y SEGUNDO DEL ACUERDO APROBADO POR EL R. AYUNTAMIENTO DEL MUNICIPIO DE APODACA, NUEVO LEÓN PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2016, SE REVOCA EL ACUERDO PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2016, EN EL ENTENDIDO QUE SEGUIRÁ VIGENTE EL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL DÍA 1 DE ENERO DE 2017.]</small>
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de octubre de 2004.
 
@@ -748,7 +748,7 @@ X. Utilizar audífonos con excepción de aquellos aparatos que cuenten con un so
 
 XI. Bajar o subir pasaje sobre los carriles de circulación;
 
-XII. Circular a los lados, adelante o atrás de vehículos de emergencia que estén haciendo haciendo uso de su sirena o torretas de luz roja, azul, blanca o ámbar;
+XII. Circular a los lados, adelante o atrás de vehículos de emergencia que estén haciendo uso de su sirena o torretas de luz roja, azul, blanca o ámbar;
 
 XIII. Circular sobre las mangueras de bomberos o de protección civil, banquetas o zonas exclusivas para uso de peatones, parques públicos, camellones, barreras que dividan carriles de circulación opuesta o canalicen carriles de movimiento específico de circulación, barreras o dispositivos para la protección de obras u obstáculos en la vía pública y sus marcas de aproximación;
 
@@ -3624,7 +3624,7 @@ P.O. 4 DE JULIO DE 2011
 
 P.O. 18 DE JUNIO DE 2014.
 
-SEGUNDO.- Que se giren instrucciones para su publicación en el Periódico Oficial del Estado, para iniciar su vigencia a los 30 días natuales siguientes a su publicación.
+SEGUNDO.- Que se giren instrucciones para su publicación en el Periódico Oficial del Estado, para iniciar su vigencia a los 30 días naturales siguientes a su publicación.
 
 P.O. 10 DE DICIEMBRE DE 2014.
 
@@ -3671,3 +3671,15 @@ PRIMERO.- Que se apruebe la revocación del acuerdo de aprobación del Reglament
 SEGUNDO.- En el entendido que seguirá vigente el Reglamento de Tránsito y Vialidad del Municipio de Apodaca, Nuevo León, aprobado en sesión ordinaria del R. Ayuntamiento, celebrada el día 8-ocho de Septiembre del año 2004-dos mil cuatro y mismo que fue publicado en el Periódico Oficial del Estado de Nuevo León en fecha 06-seis de Octubre de 2004-dos mil cuatro.
 
 TERCERO.- Que se giren las instrucciones necesarias para que se envíe y se publique el presente Acuerdo en el Periódico Oficial del Estado de Nuevo León, para que surta efectos a partir de su publicación.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN".]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día 01-uno de Enero del 2017-dos mil diecisiete.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Tránsito y Vialidad, publicado en el Periódico Oficial del Estado de Nuevo León, el 06-seis de Octubre del año 2004-dos mil cuatro.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO.- Publíquese el presente Reglamento en el Periódico Oficial del Estado de Nuevo León para efectos de su vigencia; así mismo en el portal de internet del Municipio, para su debida difusión.
