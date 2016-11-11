@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2016-08-17"
+last_updated: "2016-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P. O. EL 20 DE JUNIO DE 2016; Y SU REFORMA PUBLICADA EN EL P.O. DE 17 DE AGOSTO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1 DE FEBRERO DE 2017.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL DÍA 1 DE ENERO DE 2017.]</small>
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -1987,7 +1987,7 @@ Los conductores de vehículos que entren o salgan de cocheras particulares, cajo
 
 Todos los vehículos deberán efectuar alto completo, cinco metros antes de cruzar las vías de ferrocarril. Antes de iniciar la marcha, deberán cerciorarse de que no se aproxime ningún vehículo que circule sobre rieles, en cuyo caso deberán cederle el paso.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO TERCERO ], P.O. 12 DE NOVIEMBRE DE 2004)
+(REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO TERCERO], P.O. 12 DE NOVIEMBRE DE 2004)
 
 ### CAPITULO DECIMO CUARTO. DE LA CONDUCCION NOCTURNA Y DEL USO DE LUCES
 
@@ -2233,7 +2233,7 @@ C) Solicitará documentos e información que se necesite.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2001)</small>
 
-D) Entregará a los conductores y/o testigos una hoja de reporte para que manifieste por escrito como ocurrieron los hechos del accidente..
+D) Entregará a los conductores y/o testigos una hoja de reporte para que manifieste por escrito como ocurrieron los hechos del accidente.
 
 V Evitará en lo posible la fuga de conductores en caso de lesiones o pérdida de vidas humanas;
 
@@ -2907,7 +2907,7 @@ XI Transportar material peligroso.
 
 Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación y/o póliza de seguro vigente, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal la documentación referida.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2002) (REUBICADO [N. DE E. ANTES ARTÍCULO 137 ], P.O. 12 DE NOVIEMBRE DE 2004)
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2002) (REUBICADO [N. DE E. ANTES ARTÍCULO 137], P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 142.
 
@@ -3256,3 +3256,17 @@ P.O. 17 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS PRIMERO Y SEXTO FRACCIÓN I TRANSITORIOS DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día 1-Primero de Enero del 2017-dos mil diecisiete.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Tránsito y Vialidad, publicado en el Periódico Oficial del Estado de Nuevo León, el 3-tres de noviembre del año 2000-dos mil.
+
+TERCERO.- A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Tránsito y Vialidad del Municipio de San Pedro Garza García, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, el 20-veinte de junio del 2016-dos mil dieciséis, y se deja sin efectos el Dictamen mediante el cual se aprueba la reforma al artículo primero y sexto fracción I de los transitorios del Reglamento de Tránsito y Vialidad del Municipio de San Pedro Garza García, Nuevo León, acuerdo aprobado en Décima Octava Sesión Extraordinaria de fecha 15-quince de agosto del año 2016-dos mil dieciséis, publicado en el Periódico Oficial del Estado del 17-diecisite (sic) de agosto del mismo año.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Reglamento.
+
+QUINTO.- Publíquese el presente Reglamento en el Periódico Oficial del Estado de Nuevo León para efectos de su vigencia; así mismo publíquese en la Gaceta Municipal y en el portal de internet del Municipio, para su debida difusión.
