@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2015-05-26"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1447,9 +1447,13 @@ XLII. Fomentar y controlar los servicios forestales que establezca el Estado;
 
 XLIII. Fomentar la capacitación y la asistencia técnica de los productores forestales del Estado, a fin de que éstos incursionen en el avance tecnológico en sistemas de organización propicios para su desarrollo, y
 
-> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2012)</small>
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-XLIV. Las demás que expresamente señalen esta ley y demás ordenamientos legales.
+XLIV. Coordinarse con las autoridades municipales competentes para la realización de programas que promuevan el cuidado forestal en las zonas urbanas y rurales.
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XLV. Las demás que expresamente señalen esta Ley y demás ordenamientos aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MAYO DE 2012)</small>
 
@@ -2688,3 +2692,21 @@ G.O. 26 DE MAYO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. En un plazo no mayor de ciento veinte días naturales, contado a partir del inicio de vigencia de la presente resolución, se deberá adecuar la normativa interna de la Secretaría de Finanzas y Planeación del Gobierno del Estado a lo dispuesto en este Decreto, y emitirse las reglas de operación del Registro Estatal de Certificados Digitales.
+
+G.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 931 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL DEL ESTADO DE VERA CRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Decreto se encontraran en trámite ante alguna de las áreas administrativas de la Secretaría de Medio Ambiente que, como consecuencia de este Decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+CUARTO. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia forestal, se entenderán referidos a la Secretaría de Medio Ambiente, como cabeza de sector.
+
+QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferidas a la Procuraduría Estatal de Protección al Medio Ambiente y Municipios, éstos deberán realizarlas con los recursos y personal con que cuentan actualmente previa capacitación, o en su defecto, contratar el personal necesario con el perfil técnico acorde a la actividad conferida.
+
+SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+SÉPTIMO Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
