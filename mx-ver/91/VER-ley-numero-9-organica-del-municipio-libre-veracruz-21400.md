@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2016-11-09"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1145,13 +1145,13 @@ IX. Impulsar dentro de su ámbito de competencia, la reforestación, forestació
 
 X. Denunciar la tala ilegal de árboles; así como las infracciones o delitos que se cometan en materia forestal, ecológica o ambiental;
 
-> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-XI. Emitir, con la aprobación del Presidente Municipal, opinión fundada ante la autoridad competente respecto al derribo o desrame de árboles en lugares públicos, urbanos o rurales;
+XI. Emitir autorización, previa solicitud fundada y motivada aprobada en Sesión de Cabildo para el derribo o desrame de árboles en lugares públicos urbanos y aquellos necesarios para obras públicas del Ayuntamiento en predios urbanos o rurales;
 
-> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-XII. Recabar de la autoridad competente, previa solicitud fundada y aprobada en Sesión de Cabildo, autorización para el derribo o desrame de árboles en lugares públicos, urbanos y rurales que sean necesarios para obras públicas del Ayuntamiento o para la seguridad de las personas; y
+XII. Autorizar con la aprobación del Presidente Municipal, el derribo o desrame de árboles que pongan en riesgo la seguridad de las personas en predios urbanos o rurales; y
 
 > <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
 
@@ -3866,3 +3866,21 @@ G.O. 9 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 931 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Decreto se encontraran en trámite ante alguna de las áreas administrativas de la Secretaría de Medio Ambiente que, como consecuencia de este Decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+
+CUARTO. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia forestal, se entenderán referidos a la Secretaría de Medio Ambiente, como cabeza de sector.
+
+QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferidas a la Procuraduría Estatal de Protección al Medio Ambiente y Municipios, éstos deberán realizarlas con los recursos y personal con que cuentan actualmente previa capacitación, o en su defecto, contratar el personal necesario con el perfil técnico acorde a la actividad conferida.
+
+SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+SÉPTIMO Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
