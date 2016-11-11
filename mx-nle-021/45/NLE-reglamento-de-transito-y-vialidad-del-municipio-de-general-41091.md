@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4109
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-08"
-last_updated: "2014-12-22"
+last_updated: "2016-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN, PUBLICADO EN EL P.O. EL 11 DE NOVIEMBRE DE 2016, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2017.]</small>
+
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2004.
 
@@ -2340,3 +2342,15 @@ P.O. 15 DE AGOSTO DE 2012.
 P.O. 22 DE DICIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma por Adición al Reglamento de Tránsito y Vialidad del Municipio de General Escobedo, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día 01-uno de Enero del 2017-dos mil diecisiete.
+
+SEGUNDO. A partir de la entrada en vigor de este Reglamento, se Abroga el Reglamento de Tránsito y Vialidad del Municipio de General Escobedo, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León, el 08-ocho de Septiembre del 2004-dos mil cuatro.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO. Publíquese el presente Reglamento en el Periódico Oficial del Estado de Nuevo León para efectos de su vigencia; así mismo publíquese en la Gaceta Municipal y en el portal de internet del Municipio, para su debida difusión.
