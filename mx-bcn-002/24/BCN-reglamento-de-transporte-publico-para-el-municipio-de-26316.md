@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2014-08-01"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -191,7 +191,9 @@ XXV.- Operativo.- Acto de inspección y/o vigilancia, llevado a cabo por el Sist
 
 XXVI.- Operador.- Persona encargada de la conducción de vehículos del servicio de transporte público.
 
-XXVII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XXVII.- Unidad de Medida y Actualización: A la Unidad de Cuenta, Índice, Base, Medida o Referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las Leyes Federales, de las Entidades Federativas; así como en las disposiciones jurídicas que emanen de todas las anteriores, como el presente Reglamento;
 
 XXVIII.- Padrón.- Registro oficial del Sistema que contiene las características de los vehículos de transporte público por ruta, recorrido o modalidad.
 
@@ -403,7 +405,9 @@ Cada uno de los integrantes podrá nombrar un suplente en los términos de la no
 
 El Comité referido en el artículo anterior, tendrá las siguientes atribuciones:
 
-I.- Otorgar y cancelar permisos para la explotación del servicio público de transporte, de conformidad con el procedimiento establecido en el presente Reglamento, previa autorización de la Junta de Gobierno del Sistema;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+I.- Otorgar previo acuerdo del Ayuntamiento, y cancelar en su caso, los permisos para la explotación del servicio público de transporte, de conformidad con los procedimientos establecidos en el presente Reglamento;
 
 II.- Otorgar y revocar las concesiones para la explotación del servicio público de transporte, de conformidad con el procedimiento establecido en el presente Reglamento, previa autorización de la Junta de Gobierno del Sistema;
 
@@ -623,7 +627,7 @@ X.- Las demás que le sean conferidas por el Ayuntamiento o por la Junta de Gobi
 
 ###### ARTÍCULO 28.
 
-El Presidente del Consejo, a demás de las facultades establecidas en el Reglamento Interior del Consejo, tendrá las siguientes atribuciones:
+El Presidente del Consejo, a demás (sic) de las facultades establecidas en el Reglamento Interior del Consejo, tendrá las siguientes atribuciones:
 
 I.- Convocar por conducto del Secretario Técnico, a los integrantes del Consejo, a las sesiones ordinarias y extraordinarias que procedan;
 
@@ -831,7 +835,9 @@ B) De transporte de alquiler: los destinados al transporte individual de persona
 
 B1).- Con Itinerario fijo: También denominados “taxi de ruta”, estos operan sujetos a itinerario y tarifa fija, como una modalidad accesoria o complementaria al transporte colectivo.
 
-B2).- Sin itinerario fijo: Son los que se contratan por viaje o por tiempo determinado, sujetos a tarifa variable regulada por taxímetro y el pago del llamado banderazo, o por tarifa fija, en función de la distancia recorrida según la zona o sector hacia donde se traslade al usuario conforme lo establezca para cada caso el Sistema; en esta modalidad se identifican dos tipos o categorías de taxi:
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+B2).- Sin itinerario fijo: Son los que se contratan por viaje o por tiempo determinado, sujetos a tarifa variable regulada por taxímetro y el pago del llamado banderazo, o por tarifa fija, en función de la distancia recorrida según la zona o sector hacia donde se traslade al usuario conforme lo establezca para cada caso el Sistema; en esta modalidad se identifican tres tipos o categorías de taxi:
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
@@ -840,6 +846,12 @@ B2.1) Radio Taxi.- Es aquél que se establece para su explotación en propiedad 
 El servicio de Radio Taxi se prestará en vehículo tipo sedan, de cuatro puertas, con aire acondicionado y capacidad máxima de hasta cinco ocupantes, el cual deberá de ser de modelo no mayor a los cuatro años de antigüedad a la fecha que se encuentren operando.
 
 B2.2) Taxi de Sitio.- Es aquél que se establece para su explotación en lugares determinados de la vía pública o en propiedad privada que se denominan sitios, tales como centros comerciales, restaurantes, hoteles, bares, terminales de transporte, centros turísticos o de espectáculos, etc., a donde el usuario debe acudir para contratar el servicio, hacia el destino que solicite.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+B2.3.) Taxi Ejecutivo.- Es aquél que se establece para su explotación en propiedad privada que se denomina base, pudiendo ser complementarios a los denominados radiotaxis, en donde el público usuario puede mediante el uso de dispositivos electrónicos, a través de plataformas, aplicaciones o el uso de cualquier tecnología distinta a la llamada telefónica, solicitar el servicio, hacia el destino que se dirija. Dicho servicio se prestará exclusivamente a través del uso del dispositivo electrónico entre el prestador del servicio y el usuario, respetando el servicio que se presta sobre las rutas, sitios y terminales autorizadas para el servicio público de pasajeros de ruta fija, sin poder abordar en cualquier lugar.
+
+El servicio de Taxi Ejecutivo se prestará en vehículo tipo sedán, de cuatro puertas, con aire acondicionado y capacidad máxima de hasta cinco ocupantes, el cual deberá de ser de modelo no mayor a los cuatro años de antigüedad a la fecha en que se encuentren operando.
 
 C) De transporte turístico.- Es el destinado al transporte de personas a lugares de interés turísticos, arqueológicos, arquitectónicos, panorámicos o artísticos, mediante la renta por horas o días del vehículo y conductor; sin sujeción de horario ni itinerario. Este servicio se presta en unidades de distinta capacidad, exclusivamente diseñadas para tal fin, y el precio del servicio se conviene entre las partes.
 
@@ -1165,9 +1177,11 @@ Mismas que se realizarán en las instalaciones que para tal efecto determine el 
 
 El Sistema podrá de igual forma realizar revisiones mecánicas a vehículos particulares y sellará la Tarjeta de Circulación correspondiente acreditando la revisión.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 94.
 
-Todas las resoluciones o acuerdos emitidos por las Autoridades señaladas en el presente Reglamento, deberán ser notificadas personalmente al interesado entregándosele copia de las mismas.
+Todas las resoluciones o acuerdos emitidos por las Autoridades señaladas en el presente Reglamento, deberán ser notificadas personalmente al interesado, entregándosele copia de las mismas, salvo disposición en contrario en la que se determine el medio por virtud del cual, se le harán saber.
 
 ###### ARTÍCULO 95.
 
@@ -1925,9 +1939,9 @@ VII.- Indicar los elementos de que dispone para la explotación del servicio, as
 
 VIII.- (DEROGADA, P.O. 27 DE MARZO DE 2009)
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-ARTÍCULO 168 BIS.- Una vez autorizado el permiso, el Sistema lo notificará al interesado, quien deberá presentar ante el mismo Sistema el comprobante del pago de los derechos correspondientes en un plazo de diez días hábiles siguientes a la notificación. Transcurrido dicho plazo sin que se efectúe el pago, quedará sin efectos el permiso, debiéndose en su caso iniciar el trámite nuevamente.
+ARTÍCULO 168 BIS.- Una vez autorizado el permiso, el Sistema lo notificará al interesado, quien deberá presentar ante el mismo Sistema el comprobante del pago de los derechos correspondientes dentro de los tres días hábiles siguientes a la notificación. Trascurrido dicho plazo sin que se efectúe el pago, quedará sin efectos el permiso, debiéndose en su caso iniciar el trámite nuevamente.
 
 ###### ARTÍCULO 169.
 
@@ -1957,13 +1971,17 @@ Salvo el caso del transporte de pasajeros de alquiler, los particulares interesa
 
 Una vez que de acuerdo a los estudios técnicos y operativos, se ha determinado la necesidad de prestación del servicio de transporte de alquiler, el Ayuntamiento emitirá Acuerdo, mediante el cual establezca el número de permisos a otorgar y demás condiciones y características que deban observarse, dependiendo de la modalidad de que se trate.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 172.
 
-En todos los casos, el Comité se asegurara de otorgar él o los permisos a quien cumpla con todos los requisitos y ofrezca las mejores condiciones de calidad, suficiencia y regularidad en la prestación del servicio, así como que garantice en forma efectiva el cumplimiento de las condiciones que se deriven del otorgamiento de tal permiso.
+En todos los casos, el Comité se asegurará de otorgar él o los permisos a quien cumpla con todos los requisitos indicados en la presente normatividad, así como las demás condiciones y características indicadas por el Ayuntamiento en el acuerdo respectivo, de tal manera que se obtenga la mejor calidad, suficiencia y regularidad en la prestación del servicio, así como que se garantice en forma efectiva el cumplimiento de las obligaciones que se deriven del otorgamiento de tal permiso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 173.
 
-Una vez decretada la necesidad del servicio, el Comité, otorgará los permisos de conformidad a lo establecido en el presente Reglamento y en base a los estudios técnicos y operativos realizados por el Sistema, los permisos deberán contener:
+Los permisos deberán contener:
 
 I.- Nombre y domicilio del permisionario;
 
@@ -1989,33 +2007,37 @@ XI.- Causa de terminación y cancelación del permiso;
 
 XII.- Prohibición de variar las condiciones del permiso, sin la previa autorización del Sistema Municipal del Transporte;
 
-XIII.- Prohibición de transferir el permiso, sin la previa autorización del Sistema;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XIII.- Indicar que la transferencia del permiso, deberá realizarse en su caso, acorde a los supuestos y requisitos previstos en el presente ordenamiento;
 
 XIV.- Designación de un beneficiario para su transferencia en los casos de permisos para el servicio de transporte de pasajeros de alquiler, según los supuestos previstos en este Reglamento; y
 
 XV.- La mención de que será patrimonio familiar conforme a lo establecido por las Leyes Civiles del Estado;
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 174.
 
-Una vez autorizado el permiso de acuerdo a la modalidad de que se trate, el Sistema expedirá el documento siempre y cuando el particular le acredite a satisfacción lo siguiente:
+Una vez autorizado el permiso de acuerdo a la modalidad de que se trate, el Sistema expedirá el documento que lo ampare, para lo cual el permisionario deberá:
 
-I.- Póliza de Seguro de Responsabilidad Civil, que garantice daños materiales a terceros; así como indemnización por muerte o lesiones, expedida por Compañía o Empresa reconocida y autorizada en el ramo. La cual deberá estar respaldada por una institución de seguros avalada por la Comisión de Seguros y fianzas;
+I.- Presentar los documentos que amparen la propiedad así como la legal estancia en el Estado de Baja California, del vehículo con el que se pretende prestar el servicio de transporte público;
 
-II.- Copia de la Identificación Oficial con fotografía del permisionario;
+II.- Presentar el vehículo a que se refiere el inciso anterior a revisión mecánica ante el Sistema Municipal del Transporte, mismo que expedirá en su caso, el documento que certifique que el vehículo cumple con los requisitos de seguridad mecánica, higiene, presentación, comodidad y demás exigidos por la normatividad de la materia.
 
-III.- Documentos del vehículo que acrediten la propiedad del titular del permiso; así como la legal estancia en el Estado de Baja California; y
+III.- Acreditar que el vehículo referido en los incisos que anteceden cuenta con Póliza de Seguro de Responsabilidad Civil, que garantice daños materiales a terceros; así como indemnización por muerte o lesiones, expedida por Compañía o Empresa reconocida y autorizada en el ramo; dicha póliza, deberá estar respaldada por una institución de seguros avalada por la Comisión de Seguros y fianzas;
 
-IV.- Presentar el vehículo a revisión mecánica ante el Sistema Municipal del Transporte, mismo que expedirá en su caso, el documento que certifique que el vehículo cumple con los requisitos de seguridad mecánica, higiene, presentación y comodidad.
+IV.- Exhibir copia de su identificación oficial con fotografía;
 
 ###### ARTÍCULO 175.
 
 Los permisos podrán ser modificados en los términos que fueron expedidos, a iniciativa del Sistema o a petición del interesado; para lo cual bastará el análisis que realice el Sistema, quien resolverá directamente.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 176.
 
-En el caso de que el titular del permiso desee sustituir el vehículo autorizado por otro, el modelo del vehículo sustituto no deberá rebasar en ningún momento los diez años de antigüedad en su fabricación respecto a la fecha en que se encuentre operando, con excepción del transporte de alquiler sin itinerario fijo que preste el servicio de Radio Taxi, en el que el modelo del vehículo sustituto deberá apegarse a lo establecido por el Artículo 51 Fracción I subinciso B2.1) del presente Reglamento.
+En el caso de que el titular del permiso desee sustituir el vehículo autorizado por otro, el modelo del vehículo sustituto no deberá rebasar en ningún momento los diez años de antigüedad en su fabricación respecto a la fecha en que se encuentre operando, con excepción del transporte de alquiler sin itinerario fijo que preste el servicio de Radio Taxi y de Taxi Ejecutivo, en el que el modelo del vehículo sustituto no deberá rebasar los cuatro años de antigüedad respecto a la fecha en que se encuentre operando.
 
 #### SECCION V
 
@@ -2045,19 +2067,21 @@ II.- Acreditar ser el adjudicatario legal del mismo.
 
 De autorizarse la transferencia, el nuevo titular asumirá los derechos y obligaciones que le son inherentes y será responsable de la prestación del servicio en los términos y condiciones en que fue inicialmente otorgado el permiso, y en su caso con las modificaciones que realice el Sistema.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 180.
 
-En los demás casos, los derechos inherentes a los permisos serán transferibles, previo estudio realizado por el Sistema, pero para que la operación surta efectos es necesario:
+Además de los casos previstos en el artículo 177 del presente Reglamento, el Sistema autorizará la transferencia de los derechos inherentes a un permiso, previo cumplimiento de los siguientes requisitos:
 
-I.- La autorización del Sistema;
+I.- La transferencia podrá realizarse mediante comparecencia de los interesados ante el propio Sistema, o bien, ante fedatario público, sin necesidad de ratificación o formalidad adicional;
 
-II.- Que el adquiriente llene los requisitos establecidos en la Ley y en el presente Reglamento para el otorgamiento del permiso;
+II.- El beneficiario de la transferencia, deberá cumplir con los requisitos establecidos en la Ley y en el presente Reglamento para el otorgamiento del permiso;
 
-III.- Que el titular del permiso compruebe estar al corriente en el pago de los derechos y haber cumplido todas las obligaciones a su cargo que se deriven del mismo;
+III.- No deberán existir adeudos pendientes en relación con el pago de derechos inherentes al permiso;
 
-IV.- Que el adquiriente se haga responsable de las obligaciones en los términos que lo era el anterior beneficiario; y
+IV.- El beneficiario de la transferencia, deberá asumir las obligaciones derivadas del permiso, en los mismos términos que el anterior titular, aun las pendientes por cumplir a cargo de este, en su caso; y
 
-V.- Que dicho permiso no hubiese sido registrado con el carácter de patrimonio familiar, en los términos que se establecen en el artículo 165 de este Reglamento.
+V.- El permiso no debe haberse registrado con el carácter de patrimonio familiar, en los términos que establece el artículo 165 de este Reglamento.
 
 ###### ARTÍCULO 181.
 
@@ -2551,7 +2575,7 @@ VI.- Las demás que se establezcan en el presente Reglamento.
 
 ###### ARTÍCULO 221.
 
-Para que el Sistema autorice sitios frente a centros comerciales, de espectáculos y hoteles, el interesado, además de cumplir con los requisitos del artículo 214 de este Reglamento, deberá comprobar que los propietarios de los establecimientos proporcionarán a los operadores y personal del sitio, los servicios sanitarios, a demás de efectuar el pago por derechos del uso de la vía pública, ante la Tesorería del Ayuntamiento.
+Para que el Sistema autorice sitios frente a centros comerciales, de espectáculos y hoteles, el interesado, además de cumplir con los requisitos del artículo 214 de este Reglamento, deberá comprobar que los propietarios de los establecimientos proporcionarán a los operadores y personal del sitio, los servicios sanitarios, a demás (sic) de efectuar el pago por derechos del uso de la vía pública, ante la Tesorería del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
@@ -2859,7 +2883,7 @@ I. Solicitud por escrito, dirigida al Director del Sistema, en la cual el intere
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
 
-Il. Licencia de conducir vigente y de la clasificación correspondiente a la modalidad en la que pretenda operar, expedida por autoridad competente del Gobierno del Estado de Baja California;
+II. Licencia de conducir vigente y de la clasificación correspondiente a la modalidad en la que pretenda operar, expedida por autoridad competente del Gobierno del Estado de Baja California;
 
 III. 2 fotografías tamaño credencial, de frente recientes.
 
@@ -3251,7 +3275,9 @@ El Comité a petición del Sistema podrá cancelar y revocar los permisos y conc
 
 I.- El incumplimiento por parte del concesionario o permisionario, de cualquiera de las obligaciones que se establezcan en la Ley y en el presente Reglamento, que sea calificado como grave a juicio del Sistema para afectar la prestación del servicio y los intereses del usuario;
 
-II.- Enajenar el permiso, o alguno de los derechos contenidos en ellos sin la previa autorización por parte del Sistema; Así como permitir que unidad distinta a la dada de alta ante el sistema, preste el servicio al amparo del permiso o concesión;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+II.- Transferir el permiso y los derechos inherentes al mismo sin cumplir con los requisitos previstos en este Reglamento; así como permitir que unidad distinta a la dada de alta ante el sistema, preste el servicio al amparo del permiso;
 
 III.- Transferir la concesión, o alguno de los derechos contenidos en ella, como el permitir que unidades que no sean de su propiedad, presten el servicio en las rutas que tengan autorizadas;
 
@@ -3445,7 +3471,9 @@ I.- Amonestación;
 
 II.- Apercibimiento;
 
-III.- Multa hasta por 150 salarios mínimos general vigente en el Estado; o
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+III.- Multa hasta por 500 veces la Unidad de Medida y Actualización aplicable en la entidad; o
 
 IV.- Cancelación o suspensión del tarjetón.
 
@@ -3489,7 +3517,7 @@ IV. Por incumplimiento de las disposiciones que emite la Autoridad del Transport
 
 V. Por comportamiento indebido y falta de cortesía para con el público de parte del personal empleado en la prestación del servicio;
 
-VI. Por abastecer combustible con el motor encendido y/o con pasajeros abordo;
+VI. Por abastecer combustible con el motor encendido y/o con pasajeros abordo (sic);
 
 VII. Por tolerar que viajen personas en los estribos o en lugares no destinados para ello;
 
@@ -3655,19 +3683,29 @@ Los Inspectores que hubieren ordenado la remisión del vehículo al depósito ve
 
 Para la devolución de vehículos en los depósitos será indispensable la comprobación de su propiedad o legal posesión y que se haga el pago de los derechos que procedan y de las multas por infracciones cometidas con el vehículo.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 327.
 
-Se sancionará con multa de 1 a 150 salarios mínimos general vigente en la entidad de Baja California, en la operación de vehículos del servicio público de transporte, según el supuesto en que encuadre de conformidad a la siguiente:
+Al que contravenga las disposiciones del presente Reglamento, se le sancionará de acuerdo al grado de la falta cometida, en los términos siguientes:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE AGOSTO DE 2002, PÁGINAS DE LA 162 A LA 166.</small>
+A) Infracción Leve: Aquellas que comprenden multa de 1 a 5 veces la Unidad de Medida y Actualización aplicable en la entidad.
 
-> <small>N. DE E. REFORMAS A LA TABLA, P.O. 1 DE OCTUBRE DE 2010.</small>
+B) Media: Aquellas que comprenden multa de 6 a 10 veces la Unidad de Medida y Actualización aplicable en la entidad.
 
-Las demás sanciones previstas en el presente Reglamento y en el de Tránsito Municipal serán aplicadas a los vehículos del servicio público de transporte cuando sus operadores cometan la infracción a dichos ordenamientos.
+C) Graves: Aquellas que comprenden multa de 11 a 500 veces la Unidad de Medida y Actualización aplicable en la entidad.
+
+El pago de la multa correspondiente, se realizará según el supuesto en que encuadre, de conformidad a la siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 11 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 42 A LA 48.]</small>
+
+Las demás sanciones previstas en el presente Reglamento y en el de Tránsito Municipal serán aplicadas a los vehículos del servicio público de transporte cuando sus operadores cometan la infracción de dichos ordenamientos.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 328.
 
-En los casos de infracciones previstas en las disposiciones del presente Reglamento, pero no señaladas en la tabla de sanciones del artículo anterior, se impondrá multa de dos días de salario mínimo, vigente en el Municipio.
+En los casos de infracciones previstas en las disposiciones del presente Reglamento, pero no señaladas en la tabla de sanciones del artículo anterior, se impondrá multa de uno a tres veces la Unidad de Medida y Actualización aplicable en la entidad.
 
 ###### ARTÍCULO 329.
 
@@ -3770,3 +3808,11 @@ SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICAC
 P.O. 1 DE AGOSTO DE 2014.
 
 ÚNICO: LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA (SIC) REFORMAS A DIVERSOS ARTÍCULOS DEL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En tanto no se actualicen los sistemas de Recaudación Municipal para permitir el pago de multas conforme a la Unidad de Medida y Actualización, se seguirá utilizando como referencia para dicho fin, el salario mínimo general vigente en la entidad.
