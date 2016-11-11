@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-consejo-ciudadano-de-seguridad-publica-del-74850
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-12"
-last_updated: "2010-05-12"
+last_updated: "2016-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el miércoles 12 de mayo 2010.
 
@@ -59,35 +59,59 @@ El Consejo estará integrado por los siguientes consejeros: (sic)
 
 El Consejo Ciudadano se integra por:
 
-I. El Presidente de la Comisión de Seguridad Pública Municipal del R. Ayuntamiento;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-II. Un ciudadano representante de Organizaciones de Vecinos;
+I. Un Presidente Ciudadano;
 
-III. Un ciudadano representante de Asociaciones de Padres de Familia;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-IV. Un ciudadano representante de Organizaciones Sindicales de Trabajadores;
+II. Un Secretario Ejecutivo;
 
-V. Dos ciudadanos representantes de organizaciones Industriales o Empresariales;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
-VI. Un representante del Magisterio.
+III. Un delegado propietario y su respectivo suplente;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+IV. Un vocal ciudadano representante de Organizaciones de vecinos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+V. Un vocal ciudadano representante de Asociaciones de Padres de Familia;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VI. Un vocal ciudadano representante de organizaciones sindicales de trabajadores;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VII. Dos vocales ciudadanos representantes de organizaciones industriales o empresariales;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Un vocal ciudadano representante del Magisterio.
+
+(REPUBLICADO, P.O. 11 DE NOVIEMBRE DE 2016)
 
 La Presidencia Municipal a través de la Secretaría del R. Ayuntamiento convocará a las organizaciones, asociaciones e instituciones a que se refiere el párrafo anterior, las cuales deberán estar constituidas legalmente y contar con mayor representatividad social, a efecto de que designen a sus representantes, los cuales preferentemente deberán contar con algún conocimiento en materia de seguridad pública; sus cargos serán honoríficos. Los Consejeros ciudadanos durarán en su cargo por un período igual al que constitucionalmente corresponde a la Administración Pública Municipal que los convoca.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+Los consejos consultivos ciudadanos, deberán estar integrados respetando los principios de paridad de género.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LA REFORMA PUBLICADA EN EL P.O. DE 11 DE NOVIEMBRE DE 2016 LAS FRACCIONES IV, V Y VI DEL PRESENTE ARTÍCULO FUERON DEROGADAS]</small>
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 6.
 
-El pleno del Consejo Ciudadano estará constituido por:
+El Pleno del consejo ciudadano se integra por:
 
-I. El Presidente Municipal, quien fungirá como Presidente Honorario;
+I. Un presidente, que será el ciudadano que designe el Pleno del Consejo Ciudadano en su primera sesión;
 
-II. Un Presidente Ejecutivo, que será el ciudadano que designe el pleno del Consejo Ciudadano en su primera sesión;
+II. Un Secretario Ejecutivo;
 
-III. Un Secretario Ejecutivo, que será el Secretario del R. Ayuntamiento;
-
-IV. Un Secretario Técnico, que será titular de la Secretaría de Seguridad Pública y Vialidad Municipal;
-
-V.- El Presidente de la Comisión de Seguridad Pública y Transito; y
-
-VI. Los Ciudadanos señalados en el Artículo anterior, quienes ocuparan el cargo de vocales.
+III. Los vocales ciudadanos señalados en el Artículo anterior.
 
 ###### Artículo 7.
 
@@ -111,9 +135,11 @@ V. Las demás que le instruya el Pleno del Consejo Ciudadano o su Presidente; y
 
 VI. Las demás que se determinen en el Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-El Consejo Ciudadano podrá solicitar a su Secretario Técnico el apoyo técnico que sea necesario y la elaboración de estudios, informes e investigaciones que sean pertinentes para el desempeño de sus atribuciones.
+El Consejo Ciudadano podrá solicitar a su Secretario Ejecutivo el apoyo técnico que sea necesario y la elaboración de estudios, informes e investigaciones que sean pertinentes para el desempeño de sus atribuciones
 
 ###### Artículo 10.
 
@@ -159,7 +185,13 @@ XVII. Realizar foros de seguridad, con el propósito de discutir y analizar entr
 
 XVIII. Emitir los acuerdos correspondientes; y
 
-XIX. Las demás previstas en el presente Reglamento.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Asistir a las audiencias públicas, así como solicitarlas en términos de la Ley de Participación Ciudadana para el Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
+XX. Las demás previstas en el presente Reglamento.
 
 ###### Artículo 12.
 
@@ -183,9 +215,11 @@ I.- Ordinarias y
 
 II.- Extraordinarias.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 16.
 
-Se deberán celebrar por lo menos una sesión ordinaria por mes, debiendo notificar el Presidente Ejecutivo a los integrantes del Consejo por conducto de la Secretaría Ejecutiva con un mínimo 24 horas de anticipación a la celebración de la sesión.
+Se deberán celebrar por lo menos una sesión ordinaria por mes, debiendo notificar el Presidente a los integrantes del Consejo por conducto de la Secretaría Ejecutiva con un mínimo de 24 horas de anticipación a la celebración de la sesión.
 
 ###### Artículo 17.
 
@@ -213,9 +247,11 @@ Para que las Sesiones del Consejo sean válidas se necesita como requisito previ
 
 Para declarar legalmente iniciados los trabajos de la sesión del Pleno del Consejo, se requiere el que estén presentes al pase de lista, cuando menos la mitad más uno de sus integrantes.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 21.
 
-Las resoluciones o acuerdos del Consejo se tomarán con el voto de la mayoría de los presentes, teniendo el Presidente Ejecutivo voto de calidad en caso de empate.
+Las resoluciones o acuerdos del Consejo se tomaran con el voto de la mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate.
 
 ### CAPITULO IV. DEL PROCEDIMIENTO DE REVISION Y CONSULTA
 
@@ -246,3 +282,13 @@ PRESIDENTE MUNICIPAL
 JOSÉ ANTONIO QUIROGA CHAPA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE APRUEBA LA REFORMA POR MODIFICACIÓN DEL REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.”.]</small>
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
