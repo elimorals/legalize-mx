@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2015-12-31"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -375,13 +377,15 @@ La Entrega-Recepción se sujetará a lo establecido en el Título Octavo de esta
 
 Cuando el Presidente Municipal saliente no acuda a la instalación del nuevo ayuntamiento, a la entrega-recepción del gobierno municipal o a ninguno de los actos, la toma de protesta se hará en términos del artículo 36 y procederán a requerir a la autoridad saliente la entrega-recepción, en caso de negativa procederán en términos de la ley aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 40.
 
-Cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubieren declarado nulas las elecciones, el Congreso del Estado determinará lo procedente.
+Cuando por cualquier circunstancia especial no se verificare la elección de algún Ayuntamiento o se hubiere declarado nula o válida (sic), el Gobernador del Estado hará la designación de un encargado de la Administración Municipal.
 
-No se celebrarán nuevas elecciones en aquellos casos en que se ponga en peligro la paz pública o la estabilidad de las instituciones, a juicio del Congreso del Estado, quien procederá a designar un Concejo Municipal en los términos establecidos por la Constitución del Estado y por esta Ley o en su caso nombrará a un encargado de la administración municipal hasta en tanto sea posible la instalación del Consejo (sic).
+En aquellos casos en que se ponga en peligro la paz pública o la estabilidad de las instituciones, no se celebrarán nuevas elecciones, esto a juicio del Congreso del Estado, quien lo hará del conocimiento del Titular del Poder Ejecutivo mismo que procederá a proponerle la integración de un Consejo Municipal, en los términos establecidos por la Constitución Local y por esta Ley. Hasta en tanto sea posible la instalación del Consejo, el Titular del Poder Ejecutivo nombrará a un encargado de la Administración Municipal.
 
 ###### ARTÍCULO 41.
 
@@ -977,31 +981,47 @@ VII. El Congreso del Estado autorizará al Instituto Estatal Electoral y de Part
 
 ### CAPÍTULO VII. DE LOS CONCEJOS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+(NOTA: EL 9 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 533/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE DICIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
-Cuando se declare la suspensión o desaparición de un Ayuntamiento. El Congreso del Estado procederá de inmediato a designar de entre los vecinos del municipio respectivo, a los integrantes de un Concejo Municipal.
+Cuando se declare la suspensión O DESAPARICIÓN de un Ayuntamiento, el Congreso del Estado dará vista al Titular del Poder Ejecutivo, para que de inmediato nombre a un encargado de la Administración Municipal.
 
-Se integrará por el mismo número de miembros propietarios y suplentes del Ayuntamiento, según corresponda; y concluirá el periodo de ejercicio constitucional del mismo. Sus miembros deberán reunir los requisitos de elegibilidad que establecen la Constitución, esta Ley y el Código de Instituciones Políticas y Procedimientos Electorales del Estado.
+El titular del Poder Ejecutivo del Estado, quince días antes de que finalicen los noventa días de ejercicio del encargado de la Administración Municipal, propondrá al Congreso del Estado para su ratificación en los términos que establece la Constitución Local, la integración del Consejo (sic) Municipal.
 
-Los Concejos Municipales tendrán la competencia que para los Ayuntamiento (sic) determina esta Ley:
+El Consejo (sic) Municipal se integrará por el mismo número de miembros propietarios y suplentes del Ayuntamiento, según corresponda; y concluirá el período de ejercicio constitucional del mismo. Sus miembros deberán reunir los requisitos de elegibilidad que establecen la Constitución Local, esta Ley y el Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca
 
-La designación de los Concejos Municipales, se hará por el voto de las dos terceras partes de los integrantes del Congreso del Estado.
+Los Concejos Municipales tendrán la competencia que para los Ayuntamientos determina esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+La designación de los Concejos Municipales, se llevará a cabo por el voto de las dos terceras partes de los integrantes del Congreso del Estado.
+
+En caso de que concluya el plazo establecido para el ejercicio del encargado de la Administración Municipal y no haya sido posible integrar el Consejo (sic) Municipal, el Gobernador del Estado podrá ratificarlo o bien nombrar a otro, con la vigencia y facultades establecidas en esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 67.
 
-Si las condiciones políticas no permiten que inicie en sus funciones un Concejo Municipal, el Ejecutivo del Estado así lo manifestará al Congreso y solicitará que nombre a un encargado provisional de la administración municipal debiendo fijar el término durante el que fungirá dicho encargado.
-
-Al concluir el término del nombramiento concedido al encargado, se deberá de decretar la designación del Concejo Municipal, o en su defecto, si las condiciones aún no lo permiten, se decidirá lo relativo a la integración del Concejo.
+Si las condiciones políticas no permiten el inicio de funciones del Concejo Municipal, el Titular del Poder Ejecutivo nombrará a un encargado de la Administración Municipal, en tanto el Congreso del Estado determine lo procedente.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 21 DE AGOSTO DE 2015)
 
 ### CAPÍTULO VIII. DE LOS ENCARGADOS DE LA ADMINISTRACIÓN MUNICIPAL
 
-ARTÍCULO 67 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+ARTÍCULO 67 BIS.- Los encargados de la Administración Municipal serán nombrados por el Gobernador del Estado en los casos previstos por la Constitución Local y esta Ley.
+
+Tendrán las obligaciones, atribuciones y facultades que para los Ayuntamientos se determinan, durarán en su ejercicio noventa días, pudiendo ser prorrogados de conformidad a las hipótesis previstas en la presente Ley.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES DEL AYUNTAMIENTO
 
@@ -2704,3 +2724,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1387.- MEDIANTE EL CUAL SE, REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 68, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO: El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2093.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
