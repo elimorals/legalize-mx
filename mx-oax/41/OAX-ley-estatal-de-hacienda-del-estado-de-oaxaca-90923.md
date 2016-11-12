@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2015-12-31"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -269,7 +269,7 @@ Son sujetos de este impuesto las persona físicas que perciban ingresos por otor
 
 Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
 
-I. Los provenientes de arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmueblesen cualquier otra forma, y
+I. Los provenientes de arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma, y
 
 II. Los rendimientos de certificados de participación inmobiliaria no amortizables.
 
@@ -1139,7 +1139,11 @@ I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al t
 
 II. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, por los Servicios prestados dentro del territorio del estado, aún cuando los prestadores del servicio o los beneficiaros del mismo, o ambos, tengan su domicilio fiscal fuera de éste.
 
-Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, pagos por concepto de fondo de ahorro que no reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba.
 
 Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 67 de esta ley.
 
@@ -1175,7 +1179,11 @@ El pago de este impuesto se efectuará mediante declaración bimestral definitiv
 
 Se exceptúan para el cálculo del impuesto, las erogaciones que se efectúen por concepto de:
 
-I. Aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+I. Aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores, únicamente las que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
 II. Depósitos a la cuenta individual del trabajador de ahorro para el retiro, hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia, y las aportaciones voluntarias y complementarias, hasta por un monto de 20 Salarios elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro;
 
@@ -1410,3 +1418,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1666.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA".]
 
 ÚNICO. El presente Decreto entrará en vigor el día uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2094.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El Presente Decreto entrará en vigor a partir del primero de enero de dos mil diecisiete.
+
+TERCERO.- El Presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
