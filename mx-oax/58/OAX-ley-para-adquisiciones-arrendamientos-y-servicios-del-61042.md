@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-y-servicios-del-61042"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-19"
-last_updated: "2016-10-15"
+last_updated: "2016-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA
 
-LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 19 de abril de 2008 y republicada en el P.O. el miércoles 30 de abril de 2008.
 
@@ -1576,3 +1578,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de enero de dos mil diecisiete.
 
 TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2091.- MEDIANTE EL CUAL APRUEBA LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. La presente Ley entrará en vigor el primero de diciembre de dos mil dieciséis.
+
+TERCERO. Se abroga la Ley para Adquisiciones, Arrendamientos y Servicios del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado, de fecha 19 de abril de 2008 y sus reformas.
+
+CUARTO. Se derogan todas las disposiciones de igual o menor rango, que se opongan a lo dispuesto por el presente Decreto.
+
+QUINTO. La Secretaría dispondrá de un plazo de treinta días naturales, a partir de la fecha de entrada en vigor, para expedir el Reglamento de la Ley e instalar el Comité de Adquisiciones
+
+SEXTO. Los procedimientos de contratación y de aplicación de sanciones, así como los demás asuntos que se encuentren en trámite o pendientes de resolución al entrar en vigor la presente Ley, se tramitarán y regularán conforme a las disposiciones vigentes al momento en que se iniciaron.
