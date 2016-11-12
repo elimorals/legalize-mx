@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-45552"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-09"
-last_updated: "2011-08-27"
+last_updated: "2016-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE TURISMO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE TURISMO DEL ESTADO DE OAXACA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 12 DE NOVIEMBRE DE 2016, ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE DICIEMBRE DE DOS MIL DIECISÉIS.]</small>
+
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado, el sábado 9 de julio de 2005.
 
@@ -836,3 +838,17 @@ DECRETO NUMERO 575 POR EL QUE SE REFORMAN LOS ARTICULOS 61 Y 63 DE LA LEY DE TUR
 P.O. 27 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2088.- MEDIANTE EL CUAL EXPIDE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de diciembre de dos mil dieciséis.
+
+SEGUNDO.- Se abroga la Ley de Turismo del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado en fecha 9 de julio de 2005.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en el ámbito estatal que se opongan al presente ordenamiento.
+
+CUARTO.- El Titular del Ejecutivo del Estado, expedirá los Reglamentos que refiere la presente Ley, dentro de los ciento veinte días siguientes a la entrada en vigor.
+
+QUINTO.- Los procedimientos administrativos iniciados ante la autoridad que corresponda, antes de la entrada en vigor de la presente Ley, deberán atenderse y resolverse, de conformidad con la legislación que se abroga mediante esta Ley.
