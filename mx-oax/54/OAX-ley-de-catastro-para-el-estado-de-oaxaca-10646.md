@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2015-12-31"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -485,9 +485,17 @@ V. Nombrar y remover, con la aprobación del Secretario de Finanzas, a los funci
 
 VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VII. Las demás que expresamente determine esta Ley, su Reglamento y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+VII. Dictar, implementar y supervisar las medidas para la vinculación de la información catastral con la registral de los predios, con la finalidad de brindar auténtica certeza y seguridad jurídica sobre los derechos de propiedad de las personas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005) (REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 12 DE NOVIEMBRE DE 2016)
+
+VIII. Las demás que expresamente determine esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -1756,3 +1764,27 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1668.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2092.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA Y POR EL QUE SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día primero de diciembre de dos mil dieciséis.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO.- La Junta de Gobierno del Instituto de la Función Registral del Estado de Oaxaca deberá expedir la normatividad reglamentaria, para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+En tanto, seguirán vigentes las disposiciones reglamentarias que rigen al Registro Público y del Comercio en lo que no se oponga al presente Decreto.
+
+CUARTO.- Cuando se haga referencia al Secretario General de Gobierno, respecto de las atribuciones que les han sido derogadas en términos del presente Decreto, se entenderá al Consejero Jurídico del Gobierno del Estado.
+
+QUINTO.- En todos los casos en que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias, los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
+
+SEXTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+SÉPTIMO.- El Gobernador del Estado a través de la Secretaría de Finanzas y de la Secretaría de Administración, en el ámbito de sus respectivas facultades, y respetando los derechos laborales de los actuales trabajadores, deberá de dar cumplimiento a lo establecido en el presente Decreto.
+
+OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de Oaxaca.
+
+El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
