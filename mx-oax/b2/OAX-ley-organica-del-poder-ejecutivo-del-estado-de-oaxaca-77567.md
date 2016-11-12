@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2016-10-17"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,9 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 2054 MEDIANTE EL CUAL SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, EL PRESENTE DECRETO ENTRARÁ EN VIGOR A PARTIR DEL PRIMERO DE DICIEMBRE DE DOS MIL DIECISÉIS.]
-
-[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -443,19 +437,25 @@ XIII. Solicitar la declaratoria de emergencia a la Secretaría de Gobernación e
 
 XIV. Instaurar y tramitar los procedimientos, integrando los expedientes respectivos, y ejecutar los acuerdos que emita el Gobernador en materia de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública y de acuerdo con la normatividad aplicable;
 
-XV. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus Municipios;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 XVI. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes relativas en materia de loterías, rifas y juegos prohibidos;
 
 XVII. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes y convenios relativos, en materia de migración, política poblacional, cultos religiosos;
 
-XVIII. Registrar los autógrafos, legalizar y certificar las firmas de los servidores públicos estatales y demás funcionarios a quienes esté encomendada la fe pública;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XVIII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 XIX. Certificar todo tipo de documentos, así como, dar legalidad a todos los actos relativos al despacho de los asuntos del Ejecutivo;
 
 XX. Recibir del Instituto Estatal Electoral y de Participación Ciudadana, las salas competentes del Tribunal Electoral del Poder Judicial de la Federación y del Estado, o en su caso, del Congreso del Estado, el padrón de firmas de las autoridades municipales y auxiliares, e integrar, legalizar, certificar o expedir la acreditación administrativa respectiva;
 
-XXI. Firmar el apostillamiento de los documentos públicos estatales, de conformidad con la Convención por la que se suprime el Requisito de Legalización de los Documentos Públicos Extranjeros, adoptada en la Conferencia de la Haya de Derecho Internacional Privado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XXI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 XXII. Establecer anualmente el calendario oficial y ordenar la publicación del calendario oficial que regirá en el Estado;
 
@@ -469,9 +469,11 @@ XXVI. Apoyar a los organismos electorales del Estado, en el ejercicio de sus atr
 
 XXVII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana;
 
-(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXVIII. Refrendar con su firma las leyes o decretos enviados para su promulgación y publicación por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expide el Gobernador del Estado y aquellas que deban regir en la entidad y establezca la normatividad aplicable en la materia, ordenándole al área correspondiente su publicación en el Periódico Oficial del Gobierno del Estado, conforme a las disposiciones aplicables de la Ley Estatal de Derechos.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXVIII. Refrendar con su firma las leyes o decretos enviados para su promulgación y publicación por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expide el Gobernador del Estado y aquellas que deban de regir en la entidad y establezca la normatividad aplicable en la materia, remitiéndolos inmediatamente a la consejería jurídica del gobierno del Estado para su publicación en el Periódico Oficial del Gobierno del Estado;
 
 XXIX. Proponer al Gobernador del Estado, la solicitud de referéndum, en los asuntos que así lo requieran;
 
@@ -479,17 +481,17 @@ XXX. Dirigir, planear, desarrollar y promover la aplicación de la política de 
 
 XXXI. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Secretaría;
 
-(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXII. Coordinar, organizar y supervisar el ejercicio y funcionamiento del Registro Público de la Propiedad y del Comercio, la Dirección del Registro Civil y la Dirección General de Notarías y Archivo General de Notarias;
+XXXII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
-(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado, vigilar y ordenar visitas periódicas de inspección, autorizar y sancionar las actividades de los notarios públicos;
+XXXIII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
-(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXIV. Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Gobierno del Estado.
+XXXIV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -1441,9 +1443,13 @@ XX. Procurar el equilibrio entre los factores de la producción, proponiendo y e
 
 XXI. Promover el incremento de la productividad laboral en el Estado;
 
-XXII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo; Coordinar el Servicio Nacional de Empleo Oaxaca, así como promocionar y coordinar las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
-XXIII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo;
+XXII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo.
+
+> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXIII. Coordinar el Servicio Nacional de Empleo Oaxaca, así como promocionar y coordinar las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
 
 XXIV. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como, vigilar la observancia de tales principios al interior del Gobierno del Estado;
 
@@ -1815,21 +1821,69 @@ XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura
 
 XXX. Coordinar y supervisar los subcomités de transparencia y acceso a la información pública y unidades de enlace que sean designados por las dependencias y entidades de conformidad con el Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado; coadyuvando con la Secretaría de la Contraloría y Transparencia Gubernamental, quien deberá actuar como órgano de control interno, de conformidad con las disposiciones aplicables;
 
-XXXI. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
-XXXIII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+XXXI. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la Dirección General de Notarías y Archivo General de Notarías;
 
-XXXIV. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXXII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado, vigilar y ordenar visitas periódicas de inspección, autorizar y sancionar las actividades de los notarios públicos;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII. Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Gobierno del Estado;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV. Ordenar al área correspondiente, la publicación en el Periódico Oficial del Gobierno del Estado de las leyes o decretos expedidos por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expida el gobernador del Estado o emiten (sic) las dependencias, entidades, órganos auxiliares y desconcentrados, y de todas aquellas que deban regir en la entidad y establezca la normatividad en la materia; conforme a las disposiciones aplicables de la Ley Estatal de Derechos;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XXXV. Compilar y archivar la legislación y reglamentación vigente en el Estado, y
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXVI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXXVI. Registrar los autógrafos, legalizar y certificar las firmas de los servidores públicos estatales y demás funcionarios a quienes esté encomendada la fe pública;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXXVII. Firmar el apostillamiento de los documentos públicos estatales, de conformidad con la Convención por la que se suprime el Requisito de Legalización de los Documentos Públicos Extranjeros, adoptada en la Conferencia de la Haya de Derecho Internacional Privado;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXXVIII. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la Dirección del Registro Civil;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Consejería Jurídica;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XL. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus municipios; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+XLI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2471,7 +2525,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 10 DE MARZO DE 2012.
 
@@ -2690,3 +2744,27 @@ En todos los casos que por la aplicación de este Decreto se modifique la estruc
 DÉCIMO PRIMERO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven del presente Decreto, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y órganos descentralizados del poder ejecutivo estatal.
 
 DÉCIMO SEGUNDO.- El presente Decreto deroga todas las disposiciones reglamentarias o administrativas, de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2092.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA Y POR. EL QUE SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día primero de diciembre de dos mil dieciséis.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO.- La Junta de Gobierno del Instituto de la Función Registral del Estado de Oaxaca deberá expedir la normatividad reglamentaria, para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+En tanto, seguirán vigentes las disposiciones reglamentarias que rigen al Registro Público y del Comercio en lo que no se oponga al presente Decreto.
+
+CUARTO.- Cuando se haga referencia al Secretario General de Gobierno, respecto de las atribuciones que les han sido derogadas en términos del presente Decreto, se entenderá al Consejero Jurídico del Gobierno del Estado.
+
+QUINTO.- En todos los casos en que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias, los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
+
+SEXTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+SÉPTIMO.- El Gobernador del Estado a través de la Secretaría de Finanzas y de la Secretaría de Administración, en el ámbito de sus respectivas facultades, y respetando los derechos laborales de los actuales trabajadores, deberá de dar cumplimiento a lo establecido en el presente Decreto.
+
+OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de Oaxaca.
+
+El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
