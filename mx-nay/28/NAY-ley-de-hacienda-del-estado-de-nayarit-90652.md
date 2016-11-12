@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2016-11-08"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -349,6 +349,8 @@ Para este efecto se considerará como fecha de la adquisición la que aparezca e
 
 #### SECCIÓN PRIMERA. Del Padrón Vehicular del Estado de Nayarit
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 30.
 
 Están exentas del pago de este impuesto:
@@ -361,75 +363,25 @@ II.- La compra de vehículos efectuada por personas físicas o morales cuyo giro
 
 DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 31.
 
-Este impuesto se causara sobre la tenencia o uso de los siguientes vehículos automotores: automóviles, autobuses, camiones y tractores, motocicletas, embarcaciones y motos acuáticas, que circulen habitualmente por la circunscripción territorial del Estado de Nayarit.
-
-Para los efectos de este artículo, se consideran:
-
-a) Automóviles: vehículos especialmente aptos para el transporte de hasta quince pasajeros, accionados con motores de combustión interna, energía eléctrica y/o híbridos;
-
-b) Autobuses: Vehículos destinados para el transporte de más de quince pasajeros, accionados con motores de combustión interna de 4 ó más cilindros;
-
-c) Camiones: Vehículos de cuatro o más ruedas destinado principalmente al transporte terrestre de carga, de bienes y/o personas, aun cuando se encuentre equipado con más de una cabina para pasajeros, accionados con motores de combustión interna;
-
-d) Tractores: vehículos fabricados para arrastrar remolques, semirremolques o para tirar de ellos, enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna;
-
-e) Remolques y semirremolques: vehículo de carga que consta mínimamente de chasis, ruedas y superficie de carga;
-
-f) Motocicletas: Vehículo de dos o más ruedas impulsado por un motor de autopropulsión, en el que, el cuadro o en su caso, el casco y las ruedas, constituyen la estructura fundamental del vehículo. A este tipo de vehículos cuando están equipados con tres o cuatro ruedas, también se les conoce como trimotos, cuatrimotos o motocarros respectivamente, pudiendo ser accionados con motores de combustión interna y/o energía eléctrica y/o híbrida;
-
-g) Embarcación: construcción cóncava capaz de flotar en el agua, y
-
-h) Motocicleta acuática: vehículo acuático autopropulsado, con eslora de 2 o más metros, en la que, dado su diseño, los pasajeros no van acomodados dentro de un casco sino sobre el mismo, bien de pie o sentados.
-
-Asimismo, para efectos de este impuesto, se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado de Nayarit, cuando el registro del mismo se realice en el registro vehicular del Estado de Nayarit o en su defecto, cuando el domicilio del propietario, tenedor o usuario del vehículo se localice en el propio Estado.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN PRIMERA. Del Objeto
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 32.
 
-El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Administración y Finanzas, en el cual se inscribirán las unidades que por mandato de la Ley de Tránsito y Transportes del Estado, deban de portar placas de circulación asignadas por el Gobierno del Estado.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites: Inscripción, Cambios, Rectificaciones y Bajas.
-
-En los trámites a que se refiere el párrafo anterior, los interesados deberán acreditar la propiedad del vehículo, la residencia o domicilio en el Estado, así como no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo.
-
-Para tal efecto, deberán cumplir con los requisitos que establezcan la Ley o Reglamento respectivo.
-
-La Secretaría de Administración y Finanzas mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites. Los propietarios de los vehículos refrendarán su registro y pagarán el derecho de control vehicular a más tardar el 31 de marzo de cada año.
-
-Los propietarios de los vehículos registrados, además de las obligaciones señaladas en párrafos anteriores, deberán cumplir con lo siguiente:
-
-I. Si el vehículo es de procedencia extranjera, deberá acreditar la legal estancia en el país en los términos de la Ley Aduanera, y
-
-II. Presentar los avisos de baja o modificaciones siguientes:
-
-a) Alta por inscripción
-
-b) Por cambio de propietario
-
-c) Por cambio de domicilio
-
-d) Por cambio en el servicio a que se encuentra destinado
-
-e) Baja por venta
-
-f) Baja por robo o destrucción
-
-g) Alta por recuperación del vehículo robado o destruido
-
-Los trámites deberán efectuarse ante las oficinas de la Secretaría de Administración y Finanzas, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular.
-
-Para obtener la baja en el Padrón o realizar el canje de placas, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción.
-
-Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Administración y Finanzas del Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 33.
 
-Para efectos del cobro del pago de este impuesto causado por la tenencia o uso de Embarcaciones, la Secretaría de Administración y Finanzas se coordinará con la Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca; a fin de integrar y mantener actualizado el Registro de Embarcaciones dedicadas a la actividad pesquera dentro de las aguas comprendidas en la circunscripción territorial del Estado, en términos de las Leyes Federales y Estatal de la materia. La obligación de pago del impuesto recaerá sobre el sujeto a favor de quien aparezca registrada la embarcación, quien para efectos de este artículo se presumirá su tenedor o usuario, salvo prueba en contrario.
-
-El pago del impuesto lo calculará y liquidará el sujeto obligado aplicado según las especificaciones establecidas en los apartados de este Capítulo. La Secretaría de Administración y Finanzas queda obligada a la formulación de los lineamientos necesarios al trámite administrativo para el pago del impuesto tratándose de embarcaciones.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 APARTADO A
 
@@ -437,71 +389,35 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS DE 10 AÑOS O MÁS DE MODELO ANT
 
 #### SECCIÓN SEGUNDA. De los Sujetos
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 34.
 
-Este impuesto se causará sobre la tenencia o uso de los vehículos automotores: automóviles, autobuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas, remolques, semirremolques, motocicletas, embarcaciones y motos acuáticas de modelo anterior a los diez últimos ejercicios fiscales, que circulen habitualmente por la circunscripción territorial del Estado de Nayarit.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN TERCERA. De la Base
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 35.
 
-Están obligadas al pago de este impuesto las personas físicas y morales que sean usuarias o tenedoras de los vehículos a que se refiere este Apartado, de modelo anterior a los diez últimos ejercicios fiscales, que circulen de manera habitual por la circunscripción territorial del Estado de Nayarit. Se presumirá lo anterior cuando el propietario, usuario o tenedor, tenga domicilio en el propio Estado.
-
-Este impuesto se causará por ejercicios fiscales, los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio a que corresponda, ante las instituciones u oficinas autorizadas por la Secretaría de Administración y Finanzas, y en las formas por ella aprobadas.
-
-No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, que acrediten ante la Secretaría de que se pagó un gravamen similar por el mismo ejercicio fiscal. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público.
-
-Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Administración y Finanzas del Estado y que el año modelo del vehículo es el de su fabricación.
-
-La Federación, el Estado, los Municipios, así como sus organismos y entidades, deberán pagar el Impuesto sobre Tenencia o Uso de Vehículos, con las excepciones que en la misma se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o municipales o estén exentos de ellos.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN CUARTA. Del pago
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 36.
 
-El presente impuesto se causará por la tenencia o uso de automóviles, autobuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas; remolques, semirremolques, motocicletas, embarcaciones y motos acuáticas que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna, y/o energía eléctrica y/o híbridos.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN PRIMERA. De los sujetos
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 37.
 
-Este impuesto se causará y liquidará de acuerdo a la siguiente tarifa:
-
-CUOTA:
-
-A.- Motocicletas de cualquier tipo y modelo $ 85.00
-
-de los señalados en este apartado:
-
-B.- Demás Vehículos:
-
-Los demás vehículos determinarán el impuesto a pagar aplicando al impuesto, el porcentaje de reducción establecido en la siguiente tarifa, dependiendo de los años de antigüedad que tenga el vehículo:
-
-Años de Antigüedad IMPUESTO Factor
-
-Límite Inferior Límite de
-
-Antigüedad superior reducción
-
-de
-
-impuesto
-
-por
-
-11 20 $ 200.00 0
-
-21 25 $ 200.00 0.6
-
-26 En adelante $ 200.00 0.74
-
-Cuando el contribuyente de este impuesto sufra el robo, descompostura que implique la no utilización definitiva del vehículo o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
-
-En los casos de robo del automóvil, descompostura o pérdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten fehacientemente tal situación.
-
-Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
-
-El importe a acreditar no será sujeto de devolución.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 APARTADO B
 
@@ -509,315 +425,101 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS NUEVOS Y DE HASTA 9 AÑOS MODELO
 
 #### SECCIÓN SEGUNDA. Del Objeto
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 38.
 
-Están obligadas al pago de este impuesto las personas físicas y las morales, tenedoras o usuarias de los vehículos nuevos y de hasta nueve años modelo anterior, que circulen de manera habitual por la circunscripción territorial del Estado de Nayarit y tenga su domicilio en el mismo. Para efectos de esta Ley, se presume que el propietario es tenedor o usuario del vehículo.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 39.
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas o instituciones autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo. El impuesto se pagará en las oficinas de la Secretaría de Administración y Finanzas que autoricen el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en esta Secretaría cuando el contribuyente acredite tener registrado su domicilio fiscal ante la Secretaría de Administración y Finanzas. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave del registro federal de contribuyentes correspondiente en los formatos de pago de este impuesto.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 40.
 
-Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Apartado, correspondiente al primer año de calendario en la Secretaría de Administración y Finanzas, en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva y se registren en el Padrón Vehicular del Estado. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el Artículo anterior.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar este impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el tercer párrafo de este Artículo.
-
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este Apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-Para los efectos de este Apartado, también se consideran automóviles, a los ómnibus; camiones; pick up's y tractores no agrícolas tipo quinta rueda.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este Apartado, se pagará como si éste fuese nuevo.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
-
-FACTOR APLICABLE
-
-MES DE AL IMPUESTO
-
-ADQUISICIÓN CAUSADO
-
-FEBRERO 0.92
-
-MARZO 0.83
-
-ABRIL 0.75
-
-MAYO 0.67
-
-JUNIO 0.58
-
-JULIO 0.50
-
-AGOSTO 0.42
-
-SEPTIEMBRE 0.33
-
-OCTUBRE 0.25
-
-NOVIEMBRE 0.17
-
-DICIEMBRE 0.08
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 41.
 
-Para efectos de este Apartado, se entiende por:
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-I. Vehículo nuevo:
-
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
-
-b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la Ley de la materia, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
-
-II. Valor total del vehículo: el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía del Gobierno Federal como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
-
-III. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
-
-IV. Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra.
-
-V. Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
-
-VI. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
-
-VII. Línea:
-
-a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
-
-b) Automóviles con motor de gasolina o gas de 5, 6, 8 o más cilindros.
-
-c) Automóviles con motor diesel.
-
-d) Camiones con motor de gasolina, gas o diesel.
-
-e) Tractores no agrícolas tipo quinta rueda.
-
-f) Autobuses integrales.
-
-g) Automóviles eléctricos.
-
-h) Automóviles híbridos.
-
-i) Motocicletas.
-
-VIII. Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 42.
 
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Apartado, con las excepciones que en la misma se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN TERCERA. De la Base
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 43.
 
-Es objeto de este impuesto, la tenencia o uso de los vehículos a que se refiere el Apartado "B" de este Capítulo.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN CUARTA. Del Pago
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 44.
 
-El presente impuesto se causará por la tenencia o uso de vehículos a que se refiere este Apartado. La base del impuesto será la que resulte de multiplicar el valor total del vehículo consignado en la primera facturación por la tarifa que corresponda.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN PRIMERA. Exenciones
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 45.
 
-Los contribuyentes comprobarán el pago del impuesto con el original y/o la copia certificada de la forma de pago del citado impuesto, misma información que deberá de validarse ante la autoridad emisora de dicho comprobante en los términos de la Ley o Reglamento respectivo.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-Tratándose de automóviles, autobuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
-
-I. En el caso de automóviles nuevos, destinados al transporte de pasajeros o efectos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
-
-TARIFA
-
-TASA
-
-PARA
-
-APLI
-
-CARSE
-
-SOBRE
-
-EL
-
-EXCE
-
-DENTE
-
-DEL
-
-LÍMITE LÍMITE CUOTA LÍMITE
-
-INFERIOR SUPERIOR FIJA INFERIOR
-
-$ $ $ %
-
-0.01 428,768.31 0 3
-
-428,768.32 825,140.79 12,863.05 8.7
-
-825,140.80 1,109,080.70 47,347.45 13.3
-
-1,109,080.71 1,393,020.60 85,111.46 16.8
-
-1,393,020.61 En adelante 132,813.36 19.1
-
-II. Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere la Fracción anterior, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en la fracción anterior, multiplicando el resultado por el factor de 0.80;
-
-III. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos; que cuenten con placas de servicio público de transporte de pasajeros o efectos y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
-
-Para los efectos de esta Fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
-
-Para los efectos de esta fracción, se entiende por automóviles destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 46.
 
-Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-TARIFA
-
-TASA
-
-PARA
-
-APLI
-
-CARSE
-
-SOBRE
-
-EL
-
-EXCE
-
-DENTE
-
-DEL
-
-LÍMITE LÍMITE CUOTA LÍMITE
-
-INFERIOR SUPERIOR FIJA INFERIOR
-
-$ $ $ %
-
-0.01 97,826.09 0 3
-
-97,826.10 188,260.87 2,934.78 8.7
-
-188,260.88 253,043.48 10,802.61 13.3
-
-253,043.49 En adelante 19,418.69 16.8
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 47.
 
-Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa del 0%.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-Para los efectos de este Artículo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por la autoridad estatal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 48.
 
-Para los efectos de lo dispuesto en los Artículos 45, 46 y 47, de este Apartado, los montos de las cantidades que en los mismos se señalan, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con lo dispuesto en el Artículo 35 del Código Fiscal del Estado de Nayarit.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-OTROS VEHÍCULOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 49.
 
-En este artículo se establecen las disposiciones aplicables a las embarcaciones, veleros, esquí acuático motorizado, tabla de oleaje con motor y motocicletas acuáticas nuevas.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-Para los efectos de este artículo, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5 %.
-
-VEHÍCULOS USADOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 50.
 
-Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 45, Fracción III y 46 de este Apartado, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-TABLA
-
-AÑOS DE ANTIGÜEDAD FACTOR
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 48 de este Apartado.
-
-Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "Taxis", el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
-
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este Artículo, y
-
-II. La cantidad obtenida conforme a la Fracción anterior se actualizará de conformidad con lo dispuesto en el Artículo 48 de este Apartado; el resultado obtenido se multiplicará por 0.245%.
-
-Para los efectos de este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 51.
 
-Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anterior al de aplicación de este Apartado, destinados al transporte de hasta quince pasajeros o efectos, así como de motocicletas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-AÑOS DE ANTIGÜEDAD FACTOR DE
-
-DEPRECIACIÓN
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-II. La cantidad obtenida conforme al Fracción anterior, se actualizará de conformidad con lo dispuesto en el Artículo 48 de este Apartado; al resultado se le aplicará la tarifa a que hace referencia el Artículo 45 de este Apartado.
-
-Para efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 52.
 
-No se pagara este el (sic) impuesto, en los términos de este Apartado, por la tenencia o uso de los siguientes vehículos:
-
-I. Los eléctricos utilizados para el transporte público de personas.
-
-II. Los importados temporalmente en los términos de la legislación aduanera.
-
-III. Los vehículos de la Federación, Estados y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transporte de limpia, pipas de agua, servicios funerarios; así como las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia; y los vehículos destinados a los cuerpos de bomberos.
-
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Administración y Finanzas que se encuentran comprendidos en dichos supuestos.
-
-IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad, en términos de la legislación Federal.
-
-V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 APARTADO C
 
@@ -825,31 +527,17 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 #### SECCIÓN SEGUNDA. De la Responsabilidad Solidaria
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### Artículo 53.
 
-Quedan exentos del pago del impuesto por la tenencia o uso de vehículos, los siguientes:
-
-I. Cuando el contribuyente de este impuesto sufra el robo, descompostura parcial que implique la inutilización o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
-
-En los casos de robo del automóvil, descompostura o pérdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten tal situación.
-
-Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
-
-El importe a acreditar no será sujeto de devolución.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN PRIMERA. Del Objeto
 
 ###### Artículo 54.
 
-Son solidariamente responsables del pago del impuesto establecido en este Apartado:
-
-I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de este impuesto;
-
-II. Las personas físicas o morales con actividad permanente o temporal de compraventa de vehículos automotores o quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera, y
-
-III. Las autoridades estatales o municipales que en ejercicio de sus funciones autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matriculas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, existiendo adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
-
-Las autoridades Estatales competentes, solamente registrarán vehículos cuyos propietarios, tenedores o usuarios se encuentren domiciliados en su territorio.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 ## TÍTULO TERCERO. SOBRE LA PRODUCCION, AL CONSUMO Y LAS TRANSACCIONES
 
@@ -1119,6 +807,18 @@ Es objeto de este impuesto, la realización en el Estado de Nayarit, de pagos a 
 
 Son sujetos de este impuesto las personas físicas o morales obligadas a efectuar los pagos a que se refiere el artículo anterior.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+Están obligadas a retener y enterar este impuesto, las personas físicas o morales que contraten bajo cualquier esquema jurídico la prestación de servicios de contribuyentes domiciliados en otro Estado, cuya realización genere la prestación de trabajo personal subordinado dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 2.0% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
+
 #### SECCIÓN CUARTA. De la Cuota
 
 ###### Artículo 86.
@@ -1230,6 +930,40 @@ El funcionario o empleado público que contravenga lo dispuesto anteriormente, s
 ###### Artículo 95.
 
 Los derechos se pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa, la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Estado tenga la prestación del servicio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 95-A.
+
+El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Administración y Finanzas, en el cual se inscribirán los vehículos que por mandato de la Ley de Tránsito y Transportes del Estado, deban de estar registrados, portar placas y tarjetas de circulación asignadas por el Gobierno del Estado.
+
+Los propietarios de los vehículos refrendarán su registro y pagarán los derechos de control vehicular a más tardar el 31 de marzo de cada año.
+
+En el Padrón a que se refiere el primer párrafo, sólo procederá el registro de los trámites por Inscripción, Cambios, Rectificaciones y Bajas, para lo cual los contribuyentes deberán acreditar la propiedad del vehículo, la residencia o domicilio en el Estado, así como no tener adeudos por contribuciones estatales derivadas por la tenencia o uso de dicho vehículo ya sea en esta o en cualquier otra Entidad Federativa.
+
+La Secretaría de Administración y Finanzas mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites que deberán efectuarse ante las oficinas recaudadoras de rentas.
+
+Los propietarios de los vehículos deberán pagar los derechos correspondientes por cualquiera de los siguientes trámites:
+
+a) Dotación de Placas de Circulación
+
+b) Expedición de Tarjeta de Circulación
+
+c) Verificación Vehicular
+
+d) Cambio de Numero de Motor y/o color
+
+e) Baja de vehículos con registro estatal o foráneo
+
+f) Verificación de Documentos para comprobar la legítima procedencia a vehículos extranjeros
+
+g) Verificación de adeudos pendientes de vehículos procedentes de otros Estados, nacionales o extranjeros
+
+Para dar de alta un vehículo de procedencia extranjera se deberá acreditar la legal estancia del mismo, en los términos previstos en la Ley Aduanera y otras disposiciones aplicables.
+
+Para obtener la baja en el Padrón o realizar el canje de placas, además de pagar el derecho correspondiente, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción, situación que deberá acreditar con la denuncia o información testimonial correspondiente.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES POR MEJORAS
 
@@ -1464,3 +1198,21 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 29 DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del primero de enero de dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTICULO SEGUNDO.
+
+Se reduce la aportación que se otorga al Fideicomiso de Promoción Turística del Estado de Nayarit, señalada en la Cláusula Segunda punto del Contrato de Fideicomiso de fecha 30 de Abril de 1997, constituido en virtud del Decreto número 8002, emitido por el H. Congreso del Estado Libre y Soberano de Nayarit, publicado en el Periódico Oficial, órgano del Gobierno del Estado, con fecha 14 de Diciembre de 1996.
+
+La reducción será de un 100% a un 80% sobre los ingresos que se estime recaudar por el Impuesto al Hospedaje, en la Ley de Ingresos del Estado de Nayarit para el ejercicio fiscal 2017 y subsecuentes.
+
+Los ingresos excedentes a lo presupuestado en la Ley de Ingresos del ejercicio fiscal 2017 y subsecuentes, no formarán parte del porcentaje que se otorga al Fideicomiso de Promoción Turística.
+
+El Fideicomitente Único del Gobierno del Estado de Nayarit deberá proceder a modificar el Contrato de Fideicomiso de Promoción Turística del Estado de Nayarit, con efectos a partir de enero del 2017, en los términos aquí expuestos.
