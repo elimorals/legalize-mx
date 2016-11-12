@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2016-10-22"
+last_updated: "2016-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -339,11 +339,13 @@ La Junta de Coordinación Política se integra con los Coordinadores de cada fra
 
 Será Presidente de la Junta por la duración de la Legislatura, el Coordinador de la fracción parlamentaria que por sí misma cuente con la mayoría absoluta en el Congreso.
 
-En el caso de que ninguna fracción parlamentaria se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Junta será ejercida, en forma alternada y para cada año legislativo, por los coordinadores de las tres fracciones parlamentarias que cuenten con el mayor número de diputados. El orden del ejercicio de la presidencia se resolverá a favor de la fracción parlamentaria que tenga el mayor número de diputados.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+En caso de que ninguna fracción parlamentaria cuente con la mayoría absoluta de integrantes del Congreso, la Presidencia de la Junta será ejercida en forma alternada y por cada año legislativo completo, por cada uno de los coordinadores de las tres fracciones parlamentarias que cuenten con el mayor número de diputados. El orden del ejercicio de la Presidencia será por acuerdo de la Junta, y se tomará por mayoría de votos de sus miembros presentes, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su fracción parlamentaria.
 
 La Junta de Coordinación Política deberá integrarse a más tardar, en la segunda sesión que celebre el Congreso al inicio de la Legislatura.
 
-La instalación de la Junta de Coordinación Política, será mediante sesión que la misma celebre, la que será convocada por el Coordinador de la fracción parlamentaria que ejerza la presidencia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
@@ -1100,3 +1102,13 @@ P.O. 22 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Los integrantes de la Comisión Permanente de Atención a la Zona Económica Especial serán nombrados a propuesta de la Junta de Coordinación Política del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2090.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
