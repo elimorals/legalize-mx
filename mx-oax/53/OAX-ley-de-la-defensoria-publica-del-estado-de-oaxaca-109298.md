@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-publica-del-estado-de-oaxaca-109298"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2015-05-07"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 7 de mayo de 2015.
 
@@ -93,11 +93,15 @@ VII. Continuidad: Procurar la permanencia de la defensa evitando sustituciones i
 
 VIII. Independencia: Garantizar que no existan intereses contrarios o ajenos a los fines de la defensa.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 4.
 
 Defensoría
 
-Se crea la Defensoria Pública del Estado de Oaxaca, como un organismo público descentralizado del Poder Ejecutivo del Estado, sectorizado a la Secretaría General de Gobierno, con personalidad jurídica y patrimonio propio, asi como, con facultad de decisión y competencia especifica, e independencia técnica, funcional y operativa, en los términos de esta Ley, la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y la Ley de Entidades Paraestatales del Estado de Oaxaca.
+Se crea la Defensoría Pública del Estado de Oaxaca, como un organismo público descentralizado del Poder Ejecutivo del Estado, sectorizado a la Consejería Jurídica del Gobierno del Estado, con personalidad jurídica y patrimonio propio, así como, con facultad de decisión y competencia específica, e independencia técnica, funcional y operativa, en los términos de esta Ley, la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y la Ley de Entidades Paraestatales del Estado de Oaxaca.
 
 ###### Artículo 5.
 
@@ -163,7 +167,11 @@ Integración.
 
 La Junta de Gobierno será la autoridad máxima de la Defensoría y se integrará por los siguientes miembros con derecho a voz y voto:
 
-I. El Titular de la Secretaría General de Gobierno del Estado, quien se desempeñará como Presidente Ejecutivo; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO]</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
+I. El Titular de la Consejería Jurídica del Gobierno del Estado, quien se desempeñará como Presidente Ejecutivo; y
 
 II. Cuatro vocales provenientes de las siguientes dependencias:
 
@@ -173,7 +181,9 @@ b) El Titular de la Secretaría de Asuntos Indígenas;
 
 c) El Titular de la Secretaría de Finanzas, y
 
-d) El Titular de la Consejería Jurídica del Gobierno del Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO]</small>
+
+d) (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 III. Un comisario que será el Titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
@@ -666,3 +676,29 @@ Tlalixtac de Cabrera, Centro, Oax., 07 de mayo del 2015.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2092.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA Y POR EL QUE SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día primero de diciembre de dos mil dieciséis.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO.- La Junta de Gobierno del Instituto de la Función Registral del Estado de Oaxaca deberá expedir la normatividad reglamentaria, para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+En tanto, seguirán vigentes las disposiciones reglamentarias que rigen al Registro Público y del Comercio en lo que no se oponga al presente Decreto.
+
+CUARTO.- Cuando se haga referencia al Secretario General de Gobierno, respecto de las atribuciones que les han sido derogadas en términos del presente Decreto, se entenderá al Consejero Jurídico del Gobierno del Estado.
+
+QUINTO.- En todos los casos en que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias, los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
+
+SEXTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+SÉPTIMO.- El Gobernador del Estado a través de la Secretaría de Finanzas y de la Secretaría de Administración, en el ámbito de sus respectivas facultades, y respetando los derechos laborales de los actuales trabajadores, deberá de dar cumplimiento a lo establecido en el presente Decreto.
+
+OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de Oaxaca.
+
+El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
