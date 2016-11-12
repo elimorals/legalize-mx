@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2016-09-10"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -643,9 +643,9 @@ h) Nombrar, a propuesta del presidente municipal, a los representantes del munic
 
 i) Celebrar convenios de colaboración con otros municipios, con la federación, con el gobierno del Estado o con los particulares;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
-j) Nombrar a propuesta del presidente, al secretario, tesorero, oficial mayor, contralor municipal y juez cívico;
+j) Nombrar, a propuesta del presidente, al secretario, tesorero, oficial mayor, contralor municipal, juez cívico, quienes deberán cumplir con los requisitos señalados en la presente ley; y al titular del área de seguridad pública, quien deberá cumplir con los requisitos señalados en la Ley Estatal del Sistema de Seguridad Publica;
 
 k) Introducir métodos y procedimientos en la selección y desarrollo del personal, que propicien la institucionalización del servicio civil de carrera municipal;
 
@@ -825,9 +825,9 @@ c) Suscribir a nombre del ayuntamiento y en los casos que lo ameriten con autori
 
 d) Conducir las relaciones políticas del ayuntamiento con los poderes federales, estatales y con otros municipios y representar a la institución oficial en todos los actos oficiales;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
-e) Proponer al Cabildo los nombramientos del secretario, tesorero, oficial mayor, contralor municipal y juez cívico, así como removerlos en caso justificado;
+e) Proponer al Cabildo los nombramientos del secretario, tesorero, oficial mayor, contralor municipal, juez cívico y al titular del área de seguridad pública; así como removerlos en caso justificado;
 
 f) Solicitar la publicación en el periódico oficial de reglamentos y demás disposiciones de observancia general concernientes al municipio;
 
@@ -2188,3 +2188,9 @@ P.O. 10 DE SEPTIEMBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Queda derogada cualquier disposición que contravenga el presente decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 169 SE REFORMA EL INCISO J) DE LA FRACCIÓN I DEL ARTÍCULO 45 Y EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 47, TODOS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
