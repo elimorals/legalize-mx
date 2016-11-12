@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-para-el-fomento-del-aprovechamiento-74632"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-03"
-last_updated: "2010-04-03"
+last_updated: "2016-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE COORDINACION PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUENTES DE ENERGIA RENOVABLE EN EL ESTADO DE OAXACA
 
-LEY DE COORDINACION PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUENTES DE ENERGIA RENOVABLE EN EL ESTADO DE OAXACA
+LEY DE COORDINACIÓN PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUENTES DE ENERGÍA RENOVABLE EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 3 de abril de 2010.
 
@@ -41,9 +41,13 @@ LEY DE COORDINACIÓN PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUEN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público e interés social y tiene por objeto establecer la coordinación e implementación de las acciones para el cumplimiento de las disposiciones federales en materia de fomento del desarrollo y aprovechamiento racional de las fuentes de energía renovable en el Estado de Oaxaca, así como armonizar la relación entre los distintos participantes de los proyectos en este rubro, además de ser instrumento de promoción del desarrollo sustentable, la competitividad económica, la mejora de la calidad de vida, la protección y preservación del medio ambiente y para el logro de la eficiencia y diversificación energética en la entidad.
+La presente Ley es de orden público e interés social y tiene por objeto establecer la coordinación e implementación de las acciones para el cumplimiento de las disposiciones federales en materia de fomento al desarrollo y aprovechamiento racional de las fuentes de energías renovables en el Estado de Oaxaca, así como armonizar la relación entre los distintos participantes de los proyectos en este rubro, además de ser un instrumento de promoción del desarrollo, la competitividad económica, la mejora de la calidad de vida, la protección y preservación del medio ambiente y para el logro de la eficiencia y diversificación sustentable energética en la entidad.
 
 ###### ARTÍCULO 2.
 
@@ -111,13 +115,17 @@ XXIII. REGLAMENTO.- Al Reglamento de la presente Ley; y
 
 XXIV. SECRETARÍA.- Secretaría de Economía del Poder Ejecutivo del Gobierno del Estado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 3.
 
 Mediante la aplicación de esta Ley, las autoridades competentes en la materia podrán:
 
 I. Desarrollar estrategias para la promoción del uso sustentable de los recursos renovables en el Estado;
 
-II. Fortalecer la coordinación Gobierno-Empresas-Centros de Educación nacionales y extranjeros para el desarrollo de las capacidades locales;
+II. Fortalecer la coordinación Gobierno-Empresas-Centros de Educación nacionales y extranjeros para el desarrollo de las capacidades locales.
 
 III. Promover el progreso tecnológico mediante el desarrollo de Ciudades del Conocimiento e Innovación, que redunden en beneficio de la industrialización del Estado;
 
@@ -125,33 +133,55 @@ IV. Implementar estrategias y políticas enfocadas al uso racional y consumo res
 
 V. Diseñar políticas públicas promoviendo la participación de las comunidades en los beneficios de los proyectos de aprovechamiento de las fuentes renovables de energía, apoyando la responsabilidad social de las empresas;
 
-VI. Instrumentar planes y programas para el fomento del desarrollo y aprovechamiento de las fuentes de energía renovable en el Estado; y
+VI. Instrumentar planes y programas para el fomento del desarrollo y aprovechamiento de las fuentes de energía renovable en el Estado;
 
-VII. Suscribir convenios y acuerdos de coordinación con la federación y los municipios para que en el ámbito de sus respectivas competencias, establezcan bases de participación o instrumenten disposiciones en materia de esta Ley.
+VII. Suscribir convenios y acuerdos de coordinación con la federación y los municipios para que, en el ámbito de sus de sus (sic) respectivas competencias, establezcan bases de participación o instrumenten disposiciones en materia de esta Ley;
+
+VIII. Promover la generación de energía mediante el uso de fuentes renovables y sustentables, de conformidad con la normatividad aplicable en la materia, y previo otorgamiento de permisos por parte de las autoridades federales competentes;
+
+IX. Fungir como órganos de asesoría, consulta, promoción, gestión y enlace en materia energética para los sectores público, privado y social, en los términos de la normatividad aplicable vigente y en el ámbito de su competencia; y
+
+X. Las demás que sean necesarias para el cumplimiento de sus atribuciones, así como las que le confieran otras Leyes y disposiciones aplicables.
+
+(REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
 Serán competentes para interpretar y aplicar la presente Ley las siguientes autoridades:
 
-I. El Titular del Poder Ejecutivo del Estado; y
+I. El Titular del Poder Ejecutivo del Estado;
 
-II. El Secretario de Economía del Gobierno del Estado.
+II. El Secretario de Economía del Gobierno del Estado, y
+
+III. La Comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 5.
 
 El Titular del Poder Ejecutivo del Estado tendrá las siguientes atribuciones:
 
-I. Establecer dentro de los planes, programas y proyectos del Gobierno del Estado, las acciones y recursos necesarios para el fomento del desarrollo y aprovechamiento de las energías renovables en el Estado;
+I. Establecer dentro de los planes, programas y proyectos del Gobierno del Estado, las acciones y recursos necesarios para el fomento del desarrollo y aprovechamiento de las energías renovables en el Estado, tomando en consideración las propuestas que realice la Comisión;
 
-II. Convenir con la Federación, los Municipios, los órganos de representación agraria, permisionarios y con los particulares que acrediten un interés legitimo, la ejecución de obras o la realización de cualquier otro propósito de beneficio social derivado del uso, fomento y aprovechamiento de las energías renovables en el Estado; y
+II. Convenir con la Federación, los Municipios, los órganos de representación agraria, permisionarios y con los particulares que acrediten un interés legítimo, la ejecución de obras o la realización de cualquier otro propósito de beneficio social derivado del uso, fomento y aprovechamiento de las energías renovables en el Estado; y
 
 III. Las demás que le otorgue la presente Ley, su Reglamento y otras disposiciones aplicables.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 6.
 
-La Secretaria tendrá las siguientes atribuciones:
+La Secretaría, en coordinación con la Comisión, tendrá las siguientes atribuciones:
 
 I. Fomentar el desarrollo integral de la entidad a través de los beneficios del aprovechamiento de las fuentes de energía renovable en el estado;
 
@@ -181,71 +211,97 @@ XIII. Resguardar los documentos relacionados con los proyectos renovables que se
 
 XIV. Convocar a las autoridades federales, municipales y a los titulares de los derechos sobre los terrenos donde se pretenda desarrollar un proyecto con la finalidad de procurar la aceptación del mismo, en términos del Reglamento de esta Ley.
 
-###### ARTÍCULO 7.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El Ejecutivo Estatal, por conducto de la Secretaría podrá suscribir convenios, acuerdos de coordinación y de asesoría con los Municipios, que tengan por objeto:
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
-I. Establecer los mecanismos de participación en el ámbito de sus competencias, la instalación de proyectos sustentables de energías renovables;
+###### Artículo 7.
 
-II. Promover acciones de apoyo al desarrollo industrial relacionado con el fomento del aprovechamiento de las fuentes renovables de energía;
+El Ejecutivo Estatal, por conducto de la Secretaría y la Comisión, podrán suscribir convenios, acuerdos de coordinación y de asesoría con los Municipios que tengan por objeto:
 
-III. Instrumentar mecanismos que faciliten el desarrollo de proyectos en zonas con alto potencial de aprovechamiento de las fuentes de energías renovables, y faciliten la adecuación y compatibilidad de los usos de suelo;
+I. Establecer los mecanismos de participación en el ámbito de sus competencias, para la instalación de proyectos sustentables de energías renovables;
 
-IV. Verificar que en el otorgamiento de autorizaciones de uso de suelo, se apliquen la normatividad vigente en el Estado y en los Municipios;
+II. Promover acciones de apoyo al desarrollo industrial, relacionado con el fomento del aprovechamiento de las fuentes renovables y sustentables de energía;
 
-V. Simplificar los procedimientos administrativos para la obtención de permisos y licencias para los proyectos de aprovechamiento de energías renovables; y
+III. Instrumentar mecanismos que faciliten el desarrollo de proyectos en zonas con alto potencial de aprovechamiento de las fuentes de energías renovables y sustentables que faciliten la adecuación y compatibilidad de los usos de suelo;
+
+IV. Verificar que en el otorgamiento de autorizaciones de uso de suelo se aplique la normatividad vigente en el Estado y en los Municipios;
+
+V. Simplificar los procedimientos administrativos para la obtención de permisos y licencias para los proyectos de aprovechamiento de energías renovables y sustentables; y
 
 VI. Brindar asesoría técnica en la introducción de tecnologías limpias y la sustitución de combustibles altamente contaminantes.
 
+(REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2016)
+
 ## TÍTULO SEGUNDO. LA COMISIÓN PARA LA COORDINACIÓN DE LAS ACTIVIDADES RELACIONADAS CON EL APROVECHAMIENTO SUSTENTABLE DE LAS ENERGÍAS RENOVABLES EN EL ESTADO DE OAXACA
+
+(REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2016)
 
 ### CAPÍTULO I. DE SU NATURALEZA Y OBJETIVOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 8.
 
-La Comisión es un órgano consultivo del Poder Ejecutivo del Estado, auxiliar de la Secretaria de Economía y su objetivo principal es: proponer, asesorar y opinar en la formulación de políticas públicas, así como consultar, concertar y facilitar la participación corresponsable de los sujetos de esta Ley.
+La Comisión es un órgano descentralizado del Poder Ejecutivo del Estado, sectorizado a la Secretaría de Economía, con patrimonio y personalidad jurídica propios, cuyo principal objetivo es proponer, asesorar y opinar en la formulación de políticas públicas para la promoción de la generación de energía a través de la utilización de fuentes renovables y sustentables, así como consultar, concertar y facilitar la participación corresponsable de los sujetos de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 9.
 
-La Comisión estará integrada por:
+La Comisión estará integrada de la forma siguiente:
 
-I. Un Presidente, que será el C. Gobernador Constitucional del Estado;
+I. Un Director General, quien será nombrado por el Gobernador del Estado.
 
-II. Un Secretario Técnico, que será el Secretario de Economía del Gobierno del Estado de Oaxaca; cuyas ausencias serán suplidas por el Titular del área responsable en la materia de la misma Secretaría;
+II. Un Órgano de Gobierno.
 
-III. Los titulares de las siguientes Secretarías: General de Gobierno, de Finanzas, de Desarrollo Rural, de Obras Públicas y de Asuntos Indígenas;
+III. Unidades Administrativas respectivas.
 
-IV. Los titulares de la Consejería Jurídica del Gobierno del Estado, del Instituto Estatal de Ecología y de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
+El Órgano de Gobierno, estará integrado de la manera siguiente:
 
-En forma temporal y a invitación expresa del Presidente de la Comisión, sumarán los siguientes integrantes: (sic)
+a. Un Presidente, que será el Titular de la Secretaría;
 
-V. Los representantes del Gobierno Federal, acorde con la naturaleza del tema, a saber, las Secretarias de: Energía y de la Reforma Agraria; las Comisiones: Reguladora de Energía, Federal de Electricidad y Nacional del Agua;
+b. Un Secretario Técnico, que será el Director General de la Comisión;
 
-VI. Un representante del H. Congreso del Estado;
+c. Los titulares de las siguientes Secretarías: General de Gobierno, de Finanzas, de Desarrollo Rural, de Obras Públicas y de Asuntos Indígenas; Consejería Jurídica del Gobierno del Estado, de la Secretaría de Medio Ambiente y de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
-VII. Un representante del Sindicato Único de Trabajadores Electricistas de la República Mexicana;
+d. Un Comisario, que será el Secretario de la Contraloría y Transparencia Gubernamental;
 
-VIII. Un representante por cada Municipio involucrado en el proyecto que se trate;
+En forma temporal, y a invitación expresa del Presidente del Órgano de Gobierno, se sumarán los siguientes integrantes;
 
-IX. Un representante por cada Comisariado de Bienes Comunales o Ejidales con interés legitimo en el proyecto que se trate;
+e. Los representantes del Gobierno Federal, acorde con la naturaleza del tema, a saber, las Secretarias de Energía y de la Reforma Agraria, las Comisiones Reguladora de Energía, Federal de Electricidad, Centro Nacional de Control de Energía y Nacional del Agua;
 
-X. Los propietarios o sus representantes legales con interés legítimo en el proyecto que se trate; y
+f. Un representante del H. Congreso del Estado;
 
-XI Los permisionarios o sus representantes legales, del proyecto de que se trate.
+g. Un representante por cada Municipio, involucrado en el proyecto que se trate;
 
-Los propietarios a que se refiere la fracción X podrán nombrar un representante común, de igual forma los permisionarios a que se refiere la fracción XI podrán nombrar a quien los represente de manera colectiva.
+h. Un representante por cada Comisariado de Bienes Comunales o Ejidales con interés legítimo en el proyecto que se trate;
 
-La Comisión podrá invitar a sus sesiones a representantes de instituciones educativas, de investigación y de organizaciones no gubernamentales que resulten afines al cumplimiento de sus objetivos, quienes tendrán derecho a voz.
+i. Los propietarios o sus representantes legales con interés legítimo en el proyecto que se trate; y
+
+j. Los permisionarios o sus representantes legales del proyecto de que se trate.
+
+Los propietarios a que se refiere la fracción i podrán nombrar un representante común, de igual forma los permisionarios a que se refiere la fracción j podrán nombrar a quien los represente de manera colectiva.
+
+La Comisión podrá invitar a sus sesiones a representantes de instituciones educativas, de investigación y de organizaciones no gubernamentales que resulten afines al cumplimiento de sus objetivos, quienes tendrán derecho a voz. Los integrantes mencionados de las fracciones e a la j, solamente contarán con voz.
 
 Cada miembro propietario podrá designar a su respectivo suplente, mediante oficio dirigido al Presidente de la Comisión. El cargo de suplente será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones de la misma. El cargo de integrante de la Comisión es honorífico.
 
-Las facultades y atribuciones de la Comisión, del Presidente, del Secretario Técnico y demás integrantes de la Comisión estarán determinadas en el Reglamento de esta Ley.
+Las facultades y atribuciones de la Comisión, del Presidente, del Secretario Técnico y demás integrantes de la Comisión, estarán determinadas en el Reglamento de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 10.
 
 La Comisión tendrá los siguientes objetivos:
 
-I. Realizar acciones o programas para fomentar el desarrollo y aprovechamiento sustentable de las energías renovables en el Estado; y facilitar la conciliación, apoyo, coordinación y simplificación en los procedimientos para tal fin;
+I. Realizar acciones o programas para fomentar el desarrollo y aprovechamiento sustentable de las energías renovables en el Estado y facilitar la conciliación, apoyo, coordinación y simplificación en los procedimientos para tal fin;
 
 II. Promover la investigación, desarrollo y actualización de tecnologías relacionadas con el aprovechamiento sustentable de las energías renovables en el Estado;
 
@@ -259,9 +315,15 @@ VI. Proponer las políticas públicas que resulten necesarias para la instalaci�
 
 VII. Proponer los criterios y mecanismos necesarios para determinar las contribuciones estatales y municipales en la materia y que deberán ser establecidas en los ordenamientos legales correspondientes;
 
-VIII. Promover y fomentar sistemas de generación y autoabastecimiento de energías renovables entre los sectores público, privado y social en el Estado; y
+VIII. Promover y fomentar sistemas de generación y autoabastecimiento de energías renovables entre los sectores público, privado y social en el Estado;
 
-IX. Proponer los criterios y mecanismos para fijar las contraprestaciones entre permisionarios y los titulares de los derechos de las tierras. En todo caso, las contraprestaciones no podrán ser inferiores a las erogadas en la materia por la Comisión Federal de Electricidad (CFE), considerando la localización geográfica y el tipo de proyecto, así como las variantes técnicas de la zona o de la más cercana en su defecto.
+IX, Proponer los criterios y mecanismos para fijar las contraprestaciones entre permisionarios y los titulares de los derechos de las tierras de conformidad con la normatividad aplicable. En todo caso, las contraprestaciones no podrán ser inferiores a las erogadas en la materia por la Comisión Federal de Electricidad (CFE), considerando la localización geográfica y el tipo de proyecto, así como las variantes técnicas de la zona o de la más cercana, en su defecto.
+
+X. Promover la generación de energía mediante el uso de fuentes renovables y sustentables, de conformidad con la normatividad aplicable en la materia, y previo otorgamiento de permisos por parte de las autoridades federales competentes.
+
+XI. Fungir como órgano de asesoría, consulta, promoción, gestión y enlace en materia energética para los sectores público, privado y social, en los términos de la normatividad aplicable vigente y en el ámbito de su competencia; y
+
+XII. Las demás que sean necesarias para el cumplimiento de sus atribuciones, así como las que le confieran otras Leyes y disposiciones aplicables.
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL
 
@@ -410,3 +472,21 @@ Tlalixtac de Cabrera, Centro, Oax., a 25 de marzo del 2010.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2095.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUENTES DE ENERGÍA RENOVABLE EN EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro de los noventa días hábiles posteriores a su entrada en vigor.
+
+CUARTO.- Los recursos humanos, financieros y materiales adscritos a la Coordinación de Energías Renovables de la Secretaría de Turismo y Desarrollo Económico deberán de reasignarse a la Comisión, además de los que se aprueben en el Presupuesto de Egresos del Estado, debiendo intervenir en el ámbito de sus competencias, las Secretarias de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
+
+Se faculta a la Secretaría de Finanzas y a la Secretaria de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras de los órganos que por este Decreto se creen o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente decreto.
+
+En todos los casos que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias y entidades o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley de Servicio Civil para los Empleados del Gobierno del Estado y demás Leyes aplicables de la materia.
