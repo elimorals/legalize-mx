@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2016-10-18"
+last_updated: "2016-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -2040,7 +2040,9 @@ I. Presidir y conducir las reuniones;
 
 II. Convocar a las reuniones ordinarias de la comisión o comité, con una anticipación mínima de cuarenta y ocho horas y a reuniones extraordinarias con veinticuatro horas de anticipación, salvo urgencia determinada por la Junta Directiva por mayoría;
 
-III. Elaborar y suscribir las convocatorias a Reunión, conforme al orden del día aprobado por la Junta Directiva;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+III. Elaborar y suscribir las convocatorias a Reunión, conforme al orden del día aprobado por la Junta Directiva y cuando corresponda para dictámenes, se extenderá la Convocatoria al diputado o diputada iniciante;
 
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -2196,9 +2198,11 @@ II. Determinar el calendario de las reuniones.
 
 #### Sección Sexta. Convocatorias
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 155.
 
-1. La convocatoria a Reunión de comisión o comité deberá publicarse en la Gaceta, con al menos, cuarenta y ocho horas de anticipación y enviarse a cada diputado o diputada integrante, salvo en caso de Reunión extraordinaria.
+1. La convocatoria a Reunión de comisión o comité deberá publicarse en la Gaceta, con al menos cuarenta y ocho horas de anticipación y enviarse a cada diputado o diputada integrante, así como a los diputados iniciantes de las iniciativas y proposiciones cuyo dictamen se vaya a discutir, salvo en caso de Reunión extraordinaria.
 
 ###### Artículo 156.
 
@@ -2688,7 +2692,9 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 1. Las comisiones podrán acordar el tiempo de las intervenciones de los diputados y diputadas, en la discusión de un asunto. El Presidente de la Junta Directiva o quien modere la discusión procurará que las mismas se den en un marco de equilibrio y que los oradores se conduzcan con moderación, prudencia y respeto.
 
-2. Tratándose de predictámenes, el diputado o diputada que lo presente, en nombre de la Subcomisión, podrá hacer una intervención inicial.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+2. Tratándose de predictámenes, el diputado o diputada que lo presente, en nombre de la Subcomisión, podrá hacer una intervención inicial y, cuando así corresponda, el diputado o diputada iniciante, tendrá derecho de voz con la finalidad de ampliar la información. Si éste no asistiere continuará el proceso.
 
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -3891,3 +3897,9 @@ D.O.F. 18 DE OCTUBRE DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Una vez aprobado el presente Decreto la Cámara de Diputados tendrá sesenta días para integrar un grupo de traductores e intérpretes indígenas para garantizar el derecho lingüístico de las diputadas y los diputados.
+
+D.O.F. 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 150, 155 Y 189 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE CONVOCATORIA A COMISIÓN A DIPUTADAS Y DIPUTADOS PROMOVENTES".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
