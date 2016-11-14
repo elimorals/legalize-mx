@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-transparencia-del-instituto-estatal-electoral-683
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-04"
-last_updated: "2009-05-04"
+last_updated: "2016-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE TRANSPARENCIA DEL INSTITUTO ESTATAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA DEL INSTITUTO ESTATAL ELECTORAL, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPARENCIA DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de mayo de 2009.
 
@@ -750,3 +752,19 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprob
 SEGUNDO.- Para efecto de publicación electrónica de la información a que hace referencia este Reglamento, así como su ordenamiento, indización y clasificación, se concede un plazo de sesenta días naturales, contados a partir del inicio de la vigencia del presente Reglamento.
 
 TERCERO.- Para su debido conocimiento, publíquese el presente Reglamento en el Periódico Oficial del Estado de Aguascalientes y en los estrados del Instituto Estatal Electoral.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL MEDIANTE EL CUAL APRUEBA EL NUEVO REGLAMENTO DE TRANSPARENCIA DEL INSTITUTO ESTATAL DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga el Reglamento de Transparencia del Instituto Estatal Electoral Publicado en el Periódico Oficial del Estado de Aguascalientes en fecha cuatro de mayo de dos mil nueve.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, serán resueltos con forme (sic) a las normas vigentes al momento de su inicio.
+
+CUARTO.- Para efecto de publicación electrónica de la información a que hace referencia este Reglamento, se atenderá lo indicado por la Ley General de Transparencia y Acceso (sic) la Información Pública, así como a la Ley Local vigente.
+
+QUINTO.- Para su debido conocimiento, publíquese el presente Reglamento (sic) los estrados del Instituto Estatal Electoral.
