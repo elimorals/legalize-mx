@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-construcciones-del-municipio-de-75741"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-21"
-last_updated: "2016-10-28"
+last_updated: "2016-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de junio de 2010.
 
@@ -1737,6 +1737,316 @@ Para la revisión y consulta del presente Reglamento la comunidad podrá hacer l
 
 La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO XV. DEL TRÁMITE DE LICENCIAS POR MEDIOS DE COMUNICACIÓN ELECTRÓNICA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO I (SIC). DISPOSICIONES GENERALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 157.
+
+Las disposiciones del presente capítulo tienen por objeto establecer los procedimientos para obtener la Licencia de Construcción por medios de comunicación electrónica, en el Municipio de Monterrey, Nuevo León.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 158.
+
+Los criterios generales para que las licencias sujetas de (sic) este Reglamento, puedan tramitarse por medios de comunicación electrónica, son los siguientes:
+
+I. Construcciones menores o iguales a 300 metros cuadrados.
+
+II. Terreno igual o menor a 1000 metros cuadrados.
+
+III. Situarse en una zona permitida.
+
+IV. Que el predio no requiera desmonte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 159.
+
+Los tipos de construcción que están sujetos al presente Reglamento son los siguientes:
+
+I. Tipo 2: Autoconstrucción o construcción progresiva con las siguientes características:
+
+a. Construcción mínima de hasta 40 metros cuadrados por etapa.
+
+b. Construcción total, por todas las etapas autorizadas, menor o igual a 200 metros cuadrados.
+
+II. Tipo 3a: Vivienda unifamiliar con las siguientes características:
+
+a. En terrenos con pendientes de hasta 30%.
+
+b. Máximo 3 niveles de construcción.
+
+c. En caso de contar con claros, deberán de ser de máximo 6 metros lineales.
+
+d. En caso de contar con muros de contención, deberán ser menores o iguales a 3.5 metros lineales.
+
+III. Tipo 4a: Vivienda multifamiliar, comercio y servicios con las siguientes características:
+
+a. En terrenos con pendientes de hasta 30%.
+
+b. Máximo 3 niveles de construcción.
+
+c. En caso de contar con bardas, deberán ser menores o iguales a 3 metros lineales.
+
+d. En caso de contar con claros, deberán de ser de máximo 6 metros lineales.
+
+e. En caso de contar con muros de contención, deberán ser menores o iguales a 3.5 metros lineales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 160.
+
+Son de aplicación complementaria y supletoria de este Reglamento, la Ley, los Planes de Desarrollo Urbano Municipales, el Reglamento de Zonificación y Uso de Suelo y el Reglamento de la Mejora Regulatoria para el Municipio de Monterrey, Nuevo León.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. DE LOS SUJETOS OBLIGADOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 161.
+
+El Ayuntamiento está facultado para emitir regulación normativa o administrativa, con el fin de establecer las políticas necesarias para la implementación de trámites en materia de desarrollo urbano, a través de medios de comunicación electrónica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 162.
+
+Son atribuciones de la Secretaría de Desarrollo Urbano y Ecología:
+
+I. Administrar y ser responsable del Sistema.
+
+II. Expedir las Licencias de Construcción y las Licencias de Uso de Edificación en términos del presente Reglamento.
+
+III. Proporcionar a los solicitantes los servicios de apoyo y orientación de los trámites de las Licencias de Construcción y las Licencias de Uso de Edificación, a través del Sistema.
+
+IV. Registrar y canalizar las quejas o denuncias ciudadanas, relacionadas con el funcionamiento y operación del Sistema.
+
+V. Generar y validar estadísticas e informes de las licencias emitidas.
+
+VI. Dictar las medidas y disposiciones necesarias para el cumplimiento del presente Reglamento, así como resolver las situaciones no previstas.
+
+VII. Implementar y promover el desarrollo de los mecanismos para simplificar, facilitar y agilizar los trámites objeto de este Reglamento.
+
+VIII. Notificar a la Dirección de Ecología y la Dirección de Protección Civil cuando ingrese una solicitud de licencia en el Sistema.
+
+IX. Las demás que le confieran este Reglamento y otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 163.
+
+Los solicitantes de las Licencias de Construcción tienen, de manera general y no limitativa, las siguientes obligaciones:
+
+I. Señalar una dirección de correo electrónico para recibir, cuando corresponda, mensajes de datos y documentos electrónicos en la realización de los actos previstos en este Reglamento.
+
+II. En su caso, manifestar expresamente por sí o a través de las personas autorizadas por los mismos, su conformidad para que los actos que se efectúen con motivo de la solicitud de las Licencias de Construcción y las Licencias de Uso de Edificación, desde su inicio hasta su conclusión, se realicen a través de medios de comunicación electrónica.
+
+III. Realizar y aceptar la autoclasificación del trámite a través del Sistema, así como ingresar los datos y documentos para la gestión de trámites a través del Sistema.
+
+IV. Las demás que le establezcan este Reglamento y los demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO III. DEL SISTEMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 164.
+
+Los procedimientos establecidos en este Reglamento se podrán realizar, de manera parcial o total, por medios de comunicación electrónica en términos de la Ley sobre Gobierno Electrónico y Fomento al uso de las Tecnologías de la Información del Estado.
+
+Para el procedimiento total en medios de comunicación electrónica, la firma electrónica avanzada será obligatoria, tanto para las autoridades como para los solicitantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 165.
+
+Si los solicitantes no cuentan con la firma electrónica avanzada podrán gestionar las licencias a través del Sistema bajo un esquema parcial, el cual permite que la solicitud y, en su caso, el desahogo de la prevención, se entreguen de forma presencial en la Ventanilla Única.
+
+En este caso, el funcionario público de la Ventanilla Única generará y entregará una clave única al solicitante, previa acreditación de su personalidad, con la cual tendrá acceso a su tablero electrónico.
+
+En el esquema parcial, la documentación que deba ser suscrita por el solicitante en términos de los ordenamientos jurídicos aplicables, será firmada autógrafamente.
+
+Cuando este Reglamento establezca como requisito la firma, se entenderá la firma electrónica avanzada o la firma autógrafa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 166.
+
+La presentación de información, la emisión de actos y las actuaciones electrónicas podrán gestionarse por medio del Sistema, el cual permitirá el envío y recepción de información, así como la consulta y seguimiento respecto de los procedimientos sujetos de este Reglamento.
+
+No obstante, el solicitante podrá requerir expresamente que la resolución y, en su caso, la prevención, se notifiquen en el domicilio que haya señalado al inicio de su solicitud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 167.
+
+El solicitante podrá enviar la solicitud de las licencias a través del Sistema cualquier día y hora. Sin embargo, se tendrá por recibida el día y hora hábil siguiente para todos los efectos legales.
+
+El Sistema considerará como días inhábiles los sábados y domingos, el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre, así como los que el Ayuntamiento suspenda las labores, por determinación de otras disposiciones legales. El horario establecido como hábil para el Sistema, es el comprendido entre las 8:00 y las 19:00 horas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 168.
+
+En caso de que la fecha límite del plazo o término establecido para que los sujetos obligados de este Reglamento deban presentar la información o dictar una resolución, sea un día inhábil, la misma se recorrerá al día hábil siguiente.
+
+Los plazos previstos en el presente Reglamento empezarán a correr el día hábil siguiente en que hayan surtido efectos los envíos o las notificaciones correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO IV. DE LOS REQUISITOS PARA LAS LICENCIAS DE CONSTRUCCIÓN
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+#### Sección I
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 169.
+
+Para obtener la Licencia de Construcción los solicitantes deberán presentar los siguientes datos y documentos:
+
+I. Datos del solicitante:
+
+a. Nombre completo.
+
+b. Domicilio dentro del Área Metropolitana de Monterrey, Nuevo León.
+
+c. Teléfono y correo electrónico.
+
+II. Datos del propietario o titular de la licencia, en caso de que sea distinto al solicitante:
+
+a. Nombre completo.
+
+b. Domicilio.
+
+III. Datos del predio:
+
+a. Ubicación y estado actual del predio.
+
+b. Superficie total del terreno en metros cuadrados.
+
+c. Indicar uso de suelo que se pretende o con el que cuenta el predio.
+
+IV. Datos del Director Responsable de Obra, cuando se soliciten Licencias de Construcción Tipo 3a y Tipo 4a:
+
+a. Nombre completo.
+
+b. Número de cédula profesional.
+
+c. Domicilio.
+
+d. Teléfono.
+
+e. Correo electrónico.
+
+V. Documentación del solicitante:
+
+a. Si es persona física, identificación oficial y carta poder simple, este último documento si actúa en representación.
+
+b. Si es persona moral, acta constitutiva inscrita en el Registro Público de la Propiedad y del Comercio, poder notariado del apoderado de la persona moral e identificación oficial del mismo.
+
+c. Comprobante de domicilio no mayor a 3 meses.
+
+VI. Documentación del propietario o titular de la licencia, en caso de que sea distinto al solicitante:
+
+a. Si es persona física, identificación oficial.
+
+b. Si es persona moral, acta constitutiva notariada e inscrita en el Registro Público de la Propiedad y del Comercio, poder notariado del apoderado de la persona moral e identificación oficial del mismo.
+
+VII. Documentación del predio:
+
+a. Título que Acredite la Propiedad del Predio, inscrito ante la dependencia correspondiente.
+
+b. En caso de arrendamiento, copia del contrato de arrendamiento ratificado ante notario, en dónde se establezca que el arrendatario puede realizar las acciones de desarrollo urbano solicitadas.
+
+c. Comprobante del pago del Impuesto Predial Actualizado y sin adeudos.
+
+d. Cuatro fotografías exteriores y cuatro fotografías interiores actualizadas del predio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 170.
+
+De manera específica según el tipo de construcción, adicionalmente a los señalados se solicitarán los siguientes requisitos:
+
+I. Construcciones Tipo 2:
+
+a. Solicitud en formato oficial debidamente firmado por el solicitante.
+
+b. Alineamiento Vial, de acuerdo a cada proyecto específico, observando las disposiciones de la Ley, el Plan o Programa.
+
+II. Construcciones Tipo 3a:
+
+a. Solicitud en formato oficial debidamente firmado por el solicitante, y en su caso por el Director Responsable de Obra.
+
+b. Proyecto en archivo digital.
+
+c. Alineamiento Vial de acuerdo a cada proyecto específico, observando las disposiciones de la Ley, el Plan o Programa.
+
+III. Construcciones Tipo 4a:
+
+a. Solicitud en formato oficial debidamente firmado por el solicitante, y en su caso por el Director Responsable de Obra.
+
+b. Proyecto en archivo digital.
+
+c. Alineamiento Vial.
+
+d. Memoria de cálculo señalando el análisis de cargas, momentos flectores, esfuerzos cortantes, cargas sobre muros o columnas, transmisión de cargas hasta los cimientos.
+
+e. Planos estructurales digitales, que deberán contener como mínimo los siguientes: cimentación, firmes, columnas, muros, castillos, losas y cuando proceda, muros de contención y carta responsiva del Asesor estructural.
+
+f. Estudio de mecánica de suelos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+#### Sección II. De la Autoclasificación e Ingreso
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 171.
+
+El Sistema tiene un apartado de autoclasificación para que los solicitantes determinen el tipo de trámite que pretenden realizar, quienes aceptarán la selección y el Sistema indicará los requisitos que deberán adjuntar electrónicamente a su solicitud. A partir de ese momento, los solicitantes contarán con un periodo de tres días hábiles para iniciar la gestión por medios de comunicación electrónica. En caso contrario, el Sistema eliminará la autoclasificación.
+
+Cuando el solicitante acepte iniciar la gestión del trámite en medios de comunicación electrónica, tendrá un periodo de cinco días hábiles para adjuntar los requisitos que correspondan al trámite que haya seleccionado y enviar la solicitud a través del Sistema. En caso de que no envié la solicitud, el Sistema eliminará el registro.
+
+En caso de que el Sistema elimine la autoclasificación o el registro, el solicitante podrá iniciar de nuevamente la selección del trámite que desee.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+#### Sección III. Del Procedimiento
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 172.
+
+Una vez enviada la solicitud en el Sistema, la Secretaría de Desarrollo Urbano y Ecología cuenta con veintiún días hábiles para emitir su resolución final.
+
+Cuando la Secretaría de Desarrollo Urbano y Ecología determine que la solicitud esté incompleta requerirá al solicitante que la subsane dentro de los quince días hábiles siguientes a su recepción, quién tendrá un plazo máximo de veinte días hábiles siguientes a que se le notifique la prevención para subsanar las observaciones. En este caso, el plazo para que se emita la resolución, se suspenderá y reanudará cuando se entregue la información o documentación faltante. Transcurrido el plazo correspondiente sin desahogarla, la Secretaría de Desarrollo Urbano y Ecología emitirá una resolución desfavorable para otorgar la licencia solicitada; no obstante, el solicitante podrá iniciar de nueva cuenta el trámite.
+
+Una vez desahogada la prevención, la Secretaría de Desarrollo Urbano y Ecología determinará la procedencia o improcedencia de la solicitud en el término restante. Si la resolución fuera desfavorable; se notificará al solicitante los motivos de su improcedencia y dará por terminado el procedimiento.
+
+Si la resolución resulta favorable, se notificará al solicitante el monto a pagar por las licencias solicitadas, el cual deberá efectuarse en un plazo no mayor a diez días hábiles. Una vez comprobado el pago, se podrán descargar las licencias del Sistema o solicitar a la Secretaría de Desarrollo Urbano y Ecología, vía el Sistema, que le sean entregadas en su domicilio las licencias autorizadas. El titular de la Secretaría de Desarrollo Urbano y Ecología podrá delegar la facultad de expedir las licencias en las unidades administrativas a su cargo.
+
+Si no se realiza el pago en el plazo establecido en el párrafo anterior, la Secretaría de Desarrollo Urbano y Ecología dará por terminado el procedimiento sin responsabilidad respecto de los pagos que haya realizado el solicitante.
+
+En caso de que la Secretaría de Desarrollo Urbano y Ecología no emita una resolución en el plazo señalado en el primer párrafo de este artículo, operará la negativa ficta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 173.
+
+Las vigencias de las licencias que se expidan serán las mismas que establecen en el presente Reglamento para los trámites desahogados en la vía ordinaria o presencial.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO
@@ -1767,7 +2077,7 @@ C. JUAN CARLOS RUÍZ GARCÍA
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE MAYO DE 2013.
 
@@ -1786,6 +2096,12 @@ P.O. 27 DE FEBRERO DE 2016.
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE AUTORIZA LA REFORMA AL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, N.L.".]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE AUTORIZA LA REFORMA AL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, N.L.".]
 
