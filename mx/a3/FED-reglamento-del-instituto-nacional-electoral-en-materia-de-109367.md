@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-en-materia-de-10936
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-14"
-last_updated: "2015-08-14"
+last_updated: "2016-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-07-02"
 ---
 # REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 2015.
 
@@ -1828,3 +1830,27 @@ Tercero.- La Unidad de Enlace, el Comité de Información y el Órgano Garante d
 El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 2 de julio de dos mil catorce, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+
+Primero.- Se abroga el Reglamento del Instituto Nacional Electoral en Materia de Transparencia y Acceso a la Información Pública, aprobado en sesión ordinaria del Consejo General, celebrada el 2 de julio de 2014, mediante Acuerdo INE/CG70/2014, así como todas sus reformas y adiciones.
+
+Segundo.- Se abroga el Reglamento de Sesiones del Órgano Garante de la Transparencia y el Acceso a la Información del Instituto Nacional Electoral, aprobado en sesión ordinaria del Consejo General, celebrada el 2 de julio de 2014, mediante Acuerdo INE/CG71/2014 y modificado en sesión ordinaria del Consejo General; celebrada el 11 de marzo de 2015, mediante Acuerdo INE/CG90/2015
+
+Tercero.- Las presentes disposiciones estarán vigentes a partir del 5 de mayo de 2016.
+
+Cuarto.- El Órgano Garante de la Transparencia y el Acceso a la Información del Instituto Nacional Electoral, se extinguirá una vez que sea resuelto el último medio de impugnación que deba tramitarse de conformidad con el siguiente artículo transitorio.
+
+Quinto.- Las solicitudes de información y de datos personales que ingresen hasta el 4 de mayo de 2016, así como los recursos de revisión que deriven de las mismas, serán tramitados y resueltos conforme a lo establecido en el Reglamento del Instituto Nacional Electoral en Materia de Transparencia y Acceso a la Información Pública, aprobado en sesión ordinaria del Consejo General, celebrada el 2 de julio de 2014, mediante Acuerdo INE/CG70/2014.
+
+Sexto.- Las solicitudes de acceso, rectificación, cancelación y oposición de datos personales distintos a los que obran en el Registro Federal de Electores, que ingresen a partir del 5 de mayo de 2016, así como los medios de impugnación derivados del ejercicio de dichos derechos, serán tramitados y resueltos conforme a los procedimientos, ante las instancias y en los plazos que apruebe el Consejo General del Instituto Nacional Electoral, hasta en tanto se expida la Ley General de Protección de Datos Personales en posesión de los sujetos obligados.
+
+Séptimo.- Las referencias que se hagan en otros ordenamientos al Comité de Información y a la Unidad de Enlace, se entenderán referidos al Comité de Transparencia y a la Unidad de Transparencia, respectivamente.
+
+Octavo.- Los lineamientos y políticas que regulan a los órganos de transparencia que continúan vigentes en términos de este Reglamento, seguirán aplicándose en lo que no se oponga a este ordenamiento hasta en tanto sean actualizados. La actualización de dichos instrumentos deberá realizarse dentro de los treinta días siguientes a la entrada en vigor del presente Reglamento.
+
+Noveno.- Se instruye a la Unidad Técnica de Transparencia y Protección de Datos Personales para que realice un estudio, con el apoyo que se requiera de las áreas del Instituto, para identificar la viabilidad de publicar en la página de internet del Instituto, los documentos que serán discutidos en las sesiones del Consejo General, previo a la celebración de la sesión respectiva. El estudio deberá contener las necesidades técnicas, financieras, de recursos humanos, de infraestructura y tiempos para la implementación de este ejercicio de transparencia.
