@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2015-12-17"
+last_updated: "2016-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -39,8 +39,6 @@ DECRETO
 "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 
 SE CREA LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
@@ -246,7 +244,7 @@ III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminaci�
 
 ### CAPÍTULO I. DE LOS OBJETIVOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005) (REPUBLICADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 10.
 
@@ -288,11 +286,17 @@ XVII. Fomentar la realización de estudios e investigaciones sociales de la prob
 
 XVIII. Promover la difusión de los derechos y valores en beneficio de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector;
 
-XIX. Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago y poner a su alcance los servicios sociales y asistenciales así como la información sobre los mismos, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
+XIX. Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago y poner a su alcance los servicios sociales y asistenciales así como la información sobre los mismos;
 
-XX. Fomentar la creación de espacios de expresión para las personas adultas mayores.
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XX. Fomentar la creación de espacios de expresión para las personas adultas mayores, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XXI. Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica.
 
 ### CAPÍTULO II. DE LA CONCURRENCIA ENTRE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
 
@@ -308,13 +312,23 @@ Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan 
 
 La Federación, las entidades federativas y los municipios integrarán los instrumentos de información para cuyo efecto el Instituto Nacional de las Personas Adultas Mayores establecerá los lineamientos y criterios generales de las bases de datos.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2016)
+
 ###### Artículo 14.
 
 Las autoridades competentes de la Federación, las entidades federativas y los municipios, concurrirán para:
 
-I. Determinar las políticas hacia las personas adultas mayores, así como ejecutar, dar seguimiento y evaluar sus programas y acciones, de acuerdo con lo previsto en esta Ley, y
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-II. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas adultas mayores.
+I. Determinar las políticas hacia las personas adultas mayores, así como ejecutar, dar seguimiento y evaluar sus programas y acciones, de acuerdo con lo previsto en esta Ley;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+II. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas adultas mayores, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+III. Promover la creación de centros de atención geriátrica y gerontológica.
 
 ### CAPÍTULO III. DE LOS PROGRAMAS Y LAS OBLIGACIONES DE LAS INSTITUCIONES PÚBLICAS
 
@@ -602,7 +616,7 @@ XXVII. Promover, fomentar y difundir en las actuales y nuevas generaciones, una 
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
 
-XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal, los proyectos legislativos en materia de personas adultas mayores, que contribuyan a su desarrollo humano integral, y (sic)
+XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal, los proyectos legislativos en materia de personas adultas mayores, que contribuyan a su desarrollo humano integral, y
 
 XXIX. Expedir su Estatuto Orgánico;
 
@@ -877,3 +891,11 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 10 Y LA FRACCIÓN III AL ARTÍCULO 14 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTA MAYORES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Instituto Nacional de las Personas Mayores, en coordinación con la Secretaría de Salud, establecerán los criterios y mecanismos para el cumplimiento del presente Decreto.
