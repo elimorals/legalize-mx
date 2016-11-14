@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-secretariado-ejecutivo-del-sistema-estatal-76481
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-03"
-last_updated: "2013-07-31"
+last_updated: "2016-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE SINALOA, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2010.
 
@@ -1342,3 +1344,25 @@ Artículo Quinto. El Instituto en su carácter de patrón sustituto, reconocerá
 Artículo Sexto.- De conformidad con el artículo cuarto transitorio de la Ley Orgánica de la Administración Pública del Estado de Sinaloa, los asuntos que con motivo de este Reglamento deban pasar de una dependencia al Instituto, permanecerán en el último trámite que hubieren alcanzado hasta que las áreas o unidades administrativas responsables de la tramitación de los mismos, se incorporen a dicho Instituto, a excepción de los trámites urgentes, o sujetos a plazos improrrogables que continuarán ante la misma área o unidad administrativa en que estuvieren radicados.
 
 Artículo Séptimo. Los policías activos a la fecha de la iniciación de la vigencia del presente Reglamento y que no tengan estudios policiales obligatorios aquí establecidos, deberán de cursarlos en el Instituto para permanecer en servicio.
+
+P.O. 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE SINALOA”.]
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", salvo lo previsto en los artículos transitorios siguientes.
+
+Artículo Segundo.- Se abroga el Reglamento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 106, de fecha 03 de septiembre de 2010 y se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+Artículo Tercero.- Los sistemas de información y radiocomunicación, infraestructura, recursos humanos, materiales, tecnológicos, financieros y documentales que deban ser transferidos de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Sinaloa al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, se harán bajo las disposiciones que rigen el proceso de entrega-recepción para la Administración Pública Estatal.
+
+Artículo Cuarto.- Los sistemas, infraestructura y recursos del Centro Estatal de Comando, Control, Comunicaciones, Cómputo e Inteligencia, previsto en la Ley de Seguridad Pública del Estado de Sinaloa y de la Dirección de Programas Preventivos, prevista en el Reglamento Interior de la Secretaría de Seguridad Pública que se deroga, se transferirán al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en un plazo no mayor de 30 días naturales contados a partir del día siguiente de la entrada en vigor del presente Reglamento y que no exceda el ejercicio fiscal en curso.
+
+Artículo Quinto.- Los derechos del personal que en razón de lo dispuesto en el presente Reglamento sea transferido, se respetarán de conformidad con la disposición legal aplicable.
+
+Artículo Sexto.- Los asuntos, servicios y programas que a la entrada en vigor del presente Reglamento se encuentren en trámite o ejecución por parte del Centro Estatal de Comando, Control, Comunicaciones, Cómputo e Inteligencia y de la Dirección de Programas Preventivos, continuarán con su substanciación, prestación o implementación según sea el caso, conforme a lo dispuesto en la Ley de Seguridad Pública del Estado de Sinaloa y a la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana del Estado de Sinaloa, salvo que pudiera causarse un daño o menoscabo conforme a lo dispuesto en las disposiciones legales correspondientes.
+
+Artículo Séptimo.- Todos los compromisos adquiridos hasta la entrada en vigor del presente Reglamento y que correspondan al presente ejercicio fiscal por concepto de servicios, adquisiciones, arrendamientos y demás obligaciones contraídas para la operación, implementación y funcionamiento del Centro Estatal de Comando, Control, Comunicaciones, Cómputo e Inteligencia y de la Dirección de Programas Preventivos, serán sufragados con cargo al presupuesto de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Sinaloa.
+
+Asimismo, dicha Secretaría asumirá con cargo a su presupuesto los compromisos generados de ejercicios fiscales anteriores al presente año.
+
+Artículo Octavo.- Las referencias en otras disposiciones legales o reglamentarias que se hagan a la Dirección de Programas Preventivos de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Sinaloa, se entenderán que corresponden a la Dirección de Programas de Prevención Social adscrita al Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
