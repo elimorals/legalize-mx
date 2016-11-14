@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-consejo-de-armonizacion-contable-90787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2016-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE ARMONIZACION CONTABLE DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO DE ARMONIZACIÓN CONTABLE DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO DE ARMONIZACIÓN CONTABLE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2012.
 
@@ -428,3 +430,13 @@ DIRECTOR GENERAL DE AUDITORÍA GUBERNAMENTAL DE LA SECRETARÍA DE FISCALIZACIÓN
 C.P.C. Miguel Ángel Martínez Berúmen,
 
 REPRESENTANTE PROPIETARIO DEL COLEGIO DE CONTADORES PÚBLICOS DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO INTERIOR DEL CACEA”.]
+
+Artículo Primero.- El presente Reglamento deberá ser publicado en el Periódico Oficial del Estado de Aguascalientes y entrará en vigencia al día siguiente de su publicación en dicho órgano oficial de difusión.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Consejo de Armonización Contable del Estado de Aguascalientes, publicado el 31 de diciembre de 2012, en el Periódico Oficial del Estado de Aguascalientes.
