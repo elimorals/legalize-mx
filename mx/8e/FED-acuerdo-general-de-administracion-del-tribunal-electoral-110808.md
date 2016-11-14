@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-del-tribunal-electoral-110808
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-12-22"
-last_updated: "2015-12-22"
+last_updated: "2016-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2015-12-08"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SALVO POR LO QUE RESPECTA AL CAPÍTULO V DEL TÍTULO PRIMERO, CUYA VIGENCIA INICIARÁ AL DÍA SIGUIENTE A AQUEL EN EL QUE ENTREN EN VIGOR LAS REFORMAS Y ADICIONES AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVAS A LA DEFENSORÍA PÚBLICA ELECTORAL PARA PUEBLOS Y COMUNIDADES INDÍGENAS.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2016.
 
 Acuerdo publicado en la Tercera y Cuarta Sección del Diario Oficial de la Federación, el martes 22 de diciembre de 2015.
 
@@ -123,7 +121,9 @@ VII. Comité de Desincorporación: Comité de Desincorporación de Bienes del Tr
 
 VIII. Coordinaciones: Las Coordinaciones adscritas a la Presidencia del Tribunal Electoral del Poder Judicial de la Federación;
 
-IX. Ley de Transparencia: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental -vigente, hasta en tanto se establezcan los lineamientos a que se refieren los artículos cuarto y octavo Transitorios de la Ley General de Transparencia;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+IX. Ley de Transparencia: La Ley Federal de Transparencia y Acceso a la Información Pública;
 
 X. Ley General de Transparencia: La Ley General del Transparencia y Acceso a la Información Pública;
 
@@ -239,9 +239,23 @@ V. Elaborar los anteproyectos del Programa Anual de Trabajo, del Programa Anual 
 
 VI. Garantizar que sus actividades se realicen atendiendo la normativa aplicable en materia de igualdad de derechos, no discriminación y paridad de género.
 
-VII. Actualizar y llevar el registro, clasificación e integración del archivo administrativo del área a su cargo; y
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+VII. Actualizar y llevar el registro, clasificación e integración del archivo administrativo del área a su cargo;
 
 VIII. Observar y promover la ética judicial con la finalidad de promocionar al orden jurídico vigente y la vocación en el servicio público.
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+IX. Coadyuvar con la Coordinación de Recursos Humanos y la Dirección General de Planeación, dentro del ámbito de sus competencias, en la elaboración de los Planes de Carrera de sus respectivas Coordinaciones, Unidades de Apoyo y Órganos Auxiliares; y
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+X. Evaluar, revisar y mejorar periódicamente los procesos que tengan a su cargo.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 10 bis. Para el debido cumplimiento del objeto del presente Acuerdo, las personas titulares de las Jefaturas de Unidad, Direcciones de Área, Subdirecciones y Jefaturas de Departamento, suplirán en caso de ausencia, en el ámbito de sus respectivas competencias, a sus superiores jerárquicos en el ejercicio de funciones relevantes.
 
 ## TÍTULO PRIMERO. DE LOS ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN
 
@@ -327,11 +341,15 @@ XVII. Proveer el registro videográfico de las actuaciones derivadas de la prác
 
 XVIII. Las demás que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la Comisión de Administración.
 
-#### SECCIÓN SEGUNDA. De las Visitadoras y los Visitadores
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. De la Visitadora o el Visitador
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 14.
 
-Las Visitadoras y los Visitadores tendrán las siguientes atribuciones:
+La Visitadora o el Visitador tendrá las siguientes atribuciones:
 
 I. Elaborar el proyecto de Programa para someterlo a la autorización de la Visitaduría Judicial;
 
@@ -835,7 +853,9 @@ XVI. Procurar la paridad de género en los programas y eventos académicos;
 
 XVII. Presentar los informes que le sean solicitados por la Comisión de Administración, la Presidencia o el Comité Académico;
 
-XVIII. Fungir como Secretaría Técnica del Comité de Capacitación, del Comité del Servicio Civil, así como del Comité Académico;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Fungir como Secretaría Técnica del Comité de Capacitación, así como del Comité Académico;
 
 XIX. La persona titular del Centro de Capacitación lo representará ante cualquier institución gubernamental, partidista o académica; y
 
@@ -2821,9 +2841,17 @@ XXII. Coordinar las actividades para la impresión y edición de libros, revista
 
 XXIII. Fungir como Secretaría Técnica del Comité Académico y Editorial;
 
-XXIV. Definir el programa Editorial Anual y someterlo al Comité Académico y Editorial; y
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-XXV. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la Presidencia del Tribunal Electoral.
+XXIV. Definir el programa Editorial Anual y someterlo al Comité Académico y Editorial;
+
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XXV. Difundir en medios impresos y, en su caso, gestionar ante el Diario Oficial de la Federación, la publicación de las convocatorias de ingreso y demás documentos relacionados con el Servicio Civil de Carrera Administrativa del Tribunal Electoral; y
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XXVI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la Presidencia del Tribunal Electoral.
 
 #### SECCIÓN PRIMERA. De la Jefatura de Unidad de Planeación y Difusión
 
@@ -3345,9 +3373,17 @@ XIII. Revisar los puntos de acuerdo de su competencia que la Coordinación de As
 
 XIV. Coordinar la elaboración del programa anual de trabajo en materia contenciosa y consultiva, así como los informes requeridos respecto a las actividades, avances y resultados obtenidos;
 
-XV. Representar a la persona titular de la Coordinación de Asuntos Jurídicos en el Comité de Adquisiciones; y
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-XVI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le encomiende la persona titular de la Coordinación de Asuntos Jurídicos.
+XV. Representar a la persona titular de la Coordinación de Asuntos Jurídicos en el Comité de Adquisiciones;
+
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XVI. Revisar las opiniones respecto de las propuestas de Planes de Carrera elaborados por las personas titulares de la Coordinación de Recursos Humanos y de la Dirección General de Planeación, en colaboración con el área respectiva; y
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le encomiende la persona titular de la Coordinación de Asuntos Jurídicos.
 
 #### SECCIÓN SEGUNDA. De la Dirección Contenciosa
 
@@ -3405,9 +3441,21 @@ VI. Sustanciar el procedimiento para la declaración de impedimento para contrat
 
 VII. Elaborar el programa anual de trabajo en materia consultiva, así como los informes requeridos respecto a las actividades, avances y resultados obtenidos;
 
-VIII. Cubrir las ausencias temporales de la persona titular de la Jefatura de Unidad Jurídica del Control de la Legalidad en el despacho de los asuntos de su competencia; y
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-IX. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confieran las personas titulares de la Coordinación de Asuntos Jurídicos y de la Jefatura de Unidad Jurídica del Control de la Legalidad.
+VIII. Cubrir las ausencias temporales de la persona titular de la Jefatura de Unidad Jurídica del Control de la Legalidad en el despacho de los asuntos de su competencia;
+
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+IX. Llevar a cabo las acciones que permitan el adecuado seguimiento del Plan de Carrera de la Coordinación de Asuntos Jurídicos;
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+X. Elaborar las opiniones respecto de las propuestas de Planes de Carrera elaborados por las personas titulares de la Coordinación de Recursos Humanos y de la Dirección General de Planeación, en colaboración con el área respectiva; y
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confieran las personas titulares de la Coordinación de Asuntos Jurídicos y de la Jefatura de Unidad Jurídica del Control de la Legalidad.
 
 #### SECCIÓN CUARTA. De la Jefatura de Unidad Jurídica Administrativa
 
@@ -3553,9 +3601,11 @@ XXII. Presentar a la Comisión de Administración los informes de resultados de 
 
 XXIII. Ejercer las facultades adicionales a las que le precisen los ordenamientos jurídicos que mediante acuerdos de la Comisión de Administración o de su Presidencia, se le confieran;
 
-XXIV. Dirigir y controlar que las áreas de apoyo de la Secretaría Administrativa den debido cumplimiento a los ordenamientos establecidos en la Ley de Transparencia y en el Acuerdo General de Transparencia;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-XXV. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y,
+XXIV. Dirigir y controlar que las áreas de apoyo de la Secretaría Administrativa den debido cumplimiento a los ordenamientos establecidos en la Ley de Transparencia y en el Acuerdo General de Transparencia; y
+
+XXV. (DEROGADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
 
 XXVI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la Comisión de Administración o su Presidencia.
 
@@ -3827,7 +3877,9 @@ I. Operar la guarda y custodia de los expedientes de las y los servidores públi
 
 II. Preparar las copias de documentos o constancias que existan en los archivos a su cargo para que el superior jerárquico valide la información;
 
-III. Preparar la documentación relativa a títulos y cédulas profesionales que enviará la persona titular de la Coordinación de Recursos Humanos a la Contraloría Interna, para que verifique su autenticidad ante la instancia correspondiente;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+III. Preparar la documentación relativa a títulos y cédulas profesionales del personal del Tribunal Electoral y verificar su autenticidad ante la instancia correspondiente;
 
 IV. Informar de manera permanente al superior jerárquico, los asuntos, gestiones y trámites que en el ámbito de su competencia realice;
 
@@ -5211,17 +5263,25 @@ III. Autorizar solicitudes de recursos financieros y cheques para los diversos p
 
 IV. Autorizar la adjudicación de aquellas adquisiciones y contratación de servicios, obra pública y servicios relacionados con la misma que no superen el monto de adjudicación directa fijado por la Comisión de Administración;
 
-V. Autorizar el inicio de los procedimientos de licitación pública e invitación a cuando menos tres proveedores o contratistas y designar a las y los servidores públicos que presidirán los eventos;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-VI. Aprobar y suscribir las convocatorias a las licitaciones públicas;
+V. Autorizar el inicio de los procedimientos de licitación pública, concurso público sumario e invitación a cuando menos tres proveedores o contratistas y designar a las y los servidores públicos que presidirán los eventos;
+
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+VI. Aprobar y suscribir las convocatorias a las licitaciones públicas y concursos públicos sumarios;
 
 VII. Autorizar prorrogar el plazo máximo para la emisión del informe ejecutivo que deba someterse a consideración del Comité de Adquisiciones a fin de que autorice el fallo respectivo;
 
-VIII. Declarar desierta o cancelar el procedimiento de licitación pública o invitación a cuando menos tres proveedores o contratistas, en aquellos casos previstos conforme a la normatividad vigente;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Declarar desiertos o cancelar los procedimientos de licitación pública, concurso público sumario o invitación a cuando menos tres proveedores o contratistas, en aquellos casos previstos conforme a la normatividad vigente;
 
 IX. Autorizar los trabajos extraordinarios en los contratos de obra pública y servicios relacionados con la misma, cuando el importe de estos no rebasen el quince por ciento del contrato original;
 
-X. Autorizar la adjudicación de aquellas adquisiciones y contratación de servicios, obra pública y servicios relacionados con la misma, derivadas de dos procesos de invitación que se declaren desiertos;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+X. Autorizar la adjudicación de aquellas adquisiciones y contratación de servicios, obra pública y servicios relacionados con la misma, derivadas de dos procesos de invitación o concurso público sumario que se declaren desiertos;
 
 XI. Autorizar el pago por adelantado en las contrataciones en que se justifique debidamente, siempre y cuando no rebase el monto de adjudicación directa autorizado por la Comisión de Administración;
 
@@ -5295,7 +5355,9 @@ XVI. Mantener completo y actualizado el archivo de los documentos analizados por
 
 XVII. Dirigir la sustanciación del procedimiento de desincorporación de bienes propiedad del Tribunal Electoral;
 
-XVIII. Requerir a las áreas solicitantes y/o competentes el dictamen técnico correspondiente a la ofertas presentadas por los proveedores en los procedimientos de licitación pública e invitación a cuando menos tres proveedores o contratistas;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Requerir a las áreas solicitantes y/o competentes el dictamen técnico correspondiente a las ofertas presentadas por los proveedores en los procedimientos de licitación pública, concurso público sumario e invitación a cuando menos tres proveedores o contratistas;
 
 XIX. Formular y proponer, a través de la Coordinación de Adquisiciones, Servicios y Obra Pública, las modificaciones a las normas y lineamientos existentes en materia de adquisiciones y administración de recursos materiales;
 
@@ -5383,25 +5445,39 @@ Para el cumplimiento de su objetivo, la Dirección de Licitaciones tendrá a su 
 
 I. Cumplir y aplicar la normatividad, lineamientos y procedimientos establecidos en el Acuerdo General que regula los procedimientos de adquisición, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma del Tribunal Electoral, en materia de adquisiciones;
 
-II. Integrar la documentación con la información necesaria (requisición, anexo técnico, certificación presupuestal , presupuesto base, convocatoria, invitaciones, bases, actas circunstanciadas, dictámenes resolutivos, informes ejecutivos, entre otros, según sea el caso), para la realización de los procedimientos de licitación pública e invitación a cuando menos tres proveedores o contratistas, así como, los procedimientos diversos de contratación autorizados por el Comité de Adquisiciones, relativos a la adquisición o contratación de los bienes y/o servicios, requeridos por las diversas áreas del Tribunal Electoral, de conformidad con el Acuerdo General de Adquisiciones;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-III. Elaborar y adecuar conjuntamente con la Coordinación, la Dirección General y la Jefatura de Unidad de Adquisiciones, el modelo de bases tipo de los procedimientos de licitación pública e invitación a cuando menos tres proveedores o contratistas, así como las convocatorias e invitaciones respectivas, de conformidad con el Acuerdo General de Adquisiciones, para que sean sometidos a la aprobación del Comité de Adquisiciones;
+II. Integrar la documentación con la información necesaria (requisición, anexo técnico, certificación presupuestal, presupuesto base, convocatoria, invitaciones, bases, actas circunstanciadas, dictámenes resolutivos, informes ejecutivos, entre otros, según sea el caso), para la realización de los procedimientos de licitación pública, concurso público sumario e invitación a cuando menos tres proveedores o contratistas, así como los procedimientos diversos de contratación autorizados por el Comité de Adquisiciones, relativos a la adquisición o contratación de los bienes y/o servicios, requeridos por las diversas áreas del Tribunal Electoral, de conformidad con el Acuerdo General de Adquisiciones;
+
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+III. Elaborar y adecuar conjuntamente con la Coordinación, la Dirección General y la Jefatura de Unidad de Adquisiciones, el modelo de bases tipo de los procedimientos de licitación pública, concurso público sumario e invitación a cuando menos tres proveedores o contratistas, así como las convocatorias e invitaciones respectivas, de conformidad con el Acuerdo General de Adquisiciones, para que sean sometidos a la aprobación del Comité de Adquisiciones;
 
 IV. Solicitar los recursos necesarios para el pago de derechos y realizar las gestiones necesarias para la publicación de las convocatorias en el Diario Oficial de la Federación y en los diversos periódicos de circulación nacional, en su caso, así como su debida comprobación;
 
 V. Realizar las gestiones para el uso de medios electrónicos, en su caso, para la realización de los procedimientos de concurso;
 
-VI. Elaborar las bases de los procedimientos de licitación pública o invitación a cuando menos tres proveedores o contratistas, de acuerdo a la información contenida en los anexos técnicos y, en su caso, con la previa validación de las áreas solicitantes;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-VII. Enviar a la persona titular de la Jefatura de Unidad de Adquisiciones, las bases de los procedimientos y anexos técnicos de licitaciones públicas e invitación a cuando menos tres proveedores, para que el área solicitante las valide;
+VI. Elaborar las bases de los procedimientos de licitación pública, concurso público sumario o invitación a cuando menos tres proveedores o contratistas, de acuerdo a la información contenida en los anexos técnicos y, en su caso, con la previa validación de las áreas solicitantes;
 
-VIII. Organizar los eventos de licitación pública e invitación a cuando menos tres proveedores o contratistas, así como los procedimientos diversos de contratación autorizados por el Comité de Adquisiciones, de acuerdo a las fechas acordadas por la o el titular de la Coordinación de Adquisiciones, Servicios y Obra Pública;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+VII. Enviar a la persona titular de la Jefatura de Unidad de Adquisiciones, las bases de los procedimientos y anexos técnicos de licitaciones públicas, concursos públicos sumarios e invitación a cuando menos tres proveedores, para que el área solicitante las valide;
+
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Organizar los eventos de licitación pública, concurso público sumario e invitación a cuando menos tres proveedores o contratistas, así como los procedimientos diversos de contratación autorizados por el Comité de Adquisiciones, de acuerdo a las fechas acordadas por la o el titular de la Coordinación de Adquisiciones, Servicios y Obra Pública;
 
 IX. Integrar los dictámenes resolutivos técnico, legal y financiero en un informe ejecutivo, así como generar un dictamen resolutivo económico, presentando los resultados al Comité de Adquisiciones, para la definición y autorización del fallo que corresponda;
 
-X. Solicitar a la Coordinación de Asuntos Jurídicos la elaboración y formalización de los respectivos contratos, de acuerdo con los resultados obtenidos en los fallos de adjudicación de los distintos procedimientos de licitación pública e invitación a cuando menos tres proveedores o contratistas, así como de los procedimientos diversos de contratación aprobados por el Comité de Adquisiciones;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-XI. Elaborar los informes vinculados con los procedimientos de licitación pública e invitación a cuando menos tres proveedores o contratistas, así como los que le sean requeridos por la o el titular de la Jefatura de Unidad de Adquisiciones;
+X. Solicitar a la Coordinación de Asuntos Jurídicos la elaboración y formalización de los respectivos contratos, de acuerdo con los resultados obtenidos en los fallos de adjudicación de los distintos procedimientos de licitación pública, concurso público sumario e invitación a cuando menos tres proveedores o contratistas, así como de los procedimientos diversos de contratación aprobados por el Comité de Adquisiciones;
+
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XI. Elaborar los informes vinculados con los procedimientos de licitación pública, concurso público sumario e invitación a cuando menos tres proveedores o contratistas, así como los que le sean requeridos por la o el titular de la Jefatura de Unidad de Adquisiciones;
 
 XII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
 
@@ -5419,7 +5495,9 @@ Para el cumplimiento de su objetivo, la Dirección de Adquisiciones tendrá a su
 
 I. Cumplir y aplicar la normatividad establecida para la adquisición y administración de los recursos materiales del Tribunal Electoral y verificar periódicamente su cumplimiento;
 
-II. Coordinar y supervisar la elaboración de la información y documentación soporte para la realización de los procedimientos de licitación pública, invitación a cuando menos tres proveedores o contratistas y adjudicación directa por excepción, relativa a la adquisición y contratación de los bienes y servicios requeridos por las diversas áreas del Tribunal, con la finalidad de que, en su momento, sea sometida a consideración del Comité de Adquisiciones;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+II. Coordinar y supervisar la elaboración de la información y documentación soporte para la realización de los procedimientos de licitación pública, concurso público sumario, invitación a cuando menos tres proveedores o contratistas y adjudicación directa por excepción, relativa a la adquisición y contratación de los bienes y servicios requeridos por las diversas áreas del Tribunal Electoral, con la finalidad de que, en su momento, sea sometida a consideración del Comité de Adquisiciones;
 
 III. Coordinar y supervisar las solicitudes de cotizaciones a los proveedores, los estudios de mercado e integración de expedientes en aquellos procedimientos que, por su monto de actuación, deban ser desahogados a través de adjudicaciones directas;
 
@@ -5461,7 +5539,9 @@ III. Revisar la requisición de suministros y realizar las aclaraciones pertinen
 
 IV. Coordinar con la o el titular de la Dirección de Almacenes e Inventarios, la entrega a las diferentes áreas del Tribunal Electoral, de los bienes solicitados en la requisición de suministros;
 
-V. Determinar aquellos requerimientos que por el monto de adquisición proceda su adjudicación directa por excepción o bien, licitación pública o invitación a cuando menos tres proveedores o contratistas, de conformidad con lo dispuesto en el Acuerdo General de Adquisiciones e informar a la Dirección de Adquisiciones a efecto de que, en su momento, sean sometidos a consideración del Comité de Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+V. Determinar aquellos requerimientos que por el monto de adquisición proceda su adjudicación directa por excepción o bien, licitación pública, concurso público sumario o invitación a cuando menos tres proveedores o contratistas, de conformidad con lo dispuesto en el Acuerdo General de Adquisiciones e informar a la Dirección de Adquisiciones a efecto de que, en su momento, sean sometidos a consideración del Comité de Adquisiciones;
 
 VI. Gestionar la obtención de firmas de validación y autorización de las requisiciones de suministros ante las instancias competentes, a efecto de proceder a su compra;
 
@@ -6241,7 +6321,9 @@ XII. Validar y tramitar el pago de facturas o comprobantes de los servicios otor
 
 XIII. Gestionar los trámites administrativos para el suministro de materiales, refacciones, viáticos, bienes y servicios y demás aplicables, que se requieran para el cumplimiento de sus funciones;
 
-XIV. Supervisar la integración y actualización de los expedientes de cada una de las unidades del parque vehicular en términos del Manual de Procedimientos para el Control, Uso, Mantenimiento de Vehículos y Asignación de Combustible;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Supervisar la integración y actualización de los expedientes de cada una de las unidades del parque vehicular, en términos de la normativa aplicable;
 
 XV. Elaborar el informe mensual de actividades del Programa Anual de Trabajo y del Programa Anual de Ejecución de la Dirección de Control y Servicios Vehiculares para su remisión a la Subdirección de Enlace Administrativo a fin de integrarlo al informe de la Dirección General de Mantenimiento y Servicios Generales;
 
@@ -7843,19 +7925,27 @@ XVIII. Participar en las reuniones del Comité para la Implementación del Siste
 
 XIX. Las demás que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Secretaría Administrativa.
 
-#### SECCIÓN PRIMERA. De la Dirección de Planeación y Organización
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+#### SECCIÓN PRIMERA. De la Dirección de Planeación
+
+> <small>(REFORMADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 377.
 
-La Dirección de Planeación y Organización es el área encargada de instrumentar el modelo de planeación estratégica del Tribunal Electoral, así como coordinar y asesorar a las áreas que lo conforman, en la formulación e integración de sus programas anuales de trabajo y en sus proyectos de reestructuración funcional, organizacional y ocupacional.
+La Dirección de Planeación es el área encargada de instrumentar el modelo de planeación estratégica del Tribunal Electoral, así como coordinar y asesorar a las áreas que lo conforman, en la formulación e integración de sus programas anuales de trabajo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 378.
 
-Para el cumplimiento de su objetivo, la Dirección de Planeación y Organización tendrá a su cargo las siguientes funciones:
+Para el cumplimiento de su objetivo, la Dirección de Planeación tendrá a su cargo las siguientes funciones:
 
 I. Diseñar propuestas de políticas y procedimientos enfocados a la planeación estratégica institucional;
 
-II. Desarrollar e instrumentar metodologías, instructivos y demás instrumentos que orienten y faciliten a las unidades administrativas las labores de planeación y organización;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+II. Desarrollar e instrumentar metodologías, instructivos y demás instrumentos que orienten y faciliten a las unidades administrativas las labores de planeación;
 
 III. Elaborar y proponer los lineamientos y políticas para la formulación del Programa Anual de Trabajo, en congruencia con el modelo de planeación estratégica institucional;
 
@@ -7865,29 +7955,37 @@ V. Formular y actualizar la Matriz de Indicadores para Resultados, alineada a la
 
 VI. Proyectar las propuestas en materia de modernización administrativa, que contribuyan al cumplimiento de los objetivos y metas institucionales;
 
-VII. Apoyar y asesorar a las unidades administrativas para la formulación de las propuestas de reestructuración que requieran;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Formular los proyectos de dictámenes técnico-organizacionales derivados de las propuestas de reestructuración presentados por las unidades administrativas;
+VII. Asesorar a las unidades administrativas en la formulación de sus ejercicios de planeación estratégica y en la integración de sus Programas Anuales de Trabajo;
 
-IX. Elaborar y/o actualizar la estructura orgánica y diagramas de organización y/o de puestos de las unidades administrativas, derivadas de las propuestas de reestructuración aprobadas;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-X. Difundir al interior de la institución la estructura orgánica del Tribunal Electoral así como los diagramas de organización y de puestos aprobados y gestionar la publicación para su consulta externa en el portal institucional;
+VIII. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
 
-XI. Asesorar a las unidades administrativas en la formulación de sus ejercicios de planeación estratégica y en la integración de sus Programas Anuales de Trabajo;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-XII. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
+IX. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
 
-XIII. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
-XIV. Coadyuvar a la Dirección General de Sistemas en el desarrollo y/o actualización de los sistemas informáticos, en el ámbito de su competencia, que permita la agilización y explotación de la información generada por el área;
+X. Coadyuvar con la Dirección General de Sistemas en el desarrollo y/o actualización de los sistemas informáticos, en el ámbito de su competencia, que permita la agilización y explotación de la información generada por el área;
 
-XV. Gestionar la publicación de los programas e instrumentos que en el ámbito de su competencia sean de interés general a través de medios remotos o locales de comunicación electrónica;
+(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
 
-XVI. Elaborar los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración;
+XI. Gestionar la publicación de los programas e instrumentos que en el ámbito de su competencia sean de interés general a través de medios remotos o locales de comunicación electrónica;
 
-XVII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
 
-XVIII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
+XII. Elaborar los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración;
+
+(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
+
+XIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
+
+XIV. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
 
 #### SECCIÓN SEGUNDA. De la Dirección de Seguimiento y Evaluación
 
@@ -7931,7 +8029,79 @@ XV. Cubrir, en el ámbito de su competencia, las ausencias temporales de su supe
 
 XVI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
 
-#### SECCIÓN PRIMERA. De la Dirección de Enlace Institucional
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 380 Bis.
+
+La Dirección de Análisis Organizacional e Integración de Estructuras es el área encargada de coordinar y asesorar a las áreas que conforman al Tribunal Electoral, en la elaboración y presentación de sus propuestas de reestructuración, así como desarrollar los proyectos de dictamen de reestructuración funcional, organizacional y ocupacional que se deriven, observando la normatividad en la materia.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 380 Ter.
+
+Para el cumplimiento de su objetivo, la Dirección de Análisis Organizacional e Integración de Estructuras tendrá a su cargo las siguientes funciones:
+
+I. Elaborar y proponer los lineamientos y procedimientos enfocados a la definición y modificación de la estructura orgánica del Tribunal Electoral;
+
+II. Implementar las acciones para la presentación anual a la Comisión de Administración de la estructura orgánica del Tribunal Electoral del ejercicio fiscal correspondiente;
+
+III. Proporcionar asesoría a las diferentes áreas del Tribunal Electoral, para la formulación de sus propuestas de reestructuración;
+
+IV. Formular las opiniones técnicas a las propuestas de modificación de la plantilla de personal, que son presentadas por los Magistrados integrantes de la Sala Superior;
+
+V. Formular los proyectos de dictámenes técnico-organizacionales derivados de las propuestas de reestructuración presentados por las unidades administrativas;
+
+VI. Emitir y actualizar el catálogo de códigos de centro de costo de la estructura orgánica del Tribunal Electoral;
+
+VII. Elaborar y/o actualizar la estructura orgánica y diagramas de organización y/o de puestos de las unidades administrativas, derivadas de las propuestas de reestructuración aprobadas;
+
+VIII. Difundir al interior de la institución la estructura orgánica del Tribunal Electoral, así como los diagramas de organización y de puestos aprobados y gestionar la publicación para su consulta externa en el portal institucional;
+
+XI. Elaborar los estudios, proyectos, y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración;
+
+X. Vigilar los posibles impactos en los procesos de trabajo de las unidades administrativas, que puedan resultar con motivo de las modificaciones organizacionales;
+
+XI. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
+
+XII. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
+
+XIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+XIV. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 380 Quáter.
+
+La Subdirección de Organización es el área encargada del diseño y actualización de los diagramas de organización y de puestos; así como de garantizar la difusión de la estructura orgánica del Tribunal Electoral autorizada y sus modificaciones.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 380 Quintus. Para el cumplimiento de su objetivo, la Subdirección de Organización tendrá a su cargo las siguientes funciones:
+
+I. Brindar apoyo a las diferentes áreas del Tribunal Electoral, para la elaboración y presentación de sus propuestas de reestructuración;
+
+II. Realizar el diseño y actualización de la estructura orgánica básica del Tribunal Electoral, así como de los diagramas de organización y de puestos de las diferentes unidades administrativas que lo integran;
+
+III. Apoyar en la elaboración e integración de los diferentes diagramas de organización y de puestos, para la presentación anual de la estructura orgánica del Tribunal Electoral del ejercicio fiscal correspondiente;
+
+IV. Coadyuvar en la elaboración de los proyectos de dictámenes técnico-organizacionales derivados de las propuestas de reestructuración presentados por las unidades administrativas;
+
+V. Revisar y gestionar las acciones para la difusión en el Micrositio de la Dirección General de Planeación, así como en el Portal de Transparencia del Tribunal Electoral de la estructura orgánica básica y no básica autorizada;
+
+VI. Mantener el control y resguardo documental que se origina de las estructuras orgánicas;
+
+VII. Brindar la información requerida para atención en la materia de las solicitudes de transparencia, así como de auditorías internas o externas, entre otras en la materia;
+
+VIII. Elaborar o en su caso, apoyar en la formulación de documentos, reportes, estudios, y análisis requeridos en el ámbito de su competencia;
+
+IX. Cubrir en el ámbito de su competencia, las ausencias temporales de su superior jerárquico y,
+
+X. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que les confiera la persona titular de la Dirección de Análisis Organizacional e Integración de las Estructuras.
+
+#### SECCIÓN TERCERA. De la Dirección de Análisis Organizacional e Integración de Estructuras
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
 ### CAPÍTULO VIII. De la Dirección General de Enlace y Vinculación Social
 
@@ -7975,7 +8145,11 @@ XV. Coadyuvar, en el ámbito de su competencia, a la integración de documentaci
 
 XVI. Las demás que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables así como las que le encomienden la persona titular de la Presidencia, las y los Magistrados de la Sala Superior y la Secretaría Administrativa.
 
-#### SECCIÓN SEGUNDA. De la Dirección de Logística Institucional
+#### SECCIÓN CUARTA. De la Subdirección de Organización
+
+[Adicionada mediante Acuerdo 313/S10 (20-X-2016)]
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 383.
 
@@ -8003,7 +8177,7 @@ VIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de la pe
 
 IX. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Enlace y Vinculación Social.
 
-#### SECCIÓN TERCERA. De la Dirección de Gestión Institucional
+#### SECCIÓN PRIMERA. De la Dirección de Enlace Institucional
 
 ###### Artículo 385.
 
@@ -8029,7 +8203,7 @@ VII. Cubrir, en el ámbito de su competencia, las ausencias temporales de la per
 
 VIII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Enlace y Vinculación Social.
 
-#### SECCIÓN PRIMERA. De la Dirección de Enlace y Apoyo Administrativo
+#### SECCIÓN SEGUNDA. De la Dirección de Logística Institucional
 
 ###### Artículo 387.
 
@@ -8088,6 +8262,10 @@ XI. Impulsar proyectos y políticas de mejora continua entre las Delegaciones Ad
 XII. Visitar a las Delegaciones Administrativas en sus respectivas Salas Regionales con la finalidad de conocer la aplicación y vigencia de los documentos que las rigen; y
 
 XIII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Secretaría Administrativa.
+
+#### SECCIÓN PRIMERA. De la Dirección de Enlace y Apoyo Administrativo
+
+#### SECCIÓN TERCERA. De la Dirección de Gestión Institucional
 
 ###### Artículo 391.
 
@@ -8174,3 +8352,11 @@ EL SUSCRITO, LICENCIADO JORGE ENRIQUE MATA GÓMEZ SECRETARIO DE LA COMISIÓN DE 
 CERTIFICA
 
 Que el presente documento en 212 fojas, corresponde al Acuerdo General de Administración del Tribunal Electoral del Poder Judicial de la Federación, aprobado por la Comisión de Administración mediante acuerdo 316/S11(17-XI-2015), emitido en la Décima Primera Sesión Ordinaria celebrada el 17 de noviembre de 2015, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE.- México, Distrito Federal, 8 de diciembre de 2015.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Jorge Enrique Mata Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE “REFORMAS Y ADICIONES AL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+[EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]
