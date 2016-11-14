@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2013-06-26"
+last_updated: "2016-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -187,7 +187,9 @@ VIII. Las demás que le otorguen esta Ley, otros ordenamientos legales y el Regl
 
 El Instituto podrá celebrar convenios de colaboración tanto con personas físicas, morales, públicas, privadas, nacionales y extranjeras, y con Dependencias y Entidades de los tres órdenes de gobierno para el cumplimiento de su objeto.
 
-En particular podrá concertar acuerdos con Instituciones de Educación Superior por lo que respecta a la prestación de servicios periciales y sociales y particularmente en las diversas especialidades del derecho, criminología, trabajo social y otras disciplinas en los términos y condiciones que establezca el Reglamento de esta Ley. Los peritos de Instituciones Públicas, no cobrarán por los servicios periciales que presten al Instituto en materia penal.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2016)</small>
+
+En particular podrá concertar acuerdos con Instituciones de Educación Superior, por lo que respecta a la prestación de servicios periciales y sociales y particularmente en las diversas especialidades del derecho, criminología, trabajo social y otras disciplinas en los términos y condiciones que establezca el Reglamento de esta Ley. Los peritos de Instituciones Públicas, no cobrarán por los servicios periciales que presten al Instituto en las materias penal, civil, familiar, mercantil y justicia administrativa.
 
 Igualmente, promoverá la concertación de convenios con Colegios y Asociaciones de Abogados, Facultades y Escuelas de Derecho para su colaboración gratuita en la atención de los asuntos propios de su competencia.
 
@@ -435,7 +437,7 @@ A propuesta de la Contraloría Interna, en los términos de la legislación apli
 
 ###### Artículo 28.
 
-El Comisario tendrá las siguientes facultades:} (sic)
+El Comisario tendrá las siguientes facultades:}
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto se encaminen adecuadamente para el cumplimiento de su objeto, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
@@ -463,7 +465,7 @@ El Director General del Instituto para el mejor desempeño de sus funciones se a
 
 ###### Artículo 31.
 
-El lnstituto contará con la siguiente estructura administrativa:
+El Instituto contará con la siguiente estructura administrativa:
 
 I. Dirección General;
 
@@ -802,3 +804,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Todos los asuntos en trámite deberán ser concluidos en los términos previos al inicio de la vigencia del presente Decreto.
 
 Artículo Tercero.- El Director General del Instituto deberá formular y proponer las reformas necesarias al Reglamento de la Ley de Defensoría Pública para el Estado de Nuevo León, o en su caso la emisión de un nuevo ordenamiento, en un plazo máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 166. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11 DE LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
