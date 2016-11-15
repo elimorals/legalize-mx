@@ -4,7 +4,7 @@ identifier: "FED-ley-de-hidrocarburos-101933"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2014-08-11"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101933&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-11"
 
 LEY DE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -2029,15 +2029,9 @@ El incumplimiento de la regulación que la Comisión Reguladora de Energía esta
 
 Décimo Cuarto.- En relación con los mercados de gasolina y diésel se observará lo siguiente:
 
-I. En materia de precios:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉANSE ARTÍCULOS TRANSITORIOS DÉCIMO PRIMERO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2017 Y TRANSITORIO ÚNICO FRACCIÓN II DEL DECRETO QUE EXPIDE DICHA LEY.]</small>
 
-a) A partir de la entrada en vigor de la presente Ley y en lo que reste del año 2014, la determinación de los precios al público se realizará conforme a las disposiciones vigentes.
-
-b) A partir del 1o. de enero de 2015 y, como máximo, hasta el 31 de diciembre de 2017 la regulación sobre precios máximos al público de gasolinas y diésel será establecida por el Ejecutivo Federal mediante acuerdo. Dicho acuerdo deberá considerar las diferencias relativas por costos de transporte entre regiones y las diversas modalidades de distribución y expendio al público, en su caso.
-
-Asimismo, la política de precios máximos al público que se emita deberá prever ajustes de forma congruente con la inflación esperada de la economía y, en caso de que los precios internacionales de estos combustibles experimenten alta volatilidad, el Ejecutivo Federal preverá mecanismos de ajuste que permitan revisar al alza los incrementos de los citados precios, de manera consistente con la evolución del mercado internacional.
-
-c) A partir del 1o. de enero de 2018 los precios se determinarán bajo condiciones de mercado.
+I. (DEROGADA POR TRANSITORIO DÉCIMO PRIMERO, FRACCIÓN II DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2017, D.O.F. 15 DE NOVIEMBRE DE 2016)
 
 II. A partir de la entrada en vigor de la presente Ley y, como máximo, hasta el 31 de diciembre de 2016, únicamente se podrán otorgar permisos para la importación de gasolinas y diésel a Petróleos Mexicanos o sus empresas productivas subsidiarias.
 
@@ -2051,7 +2045,9 @@ Lo anterior, sin perjuicio de que, a partir del 1o. de enero de 2017, Petróleos
 
 Los contratos de suministro que suscriban Petróleos Mexicanos, sus empresas productivas subsidiarias o sus empresas filiales no podrán estar condicionados a la celebración de contratos de franquicia, ni limitar a las partes del contrato de suministro a darlo por terminado de manera unilateral, en tanto que a juicio de la Comisión Federal de Competencia Económica se presenten condiciones de competencia efectiva.
 
-En todo momento, en caso de que a juicio de la Comisión Federal de Competencia Económica se presenten condiciones de competencia efectiva con anterioridad a los plazos señalados en la presente disposición transitoria, dichos plazos se reducirán hasta la fecha de la declaratoria que emita la referida Comisión, en cuyo caso los precios se determinarán bajo condiciones de mercado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉANSE ARTÍCULOS TRANSITORIOS DÉCIMO PRIMERO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2017 Y TRANSITORIO ÚNICO FRACCIÓN II DEL DECRETO QUE EXPIDE DICHA LEY.]</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR TRANSITORIO DÉCIMO PRIMERO, FRACCIÓN II DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2017, D.O.F. 15 DE NOVIEMBRE DE 2016)</small>
 
 Décimo Quinto.- La Comisión Reguladora de Energía deberá emitir dentro de los trescientos sesenta y cinco días naturales posteriores a la entrada en vigor de esta Ley los criterios generales de acceso abierto a que se sujetará la infraestructura de Transporte, Almacenamiento y Distribución de Petrolíferos.
 
@@ -2136,3 +2132,95 @@ Trigésimo Segundo.- Los contratos, convenios o instrumentos de naturaleza jurí
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE NOVIEMBRE DE 2016.
+
+[N. DE E. “TRANSITORIOS DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2017”.
+
+Primero. La presente Ley entrará en vigor el 1 de enero de 2017, salvo lo dispuesto en los transitorios Décimo Segundo y Décimo Cuarto, los cuales entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se aprueban las modificaciones a la Tarifa de los Impuestos Generales de Importación y de Exportación efectuadas por el Ejecutivo Federal a las que se refiere el informe que, en cumplimiento de lo dispuesto en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos, ha rendido el propio Ejecutivo Federal al Congreso de la Unión en el año 2016.
+
+Tercero. Para los efectos de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, cuando de conformidad con la Ley Orgánica de la Administración Pública Federal se modifique la denominación de alguna dependencia o entidad o las existentes desaparezcan, se entenderá que los ingresos estimados para éstas en la presente Ley corresponderán a las dependencias o entidades cuyas denominaciones hayan cambiado o que absorban las facultades de aquéllas que desaparezcan, según corresponda.
+
+Cuarto. El gasto corriente estructural a que se refiere el artículo 2, fracción XXIV BIS de la Ley Federal de Presupuesto y Responsabilidad Hacendaria excluirá, adicionalmente a los conceptos de gasto previstos en dicha fracción, los gastos relativos a la implementación de las reformas a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013, así como de las leyes secundarias que derivan de dicho Decreto, publicadas en el mismo órgano de difusión oficial el 11 de agosto de 2014.
+
+Quinto. Durante el ejercicio fiscal de 2017 el Fondo de Compensación del Régimen de Pequeños Contribuyentes y del Régimen de Intermedios creado mediante el Quinto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014, publicada en el Diario Oficial de la Federación el 20 de noviembre de 2013 continuará destinándose en los términos del citado precepto.
+
+Sexto. El Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2017 aprobado deberá prever una asignación equivalente a la recaudación estimada para la Federación por concepto del impuesto especial sobre producción y servicios aplicable a las bebidas saborizadas, de acuerdo con lo previsto en el artículo 1o. de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, una vez descontadas las participaciones que correspondan a las entidades federativas, para destinarse a programas de promoción, prevención, detección, tratamiento, control y combate a la desnutrición, sobrepeso, obesidad y enfermedades crónico degenerativas relativas, así como para apoyar el incremento en la cobertura de los servicios de agua potable en localidades rurales, y proveer bebederos con suministro continúo de agua potable en inmuebles escolares públicos con mayor rezago educativo, de conformidad con los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa.
+
+Séptimo. A partir del ejercicio fiscal 2017 las referencias que en materia de administración, determinación, liquidación, cobro, recaudación y fiscalización de las contribuciones se hacen a la Comisión Nacional del Agua en la Ley Federal de Derechos, así como en los artículos 51 de la Ley de Coordinación Fiscal y Décimo Tercero de las Disposiciones Transitorias del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013 y las disposiciones que emanen de dichos ordenamientos se entenderán hechas también al Servicio de Administración Tributaria.
+
+Octavo. Para efectos de lo previsto en el artículo 107, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá incluir en los informes trimestrales información sobre los costos recaudatorios de las medidas que representan un gasto fiscal, así como de los beneficiarios de dichos mecanismos, contenidos en los decretos que emita el Ejecutivo Federal en el ejercicio de las facultades conferidas en las fracciones II y III del artículo 39 del Código Fiscal de la Federación durante el trimestre que se reporta.
+
+Noveno. Para efectos de lo previsto en el artículo 107, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá reportar en los Informes Trimestrales la información sobre los ingresos excedentes que, en su caso, se hayan generado con respecto al calendario de ingresos derivado de la Ley de Ingresos de la Federación a que se refiere el artículo 23 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. En este reporte se presentará la comparación de los ingresos propios de las entidades paraestatales bajo control presupuestario directo, de las empresas productivas del Estado, así como del Gobierno Federal. En el caso de éstos últimos se presentará lo correspondiente a los ingresos provenientes de las transferencias del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+Décimo. Las Entidades Federativas y Municipios que cuenten con disponibilidades de recursos federales, correspondientes a ejercicios fiscales anteriores al 2016, que no hayan sido devengados conforme a los calendarios respectivos, deberán enterarlos a la Tesorería de la Federación, incluyendo los rendimientos financieros que hubieran generado.
+
+Para efectos de lo anterior, los aprovechamientos provenientes de los enteros que realicen las Entidades Federativas y Municipios en términos del presente transitorio, no se considerarán extemporáneos, por lo que no causan daño a la hacienda pública ni se cubrirán cargas financieras, siempre y cuando dichas disponibilidades hayan estado depositadas en cuentas bancarias de la Entidad Federativa y/o Municipio.
+
+Décimo Primero. A partir del 1 de enero de 2017 se derogan las siguientes disposiciones:
+
+I. Las fracciones III y V del artículo Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015.
+
+II. La fracción I y el último párrafo del artículo Décimo Cuarto Transitorio de la Ley de Hidrocarburos publicada en el Diario Oficial de la Federación el 11 de agosto de 2014.
+
+Décimo Segundo. Durante 2017 y 2018 los precios al público de las gasolinas y el diésel se determinarán de conformidad con lo siguiente:
+
+I. La Comisión Reguladora de Energía, tomando en cuenta la opinión que emita la Comisión Federal de Competencia Económica, emitirá los acuerdos o el cronograma de flexibilización para que durante los años de 2017 y 2018 los precios al público se determinen bajo condiciones de mercado. Los acuerdos o el cronograma se establecerán por regiones del país. La Comisión Reguladora de Energía podrá modificar dichos acuerdos o cronograma, con base en la evolución de las condiciones de mercado y el desarrollo de la infraestructura de suministro en el país, entre otros factores. La Comisión Reguladora de Energía deberá publicar en el Diario Oficial de la Federación los acuerdos o el cronograma actualizados. Las modificaciones únicamente podrán llevarse a cabo para adelantar el momento a partir del cual los precios al público se determinarán bajo condiciones de mercado.
+
+II. En las regiones del país, durante el tiempo en donde los precios al público de las gasolinas y el diésel no se determinen bajo condiciones de mercado conforme a lo establecido en la fracción anterior, la Secretaría de Hacienda y Crédito Público establecerá los precios máximos al público de las gasolinas y el diésel con base en lo siguiente:
+
+a) Considerará el precio de la referencia internacional de los combustibles y, en su caso, las diferencias en la calidad de los mismos, las diferencias relativas por los costos de logística, incluyendo los costos de transporte entre regiones, los costos de distribución y comercialización en los centros de consumo y las diversas modalidades de distribución y expendio al público, procurando generar las condiciones para el abasto oportuno de dichos combustibles.
+
+La Secretaría de Hacienda y Crédito Público publicará la metodología para determinar los precios máximos al público antes mencionados y el periodo de vigencia de los mismos a más tardar el 31 de diciembre de 2016.
+
+La fijación de estos precios máximos tendrá como objetivo final la liberalización de los precios en la región que corresponda.
+
+Adicionalmente, en aquellas regiones con precio máximo, se deberá aplicar la regulación asimétrica para el acceso a la infraestructura, cuando así lo haya determinado la Comisión Reguladora de Energía y sin perjuicio de que dicha regulación pueda ser aplicada en el resto del territorio nacional.
+
+b) Emitirá un acuerdo en el que se especifique la región, los combustibles y el periodo de aplicación de los precios, mismo que se publicará en el Diario Oficial de la Federación con anticipación al periodo durante el cual se aplicarán.
+
+En las regiones del país que al 1 de enero de 2017 no se apliquen los precios al público de las gasolinas y el diésel bajo condiciones de mercado, se deberán publicar los precios máximos al público de los combustibles mencionados, a más tardar el 31 de diciembre de 2016.
+
+III. Para los efectos de lo dispuesto en la fracción I de este artículo, cuando la Comisión Reguladora de Energía, previa opinión de la Comisión Federal de Competencia Económica, comunique a la Secretaría de Hacienda y Crédito Público que, en las regiones en las que se haya determinado que los precios de las gasolinas y el diésel se apliquen bajo condiciones de mercado se han presentado aumentos en los precios al público de dichos combustibles que no correspondan a la evolución de los precios internacionales de los combustibles y de los costos de suministro, dicha Secretaría podrá establecer por regiones o subregiones, precios máximos al público de conformidad con lo dispuesto en la fracción II de este artículo.
+
+Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Reguladora de Energía podrá ejercer la facultad establecida en la fracción IV del artículo 26 de esta Ley.
+
+Lo establecido en este artículo tendrá vigencia hasta el 31 de diciembre de 2018.
+
+Décimo Tercero. Para los efectos de lo dispuesto en el artículo 25, fracción I, inciso a), de la presente Ley, los titulares de los permisos a que se refiere el artículo mencionado deberán reportar a la Comisión Reguladora de Energía el precio de enajenación de las gasolinas, diésel, turbosina y gasavión, aplicado a partir del 1 de enero de 2017. Dicha información deberá ser proporcionada a más tardar el 15 de enero de 2017.
+
+Décimo Cuarto. Los titulares de permisos de comercialización, distribución y expendio al público de gas licuado de petróleo y propano deberán reportar a la Comisión Reguladora de Energía el precio de enajenación de los productos mencionados aplicado a partir del 1 de diciembre de 2016, información que deberá ser proporcionada a más tardar el 15 del mismo mes y año.
+
+Décimo Quinto. La aplicación de lo dispuesto en el artículo 26, fracción III de esta Ley entrará en vigor a partir del 1 de enero de 2019.
+
+Décimo Sexto. Para efectos de lo dispuesto en el último párrafo del artículo 5o. de la Ley del Impuesto Especial sobre Producción y Servicios, la Secretaría de Hacienda y Crédito Público en un plazo máximo de 90 días contados a partir de la entrada en vigor de la presente Ley, deberá emitir las reglas de carácter general aplicables al valor de los bonos de carbono y a su entrega como medio de pago del impuesto especial sobre producción y servicios aplicable a los combustibles fósiles. Dichas reglas deberán prever que también podrán ser aceptados como medio de pago los bonos de proyectos en México, avalados por la Organización de las Naciones Unidas dentro del Protocolo de Kioto o el instrumento que lo sustituya conforme al Acuerdo de Paris.
+
+Décimo Séptimo. Durante el ejercicio fiscal de 2017, para efectos del supuesto previsto en el artículo 21 Bis, fracción VIII, inciso b) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, referente al reintegro de recursos que las Entidades Federativas deben realizar al Fondo de Estabilización de los Ingresos de las Entidades Federativas, la Secretaría de Hacienda y Crédito Público compensará dicho reintegro en parcialidades contra las participaciones federales de la Entidad Federativa de que se trate, sin ninguna carga financiera adicional, dentro del término de seis meses contados a partir del día siguiente a aquél en el que se comunique a la Entidad Federativa el monto que deberá reintegrar.
+
+Décimo Octavo. La Secretaría de Hacienda y Crédito Público para el ejercicio fiscal de 2017, deberá reportar en los Informes Trimestrales que se presenten al Congreso de la Unión en términos del artículo 107, fracción I, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la evolución del precio del petróleo observado respecto del cubierto mediante la Estrategia de Coberturas Petroleras para el ejercicio fiscal 2017, así como de la subcuenta que se haya constituido como complemento en el Fondo de Estabilización de los Ingresos Presupuestarios.
+
+Décimo Noveno. Con el propósito de coadyuvar a la transparencia y al análisis de la política fiscal, así como de facilitar el estudio de la distribución del ingreso entre la población y del efecto de la política tributaria sobre dicha distribución, en el ejercicio fiscal 2017 la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, deberá hacer pública información estadística anónima de las declaraciones anuales del impuesto sobre la renta de los contribuyentes personas físicas y morales. En ningún caso, la información pública podrá contener datos sobre el nombre, denominación o razón social y clave del registro federal de contribuyentes o información que permita la identificación del contribuyente.
+
+El Servicio de Administración Tributaria determinará las características, fuentes, metodología y periodo de la información estadística a publicar, misma que dará a conocer en su página de Internet. La información estadística será actualizada cada dos años.
+
+Vigésimo. En el ejercicio fiscal de 2017, la Secretaría de Hacienda y Crédito Público a través del Servicio de Administración Tributaria deberá publicar por lo menos dos estudios sobre la evasión fiscal en México. En la elaboración de dichos estudios deberán participar instituciones académicas de prestigio en el país, instituciones académicas extranjeras, centros de investigación, organismos o instituciones nacionales o internacionales que se dediquen a la investigación o que sean especialistas en la materia. Por lo menos uno de los estudios contendrá el análisis de la evasión fiscal por tipo de impuesto y utilizará información del ejercicio fiscal más reciente para el que ésta se encuentre disponible. Sus resultados deberán darse a conocer a las Comisiones de Hacienda y Crédito Público de ambas Cámaras del Congreso de la Unión, a más tardar 35 días después de terminado el ejercicio fiscal de 2017.
+
+Vigésimo Primero. Con el fin de dar continuidad al cumplimiento de lo establecido por el Sexto Transitorio, párrafo quinto del “Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía”, publicado el 20 de diciembre de 2013 en el Diario Oficial de la Federación, así como por el Décimo Segundo transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2016, y de conformidad con lo establecido en el artículo 7o. de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, la Secretaría de Energía deberá determinar durante el ejercicio fiscal 2017 el justo valor económico de las inversiones afectadas solicitado por Petróleos Mexicanos y la Secretaría de Hacienda y Crédito Público podrá autorizar a Petróleos Mexicanos a deducir de los pagos provisionales mensuales del derecho por la utilidad compartida del ejercicio fiscal de 2017, el justo valor económico de las inversiones afectadas que no hubiera sido compensado durante el 2016 conforme a lo dispuesto en el Décimo Segundo transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2016.
+
+Para la determinación del justo valor económico al que hace referencia el párrafo anterior, la Secretaría de Energía deberá considerar todas las inversiones hechas en las áreas en exploración y campos en producción que Petróleos Mexicanos tuviera previo a la entrada en vigor del Decreto antes mencionado, que en el proceso de la Ronda Cero hubiera solicitado y que no le fueron otorgadas como asignaciones.
+
+En adición al anterior, y de acuerdo al procedimiento establecido en el presente transitorio, la contraprestación que reciba Petróleos Mexicanos durante el ejercicio fiscal 2017 deberá incluir el justo valor económico correspondiente a sus inversiones que hayan resultado afectadas con motivo de las adjudicaciones de contratos para la exploración y extracción de hidrocarburos, efectuadas por la Comisión Nacional de Hidrocarburos derivados de la licitación CNH-R01-L04/2015, realizada durante el ejercicio fiscal 2016.
+
+Vigésimo Segundo. Petróleos Mexicanos difundirá en su portal de Internet una versión pública de su Plan de Negocios, misma que no deberá contener información que pudiera comprometer o poner en riesgo sus estrategias comerciales.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2017.
+
+Único. El presente Decreto entrará en vigor conforme a lo siguiente:
+
+I. El Artículo Primero, el 1 de enero de 2017, salvo lo dispuesto en los transitorios Décimo Segundo y Décimo Cuarto de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, los cuales entrarán en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto, y
+
+II. El Artículo Segundo, al día siguiente de su publicación en el Diario Oficial de la Federación.
