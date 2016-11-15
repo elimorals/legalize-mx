@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2016-09-27"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -405,9 +405,31 @@ XXVIII. Resolver las solicitudes de condonación y cancelación de créditos fis
 
 XXIX. Notificar todo tipo de actos administrativos;
 
-XXX. Apoyar a la Contraloría Gubernamental en el diseño, administración y operación del Sistema de Evaluación del Desempeño del gasto público con el fin de conocer los resultados en el cumplimiento de objetivos y metas establecidos en la administración pública estatal; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXX. Apoyar a la Contraloría Gubernamental en el diseño, administración y operación del Sistema de Evaluación del Desempeño del gasto público con el fin de conocer los resultados en el cumplimiento de objetivos y metas establecidos en la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXI. Contar con un área encargada de evaluar el análisis socioeconómico, inherente al ejercicio o contratación de cualquier programa o proyecto de inversión en los términos que establece la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública productiva del Estado; las evaluaciones deberán ser publicadas a través de la página oficial de la dependencia;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXII. Publicar en la página oficial de la dependencia la información relativa a subsidios, en donde se identifique la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII. Realizar la estimación del impacto presupuestario de las iniciativas de ley o decreto que se presenten a la consideración del Congreso del Estado, así como de las disposiciones administrativas que impliquen costos para su implementación;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV. Otorgar apoyo técnico a los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población oficial, en la formulación de las proyecciones y resultados de sus finanzas públicas, en la elaboración de su Ley de Ingresos y del proyecto de Presupuesto de Egresos, las cuales comprenderán solo un año;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXV. Efectuar la evaluación del cumplimiento de obligaciones de responsabilidad hacendaria en materia de deuda estatal garantizada a cargo de los Municipios, debiendo remitirla trimestralmente a la Secretaría de Hacienda y Crédito Público del Gobierno Federal, debiendo publicar a través de su respectiva página oficial de internet el resultado de la citada evaluación; así como también enviar trimestralmente la información correspondiente a cada financiamiento y obligación del Estado y de cada uno de sus entes públicos para la actualización del Registro Público Único a cargo de la citada dependencia federal; y
+
+XXXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección IV. De la Secretaría de Administración
 
@@ -1366,3 +1388,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiséis días del mes de septiembre del año dos mil dieciséis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-6 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondiente en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
