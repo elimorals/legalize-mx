@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-08-05"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE AGOSTO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. DEL 5 DE AGOSTO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 4 DE AGOSTO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -98,7 +96,7 @@ La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos q
 
 I. Secretaría Particular del Jefe de Gobierno;
 
-II. Jefatura de la Oficina de la Jefatura de Gobierno;
+II. (DEROGADA, G.O. 15 DE NOVIEMBRE DE 2016)
 
 III. Las demás que le sean adscritas conforme a las disposiciones jurídicas y administrativas aplicables.
 
@@ -1072,31 +1070,9 @@ XVI. Celebrar aquellos convenios y contratos que se relacionen directamente con 
 
 XVII. Las demás que le señalen las disposiciones jurídicas y administrativas o el Jefe de Gobierno.
 
-> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2007)</small>
-
 ###### Artículo 26 Bis.
 
-Corresponde al Jefe de la Oficina de la Jefatura de Gobierno:
-
-I. (DEROGADA, G.O. 23 DE AGOSTO DE 2013)
-
-II. Proporcionar al Jefe de Gobierno los apoyos necesarios para la planeación, organización, dirección, control y evaluación de los asuntos que le competen;
-
-III. Establecer, previo acuerdo del Jefe de Gobierno, las directrices y mecanismos de coordinación y colaboración entre las diversas dependencias y entidades de la Administración Pública del Distrito Federal;
-
-IV. Turnar y dar seguimiento a los acuerdos, instrucciones y peticiones del Jefe de Gobierno;
-
-V. Dirigir y coordinar la integración de los informes que presentará el Jefe de Gobierno sobre el estado que guarda la Administración Pública del Distrito Federal;
-
-VI. Establecer la agenda de trabajo y de actos públicos del Jefe de Gobierno;
-
-VII. Dirigir y evaluar las tareas de Comunicación Social, Imagen Institucional y de Opinión Pública del Jefe de Gobierno y coordinar las acciones que en esta materia lleven a cabo las dependencias y entidades de la Administración Pública del Distrito Federal;
-
-VIII. Apoyar al Jefe de Gobierno en la coordinación y supervisión de los Gabinetes de la Administración Pública del Distrito Federal, estableciendo las directrices para el seguimiento de programas, proyectos y demás responsabilidades a cargo de las dependencias y entidades de la Administración Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2013)</small>
-
-IX. Las demás que le sean conferidas por el Jefe de Gobierno.
+(DEROGADO, G.O. 15 DE NOVIEMBRE DE 2016)
 
 ### Capítulo II. De las atribuciones del titular de la Oficialía Mayor
 
@@ -4620,6 +4596,10 @@ VII. Diseñar, promover y ejecutar programas y acciones en materia de diversidad
 
 (DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
+###### Artículo 64 Ter.
+
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
+
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
 Artículo 64 Cuater.- Corresponde a la Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal:
@@ -4639,10 +4619,6 @@ VI. Promover la creación de diversos mecanismos de financiamiento público y pr
 VII. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
 
 VIII. Prestar asistencia jurídica y orientación social a los sujetos de la asistencia social.
-
-###### Artículo 64 Ter.
-
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
 
 #### SECCION VIII
 
@@ -19158,8 +19134,18 @@ CUARTO.- Se derogan todas las disposiciones reglamentarias o administrativas que
 
 G.O. 5 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA "FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 130, DEL 4 DE AGOSTO DE 2016".]
+## [N. DE E. TRANSITORIOS DE LA “FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 130, DEL 4 DE AGOSTO DE 2016”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- La presente Fe de erratas entrará en vigor el día de su publicación.
+
+G.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las disposiciones jurídicas y administrativas delegatorios de atribuciones para la Jefatura de la Oficina de la Jefatura de Gobierno quedan sin efectos a partir de la entrada en vigor del presente Decreto.
