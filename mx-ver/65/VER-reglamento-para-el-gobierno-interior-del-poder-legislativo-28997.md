@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2016-06-24"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE NOVIEMBRE DE 2016 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -325,9 +327,11 @@ IV. Cuando se profieran ofensas contra personas; y
 
 V. Cuando un diputado se exceda del tiempo concedido para el uso de la palabra previsto en este Reglamento.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 21.
 
-El Presidente o el de la Permanente, para salvaguardar el orden y la seguridad del recinto y de las personas que se encuentren en él, podrán ordenar que el personal de vigilancia intervenga. Cuando lo estime pertinente solicitará el auxilio de la fuerza pública, la que quedará bajo sus órdenes para lo que fuere necesario.
+El Presidente o Presidenta del Pleno o de la Permanente, en todo momento deberá salvaguardar el orden y la seguridad del recinto y de las personas que se encuentren en él y será el personal de vigilancia del Congreso el que de manera exclusiva realice esta tarea, por lo que personal de ningún otro poder o dependencia podrá intervenir en esta función. Cuando lo estime pertinente, el Presidente o Presidenta solicitará el auxilio de la fuerza pública, la que quedará bajo sus órdenes para lo que fuere necesario.
 
 ## TÍTULO TERCERO. De la Organización y Funcionamiento del Congreso
 
@@ -1343,9 +1347,21 @@ III. Cuando se delibere o discuta una ley o se estudie un asunto relativo a sus 
 
 Las comparecencias se realizarán ante las comisiones correspondientes, en el lugar que determine la Junta de Coordinación Política, para lo cual informará al Pleno sobre el particular.
 
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+Los titulares de las dependencias y entidades de la Administración Pública del Gobierno del Estado de Veracruz de Ignacio de la Llave, que comparezcan ante el Congreso, evitarán hacer por cualquier medio promoción de su persona, podrán hacerse acompañar de hasta veinte colaboradores para auxiliarles en sus labores de informe y se abstendrán directa o indirectamente de realizar en sus comparecencias actos multitudinarios dentro y fuera del recinto legislativo.
+
 El Congreso podrá convocar a los titulares de las dependencias y entidades de la administración pública, que considere conveniente, a comparecer ante el Pleno, cuando el asunto a tratar así lo requiera. Las comparecencias quedan sujetas a las reglas generales siguientes:
 
 I. El Presidente, a propuesta de la Junta de Coordinación Política, informará al titular del Poder Ejecutivo, el programa de las comparecencias, así como la fecha, hora y lugar de su realización;
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+I Bis. El Presidente o Presidenta del Pleno o de la Permanente, solicitará a los titulares de las dependencias y entidades de la Administración Pública del Estado de Veracruz de Ignacio de la Llave, que comparezcan, la relación de funcionarios, invitados y personal de apoyo técnico que los acompañarán a la glosa; asimismo, solicitará que cada servidor público compareciente envíe, con cuarenta y ocho horas de anticipación, el texto de su presentación. El presidente de la Comisión lo distribuirá a todos los diputados, por lo menos treinta y seis horas antes de la comparecencia;
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+I Ter. Durante el desarrollo de las comparecencias, la seguridad del recinto y de las personas estará a cargo exclusivamente del personal del Congreso, el que, en ningún caso, podrá ser sustituido o desplazado por el de otro poder o dependencia. Las comparecencias serán públicas, siempre y cuando el aforo no exceda el límite o la capacidad del recinto, que ponga en riesgo la seguridad e integridad de los asistentes;
 
 II. Las comparecencias serán coordinadas y conducidas por la comisión o comisiones encargadas del ramo a excepción de las efectuadas ante el Pleno, las que serán conducidas por la Directiva;
 
@@ -1355,7 +1371,13 @@ III. A su llegada al recinto, el servidor público será recibido por la comisi�
 
 III Bis. El presidente de la comisión, antes de la exposición del compareciente, hará saber a éste que, en términos de los artículos 49, fracción XXI, de la Constitución y 40 de la Ley, se encuentra obligado a decir verdad en la información que rinda; acto seguido, le interrogará de la forma siguiente: "¿Protesta usted decir verdad en cuanto a la información que proporcione y a las respuestas que emita a partir de los cuestionamientos que le formulen los integrantes de este Congreso?", a lo que el compareciente responderá: "Sí, protesto".
 
-IV. El compareciente hará uso de la voz en el momento en que lo indique el presidente de la comisión y expondrá su informe con apoyo de todos los medios que considere pertinentes, a fin de que éste sea lo más completo posible y basado en datos objetivos, el cual no excederá de treinta minutos. Cuando se esté en el caso previsto por la fracción II del artículo 153 de este Reglamento, el compareciente hará llegar al presidente de la comisión respectiva, cuando menos con cuarenta y ocho horas de anticipación, el texto de su exposición. El presidente de la comisión, lo distribuirá a todos los diputados, por lo menos treinta y seis horas antes de la comparecencia;
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+Acto seguido, el presidente lo apercibirá de la manera siguiente: "En caso de conducirse con falsedad, podrá hacerse acreedor a las sanciones penales, o administrativas a que haya lugar".
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+IV. El compareciente hará uso de la voz en el momento en que lo indique el presidente de la comisión y expondrá su informe con apoyo de todos los medios que considere pertinentes, a fin de que éste sea lo más completo posible y basado en datos objetivos, el cual no excederá de treinta minutos.
 
 V. Concluida la exposición, se abrirá el registro de participantes ante la comisión, para lo que se dispondrá de hasta diez minutos. Concluido el registro se abrirá el debate;
 
@@ -1367,9 +1389,17 @@ b) La tercera ronda, cuyo orden se determinará por insaculación, quedará inte
 
 c) Si algún diputado registrado ante la comisión no se encontrare presente cuando le toque su turno de preguntar, el presidente solicitará al grupo legislativo al que pertenezca si lo sustituye por otro diputado que no haya sido registrado; en caso contrario, se le concederá el turno al siguiente de la lista.
 
-VII. Cada pregunta deberá formularse en un término que no exceda de cinco minutos, y para la respuesta se dará el tiempo necesario, con el objeto de que se dé contestación a todas las preguntas;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Los diputados que no hubieren recibido respuesta a algunas de sus preguntas, tendrán derecho a solicitar al presidente de la comisión que éstas sean contestadas, para lo cual, el presidente requerirá al compareciente responderlas en un término no mayor de diez minutos; y
+VII. Cada pregunta deberá formularse en un término que no exceda de cinco minutos, y para la respuesta se dará un tiempo máximo de diez minutos, con el objeto de que se dé contestación a todas las preguntas;
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Los diputados que no hubieren recibido respuesta a alguna de sus preguntas, podrán requerir al compareciente responderlas en un término no mayor a cinco minutos. En caso de que el servidor se comprometa a entregar información que satisfaga las preguntas requeridas, deberá hacerla llegar en un plazo de cuarenta y ocho horas, en caso de no hacerlo, la Junta de Coordinación Política presentará un punto de acuerdo dirigido al Ejecutivo para que conteste este último con vista a la Contraloría.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+Al finalizar la última intervención del compareciente se le concederá al diputado el uso de la voz hasta por dos minutos.
 
 IX. El presidente de la comisión agradecerá al servidor público su presencia y dará por concluida la comparecencia.
 
@@ -1662,3 +1692,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2 QUE REFORMA LOS ARTÍCULOS 21 Y 154 EN SUS FRACCIONES IV, VII Y VIII; SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIENDO EN SU ORDEN EL SUBSECUENTE, LAS FRACCIONES I BIS Y I TER Y UN SEGUNDO PÁRRAFO A LAS FRACCIONES III BIS Y VIII DEL ARTÍCULO 154, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
