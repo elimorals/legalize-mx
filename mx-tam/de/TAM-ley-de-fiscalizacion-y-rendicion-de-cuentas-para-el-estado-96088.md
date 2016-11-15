@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-para-el-estado-9608
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2016-09-27"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -279,9 +279,21 @@ XXV.- Elaborar su Reglamento Interior y las modificaciones respectivas, debiendo
 
 XXVI.- Llevar el registro de los bienes muebles e inmuebles que adquiera de acuerdo a la Ley General;
 
-XXVII.- Aplicar la presente ley e interpretarla en el ámbito administrativo para el ejercicio de las funciones de su competencia; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXVIII.- Las demás que expresamente señalen la Constitución, esta y otras leyes del Estado.
+XXVII.- Aplicar la presente ley e interpretarla en el ámbito administrativo para el ejercicio de las funciones de su competencia;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXVIII.- Para la inscripción en el Registro Público Único, estipulado en la Ley de Disciplina financiera de las Entidades Federativas y los Municipios, deberá emitir la opinión en la que manifieste si los entes públicos cumplen con la publicación de información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXIX.- Fiscalizar el cumplimiento de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXX.- Las demás que expresamente señalen la Constitución, ésta y otras leyes del Estado.
 
 ###### ARTÍCULO 12.
 
@@ -1402,3 +1414,19 @@ P.O. 27 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día 1o. de octubre de 2016.
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-6 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondiente en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
