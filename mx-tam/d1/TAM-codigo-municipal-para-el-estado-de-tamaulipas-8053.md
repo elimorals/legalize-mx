@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2016-07-14"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1101,7 +1101,9 @@ VII.- Llevar al corriente el padrón fiscal municipal y practicar revisiones y a
 
 VIII.- Formular, conservar y registrar un inventario detallado de los bienes municipales, dando cuenta al Ayuntamiento en el mes de diciembre de cada año.
 
-IX.- Planear y proyectar oportunamente los presupuestos anuales de ingresos y egresos del Municipio.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+IX.- Planear y proyectar oportunamente los presupuestos anuales de ingresos y egresos del Municipio, con base en las reglas de disciplina financiera, debiendo contribuir al Balance presupuestario sostenible.
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
 
@@ -1121,9 +1123,13 @@ XIV.- Administrar el ejercicio del gasto público del Municipio con un enfoque d
 
 XV.- Evaluar el ejercicio del gasto público del Municipio, a través de una entidad externa, con base en los indicadores para la evaluación del desempeño.
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XVI.- En materia de contratación de deuda pública, ser el responsable de confirmar que los financiamientos sean celebrados en las mejores condiciones del mercado.
+
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVI.- Las demás que le señalen las leyes y reglamentos.
+XVII.- Las demás que le señalen las leyes y reglamentos.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -2157,15 +2163,15 @@ Para los efectos del artículo anterior se podrá ordenar la práctica de visita
 
 Los Ayuntamientos sólo podrán concertar créditos destinados a inversiones públicas productivas o de desarrollo social, consideradas en los planes y programas de desarrollo municipal previa aprobación del Congreso.
 
-### CAPITULO I. DE LOS SERVICIOS PUBLICOS
+### CAPITULO UNICO. DEL BALANCE PRESUPUESTARIO SOSTENIBLE Y LA RESPONSABILIDAD HACENDARIA DE LOS MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 156.
 
 Los presupuestos de egresos de los Municipios serán aprobados por sus respectivos Ayuntamientos con base en sus ingresos disponibles, y considerando el Plan Municipal de Desarrollo y sus programas derivados, y los convenios y acuerdos de coordinación que celebren en los términos de este Código.
 
-Los presupuestos se formularán para cada año calendario e incluirán el señalamiento de programas, su vinculación, alineación y congruencia específica con el Plan Municipal de Desarrollo, comprendiendo objetivos, acciones, metas y unidades responsables de su ejecución, así como parámetros cuantificables e indicadores de desempeño institucional. Los programas contemplados en el Plan Municipal de Desarrollo en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación del desempeño institucional.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2005)</small>
 
@@ -2233,9 +2239,9 @@ VII.- La calendarización del gasto público de conformidad con las clasificacio
 
 VIII.- Las demás previsiones que se estimen necesarias.
 
-### CAPITULO II. DE LA PLANEACION MUNICIPAL
+### CAPITULO I. DE LOS SERVICIOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 160.
 
@@ -2287,7 +2293,9 @@ Los Ayuntamientos estarán obligados a proporcionar al órgano de control del ga
 
 El Congreso del Estado revisará la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado de Tamaulipas, aplicando en lo conducente las disposiciones contenidas en la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
-### CAPITULO III. DE LA COORDINACION, CONCERTACION E INDUCCION
+### CAPITULO II. DE LA PLANEACION MUNICIPAL
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 168.
 
@@ -2313,13 +2321,81 @@ Los municipios presentarán información al Congreso del Estado sobre la aplicac
 
 El registro contable de las operaciones y la emisión de información financiera de las entidades a que se refiere este artículo, se realizarán conforme a lo dispuesto en el presente Código, así como a lo que establece la Ley General de Contabilidad Gubernamental, y demás disposiciones aplicables en la materia.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+## TITULO TERCERO BIS. REGLAS DE DISCIPLINA FINANCIERA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO III. DE LA COORDINACION, CONCERTACION E INDUCCION
+
+###### ARTICULO 169 Bis.
+
+El presente capítulo tiene por objeto establecer los criterios generales de responsabilidad hacendaria y financiera que regirán a los municipios, así como a sus respectivos entes públicos para un manejo sostenible de sus finanzas públicas.
+
+Los municipios y sus entes públicos se sujetarán a las disposiciones establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 169 Ter.
+
+Las iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos de los Municipios se deberán elaborar conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
+
+Las Leyes de Ingresos y los Presupuestos de Egresos de los Municipios deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación, así como aquellas transferencias de la Entidad Federativa correspondiente.
+
+Los Municipios, en adición a lo previsto en los párrafos anteriores, deberán incluir en las iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos:
+
+I.- Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica.
+
+Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+II.- Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
+
+III.- Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
+
+IV.- Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+Las proyecciones y resultados a que se refieren las fracciones I y III, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Finanzas para cumplir lo previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 169 Quater.
+
+El Gasto total propuesto por el Ayuntamiento del Municipio en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance presupuestario sostenible.
+
+El Ayuntamiento del Municipio deberá generar Balances presupuestarios sostenibles. Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero.
+
+El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Debido a las razones excepcionales a que se refiere el artículo 7 de la ley antes señalada, el Congreso del Estado podrá aprobar un Balance presupuestario de recursos disponibles negativo para el Municipio respectivo.
+
+Para tal efecto, el tesorero municipal, será responsable de cumplir lo previsto en el artículo 6, párrafos tercero, cuarto y quinto de la misma Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 169 Quinquies.
+
+Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2.5 por ciento de los Ingresos totales del respectivo Municipio.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 169 Sexies.
+
+Los Municipios y sus Entes Públicos deberán observar las disposiciones establecidas en los artículos 8, 10, 11, 14, 15 y 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Adicionalmente, los Municipios y sus Entes Públicos deberán observar lo previsto en el artículo 13 de la ley antes señalada. Lo anterior, con excepción de la fracción III, segundo párrafo de dicho artículo, la cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por las autoridades municipales competentes.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 169 Septies.
+
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la legislación inherente a las responsabilidades administrativas de los servidores públicos y demás disposiciones aplicables, en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+
 ## TITULO CUARTO. DE LOS SERVICIOS PUBLICOS Y DESARROLLO MUNICIPAL
 
 ### CAPITULO IV. DE LOS COMITES DE PLANEACION PARA EL DESARROLLO MUNICIPAL
-
-## TITULO QUINTO. DE LAS RELACIONES LABORALES ENTRE LOS AYUNTAMIENTOS Y SUS TRABAJADORES
-
-### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 170.
 
@@ -2497,9 +2573,7 @@ Para resolver la cancelación o la caducidad de cualquiera de los actos señalad
 
 Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de las concesiones, contratos de obra pública y suministros, así como de prestación de servicios de cualquier naturaleza que otorgue el Municipio a los particulares, podrán ser impugnadas en los términos del procedimiento fijado en el Capítulo II del Título Sexto de este Código.
 
-### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 182.
 
@@ -2519,7 +2593,13 @@ Los Ayuntamientos deberán formular y aprobar los respectivos planes municipales
 
 Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades para el desarrollo integral del Municipio; sus planteamientos se referirán al conjunto de la actividad económica y social, y contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales, e indicarán los programas sectoriales institucionales, regionales y especiales. Las dependencias encargadas de su ejecución elaborarán programas operativos anuales, en concordancia con los planes Nacional y Estatal de Desarrollo.
 
-Los programas operativos anuales, que deberán ser congruentes entre sí, servirán de base para la integración de los proyectos de presupuestos anuales de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+Los programas contemplados en el plan municipal de desarrollo en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación del desempeño institucional.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+Las dependencias encargadas de su ejecución elaborarán programas operativos anuales, en concordancia con los planes Nacional y Estatal de Desarrollo, los cuales deberán ser congruentes entre sí, servirán de base para la integración de los proyectos de presupuestos anuales de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
@@ -2555,7 +2635,9 @@ Todo cambio realizado al Plan Municipal de Desarrollo con motivo de su perfeccio
 
 El titular del área responsable de la planeación municipal vigilará que se cumpla con los objetivos, estrategias y prioridades del Plan Municipal de Desarrollo, y de los planes sectoriales que de él se deriven, y la Contraloría Municipal vigilará que la ejecución de los programas se realice conforme a sus previsiones.
 
-### CAPITULO III. DE LA JORNADA DE TRABAJO, DESCANSO Y VACACIONES
+### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 189.
 
@@ -2587,7 +2669,7 @@ Los servidores públicos del Municipio que en el ejercicio de sus funciones cont
 
 De las controversias que surjan con motivo de convenios que celebren los municipios con el Estado o entre sí, conocerá en única instancia el Supremo Tribunal de Justicia conforme a las normas del juicio ordinario civil.
 
-### CAPITULO IV. DE LOS SALARIOS
+### CAPITULO III. DE LA JORNADA DE TRABAJO, DESCANSO Y VACACIONES
 
 ###### ARTICULO 195.
 
@@ -2633,17 +2715,13 @@ El decreto que expida el Congreso fijará en cada caso las bases de organizació
 
 Las remuneraciones a los integrantes del Comité quedarán a cargo de las dependencias, entidades y organismos que los hubiere designado.
 
+## TITULO QUINTO. DE LAS RELACIONES LABORALES ENTRE LOS AYUNTAMIENTOS Y SUS TRABAJADORES
+
 ## TITULO SEXTO. DEL ARCHIVO GENERAL DEL MUNICIPIO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-## TITULO SEPTIMO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
-
-(REUBICADO, P.O. 20 DE ABRIL DE 2004)
-
-### CAPITULO V
-
-DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS.
+### CAPITULO IV. DE LOS SALARIOS
 
 ###### ARTICULO 199.
 
@@ -2779,7 +2857,9 @@ Cuando se trate de plazas de nueva creación, la clasificación de base o de con
 
 En todo lo no previsto en el presente Título que regula las relaciones laborales entre los Ayuntamientos y sus respectivos trabajadores de base, se aplicarán supletoriamente las disposiciones contenidas en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas y las Condiciones Generales de Trabajo que expida el Ayuntamiento correspondiente, las cuales surtirán efecto a partir de su depósito en el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
 
-### CAPITULO VI. DE LAS OBLIGACIONES DE LOS TRABAJADORES
+### CAPITULO V
+
+DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS.
 
 ###### ARTICULO 206.
 
@@ -2827,7 +2907,7 @@ El nombramiento aceptado obliga a cumplir con los deberes inherentes al mismo y 
 
 En ningún caso la sustitución o el relevo de los servidores públicos del Ayuntamiento deberá afectar los derechos de los trabajadores de base.
 
-### CAPITULO VII. LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DEL TRABAJADOR
+### CAPITULO VI. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
 ###### ARTICULO 212.
 
@@ -2869,9 +2949,7 @@ Los trabajadores que tengan más de seis meses consecutivos de servicio, disfrut
 
 Durante las horas de jornada legal, los trabajadores tendrán obligación de desarrollar las actividades cívicas que fueran compatibles con su edad y condición de salud, cuando así lo disponga el Ayuntamiento.
 
-### CAPITULO VIII. DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+### CAPITULO VII. LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DEL TRABAJADOR
 
 ###### ARTICULO 222.
 
@@ -2909,9 +2987,9 @@ Fuera de lo establecido en el artículo que antecede, el salario no es susceptib
 
 Las horas extras de trabajo se pagarán con un cien por ciento más del salario asignado a las horas de jornada ordinaria.
 
-### CAPITULO IX. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO
+### CAPITULO VIII. DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 228.
 
@@ -2953,7 +3031,9 @@ VII.- Proporcionar al trabajador los útiles, instrumentos y materiales necesari
 
 VIII.- Proporcionar de acuerdo a su capacidad económica los servicios de seguridad social a los trabajadores.
 
-### CAPITULO X. DE LA HUELGA
+### CAPITULO IX. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
 ###### ARTICULO 229.
 
@@ -2975,7 +3055,7 @@ VII.- Evitar toda clase de propaganda durante las horas de trabajo.
 
 VIII.- Asistir a cursos de capacitación, para mejorar su preparación y eficiencia, cuando sean requeridos para ello.
 
-### CAPITULO XI. DE LAS PRESCRIPCIONES
+### CAPITULO X. DE LA HUELGA
 
 ###### ARTICULO 230.
 
@@ -2989,7 +3069,7 @@ III.- La existencia de alguna irregularidad en su gestión cuando el trabajador 
 
 IV.- Con motivo de la suspensión no se prestará el servicio y en el caso de las tres últimas fracciones no se pagará sueldo.
 
-### CAPITULO XII. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DE LOS MUNICIPIOS
+### CAPITULO XI. DE LAS PRESCRIPCIONES
 
 ###### ARTICULO 231.
 
@@ -3053,7 +3133,7 @@ Cuando el trabajador incurra en alguna de las causales de recisión previstas en
 
 En el supuesto de que por causa justificada no se efectúe la notificación referida, deberá hacerse la constancia relativa y comunicarse dentro del plazo de 5 días hábiles al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, para que éste le notifique personalmente al trabajador en el domicilio señalado, produciendo dicha notificación efectos plenos, aún cuando no se le localice.
 
-### CAPITULO XIII. DEL PROCEDIMIENTO
+### CAPITULO XII. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE DE LOS MUNICIPIOS
 
 ###### ARTICULO 232.
 
@@ -3175,9 +3255,7 @@ En los casos de violación a lo dispuesto en el artículo 242 y previo el proced
 
 Las remuneraciones que se paguen a los directivos y empleados de los sindicatos y, en general, los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del sindicato de que se trate.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+### CAPITULO XIII. DEL PROCEDIMIENTO
 
 ###### ARTICULO 248.
 
@@ -3263,7 +3341,7 @@ V.- Por laudo del Tribunal.
 
 Al resolverse que una declaración de huelga es legal, el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, a petición del Ayuntamiento y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligados a mantener en el desempeño de su labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones, la conservación de las oficinas, talleres y demás instalaciones, o signifique un peligro para la salud pública; en caso de negativa, el Ayuntamiento designará al personal que pueda desempeñarlos.
 
-### CAPITULO II. DE SU PATRIMONIO DOCUMENTAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3299,7 +3377,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPÍTULO III. DE SU ORGANIZACION Y FUNCIONES
+### CAPITULO II. DE SU PATRIMONIO DOCUMENTAL
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3337,7 +3415,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPITULO IV. DEL CONSEJO CONSULTIVO
+### CAPÍTULO III. DE SU ORGANIZACION Y FUNCIONES
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3419,11 +3497,11 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-## TÍTULO OCTAVO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
+## TITULO SEPTIMO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+(REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
-### CAPITULO V. DEL SERVICIO AL PUBLICO
+### CAPITULO IV. DEL CONSEJO CONSULTIVO
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3455,9 +3533,9 @@ VII.- Los demás que se desprendan de los ordenamientos legales aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPITULO I. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO V. DEL SERVICIO AL PUBLICO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 295], P.O. 20 DE ABRIL DE 2004)
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 297.
 
@@ -3515,9 +3593,9 @@ La clasificación y catalogación de los acervos documentales con valor históri
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO I. DE LAS SANCIONES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 295], P.O. 20 DE ABRIL DE 2004)
 
 ###### ARTICULO 301.
 
@@ -3605,9 +3683,9 @@ El Archivo General del Municipio podrá formar parte del sistema estatal o nacio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 312.
 
@@ -3623,7 +3701,7 @@ Las declaratorias deducidas del Capítulo II de este Título serán emitidas por
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -3659,9 +3737,13 @@ En la prestación de los servicios al público del Archivo General del Municipio
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2004)</small>
 
-### CAPÍTULO TERCERO. DEL JUICIO DE NULIDAD
+## TÍTULO OCTAVO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 318.
 
@@ -3693,9 +3775,9 @@ VIII.- Trabajo en favor de la comunidad.
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO SUMARIO
+### CAPÍTULO TERCERO. DEL JUICIO DE NULIDAD
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 319.
 
@@ -3746,6 +3828,10 @@ IV.- Cuando se trate de pago de multas, se garantice el importe ante la Tesorer�
 V.- Que no se causen daños o perjuicios a terceros, o que se garanticen éstos para el caso de no obtener resolución favorable por el monto que fije discrecionalmente la autoridad administrativa, bajo su responsabilidad.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO SUMARIO
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 324.
 
@@ -5932,3 +6018,19 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-6 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondiente en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
