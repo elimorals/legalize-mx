@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2016-05-18"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -149,7 +149,7 @@ No procede el juicio político por la mera expresión de ideas.
 
 Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde un año hasta cinco años.
 
-### CAPITULO SEGUNDO (SIC)
+### CAPITULO SEGUNDO
 
 PROCEDIMIENTO EN EL JUICIO POLITICO.
 
@@ -477,13 +477,17 @@ XXV.- Aplicar con imparcialidad los recursos públicos que están bajo su respon
 
 XXVI.- Capacitarse en materia de Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXVII.- Los servidores públicos de las instituciones de educación superior estatales, los centros públicos de investigación estatales y las entidades de la administración pública estatal a que se refiere el artículo 40 de la Ley de Fomento a la Investigación Científica y Tecnológica en el Estado de Tamaulipas, que con tal carácter y de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica y tecnológica podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios. Dichas actividades podrán ser, además de las previstas en el citado artículo, la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas de base tecnológica, o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos servidores públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o cualquier otro concepto, sin respetar la normatividad institucional. El órgano de control interno respectivo verificará el cumplimiento de dicha normatividad, respetando la autonomía de la que goce, en su caso, la institución, centro o entidad; y
+XXVII.- Los servidores públicos de las instituciones de educación superior estatales, los centros públicos de investigación estatales y las entidades de la administración pública estatal a que se refiere el artículo 40 de la Ley de Fomento a la Investigación Científica y Tecnológica en el Estado de Tamaulipas, que con tal carácter y de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica y tecnológica podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios. Dichas actividades podrán ser, además de las previstas en el citado artículo, la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas de base tecnológica, o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos servidores públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o cualquier otro concepto, sin respetar la normatividad institucional. El órgano de control interno respectivo verificará el cumplimiento de dicha normatividad, respetando la autonomía de la que goce, en su caso, la institución, centro o entidad;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXVIII.- Abstenerse de realizar actos o incurrir en omisiones que impliquen el incumplimiento de los preceptos establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables en la materia; y
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XXVIII.- Las demás que le impongan las leyes y reglamentos.
+XXIX.- Las demás que le impongan las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -1056,3 +1060,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones, centros y entidades referidas que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica, deberán emitir y hacer pública su normatividad institucional en un plazo no mayor a 180 días a partir de la publicación del presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-6 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondiente en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
