@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-coordinadora-de-fomento-al-75454"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-11"
-last_updated: "2010-06-11"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINADORA DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINADORA DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COORDINADORA DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de junio de 2010.
 
@@ -1382,3 +1384,65 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 174 MEDIANTE EL CUAL, SE EXPIDE EL REGLAMENTO INTERIOR DE LA COORDINADORA DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE GUANAJUATO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 272, MEDIANTE EL CUAL, SE REESTRUCTURA LA ORGANIZACIÓN INTERNA DE LA COORDINADORA DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 112, SEGUNDA PARTE, DE FECHA 14 JULIO DE 2006”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Coordinadora de Fomento al Comercio Exterior del Estado de Guanajuato, contenido en el Decreto Gubernativo número 139, publicado en el Periódico Oficial del Gobierno del Estado número 93, segunda parte, de fecha 11 de junio de 2010.
+
+Referencia a las nuevas denominaciones de las unidades administrativas de COFOCE
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo, cualquier referencia que en decretos, reglamentos, acuerdos, convenios u otros instrumentos jurídicos se haya hecho a las unidades administrativas modificadas en su denominación por este Decreto, para todos los efectos se entenderán hechas a su nueva denominación como lo muestra el siguiente cuadro comparativo:
+
+Denominación Anterior Denominación Actual
+
+Dirección General de Se fusiona a la Dirección General de
+
+Captación a Clientes Promoción para la Exportación
+
+Dirección General de Formación Dirección General de Capacitación y
+
+y Aceleración de Empresas Certificaciones Internacionales
+
+Dirección General de Inteligencia Se fusiona a la Dirección General
+
+Sectorial
+
+Dirección de Finanzas y Dirección Financiera y de
+
+Administración Administración
+
+Dirección Sectorial Textil y Dirección Sectorial Moda y Vestir
+
+de la Confección
+
+Dirección Sectorial de Dirección Sectorial de Industrias y
+
+Industrias en Desarrollo Servicios
+
+Dirección de Mercadotecnia Dirección de Comercio Exterior y
+
+Logística
+
+Comités Sectoriales Comités de Clúster
+
+Asuntos en trámite
+
+Artículo Cuarto.- Los asuntos que se encuentren en trámite ante las unidades administrativas de la COFOCE que cambian su denominación, serán atendidos hasta su culminación por las nuevas unidades administrativas, de conformidad con el cuadro comparativo descrito en el artículo anterior.
+
+Término para expedir lineamientos
+
+Artículo Quinto.- El Consejo Directivo de la Coordinadora de Fomento al Comercio Exterior del Estado de Guanajuato, deberá expedir en un término de sesenta días contados o partir de la entrada en vigencia del presente Decreto, los lineamientos o políticas que permitan la cancelación de cuentas y créditos que por su naturaleza y determinación se consideren incobrables y que sean derivados de ingresos propios de los establecidos en la fracción IV del artículo 7 del Decreto Gubernativo número 272, publicado en el Periódico Oficial del Gobierno del Estado número 112, Segunda Parte, de fecha 14 de julio de 2006.
+
+Cambio de denominación del Consejo Consultivo
+
+Artículo Sexto.- A la entrada en vigencia del presente Decreto Gubernativo, cualquier referencia que en decretos, reglamentos, acuerdos, convenios u otros instrumentos jurídicos se haya hecho al Consejo Consultivo de la Coordinadora de Fomento al Comercio Exterior del Estado de Guanajuato, se entenderá hecha a su nueva denominación como Comisión de Comercio Exterior.
