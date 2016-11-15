@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2016-10-11"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1507,6 +1507,12 @@ d) Es iniciativa de acuerdo económico la que contiene un proyecto de resolució
 
 2. Dichas comisiones determinarán si son de tomarse en consideración, sobre la base de que algún o algunos diputados la hagan propia para ejercer el derecho de iniciativa y dar curso al procedimiento legislativo.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 94 BIS.
+
+Todo proyecto de ley o decreto que sea sometido al Pleno para su resolución definitiva, que implique un impacto al Presupuesto de Egresos del Estado, deberá incluir una estimación presupuestaria del proyecto. En su caso, el presidente de la Mesa Directiva o de la comisión correspondiente solicitará opinión a la Secretaría de Finanzas para este efecto.
+
 APARTADO B
 
 DE LOS DICTAMENES
@@ -2780,3 +2786,19 @@ P.O. 11 DE OCTUBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXIII-6 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondiente en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
