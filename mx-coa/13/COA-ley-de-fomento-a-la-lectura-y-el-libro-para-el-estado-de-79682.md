@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-lectura-y-el-libro-para-el-estado-de-79682"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-15"
-last_updated: "2016-08-09"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 15 de febrero de 2011.
 
@@ -45,13 +45,19 @@ La presente Ley es de orden público e interés social y tiene por objeto el fom
 
 I. Promover en el Estado de Coahuila de Zaragoza, políticas, programas y acciones relacionadas con el fomento a la lectura y el libro;
 
-II. Impulsar la producción, edición, publicación y difusión de libros y facilitar su acceso a la población;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-III. Promover la participación social y de los sectores público y privado en las actividades de fomento a la lectura y el libro;
+II. Impulsar la producción, edición, publicación y difusión de libros y hacer accesible el libro en igualdad de condiciones en todo el Estado para aumentar su disponibilidad y acercarlo al lector;
 
-IV. Determinar la integración, facultades y ámbito de competencia del Consejo Estatal y los Consejos Regionales;
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-V. Registrar, enriquecer y preservar el acervo bibliográfico del Estado mediante el depósito legal, así como promover su difusión.
+III. Fomentar y apoyar el establecimiento y desarrollo de librerías, bibliotecas y otros espacios públicos y privados para la lectura y difusión del libro;
+
+IV. Promover la participación social y de los sectores público y privado en las actividades de fomento a la lectura y el libro;
+
+V. Determinar la integración, facultades y ámbito de competencia del Consejo Estatal y los Consejos Regionales;
+
+VI. Registrar, enriquecer y preservar el acervo bibliográfico del Estado mediante el depósito legal, así como promover su difusión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
@@ -440,3 +446,9 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 567.- SE REFORMA LA FRACCIÓN II Y SE CREA UN NUEVO CONTENIDO PARA LA FRACCIÓN III, RECORRIENDO EL ACTUAL A LA SIGUIENTE FRACCIÓN; Y SE RECORRE EL DE LAS SUBSECUENTES FRACCIONES, DEL ARTÍCULO 1 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
