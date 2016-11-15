@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-59022
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2015-07-07"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Extraordinario N° 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -89,25 +89,35 @@ i) Estudio de costo-beneficio: el estudio que deberá llevar a cabo la dependenc
 
 j) Garantía estatal: la afectación por parte de la administración pública estatal, como garantía o fuente de pago alterna, de cualquier ingreso derivado de contribuciones u otros conceptos que sean susceptibles de afectación;
 
-k) Inversionista-proveedor: la persona que celebre un contrato para la prestación de servicios en los términos de esta ley;
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+k) Inversión pública productiva: toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+l) Inversionista-proveedor: la persona que celebre un contrato para la prestación de servicios en los términos de esta ley;
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2008)</small>
 
-l) Largo plazo: La vigencia de un contrato para la prestación de servicios en los términos de esta ley, que podrá ser hasta de treinta años;
+m) Largo plazo: La vigencia de un contrato para la prestación de servicios en los términos de esta ley, que podrá ser hasta de treinta años;
 
-m) Licitante: la persona física o moral del sector privado que participe en cualquier procedimiento de licitación pública o de invitación restringida para el desarrollo de un proyecto;
+n) Licitante: la persona física o moral del sector privado que participe en cualquier procedimiento de licitación pública o de invitación restringida para el desarrollo de un proyecto;
 
-n) Programa: el Programa Estatal de Infraestructura;
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-o) Proyecto: el proyecto para la prestación de servicios desarrollado por una dependencia o entidad, mediante la contratación de un inversionista-proveedor que se obliga a prestar a largo plazo uno o más servicios, incluyendo descriptivamente el diseño, disponibilidad de espacios, operación, mantenimiento y administración de bienes propiedad del Gobierno del Estado o de una entidad, o bienes muebles o inmuebles que el inversionista-proveedor construya o provea por sí o a través de un tercero, a cambio de una contraprestación por el servicio prestado y conforme a su desempeño; y
+o) Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
 
-p) Secretaría: la Secretaría de Finanzas del Gobierno del Estado.
+p) Programa: el Programa Estatal de Infraestructura;
+
+q) Proyecto: el proyecto para la prestación de servicios desarrollado por una dependencia o entidad, mediante la contratación de un inversionista-proveedor que se obliga a prestar a largo plazo uno o más servicios, incluyendo descriptivamente el diseño, disponibilidad de espacios, operación, mantenimiento y administración de bienes propiedad del Gobierno del Estado o de una entidad, o bienes muebles o inmuebles que el inversionista-proveedor construya o provea por sí o a través de un tercero, a cambio de una contraprestación por el servicio prestado y conforme a su desempeño; y
+
+r) Secretaría: la Secretaría de Finanzas del Gobierno del Estado.
 
 ###### Artículo 4.
 
 Principios.
 
-1. En la aplicación de esta ley, las dependencias y entidades deberán observar que la celebración de contratos y el ejercicio de recursos públicos para ello se realice con base en los principios de legalidad, honradez, responsabilidad hacendaria, economía, racionalidad, eficiencia, eficacia, igualdad de trato, no discriminación, respeto a los intereses de los usuarios, distribución objetiva de riesgos, información pública, control y rendición de cuentas.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+1. En la aplicación de esta ley, las dependencias y entidades deberán observar que la celebración de contratos y el ejercicio de recursos públicos para ello se realice con base en los principios de legalidad, honradez, honestidad, responsabilidad hacendaria, economía, racionalidad, eficiencia, eficacia, austeridad, igualdad de trato, no discriminación, respeto a los intereses de los usuarios, distribución objetiva de riesgos, información pública, transparencia, control y rendición de cuentas.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -119,7 +129,9 @@ Principios.
 
 Supletoriedad e interpretación administrativa.
 
-1. En lo no previsto por esta ley se aplicarán supletoriamente, en lo conducente, la Ley Estatal de Planeación, la Ley de Gasto Público, la Ley de Deuda Pública Estatal y Municipal, la Ley de Adquisiciones para la Administración Pública del Estado, el Código Civil y el Código de Procedimientos Civiles, todos del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+1. En lo no previsto por esta ley se aplicarán supletoriamente, en lo conducente, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley Federal de Presupuesto y Responsabilidad Hacendaria; la Ley Estatal de Planeación, la Ley de Gasto Público, la Ley de Deuda Pública Estatal y Municipal de Tamaulipas, la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios, el Código Civil para el Estado de Tamaulipas y el Código de Procedimientos Civiles del Estado de Tamaulipas, y demás legislación aplicable.
 
 2. Para efectos administrativos, la interpretación de esta ley corresponde a la Secretaría y a la Contraloría, respectivamente, en el ámbito de sus atribuciones.
 
@@ -159,9 +171,17 @@ b) Los servicios que se presten a la dependencia o entidad que contrate deberán
 
 c) Los particulares interesados deberán prestar los servicios con activos propios, activos de un tercero privado que otorgue título legal para poder hacer uso de los mismos o bienes públicos, siempre que éstos hayan sido legítimamente otorgados para su utilización, a los particulares interesados;
 
-d) La adopción por parte de los particulares interesados de la responsabilidad de la inversión y el financiamiento, en su caso, necesarios para el desarrollo del proyecto; y
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-e) La elaboración del estudio de costo-beneficio a que se refiere esta ley.
+d) La adopción por parte de los particulares interesados de la responsabilidad de la inversión y el financiamiento, en su caso, necesarios para el desarrollo del proyecto;
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+e) La elaboración del estudio de costo-beneficio a que se refiere esta ley; y
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+f) Acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
 
 ###### Artículo 9.
 
@@ -493,9 +513,17 @@ XIX. Las previsiones sobre la cesión de derechos y obligaciones derivados del c
 
 XX. La obligación del hipotético inversionista-proveedor de proporcionar información relacionada con el contrato a la dependencia o entidad, en particular la vinculada con solicitudes de la Auditoría Superior del Estado;
 
-XXI. La renuncia del hipotético inversionista-proveedor a proporcionar información a terceros que se relacionan con el contrato, sin demérito de que la dependencia o entidad den cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXII. Las demás cuestiones previstas en las bases para el procedimiento de adjudicación o convenidas por las partes conforme la propuesta del inversionista-proveedor que resulte ganadora.
+XXI. La renuncia del hipotético inversionista-proveedor a proporcionar información a terceros que se relacionan con el contrato, sin demérito de que la dependencia o entidad den cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado;
+
+> <small>(REFORMADA P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Las demás cuestiones previstas en las bases para el procedimiento de adjudicación o convenidas por las partes conforme la propuesta del inversionista-proveedor que resulte ganadora; y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXIII. La Inversión pública productiva realizada.
 
 ###### Artículo 32.
 
@@ -606,6 +634,10 @@ b) invitación restringida; o
 c) adjudicación directa.
 
 3. Por regla general se aplicará el procedimiento de adjudicación mediante licitación pública. Esta se llevará a cabo mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, y buscará asegurar que la dependencia o entidad acceda a las mejores condiciones en materia de precio, calidad, financiamiento, oportunidad, eficiencia energética, uso responsable del agua y preservación del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+4. La contratación se deberá realizar con quien presente mejores condiciones de mercado de acuerdo con el tipo de Obligación a contratar y conforme a la legislación aplicable.
 
 ###### Artículo 42.
 
@@ -1061,6 +1093,10 @@ Registro de contratos.
 
 2. En el Registro se inscribirán todos los actos jurídicos relacionados con los proyectos para la prestación de servicios, la inscripción de los inversionistas-proveedores que participen en dichos proyectos y los procedimientos de adjudicación previstos en esta ley, así como la información inherente al seguimiento y control administrativo de cada proyecto.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+3. Además deberá sujetarse a las previsiones establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
 ###### Artículo 74.
 
 Publicidad del Registro.
@@ -1322,3 +1358,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-6 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondiente en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
