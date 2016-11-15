@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-11051
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-11-18"
-last_updated: "2015-11-18"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2015-11-13"
 
 LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2016
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2016.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 18 de noviembre de 2015.
 
@@ -644,6 +642,10 @@ Hasta el 25 por ciento de las aportaciones que con cargo a los fondos de Aportac
 El gasto de inversión a que se refiere el párrafo séptimo del presente artículo se reportará en los informes trimestrales que se presentan al Congreso de la Unión a que se refiere el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 Para efectos de lo previsto en el artículo 107, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá incluir en los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública información del origen de los ingresos generados por los aprovechamientos a que se refiere el numeral 6.1.22.04 del presente artículo por concepto de otros aprovechamientos. Asimismo, deberá informar los destinos específicos que, en términos del artículo 19, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en su caso tengan dichos aprovechamientos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2016)</small>
+
+Para el ejercicio fiscal 2016, de los recursos que se obtengan por concepto de coberturas o instrumentos de transferencia significativa de riesgos que hubieran sido contratados o adquiridos a través del Fondo de Estabilización de los Ingresos Presupuestarios, así como de la subcuenta que se haya constituido como complemento para asegurar el precio del petróleo de la mezcla mexicana en el Fondo de Estabilización de los Ingresos Presupuestarios, se podrán enterar a la Tesorería de la Federación las cantidades necesarias para compensar la disminución de los ingresos petroleros del Gobierno Federal respecto de las cantidades estimadas en este artículo.
 
 ###### Artículo 2o.
 
@@ -1410,3 +1412,15 @@ II. El Artículo Segundo, al día siguiente de su publicación en el Diario Ofic
 México, D.F., a 29 de octubre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ramón Bañales Arambula, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de noviembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2017”.]
+
+Único. El presente Decreto entrará en vigor conforme a lo siguiente:
+
+I. El Artículo Primero, el 1 de enero de 2017, salvo lo dispuesto en los transitorios Décimo Segundo y Décimo Cuarto de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, los cuales entrarán en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto, y
+
+II. El Artículo Segundo, al día siguiente de su publicación en el Diario Oficial de la Federación.
