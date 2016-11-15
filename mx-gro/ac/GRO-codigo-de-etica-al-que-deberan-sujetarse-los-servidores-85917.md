@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-etica-al-que-deberan-sujetarse-los-servidores-85917"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-01-27"
-last_updated: "2012-01-27"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO DE ETICA, AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO POR EL QUE SE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Acuerdo publicado en el Periódico Oficial del Estado de Guerrero, el viernes 27 de enero de 2012.
 
@@ -274,3 +276,13 @@ EL CONTRALOR GENERAL DEL ESTADO.
 MTRO. JULIO CÉSAR HERNÁNDEZ MARTÍNEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Acuerdo por el que se establece el Código de Ética, al que deberán sujetarse los Servidores Públicos de la Administración Pública Centralizada y Paraestatal del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 8 Alcance I, de fecha 27 de enero de 2012.
