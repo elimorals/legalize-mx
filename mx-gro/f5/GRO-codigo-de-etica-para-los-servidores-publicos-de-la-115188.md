@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-etica-para-los-servidores-publicos-de-la-115188"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-04-01"
-last_updated: "2016-04-01"
+last_updated: "2016-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # CODIGO DE ETICA, PARA LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO -- ANTES CODIGO DE ETICA, AL QUE DEBERAN SUJETARSE LOS SERVIDORES DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO --
 
-CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO
+CÓDIGO DE ÉTICA, PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 1 de abril de 2016.
 
@@ -37,7 +37,9 @@ C O N S I D E R A N D O...
 
 Que derivado de lo anterior, se expide el Código de Ética de los Servidores Públicos de (sic) Estado de Guerrero, al que deberán sujetarse los servidores de la Administración Pública Centralizada y Paraestatal.
 
-ACUERDO POR EL QUE SE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA, PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO
 
 ###### ARTÍCULO 1.
 
@@ -55,15 +57,31 @@ II. Ética. Conjunto de normas morales que rigen la conducta de la persona en cu
 
 III. Conducta. El comportamiento corporal o intelectual voluntario, cuyo contenido o consecuencias deben ser valorados a la luz de los principios y valores éticos establecidos por la sociedad;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
 IV. Principios. El origen y punto de partida de nuestros actos, sobre ellos se construyen todas nuestras relaciones humanas y sociales;
 
-V. Valores. Las cualidades adquiridas socialmente a partir de los principios, que requieren de un aprendizaje o desarrollo social, y que se convierten en acciones valiosas y positivas para la sociedad y el ciudadano;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-(sic) garanticen la rendición de cuentas. Por último, que toda acción de gobierno sea transparente, con acceso a la información pública garantizado para la ciudadanía;
+V. Valores. Las cualidades adquiridas socialmente a partir de los principios que requieren de un aprendizaje y desarrollo humano y que se convierten en acciones valiosas y positivas para el ciudadano y la sociedad, contribuyendo a que los servidores públicos actúen con una cultura de legalidad, honradez, eficiencia y rendición de cuentas;
+
+> <small>(REFORMADA [N. DE E. ANTES SEGUNDO PÁRRAFO], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+VI. Buen Gobierno. Esto es, que las actividades que desempeñan los servidores públicos se soporten en un marco de legalidad previamente establecido. A su vez, que cada servidor público sea responsable de todo acto que realice con mecanismos que garanticen la rendición de cuentas. Por último, que toda acción de gobierno sea transparente, con acceso a la información pública para la ciudadanía; y,
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+VII. Código de Conducta. Enuncia los comportamientos de los servidores públicos con base en criterios de calidad, ética e integridad, contribuyendo a que las personas hagan suyos dichos valores, atendiendo a los principios constitucionales, las obligaciones establecidas en las leyes y a las disposiciones previstas en el presente Código;
+
+El lenguaje empleado en el Código de Ética, no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 3.
 
-Los principios constitucionales que los servidores públicos deberán tener presente y cumplir en el desempeño de sus funciones, empleos, cargos y comisiones son:
+Los servidores públicos estarán obligados a cumplir con sus funciones, empleos, cargos y comisiones, con la normatividad, el respeto a los derechos humanos y los principios constitucionales e institucionales, así como con las virtudes y propósitos siguientes:
+
+A) Principios Constitucionales:
 
 I. Eficiencia;
 
@@ -77,9 +95,63 @@ V. Honradez;
 
 VI. Legalidad;
 
-VII. Lealtad;
+VII. Lealtad; e
 
 VIII. Imparcialidad.
+
+B) Principios Institucionales:
+
+I. Bien Común;
+
+II. Integridad;
+
+III. Justicia;
+
+IV. Generosidad;
+
+V. Igualdad y no discriminación;
+
+VI. Equidad de Género;
+
+VII. Respeto; y,
+
+VIII. Liderazgo.
+
+C) Virtudes:
+
+I. Puntualidad;
+
+II. Disciplina;
+
+III. Cortesía;
+
+IV. Calidad;
+
+V. Profesionalización;
+
+VI. Vocación de Servicio;
+
+VII. Solidaridad;
+
+VIII. Participación; y,
+
+IX. Tolerancia.
+
+D) Propósitos:
+
+I. Recuperar la confianza ciudadana. El propósito central de eliminar los actos de arbitrariedad y discrecionalidad en la toma de decisiones y en el uso de los recursos públicos, es generar un ambiente de comunicación y confianza del ciudadano hacia el servidor público y las instituciones, para que en ese clima de cordialidad florezcan todas las actividades políticas, económicas y sociales;
+
+II. Alentar la participación ciudadana. Se alentará decididamente la participación ciudadana en todas aquellas actividades que son de interés público y que generan beneficios para la sociedad en general, tomando en cuenta que, con la participación social se coordinan esfuerzos, se vigila de cerca el quehacer público y se potencializan los recursos sociales para alcanzar mejores niveles de vida;
+
+III. Combate a la corrupción. La corrupción es una amenaza para la gobernanza, el desarrollo sustentable y los procesos democráticos. Por ello, debe existir una estrecha relación entre el desempeño del servidor público y su obligación de informar sobre el uso y destino de los recursos públicos. Luchar contra la corrupción supone evitar el uso de recursos públicos para fines particulares y privados, lo cual se traduce en mayores recursos para llevar a cabo mejores programas gubernamentales y con menos niveles de discrecionalidad de los servidores públicos. Asimismo, determina la necesidad de acercar el Estado a la sociedad para incrementar los niveles de control social y rendición de cuentas, que permitan mejorar la imagen pública de las instituciones gubernamentales y, por lo tanto, mejores niveles de credibilidad y legitimidad institucional;
+
+IV. Rendición de cuentas. Corresponde al acto administrativo mediante el cual los responsables de la gestión que administran y aplican los fondos públicos, informan, justifican y se responsabilizan de la aplicación de los recursos humanos, financieros y materiales puestos a su disposición en un ejercicio fiscal. Se considera como la obligación más importante y más relevante que tiene que cumplir un mandatario frente al mandante. Viene a ser una obligación de hacer, y es necesario que el ejercicio del gasto, servicio y función públicos estén convenientemente documentadas, en caso contrario, lo anterior carecería de sentido y valor. Por ello, los organismos públicos tienen el compromiso de mantener las cuentas claras y en orden, ya que éstos ejercen recursos derivados del pago principalmente de impuestos, por tanto, la rendición de cuentas debe ser obligatoria, y ser rendida en tiempo y forma;
+
+V. Combate a la impunidad. El problema de la impunidad está ligado a la corrupción, es lo que verdaderamente daña la estabilidad y seguridad de un país. La impunidad es la ausencia de castigo para cualquier persona, es lo que no ha sido judicializado ni sancionado y no se encuentra responsabilidad en persona alguna, lo que significa sencillamente que los delitos cometidos no son sancionados por una u otra causa, en gran medida la impunidad es generada y amparada por la corrupción de los servidores públicos y particulares involucrados en la administración pública, para combatirla es necesario sancionar las conductas ilícitas; impulsar la mejora de procesos, la calidad de la acción pública y lograr la participación de la sociedad en un entorno de estrecha coordinación y vinculación entre los tres órdenes de gobierno, a fin de construir una nueva cultura de transparencia, rendición de cuentas y combate a la corrupción. La impunidad se combate y evita a través de la aplicación de la ley a todas aquellas personas que la violan y transgreden con sus actos u omisiones;
+
+VI. Control Interno. El servidor público en el ejercicio de su empleo, cargo o comisión debe participar en una serie de procesos de control interno, para lo cual, genera, obtiene, utiliza y comunica información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas, evitando que se vulnere el cumplimiento de toda regla para lograr cumplir los propósitos de la institución, a través de la supervisión, prevención de riesgos, replanteamiento de políticas y procedimientos, en su caso, salvaguardar la información, establecimiento de medidas de control, adopción de mejores prácticas e inhibición de la corrupción; asimismo, prevenir conflictos de interés, entre otras acciones. El control interno se considera como un proceso ejecutado por la administración principal y los servidores públicos subalternos con el fin de proveer seguridad razonable en relación con el logro de los objetivos de la organización; y,
+
+VII. Cuidado y preservación del entorno cultural y ecológico. Los servidores públicos en el desarrollo de sus actividades, evitarán la afectación del patrimonio cultural y de los ecosistemas del planeta, asumiendo una férrea voluntad de respeto, defensa, preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promoverán en la sociedad, la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las futuras generaciones.
 
 ###### ARTÍCULO 4.
 
@@ -155,13 +227,27 @@ VI. GENERALES
 
 El Servidor Público deberá suscribir una Carta Compromiso en la que se comprometerá a desempeñar su empleo, cargo o comisión, conforme a los principios y valores establecidos en este Código.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-La Secretaría de Contraloría y Transparencia Gubernamental será la dependencia competente para aplicar, interpretar, difundir y evaluar el cumplimiento del presente Código; los titulares de las dependencias y quienes presidan los órganos autónomos y órganos con autonomía técnica serán responsables de promover éstas disposiciones y alentarán la participación de los ciudadanos en la vigilancia y seguimiento de la conducta de los servidores públicos.
+La Secretaría de Contraloría y Transparencia Gubernamental, es competente para aplicar, interpretar, difundir y evaluar el cumplimiento del presente Código, pudiendo formular observaciones y recomendaciones en el caso de denuncias derivadas de su incumplimiento, mismas que hará del conocimiento a los servidores públicos involucrados y de sus superiores jerárquicos.
+
+Los titulares de las secretarías, dependencias y entidades de la administración pública centralizada y paraestatal del Estado de Guerrero, así como los que presidan los órganos autónomos y órganos con autonomía técnica, serán responsables de promover estas disposiciones, alentando la participación de los ciudadanos en la vigilancia y seguimiento de la conducta de los servidores públicos.
+
+Los titulares de las secretarías, dependencias y entidades de la administración pública centralizada y paraestatal del Estado de Guerrero, deberán elaborar su propio Código de Conducta de acuerdo con las características propias de cada institución y apegado a la guía que para el efecto proporcione la Secretaría de Contraloría y Transparencia Gubernamental del Estado, instancia a la que se deberá ser enviado para su revisión y en su caso, validación.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 18.
 
-El Servidor Público que se desempeñe sin apego a los valores y principios señalados en este Código, puede incurrir en faltas, infracciones e incluso delitos; en esos casos se aplicarán conforme a lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero, independiente de las sanciones dispuestas en las leyes penales y civiles del Estado.
+Los servidores públicos que se desempeñen sin apego a las normas, valores y principios señalados en este Código, serán responsables de las faltas o infracciones que correspondan, según lo previsto por las disposiciones legales que les sean aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 19.
+
+Para los efectos de dar seguimiento al cumplimiento de las disposiciones establecidas en el presente Código, se crearán los órganos correspondientes, con carácter honorífico en cada una de las secretarías, dependencias y entidades de la administración pública centralizada y paraestatal del Estado de Guerrero, que sean necesarios a fin de lograr la consecución de los objetivos previstos en el Código, para tal efecto, la Secretaría de Contraloría y Transparencia Gubernamental expedirá los instrumentos normativos complementarios que sean pertinentes.
 
 T R A N S I T O R I O S
 
@@ -194,3 +280,13 @@ EL SECRETARIO DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 C. MARIO RAMOS DEL CARMEN.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Acuerdo por el que se establece el Código de Ética, al que deberán sujetarse los Servidores Públicos de la Administración Pública Centralizada y Paraestatal del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 8 Alcance I, de fecha 27 de enero de 2012.
