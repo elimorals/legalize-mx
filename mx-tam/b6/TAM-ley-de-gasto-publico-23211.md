@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2015-07-07"
+last_updated: "2016-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -41,11 +41,11 @@ LEY DE GASTO PUBLICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1°.
 
-El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejecución, control, evaluación del desempeño, e información y transparencia; mismas que se norman y se regulan por las disposiciones previstas en la presente ley, así como por la Ley General de Contabilidad Gubernamental y las disposiciones que de ella emanen.
+El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejecución, control, evaluación del desempeño, e información y transparencia; mismas que se norman y se regulan por las disposiciones previstas en la presente ley, así como por la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -57,63 +57,161 @@ La presente Ley será interpretada en el ámbito de su competencia, por la Secre
 
 ARTICULO 2° BIS.- En relación a la aplicación de esta Ley, se entenderá por:
 
-I.- Secretaría: Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-II.- Contraloría: Contraloría Gubernamental;
+I.- Adecuaciones Presupuestales: Son los cambios o modificaciones realizados a las estructuras de las clasificaciones administrativa, económica, programática y por objeto del gasto: a la calendarización de los presupuestos, a las reducciones y ampliaciones al presupuesto de egresos autorizado;
 
-III.- Proyectos Especiales: La Coordinación de Proyectos Especiales de las Oficinas del Gobernador;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-IV.- Adecuaciones Presupuestales: Son los cambios o modificaciones realizados a las estructuras de las clasificaciones administrativa, económica, programática y por objeto del gasto: a la calendarización de los presupuestos, a las reducciones y ampliaciones al presupuesto de egresos autorizado;
+II.- Ampliaciones Presupuestales: Son aquellas erogaciones destinadas a cubrir los déficits de operación generados en las Entidades ejecutoras del gasto, las cuales se otorgan en forma temporal, previa justificación del origen de dichos déficits;
 
-V.- Clasificación por Objeto del Gasto: Es la herramienta que permite registrar de manera ordenada y homogénea las erogaciones autorizadas en las partidas, conceptos y capítulos, conforme a la estructura de este Clasificador presupuestal;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-VI.- Clasificación Funcional del Gasto: Presenta el gasto público según la naturaleza de los servicios gubernamentales que se proporcionan a la población, identifica el presupuesto destinado a funciones de gobierno, desarrollo social, desarrollo económico; y otros, permitiendo determinar los objetivos generales de las políticas públicas y los recursos financieros que se asignan para alcanzarlos;
+III.- Balance presupuestario: La diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-VII.- Clasificación Económica del Gasto: Clasifica las transacciones de los entes públicos, ordenando a éstas de acuerdo a su naturaleza económica, ello con el propósito general de analizar y evaluar el impacto de la política y la gestión fiscal sobre la economía en general;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-VIII.- Clasificación Administrativa: Tiene como objetivo principal identificar las unidades administrativas a través de las cuales se realiza la asignación, gestión y rendición de cuentas de los recursos presupuestales que éstas ejercen;
+IV.- Balance presupuestario sostenible: Cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero;
 
-IX.- Capítulo del Gasto: Es el máximo nivel de agregación que identifica al conjunto homogéneo y ordenado de bienes y servicios establecidos en el clasificador por objeto del gasto;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-X.- Coordinador de Sector: Es la dependencia que designa el Gobernador del Estado conforme a la Ley Orgánica de la Administración Pública del Estado, para coordinar la planeación, programación, presupuestación, ejercicio, evaluación y seguimiento del gasto de aquellas entidades que estén ubicadas en el sector bajo su coordinación;
+V.- Balance presupuestario de recursos disponibles: La diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-XI.- Cuenta Pública: Es el Informe a que se refiere la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XII.- Economías Presupuestales: Son los remanentes de recursos no devengados del presupuesto modificado, al cierre del ejercicio fiscal;
+VI.- Capítulo del Gasto: Es el máximo nivel de agregación que identifica al conjunto homogéneo y ordenado de bienes y servicios establecidos en el clasificador por objeto del gasto;
 
-XIII.- Eficacia en el ejercicio del gasto público: Es el logro de las metas programadas en el ejercicio fiscal;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XIV.- Eficiencia en el ejercicio del gasto público: Es el ejercicio de los recursos presupuestales en las formas y tiempos programados;
+VII.- Clasificación por Objeto del Gasto: Es la herramienta que permite registrar de manera ordenada y homogénea las erogaciones autorizadas en las partidas, conceptos y capítulos, conforme a la estructura de este Clasificador presupuestal;
 
-XV.- Ejecutores de gasto: Son las entidades a que se refiere el artículo 3° de esta Ley, a las que se asignan recursos con cargo al Presupuesto Anual de Egresos;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XVI.- Estructura Programática: Es el conjunto de categorías y elementos programáticos ordenados en forma coherente, que define las acciones que realizan las entidades ejecutoras del gasto para alcanzar sus objetivos y metas de acuerdo con las políticas establecidas en el Plan Estatal de Desarrollo, así como en los Programas presupuestarios correspondientes;
+VIII.- Clasificación Funcional del Gasto: Presenta el gasto público según la naturaleza de los servicios gubernamentales que se proporcionan a la población, identifica el presupuesto destinado a funciones de gobierno, desarrollo social, desarrollo económico; y otros, permitiendo determinar los objetivos generales de las políticas públicas y los recursos financieros que se asignan para alcanzarlos;
 
-XVII.- Género: Es el conjunto de características distintivas, simbólicas, sociales, culturales y políticas que se asignan a las personas acorde a su sexo;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XVIII.- Órganos Autónomos: Son entidades estatales de derecho público con patrimonio y personalidad jurídica propia, con autonomía para el ejercicio de sus funciones y en su administración, a las cuales se les asigna recursos presupuestales;
+IX.- Clasificación Económica del Gasto: Clasifica las transacciones de los entes públicos, ordenando a éstas de acuerdo a su naturaleza económica, ello con el propósito general de analizar y evaluar el impacto de la política y la gestión fiscal sobre la economía en general;
 
-XIX.- Partida Presupuestal: Consiste en el nivel de agregación específico en el que se describe textualmente y en forma detallada, los bienes y servicios que se adquieren;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XX.- Presupuesto de Egresos: El Presupuesto de Egresos del Gobierno del Estado de Tamaulipas;
+X.- Clasificación Administrativa: Tiene como objetivo principal identificar las unidades administrativas a través de las cuales se realiza la asignación, gestión y rendición de cuentas de los recursos presupuestales que éstas ejercen;
 
-XXI.- Presupuesto Devengado: Es el reconocimiento oficial de las obligaciones de pago por parte de las entidades ejecutoras del gasto a favor de terceros, ello por la recepción de plena conformidad de bienes, servicios y obras previamente contratados, como también de las obligaciones que se deriven de leyes, decretos, resoluciones y sentencias definitivas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXII.- Responsabilidad Hacendaria: Es el cumplimiento de los principios y disposiciones de la presente Ley, la Ley de Ingresos, el Presupuesto de Egresos, y demás ordenamientos que procuren el equilibrio presupuestal, la disciplina fiscal y el logro de las metas establecidas en esta materia;
+XI.- Coordinador de Sector: Es la dependencia que designa el Gobernador del Estado conforme a la Ley Orgánica de la Administración Pública del Estado, para coordinar la planeación, programación, presupuestación, ejercicio, evaluación y seguimiento del gasto de aquellas entidades que estén ubicadas en el sector bajo su coordinación;
 
-XXIII.- Sistema de Evaluación del Desempeño: Consiste en un conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en Indicadores de desempeño que permiten conocer el impacto social del ejercicio del gasto destinado a los programas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXIV.- Subejercicio del Gasto: Situación que genera disponibilidades presupuestarias, originadas con base en un retraso en el logro de las metas fijadas conforme al calendario presupuestal, o bien por no contar con el sustento legal para la ejecución del recurso;
+XII.- Contraloría: Contraloría Gubernamental;
 
-XXV.- Subsidio: Son las asignaciones de recurso estatal establecidas en el Presupuesto de Egresos, con la finalidad de que a través de las dependencias y entidades se otorguen a los diversos sectores de la sociedad como a los municipios, para fomentar el desarrollo de actividades sociales y económicas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXVI.- Proyectos de Inversión: Son las acciones que implican erogaciones de gasto de capital destinados a obras de infraestructura, así como de los requerimientos necesarios para desarrollar los trabajos y estudios relacionados con las mismas;
+XIII.- Cuenta Pública: Es el Informe a que se refiere la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas;
 
-XXVII.- Ramo: Es el mayor nivel de agregación en las asignaciones de gasto dentro del Presupuesto de Egresos del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-XXVIII.- Ampliaciones Presupuestales: Son aquellas erogaciones destinadas a cubrir los déficits de operación generados en las Entidades ejecutoras del gasto, las cuales se otorgan en forma temporal, previa justificación del origen de dichos déficits; y
+XIV.- Economías Presupuestales: Son los remanentes de recursos no devengados del presupuesto modificado, al cierre del ejercicio fiscal;
 
-XXIX.- Unidad Responsable: Son las entidades mencionadas en el artículo 3° de la presente Ley, que están obligadas a la rendición de cuentas en relación al ejercicio de los recursos presupuestales que les han sido asignados, ello conforme a la presente ley, a la Ley General de Contabilidad Gubernamental, y demás leyes que apliquen en su caso.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XV.- Eficacia en el ejercicio del gasto público: Es el logro de las metas programadas en el ejercicio fiscal;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XVI.- Eficiencia en el ejercicio del gasto público: Es el ejercicio de los recursos presupuestales en las formas y tiempos programados;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XVII.- Ejecutores de gasto: Son las entidades a que se refiere el artículo 3° de esta Ley, a las que se asignan recursos con cargo al Presupuesto Anual de Egresos;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XVIII.- Estructura Programática: Es el conjunto de categorías y elementos programáticos ordenados en forma coherente, que define las acciones que realizan las entidades ejecutoras del gasto para alcanzar sus objetivos y metas de acuerdo con las políticas establecidas en el Plan Estatal de Desarrollo, así como en los Programas presupuestarios correspondientes;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XIX.- Evaluación: Al proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previamente previstos en los Programas Presupuestarios, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimiento adecuado de las metas;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Género: Es el conjunto de características distintivas, simbólicas, sociales, culturales y políticas que se asignan a las personas acorde a su sexo;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXI.- Indicador de Desempeño: A la observación o indicación de referencia que integra información cuantitativa o cualitativa, estratégica o de gestión, en términos de eficacia, eficiencia, economía y calidad respecto del logro o resultado de los objetivos de la política pública de los Programas presupuestarios de dependencias y entidades de la administración pública;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXII.- Indicadores de Gestión: Miden el avance y logro en procesos y actividades, en cuanto a la forma en que los bienes y servicios públicos son generados y entregados;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXIII.- Indicadores Estratégicos: Miden el grado de cumplimiento de los objetivos de las políticas públicas contemplados en los Programas Presupuestarios;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXIV.- Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un programa y sus relaciones de causa y efecto, medios y fines;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXV.- Órganos Autónomos: Son entidades estatales de derecho público con patrimonio y personalidad jurídica propia, con autonomía para el ejercicio de sus funciones y en su administración, a las cuales se les asigna recursos presupuestales;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXVI.- Partida Presupuestal: Consiste en el nivel de agregación específico en el que se describe textualmente y en forma detallada, los bienes y servicios que se adquieren;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXVII.- Presupuesto basado en Resultados: Es el instrumento de la Gestión por Resultados consistente en un conjunto de actividades y herramientas que permiten que las decisiones involucradas en el proceso presupuestario incorporen, sistemáticamente, consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXVIII.- Presupuesto de Egresos: El Presupuesto de Egresos del Gobierno del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXIX.- Presupuesto Devengado: Es el reconocimiento oficial de las obligaciones de pago por parte de las entidades ejecutoras del gasto a favor de terceros, ello por la recepción de plena conformidad de bienes, servicios y obras previamente contratados, como también de las obligaciones que se deriven de leyes, decretos, resoluciones y sentencias definitivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXX.- Programa Presupuestario: Categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos y cuya identificación corresponde a la solución de una problemática de carácter público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXI.- Proyectos Especiales: La Coordinación de Proyectos Especiales de las Oficinas del Gobernador;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXII.- Proyectos de Inversión: Son las acciones que implican erogaciones de gasto de capital destinados a obras de infraestructura, así como de los requerimientos necesarios para desarrollar los trabajos y estudios relacionados con las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII.- Ramo: Es el mayor nivel de agregación en las asignaciones de gasto dentro del Presupuesto de Egresos del Gobierno del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV.- Responsabilidad Hacendaria: Es el cumplimiento de los principios y disposiciones de la presente Ley, la Ley de Ingresos, el Presupuesto de Egresos, y demás ordenamientos que procuren el equilibrio presupuestal, la disciplina fiscal y el logro de las metas establecidas en esta materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXV.- Secretaría: Secretaría de Finanzas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXVI.- Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXVII.- Subejercicio del Gasto: Situación que genera disponibilidades presupuestarias, originadas con base en un retraso en el logro de las metas fijadas conforme al calendario presupuestal, o bien por no contar con el sustento legal para la ejecución del recurso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXVIII.- Subsidio: Son las asignaciones de recurso estatal establecidas en el Presupuesto de Egresos, con la finalidad de que a través de las dependencias y entidades se otorguen a los diversos sectores de la sociedad como a los municipios, para fomentar el desarrollo de actividades sociales y económicas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX.- Unidad Responsable: Son las entidades mencionadas en el artículo 3° de la presente Ley, que están obligadas a la rendición de cuentas en relación al ejercicio de los recursos presupuestales que les han sido asignados, ello conforme a la presente ley, a la Ley General de Contabilidad Gubernamental, y demás leyes que apliquen en su caso.
 
 ###### ARTICULO 3º.
 
@@ -141,15 +239,15 @@ VI.- Los Organismos Autónomos.
 
 Las personas físicas o morales, públicas o privadas, que ejerzan recursos públicos, deberán sujetarse a lo que establece esta Ley y a las demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-Cuando las entidades a que se refiere este artículo, ejerzan recursos federales, se sujetarán, además de lo que disponga esta Ley, a la Ley de Coordinación Fiscal, a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y a la Ley General de Contabilidad Gubernamental, así como a las demás disposiciones aplicables.
+Cuando las entidades a que se refiere este artículo, ejerzan recursos federales, se sujetarán, además de lo que disponga esta Ley, a la Ley de Coordinación Fiscal, a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a la Ley General de Contabilidad Gubernamental, a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como a las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 4°.
 
-La Secretaría de Finanzas regulará lo correspondiente a la presupuestación del gasto público del Estado, en el ámbito de los objetivos, políticas, estrategias y metas del Plan Estatal de Desarrollo, privilegiando el principio de transparencia y máxima publicidad de la información financiera en los términos de la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+La Secretaría de Finanzas regulará lo correspondiente a la presupuestación del gasto público del Estado, en el ámbito de los objetivos, políticas, estrategias y metas del Plan Estatal de Desarrollo, privilegiando el principio de transparencia y máxima publicidad de la información financiera en los términos de la Ley General de Contabilidad Gubernamental, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -209,27 +307,9 @@ El Titular del Ejecutivo del Estado autorizará, por conducto de la Secretaría 
 
 Sólo se podrán constituir o incrementar fideicomisos de los mencionados en la fracción V del artículo 3 de esta ley con la autorización del Titular del Ejecutivo, quien propondrá la modificación o disolución de los mismos, cuando así convenga al interés público.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
-
 ###### ARTICULO 8° Bis.
 
-Para los efectos de ésta Ley se entenderá por:
-
-I.- Evaluación: Al proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previamente previstos en los Programas Presupuestarios, posibilitando la determinación de las desviaciones y la adopción de medidas correctivas que garanticen el cumplimiento adecuado de las metas;
-
-II.- Indicador de Desempeño: A la observación o indicación de referencia que integra información cuantitativa o cualitativa, estratégica o de gestión, en términos de eficacia, eficiencia, economía y calidad respecto del logro o resultado de los objetivos de la política pública de los Programas presupuestarios de dependencias y entidades de la administración pública;
-
-III.- Indicadores de Gestión: Miden el avance y logro en procesos y actividades, en cuanto a la forma en que los bienes y servicios públicos son generados y entregados;
-
-IV.- Indicadores Estratégicos: Miden el grado de cumplimiento de los objetivos de las políticas públicas contemplados en los Programas Presupuestarios;
-
-V.- Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un programa y sus relaciones de causa y efecto, medios y fines;
-
-VI.- Presupuesto basado en Resultados: Es el instrumento de la Gestión por Resultados consistente en un conjunto de actividades y herramientas que permiten que las decisiones involucradas en el proceso presupuestario incorporen, sistemáticamente, consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos;
-
-VII.- Programa Presupuestario: Categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos y cuya identificación corresponde a la solución de una problemática de carácter público; y
-
-VIII.- Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 2016)
 
 ### CAPITULO II. DE LA PLANEACION Y PROGRAMACION
 
@@ -437,7 +517,9 @@ d).- La estimación del impacto esperado en grupos vulnerables, género y regió
 
 VII.- En general, toda la información que se considere útil para proporcionar elementos de juicio para su aprobación.
 
-En todo caso el proyecto de Presupuesto de Egresos, deberá cumplir con los requisitos, que prevé la fracción II del artículo 61 de la Ley General de Contabilidad Gubernamental.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+En todo caso el proyecto de Presupuesto de Egresos, deberá cumplir con los requisitos y previsiones que establecen la fracción II del artículo 61 de la Ley General de Contabilidad Gubernamental, así como los artículos 9, 10, 11, 12, 13 y disposiciones transitorias de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -497,9 +579,37 @@ En caso de que la discusión y votación del dictamen de la Ley de Ingresos y de
 
 La Secretaría de Finanzas incluirá en el anteproyecto de su propio presupuesto, las previsiones de la amortización y pago del servicio de la deuda pública en el programa específico que al efecto formule.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 37 Bis.
+
+El gasto total propuesto por el Ejecutivo en el Proyecto de Presupuesto de Egresos del Estado, así como el que apruebe la Legislatura local y el que se ejerza en el año fiscal, deberá contribuir a un balance presupuestario sostenible, y en caso de presentarse un balance presupuestario de recursos disponibles negativo, el Ejecutivo Estatal deberá dar cuenta al Congreso del Estado de los aspectos previstos en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 37 Ter.
+
+La iniciativa de la Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado se deberán elaborar conforme a lo establecido en la legislación local aplicable, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con el plan estatal de desarrollo y los programas derivados del mismo, e incluirán cuando menos lo siguiente:
+
+I.- Objetivos anuales, estrategias y metas;
+
+II.- Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica.
+
+Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de cinco años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+III.- Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
+
+IV.- Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
+
+V.- Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+La Ley de Ingresos y el Presupuesto de Egresos del Estado deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan, no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+Los Poderes Legislativo, Ejecutivo y Judicial, los Organismos Autónomos, los Municipios, los Organismos Descentralizados, empresas de participación estatal mayoritaria y fideicomisos, así como cualquier otro ente sobre el que las entidades federativas y los municipios tengan control sobre sus decisiones o acciones, mediante su Secretaría de Finanzas o equivalente, contarán con un sistema de registro y control de las erogaciones de servicios personales.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+###### ARTICULO 37 Quáter.
 
 El proyecto de Ley de Ingresos del Estado contendrá cuando menos:
 
@@ -527,19 +637,25 @@ En todo caso el proyecto de Ley de Ingresos, deberá cumplir con los requisitos 
 
 Las entidades públicas, en los términos de la Ley de Deuda Pública Estatal y Municipal, podrán:
 
-I.- Contraer deuda pública, con las limitantes de endeudamiento autorizadas por el Congreso del Estado, cuidando que ésta se destine a inversiones públicas productivas, o para mejorar la estructura de endeudamiento público;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+I.- Contraer deuda pública, con las limitantes de endeudamiento autorizadas por el Congreso del Estado, la cual se destinará a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+
+Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada;
 
 II.- Obtener créditos que excedan las limitantes referidas en la fracción anterior, en los casos que, previa aprobación del Comité Técnico de Financiamiento, se encuentren en alguno de los siguientes supuestos:
 
 a).- Se apruebe la solicitud hecha al Congreso del Estado, por conducto del Ejecutivo Estatal para ejercer montos de endeudamiento adicionales a los incluidos en las Leyes de Ingresos Estatal y Municipales, por circunstancias extraordinarias que así lo exijan; y
 
-b).- Se contraten créditos directos a corto plazo cuyos montos no se consideren de deuda pública y se contraten bajo las condiciones que prevé la ley de la materia; y
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+b).- Se contraten créditos directos a corto plazo cuyos montos no se consideren de deuda pública y se contraten bajo las condiciones que prevé la ley de la materia, además de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y
 
 III.- Emitir bonos y otros títulos de deuda.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
-En lo relativo a la transparencia y difusión de la información financiera, de la deuda pública del Estado, se estará a lo establecido en la Ley General de Contabilidad Gubernamental y demás disposiciones que de ella emanen.
+En lo relativo a la transparencia y difusión de la información financiera, de la deuda pública del Estado, se estará a lo establecido en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
 ###### ARTICULO 39.
 
@@ -688,6 +804,20 @@ Las dependencias y entidades deberán remitir de manera trimestral a la Secretar
 ###### ARTICULO 64.
 
 La Contraloría Gubernamental estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV, V y VI del artículo 3° de esta ley, con objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos. Así mismo, tendrá las atribuciones en materia de evaluación del desempeño en los términos que esta Ley prevé.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 64 Bis.
+
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Titular del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a efecto de cumplir con el principio de sostenibilidad del Balance presupuestario y del Balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
+
+I.- Gastos de comunicación social;
+
+II.- Gasto corriente que no constituya un subsidio entregado directamente a la población, en términos de lo dispuesto por el artículo 13, fracción VII de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y
+
+III.- Gasto en servicios personales, prioritariamente las erogaciones por concepto de Percepciones extraordinarias.
+
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
 ### CAPITULO VI. DE LA CONTABILIDAD
 
@@ -1000,3 +1130,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 15 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-6 MEDIANTE El CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondiente en un plazo que no exceda de 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
