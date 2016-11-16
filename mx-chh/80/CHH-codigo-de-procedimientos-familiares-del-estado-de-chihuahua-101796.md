@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-familiares-del-estado-de-chihuahua-101
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-23"
-last_updated: "2015-10-21"
+last_updated: "2016-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
 
 Código publicado en el folleto anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de julio de 2014.
 
@@ -5981,7 +5981,13 @@ I. Designar persona como tutor o curador provisional y ordenar las medidas tutel
 
 II. Solicitar informe al Registro Civil sobre la existencia de parientes de esta, en línea recta sin limitación de grado y en línea colateral hasta el segundo.
 
-III. Nombrar a dos personas profesionales en medicina con cédula profesional, de preferencia alienista o de la especialidad correspondiente, una propuesta por la promovente, y un oficial designado por el tribunal para realizar el examen de persona que se presume es incapaz.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+III. Nombrar a dos personas profesionales en medicina con cédula profesional, de preferencia especialistas en la materia correspondiente, una propuesta por la promovente, y un oficial designado por el tribunal para realizar el examen de persona que se presume es incapaz.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+De no ser posible, y en caso de que no hubiere especialistas en el lugar, el juzgado podrá nombrar al médico entendido a su satisfacción.
 
 IV. Ordenar que el tutor de cuya interdicción se trata, lo ponga a disposición de las personas profesionales en medicina alienistas, o de la especialidad correspondiente, en el plazo de tres días para que sea sometida a examen, bajo el apercibimiento que de no hacerlo se declarará sin materia el procedimiento de interdicción.
 
@@ -5989,15 +5995,19 @@ V. Ordenar que la persona bajo cuya guarda se encuentre la o el presunto incapaz
 
 VI. Solicitar informe a la Oficina del Registro Civil estatal, sobre la existencia de una o un tutor auto designado previamente.
 
-VII. Fijar fecha para la celebración de la audiencia, en la cual la o el presunto incapaz, en su caso, sea oído personalmente.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+VII. Fijar a la brevedad fecha para la celebración de la audiencia, en la cual la o el presunto incapaz, en su caso, sea oído personalmente.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 511.
 
-A la audiencia están obligados a comparecer la parte solicitante, la persona propuesta como tutor, la persona que se presume es incapaz, las personas profesionales en medicina nombradas por el juzgado, y personal adscrito a la Unidad de Estudios Psicológicos y Socioeconómicos del Tribunal Superior de Justicia del Estado, así como el ministerio público.
+A la audiencia están obligados a comparecer la parte solicitante, la persona propuesta como tutor, la persona que se presume es incapaz, el personal adscrito a la Unidad de Estudios Psicológicos y Socioeconómicos del Tribunal Superior de Justicia del Estado, así como el ministerio público.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+Según las circunstancias particulares del caso, el juzgado evaluará la necesidad de que las personas profesionales en medicina comparezcan en la audiencia, de no ser así, bastará con que envíen y ratifiquen su dictamen en los términos del artículo 513 para su valoración.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6007,29 +6017,47 @@ A la audiencia están obligados a comparecer la parte solicitante, la persona pr
 
 En caso de que (sic) persona que se presume es incapaz no pueda ser presentada ante el juzgado, la diligencia se debe verificar en el lugar en que se encuentre aquella, en los términos señalados en la fracción VII del artículo 510 de este código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 513.
 
-De ser posible, las personas profesionales en medicina deben elaborar su dictamen y exponer en forma oral durante la audiencia las siguientes circunstancias:
+De ser posible, las personas profesionales en medicina deben elaborar un dictamen que contenga las siguientes circunstancias:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 I. El diagnóstico y pronóstico de la enfermedad, así como la técnica y métodos científicos en que se fundamenta.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2015)</small>
+
 II. Las manifestaciones, síntomas y características del estado actual de la persona de cuya interdicción se trate y puntualizar el grado de incapacidad, en su caso, si esta es total o parcial.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 III. El tratamiento conveniente.
 
-Si no fuere posible rendir el dictamen en la audiencia, se diferirá por una sola vez, para celebrarse dentro de los diez días siguientes.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Cuando a consideración del juzgado el dictamen deba rendirse de forma oral en la audiencia y esto no fuere posible, se diferirá por una sola vez, para celebrarse dentro de los diez días siguientes.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+En los casos en que se requiera únicamente el dictamen escrito, este deberá ser remitido al juzgado por lo menos cuarenta y ocho horas antes de que tenga verificativo la audiencia respectiva.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+Una vez enviado el dictamen escrito, y antes de que tenga verificativo la audiencia, las personas profesionales en medicina deberán acudir personalmente a realizar la ratificación que corresponda.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 514.
 
-El juez o la jueza y el ministerio público tienen la facultad para dirigir a la persona que se presume es incapaz y a las personas profesionales en medicina, las preguntas que estimen convenientes.
+El juez o la jueza y el ministerio público tienen la facultad para formular a la persona que se presume es incapaz y, en su caso, a las personas profesionales en medicina, las preguntas que estimen convenientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6053,15 +6081,21 @@ Contra la resolución que se dicte en estas providencias, procederá el recurso 
 
 Las medidas provisionales a las que se refiere este artículo, pueden variar hasta en tanto el juez o jueza declare el estado de interdicción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 516.
 
-Comprobada la incapacidad de la persona que fue reconocida y no exista oposición o controversia alguna, el juez o jueza hará la declaración del estado de interdicción, la que establecerá el alcance de la incapacidad y determinará la extensión y límites de la tutela, nombrando a la o el tutor definitivo o ratificando a la o el interino y, de ser necesario, a la o el curador respectivo.
+Dentro de los cinco días siguientes de comprobada la incapacidad de la persona que fue reconocida y cuando no exista oposición o controversia alguna, el juez o jueza hará la declaración del estado de interdicción, la que establecerá el alcance de la incapacidad y determinará la extensión y límites de la tutela, nombrando a la o el tutor definitivo o ratificando a la o el interino y, de ser necesario, a la o el curador respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 Las medidas decretadas a que se refiere el artículo anterior, podrán confirmarse o, en su caso, modificarse por cambio de circunstancias o por la aportación de nuevos datos que funden su conveniencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 La resolución que emita el juzgado para declarar el estado de interdicción es apelable en el efecto devolutivo.
 
@@ -6454,3 +6488,11 @@ P.O. 21 DE OCTUBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Código de Procedimientos Familiares del Estado, atendiendo a lo dispuesto por el Artículo Único del Decreto número 967/2015 XI P.E., de fecha 21 de septiembre de 2015, y previa publicación en el Periódico Oficial del Estado, iniciará su vigencia, en el Distrito Judicial Morelos, el día veintiocho de octubre de dos mil quince; en el resto de los Distritos Judiciales, el veinticuatro de febrero de dos mil dieciséis.
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1555/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 510, FRACCIONES III Y VII; 511, PÁRRAFO PRIMERO; 513, PÁRRAFOS PRIMERO Y SEGUNDO; 514, Y 516, PÁRRAFO PRIMERO; Y SE ADICIONAN LOS ARTÍCULOS 510 CON UN SEGUNDO PÁRRAFO A LA FRACCIÓN III; 511 CON UN SEGUNDO PÁRRAFO, Y 513 CON LOS PÁRRAFOS TERCERO Y CUARTO, TODOS DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
