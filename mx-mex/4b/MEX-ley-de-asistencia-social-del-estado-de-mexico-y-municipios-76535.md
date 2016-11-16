@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-7653
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2015-08-06"
+last_updated: "2016-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -67,7 +67,9 @@ I. Adolescente: Todo ser humano mayor de doce años cumplidos y menor de diecioc
 
 II. Adulto Mayor: Hombres y mujeres a partir de los 60 años de edad;
 
-III. Beneficiario: Persona en condición de vulnerabilidad que son atendidas a través de los programas, acciones y servicios de asistencia social;
+> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+III. Beneficiario: Persona que es atendida a través de los programas, acciones y servicios de asistencia social, que cumplen los requisitos de la normatividad correspondiente.
 
 IV. DIFEM: Al Sistema para el Desarrollo Integral de la Familia del Estado de México;
 
@@ -84,6 +86,14 @@ IX. Persona con Discapacidad: Toda persona que presenta una deficiencia física,
 X. Sistema Estatal: Al Sistema Estatal de Asistencia Social; y
 
 XI. SMDIF: A los Sistemas Municipales para el Desarrollo Integral de la Familia en el territorio del Estado de México.
+
+> <small>(ADICIONADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+XII. Situación de riesgo: A la posibilidad de que una persona sufra un daño en su integridad física o emocional y que tiene su origen en una causa de tipo social.
+
+> <small>(ADICIONADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Vulnerabilidad: Situación de una persona o grupo de personas en que debido a sus condiciones de pobreza, marginación y condiciones de vida, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida.
 
 ### CAPÍTULO SEGUNDO. De los Sujetos de la Ley
 
@@ -109,7 +119,9 @@ V. Los beneficiarios de los programas, acciones y servicios de asistencia social
 
 Se consideran beneficiarios de los programas, acciones y servicios de asistencia social, de manera prioritaria:
 
-I. Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+I. Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en condiciones de vulnerabilidad, situación de riesgo o afectados por:
 
 a) Desnutrición;
 
@@ -133,11 +145,13 @@ h) Trabajar en condiciones que afecten su desarrollo e integridad física y ment
 
 i) Infractores y víctimas del delito;
 
-j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
+> <small>(REFORMADO, G.G. 16 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+j) Ser hijas o hijos de padres que padezcan enfermedades terminales o en condiciones de pobreza;
 
-k) Ser migrantes y repatriados no acompañados o acompañados.
+> <small>(REFORMADO, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+k) Ser migrantes y repatriados en situación de riesgo o vulnerabilidad.
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -154,6 +168,10 @@ a) En estado de gestación o lactancia y las madres adolescentes;
 b) En situación de violencia, en cualquiera de sus modalidades; y
 
 c) En situación de explotación, incluyendo la sexual o trata de personas.
+
+> <small>(ADICIONADO, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+d) En lugares en que por las condiciones de inseguridad las coloquen en situación de riesgo.
 
 III. Indígenas en situación de vulnerabilidad;
 
@@ -175,9 +193,9 @@ VIII. Indigentes;
 
 IX. Alcohólicos y fármaco dependientes en estado de vulnerabilidad.
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
 
-X. Las personas afectadas por desastres naturales en zonas de alta y muy alta marginación, en coaduvancia (sic).
+X. Las personas afectadas por desastres naturales en zonas marginadas.
 
 XI. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
 
@@ -810,3 +828,11 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 153.- POR EL QUE SE REFORMAN EL ARTÍCULO 5 EN SU FRACCIÓN III, EL ARTÍCULO 7 EN SU FRACCIÓN I Y SUS INCISOS J) Y K) Y EN SUS FRACCIÓN X. SE ADICIONAN LAS FRACCIONES XII Y XIII AL ARTÍCULO 5, EL INCISO D) A LA FRACCIÓN II DEL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
