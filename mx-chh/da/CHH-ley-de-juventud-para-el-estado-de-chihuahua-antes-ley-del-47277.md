@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-antes-ley-del-47277
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2016-10-03"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA -ANTES LEY DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD-
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.]</small>
-
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 10 de diciembre de 2005.
 
@@ -61,7 +59,7 @@ LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -69,7 +67,7 @@ LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
 La presente Ley es de orden público e interés social y tiene por objeto garantizar las condiciones para el ejercicio pleno de los derechos de las personas jóvenes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -85,7 +83,7 @@ III. La estructura orgánica y atribuciones del Instituto Chihuahuense de la Juv
 
 IV. Los medios de participación de las personas jóvenes en el diseño, instrumentación, evaluación y el seguimiento de las políticas públicas en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -93,7 +91,7 @@ IV. Los medios de participación de las personas jóvenes en el diseño, instrum
 
 Para los efectos de esta Ley, se considera persona joven aquella cuya edad esté comprendida entre los 12 y 29 años cumplidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -101,7 +99,11 @@ Para los efectos de esta Ley, se considera persona joven aquella cuya edad esté
 
 Las personas jóvenes gozan de todos los derechos garantizados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, instrumentos internacionales sobre derechos humanos y en la legislación especial relativa al tema.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -109,13 +111,13 @@ Las personas jóvenes gozan de todos los derechos garantizados en la Constituci�
 
 Las disposiciones del presente ordenamiento son complementarias a las establecidas para quienes se encuentren entre los 12 años de edad y menores de 18, previstas en las leyes específicas para las personas menores de edad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO II. DE LA POLÍTICA PÚBLICA ESTATAL EN MATERIA DE JUVENTUD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -131,7 +133,7 @@ III. La autonomía progresiva en el ejercicio de los derechos de las personas j�
 
 IV. La corresponsabilidad entre las personas jóvenes, su familia, la sociedad y el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -171,7 +173,7 @@ XV. Generar acciones para la prevención del delito y programas de reinserción 
 
 XVI. Fomentar la cultura de la legalidad, el respeto de los derechos humanos y la solución pacífica de los conflictos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -179,7 +181,7 @@ XVI. Fomentar la cultura de la legalidad, el respeto de los derechos humanos y l
 
 El Instituto Chihuahuense de la Juventud participará, conjuntamente con las dependencias y entidades de la administración pública estatal, en la formulación de los programas y proyectos de la política pública en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -914,3 +916,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1565/2016 XXI P.E., MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
