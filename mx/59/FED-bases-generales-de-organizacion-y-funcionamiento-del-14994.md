@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2012-06-11"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-12"
 
 BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2016.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -79,7 +79,7 @@ V. Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica;
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
-VI. Unidad de Apoyo Operativo, y (sic)
+VI. Unidad de Apoyo Operativo, y
 
 > <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
 
@@ -111,7 +111,9 @@ El Director General del Instituto Federal de Defensoría Pública, además de la
 
 I. Ejecutar y vigilar la aplicación de las políticas y acciones formuladas por la Junta Directiva;
 
-II. Vigilar el cumplimiento de lo previsto por estas Bases Generales;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+II. Vigilar el cumplimiento de lo previsto por estas Bases Generales; y, proponer a la Junta Directiva los objetivos estratégicos y los indicadores clave del desempeño para la evaluación y rendición de cuentas del Instituto;
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
 
@@ -121,9 +123,9 @@ IV. Proponer a las áreas correspondientes del Consejo de la Judicatura Federal,
 
 V. Proponer el nombramiento de cada defensor público y asesor jurídico interinos, en los términos que establecen las normas que regulan el servicio civil de carrera;
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
-VI. Considerar los resultados de la supervisión y evaluación que le reporten las Unidades correspondientes y, con base en ellos, adoptar las decisiones conducentes para mejorar los servicios prestados por los defensores públicos y asesores jurídicos;
+VI. Considerar los resultados de la supervisión y evaluación que le reporten las Unidades correspondientes, tomando en consideración entre otros aspectos el seguimiento de los asuntos penales y si se ha hecho valer a favor de los imputados, acusados, procesados o sentenciados el derecho a libertad caucional o medida cautelar distinta a la prisión preventiva, así como la suspensión condicional o, en su caso, la prescripción de la acción penal o de la sanción penal y, con base en ello adoptar las decisiones conducentes para mejorar los servicios prestados por los defensores públicos y asesores jurídicos;
 
 VII. Determinar la adscripción de cada uno de los servidores públicos del Instituto;
 
@@ -131,7 +133,9 @@ VII. Determinar la adscripción de cada uno de los servidores públicos del Inst
 
 VII bis. Acordar los cambios de adscripción de los servidores públicos del Instituto que estime procedentes, a petición de parte interesada o por necesidades del servicio;
 
-VIII. Proponer ante el Consejo de la Judicatura Federal, las sanciones y correcciones disciplinarias que se deban imponer a los servidores públicos del Instituto, siguiendo los procedimientos que en los ámbitos laboral o administrativo de responsabilidades señale la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Enviar las quejas que se presenten en contra de los defensores públicos y asesores jurídicos y demás servidores al Consejo de la Judicatura Federal, con la finalidad de que en su caso se investigue su probable responsabilidad;
 
 IX. Presentar denuncias penales ante el Ministerio Público de la Federación, en los casos en que la conducta de los servidores públicos del Instituto, pueda implicar la comisión de algún delito, independientemente de las sanciones aplicables a dichos servidores, en los ámbitos laboral y administrativo de responsabilidades;
 
@@ -145,7 +149,7 @@ XII. Vigilar que exista la adecuada coordinación entre las unidades administrat
 
 XIII. Dictar las medidas necesarias para la modernización, simplificación y mejoramiento administrativo del Instituto;
 
-XIV. Delegar funciones para la atención de los asuntos, organización y funcionamiento del Instituto, excepto aquéllas que por disposición de la propia Ley, deban ser ejercidas personalmente por el Director General, y (sic)
+XIV. Delegar funciones para la atención de los asuntos, organización y funcionamiento del Instituto, excepto aquéllas que por disposición de la propia Ley, deban ser ejercidas personalmente por el Director General, y
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
@@ -155,9 +159,13 @@ XV. Ordenar la práctica de visitas de supervisión directa extraordinaria cuand
 
 XVI. Determinar la creación de Delegaciones conforme lo requieran las necesidades del servicio, previo conocimiento de la Junta Directiva; y,
 
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Proponer a la Junta Directiva el proyecto del Plan Anual de Capacitación y Estímulos del Instituto, así como un programa de difusión de los servicios que ofrece la institución; y,
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE FEBRERO DE 2002)</small>
 
-XVII. Las demás que le sean conferidas por las normas aplicables.
+XVIII. Las demás que le sean conferidas por las normas aplicables.
 
 ### CAPITULO IV. De las unidades administrativas
 
@@ -261,7 +269,7 @@ VI. Determinar la intervención de cada asesor jurídico en asuntos específicos
 
 VII. Conocer, tramitar y resolver sobre el procedimiento de retiro del servicio de asesoría jurídica;
 
-VIII. Vigilar que la prestación del servicio de asesoría jurídica en casos de urgencia, se encuentre justificada, y (sic)
+VIII. Vigilar que la prestación del servicio de asesoría jurídica en casos de urgencia, se encuentre justificada, y
 
 > <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
 
@@ -307,15 +315,17 @@ V. Vigilar el cumplimiento de las sugerencias, requerimientos o sanciones que re
 
 VI. Vigilar el cumplimiento de las disposiciones que contiene la Ley y las presentes Bases Generales, así como las normas aplicables a los servicios de defensa penal y asesoría jurídica;
 
-VII. Aplicar el procedimiento de atención a quejas interpuestas en contra de los servidores públicos del Instituto;
+VII. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2016)
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+VIII. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2016)
 
-VIII. Vigilar el trámite de las denuncias y quejas en materia de derechos humanos, en aquellos asuntos a cargo de la defensoría; y,
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+IX. Coordinar a las Delegaciones y a las Direcciones de Prestación de los Servicios de Defensa Penal y de Asesoría Jurídica en la supervisión documental de los expedientes de control, a cargo de cada defensor público y asesor jurídico; y,
 
-IX. Coordinar a las Delegaciones y a las Direcciones de Prestación de los Servicios de Defensa Penal y de Asesoría Jurídica en la supervisión documental de los expedientes de control, a cargo de cada defensor público y asesor jurídico.
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+X. Integrar cuadernos de antecedentes y vigilancia que, en su caso, se relacionen con las inconformidades que se reciban; o, con las quejas que sean enviadas al Consejo de la Judicatura Federal.
 
 #### SECCION QUINTA. De la Unidad de Apoyo Operativo
 
@@ -381,7 +391,9 @@ VI. Concentrar, validar y enviar a la Dirección General la información estadí
 
 VII. Cumplir con el horario de labores y estar presentes en su Delegación o Dirección a efecto de resolver oportunamente los problemas que se susciten, salvo cuando el Director General los comisione o autorice a faltar para atender asuntos propios debidamente justificados o realicen visitas de trabajo, acudan ante autoridades o centros de reclusión;
 
-VIII. Vigilar que se cumplan los horarios de trabajo determinados, estableciendo los mecanismos de control necesarios y preservar la disciplina de todo el personal;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Vigilar que se cumplan los horarios de trabajo determinados, estableciendo mecanismos de control acordes a la función y el cargo de los servidores, y preservar la disciplina de todo el personal;
 
 IX. Programar los períodos vacacionales, con los ajustes derivados de los permisos concedidos y remitirlos, oportunamente, a la Dirección General para su aprobación;
 
@@ -399,11 +411,15 @@ XV. Cuando en una ciudad estén adscritos dos o más asesores jurídicos, vigila
 
 XVI. Proponer a la Dirección General, en forma fundada y motivada, cambios de adscripción del personal de apoyo y administrativo de la Delegación a su cargo;
 
-XVII. Levantar las actas correspondientes y remitirlas, inmediatamente, a la Dirección General junto con la documentación que respalde su actuación a fin de que se inicie el procedimiento administrativo que corresponda, cuando tenga conocimiento de que algún servidor público adscrito a la Delegación o Dirección incurra en omisión o incumpla sus obligaciones;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Levantar las actas correspondientes y remitirlas, inmediatamente, a la Dirección General junto con la documentación que respalde su actuación a fin de que se inicie el procedimiento o trámite que corresponda, cuando tenga conocimiento de que algún servidor público adscrito a una Delegación o Dirección de Prestación del Servicio incurra en omisión o incumpla sus obligaciones, deberes o atribuciones;
 
 XVIII. Comunicar, inmediatamente, a la Dirección General, con todos los datos, las conductas de las que tuviere conocimiento, realizadas por un servidor público integrante del Instituto Federal de Defensoría Pública, aunque no pertenezca a su adscripción, que afecte la buena fama o la imagen del Instituto;
 
-XIX. Llevar a cabo las gestiones institucionales que correspondan ante los órganos jurisdiccionales, ministeriales o administrativos que coadyuven al eficaz desarrollo de las funciones de los defensores públicos y asesores jurídicos;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Llevar a cabo las gestiones institucionales y acciones de coordinación que correspondan ante los órganos jurisdiccionales, ministeriales o administrativos que coadyuven al eficaz desarrollo de las funciones de los defensores públicos y asesores jurídicos;
 
 XX. Cumplir, eficiente y oportunamente, con las intervenciones que en casos concretos acuerde el Director General y con los asuntos que les sean turnados por los titulares de las Unidades o Secretarios Técnicos, así como verificar que las comisiones encargadas a defensores públicos o asesores jurídicos se cumplan de manera eficiente y oportuna;
 
@@ -447,17 +463,17 @@ A la Secretaría Técnica de Coordinación Externa corresponderá presentarle al
 
 El defensor público y el asesor jurídico ejercen sus funciones en horario de tiempo completo, con las modalidades que determine la Dirección General atendiendo a la necesidad de los servicios, por lo que deberán cumplir las jornadas matutina y vespertina que se fijen, y fuera de ellas estar localizables para atender cualquier asunto urgente.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 15.
 
-El defensor público y el asesor jurídico en el ejercicio de su cargo, deben observar los principios de respeto, diligencia, prudencia, lealtad y economía procesal, así como atender las disposiciones que la Dirección General emita en materia administrativa.
+El defensor público, el asesor jurídico y demás personal en el ejercicio de su cargo, deben observar los principios de respeto, diligencia, prudencia, lealtad y economía procesal, así como atender las disposiciones que la Dirección General emita en materia administrativa.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 16.
 
-La defensa en materia penal y la asesoría jurídica en otras materias, son incompatibles con el patrocinio particular.
+La defensa en materia penal y la asesoría jurídica en otras materias, son incompatibles con el patrocinio particular, salvo disposición expresa en contrario de la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
@@ -525,11 +541,11 @@ El servicio de defensa penal en averiguación previa puede ser solicitado direct
 
 Si quien requiere el servicio se encuentra privado de su libertad, la solicitud la puede hacer algún familiar o cualquier persona que tenga conocimiento de esta situación, siempre que se trate de un asunto penal del fuero federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 23.
 
-Además de las obligaciones que establece el artículo 20, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, los artículos 127 Bis y 128 fracción III del Código Federal de Procedimientos Penales, así como el artículo 11 de la Ley, el defensor público en averiguación previa tiene las siguientes:
+Además de las obligaciones que derivan del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 127 Bis y 128, fracción III, del Código Federal de Procedimientos Penales, así como el artículo 11 de la Ley, el defensor público en averiguación previa tiene las siguientes:
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
@@ -639,19 +655,23 @@ Los defensores visitarán a sus defendidos en los siguientes momentos:
 
 a) Al inicio de la instrucción.
 
-b) Previamente a que se formulen las conclusiones.
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
-c) En segunda instancia, antes de expresar agravios.
+b) Durante la instrucción.
 
-d) Después de dictada la sentencia de primera y segunda instancia.
+c) Previamente a que se formulen las conclusiones.
+
+d) En segunda instancia, antes de expresar agravios.
+
+e) Después de dictada la sentencia de primera y segunda instancia.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2012)</small>
 
 Los defensores valorarán la necesidad de realizar más visitas y estarán atentos a entrevistarse personalmente con los defendidos, sus familiares o sus allegados, siempre y cuando ellos lo soliciten o resulte necesario para transmitirles información relevante o llevar a cabo algún acto procesal determinante para la defensa. Todo lo efectuado por los defensores deberán hacerlo constar de la manera que estimen adecuada.
 
-> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
-Los defensores practicarán las visitas necesarias para realizar una defensa adecuada y de calidad.
+Los defensores practicarán las visitas necesarias para realizar una defensa adecuada y de calidad; en todo caso, es responsabilidad de los defensores mantener permanentemente informados a sus defendidos acerca del caso en que participan, sea cual fuere la instancia o procedimiento.
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
 
@@ -735,6 +755,10 @@ Sólo procede este servicio, en los dos primeros incisos, cuando el procesado no
 
 V. En todas las materias, tratándose de juicios de amparo en que los titulares de órganos jurisdiccionales requieran la designación de un representante especial para un menor o un adulto que tenga limitada la capacidad de representarse por sí mismo.
 
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+Dado que el servicio de asesoría jurídica es gratuito, se prestará en la Delegación o adscripción que corresponda al domicilio particular del usuario, para no incidir en su patrimonio.
+
 ###### Artículo 30.
 
 El asesor jurídico debe ser acucioso en el análisis de los expedientes judiciales en los que intervenga y en las promociones que elabore, debiendo ser éstas fundadas y motivadas, así como enriquecidas con la invocación de precedentes, tesis de jurisprudencia y doctrina.
@@ -801,6 +825,10 @@ VI. En caso de negativa del servicio de representación por razones de competenc
 
 La tarjeta informativa a que se refiere la fracción I de este artículo, se entregará al solicitante cuando el servicio se preste en las modalidades de asesoría o representación.
 
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 32 BIS.- Para el otorgamiento del servicio de representación deberá evitarse en todo momento que se haga una práctica cotidiana, abusiva o injustificada por parte de una persona o grupo, considerando el número de los servicios ya prestados, el contenido de la petición o cualquier otra circunstancia a juicio del titular de la Unidad de Asesoría Jurídica y Evaluación del Servicio. En estos casos dicho titular podrá negar la representación.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 33.
@@ -825,11 +853,11 @@ En estos casos, si el solicitante aporta la documentación o información necesa
 
 El servicio de asesoría jurídica puede ser solicitado por cualquier persona de manera directa, o a través de un tercero, cuando se acredite que el interesado se encuentra imposibilitado para hacerlo personalmente.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Para efectos de lo dispuesto por la fracción IV del artículo 15 de la Ley, el servicio de asesoría jurídica se proporciona a las personas que reciben, bajo cualquier concepto, ingresos brutos en un mes hasta por el monto equivalente a doce veces el salario mínimo general mensual vigente en el Distrito Federal. Respecto a lo señalado por la fracción VI de dicho precepto legal, el Director General del Instituto es quien determina qué personas físicas o morales tienen necesidad del servicio por razones sociales o económicas.
+Para efectos de lo dispuesto por la fracción IV del artículo 15 de la Ley, el servicio de asesoría jurídica se proporciona a las personas que reciben, bajo cualquier concepto, ingresos brutos en un mes hasta por el monto equivalente a doce veces el salario mínimo general vigente en la Ciudad de México o su similar en unidades de medida y actualización, siempre a favor del usuario. Respecto a lo señalado por la fracción VI de dicho precepto legal, el Director General del Instituto es quien determina qué personas físicas o morales tienen necesidad del servicio por razones sociales o económicas.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
@@ -975,7 +1003,7 @@ VI. Estudio socioeconómico.- En él se analiza la situación social y económic
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
-VII. Promociones.- Escritos en los que el asesor jurídico promueve todo lo relacionado a la representación de sus patrocinados ante los órganos jurisdiccionales y autoridades administrativas competentes del fuero federal, y (sic)
+VII. Promociones.- Escritos en los que el asesor jurídico promueve todo lo relacionado a la representación de sus patrocinados ante los órganos jurisdiccionales y autoridades administrativas competentes del fuero federal, y
 
 > <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
 
@@ -1023,11 +1051,11 @@ Es obligación del defensor público y asesor jurídico, precisar en cada docume
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 48.
 
-La supervisión es el conjunto de acciones, tendientes a verificar el cumplimiento de las normas que rigen la función sustantiva del defensor público y asesor jurídico, permitiendo conocer las condiciones de su desempeño. Se realiza en forma directa, permanente y sistemática a través del cuerpo de supervisores, adscritos a la Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica, así como, de manera documental, por el delegado correspondiente.
+La supervisión es el conjunto de acciones, tendientes a verificar el cumplimiento de las normas que rigen la función sustantiva y administrativa del defensor público o asesor jurídico, permitiendo conocer las condiciones de su desempeño. Se realiza en forma directa, imparcial, permanente y sistemática a través del cuerpo de supervisores, adscritos a la Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica, así como de manera documental por el Delegado o Director de Prestación del Servicio correspondiente.
 
 ###### Artículo 49.
 
@@ -1073,9 +1101,9 @@ La visita de supervisión directa se realiza:
 
 I. En forma ordinaria, conforme al programa anual diseñado por la Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica; y,
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
-II. En forma extraordinaria, cuando la ordene el Director General: por existir una queja concreta en contra de algún servidor público o advertir el incumplimiento a las normas establecidas en estas Bases Generales; o por solicitarla el delegado o director de la circunscripción correspondiente debido a las deficiencias en el desempeño del defensor público o asesor jurídico, observadas en la supervisión documental.
+II. En forma extraordinaria, cuando lo ordene el Director General, por existir una inconformidad concreta y fundada en contra de algún servidor público o advertirse el incumplimiento a las normas establecidas en la Ley o en estas Bases Generales; o por solicitarla el delegado o director de la circunscripción correspondiente debido a las deficiencias en el desempeño del defensor público o asesor jurídico, observadas en la supervisión documental.
 
 ###### Artículo 52.
 
@@ -1329,11 +1357,11 @@ Para el desempeño de sus funciones, al defensor público se le adscribe indisti
 
 El defensor público, asesor jurídico, supervisor, evaluador o delegado que, tras haber triunfado en un concurso de oposición, rechace o no ocupe en el tiempo que se le fije la adscripción asignada no podrá participar en ningún otro concurso, salvo que demuestre, fehaciente y suficientemente, ante el Director General del Instituto la imposibilidad, personal o familiar, de ocupar esa adscripción. El Director General decidirá lo conducente tomando en cuenta los argumentos y las pruebas que se ofrezcan para acreditar dicha imposibilidad, así como las necesidades del servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 68.
 
-El Director General, para acordar el cambio de adscripción o sede solicitados por un defensor público, asesor jurídico, supervisor o delegado del Instituto, tendrá en cuenta, primordialmente, las necesidades del servicio y, además, lo siguiente:
+El Director General, para acordar el cambio de adscripción o sede solicitados por un defensor público, asesor jurídico, supervisor o delegado del Instituto, tendrá en cuenta primordialmente, las necesidades del servicio y, en su caso, lo siguiente:
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
@@ -1369,13 +1397,19 @@ El Director General podrá acordar el cambio de sede o adscripción de un defens
 
 Artículo 69 bis.- El Director General podrá acordar el cambio de sede de un defensor público o un asesor jurídico, por necesidades del servicio, cuando existan problemas graves en su adscripción o cuando los servicios proporcionados a los usuarios no sean satisfactorios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 TER.- El Director General podrá solicitar directamente el cese de un defensor público o asesor jurídico en el caso previsto en el artículo 5, fracción VII, de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 70.
 
-Cuando por cualquier causa existan plazas vacantes de defensor público o asesor jurídico, excepto por licencia o suspensión, serán cubiertas por los licenciados en Derecho que hayan resultado seleccionados por concurso de oposición; si no hubiese triunfadores de concurso, pendientes de asignación de plaza, el Director General del Instituto, de conformidad con las presentes Bases Generales, propondrá el nombramiento de licenciados en Derecho que cubran interinamente las plazas vacantes, hasta en tanto se convoque al concurso de oposición correspondiente.
+Cuando por cualquier causa existan plazas vacantes de defensor público o asesor jurídico, excepto por licencia o suspensión, de acuerdo a las necesidades del servicio podrán ser cubiertas de manera interina por los licenciados en Derecho que hayan resultado seleccionados por concurso de oposición cuando no hubieren alcanzado alguna de las plazas concursadas; o si no hubiese triunfadores o no los suficientes, el Director General podrá solicitar el nombramiento interino de licenciados en Derecho que satisfagan los requisitos del artículo 5 de la Ley con excepción del de la fracción V, hasta en tanto las necesidades del servicio en cuanto a contar con más defensores definitivos hicieren necesario convocar a un Concurso de Oposición. Igualmente, la ocupación interina podrá darse conforme a las políticas emitidas por la Junta Directiva.
 
-Se resolverá de la misma manera, la ocupación de plazas vacantes que se presenten por licencia o suspensión, en cuyo caso los triunfadores de concurso las podrán ocupar con el carácter de interinos, en tanto se reincorpora el titular de la plaza, o surge una plaza vacante definitiva en la cual puedan ser adscritos.
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+Se resolverá de la misma manera, la ocupación interina de plazas vacantes que se presenten por licencia o suspensión.
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2008)</small>
 
@@ -1411,75 +1445,121 @@ Los Seminarios de Actualización se programarán con base en los criterios seña
 
 Las bibliotecas del Instituto estarán al servicio principalmente de las personas que laboren en él. Se procurará que cuenten con los materiales que sean útiles a los defensores públicos y asesores jurídicos en el desarrollo de sus funciones.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 72.
 
-Cuando el defensor público o asesor jurídico incumpla o viole lo dispuesto por la Ley o por las presentes Bases Generales, se aplicarán las sanciones y correcciones disciplinarias que resulten procedentes, de acuerdo a la naturaleza de la responsabilidad administrativa, falta o irregularidad laboral en que incurra.
+Cuando el defensor público o asesor jurídico viole lo dispuesto por la Ley o por las presentes Bases Generales, se aplicarán o promoverán las consecuencias o correcciones que procedan de acuerdo a la normativa.
 
 ### CAPITULO II. De la promoción
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 73.
 
-La promoción comprende el ascenso del defensor público y del asesor jurídico a los cargos de supervisor y de evaluador en la materia respectiva y al de delegado; del supervisor a los cargos de evaluador en la materia de su especialidad y al de delegado, del evaluador al de delegado.
+La promoción comprende el ascenso del defensor público y del asesor jurídico definitivos a los cargos de supervisor y de evaluador en la materia respectiva y al de delegado; del supervisor a los cargos de evaluador en la materia de su especialidad y al de delegado; y del evaluador al de delegado. En su caso, un delegado, evaluador o supervisor podrá solicitar dentro del servicio civil de carrera su cambio a la categoría que anteriormente ocupaba si se dan las circunstancias para ello.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 74.
 
-Cuando exista una vacante, el defensor público y el asesor jurídico que, en el desempeño de su cargo demuestre objetividad, perseverancia, acuciosidad y orden, podrá participar en los procedimientos internos de selección para ascender a la categoría de supervisor, tomando en cuenta los elementos siguientes:
+Cuando exista una vacante, el defensor público o el asesor jurídico definitivo que, en el desempeño de su cargo demuestre objetividad, perseverancia, acuciosidad y orden, podrá participar en los procedimientos internos de selección para ascender a la categoría de supervisor en su especialidad, tomando en cuenta los elementos siguientes:
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 I. Antigüedad en la institución encargada de la defensoría pública federal y en su plaza;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 II. Grado académico, que comprende el nivel de estudios con que cuenta el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 III. Disciplina, mesura y prudencia del servidor público dentro de la Institución;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 IV. Haber desempeñado de manera destacada el cargo que ocupa dentro del Instituto;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 V. Continuidad en el desempeño; y,
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
+
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
 
 A quienes resulten triunfadores en esos procedimientos se les otorgará una plaza definitiva de confianza de supervisor en materia de defensa penal o de supervisor en materia de asesoría jurídica, según sea la función que desempeñe. El Director General del Instituto determinará la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias expresadas por los ganadores.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
 
-Artículo 74 bis.- Cuando exista una vacante, el defensor público, el asesor jurídico y el supervisor que, en el desempeño del cargo, demuestren objetividad, perseverancia, acuciosidad y orden, además de tener sentido analítico, buen criterio jurídico, razonamiento lógico y capacidad de síntesis, podrán participar en los procedimientos internos de selección para ascender a la categoría de evaluador, tomando en cuenta los elementos siguientes:
+Artículo 74 BIS.- Cuando exista una vacante, el defensor público o el asesor jurídico definitivo y el supervisor que, en el desempeño del cargo, demuestren objetividad, perseverancia, acuciosidad y orden, podrán participar en los procedimientos internos de selección para ascender a la categoría de evaluador, tomando en cuenta los elementos siguientes:
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 I. Antigüedad en la institución encargada de la defensoría pública federal y en su plaza;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 II. Grado académico, que comprende el nivel de estudios con que cuenta el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 III. Disciplina, mesura y prudencia del servidor público dentro de la institución;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 IV. Haber desempeñado de manera destacada el cargo que ocupa dentro del Instituto;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 V. Continuidad en el desempeño; y,
 
-VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
-A los que resulten triunfadores en esos procedimientos se les otorgará una plaza definitiva de confianza de evaluador en la materia de su especialidad.
+VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
 
+A los que resulten triunfadores en esos procedimientos se les otorgará una plaza definitiva de confianza de evaluador en la materia de su especialidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 75.
 
-Cuando exista una vacante, el defensor público, el asesor jurídico, el supervisor y el evaluador que, en el desempeño del cargo, hayan mostrado sentido analítico, buen criterio jurídico, razonamiento lógico y capacidades de liderazgo, organización del trabajo, control administrativo, gestión y seguimiento de acciones institucionales y, además, demuestren objetividad, perseverancia, acuiciosidad (sic) y orden, podrán participar en los procedimientos internos de selección para ascender a la categoría de delegado, tomando en cuenta los elementos siguientes:
+Cuando exista una vacante, el defensor público o el asesor jurídico definitivo, el supervisor y el evaluador que, en el desempeño del cargo demuestren objetividad, perseverancia, acuciosidad y orden, además de liderazgo y control, podrán participar en los procedimientos internos de selección para ascender a la categoría de delegado, tomando en cuenta los elementos siguientes:
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 I. Antigüedad dentro de la institución encargada de la defensoría pública federal y en su plaza;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 II. Grado académico, que comprende el nivel de estudios con que cuenta el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 III. Disciplina, mesura y prudencia del servidor público dentro de la institución;
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 IV. Haber desempeñado de manera destacada el cargo que ocupa dentro del Instituto;
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
 
 V. Continuidad en el desempeño; y,
 
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2011)</small>
+
 VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
+
 A los servidores públicos que resulten triunfadores en esos procedimientos se les otorgará una plaza definitiva de confianza de delegado. El Director General del Instituto decidirá la adscripción conforme a las necesidades del servicio y preferencias manifestadas por los ganadores.
+
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
 
 En caso de declararse desierto un concurso para las categorías de supervisor, evaluador y de delegado; el Director General, atendiendo a las necesidades del servicio, designará al servidor público del Instituto que haya cumplido con sus funciones en forma destacada.
 
@@ -1537,6 +1617,178 @@ Las faltas temporales del defensor público y asesor jurídico, se suplirán por
 
 Las faltas temporales de los demás servidores públicos del Instituto, se suplirán por los funcionarios de la jerarquía inmediata inferior que designe el Director General, quienes desempeñarán el cargo con el carácter de encargados del despacho.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+## TÍTULO DÉCIMO. De los Defensores que actúan en el Sistema Penal Acusatorio
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO I. Reglas comunes para el servicio de defensa penal en el Sistema Penal Acusatorio
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 82.
+
+Este título regula en lo particular las funciones, instrumentos de registro y expedientes de control para el servicio de defensa penal, supervisión y evaluación de los defensores públicos que actúan en el sistema penal acusatorio oral.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 83.
+
+Salvo lo previsto en este título, los defensores públicos estarán sujetos a las disposiciones generales que se contienen en las presentes Bases Generales.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 84.
+
+Los defensores públicos llevarán la defensa en la etapa de investigación o audiencia iniciales, investigación complementaria, etapa intermedia, etapa de juicio, procedimientos especiales, trámite de recursos, trámite de reconocimiento de inocencia o ejecución, de conformidad con las necesidades del servicio, especialización práctica y determinaciones del Director General.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 85.
+
+Los defensores públicos de manera constante se entrevistarán con sus defendidos o los visitarán en los centros de detención o reclusión, con la finalidad de conocer su versión de los hechos, preparar su teoría del caso, determinar qué pruebas se pueden hacer valer y cuáles deben ser obtenidas por él o con apoyo o bajo la responsabilidad del imputado, acusado o sentenciado, según se trate; informarlo detenidamente de la manera en que se desarrollará cada etapa del procedimiento penal al cual está relacionado, y en general, mantenerlo informado, así como recibir sus peticiones y analizarlas conjuntamente.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 86.
+
+El defensor público en la etapa de investigación tiene las siguientes obligaciones:
+
+I. Asumir, ejercer la defensa técnica y adecuada de los imputados, desde el momento de su detención, en cualquier actuación de policía y ministerial, en cuanto lo nombren o sea designado ante el Ministerio Público, y comparecer a todos los actos de investigación en los que legalmente tenga intervención;
+
+II. Solicitar al Ministerio Público Federal todos aquellos actos de investigación que considere pertinentes y útiles para el esclarecimiento de los hechos, la probable responsabilidad de su defendido y datos sobre si la acción penal se ha extinguido;
+
+III. Acceder y analizar los registros de la investigación cuando el defendido se encuentre detenido o se le haya citado con tal carácter; en su caso, acudir al Juez de Control para que resuelva lo conducente;
+
+IV. Solicitar el no ejercicio de la acción penal cuando de los antecedentes del caso se desprenda alguna causal de sobreseimiento;
+
+V. Solicitar la aplicación de criterios de oportunidad en los casos que sean procedentes;
+
+VI. En los casos que proceda, hacer valer la exclusión o nulidad de la prueba ilícita;
+
+VII. Asistir al imputado en la audiencia inicial, haciendo valer lo que corresponda en cuanto al control de detención o en lo referente a la formulación de la imputación;
+
+VIII. Hacer la propuesta respecto del plazo para el cierre de la investigación complementaria;
+
+IX. Participar en las diligencias de investigación en que fuere procedente su presencia;
+
+X. Hacer acopio de datos o medios de prueba pertinentes;
+
+XI. Analizar la procedencia, y en su caso, promover salidas alternas al juicio como suspensión condicional o procedimiento abreviado, procurando en todo momento la salvaguarda de los derechos de su defendido; y,
+
+XII. Las demás que fueren necesarias para una técnica y adecuada defensa.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 87.
+
+El defensor público en la etapa intermedia tiene las siguientes obligaciones:
+
+I. Analizar el escrito de acusación que formule el Ministerio Público Federal;
+
+II. Participar en el descubrimiento probatorio y solicitar el desechamiento de medios de prueba;
+
+III. Ofrecer y solicitar la admisión de medios de prueba;
+
+IV. Hacer valer lo que corresponda respecto de la solicitud de coadyuvancia, solicitar la acumulación o separación de acusaciones, o manifestarse acerca de los acuerdos probatorios;
+
+V. Participar como corresponda en la audiencia intermedia; y,
+
+VI. Las demás que sean necesarias para una técnica y adecuada defensa.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 88.
+
+El defensor público en la etapa de juicio tiene las siguientes obligaciones:
+
+I. Mantener informado al defendido del inicio y avance del juicio al que se encuentra sujeto;
+
+II. Realizar sus alegatos de apertura y de cierre en forma técnica y precisa, participando con argumentos jurídicos;
+
+III. Promover lo que corresponda en los casos en que el Ministerio Público Federal plantee la reclasificación del delito invocado en su escrito de acusación;
+
+IV. Llevar a cabo los interrogatorios o contrainterrogatorios según corresponda, señalando los casos en que el testigo se conduzca de manera hostil;
+
+V. Realizar a cabo las objeciones que resulten pertinentes;
+
+VI. Participar activamente en la audiencia de individualización de sanciones y reparación del daño; y,
+
+VII. En general realizar todo aquello que legalmente proceda y sea necesario para la defensa técnica y adecuada de los intereses del procesado o sentenciado.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 89.
+
+En el trámite de los procedimientos especiales, recursos, reconocimiento de inocencia y etapa de ejecución, el defensor público realizará todos los actos y promociones necesarios para la protección de los derechos de su defendido.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 90.
+
+Los defensores públicos generarán información documental y por medios electrónicos con el propósito de llevar registro y expedientes de control, a fin de conocer el estado que guarda cada uno de los asuntos en que intervienen, desde el inicio de su actuación y hasta que la concluyan.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. De la práctica de la supervisión y evaluación en el sistema penal acusatorio
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 91.
+
+Los supervisores en el sistema de justicia penal obtendrán información de los siguientes rubros de actuación del defensor público:
+
+a) Entrevistas con el imputado, acusado, procesado o sentenciado, testigos, peritos y otras personas;
+
+b) Inspecciones o recolección de datos o medios de prueba;
+
+c) Solicitud de datos en investigación;
+
+d) Elementos de los casos que serán materia de supervisión y evaluación;
+
+e) Teoría del caso diseñada en los asuntos materia de supervisión y evaluación;
+
+f) Investigación;
+
+g) Audiencias: puntualidad, presencia, conducta, conocimiento del caso, planteamientos, acuerdos probatorios, medios de prueba ofrecidos y desahogados, alegatos, intervenciones, interrogatorios, contrainterrogatorios y objeciones;
+
+h) Resoluciones;
+
+i) Medios de impugnación;
+
+j) Organización de la adscripción, instrumentos de registro y expedientes de control; y,
+
+k) Todo aquello que sea pertinente.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 92.
+
+Durante la supervisión se recabarán los documentos, grabaciones de video o audio y cualquier elemento que permita emitir una opinión razonada y sustentada acerca de la actuación del defensor.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 93.
+
+El supervisor remitirá a la Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica el expediente integrado con motivo de su intervención, para los efectos que procedan.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 94.
+
+El expediente de supervisión se turnará a la Unidad de Defensa Penal y Evaluación del Servicio para la elaboración del dictamen respectivo, tomando en consideración la opinión razonada y sustentada del supervisor, llevando a cabo las sugerencias y requerimientos que procedan.
+
+Para la evaluación, en el ámbito procesal se tomará en cuenta:
+
+I. Datos relevantes del asunto y teoría del caso que si procede, hubiere formulado, con un valor de hasta 30 puntos;
+
+II. Actuación en la etapa de investigación inicial y complementaria, con especial consideración a su intervención en la audiencia inicial, o actuación en la etapa intermedia, o actuación en la audiencia de juicio con un valor de hasta 50 puntos y;
+
+III. Resoluciones dictadas en el caso, con un valor hasta de 20 puntos.
+
+En todos los casos se tomará en consideración si el defensor público actuó en una etapa específica por lo que en la evaluación se hará el ajuste correspondiente.
+
 ## TRANSITORIOS
 
 PRIMERO.- Las presentes Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1576,3 +1828,9 @@ UNICO.- Las presentes reformas a las Bases Generales de Organización y Funciona
 D.O.F. 11 DE JUNIO DE 2012.
 
 UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
+
+D.O.F. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS “BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]
+
+ÚNICO.- Las presentes modificaciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
