@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-recibir-un-apoyo-alimentario-633
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-03"
-last_updated: "2014-11-28"
+last_updated: "2016-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63384&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-18"
 
 LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 3 de octubre de 2008.
 
@@ -56,13 +56,17 @@ Para efectos de esta Ley se consideran madres solas de escasos recursos:
 
 I. Las madres solteras o casadas, en concubinato, en sociedad en convivencia que acrediten documentalmente la solicitud de disolución del vínculo jurídico o demanda de alimentos para ella y sus hijos, o en caso excepcional mediante acta circunstanciada ante Juez Cívico; el Sistema para el Desarrollo Integral de la Familia del Distrito Federal podrá realizar los estudios socioeconómicos pertinentes para su verificación;
 
-II. Que tengan hijos menores de 15 años; y
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II. Que tengan hijos menores de 15 años;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE 2016)</small>
 
-III. Que tengan un ingreso diario no superior a dos veces la Unidad de Cuenta de la Ciudad de México vigente, incluyendo cualquier pago por derecho (sic) alimentarios.
+III. Que tengan un ingreso diario no superior a dos salarios mínimos generales vigentes en el Distrito Federal, incluyendo cualquier pago por derecho alimentarios (sic); y
+
+> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE 2016)</small>
+
+IV. De igual forma podrán ser consideradas madres solas de escasos recursos, las que cumpliendo con los requisitos anteriores, se encuentren internas en cualquiera de los centros penitenciarios del Distrito Federal sujetas a proceso penal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -151,3 +155,15 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 16 DE NOVIEMBRE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL Y DE LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- El Gobierno de la Ciudad de México otorgará, mediante ampliaciones presupuestales, los recursos necesarios para iniciar en el año 2016, la aplicación del presente Decreto.
+
+CUARTO.- Se deberán considerar recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2017, para la aplicación del presente Decreto.
