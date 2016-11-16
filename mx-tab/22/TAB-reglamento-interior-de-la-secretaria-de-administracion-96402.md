@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-administracion-96402"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-02"
-last_updated: "2013-10-02"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION, TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 2 de octubre de 2013.
 
 LIC. ARTURO NÚÑEZ JIMENEZ, GOBERNADOR DEL ESTADO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 51, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 7, FRACCIÓN II, Y 8 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo antes expuesto, fundado y motivado, tengo a bien emitir el siguiente:
 
@@ -539,7 +543,7 @@ XXXVI. Analizar y establecer metas e indicadores que propicien el desarrollo en 
 
 XXXVII. Dirigir la vinculación de las actividades de las tecnologías de la información y comunicaciones para el Plan Estatal de Desarrollo;
 
-XXXVIII. Promover la capacitación integral en actitudes, aptitudes y desarrollo profesional de los titulares de Tecnologías de la Información y Comunicaciones de las Entidades, Dependencias y Órganos de la Administración Pública Estatal; y (sic)
+XXXVIII. Promover la capacitación integral en actitudes, aptitudes y desarrollo profesional de los titulares de Tecnologías de la Información y Comunicaciones de las Entidades, Dependencias y Órganos de la Administración Pública Estatal; y
 
 XXXIX. Gestionar y supervisar la implementación del Programa Gubernamental de Comunicaciones Digitales;
 
@@ -1255,7 +1259,7 @@ I. Establecer el Programa Institucional de Desarrollo de Personal del Poder Ejec
 
 II. Supervisar el cumplimiento de las disposiciones que rigen las relaciones laborales entre los trabajadores y la Administración Pública Estatal, con base en las leyes, decretos y reglamentos establecidos para tales efectos;
 
-III. Establecer el establecimiento (sic) de medidas de seguridad e higiene en el trabajo, así como las medidas de seguridad para la prevención de accidentes y enfermedades de trabajo a que están expuestos los servidores públicos, en coordinación con la Comisión Central Mixta de Seguridad e Higiene en el Trabajo;
+III. Establecer el establecimiento de (sic) medidas de seguridad e higiene en el trabajo, así como las medidas de seguridad para la prevención de accidentes y enfermedades de trabajo a que están expuestos los servidores públicos, en coordinación con la Comisión Central Mixta de Seguridad e Higiene en el Trabajo;
 
 IV. Elaborar, proponer un programa anual de eventos deportivos, recreativos y socioculturales en beneficio de los servidores públicos de la Administración Pública y sus familias;
 
@@ -1299,7 +1303,7 @@ V. Dirigir el establecimiento de medidas de seguridad e higiene en el trabajo, a
 
 VI. Operar el Programa Anual de Eventos Deportivos, Recreativos y Socioculturales en beneficio de los servidores públicos de la Administración Pública y sus familias;
 
-VII. Dirigir proyectos que regulen las relaciones laborales entre 1os servidores públicos y la Secretaría;
+VII. Dirigir proyectos que regulen las relaciones laborales entre los servidores públicos y la Secretaría;
 
 VIII. Aplicar políticas y lineamientos de operación, para la implementación de un programa de premios, estímulos y recompensas dirigido al personal del Poder Ejecutivo del Estado;
 
@@ -1844,3 +1848,17 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 LIC. ELOÍSA OCAMPO GONZÁLEZ
 
 SECRETARIA DE ADMINISTRACIÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Administración, publicado en el Suplemento al Periódico Oficial del Estado, número 7416, de fecha 02 de octubre de 2013, y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los procedimientos y asuntos que se encuentren en trámite o pendientes de resolución al entrar en vigor este Reglamento, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+CUARTO. Para el mejor funcionamiento de las Unidades Administrativas adscritas a la Secretaría, se deberán formular los respectivos manuales de organización y de procedimientos.
