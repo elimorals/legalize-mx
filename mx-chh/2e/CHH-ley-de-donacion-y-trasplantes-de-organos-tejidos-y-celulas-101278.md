@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-07"
-last_updated: "2014-07-02"
+last_updated: "2016-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de junio de 2014.
 
@@ -577,7 +575,13 @@ En el caso que los documentos referidos en los párrafos precedentes sean expedi
 
 XII. Promover la constitución de asociaciones, organismos o grupos de apoyo que fomenten la cultura de trasplantes y donación de órganos, tejidos y células, la gestión de recursos financieros o materiales para la donación, procuración y trasplante de órganos, tejidos y células en las instituciones de salud que operan en el Estado.
 
-XIII. Las demás que señalen las normas jurídicas aplicables.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Promover y fomentar, entre los trabajadores, la cultura de donación voluntaria y altruista de sangre, otorgándoles autorización para ausentarse de sus labores a fin de que acudan a los centros, clínicas u hospitales autorizados para la donación.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Las demás que señalen las normas jurídicas aplicables.
 
 ### CAPÍTULO II. ATRIBUCIONES ESPECÍFICAS DE LOS INTEGRANTES DEL COETRA-CHIH
 
@@ -870,3 +874,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los cinco días del mes de junio del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1563/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIII Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 47 DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
