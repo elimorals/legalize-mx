@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-de-reclusion-para-el-distrito-federal-100096"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-04"
-last_updated: "2014-12-18"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100096&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-03-28"
 
 LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de abril de 2014.
 
@@ -521,6 +521,10 @@ Las autoridades de los Centros de Reclusión procurarán un espacio adecuado par
 ###### Artículo 28.
 
 Las y los internos tendrán derecho a desempeñar un trabajo productivo, para ocuparlos durante el tiempo de la jornada laboral conforme a la ley, con una remuneración económica, la cual no será menor al salario mínimo vigente en el Distrito Federal y que les permita obtener una ganancia suficiente al obtener su libertad. Para ello, las autoridades tienen obligación de proveer fuentes de empleo en algún oficio útil, de acuerdo a las características de la economía local, en los centros de reclusión.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+Las internas madres solas de escasos recursos, sujetas a proceso penal, podrán contar adicionalmente, con el apoyo que otorga la Ley que Establece el Derecho a Recibir un Apoyo Alimentario a las Madres Solas de Escasos Recursos Residentes en el Distrito Federal.
 
 La autoridad podrá proveer de oportunidades laborales a las personas internas para el propio sistema penitenciario, como para empresas privadas.
 
@@ -1537,3 +1541,15 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE EL DERECHO A RECIBIR UN APOYO ALIMENTARIO A LAS MADRES SOLAS DE ESCASOS RECURSOS RESIDENTES EN EL DISTRITO FEDERAL Y DE LA LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- El Gobierno de la Ciudad de México otorgará, mediante ampliaciones presupuestales, los recursos necesarios para iniciar en el año 2016, la aplicación del presente Decreto.
+
+CUARTO.- Se deberán considerar recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2017, para la aplicación del presente Decreto.
