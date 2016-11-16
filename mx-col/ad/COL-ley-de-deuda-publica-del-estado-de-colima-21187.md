@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-21187"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-28"
-last_updated: "2015-12-29"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 16 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de abril del 2001.
 
@@ -376,3 +378,27 @@ P.O. 29 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO NO. 39 POR EL QUE SE REFORMA EL ARTÍCULO 5, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA; ASI MISMO LA FRACCIÓN I, Y SE DEROGA LA FRACCIÓN IV, DEL ARTÍCULO 67 TER DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 172 POR EL QUE SE EXPIDE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley de Deuda Pública del Estado de Colima, expedida mediante Decreto No. 89, publicada en el Periódico Oficial "El Estado de Colima", el sábado 28 de abril de 2001.
+
+TERCERO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en este Decreto.
+
+CUARTO. Los Financiamientos y Obligaciones vigentes a cargo de los Entes Públicos que no se encuentren inscritos en el Registro Estatal de Deuda Pública, deberán quedar registrados por los referidos Entes Públicos en un plazo no mayor a treinta días naturales a partir de la publicación de este Decreto.
+
+QUINTO. El titular del Poder Ejecutivo del Estado, en el ámbito de su competencia, estará facultado para emitir los reglamentos, acuerdos, decretos y lineamientos que estime pertinentes para proveer en la esfera administrativa la exacta observancia de las disposiciones contenidas en la presente ley.
+
+En tanto se expide el Reglamento del Registro Estatal de Deuda Pública a que se refiere el presente Decreto, seguirá en vigor el Reglamento que actualmente rija para la organización y funcionamiento de dicho Registro.
+
+SEXTO. En tanto entra en vigor la Ley General de Responsabilidades Administrativas, en atención a lo dispuesto en los artículos primero, segundo y tercero transitorios del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el día 18 de julio del 2016 en el Diario Oficial de la Federación, continuará aplicándose la legislación local en materia de responsabilidades que se encuentre vigente a la fecha de entrada en vigor del referido Decreto, observándose lo siguiente:
+
+Las responsabilidades que deriven de la fiscalización de las cuentas públicas continuarán siendo conocidas y sancionadas por el órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y el Congreso del Estado en los términos previstos en la Constitución Política del Estado Libre y Soberano de Colima, la Ley de Fiscalización Superior del Estado, la Ley Orgánica del Poder Legislativo del Estado de Colima y su Reglamento.
+
+Las responsabilidades administrativas continuarán siendo conocidas y sancionadas por los Órganos de control interno de los Entes Públicos y el superior jerárquico del servidor público responsable, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos y la Ley del Municipio Libre del Estado de Colima.
+
+SÉPTIMO. El Tribunal de Justicia Administrativa del Estado a que hace referencia el presente Decreto entrará en vigor hasta en tanto se le instituya en la Constitución Política del Estado Libre y Soberano de Colima y se expida su correspondiente ley orgánica, en términos de lo dispuesto en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado el día 27 de mayo del 2015 en el Diario Oficial de la Federación, así como en observancia al Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el día 18 de julio del 2016 en el Diario Oficial de la Federación.
