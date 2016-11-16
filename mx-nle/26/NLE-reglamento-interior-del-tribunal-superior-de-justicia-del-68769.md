@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2016-05-25"
+last_updated: "2016-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -519,9 +519,13 @@ VII. Delitos electorales tipificados, sancionados y regulados en los artículos 
 
 VIII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado.
 
-b) De los recursos de casación y revisión contra las sentencias definitivas pronunciadas por los jueces de juicio oral, en los procesos regulados por el Código Procesal Penal para el Estado de Nuevo León del 5 de julio de 2011 y sus reformas, siempre que se hayan tramitado por los delitos para los cuales está prevista la prisión preventiva de oficio.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
-c) De los recursos de apelación, así como de los reconocimientos de inocencia y de la anulación de sentencia, promovidos contra las sentencias definitivas pronunciadas por los jueces de juicio oral, en los procesos regulados por el Código Nacional de Procedimientos Penales del 5 de marzo de 2014 y sus reformas, en vigor en el Estado de Nuevo León a partir del 1° de enero de 2016, siempre que se hayan tramitado por los delitos para los cuales está prevista la prisión preventiva de oficio.
+b) De los recursos de casación y revisión contra las sentencias definitivas pronunciadas de manera colegiada por los jueces de juicio oral, en los procesos regulados por el Código Procesal Penal para el Estado de Nuevo León del 5 de julio de 2011 y sus reformas.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+c) De los recursos de apelación, así como de los reconocimientos de inocencia y de la anulación de sentencia, promovidos contra las sentencias definitivas pronunciadas de manera colegiada por los jueces de juicio oral, en los procesos regulados por el Código Nacional de Procedimientos Penales del 5 de marzo de 2014 y sus reformas, en vigor en el Estado de Nuevo León a partir del 1° de enero de 2016.
 
 Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas Penales y de las Salas Unitarias Penales, serán competentes para conocer de ellos las Salas Colegiadas Penales.
 
@@ -864,3 +868,13 @@ P.O. 25 DE MAYO DE 2016.
 PRIMERO: El presente Acuerdo General, incluyendo las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 8/2016, DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE REFORMA EL ARTÍCULO 39 DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: Las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenidas en este Acuerdo General, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Para efectos de la aplicación de la reforma a que se refiere el punto inmediato anterior, se tomará como base la fecha de interposición del recurso respectivo.
+
+TERCERO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
