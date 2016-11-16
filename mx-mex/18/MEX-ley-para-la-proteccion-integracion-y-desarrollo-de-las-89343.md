@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-integracion-y-desarrollo-de-las-89343"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,9 @@ state: "MEX"
 ---
 # LEY PARA LA PROTECCION, INTEGRACION Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE AGOSTO DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL AÑO 2015.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -85,7 +81,9 @@ XII. Consejo Consultivo: El Consejo Consultivo Estatal para la Protección, Inte
 
 XIII. DIF: Al Sistema para el Desarrollo Integral de la Familia del Estado de México;
 
-XIV. Discapacidad: Deficiencia física, mental, o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades;
+> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Discapacidad: Deficiencia física, mental o sensorial, o un trastorno de talla y peso, congénito o adquirido, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades.
 
 XV. Discapacidad física: La secuela de una afección en el sistema nervioso central, periférico o ambos y/o en el sistema músculo-esquelético;
 
@@ -113,7 +111,9 @@ XXVI. Logotipo de Accesibilidad: Figura estilizada de una persona en silla de ru
 
 XXVII. Organizaciones: Aquellas organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
 
-XXVIII. Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, intelectual o sensorial, ya sea permanente o temporal; que limita su capacidad de ejercer una o más actividades esenciales de la vida diaria;
+> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
+
+XXVIII. Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, intelectual o sensorial, o un trastorno de talla y peso, congénito o adquirido, ya sea permanente o temporal, que limita su capacidad de ejercer una o más actividades esenciales de la vida diaria.
 
 XXIX. Política Pública: Los planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
 
@@ -868,3 +868,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 149.- POR EL QUE SE REFORMAN LAS FRACCIONES XIV Y XXVIII DEL ARTÍCULO 3 DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
