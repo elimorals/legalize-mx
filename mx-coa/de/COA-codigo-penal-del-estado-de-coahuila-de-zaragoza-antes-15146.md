@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2016-07-08"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3353,19 +3353,17 @@ SANCIONES Y FIGURA TÍPICA DE ABUSO DE OTORGAMIENTO INDEBIDO DE PLAZAS, COMISION
 
 Al servidor público que en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos; o contratos de prestación de servicios profesionales o de cualquier otra naturaleza; que sean remunerados; a sabiendas de que no prestará el servicio para el que se les otorgó el empleo, cargo o comisión; o no se cumplirá el contrato.
 
-#### SECCIÓN SEXTA. PROMOCIÓN O DENIGRACIÓN DE IMAGEN
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEXTA
 
 ###### ARTÍCULO 203.
 
-SANCIONES Y FIGURA TÍPICA DE PROMOCIÓN O DENIGRACIÓN DE IMAGEN. Se aplicará prisión de seis meses a ocho años; multa de la mitad a dos tantos del beneficio obtenido; destitución de empleo, cargo o comisión públicos; e inhabilitación hasta por ocho años para desempeñar otro:
-
-Al servidor público que con el fin de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero; o de denigrar a cualquier persona; indebidamente utilice fondos de cualquier entidad pública; o con el mismo fin otorgue; o haga que se otorgue en forma indebida; empleo, cargo, comisión, contratos, comisiones, concesiones, permisos, licencias, autorizaciones, franquicias o exenciones; o con igual fin autorice, compre o venda en forma indebida; o con el mismo fin realice cualquier acto indebido que afecte el patrimonio de alguna entidad pública.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2016)
 
 ###### ARTÍCULO 204.
 
-SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PROMOCIÓN O DENIGRACIÓN DE IMAGEN. Se aplicará prisión de seis meses a ocho años; multa de la mitad a dos tantos del beneficio que obtuvo; y en su caso, destitución de empleo, cargo o comisión públicos; e inhabilitación hasta por ocho años para desempeñar otro:
-
-A cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere el artículo anterior, a cambio de fondos de alguna entidad pública; o del disfrute de los beneficios que se deriven de los actos a que se refiere dicho artículo.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2016)
 
 #### SECCIÓN SÉPTIMA. APROVECHAMIENTO INDEBIDO DE INFORMACIÓN RESERVADA
 
@@ -7078,3 +7076,11 @@ P.O. 8 DE JULIO DE 2016.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 597.- SE DEROGA LA SECCIÓN SEXTA, DEL CAPÍTULO SEGUNDO, DEL TÍTULO SEGUNDO, DEL LIBRO SEGUNDO, Y LOS ARTÍCULOS 203 Y 204 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA.”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
