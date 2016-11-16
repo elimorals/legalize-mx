@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2016-10-03"
+last_updated: "2016-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -171,15 +171,23 @@ La función social educativa de las universidades y demás instituciones de educ
 
 La educación que impartan el Estado, los municipios, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-I. Contribuir al desarrollo integral del educando, con perspectiva de género, en todo el Sistema Educativo Estatal, en un marco de equidad que permita una convivencia social armónica y justa;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
-II. Favorecer el desarrollo de las capacidades del educando de observación, análisis y reflexión críticos para la construcción de sus conocimientos;
+I. Contribuir al desarrollo integral del educando para que ejerza plena y responsablemente sus capacidades con base en los más altos valores sociales, con perspectiva de género y en un marco de equidad que permita una convivencia social armónica y justa.
 
-III. Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país, poniendo en práctica sus deberes y derechos ciudadanos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+II. Favorecer el desarrollo de las capacidades de observación, análisis y reflexión críticos del educando para la construcción de sus conocimientos, vinculando los aspectos teóricos con los prácticos.
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+III. Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, el conocimiento del Escudo y el Himno del Estado de Chihuahua, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país.
 
 IV. Promover el conocimiento de la pluralidad lingüística del Estado y el respeto a los derechos lingüísticos de los pueblos indígenas y las minorías étnicas y culturales;
 
-V. Difundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+V. Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad.
 
 VI. Fomentar e implementar en los planteles educativos la Cultura de la Legalidad, promoviendo el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
 
@@ -203,9 +211,7 @@ XIII. Crear conciencia de la preservación de la salud a través de la alimentac
 
 XIV. Desarrollar e implementar las estrategias preventivas para la sensibilización y toma de conciencia a los educandos sobre los perjuicios que ocasionan las sustancias nocivas y tóxicas como los narcóticos, estupefacientes, sicotrópicos, alcohol, tabaco, entre otras que determina la Ley General de Salud;
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
-
-Apoyar y cooperar, en la medida de lo posible, a los centros de prevención y organizaciones no gubernamentales que tengan como objetivo reducir el abuso en el consumo del alcohol o sus consecuencias, o brindar tratamiento a las personas que así lo requieran, siempre que sean congruentes con los planes y programas establecidos en esta Ley;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 XV. Formar personas responsables y respetuosas de la ley, con actitudes favorables a la participación comunitaria, la cooperación y la convivencia civilizada; procurar el aprecio y la práctica de la conducta ética;
 
@@ -228,6 +234,10 @@ XXI. Prevenir la comisión de delitos en materia de trata de personas; desalenta
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2014)</small>
 
 XXII. Promover la formación de personas especializadas en resolución de conflictos, negociación y mediación.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+XXIII. Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -495,6 +505,10 @@ XXXII. Vigilar que el embarazo y la maternidad no constituyan impedimento para q
 
 XXXIII. Impulsar el servicio de educación vial en el tipo básico, otorgando los apoyos necesarios para que cobre mayor importancia en las escuelas;
 
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII BIS. Implementar las acciones necesarias para impulsar la educación y seguridad vial, en coordinación con las autoridades competentes, conforme a las disposiciones de la Ley de Vialidad y Tránsito para el Estado.
+
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXXIV. Valorar y, en su caso, apoyar las iniciativas de particulares para complementar el servicio educativo;
@@ -672,6 +686,24 @@ El Estado promoverá la participación directa del municipio para dar mantenimie
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ARTÍCULO 15 A.- El Sistema Estatal de Becas y Créditos Educativos tendrá por objeto promover, coordinar, difundir y ejecutar las acciones necesarias para otorgar becas y créditos educativos, de naturaleza educativa, científica o de investigación, a estudiantes de todos los niveles educativos, que sean de escasos recursos económicos y/o tengan un alto desempeño académico, que provengan de instituciones públicas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+El Estado otorgará una beca en la modalidad de pensión educativa a los estudiantes de instituciones públicas, cuando los obligados a proporcionar alimentos conforme a lo previsto en la legislación civil o familiar, fallezcan sin haber dejado bienes suficientes o pensión que pudieran ser destinados a la educación de sus descendientes o, en su caso, caigan en estado de discapacidad que les impida cumplir con tal obligación, siempre que el solicitante sea de escasos recursos económicos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+Su vigencia estará comprendida desde el momento en que se determine la procedencia de la misma, hasta que el beneficiario culmine la educación obligatoria, o en su caso antes, por circunstancias plenamente acreditadas que demuestren la ausencia de necesidad de este apoyo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+El ser acreedor a este apoyo no limita al beneficiario a recibir otro tipo de becas o subsidios, incluso si son proporcionados por la misma autoridad educativa.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
@@ -4168,3 +4200,23 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1556/20156 XXI P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8 EN SUS FRACCIONES I, II, III Y V; SE ADICIONA UNA FRACCIÓN XXIII AL ARTÍCULO 8, Y UNA FRACCIÓN XXXIII BIS AL ARTÍCULO 13; Y SE DEROGA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XIV DEL ARTÍCULO 8, TODOS DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1557/2016 XXI P.E., MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 15-A DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Chihuahua incorporará en el Reglamento del Sistema Estatal de Becas y Créditos Educativos, los lineamientos y reglas de operación para las becas en la modalidad de pensión educativa, dentro de los 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
