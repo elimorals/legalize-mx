@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-11-15"
+last_updated: "2016-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -670,7 +670,9 @@ XIV. A la Contraloría General:
 
 5.3. Dirección de Auditoría a Entidades.
 
-6. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+6. Dirección General del Laboratorio de Revisión de Obras
 
 6.1. (DEROGADO, G.O. 28 DE FEBRERO DE 2014)
 
@@ -727,6 +729,10 @@ XIV. A la Contraloría General:
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
 12.2. Dirección de Proyectos Tecnológicos.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+13. Dirección de Contraloría Móvil
 
 XV. A la Consejería Jurídica y de Servicios Legales:
 
@@ -1224,17 +1230,29 @@ V. Formular y revisar en su caso, los proyectos de reglamentos, decretos, acuerd
 
 VI. Participar en la actualización y simplificación del marco jurídico administrativo del Distrito Federal;
 
-VII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE NOVIEMBRE DE 2016)</small>
 
-VIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+VII. Establecer atendiendo a la normatividad aplicable, un modelo de recepción y atención de quejas y denuncias, así como de verificaciones, visitas, revisiones e inspecciones en sede e itinerante, a través de las unidades administrativas que le están adscritas, dentro del ámbito de su competencia, en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública, así como en la vía pública de la Ciudad de México, para vigilar el cumplimiento de las disposiciones jurídicas y administrativas que rigen el marco de actuación de las personas servidoras públicas;
 
-IX. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE NOVIEMBRE DE 2016)</small>
 
-X. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+VIII. Establecer y autorizar, atendiendo a la normatividad aplicable, los mecanismos y procedimientos para las verificaciones, visitas, revisiones, inspecciones, investigaciones, pruebas de laboratorio o en campo, a través de las unidades administrativas que le están adscritas y dentro del ámbito de su competencia, en materia de obra pública y servicios relacionados con la misma, así como sobre la adquisición de bienes muebles que se incorporen o destinen a inmuebles para su conservación, mantenimiento y rehabilitación, proyectos de prestación de servicios a l argo (sic) plazo, proyectos de coinversión y permisos relacionados con obra pública; obras en concesiones y demás obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México;
 
-XI. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE NOVIEMBRE DE 2016)</small>
 
-XII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
+IX. Designar en su caso, cuando corresponda a otro titular de Unidad Administrativa, a las personas servidoras públicas de la Contraloría General, para que ejecuten sus atribuciones a través de oficinas y otros mecanismos itinerantes o en campo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+X. Aprobar los programas de trabajo; así como autorizar los procedimientos o etapas de las revisiones, inspecciones, visitas, verificaciones, recepción de quejas y denuncias y servicios a cargo de la Contraloría General, que podrán realizarse a través de oficinas y otros mecanismos itinerantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+XI. Autorizar el uso de recursos humanos, materiales y financieros asignados a la Contraloría General para la operación de oficinas y otros mecanismos itinerantes, a través de las unidades administrativas que le están adscritas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+XII. Establecer en el ámbito de su competencia, mecanismos (sic) uso de tecnologías de la información y comunicaciones y demás procedimientos para el desarrollo de las actuaciones, solicitudes y recepción de documentos e información, actas administrativas para constancias de hechos y circunstanciadas, y demás elementos que se requieran para la operación de oficinas, otros mecanismos itinerantes y de campo, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
 XIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
@@ -9826,9 +9844,57 @@ XXVIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2014)
 
 XXIX. Las demás que le instruya el Titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 111.
 
-(DEROGADO, G.O. 28 DE FEBRERO DE 2014)
+Corresponde a la Dirección General del Laboratorio de Revisión de Obras:
+
+I. Integrar y presentar, para aprobación del titular de la Contraloría General, el programa anual de pruebas de laboratorio o de campo para cada ejercicio presupuestal, el cual comprenderá las revisiones, verificaciones, visitas, inspecciones e investigaciones que se estimen necesarias relacionados con obra pública y servicios relacionados con la misma, así como sobre la adquisición de bienes muebles que se incorporen o destinen a inmuebles para su conservación, mantenimiento y rehabilitación, proyectos de prestación de servicios a largo plazo, proyectos de coinversión y permisos relacionados con obra pública; obras en concesiones y demás obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México;
+
+II. Atender solicitudes de revisiones, verificaciones, visitas, inspecciones e investigaciones, de las unidades administrativas de la Contraloría General y de las contralorías internas en el ámbito de su competencia, a efecto de realizar las pruebas de laboratorio o de campo, para sustentar observaciones, hallazgos, recomendaciones preventivas y correctivas, o probables responsabilidades administrativas con lo relativo a obra pública;
+
+III. Emitir a través de su titular, órdenes de revisión, verificación, visita, inspección e investigación, dirigidas a dependencias, órganos desconcentrados, delegaciones y entidades o pr oveedores (sic), contratistas, supervisores externos, concesionarios, permisionarios o cualquier otro particular, observando en lo conducente las disposiciones jurídicas y administrativas aplicables;
+
+IV. Realizar revisiones, verificaciones, visitas, inspecciones e investigaciones en instalaciones de dependencias, órganos desconcentrados, delegaciones y entidades o proveedores, contratistas, supervisores externos, permisionarios, concesionarios o cualquier otro particular o la vía pública, antes, durante o una vez concluida la contratación o ejecución de instrumento jurídico respectivo, para ejercer sus atribuciones dentro del ámbito de su competencia;
+
+V. Realizar pruebas de laboratorio o de campo y emitir los dictámenes correspondientes, a materiales, bienes, insumos, instalaciones, trabajos o similares en materia de obra pública y servicios relacionados con la misma, así como sobre la adquisición de bienes muebles que se incorporen o destinen a i nmuebles (sic) para su conservación, mantenimiento y rehabilitación, proyectos de prestación de servicios a largo plazo, proyectos de coinversión y permisos relacionados con obra pública; obras en concesiones y demás obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México;
+
+VI. Dictaminar el cumplimiento de normas, especificaciones técnicas, estándares de calidad, normas oficiales y demás aspectos o referencias aplicables en el ámbito de su competencia, a través de pruebas de laboratorio y de campo y, en su caso, dar vista a las unidades administrativas de la Contraloría General competentes para los efectos conducentes;
+
+VII. Señalar en los dictámenes cuando proceda, recomendaciones preventivas y correctivas en el ámbito de su competencia, así como opinar, cuando lo soliciten, sobre la solventación de las observaciones, recomendaciones y hallazgos, que emitan las unidades administrativas de la Contraloría General y las contralorías internas con base en sus dictámenes;
+
+VIII. Comisionar, mediante oficio, a t ravés (sic) de su titular, al personal para que intervenga en revisiones, verificaciones, visitas, inspecciones e investigaciones con la finalidad de llevar a cabo el ejercicio de facultades como la recolección de muestras, elementos, información, datos, documentos, entre otros en el ámbito de su competencia;
+
+IX. Gestionar las autorizaciones, permisos, certificaciones o similares que se requieran para la operación del equipo a utilizar en la realización de pruebas de laboratorio o de campo conducentes conforme a las normas de calidad, metodologías, modelos, normas oficiales y técnicas correspondientes;
+
+X. Ejecutar sus procedimientos y procesos de pruebas de laboratorio o de campo con base en las disposiciones jurídicas y administrativas, estándares de calidad, normas oficiales y demás técnicas aplicables;
+
+XI. Supervisar que los procesos y procedimientos para la realización de análisis, pruebas y dictámenes en el ámbito de su competencia, observen las disposiciones jurídicas, administrativas y técnicas aplicables, observando los principios de imparcialidad, objetividad, independencia, confidencialidad, mejora continua, calidad de los estudios y seguridad en los resultados;
+
+XII. Suspender temporal o definitivamente los procedimientos de adjudicación relacionados con obra pública y servicios relacionados con la misma, adquisición de bienes muebles que se incorporen o destinen a inmuebles para su conservación, mantenimiento y rehabilitación, concesiones sobre obras, proyectos de prestación de servicios a largo plazo, proyectos de coinversión, permisos y demás actos relacionados con obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de irregularidades o inconsistencias detectadas en las pruebas de laboratorio o de campo relacionadas con su programa anual de trabajo;
+
+XIII. Instruir a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, relacionados con obra pública y servicios relacionados con la misma, adquisición de bienes muebles que se incorporen o destinen a i nmuebles (sic) para su conservación, mantenimiento y rehabilitación, concesiones sobre obras, proyectos de prestación de servicios a l argo (sic) plazo, proyectos de coinversión, permisos y demás actos relacionados con obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de irregularidades o inconsistencias detectadas en las pruebas de laboratorio o de campo relacionadas con su programa anual de trabajo;
+
+XIV. Requerir para el ejercicio de sus atribuciones, información, documentación, materiales, muestras y toda clase de facilidades a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública de la Ciudad de México, así como a l os (sic) proveedores, contratistas, permisionarios, concesionarios, supervisores externos, fabricantes, distribuidores o cualquier particular;
+
+XV. Intervenir en representación de la Contraloría General, a través de su titular o de su personal debidamente acreditado mediante oficio o instrumento jurídico en toda clase de juicios, procedimientos o procesos respecto de los dictámenes que en el ámbito de su competencia emita;
+
+XVI. Coadyuvar conforme a su capacidad de recursos y programas de trabajo de la Contraloría General, con otros órganos de fiscalización federales y locales de conformidad con los convenios y disposiciones jurídicas y administrativas aplicables;
+
+XVII. Presentar a través de su titular demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa y de la Contraloría General, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
+
+XVIII. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en los archivos o tengan acceso sus unidades administrativas de apoyo técnico-operativo;
+
+XIX. Comisionar al personal adscrito, para que realice las actividades y funciones de su competencia en coadyuvancia con las demás unidades administrativas y contralorías internas de la Contraloría General;
+
+XX. Requerir el apoyo de otras unidades administrativas de la Contraloría General y de las contralorías internas para el ejercicio de sus atribuciones a través del personal que se comisione para tal efecto;
+
+XXI. Representar a la Contraloría General en los órganos de gobierno, comités, subcomités y demás cuerpos colegiados de las delegaciones, dependencias, órganos desconcentrados y entidades en los términos que determinen las disposiciones jurídicas y administrativas aplicables;
+
+XXII. Vigilar y supervisar el desempeño, en materias de transparencia y acceso a la información pública, protección de datos personales, archivos y programa de derechos humanos de conformidad con las disposiciones jurídicas y administrativas aplicables, y
+
+XXIII. Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 111-A.
 
@@ -10141,6 +10207,10 @@ II. Ordenar y ejecutar auditorías tanto ordinarias como extraordinarias a las p
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
 III. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúen las Dependencias y Órganos Desconcentrados, Delegaciones, y Entidades, de la Administración Pública del Distrito Federal, en las materias relativas a: adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, en términos de las disposiciones jurídicas y administrativas aplicables; así como en todos aquellos previstos en el marco normativo;
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+III Bis. Solicitar a la Dirección General del Laboratorio de Revisión de Obras, cuando se estime necesario su intervención en auditorías, revisiones, investigaciones e inspecciones a efecto de que realice las pruebas de laboratorio o de campo conducentes a materiales, bienes, insumos, instalaciones, trabajos o similares relacionados con obra pública y servicios relacionados con la misma, así como sobre la adquisición de bienes muebles que se incorporen o destinen a inmuebles para su conservación, mantenimiento y rehabilitación, obras en concesiones, proyectos de prestación de servicios a largo plazo, proyectos de coinversión, permisos y demás obras que se ejecuten con recursos públicos o en inmuebles patrimonio o en posesión de la Ciudad de México; para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para el fincamiento de responsabilidades administrativas;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -10539,6 +10609,56 @@ XXI. Proponer proyectos de mejora continua en los procesos operativos de las Dir
 XXII. Comisionar al personal a su cargo, para coadyuvar al cumplimiento de las funciones y atribuciones de otras Unidades Administrativas de la Contraloría General;
 
 XXIII. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 113 Quinquies.
+
+Corresponde a la Dirección de Contraloría Móvil:
+
+I. Proponer, para su aprobación, al titular de la Contraloría General su programa anual de trabajo para la recepción de quejas y denuncias, así como de verificaciones, visitas, revisiones e inspecciones que realizarán de forma itinerante en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública y en la vía pública de la Ciudad de México, para vigilar el cumplimiento de las disposiciones jurídicas y administrativas que rigen la actuación de las personas servidoras públicas;
+
+II. Ordenar y ejecutar verificaciones, visitas, revisiones e inspecciones de forma itinerante en las instalaciones de las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública o en cualquier lugar de la Ciudad de México, cuando los efectos de los actos o conductas de las personas servidoras públicas trasciendan de los lugares de cada oficina pública, conforme al programa anual de trabajo, a efecto de verificar el cumplimiento de objetivos y de las disposiciones legales, reglamentarias y administrativas aplicables en materia de: trámites y servicios al público; adquisiciones, servicios y arrendamientos; recursos humanos, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos de cualquier naturaleza, planeación, programación, presupuestación, deuda pública, ejercicio de recursos locales y federales conforme a las normas aplicables; así como el cumplimiento de las disposiciones jurídicas y administrativas que rigen su marco de actuación;
+
+III. Ordenar y realizar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan, en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico de la Ciudad de México, que efectúen las dependencias, delegaciones, órganos desconcentrados y entidades de la Administración Pública de la Ciudad de México, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+
+IV. Instalar de forma itinerante en las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública y en la vía pública de la Ciudad de México conforme a su programa anual de trabajo y en las áreas que de forma extraordinaria instruya el titular de la Contraloría General, módulos, oficinas o áreas para la recepción de quejas o denuncias por actos u omisiones de las personas servidoras públicas;
+
+V. Recibir y turnar las quejas o denuncias y dar vista de las irregularidades que detecte o tenga conocimiento; con motivo del ejercicio de sus atribuciones, a la Dirección General de Asuntos Jurídicos y Responsabilidades o la Contraloría Interna que corresponda y demás autoridades competentes, para su atención, investigación, substanciación y determinación de responsabilidades; así como dar seguimiento sobre su resolución;
+
+VI. Elaborar y proponer al Contralor General los lineamientos generales, en coordinación con las Direcciones Generales de Contralorías Internas en delegaciones, en dependencias y órganos desconcentrados y en entidades, para el ejercicio de atribuciones de control y fiscalización de manera itinerante;
+
+VII. Requerir información, documentación y toda clase de facilidades para el ejercicio de sus atribuciones a las dependencias, delegaciones, órganos desconcentrados y entidades de la Administración Pública de la Ciudad de México, así como a l os (sic) proveedores, prestadores de servicios, contratistas, concesionarios, permisionarios, supervisores externos, fabricantes, distribuidores o cualesquier particular;
+
+VIII. Instrumentar actas administrativas para constancia de hechos y circunstancias, documentar las inconsistencias detectadas y en general, emitir cualquier otro acto jurídico que resulte necesario para el ejercicio de sus atribuciones;
+
+IX. Autorizar el uso de recursos humanos, materiales y financieros asignados a la Dirección, para el desempeño de las funciones encomendadas, a través del personal que le está adscrito o que sea comisionado para el apoyo de sus funciones;
+
+X. Solicitar el apoyo y auxilio de las autoridades competentes tanto locales como federales, para el cumplimiento de sus atribuciones y en su caso, el de la Secretaría de Seguridad Pública de la Ciudad de México, para salvaguardar la integridad del personal de la Contraloría General;
+
+XI. Comisionar por escrito al personal a su cargo, para la realización de las funciones y atribuciones específicas de la Dirección;
+
+XII. Expedir previo cotejo, copias certificadas de los documentos que obran en sus archivos, de los que tenga acceso con motivo del desarrollo de sus actividades, o de los documentos que obren en los archivos o tengan acceso sus unidades administrativas de apoyo técnico-operativo;
+
+XIII. Comisionar al personal adscrito para que coadyuven en la realización de actividades y funciones de competencia de otras unidades administrativas y contralorías internas de la Contraloría General;
+
+XIV. Requerir el apoyo de otras unidades administrativas de la Contraloría General y contralorías internas para el ejercicio de sus atribuciones, a través del personal que se comisione para tal efecto;
+
+XV. Presentar a t ravés (sic) de su titular o del personal debidamente acreditado, demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, absolver posiciones, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de la Contraloría General, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Contraloría General otorgará el apoyo necesario, a través de la Dirección General de Asuntos Jurídicos y Responsabilidades;
+
+XVI. Proponer a las Direcciones Generales de Contralorías Internas la realización de auditorías, visitas, revisiones, verificaciones e inspecciones en el ámbito de sus atribuciones, derivado de las inconsistencias detectadas con motivo de las funciones itinerantes que tiene encomendadas; así como coordinarse con tales áreas en el ejercicio de sus respectivas competencias;
+
+XVII. Suspender temporal o definitivamente los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas, así como cualesquiera otros procesos y procedimientos administrativos previstos en los ordenamientos aplicables vigentes, en materia de trámites y servicios al público, adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, enajenación, adquisición, transferencia y baja de bienes muebles e inmuebles, concesiones, permisos, almacenes e inventarios, así como en todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de irregularidades o inconsistencias detectadas con motivo del ejercicio de sus funciones de forma itinerante;
+
+XVIII. Instruir a las dependencias y órganos desconcentrados, delegaciones y entidades, de la Administración Pública de (sic) Ciudad de México, a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, títulos concesión, acuerdos, actas, pagos, y demás instrumentos jurídicos y administrativos, en materia de trámites y servicios al público, adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten, cuando deriven de irregularidades o inconsistencias detectadas con motivo del ejercicio de sus funciones de forma itinerante;
+
+XIX. Vigilar y supervisar el correcto desempeño de los actos con relación a las materias de Prevención del Conflicto de Intereses, Transparencia y Acceso a la Información Pública, Protección de Datos Personales, Archivos y Programa de Derechos Humanos, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XX. Coadyuvar conforme a su capacidad de recursos y programas de trabajo de la Contraloría General, con otros órganos de fiscalización y autoridades federales y locales, de conformidad con los convenios y disposiciones jurídicas y administrativas aplicables; y
+
+XXI. Las demás que le instruya el titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+Para el cumplimiento de las atribuciones señaladas en este artículo, la Dirección de Contraloría Móvil podrá ejercer sus funciones en días y horas hábiles e inhábiles, atendiendo a los días y horas en que las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública de la Ciudad de México realicen sus actividades.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -19149,3 +19269,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Las disposiciones jurídicas y administrativas delegatorios de atribuciones para la Jefatura de la Oficina de la Jefatura de Gobierno quedan sin efectos a partir de la entrada en vigor del presente Decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Oficialía Mayor y la Secretaría de Finanzas de la Ciudad de México.
+
+CUARTO.- La Dirección General del Laboratorio de Revisión de Obras, iniciará sus operaciones a la entrada en vigor del presente Decreto; la emisión de dictámenes iniciará a partir del año 2017.
+
+QUINTO.- La Contraloría General deberá adecuar su estructura orgánica y su manual administrativo en los en los (sic) plazos y condiciones que establezca la Oficialía Mayor
+
+SEXTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
