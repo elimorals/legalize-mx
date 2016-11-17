@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2016-10-11"
+last_updated: "2016-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -214,6 +214,12 @@ VII. Impulsar la participación solidaria de la sociedad y la familia en la pres
 VIII. Promover y otorgar condiciones para que las familias de personas con discapacidad reciban información y capacitación para participar y apoyar los procesos de habilitación, rehabilitación e inclusión social, educativa y laboral, y de acceso a servicios adecuados de salud y educación; y
 
 IX. Las demás previstas por esta Ley y la legislación estatal aplicable.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 5 Bis.
+
+Las autoridades estatales y municipales promoverán la contratación de personas con discapacidad cuando éstos cubran la profesión, oficio o actividad requerido para el puesto, en igualdad de circunstancias que otra persona.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1468,3 +1474,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25877/LXI/16 QUE REFORMA EL ARTÍCULO 35 DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25903/LXI/16 QUE ADICIONA EL ARTÍCULO 5 BIS A LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
