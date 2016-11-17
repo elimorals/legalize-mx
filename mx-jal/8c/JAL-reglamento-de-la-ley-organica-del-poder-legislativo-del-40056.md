@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2015-12-31"
+last_updated: "2016-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -441,19 +441,19 @@ V. Procedimiento a seguir en caso de no realizarse la elección del Magistrado e
 
 ###### Artículo 48.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 49.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 50.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 51.
 
-(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CÓDIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ### CAPÍTULO IX. PROCEDIMIENTO PARA LA ELECCIÓN DE LOS INTEGRANTES DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
@@ -1575,13 +1575,17 @@ VII. Proponer las directrices de investigación, difusión, conservación de doc
 
 VIII. Proponer a la Comisión de Administración los convenios de cooperación con otras instituciones y organismos para el mejor trabajo de investigación en la función legislativa, para que se presenten a la Asamblea para su aprobación;
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2016)</small>
 
-IX. Informar mensualmente al Comité de Proceso Legislativo sobre sus actividades, de conformidad al artículo 123 de la Ley; y
+IX. Informar mensualmente al Comité de Proceso Legislativo sobre sus actividades, de conformidad al artículo 123 de la Ley;
 
-> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2016)</small>
 
-X. Presentar un proyecto de programa anual de trabajo de todas sus áreas al Comité de Proceso Legislativo.
+X. Presentar un proyecto de programa anual de trabajo de todas sus áreas al Comité de Proceso Legislativo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+XI. Revisar permanentemente el Semanario Judicial de la Federación y demás órganos de difusión oficial que considere necesarios, a efecto de identificar las resoluciones, tesis y jurisprudencias de los tribunales federales y locales que invaliden, afecten o interpreten disposiciones jurídicas estatales, y presentar ante el Comité de Biblioteca una propuesta para que en su caso se autorice insertar anotaciones de carácter informativo al calce de los artículos afectados, en las publicaciones y ediciones no oficiales de las leyes estatales que realice la Dirección de Biblioteca, Archivo y Editorial.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
 
@@ -1761,11 +1765,11 @@ V. Padrón: Padrón de Proveedores del Congreso.
 
 VI. Acuerdo: Acuerdo del Comité de Adquisiciones de Bienes y Servicios del Poder Legislativo.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 144.
 
-1. El Comité es el órgano de apoyo responsable de aprobar la adquisición, acordada por la Comisión, de bienes, la contratación de los servicios y las enajenaciones necesarias, para la realización de las actividades legislativas, técnicas y administrativas del Congreso, cuyos montos sean mayores a 500 veces el salario mínimo general vigente para la Zona Metropolitana de Guadalajara.
+1. El Comité es el órgano de apoyo responsable de aprobar la adquisición, acordada por la Comisión, de bienes, la contratación de los servicios y las enajenaciones necesarias, para la realización de las actividades legislativas, técnicas y administrativas del Congreso, cuyos montos sean mayores a 500 veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -2143,31 +2147,33 @@ IV. No informe oportunamente los cambios en la información proporcionada al mom
 
 2. El Comité, según el caso, evaluará las propuestas que presenten los proveedores de bienes y servicios, a efecto de seleccionarlos, considerando para ello las mejores condiciones de precio, calidad, garantía, plazo de entrega y financiamiento para el pago, con base en los siguientes procedimientos:
 
-I. Por concurso, cuyos montos serán aquellos que rebasen el resultante de 5,000 (cinco mil) veces el salario mínimo general vigente en el área geográfica correspondiente a la zona metropolitana de Guadalajara, antes de impuestos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+I. Por concurso, cuyos montos serán aquellos que rebasen el resultante de 5,000 (cinco mil) veces la Unidad de Medida y Actualización, antes de impuestos.
 
 a) Formulación y evaluación de las bases e invitaciones a por lo menos tres proveedores.
 
 b) Exhibición de la convocatoria en el tablero oficial de información que para tal efecto exista en el edificio y en la página de Internet del Congreso, de la misma manera, los integrantes del Comité podrán invitar a participar a aquellas personas que consideren adecuadas.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
 
-II. Por invitación a cuando menos tres proveedores, cuyos montos serán aquellos que se encuentren en el rango de entre 2,000 (dos mil) a 5.000 (cinco mil) veces el salario mínimo general vigente en el área geográfica correspondiente a la zona metropolitana de Guadalajara, antes de impuestos.
+II. Por invitación a cuando menos tres proveedores, cuyos montos serán aquellos que se encuentren en el rango de entre 2,000 (dos mil) a 5,000 (cinco mil) veces la Unidad de Medida y Actualización, antes de impuestos.
 
 a) Se elaborará cuadro comparativo con las propuestas que se reciban.
 
 b) Se asignará el pedido y/o contrato de acuerdo a los criterios de precio, calidad, tiempo de entrega y demás condiciones favorables para el Congreso.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2016)</small>
 
-III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o superiores a 500 (quinientos) y menores a 2000 (dos mil) veces el salario mínimo general vigente en el área geográfica correspondiente a la zona metropolitana de Guadalajara, antes de impuestos.
+III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o superiores a 500 (quinientos) y menores a 2000 (dos mil) veces la Unidad de Medida y Actualización, antes de impuestos.
 
 3. Para las adquisiciones por adjudicación directa se deberá observar invariablemente el inciso a) de la fracción II de este artículo.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 177.
 
-1. En los casos en que los precios de las adquisiciones de bienes y servicios sean menores al equivalente a 500 veces el salario mínimo general vigente en el Área Metropolitana de Guadalajara, se aplicarán los lineamientos que establezca la Comisión.
+1. En los casos en que los precios de las adquisiciones de bienes y servicios sean menores al equivalente a 500 veces la Unidad de Medida y Actualización, se aplicarán los lineamientos que establezca la Comisión.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -2508,3 +2514,9 @@ II. Se instruye a la Dirección de Comunicación Social para que de a conocer la
 III. Se instruye a la Secretaría General para que semestralmente haga una evaluación de la página electrónica "Congreso Jalisco Abierto" y, en su caso, proponga a la Junta de Coordinación Política otras herramientas derivadas de las tecnologías de la información.
 
 QUINTO. Los asuntos pendientes de resolver por las comisiones de Ciencia y Tecnología, para el Desarrollo Humano y la Familia, Equidad de Género, Participación Ciudadana y Acceso a la Información Pública, Readaptación Social y Vialidad, Transporte y Comunicaciones deben ser remitidos a las comisiones de Innovación, Ciencia y Tecnología, Familia, Desarrollo Humano e Integración Social, Igualdad de Género, Participación Ciudadana, Transparencia y Acceso a la Información Pública, de Readaptación y Reinserción Social y de Movilidad y Transporte, respectivamente, para continuar su trámite y concluirse, observando las disposiciones de esta ley.
+
+P.O. 17 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25909/LXI/16 QUE REFORMA LOS ARTÍCULOS 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; Y 131, 144, 176 Y 177 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.”]
+
+ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
