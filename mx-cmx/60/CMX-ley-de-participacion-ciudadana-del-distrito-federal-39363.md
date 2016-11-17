@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2016-05-25"
+last_updated: "2016-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -89,6 +89,10 @@ IX. Capacitación para la ciudadanía plena.
 X. Cultura de la Transparencia y Rendición de Cuentas.
 
 XI. Derechos Humanos.
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+XII. Perspectiva de Género
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1112,7 +1116,7 @@ La asamblea ciudadana deberá aprobar o modificar el programa general de trabajo
 
 Las asambleas ciudadanas también aprobarán los diagnósticos y propuestas de desarrollo integral que se le presenten, los que podrán ser tomados en cuenta en los términos de los artículos 83, 84 y 85 de esta Ley.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2011)</small>
+(REFORMADO, G.O. 26 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 83.
 
@@ -1132,7 +1136,9 @@ En el caso de las erogaciones con cargo al Capítulo 4000 las Delegaciones, debe
 
 Las erogaciones a que se refiere el párrafo anterior, deberán realizarse en apego con lo dispuesto en el Decreto de Presupuesto de Egresos del Distrito Federal del año correspondiente en lo relativo al ejercicio directo de los recursos por las Delegaciones.
 
-El Jefe de Gobierno y la Asamblea Legislativa están respectivamente obligados a incluir y aprobar en el decreto anual de presupuesto de egresos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+El Jefe de Gobierno y La Asamblea Legislativa están respectivamente obligados a incluir y aprobar en el decreto anual de presupuesto de egresos:
 
 a) El monto total de recursos al que asciende el presupuesto participativo por Delegación, el que corresponderá al tres por ciento del presupuesto total anual de aquéllas;
 
@@ -1140,9 +1146,15 @@ b) Los recursos de presupuesto participativo correspondientes a cada una de las 
 
 c) Los rubros específicos en que se aplicarán los recursos de presupuesto participativo en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal, de conformidad con los resultados de la consulta ciudadana que sobre la materia le remita el Instituto Electoral.
 
-d) Se establecerá que las autoridades administrativas del Gobierno de la Ciudad y Jefes Delegacionales tienen la obligatoriedad de ejercerlo.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
+d) Se establecerá que las autoridades administrativas del Gobierno de la Ciudad y Jefes Delegacionales tienen la obligatoriedad de ejercerlo antes de la conclusión del año fiscal que corresponda.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+En los casos en que no se haya concluido y aplicado la totalidad del presupuesto participativo en el año fiscal que corresponda, la Contraloría General, la Auditoria Superior, la Secretaría de Finanzas y el Instituto Electoral, aplicarán y en su caso sancionarán en el marco de sus atribuciones lo conducente, a efecto de reducir la posibilidad de registrar el mismo hecho en los ejercicios del presupuesto participativo.
+
+(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 84.
 
@@ -1160,7 +1172,9 @@ En los años en que esta consulta coincida con la Elección de Comités Ciudadan
 
 En este supuesto, la preparación y la organización de la consulta y de la elección de los órganos de representación ciudadana se desarrollarán de manera simultánea, de acuerdo a los procedimientos que determine el Consejo General del Instituto Electoral y demás normatividad aplicable.
 
-Para la celebración de la consulta ciudadana a que se refiere el párrafo anterior, el Instituto Electoral podrá solicitar la cooperación del Gobierno del Distrito Federal, las Delegaciones y la Asamblea Legislativa. En todo caso, la difusión de dicha consulta se hará de manera conjunta entre el Instituto Electoral, el Gobierno del Distrito Federal, las Delegaciones y la Asamblea Legislativa.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+Para la celebración de la consulta ciudadana a que se refiere el párrafo anterior, el Instituto Electoral podrá solicitar la cooperación del Gobierno del Distrito Federal, las Delegaciones Políticas y la Asamblea Legislativa. En todo caso, la difusión de dicha consulta se hará de manera conjunta entre el Instituto Electoral, el Gobierno del Distrito Federal, las Delegaciones Políticas, la Asamblea Legislativa, la Contraloría General, el Tribunal Electoral y el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México.
 
 Las consultas ciudadanas a que se refiere el presente artículo se realizarán de conformidad con lo establecido en esta ley y demás disposiciones aplicables.
 
@@ -1698,11 +1712,9 @@ El Instituto Electoral, en el marco de sus atribuciones, podrá suspender de man
 
 El cómputo total de la elección e integración del Comité Ciudadano por colonia, se efectuará en las Direcciones Distritales en la semana siguiente a la fecha de la realización de la jornada electiva.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
-
 ###### Artículo 122.
 
-El Instituto Electoral del Distrito Federal entregará las constancias de asignación y los integrantes de los Comités Ciudadanos iniciarán funciones el primero de octubre del año de elección.
+(DEROGADO, G.O. 17 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1806,9 +1818,9 @@ El funcionamiento y operación de los Consejos Ciudadanos se regirá por lo esta
 
 Los consejos ciudadanos delegacionales se integrarán con el coordinador interno de cada uno de los comités ciudadanos, los coordinadores de concertación comunitaria de los Consejos del Pueblo, las autoridades tradicionales y los representantes de cada una de las organizaciones ciudadanas debidamente registradas en la demarcación territorial que corresponda.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
-Los Consejos Ciudadanos Delegacionales se instalarán durante el mes de enero del año inmediato posterior al que tenga verificativo la jornada electiva de los Comités Ciudadanos. La convocatoria para su instalación y la designación de sus integrantes estará a cargo del Instituto Electoral.
+Los Consejos Ciudadanos Delegacionales se instalarán durante la primera quincena del mes de marzo del año inmediato posterior al que tenga verificativo la jornada electiva de los Comités Ciudadanos, convocando el Instituto Electoral en la primera quincena de febrero de dicho año. En los otros dos años posteriores de su gestión se realizará la renovación de sus mesas directivas en enero y la convocatoria para tal efecto la emitirá el Instituto Electoral en diciembre del año anterior. En ambos casos su gestión termina el 31 de diciembre.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -2132,11 +2144,19 @@ Dentro de los siguientes quince días de la fecha en que se haya realizado la el
 
 Las Direcciones Distritales llevarán un registro actualizado de los integrantes de cada Comité.
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 151.
 
-Con el objeto de que los representantes ciudadanos electos puedan identificarse, el Instituto Electoral les proporcionará, a más tardar el tercer domingo del mes de septiembre del año en que tenga verificativo la jornada electiva, la credencial que los acredite como tales. Dicho documento contendrá como mínimo el nombre del representante ciudadano, su domicilio, su fotografía, la colonia a la que representa, el Comité Ciudadano del que es integrante, el Consejo Delegacional al que pertenecen, tratándose de los coordinadores internos, y demás elementos que se consideren pertinentes.
+Con el objeto de que los representantes ciudadanos electos puedan identificarse, el Instituto Electoral les proporcionará, a partir del mes de octubre hasta el 15 de diciembre del año en que tenga verificativo la jornada electiva, la credencial que los acredite como tales.
+
+> <small>[N. DE E. REUBICADO ANTES PARTE DEL PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016]</small>
+
+Dicho documento contendrá como mínimo el nombre del representante ciudadano, su domicilio, su fotografía, la colonia a la que representa, el Comité Ciudadano del que es integrante, el Consejo Delegacional al que pertenecen, tratándose de los coordinadores internos, y demás elementos que se consideren pertinentes.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+Dicha credencialización la realizará el Instituto Electoral entre octubre y la primera quincena de diciembre del año en que se verifiquen las elecciones de Comités y Consejos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
 
@@ -2650,11 +2670,11 @@ La suspensión de la asamblea ciudadana dará por concluida a ésta. Los puntos 
 
 El Comité Ciudadano será el responsable de dar a conocer los acuerdos y resoluciones adoptados en la asamblea ciudadana a los niños, jóvenes, vecinos y ciudadanos de la colonia correspondiente, debiendo divulgarlos en los lugares públicos de mayor afluencia en la colonia y a través de los medios de comunicación comunitarios a su alcance.
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 182.
 
-La elección de la comisión de vigilancia del comité ciudadano se realizará en la primera asamblea ciudadana a que convoque el Comité Ciudadano, una vez que éste entre en funciones el primero de octubre de cada tres años. Dicha elección será incluida en el orden del día de la asamblea ciudadana. Las propuestas de integrantes de la comisión de vigilancia serán presentadas ante la asamblea ciudadana por los niños, jóvenes, vecinos y ciudadanos. La discusión y votación de las propuestas de integrantes de la comisión de vigilancia se regirán por lo establecido en los artículos 178 y 179 de esta Ley.
+La elección de la comisión de vigilancia del comité ciudadano se realizará en la primera asamblea ciudadana a que convoque el Comité Ciudadano, una vez que éste entre en funciones en la primera quincena de enero de cada tres años. Dicha elección será incluida en el orden del día de la asamblea ciudadana. Las propuestas de integrantes de la comisión de vigilancia serán presentadas ante la asamblea ciudadana por los niños, jóvenes, vecinos y ciudadanos. La discusión y votación de las propuestas de integrantes de la comisión de vigilancia se regirán por lo establecido en los artículos 178 y 179 de esta Ley.
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2918,9 +2938,9 @@ La distribución de recursos entre las colonias tendrá que ser proporcional seg
 
 II. Indicar en los programas operativos y anteproyectos anuales de presupuestos de egresos los rubros en que en cada colonia de la Delegación se aplicarán los recursos del presupuesto participativo.
 
-> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
-La determinación de los rubros en que se aplicará el presupuesto participativo en cada colonia, se sustentará en los resultados de las consultas ciudadanas que establece el inciso a) del párrafo primero del artículo 84 de esta Ley, así como permitir el acceso a toda la información relacionada con la realización de obras y servicios, las cuales serán publicadas en los sitios de internet de cada delegación, y proporcionados a través de los mecanismos de información pública establecidos en la Ley de Transparencia y Acceso a la Información Publica del Distrito Federal.
+La determinación de los rubros en que se aplicará el presupuesto participativo en cada colonia, se sustentará en los resultados de la consulta ciudadana que establece el artículo 84 de esta Ley, así como permitir el acceso a toda información relacionada con la realización de obras y servicios, las cuales serán publicadas en los sitios de internet de cada delegación, y proporcionados a través de los mecanismos de información pública establecidos en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
 III. Participar en coordinación con las demás autoridades y con los Comités Ciudadanos en las consultas ciudadanas que establece el artículo 84 de la presente Ley.
 
@@ -2933,6 +2953,20 @@ IV. La forma en como habrán de aplicarse el presupuesto participativo en cada c
 V. Remitir al Instituto Electoral del Distrito Federal a más tardar 30 días naturales previos a la celebración de la Consulta Ciudadana, los dictámenes de viabilidad de los proyectos sobre Presupuesto Participativo presentados por los ciudadanos en cada una de las colonias y pueblos.
 
 VI. Las demás que establecen la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 203 Bis.
+
+Las jefaturas delegacionales deberán asesorar a los Comités Ciudadanos, a los Consejos de los Pueblos, a las Organizaciones Civiles y a los ciudadanos que pretendan registrar un proyecto de presupuesto participativo, para ello deberá de crear un órgano técnico colegiado integrado por el Jefe Delegacional, una secretaría técnica designada por la Jefatura Delegacional, los titulares de las unidades administrativas de nivel inmediato inferior a la jefatura delegacional, cuyas funciones se vinculen con la materia de los proyectos, asimismo se contará con un representante del órgano de control interno de la demarcación política.
+
+El personal de la delegación no podrá superar a cinco integrantes. A su vez se integrarán tres ciudadanos integrantes de la mesa directiva del Consejo Ciudadano Delegacional y dos especialistas provenientes de instituciones académicas de reconocido prestigio. Los especialistas, podrán seleccionarse en función de las temáticas de los proyectos.
+
+El órgano técnico deberá realizar un estudio de viabilidad y factibilidad del proyecto o proyectos de acuerdo a las necesidades o problemas a resolver, su costo, tiempo de ejecución y la posible afectación temporal que de él se desprenda, en concordancia con el Programa General y los Programas Parciales de Desarrollo de la Ciudad de México.
+
+Así mismo, verificará que los proyectos sobre presupuesto participativo no afecten suelos de conservación, áreas comunitarias de conservación ecológica, áreas naturales protegidas, áreas de valor natural, áreas declaradas como patrimonio cultural o en asentamientos irregulares, lo anterior de conformidad con lo establecido en la Ley de Desarrollo Urbano del Distrito Federal y la Ley Ambiental de Protección a la Tierra en el Distrito Federal y demás legislación aplicable.
+
+Al finalizar su estudio y análisis, deberá remitir un dictamen debidamente razonado en el que se exprese clara y puntualmente si es o son física, financiera y legalmente posibles el o los proyectos, en cumplimiento a lo establecido en la fracción V del artículo 203 de la presente Ley.
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3340,27 +3374,33 @@ Los representantes de manzana estarán sujetos al mismo régimen de faltas y san
 
 ### CAPÍTULO II. DE LA INSTALACIÓN
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 235.
 
 Los Consejos Ciudadanos Delegacionales actuarán como órganos de representación ciudadana para el fomento de la participación ciudadana, atendiendo y canalizando las necesidades colectivas y los intereses comunitarios en las colonias que integran cada demarcación territorial en el Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 236.
 
-Los Consejos Ciudadanos iniciarán sus funciones dentro de los primeros quince días del mes de enero del año posterior a la celebración de la elección de los Comités Ciudadanos y los Consejos del Pueblo, concluyendo sus trabajos el 30 de septiembre del año en que tengan verificativo las elecciones referidas en la primera parte de este párrafo.
+Los Consejos Ciudadanos iniciarán sus funciones dentro de la primera quincena del mes de marzo del año posterior a la celebración de la elección de los Comités Ciudadanos y los Consejos del Pueblo, concluyendo sus trabajos el 31 de diciembre del año en que tengan verificativo las elecciones referidas en la primera parte de este párrafo, al igual que en su último año de gestión.
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 237.
 
-El cargo de integrante del Consejo Ciudadano es honorífico, sin embargo recibirán de parte del Instituto Electoral los apoyos materiales a que hace referencia el Capítulo V del Título Noveno de esta Ley.
+El cargo de integrante del Consejo Ciudadano es honorífico, sin embargo, recibirán de parte del Instituto Electoral los apoyos materiales a que hace referencia el Capítulo V del Título Noveno de esta Ley.
 
-Todos integrantes de los Consejos Ciudadanos son jerárquicamente iguales, ninguno de los cuales puede ser excluido de participar en sus reuniones y discusiones.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+Todos los integrantes de los Consejos Ciudadanos son jerárquicamente iguales, ninguno de los cuales puede ser excluido de participar en sus reuniones y discusiones.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Los coordinadores internos de los Comités Ciudadanos y los de concertación comunitaria de los Consejos del Pueblo cuentan con voz y voto en el Consejo Ciudadano, los representantes de las organizaciones ciudadanas debidamente registradas y las autoridades tradicionales de los pueblos originarios en donde se elige Consejo de los Pueblos, participarán en el Consejo Ciudadano únicamente con derecho a voz.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Las decisiones del Consejo Ciudadano se tomarán por mayoría de votos de sus integrantes.
 
@@ -3380,11 +3420,17 @@ El personal del Instituto Electoral estará presente en las sesiones del Consejo
 
 ###### Artículo 239.
 
-Para la instalación de los Consejos Ciudadanos Delegacionales el Instituto Electoral emitirá y publicará la convocatoria respectiva durante los primeros quince días del mes de diciembre del año de la elección de los Comités Ciudadanos y los Consejos del Pueblo.
+Para la instalación de los Consejos Ciudadanos Delegacionales el Instituto Electoral emitirá y publicará la convocatoria respectiva durante la primera quincena del mes de febrero del año inmediato posterior al que tenga verificativo la jornada electiva de los Comités Ciudadanos y los Consejos del Pueblo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 La convocatoria contendrá la fecha, hora y lugar donde se realizarán las sesiones de instalación de los Consejos Ciudadanos Delegacionales, así como los nombres de sus integrantes, quienes además serán notificados por el Instituto Electoral.
 
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 En la fecha, hora y lugar señalados en la convocatoria para la sesión de instalación, el Instituto Electoral verificará su correcta integración y los declarará formalmente instalados. De igual modo, constatará la elección de la primera mesa directiva del pleno del Consejo Ciudadano.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 El Instituto Electoral conseguirá los espacios físicos y demás elementos necesarios para la celebración de la sesión de instalación de los Consejos Ciudadanos, para tal efecto el Jefe de Gobierno y los Jefes Delegacionales facilitarán los espacios donde se realizarán las sesiones de instalación y las demás sesiones de los Consejos Ciudadanos Delegacionales.
 
@@ -4253,3 +4299,27 @@ TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango q
 CUARTO.- La Asamblea Legislativa del Distrito Federal realizara las acciones presupuestarias a fin (sic) otorgar los recursos económicos suficientes al Tribunal Electoral para la debida sustanciación de los medios de impugnación.
 
 QUINTO.- Para efecto de lo señalado en el artículo 84 párrafo primero y tercero del presente Decreto, en el que se señala que el Instituto Electoral del Distrito Federal convocará en la primer semana de abril de cada año a la consulta ciudadana sobre Presupuesto Participativo y en los años en que esta consulta coincida con la elección de Comités Ciudadanos y Consejos de los Pueblos, emitirá también en la primer semana de abril la convocatoria respectiva, por única ocasión el Instituto Electoral del Distrito Federal deberá emitir convocatoria inmediatamente después de que el presente decreto sea publicado en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3° DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 17 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO. Todas las disposiciones legales que contravengan las presentes reformas y adiciones se tendrán por derogadas.
+
+TERCERO. De conformidad con lo establecido en el Artículo 107 de la presente Ley, por única ocasión los Comités Ciudadanos y los Consejos de los pueblos serán electos cada tres años, así como las mesas directivas de los Consejos Ciudadanos Delegacionales estarán en funciones hasta el 31 de diciembre de 2016.
+
+CUARTO. Las Delegaciones Políticas deberán emitir dentro de los 90 días siguientes a la aprobación del presente decreto, los lineamientos internos del Órgano Técnico Colegiado para su mejor funcionamiento; asimismo en ellos se establecerá que el voto de calidad recaerá en el titular de las jefaturas delegacionales.
+
+QUINTO. El Jefe de Gobierno de la Ciudad de México, deberá emitir en los próximos 60 días siguientes a la aprobación del presente decreto, un listado de las instituciones académicas consideradas como de reconocido prestigio y de la cual saldrán los especialistas que formen parte de los órganos técnicos colegiados de las jefaturas delegacionales.
+
+SEXTO. El Jefe de Gobierno de la Ciudad de México y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas atribuciones, proveerán los recursos económicos suficientes, a fin de dar cumplimiento a l a (sic) difusión y atribuciones del órgano técnico colegiado.
