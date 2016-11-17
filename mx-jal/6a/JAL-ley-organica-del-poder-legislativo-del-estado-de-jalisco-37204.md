@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2016-08-20"
+last_updated: "2016-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2031,7 +2031,9 @@ I. La legislación en materia ambiental;
 
 II. La conservación, preservación y restauración del ambiente en la búsqueda del desarrollo sustentable en el Estado de Jalisco;
 
-III. Las políticas, planes y programas que se celebren para la conservación, protección, restauración, con base en la legislación de la materia ambiental; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2016)</small>
+
+III. Las políticas, planes y programas que se celebren para la conservación, protección y restauración del medio ambiente, así como para la mitigación ante los efectos adversos del cambio climático; y
 
 IV. La prevención, control y combate de la contaminación, en el ámbito de competencia del Estado y sus municipios.
 
@@ -4430,3 +4432,9 @@ P.O. 20 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25861/LXI/16 QUE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO Y LOS ARTÍCULOS 1, 46, 48, 49, 52, 55 Y 60, DEROGA LOS ARTÍCULOS 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 Y 43, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; REFORMA LOS ARTÍCULOS 99 Y 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; REFORMA EL ARTÍCULO 9 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 69 Y 143 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 33 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y EL 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 17 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25909/LXI/16 QUE REFORMA LOS ARTÍCULOS 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; Y 131, 144, 176 Y 177 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
