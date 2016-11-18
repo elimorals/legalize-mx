@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-117061"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-11-04"
-last_updated: "2016-11-04"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117061&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-10-28"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA COMISION TEMPORAL DE LOS TITULARES Y PERSONAL DE LOS JUZGADOS QUINTO Y SEXTO FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCION DE COMUNICACIONES, CON COMPETENCIA EN TODA LA REPUBLICA Y RESIDENCIA EN LA CIUDAD DE MEXICO, A LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TECNICAS DE INVESTIGACION, RESPECTIVAMENTE, Y QUE MODIFICA LOS TURNOS DE LOS JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCION DE COMUNICACIONES]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE NOVIEMBRE DE 2016 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA COMISIÓN TEMPORAL DE LOS TITULARES Y PERSONAL DE LOS JUZGADOS QUINTO Y SEXTO FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, CON COMPETENCIA EN TODA LA REPÚBLICA Y RESIDENCIA EN LA CIUDAD DE MÉXICO, A LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN, RESPECTIVAMENTE, Y QUE MODIFICA LOS TURNOS DE LOS JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 18 DE NOVIEMBRE DE 2016.]</small>
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 4 de noviembre de 2016.
 
@@ -67,7 +67,9 @@ Artículo Tercero. Los Juzgados Primero y Segundo de Distrito Especializados en 
 
 Los Juzgados Primero y Segundo de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, con competencia en toda la República y residencia en la Ciudad de México, de las ocho a las veinte horas, recibirán y resolverán las solicitudes; y, en las otras doce, sólo resolverán las mismas.
 
-Artículo Cuarto. Los Juzgados Quinto y Sexto Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, con competencia en toda la República y residencia en la Ciudad de México, por encontrarse sin Titular a partir del siete de noviembre de dos mil seis, tendrán suspendido temporalmente el turno de asuntos y, por tanto, los que se presenten se distribuirán entre los restantes Juzgados Primero a Cuarto de la especialización y jurisdicción mencionadas, modificándose los turnos respectivos.
+> <small>(F. DE E., D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
+
+Artículo Cuarto. Los Juzgados Quinto y Sexto Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, con competencia en toda la República y residencia en la Ciudad de México, por encontrarse sin Titular a partir del siete de noviembre de dos mil dieciséis, tendrán suspendido temporalmente el turno de asuntos y, por tanto, los que se presenten se distribuirán entre los restantes Juzgados Primero a Cuarto de la especialización y jurisdicción mencionadas, modificándose los turnos respectivos.
 
 ## TRANSITORIOS
 
