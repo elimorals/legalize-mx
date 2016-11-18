@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2015-03-13"
+last_updated: "2016-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1109,7 +1109,9 @@ III.- Promover la organización de los habitantes en uniones vecinales con el fi
 
 IV.- Supervisar y apoyar los programas de la Secretaría de Desarrollo Social, del Sistema Municipal para el Desarrollo Integral de la Familia y del organismo descentralizado “Desarrollo Social Municipal” e Instituto municipal de la Mujer;
 
-V.- Procurar mediante el principio de subsidiaridad, el apoyo oportuno y adecuado a personas grupos (sic) marginados, discapacitados y damnificados por eventos de la naturaleza y otras causas, co (sic) programas y recursos destinados a la asistencia social, y (sic)
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+V.- Procurar mediante el principio de subsidiariedad, el apoyo oportuno y adecuado a personas, grupos marginados, personas con discapacidad, adultos mayores y damnificados por eventos de la naturaleza y otras causas, con programas y recursos destinados a la asistencia social;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
 
@@ -1119,9 +1121,21 @@ VI.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos
 
 VII.- Vigilar el adecuado cumplimiento del Ayuntamiento en las funciones que como autoridad sanitaria le corresponde ejercer, de conformidad a los lineamientos legales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-VIII.- En general, aquellas que el Cabildo le encomiende.
+VIII.- Supervisar y apoyar los programas acordes a las diferentes etapas, características y circunstancias de los adultos mayores;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+IX.- Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención de los adultos mayores;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+X.- Asegurar y promover el pleno ejercicio y goce de todos los derechos humanos y las garantías fundamentales de los adultos mayores, y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XI.- En general, aquellas que el Cabildo le encomiende.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -1213,21 +1227,21 @@ V.- Realizar periódicamente evaluaciones de la reglamentación municipal en mat
 
 VI.- En general, aquellas que el Cabildo le encomiende.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-ARTICULO 96 TER.- Comisión de Derechos Humanos, Grupos Vulnerables y Asuntos Indígenas: tiene las siguientes atribuciones:
+ARTICULO 96 TER.- Comisión de Derechos Humanos, Grupos Vulnerables y Asuntos Indígenas.- tiene las siguientes atribuciones:
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-I.- Vigilar la elaboración y actualización de programas en materia de protección de los Derechos Humanos;
+I.- Vigilar la elaboración y actualización de programas en materia de protección de los Derechos Humanos y grupos vulnerables;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-II.- Proponer al Cabildo o al Presidente Municipal, normatividad o programas y acciones a favor de grupos vulnerables y comunidades indígenas.
+II.- Proponer al Cabildo o a la Presidencia Municipal, normatividad o programas y acciones a favor de grupos vulnerables y comunidades indígenas;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-III.- Participar en representación del Ayuntamiento en los foros o reuniones que realicen los organismos no gubernamentales y las autoridades tanto extranjeras como locales en asuntos relacionados con la protección de los Derechos Humanos y lo que concierna a los asuntos indígenas.
+III.- Participar en representación del Ayuntamiento en los foros o reuniones que realicen los organismos no gubernamentales y las autoridades tanto extranjeras como locales en asuntos relacionados con la protección de los Derechos Humanos, grupos vulnerables y las comunidades indígenas;
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1235,9 +1249,25 @@ IV.- Dictaminar respecto de los proyectos de convenios en los que el Ayuntamient
 
 a) Fomentar la participación de los prestadores de servicio social en las comunidades indígenas.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-V.- En general, aquellas que el Cabildo le encomiende.
+V.- Asegurar y promover el pleno ejercicio y goce de todos los derechos humanos y las garantías fundamentales de los grupos vulnerables;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+VI.- Impulsar programas en coordinación con las unidades administrativas municipales para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de los grupos vulnerables, en el municipio;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+VII.- Promover y realizar investigaciones y estudios normativos tendientes a garantizar los derechos de grupos vulnerables;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- Realizar periódicamente evaluaciones de la reglamentación municipal en materia de grupos vulnerables, promoviendo su armonización con las disposiciones aplicables, y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+IX.- En general, aquellas que el Cabildo le encomiende.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1606,3 +1636,13 @@ PRIMERO.- El presente Acuerdo entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Publíquese en la Gaceta Municipal y/o en un diario de mayor circulación de la localidad para el conocimiento de los ciudadanos.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales, que se opongan al presente Reglamento.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. LOS TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL NO SE APRUEBA LA REFORMA AL REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA, A EFECTOS DE CREAR LA COMISIÓN PERMANENTE POR LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD, TERCERA EDAD Y NIÑEZ, ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 91 Y 96 TER DEL REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA”.]</small>
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal órgano de difusión del Ayuntamiento de Tijuana Baja California y en un diario de los de mayor circulación en el municipio para conocimiento de los vecinos.
+
+SEGUNDO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a la presente reforma.
