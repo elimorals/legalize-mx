@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-responsabilidad-hacendaria-91093"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2015-07-21"
+last_updated: "2016-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE CONTROL PRESUPUESTAL Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 18 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CONTROL PRESUPUESTAL Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, CUALQUIER REFERENCIA A "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS" Y "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS MUNICIPALES" SE ENTENDERÁN HECHAS A "FEXHI FOPEC" Y "FEXHI FOPEC MUNICIPAL", RESPECTIVAMENTE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de diciembre de 2012.
 
@@ -347,9 +347,13 @@ II. Los recursos que le corresponden al Estado, derivados del Fondo para Entidad
 
 8.- El patrimonio del Fondo Petrolero de Campeche se constituirá con los siguientes bienes, derechos y demás cantidades, entre otros:
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, CUALQUIER REFERENCIA A "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS" Y "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS MUNICIPALES" SE ENTENDERÁN HECHAS A "FEXHI FOPEC" Y "FEXHI FOPEC MUNICIPAL", RESPECTIVAMENTE.]</small>
+
 I. El derecho a percibir, y los ingresos derivados de hasta el 100% (cien por ciento) de los recursos que le corresponden al Estado del Fondo de Extracción de Hidrocarburos, de conformidad con lo establecido en el artículo 4°-B y demás aplicables de la Ley de Coordinación Fiscal, o cualquier otro fondo que lo complemente o substituya, en el entendido de que, por lo menos, se deberán afectar al patrimonio del Fondo Petrolero de Campeche los Excedentes del Fondo de Extracción de Hidrocarburos;
 
 II. El derecho a percibir, y los ingresos derivados del 100% (cien por ciento) de los recursos que le corresponden al Estado del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, de conformidad con lo previsto en el artículo 57 y demás aplicables de la Ley de Ingresos sobre Hidrocarburos, o cualquier otro fondo que lo complemente o substituya;
+
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, CUALQUIER REFERENCIA A "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS" Y "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS MUNICIPALES" SE ENTENDERÁN HECHAS A "FEXHI FOPEC" Y "FEXHI FOPEC MUNICIPAL", RESPECTIVAMENTE.]</small>
 
 III. En caso de que algún Municipio se adhiera al Fondo Petrolero de Campeche, conforme a lo previsto en este Decreto, (i) el derecho a percibir, y los ingresos derivados de hasta el 100% (cien por ciento) de los recursos que le corresponden a dicho Municipio del Fondo de Extracción de Hidrocarburos, de conformidad con lo establecido en el artículo 4°-B y demás aplicables de la Ley de Coordinación Fiscal, o cualquier otro fondo que lo complemente o substituya, en el entendido de que, por lo menos, se deberán afectar los Excedentes del Fondo de Extracción de Hidrocarburos Municipales al patrimonio del Fondo Petrolero de Campeche; y (ii) el derecho a percibir, y los ingresos derivados de hasta el 100% (cien por ciento) de los recursos que le corresponden a dicho Municipio del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, de conformidad con lo previsto en el artículo 57 y demás aplicables de la Ley de Ingresos sobre Hidrocarburos, o cualquier otro fondo que lo complemente o substituya;
 
@@ -433,6 +437,8 @@ El Comité Técnico tendrá las facultades que se establecen en esta Ley, en el 
 
 10.- Se autoriza al Estado para que, por conducto del Titular de la Secretaría de Finanzas, de así considerarlo conveniente, lleve a cabo los actos conducentes con objeto de que los municipios puedan adherirse al Fondo Petrolero de Campeche, en términos de lo previsto en el artículo siguiente.
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, CUALQUIER REFERENCIA A "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS" Y "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS MUNICIPALES" SE ENTENDERÁN HECHAS A "FEXHI FOPEC" Y "FEXHI FOPEC MUNICIPAL", RESPECTIVAMENTE.]</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
@@ -510,6 +516,8 @@ II. Los recursos que le corresponden al Municipio correspondiente, derivados del
 ###### Artículo 23
 
 14.- La duración del Fondo Petrolero de Campeche será por tiempo indefinido y no deberá exceder del término lícito que fija la Ley e iniciará su vigencia a partir de la fecha de suscripción del contrato de fideicomiso respectivo, en el entendido de que si el Comité Técnico decide que es necesario o conveniente que el Fondo Petrolero de Campeche se dé por terminado con antelación a dicho término, se requerirá de la previa autorización del Congreso del Estado.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, CUALQUIER REFERENCIA A "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS" Y "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS MUNICIPALES" SE ENTENDERÁN HECHAS A "FEXHI FOPEC" Y "FEXHI FOPEC MUNICIPAL", RESPECTIVAMENTE.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -1000,3 +1008,29 @@ Cuarto.- Para los efectos de la medición de los daños a que se refiere el art�
 Quinto.- Las referencias a leyes o reglamentos en este decreto se entenderán hechas a las leyes o reglamentos según estos sean modificados de tiempo en tiempo o a aquellas leyes o reglamentos que los sustituyan.
 
 Sexto.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche, expedida mediante decreto No. 261 de la LX Legislatura y publicada en el Periódico Oficial del Estado el día 26 de diciembre de 2012, así como todas las modificaciones que en su oportunidad se le hicieron.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
+
+CUARTO.- Para efectos de lo dispuesto en el artículo 29, el nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+QUINTO.- Lo dispuesto en la fracción I del artículo 63 del presente decreto, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 63 de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios, hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+SEXTO.- El porcentaje que hace referencia el artículo 28 de la Ley de Disciplina Financiera y Responsabilidad Hacendaría del Estado de Campeche y sus Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado de Campeche será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+En el caso de los Municipios del Estado de Campeche, el porcentaje al que se refiere el artículo 28, será del 5.5 por ciento para el año 2018; 4.5 por ciento para el año 2019; 3.5 por ciento para el año 2020; y a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+SÉPTIMO.- El registro de proyectos de Inversión pública productiva del Estado y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 24 fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente, de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios, deberá estar en operación a más tardar el 1o. de enero de 2018.
+
+OCTAVO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 26, fracción I de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 26 de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
