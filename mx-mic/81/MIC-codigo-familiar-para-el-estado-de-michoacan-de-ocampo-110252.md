@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2016-06-23"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PRESENTE CÓDIGO, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, SU VIGENCIA INICIARÁ DE FORMA GRADUAL Y EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO VÉASE DICHA PUBLICACIÓN OFICIAL.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -2051,6 +2049,16 @@ También comete violencia familiar el elemento de la familia que transforma la c
 
 La conducta descrita en el párrafo anterior se denomina alienación parental cuando es realizada por uno de los padres.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+La alienación parental surtirá los efectos siguientes:
+
+I. Antes de la sentencia que resuelva la situación jurídica del menor respecto de los padres, el Juez deberá valorar tal circunstancia;
+
+II. Una vez sentenciado, el Juez podrá restringir o impedir el contacto del alienante o modificar los regímenes de convivencia o visita, además de imponer al alienante la obligación de someterse a tratamiento especializado; y,
+
+III. La alienación comprobada podrá tener como efecto la suspensión, inhabilitación o pérdida temporal o definitiva de la guardia y custodia.
+
 ###### Artículo 319.
 
 Asimismo, se considera violencia familiar la conducta descrita en el artículo 317, llevada a cabo contra la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el agresor y el ofendido convivan o hayan convivido en la misma casa.
@@ -2865,7 +2873,7 @@ IV. Los hermanos;
 
 V. La persona que tenga bajo su custodia al acreedor alimentista; y,
 
-VI. El ministerio público, en (sic) tratándose de personas con discapacidad que carezcan de representante.
+VI. El ministerio público, en tratándose de personas con discapacidad que carezcan de representante.
 
 ###### Artículo 458.
 
@@ -7462,3 +7470,9 @@ P.O. 23 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 147 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 91 Y 193; Y SE DEROGAN LOS ARTÍCULOS 162, 289, 1179, 1180, 1181, 1182, 1183, 1184, LA FRACCIÓN IV DEL ARTÍCULO 1189, 1197, 1198, 1199, 1200, 1201, 1202, TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 181.- PRIMERO SE REFORMA EL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO. SEGUNDO SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
