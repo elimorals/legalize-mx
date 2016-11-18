@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2016-06-23"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -1187,7 +1187,9 @@ III. Cualquier forma de afiliación corporativa.
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática en personas menores de edad y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados locales. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a cargos de elección popular. Estos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
 En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
@@ -5090,3 +5092,13 @@ P.O. 23 DE JUNIO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 170 POR EL QUE “SE REFORMA EL ARTÍCULO 71 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
