@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2009-01-02"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION Y LA VIOLENCIA EN EL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION Y LA VIOLENClA EN EL ESTADO DE MICHOACAN DE OCAMPO
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -37,9 +37,11 @@ EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
 
 NÚMERO 72
 
-ARTÍCULO ÚNIDAD. Se expide la Ley para Prevenir y Eliminar la Discriminación y la Violencia en el Estado de Michoacán de Ocampo, para quedar como sigue:
+###### ARTÍCULO ÚNICO.
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENClA EN EL ESTADO DE MICHOACÁN DE OCAMPO
+Se expide la Ley para Prevenir y Eliminar la Discriminación y la Violencia en el Estado de Michoacán de Ocampo, para quedar como sigue:
+
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -221,7 +223,7 @@ V. Económica. Cualquier acción limitativa y de control de los ingresos propios
 
 VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las personas.
 
-### CAPÍTULO TERCERO. MODALIDADES DE DISCRIMINACIÓNY VIOLENCIA
+### CAPÍTULO TERCERO. MODALIDADES DE DISCRIMINACIÓN Y VIOLENCIA
 
 ###### Artículo 9.
 
@@ -413,7 +415,7 @@ Las órdenes de protección son de carácter emergente y preventivo, prohíben l
 
 Las órdenes de protección serán emitidas y ejecutadas por la Procuraduría General de Justicia del Estado a través del Ministerio Público, con el auxilio de las autoridades policiales competentes.
 
-En virtud de la notoria urgencia, en los municipios en donde no exista Agencia del Ministerio Público, la emisión y aplicación de las órdenes de protección le corresponden al Sindico Municipal o a la autoridad municipal facultada para este fin, quien dará aviso en un plazo no mayor a setenta y dos horas a la autoridad que corresponda.
+En virtud de la notoria urgencia, en los municipios en donde no exista Agencia del Ministerio Público, la emisión y aplicación de las órdenes de protección le corresponden al Síndico Municipal o a la autoridad municipal facultada para este fin, quien dará aviso en un plazo no mayor a setenta y dos horas a la autoridad que corresponda.
 
 Las órdenes de protección deberán resolverse, a más tardar, dentro de las veinticuatro horas siguientes al conocimiento por parte de la autoridad, de los hechos que las generan y tendrán una temporalidad que cubra el estado de riesgo.
 
@@ -429,17 +431,31 @@ En la tutela del derecho humano a vivir libre de discriminación y violencia, pa
 
 El domicilio del Consejo será en la ciudad de Morelia, Michoacán, pero podrá establecer delegaciones u oficinas permanentes, temporales o itinerantes en el interior del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 22.
 
 El Consejo tiene por objeto:
 
-I. Diseñar, desarrollar y llevar a cabo las acciones conducentes para prevenir y eliminar la discriminación y la violencia;
+I. Elaborar instrumentos metodológicos y diagnósticos sobre discriminación y violencia en el Estado;
 
-II. Diseñar y promover políticas públicas para la igualdad real de oportunidades y de trato a favor de las personas, minorías, grupos u otros análogos;
+II. Diseñar, desarrollar y llevar a cabo las acciones conducentes para prevenir y eliminar la discriminación y la violencia, tomando en consideración los resultados obtenidos de sus estudios y diagnósticos;
 
-III. Coordinar las políticas y acciones de las dependencias y entidades de la Administración Pública Estatal en materia de prevención y eliminación de la discriminación y la violencia; y,
+III. Diseñar y promover políticas públicas para la igualdad real de oportunidades y de trato a favor de las personas, minorías, grupos u otros análogos con base en los resultados obtenidos de sus estudios y diagnósticos;
 
-IV. Contribuir al desarrollo cultural, económico, social y democrático del Estado, acorde al principio de igualdad real de oportunidades y de trato.
+IV. Coadyuvar con las dependencias y entidades de la Administración Pública Estatal en la implementación de las políticas y acciones en materia de prevención y eliminación de la discriminación y la violencia;
+
+V. Implementar un sistema de recepción y seguimiento de quejas y denuncias por motivo de discriminación;
+
+VI. Diseñar y aplicar instrumentos de evaluación periódica de las políticas públicas encaminadas a prevenir y eliminar la discriminación y la violencia;
+
+VII. Desarrollar, fomentar y difundir los estudios sobre las prácticas discriminatorias y de violencia en los ámbitos político, económico, social y cultural;
+
+VIII. Realizar análisis sobre los ordenamientos jurídicos y administrativos vigentes, así como de las prácticas cotidianas en el sector público a efecto de proponer las modificaciones que correspondan;
+
+IX. Brindar asesoría y orientación, en materia de discriminación y violencia; y,
+
+X. Establecer relaciones de coordinación con instituciones públicas federales, locales y municipales, así como con personas y organizaciones sociales y privadas para la implementación de las políticas públicas en la materia.
 
 ###### Artículo 23.
 
@@ -803,8 +819,16 @@ El Titular del Poder Ejecutivo del Estado dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 18 dieciocho días del mes de diciembre de 2008 dos mil ocho.
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA DIP. EUGIO CUITLÁHUAC GONZÁLEZ FARÍAS.- PRIMER SECRETARIO.- DIP. GUSTAVO ÁVILA VÁZQUEZ.- SEGUNDO SECRETARIO.- DIP. LIBRADO MARTÍNEZ CARRANZA.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
+"SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA DIP. ELIGIO CUITLÁHUAC GONZÁLEZ FARÍAS.- PRIMER SECRETARIO.- DIP. GUSTAVO ÁVILA VÁZQUEZ.- SEGUNDO SECRETARIO.- DIP. LIBRADO MARTÍNEZ CARRANZA.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I, artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a lo (sic) 23 veintitrés días del mes de Diciembre del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 187.- MEDIANTE EL CUAL SE REFORMA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
