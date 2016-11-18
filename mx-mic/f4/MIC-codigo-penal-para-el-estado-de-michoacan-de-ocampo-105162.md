@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2016-08-22"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EN LA FECHA QUE SEÑALA LA DECLARATORIA QUE AL EFECTO EXPIDA EL CONGRESO DEL ESTADO DE MICHOACÁN, PARA LA ENTRADA DEL NUEVO SISTEMA DE JUSTICIA PENAL.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1759,7 +1757,9 @@ Si se hiciera uso de la violencia física o psicológica la pena prevista se aum
 
 Agravantes
 
-Las penas previstas para la violación y el abuso sexual se aumentarán en dos terceras partes cuando sean cometidos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+Las penas previstas para la violación y el abuso sexual se aumentarán en dos terceras partes cuando sean cometidos o tengan como resultado:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -1769,9 +1769,21 @@ III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, uti
 
 IV. Por la persona que tenga a la víctima bajo su custodia, guarda o educación o aproveche la confianza en ella depositada;
 
-V. Fuere cometido el hecho al encontrarse la víctima a bordo de un vehículo particular o de servicio público; o,
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-VI. Fuere cometido el hecho en despoblado o lugar solitario.
+V. Fuere cometido el hecho al encontrarse la víctima a bordo de un vehículo particular o de servicio público;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+VI. Fuere cometido el hecho en despoblado o lugar solitario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+VII. Un embarazo no deseado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Una enfermedad incurable.
 
 ### CAPÍTULO III. DESAPARICIÓN FORZADA DE PERSONAS
 
@@ -1869,7 +1881,11 @@ Este delito se perseguirá por querella.
 
 Violencia familiar
 
-Comete el delito de violencia familiar quien lleve a cabo conductas que agredan física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre unida por vínculo matrimonial, de parentesco, por consanguinidad, afinidad, civil, concubinato, relación de pareja o familiar de hecho o esté sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común, dentro o fuera del domicilio familiar. Se impondrá de uno a cinco años de prisión años de prisión, suspensión de los derechos que tenga respecto de la víctima por el término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
+(NOTA: EL 14 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 111/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE NOVIEMBRE DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 181, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+Comete el delito de violencia familiar quien lleve a cabo conductas que agredan física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre unida por vínculo matrimonial, de parentesco, por consanguinidad, afinidad, civil, concubinato, relación de pareja o familiar de hecho o esté sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común, dentro o fuera del domicilio familiar. SE CONSIDERARÁ COMO VIOLENCIA FAMILIAR LA ALIENACIÓN PARENTAL DEMOSTRADA, RESPECTO DE SUS HIJOS O ADOPTADOS. Se impondrá de uno a cinco años de prisión, suspensión de los derechos que tenga respecto de la víctima por el término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
 
 El delito de violencia familiar se perseguirá por querella, salvo que la víctima sea una persona menor de edad o que no tenga capacidad para comprender el significado del hecho, casos en los cuales se perseguirá de oficio.
 
@@ -2201,11 +2217,15 @@ En todo caso de robo, se sancionará con el decomiso de los instrumentos, objeto
 
 Se podrá sancionar también con suspensión de derechos, destitución e inhabilitación para el desempeño de cargos, comisiones o empleos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 208.
 
-Robo de uso
+Robo de uso.
 
-Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicará de seis meses a tres años de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
+Comete el delito de robo de uso quien disponga de una cosa ajena, mueble, con carácter temporal, sin el consentimiento de quien legalmente puede disponer de ésta, sin el propósito de apropiársela y obtener un lucro. Este delito tendrá como sanción las que señala para el robo el artículo 200, atendiendo al valor del objeto.
+
+Además pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
 Este delito se perseguirá por querella.
 
@@ -3568,3 +3588,21 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Los artículos 254 ter, 254 quater y 254 quinquies quedarán derogados al momento de la expedición de los tipos penales expedidos por el Congreso de la Unión en leyes generales, atendiendo la atribución señalada en el artículo 73 fracción XXI inciso a) y 124 de la Constitución Política de los Estados Unidos Mexicanos, y sus transitorios.
 
 TERCERO. Los procesos penales iniciados con fundamento en este Decreto, así como las sentencias emitidas con base en el mismo, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 181 POR EL QUE “SE REFORMA EL ARTÍCULO 178 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+[N. DE. TRANSITORIO DEL DECRETO NÚMERO 183 POR EL QUE “SE REFORMA EL ARTÍCULO 168 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 186 POR EL QUE "SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
