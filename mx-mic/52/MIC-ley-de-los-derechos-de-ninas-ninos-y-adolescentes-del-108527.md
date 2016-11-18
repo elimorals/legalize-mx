@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2016-08-19"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -1187,6 +1187,8 @@ XII. Las demás que establezcan las autoridades estatales y municipales y aquell
 
 ### CAPÍTULO XXVII. PROCURADURÍA DE PROTECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 74.
 
 Sin perjuicio de las atribuciones que establezcan las demás disposiciones jurídicas aplicables, corresponde al Sistema Estatal DIF lo dispuesto en la Ley General.
@@ -1213,27 +1215,49 @@ VIII. Las demás que establezcan otras disposiciones en relación con la protecc
 
 ###### Artículo 75.
 
-Para la efectiva protección y restitución de los derechos de niñas, niños y adolescentes, de acuerdo a lo estipulado en la Ley General y las demás leyes aplicables, la Procuraduría de Protección del Estado de Michoacán, como parte del Sistema Estatal DIF, será integrada por:
+Para la efectiva protección integral y restitución de los derechos de niñas, niños y adolescentes y su debida atención, de conformidad a lo que establece la Ley General y las demás leyes aplicables, la Procuraduría de Protección del Estado de Michoacán, como parte del Sistema Estatal DIF, será integrada por:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
 I. Un Procurador, quien será el titular;
 
-II. Cinco subprocuradores Regionales;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-III. Los Coordinadores siguientes:
+II. Cinco Subprocuradores Regionales;
 
-a) Asistencia jurídica;
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-b) Adopciones;
+III. Las Coordinaciones siguientes:
 
-c) Supervisión; y,
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-d) Atención integral;
+a) Jurídica de Restitución, Protección y Supervisión;
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+b) De Adopción, Acogimiento y Reunificación Familiar;
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+c) De Atención Integral: que contará con área especializada en psicología, medicina y trabajo social;
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+d) De Registro, Enlace Interinstitucional y Capacitación.
 
 IV. Un Delegado Administrativo; y,
 
 V. El personal que señale el Reglamento Interno.
 
 Las subprocuradurías se ubicarán en las regiones de Uruapan, Zamora, Zitácuaro, Lázaro Cárdenas y Apatzingán. Los subprocuradores y coordinadores serán nombrados y removidos libremente por el Procurador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+Todos los especialistas de las áreas jurídica, psicológica, de trabajo social y médica adscritos al Sistema Estatal DIF se encuentran obligados a capacitarse, actualizarse, especializarse o certificarse para la prestación de servicios a la infancia y adolescencia, ante las instancias calificadas que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+A efecto de acreditar su idoneidad para prestar servicios en favor de la infancia y adolescencia, la Coordinación de Registro, Enlace Interinstitucional y Capacitación deberá realizar al menos cada doce meses un proceso de revisión a los Servidores Públicos de cada área adscrita a la Procuraduría.
 
 ###### Artículo 76.
 
@@ -1433,7 +1457,7 @@ XVII. Establecer los lineamientos para el funcionamiento de los Sistemas Municip
 
 XVIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley; esta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
 
-XIX. Auxiliar a la Procuraduría local de Protección en las medidas urgentes de protección (sic) que
+XIX. Auxiliar a la Procuraduría local de Protección en las medidas urgentes de protección que (sic)
 
 XX. Celebrar convenios de coordinación en la materia;
 
@@ -1624,3 +1648,9 @@ P.O. 19 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 158 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 45 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 188.- MEDIANTE EL CUAL SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
