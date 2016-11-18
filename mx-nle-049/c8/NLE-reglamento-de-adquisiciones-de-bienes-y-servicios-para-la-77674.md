@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-de-bienes-y-servicios-para-la-77674
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-10"
-last_updated: "2010-12-10"
+last_updated: "2016-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACIÓN MUNICIPAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Nuevo León, el viernes 10 de diciembre de 2010.
 
@@ -688,3 +688,15 @@ C. Lic. Guillermo Zamora Garza
 Secretario del R. Ayuntamiento
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de Santiago, Nuevo León, a los 25 días del mes de Noviembre de 2010
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL GOBIERNO Y ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SANTIAGO, NUEVO LEÓN".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Queda abrogado el "Reglamento de Adquisiciones de Bienes y Servicios para la Administración Municipal", publicado en el Periódico Oficial del Estado el 10 de diciembre de 2010, así como todas aquellas disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Los casos no previstos en este ordenamiento se sujetarán a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León vigente.
