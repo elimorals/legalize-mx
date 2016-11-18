@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adopcion-y-acogimiento-familiar-del-estado-de-95014"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2013-07-30"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JULIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el lunes 1 de julio de 2013.
 
@@ -162,6 +160,10 @@ Sólo el Presidente podrá designar un suplente que lo sustituya en casos de fue
 Los cargos en el Consejo son honoríficos, a excepción de los especialistas, cuyos servicios profesionales serán remunerados.
 
 El Consejo sesionará de manera ordinaria en las instalaciones del DIF en la ciudad de Morelia y de manera excepcional en cualquier otro lugar habilitado para tal efecto por el propio Consejo.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+El Consejo Técnico de Adopción rendirá trimestralmente a la Dirección del DIF estatal, un informe respectivo de las solicitudes de adopción presentadas, así como los dictámenes de idoneidad en sentido positivo o negativo emitidos durante ese lapso de tiempo.
 
 ### CAPÍTULO IV. CAPACIDAD, REQUISITOS Y CONSENTIMIENTO
 
@@ -544,3 +546,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 13 trece días del mes de junio del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. JOSÉ JESÚS REYNA GARCÍA.- EL SUBSECRETARIO DE GOBERNACIÓN ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE GOBIERNO.- FERNANDO CANO OCHOA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 184 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 9 DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
