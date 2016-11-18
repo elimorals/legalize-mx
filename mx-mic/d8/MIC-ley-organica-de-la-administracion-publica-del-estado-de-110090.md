@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2016-08-23"
+last_updated: "2016-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -441,9 +441,11 @@ XIII. Supervisar que el ejercicio de las atribuciones de los servidores público
 
 XIV. Las demás que le confieran las normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 21.
 
-A la Secretaría de Seguridad Pública le corresponde el ejercicio de las atribuciones siguientes:
+A la Secretaría de Seguridad Pública, le corresponde el ejercicio de las atribuciones siguientes:
 
 I. Coordinarse para el cumplimiento de sus funciones con la Federación y los municipios;
 
@@ -463,7 +465,9 @@ VIII. Promover, en coordinación con la sociedad, campañas tendientes a la prev
 
 IX. Promover y difundir, en coordinación con la Secretaría de Educación del Estado, la incorporación de contenidos tendientes a la prevención del delito en la política educativa y en los planes y programas de estudio encauzados hacia una cultura de la legalidad, respeto a los derechos humanos y seguridad pública;
 
-X. Planear, organizar y promover campañas de difusión, relativas al cumplimiento de las disposiciones legales aplicables y los programas que tienen que ver con la seguridad pública y el tránsito;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+X. Planear, organizar y promover campañas de difusión, relativas al cumplimiento de las disposiciones legales aplicables y los programas que tienen que ver con la seguridad pública, el tránsito y la práctica de la denuncia;
 
 XI. Ejercer el mando y dirección del Sistema Estatal de Seguridad Pública, así como de las corporaciones de seguridad pública y de policía preventiva del Estado;
 
@@ -505,9 +509,17 @@ XXIX. Otorgar a los tribunales y autoridades judiciales, el auxilio que solicite
 
 XXX. Coadyuvar con autoridades de la Federación, en la vigilancia y cumplimiento de los acuerdos, leyes y reglamentos en materia de seguridad pública;
 
-XXXI. Supervisar los programas de las instituciones del Gobierno del Estado, que tengan como función formar o capacitar elementos de seguridad pública; y,
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXXII. Las demás que le confieran las normas jurídicas aplicables.
+XXXI. Supervisar los programas de las instituciones del Gobierno del Estado, que tengan como función formar o capacitar elementos de seguridad pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XXXII. Promover la práctica de la denuncia., la asesoría y el acompañamiento a la víctima en la presentación de la misma; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 22.
 
@@ -1580,6 +1592,12 @@ Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Cuarto. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emita el Ejecutivo del Estado, deberán estar acordes a lo dispuesto por el presente Decreto, a efecto de que estén considerados en el proyecto de Presupuesto de Egresos del Gobierno del Estado.
 
 Quinto. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para su conocimiento y efectos legales conducentes.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 185.- MEDIANTE EL CUAL SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO DÉCIMO.
 
