@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2016-08-24"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -1261,13 +1261,17 @@ I. Brindará apoyo al órgano jurisdiccional en la operación y supervisión de 
 
 II. Servirá de enlace entre el propio órgano jurisdiccional al que está adscrito y las áreas administrativas en la gestión y desahogo de trámites administrativos, estadísticos e informáticos;
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
 
-III. Atenderá las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información; y
+III. Atenderá las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información;
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
 
-IV. Cumplirá con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno o las Comisiones.
+IV. Fungirá como agente certificador para tramitar la emisión, renovación y revocación de Certificados Digitales de la Firma Electrónica Certificada del Poder Judicial de la Federación, de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y demás disposiciones aplicables, cumpliendo con el rol establecido por la Dirección General de Estadística Judicial; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
+
+V. Cumplirá con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno o las Comisiones.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
@@ -3494,3 +3498,11 @@ D.O.F. 24 DE AGOSTO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
