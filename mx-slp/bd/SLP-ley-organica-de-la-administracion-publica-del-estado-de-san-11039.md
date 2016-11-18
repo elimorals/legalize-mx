@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2015-01-24"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951, PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES, REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -61,9 +59,17 @@ a) Las Secretarías del Despacho;
 
 b) La Oficialía Mayor;
 
-c) La Procuraduría General de Justicia; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-d) La Contraloría General del Estado.
+c) La Procuraduría General de Justicia;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+d) La Contraloría General del Estado, y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+e) Consejería Jurídica del Estado, y
 
 II. Paraestatal, integrada por las siguientes entidades:
 
@@ -165,6 +171,10 @@ Las dependencias y entidades de la administración pública estarán obligadas a
 
 Los titulares de las dependencias y entidades formularán los anteproyectos de iniciativas de leyes, reglamentos, decretos y acuerdos administrativos cuya materia corresponda a sus atribuciones y los remitirán al Gobernador del Estado, previa consulta y por conducto de la Secretaría General de Gobierno.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+La Consejería Jurídica del Estado, y la Secretaría General de Gobierno, revisarán los proyectos respectivos.
+
 ###### ARTICULO 24.
 
 Las dependencias podrán aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia.
@@ -243,15 +253,21 @@ XV. Procuraduría General de Justicia;
 
 XVI. Contraloría General del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XVII. La Secretaría de Salud, y
+XVII. La Secretaría de Salud;
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XVIII. Secretaría de Seguridad Pública.
+XVIII. Secretaría de Seguridad Pública, y
 
-En el caso de la Consejería Jurídica y de la Defensoría Social, éstas quedarán adscritas al Despacho del Ejecutivo.
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Consejería Jurídica del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+La Defensoría Pública quedará adscrita al despacho del Ejecutivo.
 
 ###### ARTICULO 32.
 
@@ -281,67 +297,103 @@ X. Vigilar y controlar todo lo relativo a la demarcación y conservación de los
 
 XI. Intervenir, en auxilio o coordinación con las autoridades federales y en los términos de las leyes relativas, en materia de cultos religiosos; detonadores y pirotecnia; portación de armas; loterías, rifas, apuestas y juegos; migración, y en la prevención y auxilio en caso de catástrofes naturales;
 
-XII. Proporcionar asesoría jurídica a las dependencias y entidades del Ejecutivo, así como a los Ayuntamientos que la soliciten en asuntos de su competencia;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XIII. Revisar o, en su caso, elaborar los proyectos de ley, reglamentos y cualquier otro ordenamiento jurídico que las dependencias y entidades presenten al Ejecutivo;
+XII. Proporcionar asesoría jurídica a las dependencias y entidades del Ejecutivo Estatal, así como a los ayuntamientos, en coordinación con la Consejería Jurídica del Estado, en los asuntos que así lo determine el Gobernador del Estado;
 
-XIV. Reivindicar la propiedad del Estado, con la intervención del Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+XIII. Revisar, previo a turnarlos a la Consejería Jurídica del Estado, los proyectos de ley, reglamentos y cualquier otro ordenamiento jurídico que las dependencias y entidades presenten al Ejecutivo Estatal; y en los casos en que éste determine elaborar, los proyectos correspondientes;
 
-XV. Planear, organizar y ejecutar los programas relativos a la protección civil de los habitantes;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XVI. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
+XIV. Tramitar los nombramientos que el Ejecutivo expida para el ejercicio de las funciones notariales, y ordenar periódicamente las visitas de inspección a las notarías del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XV. Autorizar los folios y libros notariales, así como los mecanismos que para ello se utilicen, y llevar el libro de registro de los notarios; además de establecer, organizar y controlar el archivo de las notarías del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XVI. Expedir, previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté asignado a otras dependencias del Ejecutivo;
 
 XVII. Promover la participación de la sociedad en los programas de protección civil;
 
-XVIII. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XIX. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
+XVIII. Coadyuvar con las autoridades federales en la política de población;
 
-XX. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+XIX. Llevar el Registro de los peritos que pueden ejercer en el Estado de conformidad con la ley de la materia, a través de la Comisión del Registro Estatal de Peritos;
 
-XXII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXIII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
+XX. Presidir el Consejo Estatal de Consulta Ciudadana;
 
-XXIV. (DEROGADA, P.O. 6 DE AGOSTO DE 1999)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXV. Tramitar los nombramientos que el Ejecutivo expida para el ejercicio de las funciones notariales y ordenar periódicamente las visitas de inspección a las notarías del Estado;
+XXI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
 
-XXVI. Autorizar los folios y libros notariales, así como los mecanismos que para ello se utilicen y llevar el libro de registro de los notarios, además de establecer, organizar y controlar el archivo de las notarías del Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXVII. Expedir, previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté asignado a otras dependencias del Ejecutivo;
+XXII. Planear, organizar y ejecutar los programas relativos a la protección civil de los habitantes;
 
-XXVIII. Coadyuvar con las autoridades federales en la política de población;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXIX. Tramitar y ejecutar, por acuerdo del Gobernador del Estado, en coordinación con el Procurador General de Justicia, los expedientes relativos a las expropiaciones, a la ocupación temporal y a la limitación de dominio de los bienes en los casos de utilidad pública, de conformidad con la legislación vigente;
+XXIII. Establecer el calendario oficial, y organizar los actos cívicos del Gobierno del Estado;
 
-XXX. Llevar el Registro de los Peritos que pueden ejercer en el Estado de conformidad con la ley de la materia, a través de la Comisión del Registro Estatal de Peritos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXXI. Presidir el Consejo Estatal de Consulta Ciudadana;
+XXIV. Compilar y publicar la legislación vigente en el Estado, en coordinación con los órganos correspondientes;
 
-XXXII. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+XXV. Administrar y publicar el Periódico Oficial del Estado "Plan de San Luis";
 
-XXXIII. (DEROGADA, P.O. 5 DE JUNIO DE 2014)
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXXIV. Establecer el calendario oficial y organizar los actos cívicos del Gobierno del Estado;
+XXVI. Integrar, conjuntamente con la Secretaría de Finanzas, el Informe Anual de Gobierno, y someterlo a consideración del titular del Ejecutivo;
 
-XXXV. Compilar y publicar la legislación vigente en el Estado, en coordinación con los órganos correspondientes;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. Administrar y publicar el Periódico Oficial del Estado;
+XXVII. Tramitar y ejecutar, por acuerdo del Gobernador del Estado, los expedientes relativos a las expropiaciones, a la ocupación temporal y a la limitación de dominio de los bienes en los casos de utilidad pública, de conformidad con la legislación vigente;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXXVII. Integrar conjuntamente con la Secretaría de Finanzas el Informe Anual de Gobierno, y someterlo a consideración del titular del Ejecutivo;
+XXVIII. Fungir como enlace del Poder Ejecutivo del Estado ante las comisiones Nacional; y Estatal de Derechos Humanos, y ante cualquier organización o instancia relacionada con los Derechos Humanos;
 
-XXXVIII. Rendir, en ausencia del Gobernador del Estado, los informes previos y justificados, en los juicios de amparo en que éste sea señalado como autoridad responsable; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-XXXIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXIX. Atender y dar seguimiento hasta su conclusión a las acciones del Poder Ejecutivo Estatal para promover, respetar, proteger y garantizar los Derechos Humanos; así como de la recepción, análisis, en su caso, aceptación y cumplimiento de las recomendaciones que en la materia emitan los órganos constitucionales competentes;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XXX. Implementar y coordinar las políticas públicas en materia de Derechos Humanos entre las dependencias y entidades de la Administración Pública Estatal, cuidando que éstas las apliquen con absoluto respeto y sujeción al marco normativo vigente;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XXXI. Reivindicar la propiedad del Estado, con la intervención de la Consejería Jurídica del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XXXII. Rendir, en ausencia del Gobernador del Estado, los informes previos y justificados en los juicios de amparo en que éste sea señalado como autoridad responsable, Y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+XXXIV. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
+
+XXXV. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
+
+XXXVI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
+
+XXXVII. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
+
+XXXVIII. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
+
+XXXIX. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2016)
 
 ###### ARTICULO 33.
 
@@ -1279,7 +1331,7 @@ XXXIII. Las demás que les sean encomendadas por el titular del Ejecutivo, le co
 
 La Procuraduría General de Justicia es el órgano del Ejecutivo del Estado al que corresponde ejercer las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado y por la Ley Orgánica de la Procuraduría General de Justicia del Estado de San Luis Potosí.
 
-El Procurador General de Justicia intervendrá personalmente en todos los negocios en que el Estado fuese parte, así como en todo asunto judicial en que se encuentre afectado el interés público o el del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
 ### CAPITULO IV. DEL SISTEMA ESTATAL DE CONTROL DEL EJECUTIVO ESTATAL
 
@@ -1337,21 +1389,43 @@ XXI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ### CAPITULO V. DE LA CONSEJERIA JURIDICA
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 45.
 
-La Consejería Jurídica estará a cargo de un Consejero Jurídico dependiente del titular del Ejecutivo del Estado en los términos del Artículo 87 de la Constitución Política del Estado y ejercerá las siguientes atribuciones:
+A la Consejería Jurídica del Estado corresponde el despacho de los siguientes asuntos:
 
-I. Aconsejar y asesorar directamente al Gobernador del Estado y a los titulares de la administración pública estatal y sus organismos descentralizados, en los asuntos jurídicos y administrativos que sean de la competencia e interés de sus diversas áreas, cuando éstos así se lo soliciten;
+I. Proporcionar el apoyo técnico jurídico al Gobernador del Estado en todos aquellos asuntos que éste le encomiende;
 
-II. Estudiar y analizar, así como dar cuenta al Ejecutivo del Estado, de los resultados de los asuntos que le sean turnados por el mismo;
+II. Revisar los proyectos que conforme a la fracción XIII del artículo 32 de este Ordenamiento, le turne la Secretaría General de Gobierno, así como realizar estudios e investigaciones en materia legislativa, a fin de que el titular del Ejecutivo del Estado cuente con la información necesaria para promover las iniciativas correspondientes ante el Congreso del Estado y, en su caso, elaborar los proyectos de ley, o de reglamentos que el mismo le ordene en coordinación con la Secretaría General de Gobierno;
 
-III. Prestar a los Ayuntamientos y sus entidades, la asesoría jurídica que le sea solicitada por los mismos;
+III. Emitir, en coordinación con la Secretaría General de Gobierno, a solicitud expresa de las comisiones del Congreso del Estado, opinión de las iniciativas de leyes que se refieran al ámbito de competencia del Poder Ejecutivo, considerando los planteamientos de las dependencias o entidades que correspondan;
 
-IV. Coordinarse con las diversas áreas jurídicas de la administración pública estatal a efecto de brindar la asesoría que le soliciten conforme a las fracciones I y II de este artículo;
+IV. Revisar, en coordinación con las dependencias y entidades de la Administración Pública Estatal, las propuestas de actualización del orden jurídico, así como de los reglamentos y demás normas administrativas;
 
-V. Realizar los estudios e investigaciones en materia legislativa, a fin de que el titular del Ejecutivo del Estado cuente con la información necesaria, para, en su caso, promover las iniciativas correspondientes ante el Congreso del Estado; y
+V. Coordinar con la Secretaría General de Gobierno, la actuación de los responsables de las áreas jurídicas de la Administración Pública Estatal; y la asesoría jurídica en asuntos en que intervengan varias dependencias y entidades; así como procurar la homologación de los criterios jurídicos que deban ser observados en los asuntos públicos;
 
-VI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+VI. Coordinar los programas de normatividad jurídica de la Administración Pública Estatal que apruebe el Gobernador del Estado y establecer la congruencia y homologación de los criterios jurídicos de las dependencias y entidades;
+
+VII. Dirigir a los responsables de asuntos jurídicos de cada dependencia o entidad de la Administración Pública Estatal, y establecer los criterios de congruencia legal;
+
+VIII. Emitir opinión, previa petición de los titulares de las dependencias y entidades, respecto al nombramiento de los responsables de las áreas jurídicas en la Administración Pública Estatal;
+
+IX. Prestar asesoría en materia técnico jurídica a los ayuntamientos que lo soliciten, sin perjuicio de la competencia de otras dependencias;
+
+X. Representar al Gobernador en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XI. Reivindicar la propiedad y posesión del Estado;
+
+XII. Intervenir en los juicios laborales, civiles y administrativos en que el Gobernador del Estado sea parte, así como en todo asunto judicial en que se encuentre afectado el interés público o el del Estado, y
+
+XIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 45 BIS.- La Consejería Jurídica del Estado estará a cargo de un Consejero Jurídico designado y removido libremente por el Gobernador del Estado, quien deberá cumplir con los requisitos para ser Magistrado del Supremo Tribunal de Justicia del Estado que se establecen en el artículo 99 de la Constitución Política del Estado.
+
+El reglamento interior determinará, entre otros aspectos, su estructura orgánica básica, las atribuciones del Consejero Jurídico, de las consejerías adjuntas, y del resto de las áreas que la integran.
 
 ### CAPITULO VI. DE LOS TRIBUNALES ADMINISTRATIVOS DEL ESTADO
 
@@ -1784,3 +1858,23 @@ P.O. 24 DE ENERO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0427.- SE REFORMA LOS ARTÍCULOS, 3°, 31, 32 Y 45; ADICIONA A LOS ARTÍCULOS 3°, 23, 31 Y EL ARTÍCULO 45 BIS; Y DEROGA DE LOS ARTÍCULOS 32 LAS FRACCIONES XXXIV A XXXIX, Y 42 EL PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su Publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. La Secretaría General de Gobierno, y la Procuraduría General de Justicia, continuarán sustanciando, hasta su conclusión definitiva, los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto.
+
+La Consejería Jurídica del Estado ejercerá sus nuevas atribuciones y competencias a partir de la entrada en vigor de este Decreto.
+
+TERCERO. La Secretaría General de Gobierno transferirá, gradualmente, a la Consejería Jurídica del Estado, la adscripción de los servidores públicos sindicalizados que actualmente laboran para la citada Secretaría, que sean suficientes y necesarios para que se ejerzan las nuevas facultades y competencias de la Consejería, así como los recursos materiales correspondientes.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en este Decreto se readscriban a la Consejería Jurídica del Estado, se respetarán conforme a la ley.
+
+CUARTO. El Ejecutivo Estatal procederá a emitir el Reglamento Interior de la Consejería Jurídica, así como a realizar las adecuaciones a los reglamentos interiores de la Secretaría General de Gobierno, en un lapso no mayor a noventa días, contados a partir de la vigencia del presente Decreto.
+
+QUINTO. Se faculta al Poder Ejecutivo del Estado a realizar la ampliación y ajustes que se requieran al Presupuesto, para asignar a la Consejería Jurídica del Estado lo necesario que le permita contar con los recursos materiales, humanos y financieros suficientes para el ejercicio de las atribuciones que se le asignan en este Decreto, así como para su operación y funcionamiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
