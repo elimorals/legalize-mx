@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2016-10-03"
+last_updated: "2016-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 1569/2016 XXI P.E., PUBLICADO EN EL P.O. DE 19 DE NOVIEMBRE DE 2016, VÉASE TRANSITORIO ARTÍCULO ÚNICO.]</small>
+
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -153,7 +155,7 @@ Además podrán fungir como organismos auxiliares de las autoridades mencionadas
 
 Los centros de control animal, autoridades sanitarias, instituciones de educación superior e investigación en el ramo, médicos veterinarios, y organizaciones de la sociedad civil relacionadas con la materia, autorizadas por la Secretaría.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA SECRETARÍA DE DE EDUCACIÓN, CULTURA Y DEPORTE O AL SECRETARIO DE EDUCACIÓN, CULTURA Y DEPORTE, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA O SECRETARIO DE CULTURA RESPECTIVAMENTE".]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA SECRETARÍA DE EDUCACIÓN, CULTURA Y DEPORTE O AL SECRETARIO DE EDUCACIÓN, CULTURA Y DEPORTE, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA O SECRETARIO DE CULTURA RESPECTIVAMENTE".]</small>
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2016)</small>
 
@@ -161,7 +163,7 @@ Los centros de control animal, autoridades sanitarias, instituciones de educaci�
 
 La Secretaría de Educación, Cultura y Deporte, de conformidad con lo establecido en la Ley Estatal de Educación, promoverá una cultura de respeto a los animales.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA SECRETARÍA DE DE EDUCACIÓN, CULTURA Y DEPORTE O AL SECRETARIO DE EDUCACIÓN, CULTURA Y DEPORTE, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA O SECRETARIO DE CULTURA RESPECTIVAMENTE".]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL DECRETO NO. LXV/RFLEY/0003/2016 I P.O., PUBLICADO EN EL P.O. 3 DE OCTUBRE DE 2016, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO A LA SECRETARÍA DE EDUCACIÓN, CULTURA Y DEPORTE O AL SECRETARIO DE EDUCACIÓN, CULTURA Y DEPORTE, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA O SECRETARIO DE CULTURA RESPECTIVAMENTE".]</small>
 
 ###### ARTÍCULO 6.
 
@@ -343,6 +345,10 @@ XXXIII. Utilizar a un animal en más de un experimento, intervención quirúrgic
 
 XXXIV. Privar de la vida intencionalmente y de manera cruel a cualquier animal de compañía o afectar de manera dolosa e injustificadamente alguno de sus órganos o de sus funciones vitales.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+Lo establecido en la presente fracción se sancionará, en su caso, por lo dispuesto en los artículos 364, 365 y 366 del Código Penal del Estado de Chihuahua.
+
 ###### ARTÍCULO 10.
 
 Queda prohibido transportar y movilizar animales de la siguiente manera:
@@ -425,15 +431,61 @@ En el caso de animales trasladados que fueran detenidos en su camino, por cualqu
 
 ### CAPÍTULO III. DE LAS DISPOSICIONES EN MATERIA DE BIENESTAR APLICABLES A LA COMERCIALIZACIÓN DE ANIMALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 21.
 
-La exhibición y venta de animales se realizará en locales e instalaciones adecuadas para su correcto cuidado, mantenimiento y protección contra las inclemencias del tiempo, respetando las normas de higiene y seguridad colectiva. En ningún caso estas operaciones podrán efectuarse en la vía pública.
+La exhibición y venta de animales se realizará en locales e instalaciones adecuadas para su correcto cuidado, mantenimiento y protección contra las inclemencias del tiempo, respetando las normas de higiene y seguridad colectiva. En ningún caso estas operaciones podrán efectuarse en la vía pública o en instalaciones destinadas al uso habitacional de las personas, escuelas, mercados, tianguis, ferias o cualquier otro lugar que no cumpla con los requisitos de la presente Ley.
 
 Esta disposición no se aplicará en la compra, venta y alquiler de animales de granja en relación directa con la explotación pecuaria, siempre que se realice en las áreas determinadas por autoridad competente.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 21 Bis.
+
+Las personas que realicen las actividades de exhibición, actividades deportivas, crianza, venta, adiestramiento y pensión de animales, estarán obligadas a cumplir con los siguientes requisitos:
+
+I. Contar con la licencia correspondiente expedida por la Secretaría de Desarrollo Urbano y Ecología.
+
+II. Estar inscritos en el Registro estatal de personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales.
+
+III. Deberán disponer de comida, agua, espacios para dormir y moverse con comodidad, evitando el hacinamiento y procurarles la temperatura adecuada; se deberá contar con espacios suficientemente amplios con luz natural, para que deambulen con comodidad.
+
+IV. Destinar un área que reúna las condiciones de seguridad y protección necesarias para que los animales no queden expuestos a cuestiones climatológicas adversas, así mismo deberán contar con acondicionamiento para el correcto desarrollo de los animales, así como su reproducción.
+
+V. Contar con la asesoría de un Médico Veterinario Zootecnista responsable para llevar a cabo sus actividades.
+
+VI. Contar con permiso de uso de suelo correspondiente, no pudiendo desarrollarse en instalaciones cuyo uso de suelo sea de carácter habitacional.
+
+VII. Proporcionar al comprador un manual de información sobre el animal adquirido, su cuidado, albergue y dieta.
+
+VIII. Contar con una bitácora y certificado de salud de los pies de cría, tantos machos como hembras, historial médico, especificar su calendario de vacunación y desparasitación, así como técnicas de reproducción.
+
+IX. Contar con un certificado de salud para cada animal en venta expedido por un Médico Veterinario Zootecnista.
+
+X. Proporcionar el cuidado diario de los animales en sus instalaciones; queda estrictamente prohibido dejar de brindarles atención y cuidados debidos en los días no laborales.
+
+XI. Contar con una base de datos donde se registrará la procedencia de cada animal vendido, su número de registro, así como los generales del comprador.
+
+XII. Todo animal doméstico a comercializar debe ser vacunado y desparasitado. No se permitirá dar en venta y/o comprar animales destetados prematuramente.
+
+XIII. Tener un plan de contingencia adecuado para el centro de crianza, reproducción y cualquier otro lugar donde se conserven animales domésticos, con el fin de garantizar el bienestar del animal bajo su custodia.
+
+XIV. Cuidar que una hembra no sea preñada más de una vez al año, siendo tres el número máximo de pariciones. Queda estrictamente prohibido tener a las hembras pie de cría permanentemente enjauladas y sacarlas únicamente para apareamiento.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 22.
 
-Queda prohibida la venta de animales de compañía en la vía pública; en caso de que se infrinja esta disposición, las autoridades administrativas procederán a asegurar los animales de compañía que se pretendían vender y aplicarán las sanciones correspondientes. Los animales requisados se destinarán al centro de control animal o a los organismos auxiliares.
+Queda prohibida la venta, rifa u obsequio de animales de compañía en la vía pública; o en instalaciones destinadas al uso habitacional de las personas, escuelas, mercados, tianguis, ferias o cualquier otro lugar que no cumpla con los requisitos de la presente ley; en caso de que se infrinja esta disposición, las autoridades administrativas procederán a asegurar los animales de compañía que se pretendían vender y aplicarán las sanciones correspondientes. Los animales requisados se destinarán al centro de control animal o a los organismos auxiliares.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 22 Bis.
+
+Se podrán organizar eventos en espacios abiertos o cerrados, públicos o privados, para promover la entrega de animales abandonados, previa obtención del permiso de la autoridad municipal correspondiente, para lo cual contarán con el apoyo del ayuntamiento en la medida de sus posibilidades, especialmente en la difusión de dichos eventos.
+
+Las personas que organicen eventos para otorgar animales en adopción, deberán entregarlos vacunados, desparasitados y esterilizados, haciendo además el seguimiento de estos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes el manual de cuidados.
 
 ## TÍTULO CUARTO. DE LAS PRÁCTICAS DE MANEJO EN RELACIÓN AL TIPO DE APROVECHAMIENTO DE ANIMALES DOMÉSTICOS
 
@@ -515,15 +567,95 @@ En el caso de que el proyecto de investigación requiera la muerte del animal o 
 
 En todos los casos en los que el animal sujeto a un proyecto de investigación muera, se deberán tomar las previsiones necesarias para la rápida eliminación sanitaria de los cadáveres y material de desecho, de conformidad con las normas sanitarias vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-Los centros de control animal estarán obligados a retirar de la vía pública y áreas de uso común de unidades habitacionales, a perros y gatos visiblemente enfermos o gravemente lesionados, cuyo bienestar se encuentre comprometido ante la ausencia de una persona responsable de su tutela o por petición expresa de ésta para su eutanasia inmediata, de conformidad con lo dispuesto en la presente Ley, y sin que se condicione dicho servicio al previo pago por el cumplimiento del mismo.
+Será obligación de los Centros de Control Animal:
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+I. Contar con la infraestructura necesaria para brindar a los animales que resguarden, una estancia digna, segura y saludable, evitando la sobrepoblación.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+II. El responsable del centro deberá ser un Médico Veterinario Zootecnista o carrera afín debidamente titulado.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+III. Brindar capacitación permanente a su personal a fin de asegurar una atención adecuada.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+IV. Proveer alimento y agua suficientes en todo momento a los animales resguardados.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+V. Proporcionar atención veterinaria a los animales que se encuentren lastimados, heridos o presenten signos de enfermedad infecto-contagiosa.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+VI. Emitir una constancia del estado general del animal tanto a su ingreso como a su salida.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+VII. Contar con áreas especialmente acondicionadas para mantener a los animales que padezcan enfermedades infecto-contagiosas en aislamiento a fin de evitar contagios.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Dar a conocer la población animal en condiciones de ser adoptados en sus instalaciones, esto mediante la página oficial de la Secretaría de Desarrollo Urbano y Ecología, medios de difusión impresos y redes sociales.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+IX. Entregar a los animales en adopción esterilizados, vacunados y desparasitados.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+X. Llevar un registro de las personas que adopten a un animal, donde se plasmarán los generales de los adoptantes y de la mascota.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XI. Llevar a cabo campañas masivas de esterilización y vacunación animal, mismas que serán gratuitas, sistemáticas e intensivas, esto mediante instalaciones itinerantes, enfocándose a los sectores más marginados de la población.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XII. Encabezar programas de educación sobre la tenencia responsable de animales, en coordinación con autoridades educativas.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Promover, en el ámbito de sus facultades, la cultura de protección y cuidado de los animales, mediante campañas y programas de difusión.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Proporcionar certificado, placa o collar cuando se aplique la vacunación antirrábica.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XV. Disponer de vehículos especializados para la realización de todas sus actividades.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XVI. Prestar atención médico-veterinaria a bajo costo o gratuita a personas que lo necesiten.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Proporcionar a la población en general, información respecto a la esterilización de mascotas y sus beneficios.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Hacer del conocimiento de los habitantes en las localidades de su competencia, de las actividades que lleven a cabo, mediante la concertación con los medios masivos de comunicación local.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Retirar de la vía pública y áreas de uso común de unidades habitacionales, a perros y gatos visiblemente enfermos o gravemente lesionados, cuyo bienestar se encuentre comprometido ante la ausencia de una persona responsable de su tutela.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-A los animales domésticos capturados que se encuentren en centros de control animal, que no sean reclamados por su dueño en el término de diez días, se les aplicará la eutanasia.
+A los animales domésticos capturados que se encuentren en centros de control animal, que no sean reclamados por su dueño en el término de diez días, serán puestos en adopción inmediata.
 
-Los animales remitidos a los centros de control animal para observación clínica motivada por una agresión, deberán permanecer en el centro por un periodo de diez días. Transcurrido dicho término, se les podrá aplicar la eutanasia.
+Los animales remitidos a los centros de control animal para observación clínica motivada por una agresión, deberán permanecer en el centro por un periodo de diez días. Transcurrido dicho término, se les podrá aplicar la eutanasia, atendiendo a lo dispuesto por las normas oficiales mexicanas, después de haber sido evaluados por un Médico Veterinario Zootecnista o, en su caso, podrán ser puestos en adopción.
 
 ### CAPÍTULO II. DE LA EUTANASIA DE LOS ANIMALES
 
@@ -535,11 +667,17 @@ I. Cuando el animal padezca una enfermedad incurable o se encuentre en fase term
 
 II. Cuando el animal, por cuestiones de violencia y agresividad, represente un peligro para la ciudadanía, y
 
-III. Por sobrepoblación en los centros de control animal.
+III. (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+Esta deberá ser efectuada con métodos autorizados y bajo la supervisión del Médico Veterinario Zootecnista responsable del centro.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
-Los propietarios, administradores o encargados de expendios que se dediquen a la comercialización y exhibición de animales domésticos o que los utilicen en actividades de entretenimiento, investigación y enseñanza, tienen la obligación de aplicar la eutanasia inmediata a los animales que por cualquier causa padezcan de una enfermedad incurable, se encuentren en fase terminal, hayan sufrido lesiones graves que comprometan su bienestar, sufran de alguna incapacidad física, dolor que no pueda ser controlado, o que representen un peligro para la salud o seguridad de las personas, de conformidad con lo dispuesto en la presente Ley.
+Los propietarios, administradores o encargados de establecimientos que se dediquen a la comercialización, exhibición, rescate y protección de animales domésticos o que los utilicen en actividades de entretenimiento, investigación y enseñanza, tienen la obligación de aplicar la eutanasia inmediata a los animales que por cualquier causa padezcan de una enfermedad incurable, se encuentren en fase terminal, hayan sufrido lesiones graves que comprometan su bienestar, sufran de alguna incapacidad física, dolor que no pueda ser controlado, o que representen un peligro para la salud o seguridad de las personas, de conformidad con lo dispuesto en la presente Ley.
 
 ## TÍTULO QUINTO. DE LA PARTICIPACIÓN CIUDADANA Y DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
@@ -571,7 +709,9 @@ IV. Acreditar el debido cumplimiento de las normas oficiales mexicanas aplicable
 
 V. Presentar los informes de actividades que para tal efecto se estipulen en el Reglamento en los periodos que en el mismo se indiquen.
 
-Al momento de presentar la solicitud, la organización será inscrita en el registro estatal de personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+Al momento de presentar la solicitud, la organización será inscrita en el registro estatal de personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano, sujetándose a lo dispuesto por la presente Ley, buscando siempre el bienestar de los animales.
 
 ###### ARTÍCULO 42.
 
@@ -595,9 +735,11 @@ Los trámites, requisitos y formatos para obtener la Autorización podrán reali
 
 El Estado, a través de la Secretaría, promoverá la constitución del Fondo Estatal de Bienestar para los Animales, con la finalidad de generar recursos para facilitar el cumplimiento de los objetivos establecidos en esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 45.
 
-Los recursos del Fondo podrán ser destinados para apoyar:
+Los recursos del Fondo deberán ser destinados para apoyar:
 
 I. La realización de acciones de protección y preservación de los animales del Estado;
 
@@ -793,9 +935,11 @@ Si una vez vencido el plazo concedido por la autoridad para subsanar la o las in
 
 En el caso de reincidencia, procederá la sanción ulterior. Sin perjuicio de lo anterior, en el caso de que se haya sancionado con multa, el monto de ésta podrá ser hasta por el doble de la sanción pecuniaria correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 70.
 
-Se considerarán infracciones graves aquellas que se realicen con crueldad, maltrato, pongan en riesgo su vida o comprometan su bienestar, y especialmente las violaciones a las disposiciones previstas en los artículos 8, fracciones IX, XI, XIII y XIV; 9, fracciones I, III, IV, VI, VII, IX, X, XI, XII, XIII, XV, XVII, XVIII, XX, XXI, XXIII, XXIV, XXV, XXIX y XXXI; y 10, fracciones I, II, III, IV y VI.
+Se considerarán infracciones graves aquellas que se realicen con crueldad, maltrato, pongan en riesgo su vida o comprometan su bienestar, y especialmente las violaciones a las disposiciones previstas en los artículos 8, fracciones IX, XI, XIII y XIV; 9, fracciones I, III, IV, VI, VII, IX, X, XI, XII, XIII, XV, XVII, XVIII, XX, XXI, XXIII, XXIV, XXV, XXIX y XXXI; 10, fracciones I, II, III, IV y VI, y 21 Bis.
 
 ###### ARTÍCULO 71.
 
@@ -1128,3 +1272,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1568/2016 XXI P.E., MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XXXIV, DEL ARTÍCULO 9, DE LA LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
