@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2014-08-20"
+last_updated: "2016-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -2165,9 +2165,17 @@ l. Una salida de agua tratada para riego de áreas verdes de uso común para cad
 
 m. Arbolado en parques, jardines y camellones apropiados a la zona de que se trate;
 
-n. Mobiliario urbano en las áreas verdes y/o espacios libres del fraccionamiento, y
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
-o. Las demás obras de infraestructura primaria prevista, que afecten al fraccionamiento, o las que se requieran para la incorporación del mismo al área urbana.
+n. Mobiliario urbano en las áreas verdes y/o espacios libres del fraccionamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+o. Plantar al menos un árbol nativo o endémico, de tres o más años de desarrollo, en cada unidad habitacional, adecuado para el ecosistema en el que se encuentre.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+p. Las demás obras de infraestructura primaria prevista, que afecten al fraccionamiento, o las que se requieran para la incorporación del mismo al área urbana.
 
 En la urbanización por etapas, que propongan áreas verdes y de equipamiento concentradas para más de una de estas, la autoridad deberá de prever en la autorización respectiva, que se garantice que las etapas en desarrollo contarán, previo a su recepción, con las áreas verdes y de equipamiento, que permitan cubrir las necesidades de los habitantes de la etapa en proceso.
 
@@ -3910,6 +3918,14 @@ Los Ayuntamientos deberán ajustar, en su caso, los reglamentos de la materia, t
 El Ejecutivo del Estado expedirá las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto.
 
 P.O. 20 DE AGOSTO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1561/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMAN LOS INCISOS N) Y O) Y SE ADICIONA UN INCISO P) A LA FRACCIÓN I DEL ARTÍCULO 92 DE LA LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA"].
 
 ###### ARTÍCULO ÚNICO.
 
