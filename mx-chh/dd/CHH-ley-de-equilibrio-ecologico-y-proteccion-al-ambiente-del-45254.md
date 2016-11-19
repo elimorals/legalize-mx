@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2016-10-03"
+last_updated: "2016-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -409,9 +409,7 @@ XXXII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 XXXIII.- Conducir el proceso de implementación y funcionamiento del Programa Estatal contra el Cambio Climático, así como coordinarse con las autoridades competentes para su aplicación en los Municipios del Estado, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
-
-XXXIV.- Formar y administrar el registro público estatal de sitios contaminados, de conformidad con la información que deberán proporcionar los municipios de la Entidad dentro de sus respectivas jurisdicciones;
+XXXIV.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2016)
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -2756,6 +2754,14 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1567/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5, RECORRIÉNDOSE SU CONTENIDO ACTUAL Y SUBSECUENTES; LA FRACCIÓN XXI DEL ARTÍCULO 6, Y LOS ARTÍCULOS 41 Y 42; SE ADICIONAN UNA FRACCIÓN XXXIII AL ARTÍCULO 5 Y UNA FRACCIÓN XXII AL ARTÍCULO 6, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA; SE DEROGA LA FRACCIÓN XXXIV DEL ARTÍCULO 8 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
