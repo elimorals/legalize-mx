@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-21"
-last_updated: "2016-07-20"
+last_updated: "2016-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de junio de 2014.
 
@@ -109,63 +109,69 @@ II. Aprovechamiento de residuos: Conjunto de acciones cuyo objetivo es recuperar
 
 III. Autoridad Ambiental: Institución que detenta el poder público y que, conforme a lo dispuesto en esta Ley, tiene competencia para realizar los actos de inspección y vigilancia del cumplimiento de esta Ley y las de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y preservación y restauración del equilibrio ecológico. En caso de asuntos de competencia estatal, la autoridad ambiental es la Secretaría, y en los asuntos de competencia municipal, lo será la entidad que designe el ayuntamiento del municipio de que se trate.
 
-IV. Disposición final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, y a los ecosistemas y sus elementos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
-V. Estudio de abandono de sitio: Estudio que debe presentar un generador de residuos de manejo especial o prestador de servicio en materia de residuos de manejo especial y residuos sólidos urbanos, al cierre de sus operaciones; en el cual se evalúan las condiciones ambientales en que se encuentra el sitio como resultado de las operaciones llevadas a cabo en el mismo.
+IV. Caracterización de Sitios Contaminados: Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
 
-VI. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo.
+V. Disposición final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, y a los ecosistemas y sus elementos.
 
-VII. Gestión integral de residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región.
+VI. Estudio de abandono de sitio: Estudio que debe presentar un generador de residuos de manejo especial o prestador de servicio en materia de residuos de manejo especial y residuos sólidos urbanos, al cierre de sus operaciones; en el cual se evalúan las condiciones ambientales en que se encuentra el sitio como resultado de las operaciones llevadas a cabo en el mismo.
 
-VIII. Gran generador: Persona física o moral que genere una cantidad igual o mayor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida.
+VII. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo.
 
-IX. Ley: Ley para la Prevención y Gestión Integral de los Residuos del Estado de Chihuahua.
+VIII. Gestión integral de residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región.
 
-X. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos.
+IX. Gran generador: Persona física o moral que genere una cantidad igual o mayor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida.
 
-XI. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de los residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
+X. Ley: Ley para la Prevención y Gestión Integral de los Residuos del Estado de Chihuahua.
 
-XII. Minimización: El conjunto de medidas tendientes a reducir la generación de los residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar.
+XI. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos.
 
-XIII. Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida.
+XII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de los residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
 
-XIV. Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida.
+XIII. Minimización: El conjunto de medidas tendientes a reducir la generación de los residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar.
 
-XV. Plan de manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valoración de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno.
+XIV. Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida.
 
-XVI. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos.
+XV. Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida.
 
-XVII. Rediseño: Revisión y adecuación de los procesos productivos y productos de consumo para reducir la generación de residuos, hacer un uso más eficiente de los materiales y de la energía que involucran en su transformación, así como facilitar la remanufactura y reciclado de tales productos.
+XVI. Plan de manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valoración de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno.
 
-XVIII. Reglamento: El reglamento de la Ley para la Prevención y Gestión Integral de los Residuos del Estado de Chihuahua.
+XVII. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos.
 
-XIX. Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente, o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley.
+XVIII. Rediseño: Revisión y adecuación de los procesos productivos y productos de consumo para reducir la generación de residuos, hacer un uso más eficiente de los materiales y de la energía que involucran en su transformación, así como facilitar la remanufactura y reciclado de tales productos.
 
-XX. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven.
+XIX. Reglamento: El reglamento de la Ley para la Prevención y Gestión Integral de los Residuos del Estado de Chihuahua.
 
-XXI. Residuos de manejo especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
+XX. Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente, o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley.
 
-XXII. Residuos sólidos urbanos: Los generados en las casas-habitación, orgánicos o inorgánicos, que resultan de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que se consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole.
+XXI. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven.
 
-XXIII. Residuos sólidos urbanos orgánicos: Los residuos sólidos urbanos biodegradables.
+XXII. Residuos de manejo especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
 
-XXIV. Residuos sólidos urbanos inorgánicos: Los residuos sólidos que no tengan características de residuos orgánicos y que puedan ser susceptibles a un proceso de valorización.
+XXIII. Residuos sólidos urbanos: Los generados en las casas-habitación, orgánicos o inorgánicos, que resultan de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que se consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole.
 
-XXV. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
+XXIV. Residuos sólidos urbanos orgánicos: Los residuos sólidos urbanos biodegradables.
 
-XXVI. Secretaría: La Secretaría de Desarrollo Urbano y Ecología.
+XXV. Residuos sólidos urbanos inorgánicos: Los residuos sólidos que no tengan características de residuos orgánicos y que puedan ser susceptibles a un proceso de valorización.
 
-XXVII. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal.
+XXVI. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
 
-XXVIII. Sistemas de manejo ambiental: Conjunto de medidas a través de las cuales se incorporan criterios tendientes a minimizar impactos negativos al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, en materia de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
+XXVII. Secretaría: La Secretaría de Desarrollo Urbano y Ecología.
 
-XXIX. Sitio contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de estos, que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas.
+XXVIII. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal.
 
-XXX. Subproducto: Producto secundario, comercializable, derivado de un proceso de manufactura o reacción química.
+XXIX. Sistemas de manejo ambiental: Conjunto de medidas a través de las cuales se incorporan criterios tendientes a minimizar impactos negativos al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, en materia de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
 
-XXXI. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad.
+XXX. Sitio contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de estos, que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas.
 
-XXXII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+XXXI. Subproducto: Producto secundario, comercializable, derivado de un proceso de manufactura o reacción química.
+
+XXXII. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ## TÍTULO SEGUNDO. DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -215,7 +221,13 @@ XIX. Someter a consideración de la SEMARNAT, los programas para el establecimie
 
 XX. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento e integrar los resultados al Sistema de Información sobre la Gestión Integral de residuos.
 
-XXI. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas, las normas técnicas y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XXI. Formar y administrar el registro público estatal de sitios contaminados, de conformidad con la información que deberán proporcionar los municipios de la Entidad dentro de sus respectivas jurisdicciones; elaborar un informe anual sobre los sitios contaminados en el Estado, y emitir los criterios para su caracterización, remediación y seguimiento de acuerdo a las normas aplicables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas, las normas técnicas y demás disposiciones aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -645,13 +657,17 @@ I. Tomar las acciones inmediatas necesarias para remediar el daño ambiental y r
 
 II. Remediar el daño patrimonial ocasionado conforme a las disposiciones respectivas.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 41.
 
-Tratándose de sitios que se contaminen de manera súbita con residuos como resultado de accidentes, se deberá dar aviso a la Secretaría, y de inmediato proceder a la atención, remediación y limpieza del sitio y al manejo de los residuos conforme a lo dispuesto en la presente Ley y demás ordenamientos legales aplicables, a efecto de no poner en riesgo la salud pública o el equilibrio ecológico.
+Tratándose de sitios que se contaminen de manera súbita con residuos como resultado de accidentes, se deberá dar aviso a la Secretaría, y de inmediato proceder a la atención, caracterización, remediación y limpieza del sitio y al manejo de los residuos conforme a lo dispuesto en la presente Ley y demás ordenamientos legales aplicables, a efecto de no poner en riesgo la salud pública o el equilibrio ecológico.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 42.
 
-En caso de ausencia definitiva de los responsables de la contaminación de un sitio con residuos, el Ejecutivo Estatal, en coordinación con los gobiernos municipales correspondientes y la autoridad federal competente en el ámbito de sus atribuciones, llevarán a cabo las acciones necesarias para la remediación del sitio contaminado, conforme a las disposiciones aplicables, con cargo al propietario en el caso de tener responsabilidad.
+En caso de ausencia definitiva de los responsables de la contaminación de un sitio con residuos, el Ejecutivo Estatal, en coordinación con los gobiernos municipales correspondientes y la autoridad federal competente en el ámbito de sus atribuciones, llevarán a cabo las acciones necesarias para la caracterización y remediación del sitio contaminado, conforme a las disposiciones aplicables, con cargo al propietario en el caso de tener responsabilidad.
 
 ## TÍTULO QUINTO. PLANES DE MANEJO Y SISTEMAS DE MANEJO AMBIENTAL
 
@@ -1000,3 +1016,11 @@ P.O. 20 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1567/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5, RECORRIÉNDOSE SU CONTENIDO ACTUAL Y SUBSECUENTES; LA FRACCIÓN XXI DEL ARTÍCULO 6, Y LOS ARTÍCULOS 41 Y 42; SE ADICIONAN UNA FRACCIÓN XXXIII AL ARTÍCULO 5 Y UNA FRACCIÓN XXII AL ARTÍCULO 6, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE CHIHUAHUA; SE DEROGA LA FRACCIÓN XXXIV DEL ARTÍCULO 8 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
