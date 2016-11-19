@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2016-11-16"
+last_updated: "2016-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO, ASÍ COMO LA FRACCIÓN III, SEGUNDO PÁRRAFO, DEL ARTÍCULO 367; SE ADICIONA UN ARTÍCULO 368 BIS Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 367, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISÉIS DE NOVIEMBRE DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -293,9 +291,9 @@ En toda acta del estado civil, se anotará la clave única del registro de pobla
 
 47.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la Ley, motivarán la destitución de los Jefes de las Oficinas del Registro Civil o del Jefe del Departamento, o de quienes los sustituyan, sin perjuicio de las penas que la Ley señale y de la indemnización de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
-48.- Los vicios y demás irregularidades que haya en las actas, cuando no sean sustanciales, se subsanarán a petición de parte interesada por el jefe de la oficina y cuando lo fueren, por resolución judicial, que será la única que pueda declarar la falsedad de lo asentado y la consecuente nulidad del acta.
+48.- Fuera del caso previsto por el artículo 130, inciso a) de este Código, los vicios y demás irregularidades que haya en las actas, cuando no sean sustanciales, se subsanarán a petición de parte interesada por el jefe de la oficina por la vía administrativa con una resolución homologada jurisdiccionalmente, y cuando lo fueren, por resolución judicial, que será la única que pueda declarar la falsedad de lo asentado y la consecuente nulidad del acta.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2000)</small>
 
@@ -344,6 +342,10 @@ Ninguna autoridad podrá ordenar la presentación de los libros del registro civ
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 1996)</small>
 
 Para el registro del nacimiento de indígenas del Estado, la ley reconoce como fedatarios a las autoridades indígenas tradicionales, para acreditar hechos de filiación y residencia de los indígenas que deben intervenir en el registro, cuando los actos se asienten en las respectivas comunidades.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+El Jefe de la Oficina estará obligado a reconocer en todo caso la personalidad de la autoridad indígena que haga constar un nacimiento de un miembro de su comunidad, sin exigir formalidades especiales, debiendo proceder a levantar el acta de nacimiento que corresponda, una vez que se le proporcionen los datos necesarios para ello.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -849,33 +851,77 @@ El incumplimiento de las obligaciones señaladas en los párrafos anteriores, se
 
 ### CAPITULO XI. DE LA RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
-129.- La rectificación, modificación o nulidad por cualquier motivo de una acta del estado civil, no puede hacerse sino por el Poder Judicial y en virtud de sentencia de éste, salvo lo previsto en el siguiente Artículo.
+129.- La rectificación, modificación o nulidad de un acta del estado civil, podrá hacerse en la vía administrativa o en la judicial.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
-130.- La rectificación de las actas del estado civil podrá efectuarla el jefe de la oficina, cuando el error u omisión sea meramente accidental, se desprenda del contenido del acta, no afecte la identidad de las personas ni la sustancia del acto, no lesione derechos de terceros o el orden público.
+130.- La rectificación, modificación o nulidad de las actas del estado civil procede en la vía administrativa siempre que no haya afectación a la identidad de las personas ni a la sustancia del acto, y en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
-131.- Pueden pedir la rectificación de una acta del estado civil:
+a) Cuando sea necesario aclarar el acta con motivo de errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquella y que la corrección se deduzca directamente del acto asentado en la misma.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+b) Cuando sea necesario corregir el acta con motivo de algún error cometido al asentarla, que se demuestre con diversa acta del Registro Civil relacionada con el acto de que se trate y que sea de fecha anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+c) Para anular el registro de nacimiento de una persona que presente diversa acta de nacimiento expedida por la autoridad competente de otro país, debidamente apostillada o legalizada por el país emisor.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+d) Cuando sea necesario modificar el sustantivo propio registrado en un acta por ser discriminatorio, peyorativo, denigrante, o que expone a la persona al ridículo, afectando su dignidad humana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+131.- Pueden pedir la rectificación, modificación o nulidad de un acta del estado civil por la vía administrativa solo las personas de cuyo estado se trata, y por la vía judicial:
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 I.- Las personas de cuyo estado se trata;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 II.- Las que mencionan en el acta como relacionadas con el estado civil de alguno;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 III.- Los herederos de las personas comprendidas en las dos fracciones anteriores; y
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 IV.- Los que según los Artículos 325, 326 y 327 pueden continuar o intentar la acción de que en ellos se trata.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+131 Bis.- La vía administrativa se seguirá, a elección del interesado, ante el Jefe de la Oficina del Registro Civil del Municipio o población en que se haya levantado el acta, o ante el Director del Registro Civil en el Estado.
+
+En el supuesto establecido por el inciso a) del artículo 130, el Jefe de la Oficina procederá de inmediato a realizar la corrección, sin necesidad de homologación jurisdiccional.
+
+En todos los demás casos, el Jefe de la Oficina deberá emitir su resolución en el plazo de cinco días, la cual deberá enviarse de inmediato al Juez competente para que sea homologada en vía de jurisdicción voluntaria, en los términos establecidos por el Código de Procedimientos Civiles.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+
+131 Ter.- En ningún caso el Jefe de la Oficina deberá afectar con la rectificación, modificación o nulidad de las actas del estado civil, la identidad de las personas ni la sustancia del acto.
+
+Se afecta la identidad de las personas, cuando se cambien los apellidos o el orden de los mismos y con ello se pierda la línea de filiación consanguínea con sus ascendientes o descendientes, que se desprenda de la propia acta o se pretenda crear una nueva.
+
+Se afecta la sustancia del acto, cuando se pretende generar diverso acto del estado civil al que se hizo constar en el acta de que se trata.
+
+De ser procedente cualquier rectificación o modificación en las actas del estado civil, se entenderá que se trata de la misma persona, haciéndolo constar en el documento correspondiente para los efectos legales a que haya lugar.
+
+La rectificación, modificación o nulidad decretada en la vía administrativa, es oponible a terceros, quienes solo se podrán oponer mediante el juicio que corresponda.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 132.- El juicio de rectificación de acta se seguirá en la forma que se establece en el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
-133.- La sentencia que cause ejecutoria se comunicará al registro civil y éste hará una referencia de ella al margen del acta respectiva, sea que el fallo conceda o niegue la rectificación o nulidad.
+133.- La resolución homologada jurisdiccionalmente o, en su caso, la sentencia que cause ejecutoria, se comunicará al Registro Civil y este hará una referencia de ella al margen del acta respectiva, sea que el fallo conceda o niegue la rectificación, modificación o nulidad.
 
 ## TITULO QUINTO. DEL MATRIMONIO
 
@@ -12982,6 +13028,14 @@ Cuando entre en vigor la Ley del Registro Civil para el Estado de Chihuahua, se 
 P.O. 16 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1447/2016 XX P.E., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO, ASÍ COMO LA FRACCIÓN III, SEGUNDO PÁRRAFO, DEL ARTÍCULO 367; SE ADICIONA UN ARTÍCULO 368 BIS, Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 367, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1554/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 48, 129, 130, 131 Y 133; Y SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 54; LOS INCISOS A) AL D) AL ARTÍCULO 130; ASÍ COMO LOS ARTÍCULOS 131 BIS Y 131 TER, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
