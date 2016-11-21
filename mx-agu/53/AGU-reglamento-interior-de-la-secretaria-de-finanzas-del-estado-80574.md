@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-805
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-04"
-last_updated: "2016-03-07"
+last_updated: "2016-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2011.
 
@@ -145,11 +145,11 @@ Los Subsecretarios de Ingresos y Egresos; así como los Directores Generales, ti
 
 ### CAPITULO SEGUNDO. De las Atribuciones del Secretario de Finanzas
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 5°.
+###### Artículo 5°.
 
-Corresponde al Secretario de Finanzas, dirigir, coordinar, controlar y evaluar en la esfera de su competencia la política gubernamental en materia económica, fiscal, administrativa, financiera, presupuestaria y de deuda pública, así como ejercer sus atribuciones en términos de lo dispuesto por la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado, las leyes, reglamentos, convenios, decretos y otras disposiciones legales (sic) le asignen, así como representar legalmente a la Dependencia a su cargo, y además, en los asuntos que así determine el Titular del Poder Ejecutivo del Estado.
+Corresponde al Secretario de Finanzas, dirigir, coordinar, controlar y evaluar en la esfera de su competencia la política gubernamental en materia económica, fiscal, administrativa, financiera, presupuestaria y de deuda pública, así como, ejercer las atribuciones que le encomiendan la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado, otras leyes, reglamentos, convenios, decretos y las que otras disposiciones legales le asignen, así como representar legalmente a la Dependencia a su cargo e intervenir en los asuntos que así determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 6°.
 
@@ -183,9 +183,9 @@ VIII.- Elaborar y presentar al Gobernador del Estado, conjuntamente con el Secre
 
 IX.- Definir y presentar al Gobernador del Estado, por conducto del Secretario General de Gobierno, para su aprobación, los criterios y montos de los estímulos fiscales, subsidios, apoyos y ayudas, en coordinación con las Dependencias y Entidades competentes, en materia de fomento de actividades productivas y de interés público, así como la promoción del crédito para el desarrollo rural, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, participando con ella, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros, necesarios para el fomento de la producción;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
 
-X.- Negociar en nombre y para firma del Ejecutivo Estatal, los financiamientos a cargo del Gobierno del Estado;
+X.- Negociar y firmar los financiamientos a cargo del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
@@ -283,7 +283,9 @@ XVIII.- Nombrar, designar, remover, cambiar de adscripción o radicación, comis
 
 XIX.- Delegar cualquiera de sus facultades a los titulares de las Unidades Administrativas a su cargo, exceptuando aquellas que por disposición legal deba ejercer directamente;
 
-XX.- Informar a la Dirección General Jurídica y a la Coordinación de Evaluación y Seguimiento, sobre aquellas conductas del personal a su cargo, que puedan constituir responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Informar a la Dirección General Administrativa, sobre aquellas conductas del personal a su cargo, que puedan constituir responsabilidades administrativas;
 
 XXI.- Rendir a su superior, por escrito, los informes de las actividades realizadas por la Subsecretaría a su cargo;
 
@@ -307,7 +309,9 @@ XXIX.- Vigilar el cumplimento de las leyes, reglamentos y demás disposiciones d
 
 XXX.- Las demás que le señale el Secretario de Finanzas, o las que le sean conferidas por las leyes u otros ordenamientos jurídicos vigentes;
 
-El Subsecretario de Ingresos además de las facultades anteriores, podrá ejercer las que se refieren (sic) los artículos 10, 12 y 13 de este reglamento.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+El Subsecretario de Ingresos además de las facultades anteriores, podrá ejercer las previstas en los artículos 10, 12 y 13 de este reglamento.
 
 ### CAPITULO SEGUNDO. De la Dirección General de Auditoría Fiscal
 
@@ -603,6 +607,10 @@ c) Hacer efectiva al contribuyente, sujeto pasivo, particulares, o responsable s
 
 28.- Dejar sin efectos los certificados de sello digital, cuando los contribuyentes se ubiquen en el supuesto previsto en el artículo 17-H, fracción X, inciso a), b) y d) del Código Fiscal de la Federación.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+29.- Determinar y cobrar el monto de la actualización, recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que lleve a cabo, así como, determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes.
+
 XXIII.- Acordar con la autoridad superior que corresponda por razones de adscripción, la resolución de los asuntos de su competencia y proponer las medidas de desarrollo administrativo necesarias para el mejor funcionamiento de la Dirección General a su cargo;
 
 XXIV.- Proponer a la superioridad el nombramiento o remoción de los servidores públicos de las unidades administrativas a su cargo, cuando no se determine otra forma por la Constitución Política o Leyes del Estado;
@@ -727,9 +735,9 @@ XI.- Formular y proponer los proyectos de planes y programas que les corresponda
 
 XII.- Expedir certificados de constancias de expedientes relativos a asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
 
-XIII.- Informar a la Dirección General Jurídica, sobre aquellas conductas del personal a su cargo, que puedan constituir responsabilidades administrativas;
+XIII.- Informar a la Dirección General Administrativa, sobre aquellas conductas del personal a su cargo, que puedan constituir responsabilidades administrativas;
 
 XIV.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos, verificadores notificadores y ejecutores que conforman las unidades administrativas a su cargo;
 
@@ -1083,7 +1091,9 @@ XVI.- Participar en la elaboración de los proyectos anuales de Ley de Ingresos 
 
 XVII.- Participar, en su caso, con las unidades administrativas competentes de "La Secretaria" y otras entidades públicas, en la determinación de políticas económica, fiscal, administrativa, presupuestaria y de deuda pública para el desarrollo de la economía del Estado; en congruencia con la política hacendaria, económica y social del país;
 
-XVIII.- Participar, de manera conjunta con la Coordinación de Evaluación y Seguimiento, en la preparación de la información técnica necesaria para los foros, eventos y reuniones estatales, municipales y nacionales que competan al Secretario;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+XVIII.- Participar, de manera conjunta con la Dirección General de Evaluación y Seguimiento, en la preparación de la información técnica necesaria para los foros, eventos y reuniones estatales, municipales y nacionales que competan al Secretario;
 
 XIX.- Coadyuvar con el área competente de "La Secretaría" para emitir la opinión que corresponda, respecto de los convenios celebrados por dependencias del Poder Ejecutivo que comprometan recursos financieros del Estado;
 
@@ -1177,7 +1187,9 @@ XXI.- Las demás que las disposiciones legales y reglamentarias le atribuyen, as
 
 ## TITULO VIII
 
-### CAPITULO TERCERO (SIC). De la Dirección General Administrativa
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO ÚNICO. De la Dirección General Administrativa
 
 ###### Artículo 21.
 
@@ -1195,7 +1207,9 @@ IV.- Gestionar, reembolsar y comprobar egresos originados por la operatividad de
 
 V.- Elaborar la propuesta real para el presupuesto de egresos de la dependencia;
 
-VI.- Gestionar las solicitudes de servicios de impresión de papelería e impresos institucionales que proporciona el taller gráfico de (sic) Gobierno del Estado;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+VI.- Gestionar las solicitudes de servicios de impresión de papelería e impresos institucionales que proporciona el taller gráfico del Gobierno del Estado;
 
 VII.- Realizar la planeación y presupuestación anual de los bienes o servicios que se requieran;
 
@@ -1215,7 +1229,9 @@ XIV.- Realizar y dar seguimiento a los programas que en materia administrativa d
 
 XV.- Elaborar y actualizar los documentos de talentos, capacidades y requerimientos del puesto;
 
-XVI.- Vigilar el cumplimiento de requisitos necesarios para el ingresos (sic) a nomina del personal que (sic) nuevo ingreso;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+XVI.- Vigilar el cumplimiento de los requisitos necesarios para la incorporación a nómina del personal de nuevo ingreso;
 
 XVII.- Recabar y presentar a la Oficialía Mayor la documentación requerida para el ingreso a nomina del personal de nuevo ingreso;
 
@@ -1233,7 +1249,9 @@ XXII.- Elaborar y dar seguimiento al programa anual de capacitación en coordina
 
 XXIII.- Coordinar la implementación y seguimiento del programa de valoración de la actuación profesional según lo determine la Oficialía Mayor;
 
-XXIV.- Vigilar el cumplimiento de las responsabilidades así como de las prohibiciones de los trabajadores al servicio de (sic) Gobierno del Estado;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+XXIV.- Vigilar el cumplimiento de las responsabilidades así como de las prohibiciones de los trabajadores al servicio del Gobierno del Estado;
 
 XXV.- Controlar la asistencia del personal de la Secretaría;
 
@@ -1277,9 +1295,13 @@ XLIV.- Gestionar la transferencia y bajas de bienes muebles ante la Secretaría 
 
 XLV.- Elaborar el programa operativo anual correspondiente a la Dirección Administrativa;
 
-XLVI.- Coordinar la elaboración y revisión del Plan Estatal de Desarrollo en lo concerniente a la de pendencia;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
 
-XLVII.- Representar al Secretario en los consejos, comités, subcomités y juntas de gobierno que designe;
+XLVI.- Coordinar la elaboración y revisión del Plan Estatal de Desarrollo en lo concerniente a la dependencia;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+XLVII.- Representar al Secretario en los consejos, comités, subcomités y juntas de gobierno de entidades paraestatales y grupos de trabajo interinstitucionales en los que le designe;
 
 XLVIII.- Coordinar la elaboración y revisión de los reportes trimestrales y anuales que con motivo del Plan Estatal de Desarrollo solicita la Secretaria de Gestión Urbanística y Ordenamiento Territorial;
 
@@ -1291,7 +1313,9 @@ LI.- Coordinar la elaboración, actualización y revisión de los manuales de pr
 
 LII.- Coordinar la entrega recepción de la dependencia;
 
-LIII.- Celebrar conjuntamente con el Secretario de Finanzas contratos administrativos y operativos previa notificación a la Secretaria de Gobierno y de la Jefatura de Gabinete; siempre y cuando se relacionen directa o indirectamente con el manejo presupuestal asignado a la Secretaría, mismos que infieren sobre la actividad operativa y funcional de los diversos procesos y actos administrativos que realizan las unidades administrativas de la Secretaría, no incluyéndose aquellos que versan sobre la contratación o movimientos de personal;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2016)</small>
+
+LIII.- Celebrar conjuntamente con el Secretario de Finanzas contratos administrativos y operativos previa notificación a la Secretaria de Gobierno; siempre y cuando se relacionen directa o indirectamente con el manejo presupuestal asignado a la Secretaría, mismos que infieren sobre la actividad operativa y funcional de los diversos procesos y actos administrativos que realizan las unidades administrativas de la Secretaría, no incluyéndose aquellos que versan sobre la contratación o movimientos de personal;
 
 LIV.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos, verificadores, notificadores y ejecutores que conforman las unidades administrativas a su cargo;
 
@@ -1376,3 +1400,15 @@ P.O. 7 DE MARZO DE 2016.
 PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- El presente decreto entrarán en vigor el día siguiente al de su publicación.
+
+P.O. 21 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese la presente reforma en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma entrará en vigor el día siguiente al de su publicación.
