@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-la-ciudad-de-49949"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-10"
-last_updated: "2006-03-10"
+last_updated: "2016-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE LA CIUDAD DE CADEREYTA JIMENEZ, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE LA CIUDAD DE CADEREYTA JIMÉNEZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE LA CIUDAD DE CADEREYTA JIMENEZ, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 10 de marzo de 2006.
 
@@ -998,3 +1000,21 @@ NOVENO REGIDOR
 C. ANGEL MARIO DE LEÓN TAMÉZ
 
 DÉCIMO REGIDOR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA EL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE CADEREYTA JIMÉNEZ, N.L.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+De acuerdo a lo ordenado en el referido Acuerdo del Ayuntamiento, publíquese el presente y difúndase para su debido conocimiento y observación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior del R. Ayuntamiento publicado en fecha 10-diez de marzo de 2006-dos mil seis, así como las disposiciones municipales que se oponga (sic) a lo dispuesto en éste Reglamento.
