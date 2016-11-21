@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-de-la-administracion-publica-municipal-75134
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-23"
-last_updated: "2013-01-11"
+last_updated: "2016-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERNO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL MUNICIPIO DE CADEREYTA JIMENEZ, NUEVO LEON
 
-REGLAMENTO INTERNO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE CADEREYTA JIMÉNEZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE CADEREYTA JIMÉNEZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+REGLAMENTO INTERNO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de octubre de 1998.
 
@@ -673,7 +673,7 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. ARTURO GARZA RIOS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 11 DE ENERO DE 2013.
 
@@ -692,3 +692,19 @@ El presente Reglamento entrará en vigor al día hábil siguiente de su publicac
 ###### ARTÍCULO CUARTO.
 
 Envíese el presente reglamento al Secretario General de Gobierno para que por su conducto sea publicado en el Periódico Oficial del Estado; así también deberá de ser publicado en la Gaceta y en la Página de Internet del Municipio de Cadereyta Jiménez, Nuevo León www. cadereyta.gob.mx.
+
+P.O. 21 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE CADEREYTA JIMÉNEZ, N.L.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+De acuerdo a lo ordenado en el referido Acuerdo del Ayuntamiento, publíquese el presente y difúndase para su debido conocimiento y observación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE CADEREYTA JIMÉNEZ, NUEVO LEÓN, publicado en el Periódico Oficial del Estado de fecha 11-once de enero del 2013-dos mil trece, el REGLAMENTO INTERNO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE CADEREYTA JIMÉNEZ, NUEVO LEÓN, publicado en el Periódico Oficial del Estado de fecha 23-veintitrés de octubre de 1998-mil novecientos noventa y ocho; así como las disposiciones municipales que se oponga a lo dispuesto en éste Reglamento.
