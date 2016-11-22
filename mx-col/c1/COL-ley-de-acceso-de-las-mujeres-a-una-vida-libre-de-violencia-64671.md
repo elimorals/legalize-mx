@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2016-03-19"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -1611,7 +1611,9 @@ Las Sanciones por las faltas o infracciones contenidas en esta Ley serán, las s
 
 I.- Amonestación;
 
-II.- Multa de hasta 200 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- Multa de hasta 200 unidades de medida y actualización;
 
 III.- Retención de objetos materiales de la infracción;
 
@@ -1696,3 +1698,11 @@ P.O. 19 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 68 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII, DEL ARTÍCULO 7; LAS FRACCIONES XXVIII Y XXXII DEL ARTÍCULO 8; FRACCIONES II, III Y VI DEL ARTÍCULO 10; FRACCIONES III, IV, V Y PENÚLTIMO PÁRRAFO DEL ARTÍCULO 20; LAS FRACCIONES II Y III DEL ARTÍCULO 25; ARTÍCULO 39; LAS FRACCIONES II A IX DEL ARTÍCULO 45; EL ARTÍCULO 60 BIS Y LA FRACCIÓN II DEL ARTICULO 71; SE ADICIONAN LA FRACCIÓN VIII DEL ARTÍCULO 7; LAS FRACCIONES XXXIII, XXXIV Y XXXV DEL ARTÍCULO 8; FRACCIONES VIII, IX Y X DEL ARTÍCULO 10; FRACCIÓN IV DEL ARTÍCULO 25; LOS ARTÍCULOS 39 BIS Y 39 BIS 1; Y UNA FRACCIÓN X AL ARTÍCULO 45; LA SECCIÓN PRIMERA BIS DEL SUPREMO TRIBUNAL DE JUSTICIA Y EL ARTÍCULO 56 BIS; LA SECCIÓN QUINTA BIS 1 DE LA SECRETARÍA DE CULTURA Y EL ARTÍCULO 60 BIS 1; SECCIÓN QUINTA BIS 2 DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y EL ARTÍCULO 60 BIS 2; LOS PÁRRAFOS PENÚLTIMO Y ÚLTIMO AL ARTÍCULO 74, TODOS DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
