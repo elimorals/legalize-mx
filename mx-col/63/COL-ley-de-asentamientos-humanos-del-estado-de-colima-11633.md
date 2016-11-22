@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2016-09-10"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -4167,7 +4167,9 @@ Las sanciones administrativas podrán consistir en:
 
 I. Clausura temporal o definitiva, total o parcial, de las instalaciones, las construcciones, las obras y servicios;
 
-II. Multa equivalente a uno y hasta diez mil días de salario mínimo vigente en el Estado o de hasta el diez por ciento del valor comercial de los inmuebles;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Multa equivalente a uno y hasta diez mil unidades de medida y actualización o de hasta el diez por ciento del valor comercial de los inmuebles;
 
 III. La demolición total o parcial de las obras efectuadas en contravención a las disposiciones de esta Ley;
 
@@ -4203,7 +4205,7 @@ f) Durará el tiempo necesario para realizar los fines colectivos y de orden pú
 
 g) Cesará una vez desaparecidas todas las causas que la motivaron y, en su caso, se devolverán los efectos patrimoniales y numerario remanente al responsable intervenido;
 
-h) Realizará todos los actos que corresponden al responsable intervenido en relación con los locales, viviendas o predios de la urbanización, procediendo, en caso de abstención de aquél, a firmar las escrituras o documentos que sean necesarios para su regularización tanto en relación con las autoridades correspondientes como con los adquirientes; y (sic)
+h) Realizará todos los actos que corresponden al responsable intervenido en relación con los locales, viviendas o predios de la urbanización, procediendo, en caso de abstención de aquél, a firmar las escrituras o documentos que sean necesarios para su regularización tanto en relación con las autoridades correspondientes como con los adquirientes; y
 
 i) Podrá llevar a cabo las obras y servicios que se requieran y demás obligaciones del urbanizador intervenido, directamente o a través de terceros, celebrando para tal efecto los contratos o actos jurídicos que se requieran.
 
@@ -4237,9 +4239,11 @@ No se aplicará lo dispuesto en el artículo 395, a quienes el Ayuntamiento resp
 
 ARTICULO 397 BIS.- Se impondrán las sanciones administrativas señaladas en el artículo 392 del presente ordenamiento que correspondan, a quien dolosamente y sin el consentimiento de la autoridad correspondiente, haga un uso distinto al permitido del suelo u, obtenga un beneficio económico derivado de estas conductas, en las zonas comprendidas en los programas de ordenamiento territorial de los asentamientos humanos o en los programas de desarrollo urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 398.
 
-Comete el delito de fraude especial, y se le impondrá prisión de seis meses a ocho años y multa equivalente de uno a diez mil días de salario mínimo vigente en el Estado, además de la reparación del daño consistente en la devolución de las cantidades que hubiere recibido de los adquirentes de lotes, departamentos, viviendas, casas, locales o áreas, al que:
+Comete el delito de fraude especial, y se le impondrá prisión de seis meses a ocho años y multa equivalente de uno a diez mil unidades de medida y actualización, además de la reparación del daño consistente en la devolución de las cantidades que hubiere recibido de los adquirentes de lotes, departamentos, viviendas, casas, locales o áreas, al que:
 
 I. Por sí o por interpósita persona, cause perjuicio al fraccionar, transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno, vivienda, casa o local producto del aprovechamiento urbano del suelo, sin contar con la previa aprobación de las autoridades competentes;
 
@@ -4261,9 +4265,11 @@ Se harán efectivas las sanciones a que se refiere el párrafo anterior, sin per
 
 Los Notarios y Corredores Públicos, los empleados del Registro Público de la Propiedad y del Catastro, se abstendrán de dar trámite a documentos, contratos o convenios que consignen operaciones que contravengan lo dispuesto en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 402.
 
-Las personas a que se refiere el artículo anterior, que violen las disposiciones de esta Ley, serán sancionadas con multa equivalente de uno o treinta días de salario mínimo, y en caso de reincidencia, se les separará en forma definitiva de su cargo. A los Notarios y a los Corredores Públicos, se les aplicarán las sanciones que establezca la Ley que rija sus funciones.
+Las personas a que se refiere el artículo anterior, que violen las disposiciones de esta Ley, serán sancionadas con multa equivalente de uno o treinta unidades de medida y actualización, y en caso de reincidencia, se les separará en forma definitiva de su cargo. A los Notarios y a los Corredores Públicos, se les aplicarán las sanciones que establezca la Ley que rija sus funciones.
 
 Las anteriores sanciones se aplicarán a los infractores, sin perjuicio de las responsabilidades civiles, administrativas o penales en que hubieren incurrido.
 
@@ -4470,3 +4476,11 @@ P.O. 10 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 138 SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 356; UN PÁRRAFO SEGUNDO Y LAS FRACCIONES I, II, III Y IV AL ARTÍCULO 357, AMBOS DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA”.]
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
