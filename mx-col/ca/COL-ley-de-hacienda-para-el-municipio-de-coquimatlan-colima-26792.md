@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-07-11"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -55,15 +55,11 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLAN
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 1°.
-
-El Municipio de Coquimatlán para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones, aportaciones y recursos transferidos derivados de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1º.
 
-El Municipio de Coquimatlán, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones especiales, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones y fondos federales y locales derivadas de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones especiales, productos y aprovechamientos es irrenunciable.
+El Municipio de Coquimatlán para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en UMA, así como las participaciones, aportaciones y recursos transferidos derivados de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
 
 ###### ARTICULO 2º.
 
@@ -93,7 +89,9 @@ Para efectos de la presente Ley, se entiende por:
 
 I. Ley de Catastro, a la Ley del Instituto para el Registro del Territorio del Estado de Colima;
 
-II. Unidades de salario, a las unidades de salario mínimo diario vigente en la zona económica del municipio, que se determine en cada caso;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. UMA: Unidades de Medida y Actualización.
 
 III. Registro, al Registro Público de la Propiedad y del Comercio del Estado de Colima;
 
@@ -225,13 +223,17 @@ T A R I F A
 
 Para la determinación del impuesto aplicando las tarifas previstas en las fracciones I y III de este artículo, se sujetará al siguiente procedimiento:
 
-1. Se ubicará la base gravable del predio de que se trate en el rango de valores de la columna denominada "BASE GRAVABLE", convirtiendo a pesos la cuota fija expresada en unidades de salario.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+1. Se ubicará la base gravable del predio de que se trate en el rango de valores de la columna denominada "BASE GRAVABLE", convirtiendo a pesos la cuota fija expresada en UMA.
 
 2. La cantidad que exceda la base gravable del límite inferior del rango de valores correspondiente, se multiplicará por la tasa que aparece en la última columna.
 
 3. Se sumarán los resultados obtenidos de ejecutar los pasos 1 y 2, siendo el producto el impuesto anual a pagar.
 
-IV. Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 3 unidades de salario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV.- Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 3 UMA.
 
 En los casos de las parcelas afectadas por el levantamiento de predios efectuada por el INEGI, las diferentes fracciones de un contribuyente se sumarán generando el impuesto equivalente a una parcela ejidal. Este impuesto deberá cubrirse durante el primer bimestre del año.
 
@@ -269,9 +271,9 @@ No quedan comprendidas en esta disposición las multas que se impongan cuando se
 
 Los notarios públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas cuyo objeto sean predios ubicados en el municipio, deberán exigir al interesado que acredite estar al corriente en el cumplimiento de sus obligaciones fiscales relacionadas con este impuesto.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Los organismos públicos descentralizados del Gobierno Federal o Estatal, que tengan como objeto la regularización de la tenencia de la tierra, para autorizar en forma definitiva las escrituras que expidan en cumplimiento de su objeto, se encontraran exentos de la presentación del recibo de pago del impuesto predial, al inscribir una transmisión patrimonial ante la autoridad municipal correspondiente siempre que el valor catastral no sea mayor a siete mil quinientas unidades de salario mínimo diario vigente en la entidad, sin que esto exima al contribuyente del pago de estos impuestos, quedando a salvo los derechos de la autoridad municipal, para requerir el pago del impuesto predial regularizado y sus accesorios al poseedor del predio.
+Los organismos públicos descentralizados del Gobierno Federal o Estatal, que tengan como objeto la regularización de la tenencia de la tierra, para autorizar en forma definitiva las escrituras que expidan en cumplimiento de su objeto, se encontraran exentos de la presentación del recibo de pago del impuesto predial, al inscribir una transmisión patrimonial ante la autoridad municipal correspondiente siempre que el valor catastral no sea mayor a siete mil quinientas UMA, sin que esto exima al contribuyente del pago de estos impuestos, quedando a salvo los derechos de la autoridad municipal, para requerir el pago del impuesto predial regularizado y sus accesorios al poseedor del predio.
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
@@ -279,11 +281,9 @@ Los organismos públicos descentralizados del Gobierno Federal o Estatal, que te
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
+Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de medida y actualización, en predios urbanos y 3 unidades de medida y actualización en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra la UMA, general durante el ejercicio correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -293,9 +293,9 @@ En los casos en que el contribuyente sea de nacionalidad mexicana y acredite est
 
 Dicho beneficio no será aplicable, si la residencia del contribuyente se constituye en inmuebles donde se presten servicios de hospedaje, alojamiento y albergue temporal de personas.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Si al efectuar el cálculo del beneficio que se menciona en el párrafo antepenúltimo, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
+Si al efectuar el cálculo del beneficio que se menciona en el párrafo antepenúltimo, da como resultado una cantidad menor a 2 unidades de medida y actualización, el contribuyente deberá pagar el importe de las dos UMA.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -433,9 +433,9 @@ II. En las adjudicaciones en juicios sucesorios y en remates judiciales;
 
 III. En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal; y
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV. En los casos en que el sujeto del impuesto sea madre soltera jefa de familia de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, siempre y cuando la base del impuesto sea menor a 4400 unidades de salario. La Tesorería Municipal emitirá los requisitos para acreditar las condicionantes señaladas.
+IV. En los casos en que el sujeto del impuesto sea madre soltera jefa de familia de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, siempre y cuando la base del impuesto sea menor a 4400 UMA. La Tesorería Municipal emitirá los requisitos para acreditar las condicionantes señaladas.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -623,7 +623,9 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 10.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
 
-II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
+> <small>(REFORMADO PRIMER PARRADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en UMA:
 
 a) Giros que realicen actividades en forma permanente, mensualmente 10.00 a 30.00
 
@@ -765,7 +767,17 @@ Las personas físicas o morales que pretendan llevar a cabo la construcción, re
 
 I. Permiso de construcción o ampliación incluyendo inspección de la obra, por metro cuadrado, según el tipo, de acuerdo a la siguiente clasificación:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 a) Habitacional densidad alta:
 
@@ -969,7 +981,17 @@ En caso de refrendo del permiso, de conformidad a lo establecido en el reglament
 
 Los derechos de alineamiento, designación de número oficial, dictamen de vocación del suelo e inspección, se pagarán de conformidad con la siguiente tarifa:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Alineamiento por metro lineal de frente, según el tipo de construcción:
 
@@ -1147,7 +1169,17 @@ V. Servicios de certificaciones y dictámenes no previstos en este artículo, po
 
 Las personas físicas y morales que para la realización de obras requieran del servicio que a continuación se expresa, previamente cubrirán el derecho conforme a la siguiente tarifa:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+Número de UMA
 
 I. Medición de terrenos por la dependencia municipal correspondiente por metro cuadrado, según el tipo de acuerdo con la siguiente clasificación:
 
@@ -1167,7 +1199,17 @@ f) Otros de 0.07 a 0.16
 
 Quienes para la realización de obras requieran de romper pavimentos, banquetas o machuelos, están obligados a obtener para ello la autorización previa de la dependencia municipal competente y pagar los derechos que se establecen en esta Ley, por metro lineal, de acuerdo a la siguiente clasificación:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 a) Empedrado o terracería 1.00
 
@@ -1191,7 +1233,17 @@ En el caso de construcción de edificios en el régimen de condominio, sólo se 
 
 Las personas físicas o morales que realicen subdivisión o modificación de terrenos en lotes o fraccionamientos o que reciban obras de urbanización deberán obtener previamente la autorización correspondiente de las autoridades competentes y pagar los derechos conforme a la siguiente tarifa.
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Por el trámite de autorización del programa parcial de urbanización sobre superficie vendible del predio por fraccionar, por evento, según categoría:
 
@@ -1381,7 +1433,17 @@ IX. Por la Expedición del certificado de habitabilidad de las construcciones, e
 
 Las personas físicas o morales que pretendan inscribirse o refrendar su inscripción como directores responsables y corresponsables de obras de urbanización y edificación, así como peritos urbanos y en edificación, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes tarifas:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Inscripción de directores responsables de obra y corresponsables de obra en la dependencia municipal competente, con vigencia de un año, a partir del registro, de acuerdo con la siguiente clasificación:
 
@@ -1435,7 +1497,17 @@ Para la realización de los actos de publicidad referidos en el artículo 71 de 
 
 Los derechos a que se refiere la presente sección se pagarán de conformidad con las siguientes tarifas:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 A.- PUBLICIDAD PERMANENTE, POR ANUALIDAD
 
@@ -1597,11 +1669,19 @@ Para la apertura de nuevos establecimientos se requerirá tener previamente la l
 
 Los derechos consignados en la presente sección se pagarán por anualidad, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con las siguientes tarifas:
 
-Unidad de salario
-
 a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por cada una:
 
-Unidades de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
@@ -2049,7 +2129,17 @@ D).- OTRAS LICENCIAS Y PERMISOS
 
 Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, pagarán anualmente durante los meses de enero y febrero, por cada una, conforme a la siguiente tarifa:
 
-Unidades de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 1.- Máquinas de video juegos 3.00
 
@@ -2063,7 +2153,17 @@ A).- REGISTRO CIVIL
 
 Los derechos por servicios que preste el registro civil se causarán y pagarán conforme a la siguiente tarifa, por evento:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. En las oficinas:
 
@@ -2135,7 +2235,17 @@ B).- CATASTRO
 
 Los derechos por servicios que preste el catastro municipal se causarán y pagarán, por pieza, conforme a la siguiente tarifa, por cada pieza:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Copias e impresiones:
 
@@ -2253,9 +2363,13 @@ IV. Fusiones, subdivisiones, cesiones y registros:
 
 a) Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
 
-1.- Hasta un valor catastral equivalente a 2,250.00 unidades de salario 2.25
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-2.- Más de un valor catastral equivalente a 2,250.00 unidades de salario, se pagará sobre dicho valor el 0.1 por ciento
+1.- Hasta un valor catastral equivalente a 2,250.00 UMA, 2.25
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+2.- Más de un valor catastral equivalente a 2,250.00 UMA, se pagará sobre dicho valor el 0.1 por ciento
 
 b) Registro de cesión de derechos de predios registrados catastralmente sólo para el pago de impuesto predial 2.25
 
@@ -2293,13 +2407,27 @@ C).- ECOLOGÍA
 
 Los montos establecidos para que la dependencia municipal competente otorgue las siguientes autorizaciones, certificaciones y permisos, son:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Por el dictamen del informe de factibilidad ambiental para:
 
-a) Obras o actividades con inversión menor de 650.00 unidades de salario 0.01
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b) Obras o actividades con inversión mayor de 650.00 unidades de salario
+a) Obras o actividades con inversión menor de 650.00 UMA, 0.01
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+b) Obras o actividades con inversión mayor de 650.00 UMA.
 
 1.- Por la recepción y evaluación 20.00
 
@@ -2611,7 +2739,17 @@ IV. Cinco días posteriores al requerimiento de pago al propietario o poseedor d
 
 Las personas a quienes se les presten servicios en los casos que se mencionan en este artículo, pagarán los derechos correspondientes a las siguientes cuotas:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Inhumaciones y reinhumaciones, por cada vez, en cementerios municipales y particulares:
 
@@ -2645,9 +2783,11 @@ VI. Expedición de títulos de propiedad 1.50
 
 VII. Traspaso de título de propiedad 2.00
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 100.
 
-Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos unidades de salario, se cobrará esta cantidad.
+Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos UMA, se cobrará esta cantidad.
 
 #### SECCION CUARTA. RASTRO MUNICIPAL
 
@@ -2659,7 +2799,17 @@ Los derechos por rastro municipal deberán ser cubiertos en forma anticipada en 
 
 Las personas que realicen la matanza de cualquier clase de animales, dentro del rastro, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes cuotas:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Por cabeza de ganado:
 
@@ -2727,7 +2877,17 @@ El municipio obtendrá ingresos por la enajenación de bienes, siempre y cuando 
 
 Las personas físicas o morales que tomen en arrendamiento algún bien propiedad del municipio, pagarán a éste, las rentas respectivas, de conformidad con las siguientes cuotas:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Arrendamiento de mercados, se pagará según la tarifa siguiente, por día:
 
@@ -2751,7 +2911,17 @@ IV. El importe de las rentas de otros bienes muebles e inmuebles propiedad del m
 
 Los propietarios de ganado que circule en las vías públicas y sea recogido por la autoridad municipal, haciendo uso de las instalaciones del municipio, pagarán diariamente los productos correspondientes, conforme a la siguiente tarifa:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Chiqueros especiales, por cabeza 0.23
 
@@ -2761,7 +2931,17 @@ II. Corrales para guarda de animales que transiten en la vía pública sin vigil
 
 En los cementerios públicos se causarán y pagarán los productos, de conformidad a la siguiente tarifa:
 
-Unidad de Salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2799,7 +2979,17 @@ Los ingresos que se obtengan por los rendimientos financieros o intereses genera
 
 Por la venta de formas impresas de la autoridad municipal se cobrará por juego:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Solicitud de expedición o refrendo de licencia para negocio 1.00
 
@@ -2855,7 +3045,17 @@ La venta de esquilmos, productos de aparcería, desechos y basura, será de conf
 
 Los productos derivados de arrastre de grúas y maniobras se cubrirán de conformidad a lo siguiente:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Servicio de arrastre de grúa en la zona conurbada de la ciudad 7.00
 
@@ -2873,7 +3073,17 @@ V. Otros Según acuerdo de Cabildo
 
 Los productos que por los conceptos que a continuación se detallan, se causarán y pagarán conforme a las siguientes tarifas:
 
-Unidad de salario
+(REFORMADA
+
+EN SU TÍTULO,
+
+P.O. 22 DE
+
+NOVIEMBRE
+
+DE 2016)
+
+UMA
 
 I. Almacenaje en locales y bodegas del municipio Según contrato.
 
