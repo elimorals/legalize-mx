@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2016-03-19"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -1399,7 +1399,9 @@ XVIII. Incumplir cualquiera de los demás preceptos de esta Ley y la Ley General
 
 Las infracciones enumeradas en el artículo anterior se sancionarán con:
 
-I. Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Multa hasta por el equivalente a cinco mil unidades de medida y actualización. Las multas impuestas podrán duplicarse en caso de reincidencia;
 
 II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente; y
 
@@ -1604,3 +1606,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 La Secretaria General de Gobierno, Planeación y Finanzas, y de Educación del Gobierno del Estado de Colima, coordinadamente con la representación sindical correspondiente, dispondrá de un plazo no mayor a 30 días naturales, contados a partir del día siguiente en la entrada en vigor del presente Decreto, para establecer los mecanismos a que se refiere el artículo 137 BIS. De la Ley de Educación del Estado de Colima 69 TER. De la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, los cuales serán difundidos profusamente entre los trabajadores y organizaciones sindicales.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
