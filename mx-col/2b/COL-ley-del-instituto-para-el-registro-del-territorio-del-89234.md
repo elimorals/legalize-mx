@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-para-el-registro-del-territorio-del-89234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-25"
-last_updated: "2012-08-25"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 25 de agosto del 2012.
 
@@ -1759,13 +1759,19 @@ V. Oponerse o interferir en las verificaciones y visitas para la realización de
 
 VI. Realizar cualquier acción o incurrir en omisión a los preceptos de esta Ley o de su reglamento, que sean distintas a las previstas en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 188.
 
-Las infracciones a la presente Ley señaladas en el artículo anterior, serán sancionadas por la Autoridad Catastral Municipal, con multa expresada en unidades de salario mínimo diario vigente de la zona económica a la que pertenece el Estado, conforme a los siguientes montos:
+Las infracciones a la presente Ley señaladas en el artículo anterior, serán sancionadas por la Autoridad Catastral Municipal, con multa expresada en unidades de medida y actualización, conforme a los siguientes montos:
 
-I. De treinta a cincuenta unidades a los sujetos cuya conducta corresponda a lo previsto por las fracciones II, IV y V; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. De cinco a diez unidades a los sujetos cuya conducta corresponda a lo previsto por las fracciones I, III y VI.
+I. De treinta a cincuenta unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por las fracciones II, IV y V; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. De cinco a diez unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por las fracciones I, III y VI.
 
 Las sanciones señaladas en este artículo serán aplicadas por la Autoridad Catastral Municipal competente, tomando en consideración la gravedad de la infracción cometida.
 
@@ -1806,3 +1812,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 23 veintitrés del mes de agosto del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ARQ. OSCAR ALEJANDRO TORRES CONTRERAS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DECRETO NO. 133 POR EL QUE “SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
