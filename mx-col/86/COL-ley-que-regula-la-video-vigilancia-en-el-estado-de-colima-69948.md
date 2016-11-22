@@ -4,7 +4,7 @@ identifier: "COL-ley-que-regula-la-video-vigilancia-en-el-estado-de-colima-69948
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-22"
-last_updated: "2009-08-22"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE REGULA LA VIDEO VIGILANCIA EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 22 de agosto de 2009.
 
@@ -201,11 +201,17 @@ Si las instituciones públicas de carácter Federal, Estatal y Municipal no acat
 
 Cuando se cometan infracciones a lo dispuesto en la presente Ley, se aplicarán las siguientes sanciones:
 
-a) Con multa de 50 a 500 días de salario mínimo, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por tres años, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada para ser difundidas o que no las entregue conforme lo marca la presente Ley;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b) Con multa de 150 a 1500 días de salario mínimo general vigente en el Estado, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por cinco años al funcionario o servidor público que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley sin autorización previa correspondiente de la autoridad competente; y
+a) Con multa de 50 a 500 unidades de medida y actualización, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por tres años, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada para ser difundidas o que no las entregue conforme lo marca la presente Ley;
 
-c) Con multa de 150 a 1500 días de salario mínimo general vigente en el Estado al prestador de servicios privados de seguridad privada que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley en las que no se contengan ilícitos penales o infracciones administrativas o que no las entregue conforme lo marca la presente Ley.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+b) Con multa de 150 a 1500 unidades de medida y actualización, suspensión del cargo e inhabilitación para desempeñar cargos públicos hasta por cinco años al funcionario o servidor público que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley sin autorización previa correspondiente de la autoridad competente; y
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+c) Con multa de 150 a 1500 unidades de medida y actualización al prestador de servicios privados de seguridad privada que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley en las que no se contengan ilícitos penales o infracciones administrativas o que no las entregue conforme lo marca la presente Ley.
 
 Las sanciones antes citadas serán independientes de las que resulten aplicables por la comisión de ilícitos penales en términos de la Legislación Penal o Civil local o de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
@@ -213,11 +219,17 @@ Las sanciones antes citadas serán independientes de las que resulten aplicables
 
 Cuando se cometan infracciones por particulares y prestadores de servicios de seguridad privada a lo dispuesto en la presente Ley, se aplicarán las siguientes sanciones:
 
-a) Con multa de 50 a 500 días de salario mínimo, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada para ser difundidas o que no las entregue conforme lo marca la presente Ley;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b) Con multa de 150 a 1500 días de salario mínimo general vigente en el Estado, a la persona que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley sin autorización previa correspondiente de la autoridad competente; y
+a) Con multa de 50 a 500 unidades de medida y actualización, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada para ser difundidas o que no las entregue conforme lo marca la presente Ley;
 
-c) Con multa de 150 a 1500 días de salario mínimo general vigente en el Estado al particular que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley en las que no se contengan ilícitos penales o infracciones administrativas o que no las entregue conforme lo marca la presente Ley.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+b) Con multa de 150 a 1500 unidades de medida y actualización, a la persona que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley sin autorización previa correspondiente de la autoridad competente; y
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+c) Con multa de 150 a 1500 unidades de medida y actualización al particular que difunda o participe en la difusión de grabaciones obtenidas al amparo de la presente Ley en las que no se contengan ilícitos penales o infracciones administrativas o que no las entregue conforme lo marca la presente Ley.
 
 Las sanciones antes citadas serán independientes de las que resulten aplicables por la comisión de ilícitos penales en términos de la Legislación Penal o Civil local.
 
@@ -264,3 +276,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 21 del mes de agosto del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
