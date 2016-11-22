@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2016-10-15"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -1579,25 +1579,41 @@ XVI.- Los usuarios que omitan el pago de los derechos por la prestación de los 
 
 XVII.- El que en cualquier forma transgreda o incumpla lo dispuesto en esta Ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTICULO 101.
+###### ARTÍCULO 101.
 
-A quienes cometan las infracciones a que se refiere el artículo anterior se les impondrán las siguientes sanciones expresadas en días de salarios mínimo general de la zona económica a que corresponde el Estado de Colima:
+A quienes cometan las infracciones a que se refiere el artículo anterior se les impondrán las siguientes sanciones expresadas en unidades de medida y actualización:
 
-I.- Para las señaladas en las fracciones II, III, V, VII, VIII y X, de veinte a trescientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- Para las señaladas en las fracciones VI y IX, de cincuenta a doscientos días de salario mínimo;
+I.- Para las señaladas en las fracciones II, III, V, VII, VIII y X, de veinte a trescientas unidades de medida y actualización;
 
-III.- Para las señaladas en las fracciones I, IV, XIII, XIV, XV y XVII, de veinte a cien días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV.- Para las señaladas en las fracciones XI y XII, de cinco a cien días de salario mínimo; y
+II.- Para las señaladas en las fracciones VI y IX, de cincuenta a doscientas unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III.- Para las señaladas en las fracciones I, IV, XIII, XIV, XV y XVII, de veinte a cien unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV.- Para las señaladas en las fracciones XI y XII, de cinco a cien unidades de medida y actualización; y
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 V.- Para la señalada en la fracción XVI, del cinco al veinte por ciento del monto de los derechos no pagados o pagados en forma extemporánea.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 Al imponer las sanciones a que se refiera este artículo se tomarán en consideración la gravedad de la infracción, la reincidencia, el uso especifico del servicio de agua y las condiciones económicas del infractor.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 Se entiende por reincidencia, para los efectos de esta Ley, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de un año siguiente a la fecha del acta en que se hizo constar la infracción precedente siempre que ésta no hubiere sido desvirtuada.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 Cuando los hechos que contravengan las disposiciones de esta ley constituyan un delito, se formulará denuncia ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
@@ -1742,3 +1758,11 @@ P.O. 15 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 134 SE REFORMAN LAS FRACCIONES III Y VII DEL ARTÍCULO 23; Y EL QUINTO PÁRRAFO DEL ARTÍCULO 36, TODOS DE LA LEY DE AGUAS PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
