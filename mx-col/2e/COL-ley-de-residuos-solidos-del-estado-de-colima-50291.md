@@ -4,7 +4,7 @@ identifier: "COL-ley-de-residuos-solidos-del-estado-de-colima-50291"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2011-02-12"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA
 
-LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA
+LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -869,13 +869,17 @@ Las sanciones cometidas por la violación de las disposiciones de la presente Le
 
 I. Amonestación cuando por primera vez se incumplan con las disposiciones contenidas en los artículos 25 fracción V y 33 de esta Ley;
 
-II. Multa de 10 a 150 días de salario mínimo vigente en el Estado por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafos; y 42 de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA. P.O. 12 DE FEBRERO DE 2011)</small>
+II. Multa de 10 a 150 unidades de medida y actualización (sic) por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafos; y 42 de la presente Ley;
 
-III. Multa de 150 a mil días de salario mínimo vigente en el Estado por violaciones a lo dispuesto en los artículos 25 fracciones III, IV, VII, VIII y XIV; 38 tercer párrafo; 55 y 59 de la presente; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV. Arresto inconmutable de 36 horas y multa por mil a veinte mil días de salario mínimo vigente por violaciones a lo dispuesto por el artículo 25 fracciones IX a la XIII de la presente Ley.
+III. Multa de 150 a mil unidades de medida y actualización, por violaciones a lo dispuesto en los artículos 25 fracciones III, IV, VII, VIII y XIV; 38 tercer párrafo; 55 y 59 de la presente; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV. Arresto inconmutable de 36 horas y multa por mil a veinte mil unidades de medida y actualización por violaciones a lo dispuesto por el artículo 25 fracciones IX a la XIII de la presente Ley.
 
 ###### Artículo 72.
 
@@ -976,3 +980,11 @@ La Secretaría de Desarrollo Urbano del Gobierno del Estado tendrá a su cargo l
 TERCERO.- Las sanciones por la violación a las disposiciones del presente Decreto se aplicarán a los doce meses siguientes de su entrada en vigor.
 
 CUARTO.- El Gobierno del Estado deberá implementar una campaña de difusión permanente para dar a conocer a la ciudadanía en general, del contenido y alcances que se derivan por la entrada en vigor del presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
