@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2014-10-11"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -1005,7 +1003,9 @@ II. El financiamiento a que se refiere este artículo se determinará anualmente
 
 III. Los partidos políticos nacionales deberán exhibir ante el CONSEJO GENERAL, a más tardar el día 31 de agosto del año de la elección, constancia actualizada de la vigencia de su registro, sin la cual no gozarán de esta prerrogativa;
 
-IV. El monto del financiamiento público se calculará multiplicando el número de ciudadanos que figuren en el padrón electoral a la fecha de corte de julio de cada año, por el 65% del salario mínimo diario vigente en esa fecha en la capital del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV. El monto del financiamiento público se calculará multiplicando el número de ciudadanos que figuren en el padrón electoral a la fecha de corte de julio de cada año, por el 65% del valor diario de la unidad de medida y actualización.
 
 El CONSEJO GENERAL aprobará el financiamiento a más tardar en el mes de septiembre del año de la elección;
 
@@ -2531,9 +2531,13 @@ IV. Gastos de producción de los mensajes para radio y televisión: Los realizad
 
 El CONSEJO GENERAL, determinará los topes de gastos de campaña a más tardar el día 31 de enero del año de la elección, tomando como base las siguientes reglas:
 
-I. La elección de Diputados por el principio de mayoría relativa, según el distrito de que se trate: se multiplicará el número de electores del Padrón electoral respectivo, por un tercio del salario mínimo vigente en el ESTADO;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. La de Ayuntamientos, el tope máximo para cada planilla de candidatos, será el determinado para el municipio que corresponda: se multiplicará el número de electores del Padrón electoral del municipio respectivo, por un tercio del salario mínimo vigente en el ESTADO, y
+I. La elección de Diputados por el principio de mayoría relativa, según el distrito de que se trate: se multiplicará el número de electores del Padrón electoral respectivo, por un tercio del valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. La de Ayuntamientos, el tope máximo para cada planilla de candidatos, será el determinado para el municipio que corresponda: se multiplicará el número de electores del Padrón electoral del municipio respectivo, por un tercio del valor diario de la Unidad de Medida y Actualización, y
 
 III. En la elección de GOBERNADOR: se fijará el tope máximo de gastos de campaña para cada candidato, considerando la suma de los topes de campaña fijados para los dieciséis distritos locales uninominales del ESTADO.
 
@@ -4253,7 +4257,9 @@ A) Respecto de los PARTIDOS POLÍTICOS:
 
 I. Con amonestación pública;
 
-II. Con multa de cien hasta mil días de salario mínimo general vigente en el ESTADO, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Con multa de cien hasta mil unidades de medida y actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 III. Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
@@ -4265,7 +4271,9 @@ B) Respecto de las agrupaciones políticas:
 
 I. Con amonestación pública;
 
-II. Con multa de cien hasta mil días de salario mínimo general vigente para el ESTADO, según la gravedad de la falta, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Con multa de cien hasta mil unidades de medida y actualización, según la gravedad de la falta, y
 
 III. Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -4273,7 +4281,9 @@ C) Respecto de los aspirantes, precandidatos o candidatos a cargos de elección 
 
 I. Con amonestación pública;
 
-II. Con multa de cien hasta mil días de salario mínimo general vigente para el ESTADO, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Con multa de cien hasta mil unidades de medida y actualización, y
 
 III. Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -4281,7 +4291,9 @@ D) Respecto de los Candidatos Independientes:
 
 I. Con amonestación pública;
 
-II. Con multa de cien hasta mil días de salario mínimo general vigente para el ESTADO; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Con multa de cien hasta mil unidades de medida y actualización; y
 
 III. Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -4289,11 +4301,17 @@ E) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol�
 
 I. Con amonestación pública;
 
-II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los PARTIDOS POLÍTICOS: con multa de hasta cien días de salario mínimo general vigente para el ESTADO; en el caso de aportaciones que violen lo dispuesto en este CÓDIGO, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta doscientos mil días de salario mínimo general vigente para el ESTADO, en el caso de aportaciones que violen lo dispuesto en esta (sic) CÓDIGO, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo, y
+II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los PARTIDOS POLÍTICOS: con multa de hasta cien unidades de medida y actualización; en el caso de aportaciones que violen lo dispuesto en este CÓDIGO, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los PARTIDOS POLÍTICOS, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil días de salario mínimo general vigente para el ESTADO, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta doscientas mil unidades de medida y actualización, en el caso de aportaciones que violen lo dispuesto en esta (sic) CÓDIGO, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo, y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los PARTIDOS POLÍTICOS, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil unidades de medida y actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 F) Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -4301,13 +4319,17 @@ I. Con amonestación pública;
 
 II. Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales federales o locales, según sea el caso, y
 
-III. Con multa de hasta cien días de salario mínimo general vigente para el ESTADO, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. Con multa de hasta cien unidades de medida y actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
 
 G) Respecto de las organizaciones de ciudadanos que pretendan constituir PARTIDOS POLÍTICOS:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta mil días de salario mínimo general vigente para el ESTADO, según la gravedad de la falta, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Con multa de hasta mil unidades de medida y actualización, según la gravedad de la falta, y
 
 III. Con la cancelación del procedimiento tendiente a obtener el registro como partido político local, y
 
@@ -4315,7 +4337,9 @@ H) Respecto de las organizaciones sindicales, laborales o patronales, o de cualq
 
 I. Con amonestación pública, y
 
-II. Con multa de hasta mil días de salario mínimo general vigente para el ESTADO, según la gravedad de la falta.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Con multa de hasta mil unidades de medida y actualización, según la gravedad de la falta.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5278,3 +5302,11 @@ OCTAVO.- La disposición relativa a las percepciones de los Consejeros Electoral
 P.O. 28 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
