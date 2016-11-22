@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-98361
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-01"
-last_updated: "2014-07-12"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 1 de febrero de 2014.
 
@@ -95,7 +95,9 @@ El Tribunal para hacer cumplir sus determinaciones o para imponer el orden podr�
 
 I. Amonestación;
 
-II. Multa equivalente al monto de 20 a 500 días de salario mínimo vigente en el Estado; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Multa equivalente al monto de 20 a 500 unidades de medida y actualización; y
 
 III. Auxilio de la fuerza pública;
 
@@ -309,7 +311,9 @@ Si el particular reside fuera de la entidad y no tiene representante en el Estad
 
 Cuando el actor resida fuera de la capital del Estado, podrá presentar su demanda ante el Secretario del Ayuntamiento del Municipio donde vive, quien deberá remitirla bajo su responsabilidad al Tribunal dentro de los tres días hábiles siguientes a su recepción.
 
-En caso de incumplimiento a lo previsto por el párrafo anterior, el Tribunal impondrá al servidor público una multa equivalente al monto de 20 a 500 días de salario mínimo vigente en el Estado, independientemente de la responsabilidad en que pudiera incurrir de conformidad con la ley de la materia.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+En caso de incumplimiento a lo previsto por el párrafo anterior, el Tribunal impondrá al servidor público una multa equivalente al monto de 20 a 500 unidades de medida y actualización, independientemente de la responsabilidad en que pudiera incurrir de conformidad con la ley de la materia.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -769,7 +773,9 @@ Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal lo 
 
 En caso de incumplimiento injustificado de la sentencia, se procederá como sigue:
 
-I. Se fijará multa de entre cien y quinientas veces el salario mínimo general vigente en el Estado, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días hábiles y previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas en los términos de esta fracción, lo que se informará al superior jerárquico de la autoridad demandada;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Se fijará multa de entre cien y quinientas unidades de medida y actualización, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días hábiles y previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas en los términos de esta fracción, lo que se informará al superior jerárquico de la autoridad demandada;
 
 II. Si al concluir el plazo mencionado en la fracción anterior, persistiere la renuencia de la autoridad demandada a cumplir con lo sentenciado, el Tribunal podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días hábiles la obligue a cumplir sin demora;
 
@@ -1094,3 +1100,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. R
 P.O. 12 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
