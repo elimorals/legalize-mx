@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-servicios-y-arrendamientos-del-sector-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2016-10-22"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016 (ABROGADA).
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 217 PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2002.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 15 de junio del 2002.
 
@@ -589,11 +587,17 @@ En todo caso, las dependencias y entidades deberán realizar una búsqueda de pr
 
 Sin perjuicio de lo dispuesto en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, servicios y arrendamientos, sin sujetarse al procedimiento de licitación pública, en los siguientes casos:
 
-a).- De adjudicación directa, cuando el monto de cada operación no exceda de 100 días de salarios (sic) mínimo general vigente en el Estado, debiendo informar al comité correspondiente de estas operaciones;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b).- De adjudicación directa, con tres cotizaciones y visto bueno del Comité o Subcomité de Compras correspondiente, cuando el monto de cada operación sea de 101 y hasta 850 días de salario mínimo general vigente en el Estado; y
+a).- De adjudicación directa, cuando el monto de cada operación no exceda de 100 unidades de medida y actualización, debiendo informar al comité correspondiente de estas operaciones;
 
-c).- A través de invitación a cuando menos tres personas, con participación del Comité o Subcomité de Compras correspondiente, cuando el monto de la operación sea de 851 a 11,150 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+b).- De adjudicación directa, con tres cotizaciones y visto bueno del Comité o Subcomité de Compras correspondiente, cuando el monto de cada operación sea de 101 y hasta 850 unidades de medida y actualización; y
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+c).- A través de invitación a cuando menos tres personas, con participación del Comité o Subcomité de Compras correspondiente, cuando el monto de la operación sea de 851 a 11,150 unidades de medida y actualización.
 
 Las entidades y dependencias no deberán fraccionar las operaciones con el propósito de que las mismas queden comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 
@@ -811,9 +815,11 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 59.
 
-Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría o el órgano de control correspondiente, en su caso, con multa equivalente a la cantidad de 20 hasta 300 veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de la infracción.
+Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría o el órgano de control correspondiente, en su caso, con multa equivalente a la cantidad de 20 hasta 300 unidades de medida y actualización general vigente en el Estado elevado al mes, en la fecha de la infracción.
 
 ###### ARTICULO 60.
 
@@ -1040,3 +1046,11 @@ Los contratos de adquisiciones, arrendamientos y prestación de servicios de cua
 SEXTO. Las sanciones administrativas que se hubieren impuesto, así como la recisión de contratos que por causas imputables al proveedor se hubieren determinado de acuerdo con lo dispuesto por la Ley de Adquisiciones, Servicios y Arrendamientos del Sector Público en el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 15 de junio del 2002, continuarán surtiendo sus efectos.
 
 SÉPTIMO. Para determinar el valor de la Unidad de Medida y Actualización se estará a lo dispuesto por los artículos segundo y quinto transitorios del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado el 27 de enero del 2016 en el Diario Oficial de la Federación.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
