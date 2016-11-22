@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-34314"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-04"
-last_updated: "2013-11-30"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO FISCAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Código publicado en Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 2003.
 
@@ -285,9 +285,19 @@ XIV.- Firma electrónica certificada: Aquella que ha sido certificada por la Aut
 
 XV.- Firmante: Es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa; y
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XV)</small>
 
-XVI.- Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XVI.- Firmante: Es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XVII.- Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XVIII.- Unidad de Medida de Actualización: al valor diario de la Unidad de Medida de Actualización.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2011)</small>
 
@@ -1157,9 +1167,13 @@ IV.- Señalar como domicilio fiscal para efectos del Registro un lugar distinto 
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De veinte a veinticinco unidades de salario, a la comprendida en la fracción I; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- De diez a quince unidades de salario, a las señaladas en las fracciones II, III y IV.
+I.- De veinte a veinticinco unidades de medida y actualización, a la comprendida en la fracción I; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- De diez a quince unidades de medida y actualización, a las señaladas en las fracciones II, III y IV.
 
 ###### ARTICULO 74.
 
@@ -1183,25 +1197,43 @@ A quien cometa alguna de las infracciones a que se refiere el artículo anterior
 
 I.- Para la señalada en las fracciones I y II:
 
-a).- Tratándose de declaraciones, de ocho a doce unidades de salario. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella declarando contribuciones adicionales, sobre la misma se le aplicará también la multa a que se refiere este inciso;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b).- Por presentar una declaración, solicitud, aviso o constancia fuera del plazo señalado en el requerimiento o por su incumplimiento, de 10 a 20 unidades de salario; y
+a).- Tratándose de declaraciones, de ocho a doce unidades de medida y actualización. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella declarando contribuciones adicionales, sobre la misma se le aplicará también la multa a que se refiere este inciso;
 
-c).- De ocho a diez unidades de salario en los demás documentos.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+b).- Por presentar una declaración, solicitud, aviso o constancia fuera del plazo señalado en el requerimiento o por su incumplimiento, de diez a veinte unidades de medida y actualización; y
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+c).- De ocho a diez unidades de medida y actualización en los demás documentos.
 
 II.- Respecto de la establecida en la fracción III:
 
-a).- Por no poner el nombre o ponerlo equivocadamente, de cuatro a seis unidades de salario;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b).- Por no poner el domicilio o ponerlo equivocadamente, de tres a cinco unidades de salario;
+a).- Por no poner el nombre o ponerlo equivocadamente, de cuatro a seis unidades de medida y actualización;
 
-c).- Por no asentar o asentar incorrectamente cualquier otro dato diverso a los anteriores, por cada dato, de uno a dos unidades de salario; y
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-d).- En los demás casos, de dos a tres unidades de salario.
+b).- Por no poner el domicilio o ponerlo equivocadamente, de tres a cinco unidades de medida y actualización;
 
-III.- Tratándose de la comprendida en la fracción IV, de tres a diez unidades de salario;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV.- Para la señalada en la fracción V, de diez a cincuenta unidades de salario; y
+c).- Por no asentar o asentar incorrectamente cualquier otro dato diverso a los anteriores, por cada dato, de una a dos unidades de medida y actualización; y
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+d).- En los demás casos, de dos a tres unidades de medida y actualización.
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III.- Tratándose de la comprendida en la fracción IV, de tres a diez unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV.- Para la señalada en la fracción V, de diez a cincuenta unidades de medida y actualización; y
 
 V.- Para la establecida en la fracción VI, del 20% al 30% de la devolución o compensación indebida.
 
@@ -1225,13 +1257,21 @@ VI.- Expedir comprobantes fiscales asentando nombre, denominación, razón socia
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes sanciones:
 
-I.- De treinta a ochenta unidades de salario, a la comprendida en la fracción I;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- De veinte a cincuenta unidades de salario, a las señaladas en las fracciones II y III;
+I.- De treinta a ochenta unidades de medida y actualización, a la comprendida en la fracción I;
 
-III.- De sesenta a cien unidades de salario, a la señalada en la fracción IV; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV.- De cincuenta a doscientas unidades de salario, a las comprendidas en las fracciones V y VI. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de diez días.
+II.- De veinte a cincuenta unidades de medida y actualización, a las señaladas en las fracciones II y III;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III.- De sesenta a cien unidades de medida y actualización, a la señalada en la fracción IV; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV.- De cincuenta a doscientos unidades de medida y actualización, a las comprendidas en las fracciones V y VI. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de diez días.
 
 ###### ARTICULO 78.
 
@@ -1247,11 +1287,17 @@ III.- No suministrar los datos e informes sobre clientes y proveedores que legal
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De ochenta a doscientas unidades de salario, a la comprendida en la fracción I;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cincuenta a ciento cincuenta unidades de salario, a la señalada en la fracción II; y
+I.- De ochenta a doscientas unidades de medida y actualización, a la comprendida en la fracción I;
 
-III.- De treinta a cien unidades de salario, para la establecida en la fracción III.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- De cincuenta a ciento cincuenta unidades de medida y actualización, a la señalada en la fracción II; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III.- De treinta a cien unidades de medida y actualización, para la establecida en la fracción III.
 
 ###### ARTICULO 80.
 
@@ -1289,13 +1335,21 @@ XIV.- Violar otras disposiciones fiscales en forma no prevista en las fracciones
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De treinta a cien días de unidades de salario, para las señaladas en las fracciones I, VIII y XIV;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cuarenta y cinco a ciento veinte unidades de salario, para las consignadas en las fracciones V, IX, XI y XII;
+I.- De treinta a cien unidades de medida y actualización, para las señaladas en las fracciones I, VIII y XIV;
 
-III.- De sesenta a ciento cincuenta unidades de salario, para las establecidas en las fracciones II, III, IV, VI, VII y X; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV.- De cincuenta a ciento veinte unidades de salario, para la comprendida en la fracción XIII.
+II.- De cuarenta y cinco a ciento veinte unidades de medida y actualización, para las consignadas en las fracciones V, IX, XI y XII;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III.- De sesenta a ciento cincuenta unidades de medida y actualización, para las establecidas en las fracciones II, III, IV, VI, VII y X; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV.- De cincuenta a ciento veinte unidades de medida y actualización, para la comprendida en la fracción XIII.
 
 ###### ARTICULO 82.
 
@@ -1329,13 +1383,21 @@ XII.- Violar otras disposiciones fiscales en forma distinta a las previstas en l
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De treinta a cien unidades de salario, para las señaladas en las fracciones VI, X y XII;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cuarenta y cinco a ciento veinte unidades de salario, para las consignadas en las fracciones II, IV, VII y XI;
+I. De treinta a cien unidades de medida y Actualización, para las señaladas en las fracciones VI, X y XII;
 
-III.- De sesenta a ciento cincuenta unidades de salario, para las establecidas en las fracciones I, III, VIII y IX, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV.- De cincuenta a ciento veinte unidades de salario, para la comprendida en la fracción V, cuando no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución.
+II. De cuarenta y cinco a ciento veinte unidades de medida y actualización, para las consignadas en las fracciones II, IV, VII y XI;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. De sesenta a ciento cincuenta unidades de medida y actualización, para las establecidas en las fracciones I, III, VIII y IX, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV. De cincuenta a ciento veinte unidades de medida y actualización, para la comprendida en la fracción V, cuando no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta tres tantos del importe de dicha contribución.
 
 ###### ARTICULO 84.
 
@@ -1363,9 +1425,13 @@ IX.- Infringir disposiciones fiscales en forma distinta de las previstas en las 
 
 A quien cometa alguna de las infracciones a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I.- De treinta a cien unidades de salario, para las consignadas en las fracciones V, VI y IX;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- De cuarenta y cinco a ciento veinte unidades de salario, para la prevista en la fracción I; y
+I.- De treinta a cien unidades de medida y actualización, para las consignadas en las fracciones V, VI y IX;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- De cuarenta y cinco a ciento veinte unidades de medida y actualización, para la prevista en la fracción I; y
 
 III.- De uno a dos tantos el importe de las contribuciones omitidas, para las señaladas en las fracciones II, III, IV, VII y VIII.
 
@@ -1511,17 +1577,23 @@ IX.- Destruya, ordene o permita la destrucción total o parcial de los libros de
 
 X.- Sustituya o cambie las páginas foliadas de los libros a que se refiere la fracción anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 102.
 
-El delito de defraudación fiscal se sancionará de acuerdo al monto de lo defraudado, expresado en unidades de salario, conforme a las siguientes penas:
+El delito de defraudación fiscal se sancionará de acuerdo al monto de lo defraudado, expresado en unidades de medida y actualización, conforme a las siguientes penas:
 
-I.- Si el monto de lo defraudado es hasta de trescientos cincuenta unidades de salario, de tres meses a tres años de prisión;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- Si el monto de lo defraudado es superior a trescientos cincuenta y hasta mil cuatrocientos unidades de salario, de seis meses a siete años de prisión; y
+I.- Si el monto de lo defraudado es hasta de trescientas cincuenta unidades de medida y actualización, de tres meses a tres años de prisión;
 
-III.- Si el monto de lo defraudado es mayor a mil cuatrocientos unidades de salario, de seis meses a once años de prisión.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Cuando no se pueda determinar el monto de lo defraudado o de lo que se intentó defraudar, la pena será de seis meses a once años de prisión.
+II.- Si el monto de lo defraudado es superior a trescientos cincuenta y hasta mil cuatrocientas unidades de medida y actualización de seis meses a siete años de prisión; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III.- Si el monto de lo defraudado es mayor a mil cuatrocientas unidades de medida y actualización, de seis meses a once años de prisión.
 
 ###### ARTICULO 103.
 
@@ -1759,11 +1831,13 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios por notificación previstos en la Ley de Hacienda.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez unidades de salario.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez unidades de medida y actualización.
 
-Por concepto de honorarios por notificación a que se refiere el primer párrafo de este artículo, se pagará el equivalente a tres unidades de salario, por cada notificación.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Por concepto de Honorarios por notificación a que se refiere el primer párrafo de este artículo, se pagara el equivalente a tres unidades de medida y actualización por cada notificación.
 
 ###### ARTICULO 128.
 
@@ -1927,7 +2001,9 @@ Procederá la cancelación de los créditos fiscales:
 
 I.- Cuando los sujetos de los créditos sean insolventes, previa comprobación de esta circunstancia por la Secretaría y siempre que medie acuerdo fundado de autoridad competente; y
 
-II.- Cuando su importe sea menor a una unidad de salario y no se paguen espontáneamente dentro de los noventa días siguientes a la fecha en que la autoridad fiscal competente haya exigido el pago.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- Cuando su importe sea menor a una unidad de medida y actualización y no se paguen espontáneamente dentro de los noventa días siguientes a la fecha en que la autoridad fiscal competente haya exigido el pago.
 
 Si existen varios créditos fiscales del importe señalado en esta fracción a cargo de un solo deudor, procederá la acumulación de los mismos para los efectos de su cobro.
 
@@ -1969,11 +2045,13 @@ II.- Por el embargo, incluyendo los señalados en los artículos 44 fracción II
 
 III.- Por el remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a cuatro unidades de salario, se cobrará está cantidad en vez del 2% del crédito.
+Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a cuatro unidades de medida y actualización, se cobrará está cantidad en vez del 2% del crédito.
 
-En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de 400 unidades de salario.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de 400 unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -2225,7 +2303,9 @@ El remate deberá ser convocado al día siguiente de haber quedado firme el aval
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente. Además, la convocatoria se dará a conocer en la página electrónica de la Secretaría. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a mil ochocientas veinticinco unidades de salario, la convocatoria se publicará en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a mil ochocientas veinticinco unidades de medida y actualización, la convocatoria se publicará en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTICULO 176.
 
@@ -2442,3 +2522,11 @@ P.O. 21 DE MAYO DE 2011.
 P.O. 30 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
