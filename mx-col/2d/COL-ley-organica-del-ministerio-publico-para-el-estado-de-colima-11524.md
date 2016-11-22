@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-ministerio-publico-para-el-estado-de-colima-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-04"
-last_updated: "2014-11-18"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
 
-LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE COLIMA
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE COLIMA.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 25 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE MANERA PROGRESIVA Y GRADUAL, CONFORME VAYA INICIANDO SU VIGENCIA LA CITADA LEY EN LOS TÉRMINOS DEL DECRETO 399 MEDIANTE EL CUAL SE PUBLICA Y CON LA SALVEDAD DE LOS PROCEDIMIENTOS INICIADOS CON ANTELACIÓN A SU ENTRADA EN VIGOR, LOS CUALES SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 1997.
 
@@ -435,7 +433,9 @@ Toda denuncia o querella por delitos de la competencia de los Tribunales del Est
 
 El Ministerio Público para hacer cumplir sus determinaciones en la investigación de los delitos, podrá hacer uso de los siguientes medios de apremio:
 
-I.- Multa hasta por el importe de diez días de salario mínimo, que se hará efectiva en la Receptoría de Rentas de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Multa hasta por el importe de diez unidades de medida y actualización, que se hará efectiva en la Receptoría de Rentas de la Secretaría de Planeación y Finanzas;
 
 II.- Uso de la fuerza pública;
 
@@ -1322,3 +1322,11 @@ Para dar cumplimiento a lo señalado en la presente Ley, se deberá programar la
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
