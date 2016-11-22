@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-participacion-del-congreso-en-asuntos-24748
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-20"
-last_updated: "2007-05-12"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA REGULAR LA PARTICIPACION DEL CONGRESO EN ASUNTOS MUNICIPALES
 
-LEY PARA REGULAR LA PARTICIPACION DEL CONGRESO EN ASUNTOS MUNICIPALES
+LEY PARA REGULAR LA PARTICIPACIÓN DEL CONGRESO EN ASUNTOS MUNICIPALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 20 de abril de 2002.
 
@@ -451,7 +451,9 @@ Presentada la excusa o la recusación, se calificará por la comisión dictamina
 
 Tanto el denunciado como el denunciante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas que pretendan ofrecer como pruebas.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren, la comisión dictaminadora, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de 10 a 100 veces el salario mínimo diario vigente en el Estado, sanción que hará efectiva la Secretaría de Finanzas del Gobierno del Estado, previa comunicación de dicha comisión dictaminadora, si la autoridad respectiva no las expidiere. Si resultare falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren, la comisión dictaminadora, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de 10 a 100 unidades de medida y actualización, sanción que hará efectiva la Secretaría de Finanzas del Gobierno del Estado, previa comunicación de dicha comisión dictaminadora, si la autoridad respectiva no las expidiere. Si resultare falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
 ###### ARTICULO 55.
 
@@ -471,7 +473,9 @@ El Congreso o la comisión dictaminadora, en su caso, por mayoría de votos de l
 
 I. Abandono del recinto o del local, incluso con el auxilio de la fuerza pública; y
 
-II. Multa hasta por 25 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Multa hasta por 25 unidades de medida y actualización.
 
 ## TRANSITORIOS
 
@@ -491,8 +495,16 @@ Dado en Palacio de Gobierno, a los 18 días del mes de abril del año dos mil do
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PENA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 12 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
