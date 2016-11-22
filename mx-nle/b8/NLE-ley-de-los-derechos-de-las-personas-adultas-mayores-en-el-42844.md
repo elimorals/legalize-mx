@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2016-04-06"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -571,6 +571,16 @@ La Administración Pública Estatal y Municipal, de conformidad con las disposic
 
 Las Secretarías y demás Dependencias que integran las Administración Pública Estatal, los Organismos Públicos Descentralizados de Participación Ciudadana y demás Entidades Paraestatales del Estado, así como los municipios en el ámbito de sus respectivas competencias y jurisdicción, vigilarán y garantizarán la defensa de los derechos de las Personas Adultas Mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Para ello, deberán implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones; así como mecanismos para la atención inmediata, como ventanillas o filas especiales, que deberán estar adecuadamente señalados para su fácil identificación.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 39 Bis.
+
+La atención preferencial, es un beneficio que sólo podrá otorgarse para realizar trámites personales. Es intransferible, y las personas adultas mayores deberán presentar una identificación oficial vigente.
+
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
@@ -800,3 +810,9 @@ P.O. 6 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 087. POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN II Y SE ADICIONA UN INCISO F) A LA FRACCIÓN II, DEL ARTÍCULO 5, RECORRIÉNDOSE EL INCISO SUBSECUENTE, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 Único: La presente iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 163. SE REFORMA POR ADICIÓN DE UN PÁRRAFO SEGUNDO AL ARTÍCULO 39, ASÍ COMO POR ADICIÓN DE UN ARTÍCULO 39 BIS, AMBOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
