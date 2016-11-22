@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2016-02-13"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -285,9 +285,9 @@ LXXXVII. Servicios ambientales: Los beneficios de interés social que se derivan
 
 LXXXVIII. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-LXXXIX. Unidad de salario: La equivalente de un día de salario mínimo general vigente en la entidad al momento de la imposición de la sanción;
+LXXXIX. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2012)</small>
 
@@ -2691,7 +2691,9 @@ En los casos en que se imponga como sanción la clausura temporal, la dependenci
 
 La autoridad ambiental competente dará a los bienes decomisados alguno de los siguientes destinos:
 
-I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5 mil unidades de salario;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5 mil unidades de medida y actualización;
 
 II. Remate en subasta pública cuando el valor de lo decomisado exceda el límite señalado en la fracción anterior;
 
@@ -3000,3 +3002,11 @@ P.O. 13 DE FEBRERO DE 2016.
 PRIMERO.- Se concede un plazo de 180 días naturales para que los diez ayuntamientos de la Entidad, incorporen y especifiquen dentro de sus planes de desarrollo, las zonas en las que deberán de instalarse los contenedores especiales para el depósito y traslado de todo tipo de baterías y residuos electrónicos conforme a las Normas Oficiales Mexicanas en materia de residuos peligrosos, debiendo informar a la sociedad, una vez se hayan determinado.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DECRETO NO. 133 POR EL QUE “SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
