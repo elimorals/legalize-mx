@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "2016-08-27"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -279,7 +279,9 @@ Presentada la excusa o la recusación, se calificará dentro de los tres días n
 
 Tanto el inculpado como el denunciante o querellante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas que pretendan ofrecer como prueba ante el Congreso del Estado o la Comisión que éste designe.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren el Congreso del Estado a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en el Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultare falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren el Congreso del Estado a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien unidades de medida y actualización, sanción que se hará efectiva si la autoridad no las expidiere. Si resultare falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
 Por su parte el Congreso del Estado o la Comisión que éste designe solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien la solicitase no la remite dentro del plazo discrecional que se le señale, se impondrá la multa a que se refiere el párrafo anterior.
 
@@ -497,13 +499,21 @@ VII.- El monto del beneficio, daño o perjuicio económico derivado del incumpli
 
 En caso de aplicación de sanciones económicas por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el Artículo 44, se aplicarán dos tantos del lucro obtenido y de los daños y perjuicios causados.
 
-Las sanciones económicas establecidas en este Artículo se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago, conforme al siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-I.- La sanción económica impuesta se dividirá entre la cantidad líquida que corresponda y el salario mínimo mensual vigente en el Estado de Colima al día de su imposición; y
+Las sanciones económicas establecidas en este Artículo se pagarán una vez determinadas en cantidad liquida, en su equivalencia en unidades de medida y actualización, conforme al siguiente procedimiento:
 
-II.- El cociente se multiplicará por el salario mínimo mensual vigente en el Estado al día del pago de la sanción.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo diario vigente en el Estado.
+I.- La sanción económica impuesta se dividirá entre la cantidad líquida que corresponda y la unidad de medida y actualización; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- El cociente se multiplicará por el valor mensual de la unidad de medida y actualización.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos de esta Ley se entenderá por el valor mensual de la unidad de medida y actualización, el que determine el Instituto Nacional de Estadística y Geografía.
 
 ###### ARTICULO 52.
 
@@ -519,7 +529,9 @@ IV.- La Contraloría por acuerdo expreso del Titular del Poder Ejecutivo, promov
 
 V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda según las leyes aplicables; y
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en el Estado y por la Contraloría cuando sean superiores a esta cantidad.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien unidades de medida y actualización y por la Contraloría cuando sean superiores a esta cantidad.
 
 ###### ARTICULO 53.
 
@@ -533,9 +545,11 @@ La Contraloría indicará la sanción que corresponda al Titular de la dependenc
 
 Incurrirán en responsabilidad administrativa los servidores públicos de la Contraloría y de las demás dependencias que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta Ley. La Contraloría sancionar al que se abstenga de aplicar lo previsto en la Ley antes mencionada, informando de ello a los titulares de las dependencias.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 56.
 
-Cada dependencia será competente para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces el salario mínimo diario del Estado, las que están reservadas exclusivamente a la Contraloría, que comunicará los resultados del procedimiento al titular de la dependencia. En este último caso, el órgano de control, previo informe al superior jerárquico turnará el Oficio a la Contraloría.
+Cada dependencia será competente para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien unidades de medida y actualización, las que están reservadas exclusivamente a la Contraloría, que comunicará los resultados del procedimiento al titular de la dependencia. En este último caso, el órgano de control, previo informe al superior jerárquico turnará el oficio a la Contraloría.
 
 ###### ARTICULO 57.
 
@@ -545,9 +559,11 @@ Si los titulares de las dependencias tuvieron conocimiento de hechos que impliqu
 
 Si de las investigaciones y auditorías que realize (sic) la Contraloría apareciera la responsabilidad de los servidores públicos, informará a la dependencia correspondiente, para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento sólo compete a la contraloría, ésta se avocará directamente al asunto, informando de ello al titular de la dependencia para que en forma conjunta participe o coadyuve en el procedimiento de determinación de responsabilidades.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 59.
 
-La dependencia y la Contraloría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Estado.
+La dependencia y la Contraloría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y las circunstancias del infractor y el daño causado por éste no exceda de cien unidades de medida y actualización.
 
 ###### ARTICULO 60.
 
@@ -649,7 +665,9 @@ Si el servidor público presunto responsable confesare su responsabilidad por in
 
 Para el cumplimiento de las atribuciones que le confiere esta Ley, la Contraloría podrá emplear los siguientes medios de apremio:
 
-I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en el Estado.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I.- Sanción económica de hasta veinte unidades de medida y actualización; o
 
 II.- Auxilio de la fuerza pública.
 
@@ -661,7 +679,9 @@ Si existe resistencia al mandamiento legítimo de autoridad, se sujetará a lo q
 
 Las facultades del superior jerárquico, de la Contraloría y, en su caso, del Congreso del Estado para imponer las sanciones que esta Ley prevé, se sujetaran a lo siguiente:
 
-I.- Prescriben en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable el (sic) dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiera incurrido o a partir del momento en que se hubiese cesado, si fue de carácter continuo; o desde el momento en que tenga conocimiento;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I.- Prescriben en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez unidades de medida y actualización, o si la responsabilidad no fuese estimable el (sic) dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiera incurrido o a partir del momento en que se hubiese cesado, si fue de carácter continuo; o desde el momento en que tenga conocimiento;
 
 II. Tratándose de infracciones graves el plazo para que opere la prescripción será de cinco años, que se contarán en los términos del párrafo anterior; y
 
@@ -757,7 +777,9 @@ Para los efectos de esta Ley y del Código Penal, se computarán entre los biene
 
 Durante el desempeño de su empleo, cargo o comisión y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí, o por interpósita persona, dinero o cualquiera otra donación, servicio, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII del Artículo 46 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión, que determinen conflicto de intereses.
 
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no sea superior a diez veces el salario mínimo diario vigente en el Estado en el momento de su recepción.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no sea superior a diez unidades de medida y actualización.
 
 En ningún caso se podrá recibir de dichas personas títulos valor, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad a favor del Estado, sobre bienes de cualquier clase.
 
@@ -820,3 +842,11 @@ P.O. 27 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 130 POR EL QUE SE REFORMAN LAS FRACCIONES XXVIII Y XXIX; Y SE ADICIONAN LAS FRACCIONES XXX Y XXXI DEL ARTÍCULO 44 DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”].
 
 ÚNICO.- El presente Decreto entrará en vigor en el momento de su aprobación.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
