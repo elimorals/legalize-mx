@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2016-06-18"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -139,11 +139,9 @@ III.- Los gastos de mantenimiento, ampliaciones y mejoras del inmueble donde se 
 
 IV.- Las inversiones en adquisición de mobiliario y equipo de oficina e instrumental propio para la realización de la actividad del contribuyente, hasta por un monto anual equivalente al 10% de la inversión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-V.- Las inversiones en automóviles, hasta por un monto equivalente a 2040 unidades de salario mínimo general del Área Geográfica del Estado de Colima, así como los gastos para su mantenimiento, los cuales se podrán deducir en la proporción que represente el monto original de la inversión deducible, respecto del valor de adquisición de los automóviles.
+V.- Las inversiones en automóviles, hasta por un monto equivalente a 2040 unidades de medida y actualización, así como los gastos para su mantenimiento, los cuales se podrán deducir en la proporción que represente el monto original de la inversión deducible, respecto del valor de adquisición de los automóviles.
 
 VI.- Las erogaciones por arrendamiento financiero, cuando los contratos se refieran al instrumental y equipo propio para la realización de la actividad del contribuyente.
 
@@ -181,11 +179,9 @@ VII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2013)
 
 VIII.- Que tratándose de contratos de arrendamiento financiero sólo se considere el monto pactado como valor del bien en los contratos respectivos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-IX.- Respecto a los gastos de viaje a que se refiere la fracción IX del Artículo anterior, los relativos a hospedaje, alimentación y arrendamiento de vehículos sólo podrán deducirse en conjunto por un monto diario equivalente a 150 días de salario mínimo general del Área Geográfica del Estado de Colima, si se erogan en el extranjero o de 80 días de salario mínimo si se erogan en territorio nacional.
+IX.- Respecto a los gastos de viaje a que se refiere la fracción IX del Artículo anterior, los relativos a hospedaje, alimentación y arrendamiento de vehículos sólo podrán deducirse en conjunto por un monto diario equivalente a 150 unidades de medida y actualización, si se erogan en el extranjero o de 80 unidades de medida y actualización si se erogan en territorio nacional.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -649,11 +645,13 @@ Artículo 41 R BIS 1.- Las personas físicas o moralesy (sic) las unidades econ�
 
 Cuando se trate de obra privada y no sea posible establecer la base del impuesto, ésta se calculará multiplicando el costo de la mano de obra que corresponda, por el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal competente, de acuerdo con la siguiente tabla:
 
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 Tipo de obra: Costo por metro
 
-cuadrado, en días
+cuadrado, en unidades
 
-de salario mínimo:
+de medida y actualización
 
 Bardas 4.893
 
@@ -1623,7 +1621,13 @@ Artículo 52 BIS.- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 Por los servicios prestados en la Dirección General de Ingresos:
 
-Número de días de salario mínimo
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
 
 I.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
@@ -1667,13 +1671,13 @@ V. - (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
 Artículo 55 B.- Por los servicios prestados en la Secretaría de Movilidad:
 
-NUMERO DE
+> <small>(REFORMADO [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-DÍAS
+UNIDADES DE
 
-DE SALARIO
+MEDIDA Y
 
-MÍNIMO
+ACTUALIZACIÓN
 
 I.- Expedición y reposición de licencias para
 
@@ -2849,11 +2853,13 @@ e).- Capacitación para y en el trabajo 707.000
 
 Artículo 57 A.- Por los servicios prestados en la Dirección Estatal de Profesiones, se pagarán los siguientes derechos:
 
-NUMERO DE
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016 )</small>
 
-DIAS DE
+UNIDADES DE
 
-SALARIO MINIMO
+MEDIDA Y
+
+ACTUALIZACIÓN
 
 I.- Por gestión de registro de título de licenciatura, registro de título de grado académico, registro de diploma de especialidad, expedición de cédula profesional, expedición de duplicado, autorización para ejercer como pasante, constancia de registro y no sanción, constancia de antecedentes profesionales 4.040
 
@@ -3183,13 +3189,13 @@ Los ingresos que se obtengan de los diversos conceptos establecidos en el presen
 
 Por los servicios prestados en la Coordinación de los Servicios Educativos del Estado, se pagarán los derechos siguientes:
 
-Número
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-de días
+UNIDADES DE
 
-de salario
+MEDIDA Y
 
-mínimo
+ACTUALIZACIÓN
 
 I.- Reposición de credencial de alumno 0.330
 
@@ -3227,13 +3233,13 @@ de situación jurídica de la persona 1.000
 
 Por los servicios prestados en la Universidad Pedagógica Nacional, Unidad 061 se pagarán los derechos siguientes:
 
-NÚMERO
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016 )</small>
 
-DE DÍAS
+UNIDADES DE
 
-DE SALARIO
+MEDIDA Y
 
-MÍNIMO
+ACTUALIZACIÓN
 
 I.- Por el derecho a examen de admisión:
 
@@ -3307,9 +3313,13 @@ XII.- Por Scanner por hoja 0.030
 
 Artículo 62 BIS.- Por los servicios prestados en la Secretaría de Seguridad Pública, se pagarán los derechos siguientes:
 
-Número de días
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-de salario mínimo
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
 
 I.- Almacenaje de vehículos, por día:
 
@@ -3549,13 +3559,13 @@ n).- Por la consulta de antecedentes laborales y/o criminales de cada elemento d
 
 Por los servicios prestados en la Secretaría de Salud y Bienestar Social se pagarán los siguientes derechos:
 
-Número
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016 )</small>
 
-de días
+UNIDADES DE
 
-de salario
+MEDIDA Y
 
-mínimo
+ACTUALIZACIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3761,9 +3771,13 @@ Servicios prestados por el Instituto para el Registro del Territorio del Estado 
 
 Por los servicios prestados en el Instituto para el Medio Ambiente y Desarrollo Sustentable, se pagarán los derechos siguientes:
 
-NUMERO DE DÍAS DE
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-SALARIO MÍNIMO
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3771,7 +3785,9 @@ SALARIO MÍNIMO
 
 I.- Recepción, evaluación y otorgamiento del resolutivo del informe de factibilidad ambiental en materia de impacto ambiental 35.000
 
-Estarán exentos de pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Estarán exentos de pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 unidades de medida y actualización, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
 
 II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
 
@@ -3967,29 +3983,43 @@ No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII 
 
 Por los servicios prestados en la Dirección del Registro Público de la Propiedad y del Comercio, se pagarán los siguientes derechos
 
-Número
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-de días
+UNIDADES DE
 
-de salario
+MEDIDA Y
 
-mínimo
+ACTUALIZACIÓN
 
 I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial o bancario actualizado:
 
-a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 9.000
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b).- Cuando el valor se encuentre entre los 3,815 y los 4,964
+a). Cuando el valor sea de hasta 3,814 unidades de
 
-días de salario mínimo. 12.000
+medida y actualización ………………………………………….....9,000
 
-c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-mínimo. 16.000
+b). Cuando el valor se encuentre entre las 3,815 y las 4,964
 
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo,
+unidades de medida y actualización .............................................12,000
 
-el 0.3%, sin que el mínimo sea inferior a. 17.000
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+c). Cuando el valor esté entre los 4,965 y 6,116 unidades
+
+de medida y actualización………………………………………….16.000
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+d). Cuando el valor sea mayor de 6, 116 unidades de medida
+
+y actualización, el 0.3%, sin que el mínimo
+
+sea inferior a............................ ....................................................17.000
+
+ni el máximo superior a ................................................................2,162.000
 
 Ni el máximo superior a 2,162.000
 
@@ -4025,21 +4055,33 @@ el de operación, el catastral vigente en el ejercicio fiscal en que se
 
 solicite el servicio y el de avalúo comercial o bancario, se cobrará:
 
-a).- Cuando el valor sea de hasta 3,814 días de salario mínimo. 9.000
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario
+a).- Cuando el valor sea de hasta 3,814 unidades de medida
 
-mínimo. 12.000
+y actualización……………………………………………………9.000
 
-c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-mínimo. 16.000
+b).- Cuando el valor se encuentre entre los 3,815 y
 
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.3 %, sin
+las 4,964 unidades de medida y actualización ……………………12.000
 
-que el mínimo sea inferior a. 17.000
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Ni el máximo superior a. 2,162.000
+c).- Cuando el valor esté entre las 4,965 y
+
+6,116 unidades de medida y………………………………………16.000
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+d).- Cuando el valor sea mayor de 6,116 unidades
+
+de medida y actualización, el 0.3 %, sin
+
+que el mínimo sea inferior a........................................................17.000
+
+Ni el máximo superior a .............................................................2,162.000
 
 No será exigible la presentación del avalúo comercial o bancario, si no son
 
@@ -4133,39 +4175,65 @@ celebradas con instituciones, entidades, sociedades u organismos
 
 auxiliares, de crédito.
 
-a).- Cuando el monto de la operación sea hasta el equivalente a
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-648 días de salario mínimo 5.000
+a). Cuando el monto de la operación sea hasta el
 
-b).- Cuando el monto de la operación sea de entre 649 y 1,295
+equivalente a 648 unidades de medida y actualización……………5.000
 
-días de salario mínimo. 6.000
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-c).- Cuando el monto de la operación esté entre los 1,296 y
+b). Cuando el monto de la operación sea de
 
-1,943 días de salario mínimo 7.000
+entre 649 y 1,295 unidades de medida y actualización…………….6.000
 
-d).- Cuando el monto de la operación sea de entre 1,944 y
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-2,591 días de salario mínimo 8.000
+c). Cuando el monto de la operación esté entre
 
-e).- Cuando el monto de la operación esté entre 2,592 y
+los 1,296 y 1,943 unidades de
 
-3,814 días de salario mínimo 9.000
+medida y actualización ..................................................................7.000
 
-f).- Cuando el monto de la operación esté entre 3,815 y 4,964
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-días de salario mínimo 12.000
+d) Cuando el monto de la operación sea de entre 1,944 y
 
-g).- Cuando el monto de la operación esté entre los 4,965 y 9,600
+2,591 unidades de
 
-días de salario mínimo 16.000
+medida y actualización.....................................................................8.000
 
-h).- Cuando el valor de la operación sea mayor al equivalente de
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-9,601 días de salario mínimo, se pagará sobre el monto del crédito,
+e). Cuando el monto de la operación esté
 
-el 0.3% sin que el máximo sea superior a 274.000
+entre 2,592 y 3,814 unidades
+
+de medida y actualización................................................................9.000
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+f). Cuando el monto de la operación esté entre 3,815 y
+
+4,964 unidades de medida
+
+y actualización ...............................................................................12.000
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+g). Cuando el monto de la operación esté entre los
+
+4,965 y 9,600 unidades de medida y actualización ………………….16.000
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+h). Cuando el valor de la operación sea mayor al
+
+equivalente de 9,601 unidades de medida y actualización,
+
+se pagará sobre el monto del crédito, el 0.3% sin que
+
+el máximo sea superior a...............................................................274.000
 
 i).- Por los créditos refaccionarios, de habilitación o avío destinados
 
@@ -4381,13 +4449,19 @@ XXV.- Cancelación de gravámenes en general y de anotaciones de
 
 todo tipo, por cada cancelación o por cada inmueble. 4.500
 
-Si se hubiesen otorgado en garantía varios inmuebles para una
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-misma operación de crédito, o que varias operaciones de crédito
+Si se hubiesen otorgado en garantía varios inmuebles
 
-se hayan garantizado con un solo inmueble, a partir de salarios
+para una misma operación de crédito, o que varias
 
-mínimos la segunda cancelación el derecho a pagar será de. 5.000
+operaciones de crédito se hayan garantizado con un solo
+
+inmueble, a partir de unidades de medida y
+
+actualización la segunda cancelación el
+
+derecho a pagar será de .........................................................5.000
 
 En el caso del párrafo anterior, se entenderá que a cada inmueble
 
@@ -4497,6 +4571,14 @@ y/o recibo de pago 2.500
 
 Por los servicios prestados en la Dirección de Catastro.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
+
 I).- Copias fotostática certificada de planos generales:
 
 1.- Copia fotostática certificada de un predio con acotaciones. 8.500
@@ -4553,21 +4635,29 @@ a).- Por avalúo o rectificación de avalúo de predio urbano a solicitud
 
 del interesado:
 
-1.- Hasta un valor catastral equivalente a 3,814 días de salario
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-mínimo. 2.000
+1.- Hasta un valor catastral equivalente a 3,814 unidades
 
-2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario
+de medida y actualización………………………………………2.000
 
-mínimo. 2.500
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-3.- Cuando el valor catastral esté entre 4,965 y 6,616 días de salario
+2.- Cuando el valor catastral esté entre 3,815 y
 
-Mínimo. 3.500
+4,964 unidades de medida y actualización ................................2.500
 
-4.- Más de un valor catastral equivalente a 6,616 días de salario
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-mínimo, se pagará sobre dicho valor, el 0.1%
+3.- Cuando el valor catastral esté entre 4,965 y
+
+6,616 unidades de medida y actualización .................................3.500
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+4.- Más de un valor catastral equivalente a 6,616 unidades
+
+de medida y actualización, se pagará sobre dicho valor, el 0.1 %
 
 b).- Por avalúo o rectificación de avalúo de predio rústico que se
 
@@ -4575,21 +4665,29 @@ practique sobre plano levantado y firmado por el perito responsable
 
 incluyendo clasificación de suelo; a solicitud del interesado:
 
-1.- Hasta un valor catastral equivalente a 3,814 días de salario
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-mínimo. 2.000
+1.- Hasta un valor catastral equivalente a 3,814
 
-2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario
+unidades de medida y actualización……………………………2.000
 
-mínimo. 2.500
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-3.- Cuando el valor catastral esté entre los 4,965 y 6,116 días de salario
+2.- Cuando el valor catastral esté entre 3,815 y
 
-mínimo. 3.500
+4,964 unidades de medida y actualización ……………………..2.500
 
-4.- Más de un valor catastral equivalente a 6,116 días de salario
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-mínimo, se pagará sobre dicho valor, el 0.1%
+3.- Cuando el valor catastral esté entre las
+
+4,965 y 6, 116 unidades de medida y actualización…………….3.500
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+4.- Más de un valor catastral equivalente a 6,116 unidades
+
+de medida y actualización, se pagará sobre dicho valor, el 0.1 %.
 
 c).- Cuando por motivo de una solicitud de rectificación o asignación
 
@@ -5147,15 +5245,25 @@ Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas 
 
 Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de mineral o material extraído, de los que hace referencia el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa, misma que se encuentra expresada en unidades de medida y actualización.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa, misma que se encuentra expresada en unidades de salario mínimo diario del Estado de Colima.
-
 1.- Arena y grava, por cada cien metros cúbicos que se extraigan 3.000
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
 2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan 5.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan 5.000
 
@@ -5409,9 +5517,11 @@ Las infracciones a las disposiciones de esta Ley serán sancionadas de conformid
 
 El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado la autorización correspondiente para expedir, o modificar en su caso el Tabulador Oficial para el Pago del Impuesto a la Transmisión de la Propiedad de Vehículos Automotores.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 75.
 
-Para los efectos del Título Segundo, se entenderá por ``día de salario mínimo'', el salario mínimo general diario vigente en el Estado, en la fecha de pago del derecho de que se trate.
+Para los efectos del Título Segundo, se entenderá por "unidad de medida y actualización", el valor diario de la de la unidad de medida y actualización, en la fecha de pago del derecho de que se trate.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -5425,13 +5535,11 @@ Los gastos de ejecución y los honorarios por notificación que se recauden, se 
 
 Para determinar las contribuciones y demás conceptos de ingreso que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso; no obstante, para efectuar su pago, el monto se ajustará a la unidad de peso mas próxima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 78.
 
-En la prestación de servicios de inscripción de documentos, de gravámenes, de operaciones de crédito, de fraccionamientos y relotificación de los mismos por parte de la Dirección del Registro Público de la Propiedad y del Comercio, cuando el objeto sea la promoción y enajenación de viviendas con valor de hasta el equivalente a 16.1 días de salario mínimo general del Área Geográfica del Estado de Colima elevado al año, o de lotes con servicios y que en cualquiera de los casos, la superficie del terreno no exceda de 120 metros cuadrados, se causarán los derechos previstos en el artículo 52 de esta Ley, aplicando a la cantidad que resulte de multiplicar el importe del salario mínimo por el número de unidades que señale la fracción o inciso correspondiente, el factor de 0.20.
+En la prestación de servicios de inscripción de documentos, de gravámenes, de operaciones de crédito, de fraccionamientos y relotificación de los mismos por parte de la Dirección del Registro Público de la Propiedad y del Comercio, cuando el objeto sea la promoción y enajenación de viviendas con valor de hasta el equivalente a 16.1 unidades de medida y actualización elevada al año, o de lotes con servicios y que en cualquiera de los casos, la superficie del terreno no exceda de 120 metros cuadrados, se causarán los derechos previstos en el artículo 52 de esta Ley, aplicando a la cantidad que resulte de multiplicar el importe de la unidad de medida y actualización por el número de unidades que señale la fracción o inciso correspondiente, el factor de 0.20.
 
 ## TRANSITORIOS
 
@@ -6128,3 +6236,11 @@ P.O. 18 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 109 SE DEROGA EL CAPÍTULO I, DEL TÍTULO PRIMERO DENOMINADO “DEL IMPUESTO A LA PRESTACIÓN DEL SERVICIO DE ENSEÑANZA”, DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
