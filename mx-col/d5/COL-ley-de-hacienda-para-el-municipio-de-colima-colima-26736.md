@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-12-29"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -55,11 +55,11 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1°.
 
-El Municipio de Colima para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones, aportaciones y recursos transferidos derivados de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
+El Municipio de Colima, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones especiales, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en UMA, así como las participaciones y fondos federales y locales derivadas de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones especiales, productos y aprovechamientos es irrenunciable.
 
 ###### ARTICULO 2º.
 
@@ -91,7 +91,9 @@ Para efectos de la presente Ley, se entiende por:
 
 I.- Ley de Catastro, a la Ley del Instituto para el Registro del Territorio del Estado de Colima;
 
-II. Unidades de salario, a las unidades de salario mínimo diario vigente en la zona económica del municipio, que se determine en cada caso;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. UMA, el valor diario de la unidad de medida y actualización;
 
 III. Registro, al Registro Público de la Propiedad y del Comercio del Estado de Colima;
 
@@ -217,13 +219,17 @@ III. Para los predios rústicos se aplicará la siguiente:
 
 Para la determinación del impuesto aplicando las tarifas previstas en las fracciones I y III de este artículo, se sujetará al siguiente procedimiento:
 
-1. Se ubicará la base gravable del predio de que se trate en el rango de valores de la columna denominada "BASE GRAVABLE", convirtiendo a pesos la cuota fija expresada en unidades de salario.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+1.- Se ubicará la base gravable del predio de que se trate en el rango de valores de la columna denominada "BASE GRAVABLE", convirtiendo a pesos la cuota fija expresada en UMA;
 
 2. La cantidad que exceda la base gravable del límite inferior del rango de valores correspondiente, se multiplicará por la tasa que aparece en la última columna.
 
 3. Se sumarán los resultados obtenidos de ejecutar los pasos 1 y 2, siendo el producto el impuesto anual a pagar.
 
-IV. Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 3 unidades de salario.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV. Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 3 UMA.
 
 En los casos de las parcelas afectadas por el levantamiento de predios efectuada por el INEGI, las diferentes fracciones de un contribuyente se sumarán generando el impuesto equivalente a una parcela ejidal. Este impuesto deberá cubrirse durante el primer bimestre del año.
 
@@ -257,13 +263,13 @@ No quedan comprendidas en esta disposición las multas que se impongan cuando se
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2013)</small>
 
-###### ARTÍCULO 18.
+###### ARTICULO 18.
 
 Los notarios públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas cuyo objeto sean predios ubicados en el municipio, deberán exigir al interesado que acredite estar al corriente en el cumplimiento de sus obligaciones fiscales relacionadas con este impuesto.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Los organismos públicos descentralizados del Gobierno Federal o Estatal, que tengan como objeto la regularización de la tenencia de la tierra, para autorizar en forma definitiva las escrituras que expidan en cumplimiento de su objeto, se encontraran exentos de la presentación del recibo de pago del impuesto predial, al inscribir una transmisión patrimonial ante la autoridad municipal correspondiente siempre que el valor catastral no sea mayor a siete mil quinientas unidades de salario mínimo diario vigente en la entidad, sin que esto exima al contribuyente del pago de estos impuestos, quedando a salvo los derechos de la autoridad municipal, para requerir el pago del impuesto predial regularizado y sus accesorios al poseedor del predio.
+Los organismos públicos descentralizados del Gobierno Federal o Estatal, que tengan como objeto la regularización de la tenencia de la tierra, para autorizar en forma definitiva las escrituras que expidan en cumplimiento de su objeto, se encontraran exentos de la presentación del recibo de pago del impuesto predial, al inscribir una transmisión patrimonial ante la autoridad municipal correspondiente siempre que el valor catastral no sea mayor a siete mil quinientas UMA; vigente en la entidad, sin que esto exima al contribuyente del pago de estos impuestos, quedando a salvo los derechos de la autoridad municipal, para requerir el pago del impuesto predial regularizado y sus accesorios al poseedor del predio.
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
@@ -271,11 +277,9 @@ Los organismos públicos descentralizados del Gobierno Federal o Estatal, que te
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
+Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de medida y actualización, en predios urbanos y 3 UMA en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra la unidad de medida y actualización durante el ejercicio correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -283,11 +287,9 @@ Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que p
 
 En los casos en que el contribuyente sea de nacionalidad mexicana y acredite estar jubilado, pensionado por alguna institución pública; presente alguna discapacidad o con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un solo predio, éste sea de su propiedad y acredite la residencia en el mismo. La bonificación anterior se otorgará a los contribuyentes beneficiados por éste artículo durante todo el ejercicio fiscal, pero la omisión de pago puntual o anualidad adelantada, generará recargos y multas a la fecha de pago, en los términos de lo dispuesto por el segundo párrafo del artículo 51 B de ésta Ley y del artículo 25, último párrafo, del Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
-Dicho beneficio no será aplicable, si la residencia del contribuyente se constituye en inmuebles donde se presten servicios de hospedaje, alojamiento y albergue temporal de personas.
+Cabe señalar que si al efectuar el cálculo del beneficio que se menciona en el párrafo anterior, da como resultado una cantidad menor a 2 unidades de UMA, el contribuyente deberá pagar el importe de las dos unidades de medida y actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -663,7 +665,9 @@ por el que se cobren derechos de
 
 admisión 5 a 8
 
-II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en UMA:
 
 a) Giros que realicen actividades en forma
 
@@ -1115,9 +1119,11 @@ Las personas a quienes se les presten servicios en los casos que se mencionan en
 
 (VÉASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 99.
 
-Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos unidades de salario, se cobrará esta cantidad.
+Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos UMA, se cobrará esta cantidad.
 
 #### SECCION CUARTA. RASTRO MUNICIPAL
 
@@ -1608,3 +1614,11 @@ P.O. 29 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 38 POR EL QUE SE REFORMA EL ÚNICO TRANSITORIO DEL DECRETO No. 581, APROBADO POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL H. CONGRESO DEL ESTADO, CORRESPONDIENTE A MODIFICACIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
