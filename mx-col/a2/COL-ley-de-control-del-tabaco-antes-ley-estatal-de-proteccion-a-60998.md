@@ -4,7 +4,7 @@ identifier: "COL-ley-de-control-del-tabaco-antes-ley-estatal-de-proteccion-a-609
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-03"
-last_updated: "2008-05-03"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE PROTECCION A LA SALUD DE LOS NO FUMADORES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 3 de mayo de 2008.
 
@@ -393,7 +393,9 @@ Para la fijación de la sanción económica, se tomará en cuenta la gravedad de
 
 Las sanciones administrativas podrán consistir en:
 
-I. Multa, que podrá ser de diez a cien días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Multa, que podrá ser de diez a cien unidades de medida y actualización;
 
 II. Arresto hasta por 12 horas; y
 
@@ -405,21 +407,27 @@ El arresto hasta por 12 horas procederá en contra de quien cometiera tres o má
 
 ###### Artículo 35.
 
-Se sancionará con multa equivalente a diez días de salario mínimo vigente en el Estado, a las personas que fumen en los lugares que prohíbe el presente Ordenamiento; la multa será impuesta por el Juez Calificador correspondiente, y será puesto a su disposición por cualquier elemento de Seguridad Pública.
+Se sancionará con multa equivalente a diez unidades de medida y actualización, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por el Juez Calificador correspondiente, y será puesto a su disposición por cualquier elemento de Seguridad Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ## TÍTULO CUARTO. DE LAS SANCIONES
 
 ### Capítulo Segundo. Del monto de las sanciones
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 36.
 
-Se sancionará con multa equivalente de treinta y hasta cien veces de salario mínimo diario general vigente en el Estado, cuando se trate de propietarios, poseedores o responsables de los locales cerrados y establecimientos, que no cumplan con las disposiciones de la presente Ley.
+Se sancionará con multa equivalente de treinta y hasta cien unidades de medida y actualización, cuando se trate de propietarios, poseedores o responsables de los locales cerrados y establecimientos, que no cumplan con las disposiciones de la presente Ley.
 
 En caso de reincidencia, se aplicará el doble de la última sanción impuesta. En caso de segunda reincidencia, se procederá la clausura temporal del establecimiento según lo establecido en la fracción III del artículo 34.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 37.
 
-Se sancionará con veinte días de salario mínimo vigente en el Estado, al titular de la concesión o permiso cuando se trate de medios de transporte; en el caso de que no fijen las señalizaciones a que se refiere esta Ley, o toleren o permitan la realización de conductas prohibidas por esta Ley.
+Se sancionará con veinte unidades de medida y actualización, al titular de la concesión o permiso cuando se trate de medios de transporte; en el caso de que no fijen las señalizaciones a que se refiere esta Ley, o toleren o permitan la realización de conductas prohibidas por esta Ley.
 
 En caso de reincidencia, se aplicará el doble de la sanción económica impuesta; en caso de segunda reincidencia, procederá la clausura del establecimiento, así como la cancelación de la concesión o permiso.
 
@@ -458,3 +466,13 @@ Por lo tanto mando se imprima, publique circule y observe.
 Dado en Palacio de Gobierno, el día 30 del mes de abril del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL DEL ESTADO Y PRESIDENTE EJECUTIVO DEL CONSEJO ESTATAL DE SALUD, DR. JOSÉ SALAZAR AVIÑA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
