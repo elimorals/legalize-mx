@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2012-del-pleno-del-consejo-de-la-88462"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-07-03"
-last_updated: "2016-06-17"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-27"
 
 ACUERDO GENERAL 21/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELACIONADO CON "EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2012.
 
@@ -67,17 +67,15 @@ Artículo Primero. El Consejo de la Judicatura Federal aprueba la aplicación de
 
 Queda prohibida la ocupación de meritorios y personas que presten servicios o realicen actividades propias del servicio judicial, sin recibir remuneración o apoyo económico alguno procedente del Consejo de la Judicatura Federal. Los que deseen realizar prácticas judiciales, deberán incluirse en el Programa materia de este Acuerdo General.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO POR EL PUNTO ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, RESPECTO DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
+Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares, incluyendo los adscritos a los Centros de Justicia Penal Federal.
 
-Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares.
+Se distribuirá dependiendo de sus cargas de trabajo; de 1 y hasta 2 participantes por cada ponencia de los tribunales Colegiados de Circuito; 1 y hasta 2 por tribunal Unitario; 2 y hasta 4 por juzgado de Distrito pero, en el caso de los Centros de Justicia Penal Federal solo 1 por cada Juez de Distrito especializado en el sistema penal acusatorio en funciones jurisdiccionales, y Juez de Distrito en funciones de Administrador. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
 
-Se distribuirá dependiendo de sus cargas de trabajo; de 1 y hasta 2 participantes por cada ponencia de los tribunales Colegiados de Circuito; 1 y hasta 2 por tribunal Unitario, 2 y hasta 4 por juzgado de Distrito, incluyendo a los jueces de Distrito y tribunales unitarios adscritos a los Centros de Justicia Penal Federal. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
+Previo análisis que se haga de las cargas de trabajo, la Dirección General de Estadística Judicial deberá emitir un dictamen a efecto de que determine si es o no procedente la solicitud de incrementar el número de participantes en el Programa de “Prácticas Judiciales” en un órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal. En este último caso la solicitud la hará el Administrador del Centro respectivo.
 
-Previo análisis que se haga de las cargas de trabajo, la Dirección General de Estadística Judicial deberá emitir un dictamen a efecto de que determine si es o no procedente la solicitud de incrementar el número de participantes en el Programa de “Prácticas Judiciales” en el órgano jurisdiccional de que se trate.
-
-Corresponde al Instituto de la Judicatura Federal la coordinación del Programa de Prácticas Judiciales.
+Corresponde al Instituto de la Judicatura la coordinación del Programa de Prácticas Judiciales. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal coadyuvará en la coordinación, difusión y seguimiento de dicho Programa en los Centros de Justicia Penal Federal.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -91,11 +89,9 @@ El Instituto de la Judicatura podrá llevar a cabo el reclutamiento y selección
 
 b) Recepción de Documentos: Cada magistrado de Circuito o juez de Distrito señalará la fecha y lugar de recepción de documentos y solicitudes, así como los resultados de la selección;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO POR EL PUNTO ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, RESPECTO DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
-
-c) Duración del apoyo económico: Hasta veinticuatro meses y en tanto sea alumno regular de la carrera de Licenciatura en Derecho o su equivalente. Este plazo podrá prorrogarse hasta por seis meses más después de haber concluido el plan de estudios;
+c) Duración del apoyo económico: Hasta veinticuatro meses y en tanto sea alumno regular de licenciatura, especialidad, maestría o doctorado en Derecho. Para el caso de los Centros de Justicia Penal Federal, además podrán incorporarse estudiantes de las profesiones afines al nuevo sistema de gestión judicial. Este plazo podrá prorrogarse hasta por seis meses más después de haber concluido el plan de estudios correspondiente;
 
 d) Formalización: A través de suscripción de la Carta Compromiso, elaborada por la Dirección General de Asuntos Jurídicos y de la validación documental del área encargada de coordinar el Programa de Prácticas Judiciales en el Instituto de la Judicatura, quien publicará mensualmente en su página de Internet, la relación de alumnos incorporados al Programa, y generará la identificación de manera centralizada para ser enviada al estudiante para iniciar sus prácticas; y
 
@@ -111,11 +107,9 @@ b) Observar buena conducta dentro y fuera del órgano jurisdiccional;
 
 c) (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO POR EL PUNTO ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, RESPECTO DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
-
-d) Mantener la calidad de alumno regular de la carrera de Licenciatura en Derecho o su equivalente mientras participa en el Programa, lo cual incluye hasta seis meses después de haber concluido el plan de estudios;
+d) Mantener la calidad de alumno regular de licenciatura, especialidad, maestría o doctorado en Derecho mientras participa en el Programa, lo cual incluye hasta seis meses después de haber concluido el plan de estudios correspondiente;
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -260,3 +254,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. La presente adición será de aplicación retroactiva, en el marco de los convenios suscritos con Universidades y Fundaciones vigentes al momento de la entrada en vigor de este Acuerdo, en aquello que beneficie a los estudiantes participantes en el Programa de Prácticas Judiciales.
+
+D.O.F. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, RESPECTO DE LOS CENTROS DE JUSTICIA PENAL FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
