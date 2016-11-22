@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2016-03-01"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -267,7 +267,9 @@ XIV. Los demás que establezcan las leyes y reglamentos.
 
 Los Auxiliares comprendidos en las fracciones anteriores deben cumplir lo ordenado por la Ley y por las autoridades judiciales.
 
-La falta de cumplimiento de estas obligaciones será sancionada con multa de uno hasta doscientos días de salario mínimo vigente en la entidad, independientemente de la responsabilidad que se derive del delito que resulte o de la destitución del cargo.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+La falta de cumplimiento de estas obligaciones será sancionada con multa de uno hasta doscientas unidades de medida y actualización, independientemente de la responsabilidad que se derive del delito que resulte o de la destitución del cargo.
 
 El monto correspondiente se requerirá por conducto de la Secretaria de Finanzas y Administración del Gobierno del Estado, a efecto de que procedan a su cobro conforme a la legislación aplicable.
 
@@ -673,7 +675,9 @@ VI. Vigilar que los Secretarios de Acuerdos, Proyectistas, Actuarios y demás se
 
 VII. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces, en los asuntos del orden civil, familiar o mercantil;
 
-VIII. Apercibir, amonestar o imponer multas de uno hasta doscientos días de salario mínimo vigente en el Estado de Colima, al día de cometerse la falta, a los abogados, procuradores o litigantes, cuando por cualquier medio agredan, ofendan, calumnien o falten al respeto y consideraciones debidas a sus integrantes o a algún órgano o integrante del Poder Judicial del Estado, sin perjuicio del delito en que pudieran incurrir en términos del Código Penal del Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Apercibir, amonestar o imponer multas de uno hasta doscientas unidades de medida y actualización, a los abogados, procuradores o litigantes, cuando por cualquier medio agredan, ofendan, calumnien o falten al respeto y consideraciones debidas a sus integrantes o a algún órgano o integrante del Poder Judicial del Estado, sin perjuicio del delito en que pudieran incurrir en términos del Código Penal del Estado;
 
 IX. Turnar al Pleno del Tribunal por conducto del Presidente de la Sala los asuntos que sean de su competencia; y
 
@@ -695,7 +699,9 @@ III. Vigilar que los Secretarios de Acuerdos, Proyectistas, Actuarios y demás s
 
 IV. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces del orden penal;
 
-V. Apercibir, amonestar o imponer multas de uno hasta doscientos días de salario mínimo vigente en el Estado, al día de cometerse la falta, a los abogados, procuradores o litigantes, cuando por cualquier medio agredan, ofendan, calumnien o falten al respeto y consideraciones debidas a sus integrantes o a algún órgano o integrante del Poder Judicial del Estado, sin perjuicio del delito en que pudieran incurrir en términos del Código Penal del Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+V. Apercibir, amonestar o imponer multas de uno hasta doscientas unidades de medida y actualización, a los abogados, procuradores o litigantes, cuando por cualquier medio agredan, ofendan, calumnien o falten al respeto y consideraciones debidas a sus integrantes o a algún órgano o integrante del Poder Judicial del Estado, sin perjuicio del delito en que pudieran incurrir en términos del Código Penal del Estado;
 
 VI. Remitir los asuntos que sean competencia del Pleno del Tribunal; y
 
@@ -953,9 +959,13 @@ En materia civil los Jueces de Primera Instancia conocerán:
 
 I. De los asuntos de jurisdicción voluntaria;
 
-II. De los juicios contenciosos que versen sobre la propiedad y demás derechos reales; siempre que el valor de éstos sea mayor a dos mil veces el salario mínimo diario general vigente en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-III. De los juicios contenciosos que versen sobre derechos personales, siempre que el monto sea mayor a quinientas veces el salario mínimo diario general vigente en el Estado;
+II. De los juicios contenciosos que versen sobre la propiedad y demás derechos reales; siempre que el valor de éstos sea mayor a dos mil unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. De los juicios contenciosos que versen sobre derechos personales, siempre que el monto sea mayor a quinientas unidades de medida y actualización;
 
 IV. De los demás asuntos de jurisdicción contenciosa, común o concurrente;
 
@@ -1015,7 +1025,9 @@ III. De los juicios hipotecarios; y
 
 IV. La homologación y ejecución de los laudos arbitrales que hayan elegido las partes.
 
-Todos los negocios anteriores deberán exceder de quinientas veces el salario mínimo diario general vigente en el Estado en acciones derivadas de derechos personales y de dos mil veces el salario mínimo tratándose de derechos reales; lo anterior sin tomarse en consideración intereses y demás accesorios reclamados a la fecha de la interposición de la demanda.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Todos los negocios anteriores deberán exceder de quinientas unidades de medida y actualización en acciones derivadas de derechos personales y de dos mil unidades de medida y actualización tratándose de derechos reales; lo anterior sin tomarse en consideración intereses y demás accesorios reclamados a la fecha de la interposición de la demanda.
 
 ###### Artículo 57.
 
@@ -1099,9 +1111,13 @@ Atribuciones de los Jueces de Menor Cuantía
 
 Los Jueces de Menor Cuantía son competentes para conocer:
 
-I. De asuntos civiles y mercantiles cuyo monto no exceda de quinientas veces el salario mínimo diario general vigente en el Estado, cuando se trate de derechos personales, y de dos mil veces el salario vigente en el Estado, cuando se trate de derechos reales; sin que se tomen en consideración intereses y demás accesorios reclamados a la fecha de la interposición de la demanda;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. En materia penal de los delitos que tengan como sanción apercibimiento, caución de no ofender, pena alternativa y multa cuyo monto no exceda de cincuenta unidades el salario mínimo diario general vigente en el Estado y prisión cuya media aritmética no exceda de hasta dos años;
+I. De asuntos civiles y mercantiles cuyo monto no exceda de quinientas unidades de medida y actualización, cuando se trate de derechos personales, y de dos mil unidades de medida y actualización, cuando se trate de derechos reales; sin que se tomen en consideración intereses y demás accesorios reclamados a la fecha de la interposición de la demanda;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. En materia penal de los delitos que tengan como sanción apercibimiento, caución de no ofender, pena alternativa y multa cuyo monto no exceda de cincuenta unidades de medida y actualización y prisión cuya media aritmética no exceda de hasta dos años;
 
 III. De la diligencia de los exhortos, despachos y demás asuntos que les encomiende el Supremo Tribunal de Justicia, los Jueces de Primera Instancia, los de su misma categoría y las leyes relativas, siempre que dichas diligencias deban verificarse dentro de su jurisdicción territorial;
 
@@ -3491,13 +3507,17 @@ La amonestación consiste en la reprensión verbal o escrita que se haga al infr
 
 Sanción Económica
 
-La sanción económica que se imponga al infractor consiste en sanción que ascenderá de cinco hasta doscientos días de salario, la que será cubierta por el servidor público sancionado ante el Poder Judicial del Estado por conducto de la propia Oficialía Mayor mediante descuento en nómina, en cuotas iguales, no superiores a la quinta parte de su salario tabular mensual; o bien, en el caso de servidores públicos destituidos o inhabilitados, o que por diverso motivo ya no se desempeñen en el Poder Judicial, el monto correspondiente, se requerirá por conducto de la Secretaria de Finanzas y Administración del Gobierno del Estado, a efecto de que procedan a su cobro conforme a la legislación aplicable.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+La sanción económica que se imponga al infractor consiste en sanción que ascenderá de cinco hasta doscientas unidades de medida y actualización, la que será cubierta por el servidor público sancionado ante el Poder Judicial del Estado por conducto de la propia Oficialía Mayor mediante descuento en nómina, en cuotas iguales, no superiores a la quinta parte de su salario tabular mensual; o bien, en el caso de servidores públicos destituidos o inhabilitados, o que por diverso motivo ya no se desempeñen en el Poder Judicial, el monto correspondiente, se requerirá por conducto de la Secretaria de Finanzas y Administración del Gobierno del Estado, a efecto de que procedan a su cobro conforme a la legislación aplicable.
 
 Los recursos obtenidos por la aplicación de sanciones económicas derivadas de las infracciones contenidas en esta Ley, se aplicaran a favor del Fondo Auxiliar en Beneficio para la Administración de Justicia.
 
 En el caso de obtención de beneficios económicos o causación de daños y perjuicios por los actos u omisiones en que incurra el servidor público sancionado, se aplicará, además de la sanción que corresponda, una sanción económica que no podrá exceder de dos tantos de la cuantificación de éstos.
 
-Las sanciones económicas se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Estado de Colima, al momento de ejecutarse la conducta sancionada, y en caso de no cubrirse en el mismo año calendario de su aplicación, se actualizarán de acuerdo al valor del salario mínimo vigente al día de su pago.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Las sanciones económicas se impondrán (sic) unidades de medida y actualización. Para calcular su importe, se tendrá como base la unidad de medida y actualización general vigente, al momento de ejecutarse la conducta sancionada, y en caso de no cubrirse en el mismo año calendario de su aplicación, se actualizarán de acuerdo al valor de las unidades de medida y actualización vigente al día de su pago.
 
 ###### Artículo 209.
 
@@ -3559,15 +3579,21 @@ Rangos para la imposición de Sanciones
 
 Para la aplicación de las sanciones a que hace referencia esta Ley, se observarán las siguientes reglas:
 
-I. Se aplicará desde apercibimiento hasta sanción económica de cinco a ciento cincuenta unidades de salario por la comisión de las faltas previstas en el artículo 196; I y II, del artículo 197; las fracciones I y VI del artículo 198; las fracciones I, II, III, V y VI del artículo 199; las fracciones I y II del artículo 200 y las fracciones II y III del artículo 201 de esta Ley;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. Se aplicará sanción económica de diez a doscientas unidades de salario por la comisión de las faltas previstas en las fracciones III del artículo 197, IV y VII del artículo 199; I, IV, V y VI del artículo 201 de esta Ley;
+I. Se aplicará desde apercibimiento hasta sanción económica de cinco a ciento cincuenta unidades de medida y actualización por la comisión de las faltas previstas en el artículo 196; I y II, del artículo 197; las fracciones I y VI del artículo 198; las fracciones I, II, III, V y VI del artículo 199; las fracciones I y II del artículo 200 y las fracciones II y III del artículo 201 de esta Ley;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Se aplicará sanción económica de diez a doscientas unidades de medida y actualización por la comisión de las faltas previstas en las fracciones IV y VII del artículo 199; y las fracciones I, IV, V y VI del artículo 201 de esta Ley;
 
 III. Se aplicará suspensión del cargo de un día hasta tres meses por la comisión de las faltas previstas en la fracción III del artículo 196; II, III y V del artículo 198; y las previstas en el artículo 202 de esta Ley.
 
 IV. Se aplicará destitución y en su caso inhabilitación del cargo por la comisión de las faltas previstas en la fracción IV del artículo 198, y en el artículo 203 de esta Ley;
 
-V. Podrá aplicarse desde apercibimiento hasta multa de cinco a doscientas unidades de salario en el supuesto previsto en la fracción VII del artículo 201; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+V. Podrá aplicarse desde apercibimiento hasta multa de cinco a doscientas unidades de medida y actualización, a los servidores públicos de la administración de justicia que incumplan con las atribuciones que para cada uno de los cargos establece la presente Ley; y
 
 VI. El órgano resolutor, tomando en cuenta la gravedad de la falta cometida, así como las circunstancias especiales del caso, previa justificación que se emita al respecto podrá por una sola ocasión abstenerse de sancionar al infractor.
 
@@ -3643,7 +3669,9 @@ Si el probable infractor confesare su responsabilidad, en forma expresa, una vez
 
 Quejas notoriamente infundadas
 
-Si el Órgano Resolutor estimare que la queja fue interpuesta notoriamente infundada, o con el ánimo de eludir turno o retrasar el acceso a la justicia, se impondrá al denunciante o a su representante, abogado, o a ambos una multa de uno hasta doscientos días de salario mínimo vigente en el Estado, al momento de interponerse la queja.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Si el Órgano Resolutor estimare que la queja fue interpuesta notoriamente infundada, o con el ánimo de eludir turno o retrasar el acceso a la justicia, se impondrá al denunciante o a su representante, abogado, o a ambos una multa de uno hasta doscientas unidades de medida y actualización.
 
 ###### Artículo 224.
 
@@ -3739,7 +3767,9 @@ Las excitativas decretadas se notificarán al servidor público por cualquier me
 
 Consecuencias del incumplimiento de excitativas
 
-El Pleno del Tribunal o las Salas impondrán una multa de uno a cien días de salario mínimo general vigente en el Estado al servidor público que incumpla sin causa justificada en el término ordenado, con el pronunciamiento del auto o resolución que corresponda. La que se aplicará al Fondo Auxiliar para la Administración de Justicia.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+El Pleno del Tribunal o las Salas impondrán una multa de uno a cien unidades de medida y actualización al servidor público que incumpla sin causa justificada en el término ordenado, con el pronunciamiento del auto o resolución que corresponda. La que se aplicará al Fondo Auxiliar para la Administración de Justicia.
 
 Asimismo, se remitirá copia certificada de la resolución correspondiente, a la Oficialía Mayor, para que sea agregada al expediente del servidor público.
 
@@ -4280,3 +4310,11 @@ P.O. 1 DE MARZO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 SEGUNDO.- El Poder Judicial del Estado de Colima deberá cumplir con el presente decreto dentro del plazo de 30 días a partir de su entrada en vigor.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
