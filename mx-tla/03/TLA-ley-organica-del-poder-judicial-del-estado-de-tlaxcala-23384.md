@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2016-02-10"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TLA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 5 DE MARZO DE 2014, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA 22 DE OCTUBRE DE 2014 Y PUBLICADA EN EL P.O. DEL GOBIERNO DEL ESTADO DE FECHA 23 DE OCTUBRE DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -61,55 +61,37 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 I. El Tribunal Superior de Justicia funcionando en Pleno y Salas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 II. El Consejo de la Judicatura;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 III. Los Juzgados de lo Civil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 IV. Los Juzgados de lo Familiar;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 V. Los Juzgados de lo Penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VI. Los Juzgados de Control;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VII. Los Juzgados de Juicio Oral Penal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VIII. Los Juzgados de Ejecución de Sanciones Penales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 IX. Los Juzgados de Jurisdicción Mixta;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -123,21 +105,21 @@ XI. Los Juzgados de Administración de Justicia para adolescentes;
 
 XII. Los Juzgados de Ejecución de Medidas aplicables a adolescentes, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XIII. El Centro Estatal de Justicia Alternativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 30 DE DICIEMBRE DE 2015)
+XIV. Los Juzgados Mercantiles y de Oralidad Mercantil;
 
-XIV. Los Juzgados de Oralidad Mercantil.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2015)</small>
+XV. Juzgados especializados en extinción de dominio, y
 
-XV.- La Unidad de Igualdad de Género.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XVI. La Unidad de Igualdad de Género.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -267,17 +249,21 @@ Siempre que en el ejercicio de sus facultades las autoridades judiciales imponga
 
 ### Capítulo Segundo. De la Competencia Territorial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-En materia civil y familiar, el territorio del Estado se dividirá en los Distritos Judiciales siguientes:
+En materia civil, familiar y mercantil, el territorio del Estado se dividirá en los Distritos Judiciales siguientes:
 
-I. HIDALGO, con sede en la Ciudad de Tlaxcala de Xicohténcatl, que comprenderá los Municipios de: Tlaxcala, Ixtacuixtla de Mariano Matamoros, Panotla, Tepetitla de Lardizábal, Totolac y Santa Ana Nopalucan;
+I. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2016)
 
-II. CUAUHTEMOC, con sede en la Ciudad de Apizaco, que comprenderá los Municipios de: Apizaco, Cuaxomulco, Tocatlán, Tzompantépec, Xalóztoc, Xaltocan, Yauhquemehcan, San José Teacalco y San Lucas Tecopilco.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. CUAUHTEMOC, con sede en el recinto denominado "Ciudad Judicial" ubicado en la comunidad de Santa Anita Huiloac del Municipio de Apizaco, que comprenderá los Municipios de: Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Chiautempan, Contla de Juan Cuamatzi, Cuaxomulco, Ixtacuixtla de Mariano Matamoros, La Magdalena Tlaltelulco, Panotla, San Francisco Tetlanohcan, San José Teacalco, San Lucas Tecopilco, Santa Ana Nopalucan, Santa Cruz Tlaxcala, Tepetitla de Lardizábal, Tlaxcala, Tocatlán, Totolac, Tzompantépec, Xaloztoc, Xaltocan y Yauhquemehcan.
 
 III. JUAREZ, con sede en la ciudad de Huamantla, que comprenderá los Municipios de: Huamantla, Atltzayanca, Cuapiaxtla, El Carmen Tequexquitla, Ixtenco, Terrenate, Zitlaltépec de Trinidad Sánchez Santos, Emiliano Zapata y Lázaro Cárdenas;
 
-IV. LARDIZABAL Y URIBE, con sede en la Ciudad de Chiautempan, que comprenderá los Municipios de: Chiautempan, Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Contla de Juan Cuamatzi, Santa Cruz Tlaxcala, San Francisco Tetlanohcan y La Magdalena Tlaltelulco;
+IV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2016)
 
 V. MORELOS, con sede en la Ciudad de Tlaxco, que comprenderá los Municipios de: Tlaxco, Atlangatepec, Muñoz de Domingo Arenas y Tetla de la Solidaridad;
 
@@ -287,15 +273,13 @@ VII. XICOHTENCATL, con sede en la Villa Vicente Guerrero, que comprenderá los M
 
 VIII. ZARAGOZA, con sede en la Ciudad de Zacatelco, que comprenderá los Municipios de: Zacatelco, Acuamanala de Miguel Hidalgo, Nativitas, Teolocholco, Tepeyanco, Tetlatlahuca, Xicohtzinco, Santa Apolonia Teacalco, Santa Cruz Quilehtla, San Juan Huactzinco, Santa Catarina Ayometla, Santa Isabel Xiloxoxtla, San Damián Texóloc, San Jerónimo Zacualpan y San Lorenzo Axocomanitla.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 7 Bis.
 
-El Pleno del Tribunal Superior de Justicia, mediante acuerdos generales determinará, conforme al presupuesto, la creación de Juzgados de Oralidad Mercantil que funcionarán en el Estado y les fijará su residencia.
+El Pleno del Tribunal Superior de Justicia, mediante acuerdos generales determinará, conforme al presupuesto, la creación de Juzgados Mercantiles y de Oralidad Mercantil que funcionarán en el Estado y les fijará su residencia.
 
-La competencia territorial de los Juzgados de Oralidad Mercantil podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Pleno del Tribunal Superior de Justicia.
+La competencia territorial de los Juzgados Mercantiles y de Oralidad Mercantil podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Pleno del Tribunal Superior de Justicia.
 
 ###### Artículo 8.
 
@@ -333,39 +317,39 @@ En materia de Ejecución de Sanciones Penales, el Juez ejercerá su competencia 
 
 En la materia constitucional, de ejecución de sanciones y de administración de justicia para adolescentes, el Tribunal y sus Salas, ejercerán su competencia en todo el territorio del Estado.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 9 Bis.
+
+El Tribunal en Pleno mediante acuerdos generales determinará la creación o especialización de órganos jurisdiccionales para conocer de extinción de dominio, cuya residencia será en la Ciudad Judicial de la comunidad de Santa Anita Huiloac, Municipio de Apizaco. Tales órganos jurisdiccionales contarán con competencia en todo el territorio del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-El Tribunal en Pleno determinará el número de Juzgados que funcionarán en los Distritos Judiciales, así como su materia y ubicación. Los acuerdos relativos se publicarán en el Periódico Oficial del Gobierno del Estado, en el Boletín del Poder Judicial y en los diarios de mayor circulación en la Entidad.
+El Tribunal en Pleno determinará mediante acuerdos generales, el número de Juzgados de Primera Instancia, su residencia, especialidad por materia, competencia territorial, por turno y así como todo aquello necesario para su funcionamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En los Distritos a que se refiere el artículo 7 de esta ley, funcionarán separadamente los juzgados civiles, juzgados mercantiles y juzgados familiares, salvo que la carga de trabajo no lo justifique así, pues en tal caso se podrán establecer juzgados de jurisdicción mixta.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-En los Distritos a que se refiere el artículo 7 de esta ley, funcionarán separadamente juzgados civiles y juzgados familiares, excepto que la carga de trabajo no lo justifique así, pues en tal caso se podrán establecer juzgados de jurisdicción mixta.
+Los Acuerdos relativos se publicarán en el Periódico Oficial del Gobierno del Estado, en los diarios de mayor circulación en la Entidad y, en su caso, en el Boletín Judicial.
 
 ## TITULO SEGUNDO. TRIBUNAL SUPERIOR DE JUSTICIA
 
 ### Capítulo Primero. De la Integración e Instalación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 11.
 
-El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y se integrará por siete Magistrados.
+El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y se integrará por siete Magistrados. Sin perjuicio que, para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, por acuerdo del Pleno, se autorice también el desarrollo de sus funciones en el recinto denominado “Ciudad Judicial” ubicado en la comunidad de Santa Anita Huiloac del Municipio de Apizaco.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 El Congreso del Estado nombrará a los Magistrados Propietarios con la votación de las dos terceras partes del total de los diputados que integren la Legislatura correspondiente, y deberá prever para cada uno a su respectivo suplente, para el caso de falta absoluta, en la forma y términos previstos en la Constitución Local.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 Para ocupar o desempeñar el cargo de Magistrado, se deberán reunir los requisitos que establece el artículo 83 de la Constitución Política del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -525,6 +509,10 @@ Para que el Pleno sesione válidamente bastará la concurrencia de cuatro Magist
 
 Las sesiones ordinarias del Pleno se celebrarán cada quince días; las extraordinarias se verificarán a petición de cualquier Magistrado.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Las sesiones se realizarán en el salón de plenos de la sede del Tribunal, salvo que por acuerdo del Pleno se determine otro lugar.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
@@ -675,73 +663,55 @@ IV. Emitir disposiciones administrativas de carácter general, en los términos 
 
 En el orden administrativo el Pleno del Tribunal tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 I. Las que establece la Constitución del Estado en su artículo 80 fracciones I, V, X, y XI;
 
 II. Dictar los lineamientos administrativos que deban de acatar los órganos jurisdiccionales para el debido control y manejo de los expedientes, así como de los bienes bajo su custodia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 III. Resolver los conflictos que surjan con motivo del nombramiento y remoción de los Presidentes de las Salas, y del cumplimiento de las funciones de los integrantes del Consejo de la Judicatura;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 IV. Solucionar cualquier problemática administrativa que se presente y que no sea competencia del Consejo de la Judicatura, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 V. Proponer al Consejo de la Judicatura las medidas necesarias para mejorar la administración de justicia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VI. Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aun cuando no fueren del mismo ramo, con excepción de las especializadas para adolescentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VII. Conceder licencias a Magistrados para separarse de su cargo, salvo que esta atribución corresponda a otras instancias del Poder Judicial o de la Administración Pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VIII. Dirimir las cuestiones de competencia entre las salas y entre éstas y los juzgados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 IX. Conocer de las quejas contra el Presidente del Tribunal y Magistrados. En su caso, imponer las correcciones disciplinarias que correspondan;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 X. Revocar, modificar o confirmar las providencias provisionales que hubiere tomado el Presidente del Tribunal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XI. Revocar o modificar a petición de alguno de los Magistrados, los acuerdos adoptados en sesiones anteriores, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+XII. Emitir los acuerdos para determinar el lugar en que deban celebrarse las sesiones del Pleno, en los términos previstos en el artículo 22 de esta Ley, y
 
-XII. Las demás que establezcan las Leyes.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XIII. Las demás que establezcan las leyes.
 
 ### Capítulo Cuarto. Del Presidente del Tribunal
 
@@ -933,8 +903,6 @@ XI. Las demás que le confieran las leyes, reglamentos interiores y acuerdos gen
 
 ### Capítulo Quinto. De las Salas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 31.
@@ -944,6 +912,10 @@ El Tribunal Superior de Justicia, se integrará por las siguientes Salas:
 I. Penal y Especializada en Administración de Justicia para Adolescentes; y
 
 II. Civil-Familiar.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Las Salas tendrán su residencia oficial en Ciudad Judicial en la comunidad de Santa Anita Huiloac del Municipio de Apizaco.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1421,41 +1393,41 @@ XIV. Ejercer las demás atribuciones que les señalen otras Leyes.
 
 Los jueces civiles conocerán y resolverán:
 
-I. Las controversias civiles y mercantiles que se les presenten;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. Los asuntos de jurisdicción voluntaria de carácter civil y mercantil que le sean planteados, y
+I. Las controversias civiles que se les presenten;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Los asuntos de jurisdicción voluntaria de carácter civil que les sean planteados;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 III. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, excepto si se controvierten cuestiones relacionadas con el patrimonio de familia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 IV. De los Interdictos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 V. De la atención y trámite de los exhortos que les dirijan los Jueces del Estado, los demás jueces y tribunales de la República, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VI. Los demás asuntos que les encomienden las Leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 48 Bis.
 
-Los Juzgados de Oralidad Mercantil serán competentes para conocer y resolver los juicios orales mercantiles que se promuevan en términos del Código de Comercio y de los que deban conocer los tribunales del Estado conforme al artículo 104 fracción II de la Constitución Política de los Estados Unidos Mexicanos.
+Los Juzgados Mercantiles y de Oralidad Mercantil conocerán y resolverán:
+
+I. Las controversias mercantiles que se les presenten;
+
+II. Los asuntos de jurisdicción voluntaria de carácter mercantil que les sean planteados, y
+
+III. De aquellos asuntos que se promuevan en términos del Código de Comercio y de los que deban conocer los tribunales del Estado conforme al artículo 104 fracción II de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 49.
 
@@ -2029,7 +2001,9 @@ Cuando la licencia se otorgue por un plazo hasta de quince días naturales, no s
 
 Cuando la licencia fuere por un periodo superior a quince días naturales el Consejero será suplido interinamente por la persona que determine la autoridad que lo designó. En caso de que el Consejero a quien se le otorgue la licencia fuera el Presidente del Pleno del Consejo de la Judicatura, quien sea designado desempeñará ese cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA</small>
+
+ESTE ORDENAMIENTO.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -3764,3 +3738,31 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 273.- POR EL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL, LEY DEL CONTROL CONSTITUCIONAL, LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS, CÓDIGO DE PROCEDIMIENTOS CIVILES, LEY DE EXTINCIÓN DE DOMINIO Y LEY DEL NOTARIADO, TODAS DEL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, con las salvedades que se señalan en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones de los artículos 7, 31, 48 y 48 bis de la Ley Orgánica del Poder Judicial, 10 de la Ley del Control Constitucional del Estado de Tlaxcala y 12 de la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, entrarán en vigor una vez que el Pleno del Tribunal Superior de Justicia del Estado de Tlaxcala, emita, publique y entren en vigor los acuerdos generales necesarios para su instrumentación, sin que ello exceda del día primero de enero de dos mil diecisiete.
+
+###### ARTÍCULO TERCERO.
+
+A partir de que entren en vigor los acuerdos generales del Pleno del Tribunal Superior de Justicia del Estado de Tlaxcala a los que se hace referencia en el transitorio que antecede, la Sala Administrativa tendrá su residencia oficial en Ciudad Judicial en la comunidad de Santa Anita Huiloac del Municipio de Apizaco, y hasta en tanto acontezca lo previsto en el ARTÍCULO TERCERO transitorio del Decreto 136 publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala por el cual se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Tlaxcala y de la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
+
+###### ARTÍCULO CUARTO.
+
+Para la debida difusión de los acuerdos generales del Pleno del Tribunal Superior de Justicia del Estado a que se hace referencia en la Ley Orgánica del Poder Judicial del Estado de Tlaxcala, bastará su publicación en el Periódico Oficial del Gobierno del Estado y en los diarios de mayor circulación en la Entidad, hasta en tanto el Poder Judicial del Estado de Tlaxcala instrumente lo necesario para el funcionamiento del Boletín Judicial.
+
+###### ARTÍCULO QUINTO.
+
+Tratándose de los asuntos que se encontraban en trámite al momento de entrar en vigor la aplicación del Sistema Penal Acusatorio, las personas que intervengan en el procedimiento designarán en la primera diligencia, domicilio para recibir notificaciones dentro de la circunscripción del núcleo de población, donde resida el juzgado o Tribunal que conozca del mismo.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
