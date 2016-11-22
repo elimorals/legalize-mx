@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-el-sistema-integral-de-justicia-para-51739"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2013-11-09"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 9 de septiembre de 2006.
 
@@ -897,7 +899,9 @@ El Instituto deberá asignar un supervisor que vigile la prestación del servici
 
 La libertad asistida con arraigo domiciliario, no podrá exceder del término de un año y solo procederá en los delitos que no estén calificados como graves por esta ley u otras leyes que deban aplicar los tribunales del Estado.
 
-El instituto supervisará la aplicación de la medida, empleando medios electrónicos cuando sea posible y, en caso de incumplimiento, informará al Juez que la impuso para que haga comparecer al menor y a la persona encargada de su vigilancia y les aperciba que de reiterarse la violación, se aplicará multa de veinte a cien salarios mínimos a este último se duplicará la duración de la medida en perjuicio del menor.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+El instituto supervisará la aplicación de la medida, empleando medios electrónicos cuando sea posible y, en caso de incumplimiento, informará al Juez que la impuso para que haga comparecer al menor y a la persona encargada de su vigilancia y les aperciba que de reiterarse la violación, se aplicará multa de veinte a cien unidades de medida y actualización a este último se duplicará la duración de la medida en perjuicio del menor.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -931,9 +935,11 @@ II. La reparación del daño material y la indemnización de perjuicios derivado
 
 III. La reparación del daño moral sufrido por el ofendido o para las personas que tengan derecho a reclamarla, en el caso de que la víctima hubiese fallecido.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 116.
 
-La reparación del daño material y la indemnización de perjuicios serán fijados por el Juez, atendiendo objetivamente a las pruebas aportadas, independientemente de la cuantía que resulte. La reparación del daño moral será determinada en la sentencia, conforme el arbitrio del juzgador, quien deberá atender a los sentimientos, afectos, decoro, reputación y aspecto físico del ofendido, lesionados por el delito, así como la situación económica del responsable del daño, pero nunca podrá exceder de mil salarios mínimos vigente para el Estado de Colima.
+La reparación del daño material y la indemnización de perjuicios serán fijados por el Juez, atendiendo objetivamente a las pruebas aportadas, independientemente de la cuantía que resulte. La reparación del daño moral será determinada en la sentencia, conforme el arbitrio del juzgador, quien deberá atender a los sentimientos, afectos, decoro, reputación y aspecto físico del ofendido, lesionados por el delito, así como la situación económica del responsable del daño, pero nunca podrá exceder de mil unidades de medida y actualización.
 
 ###### Artículo 117.
 
@@ -993,9 +999,11 @@ Cuando los instrumentos u objetos pertenezcan a tercera persona y sean de uso l�
 
 Para el caso de los instrumentos u objetos decomisados, que no sean reclamados, se aplicará en lo conducente lo relativo a la Ley Para La Administración de Bienes Asegurados, Decomisados y Abandonados del Estado de Colima.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 126.
 
-El apercibimiento y la caución de no ofender, procederán de oficio en los casos a que se refiere el Artículo 98, fracción VII y la caución no podrá exceder del importe de cien salarios mínimos en el Estado de Colima.
+El apercibimiento y la caución de no ofender, procederán de oficio en los casos a que se refiere el Artículo 98, fracción VII y la caución no podrá exceder del importe de cien unidades de medida y actualización.
 
 ###### Artículo 127.
 
@@ -1069,9 +1077,9 @@ V. Recluirse a partir de las diez de la noche en su domicilio, salvo autorizaci�
 
 VI. Sujetarse a las medidas de orientación y supervisión que se le impongan.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-El beneficio a que se refiere este artículo, en todo caso se otorgará previa caución que así determine el Instituto, misma que no excederá en ningún caso y por ningún motivo, de cien unidades de salarios mínimos.
+El beneficio a que se refiere este artículo, en todo caso se otorgará previa caución que así determine el Instituto, misma que no excederá en ningún caso y por ningún motivo, de cien unidades de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1081,9 +1089,11 @@ Cuando el infractor dejare de cumplir con las obligaciones descritas en las frac
 
 Cuando el infractor viole alguna de las condiciones de la libertad condicional, el Instituto decidirá si se le apercibe por una sola vez con revocarle el beneficio en caso de reincidencia o, atendiendo a la gravedad de la violación, si deja sin efecto la libertad condicional y ordena el internamiento del menor por todo el tiempo que faltaba para el cumplimiento de la medida.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 138.
 
-Cuando la persona obligada a informar sobre la conducta del menor lo encubra o no lo presente cuando la autoridad lo solicite, se le revocará la designación y se le impondrá una multa de cincuenta a doscientos días de salario mínimo en el Estado, requiriendo al menor para que presente en el término de diez días a una nueva persona honorable y de arraigo que acepte dicha responsabilidad, bajo apercibimiento de revocarle el beneficio si no se hace la designación.
+Cuando la persona obligada a informar sobre la conducta del menor lo encubra o no lo presente cuando la autoridad lo solicite, se le revocará la designación y se le impondrá una multa de cincuenta a doscientas unidades de medida y actualización, requiriendo al menor para que presente en el término de diez días a una nueva persona honorable y de arraigo que acepte dicha responsabilidad, bajo apercibimiento de revocarle el beneficio si no se hace la designación.
 
 ###### Artículo 139.
 
@@ -1154,3 +1164,11 @@ P.O. 16 DE FEBRERO DE 2013.
 P.O. 9 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
