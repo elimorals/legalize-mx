@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2016-10-15"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -39,7 +39,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE (SIC) LOS ARTÍCULOS 33 FRACCIÓN II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O: .
+C O N S I D E R A N D O:
+
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -1983,7 +1985,9 @@ II. La demolición de construcciones u obras; que se impondrán cuando por la co
 
 III. Arresto administrativo, en los casos de infracciones que se determinen en los reglamentos municipales, conforme al artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones de este ordenamiento y de la Ley del Municipio Libre del Estado;
 
-IV. Multa por el equivalente de hasta un máximo de diez mil veces el salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV. Multa por el equivalente de hasta un máximo de diez mil unidades de medida y actualización;
 
 V. La desocupación, evacuación o cierre de casas, edificios, escuelas, zonas industriales y comerciales, establecimientos de bienes o servicios y cualquier predio que por las condiciones estructurales que presenta, pueda provocar daño a los ocupantes, usuarios, transeúntes o a la población en general;
 
@@ -1997,11 +2001,15 @@ En los casos previstos en las fracciones I y II de este artículo, será necesar
 
 La contravención a las disposiciones de esta Ley y sus reglamentos, se sancionarán en la forma siguiente:
 
-I. Las infracciones a los artículos 8, 9, 10, 13, 130 y 131 de este mismo ordenamiento se sancionarán con el equivalente de cien a cuatrocientos días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Las infracciones a los artículos 8, 9, 10, 13, 130 y 131 de este mismo ordenamiento se sancionarán con el equivalente de cien a cuatrocientos unidades de medida y actualización;
 
 II. En caso de reincidencia, se procederá a la clausura temporal de los bienes muebles e inmuebles descritos en los artículos antes mencionados, en los términos que señale el Reglamento, con excepción de centros escolares públicos y unidades habitacionales;
 
-III. En caso de incumplimiento a cualesquiera otra obligación que determine esta Ley y sus reglamentos, distinta a los establecidos en los artículos 8, 9, 10, 13, 130 y 131, se impondrá al infractor una sanción equivalente de hasta diez mil días de salario mínimo general vigente en el Estado, dependiendo de la gravedad de la misma; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. En caso de incumplimiento a cualesquiera otra obligación que determine esta Ley y sus reglamentos, distinta a los establecidos en los artículos 8, 9, 10, 13, 130 y 131, se impondrá al infractor una sanción equivalente de hasta diez mil unidades de medida y actualización, dependiendo de la gravedad de la misma; y
 
 IV. Las sanciones pecuniarias antes previstas, se duplicarán en los casos de reincidencia.
 
@@ -2132,3 +2140,11 @@ P.O. 15 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 157 POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 142; SE ADICIONAN LOS ARTÍCULOS 146 BIS Y 146 TER, TODOS ELLOS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
