@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fiscalizacion-superior-del-estado-69947"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2009-08-21"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Edición Especial al Periódico Oficial del Estado de Colima, el viernes 21 de agosto de 2009.
 
@@ -35,7 +35,9 @@ DECRETO
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 33 FRACCION II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -129,7 +131,9 @@ Cuando esta Ley no prevea plazo, el Órgano Superior podrá fijarlo y no será i
 
 Cuando derivado de la complejidad de los requerimientos de información formulados por parte del Órgano Superior y a petición de la entidad auditada, formulada dentro del plazo ordinario, se podrá prorrogar hasta 6 días hábiles, a criterio del Auditor Superior, para ser atendidos. Dicha solicitud deberá contener las circunstancias particulares que justifiquen y motive la necesidad del periodo adicional. El cual, de ser autorizado, será improrrogable.
 
-Cuando los servidores públicos o los particulares no atiendan los requerimientos a que se refiere este artículo, salvo que exista disposición legal o mandato judicial que se los impida, el Órgano Superior podrá imponerles una multa de 100 a 450 días de salario mínimo diario general vigente en el área geográfica en que se encuentra el Estado de Colima. La reincidencia se sancionará con una multa hasta del doble de la ya determinada o impuesta, sin perjuicio de que se deba atender el requerimiento respectivo y se haga referencia de la conducta en el Informe de Auditoría para la posible aplicación de sanciones administrativas conducentes.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Cuando los servidores públicos o los particulares no atiendan los requerimientos a que se refiere este artículo, salvo que exista disposición legal o mandato judicial que se los impida, el Órgano Superior podrá imponerles una multa de 100 a 450 unidades de medida y actualización. La reincidencia se sancionará con una multa hasta del doble de la ya determinada o impuesta, sin perjuicio de que se deba atender el requerimiento respectivo y se haga referencia de la conducta en el Informe de Auditoría para la posible aplicación de sanciones administrativas conducentes.
 
 También se aplicarán las multas previstas en este artículo a los terceros que contrataron obra pública, bienes o servicios mediante cualquier título legal con las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera el Órgano Superior.
 
@@ -377,7 +381,9 @@ b). En materia de responsabilidades:
 
 I.- Determinar los daños o perjuicios, o ambos, que afecten a la hacienda pública estatal, municipal, o al patrimonio de los entes públicos estatales y municipales, empresas de participación estatal, organismos públicos autónomos, fideicomisos pertenecientes a la administración pública descentralizada del Gobierno del Estado, Ayuntamientos y demás entidades, personas físicas y morales que administren, custodien y ejerzan recursos públicos;
 
-II.- Fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, cuando el monto de la multa, daño o perjuicio sea inferior o igual a mil unidades de salario mínimo general vigente, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- Fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, cuando el monto de la multa, daño o perjuicio sea inferior o igual a mil unidades de medida y actualización, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades;
 
 El fincamiento de las responsabilidades a que se refiere el párrafo anterior, se sujetarán al procedimiento previsto en esta Ley;
 
@@ -501,9 +507,11 @@ Para dar cumplimiento al párrafo anterior, el Auditor Superior del Estado o Esp
 
 El plazo a que se refiere el párrafo anterior, podrá ser prorrogado hasta por otro igual, a criterio del Auditor Superior, previa solicitud del interesado. Dicha solicitud deberá contener las circunstancias particulares que justifique y motive la necesidad del periodo adicional, el cual, de ser concedido, será improrrogable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 25.
 
-Si dentro del plazo otorgado al ente auditable, éste omite dar respuesta a la (sic) acciones, recomendaciones y observaciones formuladas, el Órgano Superior podrá aplicar a los titulares de las áreas administrativas auditadas responsables una multa de 100 a 1000 días de salario mínimo general vigente en el área geográfica en que se encuentra el Estado de Colima; además promoverá las acciones legales que correspondan y se tendrán por aceptadas las acciones, recomendaciones y observaciones respectivas.
+Si dentro del plazo otorgado al ente auditable, éste omite dar respuesta a la acciones, recomendaciones y observaciones formuladas, el Órgano Superior podrá aplicar a los titulares de las áreas administrativas auditadas responsables una multa de 100 a 1000 unidades de medida y actualización; además promoverá las acciones legales que correspondan y se tendrán por aceptadas las acciones, recomendaciones y observaciones respectivas.
 
 En el supuesto de las recomendaciones al desempeño, las entidades fiscalizadas dentro del plazo otorgado, deberán precisar al Órgano Superior las mejoras efectuadas, las acciones a realizar o, en su caso, justificar su improcedencia o las razones por las cuales no resulta factible su implementación. El Órgano Superior dará seguimiento al cumplimiento de las acciones y recomendaciones realizadas invariablemente del ejercicio en revisión.
 
@@ -655,7 +663,9 @@ Los resultados del informe de situación excepcional y, en su caso, de las sanci
 
 Se entenderá por situaciones excepcionales aquellos casos en los cuales, de la denuncia que al efecto se presente, indicios o información pública, se deduzca alguna de las circunstancias siguientes:
 
-I. Un daño patrimonial que afecte la hacienda pública, en su caso, al patrimonio de los entes públicos o de las entidades paraestatales o paramunicipales, por un monto que resulte superior 1000 salarios mínimos diarios general vigente en la zona que se encuentra ubicada el Estado de Colima;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Un daño patrimonial que afecte la hacienda pública, en su caso, al patrimonio de los entes públicos o de las entidades paraestatales o paramunicipales, por un monto que resulte superior a 1000 unidades de medida y actualización;
 
 II. Posibles actos de corrupción;
 
@@ -681,9 +691,11 @@ IV.- Análisis, consideraciones; y
 
 V.- Conclusiones.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-Si transcurrido el plazo señalado en el artículo 42 de esta Ley, la entidad fiscalizada, sin causa justificada, omite presentar el informe de situación excepcional, el Órgano Superior impondrá a los servidores públicos responsables una multa de 100 a 1000 días de salario mínimo general vigente en el área geográfica que se encuentra ubicada el Estado de Colima, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes o ejercicio de otras facultades que esta Ley le confiere. La reincidencia se sancionará con multa hasta del doble de la ya impuesta, además de que se podrá promover la destitución de los servidores públicos responsables ante las autoridades competentes.
+Si transcurrido el plazo señalado en el artículo 42 de esta Ley, la entidad fiscalizada, sin causa justificada, omite presentar el informe de situación excepcional, el Órgano Superior impondrá a los servidores públicos responsables una multa de 100 a 1000 unidades de medida y actualización, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes o ejercicio de otras facultades que esta Ley le confiere. La reincidencia se sancionará con multa hasta del doble de la ya impuesta, además de que se podrá promover la destitución de los servidores públicos responsables ante las autoridades competentes.
 
 ###### Artículo 48.
 
@@ -709,7 +721,9 @@ Lo dispuesto en el presente Capítulo, no excluye la imposición de las sancione
 
 Si de la fiscalización, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan un daño o perjuicio, o ambos, a la hacienda pública o, en su caso, al patrimonio de los entes públicos o de las entidades paraestatales, o paramunicipales, el Órgano Superior procederá a:
 
-I.- Determinar los daños y perjuicios que afecten a la hacienda pública estatal, municipal, o al patrimonio de los entes públicos estatales y municipales, empresas de participación estatal, organismos públicos autónomos, fideicomisos pertenecientes a la administración pública descentralizada del gobierno del estado, ayuntamientos y demás entidades, personas físicas y morales que administren, custodien y ejerzan recursos públicos. Fincará directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, cuando el monto de la multa, daño o perjuicio sea inferior o igual a mil unidades de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I.- Determinar los daños y perjuicios que afecten a la hacienda pública estatal, municipal, o al patrimonio de los entes públicos estatales y municipales, empresas de participación estatal, organismos públicos autónomos, fideicomisos pertenecientes a la administración pública descentralizada del gobierno del estado, ayuntamientos y demás entidades, personas físicas y morales que administren, custodien y ejerzan recursos públicos. Fincará directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, cuando el monto de la multa, daño o perjuicio sea inferior o igual a mil unidades de medida y actualización;
 
 II.- Establecer la presunta responsabilidad administrativa en que incurra (sic) los servidores públicos del Estado y Municipios; y promoverá ante las instancias competentes el afincamiento de las responsabilidades derivadas y resultantes del proceso fiscalizador;
 
@@ -761,9 +775,11 @@ Las responsabilidades pecuniarias y resarcitorias señaladas, se fincarán indep
 
 ### Capítulo III. Del Procedimiento para el Fincamiento de Responsabilidades Pecuniarias y Resarcitorias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 58.
 
-Las responsabilidades resarcitorias superiores a mil unidades de salario mínimos (sic), así como las administrativas, se tramitarán, substanciarán y resolverán, de conformidad con la Ley en materia de responsabilidades correspondiente. El Órgano Superior, en ejercicio de la facultad prevista en el artículo 33, fracción VI, de la Constitución local, procederá al fincamiento de las responsabilidades resarcitorias, que se sujetarán al procedimiento siguiente:
+Las responsabilidades resarcitorias superiores a mil unidades de medida y actualización, así como las administrativas, se tramitarán, substanciarán y resolverán, de conformidad con la Ley en materia de responsabilidades correspondiente. El Órgano Superior, en ejercicio de la facultad prevista en el artículo 33, fracción VI, de la Constitución local, procederá al fincamiento de las responsabilidades resarcitorias, que se sujetarán al procedimiento siguiente:
 
 I.- Se citará al presunto o presuntos responsables a una audiencia para que comparezcan personalmente o, tratándose de personas morales, a través de su representante legal; asimismo, para que manifiesten lo que a su interés convenga, ofrezcan pruebas y formulen alegatos en la audiencia respectiva relacionados con los hechos que se les imputan y que se les dieron a conocer en el citatorio respectivo;
 
@@ -825,9 +841,11 @@ Las multas, sanciones resarcitorias y pecuniarias a que se refiere la presente L
 
 La Secretaría de Finanzas del Gobierno del Estado de Colima y las tesorerías municipales deberá informar al Órgano Superior, los trámites que se vayan realizando para la ejecución de los cobros respectivos y el monto recuperado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 68.
 
-El Órgano Superior podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni exista dolo, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de 100 veces el salario mínimo diario general vigente en la zona geográfica en que se encuentra ubicado el Estado de Colima. Los infractores no podrán recibir este beneficio dos veces y se harán acreedores a un apercibimiento por escrito.
+El Órgano Superior podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni exista dolo, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de 100 unidades de medida y actualización. Los infractores no podrán recibir este beneficio dos veces y se harán acreedores a un apercibimiento por escrito.
 
 Cuando el presunto responsable cubra, antes de que se emita la resolución, a satisfacción del Órgano Superior, el importe de los daños o perjuicios, o ambos, causados a la Hacienda Pública o, en su caso, al patrimonio de los entes públicos estatales o municipales o de las entidades paraestatales o paramunicipales, con su actualización correspondiente, el Órgano Superior sobreseerá el procedimiento resarcitorio, sin menoscabo de otros procedimientos incoados por motivo del proceso sancionador y de otras responsabilidades administrativas derivadas del (sic) la acción u omisión generadora del importe reintegrado.
 
@@ -1137,7 +1155,7 @@ VI.- Solicitar la presencia de los representantes de las entidades fiscalizadas 
 
 VII.- Elaborar el proyecto de resultados y de observaciones que se deriven de las auditorías que se practiquen, incluyendo recomendaciones y acciones promovidas, las cuales deberán ser remitidas al director del área responsable;
 
-VlII.- Participar en los procedimientos para el fincamiento de las responsabilidades resarcitorias, en los términos que establezca el Reglamento Interior;
+VIII.- Participar en los procedimientos para el fincamiento de las responsabilidades resarcitorias, en los términos que establezca el Reglamento Interior;
 
 IX.- Participar en recurso de reconsideración interpuesto en contra de las sanciones y resoluciones que emitan conforme a esta Ley;
 
@@ -1289,4 +1307,14 @@ Por lo tanto mando de imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, al día 21 del mes de agosto del año dos mil nueve.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JESÚS SIlVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica. LA SECRETARIA DE FINANZAS, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ. Rúbrica.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica. LA SECRETARIA DE FINANZAS, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
