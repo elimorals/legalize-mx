@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-obras-publicas-26796"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-16"
-last_updated: "2015-06-27"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE OBRAS PÚBLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 
@@ -617,9 +617,13 @@ XI. Se acepte la ejecución de los trabajos a título de dación en pago.
 
 Sin perjuicio de lo señalado en el artículo anterior, cuando por razón del monto de la obra resulte inconveniente llevar a cabo el procedimiento a que se refiere el artículo 28 de esta Ley por el costo que éste representa, las Dependencias y Entidades podrán contratar sin ajustarse a dicho procedimiento, siempre que el monto objeto del contrato no exceda de los límites a que se refiere este artículo y se satisfagan los requisitos que el mismo señala.
 
-Se podrá proceder de conformidad con lo establecido en el párrafo anterior, si el monto total de la obra no excede de diez mil veces el salario mínimo general diario vigente en la entidad.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Si el importe de la obra supera los montos máximos a que se refiere el párrafo anterior, pero no excede de veinte mil veces el salario mínimo general diario vigente en el Estado, el contrato relativo podrá adjudicarse a la persona que reúna las condiciones necesarias para la realización de la obra, previa convocatoria que se extenderá a, cuando menos, tres personas que cuenten con la capacidad de respuesta y los recursos técnicos, económicos, financieros y demás que sean necesarios para la ejecución de la obra.
+Se podrá proceder de conformidad con lo establecido en el párrafo anterior, si el monto total de la obra no excede de diez mil unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Si el importe de la obra supera los montos máximos a que se refiere el párrafo anterior, pero no excede de veinte mil unidades de medida y actualización, el contrato relativo podrá adjudicarse a la persona que reúna las condiciones necesarias para la realización de la obra, previa convocatoria que se extenderá a, cuando menos, tres personas que cuenten con la capacidad de respuesta y los recursos técnicos, económicos, financieros y demás que sean necesarios para la ejecución de la obra.
 
 Para los efectos de aplicación de este precepto, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que se establecen en el presente artículo, en la inteligencia de que, en ningún caso, el importe total de una obra podrá ser fraccionada para que quede comprendida en los supuestos de este artículo.
 
@@ -945,7 +949,9 @@ V. Comprar equipos, instrumentos, elementos prefabricados terminados, materiales
 
 a) Condiciones ventajosas del mercado en cuanto a calidad, precio, marca, garantía de servicio;
 
-b) Obtener un mínimo de dos cotizaciones presentadas por proveedores del ramo, solamente cuando el valor del bien o servicio rebase los trescientos días de salario mínimo general vigente en el Estado y someterlo a la opinión del comité de análisis y evaluación de la Dependencia o Entidad, a fin de seleccionar la mejor propuesta; y
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+b) Obtener un mínimo de dos cotizaciones presentadas por proveedores del ramo, solamente cuando el valor del bien o servicio rebase las trescientas unidades de medida y actualización y someterlo a la opinión del comité de análisis y evaluación de la Dependencia o Entidad, a fin de seleccionar la mejor propuesta; y
 
 c) El uso que se dará al bien o servicio de que se trate, así como definir la obra en que se utilizará.
 
@@ -997,9 +1003,11 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 77.
 
-Los licitantes o contratistas que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría o el órgano de control, en su caso, con multa de veinte hasta cien veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de la infracción.
+Los licitantes o contratistas que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría o el órgano de control, en su caso, con multa de veinte hasta cien unidades de medida y actualización.
 
 ###### ARTÍCULO 78.
 
@@ -1170,3 +1178,11 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DECRETO NO. 133 POR EL QUE “SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
