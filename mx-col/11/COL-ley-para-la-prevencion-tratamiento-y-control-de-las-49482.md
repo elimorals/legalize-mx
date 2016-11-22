@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2014-08-23"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -589,9 +589,11 @@ La secretaría de Salud será la autoridad competente para instaurar el procedim
 
 Para supervisar la observancia de la presente ley, los responsables de los centros o establecimientos de tratamiento y rehabilitación contra las adicciones, tienen la obligación de permitir el acceso y de mostrar la documentación inherente al funcionamiento de los mismos, así como de los programas de tratamiento.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 77.
 
-Además de las aplicaciones de la clausura de la actividad o servicio que se presente en el inmueble del establecimiento infractor, se podrán aplicar sanciones económicas en razón de la gravedad de la infracción por un monto de diez a quinientas veces el salario mínimo, según el procedimiento a que hace referencia el segundo párrafo del artículo 75 del presente ordenamiento.
+Además de las aplicaciones de la clausura de la actividad o servicio que se presente en el inmueble del establecimiento infractor, se podrán aplicar sanciones económicas en razón de la gravedad de la infracción por un monto de diez a quinientas veces en unidad de medida y actualización, según el procedimiento a que hace referencia el segundo párrafo del artículo 75 del presente ordenamiento.
 
 T R A N S I T O R l O S:
 
@@ -638,3 +640,11 @@ QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realiza
 P.O. 23 DE AGOSTO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
