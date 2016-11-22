@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2016-09-19"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -271,9 +271,17 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIV. Promover, impulsar y capacitar a los habitantes del Estado en el cuidado de su salud;
 
-XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-XVI. Las demás atribuciones que determinen las disposiciones legales aplicables.
+XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XVI. Impulsar todo tipo de acciones tendientes a fomentar la cultura de donación de sangre, e informar a los ciudadanos sobre los beneficios que conlleva donar sangre tanto para el beneficiario como para el donante; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Las demás atribuciones que determinen las disposiciones legales aplicables.
 
 ###### ARTICULO 11.
 
@@ -1631,7 +1639,9 @@ ARTICULO 154 BIS F.- Los establecimientos de salud en el Estado autorizados por 
 
 Los establecimientos informarán al Registro Estatal de Trasplantes de las acciones que realicen, así como de los donadores, receptores y profesionales que intervengan en los trasplantes, en los términos, forma y periodicidad que señale el Centro Estatal de Trasplantes.
 
-ARTICULO 154 BIS G.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+ARTÍCULO 154 BIS G.- La donación de sangre es voluntaria y deberá realizarse en los establecimientos de salud públicos y privados autorizados por la Secretaría, de conformidad a las disposiciones legales y las normas oficiales expedidas para tal efecto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -3116,3 +3126,11 @@ B.O. 19 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 91, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA Y DE LA LEY DEL SERVICIO CIVIL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
