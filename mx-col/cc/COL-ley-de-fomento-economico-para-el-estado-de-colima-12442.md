@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2013-11-30"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -179,7 +179,7 @@ c) En programas de crecimiento, consolidación y diversificación de proveedores
 
 d) De instrumentación de programas permanentes de investigación y de avance científico o tecnológico;
 
-e) De promoción de una cultura de la calidad mediante acciones de normalización, certificación y verificación; y (sic)
+e) De promoción de una cultura de la calidad mediante acciones de normalización, certificación y verificación; y
 
 f) De impulso, diversificación e incremento de programas de inversión en la capacitación y adiestramiento de recursos humanos
 
@@ -693,13 +693,17 @@ VI.- Omitir la presentación del informe de cambio o variación de su calidad de
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas en los siguientes términos:
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-I.- Hasta con 1,000 unidades de salario mínimo diario vigente en el Estado, en los casos previstos en las fracciones I, III, IV y VI.
+I.- Hasta con 1,000 unidades de medida y actualización, en los casos previstos en las fracciones I, III, IV y VI.
 
-II.- Hasta con 500 unidades de salario mínimo diario vigente en el Estado, en los casos previstos en la fracción II; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-III.- Hasta con 250 unidades de salario mínimo diario vigente en el Estado, en el caso de lo previsto en la fracción V.
+II.- Hasta con 500 unidades de medida y actualización, en los casos previstos en la fracción II; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III.- Hasta con 250 unidades de medida y actualización, en el caso de lo previsto en la fracción V.
 
 Independientemente de las sanciones administrativas establecidas en las fracciones anteriores, la Secretaría podrá determinar la suspensión o cancelación de los incentivos o apoyos que hubiere otorgado a la empresa beneficiada.
 
@@ -788,3 +792,11 @@ P.O. 17 DE AGOSTO DE 2013.
 P.O. 30 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
