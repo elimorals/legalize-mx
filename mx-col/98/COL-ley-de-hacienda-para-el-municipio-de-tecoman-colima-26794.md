@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-tecoman-colima-26794"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2016-11-12"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN, ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -55,11 +55,11 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMAN
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1º.
 
-El Municipio de Tecomán, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones, aportaciones y recursos transferidos derivados de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
+El Municipio de Tecomán, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en UMA, de la zona económica a que corresponde el municipio, así como las participaciones, aportaciones y recursos transferidos derivados de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
 
 ###### ARTICULO 2º.
 
@@ -91,7 +91,9 @@ Para efectos de la presente ley, se entiende por:
 
 I.- Ley de Catastro, a la Ley del Instituto para el Registro del Territorio del Estado de Colima;
 
-II.- Unidades de salario, a las unidades de salario mínimo diario vigente en la zona económica del municipio que se determine en cada caso;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II.- UMA, el valor diario de la unidad de medida y actualización;
 
 III.- Registro, al Registro Público de la Propiedad y del Comercio del Estado de Colima;
 
@@ -225,13 +227,17 @@ III.- Para los predios rústicos, se aplicará la siguiente:
 
 Para la determinación del impuesto aplicando las tarifas previstas en las fracciones I y III de este artículo, se sujetará al siguiente procedimiento:
 
-1.- Se ubicará la base gravable del predio de que se trate en el rango de valores de la columna denominada "BASE GRAVABLE", convirtiendo a pesos la cuota fija expresada en salarios mínimos.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+1.- Se ubicará la base gravable del predio de que se trate en el rango de valores de la columna denominada "BASE GRAVABLE", convirtiendo a pesos la cuota fija expresada en UMA.
 
 2.- La cantidad que exceda la base gravable del límite inferior del rango de valores correspondiente, se multiplicará por la tasa que aparece en la última columna.
 
 3.- Se sumarán los resultados obtenidos de ejecutar los pasos 1 y 2, siendo el producto de dicha suma, el impuesto anual a pagar.
 
-IV.- Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de tres unidades de salario.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV.- Tratándose de parcelas ejidales, se causará un impuesto anual por derecho parcelario de 3 UMA.
 
 En el caso de parcelas ejidales afectadas por el levantamiento de predios efectuado por el INEGI, las diferentes fracciones de un contribuyente se sumarán generando el impuesto equivalente a una parcela ejidal. Este impuesto deberá cubrirse durante el primer bimestre del año.
 
@@ -269,9 +275,9 @@ No quedan comprendidas en esta disposición las multas que se impongan cuando se
 
 Los notarios públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas cuyo objeto sean predios ubicados en el municipio, deberán exigir al interesado que acredite estar al corriente en el cumplimiento de sus obligaciones fiscales relacionadas con este impuesto.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Los organismos públicos descentralizados del Gobierno Federal o Estatal, que tengan como objeto la regularización de la tenencia de la tierra, para autorizar en forma definitiva las escrituras que expidan en cumplimiento de su objeto, se encontraran exentos de la presentación del recibo de pago del impuesto predial, al inscribir una transmisión patrimonial ante la autoridad municipal correspondiente siempre que el valor catastral no sea mayor a siete mil quinientas unidades de salario mínimo diario vigente en la entidad, sin que esto exima al contribuyente del pago de estos impuestos, quedando a salvo los derechos de la autoridad municipal, para requerir el pago del impuesto predial regularizado y sus accesorios al poseedor del predio.
+Los organismos públicos descentralizados del Gobierno Federal o Estatal, que tengan como objeto la regularización de la tenencia de la tierra, para autorizar en forma definitiva las escrituras que expidan en cumplimiento de su objeto, se encontraran exentos de la presentación del recibo de pago del impuesto predial, al inscribir una transmisión patrimonial ante la autoridad municipal correspondiente siempre que el valor catastral no sea mayor a siete mil quinientas UMA, sin que esto exima al contribuyente del pago de estos impuestos, quedando a salvo los derechos de la autoridad municipal, para requerir el pago del impuesto predial regularizado y sus accesorios al poseedor del predio.
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
@@ -279,11 +285,9 @@ Los organismos públicos descentralizados del Gobierno Federal o Estatal, que te
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
+Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de medida y actualización, en predios urbanos y 3 unidades de medida y actualización en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra la UMA, general durante el ejercicio correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -297,11 +301,9 @@ En los casos en que el contribuyente sea de nacionalidad mexicana y acredite est
 
 Dicho beneficio no será aplicable, si la residencia del contribuyente se constituye en inmuebles donde se presten servicios de hospedaje, alojamiento y albergue temporal de personas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
-Si al efectuar el cálculo del beneficio que se menciona en el párrafo antepenúltimo, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
+Si al efectuar el cálculo del beneficio que se menciona en el párrafo antepenúltimo, da como resultado una cantidad menor a 2 unidades de medida y actualización, el contribuyente deberá pagar el importe de las dos UMA.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -461,11 +463,9 @@ II. En las adjudicaciones en juicios sucesorios y en remates judiciales;
 
 III. En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
-IV. En los casos en que el sujeto del impuesto sea madre soltera jefa de familia de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, siempre y cuando la base del impuesto sea menor a 4400 unidades de salario. La Tesorería Municipal emitirá los requisitos para acreditar las condicionantes señaladas.
+I. (SIC) En los casos en que el sujeto del impuesto sea madre soltera jefa de familia de nacionalidad mexicana, con hijos menores de edad que dependan económicamente de ella o que posean una discapacidad, siempre y cuando la base del impuesto sea menor a 4400 UMA. La Tesorería Municipal emitirá los requisitos para acreditar las condicionantes señaladas.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -631,7 +631,45 @@ Este impuesto se causará y pagará de conformidad a lo siguiente:
 
 I.- Los giros que a continuación se mencionan, se gravarán según el monto de sus ingresos por concepto de admisiones, en los porcentajes indicados en cada uno:
 
-(VÉASE ARCHIVO ANEXO)
+1.- Box y lucha libre 5
+
+2.- Teatros 8
+
+3.- Corridas de toros 10
+
+4.- Charreadas y jaripeos con presentaciones artísticas 10
+
+5.- Circos y carpas 8
+
+6.- Presentaciones artísticas 8
+
+7.- Espectáculos deportivos 5
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+8.- Palenques de gallos sin otro espectáculo público 4
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+9.- Palenques de gallos con otro espectáculo público 6 a 8
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+10.- Cualquier otro espectáculo público por el que se cobren derechos de admisión 5 a 8
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+11.- Cualquier otro espectáculo público por el que se cobre derechos de admisión a excepción de los palenques de gallos y cine 10
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I.- (SIC) Cuando no sea posible controlar los ingresos, el impuesto se gravará en UMA:
+
+a) Giros que realicen actividades en forma permanente, mensualmente 34.00
+
+b)
+
+b) Giros que realicen actividades en forma eventual, diariamente 10.00
 
 ###### ARTICULO 47.
 
@@ -879,7 +917,143 @@ Para la apertura de nuevos establecimientos se requerirá tener previamente la l
 
 Los derechos consignados en la presente sección se pagarán, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con las siguientes tarifas:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+a) Por la expedición de licencias de funcionamiento, pagarán anualmente en UMA, por cada una:
+
+1.- Abarrotes o minisuper con venta de cerveza en zona urbana 30.00
+
+2.- Abarrotes o minisuper con venta de cerveza, en zona rural 25.00
+
+3.- Agencia 1,000.00
+
+4.- Autoservicio 200.00
+
+5.- Bar 400.00
+
+6.- Birriería con venta de cerveza 50.00
+
+7.- Cabaret 500.00
+
+8.- Cenaduría con venta de cerveza 50.00
+
+9.- Centro social familiar 300.00
+
+10.- Centro nocturno con baile en pasarela 1,000.00
+
+11.- Centro nocturno 500.00
+
+12.- Casino club social o similares 100.00
+
+13.- Depósito de cerveza 75.00
+
+14.- Depósito de cerveza, vinos y licores 300.00
+
+15.- Discoteca 1,000.00
+
+16.- Fonda con venta de cerveza con alimentos 40.00
+
+17.- Hotel de 5 y 4 estrellas con restaurante bar 300.00
+
+18.- Hotel de 3 estrellas con restaurante bar 200.00
+
+19.- Marisquería con venta de cerveza con alimentos 75.00
+
+20.- Motel 400.00
+
+21.- Pizzería con venta de cerveza 150.00
+
+22.- Restaurante “A" con venta de cerveza, vinos y licores 200.00
+
+23.- Restaurante “B” con venta de cerveza y vinos de mesa 60.00
+
+24.- Restaurante “C" con venta de cerveza 50.00
+
+25.- Restaurante bar con venta de cerveza, vinos y licores 300.00
+
+26.- Enramadas 125.00
+
+27.- Salón para fiestas y/o baile zona urbana 200.00
+
+28.- Salón para fiestas y/o baile en zona rural 50.00
+
+29.- Taquería con venta de cerveza en zona urbana 50.00
+
+30.- Taquería con venta de cerveza en zona rural 25.00
+
+31.- Depósito de cerveza en zona rural 50.00
+
+32.- Depósito de cerveza, vinos y licores en zona rural 100.00
+
+33.- Plaza de toros:
+
+a) Tecomán 200.00
+
+b) Zona rural 100.00
+
+34.- Menuderías 20.00
+
+35.- Cantinas 80.00
+
+36.- Parián 50.00
+
+37.- Restaurant peña 100.00
+
+38.- Restaurant de 24 hrs. 500.00
+
+39.- Expendio de bebidas preparadas para llevar 70.00
+
+40.- Casa de huéspedes 90.00
+
+41.- Billares 60.00
+
+42.- Tiendas departamentales 1000.00
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+43.- Tiendas de conveniencia 150.00 a 200.00
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+44.- Venta de Ponche 26.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+45.- Otros giros no especificados 25.00 a 1000.00
+
+b) Por el refrendo anual de licencias de funcionamiento se pagará el 50 por ciento del costo total por expedición de la licencia correspondiente, teniendo como costo el 50 por ciento de lo señalado en el inciso a) de este mismo artículo.
+
+c) Por cambio de propietario las personas físicas o morales deberán solicitar la expedición de una nueva licencia, teniendo como costo el 50 por ciento de lo señalado en el inciso a) de este artículo.
+
+d) Por el cambio de domicilio, por cada vez, se pagará el 25% de las tarifas señaladas en el inciso a) de este artículo.
+
+e) Por la expedición de permisos para el funcionamiento temporal de establecimientos en los que se expendan o consuman bebidas alcohólicas, por día, considerando el giro correspondiente de 2.00 a 15.00
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+f) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que se expendan o consuman bebidas alcohólicas, se sujetará a las disposiciones de la ley y reglamentación correspondiente en la materia. Por cada hora se cobrará la cuota en UMA de 10.00 a 30.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+g) Por la expedición de permisos para la realización de eventos sociales, pagarán en UMA por cada vez:
+
+Evento particular en zona urbana 5.00
+
+Evento particular en zona rural 3.00
+
+Noche disco en la zona urbana 8.00
+
+Noche disco en la zona rural 4.00 a 7.00
+
+Cena baile (organizaciones y clubes sociales) 1.00 a 10.00
+
+Baile en zona rural 10.00 a 15.00
+
+Evento promocionales para establecimientos comerciales 4.00 a 30.00
+
+Otros no especificados 1.00 a 30.00
+
+h) Por la reposición de la licencia municipal se pagará el 50 por ciento de las tarifas señaladas en el inciso b).
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -961,13 +1135,17 @@ Los montos establecidos para que la dependencia municipal competente otorgue las
 
 I.- Por el dictamen del informe de factibilidad ambiental para:
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 a) Obras o actividades con inversión menor de
 
-650.00 unidades de salario 0.00
+650.00 0.00
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 b) Obras o actividades con inversión mayor de
 
-650.00 unidades de salario
+650.00 UMA
 
 1.- Por la recepción y evaluación 20.00
 
@@ -1061,11 +1239,13 @@ Por los conceptos a que se refiere esta fracción, las personas mayores de 60 a�
 
 VII.- Por el uso de la vía pública de puestos semifijos y ambulantes que se instalen en la misma, durante el desarrollo de festivales, fiestas patronales, desfiles y eventos especiales, diariamente, por metro lineal de 0.20 a 2.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 133 PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2016, PÁGINA 137.]</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 5.00
+VIII. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías o áreas públicas urbanas del municipio, pagarán mensualmente:
+
+a) … (sic)
 
 IX.- Por el uso y estacionamiento particular o comercial en la vía pública por metro y mensual 1.50
 
@@ -1073,13 +1253,19 @@ X.- Por el uso de la vía pública para negocios establecidos, por metro y mensu
 
 XI.- Por el uso de la vía pública (materiales para construcción, escombro, cascajo, grava, arena, piedra, etc.), se deberá pagar diariamente y por metro lineal 0.50 a 1.00
 
-XII.- Las personas físicas o morales que instalen o tengan instalados postes en las vías o áreas públicas urbanas y rurales del municipio, pagarán en unidades de salario anualmente 0.03
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-XIII.- Las personas físicas o morales que instalen o tengan instalados cables de conducción de señal de televisión en las vías o áreas públicas urbanas y rurales del municipio, pagaran en unidades de salarios anualmente:
+XII.- Las personas físicas o morales que instalen o tengan instalados postes en las vías o áreas públicas urbanas y rurales del municipio, pagarán en UMA anualmente 0.03
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XIII.- Las personas físicas o morales que instalen o tengan instalados cables de conducción de señal de televisión en las vías o áreas públicas urbanas y rurales del municipio, pagaran en unidades de UMA anualmente:
 
 a) Por metro lineal 0.03
 
-XIV.- Las personas físicas o morales que instalen o tengan instalados cables de fibra óptica con cualquier fin en las vías o áreas públicas urbanas y rurales del municipio se pagarán en unidades de salarios, anualmente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XIV.- Las personas físicas o morales que instalen o tengan instalados cables de fibra óptica con cualquier fin en las vías o áreas públicas urbanas y rurales del municipio se pagarán en unidades de medida y actualización, anualmente:
 
 a) Por metro lineal 0.03
 
@@ -1171,9 +1357,11 @@ Las personas a quienes se les presten servicios en los casos que se mencionan en
 
 (VÉASE ARCHIVO ANEXO)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 99.
 
-Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos unidades de salario, se cobrará esta cantidad.
+Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos unidades de medida y actualización, se cobrará esta cantidad.
 
 Además de los panteones municipales, las inhumaciones de cadáveres podrán efectuarse en los panteones particulares cuyo funcionamiento hubiese sido autorizado por el Ayuntamiento en los términos de la Ley del Municipio Libre.
 
@@ -1646,3 +1834,11 @@ P.O. 12 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 170 SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 108 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMÁN”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
