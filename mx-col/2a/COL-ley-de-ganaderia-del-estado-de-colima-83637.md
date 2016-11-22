@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ganaderia-del-estado-de-colima-83637"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-12"
-last_updated: "2011-11-12"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE GANADERIA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de noviembre de 2011.
 
@@ -143,7 +143,7 @@ XXIV. Ganado orejano: El que no cuenta con datos de identificación de su propie
 
 XXV. Ganado trasherrado: Es aquel al que se le ha sobrepuesto una marca de herrar sobre la que ya ostentaba o aquel cuya marca ha sido alterada o modificada;
 
-XXVI. Ganado traseñalado: Es aquel al que se le ha aplicado una señal de sangre diferente a la aplicada originalmente o al que se le han (sic) aplicado cortadas o incisiones para modificar su señal de sangre original;
+XXVI. Ganado traseñalado: Es aquel al que se le ha aplicado una señal de sangre diferente a la aplicada originalmente o al que se le han aplicado cortadas o incisiones para modificar su señal de sangre original;
 
 XXVII. Granja avícola: Es el establecimiento físico en que se desarrollan la producción y explotación de las aves;
 
@@ -439,7 +439,7 @@ Las personas físicas o morales que no realicen el trámite de renovación estab
 
 ###### ARTÍCULO 28.
 
-Toda persona física o moral que se dedique a la movilización y comercialización de ganado, productos y subproductos de las diversas especies mayores y menores; están obligadas (sic) a solicitar a la Secretaría, el medio de identificación a utilizar en sus actividades comerciales, mismo que se le expedirá por ésta con un número de registro, así como una constancia y credencial de introductor o comercializador para el ejercicio comercial en actividades pecuarias en el Estado.
+Toda persona física o moral que se dedique a la movilización y comercialización de ganado, productos y subproductos de las diversas especies mayores y menores; están obligadas a solicitar a la Secretaría, el medio de identificación a utilizar en sus actividades comerciales, mismo que se le expedirá por ésta con un número de registro, así como una constancia y credencial de introductor o comercializador para el ejercicio comercial en actividades pecuarias en el Estado.
 
 ###### ARTÍCULO 29.
 
@@ -609,7 +609,9 @@ En todos los documentos en que se haga constar una operación de compra-venta, d
 
 Comete el delito de robo de ganado, quien se apodere de uno o más semovientes ajenos, de cualquiera de las especies de Ganado Mayor o Ganado Menor A, señaladas por el artículo 4º de esta Ley, sin el consentimiento de quien pueda legalmente otorgarlo conforme a este mismo ordenamiento.
 
-Quien cometa el delito de robo de ganado, será sancionado con pena de cinco a quince años de prisión y con una multa de 100 a 200 unidades de salario mínimo vigente en la entidad.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Quien cometa el delito de robo de ganado, será sancionado con pena de cinco a quince años de prisión y con una multa de 100 a 200 unidades de medida y actualización.
 
 ###### ARTÍCULO 52.
 
@@ -1247,27 +1249,49 @@ Las infracciones a lo dispuesto por esta Ley y, demás disposiciones que emanen 
 
 Se impondrá a las personas físicas o morales, las sanciones pecuniarias siguientes:
 
-I. Al (sic) quien no manifieste el ejercicio de la explotación pecuaria en los términos de la Ley, se le impondrá multa equivalente de 50 a 100 días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. Al (sic) quien falsifique o altere el documento de transmisión de propiedad o guía de tránsito, se le impondrá una multa equivalente de 100 a 200 días de salario mínimo;
+I. A quien no manifieste el ejercicio de la explotación pecuaria en los términos de la Ley, se le impondrá multa equivalente de 50 a 100 unidades de medida y actualización;
 
-III. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la Ley, se harán acreedores a una multa equivalente de 100 a 200 días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV. Al transportador de cualquier especie animal productiva que no se detenga para su revisión correspondiente en los puntos de verificación interna fitozoosanitaria, se le impondrá una multa equivalente de 100 a 200 días de salario mínimo;
+II. Al (sic) quien falsifique o altere el documento de transmisión de propiedad o guía de tránsito, se le impondrá una multa equivalente de 100 a 200 unidades de medida y actualización;
 
-V. A quien se le detenga con animales orejanos o mostrencos se hará acreedor a una multa equivalente de 100 a 300 días de salario mínimo, y se hará la denuncia en forma inmediata ante las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-VI. A quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de 100 a 200 días de salario mínimo; dicha multa se aumentará a 250 días de salario mínimo en el caso de ganado mayor;
+III. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la Ley, se harán acreedores a una multa equivalente de 100 a 200 unidades de medida y actualización;
 
-VII. Al que transporte productos y subproductos de origen pecuario sin guía de tránsito o no haga alto obligatorio en cualquier punto de verificación interna fitozoosanitario, se le impondrá una multa equivalente de 200 a 500 días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Al propietario o usuario que no construya o no dé mantenimiento a las cercas de los terrenos utilizados como agostaderos y, con motivo de ello, se introduzca ganado a los predios ganaderos vecinos ocasionando daños, se le impondrá una multa equivalente de 35 a 50 días de salario mínimo;
+IV. Al transportador de cualquier especie animal productiva que no se detenga para su revisión correspondiente en los puntos de verificación interna fitozoosanitaria, se le impondrá una multa equivalente de 100 a 200 unidades de medida y actualización;
 
-IX. A la persona que ordene el transporte de animales afectados por enfermedad infectocontagiosa se le aplicará una multa equivalente de 500 a 1000 días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-X. Al que llevare a cabo, dolosamente, la compra-venta de cualquier tipo de ganado afectado por enfermedad infectocontagiosa, se le aplicará una multa equivalente de 200 a 300 días de salario mínimo;
+V. A quien se le detenga con animales orejanos o mostrencos se hará acreedor a una multa equivalente de 100 a 300 unidades de medida y actualización, y se hará la denuncia en forma inmediata ante las autoridades correspondientes;
 
-XI. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de 100 a 200 días de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+VI. A quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de 100 a 200 unidades de medida y actualización; dicha multa se aumentará a 250 unidades de medida y actualización en el caso de ganado mayor;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+VII. Al que transporte productos y subproductos de origen pecuario sin guía de tránsito o no haga alto obligatorio en cualquier punto de verificación interna fitozoosanitario, se le impondrá una multa equivalente de 200 a 500 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Al propietario o usuario que no construya o no dé mantenimiento a las cercas de los terrenos utilizados como agostaderos y, con motivo de ello, se introduzca ganado a los predios ganaderos vecinos ocasionando daños, se le impondrá una multa equivalente de 35 a 50 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IX. A la persona que ordene el transporte de animales afectados por enfermedad infectocontagiosa se le aplicará una multa equivalente de 500 a 1000 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+X. Al que llevare a cabo, dolosamente, la compra-venta de cualquier tipo de ganado afectado por enfermedad infectocontagiosa, se le aplicará una multa equivalente de 200 a 300 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XI. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de 100 a 200 unidades de medida y actualización;
 
 XII. A las organizaciones ganaderas constituidas en la entidad, cuando no proporcionen o se nieguen a proporcionar la información solicitad (sic) por la autoridad competente de que se trate;
 
@@ -1275,9 +1299,13 @@ XIII. A los inspectores de ganadería al incurrir en otorgamiento ilícito de pe
 
 XIV. A los expeditores que otorguen guías, facturas y demás documentos a que se refiere esta Ley, sin cumplir con los requisitos enunciados en la misma, serán suspendidos de sus funciones mientras tanto no sea comprobada la responsabilidad incurrida.
 
-Los casos previstos en las fracciones XII, XIII y XIV del presente artículo, serán sancionados con una multa de 100 a 1000 salarios mínimos, tomando en consideración la falta en que se incurra.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, deberá entenderse el vigente en el Estado al momento de cometerse la infracción.
+Los casos previstos en las fracciones XII, XIII y XIV del presente artículo, serán sancionados con una multa de 100 a 1000 unidades de medida y actualización, tomando en consideración la falta en que se incurra.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos de lo dispuesto en el presente artículo, por Unidad de Medida y Actualización, se entiende al valor diario de las unidades de medida y actualización.
 
 En caso de reincidencia en la comisión de infracciones o faltas a que alude el presente artículo, la sanción pecuniaria será aumentada en un 100%.
 
@@ -1350,3 +1378,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 10 del mes de noviembre del año dos mil once.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, C. JOSÉ VERDUZCO MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
