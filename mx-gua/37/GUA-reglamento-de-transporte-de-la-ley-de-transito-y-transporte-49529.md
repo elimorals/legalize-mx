@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transporte-de-la-ley-de-transito-y-transporte-495
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2008-12-23"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE TRANSPORTE DE LA LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPORTE DE LA LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -2360,3 +2362,59 @@ RICARDO TORRES ORIGEL.
 P.O. 8 DE ABRIL DE 2008.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 175, MEDIANTE EL CUAL, SE EXPIDE EL REGLAMENTO DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento de Transporte
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Transporte de la Ley de Tránsito y Transporte del Estado de Guanajuato, contenido en el Decreto Gubernativo número 263, publicado en el Periódico Oficial del Gobierno del Estado número 34 Cuarta Parte, el 28 de febrero de 2006.
+
+Abrogación del Reglamento de Tránsito
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento de Tránsito de la Ley de Tránsito y Transporte del Estado de Guanajuato, contenido en el Decreto Gubernativo número 262, publicado en el Periódico Oficial del Gobierno del Estado número 34 Cuarta Parte, el 28 de febrero de 2006.
+
+Asuntos en trámite
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que actualmente estén pendientes de resolver bajo al amparo de los reglamentos de Transporte, y de Tránsito, ambos de la Ley de Tránsito y Transporte del Estado de Guanajuato, se tramitarán con base (sic) reglamentos que se abrogan, hasta su debida conclusión.
+
+Concesionarios del servicio público de transporte
+
+###### ARTÍCULO QUINTO.
+
+Todas las referencias a los permisionarios del servicio público de transporte de las modalidades contempladas en el artículo 122 de la Ley fracción I inciso d) y Fracción II, se entenderán realizadas para las personas que actualmente prestan el servicio a través de una concesión.
+
+Porcentajes para la distribución de recurso obtenidos de la enajenación de vehículos abandonados
+
+###### ARTÍCULO SEXTO.
+
+Los porcentajes para la distribución de recursos obtenidos con la enajenación de los vehículos, de conformidad con el artículo 221 de la Ley, será:
+
+I. A la Secretaría de Finanzas, Inversión y Administración y los Municipios para el pago en su caso de la infracción que originó el depósito y demás adeudos fiscales generados el 10 %;
+
+II. Al pago de los adeudos que los particulares tengan con los permisionarios de los depósitos por concepto de los servicios prestados por la guarda y custodia del vehículo y demás maniobras de arrastre, salvamento y cualquier otra anexidad 65%;
+
+III. Al pago de los bienes o adeudos que no sean susceptibles de devolución a favor de quienes legalmente les sea autorizada la misma 5%, y
+
+IV. Al Instituto para el desarrollo del Sistema Estatal de Ciclovías 20%.
+
+Los porcentajes señalados serán revisados de manera coordinada entre la Secretaría de Finanzas, Inversión y Administración y el Instituto, cuando menos una vez al año a partir del año siguiente al que entre en vigencia el Reglamento.
+
+###### ARTÍCULO SÉPTIMO.
+
+La referencia a la Credencial Nacional para Personas con Discapacidad que prevé el artículo 106, fracción I párrafo segundo, se entenderá a las que se expiden derivado del convenio de colaboración suscrito por el Sistema Nacional para el Desarrollo Integral de la Familia y el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato en fecha 01 de diciembre de 2003.
+
+Por lo anterior las Credenciales expedidas por el Sistema Nacional para el Desarrollo Integral de la Familia o por otra entidad facultada o por la Ciudad de México, serán aceptadas para el trámite de placas de vehículos para uso de personas con discapacidad, en tanto cuenten con vigencia.
