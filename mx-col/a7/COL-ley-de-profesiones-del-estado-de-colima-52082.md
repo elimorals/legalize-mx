@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-del-estado-de-colima-52082"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2015-02-07"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LA LEY DE PROFESIONES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -1597,7 +1597,9 @@ IX. Incumplir con las obligaciones contenidas en esta Ley, su Reglamento y demá
 
 Las sanciones con motivo de las infracciones mencionadas en el capítulo anterior consistirán en:
 
-I. Multa de entre 50 a 3,000 veces el salario mínimo general diario vigente en el Estado de Colima, en la fecha en que se cometa la infracción; multa que se duplicará en caso de reincidencia; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I. Multa de entre 50 a 3,000 unidades de medida y actualización, en la fecha en que se cometa la infracción; multa que se duplicará en caso de reincidencia; y
 
 II. Cancelación definitiva de la cédula y el registro del Título Profesional, en los términos del capítulo XIII de esta Ley.
 
@@ -1607,21 +1609,33 @@ Las multas tendrán el carácter de crédito fiscal.
 
 Se sancionará con multa las conductas u omisiones señaladas en el artículo 85 de la presente Ley, dentro de los parámetros siguientes:
 
-I. De 50 a 170 veces el salario mínimo general diario vigente en el Estado de Colima en la fecha en que se cometa la infracción en el caso de las fracciones III, V, VI, XII, XIII, XIV y XV;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. De 171 a 335 veces el salario mínimo general diario vigente en el Estado de Colima en la fecha en que se cometa la infracción en el caso de las fracciones II, IV, y XI; y
+I. De 50 a 170 unidades de medida y actualización en el caso de las fracciones III, V, VI, XII, XIII, XIV y XV;
 
-III. De 336 a 500 veces el salario mínimo general diario vigente en el Estado de Colima en la fecha en que se cometa la infracción en el caso de las fracciones I, VII, VIII, IX y X.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. De 171 a 335 unidades de medida y actualización en el caso de las fracciones II, IV, y XI; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. De 336 a 500 unidades de medida y actualización en el caso de las fracciones I, VII, VIII, IX y X.
 
 ###### ARTÍCULO 89.
 
 Se sancionará con multa las conductas u omisiones señaladas en el artículo 86, dentro de los parámetros siguientes:
 
-I. De 50 a 1,050 veces el salario mínimo general diario vigente en el Estado de Colima en la fecha en que se cometa la infracción en el caso de las fracciones I, II, y IX;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. De 1,051 a 2,040 veces el salario mínimo general diario vigente en el Estado de Colima en la fecha en que se cometa la infracción en el caso de las fracciones III, V y VI; y
+I. De 50 a 1,050 unidades de medida y actualización en el caso de las fracciones I, II, y IX;
 
-III. De 2041 a 3,000 veces el salario mínimo general diario vigente en el Estado de Colima en la fecha en que se cometa la infracción en el caso de las fracciones IV, VII y VIII.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. De 1,051 a 2,040 unidades de medida y actualización en el caso de las fracciones III, V y VI; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. De 2041 a 3,000 unidades de medida y actualización en el caso de las fracciones IV, VII y VIII.
 
 ###### ARTÍCULO 90.
 
@@ -1870,3 +1884,11 @@ P.O. 21 DE JUNIO DE 2014.
 P.O. 7 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
