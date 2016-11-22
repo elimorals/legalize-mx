@@ -4,7 +4,7 @@ identifier: "COL-ley-apicola-del-estado-de-colima-61299"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-17"
-last_updated: "2008-05-17"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY APICOLA DEL ESTADO DE COLIMA
 
-LEY APICOLA DEL ESTADO DE COLIMA
+LEY APÍCOLA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 17 de mayo de 2008.
 
@@ -559,9 +559,11 @@ Las faltas se castigarán según su gravedad, con multas de diez a quinientas un
 
 Se sancionará con amonestación, el incumplimiento de los artículos 9 fracciones II, VI, VII, VIII, IX, y 50 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 58.
 
-Se sancionará con multa de diez a quinientos días de salario mínimo general vigente en el Estado, al momento de cometer la infracción, a quienes:
+Se sancionará con multa de diez a quinientas unidades de medida y actualización, al momento de cometer la infracción, a quienes:
 
 I. Reincidan en incumplimiento de los supuestos previstos en el artículo anterior;
 
@@ -575,9 +577,11 @@ V. Incumplan los artículos 10, 13, 15, 17, 26, 30 y 49 de esta Ley; y
 
 VI. Incumplan las observaciones para la conservación de la flora natural que dicte la Secretaría de Desarrollo Urbano del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 59.
 
-Se impondrá multa por el equivalente de diez a mil días de salario mínimo general vigente en el Estado, independientemente de la responsabilidad penal en que pudieran incurrir, a quienes:
+Se impondrá multa por el equivalente de diez a mil unidades de medida y actualización, independientemente de la responsabilidad penal en que pudieran incurrir, a quienes:
 
 I. Reincidan en incumplimiento de los supuestos previstos en las fracciones II, III, IV y V del artículo anterior;
 
@@ -640,3 +644,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 13 del mes de Mayo del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, C. CARLOS SALAZAR PRECIADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
