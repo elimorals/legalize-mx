@@ -4,7 +4,7 @@ identifier: "COL-ley-de-caminos-y-puentes-del-estado-de-colima-109376"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-08"
-last_updated: "2015-08-08"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE CAMINOS Y PUENTES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de agosto de 2015.
 
@@ -103,7 +103,9 @@ XIX. Secretaría: La Secretaría de Desarrollo Urbano;
 
 XX. Señal Informativa: Al cartel o franja en postes dentro del derecho de vía, con las leyendas o símbolos que tienen por objeto guiar al usuario a lo largo de su itinerario por la carretera y/o camino a lugares de interés o de prestación de servicios;
 
-XXI. Unidad de salario: Al salario mínimo general diario vigente en el Estado, en el momento de la realización de la situación jurídica o de hecho prevista en esta Ley; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XXI. Unidades de Medida y Actualización: Al valor diario de la Unidad de Medida y Actualización vigente en el momento de la realización de la situación jurídica o de hecho prevista en esta Ley; y
 
 XXII. Vías de comunicación terrestre: A los caminos y puentes de jurisdicción estatal o los convenidos con la Federación.
 
@@ -611,27 +613,37 @@ Las sanciones previstas en esta Ley, se aplicarán sin perjuicio de la responsab
 
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 62.
 
-A quien sin permiso previamente otorgado obstruya o invada de cualquier manera el derecho de vía, se le impondrá una sanción de cincuenta a quinientas unidades de salario, y en caso de que lo amerite, tendrá que cubrir financieramente las pérdidas que se ocasionen a la Secretaría o terceros, sin perjuicio de la obligación del particular a remover la instalación u objeto mueble del área invadida, en un tiempo perentorio de hasta 5 días hábiles, contados a partir de la notificación por parte de la Secretaría, o en el caso que proceda, la (sic) regularizar su situación.
+A quien sin permiso previamente otorgado obstruya o invada de cualquier manera el derecho de vía, se le impondrá una sanción de cincuenta a quinientas unidades de medida y actualización, y en caso de que lo amerite, tendrá que cubrir financieramente las pérdidas que se ocasionen a la Secretaría o terceros, sin perjuicio de la obligación del particular a remover la instalación u objeto mueble del área invadida, en un tiempo perentorio de hasta 5 días hábiles, contados a partir de la notificación por parte de la Secretaría, o en el caso que proceda, la (sic) regularizar su situación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 63.
 
-A quien sin permiso previamente otorgado invada el derecho de vía mediante la ejecución de obras de carácter permanente dentro de éste, se le aplicará una sanción de trescientas a ochocientas unidades de salario, y en caso de que lo amerite, tendrá que cubrir financieramente las pérdidas que se ocasionen a la Secretaría o (sic) terceros; lo anterior sin menoscabo de la obligación del particular de demoler a su costa la obra ejecutada, en un tiempo perentorio de hasta 5 días hábiles, contados a partir de la notificación por parte de la Secretaría, o en el caso que proceda, la (sic) regularizar su situación.
+A quien sin permiso previamente otorgado invada el derecho de vía mediante la ejecución de obras de carácter permanente dentro de éste, se le aplicará una sanción de trescientas a ochocientas unidades de medida y actualización, y en caso de que lo amerite, tendrá que cubrir financieramente las pérdidas que se ocasionen a la Secretaría o terceros; lo anterior sin menoscabo de la obligación del particular de demoler a su costa la obra ejecutada, en un tiempo perentorio de hasta 5 días hábiles, contados a partir de la notificación por parte de la Secretaría, o en el caso que proceda, la (sic) regularizar su situación.
 
 Si el particular hace caso omiso de remover la instalación que obstruya o invada el derecho de vía o de regularizar su situación, aparte de la sanción que establece el párrafo anterior, la Secretaría podrá retirarlos y asegurarlos previo inventario a costa del particular
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 64.
 
-Cuando se invada el derecho de vía con objetos muebles que se encuentren abandonados y que representen peligro al libre tránsito, la Secretaría considerando la peligrosidad que representen, podrá retirarlos y asegurarlos previo inventario que al efecto se realice, señalando el lugar donde serán depositados; y el infractor se hará acreedor a una multa (sic) 50 a 500 unidades de salario, y en caso de que lo amerite, tendrá que cubrir financieramente las pérdidas que se ocasionen a la Secretaría o terceros.
+Cuando se invada el derecho de vía con objetos muebles que se encuentren abandonados y que representen peligro al libre tránsito, la Secretaría considerando la peligrosidad que representen, podrá retirarlos y asegurarlos previo inventario que al efecto se realice, señalando el lugar donde serán depositados; y el infractor se hará acreedor a una multa (sic) 50 a 500 unidades de medida y actualización, y en caso de que lo amerite, tendrá que cubrir financieramente las pérdidas que se ocasionen a la Secretaría o terceros.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 65.
 
-A quien dañe las carreteras y sus accesorios que se encuentran dentro de la Red Estatal de Carreteras descritas en el artículo 3 de esta Ley o aquellas que estén en proceso de construcción, ya sea por causas de negligencia, falta de pericia o del debido manejo, se le hará un avalúo de los daños ocasionados al patrimonio de la Secretaría por parte de la Dirección, mismo que tendrá que cubrir financieramente dentro de los 5 días hábiles siguientes al hecho, además que se hará acreedor a una multa de cincuenta a ciento cincuenta unidades de salario.
+A quien dañe las carreteras y sus accesorios que se encuentran dentro de la Red Estatal de Carreteras descritas en el artículo 3 de esta Ley o aquellas que estén en proceso de construcción, ya sea por causas de negligencia, falta de pericia o del debido manejo, se le hará un avalúo de los daños ocasionados al patrimonio de la Secretaría por parte de la Dirección, mismo que tendrá que cubrir financieramente dentro de los 5 días hábiles siguientes al hecho, además que se hará acreedor a una multa de cincuenta a ciento cincuenta unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
-A quien sin permiso previamente otorgado instale señales o anuncios publicitarios dentro del derecho de vía, se le aplicará una sanción de cincuenta a trescientas unidades de salarios, sin perjuicio de la obligación del particular a remover la instalación u objeto mueble del área invadida o regularizar su situación, en caso que proceda.
+A quien sin permiso previamente otorgado instale señales o anuncios publicitarios dentro del derecho de vía, se le aplicará una sanción de cincuenta a trescientas unidades de medida y actualización, sin perjuicio de la obligación del particular a remover la instalación u objeto mueble del área invadida o regularizar su situación, en caso que proceda.
 
 ###### ARTÍCULO 67.
 
@@ -662,3 +674,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 6 seis del mes de agosto del año dos mil quince.
 
 Atentamente. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAFAEL GUTIÉRREZ VILLALOBOS. Rúbrica. EL ENCARGADO DE LA SECRETARÍA DE DESARROLLO URBANO, ING. CARLOS ARIAS GUILLÉN. Rúbrica. LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
