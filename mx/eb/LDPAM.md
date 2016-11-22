@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2016-11-14"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -362,7 +362,9 @@ I. El acceso a la educación pública en todos sus niveles y modalidades y a cua
 
 II. La formulación de programas educativos de licenciatura y posgrado en geriatría y gerontología, en todos los niveles de atención en salud, así como de atención integral a las personas adultas mayores dirigidos a personal técnico profesional. También velará porque las instituciones de educación superior e investigación científica incluyan la geriatría en sus currícula de medicina, y la gerontología en las demás carreras pertenecientes a las áreas de salud y ciencias sociales;
 
-III. En los planes y programas de estudio de todos los niveles educativos, la incorporación de contenidos sobre el proceso de envejecimiento;
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2016)</small>
+
+III. En los planes y programas de estudio de todos los niveles educativos, la incorporación de contenidos sobre el proceso de envejecimiento y la inducción de una cultura de respeto a los derechos humanos fundamentales de las personas adultas mayores;
 
 IV. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
@@ -899,3 +901,9 @@ D.O.F. 14 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Instituto Nacional de las Personas Mayores, en coordinación con la Secretaría de Salud, establecerán los criterios y mecanismos para el cumplimiento del presente Decreto.
+
+D.O.F. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
