@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-municipal-del-estado-de-colima-28572"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-01-11"
-last_updated: "2011-05-21"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-CODIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
+CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -99,13 +99,17 @@ XIV. Documento escrito o físico, documento en papel expedido o recibido por las
 
 XV. Firma electrónica certificada, aquella que ha sido certificada por la Autoridad Certificadora, en los términos que señale la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de éste y la identidad del firmante;
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-XVI. Firmante, es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa; y
+XVI. Firmante, es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa;
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-XVII. Medios electrónicos, los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología.
+XVII. Medios electrónicos, los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Unidad de Medida y Actualización: al valor diario de la unidad de medida y actualización.
 
 Los días a que se refiere este ordenamiento, se computarán en hábiles, salvo disposición en contrario.
 
@@ -647,31 +651,53 @@ Para que se considere reincidencia las dos o más veces que se sancione al infra
 
 A las infracciones siguientes cuya responsabilidad recae en los sujetos pasivos de una prestación fiscal, corresponden las sanciones que a continuación se determinan:
 
-I. Por no cumplir con las obligaciones que señalan las disposiciones de inscribirse, registrarse o hacerlo fuera de los plazos legales; no incluir en las solicitudes la autorización de funcionamiento de todas las actividades por las que deba cubrir un derecho o sea contribuyente habitual; no proporcionar clara y específicamente todos los datos de localización y registro respectivo o no citar su número oficial en las manifestaciones que hagan ante las autoridades fiscales municipales: multa de 10 a 150 unidades de salario;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II. Por utilizar interpósita persona para manifestar negociaciones propias o para percibirse de ingresos gravables, dejando de pagar total o parcialmente los impuestos o derechos correspondientes: multa de 10 a 200 unidades de salario;
+I.- Por no cumplir con las obligaciones que señalan las disposiciones de inscribirse, registrarse o hacerlo fuera de los plazos legales; no incluir en las solicitudes la autorización de funcionamiento de todas las actividades por las que deba cubrir un derecho o sea contribuyente habitual; no proporcionar clara y específicamente todos los datos de localización y registro respectivo o no citar su número oficial en las manifestaciones que hagan ante las autoridades fiscales municipales: multa de 10 a 150 unidades de medida y actualización;
 
-III. Por no obtener previamente los permisos, placas, números oficiales y licencias o cualquier otro documento exigible; no tenerlos en lugar visible de los establecimientos o inmuebles respectivos: multa de 10 a 150 unidades de salario;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-IV. Por no consignar por escrito actos, convenios o contratos que deban presentarse ante las autoridades fiscales municipales: multas de 10 a 150 unidades de salario;
+II.- Por utilizar interpósita persona para manifestar negociaciones propias o para percibirse de ingresos gravables, dejando de pagar total o parcialmente los impuestos o derechos correspondientes: multa de 10 a 200 unidades de medida y actualización;
 
-V. Por no presentar, proporcionar o hacerlo extemporáneamente, los avisos, contratos, solicitudes, datos, informes o documentos exigibles: multa de 10 a 150 unidades de salario;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-VI. Por presentar alterados o modificados los avisos, datos, informes y documentos a que se refiere la fracción anterior: multas de 10 a 250 unidades de salario;
+III.- Por no obtener previamente los permisos, placas, números oficiales y licencias o cualquier otro documento exigible; no tenerlos en lugar visible de los establecimientos o inmuebles respectivos: multa de 10 a 150 unidades de medida y actualización;
 
-VII. Por declarar ingresos menores de los percibidos en la explotación de las actividades gravadas con impuestos, así como utilizar las licencias, permisos o autorizaciones de funcionamiento para actividades distintas para las que han sido expedidas: multas de 10 a 150 unidades de salario;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Por no pagar en forma total o parcial los impuestos o derechos en los plazos señalados por las leyes fiscales: multa de 2 a 50 unidades de salario;
+IV.- Por no consignar por escrito actos, convenios o contratos que deban presentarse ante las autoridades fiscales municipales: multas de 10 a 150 unidades de medida y actualización;
 
-IX. Por no cubrir el pago de impuestos y derechos, como consecuencia de simulaciones, falsificaciones y otras maniobras de mala fe o dolo, se impondrá una multa hasta de cinco tantos de los créditos fiscales omitidos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-X. Por no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales municipales o aquellos funcionarios a quienes se les delegue la facultad de inspección de las actividades que generen créditos fiscales a cargo de los particulares; multa de 50 a 150 unidades de salario;
+V.- Por no presentar, proporcionar o hacerlo extemporáneamente, los avisos, contratos, solicitudes, datos, informes o documentos exigibles: multa de 10 a 150 unidades de medida y actualización;
 
-XI. Por no presentar a las autoridades fiscales municipales, cuando éstas lo solicitan, las licencias, autorizaciones o permisos de funcionamiento de los giros comerciales e industriales: multa de 10 a 250 unidades de salario;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-XII. Por iniciar cualquier actividad económica sin haber cubierto los requisitos exigidos por los distintos ordenamientos fiscales municipales: multa de 10 a 250 unidades de salario;
+VI.- Por presentar alterados o modificados los avisos, datos, informes y documentos a que se refiere la fracción anterior: multas de 10 a 250 unidades de medida y actualización;
 
-XIII. Cuando las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación detecten irregularidades respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán a determinar las contribuciones omitidas presuntivamente e impondrán multas de uno a cuatro tantos de los créditos presumiblemente omitidos.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+VII.- Por declarar ingresos menores de los percibidos en la explotación de las actividades gravadas con impuestos, así como utilizar las licencias, permisos o autorizaciones de funcionamiento para actividades distintas para las que han sido expedidas: multas de 10 a 150 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- Por no pagar en forma total o parcial los impuestos o derechos en los plazos señalados por las leyes fiscales: multa de 2 a 50 unidades de medida y actualización;
+
+IX.- Por no cubrir el pago de impuestos y derechos, como consecuencia de simulaciones, falsificaciones y otras maniobras de mala fe o dolo, se impondrá una multa hasta de cinco tantos de los créditos fiscales omitidos;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+X.- Por no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales municipales o aquellos funcionarios a quienes se les delegue la facultad de inspección de las actividades que generen créditos fiscales a cargo de los particulares; multa de 50 a 150 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XI.- Por no presentar a las autoridades fiscales municipales, cuando éstas lo solicitan, las licencias, autorizaciones o permisos de funcionamiento de los giros comerciales e industriales: multa de 10 a 250 unidades de medida y actualización;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XII.- Por iniciar cualquier actividad económica sin haber cubierto los requisitos exigidos por los distintos ordenamientos fiscales municipales: multa de 10 a 250 unidades de medida y actualización;
+
+XIII.- Cuando las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación detecten irregularidades respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán a determinar las contribuciones omitidas presuntivamente e impondrán multas de uno a cuatro tantos de los créditos presumiblemente omitidos.
 
 ###### ARTICULO 51.
 
@@ -697,7 +723,9 @@ IX. Arrendar, subarrendar o dar en usufructo bienes que correspondan al patrimon
 
 X. Infringir las disposiciones anteriores en forma distinta de las infracciones precedentes.
 
-Por las fracciones a que se refiere este artículo, se impondrá una multa de 500 a 1000 unidades de salario, lo que se hará sin perjuicio de que el infractor sea destituido e inhabilitado hasta por tres años para desempeñar el mismo cargo, sin responsabilidad para el municipio, independientemente de la acción penal que pueda ejercer el fisco municipal, cuando éste considere que ha sufrido perjuicio.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Por las fracciones a que se refiere este artículo, se impondrá una multa de 500 a 1000 unidades de medida y actualización, lo que se hará sin perjuicio de que el infractor sea destituido e inhabilitado hasta por tres años para desempeñar el mismo cargo, sin responsabilidad para el municipio, independientemente de la acción penal que pueda ejercer el fisco municipal, cuando éste considere que ha sufrido perjuicio.
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -1153,7 +1181,9 @@ II. En caso de que haya desacuerdo entre los dictámenes de los peritos designad
 
 El remate deberá ser convocado para una fecha fijada dentro de los treinta días naturales siguientes a la determinación del precio que deberá servir de base. La última publicación de la convocatoria se hará cuando menos diez días hábiles antes de la fecha del remate.
 
-Si se trata de bienes muebles o inmuebles cuyo valor no exceda de cinco unidades de salario, la convocatoria se fijará por un término de tres días hábiles, en un sitio visible y usual de la Tesorería y en los lugares públicos que se juzgue conveniente.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Si se trata de bienes muebles o inmuebles cuyo valor no exceda de cinco unidades de medida y actualización, la convocatoria se fijará por un término de tres días hábiles, en un sitio visible y usual de la Tesorería y en los lugares públicos que se juzgue conveniente.
 
 Cuando el valor pericial de los bienes muebles o inmuebles exceda del equivalente señalado en el párrafo que antecede, la convocatoria se publicará en el Periódico Oficial, por una vez, y en uno de los periódicos de mayor circulación en la entidad durante tres días consecutivos.
 
@@ -1385,9 +1415,11 @@ IV. Si se resuelve que no hubo notificación o que fue ilegal, se tendrá al rec
 
 V. Si se resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación resulta improcedente, se desechará dicho recurso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 129.
 
-Si se declara en la resolución que ha existido nulidad de notificaciones por causa imputable al notificador, se impondrá a éste una multa de hasta 5 unidades de salario.
+Si se declara en la resolución que ha existido nulidad de notificaciones por causa imputable al notificador, se impondrá a éste una multa de hasta 5 unidades de medida y actualización.
 
 Cuando sea reincidente, se podrá aplicar hasta el doble de la sanción señalada en el párrafo anterior y la suspensión sin goce de sueldo hasta por un período de 30 días.
 
@@ -1461,7 +1493,7 @@ Dado en Palacio de Gobierno a los 10 días del mes de enero de 2003.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 P.O. 16 DE OCTUBRE DE 2004.
 
@@ -1484,3 +1516,11 @@ P.O. 18 DE DICIEMBRE DE 2010.
 P.O. 21 DE MAYO DE 2011.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
