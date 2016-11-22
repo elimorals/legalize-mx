@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2016-10-15"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -1163,15 +1163,19 @@ Las responsabilidades administrativas, civiles y penales en que incurran los ser
 
 ### CAPÍTULO X. DE LOS DELITOS CONTRA EL FUNCIONAMIENTO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 57.
 
-Se sancionará de uno a cuatro años de prisión y multa de cien a seiscientos días de salario mínimo general diario vigente en el Estado, a quien dolosa, ilícita y reiteradamente se abstenga de proporcionar al Secretariado Ejecutivo la información que esté obligado dentro del plazo de treinta días naturales a partir de que sea requerido por el Secretario Ejecutivo, salvo justificación fundada.
+Se sancionará de uno a cuatro años de prisión y multa de cien a seiscientas unidades de medida y actualización, a quien dolosa, ilícita y reiteradamente se abstenga de proporcionar al Secretariado Ejecutivo la información que esté obligado dentro del plazo de treinta días naturales a partir de que sea requerido por el Secretario Ejecutivo, salvo justificación fundada.
 
 Se impondrá además, la destitución e inhabilitación por un plazo igual al de la pena impuesta para desempeñarse en otro empleo, puesto, cargo o comisión en cualquier orden de gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 58.
 
-Se sancionará con dos a ocho años de prisión y multa de quinientos a mil días de salario mínimo general diario vigente en el Estado, a quien:
+Se sancionará con dos a ocho años de prisión y multa de quinientas a mil unidades de medida y actualización, a quien:
 
 I. Ingrese dolosamente a las bases de datos del Sistema Estatal previstos en esta Ley, sin tener derecho a ello o, teniéndolo, a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan;
 
@@ -1183,9 +1187,11 @@ IV. Asigne nombramiento de policía, Ministerio Público o Perito Oficial a pers
 
 Si el responsable es o hubiera sido servidor público de las Instituciones de Seguridad Pública, se impondrá hasta una mitad más de la pena correspondiente, además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de gobierno, y en su caso, la destitución.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 59.
 
-Se sancionará con cinco a doce años de prisión y multa de doscientos a ochocientos días de salario mínimo general diario vigente en el Estado, a quien falsifique el certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
+Se sancionará con cinco a doce años de prisión y multa de doscientas a ochocientas unidades de medida y actualización, a quien falsifique el certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
 
 ###### ARTÍCULO 60.
 
@@ -3555,7 +3561,9 @@ El incumplimiento por parte de los prestadores del servicio de seguridad privada
 
 I. Amonestación, con difusión pública de la misma;
 
-II. Multa de hasta mil quinientas veces el salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+II. Multa de hasta mil quinientas Unidades de Medida y Actualización;
 
 III. Suspensión temporal de la autorización y el registro hasta que se corrija el incumplimiento, con difusión pública de la misma por el tiempo necesario para que se corrija la violación; y
 
@@ -3585,9 +3593,11 @@ IX. Por no aplicar exámenes antidoping al personal operativo, en el tiempo y fo
 
 X. Las demás que no tengan una sanción específica, a juicio del Director de Seguridad Privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 214.
 
-Se sancionará al Prestador con multa de hasta mil salarios mínimos, en los siguientes casos:
+Se sancionará al Prestador con multa de hasta mil unidades de medida y actualización, en los siguientes casos:
 
 I. Por usar en su denominación, razón social, nombre comercial, papelería, identificaciones, documentación y demás bienes de la negociación, la palabra "policía", "agentes", "investigadores" o cualquier otra que se derive de las anteriores que pueda dar a entender una relación con autoridades o con los cuerpos de seguridad pública; de igual forma, por usar la palabra "seguridad" sin que le siga el adjetivo "privada";
 
@@ -3627,9 +3637,11 @@ XVIII. Por no otorgar a su personal operativo condiciones dignas para el desempe
 
 XIX. Por no aplicar los exámenes antidopaje a su personal operativo, en el tiempo y forma señalados por la Dirección de Seguridad Privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 215.
 
-Se sancionará al prestador de servicios de seguridad pública con multa de mil uno a tres mil salarios mínimos, con suspensión temporal hasta por treinta días de la autorización y registro o hasta que se corrija el incumplimiento y con difusión pública de dicha suspensión en uno de los diarios de mayor circulación en el Estado y en el Periódico Oficial, en los siguientes casos:
+Se sancionará al prestador de servicios de seguridad pública con multa de mil uno a tres mil unidades de medida y actualización, con suspensión temporal hasta por treinta días de la autorización y registro o hasta que se corrija el incumplimiento y con difusión pública de dicha suspensión en uno de los diarios de mayor circulación en el Estado y en el Periódico Oficial, en los siguientes casos:
 
 I. Por no contar los prestadores del servicio de vigilancia de inmuebles, traslado y protección de personas y de aquellas otras modalidades que lo requieran, por lo menos con un jefe de seguridad que cumpla con los requisitos de ingreso, cuya contratación deberá recibir opinión favorable de la Dirección de Seguridad Privada;
 
@@ -3669,9 +3681,11 @@ XVIII. Por inmiscuirse en funciones o actividades ministeriales; y
 
 XIX. Por incurrir en alguna falta grave que ponga en peligro la seguridad del Estado y de los usuarios de los servicios de seguridad privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 216.
 
-Se sancionará al prestador con multa de tres mil uno a cinco mil días de salario mínimo y la cancelación de la autorización y registro, con difusión pública de la misma en uno de los diarios de mayor circulación en el Estado y en el Periódico Oficial y notificación a las autoridades correspondientes y a sus clientes, en caso de:
+Se sancionará al prestador con multa de tres mil uno a cinco mil unidades de medida y actualización y la cancelación de la autorización y registro, con difusión pública de la misma en uno de los diarios de mayor circulación en el Estado y en el Periódico Oficial y notificación a las autoridades correspondientes y a sus clientes, en caso de:
 
 I. Que el prestador suspendido temporalmente no haya cumplido, dentro del plazo que para ello se le señaló, con el requisito omitido;
 
@@ -3768,3 +3782,11 @@ P.O. 15 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 137 SE REFORMA LA FRACCIÓN XXXIII Y SE ADICIONA UNA FRACCIÓN XXXIV, AL ARTÍCULO 152 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 269 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" DE FECHA 11 DE OCTUBRE DE 2014".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
