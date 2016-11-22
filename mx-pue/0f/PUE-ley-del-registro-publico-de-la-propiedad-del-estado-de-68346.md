@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2016-08-01"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -1339,7 +1339,9 @@ P.O. 1 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA”.]
 
-PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+PRIMERO. El presente Decreto entrará en vigor a los quince días del mes de febrero del año dos mil diecisiete.
 
 SEGUNDO. Para el cumplimiento de este Decreto, el Ejecutivo Estatal, a través de las instancias competentes, podrá reorganizar la estructura de las Dependencias, así como crear, fusionar, escindir o disolver las unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
 
@@ -1356,3 +1358,11 @@ SÉPTIMO. El Ejecutivo del Estado dentro los noventa días naturales siguientes 
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
 
 OCTAVO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA", PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DE 2016”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
