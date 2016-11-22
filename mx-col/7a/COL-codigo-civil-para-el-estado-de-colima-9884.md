@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2016-09-10"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -871,11 +871,15 @@ Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la oblig
 
 Recibido el aviso, el oficial del Registro Civil, tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con multa de uno a cinco unidades de medida y actualización, que impondrá la autoridad competente del lugar donde se haya hecho la declaración extemporánea de nacimiento
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con multa de uno a cinco días de salario mínimo vigente, que impondrá la autoridad competente del lugar donde se haya hecho la declaración extemporánea de nacimiento.
-
 En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Los interesados podrán realizar el Registro Extemporáneo de nacimiento por la vía administrativa con los requisitos que para el caso establece el Reglamento respectivo.
 
@@ -921,9 +925,9 @@ ART. 64.- Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconoz
 
 ART. 65.- Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él y declarará el día y el lugar en donde lo hubiere hallado así como las demás circunstancias que en el caso hayan concurrido, dándose además intervención al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-ART. 66.- La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquiera casa de comunidad, especialmente los de los hospitales, casa de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas. En todo caso de incumplimiento la autoridad competente impondrá al infractor una multa de diez a cincuenta días de salario mínimo vigente.
+ART. 66.- La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquiera casa de comunidad, especialmente los de los hospitales, casa de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas. En todo caso de incumplimiento la autoridad competente impondrá al infractor una multa de diez a cincuenta unidades de medida y actualización.
 
 ART. 67.- En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
 
@@ -3311,9 +3315,9 @@ ART. 458.- Los cargos de tutor y de curador de un incapaz no pueden ser desempe�
 
 ART. 459.- No pueden ser nombrados tutores o curadores las personas que desempeñen algún cargo en el Juzgado Civil o Mixto de Primera Instancia y las que integren los consejos locales de tutela, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-ART. 460.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez respectivo, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de ocho a diez días de salario mínimo vigente.
+ART. 460.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez respectivo, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de ocho a diez unidades de medida y actualización.
 
 Los oficiales del Registro Civil, las autoridades administrativas y las judiciales, tienen obligación de dar aviso a los jueces correspondientes de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -3791,9 +3795,9 @@ ART. 566.- Se requiere licencia judicial para que el tutor pueda transigir o com
 
 ART. 567.- El nombramiento de árbitros hechos por el tutor, deberá sujetarse a la aprobación del juez.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-ART. 568.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales, cuya cuantía exceda de ciento sesenta días de salario mínimo vigente, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+ART. 568.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales, cuya cuantía exceda de ciento sesenta unidades de medida y actualización, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -4301,9 +4305,9 @@ ART. 728.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 729.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-ART. 730.- El valor de los bienes que conformen el patrimonio de familia no podrán exceder en su conjunto de 40,000 unidades de salario mínimo diario vigente en el Estado.
+ART. 730.- El valor de los bienes que conformen el patrimonio de familia no podrán exceder en su conjunto de 40,000 unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -6367,7 +6371,9 @@ ART. 1445.- Toda persona que tuviere en su poder un testamento cerrado y no lo p
 
 ART. 1446 BIS (SIC).- Testamento público simplificado es aquel que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado de Colima, o cualquier dependencia o entidad de la Administración Pública Federal, Estatal y Municipal, o en acto posterior de conformidad con lo siguiente:
 
-I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente elevado al año, al momento de que se formalice en escritura pública su adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 unidades de medida y actualización elevado al año, al momento de que se formalice en escritura pública su adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
 
 II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
 
@@ -7185,7 +7191,7 @@ III.- Por un sistema de información programado por el emisor o en su nombre par
 
 ART. 1702 D.- Se presume que un mensaje de datos ha sido enviado por el emisor y, por lo tanto, el destinatario, podrá actuar en consecuencia, cuando:
 
-I.- Haya aplicado en forma adecuada el procedimiento acordado previamente con el emisor, con el fin de establecer que el mensaje de datos provenía efectivamente de éste; y
+I.- Haya aplicado en forma adecuada el procedimiento acordado previamente con el emisor, con el fin de establecer que el mensaje de datos provenía efectivamente de este; y
 
 II.- El mensaje de datos que reciba el destinatario o la parte que confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el emisor para identificar un mensaje de datos como propio.
 
@@ -7269,7 +7275,7 @@ ART. 1702 K.- Las disposiciones del presente Código serán aplicadas de modo qu
 
 ART. 1702 L.- Cuando la ley requiera o las partes acuerden la existencia de una firma en relación con un mensaje de datos, se entenderá satisfecho dicho requerimiento si se utiliza una firma electrónica que resulte apropiada para los fines para los cuales se generó o comunicó ese mensaje de datos.
 
-Cuando se trate de actos jurídicos que deban otorgarse ante fedatario público, se requerirá de la firma electrónica certificada.
+Cuando se trate de actos jurídicos que deban otorgarse ante fedatario publico, se requerirá de la firma electrónica certificada.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -8393,7 +8399,9 @@ III.- Si una de las deudas fuere por alimentos;
 
 IV.- Si una de las deudas toma su origen de una renta vitalicia;
 
-V.- Si una de las deudas procede de salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+V.- Si una de las deudas procede de salario mínimo (unidades de medida y actualización);
 
 VI.- Si la deuda fuere de cosa que no puede ser compensada, ya sea por disposición de la ley o por el título de que procede, a no ser que ambas deudas fueren igualmente privilegiadas;
 
@@ -9463,17 +9471,17 @@ ART. 2445.- El mandato debe otorgarse en escritura pública o en carta poder fir
 
 I.- Cuando sea general;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Estado de Colima al momento de otorgarse; o
+II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil unidades de medida y actualización; o
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-ART. 2446.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Estado de Colima al momento de otorgarse.
+ART. 2446.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil unidades de medida y actualización.
 
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces el salario mínimo general vigente en el Estado de Colima al momento de otorgarse.
+Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta unidades de medida y actualización.
 
 ART. 2447.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiere obrado en negocio propio.
 
@@ -11456,3 +11464,11 @@ P.O. 10 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico “El Estado de Colima”.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
