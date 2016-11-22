@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-a-los-animales-del-estado-de-colima-8287
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-31"
-last_updated: "2014-03-15"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN A LOS ANIMALES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2011.
 
@@ -237,7 +237,9 @@ XXXIX. Sufrimiento: A la carencia de bienestar animal causada por diversos motiv
 
 XL. Trato digno y respetuoso: A las medidas que esta Ley, su Reglamento, las normas ambientales y las Normas Oficiales Mexicanas establecen para evitar en los animales dolor o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
 
-XLI. Unidades de salario: A los días de salario mínimo general vigente en el área geográfica correspondiente al Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+XLI. Unidades de Medida y Actualización: Al valor diario de la unidad de medida y actualización;
 
 XLII. Vivisección: Al procedimiento quirúrgico que se realiza a un animal vivo en condiciones asépticas y bajo los efectos de un anestésico apropiado, considerando en todo momento el bienestar del animal, con el objeto de ampliar los conocimientos acerca de los procesos patológicos y fisiológicos de los animales y los humanos; y
 
@@ -899,51 +901,65 @@ II. Amonestación por escrito;
 
 III. Arresto hasta por 36 horas;
 
-IV. Multa por el equivalente de una a doscientas unidades de salario, al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+IV. Multa por el equivalente de una a doscientas unidades de medida y actualización, al momento de imponer la sanción;
 
 V. Clausura temporal o definitiva del establecimiento; y
 
 VI. La pérdida de la custodia del animal.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 90.
 
-A la persona que en eventos o lugares públicos, moleste o incite a un animal en cautiverio o domesticado en exhibición, independientemente de que el hecho se produzca en lugares cerrados o abiertos, se le impondrá por el ayuntamiento correspondiente una multa de tres a veinte unidades de salario.
+A la persona que en eventos o lugares públicos, moleste o incite a un animal en cautiverio o domesticado en exhibición, independientemente de que el hecho se produzca en lugares cerrados o abiertos, se le impondrá por el ayuntamiento correspondiente una multa de tres a veinte unidades de medida y actualización.
 
-A quien incite a dos o más animales para que se acometan entre si, haciendo de las peleas así provocadas un espectáculo público o privado, cuyo acto de crueldad prevé la fracción VIII del artículo 43 de esta Ley, le será impuesta por el ayuntamiento respectivo una multa de cien a doscientas unidades de salario o arresto administrativo hasta por 36 horas, así como perdida de la custodia del animal o animales, procediéndose a trasladarlos al centro de control animal del ayuntamiento que corresponda.
+A quien incite a dos o más animales para que se acometan entre sí, haciendo de las peleas así provocadas un espectáculo público o privado, cuyo acto de crueldad prevé la fracción VIII del artículo 43 de esta Ley, le será impuesta por el ayuntamiento respectivo una multa de cien a doscientas unidades de medida y actualización o arresto administrativo hasta por 36 horas, así como perdida de la custodia del animal o animales, procediéndose a trasladarlos al centro de control animal del ayuntamiento que corresponda.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 91.
 
-A quién incurra en las conductas previstas en las fracciones I, II, III, IV, V y VI del artículo 28 de esta Ley, será sancionado por el ayuntamiento respectivo con multa de cinco a cincuenta unidades de salario y, en el caso de la fracción de (sic) VII, la multa será de treinta a trescientas unidades de salario, además se emitirá la suspensión del permiso respectivo, y se ordenará el retiro de las instalaciones en que se desarrolle el espectáculo circense.
+A quién incurra en las conductas previstas en las fracciones I, II, III, IV, V y VI del artículo 28 de esta Ley, será sancionado por el ayuntamiento respectivo con multa de cinco a cincuenta unidades de medida y actualización y, en el caso de la fracción de (sic) VII, la multa será de treinta a trescientas unidades de medida y actualización, además se emitirá la suspensión del permiso respectivo, y se ordenará el retiro de las instalaciones en que se desarrolle el espectáculo circense.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 92.
 
-Cuando se compruebe la intención de ocasionar la muerte de un animal, el culpable podrá ser sancionado por la Secretaría de Salud con una multa de veinte a cien unidades de salario, independientemente de las responsabilidades civiles y penales en que se incurran por la enfermedad, las lesiones o los daños causados.
+Cuando se compruebe la intención de ocasionar la muerte de un animal, el culpable podrá ser sancionado por la Secretaría de Salud con una multa de veinte a cien unidades de medida y actualización, independientemente de las responsabilidades civiles y penales en que se incurran por la enfermedad, las lesiones o los daños causados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 93.
 
-Quién incurra en las conductas previstas en las fracciones I, II, III, VII y IX del artículo 43 de esta Ley, será sancionado por el ayuntamiento correspondiente con una multa de diez a cien unidades de salario o arresto administrativo hasta por 36 horas, según la gravedad de la falta, a juicio de la citada autoridad municipal.
+Quién incurra en las conductas previstas en las fracciones I, II, III, VII y IX del artículo 43 de esta Ley, será sancionado por el ayuntamiento correspondiente con una multa de diez a cien unidades de medida y actualización o arresto administrativo hasta por 36 horas, según la gravedad de la falta, a juicio de la citada autoridad municipal.
 
 Esta misma sanción será aplicable por los actos a que se refiere el artículo 6º fracción VII de la Ley.
 
-En caso de que el médico veterinario responsable del centro de control animal del ayuntamiento respectivo, advierta que el dueño de un animal doméstico no le proporcione el alimento necesario para su subsistencia conforme a la evaluación que le sea practicada, procederá a notificar al infractor de esta disposición que cuenta con un plazo de un mes para alimentar al animal, apercibiéndolo que, en caso de incumplimiento, le será impuesta una multa de diez a cien unidades, o arresto hasta por 36 horas, perdiendo, además, la custodia del animal, el cual será trasladado al centro de control animal del ayuntamiento que corresponda.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+En caso de que el médico veterinario responsable del centro de control animal del ayuntamiento respectivo, advierta que el dueño de un animal doméstico no le proporcione el alimento necesario para su subsistencia conforme a la evaluación que le sea practicada, procederá a notificar al infractor de esta disposición que cuenta con un plazo de un mes para alimentar al animal, apercibiéndolo que, en caso de incumplimiento, le será impuesta una multa de diez a cien unidades de medida y actualización, o arresto hasta por 36 horas, perdiendo, además, la custodia del animal, el cual será trasladado al centro de control animal del ayuntamiento que corresponda.
 
 En todo caso de incumplimiento, dicho apercibimiento se hará efectivo.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 94.
 
-A quién incurra en las conductas previstas en la fracción II del artículo 14 en relación con la fracción V del artículo 17 de la presente Ley, así como en las fracciones IV, V y VI del artículo 43 de la misma, será sancionado por la Secretaría de Salud con multa de veinte a doscientas unidades de salario o arresto administrativo hasta por 36 horas.
+A quién incurra en las conductas previstas en la fracción II del artículo 14 en relación con la fracción V del artículo 17 de la presente Ley, así como en las fracciones IV, V y VI del artículo 43 de la misma, será sancionado por la Secretaría de Salud con multa de veinte a doscientas unidades de medida y actualización o arresto administrativo hasta por 36 horas.
 
-Tratándose de reincidencia, se le podrá imponer al infractor de la (sic) conductas descritas en la fracción II del artículo 14 en relación con la fracción V del artículo 17, así como la relativa a la fracción IV del artículo 43 de la presente Ley, a juicio de la Secretaría de Salud, el doble de multa, la cual, no podrá exceder en ningún caso de doscientas unidades de salario y, previa solicitud al ayuntamiento respectivo, la clausura temporal de ocho a treinta días naturales o, en su caso, la clausura definitiva del establecimiento.
+Tratándose de reincidencia, se le podrá imponer al infractor de la (sic) conductas descritas en la fracción II del artículo 14 en relación con la fracción V del artículo 17, así como la relativa a la fracción IV del artículo 43 de la presente Ley, a juicio de la Secretaría de Salud, el doble de multa, la cual, no podrá exceder en ningún caso de doscientas unidades de medida y actualización y, previa solicitud al ayuntamiento respectivo, la clausura temporal de ocho a treinta días naturales o, en su caso, la clausura definitiva del establecimiento.
 
 ###### Artículo 95.
 
 Independientemente de las sanciones descritas en los dos artículos anteriores, y a juicio de la autoridad aplicadora de la sanción, ésta podrá ordenar al infractor que le haga entrega del animal respectivo, para ponerlo a disposición de las asociaciones protectoras de animales o centros de control animal, procurando su protección y buen cuidado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 96.
 
-En caso de reincidencia, la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin que ésta exceda en ningún caso de doscientas unidades de salario.
+En caso de reincidencia, la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin que ésta exceda en ningún caso de doscientas unidades de medida y actualización.
 
 Se considera reincidente, al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de un año, contado a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción.
 
@@ -987,10 +1003,18 @@ Dado en Palacio de Gobierno, al día 31 del mes de agosto del año dos mil once.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, PROFR. FEDERICO RANGEL LOZANO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. FRANCISCO JAVIER AGUILAR ZARAGOZA. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA. Rúbrica. EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 15 DE MARZO DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los ayuntamientos contarán con un plazo de 60 días naturales contados a partir de la entrada en vigor del presente decreto, para adecuar la reglamentación respectiva de conformidad con lo previsto en el mismo.
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
