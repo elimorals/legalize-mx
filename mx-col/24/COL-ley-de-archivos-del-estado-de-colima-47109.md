@@ -4,7 +4,7 @@ identifier: "COL-ley-de-archivos-del-estado-de-colima-47109"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-26"
-last_updated: "2012-02-18"
+last_updated: "2016-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ARCHIVOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2005.
 
@@ -309,9 +309,11 @@ Se sancionarán en los términos de las Leyes aplicables la alteración, mutilac
 
 Cuando la infracción a esta Ley constituya un delito, el titular de la dependencia presentará la denuncia ante el Ministerio Público del fuero común, para los efectos legales conducentes.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-Las infracciones a esta Ley que no constituya un delito, se sancionarán con multa de diez a diez mil salarios mínimos, según la gravedad de la infracción, multa que se destinará a resarcir el daño causado y en su caso, a mejorar las medidas de conservación y seguridad de los documentos.
+Las infracciones a esta Ley que no constituya un delito, se sancionarán con multa de diez a diez mil unidades de medida y actualización, según la gravedad de la infracción, multa que se destinará a resarcir el daño causado y en su caso, a mejorar las medidas de conservación y seguridad de los documentos.
 
 ###### ARTÍCULO 36.
 
@@ -366,3 +368,11 @@ P.O. 12 DE MAYO DE 2007.
 P.O. 18 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 133 POR EL QUE SE REFORMAN DIVERSAS LEYES DEL MARCO JURÍDICO ESTATAL EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
