@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2015-11-09"
+last_updated: "2016-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -256,6 +256,12 @@ En los días señalados también disfrutará el trabajador de salario íntegro.
 En cuanto a los trabajadores de la educación, los días de descanso obligatorio serán aquellos que contemple el Calendario Escolar para el Estado de Sonora.
 
 El Calendario Escolar para el Estado de Sonora lo elaborará anualmente la dependencia responsable del ramo y deberá publicarse, cuando menos con treinta días de anticipación al inicio del año escolar, en el Boletín Oficial del Gobierno del Estado y en los medios de comunicación que aseguren su conocimiento oportuno por la comunidad sonorense.
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+ARTICULO 27 BIS.- Los trabajadores que acudan a donar sangre, tendrán derecho de ausentarse de sus labores con goce de sueldo el día de la donación; esta prerrogativa sólo será válida una vez al año.
+
+El centro de salud u hospital al cual haya acudido el trabajador a realizar su donación, deberá de expedirle una constancia de donación de sangre, la cual deberá presentar el trabajador ante el área de recursos humanos correspondiente, dentro de los 3 días hábiles siguientes al que haya realizado la donación.
 
 ###### ARTICULO 28.
 
@@ -1244,3 +1250,11 @@ B.O. 9 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 91, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA Y DE LA LEY DEL SERVICIO CIVIL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
