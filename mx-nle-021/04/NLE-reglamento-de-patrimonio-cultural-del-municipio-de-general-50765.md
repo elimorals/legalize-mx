@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-patrimonio-cultural-del-municipio-de-general-5076
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-05"
-last_updated: "2016-04-04"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PATRIMONIO CULTURAL DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de junio de 2006.
 
@@ -355,9 +355,11 @@ Al que por medio de incendio, inundación o explosión dañe o destruya un monum
 
 Los traficantes de monumentos arqueológicos, serán considerados delincuentes habituales para los efectos de este Reglamento.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 54.
 
-Cualquier infracción al presente Reglamento que no esté prevista en este Capítulo, será sancionada por los Institutos competentes y el Municipio, con multa de una a quinientas cuotas de salario mínimo vigente en el Municipio, la que podrá ser impugnada mediante el recurso de inconformidad señalado en el capítulo VII del presente Reglamento.
+Cualquier infracción al presente Reglamento que no esté prevista en este Capítulo, será sancionada por los Institutos competentes y el Municipio, con multa de una a quinientas cuotas, en el entendido de que cuota es el monto equivalente al valor diario en pesos de la Unidad de Medida y Actualización. Dicha multa podrá ser impugnada mediante el recurso de inconformidad señalado en el capítulo VII del presente Reglamento.
 
 ### CAPÍTULO VII.
 
@@ -468,6 +470,14 @@ SECRETARIO DEL R. AYUNTAMIENTO.
 P.O. 4 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO DE SESIÓN ORDINARIA CELEBRADA EN FECHA 16-DIECISÉIS DE FEBRERO DE 2016 “APROBÓ LA REFORMA POR MODIFICACIÓN DEL ARTÍCULO 1; DEL ARTÍCULO 3 FRACCIÓN III; DEL ARTÍCULO 34 ÚLTIMO PÁRRAFO; TODOS DEL REGLAMENTO DE PATRIMONIO CULTURAL DEL MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA LA REFORMA POR MODIFICACIÓN DEL ARTÍCULO 54 DEL REGLAMENTO DE PATRIMONIO CULTURAL DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.”.]
 
 Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
 
