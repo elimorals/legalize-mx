@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2016-11-10"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -365,17 +363,37 @@ V.- La atención de la salud de los habitantes del Estado, la promoción de una 
 
 VI.- (DEROGADA, P.O. 25 DE JULIO DE 2011)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-VII.- Garantizar el acceso a la información pública gubernamental y la protección de los datos personales, el derecho a la vida privada, la intimidad y la propia imagen, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos y la Ley aplicable a la materia.
+VII.- Garantizar el acceso a la información pública en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, así como de proteger los datos personales y la información relativa a la vida privada, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y la Ley aplicable a la materia.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2010)</small>
+El ejercicio del derecho de acceso a la información se regirá por los siguientes principios:
 
-Para efectos de lo establecido en el párrafo anterior, la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, será el organismo público autónomo, independiente y de carácter permanente, con personalidad jurídica y patrimonio propios, responsable de promover, difundir y garantizar en el Estado y sus Municipios, el acceso a la información pública y la protección a los datos personales en los términos que establezca la legislación de la materia y demás disposiciones que de ella emanen.
+a) Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2010)</small>
+b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
-La Comisión, se integrará y funcionará en los términos que establezca la Ley de la materia;
+c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+d) Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo, especializado e imparcial que establece esta Constitución.
+
+e) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+f) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+g) La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes de la materia.
+
+Para efectos de lo establecido en el inciso d), el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, será el organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de promover, difundir y garantizar en el Estado y sus Municipios, el acceso a la información pública, la protección de los datos personales y el uso responsable de la información en los términos que establezca la legislación de la materia y demás disposiciones aplicables.
+
+El Instituto a que se refiere esta fracción, se regirá por la ley en materia de transparencia y acceso a la información pública, la ley en materia de protección de datos personales en posesión de sujetos obligados y por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
+
+El Instituto estará conformado por tres comisionados, los cuales durarán en su encargo 6 años, sin posibilidad de reelección y serán designados por mayoría calificada del Pleno del Congreso del Estado, en los términos que establezca la ley de la materia. En su conformación se procurará la equidad de género.
+
+El Instituto tendrá un Consejo Consultivo, integrado por tres consejeros, con experiencia en acceso a la información, protección de datos y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia, que serán designados en términos de la Ley de la materia.
+
+La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones;
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
@@ -2345,9 +2363,9 @@ Los servidores públicos y particulares que incurran en responsabilidad frente a
 
 I.- Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-II.- Se impondrán, mediante juicio político, y conforme al procedimiento establecido en Ley, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza, al Gobernador del Estado, Diputados al Congreso Local, Auditor Superior, Magistrados del Tribunal Superior de Justicia, y del Tribunal de Justicia Administrativa, así como a los Consejeros de la Judicatura del Poder Judicial del Estado, por:
+II.- Se impondrán, mediante juicio político, y conforme al procedimiento establecido en la Ley de la materia, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza, al Gobernador del Estado, Diputados al Congreso Local, Auditor Superior, Magistrados del Tribunal Superior de Justicia, y del Tribunal de Justicia Administrativa, así como a los Consejeros de la Judicatura del Poder Judicial del Estado, y Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, por:
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -3439,7 +3457,7 @@ DÉCIMO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 
 P.O. 4 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia del mismo, sin perjuicio de lo dispuesto en los Artículos Transitorios siguientes.
 
@@ -3462,3 +3480,33 @@ SEXTO. Para la adecuada implementación de las reformas y adiciones a que se ref
 SÉPTIMO. Por única ocasión, los Magistrados del Tribunal de Justicia Administrativa que se nombren y ratifiquen durarán en su encargo, respectivamente, el primero de los nombrados once años, el segundo trece años y el tercero quince años.
 
 OCTAVO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas, adiciones y derogaciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA, LA FRACCIÓN VII DEL ARTÍCULO 12 Y EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 125 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El nuevo Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, deberá entrar en funciones el día seis de enero de dos mil diecisiete.
+
+Los Comisionados que actualmente conforman la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado podrán participar en el procedimiento de selección para la integración del nuevo Instituto, de conformidad con la legislación aplicable y en términos de la convocatoria que al efecto se emita.
+
+La actual Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado desempeñará sus funciones hasta el cinco de enero de dos mil diecisiete.
+
+CUARTO. La designación de los nuevos comisionados del Instituto que establece el artículo 12 fracción VII de esta Constitución será realizada a más tardar el quince de diciembre de dos mil dieciséis, de conformidad con la legislación aplicable y en términos de la convocatoria que al efecto se emita.
+
+Para garantizar la renovación escalonada de los comisionados en las primeras designaciones y nombramientos, el Congreso del Estado, por única ocasión, especificará el período de ejercicio para cada comisionado considerando lo siguiente:
+
+l. Nombrará a un comisionado, cuyo mandato concluirá el cinco de enero de dos mil veintiuno.
+
+2. Nombrará a un comisionado, cuyo mandato concluirá el cinco de enero de dos mil veintidós.
+
+3. Nombrará a un comisionado, cuyo mandato concluirá el cinco de enero de dos mil veintitrés.
+
+QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán ante el organismo garante que establece el artículo 12 fracción VII de esta Constitución, creado en los términos del presente Decreto.
+
+SEXTO. Los recursos financieros y materiales, así como los trabajadores adscritos a la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, se transferirán al organismo público constitucional autónomo creado.
+
+SÉPTIMO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
