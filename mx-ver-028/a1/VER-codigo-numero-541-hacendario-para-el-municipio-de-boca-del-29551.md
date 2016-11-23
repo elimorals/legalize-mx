@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2016-11-22"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -3017,13 +3017,91 @@ De 5,001 a 10,000 asistentes: 80
 
 De 10,001 en adelante: 90
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPÍTULO XV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 247 Ter.
+
+Es objeto de los derechos a que se refiere este Capítulo, la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 247 Quáter.
+
+Son sujetos de estos derechos el propietario o poseedor del predio donde se presten o se soliciten los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 247 Quinquies.
+
+Los derechos a que se refiere este Capítulo, por los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos se causarán de conformidad con lo siguiente:
+
+[VÉASE TABLAS PUBLICADAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 4 A LA 5]
+
+Para el cobro del servicio de drenaje se asignará el 25% del costo del servicio de agua.
+
+Para el cobro del servicio de saneamiento se aplicará el 30% del costo del servicio de agua.
+
+MODALIDAD SERVICIO MEDIDO
+
+Tarifas del Servicio de Agua Potable
+
+[VÉASE TABLAS PUBLICADAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2016, PÁGINA 6]
+
+Para el cobro del servicio de drenaje se asignará el 25% del costo del servicio de agua.
+
+Para el cobro del servicio de saneamiento se aplicará el 30% del costo del servicio de agua.
+
+COSTOS DIVERSOS
+
+[VÉASE TABLAS PUBLICADAS EN LA G.O. DE 23 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 7 A LA 13]
+
+A las tarifas por los servicios de agua potable, drenaje y saneamiento de uso no doméstico, se les aplicará el cargo del Impuesto al Valor Agregado (IVA).
+
+A las tarifas por los servicios de drenaje y saneamiento de uso doméstico, se les aplicara el cargo del Impuesto al Valor Agregado (IVA).
+
+Las tarifas por los servicios de agua potable de uso doméstico, estarán exentas del Impuesto al Valor Agregado (IVA).
+
+Los derechos de servicios, costos de instalación de servicios de agua potable y alcantarillado sanitario serán gravados con el Impuesto al Valor Agregado (IVA).
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 247 Sexies.
+
+Los sujetos de estos derechos que opten por el pago anual podrán efectuarlo en los meses de enero y febrero, en una sola exhibición y, en este caso, obtendrán un descuento del diez por ciento.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 247 Septies.
+
+Los contribuyentes de estos derechos que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, o mensual, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de estos derechos. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
+
+Las personas mayores de sesenta años, contribuyentes de estos derechos, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo.
+
+A estos descuentos no se podrá adicionar el descuento señalado en el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 247 Octies.
+
+La Tesorería tendrá acción real para el cobro de estos derechos y de las prestaciones accesorias a éste.
+
+En consecuencia, el procedimiento administrativo de ejecución, que establece el Código de la materia, afectará directamente los predios y a quien resulte ser el propietario, nudopropietario, copropietario, poseedor o coposeedor.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 247 Nonies.
+
+Los Notarios Públicos exigirán la constancia de no adeudo en el pago de estos derechos y la última boleta o recibo de pago, correspondiente al ejercicio fiscal en que se efectúe la operación que corresponda.
+
+### CAPÍTULO ÚNICO
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### Artículo 248.
 
@@ -3261,7 +3339,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 269.
 
@@ -3321,7 +3399,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 274.
 
@@ -3341,7 +3419,7 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### Artículo 277.
 
@@ -3353,7 +3431,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 278.
 
@@ -3383,7 +3461,7 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 283.
 
@@ -3453,7 +3531,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
 ###### Artículo 294.
 
@@ -3471,7 +3549,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
 #### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -3581,7 +3659,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
 #### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
@@ -3641,7 +3719,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
 #### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
@@ -3821,7 +3899,7 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 #### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
@@ -4013,7 +4091,7 @@ El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación
 
 De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 #### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
 
@@ -4177,7 +4255,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### Artículo 397.
 
@@ -4241,7 +4319,7 @@ También se considera deuda extraordinaria la que autorice el H. Congreso del Es
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 398, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 404.
 
@@ -4321,9 +4399,7 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 408.
 
@@ -4357,7 +4433,9 @@ XII. Los demás requisitos que fije el Congreso.
 
 El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 410.
 
@@ -4421,7 +4499,7 @@ Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 420.
 
@@ -4465,7 +4543,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
 
 ###### Artículo 423.
 
@@ -4553,7 +4631,7 @@ Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismo
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 434.
 
@@ -4581,7 +4659,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO III. DEL INVENTARIO
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 436.
 
@@ -4673,7 +4751,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO III. DEL INVENTARIO
 
 ###### Artículo 444.
 
@@ -4703,7 +4781,7 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPÍTULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### Artículo 445.
 
@@ -4741,7 +4819,7 @@ La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica 
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+### CAPÍTULO II. DE LOS BIENES INMUEBLES
 
 ###### Artículo 449.
 
@@ -4750,6 +4828,8 @@ El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas rel
 ###### Artículo 450.
 
 Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
+
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
 
 ###### Artículo 451.
 
@@ -5110,5 +5190,13 @@ G.O. 22 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 908 POR EL QUE SE REFORMA EL ARTÍCULO 169 DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, VER”.]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 888 POR EL QUE SE ADICIONA EL CAPÍTULO XV DEL TÍTULO SEGUNDO DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, VER”.]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
