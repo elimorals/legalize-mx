@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2015-12-22"
+last_updated: "2016-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -175,29 +175,9 @@ a) Dirección General Adjunta de Planeación e Infraestructura;
 
 b) Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
-c) Dirección General Adjunta de Operación Regional;
+c) (DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
-d) Diez Direcciones Regionales, las cuales operarán en la sede y con competencia en las circunscripciones territoriales que a continuación se señalan:
-
-d.1) Noreste.- Con sede en Monterrey, Nuevo León, circunscripción: estados de Nuevo León, Coahuila y Tamaulipas;
-
-d.2) Norte.- Con sede en Durango, Durango, circunscripción: estados de Durango, Chihuahua y Zacatecas;
-
-d.3) Noroeste.- Con sede en Hermosillo, Sonora, circunscripción: estados de Sonora, Baja California, Baja California Sur y Sinaloa;
-
-d.4) Occidente.- Con sede en Guadalajara, Jalisco, circunscripción: estados de Jalisco, Colima, Michoacán y Nayarit;
-
-d.5) Centro Norte.- Con sede en San Luis Potosí, San Luis Potosí, circunscripción: estados de San Luis Potosí, Aguascalientes, Guanajuato y Querétaro;
-
-d.6) Centro Sur.- Con sede en Toluca, Estado de México, circunscripción: estados de México, Guerrero y Morelos;
-
-d.7) Oriente.- Con sede en Puebla, Puebla, circunscripción: estados de Puebla, Hidalgo, Tlaxcala y Veracruz;
-
-d.8) Sur.- Con sede en Oaxaca, Oaxaca, circunscripción: estados de Oaxaca, Chiapas y Tabasco;
-
-d.9) Sureste.- Con sede en Mérida, Yucatán, circunscripción: estados de Yucatán, Campeche y Quintana Roo, y
-
-d.10) Centro.- Con sede en la Ciudad de México, Distrito Federal, circunscripción: Distrito Federal;
+d) (DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -217,9 +197,45 @@ b) Dirección General Adjunta de Programación, Organización y Presupuesto;
 
 c) Dirección General Adjunta de Recursos Materiales y Servicios Generales;
 
-d) Dirección General Adjunta de Informática, y
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-e) Dirección General Adjunta de Asuntos Jurídicos;
+d) Dirección General Adjunta de Administración de Riesgos y Transparencia.
+
+e) (DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Coordinación General de Asuntos Jurídicos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+IX. Coordinación General de Informática;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+X. Coordinación General de Operación Regional:
+
+a) Diez Direcciones Regionales, las cuales operarán en la sede y con competencia en las circunscripciones territoriales que a continuación se señalan:
+
+1) Noreste.- Con sede en Monterrey, Nuevo León, circunscripción: estados de Nuevo León, Coahuila y Tamaulipas;
+
+2) Norte.- Con sede en Durango, Durango, circunscripción: estados de Durango, Chihuahua y Zacatecas;
+
+3) Noroeste.- Con sede en Hermosillo, Sonora, circunscripción: estados de Sonora, Baja California, Baja California Sur y Sinaloa;
+
+4) Occidente.- Con sede en Guadalajara, Jalisco, circunscripción: estados de Jalisco, Colima, Michoacán y Nayarit;
+
+5) Centro Norte.- Con sede en San Luis Potosí, San Luis Potosí, circunscripción: estados de San Luis Potosí, Aguascalientes, Guanajuato y Querétaro;
+
+6) Centro Sur.- Con sede en Toluca, Estado de México, circunscripción: estados de México, Guerrero y Morelos;
+
+7) Oriente.- Con sede en Puebla, Puebla, circunscripción: estados de Puebla, Hidalgo, Tlaxcala y Veracruz;
+
+8) Sur.- Con sede en Oaxaca, Oaxaca, circunscripción: estados de Oaxaca, Chiapas y Tabasco;
+
+9) Sureste.- Con sede en Mérida, Yucatán, circunscripción: estados de Yucatán, Campeche y Quintana Roo, y
+
+10) Centro.- Con sede en la Ciudad de México, circunscripción: Ciudad de México.
 
 El Instituto contará además, con las áreas y los servidores públicos a que hace referencia el artículo 12 de este Reglamento, cuyas atribuciones deberán contenerse y especificarse en los Manuales de Organización de las Unidades Administrativas del Instituto.
 
@@ -311,7 +327,9 @@ XXVI. Acordar sobre el apoyo que le solicite el Ejecutivo Federal y las instanci
 
 XXVII. Determinar, previa justificación, las excepciones a la divulgación de los convenios de intercambio de información que celebre el Instituto con otros organismos o agencias nacionales o extranjeras;
 
-XXVIII. Designar al Titular de la Contraloría Interna; aprobar el Anteproyecto del Presupuesto de la misma, y nombrar al Auditor Externo en términos de lo dispuesto por el artículo 91 de la Ley;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXVIII. Aprobar el anteproyecto de presupuesto de la Contraloría Interna y nombrar al Auditor Externo en términos de lo dispuesto por el artículo 91 de la Ley;
 
 XXIX. Dictar las normas para poner a disposición de los usuarios la Información de Interés Nacional;
 
@@ -377,6 +395,10 @@ X. Presentar para su aprobación a la Junta de Gobierno el Código de Etica del 
 
 XI. Guardar los principios de confidencialidad y reserva que la Ley establece respecto de los datos que los informantes del Sistema proporcionen para fines estadísticos al Instituto, así como, respecto de la información de carácter confidencial que provenga de registros administrativos de las Unidades del Estado, y
 
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XI Bis. Resolver los recursos de revisión promovidos en términos de lo dispuesto por el Título Quinto de la Ley, en contra de los actos ejecutados por los titulares de las Unidades Administrativas, y
+
 > <small>(F. DE E., D.O.F. 10 DE ABRIL DE 2009)</small>
 
 XII. Las demás que estén contempladas en la Ley, en el presente Reglamento y en otras disposiciones legales y normativas aplicables.
@@ -419,6 +441,10 @@ II. Presidir los Comités Ejecutivos de los Subsistemas de su competencia, los c
 
 III. Coordinar y dar seguimiento a las actividades de los Secretarios Técnicos de los Comités Técnicos Especializados correspondientes al sector de su competencia;
 
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+III Bis. Coordinar con el correspondiente Titular de la Unidad Administrativa del Instituto, los asuntos relacionados a la generación y difusión de la Información del Subsistema que presiden;
+
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 IV. Presentar asuntos y rendir informes sobre las actividades de su competencia ante la Junta de Gobierno, en términos de las disposiciones aplicables;
@@ -459,9 +485,11 @@ XII. Aquéllas que le asigne expresamente la Junta de Gobierno, así como las qu
 
 De las Atribuciones de las Direcciones Generales del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 11.
 
-Al frente de las Direcciones Generales a que hace referencia el artículo 3 de este Reglamento, estará un Titular, quien en adición a las atribuciones específicas que le otorgue el presente Reglamento a la Unidad Administrativa a su cargo, tendrá las siguientes:
+Al frente de las Direcciones Generales y Coordinaciones Generales a que hace referencia el artículo 3 de este Reglamento, estará un Titular, quien en adición a las atribuciones específicas que le otorgue el presente Reglamento a la Unidad Administrativa a su cargo, tendrá las siguientes:
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -479,13 +507,21 @@ II. Participar en la elaboración y dar seguimiento al Programa Estratégico del
 
 III. Acordar con el Presidente los asuntos relevantes de la Unidad Administrativa a su cargo;
 
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+III Bis. Coadyuvar al Vicepresidente del Subsistema que le corresponda, a la planeación del mismo e informarle sobre la generación y difusión de la Información relacionada con el Subsistema;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+III Ter. Coordinar con el Vicepresidente del Subsistema que le corresponda, las relaciones de colaboración que se establezcan con las Unidades del Estado e informarle sobre los resultados de los proyectos que se realicen con las mismas;
+
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 IV. Apoyar el desarrollo y operación del Sistema Nacional de Información Estadística y Geográfica, los Subsistemas y los diferentes Organos Colegiados del mismo, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-V. Representar al Instituto ante las Unidades del Estado, el medio académico, las organizaciones empresariales, los organismos no gubernamentales, organizaciones de otros países y organismos internacionales en el ámbito de su competencia;
+V. Representar al Instituto ante las Unidades del Estado, el medio académico, las organizaciones empresariales, los organismos no gubernamentales, organizaciones de otros países y organismos internacionales en el ámbito de su competencia, en coordinación con el Vicepresidente del Subsistema que le corresponda;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -519,9 +555,9 @@ XII. Formular los anteproyectos de programas y de presupuesto de la Unidad Admin
 
 XIII. Promover y participar en el diseño y realización de los Programas de Capacitación de los servidores públicos del Instituto y de las Unidades del Estado, en coordinación con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, y/o la Dirección General de Administración, según corresponda;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-XIV. Ejercer el presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de acuerdo a las disposiciones normativas aplicables;
+XIV. Autorizar el ejercicio del presupuesto asignado a la Unidad Administrativa a su cargo, así como la adquisición con cargo al mismo, de los bienes y servicios necesarios para el cumplimiento de sus funciones, de acuerdo a las disposiciones normativas aplicables;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -559,13 +595,17 @@ XXII. Informar a la Dirección General de Coordinación del Sistema Nacional de 
 
 XXIII. Las demás que le confiera la Junta de Gobierno, el Presidente, así como aquellas atribuciones específicas que la Ley otorgue al Instituto en el ámbito de su competencia, las que establezca el presente Reglamento y las demás disposiciones legales y normativas aplicables.
 
-Las funciones establecidas en este artículo serán indelegables para el Titular de cada Dirección General, salvo en aquellos casos en que el presente Reglamento así lo permita.
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+Las funciones establecidas en este artículo serán indelegables para el Titular de cada Dirección General y Coordinación General, salvo en aquellos casos en que el presente Reglamento o la legislación y normatividad administrativa aplicable así lo permita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 12.
 
-Las Direcciones Generales y la Contraloría Interna del Instituto estarán a cargo de un Titular, el cual contará para el ejercicio de sus atribuciones con el auxilio de los Directores Generales Adjuntos, Directores de Area, Subdirectores de Area, y Jefes de Departamento, que para tal efecto se precisen en los Manuales de Organización, así como por el personal de enlace y operativo que se requiera para satisfacer las necesidades del servicio, y que figuren en el presupuesto del Instituto.
+Las Direcciones Generales, las Coordinaciones Generales y la Contraloría Interna del Instituto estarán a cargo de un Titular, el cual contará para el ejercicio de sus atribuciones con el auxilio de los Directores Generales Adjuntos, Directores de Área, Subdirectores de Área, y Jefes de Departamento, que para tal efecto se precisen en los Manuales de Organización, así como por el personal de enlace y operativo que se requiera para satisfacer las necesidades del servicio, y que figuren en el presupuesto del Instituto.
+
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 Los Titulares de las Direcciones Generales de Estadísticas Sociodemográficas, Estadísticas Económicas y de Geografía y Medio Ambiente, conforme al presupuesto autorizado, podrán contar con el auxilio de un asesor especializado con nivel de Director General Adjunto, el cual, para apoyar el desarrollo y operación de los Subsistemas de Información y sus Organos Colegiados, podrá auxiliarse del personal de mando y de enlace que está adscrito a las Direcciones Generales de Estadísticas Sociodemográficas, Estadísticas Económicas y de Geografía y Medio Ambiente, según corresponda.
 
@@ -2027,9 +2067,9 @@ XIV. Las facultades que expresamente le otorga el artículo 11 de este Reglament
 
 Son atribuciones específicas de la Dirección General Adjunta de Integración de Información, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-I. Proporcionar la asesoría técnica y la capacitación que se requieren para el funcionamiento operativo de las áreas centrales y, en coordinación con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, de las regionales y estatales del Instituto que participan en los procesos de integración de estadística;
+I. Proporcionar la asesoría técnica y la capacitación que se requieren para el funcionamiento operativo de las áreas centrales y, en conjunto con la Coordinación General de Operación Regional, de las regionales y estatales del Instituto que participan en los procesos de integración de estadística;
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
 
@@ -2165,11 +2205,11 @@ X. Coordinar, con las Unidades Administrativas competentes en el Instituto, las 
 
 X bis. Coordinar las actividades para la determinación de las faltas administrativas por infracciones a la Ley.
 
-XI. Establecer en coordinación con las Unidades Administrativas del Instituto, criterios de gestión, evaluación del desempeño, coordinación, prioridades y metas aplicables a las Direcciones Regionales y Coordinaciones Estatales;
+XI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
-XII. Dirigir y evaluar a las Direcciones Regionales y Coordinaciones Estatales, de acuerdo con los criterios, políticas, lineamientos y programas de trabajo autorizados;
+XII. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
-XIII. Proponer al Presidente el nombramiento y remoción de los Titulares de las Direcciones Regionales y Coordinaciones Estatales del Instituto;
+XIII. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2183,15 +2223,15 @@ XVII. Conducir actividades de coordinación entre el Instituto y las Unidades de
 
 XVIII. Coordinar y dar seguimiento a la integración y funcionamiento de las instancias de participación del Sistema, prevista por la Ley, así como dar seguimiento a su adecuado funcionamiento;
 
-XIX. Coordinar la participación de las Direcciones Regionales y Coordinaciones Estatales, en los Comités Técnicos Especializados constituidos en el ámbito de su jurisdicción geográfica;
+XIX. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 > <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
 XIX. Bis Coordinar, con el apoyo de las Unidades Administrativas del Instituto, la integración y actualización del Catálogo Nacional de Indicadores a que hace referencia el artículo 56 de la Ley, en los términos que al efecto apruebe la Junta de Gobierno;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-XX. Coordinar la integración de las acciones de capacitación y actualización de los servidores públicos de las Unidades del Sistema, y
+XX. Coordinar la integración de las acciones de capacitación y actualización de los servidores públicos de las Unidades del Estado, y
 
 XXI. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
@@ -2233,7 +2273,7 @@ XIII. Desarrollar y administrar el Portal del Sistema Nacional de Información E
 
 XIV. Llevar a cabo las acciones de coordinación para conservar la Información de Interés Nacional elaborada por las Unidades Administrativas del Instituto y demás Unidades del Estado, y conformar con la misma el Acervo de Información del Instituto, conforme a las disposiciones normativas que al efecto emita la Junta de Gobierno;
 
-XV. Integrar, operar y actualizar un registro de los instrumentos jurídicos que hayan suscrito servidores públicos adscritos a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica con las Unidades del Estado;
+XV. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 XVI. Proponer las disposiciones normativas para la integración y actualización del Catálogo Nacional de Indicadores a que hace referencia el artículo 56 de la Ley;
 
@@ -2281,7 +2321,9 @@ Determinar las faltas administrativas con motivo de las infracciones que estable
 
 XV. Coadyuvar con la Dirección General de su adscripción en la difusión del Código de Ética del Sistema;
 
-XVI. Llevar a cabo las acciones de coordinación con las Unidades Administrativas del Instituto para apoyar la instrumentación de un programa de capacitación y actualización para los servidores públicos de las Unidades del Sistema que realizan Actividades Estadísticas y Geográficas.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVI. Llevar a cabo las acciones de coordinación con las Unidades Administrativas del Instituto para apoyar la instrumentación de un programa de capacitación y actualización para los servidores públicos de las Unidades del Estado que realizan Actividades Estadísticas y Geográficas, y
 
 XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
@@ -2359,107 +2401,7 @@ XV. Las facultades que expresamente le otorga a su Titular el artículo 13 de es
 
 ###### ARTICULO 37.
 
-Las Direcciones Regionales del Instituto, estarán adscritas a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, al frente de las mismas habrá un Director Regional, al cual corresponderá el ejercicio de las atribuciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-I. Evaluar y dar seguimiento a la ejecución del Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica; al Programa Nacional de Estadística y Geografía, al Programa Anual de Estadística y Geografía y al Programa Anual de Trabajo del Instituto, en el ámbito de su circunscripción territorial, así como emitir los reportes de resultados correspondientes;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-II. Operar estrategias y criterios de mejora de la gestión y de control de calidad, en el ámbito de su circunscripción territorial, para garantizar la homogeneidad de los procesos y programas que realizan las Coordinaciones Estatales, tomando en cuenta los estándares nacionales y las mejores prácticas en la materia;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-III. Planear, conducir, apoyar y supervisar, en coordinación con otras instituciones participantes, las acciones necesarias para realizar los programas de colaboración Geoespacial; de Modernización de Registros Públicos de la Propiedad y Catastros, y demás programas Interinstitucionales que promueve el Instituto, en el ámbito de su circunscripción territorial;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-IV. Diseñar y proponer a la Dirección General Adjunta de Operación Regional los programas de capacitación de los servidores públicos adscritos a la Dirección Regional y a las Coordinaciones Estatales de su jurisdicción territorial y participar en su implementación;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-V. Supervisar en el ámbito de su circunscripción territorial, la aplicación de los ordenamientos que integran el marco jurídico del Instituto;
-
-> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
-
-VI. Promover y difundir la información estadística y geográfica que genera e integra el Instituto y coordinar el funcionamiento de los Centros de Información del Instituto administrados por las Coordinaciones Estatales de su circunscripción territorial;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-VII. Coordinar la atención de los requerimientos de información, asistencia, cooperación técnica, y desarrollo del Sistema Nacional de Información Estadística y Geográfica, los Subsistemas y los diferentes Organos Colegiados del mismo, en el ámbito de su circunscripción territorial;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-VIII. Fungir como área técnica de consulta de los Comités Técnicos Especializados del Sistema constituidos en el ámbito de su jurisdicción geográfica;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-IX. Informar al Director General de su adscripción, las infracciones cometidas a la Ley, de las que tenga conocimiento, así como apoyar a la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información para realizar las actuaciones necesarias para llevar a cabo el proceso de determinación de faltas administrativas por infracciones a la Ley.
-
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2015)</small>
-
-IX Bis. Instruir a los servidores públicos de las Áreas Administrativas a su cargo, a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los informantes en coordinación con su superior jerárquico y las Unidades Administrativas responsables del operativo para recabar la información. Dichas diligencias se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-X. Firmar y notificar los acuerdos de trámite, así como las resoluciones o acuerdos que emitan con fundamento en las atribuciones que les correspondan, así como aquéllos que para tal efecto le sean turnados por autoridades superiores, haciendo constar por escrito su atención;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XI. Formular dictámenes, opiniones e informes que les sean solicitados por sus superiores jerárquicos, rindiendo el informe correspondiente al Director General de su adscripción;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XII. Administrar los recursos humanos de su adscripción de acuerdo con los programas de trabajo de la Dirección Regional y de las Coordinaciones Estatales y conforme a la normatividad vigente. Podrá delegar en las Coordinaciones Estatales la atribución de suscribir y resguardar los nombramientos del personal eventual que se contrate para la ejecución de operativos censales y de encuestas;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIII. Formular los anteproyectos de programas y de presupuesto de la Dirección Regional a su cargo, conforme a los lineamientos que al efecto establezca la Dirección General de Administración;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIV. Coordinar el ejercicio del presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir o contratar directamente con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de sus programas y metas, de acuerdo a las disposiciones normativas aplicables;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XV. Suscribir bases, contratos, convenios y acuerdos con organismos públicos, dependencias y entidades de la Administración Pública Federal, de las entidades federativas, el Distrito Federal y los municipios, instituciones educativas, y organismos no gubernamentales, cuando éstos tengan por objeto actos que deban tener lugar en el ámbito de su jurisdicción territorial;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVI. Suscribir y vigilar el cumplimiento de los contratos de adquisiciones, arrendamientos y comodatos de bienes muebles e inmuebles, servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas, y sus modificaciones, que celebre y otorgue el Instituto en el ámbito de su jurisdicción territorial, determinar sobre la suspensión, y autorizar el finiquito, la terminación anticipada y la rescisión de los mismos, en coordinación con la Dirección General Adjunta de Asuntos Jurídicos. Podrá delegar en las Coordinaciones Estatales la atribución de suscribir los contratos de arrendamientos y comodatos de bienes inmuebles, y sus modificaciones, que celebre y otorgue el Instituto en el ámbito de su jurisdicción territorial para la ejecución de operativos censales;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVII. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos con ellos celebrados en el ámbito de su jurisdicción territorial;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVIII. Las Direcciones Regionales para el ejercicio de sus funciones, contarán con las Coordinaciones Estatales que para tal efecto se determine en el Manual de Organización de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, las que estarán a cargo de un Coordinador Estatal, quien ejecutará los programas del Instituto, dentro de la Entidad Federativa de su circunscripción;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIX. Las Direcciones Regionales apoyarán, supervisarán y evaluarán la operación y funcionamiento de las Coordinaciones Estatales, quienes representarán al Instituto ante las autoridades estatales y municipales que correspondan a las entidades federativas de su circunscripción. Las Coordinaciones Estatales cuentan para su funcionamiento con capacidad técnica y administrativa para ejecutar los programas del Instituto en el ámbito de su jurisdicción territorial;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XX. Las Direcciones Regionales constituirán Consejos Técnicos Regionales como espacios de coordinación, en los que se evalúen los programas del Instituto dentro de las entidades federativas de su jurisdicción y se fortalezca la relación de trabajo entre el personal de mando de las Direcciones Regionales y de las Coordinaciones Estatales. Las reuniones del Consejo Técnico Regional se celebrarán mensualmente en los diversos recintos conectados a través del Sistema de Videoconferencia Institucional y para su desarrollo se nombrará un Secretario Técnico, quien se responsabilizará de levantar el acta de las reuniones y de dar seguimiento a los compromisos adquiridos;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXI. Elaborar propuestas sobre la reorganización de la Dirección Regional y de las Coordinaciones Estatales de su circunscripción territorial;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXII. Expedir copias certificadas de la documentación generada en ejercicio de las atribuciones conferidas a la Dirección Regional a su cargo, que obre en el archivo de la misma, o en el que integren los servidores públicos bajo su adscripción, siempre que medie solicitud de parte que acredite su interés jurídico;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXIII. Apoyar en la difusión de las Normas Técnicas que emita la Junta de Gobierno y asesorar a las Unidades del Estado en su implementación en el ámbito de su circunscripción Territorial, y
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+(DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2589,6 +2531,10 @@ X. Proponer disposiciones tendientes a normar la Identidad Institucional;
 
 XI. Dirigir la generación y conservación de videos para promover el conocimiento y uso de información estadística y geográfica así como la integración del banco de imágenes;
 
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XI Bis. Proponer y aplicar las políticas de comunicación organizacional e instrumentar los mecanismos para la difusión de contenidos que fortalezcan la identidad y cultura institucional;
+
 XII. Implementar las acciones de comunicación social del Instituto, así como, apoyar y asesorar a las Unidades Administrativas en dicha materia;
 
 XIII. Diseñar e implementar las campañas masivas de comunicación para promover el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
@@ -2619,7 +2565,9 @@ III. Llevar a cabo trámites ante las instancias competentes del Gobierno Federa
 
 IV. Coordinar las comparecencias y presentaciones del Presidente y, en su caso, de los Vicepresidentes y otros servidores públicos del Instituto ante las diversas instancias del Congreso de la Unión;
 
-V. Proponer proyectos de iniciativas y reformas de ley relacionadas con las materias competencia del Instituto, en coordinación con la Dirección General Adjunta de Asuntos Jurídicos, y
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+V. Proponer ante las instancias competentes, con la opinión de la Coordinación General de Asuntos Jurídicos, proyectos de iniciativas y reformas de leyes relacionadas con las materias competencia del Instituto, y
 
 VI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
@@ -2633,7 +2581,9 @@ Son atribuciones específicas de la Dirección General de Administración, las s
 
 I. Proponer al Presidente, para la aprobación de la Junta de Gobierno, las medidas administrativas que estime convenientes para la adecuada organización y funcionamiento del Instituto;
 
-II. Establecer de acuerdo a las políticas aprobadas por la Junta de Gobierno, las directrices, lineamientos y criterios técnicos para el proceso de programación, presupuestación, evaluación presupuestal e informática del Instituto, y coordinar su aplicación;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+II. Establecer de acuerdo a las políticas aprobadas por la Junta de Gobierno, las directrices, lineamientos y criterios técnicos para el proceso de programación, presupuestación y evaluación presupuestal del Instituto, así como coordinar su aplicación;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2669,21 +2619,25 @@ XV. Emitir los nombramientos de los servidores públicos que sean designados por
 
 XVI. Establecer mecanismos que propicien que las adquisiciones de bienes, servicios, arrendamientos y obras públicas se realicen con estricto apego a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-XVII. Suscribir bases, contratos, convenios y acuerdos con organismos públicos, dependencias y entidades de la Administración Pública Federal, de las entidades federativas, del Distrito Federal y de los municipios, instituciones educativas, organismos internacionales y organismos no gubernamentales en el ámbito de su competencia;
+XVII. Suscribir bases, contratos, convenios y acuerdos con organismos públicos, dependencias y entidades de la Administración Pública Federal, de las entidades federativas y de los municipios, instituciones educativas, organismos internacionales y organismos no gubernamentales en el ámbito de su competencia;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 XVIII. Suscribir contratos y convenios de adquisiciones y arrendamientos de bienes muebles e inmuebles, servicios de cualquier naturaleza, obras públicas que celebre y otorgue el Instituto y sus modificaciones, así como los demás actos de administración que prevean las disposiciones legales y administrativas aplicables para el Instituto, que no hayan sido conferidas expresamente a otros servidores públicos del mismo;
 
-XIX. Coordinar que se proporcionen a las Unidades Administrativas del Instituto los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático y comunicaciones;
+XIX. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
-XX. Fungir como Presidente del Comité de Información y Titular de la Unidad de Transparencia del Instituto, coordinando con sus Unidades Administrativas, el cumplimiento de las disposiciones aplicables en materia de transparencia y acceso a la información pública gubernamental;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-XXI. Coordinar la atención de los asuntos jurídicos del Instituto,
+XX. Fungir como Presidente del Comité de Transparencia y Titular de la Unidad de Transparencia, coordinando con las Unidades Administrativas del Instituto, el cumplimiento de las disposiciones aplicables en materia de transparencia, acceso a la información pública y protección de datos personales;
 
-XXII. Resolver los recursos de revisión promovidos en términos de lo dispuesto por el Título Quinto de la Ley, en contra de los actos ejecutados por la Dirección General Adjunta de Asuntos Jurídicos, en ejercicio de la atribución que le confiere lo dispuesto por la fracción XXII, del artículo 46 del presente Reglamento, y
+XXI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
+
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Resolver los recursos de revisión promovidos en términos de lo dispuesto por el Título Quinto de la Ley, en contra de los actos ejecutados por las Direcciones Generales Adjuntas de la Unidad Administrativa a su cargo, y
 
 XXIII. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
@@ -2717,9 +2671,7 @@ IX. Proponer, difundir y aplicar políticas de seguridad e higiene de carácter 
 
 X. Proponer, conforme a la periodicidad que corresponda, la actualización de las Condiciones Generales de Trabajo, así como propiciar su aplicación y asesorar al personal y a las Unidades Administrativas del Instituto, en materia de los derechos y obligaciones derivados de la relación laboral;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XI. Difundir la Misión, Visión y Código de Etica del Sistema entre los servidores públicos del Instituto;
+XI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2733,7 +2685,7 @@ XIII. Integrar la elaboración y administrar los programas de capacitación y de
 
 XIV. Asesorar en la elaboración de metodologías que contribuyan a la mejora continua de los procesos de trabajo de las Unidades Administrativas del Instituto;
 
-XV. Proponer y aplicar las políticas de comunicación organizacional e instrumentar los mecanismos para la difusión de contenidos que fortalezcan la identidad y cultura institucional;
+XV. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 XVI. Establecer mecanismos de control para el cumplimiento de los lineamientos y normas establecidas en lo referente al uso racional de las instalaciones, equipos y materiales asignados para el desarrollo de actividades culturales, deportivas y recreativas en el Instituto;
 
@@ -2797,9 +2749,7 @@ X. Integrar el programa de inversión anual autorizado al Instituto y dar seguim
 
 XI. Proponer los sistemas de registro y control del presupuesto y contabilidad, y coordinar su operación;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XII. Coordinar el Programa Institucional de Mejora Regulatoria;
+XII. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2833,13 +2783,9 @@ XIX. Fungir como representante legal del Instituto ante: el Servicio de Administ
 
 XX. Coordinar las acciones necesarias para mantener actualizados, en conjunto con las Unidades Administrativas del Instituto, los manuales de organización y procedimientos, así como llevar su registro y control;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XXI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
-XXI. Promover la mejora de los trámites y procesos del Instituto, a través de la aplicación de metodologías y técnicas de mejora continua;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXII. Dar seguimiento al cumplimiento de las disposiciones en materia de transparencia y acceso a la información pública e integrar la documentación relacionada con los acuerdos adoptados por el Comité de Información y las acciones competencia de la Unidad de Transparencia del Instituto;
+XXII. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 > <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2919,75 +2865,59 @@ XVI. Suscribir los contratos y convenios de arrendamiento, comodato o cualquiera
 
 XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 45.
 
-La Dirección General Adjunta de Informática, contará con las atribuciones específicas siguientes:
+La Dirección General Adjunta de Administración de Riesgos y Transparencia, contará con las atribuciones específicas siguientes:
 
-I. Proponer las políticas y lineamientos en materia informática y de comunicaciones, para su aprobación por la Junta de Gobierno y conducir su aplicación, con el propósito de armonizar el desarrollo de las tecnologías de información en el Instituto y su comunicación con el Sistema;
+I. Promover, coordinar y asesorar la implantación y mejora continua del control interno institucional;
 
-II. Ejecutar las políticas, lineamientos, sistemas y disposiciones administrativas internas que propicien la administración racional y eficiente de los recursos tecnológicos y de comunicación del Instituto, así como realizar las acciones que en materia de informática y comunicaciones corresponden al Instituto como coordinador del Sistema;
+II. Promover la cultura de administración de riesgos y asesorar a las Unidades Administrativas del Instituto en la identificación de riesgos que afecten el logro de sus objetivos, así como en la determinación de las medidas necesarias para su mejor administración;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+III. Apoyar las acciones que, en materia de riesgos, sean acordadas en el seno del Comité de Auditoría y Riesgos en términos de lo dispuesto por las disposiciones normativas aplicables;
 
-III. Integrar el presupuesto informático del Instituto, considerando para ello las necesidades de las áreas y Unidades Administrativas;
+IV. Promover y realizar acciones para fortalecer una cultura de respeto a los derechos humanos, legalidad, transparencia, comportamiento ético, inclusión e igualdad entre los servidores públicos del Instituto;
 
-IV. Dictaminar técnicamente la adquisición, contratación de servicios, instalación, operación y mantenimiento de las tecnologías de información y comunicaciones, incluyendo sus componentes físicos y lógicos, que sean necesarios para soportar las atribuciones del Instituto;
+V. Apoyar las acciones a realizar por el Comité de Ética en términos de lo dispuesto por las disposiciones normativas aplicables y vigilar el adecuado cumplimiento de los acuerdos adoptados por dicho Órgano Colegiado;
 
-V. Establecer mecanismos de cooperación en materia informática para proyectos interinstitucionales;
+VI. Dar seguimiento al cumplimiento de las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales y las acciones competencia de la Unidad de Transparencia del Instituto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+VII. Dar seguimiento a las acciones ordenadas por el Comité de Transparencia en términos de lo dispuesto por las disposiciones normativas aplicables y vigilar el adecuado cumplimiento de los acuerdos adoptados por dicho órgano colegiado;
 
-VI. Coordinar los servicios de red, telefonía, cómputo, soporte y desarrollo de sistemas, así como, llevar un control y evaluación de los mismos;
+VIII. Dar atención y seguimiento a las acciones previstas en el Programa Institucional de Igualdad de Género correspondiente y promover las mismas entre las Unidades Administrativas;
 
-VII. Diseñar, coordinar y supervisar de manera continua el Sistema Integral de Seguridad Informática y de Comunicaciones del Instituto;
+IX. Identificar las mejores prácticas administrativas y promover y asesorar su implementación en el Instituto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+X. Coordinar el Programa Institucional de Mejora Regulatoria;
 
-VIII. Coordinar la administración de licencias de software y servicios web, de los sistemas, manejadores de bases de datos y servicios relacionados con el soporte técnico en materia de informática y comunicaciones, la instalación y funcionamiento de servidores del Instituto, de la infraestructura de comunicaciones y la infraestructura electromecánica para servicios informáticos, así como determinar la plataforma básica de hardware, software servicios informáticos y de comunicaciones del Instituto;
+XI. Promover la mejora de los trámites y procesos del Instituto, a través de la aplicación de metodologías y técnicas de mejora continua;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XII. Suscribir y dar seguimiento a los contratos y convenios, y sus modificaciones, que afecten el presupuesto de la Dirección General de Administración, en el ámbito de su competencia, vigilar su cumplimiento y autorizar su finiquito; en su caso dictaminar sobre la terminación anticipada o rescisión de los mismos;
 
-IX. Prestar a las Unidades Administrativas del Instituto los servicios de desarrollo de sistemas informáticos, implantación de herramientas de soporte técnico operativo, de administración de correo electrónico, de servicios de Intranet e Internet, de asistencia en software al usuario, de redes y de comunicaciones del Instituto, y coordinar la supervisión de los bienes y servicios en materia de tecnologías de la información y comunicaciones, dentro del ámbito de su competencia, con apoyo de los enlaces informáticos designados al efecto;
+XIII. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad, y
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-X. Coordinar el mantenimiento preventivo, correctivo y actualización al software, al equipo informático y de comunicaciones, que sean contratados con terceros por el Instituto, con el fin de mantener funcionando en condiciones adecuadas dicho equipo durante su vida útil;
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+### Capítulo XIV Bis,
 
-XI. Coordinar en el ámbito de su competencia, la instrumentación de servicios de información electrónica externos requeridos por las Unidades Administrativas del Instituto, para el adecuado desempeño de sus atribuciones, así como los programas de trabajo que en materia de tecnologías de información y comunicaciones sea necesario concertar con las Unidades del Estado;
+De las Coordinaciones Generales.
 
-XII. Prestar apoyo y asesoría a las Unidades Administrativas en el diseño tecnológico de sistemas para la correcta operación y funcionamiento de la Red Nacional de Información, la base de datos geoespacial, el Acervo de Información y demás sistemas y servicios informáticos necesarios para la prestación del Servicio Público de Información, así como, para el desarrollo del Sistema;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIII. Suscribir y dar seguimiento a los contratos y convenios, y sus modificaciones, que afecten el presupuesto de la Dirección General de Administración, en el ámbito de su competencia, vigilar su cumplimiento y autorizar su finiquito; en su caso dictaminar sobre la terminación anticipada o rescisión de los mismos;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIV. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XV. Promover, en coordinación con la Dirección General Adjunta de Recursos Humanos, la capacitación de los servidores públicos del Instituto en materia de informática, y llevar a cabo actividades de prospectiva e investigación en materia de tecnologías de la información y comunicaciones que permitan al Instituto conocer, evaluar y adoptar nuevas y mejores formas de llevar a cabo sus actividades y funciones, y
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
-
-### Capítulo XV,
-
-De la Vigilancia del Instituto.
-
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 46.
 
-La Dirección General Adjunta de Asuntos Jurídicos, contará con las atribuciones específicas siguientes:
+La Coordinación General de Asuntos Jurídicos, contará con las atribuciones específicas siguientes:
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-I. Asesorar jurídicamente al Instituto en las actividades que requieran la Junta de Gobierno, el Presidente y las Unidades Administrativas;
+I. Coordinar la atención de los asuntos jurídicos del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+I Bis. Asesorar jurídicamente al Instituto en las actividades que requieran la Junta de Gobierno, el Presidente y las Unidades Administrativas;
 
 II. Establecer, sistematizar y difundir criterios de interpretación y aplicación de disposiciones jurídicas y administrativas que normen el funcionamiento del Instituto;
 
@@ -3027,9 +2957,9 @@ X. Asesorar a las Unidades Administrativas del Instituto en asuntos laborales, c
 
 XI. Revisar los requisitos legales a que deban ajustarse los convenios y contratos que deba (sic) suscribir las Unidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-XII. Suscribir y llevar un registro de los contratos y convenios suscritos por las Unidades Administrativas del Instituto;
+XII. Llevar un registro de los contratos y convenios suscritos por las Unidades Administrativas del Instituto;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3049,9 +2979,9 @@ XVII. Asesorar a las Unidades Administrativas del Instituto en el trámite de lo
 
 XVIII. Dictaminar sobre formalidades y requisitos jurídicos que deben contener las formas de actas, los oficios de sanción, notificaciones, inspecciones de verificación y, en general, los demás documentos de uso oficial que utilicen las diversas Unidades Administrativas del Instituto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-XIX. Coordinar y representar al Instituto en asuntos jurídicos con las dependencias y entidades de la Administración Pública Federal, así como los gobiernos estatales y municipales y del Distrito Federal y demás autoridades con las que debe de interactuar el Instituto para tal efecto;
+XIX. Coordinar y representar al Instituto en asuntos jurídicos con las dependencias y entidades de la Administración Pública Federal, así como los gobiernos de las entidades federativas y municipales y demás autoridades con las que debe de interactuar el Instituto para tal efecto;
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -3069,17 +2999,179 @@ XXIII. Llevar a cabo las notificaciones derivadas del ejercicio de las atribucio
 
 XXIV. Expedir copias certificadas de los documentos que obren en los archivos del Instituto, cuando deban ser exhibidas ante autoridades judiciales, administrativas, del trabajo, y en general cualquier procedimiento, proceso o averiguación, siempre que medie solicitud de parte que acredite su interés jurídico, y
 
-XXV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-Para el desahogo de las atribuciones que este numeral confiere a la Dirección General Adjunta de Asuntos Jurídicos, el Titular de la misma contará con el auxilio del Director de Consultoría Jurídica y el Director de Asuntos Contenciosos, en quienes podrá delegar aquéllas que correspondan a su respectivo ámbito de competencia determinado en su correspondiente Manual de Organización, sin perjuicio de su ejercicio directo por el Titular de la Dirección General Adjunta de Asuntos Jurídicos.
+XXV. Las facultades que expresamente le otorga a su Titular el artículo 11 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+Para el desahogo de las atribuciones que este numeral confiere a la Coordinación General de Asuntos Jurídicos, el Titular de la misma contará con el auxilio del Director de Consultoría Jurídica, el Director de Asuntos Contenciosos y el Director de Seguimiento de Acuerdos de la Junta de Gobierno, en quienes podrá delegar aquellas que correspondan a su respectivo ámbito de competencia determinado en su correspondiente Manual de Organización, sin perjuicio de su ejercicio directo por el Titular de la Coordinación General de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+### Capítulo XV,
+
+De la Vigilancia del Instituto.
+
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 46 Bis.
+
+La Coordinación General de Informática, contará con las atribuciones específicas siguientes:
+
+I. Coordinar que se proporcionen a las Unidades Administrativas del Instituto los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático y comunicaciones;
+
+II. Proponer las políticas en materia de tecnologías de la información y comunicaciones, para su aprobación por la Junta de Gobierno y conducir su aplicación, con el propósito de armonizar su desarrollo en el Instituto y su comunicación con el Sistema;
+
+III. Instrumentar el cumplimiento de las políticas, lineamientos, sistemas y disposiciones administrativas internas que propicien la administración racional y eficiente de los recursos tecnológicos y de comunicación del Instituto, así como realizar las acciones que en materia de tecnologías de la información y comunicaciones corresponden al Instituto como coordinador del Sistema;
+
+IV. Integrar el presupuesto informático del Instituto, considerando para ello las necesidades de las áreas y Unidades Administrativas;
+
+V. Dictaminar técnicamente la adquisición, contratación de servicios, instalación, operación y mantenimiento de las tecnologías de información y comunicaciones, incluyendo sus componentes físicos y lógicos, que sean necesarios para soportar las atribuciones del Instituto;
+
+VI. Establecer mecanismos de cooperación en materia informática para proyectos interinstitucionales, así como los proyectos que en materia de tecnologías de información y comunicaciones que se acuerden con las Unidades del Estado y organismos nacionales e internacionales;
+
+VII. Coordinar los servicios de red, acceso a internet, telefonía, cómputo personal y software de escritorio, así como, llevar un control y evaluación de los mismos;
+
+VIII. Diseñar, establecer, coordinar y supervisar de manera continua el Sistema Integral de Seguridad Informática y de Comunicaciones del Instituto;
+
+IX. Coordinar la administración de la plataforma de cómputo y comunicaciones, licenciamiento de software y servicios web, de los sistemas, manejadores de bases de datos y servicios relacionados con el soporte técnico en materia de informática y comunicaciones, la instalación y funcionamiento de servidores del Instituto, de la infraestructura de comunicaciones y la infraestructura electromecánica para servicios informáticos, así como determinar la plataforma básica de hardware, software servicios informáticos y de comunicaciones del Instituto;
+
+X. Prestar a las Unidades Administrativas del Instituto los servicios de desarrollo de sistemas informáticos, implantación de herramientas de soporte técnico operativo, de administración de correo electrónico, de servicios de Intranet e Internet, de asistencia en software al usuario, de redes y de comunicaciones del Instituto, y coordinar la supervisión de los bienes y servicios en materia de tecnologías de la información y comunicaciones, dentro del ámbito de su competencia, con apoyo de los enlaces informáticos designados al efecto;
+
+XI. Coordinar los servicios de mantenimiento preventivo, correctivo y actualización de los componentes que conformen la plataforma tecnológica del Instituto, así como de desarrollo y mantenimiento de sistemas de información, que sean contratados con terceros por el Instituto, con el fin de mantener en condiciones adecuadas la prestación del servicio;
+
+XII. Coordinar en el ámbito de su competencia, la instrumentación de servicios de información electrónica externos requeridos por las Unidades Administrativas del Instituto, para el adecuado desempeño de sus atribuciones, así como los programas de trabajo que en materia de tecnologías de información y comunicaciones sea necesario concertar con las Unidades del Estado;
+
+XIII. Prestar apoyo y asesoría a las Unidades Administrativas en el diseño tecnológico de sistemas para la correcta operación y funcionamiento de la Red Nacional de Información, la base de datos geoespacial, el Acervo de Información y demás sistemas y servicios informáticos necesarios para la prestación del Servicio Público de Información, así como, para el desarrollo del Sistema;
+
+XIV. Suscribir y dar seguimiento a los contratos y convenios, y sus modificaciones, que afecten el presupuesto de la Coordinación General, vigilar su cumplimiento y autorizar su finiquito; en su caso dictaminar sobre la terminación anticipada o rescisión de los mismos;
+
+XV. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos de su responsabilidad;
+
+XVI. Promover, en coordinación con la Dirección General Adjunta de Recursos Humanos, la capacitación de los servidores públicos del Instituto en materia de informática, y
+
+XVII. Las facultades que expresamente le otorga a su Titular el artículo 11 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
 ### Capítulo XVI,
 
 De la Suplencia de los Servidores Públicos del Instituto.
 
+###### ARTICULO 46 Ter.
+
+La Coordinación General de Operación Regional, contará con las atribuciones específicas siguientes:
+
+I. Dirigir y evaluar a las Direcciones Regionales y Coordinaciones Estatales, de acuerdo con los criterios, políticas, lineamientos y programas de trabajo autorizados;
+
+II. Proponer al Presidente el nombramiento y remoción de los Titulares de las Direcciones Regionales y Coordinaciones Estatales del Instituto;
+
+III. Coordinar y participar en la elaboración, implementación y evaluación de los documentos programáticos previstos por la Ley, cuando su integración y desarrollo corresponda a las Direcciones Regionales y Coordinaciones Estatales del Instituto;
+
+IV. Coordinar la participación de las Direcciones Regionales y Coordinaciones Estatales, en los Comités Técnicos Especializados constituidos en el ámbito de su jurisdicción geográfica;
+
+V. Apoyar en el seguimiento al Programa Anual de Estadística y Geografía y al Programa Anual de Trabajo del Instituto en coordinación con la Dirección General Adjunta de Planeación e Infraestructura, en el ámbito de las Direcciones Regionales y Coordinaciones Estatales del Instituto, así como integrar los reportes de resultados correspondientes;
+
+VI. Operar en coordinación con las Unidades Administrativas del Instituto, criterios de evaluación del desempeño y de las metas aplicables a las Direcciones Regionales y Coordinaciones Estatales, a efecto de dar cumplimiento a las atribuciones que le son asignadas en términos del presente Reglamento y demás disposiciones aplicables;
+
+VII. Organizar y dar seguimiento a la gestión de las Direcciones Regionales y a las Coordinaciones Estatales de acuerdo con los criterios, políticas, lineamientos y programas de trabajo autorizados;
+
+VIII. Proporcionar información, reportes y resultados integrados de las actividades de las Direcciones Regionales del Instituto para apoyar a las Unidades Administrativas y a las autoridades del Instituto a fin de mantener un constante seguimiento de la operación y funcionamiento del Sistema;
+
+IX. Formular opinión, sobre la pertinencia de que las Unidades del Estado realicen actividades estadísticas y geográficas en el ámbito regional y estatal, en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir recomendaciones para llevarlas a cabo, lo anterior de acuerdo con su ámbito de competencia;
+
+X. Coordinar las acciones de cooperación y enlace entre el Instituto y las Unidades del Estado productoras e integradoras de información estadística y geográfica, en el ámbito estatal a través de los mecanismos previstos por la Ley y la normatividad administrativa aplicable;
+
+XI. Promover y dar seguimiento a la Difusión de acuerdos, normas, lineamientos, reglas, mecanismos de operación y demás disposiciones administrativas requeridas para la integración y funcionamiento del Sistema en la jurisdicción de las Direcciones Regionales;
+
+XII. Diseñar, proponer y coordinar la aplicación de políticas y estrategias de coordinación entre las Unidades Administrativas del Instituto, y las Direcciones Regionales y Coordinaciones Estatales, así como respecto de las Unidades del Estado que participan en el Sistema a nivel regional y estatal; esta última actividad se efectuará en coordinación con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
+
+XIII. Promover la elaboración de los programas estatales de información estadística y geográfica;
+
+XIV. Coordinar la atención de requerimientos de información, asistencia técnica y desarrollo del Sistema Nacional de Información Estadística y Geográfica, los Subsistemas y los diferentes Órganos Colegiados del mismo, en el ámbito regional y estatal;
+
+XV. Coordinar la aplicación de políticas de comunicación interna y externa, para desarrollar y coordinar el Sistema en el ámbito regional y estatal, y en general de la normatividad emitida por el Instituto;
+
+XVI. Apoyar en la operación de los Centros de Información del Instituto así como en la implementación de la estrategia de promoción y difusión de la información estadística y geográfica del Instituto y del Sistema a través de éstos;
+
+XVII. Coordinar, dar seguimiento y apoyo a la ejecución del programa de capacitación y actualización para los servidores públicos de las Unidades del Sistema que realizan Actividades Estadísticas y Geográficas en el ámbito de las Direcciones Regionales y Coordinaciones Estatales;
+
+XVIII. Coordinar con la Dirección General Adjunta de Recursos Humanos, el diseño y realización de los programas de capacitación de los servidores públicos adscritos a las Direcciones Regionales y las Coordinaciones Estatales;
+
+XIX. Coordinar el análisis de la información proveniente de los avances obtenidos en los operativos estadísticos y geográficos;
+
+XX. Promover, en colaboración con las Unidades del Estado, la mejora de los Registros Administrativos con fines estadísticos, en posesión de las dependencias y entidades de la administración pública estatal y municipal;
+
+XXI. Coordinar con las Unidades Administrativas responsables de los proyectos estadísticos y geográficos, el desarrollo de los mismos en el ámbito territorial;
+
+XXII. Impulsar el desarrollo de áreas de información estadística y geográfica en los Estados, que contribuyan de manera coordinada con el Instituto en actividades de difusión y generación de información;
+
+XXIII. Coordinar con las Unidades Administrativas del Instituto la integración de las actividades y/o proyectos que se lleven cabo en las Direcciones Regionales y Coordinaciones Estatales, con el fin de armonizar los proyectos estadísticos y geográficos que permita hacer un mejor uso de los recursos en el ámbito territorial;
+
+XXIV. Coordinar e implementar las directrices del Programa de Aseguramiento de la Calidad Institucional cuando éstas correspondan a las Direcciones Regionales y Coordinaciones Estatales del Instituto, y
+
+XXV. Las facultades que expresamente le otorga a su Titular el artículo 11 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+###### ARTICULO 46 Quáter.
+
+Las Direcciones Regionales del Instituto, estarán adscritas a la Coordinación General de Operación Regional, a las cuales corresponderá el ejercicio de las atribuciones siguientes:
+
+I. Evaluar y dar seguimiento a la ejecución del Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica; al Programa Nacional de Estadística y Geografía, al Programa Anual de Estadística y Geografía y al Programa Anual de Trabajo del Instituto, en el ámbito de su circunscripción territorial, así como emitir los reportes de resultados correspondientes;
+
+II. Operar estrategias y criterios de mejora de la gestión y de control de calidad, en el ámbito de su circunscripción territorial, para garantizar la homogeneidad de los procesos y programas que realizan las Coordinaciones Estatales, tomando en cuenta los estándares nacionales y las mejores prácticas en la materia;
+
+III. Planear, conducir, apoyar y supervisar, en coordinación con otras instituciones participantes, las acciones necesarias para realizar los programas de colaboración Geoespacial; de Modernización de Registros Públicos de la Propiedad y Catastros, y demás programas Interinstitucionales que promueve el Instituto, en el ámbito de su circunscripción territorial;
+
+IV. Diseñar y proponer a la Coordinación General de Operación Regional los programas de capacitación de los servidores públicos adscritos a la Dirección Regional y a las Coordinaciones Estatales de su jurisdicción territorial y participar en su implementación;
+
+V. Supervisar en el ámbito de su circunscripción territorial, la aplicación de los ordenamientos que integran el marco jurídico del Instituto;
+
+VI. Promover y difundir la información estadística y geográfica que genera e integra el Instituto y coordinar el funcionamiento de los Centros de Información del Instituto administrados por las Coordinaciones Estatales de su circunscripción territorial;
+
+VII. Coordinar la atención de los requerimientos de información, asistencia, cooperación técnica, y desarrollo del Sistema Nacional de Información Estadística y Geográfica, los Subsistemas y los diferentes Órganos Colegiados del mismo, en el ámbito de su circunscripción territorial;
+
+VIII. Fungir como área técnica de consulta de los Comités Técnicos Especializados del Sistema constituidos en el ámbito de su jurisdicción geográfica;
+
+IX. Informar a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, las infracciones cometidas a la Ley, de las que tenga conocimiento, así como apoyar a la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información para realizar las actuaciones necesarias para llevar a cabo el proceso de determinación de faltas administrativas por infracciones a la Ley;
+
+X. Instruir a los servidores públicos de las Áreas Administrativas a su cargo, a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los informantes en coordinación con su superior jerárquico y las Unidades Administrativas responsables del operativo para recabar la información. Dichas diligencias se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
+
+XI. Firmar y notificar los acuerdos de trámite, así como las resoluciones o acuerdos que emitan con fundamento en las atribuciones que les correspondan, así como aquellos que para tal efecto le sean turnados por autoridades superiores, haciendo constar por escrito su atención;
+
+XII. Formular dictámenes, opiniones e informes que les sean solicitados por los Titulares de las Unidades Administrativas, rindiendo un informe correspondiente a la Coordinación General;
+
+XIII. Administrar los recursos humanos de su adscripción de acuerdo con los programas de trabajo de la Dirección Regional y de las Coordinaciones Estatales y conforme a la normatividad vigente. Podrá delegar en las Coordinaciones Estatales la atribución de suscribir y resguardar los nombramientos del personal eventual que se contrate para la ejecución de operativos censales y de encuestas;
+
+XIV. Formular los anteproyectos de programas y de presupuesto de la Dirección Regional a su cargo, conforme a los lineamientos que al efecto establezca la Dirección General de Administración;
+
+XV. Coordinar el ejercicio del presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir o contratar directamente con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de sus programas y metas, de acuerdo a las disposiciones normativas aplicables;
+
+XVI. Suscribir bases, contratos, convenios y acuerdos con organismos públicos, dependencias y entidades de la Administración Pública Federal, de las entidades federativas y los municipios, instituciones educativas, y organismos no gubernamentales, cuando éstos tengan por objeto actos que deban tener lugar en el ámbito de su jurisdicción territorial;
+
+XVII. Suscribir y vigilar el cumplimiento de los contratos de adquisiciones, arrendamientos y comodatos de bienes muebles e inmuebles, servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas, y sus modificaciones, que celebre y otorgue el Instituto en el ámbito de su jurisdicción territorial, determinar sobre la suspensión, y autorizar el finiquito, la terminación anticipada y la rescisión de los mismos, en coordinación con la Coordinación General de Asuntos Jurídicos. Podrá delegar en las Coordinaciones Estatales la atribución de suscribir los contratos de arrendamientos y comodatos de bienes inmuebles, y sus modificaciones, que celebre y otorgue el Instituto en el ámbito de su jurisdicción territorial para la ejecución de operativos censales;
+
+XVIII. Aplicar las penas convencionales a cargo de los proveedores, contratistas y compradores por el incumplimiento en los contratos con ellos celebrados en el ámbito de su jurisdicción territorial;
+
+XIX. Las Direcciones Regionales para el ejercicio de sus funciones, contarán con las Coordinaciones Estatales que para tal efecto se determine en el Manual de Organización de la Coordinación General de Operación Regional, las que estarán a cargo de un Coordinador Estatal, quien ejecutará los programas del Instituto, dentro de la Entidad Federativa de su circunscripción;
+
+XX. Las Direcciones Regionales apoyarán, supervisarán y evaluarán la operación y funcionamiento de las Coordinaciones Estatales, quienes representarán al Instituto ante las autoridades estatales y municipales que correspondan a las entidades federativas de su circunscripción. Las Coordinaciones Estatales cuentan para su funcionamiento con capacidad técnica y administrativa para ejecutar los programas del Instituto en el ámbito de su jurisdicción territorial;
+
+XXI. Las Direcciones Regionales constituirán Consejos Técnicos Regionales como espacios de coordinación, en los que se evalúen los programas del Instituto dentro de las entidades federativas de su jurisdicción y se fortalezca la relación de trabajo entre el personal de mando de las Direcciones Regionales y de las Coordinaciones Estatales. Las reuniones del Consejo Técnico Regional se celebrarán mensualmente en los diversos recintos conectados a través del Sistema de Videoconferencia Institucional y para su desarrollo se nombrará un Secretario Técnico, quien se responsabilizará de levantar el acta de las reuniones y de dar seguimiento a los compromisos adquiridos;
+
+XXII. Elaborar propuestas sobre la reorganización de la Dirección Regional y de las Coordinaciones Estatales de su circunscripción territorial;
+
+XXIII. Expedir copias certificadas de la documentación generada en ejercicio de las atribuciones conferidas a la Dirección Regional a su cargo, que obre en el archivo de la misma, o en el que integren los servidores públicos bajo su adscripción, siempre que medie solicitud de parte que acredite su interés jurídico, y
+
+XXIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+
 ### Capítulo XVII,
 
 De la Suplencia de los Servidores Públicos de la Contraloría Interna.
+
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 47.
 
@@ -3091,7 +3183,9 @@ Una Contraloría Interna, que tendrá competencia territorial en toda la Repúbl
 
 Asimismo, la Contraloría Interna deberá establecer y llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Instituto, desde el nivel de jefe de departamento u homólogo hasta el de Presidente, y de los mencionados en la fracción XII del artículo 36 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-El Titular de la Contraloría Interna deberá contar con reconocida solvencia moral, será designado por la Junta de Gobierno, y rendirá cuenta de sus funciones al Vicepresidente que, de conformidad con lo dispuesto en el artículo 81 de la Ley, determine el Presidente del Instituto.
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+El Titular de la Contraloría Interna deberá contar con reconocida solvencia moral, y rendir cuenta de sus funciones al Vicepresidente que, de conformidad con lo dispuesto en el artículo 81 de la Ley, determine el Presidente del Instituto.
 
 La Junta de Gobierno aprobará el anteproyecto de presupuesto necesario para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento de la Contraloría Interna.
 
@@ -3119,9 +3213,11 @@ III. Aprobar los manuales de organización, normas y procedimientos correspondie
 
 IV. Presentar a la Junta de Gobierno, por conducto del Presidente, el Anteproyecto de Presupuesto para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento de la Contraloría Interna, conforme a lo establecido en la fracción I del artículo 91 de la Ley;
 
-V. Evaluar el control interno del Instituto y promover su mejora continua;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-VI. Promover la eficiencia y la simplificación administrativa en el Instituto;
+V. Evaluar el control interno del Instituto;
+
+VI. (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 VII. Coordinar la realización de auditorías, investigaciones o visitas de inspección e informar de sus resultados a la Junta de Gobierno, por conducto del Vicepresidente a que hace referencia el artículo 81 de la Ley;
 
@@ -3141,11 +3237,15 @@ X. Realizar ante las diversas instancias jurisdiccionales, por sí o por conduct
 
 XI. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que la propia Contraloría Interna determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Dirección General Adjunta de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
 
-XII. Aprobar los lineamientos para establecer y llevar el registro y seguimiento de la evolución patrimonial de los servidores públicos del Instituto, de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XII. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que la propia Contraloría Interna determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Coordinación General de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
 
 XIII. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XIV. Asistir como invitado a las sesiones de la Junta de Gobierno, con voz y sin voto; acordar los asuntos de la Contraloría Interna con el Vicepresidente a que hace referencia el artículo 81 de la Ley;
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la legislación vigente en materia de transparencia, acceso a la información pública y protección a datos personales;
 
 XV. Aportar elementos a la Junta de Gobierno para nombrar al Auditor Externo a que se refiere la fracción II del artículo 91 de la Ley;
 
@@ -3179,7 +3279,9 @@ XXII. Administrar los recursos humanos de su adscripción de acuerdo a la normat
 
 XXIII. Las demás que le confiera la Ley, el presente Reglamento y las demás disposiciones legales y administrativas aplicables.
 
-Para el mejor desempeño de sus facultades, el Contralor Interno se auxiliará de los Titulares de: Auditoría Interna; Quejas y Responsabilidades; Control y Evaluación, así como por el Director de Proyectos Especiales.
+> <small>(REFORMADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+Para el mejor desempeño de sus facultades, el Contralor Interno se auxiliará de los Titulares de: Auditoría Interna y Quejas y Responsabilidades.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE CATORCE A TRECE FRACCIONES.</small>
 
@@ -3229,9 +3331,21 @@ XI. Coordinar la participación del personal de la Contraloría Interna en los a
 
 XII. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos, y
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
 
-XIII. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
+XIII. Verificar que los indicadores de desempeño y las metas de las Unidades Administrativas sean congruentes con el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica; el Programa Nacional de Estadística y Geografía, y el Programa Anual de Trabajo del Instituto, sugiriendo, en su caso, las adecuaciones necesarias a dichos indicadores y metas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Asistir con la representación de la Contraloría en comités y subcomités institucionales, así como en los procesos de adquisición o arrendamiento de bienes y contratación de servicios, de obras públicas, baja y destino final de bienes, y finiquito de los contratos de servicios;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XV. Apoyar al Contralor Interno en el proceso para elaborar la propuesta que se presente a la Junta de Gobierno, para que ésta nombre al auditor externo en los términos del artículo 91 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVI. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia;
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTE A DIECIOCHO.</small>
 
@@ -3329,73 +3443,11 @@ XIX. Para la atención, instrucción y substanciación de todos los asuntos y pr
 
 ###### ARTICULO 51.
 
-El Titular de Control y Evaluación tendrá las siguientes facultades:
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-I. Proponer al Contralor Interno las actividades de control interno, evaluación, simplificación administrativa, auditorías y visitas de inspección y promoción de eficiencia que deban formar parte del Programa Anual de Trabajo de la Contraloría Interna.
-
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-En materia de auditoría y visitas de inspección, tendrá las facultades descritas en las fracciones II a IX del artículo 49 de este Reglamento.
-
-II. Asesorar el establecimiento y mantenimiento del control interno institucional, evaluarlo y promover su mejora continua;
-
-III. Promover el apego a la legalidad, la transparencia y el comportamiento ético de los servidores públicos del Instituto;
-
-IV. Orientar a las Unidades Administrativas del Instituto en la identificación de riesgos que amenacen el logro de sus metas y objetivos, así como en el planteamiento de las medidas necesarias para su mejor administración;
-
-V. Identificar las mejores prácticas administrativas, así como, promover y asesorar su implementación en el Instituto y evaluar sus resultados;
-
-VI. Vigilar que los sistemas de información institucional sean oportunos, suficientes, relevantes y pertinentes;
-
-VII. Verificar que los indicadores de desempeño y las metas de las Unidades Administrativas sean congruentes con el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica; el Programa Nacional de Estadística y Geografía, y el Programa Anual de Trabajo del Instituto, sugiriendo, en su caso, las adecuaciones necesarias a dichos indicadores y metas;
-
-VIII. Promover y difundir la adopción de instrumentos de control y evaluación del desempeño que refuercen el proceso administrativo integral del Instituto;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-IX. Promover la simplificación y desregulación de la normatividad interna y asesorar a las Unidades Administrativas del Instituto en la emisión de disposiciones que regulan su operación y funcionamiento;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-X. Analizar la información del mercado de bienes y servicios relacionados con el Instituto, con el propósito de formular orientaciones y prevenir anomalías;
-
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
-
-XI. Asesorar a las áreas correspondientes en comités y subcomités institucionales, así como en los procesos de adquisición o arrendamiento de bienes y contratación de servicios, de obras públicas, baja y destino final de bienes, y finiquito de los contratos de servicios;
-
-XII. Elaborar la información que el Contralor Interno presente a la Junta de Gobierno, para que ésta decida el nombramiento del auditor externo en los términos del artículo 91 de la Ley;
-
-XIII. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos; y
-
-XIV. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
+(DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 ###### ARTICULO 52.
 
-El Director de Proyectos Especiales tendrá las siguientes facultades:
-
-I. Coordinar con los Titulares de Auditoría Interna; Quejas y Responsabilidades, y Control y Evaluación, la elaboración e integración de la planeación estratégica, el Programa Anual de Trabajo y el Anteproyecto de Presupuesto de la Contraloría Interna;
-
-II. Verificar que las metas y objetivos de la Contraloría Interna se cumplan y sean congruentes con lo establecido por la fracción I, del artículo 91 de la Ley y este Reglamento;
-
-III. Coordinar la elaboración y actualización de los manuales de organización y procedimientos de la Contraloría Interna y sus Areas, así como de las normas, lineamientos y guías correspondientes;
-
-IV. Verificar selectivamente que los papeles de trabajo y expedientes integrados en las Areas de Auditoría Interna; Quejas y Responsabilidades, y Control y Evaluación, se apeguen a la normatividad correspondiente;
-
-V. Elaborar el programa de capacitación de los servidores públicos adscritos a la Contraloría Interna y someterlo a la autorización del Contralor Interno, y supervisar su cumplimiento;
-
-VI. Planear, dirigir y vigilar la ejecución de intervenciones y proyectos especiales que le encomiende el Contralor Interno;
-
-VII. Coordinar la administración, programación y aprovechamiento de los recursos humanos, materiales, tecnológicos y financieros de la Contraloría Interna;
-
-VIII. Coordinar la elaboración de los informes y reportes de la Contraloría Interna;
-
-IX. Dirigir y vigilar la adecuada organización, administración y guarda de los archivos físicos y electrónicos que contengan la información derivada de las actividades realizadas por la Contraloría Interna, de conformidad con la normatividad correspondiente;
-
-X. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos, y
-
-XI. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
+(DEROGADO, D.O.F. 23 DE NOVIEMBRE DE 2016)
 
 ###### ARTICULO 53.
 
@@ -3405,15 +3457,17 @@ Las ausencias de los Titulares de las Direcciones Generales serán suplidas por 
 
 Así mismo, las ausencias de los Directores de Area serán suplidas por los Subdirectores de Area al cual corresponda el asunto de que se trate, salvo que sea único en el área administrativa respectiva, en cuyo caso será suplido por el servidor público de jerarquía inmediata inferior. Las ausencias de los Subdirectores de Area serán suplidas por el Jefe de Departamento al que corresponda el despacho del asunto de que se trate, y de no existir, por el servidor público que designe el Director de Area, Director General Adjunto o Director General al que se encuentren adscritos.
 
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+
+Las ausencias de los Titulares de las Coordinaciones Generales serán suplidas por los Directores de Área en los asuntos de sus respectivas competencias.
+
 Las ausencias de los Jefes de Departamento y Enlaces, serán suplidas por el servidor público que designe el Director de Area, Director General Adjunto o Director General al que se encuentren adscritos.
 
 ###### ARTICULO 54.
 
-Las ausencias del Contralor Interno, serán suplidas por los Titulares de: Quejas y Responsabilidades; Auditoría Interna, y Control y Evaluación, en ese orden.
+Las ausencias del Contralor Interno, serán suplidas por los Titulares de: Quejas y Responsabilidades y Auditoría Interna, en ese orden.
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-Las ausencias de los Titulares de: Quejas y Responsabilidades; Auditoría Interna, y Control y Evaluación serán suplidas por los Directores de Quejas y Responsabilidades, de Auditoría Interna, y de Control y Evaluación, respectivamente, o por los servidores públicos que designe el Contralor Interno.
+Las ausencias de los Titulares de: Quejas y Responsabilidades y Auditoría Interna, serán suplidas por los Directores de Quejas y Responsabilidades y de Auditoría Interna, respectivamente, o por los servidores públicos que designe el Contralor Interno.
 
 ## TRANSITORIOS.
 
@@ -3492,3 +3546,21 @@ D.O.F. 22 DE DICIEMBRE DE 2015.
 PRIMERO.- Las reformas al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrarán en vigor al día siguiente de la publicación en el Diario Oficial de la Federación, con excepción de la reforma de los artículos 19 y 23 del citado Reglamento, la cual entrará en vigor una vez que esté vigente el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo.
 
 SEGUNDO.- El Instituto generará la Unidad de Medida y Actualización conforme al artículo Quinto transitorio de Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, en tanto se emite la legislación correspondiente.
+
+D.O.F. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO.- Atendiendo a las modificaciones realizadas, a partir del 16 de noviembre de 2016, toda disposición que haga referencia a las Direcciones Generales Adjuntas de Asuntos Jurídicos, de Informática y de Operación Regional, se entenderán hechas a las Coordinaciones Generales de Asuntos Jurídicos, de Informática y de Operación Regional, según corresponda.
+
+Así mismo, las referencias que se realicen al Titular de Control y Evaluación en toda disposición se entenderán hechas al Titular de Auditoría Interna o a la Dirección General Adjunta de Administración de Riesgos y Transparencia, de conformidad a las atribuciones de su competencia.
+
+TERCERO.- A partir de la fecha señalada en el Transitorio Segundo, los asuntos en trámite se continuarán substanciando por las Unidades Administrativas a que hacen referencia las presentes reformas y de conformidad con las atribuciones y facultades conferidas.
+
+CUARTO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades Administrativas que por virtud de las presentes reformas al Reglamento se modifican, sean transferidos a las Unidades Administrativas que correspondan en los términos del mismo y de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
+
+Las Direcciones de Administración continuarán dando atención y servicio a las Unidades Administrativas que fueron modificadas en los mismos términos en que lo venían haciendo, hasta en tanto la Dirección General de Administración determina los ajustes normativos u administrativos necesarios.
+
+QUINTO.- El personal adscrito a las Unidades Administrativas que tuvieron modificaciones en los términos del presente Acuerdo, no se verá afectado en sus derechos laborales. Así mismo, el personal sujeto al Estatuto del Servicio Profesional de Carrera, conservará la misma situación que actualmente tiene respecto a su nombramiento como servidoras o servidores públicos profesionales de carrera.
