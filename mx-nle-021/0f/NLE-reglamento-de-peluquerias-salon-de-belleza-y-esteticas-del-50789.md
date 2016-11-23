@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-peluquerias-salon-de-belleza-y-esteticas-del-5078
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-02"
-last_updated: "2016-05-11"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PELUQUERÍAS, SALÓN DE BELLEZA Y ESTÉTICAS DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de junio de 2006.
 
@@ -51,7 +51,7 @@ REGLAMENTO DE PELUQUERÍAS, SALONES DE BELLEZA Y ESTÉTICAS.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO , P.O. 11 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 1.
 
@@ -85,9 +85,9 @@ De 61 m2 o más 85 cuotas
 
 En caso de que sea aprobada una solicitud de licencia de un negocio cuyos metros cuadrados sean de 30 m2 o menos, se podrá efectuar el pago de la licencia en parcialidades.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-Los negocios anteriormente mencionados (peluquerías, estéticas y salones de belleza), tendrá (sic) que refrendar su licencia de operación año con año teniendo un costo de 10 a 35 salarios mínimos vigentes en el Estado de Nuevo León.
+Los negocios anteriormente mencionados (peluquerías, estéticas y salones de belleza), tendrá (sic) que refrendar su licencia de operación año con año teniendo un costo de 10 a 35 cuotas equivalentes al valor diario en pesos de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2008)</small>
 
@@ -131,9 +131,11 @@ Las peluquerías, salones de belleza y estéticas deberán de contar con locales
 
 DE LAS SANCIONES.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 11.
 
-Las infracciones a este Reglamento serán sancionadas por la Autoridad Municipal, con multa de 10 a 50 cuotas de salario mínimo general vigente en el Estado, por la primera vez. La reincidencia se castigará con multas por el doble de la cantidad anteriormente impuesta.
+Las infracciones a este Reglamento serán sancionadas por la Autoridad Municipal, con multa de 10 a 50 cuotas por la primera vez, en el entendido de que cuota se refiere al valor diario en pesos de la Unidad de Medida y Actualización. La reincidencia se castigará con multas por el doble de la cantidad anteriormente impuesta.
 
 ###### ARTÍCULO 12.
 
@@ -254,6 +256,14 @@ SEGUNDO.- Publíquese en la Gaceta Municipal y en el Periódico Oficial del Esta
 P.O. 11 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN DEL REGLAMENTO DE PELUQUERÍAS, SALÓN DE BELLEZA Y ESTÉTICAS DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE APRUEBA LA REFORMA POR MODIFICACIÓN, DEL REGLAMENTO DE PELUQUERÍAS, SALONES DE BELLEZA Y ESTÉTICAS DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.”]</small>
 
 Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
 
