@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-del-municipio-de-general-escobedo-50793
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-02"
-last_updated: "2016-05-11"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PANTEONES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de junio de 2006.
 
@@ -95,31 +95,61 @@ VIII.- CREMACIÓN: El proceso de incineración de un cadáver, de restos humanos
 
 IX.- CRIPTA: La estructura constituida bajo el nivel del suelo con gavetas o nichos destinados al depósito de cadáveres, de restos humanos y esqueletos o cenizas.
 
-X.- CUSTODIO: La persona física considerada como interesada para los efectos de este Reglamento.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XI.- FOSA COMÚN: El lugar destinado para la inhumación de cadáveres, restos humanos, esqueletos o partes de él no identificados.
+X.- CUOTA: Monto equivalente al valor diario en pesos de la Unidad de Medida y Actualización.
 
-XII.- FOSA O TUMBA: La excavación en el terreno de un cementerio horizontal destinado a la inhumación de cadáveres.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XIII.- GAVETA: El espacio constituido dentro de cripta o cementerio vertical destinado al depósito de cadáveres, restos humanos y esqueletos o cenizas.
+XI.- CUSTODIO: La persona física considerada como interesada para los efectos de este Reglamento.
 
-XIV.- NICHO: Concavidad en el espesor de un muro para colocar cenizas, imágenes, estatuas, fotografías, jarrones, etc.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XV.- OSARIO: El lugar especialmente destinado para el depósito de esqueleto o partes de él.
+XII.- FOSA COMÚN: El lugar destinado para la inhumación de cadáveres, restos humanos, esqueletos o partes de él no identificados.
 
-XVI.- PERPETUIDAD: Duración sin fin.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XVII.- REINHUMAR: Volver a sepultar restos humanos, esqueletos, o partes de él.
+XIII.- FOSA O TUMBA: La excavación en el terreno de un cementerio horizontal destinado a la inhumación de cadáveres.
 
-XVIII.- RESTOS: Cuerpo humano después de muerto, los restos mortales, relativo a los órganos.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XIX.- RESTOS HUMANOS: Las partes de un cadáver.
+XIV.- GAVETA: El espacio constituido dentro de cripta o cementerio vertical destinado al depósito de cadáveres, restos humanos y esqueletos o cenizas.
 
-XX.- RESTOS HUMANOS CUMPLIDOS: Los que quedan de un cadáver al cabo el paso que señala la temporalidad mínima.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XXI.- TRASLADO: La transportación de un cadáver, restos humanos, esqueletos o partes de él o cenizas a cualquier parte de la República o del extranjero, previa autorización de la Secretaría de Desarrollo Social o Autoridad Sanitaria Competente.
+XV.- NICHO: Concavidad en el espesor de un muro para colocar cenizas, imágenes, estatuas, fotografías, jarrones, etc.
 
-XXII.- VELATORIO: El lugar destinado a la velación de cadáveres.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVI.- OSARIO: El lugar especialmente destinado para el depósito de esqueleto o partes de él.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVII.- PERPETUIDAD: Duración sin fin.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. REINHUMAR: Volver a sepultar restos humanos, esqueletos, o partes de él.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XIX.- RESTOS: Cuerpo humano después de muerto, los restos mortales, relativo a los órganos.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XX.- RESTOS HUMANOS: Las partes de un cadáver.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXI.- RESTOS HUMANOS CUMPLIDOS: Los que quedan de un cadáver al cabo el paso que señala la temporalidad mínima.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXII.- TRASLADO: La transportación de un cadáver, restos humanos, esqueletos o partes de él o cenizas a cualquier parte de la República o del extranjero, previa autorización de la Secretaría de Desarrollo Social o Autoridad Sanitaria Competente.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXIII.- VELATORIO: El lugar destinado a la velación de cadáveres.
 
 ###### ARTÍCULO 4.
 
@@ -573,9 +603,11 @@ XIX.-Extraer objetos del cementerio sin permiso del administrador.
 
 DE LAS SANCIONES.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-La violación a las disposiciones de este Reglamento se sancionará con multa de 10 a 200 veces el salario mínimo general diario vigente en el Estado de Nuevo León.
+La violación a las disposiciones de este Reglamento se sancionará con multa de 10 a 200 cuotas.
 
 ###### ARTÍCULO 37.
 
@@ -704,6 +736,14 @@ SECRETARIO DEL R. AYUNTAMIENTO.
 P.O. 11 DE MAYO DE 2016.
 
 > <small>[N. DE E. TRANSITORIOS POR EL QUE “SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN DEL REGLAMENTO DE PANTEONES DE GENERAL ESCOBEDO, NUEVO LEON”.]</small>
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE "SE APRUEBA LA REFORMA POR MODIFICACIÓN DEL REGLAMENTO DE PANTEONES DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.".]</small>
 
 Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
 
