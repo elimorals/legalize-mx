@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2016-09-07"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1827,9 +1827,9 @@ VIII. Información relativa a las condiciones, recursos y servicios de salud;
 
 IX. Educación para la salud;
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
 
-X. Promoción, orientación y vigilancia en materia de nutrición e higiene.
+X. Asistencia social, promoción, orientación en materia de nutrición, higiene, sobrepeso, obesidad y trastornos alimentarios.
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -1855,9 +1855,13 @@ XVI. Programas para prevenir y erradicar las adicciones, dando prioridad a niña
 
 XVII. Atención médica gratuita a niñas, niños y adolescentes.
 
-> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
 
-XVIII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
+XVIII. Atención médica a las personas que padezcan obesidad mórbida a través de su tratamiento, terapia psicológica, intervención quirúrgica y rehabilitación.
+
+> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -1917,6 +1921,10 @@ IX. Promover la prevención y el tratamiento de problemas causados por las adicc
 
 X. Brindar de manera eficiente y humanitaria atención y asistencia de calidad a los migrantes, especialmente aquellos que enfrentan situaciones de vulnerabilidad, independientemente de su situación migratoria o nacionalidad.
 
+> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
+
+XI. Diseñar e implementar políticas públicas que promuevan la prevención, el tratamiento y el combate del sobrepeso, la obesidad y los trastornos alimentarios.
+
 El sistema estatal de salud podrá auxiliarse de los organismos nacionales e internacionales que estime necesarios para el cumplimiento de sus objetivos.
 
 ###### Artículo 2.
@@ -1963,7 +1971,13 @@ XVI. Promover y fomentar investigaciones con perspectiva de género en materia d
 
 XVII. Implementar los mecanismos e instrumentos necesarios que permitan a la población indígena el acceso efectivo a los servicios de salud que establece el presente Libro;
 
-XVIII. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
+> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Coordinar programas con la finalidad de promover la prevención, tratamiento, combate al sobrepeso, obesidad y trastornos alimentarios.
+
+> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
 
 ### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
 
@@ -2961,7 +2975,7 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -12365,7 +12379,7 @@ VI. Ser el interlocutor con las autoridades federales y municipales en materia d
 
 VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -19174,3 +19188,13 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 156.- POR EL QUE SE REFORMAN LAS FRACCIONES X Y XVIII DEL ARTÍCULO 2.16, LA FRACCIÓN XVIII DEL ARTÍCULO 2.22, SE ADICIONAN LA FRACCIÓN XIX AL ARTÍCULO 2.16, LA FRACCIÓN XI AL ARTÍCULO 2.21 Y LA FRACCIÓN XIX AL ARTÍCULO 2.22 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
