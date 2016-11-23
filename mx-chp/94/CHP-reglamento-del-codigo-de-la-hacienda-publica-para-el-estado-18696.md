@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-codigo-de-la-hacienda-publica-para-el-estado-186
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-22"
-last_updated: "2016-02-24"
+last_updated: "2016-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DEL CODIGO DE LA HACIENDA PUBLICA PARA EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 23 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de noviembre de 2000.
 
@@ -31,7 +33,9 @@ PUBLICACION No. 426-A-2000
 
 ROBERTO ALBORES GUILLEN, GOBERNADOR DEL ESTADO DE CHIAPAS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 44 DE LA CONSTITUCION POLITICA LOCAL; 9 Y 19 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO, Y;
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 POR LOS FUNDAMENTOS Y CONSIDERACIONES ANTERIORES, TENGO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -2092,3 +2096,15 @@ Artículo Primero.- El presente Acuerdo entrará en vigencia el día siguiente d
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Acuerdo.
 
 Artículo Tercero.- En cumplimiento al artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Acuerdo en el Periódico Oficial.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 1657-A-2016 REGLAMENTO DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Reglamento entrará (sic) vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento del Código de la Hacienda Pública para el Estado de Chiapas, publicado en el Periódico Oficial del Estado número 062 de fecha 22 de noviembre de 2002 (sic).
+
+Artículo Tercero.- Los actos, procedimientos, resoluciones y demás situaciones jurídicas y normativas que se encuentren en trámite hasta antes de la entrada en vigor del presente Decreto, se substanciarán de conformidad con lo dispuesto en la normatividad reglamentaria vigente en la época de inicio de su trámite.
+
+Artículo Cuarto.- En cumplimiento al artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
