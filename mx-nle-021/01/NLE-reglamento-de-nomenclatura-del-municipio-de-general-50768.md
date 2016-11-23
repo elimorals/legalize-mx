@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-del-municipio-de-general-50768"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-05"
-last_updated: "2016-05-11"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de junio de 2006.
 
@@ -227,9 +227,11 @@ IV.- Quitar la nomenclatura de la vía pública y demás bienes del dominio púb
 
 V.- No permitir la instalación, colocación o permanencia de la placa de nomenclatura en los muros que hagan esquina con otra calle o en aquellos que determine la Secretaría de Desarrollo Urbano y Ecología y la Secretaría de Obras Públicas.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 24.
 
-Las infracciones a éste Reglamento, serán sancionadas con multa que determinará la Autoridad Municipal en un rango de entre 5-cinco a 100-cien cuotas. Se entiende como cuota el equivalente a un día de salario mínimo general vigente en la zona económica a la que corresponda este Municipio.
+Las infracciones a éste Reglamento, serán sancionadas con multa que determinará la Autoridad Municipal en un rango de entre 5-cinco a 100- cien cuotas. Se entiende como cuota el monto equivalente al valor diario en pesos de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 25.
 
@@ -376,6 +378,14 @@ SECRETARIO DEL R. AYUNTAMIENTO.
 P.O. 11 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN DEL REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA LA REFORMA POR MODIFICACIÓN DEL ARTÍCULO 24 DEL REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.”]
 
 Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
 
