@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-68776
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-29"
-last_updated: "2015-11-30"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de mayo de 2009.
 
@@ -31,7 +31,9 @@ Acuerdo de la Honorable Junta Directiva del Instituto Tecnológico Superior de Z
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- S.E.P.- I.T.S.- Zacapoaxtla.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En mérito de lo expuesto y con fundamento en lo dispuesto por el artículo 45 de la Ley Orgánica de la Administración Pública del Estado de Puebla y en ejercicio de las facultades que le confiere a la Junta Directiva el artículo 8 fracción III del Decreto de Creación del Instituto Tecnológico Superior de Zacapoaxtla, aprueba según acuerdo 40.19/05.11.2008, que al texto dice: En el Pleno de la H. Junta Directiva se aprueba por unanimidad el Reglamento Interior del Instituto Tecnológico Superior de Zacapoaxtla, instruyendo al Director General para que realice los trámites correspondientes para su publicación en el Periódico Oficial del Estado; tiene a bien expedir el siguiente:
 
@@ -57,7 +59,7 @@ II.- Director General.- El Director General del Instituto Tecnológico Superior 
 
 III.- Instituto.- El Instituto Tecnológico Superior de Zacapoaxtla;
 
-lV.- Junta Directiva.- La máxima autoridad del Instituto; y
+IV.- Junta Directiva.- La máxima autoridad del Instituto; y
 
 V.- Reglamento.- El Reglamento Interior del Instituto.
 
@@ -81,7 +83,9 @@ a) (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2015)
 
 b) Dirección Académica;
 
-c) Dirección de Vinculación;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+c) Dirección de Planeación y Vinculación;
 
 d) Subdirección de Vinculación;
 
@@ -117,7 +121,9 @@ I.- Presentar a la Junta Directiva, para su aprobación, los planes y programas 
 
 II.- Autorizar con su firma las asignaciones, licencias y autorizaciones, en materia administrativa, en el ámbito de su competencia;
 
-III.- Evaluar periódicamente las actividades realizadas por la estructura administrativa del Instituto;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+III.- Evaluar periódicamente las actividades realizadas por el Instituto;
 
 IV .- Publicar en el órgano informativo del Instituto o, en su caso, proponer al Presidente de la Junta Directiva se publiquen en el Periódico Oficial del Estado de Puebla, los reglamentos, lineamientos, acuerdos u otros documentos de observancia general que expida la Junta Directiva;
 
@@ -213,19 +219,35 @@ XIV.- Supervisar la realización e integración del programa presupuestario de l
 
 XV.- Elaborar, en coordinación con la Subdirección de Servicios Administrativos los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XVI.- Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo; y
+XVI.- Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XVII.- Las que le delegue o encomiende el Director General, así como aquéllas que le confiera la demás normatividad aplicable.
+XVII.- Integrar el Comité de Investigación del Instituto, de conformidad con los procedimientos establecidos, fungir como Secretario de éste y vigilar su correcto funcionamiento;
 
-### CAPÍTULO VI. DE LA DIRECCIÓN DE VINCULACIÓN
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVIII.- Poner a consideración del Director General para su aprobación, los planes y programas de estudio, así como, las líneas de investigación acordes a las necesidades de diversos sectores productivos;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XIX.- Evaluar la pertinencia de los documentos técnico-académicos que apoyen al docente investigador en el desarrollo de tareas derivadas de la investigación científica y tecnológica; y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Las que le delegue o encomiende el Director General, así como aquéllas que le confiera la demás normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO VI. DE LA DIRECCIÓN DE PLANEACIÓN Y VINCULACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 10.
 
-El titular de la Dirección de Vinculación, dependerá directamente del Director General y tendrá, además de las atribuciones señaladas en el artículo 8 del presente Reglamento, las siguientes:
+El titular de la Dirección de Planeación y Vinculación, dependerá directamente del Director General y tendrá, además de las atribuciones señaladas en el artículo 8 del presente Reglamento, las siguientes:
 
 I.- Dirigir los estudios para la detección de necesidades de servicios de educación superior tecnológica en la región;
 
@@ -259,13 +281,49 @@ XIII.- Integrar y vigilar el funcionamiento de la bolsa de trabajo para los egre
 
 XIV.- Elaborar, en coordinación con la Subdirección de Servicios Administrativos los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XV.- Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo; y
+XV.- Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XVI.- Las que le delegue o encomiende el Director General, así como aquéllas que le confiera la demás normatividad aplicable.
+XVI.- Coordinar el diseño y administración de los programas y proyectos de desarrollo institucional, considerando las acciones que permitan aprovechar racionalmente los recursos con que cuenta el Instituto, revisar los proyectos finales y someterlos a consideración del Director General, así como evaluar su cumplimiento una vez aprobados;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVII.- Validar y proponer al Director General, los mecanismos para el seguimiento, evaluación y control de los programas a realizar por el Instituto;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XVIII.- Establecer un sistema estadístico que permita la toma de decisiones estratégicas, así como su respectiva difusión, sometiéndolo a la autorización del Director General;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XIX.- Integrar las propuestas de modificaciones a la estructura orgánica del Instituto y presentarlas a la consideración del Director General;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Realizar las actividades de programación y evaluación presupuestal de las unidades administrativas a su cargo, así como las demás del Instituto, informando a su superior jerárquico del resultado de tales acciones;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXI.- Coordinar la realización de la reprogramación del presupuesto autorizado con el propósito de establecer los mecanismos de reorientación de (sic) recurso en partidas presupuestadas;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXII.- Coordinar la integración y funcionamiento del Consejo Editorial, Comité de Vinculación, Comité de Desarrollo Empresarial y Comité de Becas, informando al Director General sobre los resultados de su intervención;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXIII.- Validar y someter a consideración del Director General los criterios que deban operar en el funcionamiento del Comité de Becas, para su respectivo otorgamiento en términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXIV.- Vigilar que, los procesos de asignación y pagos de becas que se otorguen a los alumnos del Instituto se realicen de conformidad con la normatividad aplicable, y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXV.- Las que le delegue o encomiende el Director General, así como aquéllas que le confiera la demás normatividad aplicable.
 
 ### CAPÍTULO VII. DE LAS SUBDIRECCIONES
 
@@ -297,9 +355,11 @@ VIII.- Las que le delegue o encomiende el Director General, o el superior jerár
 
 ### CAPÍTULO VIII. DE LA SUBDIRECCIÓN DE VINCULACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-El titular de la Subdirección de Vinculación dependerá directamente del Director de Vinculación y tendrá además de las señaladas en el artículo 11 de este Reglamento, las siguientes atribuciones;
+El titular de la Subdirección de Vinculación dependerá directamente del Director de Planeación y Vinculación y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
@@ -343,45 +403,37 @@ XIV.- Las que le delegue o encomiende el Director General, o el superior jerárq
 
 ### CAPÍTULO IX. DE LA SUBDIRECCIÓN DE PLANEACIÓN
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 13.
 
-El titular de la Subdirección de Planeación dependerá directamente del Director General y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
+El titular de la Subdirección de Planeación dependerá directamente del Director de Planeación y Vinculación y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
 
 I.- Diseñar y administrar los programas y proyectos de desarrollo institucional, considerando las acciones que permitan aprovechar racionalmente los recursos con que cuenta el Instituto, así como evaluar su cumplimiento;
 
-II.- Elaborar los planes y proyectos institucionales de desarrollo del Instituto, sometiéndolos a la consideración del Director General y vigilar su difusión y cumplimiento;
+II.- Elaborar los planes y proyectos institucionales de desarrollo del Instituto, sometiéndolos a la consideración del Director de Planeación y Vinculación y vigilar su difusión y cumplimiento;
 
-III.- Formular y proponer al Director General, los mecanismos para el seguimiento, evaluación y control de los programas a realizar por el Instituto;
+III.- Formular y proponer al Director de Planeación y Vinculación, los mecanismos para el seguimiento, evaluación y control de los programas a realizar por el Instituto;
 
-IV.- Proponer al Director General los programas generales que requiera, para dar cumplimiento a sus atribuciones y cuidar que éstos se apeguen a las directrices del desarrollo educativo;
+IV.- Proponer al Director de Planeación y Vinculación los programas generales que requiera, para dar cumplimiento a sus atribuciones y cuidar que éstos se apeguen a las directrices del desarrollo educativo;
 
-V.- Establecer un sistema estadístico que permita la toma de decisiones estratégicas, así como su respectiva difusión, sometiéndolo a la autorización del Director General;
+V.- Proponer y mantener actualizado un sistema estadístico que permita la toma de decisiones estratégicas, así como su respectiva difusión, sometiéndolo a la autorización del Director de Planeación y Vinculación;
 
-VI.- Integrar las propuestas de modificaciones a la estructura administrativa del Instituto y presentarlas a la consideración del Director General;
+VI.- Elaborar las propuestas de modificaciones a la estructura orgánica del Instituto y presentarlas a la consideración del Director de Planeación y Vinculación;
 
-VII.- Organizar y controlar en el ámbito de su competencia, las actividades de programación y evaluación presupuestal de las unidades administrativas a su cargo;
+VII.- Organizar y controlar en el ámbito de su competencia, las actividades de programación y evaluación presupuestal de las unidades administrativas a su cargo, así como de las demás del Instituto;
 
-VIII.- Coordinar la realización de la reprogramación del presupuesto autorizado con el propósito de establecer los mecanismos de reorientación de recurso en partidas presupuestadas;
+VIII.- Elaborar la propuesta de reprogramación del presupuesto autorizado con el propósito de establecer los mecanismos de reorientación de recurso en las partidas presupuestales necesarias;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+IX.- Coordinar previo acuerdo del Director de Planeación y Vinculación y de conformidad con la normatividad aplicable, los procesos de asignación y pagos de becas que se le (sic) otorguen a los alumnos del Instituto;
 
-IX.- Dirigir previo acuerdo del Director General y de conformidad con la normatividad aplicable, los procesos de asignación y pagos de becas que se le (sic) otorguen a los alumnos del Instituto;
+X.- Elaborar y proponer al Director de Planeación y Vinculación los criterios que deban operar en el funcionamiento del Comité de Becas, para su respectivo otorgamiento en términos de la normatividad aplicable;
 
-X.- Proponer al Director General los criterios que deban operar en el funcionamiento del Comité de Becas, para su respectivo otorgamiento en términos de la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-XI.- Verificar la integración y funcionamiento del Consejo Editorial, Comité de Vinculación, Comité de Desarrollo Empresarial y Comité de Becas, para su cabal cumplimiento; informando al Director General sobre los resultados que se obtengan;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+XI.- Verificar la integración y funcionamiento del Consejo Editorial, Comité de Vinculación, Comité de Desarrollo Empresarial y Comité de Becas, para su cabal cumplimiento; informando al Director sobre los resultados que se obtengan;
 
 XII.- Elaborar, en coordinación con la Subdirección de Servicios Administrativos los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, previo acuerdo con su superior jerárquico;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-XIII.- Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, previo acuerdo con su superior jerárquico; y
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+XIII.- Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, previo acuerdo con su superior jerárquico, y
 
 XIV.- Las que le delegue o encomiende el Director General o el superior jerárquico del cual dependa, así como aquéllas que le confiera la demás normatividad aplicable.
 
@@ -419,9 +471,11 @@ IX.- Las que le delegue o encomiende el Director General, así como aquéllas qu
 
 ### CAPÍTULO XI. DE LA SUBDIRECCIÓN ACADÉMICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-El titular de la Subdirección Académica dependerá directamente de la Dirección Académica y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
+El titular de la Subdirección Académica dependerá directamente del Director Académico y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
 
 I.- Integrar, con el apoyo de las áreas administrativas competentes, los programas a realizar en el Instituto en materia académica y someterlos a la consideración de su superior jerárquico;
 
@@ -449,13 +503,13 @@ X.- Analizar los proyectos de informática que presenten los docentes del Instit
 
 XI.- Desarrollar e instrumentar, en el ámbito de su competencia, sistemas de seguimiento y evaluación de los servicios de informática prestados en el Instituto;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XII.- Coadyuvar con la Subdirección General de Servicios Administrativos, en la integración del anteproyecto de presupuesto de la unidad administrativa a su cargo, o en su caso, en la modificación al mismo, proporcionando para tal efecto la información que resulte necesaria, previo acuerdo con su superior jerárquico;
+XII.- Coadyuvar con la Subdirección de Servicios Administrativos, en la integración del anteproyecto de presupuesto de la unidad administrativa a su cargo, o en su caso en la modificación al mismo, proporcionando para tal efecto la información que resulte necesaria, previo acuerdo con su superior jerárquico;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XIII.- Someter a consideración de su superior jerárquico, los anteproyectos de manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para el funcionamiento de las unidades administrativas de su adscripción; y
+XIII.- Elaborar, en coordinación con la Subdirección de Servicios Administrativos los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, y
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
@@ -463,23 +517,29 @@ XIV.- Las que le delegue o encomiende el Director General o el superior jerárqu
 
 ### CAPÍTULO XII. DE LA SUBDIRECCIÓN DE POSTGRADO E INVESTIGACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-El titular de la Subdirección de Postgrado e Investigación dependerá directamente del Director General y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
+El titular de la Subdirección de Posgrado e Investigación dependerá directamente del Director Académico y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
 
 I.- Organizar la detección de necesidades de desarrollo regional y servicios de educación superior tecnológica, a fin de tomar los en consideración en las actividades a cargo del Instituto;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-II.- Elaborar el Plan de Trabajo Anual de la Subdirección a su cargo; y presentar al Director General la composición del programa presupuestario correspondiente;
+II.- Elaborar el Plan de Trabajo Anual de la Subdirección a su cargo y presentar al Director Académico la composición del programa presupuestario correspondiente;
 
-III.- Proponer al Director General programas y líneas de investigación acordes a las necesidades de los diversos sectores productivos;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-IV.- Integrar el Comité de Investigación del Instituto, de conformidad con los procedimientos establecidos, fungir como Secretario de éste y vigilar su correcto funcionamiento;
+III.- Proponer al Director Académico programas y líneas de investigación acordes a las necesidades de los diversos sectores productivos;
+
+IV.- (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2016)
 
 V.- Proponer la integración y funcionamiento de las unidades de consumo y producción del Instituto, de conformidad con las disposiciones legales aplicables;
 
-VI.- Elaborar e informar al Director General las propuestas de planes y programas de estudio, así como sugerir y promover la formación y actualización del personal docente investigador;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+VI.- Elaborar e informar al Director Académico las propuestas de planes y programas de estudio, así como sugerir y promover la formación y actualización del personal docente investigador;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
@@ -487,11 +547,17 @@ VII.- Elaborar y llevar a cabo la evaluación de los documentos técnico-académ
 
 VIII.- Organizar la aplicación de lineamientos técnico-metodológicos para el diseño y evaluación de programas de investigación científica y tecnológica;
 
-IX.- Promover el desarrollo de proyectos de investigación de la Subdirección a su cargo, informando oportunamente al Director General sobre los resultados que se obtengan;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-X.- Integrar los resultados de los proyectos de investigación de las áreas a su cargo y presentar los a la Dirección de Vinculación y Extensión para su difusión correspondiente;
+IX.- Promover el desarrollo de proyectos de investigación de la Subdirección a su cargo, informando oportunamente al Director Académico sobre los resultados que se obtengan;
 
-XI.- Evaluar los proyectos de investigación que presentan los docentes investigadores y seleccionar los que por su trascendencia, características e impacto, sean factibles de realizar por parte del Instituto;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+X.- Integrar los resultados de los proyectos de investigación de las áreas a su cargo y presentarlos a la Dirección de Planeación y Vinculación para su difusión correspondiente;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XI.- Evaluar los proyectos de investigación que presentan los docentes investigadores y en coordinación con su superior jerárquico, seleccionar los que por su trascendencia, características e impacto, sean factibles de realizar por el Instituto;
 
 XII.- Organizar la realización de eventos de divulgación científica y tecnológica en el Instituto, pudiendo contar con el apoyo de las demás unidades administrativas competentes;
 
@@ -499,13 +565,13 @@ XII.- Organizar la realización de eventos de divulgación científica y tecnol�
 
 XIII.- Proponer la creación y producción de prototipos tecnológicos, asistencia técnica y comercialización, de conformidad con los procedimientos establecidos;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XIV.- Coadyuvar con la Subdirección General de Servicios Administrativos, en la integración del anteproyecto de presupuesto de la unidad administrativa a su cargo, o en su caso, en la modificación al mismo, proporcionando para tal efecto la información que resulte necesaria, previo acuerdo con su superior jerárquico;
+XIV.- Coadyuvar con la Subdirección de Servicios Administrativos, en la integración del anteproyecto de presupuesto de la unidad administrativa a su cargo, o en su caso, en la modificación al mismo, proporcionando para tal efecto la información que resulte necesaria, previo acuerdo con su superior jerárquico;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
-XV.- Someter a consideración de su superior jerárquico, los anteproyectos de manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para el funcionamiento de las unidades administrativas de su adscripción; y
+XV.- Elaborar en coordinación con la Subdirección de Servicios Administrativos los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, y
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
@@ -536,5 +602,13 @@ P.O. 30 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA”.]
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Decreto.
