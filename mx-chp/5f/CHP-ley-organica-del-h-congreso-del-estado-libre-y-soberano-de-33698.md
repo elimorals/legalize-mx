@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-h-congreso-del-estado-libre-y-soberano-de-3369
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-18"
-last_updated: "2015-09-21"
+last_updated: "2016-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el lunes 18 de agosto de 2003.
 
@@ -671,7 +671,9 @@ XXXII. COMISION DE DESARROLLO SOCIAL Y DE SEGUIMIENTO AL CUMPLIMIENTO DE LOS OBJ
 
 XXXIII. DE DESARROLLO RURAL; Y
 
-XXXIV. DE EQUIDAD Y GENERO;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV. DE IGUALDAD DE GENERO
 
 > <small>(ADICIONADA, P.O. 30 DE MARZO DE 2005)</small>
 
@@ -855,7 +857,9 @@ XXXII. LA COMISION DE DESARROLLO SOCIAL Y DE SEGUIMIENTO AL CUMPLIMIENTO DE LOS 
 
 XXXIII. LA COMISION DE DESARROLLO RURAL, CONOCERA PARA SU ESTUDIO Y DICTAMEN, DE LAS POLITICAS, ESTRATEGIAS Y ASUNTOS RELATIVOS A LA LEY DE LA MATERIA, ASI COMO DE AQUELLOS ASUNTOS QUE TRAMITE LA DEPENDENCIA CORRESPONDIENTE DE LA ADMINISTRACION PUBLICA DEL ESTADO;
 
-XXXIV. LA COMISION DE EQUIDAD Y GENERO, SE ENCARGARA DE PROMOVER LA EQUIDAD Y LA IGUALDAD DE OPORTUNIDADES Y ELIMINACION DE DISCRIMINACION ENTRE LOS GENEROS;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+
+XXXIV. LA COMISIÓN DE IGUALDAD DE GENERO, SE ENCARGARA DE PROMOVER LA IGUALDAD DE OPORTUNIDADES Y ELIMINACIÓN DE DISCRIMINACIÓN ENTRE LOS GÉNEROS.
 
 > <small>(ADICIONADA, P.O. 30 DE MARZO DE 2005)</small>
 
@@ -1374,3 +1378,11 @@ Articulo Segundo.- Publíquese el Presente Decreto en el Periódico Oficial del 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Cuarto.- A partir de la entrada en vigor del presente Decreto, el Congreso del Estado, deberá realizar las adecuaciones correspondientes al Reglamento Interno de este Poder Legislativo.
+
+P.O. 23 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 016 POR EL QUE SE MODIFICA EL ARTÍCULO 32 FRACCIÓN XXXIV Y 39 FRACCIÓN XXXIV DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
