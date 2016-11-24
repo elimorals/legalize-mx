@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-10-11"
+last_updated: "2016-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN SÉPTIMA DE LA GACETA DEL GOBIERNO DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1777,7 +1777,7 @@ XXV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, de los asuntos religiosos, administración de la publicación del Periódico Oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el poder Ejecutivo, de información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias, y demás disposiciones de observancia general en el Estado.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], 24 DE NOVIEMBRE DE 2016)</small>
 
 A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
 
@@ -1799,7 +1799,11 @@ II. Proporcionar y coordinar la asesoría en materia jurídica y consultiva a la
 
 III. Revisar o elaborar los proyectos de iniciativas de ley o decreto que presente el Gobernador a la Legislatura del Estado, y en caso de que los mismos afecten el Presupuesto de Egresos, se estará a lo que dispone el artículo 288 del Código Financiero del Estado de México y Municipios;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 IV. Revisar o elaborar los proyectos de reglamentos, decretos o acuerdos y demás instrumentos jurídicos que se sometan a consideración y en su caso autorización del Gobernador;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 V. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado y proponer las medidas necesarias para su corrección;
 
@@ -1809,7 +1813,11 @@ V. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la
 
 VI. Coordinar la función jurídica de la Administración Pública del Gobierno del Estado de México, con excepción de la materia fiscal;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 VII. Asesorar jurídicamente al Gobernador en los asuntos que le encomiende;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 VIII. Elaborar el proyecto de agenda legislativa del Gobernador, atendiendo las propuestas dé las dependencias y organismos, y someterla a la consideración del mismo;
 
@@ -1819,33 +1827,63 @@ VIII. Elaborar el proyecto de agenda legislativa del Gobernador, atendiendo las 
 
 IX. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado, distintas de aquellas que se refieran a la materia fiscal;
 
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 X. Definir, unificar y difundir los criterios para la interpretación de las disposiciones jurídicas que normen la gestión de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XI. Asesorar jurídicamente y orientar, cuando así lo requieran, a las dependencias y organismos auxiliares de la Administración Pública del Estado, así como a las autoridades municipales;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XII. Someter a la consideración del Gobernador el otorgamiento de nombramientos de notario;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XIII. Establecer los lineamientos y criterios técnico-jurídicos para la aplicación y supervisión del cumplimiento de las disposiciones jurídicas en materia notarial, así como recibir, tramitar, substanciar, resolver quejas, implementar e imponer sanciones en contra de los notarios;
 
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XIV. Llevar el Libro de Registro de Notarios;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XV. Coadyuvar en la elaboración, revisión y sanción de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal y con los gobiernos estatales;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XVI. Coordinar y participar, junto con las dependencias y organismos auxiliares de carácter estatal y municipal, en la actualización y simplificación del marco jurídico del Estado de México;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XVII. Intervenir en los juicios de amparo, cuando el Gobernador tenga el carácter de autoridad responsable, exista solicitud de la autoridad responsable o medie instrucción del Gobernador, así como supervisar todas las etapas de su proceso y la elaboración de los informes previos y con justificación cuando la importancia del asunto así lo amerite;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XVIII. Tramitar y substanciar para poner en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Gobernador, así como substanciar, en su caso, los procedimientos contenciosos;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XIX. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XX. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la Legislación relativa;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXI. Representar a la Administración Pública del Gobierno del Estado de México en los juicios en que ésta sea parte;
 
-XXII. Dar contestación a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa, al Gobernador, en las diferentes ramas de la administración pública, que le sean turnados para su atención;
+> <small>(REFORMADA, 24 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Dar contestación a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa, al Gobernador o al Secretario General de Gobierno, en las diferentes ramas de la administración pública, que le sean turnados para su atención.
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXIII. Coordinar y vigilar la Función Registral del Estado de México conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXIV. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
 
@@ -1855,15 +1893,27 @@ XXIV. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Ci
 
 XXV. Organizar y controlar a la defensoría pública.
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XXVI. Intervenir en el auxilio o en coordinación con las autoridades federales, en términos de las leyes en materia de cultos religiosos;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXVII. Impulsar una política de promoción, defensa y respeto de los derechos humanos en el ámbito de la administración pública estatal, así como proponer la armonización de las políticas públicas en la materia conforme a los lineamientos que establecen los tratados internacionales;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XXVIII. Coordinar las acciones de gobierno para la atención de los asuntos agrarios, atender y ejecutar los programas y acciones que instruya el Gobernador, en materia agraria así como informarle oportunamente sobre la situación agraria del Estado;
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXIX. Coordinar las acciones relativas a la demarcación y conservación de Límites;
 
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 XXX. Administrar y publicar el periódico oficial "Gaceta del Gobierno";
+
+> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXXI. Coordinar y asesorar las áreas jurídicas de las diversas dependencias de la Administración Pública Estatal;
 
@@ -1902,6 +1952,10 @@ XXXVII. Presidir, dirigir, coordinar y organizar al Instituto de Verificación A
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 XXXVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Gobernador.
+
+> <small>(ADICIONADO, 24 DE NOVIEMBRE DE 2016)</small>
+
+El estudio, planeación, trámite y resolución de los asuntos competencia de la Consejería, así como su representación, corresponden originalmente a su titular, quien para su mejor atención y despacho, podrá delegar sus atribuciones en los servidores públicos subalternos, en terminos de las disposisiones (sic) juridicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -3078,3 +3132,13 @@ OCTAVO.- Los ingresos excedentes derivados de ingresos de libre disposición a q
 En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
 
 NOVENO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
+
+G.G. 24 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 157.- POR EL QUE SE REFORMAN EL PÁRRAFO SEGUNDO Y LA FRACCIÓN XXII DEL ARTÍCULO 38 TER Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
