@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-para-el-acceso-a-la-93884"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2015-12-22"
+last_updated: "2016-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA EL ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 24 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 27 de marzo de 2013.
 
@@ -600,3 +602,17 @@ P.O. 22 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DEL PLENO DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, DE FECHA 18 DE DICIEMBRE DE 2015, POR EL QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 11 DEL REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO”.]
 
 ÚNICO. La presente adición entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. DE 24 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA, DE FECHA 31 DE OCTUBRE DE 2016, POR EL QUE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. Publíquese el presente Reglamento Interior en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+TERCERO. Se abroga el Reglamento Interior de la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado publicado en el Periódico Oficial del Estado de Puebla el 27 de marzo de 2013.
+
+CUARTO. Las facultades que este Reglamento atribuye al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, se entenderán hechas a la actual Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, en tanto se realizan las modificaciones respecto de la denominación de este organismo garante estatal en materia de transparencia.
+
+QUINTO. El ejercicio de todas y cada una de las facultades, previstas en el presente Reglamento, se realizarán de acuerdo a la suficiencia presupuestal con la que cuente el Instituto.
