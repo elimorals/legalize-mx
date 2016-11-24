@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-estatal-para-la-atencion-928
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2014-08-14"
+last_updated: "2016-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA LA ATENCION Y PROTECCION DE LOS PERIODISTAS, VERACRUZ
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MAYO DE 2017 EN LA G.O. DEL ESTADO DE VERACRUZ , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 14 de febrero de 2013.
 
@@ -239,9 +241,17 @@ b) La Dirección de Capacitación y Difusión;
 
 c) La Dirección Jurídica;
 
-d) La Unidad Administrativa; y
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2016)</small>
 
-e) La Unidad de Acceso a la Información Pública.
+d) La Unidad Administrativa
+
+> <small>(REFORMADO, G.O. 24 DE NOVIEMBRE DE 2016)</small>
+
+e) La Unidad de Acceso a la Información Pública y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2016)</small>
+
+f) La Unidad de Género
 
 II. El Órgano de Control Interno, que dependerá directamente del Pleno de la Comisión.
 
@@ -466,6 +476,24 @@ VIII. Tramitar ante el Tribunal Estatal de Conciliación y Arbitraje los juicios
 IX. Brindar asesoría jurídica a l os (sic) periodistas que así lo soliciten, conforme a lo dispuesto por este Reglamento;
 
 X. Las demás que por mayoría de razón se deriven de las funciones previamente enumeradas o en su defecto, mediante poder firmado por el Secretario Ejecutivo o los titulares de las áreas y departamentos de la Comisión.
+
+> <small>(ADICIONADO, G.O. 24 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 26 Bis.
+
+La Unidad de Género de la Comisión Estatal para la Atención y protección de los Periodistas, será la responsable de la coordinación y difusión de la materia en igualdad de Género al interior de la misma, a través de políticas que hagan prevalecer el respeto a los Derechos Humanos y su integridad como persona de cada uno de sus integrantes en esta Comisión Estatal.
+
+> <small>(ADICIONADO, G.O. 24 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 26 Ter.
+
+La Unidad de Género de la Comisión Estatal para la Atención y Protección de los Periodistas estará a cargo de Dirección Jurídica.
+
+> <small>(ADICIONADO, G.O. 24 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 26 Quater.
+
+Las funciones y actuación de la Unidad de Género de la Comisión Estatal para la Atención y Protección de los Periodistas, serán especificadas mediante los Lineamientos Generales de la misma.
 
 > <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2014)</small>
 
@@ -1172,3 +1200,9 @@ Cuarto. El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 G.O. 14 DE AGOSTO DE 2014.
 
 ÚNICO. Las reformas al Reglamento Interior de la Comisión Estatal para la atención y Protección de los Periodistas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 24 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS, POR EL CUAL SE AUTORIZA LA MODIFICACIÓN A LOS ARTÍCULOS 10 FRACCIÓN I, INCISOS D), E) Y F) Y 26 BIS, 26 TER Y 26 QUATER, DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS Y APROBACIÓN DE LOS LINEAMIENTOS GENERALES DE LA UNIDAD DE GÉNERO DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.]</small>
