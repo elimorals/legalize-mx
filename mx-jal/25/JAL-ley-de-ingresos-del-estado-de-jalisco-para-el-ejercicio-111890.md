@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-111890"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-19"
-last_updated: "2016-03-15"
+last_updated: "2016-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2016
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección LIX del Periódico Oficial del Estado de Jalisco, el sábado 19 de diciembre de 2015.
 
@@ -260,6 +260,8 @@ Por los servicios prestados por la Secretaría General de Gobierno que a continu
 Por los servicios que preste la Secretaría de Movilidad y, en su caso, la Secretaría de Planeación, Administración y Finanzas, se causarán derechos de acuerdo con la tarifa correspondiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P. O. DE 19 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 24.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 25 DE NOVIEMBRE DE 2016, PÁGINA 8.]</small>
 
 ###### Artículo 25.
 
@@ -726,3 +728,15 @@ P.O. 15 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25801/LXI/16 QUE REFORMA EL ARTÍCULO CUARTO Y ADICIONA LOS ARTÍCULOS NOVENO Y SEXTO TRANSITORIO AL DECRETO 25528/LX/15, EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, DEL 9 DE OCTUBRE DE 2015, NÚMERO 30 BIS, EDICIÓN ESPECIAL; ADICIONA UN ARTÍCULO SÉPTIMO AL DECRETO 19985, EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, DEL 22 DE MAYO DE 2003, NÚMERO 37, SECCIÓN IV, Y SE MODIFICA EL ARTÍCULO NOVENO TRANSITORIO AL DECRETO 25786/LX/15, EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, DEL 19 DE DICIEMBRE DE 2015, NÚMERO 11, SECCIÓN LIX”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25921/LXI/16 QUE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE JALISCO, PARA QUE OTORGUE A PARTICULARES LA OPERACIÓN DE LÍNEA DE VERIFICACIÓN Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, VIGENTE EN EL EJERCICIO FISCAL 2016”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La medida de seguridad relativa al retiro de la circulación de un vehículo por carecer del holograma del programa de verificación vehicular obligatoria, así como la multa por verificación vehicular extemporánea, previstas en los artículos 169, fracción V, 185, fracción IV, primer párrafo, de la Ley de Movilidad y Transporte del Estado de Jalisco, respectivamente, serán aplicables a partir del 1 de enero de 2017.
+
+TERCERO. El Titular del Poder Ejecutivo deberá, durante los 60 días siguientes a la entrada en vigor del presente Decreto, emitir las modificaciones Reglamentarias que estime pertinentes.
+
+CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Vehicular Obligatorio del Estado de Jalisco", podrán participar con criterios de preferencia en la convocatoria para el otorgamiento de líneas de verificación del nuevo programa que publique el Ejecutivo del Estado, siempre que adquieran los equipos bajo la tecnología unificada que determine la Secretaría de Medio Ambiente y Desarrollo Territorial, adecúen los procedimientos de medición para la verificación de los límites de emisiones de contaminantes provenientes de los vehículos automotores, implementen la prueba dinámica en sustitución de la prueba estática, en los términos de la NOM-047-SEMARNAT-2014, y se sujeten a las condiciones y bases de la convocatoria que se emita al efecto.
