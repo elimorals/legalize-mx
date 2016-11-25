@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-educacion-de-57589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-19"
-last_updated: "2011-06-13"
+last_updated: "2016-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE FECHA 25 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2011.
+REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2007.
 
@@ -608,13 +610,13 @@ XXXI. Coordinar, evaluar y supervisar los programas que se llevan a cabo en la C
 
 XXXII. Las demás que le encomiende el Director General y que sean afines a las anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IV. De los Centros de Desarrollo Educativo
 
-> <small>N. DE E. SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PASANDO DE VEINTIDOS FRACCIONES A VEINTIUNO</small>
+> <small>[N. DE E. SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE VEINTIDOS FRACCIONES A VEINTIUNO]</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
@@ -694,7 +696,7 @@ XX. Atender de manera especial los casos en que se lesione la integridad moral y
 
 XXI. Las demás que le confiera la autoridad educativa competente y la normatividad aplicable;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
@@ -718,7 +720,7 @@ II. Consejo Técnico Consultivo de Zona Escolar integrado por el supervisor y lo
 
 III. En cada plantel escolar de Educación Básica funcionará un Consejo Técnico Consultivo conforme a la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
@@ -1208,7 +1210,7 @@ C.P. Rosa del Carmen Gallegos Navaro,
 
 COMISARIO PÚBLICO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 8 DE DICIEMBRE DE 2008.
 
@@ -1229,3 +1231,19 @@ P.O. 28 DE FEBRERO DE 2011.
 P.O. 13 DE JUNIO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Educación de Aguascalientes publicado en el Periódico Oficial en fecha 19 de noviembre de 2007 y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena inscribir el presente Reglamento Interior del IEA en el Registro Público de la Propiedad y del Comercio del Estado, en el libro correspondiente a las entidades paraestatales.
