@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg48-2013-del-consejo-general-del-instituto-federal-923
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-18"
-last_updated: "2013-02-18"
+last_updated: "2016-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92321&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-01-30"
 ---
 # ACUERDO CG48/2013 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA EL ACCESO, RECTIFICACION, CANCELACION Y OPOSICION DE LOS DATOS PERSONALES CONTENIDOS EN LOS SISTEMAS DE DATOS PERSONALES DE LOS AFILIADOS DE LOS PARTIDOS POLITICOS NACIONALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE AFILIADOS DE LOS PARTIDOS POLÍTICOS NACIONALES PARA LA CONSERVACIÓN DE SU REGISTRO Y, SU PUBLICIDAD, ASÍ COMO PARA EL EJERCICIO DE LOS DERECHOS DE ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE LOS DATOS PERSONALES EN POSESIÓN DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN LA QUINTA SECCIÓN DEL D.O.F DE 25 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS PARA EL ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE LOS DATOS PERSONALES CONTENIDOS EN LOS SISTEMAS DE DATOS PERSONALES DE LOS AFILIADOS DE LOS PARTIDOS POLÍTICOS NACIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de febrero de 2013.
 
@@ -572,3 +574,31 @@ El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Con
 Se aprobó en lo particular el numeral 29 de los Lineamientos, por siete votos a favor de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde y el Consejero Presidente, Doctor Leonardo Valdés Zurita, y dos votos en contra de los Consejeros Electorales, Doctor Sergio García Ramírez y Doctor Benito Nacif Hernández.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE AFILIADOS DE LOS PARTIDOS POLÍTICOS NACIONALES PARA LA CONSERVACIÓN DE SU REGISTRO Y, SU PUBLICIDAD, ASÍ COMO PARA EL EJERCICIO DE LOS DERECHOS DE ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE LOS DATOS PERSONALES EN POSESIÓN DEL INSTITUTO NACIONAL ELECTORAL, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Tercero.- El presente Acuerdo entrará en vigor a partir del día siguiente al de su aprobación por el Consejo General.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE AFILIADOS DE LOS PARTIDOS POLÍTICOS NACIONALES PARA LA CONSERVACIÓN DE SU REGISTRO Y, SU PUBLICIDAD, ASÍ COMO PARA EL EJERCICIO DE LOS DERECHOS DE ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE LOS DATOS PERSONALES EN POSESIÓN DEL INSTITUTO NACIONAL ELECTORAL".]
+
+Primero.- Los Partidos Políticos Nacionales, para este proceso de verificación 2016-2017, deberán capturar en el Sistema de Verificación del Padrón de Afiliados de los Partidos Políticos la totalidad de sus afiliados; asimismo deberán tomar en consideración las cancelaciones de datos que durante los años 2014 y 2015 hayan sido procedentes de acuerdo a sus normas estatutarias, a efecto de que estas no se incluyan en el padrón que será capturado.
+
+De igual manera, para el proceso de verificación 2016-2017 podrán solicitar que el Instituto realice la transferencia de los datos de sus afiliados al Sistema, siempre y cuando los mismos se encuentren en formato .txt y se integren por los campos siguientes: nombre completo separado por el signo de PLECA (|), clave de elector (capturado con letras mayúsculas y seguido por el signo de PLECA) y fecha de afiliación (formato DD/MM/AAAA).
+
+Segundo.- A más tardar el 01 de septiembre de 2017, los Partidos Políticos Nacionales podrán capturar los datos de sus afiliados de manera permanente en el Sistema de cómputo, para lo cual el Consejo General de este Instituto emitirá los Lineamientos para regular los mecanismos para asegurar que el Sistema proporcione el estado registral de los ciudadanos en el padrón electoral, asimismo permitirá hacer los cruces necesarios para verificar que no exista doble afiliación de ciudadanos en los padrones de afiliados de los partidos con registro o en formación.
+
+Tercero.- Los Partidos Políticos Nacionales se encuentran obligados a proporcionar la fecha de ingreso de sus afiliados de conformidad con la Ley General de Partidos Políticos y los Lineamientos que forman parte integral del presente Acuerdo; sin embargo, la autoridad electoral no requerirá de este dato en aquellos registros que fueron capturados con anterioridad a la entrada en vigor de los Lineamientos para la verificación del padrón de afiliados de los Partidos Políticos Nacionales para la conservación de su registro, es decir antes del13 (sic) de septiembre de 2012.
+
+El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Consejo General celebrada el 30 de marzo de dos mil dieciséis, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+Los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/2016/03_Marzo/CGex201603-30_1a/CGex201603-30_ap_22_a1.pdf
+
+http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/2016/03_Marzo/CGex201603-30_1a/CGex201603-30_ap_22_a2.pdf
