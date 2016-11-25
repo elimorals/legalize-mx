@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-11-07"
+last_updated: "2016-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -3997,7 +3997,11 @@ TERCERO.- La reforma al artículo 78 de esta Constitución en materia de reelecc
 
 CUARTO.- El Congreso del Estado deberá adecuar las normas electorales del Estado a más tardar dentro del plazo que establece el artículo 105, fracción II, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
-QUINTO.- La reforma prevista en el artículo 22 del presente Decreto, referente a los periodos ordinarios del Congreso del Estado, iniciará vigencia a partir del primero de octubre del 2016; por única ocasión, el primer periodo ordinario de sesiones de la XXII Legislatura Constitucional, será del primero de octubre al treinta de noviembre de 2016.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+QUINTO.- La reforma prevista en el artículo 22 del presente Decreto, referente a los periodos ordinarios del Congreso del Estado, en lo que concierne al primer año de ejercicio constitucional, por única ocasión, iniciará su vigencia a partir del primero de octubre de 2016. En este tenor, el primer periodo ordinario de sesiones de la XXII Legislatura Constitucional será del primero de Octubre de 2016 al treinta y uno de Enero de 2017; el segundo periodo ordinario comprenderá del primero de Febrero al treinta y uno de Mayo de 2017 y, el tercer periodo ordinario será del primero de junio al treinta y uno de julio de 2017.
+
+Por única ocasión, dentro del primer periodo ordinario de sesiones del primer año de ejercicio constitucional de la XXII Legislatura Constitucional, referido en el párrafo que antecede, se realizará lo dispuesto en el primer párrafo, Apartado C del Artículo 22 de la Constitución Política del Estado Libre y Soberano de Baja California, en vigor.
 
 SEXTO.- La reforma prevista en el artículo 19, mediante el cual se adelanta la instalación del Congreso del Estado, al mes de agosto del año que corresponda, será aplicable a los Diputados que sean electos a partir del proceso electoral del 2019. Para efecto de la concurrencia de la elección de diputados con el proceso electoral federal 2021, los periodos de la XXII y XXIII Legislatura, serán los siguientes:
 
@@ -4318,3 +4322,9 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 583 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 11, 27, 49, 83, 84 Y 104 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 02 MEDIANTE EL CUAL SE INCORPORA LA REFORMA DEL ARTÍCULO TRANSITORIO QUINTO DEL DECRETO NÚMERO 112, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 50, TOMO CXXI, SECCIÓN I, DE FECHA 17 DE OCTUBRE DE 2014”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
