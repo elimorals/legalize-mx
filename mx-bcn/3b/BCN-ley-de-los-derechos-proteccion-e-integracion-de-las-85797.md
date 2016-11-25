@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2016-03-18"
+last_updated: "2016-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -607,9 +607,17 @@ I. Impulsar la promoción de actividades y participación de los adultos mayores
 
 II. Promover acciones a fin de que en lugares públicos destinados a la recreación, se cuente con los espacios y actividades que faciliten la integración de los adultos mayores;
 
-IV (SIC). Establecer convenios de coordinación con empresas del ramo, para ofrecer tarifas especiales, en su caso gratuitas, en los centros públicos y privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y asistencia a centros históricos y turísticos; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-IV. Para garantizar el derecho a la recreación y turismo, difundirá permanentemente a través de los medios masivos de comunicación, las actividades turísticas que se realizan a favor de las personas adultas mayores.
+III. Establecer convenios de coordinación con empresas del ramo, para ofrecer tarifas especiales, en su caso gratuitas, en los centros públicos y privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y asistencia a centros históricos y turísticos;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+IV. Fomentar la participación de las personas adultas mayores en el rescate y transmisión oral de la cultura e historia del Estado, como parte de la promoción turística de nuestra entidad; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+V. Para garantizar el derecho a la recreación y turismo, difundirá permanentemente a través de los medios masivos de comunicación, las actividades turísticas que se realizan a favor de las personas adultas mayores.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2013)</small>
 
@@ -930,3 +938,9 @@ P.O. 18 DE MARZO DE 2016.
 ###### ARTICULO ÚNICO.
 
 EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 653 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES III Y IV, ASÍ COMO LA ADICIÓN DE UNA FRACCIÓN V, AL ARTÍCULO 44 DE LA LEY DE DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
