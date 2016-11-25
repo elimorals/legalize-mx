@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2016-10-11"
+last_updated: "2016-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -663,9 +663,17 @@ XXXIII. Preparar y reunir lo necesario para la maximización de la movilidad de 
 
 XXXIV. Preparar y reunir lo necesario para facilitar el traslado de las personas con discapacidad, utilizando tanto los servicios públicos de transporte, como las vías de comunicación local, con la concurrencia de las autoridades municipales, por lo que concierne a las cuestiones de equipamiento vial y tránsito relacionadas con la accesibilidad;
 
-XXXV. Fomentar la asociación, coordinación y colaboración de los concesionarios, permisionarios y subrogatarios a través de fondos o esquemas financieros, para la consecución de economías de escala benéficas para todos ellos y la mejor satisfacción de los intereses que les sean comunes, respetando el interés social y coadyuvando a la realización del mismo, y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. Las demás que determine la presente ley y otros ordenamientos aplicables.
+XXXV. Fomentar la asociación, coordinación y colaboración de los concesionarios, permisionarios y subrogatarios a través de fondos o esquemas financieros, para la consecución de economías de escala benéficas para todos ellos y la mejor satisfacción de los intereses que les sean comunes, respetando el interés social y coadyuvando a la realización del mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+XXXVI. Fijar en la Ley de Ingresos de cada ejercicio fiscal, los estímulos fiscales aplicables a los contribuyentes que cuenten con vehículos híbridos o eléctricos con placa verde; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+XXXVII. Las demás que determine la presente ley y otros ordenamientos aplicables.
 
 ###### Artículo 20.
 
@@ -1109,9 +1117,11 @@ III. La exhibición de la constancia o póliza de seguro vigente que garantice l
 
 Los vehículos de transporte público deberán observar las disposiciones especiales que prevean la presente ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-Las placas de circulación y las calcomanías para los vehículos serán expedidas por la dependencia competente del Ejecutivo del Estado, con los colores, emblemas y matrículas que permitan la identificación del vehículo, si es particular, de servicio público masivo o colectivo o es conducido por una persona con discapacidad, conforme a la clasificación establecida en esta ley.
+Las placas de circulación y las calcomanías para los vehículos serán expedidas por la dependencia competente del Ejecutivo del Estado, con los colores, emblemas y matrículas que permitan la identificación del vehículo, si es particular, ecológico, de servicio público masivo o colectivo o es conducido por una persona con discapacidad, conforme a la clasificación establecida en esta ley.
 
 ###### Artículo 48.
 
@@ -2903,7 +2913,11 @@ III. Carezca de los requisitos necesarios para circular establecidos en el Regla
 
 IV. El vehículo se encuentre estacionado en lugar prohibido, en carreteras, frente a cochera, obstruyendo rampa de personas con discapacidad, estacionamiento exclusivo o abandonado en la vía pública, o en donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones, sin encontrarse en dicho lugar el conductor;
 
-V. Contamine visiblemente, en este caso se estará a lo dispuesto por el reglamento respectivo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+V. Contamine visiblemente, o carezca del holograma del programa de verificación vehicular obligatoria, en estos casos se estará a lo dispuesto por el reglamento respectivo;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -2987,11 +3001,11 @@ Los elementos de la policía vial no están autorizadas (sic) para recoger al op
 
 ### Capítulo II. De las sanciones administrativas en materia de movilidad y transporte
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 174.
 
-Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente y se harán constar por medio de cédula de notificación de infracción por conducto de la policía vial estatal o de tránsito municipal, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
+Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente, se harán constar por medio de cédula de notificación de infracción por la Secretaría de Movilidad, por conducto de la policía vial, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -3001,19 +3015,27 @@ El monto de las sanciones se determina en base al valor diario de la Unidad de M
 
 Las infracciones dispuestas en los artículos 175, 176, 177 excepto la fracción VIII, 178, 179 y 180 se aplicará una sanción de 1 a 5 veces el valor de la Unidad de Medida y Actualización.
 
-(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-Las infracciones dispuestas en los artículos 182 excepto su fracción II, 183, 184, 185, 190, 191 y 192 se aplicará una sanción de 10 a 30 veces el valor de la Unidad de Medida y Actualización.
+Las infracciones dispuestas en los artículos 182, 183, 184, 190 fracciones I, II y III, 191 y 192 se aplicarán una sanción de 10 a 30 unidades de medida y actualización.
 
 (REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
 Las infracciones dispuestas en los artículos 177, fracción VIII, 181, 182, fracción II, 186 y 187 se aplicará una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+Las infracciones dispuestas en los artículos 185 fracciones II, III y IV y 190, fracción IV, se aplicarán una sanción de 20 a 35 unidades de medida y actualización.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
 En el caso donde proceda sanción pecuniaria, arresto administrativo inconmutable o trabajo comunitario, o aplique suspensión o cancelación de licencia o gafete, se observara lo dispuesto en la presente ley.
 
-En el caso de reincidencia de las infracciones contempladas en este capítulo se aplicara lo dispuesto en el artículo 188.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+En el caso de reincidencia de las infracciones contempladas en este capítulo se aplicará lo dispuesto en el artículo 188.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 A las infracciones dispuestas en el artículo 183 BIS se aplicará una sanción de 20 a 60 unidades de medida y actualización, la cual será conmutable hasta por el cincuenta por ciento, al asistir a un curso de sensibilización sobre los derechos de los ciclistas que será impartido por la Secretaría o por las autoridades municipales en materia de movilidad.
 
@@ -3243,17 +3265,29 @@ Se sancionará a los conductores o propietarios de vehículos que comentan (sic)
 
 I. (DEROGADA, P.O. 12 DE MAYO DE 2016)
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-II. Circular en el estado, en vehículo que emita visiblemente contaminantes a la atmósfera, con independencia de que cuente con su holograma vigente, de acuerdo al calendario oficial de la Secretaría de Medio Ambiente y Desarrollo Territorial; o
+II. Al conductor que circule en el estado, en vehículo que emita visiblemente contaminantes a la atmósfera, con independencia de que cuente con su holograma vigente, de acuerdo al calendario oficial de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-III. Circular en vehículo que no cuente con el holograma de verificación vehicular, de acuerdo con el calendario oficial.
+III. Al conductor que circule en vehículo que no cuente con el holograma de verificación vehicular, de acuerdo con el calendario oficial.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-Las sanciones impuestas con motivo de las infracciones previstas en el presente artículo podrán ser condonadas, siempre y cuando, dentro de los quince días hábiles siguientes a su imposición, el conductor cumpla con los lineamientos establecidos.
+Adicionalmente a la multa que se señala en el párrafo que antecede, se retirará de la circulación el vehículo de conformidad con lo dispuesto en el artículo 169, fracción V, de la presente Ley en el momento del levantamiento de la cédula de infracción.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+El conductor o propietario tendrá un plazo de 20 días hábiles, a partir de la fecha en que se le entregue el vehículo, previo pago de la multa correspondiente, para circular con su vehículo a efecto de verificarlo, de no hacerlo así se hará acreedor de una nueva sanción económica; o
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN PRIMER PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+IV. Al propietario del vehículo que no haya sido verificado dentro del plazo señalado en el calendario oficial del programa de verificación vehicular obligatoria, se hará acreedor a una multa por verificación vehicular extemporánea.
+
+Con relación a la sanción prevista en el párrafo que antecede, ésta quedará sin efectos en aquellos casos que el propietario o poseedor del vehículo que incumplió obtenga permiso para circular para cumplir con el programa de verificación vehicular obligatoria, fuera del plazo establecido en el calendario oficial, con una vigencia de 20 días hábiles, previsto en la Ley de Ingresos, siempre y cuando se verifique el vehículo dentro del plazo que ampara dicho permiso.
 
 ###### Artículo 186.
 
@@ -3333,9 +3367,17 @@ Se sancionará a los conductores o propietarios de vehículos que comentan (sic)
 
 I. No coincidir la rotulación con el número de placas;
 
-II. Abastecer combustible con pasaje a bordo o con motor encendido, y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-III. Al conductor del servicio de transporte público colectivo de pasajeros, por no contar o no presentar licencia de conductor de servicio de transporte público vigente, expedida por la Secretaría.
+II. Abastecer combustible con pasaje a bordo o con motor encendido;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+III. Al conductor del servicio de transporte público colectivo de pasajeros, por no contar o no presentar licencia de conductor de servicio de transporte público vigente, expedida por la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+IV. Infringir lo previsto en el artículo 185 fracciones II, III y IV de la presente ley.
 
 ###### Artículo 191.
 
@@ -3844,3 +3886,15 @@ CUARTO. El Gobierno del Estado a través de las Secretarías de Movilidad y de E
 QUINTO. El instituto de Movilidad y Transporte del Estado de Jalisco dispondrá de un plazo de noventa días a partir de la publicación del presente decreto, para elaborar las propuestas de normas técnicas respecto a las ciclovías, ciclocarriles y estacionamiento para bicicletas mismas que deberán tomar en consideración la opinión de las asociaciones y colectivos ciclistas, y las mejores prácticas internacionales.
 
 SEXTO. Los Poderes del Estado, sus dependencias y entidades, los Órganos Constitucionales del Estado, así como los Ayuntamientos implementarán programas e incentivos para inhibir el uso de automóviles por parte de los servidores públicos y gestionar apoyos o fondos de garantía para facilitar la obtención de créditos para la adquisición de bicicletas.
+
+P.O. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25921/LXI/16 QUE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE JALISCO, PARA QUE OTORGUE A PARTICULARES LA OPERACIÓN DE LÍNEA DE VERIFICACIÓN Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, VIGENTE EN EL EJERCICIO FISCAL 2016”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La medida de seguridad relativa al retiro de la circulación de un vehículo por carecer del holograma del programa de verificación vehicular obligatoria, así como la multa por verificación vehicular extemporánea, previstas en los artículos 169, fracción V, 185, fracción IV, primer párrafo, de la Ley de Movilidad y Transporte del Estado de Jalisco, respectivamente, serán aplicables a partir del 1 de enero de 2017.
+
+TERCERO. El Titular del Poder Ejecutivo deberá, durante los 60 días siguientes a la entrada en vigor del presente Decreto, emitir las modificaciones Reglamentarias que estime pertinentes.
+
+CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Vehicular Obligatorio del Estado de Jalisco", podrán participar con criterios de preferencia en la convocatoria para el otorgamiento de líneas de verificación del nuevo programa que publique el Ejecutivo del Estado, siempre que adquieran los equipos bajo la tecnología unificada que determine la Secretaría de Medio Ambiente y Desarrollo Territorial, adecúen los procedimientos de medición para la verificación de los límites de emisiones de contaminantes provenientes de los vehículos automotores, implementen la prueba dinámica en sustitución de la prueba estática, en los términos de la NOM-047-SEMARNAT-2014, y se sujeten a las condiciones y bases de la convocatoria que se emita al efecto.
