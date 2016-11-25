@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2016-09-20"
+last_updated: "2016-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -3895,7 +3895,9 @@ El que está sujeto a patria potestad no puede:
 
 I.- Contraer obligaciones sin expreso consentimiento del que o de los que ejerzan aquélla función; y
 
-II.- Comparecer en juicio.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+II.- Comparecer en juicio, salvo lo dispuesto en la normatividad aplicable.
 
 ###### Artículo 612.
 
@@ -4121,7 +4123,9 @@ No podrán impedirse, sin justa causa, las relaciones personales ni la convivenc
 
 El Tribunal contará con los medios eficaces que considere necesarios para decretar la convivencia en el modo y forma que beneficie a los menores y en caso de incumplimiento parcial o total podrá decretar las medidas de apremio que concede la ley o dar vista al Ministerio Público si del comportamiento de quien deba permitir la convivencia se desprende algún delito.
 
-Sólo por mandato judicial expreso y fundado en causa justa podrá impedirse, suspenderse o perderse el derecho de convivencia a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+Sólo por mandato judicial expreso y fundado en causa justa podrá impedirse, suspenderse o perderse el derecho de convivencia a que se refiere este artículo. Se deberá escuchar a la niña, niño o adolescente sujeto a patria potestad, privilegiando ante todo su Interés superior en la cuestión planteada, de acuerdo a su edad y desarrollo cognoscitivo.
 
 ###### Artículo 638.
 
@@ -20444,3 +20448,11 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 611 Y EL TERCER PÁRRAFO DEL ARTÍCULO 637, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
