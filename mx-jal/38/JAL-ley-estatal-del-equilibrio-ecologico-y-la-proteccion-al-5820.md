@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2016-10-11"
+last_updated: "2016-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -311,9 +311,7 @@ XXIII. Atender los asuntos que afecten el equilibrio ecológico de dos o más mu
 
 XXIV. Asesorar, apoyar, coordinar y fomentar los esfuerzo (sic) públicos y privados que tengan por finalidad el diseño, construcción, operación, supervisión, establecimiento o instalación de plantas dedicadas a la elaboración de composta con los residuos orgánicos recolectados por el servicio municipal de aseo;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-XXV. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente;
+XXV. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2016)
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
@@ -833,23 +831,59 @@ En todo caso, deberán observarse las disposiciones legales relativas a la confi
 
 El titular del Ejecutivo, por conducto de la Secretaría, establecerá el Fondo Estatal de Protección al Ambiente, para la investigación, estudio y atención de asuntos en materia ambiental que se consideren de interés para el Estado.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 41 Ter.
 
-El Fondo Ambiental se destinará a:
+Los recursos que se integren el (sic) Fondo Ambiental serán administrados vía fideicomiso y se destinarán a:
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2007)</small>
 
 I. La realización de acciones de preservación del ambiente, la protección ecológica y la restauración del equilibrio ecológico;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2007)</small>
+
 II. La restauración, manejo y administración de las áreas de valor ambiental;
 
-III. Restauración de sitios contaminados;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+III. Prevención, mitigación y restauración de sitios contaminados;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2007)</small>
 
 IV. El apoyo a programas de prevención y restauración del equilibrio ecológico que desarrollen los municipios;
 
-VI (SIC). El apoyo al desarrollo de programas de educación e investigación en materia ambiental; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-VII. La prevención y control de la contaminación atmosférica, de suelos y de agua.
+V. El apoyo al desarrollo de programas de educación e investigación en materia ambiental; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+VI. La prevención y control de la contaminación atmosférica, de suelos y de agua.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+VII. La adquisición de tecnologías que midan los niveles máximos permitidos de emisión de contaminantes en tiempo y condiciones reales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+VIII. La ampliación del sistema de monitoreo de la calidad del aire y programa de verificación, atendiendo a los requerimientos territoriales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+IX. El mejoramiento del transporte público que presta el Estado, basado en un sistema multimodal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+X. Extender líneas y rutas de transporte público masivo, ciclista y peatonal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+XI. Establecer programas de movilidad escolar; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+XII. Financiar programas y acciones tendientes a mejorar la calidad del aire.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2007)</small>
 
@@ -862,6 +896,64 @@ II. Los recursos destinados para ese efecto en las leyes de ingresos y los presu
 III. Aquellos que provengan de fondos, contemplados en normatividad distinta al presente ordenamiento; y
 
 IV. Los demás recursos que se generen por cualquier otro concepto.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 41 Quinquies.
+
+El Fondo de Protección al Ambiente será administrado mediante un fideicomiso que contará con un comité técnico que estará integrado por un representante de:
+
+I. El Gobernador del Estado, quien lo presidirá;
+
+II. La Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+III. La Secretaría de Planeación, Administración y Finanzas;
+
+IV. La Secretaría de Innovación, Ciencia y Tecnología;
+
+V. La Secretaría de Movilidad;
+
+VI. La Secretaría de Salud;
+
+VII. La Contraloría del Estado;
+
+VIII. Una de las Instituciones de Educación Superior en el Estado, que será rotativa en forma anual;
+
+IX. Un integrante de la Junta de Coordinación Metropolitana; y
+
+X. Una organización de la sociedad civil cuyo objeto se relacione con la protección al medio ambiente.
+
+El nombramiento como integrante del Comité es honorífico y por lo tanto no será remunerado.
+
+Para la validez de los acuerdos del Comité, se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 41 Sexies.
+
+El fideicomiso contará con un Consejo Consultivo, encargado de recabar y analizar las propuestas de proyectos de inversión de los recursos del fondo que serán sometidas a la decisión del Comité Técnico, mismo que estará integrado por:
+
+I. La Secretaría de Medio Ambiente y Desarrollo Territorial, que lo presidirá;
+
+II. La Secretaría de Movilidad;
+
+IV (SIC). La Secretaría de Innovación, Ciencia y Tecnología;
+
+V. La Secretaría de Salud;
+
+VI. El Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara;
+
+VII. Tres Universidades del Estado;
+
+VIII. Centro Mario Molina;
+
+IX. Instituto Nacional de Ecología y Cambio Climático;
+
+X. Un representante de las cúpulas empresariales.
+
+El nombramiento como integrante del Consejo es honorífico y por lo tanto no será remunerado.
+
+Para la validez de los acuerdos del Consejo, se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el Presidente tendrá voto de calidad.
 
 ## TITULO SEGUNDO
 
@@ -1285,9 +1377,21 @@ b) El cumplimiento del programa por parte de los propietarios de vehículos auto
 
 VIII. Establecerán las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
 
-IX. Elaborarán los informes sobre la situación del medio ambiente en el estado y los municipios que convengan con la federación, a través de los acuerdos de coordinación que se celebren; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
-X. Ejercerán las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables.
+IX. Elaborarán los informes sobre la situación del medio ambiente en el Estado y los municipios que convengan con la Federación, a través de los acuerdos de coordinación que se celebren;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+X. Establecerán programas para la reducción de emisiones contaminantes generadas por vehículos automotores, a través de la implementación de campañas de sustitución de catalizadores y otras tecnologías reductoras de emisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+XI. Celebrar convenios con la Federación a efecto de obtener los estímulos fiscales tendientes a incentivar la renovación del parque vehicular, tanto público como privado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+
+X (SIC). Ejercerán las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -2460,3 +2564,15 @@ P.O. 11 DE OCTUBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo y los ayuntamientos del Estado, deberán actualizar sus planes y programas en la materia dentro de los 90 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25921/LXI/16 QUE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE JALISCO, PARA QUE OTORGUE A PARTICULARES LA OPERACIÓN DE LÍNEA DE VERIFICACIÓN Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE, ASÍ COMO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, VIGENTE EN EL EJERCICIO FISCAL 2016”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La medida de seguridad relativa al retiro de la circulación de un vehículo por carecer del holograma del programa de verificación vehicular obligatoria, así como la multa por verificación vehicular extemporánea, previstas en los artículos 169, fracción V, 185, fracción IV, primer párrafo, de la Ley de Movilidad y Transporte del Estado de Jalisco, respectivamente, serán aplicables a partir del 1 de enero de 2017.
+
+TERCERO. El Titular del Poder Ejecutivo deberá, durante los 60 días siguientes a la entrada en vigor del presente Decreto, emitir las modificaciones Reglamentarias que estime pertinentes.
+
+CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Vehicular Obligatorio del Estado de Jalisco", podrán participar con criterios de preferencia en la convocatoria para el otorgamiento de líneas de verificación del nuevo programa que publique el Ejecutivo del Estado, siempre que adquieran los equipos bajo la tecnología unificada que determine la Secretaría de Medio Ambiente y Desarrollo Territorial, adecúen los procedimientos de medición para la verificación de los límites de emisiones de contaminantes provenientes de los vehículos automotores, implementen la prueba dinámica en sustitución de la prueba estática, en los términos de la NOM-047-SEMARNAT-2014, y se sujeten a las condiciones y bases de la convocatoria que se emita al efecto.
