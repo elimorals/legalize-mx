@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-electoral-del-estado-de-74431"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-17"
-last_updated: "2014-09-30"
+last_updated: "2016-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO N°. IEEM/CG/102/2016 POR EL QUE SE EXPIDE EL REGLAMENTO INTERNO DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 25 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. EL ACUERDO NÚMERO IEEM/CG/28/2014, PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de marzo de 2010.
 
@@ -1600,3 +1600,11 @@ PRIMERO.- Las adecuaciones aprobadas por el presente Acuerdo entrarán en vigor 
 SEGUNDO.- Se abrogan todas aquellas disposiciones normativas internas que se contrapongan a las adecuaciones aprobadas por el presente Acuerdo.
 
 TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+G.G. 25 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- El Reglamento expedido por este Acuerdo surtirá efectos a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de México.
+
+SEGUNDO.- Publíquese el presente instrumento y el Reglamento motivo del mismo, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
