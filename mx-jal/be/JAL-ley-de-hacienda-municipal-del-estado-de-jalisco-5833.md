@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2016-10-11"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1957,25 +1955,27 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 ### CAPITULO II. Bienes Muebles e Inmuebles
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Art. 179.
 
-Sólo podrán ser enajenados los bienes inmuebles municipales, en los casos previstos en la ley que establezca las bases generales de la administración pública municipal, o cuando resulten antieconómicos en su conservación y mantenimiento. Excepcionalmente, podrán ser donados dichos bienes a instituciones públicas oficiales, cuando éstos no sean indispensables para los fines del Ayuntamiento y que la obra, que se pretenda llevar a cabo en los mismos, represente un beneficio común para los habitantes del Municipio, conforme a las siguientes bases:
+Sólo podrán ser enajenados o donados los bienes inmuebles municipales, en los casos previstos en las leyes, o cuando resulten antieconómicos en su conservación y mantenimiento conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-I. La Tesorería Municipal, cuando lo acuerde el Ayuntamiento, formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará el producto de la venta;
+I. La Tesorería Municipal formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará, el producto de la enajenación, si fuera el caso;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-II. La venta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento; y
+II. Cuando la enajenación sea a través de compraventa, ésta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2014)</small>
 
 III. No se puede realizar la enajenación o donación de ningún bien de dominio privado durante los últimos seis meses de la Administración Pública Municipal.
 
-Dichas enajenaciones, para que tengan validez jurídica, deberán ser aprobadas por el Gobierno Municipal, en sesión de Ayuntamiento, conforme a la ley.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+Dichas enajenaciones o donaciones, para que tengan validez jurídica, deberán ser aprobadas por el Ayuntamiento mediante votación calificada.
 
 Las ventas que se efectúen en contravención a este artículo serán nulas de pleno derecho.
 
@@ -3712,3 +3712,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25918/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 8, 9, 10, 11, 15, 17, 20, 23, 24, 25, 26, 27, 32, 36, 37, 38, 38 BIS, 39 BIS, 41, 44, 47, 48, 50, 51, 51 BIS, 51 TER, 60, 62, 65, 67, 68, 72, 73, 77, 79 BIS, 80, 88, 93, 93 BIS, 94, 95, 98, 102, 103, 104, 107, 119, 121, 123 BIS, 124, 125, 126, 127, 128, 129, 130, 131, 132, 132 BIS, 133 BIS, 134, 136, 142, 144, 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, LOS ARTÍCULOS 61, 69, Y 76 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y EL ARTÍCULO 179 DE LA LEY DE HACIENDA PÚBLICA MUNICIPAL TODAS DEL ESTADO DE JALISCO".]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
