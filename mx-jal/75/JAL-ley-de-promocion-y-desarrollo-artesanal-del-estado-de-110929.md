@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-110929"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2016-05-17"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el número 10 Sección LXV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -803,9 +803,11 @@ III. Ofrecer a los artesanos préstamos con intereses bajos.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-El Instituto realizará las gestiones necesarias a fin de que la Secretaría de Educación del Estado, considere dentro de sus programas educativos la impartición de conocimientos tendientes a la preservación de las tradiciones artesanales de la entidad, para fomentar y preservar social y culturalmente esta actividad.
+El Instituto realizará las gestiones necesarias para que la Secretaría de Educación del Estado, considere fomentar la enseñanza teórica y práctica de la artesanía, dentro de los programas educativos a fin de promover el conocimiento, valoración, preservación y desarrollo de la actividad artesanal de la entidad.
 
 ###### Artículo 63.
 
@@ -868,5 +870,11 @@ ROBERTO LÓPEZ LARA
 P.O. 17 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25919/LXI/16 QUE REFORMA EL ARTÍCULO 62 DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
