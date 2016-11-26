@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2016-10-15"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -209,7 +209,7 @@ IV. Los organismos operadores descentralizados.
 
 ###### ARTICULO 5°.
 
-La administración de las aguas estatales y sus bienes inherentes corresponde al Titular del Poder Ejecutivo del Estado quien, en el cumplimiento de las funciones relativas, se apoyará en la Comisión Estatal del Agua.
+La administración de las aguas estatales y sus bienes inherentes corresponde al Titular del Poder Ejecutivo del Estado quien, en el cumplimiento de las funciones relativas, se apoyara en la Comisión Estatal del Agua.
 
 ### CAPITULO II. Del Ejecutivo del Estado
 
@@ -2767,7 +2767,7 @@ III. Explotar, usar o aprovechar aguas sujetas a la regulación del Estado, en v
 
 IV. Ocupar zonas de jurisdicción o protección estatal y demás bienes públicos, sin contar con el permiso o la concesión correspondiente;
 
-V. Modificar en cualquier forma la infraestructura hidráulica autorizada para la explotación, uso o aprovechamiento del aguas sujetas a las disposiciones del Estado, para su tratamiento y alejamiento, o bien su operación, sin permiso expedido por la Comisión;
+V. Modificar en cualquier forma la infraestructura hidráulica autorizada para la explotación, uso o aprovechamie;nto del aguas sujetas a las disposiciones del Estado, para su tratamiento y alejamiento, o bien su operación, sin permiso expedido por la Comisión;
 
 VI. Realizar obras, instalaciones y servicios hidráulicos que sean contrarias a lo estipulado en los reglamentos y demás normas o disposiciones que dicte la autoridad;
 
@@ -3193,6 +3193,10 @@ DECIMO PRIMERO. Para los efectos del artículo anterior, la Comisión Estatal de
 
 DECIMO SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por las autoridades y organismos competentes en los términos de la ley que se abroga.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+DECIMO TERCERO. Los organismos operadores de agua potable de los municipios del Estado, previo acuerdo de su Junta de Gobierno, podrán presentar al Congreso del Estado propuestas de modificación a sus respectivas leyes de cuotas y tarifas debidamente fundamentadas y motivadas, a fin de implementar programas temporales que coadyuven a la regularización de adeudos de los usuarios morosos y, con ello, lograr que se incentive la recaudación y se fomente la cultura de pago; así mismo, acciones que considere convenientes para beneficiar a los usuarios cumplidos en los pagos del servicio público doméstico de agua.
+
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
 DADO en el Salón de Sesiones del Honorable Congreso del Estado, el día trece de diciembre de dos mil cinco.
@@ -3422,5 +3426,13 @@ P.O. 15 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0402.- SE REFORMA LOS ARTÍCULOS, 207 EN SUS FRACCIONES I A IV, 232 EN SUS FRACCIONES I A V, Y 238 EN SUS FRACCIONES I A IV, Y PÁRRAFO SEXTO, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 13 EN SU FRACCIÓN III, Y 14, DE LA LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0425.- SE ADICIONA (SIC) ARTÍCULO DÉCIMO TERCERO TRANSITORIO, A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
