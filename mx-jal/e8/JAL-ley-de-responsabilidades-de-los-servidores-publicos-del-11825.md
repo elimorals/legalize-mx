@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2016-11-10"
+last_updated: "2016-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -785,9 +785,9 @@ XXXV. Responder las recomendaciones que les presente la Comisión Estatal de Der
 
 A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar, a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. Abstenerse de realizar la enajenación o donación de cualquier bien del dominio privado durante los últimos seis meses de la Administración Pública Municipal;
+XXXVI. Abstenerse de realizar la enajenación o donación de cualquier bien del dominio privado durante los últimos seis meses de la Administración Pública Municipal, salvo los casos previstos en la ley;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -925,7 +925,9 @@ V. Los hechos y circunstancias que se denuncian, y
 
 VI. El nombre del servidor público del órgano de control disciplinario, que tendrá bajo resguardo el expediente como responsable de su instrucción.
 
-La información contenida en el libro anterior es considerada como reservada en términos de la Ley de Información Pública del Estado de Jalisco y sus Municipios. La actualización y resguardo del libro será responsabilidad del superior jerárquico o del encargado del órgano de control disciplinario respectivo.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+La información contenida en el libro anterior es considerada como reservada en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios. La actualización y resguardo del libro será responsabilidad del superior jerárquico o del encargado del órgano de control disciplinario respectivo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1027,11 +1029,11 @@ Las sanciones pecuniarias constituirán créditos fiscales a favor del erario es
 
 Las sanciones pecuniarias impuestas por el incumplimiento a la obligación de presentar en tiempo y forma la declaración de situación patrimonial, se constituirán a favor de la entidad pública facultada para conocerla conforme a lo dispuesto por el artículo 94 de la presente ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 76 Bis.
 
-El servidor público que omita presentar las declaraciones de situación patrimonial a que se refieren las fracciones I a III del artículo 96 de este ordenamiento se hará acreedor a una sanción pecuniaria de siete a ochenta veces el valor diario de la Unidad de Medida y Actualización.
+El servidor público que omita presentar las declaraciones de situación patrimonial a que se refieren las fracciones I a III del artículo 96 de este ordenamiento se hará acreedor a una sanción pecuniaria de siete a ochenta veces el valor de la Unidad de Medida y Actualización.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
@@ -1790,3 +1792,9 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La reforma del artículo 46 bis de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor el 31 de octubre de 2018.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25918/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 8, 9, 10, 11, 15, 17, 20, 23, 24, 25, 26, 27, 32, 36, 37, 38, 38 BIS, 39 BIS, 41, 44, 47, 48, 50, 51, 51 BIS, 51 TER, 60, 62, 65, 67, 68, 72, 73, 77, 79 BIS, 80, 88, 93, 93 BIS, 94, 95, 98, 102, 103, 104, 107, 119, 121, 123 BIS, 124, 125, 126, 127, 128, 129, 130, 131, 132, 132 BIS, 133 BIS, 134, 136, 142, 144, 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, LOS ARTÍCULOS 61, 69, Y 76 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y EL ARTÍCULO 179 DE LA LEY DE HACIENDA PÚBLICA MUNICIPAL TODAS DEL ESTADO DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
