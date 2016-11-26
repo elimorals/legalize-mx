@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2016-10-11"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -683,7 +683,9 @@ III. Actuar cuando no conociere a alguna de las partes que soliciten sus servici
 
 IV. Autorizar actos en los que intervengan su cónyuge, sus ascendientes o descendientes en cualquier grado, sus colaterales consanguíneos hasta el cuarto grado o sus afines hasta el segundo grado, y los comprendidos en el parentesco civil. Así como certificar documentos en donde se involucre a las personas referidas con anterioridad y el propio notario, salvo los casos que expresamente la Ley los faculte;
 
-V. Autorizar actos jurídicos en que se enajenan o se constituyan gravámenes sobre bienes inmuebles, sin insertar y protocolizar el certificado a que se refiere el artículo 87 de esta ley y con las salvedades que en el mismo se establecen, o autorizar actos jurídicos en contravención a lo que establecen los artículo 84 párrafo IV y 87 de esta ley;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+V. Autorizar actos jurídicos en que se enajenan o se constituyan gravámenes sobre bienes inmuebles, sin insertar y protocolizar el certificado a que se refiere el artículo 87 de esta ley y con las salvedades que en el mismo se establecen, o autorizar actos jurídicos en contravención a lo que establecen los artículos 84 fracción IV y 87 de esta ley;
 
 VI. Quebrantar la imparcialidad y rectitud que le corresponde como fedatario público;
 
@@ -2828,3 +2830,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25907/LXI/16 QUE REFORMA EL ARTÍCULO 39 DE LA LEY DEL NOTARIADO Y LOS ARTÍCULOS 860, 911 Y 971 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES.]
+
+ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
