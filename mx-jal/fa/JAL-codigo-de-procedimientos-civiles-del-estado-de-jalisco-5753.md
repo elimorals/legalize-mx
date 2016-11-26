@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2016-10-11"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -7186,9 +7186,9 @@ V.- Frutos;
 
 VI.- Muebles;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-VII.- Bienes inmuebles, determinando su ubicación, extensión superficial, medidas y colindancias, antecedentes de propiedad y del Registro Público de la Propiedad o en su defecto en el Catastro correspondiente, puntualizando todas las características identificatorias existentes de modo que no puedan ser confundidos con otros, agregando un plano o croquis de los mismos, así como certificado expedido por el Registro Público de la Propiedad, de cada inmueble, o certificado catastral en caso de no estar inscritos en el mismo que corresponda, con una fecha (sic) expedición mínima de diez días naturales a su presentación;
+VII.- Bienes inmuebles, determinando su ubicación, extensión superficial, medidas y colindancias, antecedentes de propiedad y del Registro Público de la Propiedad, o en su defecto en el Catastro correspondiente, puntualizando todas las características que lo identifiquen de modo que no puedan ser confundidos con otros, agregando un plano o croquis de los mismos, así como certificado de libertad o de gravamen o, en caso de no estar inscritos, un certificado catastral actualizado;
 
 VIII.- Créditos; y
 
@@ -7497,6 +7497,10 @@ Si hubiere bienes gravados se especificarán los gravámenes, indicando el modo 
 ###### ARTICULO 911.
 
 Concluido el proyecto de partición el Juez lo mandará poner a la vista de los interesados en la Secretaría por un término de diez días. Vencido este término sin hacerse oposición o cuando se presente el proyecto suscrito de conformidad por todos los interesados, el Juez lo aprobará y dictará sentencia de adjudicación mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el Secretario, una nota en que se haga constar la adjudicación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+En ningún caso se aprobará el proyecto de partición respecto de los bienes que estén afectados por alguna medida provisional o cautelar en términos de la Ley de Extinción de Dominio del Estado de Jalisco.
 
 ###### ARTICULO 912.
 
@@ -8036,11 +8040,19 @@ En las entrevistas el Juez se hará asistir de un médico que certificará que l
 
 ARTICULO 970 TER.- Hecho lo anterior, dentro de un término que en ningún caso excederá de quince días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor interino, el Agente de la Procuraduría Social y el incapaz en caso de que pueda manifestar su voluntad por cualquier medio, dictará su resolución declarando o no el estado de interdicción, y en su caso, el grado de la misma, según el sentido que arrojen las constancias y dictámenes. Si hubiere oposición, se substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapaz si lo pidiere, y durante la tramitación subsistirá la designación de tutor y curador interinos.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTICULO 971.
+###### Artículo 971.
 
-En ningún caso se aprobará el proyecto de partición respecto de los bienes que estén afectados por alguna medida provisional o cautelar en términos de la Ley de Extinción de Dominio del Estado de Jalisco.
+En todo procedimiento para declarar la interdicción, se observarán las siguientes reglas:
+
+I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
+
+II. El estado de demencia puede comprobarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen, y se oiga su dictamen;
+
+III. El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa Aporte de ciento ochenta días, a favor del erario estatal; y
+
+IV. Luego que cause ejecutoria la sentencia de interdicción el juez llamara al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello este legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
 
 ###### ARTICULO 971
 
@@ -9527,3 +9539,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25907/LXI/16 QUE REFORMA EL ARTÍCULO 39 DE LA LEY DEL NOTARIADO Y LOS ARTÍCULOS 860, 911 Y 971 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES”.]
+
+ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
