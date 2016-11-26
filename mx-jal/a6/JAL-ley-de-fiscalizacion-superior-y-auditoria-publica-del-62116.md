@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2016-10-11"
+last_updated: "2016-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y AUDITORIA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -871,15 +871,15 @@ La auditoría deberá de dar asesoría puntual y concreta a los sujetos auditabl
 
 ### Capítulo I. De las Cuentas Públicas
 
-(NOTA: EL 5 DE DICIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TERCERO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 21/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
-LAS ENTIDADES FISCALIZADAS ESTATALES Y MUNICIPALES, DEBERÁN ADQUIRIR LAS FORMAS VALORADAS Y RECIBOS PARA COBROS DE INGRESOS DE LAS HACIENDAS PÚBLICAS ESTATAL Y MUNICIPALES, EN LOS TÉRMINOS DE LA LEY, ANTE EL CONGRESO DEL ESTADO Y PREVIO PAGO DE LOS DERECHOS CORRESPONDIENTES PREVISTOS EN LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO, PARA EL EJERCICIO FISCAL QUE CORRESPONDA.
+Las entidades fiscalizadas estatales y municipales, deberán emitir conforme dispongan sus reglamentos, las formas valoradas y recibos para cobro de ingresos de las haciendas pública estatal y municipales, y durante los meses de enero y febrero de cada año, deberán informar a la Auditoria Superior de los folios y criterios de control de las formas valoradas a utilizar en el mismo ejercicio fiscal.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO TERCERO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 21/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-LOS INGRESOS GENERADOS POR EL PAGO DE LOS DERECHOS A QUE SE REFIERE EL PÁRRAFO ANTERIOR, DEBERÁN SER REMITIDOS DE FORMA ÍNTEGRA AL CONGRESO DEL ESTADO.
+Cuando a las entidades fiscalizadas estatales y municipales se les agoten los folios reportados a la Auditoria Superior a que se (sic) hace referencia el párrafo anterior, tendrán un plazo de quince días hábiles para informar a la misma Auditoria los nuevos folios que utilizarán.
 
 Las entidades auditables municipales presentarán a la Auditoría Superior, antes del día último de febrero del año siguiente al del ejercicio fiscal de que se trate, las cuentas públicas correspondientes al año anterior, junto con toda la documentación original comprobatoria y justificativa de las mismas.
 
@@ -1616,3 +1616,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25908/LXI/16 QUE REFORMA EL ARTÍCULO 51 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
