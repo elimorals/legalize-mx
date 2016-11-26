@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2015-08-27"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -165,7 +165,13 @@ c) Desarrollar incentivos económicos y fiscales para impulsar el desarrollo y c
 
 d) Fortalecer el combate de incendios forestales; promover e incentivar la reducción gradual de la quema de caña de azúcar, y de prácticas de roza, tumba y quema.
 
-e) Reconvertir las tierras agropecuarias degradadas a productivas mediante prácticas de agricultura sustentable, o bien destinarlas para zonas de conservación ecológica y recarga de acuíferos;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+e) Reconvertir las tierras agropecuarias degradadas a productivas mediante prácticas de agricultura sustentable, o bien destinarlas para zonas de conservación ecológica y recarga de acuíferos.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+f). Establecer en cada uno de los municipios del Estado, zonas de plantación, cuidado y conservación de árboles, atendiendo a la flora y zona climatológica que corresponda;
 
 II. La sistematización del manejo de residuos sólidos que no generen emisiones de metano, en centros urbanos de más de cien mil habitantes, en no más de cinco años:
 
@@ -184,6 +190,10 @@ a) Instrumentar programas que creen conciencia del impacto en generación de emi
 b) Desarrollar programas que promuevan patrones de producción y consumo sustentables en los sectores, público, social, y privado, a través de estímulos fiscales, fundamentalmente en áreas como la generación y consumo de energía, el transporte, y la gestión integral de los residuos.
 
 c) Reconocer e incentivar a las empresas e instituciones que propicien que sus trabajadores y empleados tengan domicilio cercano a los centros de trabajo, consumo, educación, y entretenimiento, así como el establecimiento de jornadas de trabajo continuas.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+d) Crear, en coordinación con la Secretaría de Ecología y Gestión Ambiental programas de difusión sobre la plantación, cuidado, conservación y preservación de árboles para toda la población, con el apoyo de las instituciones educativas del Estado y los municipios.
 
 ###### ARTÍCULO 10.
 
@@ -690,3 +700,13 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0424.- SE REFORMA EL ARTÍCULO 9° EN SU FRACCIÓN I EL INCISO E); Y ADICIONA AL MISMO ARTÍCULO 9° EN SUS FRACCIONES, I EL INCISO F), Y III EL INCISO D), DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
