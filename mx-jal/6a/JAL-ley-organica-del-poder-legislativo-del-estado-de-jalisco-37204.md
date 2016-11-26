@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2016-11-17"
+last_updated: "2016-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -869,6 +869,10 @@ d) Dirección de Servicios Generales, responsable del mantenimiento de los biene
 
 2. Al frente de este órgano técnico se encuentra el Auditor Superior del Estado que es nombrado por el Congreso del Estado de conformidad al procedimiento y con los requisitos que señalan la Constitución Política del Estado de Jalisco y la ley de la materia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+3. La Auditoría Superior tendrá facultades para fiscalizar el cumplimiento de las disposiciones en materia de disciplina financiera en los términos establecidos en la normatividad federal y estatal y llevará un registro de todas las operaciones de deuda estatal o municipal y de sus entidades; debiéndose asentar en el mismo los datos que el Registro Estatal establezca según la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, y cotejar los datos con dicho registro.
+
 ###### Artículo 53.
 
 1. La función fiscalizadora del Congreso del Estado, así como la organización, obligaciones y atribuciones de la Auditoria Superior del Estado, se establecen en las leyes y reglamentos respectivos.
@@ -959,9 +963,21 @@ III. Realizar el seguimiento del gasto del presupuesto estatal;
 
 IV. Apoyar y asesorar al Congreso del Estado en el proceso de análisis y aprobación de la Ley de Ingresos y del Presupuesto de Egresos del Estado de Jalisco y Leyes de Ingresos de los municipios;
 
-V. Instrumentar prospectivas y analizar el efecto económico de la legislación federal y estatal, así como de las demás cuestiones relacionadas con el presupuesto y la política económica; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-VI. Las demás que señalen las leyes y reglamentos de la materia.
+V. Instrumentar prospectivas y analizar el efecto económico de la legislación federal y estatal, así como de las demás cuestiones relacionadas con el presupuesto y la política económica;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+VI. Coadyuvar en el estudio, análisis y valoración de los techos de financiamiento neto de los Entes Públicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+VII. Apoyar a la Comisión de Hacienda y Presupuestos en el estudio, análisis y valoración de las solicitudes de deuda pública de los Entes Públicos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Las demás que señalen las leyes y reglamentos de la materia.
 
 ### CAPÍTULO V. Instituto de Investigación y Estudios Legislativos
 
@@ -1931,9 +1947,11 @@ VI. La denominación de los municipios y de sus delegaciones, agencias y localid
 
 VII. La creación de municipios, así como erigir delegaciones y agencias municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 89.
 
-1. Corresponde a la Comisión de Hacienda y Presupuestos el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+Corresponde a la Comisión de Hacienda y Presupuestos el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación en materia fiscal y hacendaria;
 
@@ -1949,23 +1967,27 @@ VI. El gasto público del Estado y la dictaminación de su Presupuesto de Egreso
 
 VII. El otorgamiento de dispensas de ley por causas de utilidad pública sin perjuicio de terceros;
 
-VIII. La autorización al Poder Ejecutivo para contraer adeudos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Las autorizaciones para que el Estado y los Municipios puedan contratar empréstitos y obligaciones, conforme a la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; así como la propuesta al Pleno del Congreso de los techos de financiamiento neto de los Entes Públicos conforme a la legislación de la materia;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 IX. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Hacienda Pública;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 X. La supervisión y coordinación del órgano técnico de Hacienda Pública;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-XI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Hacienda Pública;
+XI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Hacienda Pública;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-XII. La vigilancia de que en el Presupuesto de Egresos del Estado de Jalisco no se realice la incorporación, bajo ninguna circunstancia, de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración que legalmente deben recibir los servidores públicos, y
+XII. La vigilancia de que en el Presupuesto de Egresos del Estado de Jalisco no se realice la incorporación, bajo ninguna circunstancia, de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración que legalmente deben recibir los servidores públicos; y
 
-> <small>N. DE E. EN RELACIÓN CON LA REFORMA DE LA PRESENTE FRACCIÓN, VÉASE PÁGINAS 20 Y 21 DEL DECRETO 23079/LVIII/09, P.O. 31 DE DICIEMBRE DE 2009.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 XIII. Las políticas, planes y programas en materia fiscal y hacendaria.
 
@@ -4438,3 +4460,9 @@ P.O. 17 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25909/LXI/16 QUE REFORMA LOS ARTÍCULOS 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; Y 131, 144, 176 Y 177 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25917/LX1/16 QUE REFORMA LOS ARTÍCULOS 52,58 Y 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
