@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2016-11-10"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MARZO DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -449,7 +451,9 @@ No se considerará confiscación la aplicación de bienes de una persona cuando 
 
 I. Será jurisdiccional y autónomo del de materia penal;
 
-II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, respecto de los bienes siguientes:
 
 a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió;
 
@@ -689,7 +693,7 @@ k) Las demás que determinen las leyes aplicables; y
 
 l) Todas las no reservadas al Instituto Nacional Electoral por la Constitución Federal.
 
-[N. DE E. EN RELACIÓN CON EL ANTERIOR PÁRRAFO SEGUNDO DE LA FRACCIÓN VIII, VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2016, PÁGINA 10.
+> <small>[N. DE E. EN RELACIÓN CON EL ANTERIOR PÁRRAFO SEGUNDO DE LA FRACCIÓN VIII, VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2016, PÁGINA 10.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -709,11 +713,11 @@ XI. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco p
 
 La solicitud a que se refiere el párrafo anterior podrá presentarse en cualquier momento del proceso electoral de que se trate y, en su caso, sólo tendrá efectos durante el mismo;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2016, PÁGINA 4.]</small>
 
-XII. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco deberá, en su caso, solicitar la colaboración del Instituto Nacional Electoral a fin de superar el secreto bancario, fiduciario y fiscal en los actos de fiscalización que realice a las finanzas de los partidos políticos, agrupaciones políticas locales, aspirantes, precandidatos y candidatos, en términos de lo dispuesto en el artículo 41 de la Constitución federal y lo que determinen las leyes;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-El Instituto Electoral y de Participación Ciudadana del estado de Jalisco contará con una Contraloría General, dotada de autonomía técnica y de gestión, para que realice la fiscalización y vigilancia de los ingresos y egresos. El Contralor General será designado por las dos terceras partes de los diputados que integran el Congreso del Estado, bajo el procedimiento previsto en la ley, en la que se establecerán los requisitos que deberá reunir. Durará en su cargo cinco años, y no podrá ser reelecto; la remoción de este funcionario será facultad del Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, por causa grave, en los términos y condiciones que fije la ley.
+XII. El Instituto Electoral y de Participación Social del Estado de Jalisco deberá, en su caso, solicitar la colaboración del Instituto Nacional Electoral a fin de superar el secreto bancario, fiduciario y fiscal en los actos de fiscalización que realice a las finanzas de los partidos políticos, agrupaciones políticas locales, aspirantes, precandidatos y candidatos, en términos de lo dispuesto en el artículo 41 de la Constitución federal y lo que determinen las leyes;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -885,11 +889,15 @@ I. Las autoridades estatales y municipales colaborarán con la familia para su f
 
 II. Se establecerá un sistema que coordine las acciones de apoyo e integración social de los adultos mayores para facilitarles una vida digna, decorosa y creativa, y se promoverá el tratamiento, rehabilitación e integración a la vida productiva de las personas con discapacidad;
 
-III. (DEROGADA, P.O. 29 DE ABRIL DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+III. Los órganos del Poder Público, así como los organismos autónomos garantizarán en todo momento el combate y sanción a cualquier tipo de actos de corrupción en los términos de la legislación correspondiente.
 
-IV. El sistema educativo estatal se ajustará a los principios que se establecen en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos; estará orientado a promover la convivencia armónica y respetuosa entre la sociedad y la naturaleza, los valores cívicos y a fomentar el trabajo productivo para una convivencia social armónica; desarrollará además la investigación y el conocimiento de la geografía y la cultura de Jalisco, de sus valores científicos, arqueológico, histórico y artístico, así como de su papel en la integración y desarrollo de la nación mexicana;
+El Sistema Anticorrupción del Estado será el encargado de dar seguimiento y cumplimiento a lo anterior.
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+IV. El sistema educativo estatal se ajustará a los principios que se establecen en el artículo 3o de la Constitución Política de los Estados Unidos Mexicanos; estará orientado a promover la convivencia armónica y respetuosa entre la sociedad y la naturaleza; los valores cívicos y la cultura de la legalidad; y a fomentar el trabajo productivo para una convivencia social armónica; desarrollará además, la investigación y el conocimiento de la geografía y la cultura de Jalisco, de sus valores científicos, arqueológicos, históricos y artísticos, así como de su papel en la integración y desarrollo de la nación mexicana;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2015)</small>
 
@@ -1039,9 +1047,9 @@ V. No ser Presidente o Consejero ciudadano de la Comisión Estatal de Derechos H
 
 VI. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpo de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Fiscal General, Fiscal Central, Fiscal Especial de Delitos Electorales, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
+VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Fiscal General, Fiscal Central, Fiscal Especial de Delitos Electorales, Fiscal Especial en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
@@ -1259,9 +1267,9 @@ VIII. Solicitar al Instituto Electoral del Estado, someta a referéndum derogato
 
 IX. Elegir a los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, así como a los titulares del Consejo de la Judicatura, en la forma y términos que dispongan esta Constitución y las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-X. Designar al titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana, en la forma y términos que establece la presente Constitución y la ley de la materia;
+X. Elegir a los titulares de los órganos internos de control de los organismos públicos cuya autonomía es reconocida por esta Constitución y que ejerzan recursos del Presupuesto del Estado, mediante el voto de las dos terceras partes de los diputados presentes del Congreso, de conformidad con las bases establecidas por esta Constitución y las leyes;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
@@ -1387,9 +1395,9 @@ XXXIV. Presidir la junta preparatoria para instalar la nueva legislatura;
 
 XXXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. Designar por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, al Fiscal Especial en materia de Delitos Electorales, de entre la terna que envíe el Titular del Poder Ejecutivo, en los términos que establezca la ley.
+XXXVI. Designar por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, al Fiscal Especial en materia de Delitos Electorales y al Fiscal Especial en Combate a la Corrupción, de entre la terna que envíe el Titular del Poder Ejecutivo, en los términos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2008)</small>
 
@@ -1715,17 +1723,15 @@ XXIII. Divulgar la legislación local en el Estado; y
 
 XXIV. Hacer la propuesta de delimitación de las regiones metropolitanas que se encuentren ubicadas dentro del territorio del estado, a partir de la declaratoria de áreas metropolitanas que haga el Congreso del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 XXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-XXVI. Conducir la administración de la hacienda pública del estado, en términos de la legislación aplicable para tal efecto, podrá ejercer las autorizaciones que para la obtención de empréstitos emita el Congreso del Estado, adquirir el financiamiento público temporal o crédito de corto plazo, en los términos, condiciones y modalidades autorizados por la legislación en materia de disciplina financiera, realizar las operaciones de conversión, adecuación, canje, refinanciamiento o reestructura de la deuda pública, dentro de los montos y plazos máximos previstos en los decretos originales de autorización legislativa emitidos, y gestionar estas mismas operaciones a las entidades públicas estatales, siempre que se obtenga o acrediten mejoras en las condiciones previamente adquiridas o se requiera para la sustentabilidad de las obligaciones adquiridas debiendo informar al Congreso del Estado conforme lo establezca la Ley.
+XXVI. Celebrar convenios de coordinación con la Federación, Estados y Municipios, en materia de combate a la corrupción; y
 
-El Ejecutivo del Estado y los entes públicos estatales, incluyendo los fideicomisos públicos, no podrán contraer créditos u obligaciones en los últimos tres meses de la administración pública que les corresponda; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 XXVII. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
 
@@ -2361,13 +2367,17 @@ VII. Organizar y conducir la planeación del desarrollo del municipio y establec
 
 VIII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando afecten su ámbito territorial; y
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-IX. Celebrar convenios para la administración y custodia de zonas federales; y
+IX. Celebrar convenios para la administración y custodia de zonas federales;
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-X. Celebrar convenios de coordinación, establecer mecanismos de colaboración y crear figuras de asociación con otros ayuntamientos, cuando éstos pertenezcan a una misma área metropolitana.
+X. Celebrar convenios de coordinación, establecer mecanismos de colaboración y crear figuras de asociación con otros ayuntamientos cuando estos pertenezcan a una misma área metropolitana; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+XI. Celebrar convenios de coordinación con la Federación, Estados y Municipios, en materia de combate a la corrupción.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -2425,7 +2435,9 @@ I. Difundir, cumplir y hacer cumplir, en su ámbito de competencia, las leyes qu
 
 II. Publicar los bandos previstos por la ley;
 
-III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2000)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+III. Garantizar en todo momento el combate y sanción a cualquier tipo de actos de corrupción en los términos de la legislación correspondiente; y
 
 IV. Las demás que determinen las leyes, para la mejor administración de su patrimonio y prestación de los servicios públicos que les correspondan.
 
@@ -2462,42 +2474,6 @@ Cuando los casos citados en el presente artículo involucren a una o más entida
 ### CAPITULO I. De las responsabilidades de los servidores públicos
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 90.
-
-Los servidores públicos del Estado y de los municipios serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, así como el incumplimiento de las leyes o normas en materia de manejo de recursos públicos, contratación y ejercicio de la deuda pública.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 91.
-
-Los servidores públicos pueden incurrir en responsabilidad política, penal, administrativa, civil y las establecidas en la legislación en materia de disciplina financiera, que será determinada a través de:
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-I. El juicio político;
-
-(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4. Y EL APARTADO IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA REFORMA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “… II. El procedimiento previsto en la legislación penal, previa declaración de procedencia para los servidores públicos en los casos previstos por esta Constitución;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2016)</small>
-
-II. EL PROCEDIMIENTO PREVISTO EN LA LEGISLACIÓN PENAL;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-III. El procedimiento administrativo, y
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
-
-IV. El procedimiento ordinario.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 92.
-
-Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; el Presidente de la Junta Local de Conciliación y Arbitraje; a los consejeros electorales del Instituto Electoral del Estado; a los magistrados del Tribunal Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, así como los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera (sic) naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 88.
 
@@ -2547,13 +2523,15 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 ###### Art. 90.
 
-Los servidores públicos del Estado y de los municipios serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Los servidores públicos del Estado y de los municipios serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, así como el incumplimiento de las leyes o normas en materia de manejo de recursos públicos, contratación y ejercicio de la deuda pública.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 ###### Art. 91.
 
-Los servidores públicos pueden incurrir en responsabilidad política, penal, administrativa y civil, que será determinada a través de:
+Los servidores públicos pueden incurrir en responsabilidad política, penal, administrativa, civil y las establecidas en la legislación en materia de disciplina financiera, que será determinada a través de:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 I. El juicio político;
 
@@ -2563,15 +2541,21 @@ I. El juicio político;
 
 II. EL PROCEDIMIENTO PREVISTO EN LA LEGISLACIÓN PENAL;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 III. El procedimiento administrativo, y
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IV. El procedimiento ordinario.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Art. 92.
 
-Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; el Presidente de la Junta Local de Conciliación y Arbitraje; a los consejeros electorales del Instituto Electoral del Estado; a los magistrados del Tribunal Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; el Presidente de la Junta Local de Conciliación y Arbitraje; a los consejeros electorales del Instituto Electoral del Estado; a los magistrados del Tribunal Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, a los titulares de los órganos internos de control, así como los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración publica del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses y en su caso, la constancia de presentación de su declaración fiscal, ante las autoridades competentes y en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -2701,11 +2685,23 @@ VI. Las sanciones económicas no podrán exceder de tres tantos de los beneficio
 
 Art. 107 bis.- La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Art. 106.
 
 Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determinen las leyes generales y locales de la materia, para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas y para sancionar aquellas distintas a las que sean competencia jurisdiccional; así como para revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos. Los órganos internos de control estarán facultados para presentar ante la Fiscalía Especial en Combate a la Corrupción las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+Los titulares de los órganos internos de control de aquellos organismos públicos que esta Constitución otorga autonomía y ejerzan recursos del Presupuesto del Estado deberán cumplir con los mismos requisitos que esta Constitución establece para ser titular de la Auditoría Superior del Estado y durarán en su cargo cuatro años, sin posibilidad de reelección.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
+El Congreso del Estado elegirá, con el voto de cuando menos las dos terceras partes de los diputados presentes, a los titulares de los órganos internos de control a que refiere el párrafo anterior; para lo cual emitirá una convocatoria pública a la sociedad, dentro de los tres meses anteriores a que venza el nombramiento respectivo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2721,17 +2717,47 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
+### CAPÍTULO VI. DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 ### CAPITULO I. Prevenciones generales
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. De las reformas a la Constitución
+###### Art. 107 Ter.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+El Sistema Anticorrupción del Estado de Jalisco es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y actos de corrupción, así como la fiscalización y control de recursos públicos.
+
+El Sistema Estatal Anticorrupción tiene como objeto prevenir la corrupción con la finalidad de fortalecer el estado de derecho, la rendición de cuentas y la gobernanza para el desarrollo; aplicando para tal efecto los tratados internacionales en materia anticorrupción de los que México sea parte y las leyes respectivas.
+
+Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema Anticorrupción del Estado de Jalisco contará con un Comité Coordinador que estará integrado de la siguiente manera:
+
+a) Titular de la Auditoría Superior;
+
+b) Titular de la Fiscalía Especial en Combate a la Corrupción;
+
+c) Titular de la Contraloría del Estado;
+
+d) Titular de la Presidencia del Tribunal de lo Administrativo;
+
+e) Titular de la Presidencia del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
+
+f) Un representante del Consejo de la Judicatura; y
+
+g) Un representante del Comité de Participación Social.
+
+II. El Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley.
+
+La ley determinará las bases de organización y funcionamiento del Sistema Anticorrupción del Estado de Jalisco.
+
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. De las reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2842,6 +2868,10 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+
+### CAPITULO III. De la inviolabilidad de esta Constitución
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 117.
 
@@ -3646,3 +3676,13 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 PRIMERO. Envíese lo conducente del presente decreto, junto con los debates que hubiere provocado, a los ayuntamientos del Estado, para los efectos del artículo 117 de nuestra Constitución Local.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 26 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25886/LXI/16 QUE REFORMA LOS ARTÍCULOS 8, 12, 15, 21, 35, 50, 80, 85, 92 Y 106 Y SE ADICIONA UN CAPÍTULO VI AL TÍTULO OCTAVO Y UN ARTÍCULO 107 TER, A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO ACUERDO LEGISLATIVO NÚMERO AL-845-LXI-16”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Congreso del Estado dispondrá de un plazo de cuatro meses posteriores a la entrada en vigor del presente decreto, para aprobar una minuta de reforma constitucional complementaria en materia anticorrupción relativas a fiscalización superior, responsabilidades y justicia administrativa, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
+
+TERCERO. El Congreso del Estado deberá expedir y armonizar la legislación secundaria al presente decreto en materia anticorrupción a más tardar el 18 de julio de 2017.
