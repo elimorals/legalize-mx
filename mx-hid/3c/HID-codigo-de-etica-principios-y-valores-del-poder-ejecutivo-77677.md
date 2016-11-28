@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-etica-principios-y-valores-del-poder-ejecutivo-77677"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-08"
-last_updated: "2011-11-21"
+last_updated: "2016-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE ETICA, PRINCIPIOS Y VALORES DEL PODER EJECUTIVO DEL ESTADO DE HIDALGO
 
-CODIGO DE ETICA, PRINCIPIOS Y VALORES DEL PODER EJECUTIVO DEL ESTADO DE HIDALGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO ÚNICO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2011.
+CÓDIGO DE ÉTICA, PRINCIPIOS Y VALORES DEL PODER EJECUTIVO DEL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el miércoles 8 de diciembre de 2010.
 
@@ -182,3 +184,11 @@ P.O. 21 DE NOVIEMBRE DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deja sin efecto el Acuerdo que establece las bases generales a las que se sujetarán los servidores públicos del Poder Ejecutivo del Gobierno de (sic) Estado para el ejercicio austero, honesto, eficiente y con sentido social de los recursos públicos asignados por el presupuesto del estado así como de los determinados a través del Convenio del Desarrollo Social celebrado con la Federación el 31 de mayo de 1993, Publicado en el Periódico Oficial del Estado, el 14 de junio del mismo año.
+
+P.O. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO ÚNICO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Código Único de Ética, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Código de Ética, Principios y Valores del Poder Ejecutivo del Estado de Hidalgo, contenido en el decreto publicado en el Periódico Oficial del Gobierno del Estado el 8 de diciembre del 2010.
