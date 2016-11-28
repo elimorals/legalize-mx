@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2016-11-23"
+last_updated: "2016-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE DICIEMBRE DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -14077,6 +14079,16 @@ REFORMADO, G.G. 22 DE ENERO DE 2014)
 
 Las autorizaciones que correspondan a la publicidad exterior que se pretenda instalar en la infraestructura vial primaria, serán expedidas por las autoridades contempladas en las fracciones de la I a la V del artículo 17.5 del presente Código, en el ámbito de sus atribuciones, las que correspondan a la infraestructura vial local, serán emitidas por los municipios.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 17.
+
+25 Bis.- El responsable de un inmueble que instale o permita la instalación de estructuras con fines publicitarios, sin la autorización o permiso correspondiente y demás requisitos exigidos por las disposiciones legales, incluido el dictamen de protección civil, será sancionado en términos de lo dispuesto por el Título Quinto de este Libro.
+
+Los Municipios ordenarán los trabajos de retiro de tales instalaciones publicitarias a costa del propietario, de forma independiente a las sanciones que resulten aplicables.
+
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
@@ -14257,12 +14269,6 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-###### Artículo 17.
-
-39.- Las concesiones se otorgarán mediante concurso público, en el que se establezcan los mismos requisitos y condiciones para todos los participantes, a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
-
 ## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
@@ -14270,6 +14276,12 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 ### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+39.- Las concesiones se otorgarán mediante concurso público, en el que se establezcan los mismos requisitos y condiciones para todos los participantes, a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 17.
 
@@ -14351,6 +14363,10 @@ La Secretaría establecerá mediante disposiciones administrativas de carácter 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+
 ###### Artículo 17.
 
 43.- La ampliación o disminución del plazo procederá cuando existan los casos siguientes:
@@ -14368,10 +14384,6 @@ IV. Cuando el concesionario haya recuperado su inversión y la tasa de retorno c
 V. En general cualquier consideración de carácter financiero que ocurra durante la vigencia de la concesión, debidamente acreditada ante la autoridad.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
-
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -14453,6 +14465,10 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
+
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 17.
 
 47.- Las concesiones y permisos se sujetarán a lo siguiente:
@@ -14470,10 +14486,6 @@ IV. Tratándose de concesiones sobre la infraestructura vial, transporte de alta
 a) Se podrán celebrar contratos de obras y de prestación de servicios con personas físicas o jurídico colectivas, previa autorización de la autoridad. En este caso, los concesionarios serán los únicos responsables por las obligaciones establecidas en la concesión;
 
 b) Al término de la concesión o sus modificaciones, los bienes objeto de la concesión o afectos al servicio, pasarán al dominio del Estado sin costo alguno y libre de todo gravamen.
-
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
-
-### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
 
 > <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -14629,6 +14641,10 @@ La terminación de la concesión o el permiso no exime a su titular de las respo
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO CUARTO. Del registro estatal de comunicaciones
+
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 17.
 
 56.- Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
@@ -14663,10 +14679,6 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. Del registro estatal de comunicaciones
-
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
-
 ###### Artículo 17.
 
 57.- El titular de una concesión o permiso que hubiere sido revocado estará imposibilitado para obtener otro nuevo dentro de un plazo no menor al cincuenta por ciento del plazo original del título de concesión que hubiere incumplido, dicho plazo se contará a partir de que hubiere quedado firme la resolución respectiva.
@@ -14681,15 +14693,15 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 59.- La evaluación técnica de incorporación e impacto vial es la resolución emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así corno (sic) las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14726,6 +14738,14 @@ III. El dictamen de procedencia para licencia de construcción en caso de constr
 64.- La Junta de Caminos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, programación, presupuestación, ejecución, conservación, mantenimiento y administración de la infraestructura vial primaria libre de peaje y de uso restringido.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+
+## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De las autoridades
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14795,14 +14815,6 @@ XV. Las demás que se señalen en este Libro, en su Reglamento Interno, el Progr
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO SEGUNDO. De las autoridades
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 17.
 
 66.- La dirección y administración de la Junta está a cargo de un consejo directivo y un director general.
@@ -14846,6 +14858,10 @@ Los ingresos del Organismo, así como los productos e instrumentos financieros a
 70.- El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura vial de cuota; efectuar investigaciones y estudios que permitan, al Gobierno del Estado, sustentar las solicitudes de concesiones o permisos ante las autoridades federales en materia aeroportuaria; construir, rehabilitar conservar y dar mantenimiento a aeródromos, rampas de despegue y aterrizaje de aerostatos, aeronaves ultraligeras u otras análogas, con o sin motor; aeropistas y helipuertos así como administrar, operar y explotarlos en los términos que dispongan las leyes aplicables, los títulos de concesión respectivos o los contratos que se firmen para la prestación de esos servicios a terceros.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO TERCERO. De las normas técnicas
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14903,10 +14919,6 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las normas técnicas
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 17.
 
 72.- La dirección y administración del Sistema está a cargo de un consejo directivo y un director general.
@@ -14950,6 +14962,12 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 76.- El Sistema de Transporte Masivo y Teleférico del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, la coordinación de los programas y acciones relacionados con la infraestructura y operación de los sistemas de transporte de alta capacidad y teleférico, las estaciones de transferencia modal y las de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico, así como efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de transporte de alta capacidad en territorio estatal.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO CUARTO. De los directores responsables de obra y corresponsables de obra
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
@@ -15021,12 +15039,6 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De los directores responsables de obra y corresponsables de obra
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
 ###### Artículo 17.
 
 78.- La dirección y administración del Sistema está a cargo de un Consejo Directivo y un Director General.
@@ -15073,6 +15085,10 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO PRIMERO. De las licencias de construcción
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 83.- El registro estatal de comunicaciones contendrá la información siguiente:
@@ -15091,13 +15107,13 @@ El Registro Estatal de Comunicaciones será público, deberá estar disponible e
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De las licencias de construcción
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 17.
 
 84.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Título.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -15106,10 +15122,6 @@ El Registro Estatal de Comunicaciones será público, deberá estar disponible e
 85.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
-
-## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
-
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -15124,6 +15136,12 @@ I. Amonestación;
 II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones, en el entendido de que tratándose de obras o instalaciones hechas en el derecho de vía y su zona de seguridad o de influencia en contravención a lo dispuesto en el presente Libro, la multa será por el cincuenta por ciento del valor de la obra o instalación.
 
 Tratándose de infracciones a las disposiciones del Capítulo Tercero, del Título Segundo, de este Libro se sancionarán con multa de cien a cinco mil veces el salario mínimo diario vigente en el área geográfica de que se trate al momento de la comisión de la infracción;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+La infracción a lo dispuesto por el artículo 17.25 Bis, será sancionada con una multa de doscientas cincuenta a mil cuatrocientas veces el salario mínimo vigente.
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -19198,3 +19216,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 162.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2017.
+
+TERCERO.- Se autoriza al Ejecutivo del Estado para crear los Fondos, Organismos Auxiliares y Fideicomisos que sean necesarios, a fin de establecer los mecanismos que le permitan la administración, operación, mantenimiento y conexión de los Sistemas de Transporte de la Entidad, así como en su caso la recuperación de la inversión, incluyendo la creación de los fondos de reserva y líneas contingentes que sean necesarias, debiendo informar a la Legislatura de manera trimestral sobre las acciones realizadas para dar cumplimiento a la presente autorización.
+
+CUARTO.- Con la finalidad de facilitar y promover el cumplimiento de obligaciones en materia de seguridad social a cargo de los entes públicos del Estado y los Municipios, se les autoriza a destinar mediante donación y en calidad de pago, los bienes inmuebles que estimen necesarios y convenientes para dicho fin, cumpliendo con los requisitos que la Ley establezca, debiendo informar a la Legislatura de las acciones realizadas para dar cumplimiento a la presente autorización.
+
+QUINTO.- El Fideicomiso para la Promoción Turística previsto en este Decreto, deberá constituirse a más tardar el último día de enero de 2017. Debiendo informar a la Legislatura de manera trimestral de las acciones realizadas para el cumplimiento del presente Decreto.
+
+SEXTO.- Las reglas de operación del Fideicomiso para la Promoción Turística a que se refiere este Decreto se expedirán dentro de los 30 días naturales siguientes a su constitución.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
