@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-11-24"
+last_updated: "2016-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 28 DE NOVIEMBRE DE 2016.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1953,9 +1953,9 @@ XXXVII. Presidir, dirigir, coordinar y organizar al Instituto de Verificación A
 
 XXXVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Gobernador.
 
-> <small>(ADICIONADO, 24 DE NOVIEMBRE DE 2016)</small>
+(ADICIONADO, 24 DE NOVIEMBRE DE 2016) (F. DE E., G.G. 28 DE NOVIEMBRE DE 2016)
 
-El estudio, planeación, trámite y resolución de los asuntos competencia de la Consejería, así como su representación, corresponden originalmente a su titular, quien para su mejor atención y despacho, podrá delegar sus atribuciones en los servidores públicos subalternos, en terminos de las disposisiones (sic) juridicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
+El estudio, planeación, trámite y resolución de los asuntos competencia de la Consejería, así como su representación, corresponden originalmente a su titular, quien para su mejor atención y despacho, podrá delegar sus atribuciones en los servidores públicos subalternos, en términos de las disposiciones jurídicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
