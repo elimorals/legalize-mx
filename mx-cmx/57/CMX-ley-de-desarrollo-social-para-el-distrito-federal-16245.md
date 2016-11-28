@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2011-09-13"
+last_updated: "2016-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -48,31 +48,53 @@ LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público e interés social y tiene por objeto:
+Las disposiciones de la presente Ley son de orden público e interés social y tiene por objeto ampliar las oportunidades de las personas, prestando especial atención a su condición humana tendiente a garantizar los Derechos Humanos, para:
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 I. Cumplir, en el marco de las atribuciones de la Administración Pública del Distrito Federal, con la responsabilidad social del Estado y asumir plenamente las obligaciones constitucionales en materia social para que la ciudadanía pueda gozar de sus derechos sociales universales;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 II. Promover, proteger y garantizar el cumplimiento de los derechos sociales universales de los habitantes del Distrito Federal en particular en materia de alimentación, salud, educación, vivienda, trabajo e infraestructura social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 III. Disminuir la desigualdad social en sus diversas formas, derivada de la desigual distribución de la riqueza, los bienes y los servicios, entre los individuos, grupos sociales y ámbitos territoriales;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 IV. Integrar las políticas y programas contra la pobreza en el marco de las políticas contra la desigualdad social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 V. Impulsar la política de desarrollo social, con la participación de personas, comunidades, organizaciones y grupos sociales que deseen contribuir en este proceso de modo complementario al cumplimiento de la responsabilidad social del Estado y a la ampliación del campo de lo público;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 VI. Revertir los procesos de exclusión y de segregación socio-territorial en la ciudad;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 VII. Fomentar la equidad de género en el diseño y operación de las políticas públicas y en las relaciones sociales;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 VIII. Implementar acciones que busquen la plena equidad social para todos los grupos excluidos, en condiciones de subordinación o discriminación por razones de su condición socioeconómica, edad, sexo, pertenencia étnica, características físicas, preferencia sexual, origen nacional, práctica religiosa o cualquier otra;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 IX. Contribuir a construir una sociedad con pleno goce de sus derechos económicos, sociales y culturales;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 X. Fomentar las más diversas formas de participación ciudadana con relación a la problemática social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 XI. Profundizar el reconocimiento de la presencia indígena y la diversidad cultural de la ciudad y en el desarrollo de relaciones de convivencia interculturales;
 
@@ -80,21 +102,49 @@ XI. Profundizar el reconocimiento de la presencia indígena y la diversidad cult
 
 XII. Articular el desarrollo social, el urbano y el rural;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 XIII. Coadyuvar al reconocimiento y ejercicio del derecho a la ciudad;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 XIV. Fomentar la reconstrucción del tejido social urbano con base en el orgullo de pertenencia a la ciudad y la comunidad, el respeto de los derechos de todos los habitantes y la superación de toda forma de discriminación, violencia y abuso en las relaciones entre los habitantes;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 XV. Integrar o reintegrar socialmente a los grupos de población excluidos de los ámbitos del desarrollo social, la familia o la comunidad con pleno respeto a su dignidad y derechos;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 XVI. Establecer los mecanismos para que el Gobierno del Distrito Federal cumpla de manera eficiente su responsabilidad en el desarrollo social;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 XVII. Definir las responsabilidades de cada uno de los órganos que integran la Administración Pública del Distrito Federal que se vinculen al tema del desarrollo social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
 XVIII. Fomentar las propuestas de la ciudadanía y sus organizaciones en el diseño, monitoreo y evaluación de las políticas de desarrollo social y su contribución a las innovaciones en este campo, a fin de fortalecer la profundidad y sustentabilidad de las acciones que se emprendan;
 
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
 XIX. Avanzar en la definición de mecanismos y procedimientos que garanticen la plena exigibilidad de los derechos sociales en el marco de las atribuciones de la Administración Pública del Distrito Federal, y
 
-XX. Los demás que se deriven de otras leyes u ordenamientos legales y estén vinculados con los principios de la política de desarrollo social.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XX. Garantizar el efectivo acceso de toda persona a la información pública en materia de desarrollo social e impulsar su máxima publicidad;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXI. Asegurar la protección de los datos personales que se recaben y garantizar el derecho a la privacidad de toda persona que entregue información personal para acceder a la política social en el Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Garantizar el estricto apego a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y a la Ley de Protección de Datos Personales del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXIII. Los demás que se deriven de otras leyes u ordenamientos legales y estén vinculados con los principios de la política de desarrollo social.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -102,55 +152,65 @@ XX. Los demás que se deriven de otras leyes u ordenamientos legales y estén vi
 
 En todo lo no previsto por esta Ley, será de aplicación supletoria la Ley de Planeación del Desarrollo del Distrito Federal, y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 3.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Administración: La Administración Pública del Distrito Federal;
+I. Acción para el Desarrollo Social: Acciones de gobierno coordinadas entre una o varias instituciones públicas de uno o diferentes niveles de gobierno, destinadas a atender y/o resolver demandas o problemáticas identificadas de cobertura geográfica focalizada y/o carácter especial, temporal o emergente, que no se encuentran sujetas a Reglas de Operación de programa social alguno, y que requiere para su instrumentación presupuestaria y ejecución de la autorización expresa del Secretario de Desarrollo Social.
 
-II. Comisión: La Comisión Interinstitucional de Desarrollo Social;
+II. Administración: La Administración Pública de la Ciudad de México;
 
-III. Consejo: El Consejo de Desarrollo Social;
+III. Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social y que cumplen los requisitos de la normatividad correspondiente;
 
-IV. Consejo Delegacional: El Consejo Delegacional de Desarrollo Social;
+IV. Comisión: La Comisión Interinstitucional de Desarrollo Social;
 
-V. Delegación: El Órgano Político-Administrativo en las Demarcaciones Territoriales;
+V. Consejo: El Consejo de Desarrollo Social;
 
-VI. Desarrollo Social: El proceso de realización de los derechos de la población mediante el cual se fomenta el mejoramiento integral de las condiciones y calidad de vida;
+VI. Consejo Delegacional: El Consejo Delegacional de Desarrollo Social;
 
-VII. Desigualdad Social: El resultado de una distribución inequitativa del ingreso, la propiedad, el gasto público, el acceso a bienes y servicios, el ejercicio de los derechos, la práctica de las libertades y el poder político entre las diferentes clases y grupos sociales;
+VII. Consejo de Evaluación.- El Consejo de Evaluación del Desarrollo Social de la Ciudad de México.
 
-VIII. Estatuto: El Estatuto de Gobierno del Distrito Federal;
+VIII. Datos Personales: Los que define la Ley de Protección de Datos Personales para el Distrito Federal;
 
-IX. Focalización territorial: Método para determinar prioridades en la aplicación de programas, consistente en la selección de unidades territoriales de la ciudad, en las que la aplicación de los programas se realiza en beneficio de todos los habitantes que cumplen con los requerimientos del programa respectivo;
+IX. Delegación: El Órgano Político-Administrativo en las Demarcaciones Territoriales;
 
-X. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+X. Derechohabiente: Aquellas personas que reciben los beneficios de un programa social establecido en una ley, por haber cumplido los requisitos de la ley y sus normas reglamentarias.
 
-XI. Ley: La presente Ley de Desarrollo Social para el Distrito Federal;
+XI. Desarrollo Social: El proceso de realización de los derechos de la población mediante el cual se fomenta el mejoramiento integral de las condiciones y calidad de vida;
 
-XII. Organizaciones Civiles: Aquellas que agrupan a ciudadanos, constituidas con base en al artículo 9° constitucional, que se ocupan de la defensa y promoción de derechos, así como del mejoramiento de condiciones y calidad de vida de terceros;
+XII. Desigualdad Social: El resultado de una distribución inequitativa del ingreso, la propiedad, el gasto público, el acceso a bienes y servicios, el ejercicio de los derechos, la práctica de las libertades y el poder político entre las diferentes clases y grupos sociales;
 
-XIII. Organizaciones Sociales: Aquellas que agrupan a habitantes del Distrito Federal para la defensa, promoción y realización de sus derechos, así como para el mejoramiento de las condiciones de vida de sus integrantes;
+XIII. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda forma de distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos y libertades.
 
-XIV. Política de Desarrollo Social: La que realiza el Gobierno del Distrito Federal y está destinada al conjunto de los habitantes del Distrito Federal con el propósito de construir una ciudad con igualdad, equidad, justicia social, reconocimiento de la diversidad, alta cohesión e integración social, pleno goce de los derechos, creciente elevación de la calidad de vida y acceso universal al conjunto de bienes y servicios públicos urbanos; mediante la cual se erradican la desigualdad y la exclusión e inequidad social entre individuos, grupos y ámbitos territoriales con el fin de lograr su incorporación plena a la vida económica, social y cultural y construirse como ciudadanos con plenos derechos;
+XIV. Estatuto: El Estatuto de Gobierno del Distrito Federal;
 
-XV. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas en materia de alimentación, salud, educación, vivienda, transporte, recreación, servicios y tiempo libre;
+XV. Focalización territorial: Método para determinar prioridades en la aplicación de programas, consistente en la selección de unidades territoriales de la ciudad, en las que la aplicación de los programas se realiza en beneficio de todos los habitantes que cumplen con los requerimientos del programa respectivo;
 
-XVI. Secretaría: La Secretaría de Desarrollo Social del Distrito Federal;
+XVI. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+XVII. Ley: La presente Ley de Desarrollo Social para el Distrito Federal;
 
-XVII. Programas Sociales: Las acciones de la Administración que promueven el cumplimiento de los Derechos Económicos, Sociales y Culturales y que, por su naturaleza, pueden dividirse en: programas de transferencias monetarias o materiales, de prestación de servicios, de construcción, mejoramiento u operación de la infraestructura social, y de otorgamiento de subsidios directos o indirectos;
+XVIII. Organizaciones Civiles: Aquellas que agrupan a ciudadanos, constituidas con base en al artículo 9° constitucional, que se ocupan de la defensa y promoción de derechos, así como del mejoramiento de condiciones y calidad de vida de terceros;
 
-> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+XIII (SIC). Organizaciones Sociales: Aquellas que agrupan a habitantes del Distrito Federal para la defensa, promoción y realización de sus derechos, así como para el mejoramiento de las condiciones de vida de sus integrantes;
 
-XVIII. Reglas de Operación: El conjunto de normas que rigen a cada uno de los programas sociales;
+XX. Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas de Desarrollo Social cuyo perfil socioeconómico se establece en la normatividad correspondiente.
 
-> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
+XXI. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas en materia de alimentación, salud, educación, vivienda, transporte, recreación, servicios y tiempo libre;
 
-XIX. Consejo de Evaluación: El Consejo de Evaluación del Desarrollo Social del Distrito Federal.
+XXII. Política de Desarrollo Social: La que realiza el Gobierno del Distrito Federal y está destinada al conjunto de los habitantes del Distrito Federal con el propósito de construir una ciudad con igualdad, equidad, justicia social, reconocimiento de la diversidad, alta cohesión e integración social, pleno goce de los derechos, creciente elevación de la calidad de vida y acceso universal al conjunto de bienes y servicios públicos urbanos; mediante la cual se erradican la desigualdad y la exclusión e inequidad social entre individuos, grupos y ámbitos territoriales con el fin de lograr su incorporación plena a la vida económica, social y cultural y construirse como ciudadanos con plenos derechos;
+
+XXIII. Programas de Desarrollo Social: Instrumentos derivados de la planificación institucional de la política social que garanticen el efectivo cumplimiento y promuevan el pleno ejercicio de los derechos humanos, económicos, sociales y culturales.
+
+Todo programa social debe contar con una denominación oficial, un diagnóstico, justificación y objetivos de impacto -general y específicos-, estrategias y líneas de acción e indicadores, criterios de selección de beneficiarios, establecidos y normados por Reglas de Operación; un sistema de monitoreo y evaluación de su funcionamiento y resultados; así como la institución o instituciones responsables de su implementación y su modo de coordinación.
+
+Cada programa social tendrá características distintas en cuanto a sectores que atienden, modalidades de gestión, instituciones participantes, formas de financiamiento, entre otros criterios específicos.
+
+XXIV. Reglas de Operación. El conjunto de normas que rigen a cada uno de los programas sociales; y
+
+XXVI (SIC). Transparencia: Derecho de las personas para acceder a la información pública relativa al desarrollo social en los términos de las leyes de la materia.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -178,9 +238,15 @@ IX. EXIGIBILIDAD: Derecho de los habitantes a que, a través de un conjunto de n
 
 X. PARTICIPACIÓN: Derecho de las personas, comunidades y organizaciones para participar en el diseño, seguimiento, aplicación y evaluación de los programas sociales, en el ámbito de los órganos y procedimientos establecidos para ello;
 
-XI. TRANSPARENCIA: La información surgida en todas las etapas del ciclo de las políticas de desarrollo social será pública con las salvedades que establece la normatividad en materia de acceso a la información y con pleno respeto a la privacidad de los datos personales y a la prohibición del uso político-partidista, confesional o comercial de la información;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XI. TRANSPARENCIA: La información surgida en todas las etapas del ciclo de las políticas de desarrollo social será pública con las salvedades que establece la normatividad en materia de acceso a la información y con pleno respeto a la privacidad, a la protección de los datos personales y a la prohibición del uso político partidista, confesional o comercial de la información.
 
 XII. EFECTIVIDAD: Obligación de la autoridad de ejecutar los programas sociales de manera austera, con el menor costo administrativo, la mayor celeridad, los mejores resultados e impacto, y con una actitud republicana de vocación de servicio, respeto y reconocimiento de los derechos que profundice el proceso de construcción de ciudadanía de todos los habitantes.
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XIII. PROTECCIÓN DE DATOS PERSONALES: Es obligación de la autoridad de resguardar, tratar y proteger los datos personales proporcionados por la población para acceder a los programas y acciones de desarrollo social, en términos de la normatividad en la materia.
 
 Los principios de esta ley constituyen el marco en el cual deberán planearse, ejecutarse y evaluarse el conjunto de las políticas y programas en materia de desarrollo social de la Administración Pública del Distrito Federal.
 
@@ -202,11 +268,11 @@ La aplicación de la presente ley corresponde a los órganos que integran la Adm
 
 Está prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los programas sociales.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 8.
 
-Toda persona tiene derecho a beneficiarse de las políticas y programas de desarrollo social, siempre que cumpla con la normativa aplicable.
+Toda persona, de manera directa, tiene derecho a beneficiarse de las políticas y programas de desarrollo social, siempre que cumpla con la normativa aplicable.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -226,7 +292,7 @@ III. Concertar acuerdos entre los distintos sectores en torno al Desarrollo Soci
 
 IV. Aprobar el Programa de Desarrollo Social;
 
-V. Incluir anualmente en el Presupuesto de Egresos del Distrito Federal, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa de Desarrollo Social y de los Programas Delegacionales en la materia; y (sic)
+V. Incluir anualmente en el Presupuesto de Egresos del Distrito Federal, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa de Desarrollo Social y de los Programas Delegacionales en la materia; y
 
 VI. Presidir el Consejo de Desarrollo Social y la Comisión Interinstitucional de Desarrollo Social, la cual podrá ser delegada de conformidad con lo que establece la presente ley y demás ordenamientos;
 
@@ -270,7 +336,7 @@ XI. Emitir los lineamientos, normas y modelos de atención básicos que deben re
 
 XII. Operar las instalaciones e infraestructura social a su cargo, de conformidad con los lineamientos, normatividad y modelos de atención básicos que establezca la misma dentro del ámbito de su competencia;
 
-XIII. Fungir como secretario ejecutivo del Consejo de Desarrollo Social y de la Comisión Interinstitucional de Desarrollo Social; y (sic)
+XIII. Fungir como secretario ejecutivo del Consejo de Desarrollo Social y de la Comisión Interinstitucional de Desarrollo Social; y
 
 XIV. Implementar en caso de ser necesario los planes de acción específicos para el apoyo logístico, humano y de capacitación en la aplicación de los Fondos de Desarrollo Social;
 
@@ -568,6 +634,10 @@ La planeación permite vincular la operación e instrumentación de los programa
 
 La planeación se concretará a través del Programa de Desarrollo Social y los Programas Delegacionales de Desarrollo Social que en su conjunto constituyen el instrumento rector de la planeación en esta materia.
 
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+Estos programas deberán observar criterios de legalidad, transparencia y de rendición de cuentas dentro de los procesos de ejecución de la política de desarrollo social.
+
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 27.
@@ -601,6 +671,10 @@ VII. La integración territorializada entre los programas;
 VIII. La metodología y los indicadores para la evaluación de los resultados, y
 
 IX. Las determinaciones de otros planes y programas que incidan en el Distrito Federal y que estén vinculados con el Desarrollo Social.
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+X. Los criterios para la integración y unificación del Padrón Universal de Beneficiarios de los programas de desarrollo social.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -646,7 +720,9 @@ IV. El monto del gasto que se ejercerá en cada una de las acciones para el Desa
 
 La Secretaría fomentará de manera permanente la participación social en el diseño, monitoreo y evaluación de la política de desarrollo social para lo cual:
 
-I. Creará un Sistema de Información en materia de Desarrollo Social, que estará disponible para la sociedad y que contendrá la información básica para la planeación sobre el Desarrollo Social, la información referente a la Política Social del Gobierno del Distrito Federal y las actividades relacionadas con el Desarrollo Social; y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+I. Creará un Sistema de Información en materia de Desarrollo Social, que estará disponible para la sociedad y que contendrá la información básica para la planeación sobre el Desarrollo Social, la información referente a la Política Social del Gobierno del Distrito Federal y las actividades relacionadas con el Desarrollo Social, con apego a lo dispuesto por las Leyes de Transparencia y de Protección de Datos Personales; y
 
 II. Recibirá las propuestas de los Consejos Delegacionales, organizaciones civiles y de la sociedad en general a fin de analizarlas y, en su caso, incorporarlas a los criterios de ejecución del Programa de Desarrollo Social, coordinándose para ello con el Consejo.
 
@@ -660,67 +736,77 @@ II. Recibirá las propuestas de los Consejos Delegacionales, organizaciones civi
 
 Los programas sociales específicos de la Administración Pública del Distrito Federal deberán enmarcarse en los principios de esta Ley y ser congruentes con el contenido del Programa General de Desarrollo Social.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 33.
 
-Todos los programas sociales deberán contar con reglas de operación en las que se incluirán, al menos:
-
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+Todos los programas enfocados al desarrollo social, deberán contar con Reglas de Operación en las que se incluirán, al menos:
 
 a) La entidad o dependencia responsable del programa.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+b) Diagnóstico
 
-b) Los objetivos y alcances
+c) Los objetivos y alcances
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+d) Sus metas físicas
 
-c) Sus metas físicas
+e) Su programación presupuestal
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+f) Los requisitos y procedimientos de acceso para ser beneficiario
 
-d) Su programación presupuestal
+g) El procedimiento de queja o inconformidad ciudadana
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+h) Los mecanismos de evaluación
 
-e) Los requisitos y procedimientos de acceso
+i) Indicadores de gestión y de resultados
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+j) Las formas de participación social
 
-f) El procedimiento de queja o inconformidad ciudadana
+k) La articulación con otros programas sociales
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+l) Mecanismos de fiscalización
 
-g) Los mecanismos de evaluación y los indicadores
+m) Mecanismos de Rendición de Cuentas
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+n) Los criterios para la integración y unificación del padrón universal de beneficiarios.
 
-h) Las formas de participación social
-
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
-
-i) La articulación con otros programas sociales
-
-> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-Las convocatorias para los programas sociales de la Administración Pública del Distrito Federal deberán publicarse en la Gaceta Oficial del Distrito Federal, en el Sistema de Información del Desarrollo Social, en los demás medios oficiales de difusión del Gobierno del Distrito Federal y, mínimo, en dos de los periódicos de mayor circulación en el Distrito Federal. Dichas convocatorias deberán contener, por lo menos, un resumen de los elementos establecidos en los incisos a) al i) del párrafo primero de este artículo.
-
-> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
-Cada uno de los programas sociales de la Administración Pública del Distrito Federal deberá tener actualizado un padrón de participantes o beneficiarios. Dichos programas serán auditables en términos de la legislación por los órganos facultados para ello.
+En la Ciudad de México existirá un padrón unificado y organizado por cada uno de los programas de las Dependencias de la administración pública local, que contendrá la información sobre la totalidad de las personas que acceden a los diversos programas de desarrollo social. Dicho padrón unificado y los programas serán auditables en términos de la legislación por los órganos facultados para ello.
 
-Para el cumplimiento de lo dispuesto en el párrafo anterior, y en los artículos 33 y 35 de esta ley, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal que tengan a su cargo programas destinados al desarrollo social, deberán:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, y en los artículos 33 y 35 de esta ley, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública local que tengan a su cargo programas destinados al desarrollo social, deberán:
+
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 I. Publicar en la Gaceta Oficial del Distrito Federal a más tardar el 31 de enero del año de ejercicio, las reglas de operación de los diferentes programas de desarrollo social, en términos de la presente ley;
 
-II. Publicar en la Gaceta Oficial del Distrito Federal, a más tardar el 31 de marzo del año de ejercicio y en un solo formato, los padrones con nombres, edad, sexo, unidad territorial y delegación de los beneficiarios de los programas sociales. Dichos padrones deberán ser entregados en el mismo plazo a la Asamblea Legislativa del Distrito Federal, en medio electrónico e impreso;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+II. Publicar en la Gaceta Oficial de la Ciudad de México, a más tardar el último día hábil de la primera quincena del mes de marzo del año de ejercicio que se trate, los padrones de beneficiarios de los programas sociales, indicando nombre, edad, sexo, unidad territorial y delegación. Dichos padrones deberán estar ordenados en orden alfabético y establecerse en un mismo formato.
+
+Dentro del mismo plazo, los padrones de beneficiarios de los programas sociales deberán ser entregados en medios magnético, óptico e impreso a la Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales de la Asamblea Legislativa del Distrito Federal.
+
+De igual forma se deberá precisar el número total de beneficiarios y si se cuenta con indicadores de desempeño de alguna índole.
+
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 III. Presentar trimestralmente a la Asamblea Legislativa del Distrito Federal, un informe pormenorizado de la evaluación y ejercicio de los recursos del gasto social, en el que se indique de forma analítica el monto y destino de los recursos por programa social; y
 
-IV. Una vez presentados los padrones de los programas sociales, el Consejo de Evaluación del Desarrollo Social del Distrito Federal, mediante la Contraloría General del Distrito Federal realizará, trimestralmente, un programa de verificación que para tal efecto presente a la Asamblea Legislativa, de los datos contenidos en los programas y en los informes correspondientes, salvaguardando siempre conforme a la Ley los datos personales de los beneficiarios. El Gobierno del Distrito Federal otorgará a la institución señalada toda la información necesaria que permita realizar dicha verificación.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+IV. Publicado el padrón unificado de beneficiarios de los programas de desarrollo social de la Ciudad de México, el Consejo de Evaluación del Desarrollo Social, mediante la Contraloría General realizará, trimestralmente, un programa de verificación que para tal efecto presente al órgano legislativo de la Ciudad de México, de los datos contenidos en los programas y en los informes correspondientes, salvaguardando siempre conforme a la Ley los datos personales de los beneficiarios. El Gobierno de la Ciudad de México otorgará a la institución señalada toda la información necesaria que permita realizar dicha verificación.
+
+El incumplimiento de las obligaciones establecidas en este artículo será sancionado en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+V. Publicar en formato electrónico, de manera trimestral, avances de la integración de los padrones de beneficiarios, en un solo formato que contenga nombre, edad, sexo, unidad territorial, delegación y beneficio otorgado.
+
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 El incumplimiento de las obligaciones establecidas en este artículo será sancionado en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
@@ -730,11 +816,11 @@ El incumplimiento de las obligaciones establecidas en este artículo será sanci
 
 La información general sobre el número de participantes o beneficiarios, el monto de los recursos asignados, su distribución por sexo y grupos de edad y su distribución por unidades territoriales serán de conocimiento público, en términos del artículo 34 de esta ley.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Los datos personales de los participantes o beneficiarios de los programas de desarrollo social y la demás información generada y administrada de los mismos, se regirá por lo estipulado en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+Los datos personales de los participantes o beneficiarios de los programas de desarrollo social y la demás información generada y administrada de los mismos, se regirá por lo estipulado en las Leyes de Transparencia y de Protección de Datos Personales.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -772,27 +858,35 @@ La sociedad podrá participar activamente en la planeación, programación, impl
 
 Las organizaciones civiles y sociales, las instituciones académicas, las organizaciones empresariales y todas aquellas cuyos objetivos se comprendan en el concepto de Desarrollo Social, podrán participar con el Gobierno en la ejecución de políticas de Desarrollo Social, sin perjuicio de las obligaciones que la ley impone a la Administración, así como generar iniciativas de proyectos y programas que serán presentadas a la Secretaría.
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 40.
 
-La Administración, para ampliar la satisfacción de las necesidades de la población en materia de Desarrollo Social, podrá firmar convenios de colaboración con organizaciones civiles o grupos de ciudadanos organizados para la ejecución de proyectos y programas.
+La Administración, para ampliar la satisfacción de las necesidades de la población en materia de Desarrollo Social, podrá firmar convenios de colaboración con organizaciones civiles o grupos de ciudadanos organizados para la ejecución de proyectos y programas. Dichos instrumentos deberán establecer los tiempos de cumplimiento y las medidas técnicas y organizativas para garantizar la confidencialidad de los datos personales.
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 41.
 
-Con el fin de fomentar la participación de la ciudadanía en el Desarrollo Social se promoverá la constitución de Fondos de Desarrollo Social, Programas de Coinversión y de Asistencia y Financiamiento a Organizaciones Civiles, en los que tanto gobierno como organizaciones civiles, organizaciones sociales, instituciones académicas, grupos empresariales y agencias de cooperación concurran con recursos de todo tipo para el desarrollo de proyectos de innovación en el Desarrollo Social.
+Con el fin de fomentar la participación de la ciudadanía en el Desarrollo Social se promoverá la constitución de Fondos de Desarrollo Social, Programas de Coinversión y de Asistencia y Financiamiento a Organizaciones Civiles, en los que tanto gobierno como organizaciones civiles, organizaciones sociales, instituciones académicas, grupos empresariales y agencias de cooperación concurran con recursos de todo tipo para el desarrollo de proyectos de innovación en el Desarrollo Social, mismos que deberán apegarse a los principios de transparencia y protección de datos personales.
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
 
 Los objetivos de los Fondos de Desarrollo Social, Programas de Coinversión y de Asistencia y Financiamiento a Organizaciones Civiles podrán ser para:
 
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2005)</small>
+
 I. Desarrollar investigación que contribuya al conocimiento de la realidad social del Distrito Federal, así como al desarrollo de alternativas de solución;
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2005)</small>
 
 II. La evaluación de las acciones de los distintos agentes que intervienen en políticas, programas y proyectos de Desarrollo Social; y
 
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2005)</small>
+
 III. El fomento y el apoyo directo a proyectos de atención a grupos específicos en el reconocimiento y ejercicio de sus derechos, la atención de sus necesidades básicas, la promoción de la equidad, el respeto a los derechos humanos, la construcción de una cultura de la igualdad y la diversidad, el logro de la equidad de género, así como el apoyo concreto a proyectos de producción, construcción, comercialización, financiamiento, abasto, dotación de servicios básicos y capacitación que tiendan a innovar las concepciones, acciones y estrategias de Desarrollo Social.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO NOVENO. DE LA EVALUACIÓN Y DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL
 
@@ -982,11 +1076,11 @@ La denuncia ciudadana es la facultad individual y colectiva que poseen las perso
 
 La Contraloría General del Gobierno del Distrito Federal es el órgano competente para conocer de las quejas y denuncias ciudadanas en materia de desarrollo social, y las resoluciones que emita en favor o en contra se realizará en los términos y con los requisitos que establece la normativa aplicable.
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 46.
 
-La interposición de las quejas y denuncias obligan a la autoridad competente a responder por escrito de conformidad con la normativa aplicable.
+La interposición de las quejas, denuncias o inconformidades ciudadanas, obliga a la autoridad competente a responder por escrito al ciudadano interesado, de conformidad con las disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -1020,6 +1114,32 @@ Las auditorias sólo podrán ser efectuadas por los órganos facultados para ell
 
 Para efecto de velar por el cumplimiento honesto, transparente y eficiente en la aplicación de la política de desarrollo social, la Asamblea Legislativa, en uso de sus facultades, solicitará la realización de las auditorias a los programas sociales que considere convenientes.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO DUODÉCIMO. DE LAS PERSONAS DERECHOHABIENTES O BENEFICIARIAS
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 51.
+
+Las personas derechohabientes o beneficiarias de los programas sociales, tendrán los siguientes derechos y obligaciones:
+
+I. A recibir una atención oportuna, de calidad, no discriminatoria y apegada al respeto, promoción, protección y garantía de sus derechos;
+
+II. En cualquier momento podrán ejercer sus derechos de acceso, rectificación, cancelación y oposición, en los términos de la normativa aplicable;
+
+III. Acceder a la información de los programas sociales, reglas de operación, vigencia del programa social, cambios y ajustes; de conformidad con lo previsto por las Leyes de Transparencia y de Protección de Datos Personales;
+
+IV. A interponer quejas, inconformidades, reclamos, denuncias y/o sugerencias, las cuales deberán ser registradas y atendidas en apego a la normatividad aplicable;
+
+V. Bajo ninguna circunstancia le será condicionado la permanencia o adhesión a cualquier programa social, siempre que cumpla con los requisitos para su inclusión y permanencia a los programas sociales;
+
+VI. A solicitar de manera directa, el acceso a los programas sociales;
+
+VII. Una vez concluida la vigencia y el objetivo del programa social, y transcurrido el tiempo de conservación, la información proporcionada por las personas derechohabientes o beneficiarias, deberá ser eliminada de los archivos y bases de datos de la Administración Pública del Distrito Federal, previa publicación del aviso en la Gaceta Oficial del Distrito Federal, con al menos 10 días hábiles de anticipación.
+
+VIII. Toda persona derechohabiente o beneficiario queda sujeta a cumplir con lo establecido en la normativa aplicable a cada programa social.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
@@ -1032,7 +1152,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 11 de abri
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 57, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Cuidad de México, a los veinticuatro días del mes de abril de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 26 DE DICIEMBRE DE 2002.
 
@@ -1103,3 +1223,19 @@ G.O. 13 DE SEPTIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto, entrará en vigor el día siguiente de su publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal cuenta con ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto, para publicar las modificaciones al reglamento de la Ley de Desarrollo Social para el Distrito Federal.
+
+CUARTO.- Las Demarcaciones territoriales (Delegaciones) contarán un plazo de ciento ochenta días para la entrega de la información sobre los padrones de personas derechohabientes o beneficiarias de los programas de desarrollo social, a la Secretaría de Desarrollo Social.
+
+QUINTO.- La Secretaría de Desarrollo Social contará con un plazo de ciento ochenta días, para la sistematización e integración de los padrones de personas derechohabientes o beneficiarias de los programas de desarrollo social a su cargo.
+
+SEXTO.- La Secretaría de Desarrollo Social contará con un plazo de trescientos sesenta y cinco días, para la sistematización, integración, unificación y publicación de la información relacionada con los padrones de personas derechohabientes o beneficiarias de los programas de desarrollo social, tanto de las demarcaciones territoriales (Delegaciones), como de los programas a su cargo.
