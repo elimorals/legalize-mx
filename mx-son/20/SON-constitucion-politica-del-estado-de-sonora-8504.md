@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2016-11-03"
+last_updated: "2016-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -607,9 +607,9 @@ III. Tener vecindad y residencia efectiva dentro del Distrito Electoral correspo
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario, Presidente Municipal ni ejercido mando militar alguno en el Distrito Electoral de l (sic) elección dentro de los noventa días inmediatamente anteriores al día de la elección.
+V. No haber sido Magistrado del Supremo Tribunal, Fiscal General de Justicia, Fiscal Especial, Secretario o Subsecretario, Presidente Municipal ni ejercido mando militar alguno en el distrito electoral de la elección dentro de los noventa días inmediatamente anteriores al día de la elección.
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
@@ -915,9 +915,9 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-> <small>(ADICIONADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-XIX Bis. Para ratificar o rechazar el nombramiento del Procurador General de Justicia que haga el Ejecutivo del Estado.
+XIX Bis. Para ratificar o rechazar el nombramiento del Fiscal General de Justicia, así como de los Fiscales Especializados en materia de delitos electorales y anticorrupción, que haga el Ejecutivo del Estado, la cual será por votación de la mayoría simple de los diputados presentes en la sesión;
 
 > <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -955,9 +955,13 @@ XXIII. (DEROGADA, B.O. 22 DE FEBRERO DE 2007)
 
 XXIV. Para discutir, modificar, aprobar o reprobar anualmente las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos, así como las modificaciones a dichos presupuestos.
 
-> <small>(REFORMADA, B.O.11 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-XXIV Bis. Para legislar sobre la organización del Instituto Superior de Auditoría y Fiscalización y, en general, expedir las leyes que normen la gestión, control y evaluación de los Poderes del Estado, de los organismos constitucionalmente autónomos, de los Ayuntamientos y de los entes públicos estatales y municipales.
+XXIV Bis. Para legislar sobre la organización del Instituto Superior de Auditoría y Fiscalización y, en general, expedir las leyes que normen la gestión, control y evaluación de los Poderes del Estado, de los organismos constitucionalmente autónomos, de los Ayuntamientos y de los entes públicos estatales y municipales,
+
+> <small>(ADICIONADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXIV Bis A. Para legislar y establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación; así como la organización y funcionamiento del Sistema Estatal Anticorrupción.
 
 > <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
@@ -969,9 +973,9 @@ XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o 
 
 XXVII. Para autorizar al Ejecutivo y a los Ayuntamientos a fin de que contraigan deudas en nombre del Estado y de los Municipios, respectivamente, fijándoles expresamente las bases a que deban sujetarse, sín contravenir al Artículo 117 de la Constitución General de la República.
 
-> <small>(ADICIONADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-XXVII Bis. Para citar al Secretario de Gobierno y los demás Secretarios de Estado, al Procurador General de Justicia, a los directores y administradores de los organismos descentralizados o de las empresas de participación estatal mayoritaria, con el objeto de que quienes sean convocados rindan la información que resulte pertinente cuando se analice una ley o un asunto concerniente a sus respectivos ramos o actividades, especificándose en cada caso si la comparecencia de que se trate se realizará ante el Pleno o ante alguna o algunas de las comisiones del Congreso.
+XXVII Bis. Para citar al Secretario de Gobierno y los demás Secretarios de Estado, al Fiscal General de Justicia, Fiscales Especializados en materia de delitos electorales y anticorrupción; a los directores y administradores de los organismos descentralizados o de las empresas de participación estatal mayoritaria, con el objeto de que quienes sean convocados rindan la información que resulte pertinente cuando se analice una ley o un asunto concerniente a sus respectivos ramos o actividades, especificándose en cada caso si la comparecencia de que se trate se realizará ante el Pleno o ante alguna o algunas de las comisiones del Congreso.
 
 XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
@@ -1035,17 +1039,17 @@ XLII. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
 XLIII. Para expedir Leyes y reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las Autoridades Estatales; así mismo, para expedir las leyes que normen las relaciones de los servidores públicos de los Poderes del Estado y Ayuntamientos y de los trabajadores al servicio de los organismos descentralizados.
 
-> <small>(ADICIONADA, B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la administración pública y los particulares, estableciendo las normas para su organización, funcionamiento, procedimiento, y los requisitos que deben reunir el o los Magistrados
+XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la administración pública y los particulares, estableciendo las normas para su organización, funcionamiento, procedimiento y los requisitos que deban reunir el o los Magistrados.
 
-> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1977)</small>
+Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública del Estado o de los Municipios.
 
-También podrá instituir Tribunales de Conciliación y Arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del Servicio Civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
+También podrá instituir tribunales de conciliación y arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del servicio civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
 > <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2016)</small>
 
-XLIII Bis-A.- Para designar a los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, los miembros del consejo consultivo del mismo, legislar en materia de transparencia, acceso a la información pública y protección a datos personales en Sonora, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general en la materia y esta Constitución, y promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio de esos derechos, así como establecer criterios generales para la catalogación y conservación de documentos.
+XLIII Bis-A. Para designar a los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, los miembros del consejo consultivo del mismo, legislar en materia de transparencia, acceso a la información pública y protección a datos personales en Sonora, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general en la materia y esta Constitución, y promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio de esos derechos, así como establecer criterios generales para la catalogación y conservación de documentos.
 
 XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
@@ -1221,9 +1225,9 @@ III. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretario o Subsecretario, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
+V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de lo Contencioso Administrativo, Fiscal General de Justicia del Estado, Fiscal Especializado, Secretario o Subsecretario, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
 
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
@@ -1389,9 +1393,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, cuando no opte por un gobierno de coalición. Así como nombrar al Procurador General de Justicia sometiéndolo a la ratificación del Congreso del Estado.
+XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, cuando no opte por un gobierno de coalición. Así como nombrar al Fiscal General de Justicia y fiscales especializados, sometiéndolo a la ratificación del Congreso del Estado.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -1415,7 +1419,9 @@ XXXIV. Fomentar la organización de instituciones de utilidad social para infund
 
 XXXV. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
 
-XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio. Sin embargo, el Ejecutivo podrá nombrar a algún abogado que lo represente en determinado asunto cuando así lo crea conveniente.
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXXVI. Turnar al Fiscal General de Justicia los asuntos de su competencia que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio.
 
 > <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -1436,6 +1442,14 @@ El gobierno de coalición se regulará por el convenio y el programa respectivos
 > <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2014)</small>
 
 XLI. Las demás que le asignen las leyes, ya sean Federales o del Estado.
+
+> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+El Gobernador del Estado podrá delegar las facultades y obligaciones previstas en la presente Constitución al servidor público que determine. Esta delegación podrá efectuarse en los casos que el Titular del Ejecutivo lo establezca procedente salvo aquellas facultades que por su naturaleza jurídica deban ser ejercidas por el mismo Gobernador.
+
+> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+Son facultades exclusivas del Gobernador no delegables las establecidas en las fracciones I, III, VII, VIII, XIII, XIV, XVII, XVIII, XXI, XXII, XXIV, XXXII, XXXIII, XXXVI BIS, XXXIX y XL de este artículo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1633,31 +1647,57 @@ IX. Rendir al Pleno del Poder Legislativo y al Titular del Poder Ejecutivo los i
 
 X. Las demás que le señalan las leyes, tanto federales como del Estado.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 97.
 
-La Ley organizará al Ministerio Público, debiendo estar presidida la Institución por un Procurador General de Justicia del Estado, quien dependerá directamente del Gobernador del Estado.
+El Ministerio Público del Estado de Sonora se organizará en una Fiscalía General de Justicia del Estado como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+Corresponde al Ministerio del Estado la persecución, de todos los delitos, y por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurando que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+La Fiscalía General de Justicia del Estado contará, al menos, con las fiscalías especializadas en materia de delitos electorales y anticorrupción, las cuales tendrán autonomía técnica y de gestión en el ejercicio de sus atribuciones, cuyos titulares serán nombrados y removidos por el Titular del Ejecutivo del Estado. La remoción se dará cuando no se atienda al interés social o por las causas graves que establezca la ley. El Congreso del Estado ratificará los nombramientos con la mayoría simple de los diputados presentes en la sesión.
+
+Los fiscales especializados en materia de delitos electorales y anticorrupción, propondrán al Fiscal General de Justicia del Estado su organización interna, el cual autorizará lo conducente, de conformidad con la suficiencia presupuestal de dicha dependencia.
+
+Los fiscales especializados en materia de delitos electorales y anticorrupción, ejercerán la acción penal, previo acuerdo y autorización del Fiscal General de Justicia del Estado.
+
+El nombramiento y remoción de los fiscales especializados antes referidos podrán ser objetados por el Congreso del Estado por el voto de la mayoría simple de los miembros presentes en la sesión, en el plazo que fije la ley; si el Congreso del Estado no se pronunciare en este plazo, se entenderá que no tiene objeción.
+
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 98.
 
-El Procurador General de Justicia será nombrado por el Gobernador del Estado dentro de los primeros treinta días del inicio de su administración o, en su caso, dentro de los primeros treinta días contados a partir de la salida, por cualquier circunstancia, de quien desempeñe dicho cargo. En todo caso, el nombramiento del Procurador deberá ser ratificado por el Congreso del Estado. El Ejecutivo podrá remover libremente de su cargo al Procurador General de Justicia.
+El Fiscal General de Justicia del Estado será nombrado por el Gobernador del Estado dentro de los primeros treinta días del inicio de su administración o, en su caso, dentro de los primeros treinta días contados a partir de la salida, por cualquier circunstancia, de quien desempeñe dicho cargo. En todo caso, el nombramiento del Fiscal deberá ser ratificado por el Congreso del Estado por votación de la mayoría simple de los diputados.
 
-Si por cualquier motivo no se ratifica o es rechazado por el Congreso el nombramiento que formule el Ejecutivo, o no se presenta el ratificado al desempeño de su cargo en un plazo de cinco días hábiles, el Gobernador nombrará uno provisional que no podrá ser la misma persona cuyo nombramiento haya rechazado o denegado el Congreso. El Procurador General de Justicia Provisional durará en su cargo hasta seis meses, plazo durante el cual el Ejecutivo podrá presentar las propuestas que sean necesarias para que el Congreso decida en definitiva.
+Si por cualquier motivo no se ratifica o es rechazado por el Congreso el nombramiento que formule el Ejecutivo, o no se presenta el ratificado al desempeño de su cargo en un plazo de cinco días hábiles, el Gobernador nombrará uno provisional que no podrá ser la misma persona cuyo nombramiento haya rechazado o denegado el Congreso. El Fiscal General de Justicia del Estado Provisional durará en su cargo hasta seis meses, plazo durante el cual el Ejecutivo podrá presentar las propuestas que sean necesarias para que el Congreso decida en definitiva.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+A partir de la ausencia definitiva del Fiscal General de Justicia del Estado, el Ejecutivo del Estado integrará una propuesta de cinco personas. En la integración de la propuesta, podrá tomar en cuenta las propuestas del Consejo Estatal de Seguridad Pública. El Congreso del Estado por mayoría simple nombrará de entre las propuestas al Fiscal General de Justicia del Estado.
+
+El Ejecutivo designará provisionalmente al Fiscal General de Justicia del Estado, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General de Justicia del Estado designado podrá formar parte de la terna.
+
+El Fiscal General podrá ser removido por el Ejecutivo del Estado cuando no se atienda al interés social o por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General de Justicia del Estado será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción.
+
+En los recesos del Congreso del Estado, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General de Justicia del Estado.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+El Fiscal General de Justicia del Estado presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+El Fiscal General de Justicia del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+El Fiscal General de Justicia del Estado durará en su encargo 7 años y los fiscales especializados durarán hasta 5 años.
+
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 99.
 
-Para ser Procurador General de Justicia se necesitan los mismos requisitos que para ser Magistrado del Supremo Tribunal.
+Para ser Fiscal General de Justicia se necesitan los mismos requisitos que para ser Magistrado del Supremo Tribunal.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 100.
 
-El Procurador General de Justicia rendirá la protesta de ley ante el Presidente del Congreso y el Titular del Poder Ejecutivo.
+El Fiscal General de Justicia del Estado y los fiscales especializados rendirán la protesta de ley ante el Presidente del Congreso y el Titular del Poder Ejecutivo.
 
 > <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -1665,11 +1705,11 @@ El Procurador General de Justicia rendirá la protesta de ley ante el Presidente
 
 La Policía Estatal Investigadora, como auxiliar directo del Ministerio Público y conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la averiguación previa y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 102.
 
-Las faltas accidentales y temporales del Procurador General de Justicia del Estado, se suplirán en la forma que determine la Ley.
+Las faltas accidentales y temporales del Fiscal General de Justicia del Estado y de los Fiscales Especializados en materia de delitos electorales y anticorrupción se suplirán en la forma que determine la Ley.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1677,9 +1717,11 @@ Las faltas accidentales y temporales del Procurador General de Justicia del Esta
 
 Todas las autoridades del Estado tienen el deber, para facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite, y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su encargo.
 
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 104.
 
-Los Agentes del Ministerio Público serán nombrados por el Ejecutivo, a propuesta en terna del Procurador de Justicia.
+Los Agentes del Ministerio Público serán nombrados por el Fiscal General de Justicia del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1693,9 +1735,9 @@ II. Acreditar que ha observado buena conducta y no haber sido condenado por sent
 
 III. Ser licenciado en derecho con título legalmente expedido.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-Artículo 105 A. En el ejercicio de sus funciones, el personal de la Procuraduría General de Justicia del Estado observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo a sus obligaciones específicas, y actuará con la diligencia necesaria para una pronta y eficaz procuración e impartición de justicia.
+Artículo 105 A. En el ejercicio de sus funciones, el personal de la Fiscalía General de Justicia del Estado y de las fiscalías especializadas observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo a sus obligaciones específicas, y actuará con la diligencia necesaria para una pronta y eficaz procuración e impartición de justicia.
 
 ###### Artículo 106.
 
@@ -1711,9 +1753,11 @@ Será desempeñada por un Jefe de Defensores y los Defensores que instituya la L
 
 El Jefe de Defensores y los defensores de oficio serán nombrados y removidos por el Ejecutivo.
 
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 109.
 
-Para ser Jefe de Defensores se necesitan los mismos requisitos que para ser Procurador General de Justicia.
+Para ser Jefe de Defensores se necesitan los mismos requisitos que para ser Fiscal General de Justicia.
 
 ###### Artículo 110.
 
@@ -1841,7 +1885,9 @@ II. Un Consejero nombrado por el Pleno del Supremo Tribunal de Justicia de entre
 
 III. Un Consejero designado por el Gobernador del Estado;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+IV. El Fiscal General de Justicia del Estado;
 
 V. Un Consejero designado por el Colegio de Notarios del Estado de Sonora, de entre los integrantes del propio Colegio; y
 
@@ -2261,15 +2307,61 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto de Transparencia Informativa del Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
+En los términos y condiciones que establezca la Ley respectiva los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, fiscal y de intereses.
 
-Durante el período de su encargo el Gobernador del Estado sólo podrá ser encausado por delitos graves.
+> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 143 A.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I.- El Sistema contará con un Comité Coordinador que estará integrado por los titulares del Instituto Superior de Auditoría y Fiscalización; de la Fiscalía Especializada Anticorrupción; de la Secretaría del Ejecutivo del Estado responsable del control interno; por el presidente del Tribunal Contencioso Administrativo; el presidente del organismo garante que establece el artículo 2, Apartado A de esta Constitución; tres diputados del Congreso del Estado; así como por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
+
+II.- El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley; y
+
+III.- Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a) El establecimiento de mecanismos de coordinación con los sistemas locales;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 143 B. Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
+
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en esta Constitución y en las que determine la Ley que al efecto se emita a los servidores públicos, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el juicio político por la mera expresión de ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable, donde se determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar.
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+
+Las faltas administrativas graves serán investigadas y substanciadas por el Instituto Superior de Auditoría y Fiscalización y los órganos internos de control, según corresponda, y serán resueltas por el Tribunal de los (sic) Contencioso Administrativo que resulte competente. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial de (sic) del Estado, conocerá de los mismos el Consejo del Poder Judicial del Estado, sin perjuicio de las atribuciones de la (sic) el Instituto Superior de Auditoría y Fiscalización en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+IV.- El Tribunal de lo Contencioso Administrativo impondrán (sic) a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. La ley establecerá los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente artículo.
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2279,9 +2371,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
+Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados de cualquier órgano jurisdiccional o administrativo, del Tribunal de lo Contencioso Administrativo, el Fiscal General de Justicia y los Fiscales, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, presidente de la Juntas (sic) Local de Conciliación y Arbitraje y presidentes de las juntas especiales, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2305,11 +2397,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 146.
+###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador, diputados al Congreso del Estado, magistrados del Supremo Tribunal de Justicia, Procurador General de Justicia, titulares de las dependencias de la administración pública directa del Poder Ejecutivo del Estado, presidentes municipales, síndicos y regidores de los ayuntamientos, los consejeros estatales electorales y los magistrados del Tribunal Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, diputados al Congreso del Estado, magistrados del Supremo Tribunal de Justicia, Fiscal General de Justicia, titulares de las dependencias de la administración pública directa del Poder Ejecutivo del Estado, presidentes municipales, síndicos y regidores de los ayuntamientos, los consejeros estatales electorales y los magistrados del Tribunal Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -3512,3 +3604,19 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 ###### ARTÍCULO SEGUNDO.
 
 Se abroga la Ley número 264, que reforma el tercer párrafo del artículo 150-A de la Constitución Política del Estado de Sonora, aprobada por el Pleno de la Sexagésima Legislatura, en sesión del día 30 de junio de 2015.
+
+B.O. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 96, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA".]
+
+Artículo Primero.- La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+Artículo Segundo.- Los recursos materiales, presupuestales, humanos, así como los bienes muebles e inmuebles y contratos celebrados por la Procuraduría General de Justicia del Estado de Sonora pasan a la Fiscalía General de Justicia del Estado de Sonora.
+
+Artículo Tercero.- El Procurador General de Justicia del Estado de Sonora que se encuentre actualmente en funciones, queda designado y se ratifica por virtud de esta Ley como Fiscal General de Justicia del Estado por el tiempo que establece el artículo 98 de esta Constitución.
+
+Artículo Cuarto.- Dentro del plazo de ciento veinte días siguientes a la entrada en vigor de la presente Ley se deberá presentar por el Titular del Ejecutivo del Estado la iniciativa de (sic) Ley Orgánica de la Fiscalía General de Justicia del Estado.
+
+Artículo Quinto.- La Secretaría de Hacienda deberá proporcionar la suficiencia presupuestal a la Fiscalía General de Justicia del Estado para su debida integración y funcionamiento.
