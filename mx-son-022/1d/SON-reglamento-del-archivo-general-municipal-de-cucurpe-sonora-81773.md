@@ -4,7 +4,7 @@ identifier: "SON-reglamento-del-archivo-general-municipal-de-cucurpe-sonora-8177
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-23"
-last_updated: "2011-05-23"
+last_updated: "2016-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SON"
 ---
 # REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE CUCURPE, SONORA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE CUCUPRE, SONORA, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE CUCURPE, SONORA, PUBLICADO EN EL B.O. DE 28 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE CUCURPE, SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 23 de mayo de 2011.
 
@@ -279,9 +279,11 @@ Archivo (sic) General Municipal, deberá contarse con un Acta Circunstanciada de
 
 ### CAPÍTULO VI. DE LOS RECURSOS
 
-Artículo 51° (sic). El recurso que se concede en el presente Reglamento es el de revisión, el cual deberá ser interpuesto por los Servidores Públicos infractores ante el Titular del órgano de Control y evaluación Gubernamental para que éste resuelva en tiempo y con base a sus atribuciones legales
+Artículo 51° (SIC). El recurso que se concede en el presente Reglamento es el de revisión, el cual deberá ser interpuesto por los Servidores Públicos infractores ante el Titular del órgano de Control y evaluación Gubernamental para que éste resuelva en tiempo y con base a sus atribuciones legales
 
-### CAPÍTULO IX (SIC). TRANSITORIO (SIC)
+### CAPÍTULO IX (SIC)
+
+## TRANSITORIO
 
 Artículo Primero.- EL presente Reglamento entrara en vigor el día hábil siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
@@ -302,3 +304,15 @@ FRANCISCO SANTAMARIA QUEVEDO
 ING. MANUEL FRANCISCO VILLA PAREDES
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR PARA EL MANEJO DEL ARCHIVO GENERAL MUNICIPAL".]
+
+Artículo primero.- EL presente Reglamento entrará en vigor el día hábil siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Se abroga el Reglamento Interior para el manejo del Archivo Municipal publicado en el Boletín Oficial número 41 sección II de fecha Lunes 23 de Mayo del 2011.
+
+Artículo Tercero.- Cúmplase
