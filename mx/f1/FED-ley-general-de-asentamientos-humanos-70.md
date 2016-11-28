@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-asentamientos-humanos-70"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-21"
-last_updated: "2014-01-24"
+last_updated: "2016-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1993-07-19"
 ---
 # LEY GENERAL DE ASENTAMIENTOS HUMANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO, PUBLICADA EN EL D.O.F. DE 28 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GENERAL DE ASENTAMIENTOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 21 de julio de 1993.
 
@@ -505,7 +507,7 @@ VI. La prevención, control y atención de riegos y contingencias ambientales y 
 
 VII. La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos que tiendan a integrar a la comunidad;
 
-VIII. La celebración de convenios entre autoridades y propietarios o la expropiación de sus predios por causa de utilidad pública, y (sic)
+VIII. La celebración de convenios entre autoridades y propietarios o la expropiación de sus predios por causa de utilidad pública, y
 
 > <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 1994)</small>
 
@@ -802,3 +804,45 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 24 DE ENERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO Y SE REFORMA EL ARTÍCULO 3o. DE LA LEY DE PLANEACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+TERCERO. En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las autoridades de los tres órdenes de gobierno deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
+
+En el caso de la Ciudad de México, la Legislatura de la Ciudad de México, las autoridades del gobierno central y de las Demarcaciones Territoriales correspondientes, deberán efectuar las adecuaciones legislativas y reglamentarias de conformidad con lo dispuesto en el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos y con las disposiciones de la Constitución de la Ciudad de México una vez que entren en vigor.
+
+CUARTO. En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá reformar las disposiciones legales correspondientes con el objeto de ampliar las facultades de la Procuraduría Agraria, a fin de garantizar la procuración de la defensa de los derechos humanos vinculados al ordenamiento territorial.
+
+QUINTO. En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se formularán, o adecuarán los planes y programas de Desarrollo Urbano de los Centros de Población mayores a cien mil habitantes, así como los planes nacional, estatales y metropolitanos, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título Décimo Primero de la Ley que se expide.
+
+Los registros públicos de la propiedad, los catastros y el Registro Agrario Nacional estarán a lo señalado en los artículos 60, 111 y 112 del presente Decreto, una vez que sean adecuados los planes y programas mencionados en el párrafo anterior.
+
+SEXTO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la Secretaría, por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá convocar a la sesión de instalación del Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano.
+
+Los gobiernos locales y municipales, convocarán en el mismo plazo a las sesiones de instalación de los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano.
+
+SÉPTIMO. En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los lineamientos para la integración y funcionamiento del Consejo Nacional.
+
+OCTAVO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, expedirá los lineamientos en materia de equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.
+
+NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los criterios y lineamientos normativos para la delimitación territorial de las zonas metropolitanas y conurbaciones. Asimismo, en el mismo plazo, la Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano, cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.
+
+DÉCIMO. En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e iniciará las operaciones del sistema de información territorial y urbano de acuerdo al artículo 97 de la Ley que se expide.
+
+DÉCIMO PRIMERO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá los lineamientos para la certificación de especialistas en gestión territorial, que coadyuven y tengan una participación responsable en el proceso de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.
+
+DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, las legislaturas locales adecuarán sus códigos penales para que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.
+
+DÉCIMO TERCERO. En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá adecuar las disposiciones legales para establecer las sanciones a quienes autoricen, ordenen, edifiquen o realicen obras de infraestructura y asentamientos humanos en zonas de riesgo.
+
+DÉCIMO CUARTO. En un plazo no mayor a seis meses a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá realizar las adecuaciones a la Ley del Sistema Nacional de Información Estadística y Geográfica que incorpore el Subsistema Nacional de Ordenamiento Territorial y Urbano.
+
+DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en el presente Decreto.
