@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2016-10-11"
+last_updated: "2016-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.]</small>
+[NOTA 1. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.]
+
+[NOTA 2. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE DICIEMBRE DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN SÉPTIMA DE LA G.G. EL 11 DE OCTUBRE DE 2016, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 136 - ANTES 135 - PUBLICADO EN LA SECCIÓN QUINTA DE LA G.G. DE 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -219,39 +219,39 @@ XL. Vivienda. Es la prevista en la fracción I del artículo 5.37 del Código Ad
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 313,661 pesos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
-
-B). Interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 313,661 pesos y menor o igual a 407,760 pesos.
+A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 328,716 pesos.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 407,760 pesos y menor o igual a 595,956 pesos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
-
-D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 595,956 pesos y menor o igual a 1,688,063 pesos.
+B). Interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 328,716 pesos y menor o igual a 427,333 pesos.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1,688,063 pesos y menor o igual a 2,805,835 pesos.
+C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 427,333 pesos y menor o igual a 624,562 pesos.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 2,805,835 pesos.
+D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 624,562 pesos y menor o igual a 1,769,090 pesos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1,769,090 pesos y menor o igual a 2,940,515 pesos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 2,940,515 pesos.
 
 En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
 
@@ -437,11 +437,11 @@ I. Impuestos. Son los establecidos en este Código que deben pagar las personas 
 
 II. Derechos. Son las contraprestaciones establecidas en este Código, que deben pagar las personas físicas y jurídicas colectivas, por el uso o aprovechamiento de los bienes del dominio público de la Entidad, así como por recibir servicios que presten el Estado, sus organismos y Municipios en funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas en este Código. También son derechos las contribuciones que perciban los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-III. Contribuciones o Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de las personas físicas y jurídicas colectivas, que con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas o de acciones de beneficio social; las que efectúen las personas a favor del Estado para la realización de obras de impacto vial regional, que directa o indirectamente las beneficien, así como las derivadas de Servicios Ambientales.
+III. Contribuciones o Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de las personas físicas y jurídicas colectivas, que con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas o de acciones de beneficio social; las que efectúen las personas a favor del Estado para la realización de obras de impacto vial regional, que directa o indirectamente las beneficien, así como las derivadas de Servicios Ambientales o de Movilidad Sustentable.
 
 > <small>(ADICIONADA, G.G. 29 DE MAYO DE 2007)</small>
 
@@ -517,6 +517,12 @@ Las demás disposiciones fiscales se deberán aplicar mediante cualquier método
 
 En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o jurídicas colectivas ante las autoridades fiscales se hará mediante escritura pública, salvo los casos en que la autoridad fiscal lo determine, mediante reglas de carácter general que para tal efecto se emitan.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Las autoridades fiscales, podrán tener por acreditada la representación de las personas físicas o jurídicas colectivas, si esta se efectuó previamente ante una autoridad homóloga en el ámbito federal o local, o si la misma se encuentra acreditada en la base de datos de la autoridad homóloga.
+
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 19.
@@ -547,13 +553,27 @@ Las oficinas recaudadoras recibirán las declaraciones, avisos, solicitudes y de
 
 Cuando los contribuyentes obligados a realizar el pago de contribuciones y/o a presentar declaraciones, avisos y demás documentos, no lo hagan dentro de los plazos señalados en este Código, las autoridades fiscales exigirán por escrito su presentación ante las oficinas rentísticas o recaudadoras, procediendo conforme a lo siguiente:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-I. Requerir hasta en dos ocasiones la presentación del documento con el que acredite el cumplimiento de sus obligaciones fiscales, otorgando al contribuyente un plazo de tres días para el cumplimiento de cada requerimiento. En caso de no atenderse los requerimientos en la fecha de su vencimiento, surtirán efectos las multas correspondientes que en los mismos se refieran, teniéndose, en estos supuestos, por determinadas las mismas, las cuales se tendrán por notificadas en la fecha en que venza el plazo de tres días a que refiere este párrafo. Tratándose de declaraciones, será una multa por cada obligación requerida. La autoridad, después del primer requerimiento, podrá aplicar lo dispuesto en la siguiente fracción.
+I. Requerir hasta en dos ocasiones la presentación del documento con el que acredite el cumplimiento de sus obligaciones fiscales, otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. En caso de no atenderse los requerimientos en la fecha de su vencimiento, surtirán efectos las multas correspondientes que en los mismos se refieran, teniéndose, en estos supuestos, por determinadas las mismas, las cuales se tendrán por notificadas en la fecha en que venza el plazo de quince días a que refiere este párrafo. Tratándose de declaraciones, será una multa por cada obligación requerida. La autoridad, después del primer requerimiento, podrá aplicar lo dispuesto en la siguiente fracción.
+
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El ingreso que se perciba por concepto de las multas referidas en el párrafo anterior, así como de aquellas que deriven de los programas de vigilancia de obligaciones que se ejecuten en el ejercicio de facultades derivadas de los convenios de coordinación o colaboración administrativa en materia fiscal, se destinará al establecimiento de un programa de estímulos a la productividad en materia de control de obligaciones, conforme a las reglas de carácter general que al efecto emita la Secretaría.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+La autoridad fiscal que haya requerido podrá cancelar el o los requerimientos formulados al contribuyente, así como las multas correspondientes que en los mismos se refieran, siempre que se exhiba la declaración, aviso y demás documentos presuntamente omitidos, y que éstos se hayan presentado con anterioridad a la fecha de notificación del requerimiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Si los documentos a que se refiere el párrafo anterior se exhiben en el momento de la diligencia de notificación del requerimiento, el notificador levantará acta circunstanciada en la que precise los documentos exhibidos.
 
 II. Tratándose de la omisión de pago o la presentación de una declaración periódica para el pago de contribuciones, una vez realizada la actuación prevista en la fracción anterior, podrán hacer efectiva al contribuyente que haya incurrido en la omisión, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de los tres últimos pagos o las tres últimas declaraciones de la contribución de que se trate.
 
@@ -695,11 +715,11 @@ Las notificaciones por estrados se harán fijando durante diez días el document
 
 En el caso de notificaciones, de citaciones, requerimientos, solicitudes, resoluciones y demás actos, la autoridad publicará aquellos cuya notificación podrá realizarse a través del portal oficial o mediante correo electrónico.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Para estos efectos el contribuyente señalará a la autoridad fiscal, que las notificaciones se le realicen a través de medios electrónicos, indicando su cuenta o correo electrónico, no obstante deberá de indicar de manera alterna el domicilio para recibir y oír notificaciones en el territorio del Estado de México.
+Para estos efectos el contribuyente señalará a la autoridad fiscal, que las notificaciones se le realicen a través de medios electrónicos, indicando su cuenta o correo electrónico.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -719,11 +739,11 @@ Para regular los formatos, procedimientos o requisitos para este tipo de notific
 
 Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse por el interesado, dicha impresión contendrá un sello digital que lo autentifique.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-En el caso de que la autoridad, no reciba el acuse de recibo por parte del contribuyente dentro del plazo de 3 días contados a partir de la fecha en que se envió la notificación por medios electrónicos, la autoridad procederá a realizar la notificación de forma personal en términos del presente Código.
+En el caso de que la autoridad, no reciba el acuse de recibo por parte del contribuyente dentro del plazo de 3 días contados a partir de la fecha en que se envió la notificación por medios electrónicos, esta se tendrá por realizada al cuarto día, contado a partir del siguiente a aquel en que fue enviada.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -978,6 +998,12 @@ Además deberán pagarse recargos en concepto de indemnización al fisco por la 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 La causación de la actualización y los recargos inicia a partir del día siguiente al del vencimiento del plazo para realizar el pago de la contribución o aprovechamiento de que se trate.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+No se causarán recargos y actualizaciones, cuando la autoridad fiscal se vea imposibilitada para recibir el pago de créditos fiscales, por causas de fuerza mayor, caso fortuito o se haya producido una falla o problema en la plataforma electrónica receptora de pagos, únicamente durante el lapso en el que subsista el evento, siempre y cuando dichas circunstancias se encuentren debidamente documentadas.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
@@ -2643,7 +2669,7 @@ Cuando en el desarrollo de la revisión se conozcan hechos u omisiones de los co
 
 > <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-Para estos efectos, el contribuyente o su representante legal podrán, acudir a la invitación de la autoridad fiscal acompañados por el director general, administrador único, socios o accionistas, miembros del consejo directivo o de administración o las personas que tengan funciones o puestos homólogos. La autoridad fiscal levantará una constancia de los hechos que acontezcan en la reunión que se lleve a cabo con motivo de la invitación referida, otorgándole al contribuyente un plazo de 10 días contados a partir del día siguiente a aquél en que se celebre la reunión, para que se exhiba por escrito el recibo de pago de la totalidad de las contribuciones omitidas actualizadas y de sus accesorios, como prueba de la corrección de su situación fiscal. En caso de que el contribuyente o su representante legal no acudan a la invitación que le formule la autoridad fiscal en los términos del párrafo anterior o no corrija su situación fiscal en el plazo referido o cuando el contribuyente no se encuentre localizado, se perderá el beneficio de la condonación de las multas a que se refiere esta disposición.
+Para estos efectos, el contribuyente o su representante legal podrán acudir a la invitación de la autoridad fiscal acompañados por el director general, administrador único, socios o accionistas, miembros del consejo directivo o de administración o las personas que tengan funciones o puestos homólogos. La autoridad fiscal levantará una constancia de los hechos que acontezcan en la reunión que se lleve a cabo con motivo de la invitación referida, otorgándole al contribuyente un plazo de 10 días contados a partir del día siguiente a aquél en que se celebre la reunión, para que le exhiba por escrito el recibo de pago de la totalidad de las contribuciones omitidas actualizadas y de sus accesorios, como prueba de la corrección de su situación fiscal. En caso de que el contribuyente o su representante legal no acudan a la invitación que le formule la autoridad fiscal en los términos del párrafo anterior o no corrija su situación fiscal en el plazo referido o cuando el contribuyente no se encuentre localizado, se perderá el beneficio de la condonación de las multas a que se refiere esta disposición.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
@@ -2740,6 +2766,20 @@ La autoridad fiscal derivado de la información obtenida en la verificación pod
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 En caso de que el contribuyente se negare a presentar la documentación correspondiente al llevar a cabo la verificación, se hará acreedor a la multa establecida en el artículo 361 fracción VIII de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXV. Requerir a los contribuyentes, responsables solidarios o terceros, para que en un plazo de tres días, presenten los datos, informes o documentos con el que acrediten el cumplimiento de sus obligaciones fiscales en materia de avisos de dictaminación de contribuciones o dictámenes correspondientes a que se encuentran obligados, sin que se cumpla con lo dispuesto en las fracciones I, III, XVI y XXI de este artículo.
+
+No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes o documentos a que se refiere esta fracción, pudiendo ejercerlas en cualquier momento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXVI. Cancelar la licencia anual de operación estatal para prestar el servicio de traslado de personas a través del contrato electrónico de transporte privado, por el incumplimiento de las obligaciones fiscales y/o administrativas, así como imponer la sanción prevista en el artículo 361 fracción XXI de este Código.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -2983,6 +3023,12 @@ D). Determinados a contribuyentes no localizados.
 
 V. Información otorgada a terceros que auxilien a las autoridades fiscales en la búsqueda y localización de contribuyentes.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+VI. La información comunicada a las autoridades administrativas o aquellas del ámbito federal que para el ejercicio de sus funciones obtengan datos para fines de transparencia y acceso a la información pública o estadísticos.
+
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 Dicha confidencialidad tampoco comprenderá la información relativa a los créditos fiscales mayores a 25,000 pesos exigibles de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de Información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para regular las Agrupaciones Financieras, ni la que se proporcione para efectos de la notificación por terceros.
@@ -3105,9 +3151,9 @@ En caso de que el contribuyente después de ser requerido por la autoridad fisca
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal cuyo monto global no exceda de 313,661 pesos, no causarán este impuesto. Tampoco causarán este impuesto los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 62,731 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal cuyo monto global no exceda de 328,716 pesos, no causarán este impuesto. Tampoco causarán este impuesto los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 65,742 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3115,65 +3161,65 @@ Al importe que resulte de multiplicar el número de metros cuadrados de construc
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 Tipo de obra Costo por m2
 
-Bardas $361
+Bardas $378
 
-Bodegas $480
+Bodegas $503
 
-Canchas de tenis $200
+Canchas de tenis $210
 
-Casa habitación de interés social $804
+Casa habitación de interés social $843
 
-Casa habitación tipo medio $953
+Casa habitación tipo medio $999
 
-Casa habitación residencial de lujo $1,248
+Casa habitación residencial de lujo $1,308
 
-Cines $930
+Cines $975
 
-Edificios habitacionales de interés social $777
+Edificios habitacionales de interés social $814
 
-Edificios habitacionales tipo medio $904
+Edificios habitacionales tipo medio $947
 
-Edificios habitacionales de lujo $1,330
+Edificios habitacionales de lujo $1,394
 
-Edificios de oficinas $777
+Edificios de oficinas $814
 
-Edificios de oficinas y locales comerciales $1,026
+Edificios de oficinas y locales comerciales $1,075
 
-Escuelas de estructura de concreto $701
+Escuelas de estructura de concreto $735
 
-Escuelas de estructura metálica $842
+Escuelas de estructura metálica $882
 
-Estacionamientos $453
+Estacionamientos $475
 
-Gasolineras $535
+Gasolineras $561
 
-Gimnasios $804
+Gimnasios $843
 
-Hospitales $1,382
+Hospitales $1,448
 
-Hoteles $1,392
+Hoteles $1,459
 
-Hoteles de lujo $1,874
+Hoteles de lujo $1,964
 
-Locales comerciales $835
+Locales comerciales $875
 
-Naves industriales $713
+Naves industriales $747
 
-Naves para fábricas, bodegas y/o talleres $500
+Naves para fábricas, bodegas y/o talleres $524
 
-Piscinas $635
+Piscinas $665
 
-Remodelaciones $818
+Remodelaciones $857
 
-Templos $766
+Templos $803
 
-Urbanizaciones $278
+Urbanizaciones $291
 
-Vías de comunicación subterráneas y conexas $1,417
+Vías de comunicación subterráneas y conexas $1,485
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -3275,13 +3321,11 @@ I). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 XI. Pagos realizados a personas físicas por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
 
-> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2016)</small>
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 
 ###### Artículo 59 Bis.
 
-Los contribuyentes del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal que generen empleos nuevos en el Estado de México para trabajadores de 60 años de edad o mayores, para personas que hubieren concluido una carrera terminal, técnica, tecnológica o profesional, en los últimos tres años, así como las empresas que teniendo fuentes de empleo en cualquier entidad federativa distinta al Estado de México, las cambien a la entidad, gozarán de un subsidio del 100% en el pago de este impuesto, por los 36 meses posteriores a su generación o cambio.
-
-Los contribuyentes que contraten personal que acceda por primera vez al mercado laboral, gozarán del subsidio señalado en el párrafo anterior, por los 24 meses posteriores a su contratación.
+(DEROGADO, G.G. 28 DE NOVIEMBRE DE 2016)
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -3325,11 +3369,9 @@ Para los efectos de esta Sección, se presume salvo prueba en contrario, que el 
 
 Artículo 60 A.- Los contribuyentes pagarán el impuesto a que se refiere esta Sección anualmente, mediante la forma oficial aprobada por la autoridad fiscal, dentro de los tres primeros meses de cada año, salvo en el caso de aquellos vehículos de los que se solicite su inscripción o permiso provisional para circulación en traslado; supuestos en que se pagará en el momento en que se realice el trámite respectivo, excepto aquellos que lo hubieran pagado con anterioridad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-En aquellos casos en que se hubiere pagado en otra entidad federativa, por el mismo ejercicio fiscal al de su registro en esta entidad federativa, un impuesto sobre la tenencia o uso de vehículos, y el importe sea inferior al que le corresponda pagar conforme a esta Sección, el impuesto a cargo será la diferencia que resulte. Cuando el impuesto enterado en la otra entidad sea superior al que corresponda pagar conforme a esta Sección, no se enterará este impuesto, ni dará lugar a devolución, acreditamiento o compensación alguna.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 En el caso de robo del vehículo o pérdida total por accidente se causará la parte proporcional del impuesto anual hasta el mes en que se reporte su baja en los términos previstos por este Código, conforme a la siguiente tabla:
 
@@ -3365,11 +3407,11 @@ En caso de que lo pagado haya sido superior a lo determinado en términos del p�
 
 Para los supuestos referidos en el segundo párrafo de este artículo, no se pagará este impuesto a partir del año fiscal siguiente y hasta que, en su caso, deje de estar en dichos supuestos y vuelva a inscribirse el vehículo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Tratándose de la adquisición de vehículos nuevos, así como de la adquisición de vehículos nuevos o usados importados en forma definitiva por primera vez y los que se inscriban por primera vez provenientes de otra entidad, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar al impuesto anual el factor correspondiente de la siguiente tabla:
+Tratándose de la adquisición de vehículos nuevos, así como de la adquisición de vehículos nuevos o usados importados en forma definitiva, y los que se inscriban por primera vez provenientes de otra entidad o, tratándose de vehículos recuperados respecto de los cuales se realice el trámite correspondiente en tiempo y forma, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar al impuesto anual el factor correspondiente de la siguiente tabla:
 
 Mes de Factor aplicable al
 
@@ -3437,7 +3479,19 @@ IX. Vehículo nuevo:
 
 A). El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+La incorporación de los vehículos al activo fijo de las empresas fabricantes, ensambladoras o importadoras de automóviles e inclusive al de los distribuidores autorizados y comerciantes en el ramo de vehículos, o los que tengan para su venta por más de un año, serán considerados como enajenados.
+
 B). El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de esta Sección o al año modelo en que se efectúe la importación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+X. Vehículo Recuperado, el que es restituido al legítimo propietario, tenedor o usuario, por las autoridades encargadas de la procuración de justicia, con motivo de sus labores de investigación y persecución de delitos.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -3723,31 +3777,31 @@ Se considerará el valor total del automóvil establecido en la factura original
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO EN SU AÑO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA EN SU AÑO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 AÑOS DE AÑO FACTOR DE FACTOR DE
 
 ANTIGÜEDAD DEPRECIACIÓN ACTUALIZACIÓN
 
-1 2016 0.9750 1.0000
+1 2017 0.9750 1.0000
 
-2 2015 0.8500 1.0480
+2 2016 0.8500 1.0480
 
-3 2014 0.7250 1.0837
+3 2015 0.7250 1.0837
 
-4 2013 0.6000 1.1288
+4 2014 0.6000 1.1288
 
-5 2012 0.5000 1.1886
+5 2013 0.5000 1.1886
 
-6 2011 0.4000 1.2495
+6 2012 0.4000 1.2495
 
-7 2010 0.3000 1.2990
+7 2011 0.3000 1.2990
 
-8 2009 0.2250 1.3462
+8 2010 0.2250 1.3462
 
-9 2008 0.1500 1.3999
+9 2009 0.1500 1.3999
 
-10 2007 0.0750 1.4922
+10 2008 0.0750 1.4922
 
 La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el factor de actualización a que se refiere este artículo, y al resultado se le aplicará la tasa del 1%.
 
@@ -3757,15 +3811,15 @@ II. En el caso de vehículos de más de diez años modelo de fabricación o ejer
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO EN SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 CONCEPTO CILINDRAJE TARIFA
 
-Hasta 4 $279
+Hasta 4 $292
 
-De 5 a 6 $842
+De 5 a 6 $882
 
-De más de 6 $1,051
+De más de 6 $1,101
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -3961,6 +4015,54 @@ b). Trasladar el impuesto en forma expresa y por separado en el comprobante corr
 
 c). Llevar un registro en el que se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje y los datos relativos a la ocupación.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 F.- Los ingresos recaudados por este impuesto serán depositados a más tardar dentro de los primeros cinco días del mes siguiente a aquel en que hubieren sido recaudados, en el Fideicomiso para la Promoción Turística que al efecto se constituya.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 G.- El Fideicomiso para la Promoción Turística tendrá por objeto:
+
+I. La promoción nacional e internacional del Estado de México como destino turístico.
+
+II. La promoción nacional e internacional del Estado de México para atraer congresos, convenciones, reuniones corporativas, ferias, exposiciones, programas de incentivos o cualquier tipo de reunión, evento o festival que genere la presencia de turistas y derrama económica al Estado de México.
+
+III. El desarrollo de proyectos, construcción y equipamiento de infraestructura turística.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 H.- Los ingresos que el Fideicomiso para la Promoción Turística destine para los objetos señalados en las fracciones I y II del artículo 69 G, equivaldrán al menos al 80% del total recaudado al año.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 I.- El Fideicomiso para la Promoción Turística será público, operará a través de reglas específicas y contará con un Comité Técnico que será el máximo órgano de decisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 J.- El Comité Técnico del Fideicomiso para la Promoción Turística será presidido por la Secretaría de Turismo y estará integrado por servidores públicos y representantes del sector privado, ambos con injerencia en la materia turística.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 K.- El Comité Técnico tendrá además de las previstas por la normatividad aplicable, la obligación de brindar información a la Legislatura respecto al ejercicio de los recursos del Fideicomiso para la Promoción Turística.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 69 L.- El funcionamiento del Comité Técnico deberá preverse en las reglas de operación que al efecto se emitan.
+
 > <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 172, PUBLICADO EN LA G.G. DE 2 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE CAPÍTULO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
@@ -3997,13 +4099,11 @@ c). Llevar un registro en el que se consigne el monto correspondiente al valor d
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO
+#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO Y METROPOLITANO
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
-
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS
 
@@ -4119,11 +4219,19 @@ La actualización que en su caso se realice conforme a lo previsto en el present
 
 Por los servicios prestados por las dependencias y entidades públicas, relativos a la supervisión y control necesarios para la ejecución de obra pública, se cobrará un 2% por concepto de derechos a los contratistas con quien se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas, mediante retención que ellas realicen.
 
-Esta retención deberá ser enterada a la Subsecretaría de Tesorería de la Secretaría a través de la Caja General de Gobierno, de acuerdo a la fecha límite para el ejercicio de la obra pública o de servicios relacionados con la misma.
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 
-De igual manera, los Municipios que ejecuten obra pública con cargo parcial o total a los recursos del Fondo Estatal de Fortalecimiento Municipal o su equivalente, aplicarán esta disposición debiendo enterarla a la Subsecretaría de Tesorería de la Secretaría a través de la Caja General de Gobierno, a más tardar el último día hábil del mes de marzo del siguiente ejercicio fiscal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Para el cobro de estos derechos, los Organismos Autónomos harán las retenciones de los mismos de acuerdo a sus propias disposiciones.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Los municipios y los organismos autónomos que celebren contratos para la ejecución de obra pública o de servicios relacionados con la misma, cobrarán el derecho previsto en el presente artículo.
+
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -4157,7 +4265,11 @@ IV. Por la expedición de información en medios magnéticos. $15
 
 V. Por la expedición de información en disco compacto. $23
 
-VI. Por el escaneo y digitalización de documentos que sean entregados por vía electrónica, en medio magnético o disco compacto. $0.50
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+VI. Por el escaneo y digitalización de cada hoja relativa a los documentos que sean entregados por vía electrónica, en medio magnético o disco compacto. $0.55
 
 Para los supuestos establecidos en las fracciones IV y V, el solicitante podrá, en ejercicio del derecho a la información pública, aportar el medio en el que se requiera le sea proporcionada la información, en cuyo caso no habrá costo que cubrir.
 
@@ -4235,7 +4347,9 @@ A). Grupos voluntarios. $3,512
 
 B). Prestadoras de servicios de consultoría o capacitación en materia de protección civil. $4,104
 
-II. Por la evaluación de las condiciones de seguridad para usos del suelo que generen impacto regional. $4,214
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+
+II.(DEROGADA, G.G. 28 DE NOVIEMBRE DE 2016)
 
 III. Por la prestación de los servicios de asesoría técnica a personas físicas o jurídicas colectivas que así lo soliciten, para la elaboración de sus programas específicos de protección civil. $3,164
 
@@ -4367,9 +4481,9 @@ VII. Expedición de constancias de pago de contribuciones y de constancias que r
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-VIII. Por los servicios prestados a las casas de empeño y a las unidades económicas que ejercen la compra y/o venta de oro y/o plata se pagarán los derechos siguientes:
+VIII. Por los servicios prestados a las casas de empeño y a las comercializadoras de oro y plata se pagarán los derechos siguientes:
 
 A). Por la solicitud, estudio, revisión y resolución del trámite de permiso, así como por el refrendo anual correspondiente. $8,000
 
@@ -4390,6 +4504,20 @@ E). Por refrendo anual del registro de valuadores. $1,000
 > <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 F). Por la solicitud, estudio, revisión y resolución del trámite de autorización de los programas de cómputo para que puedan llevar los libros auxiliares en forma digital. $1,500.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+IX. Por el estudio y evaluación de la solicitud para tramitar y expedir la licencia de operación estatal a los prestadores de servicios electrónicos, derivada del contrato electrónico de transporte privado de personas, en vehículo particular, ya sea con uno o más pasajeros, sin que constituya un servicio colectivo.
+
+A). Expedición inicial. $4,986
+
+B). Refrendo. $4,986
+
+C). Reposición. $4,986
+
+El derecho establecido en el inciso B) se pagará anualmente, mediante la forma oficial aprobada dentro de los tres primeros meses de cada año.
 
 No pagarán estos derechos las empresas registradas en el Padrón Nacional de la Microindustria.
 
@@ -4429,6 +4557,12 @@ D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 
 2. Cilindrada 351 c.c. en adelante. $485
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+3. Eléctricas. $464
+
 E). Para auto antiguo. $2,075
 
 Para efectos del presente inciso, se entenderá por auto antiguo, a aquel vehículo con una antigüedad mínima de 30 años a partir de la fecha de su fabricación, que sus partes y componentes mecánicos y de carrocería conserven sus características de originalidad y de operación, debiendo contar con una certificación de sus condiciones físico-mecánicas, expedida por el fabricante u organismo de certificación, laboratorio de prueba o unidad de verificación debidamente acreditado.
@@ -4456,6 +4590,12 @@ D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 1. Cilindrada hasta de 350 cm3 $422
 
 2. Cilindrada 351 cm3 en adelante. $485
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+3. Eléctricas. $464
 
 E). Para auto antiguo. $2,095
 
@@ -4797,7 +4937,9 @@ B). Educación Media Superior. $1,068
 
 C). Educación Superior. $1,068
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 #### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
 
@@ -4809,13 +4951,21 @@ C). Educación Superior. $1,068
 
 ###### Artículo 81.
 
-Por los servicios prestados por la Secretaría de Desarrollo Urbano se pagarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de Desarrollo Urbano y Metropolitano se pagarán los siguientes derechos:
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 I. Por la supervisión de las obras de urbanización, infraestructura y equipamiento de conjuntos urbanos, lotificaciones en condominio y, en su caso, de subdivisiones que adicionalmente impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de autorización de más de 3,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
 
 En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
 
 Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 II. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
@@ -4833,17 +4983,41 @@ D). Por el duplicado de planos con material proporcionado por el usuario. $114
 
 La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente.
 
-III. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $3,512.
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 
-IV. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $3,512.
+III. (DEROGADA, G.G. 28 DE NOVIEMBRE DE 2016)
+
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+
+IV. (DEROGADA, G.G. 28 DE NOVIEMBRE DE 2016)
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 V. Por la expedición de informe técnico urbano $1,340.
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 VI. Por el trámite para sustituir los lotes constituidos en garantía hipotecaria por fianza o viceversa o la combinación de ambas se pagarán $632.
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 VII. Por el trámite para permitir gravar, fideicomitir o afectar para sí en alguna forma, los lotes vendibles de un conjunto urbano o áreas privativas de un condominio se pagarán $632.
 
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
 VIII. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio se pagarán $1,405.
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA DE LA 12 A LA 13.]</small>
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 IX. Por la aprobación del respectivo proyecto de lotificación del conjunto urbano, se pagarán $2,413.
 
@@ -5039,11 +5213,19 @@ A). De 0 a 999 metros. $12
 
 B). A partir de 1000 metros. $8
 
-VI. Por el uso y aprovechamiento del derecho de vía para la colocación de señales informativas y estructuras con fines de publicidad, se pagarán los siguientes derechos:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+VI. Por el uso y aprovechamiento del derecho de vía para la colocación o renovación de señales informativas y estructuras con fines de publicidad, se pagarán los siguientes derechos:
 
 A). Por la integración de expediente técnico de la solicitud. $69
 
-B). Elaboración de estudio técnico, al realizarse la instalación:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+B). Elaboración de estudio técnico, al realizarse la instalación o renovación:
 
 1. Por señal informativa. $377
 
@@ -5633,41 +5815,11 @@ V. Por la renovación anual de la certificación para la comercialización y/o i
 
 El Ejecutivo, a través de la Secretaría del Medio Ambiente, emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el Periódico Oficial "Gaceta del Gobierno". El 10% de lo que se obtenga del pago de dichas tarifas será destinado al Fondo Estatal de Cambio Climático, debiendo la Secretaría de Finanzas hacer los depósitos correspondientes dentro de los 10 días hábiles del mes siguiente en el que se generaron.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA 24.]</small>
-
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 
 ###### Artículo 89.
 
-Por la evaluación del impacto ambiental, que efectúe la autoridad competente, en los términos de los ordenamientos jurídicos aplicables, se pagarán los siguientes derechos:
-
-TARIFA
-
-CONCEPTO INDUSTRIAL OTROS
-
-I. Por la evaluación de la manifestación de impacto ambiental. $9,509 $9,786
-
-II. Evaluación del estudio de riesgo ambiental. $14,261 $14,679
-
-III. Por la evaluación de las solicitudes presentadas para la acreditación para la prestación de servicios profesionales en materia de impacto y riesgo ambiental:
-
-A). Impacto. $3,916
-
-B). Riesgo. $3,916
-
-IV. Por la evaluación del Informe previo de impacto ambiental:
-
-A). Industria. $4,515
-
-B). Otros. $4,653
-
-V. Por expedición del oficio de prórroga de la vigencia de la resolución. $3,993
-
-VI. Por la expedición del oficio que determine que una obra y/o actividad no requiere someterse al procedimiento de evaluación en materia de impacto ambiental. $460
-
-No pagarán los derechos previstos en este artículo los fraccionadores de conjuntos urbanos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
+(DEROGADO, G.G. 28 DE NOVIEMBRE DE 2016)
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -6581,11 +6733,11 @@ Los títulos expedidos por el Registro Agrario Nacional.
 
 D). La compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva y la constitución de fideicomiso traslativo de dominio.
 
-E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión, relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos. $63
+E). Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso y transmisión de propiedad o posesión, relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos.
 
 > <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -6593,9 +6745,11 @@ F). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
 
 Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos. $556
 
-> <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos. $844
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote comercial, lote resultante o fusionado, que derive del régimen de propiedad en condominio, copropiedad, o de conjuntos urbanos, según sea el caso, se pagarán por concepto de derechos.
 
 > <small>(F. DE E., G.G. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -6603,7 +6757,11 @@ H). Otros actos inscribibles o anotables.
 
 Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $132, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
 
-Por las inscripciones de los actos a que se refieren los incisos C), D), E), F) y H), se pagarán derechos, conforme a la siguiente:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Por las inscripciones de los actos a que se refieren los incisos C), D), F) y H), se pagarán derechos, conforme a la siguiente:
 
 TARIFA
 
@@ -6621,19 +6779,27 @@ CONCEPTO
 
 6. Cuando el valor de los actos a inscribir sea de más de $431,773. $15,246
 
-Por las inscripciones a que se refieren los incisos C), D), E), F) y H), se tomará como valor para la ubicación del rango correspondiente de la tarifa anterior, el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Por las inscripciones a que se refieren los incisos C), D), F) y H), se tomará como valor para la ubicación del rango correspondiente de la tarifa anterior, el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Las constancias o documentos que amparen los valores de bienes inmuebles, no deberán tener una vigencia mayor a noventa días tratándose del avalúo, y respecto al valor catastral deberá corresponder al ejercicio fiscal que sea solicitado el servicio.
+Las constancias o documentos que amparen los valores de bienes inmuebles como el avalúo y la certificación de clave y valor catastral deberán corresponder al ejercicio fiscal que sea solicitado el servicio.
 
 Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
 La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción. $601
 
-II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, conforme a la siguiente:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+II. Por inscripciones o anotaciones de actos o mandamientos judiciales y administrativos que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, sin importar el número de inmuebles que resulten afectados, conforme a la siguiente:
 
 TARIFA
 
@@ -6651,19 +6817,45 @@ CONCEPTO
 
 6. Cuando el valor de los actos a inscribir sea de más de $431,773. $15,246
 
-Tratándose de cédula hipotecaria, se tomará como base la cantidad adeudada, para cada inmueble que sea objeto de anotación.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Tratándose de cédula hipotecaria, se tomará como base la cantidad adeudada.
 
 Tratándose de las inscripciones de aseguramientos de bienes ordenados por la autoridad judicial o ministerial competente, dichas inscripciones se encontrarán exentas de pago.
 
-Por la inscripción de la división de hipoteca, se pagarán $1,451 por cada inmueble.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Por la inscripción de la división de hipoteca, se pagarán $1,671 por cada inmueble de acuerdo a lo establecido por el artículo 7.1118 del Código Civil del Estado de México.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Tratándose de viviendas de interés social, social progresiva o popular se pagará por la inscripción de la división de hipoteca por cada inmueble $151.
 
 Por la inscripción de hipotecas, en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $830.
 
-Por la inscripción de hipotecas, para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $131.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,321, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $69, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituído en relación con la Agricultura o la Financiera Rural; para el caso de aquellas cancelaciones que se realicen a solicitud de parte interesada por el transcurso de diez años a partir del vencimiento del plazo para el cual fue constituída, se pagará un derecho equivalente a $500.
+Por la inscripción de hipotecas, para garantizar el crédito principal o refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Por la inscripción de la subrogación de acreedor o sustitución de acreedor se cobrará $1,750.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores, así como para cada cancelación de inscripción o anotación de los actos accesorios a éstos se pagará $1,385, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $72, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en relación con la Agricultura o la Financiera Rural; para el caso de aquellas cancelaciones que se realicen a solicitud de parte interesada por el transcurso de diez años a partir del vencimiento del plazo para el cual fue constituida, se pagará un derecho equivalente a $524.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -6678,6 +6870,18 @@ III. Por la inscripción de actos o documentos cuyo registro sea necesario como 
 Para efectos del párrafo anterior, los contratos privados de compraventa no se considerarán como un acto previo, independientemente de la denominación que se les dé.
 
 Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $256.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+A solicitud de parte interesada, la inscripción de la autorización para enajenar o gravar lotes o viviendas que deriven de lotificaciones, conjuntos urbanos o condominios se pagarán por concepto de derechos $647 sin importar el número de lotes o viviendas autorizados.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+La inscripción de poderes generales, especiales, así como la sustitución de apoderado legal, relacionada con inmuebles inscritos pagarán por concepto de derechos $647, sin tomar en consideración el número de predios referidos en dicho poder.
 
 IV. Están exentos del pago de derechos la inscripción, cancelación o la adjudicación de inmuebles garantizados con la hipoteca inversa.
 
@@ -6789,9 +6993,17 @@ VI. Depósito de la firma en facsímil de los administradores, se pagarán. $1,5
 
 VII. Depósito de copia autorizada por balance, se pagarán. $1,521
 
-VIII. Cancelación, por mandato judicial, de cualquier acto que sea inscribible de acuerdo con este artículo. $1,121
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+VIII.(DEROGADA, G.G. 28 DE NOVIEMBRE DE 2016)
 
 IX. Otros actos inscribibles o anotables. $1,506
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Por cancelación de cualquiera de los actos contenidos en este artículo se pagará. $1,291
 
 Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en este artículo $115.
 
@@ -7669,6 +7881,14 @@ Por la inscripción de créditos refaccionarios y de habilitación o avío en qu
 
 El Ejecutivo, a través de la Secretaría del Medio Ambiente emitirá semestralmente, por los servicios de verificación vehicular que presten los centros especializados autorizados verificentros relacionados con el Programa de Verificación Vehicular Obligatoria sobre Emisiones de Contaminantes de Vehículos Automotores, las tarifas aplicables a estos servicios, que deberán pagarse dependiendo del tipo de constancia que se trate, considerando el uso intensivo o particular del vehículo, dentro de los términos y plazos que se señalen al respecto, en el marco de dicho programa para la entidad, y que se publicarán en el periódico oficial "Gaceta del Gobierno". El 10 % de lo que se obtenga del pago de dichas tarifas será destinado al Fondo Estatal de Cambio Climático, debiendo la Secretaría de Finanzas hacer los depósitos correspondientes dentro de los 10 días hábiles del mes siguiente en el que se generaron.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 162, PUBLICADO EN LA G.G. DE 28 DE NOVIEMBRE DE 2016.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Por la cancelación de la inscripción de los registros o matrículas a que se refiere la fracción VI del presente artículo, se pagarán $692
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015, PÁGINA 29.]</small>
@@ -7713,7 +7933,11 @@ I. Expedición de certificados:
 
 A). De no inscripción. $717
 
-B). De no propiedad. $58
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+B). De no propiedad por cada nombre, denominación o razón social del que se realice la búsqueda.
 
 C). De inscripción. $709
 
@@ -7725,7 +7949,11 @@ Tratándose de terrenos en donde se construyan viviendas de interés social, soc
 
 Los derechos a que se refiere esta fracción, se pagarán por cada fracción de terreno, lote o vivienda.
 
-II. Por expedición de informes sobre la existencia o inexistencia de testamentos. $601
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+II. Por expedición de informes sobre la existencia o inexistencia de testamentos por cada nombre de quien se realice la búsqueda. $601
 
 III. Por compulsa de documentos. $58
 
@@ -7883,6 +8111,78 @@ IX. Por juego de formato para el asentamiento de hechos y actos del estado civil
 
 X. Por el servicio de encuadernación o rehabilitación de los libros de Oficialía de las diversas actas de los actos y hechos del estado civil, por libro. $270
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+SUBSECCION CUARTA
+
+DE LOS DERECHOS POR SERVICIOS CORRESPONDIENTES AL DICTAMEN ÚNICO DE FACTIBILIDAD
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 104 Bis.
+
+Por los estudios y evaluaciones necesarios para la emisión del Dictamen Único de Factibilidad, las y los solicitantes deberán cubrir los conceptos siguientes, tomando en consideración la unidad económica y el tipo de proyecto solicitado:
+
+CONCEPTO TARIFA
+
+I. Por la evaluación de las condiciones de seguridad
+
+para usos del suelo que generen impacto regional. $ 4,629
+
+II. Por las evaluaciones para usos de impacto
+
+regional o de factibilidad para conjuntos urbanos. $ 3,857
+
+III. Por las constancias de viabilidad o de
+
+Aprovechamiento inmobiliario. $ 3,857
+
+IV. Por la evaluación del impacto ambiental, que
+
+efectúe la autoridad competente en los términos
+
+de los ordenamientos jurídicos aplicables:
+
+INDUSTRIAL OTROS
+
+A. Por la evaluación de la manifestación de
+
+impacto ambiental. $ 10,443 $ 10,748
+
+B. Por la evaluación del estudio de riesgo
+
+ambiental. $ 15,663 $ 16,122
+
+C. Por la evaluación de las solicitudes presentadas
+
+para la acreditación para la prestación de servicios
+
+profesionales en materia de impacto y
+
+riesgo ambiental. $ 4,300 $ 4,300
+
+D. Por la evaluación del informe previo de impacto
+
+ambiental. $ 4,928 $ 5,110
+
+E. Por expedición del oficio de prórroga de la
+
+vigencia de la Resolución. $ 4,385
+
+F. Por la expedición del oficio que determine
+
+que una obra y/o actividad no requiere someterse al
+
+procedimiento de evaluación en materia de impacto
+
+ambiental. $ 506
+
+No pagarán los derechos previstos en este artículo los fraccionadores de conjuntos urbanos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de Microindustria.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
@@ -7915,7 +8215,7 @@ F). Las copias certificadas que se expidan para la substanciación de cualquier 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
+#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y RECEPCIÓN DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -8023,9 +8323,11 @@ DICIEMBRE DE 2010) DICIEMBRE DE 2010)
 
 El monto anual del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda de la tarifa, el resultado de multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre el valor catastral del inmueble de que se trate y el valor catastral que se indica en el límite inferior del rango relativo.
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Cuando se trate de terrenos baldíos mayores de 200 metros cuadrados, se aplicará una tasa adicional del 15%, sobre el monto total a pagar.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Cuando se trate de terrenos baldíos urbanos mayores de 200 metros cuadrados, se aplicará una tasa adicional del 15%, sobre el monto total a pagar.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -8391,9 +8693,11 @@ Tratándose de conjuntos urbanos o subdivisiones de predios de tipo residencial 
 
 En el caso de autorizaciones de conjuntos urbanos mixtos, se pagará por vivienda conforme a la tarifa anterior, atendiendo a los tipos de conjuntos urbanos base que lo conforman.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para la aplicación de la tarifa a que se refiere este artículo para los diferentes tipos de viviendas, se atenderá a las definiciones establecidas en el artículo 3 fracción XIII de este Código.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Para la aplicación de la tarifa a que se refiere este artículo para los diferentes tipos de viviendas, se atenderá a las definiciones establecidas en el artículo 3 fracción XL de este Código.
 
 A). (DEROGADO, G.G. 31 DE DICIEMBRE DE 2001)
 
@@ -8593,9 +8897,9 @@ Artículo 128 Bis B.- (DEROGADO, G.G. 2 DE DICIEMBRE DE 2013)
 
 ### CAPITULO SEGUNDO. DE LOS DERECHOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 #### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
 
@@ -8627,11 +8931,11 @@ V. Por el control para el establecimiento de los sistemas de agua potable y de a
 
 VI. Conexión de la toma para el suministro de agua en bloque proporcionada por autoridades municipales o sus descentralizadas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-VII. Recepción de los caudales de aguas residuales para su tratamiento o manejo y conducción.
+VII. Recepción de los caudales de aguas residuales para su tratamiento.
 
 VIII. Reparación de aparatos medidores de consumo de agua.
 
@@ -8659,23 +8963,25 @@ XIII. Expedición o renovación del permiso de distribución de agua a través d
 
 El consejo directivo del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en esta Sección, podrá acordar la realización de programas de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, que deberá proponerse a consideración del Ayuntamiento y, en su caso, publicarse en el Periódico Oficial.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-Los usuarios del servicio de agua potable, drenaje, alcantarillado y recepción de los caudales de aguas residuales para su tratamiento o manejo y conducción están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
+Los usuarios del servicio de agua potable, drenaje, alcantarillado y recepción de los caudales de aguas residuales para su tratamiento están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para la contratación de los servicios de conducción de agua y drenaje solo será necesario presentar cualquier tipo de comprobante del domicilio donde se instalarán dichos servicios y, en estos casos, el recibo que expida la autoridad será innominado. Para que en el contrato y recibo se registre el nombre del usuario se presentarán los documentos que acrediten la respectiva propiedad o legal posesión.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+Para la contratación de los servicios de agua y drenaje solo será necesario presentar cualquier tipo de comprobante del domicilio donde se instalarán dichos servicios y, en estos casos, el recibo que expida la autoridad será innominado. Para que en el contrato y recibo se registre el nombre del usuario, se presentarán los documentos que acrediten la respectiva propiedad o legal posesión.
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 130.
 
-Los derechos por el suministro de agua potable se pagarán mensualmente, bimestralmente o de manera anticipada, según la opción que elija el contribuyente, siempre y cuando los Municipios por sí o por conducto de los organismos operadores de agua de que se trate, cuenten con los dispositivos y modalidades que para tal fin establezcan o con cargo a tarjeta de crédito otorgada por instituciones bancarias, conforme a lo siguiente:
+Los derechos por el suministro de agua potable se pagarán mensualmente, bimestralmente o de manera anticipada, según la opción que elija el contribuyente, siempre y cuando los Municipios por sí o por conducto de los organismos operadores de agua de que se trate, cuenten con los dispositivos y modalidades que para tal fin establezcan o con cargo a tarjeta de crédito otorgada por instituciones bancarias, en las oficinas o establecimientos que el propio Ayuntamiento designe, conforme a lo siguiente:
 
 I. Para uso doméstico:
 
@@ -8683,7 +8989,7 @@ A). Con medidor.
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -8693,31 +8999,31 @@ En caso de que el medidor se encuentre descompuesto, el usuario pagará los dere
 
 Se considerará como consumo de tipo mixto, aquellos casos en donde en un mismo inmueble con una sola toma de agua con y sin servicio medido, a la vez se abastezcan o suministren departamentos, despachos, oficinas y locales comerciales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El pago del consumo por servicio medido, se hará por cada uno de los usuarios conforme al uso del servicio y la tarifa aplicable, promediando el consumo total entre el número de usuarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Para consumo de agua en edificios de departamentos y vecindades que tengan para su servicio una sola toma de agua y medidor, la lectura del consumo mensual o bimestral se promediará en cada caso entre el número de departamentos o viviendas registradas para cuantificar el consumo de cada una, aplicando el precio por metro cúbico de acuerdo a la tarifa vigente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El consumo promediado se aplicará a los establecimientos que se encuentren habitados o haciendo uso del servicio de agua potable, previa verificación de la autoridad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 Para usuarios con servicio medido, en el caso de que las instalaciones hidráulicas internas del predio de que se trate presenten fuga, verificada por la autoridad, se cobrará por única vez en el mes o bimestre según corresponda, hasta un máximo de tres períodos, con fuga, el consumo promedio de los últimos doce meses o seis bimestres de consumo normal, y la diferencia de los metros cúbicos registrados por la fuga, se cobrará conforme al costo del metro cúbico adicional sobre el rango de la tarifa del consumo promedio aplicado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -8727,13 +9033,13 @@ Cuando se trate de medidores que cuenten con menos de 60 días naturales de inst
 
 La cuota mínima a pagar en el mes o bimestre no será menor a la que corresponda a un consumo de 7.5 m3 y 15 m3, respectivamente, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diez días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -8757,7 +9063,7 @@ Residencial Alta 23.1188 20.7902 18.5818 16.4938
 
 Toma de 19 a 26 mm 48.4030 43.5417 38.9310 34.5709
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -8781,7 +9087,7 @@ Residencial Alta 46.2375 41.5803 37.1635 32.9876
 
 Toma de 19 a 26 mm 96.8060 87.0833 77.8619 69.1417
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -8797,25 +9103,25 @@ A). Con medidor:
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumo de los doce últimos meses o seis bimestres inmediatos anteriores, según sea el caso, en que estuvo funcionando el aparato.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 La cuota mínima a pagar en el mes o bimestre no será menor a la que corresponda a un consumo de 7.5 m3 y 15 m3, respectivamente, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diez días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -8845,7 +9151,7 @@ EN MM 1 2 3 4
 
 75 1,592.2573 1,430.8863 1,280.2666 1,099.4537
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -8877,19 +9183,19 @@ EN MM 1 2 3 4
 
 Para los efectos de estos derechos, se aplicará el 50% de la tarifa correspondiente, cuando se trate de núcleos de población de zonas rurales, que cuenten con sistemas locales de agua y que reporten una población menor a 1,000 habitantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 Los propietarios o poseedores de los predios, giros o establecimientos que se surtan de agua por medio de las derivaciones que autorice el Ayuntamiento o el organismo descentralizado, deberán pagar la cuota mensual o bimestral correspondiente al diámetro de la derivación, si la toma no tiene medidor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 La suspensión en derivaciones, respecto del pago de los derechos por los consumos de agua potable, drenaje, alcantarillado y saneamiento en la modalidad de servicio medido, procederá siempre y cuando el usuario manifieste en tiempo y forma por escrito y bajo protesta de decir verdad dicha situación, para lo cual la autoridad fiscal ordenará la inspección correspondiente, acreditando el solicitante que se encuentre al corriente en los pagos hasta el bimestre en que se presenta la solicitud de suspensión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -8905,37 +9211,41 @@ B). Para uso no doméstico: 4 días de salario mínimo general del área geográ
 
 No se pagarán los derechos previstos en esta fracción, durante el primer año natural, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 100% del costo de la reparación del aparato.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 En los casos en que el pago de los derechos a que se refiere este artículo se realice en base a consumos cuantificados a través de aparato medidor, mismo que será instalado por la autoridad municipal competente a costa del usuario, éste está obligado a reportar mediante los formatos oficiales, al prestador de servicios que corresponda, los consumos mensuales o bimestrales de agua y efectuar su pago dentro de los primeros diez días siguientes al mes o bimestre que se esté reportando.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Para consumo de agua bajo la modalidad de prepago, el usuario pagará mensualmente los derechos de suministro de agua potable, mediante la aplicación de la tarifa para servicio medido mensual, se trate de uso doméstico o no doméstico, que corresponda al rango de volumen en metros cúbicos adquiridos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 En el supuesto de que el usuario de la modalidad de prepago requiera en el mismo periodo mensual volúmenes adicionales para cubrir su consumo, éstos se acumularán con los anteriormente adquiridos, el volumen resultante se ubicará en el rango de la tarifa de servicio medido que le corresponda, deduciendo al monto determinado, el o los pagos que se hayan efectuado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 El caudal mínimo que los usuarios de esta modalidad de servicio deben pagar al mes no será menor a 7.5 m3, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 130 Bis.
 
-Por el servicio de drenaje y alcantarillado los usuarios conectados a la red municipal de agua pagarán mensual o bimestral o de manera anticipada, según la opción que elijan, siempre y cuando los Municipios por sí o por conducto de los organismos operadores de agua de que se trate, cuenten con los dispositivos y modalidades que para tal fin establezcan o con cargo a tarjeta de crédito otorgada por instituciones bancarias, conforme a lo siguiente:
+Por el servicio de drenaje y alcantarillado los usuarios conectados a la red municipal de agua pagarán mensual o bimestral o de manera anticipada, según la opción que elijan, siempre y cuando los Municipios por sí o por conducto de los organismos operadores de agua de que se trate, cuenten con los dispositivos y modalidades que para tal fin establezcan o con cargo a tarjeta de crédito otorgada por instituciones bancarias, en las oficinas o establecimientos que el propio Ayuntamiento designe, conforme a lo siguiente:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 I. Para uso doméstico:
 
@@ -8956,6 +9266,10 @@ En caso de que el medidor se encuentre descompuesto, el usuario pagará las desc
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 B). Si no existe aparato medidor se pagarán los derechos dentro de los primeros diez días siguientes al mes o bimestre que corresponda pagando el 10% del monto determinado por el servicio de agua potable.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 II. Para uso no doméstico:
 
@@ -9231,21 +9545,21 @@ Los usuarios que se abastezcan de agua de fuente propia o distinta a la red muni
 
 Los adquirentes de lotes no están obligados al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de subdivisiones o conjuntos urbanos de carácter habitacional, industrial, agroindustrial y de abasto, comercio y servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 136.
 
 Por la recepción de los caudales de aguas residuales, provenientes del uso doméstico y no doméstico, para su tratamiento, los municipios o sus organismos prestadores de servicios, cobrarán los siguientes derechos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 I. Una cantidad equivalente al 61% del monto de los derechos por el suministro de agua potable, cuando el municipio o los organismos prestadores de los servicios proporcionen el servicio de tratamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
@@ -9257,7 +9571,7 @@ A) Para uso doméstico:
 
 I. CUOTA FIJA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9265,7 +9579,7 @@ TARIFA
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9273,7 +9587,7 @@ TARIFA
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9281,11 +9595,13 @@ TARIFA
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-B) Para uso no doméstico diferente al industrial:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+B). Para uso no doméstico:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9293,7 +9609,7 @@ B) Para uso no doméstico diferente al industrial:
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9309,19 +9625,19 @@ TARIFA
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 C) (DEROGADO, G.G. 19 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 III. (DEROGADA, G.G. 19 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 IV. (DEROGADA, G.G. 19 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
@@ -9339,7 +9655,7 @@ Los derechos previstos en este artículo se pagarán en el momento en que se pag
 
 Las aguas residuales originadas o derivadas de predios dedicados a actividades industriales, descargadas en los sistemas municipales, deberán cumplir con las normas oficiales mexicanas, las disposiciones jurídicas aplicables y serán sujetos al pago de este derecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9489,11 +9805,13 @@ Los Ayuntamientos, que de conformidad con las características o circunstancias 
 
 Las tarifas que se propongan, en ningún caso podrán ser inferiores a las establecidas en este Código, y deberán atender a los costos directos que implique su prestación, determinados con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria del Estado de México.
 
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 139 Bis.
 
-Por la expedición o renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
+Por la expedición o renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, se pagarán treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -10255,13 +10573,11 @@ A). Por la primera hoja. 0.850
 
 B). Por cada hoja subsecuente. 0.417
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-III. Por la expedición de información por cada
-
-disco flexible. 0.224
+III. Por la expedición de información en medios magnéticos. 0.224
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -11259,11 +11575,11 @@ II. El Secretario de Finanzas;
 
 III. El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-IV. El ayuntamiento y el servidor público que éste designe como titular del área de catastro municipal, quien deberá estar debidamente certificado o certificarse en un plazo máximo de tres meses contados a partir de su designación, ante la Comisión Certificadora de Competencia Laboral de los Servidores Públicos del Estado de México en al menos una de las ocho unidades de competencia laboral que integran a las normas institucionales vigentes en materia de catastro.
+IV. El ayuntamiento y el servidor público que éste designe como titular del área de catastro municipal, quien deberá estar debidamente certificado o certificarse en un plazo máximo de seis meses contados a partir de su designación, ante la Comisión Certificadora de Competencia Laboral de los Servidores Públicos del Estado de México en al menos tres de las ocho unidades de competencia laboral que integran a las normas institucionales vigentes en materia de catastro.
 
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -12573,11 +12889,13 @@ Las aportaciones notificadas a cargo de los beneficiarios, tendrán el carácter
 
 ### CAPITULO SEGUNDO. DE LAS APORTACIONES ESTATALES PARA OBRAS DE IMPACTO VIAL
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 216-A.
 
-Están obligadas al pago de Aportaciones para Obras de Impacto Vial, las personas físicas o jurídicas colectivas, que en términos del Código Administrativo del Estado de México requieran dictamen de impacto regional, en territorio del Estado construyan, amplíen y/o modifiquen el uso o aprovechamiento de bienes inmuebles, con un uso de suelo industrial, comercial o de servicios, o para conjuntos urbanos habitacionales, debidamente autorizados y que regionalmente se vean beneficiados con las obras a que se refiere el artículo 216-H.
+Están obligadas al pago de Aportaciones para Obras de Impacto Vial, las personas físicas o jurídicas colectivas, que en términos del Código Administrativo del Estado de México requieran del dictamen de impacto regional, que en territorio del Estado construyan, amplíen y/o modifiquen el uso o aprovechamiento de bienes inmuebles, con un uso de suelo industrial, comercial, servicios, educación y cultura, servicios para recreación, comunicaciones, conjuntos urbanos y parques industriales, debidamente autorizados y que regionalmente se vean beneficiados con las obras a que se refiere el artículo 216-H.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -12585,23 +12903,27 @@ Están obligadas al pago de Aportaciones para Obras de Impacto Vial, las persona
 
 Para determinar el monto de la aportación para obras de impacto vial que deba cubrir el contribuyente, se multiplicará el número de cajones de estacionamiento requeridos para el inmueble, por el del factor de mitigación de impacto vial y este producto se multiplicará por el factor de uso de suelo.
 
-Sólo para efectos de este capítulo, el número de cajones de estacionamiento requeridos para el inmueble por cada metro cuadrado de construcción o características de uso, se establecerá ubicando el rango correspondiente de la tabla del artículo 216-D, tomando en cuenta el uso general de suelo y el uso específico.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+Solo para efectos de este Capítulo, el número de cajones de estacionamiento requeridos para el inmueble por cada metro cuadrado de construcción, aprovechamiento o características de uso, se establecerá ubicando el rango correspondiente de la tabla del artículo 216-D, tomando en cuenta el uso general de suelo y el uso específico.
 
 El factor de mitigación de impacto vial se aplicará de acuerdo al tipo de vehículo que potencialmente hará uso del inmueble como sigue:
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 TIPO DE VEHÍCULO FACTOR DE MITIGACIÓN DE IMPACTO VIAL
 
-A). Automóvil, camioneta y pickup. $829
+A). Automóvil, camioneta y pickup. $869
 
-B). Autobuses, microbuses y similares hasta con cuatro ejes. $1,171
+B). Autobuses, microbuses y similares hasta con cuatro ejes. $1,227
 
-C). Camiones de carga de dos hasta seis ejes. $1,773
+C). Camiones de carga de dos hasta seis ejes. $1,858
 
-D). Combinación de un tracto-camión con semiremolque y/o remolque. $1,454
+D). Combinación de un tracto-camión con semiremolque y/o remolque. $1,524
 
 El factor de uso de suelo se aplicará ubicando el rango correspondiente de la tabla del artículo 216-D, tomando en cuenta el uso general de suelo, el uso específico de suelo y la zona que corresponda al municipio en que se localice el inmueble.
 
@@ -12623,7 +12945,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 216-D.
 
@@ -12643,19 +12965,19 @@ Tratándose de conjuntos urbanos habitacionales en el Estado, para la determinac
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA SU TARIFA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 TIPO DE VIVIENDA MONTO DE APORTACIÓN POR VIVIENDA
 
-DE INTERÉS SOCIAL $757
+DE INTERÉS SOCIAL $793
 
-POPULAR $1,131
+POPULAR $1,185
 
-MEDIA $12,663
+MEDIA $13,271
 
-RESIDENCIAL $21,053
+RESIDENCIAL $22,064
 
-RESIDENCIAL ALTO Y CAMPESTRE $35,917
+RESIDENCIAL ALTO Y CAMPESTRE $37,641
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -12773,7 +13095,9 @@ III. Las subdivisiones y fusiones de predios sin construcción ni aprovechamient
 
 IV. Los orfanatorios, asilos de ancianos e indigentes y albergues.
 
-V. La extracción de minerales metálicos y no metálicos.
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+
+V. (DEROGADA, G.G. 28 DE NOVIEMBRE DE 2016)
 
 VI. Los inmuebles para captación y distribución de agua, diques, presas, represas, canales, arroyos, ríos, tratamiento, conducción y distribución de agua, operación de plantas potabilizadoras, plantas de tratamiento de aguas negras, lagunas de oxidación, de control y de regulación, zonas de transferencia de basura y rellenos sanitarios, así como estaciones y subestaciones eléctricas.
 
@@ -12869,9 +13193,11 @@ II. Vigilar el cumplimiento de los contratos de adhesión que se suscriban por l
 
 III. Entregar a la Legislatura la información que esta requiera respecto de los ingresos obtenidos por concepto de estas aportaciones, y
 
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV. Vigilar el comportamiento de estas aportaciones de mejoras, su impacto y repercusiones.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+IV. Vigilar el comportamiento de estas aportaciones de mejoras, su impacto y repercusiones, y solicitar las medidas que procedan en caso de que los municipios o sus organismos no realicen en tiempo los depósitos que les corresponda efectuar al Fideicomiso por concepto del pago de aportaciones de mejoras a que se refiere este Capítulo.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
@@ -12903,7 +13229,21 @@ El incentivo previsto en el artículo 216-L, consistirá en un pago anual por ca
 
 El funcionamiento del Comité Técnico del fideicomiso a que se refiere el presente Capítulo, los términos y condiciones del registro a que se refiere el artículo 216-M y el acreditamiento de la calidad, utilidad o destino de las superficies a que se refieren los artículos 216-N y 216-Ñ, deberán preverse en las reglas de operación que al efecto se emitan.
 
-### CAPITULO PRIMERO. DEL SISTEMA DE COORDINACION HACENDARIA DEL ESTADO DE MEXICO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO CUARTO. DE LAS APORTACIONES DE MOVILIDAD SUSTENTABLE
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 216-P.
+
+Los prestadores de servicios electrónicos que a través de contratos electrónicos de transporte privado de personas proporcionen sus servicios, deberán pagar mensualmente una aportación del 1.5 por ciento del cobro por cada viaje realizado, el cual deberá enterarse dentro de los primeros diez días del mes siguiente a aquel en que se causa.
+
+La declaración correspondiente deberá ser presentada conforme a lo establecido en las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas.
 
 ## TITULO SEPTIMO. DE LA COORDINACION HACENDARIA
 
@@ -12911,11 +13251,7 @@ El funcionamiento del Comité Técnico del fideicomiso a que se refiere el prese
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES E INCENTIVOS A LOS MUNICIPIOS DERIVADAS DEL SISTEMA NACIONAL DE COORDINACION FISCAL Y EL DE COORDINACION HACENDARIA DEL ESTADO DE MEXICO
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 18 DE MAYO DE 2012)
+### CAPITULO PRIMERO. DEL SISTEMA DE COORDINACION HACENDARIA DEL ESTADO DE MEXICO
 
 ###### Artículo 217.
 
@@ -12965,9 +13301,11 @@ XII. Las demás no comprendidas en las fracciones anteriores, relacionadas con l
 
 > <small>(REFORMADA SE DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. DE LOS FONDOS DE APORTACIONES FEDERALES, CONVENIOS DE DESCENTRALIZACION Y PROGRAMAS DE APOYOS FEDERALES
+### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES E INCENTIVOS A LOS MUNICIPIOS DERIVADAS DEL SISTEMA NACIONAL DE COORDINACION FISCAL Y EL DE COORDINACION HACENDARIA DEL ESTADO DE MEXICO
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 18 DE MAYO DE 2012)
 
 ###### Artículo 219.
 
@@ -13077,11 +13415,11 @@ Las participaciones a favor de los municipios a que se refiere el inciso C) frac
 
 > <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN SÉPTIMA DE LA G.G. DE 20 DE NOVIEMBRE DE 2014, PÁGINA 36.]</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
-La fórmula anterior no será aplicable en el evento de que en el mes de cálculo el Fondo de Fiscalización y Recaudación sea inferior al observado en el mismo mes del año inmediato anterior. En dicho supuesto la distribución del Fondo de Fiscalización y Recaudación se realizará atendiendo a la recaudación registrada e informada por cada municipio, en el ejercicio fiscal en que entró en vigor la coordinación en materia de derechos entre los gobiernos del Estado y el Federal, por los conceptos que con motivo de dicha coordinación se dejaron de causar y cobrar.
+La fórmula anterior no será aplicable en el evento de que en el mes de cálculo el Fondo de Fiscalización y Recaudación sea inferior al observado en el mismo mes del año inmediato anterior. En dicho supuesto la distribución del Fondo de Fiscalización y Recaudación se realizará considerando el coeficiente efectivo de distribución del Fondo de Fiscalización y Recaudación del año inmediato anterior a aquel en el que se realice el cálculo.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -13151,9 +13489,9 @@ El Estado deberá realizar pagos por cuenta del municipio con cargo a sus partic
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. DEL INSTITUTO HACENDARIO
+### CAPITULO TERCERO. DE LOS FONDOS DE APORTACIONES FEDERALES, CONVENIOS DE DESCENTRALIZACION Y PROGRAMAS DE APOYOS FEDERALES
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 227.
 
@@ -13377,9 +13715,9 @@ Las responsabilidades administrativas, civiles y penales en que incurran las aut
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+### CAPITULO CUARTO. DEL INSTITUTO HACENDARIO
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 245.
 
@@ -13653,19 +13991,21 @@ Los recursos necesarios para el funcionamiento del instituto, serán aportados e
 
 ## TITULO OCTAVO. DE LA DEUDA PUBLICA
 
-### CAPITULO SEGUNDO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 256.
 
 Para los efectos de este Código la deuda pública está constituida por las obligaciones de pasivo directas, indirectas o contingentes, derivadas de financiamientos a cargo de los entes públicos.
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 257.
 
-Se entiende por financiamiento, toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto, mediano o largo plazo, a cargo de los entes públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente.
+Se entiende por financiamiento, toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto, mediano o largo plazo, a cargo de los entes públicos, derivada de un crédito, empréstito o préstamo, los contraídos con proveedores, contratistas y los derivados de las relaciones laborales, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente.
 
 ###### Artículo 258.
 
@@ -14077,7 +14417,7 @@ Para efectos de la emisión de valores, podrán constituirse fideicomisos sobre 
 
 En todo lo referente al manejo, colocación, emisión y operación de los valores, se aplicará la Ley del Mercado de Valores y demás disposiciones legales.
 
-### CAPITULO TERCERO. DE LA INSCRIPCION EN EL REGISTRO DE DEUDA PUBLICA
+### CAPITULO SEGUNDO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2016)</small>
 
@@ -14243,9 +14583,9 @@ Las operaciones de financiamiento y/o reestructuración de créditos celebradas 
 
 Cuando los municipios, los organismos descentralizados, las empresas de participación mayoritaria y los fideicomisos requieran la garantía del Estado, deberán formular solicitud acompañando la información que la Secretaría determine. En este caso la solicitud se hará por acuerdo del ayuntamiento, organismo o fideicomiso, proporcionando el acta certificada de cabildo, el acuerdo del órgano de gobierno o consejo directivo, según sea el caso, en el que se justifique la necesidad del crédito o empréstito.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO TERCERO. DE LA INSCRIPCION EN EL REGISTRO DE DEUDA PUBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 273.
 
@@ -14389,7 +14729,7 @@ Cuando un crédito esté totalmente amortizado se deberá dar de baja en el Regi
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. DE LA INTEGRACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -14535,9 +14875,9 @@ La Legislatura verificara que en el Presupuesto de Egresos, de que se trate, se 
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. DE LA EJECUCION DEL PRESUPUESTO DE EGRESOS
+### CAPITULO SEGUNDO. DE LA INTEGRACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 290.
 
@@ -14855,9 +15195,9 @@ En el Presupuesto de Egresos se deberán considerar las previsiones de gasto nec
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. DEL CONTROL, INFORMACION Y EVALUACION DEL GASTO PUBLICO
+### CAPITULO TERCERO. DE LA EJECUCION DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 305.
 
@@ -15333,7 +15673,9 @@ En el caso de las entidades públicas deberán contar con el previo acuerdo de s
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. DE LA PRESTACION DE LOS SERVICIOS
+### CAPITULO CUARTO. DEL CONTROL, INFORMACION Y EVALUACION DEL GASTO PUBLICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 327.
 
@@ -15463,7 +15805,7 @@ Al efecto, se llevará a cabo la revisión, seguimiento y evaluación del desemp
 
 ## TITULO DECIMO. DE LOS SERVICIOS DE TESORERIA
 
-### CAPITULO SEGUNDO. DE LA RECAUDACION
+### CAPITULO PRIMERO. DE LA PRESTACION DE LOS SERVICIOS
 
 ###### Artículo 328.
 
@@ -15485,7 +15827,7 @@ La Secretaría, la Tesorería o su equivalente tratándose de Entidades Publicas
 
 La Secretaría, y la tesorería, en el ámbito de su competencia, tendrán a su cargo la emisión, distribución y control de las formas numeradas y valoradas que se utilicen para la recaudación de los ingresos públicos y para el pago de las obligaciones a cargo de la hacienda pública, e intervendrán en la destrucción de las referidas formas, cuando así proceda, junto con los materiales empleados en su producción.
 
-### CAPITULO TERCERO. DE LOS PAGOS
+### CAPITULO SEGUNDO. DE LA RECAUDACION
 
 ###### Artículo 331.
 
@@ -15507,7 +15849,7 @@ Los ingresos que perciban las dependencias en términos de la Ley de Ingresos de
 
 Los ingresos que perciban los organismos auxiliares en términos de la Ley de Ingresos del Estado de México serán recaudados por los propios organismos auxiliares en instituciones de crédito de banca múltiple o establecimientos mercantiles autorizados para tal efecto. En caso de que dichos ingresos se encuentren afectados en fideicomiso, las cantidades recaudadas se podrán concentrar con el fiduciario correspondiente mediante el otorgamiento de instrucciones y/o mandatos irrevocables o transferencias a las cuentas del fideicomiso respectivo, entre otros mecanismos que se establezcan para dicho propósito.
 
-### CAPITULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
+### CAPITULO TERCERO. DE LOS PAGOS
 
 ###### Artículo 334.
 
@@ -15573,11 +15915,7 @@ La devolución del pago, se efectuará solamente al titular del mismo, quien deb
 
 ## TITULO DECIMO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL Y LA CUENTA PUBLICA
 
-### CAPITULO SEGUNDO. DE LA CUENTA PUBLICA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+### CAPITULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
 
 ###### Artículo 339.
 
@@ -15793,7 +16131,11 @@ La información financiera se deberá publicar periódicamente por la Secretarí
 
 Los Ayuntamientos al aprobar en forma definitiva su presupuesto de egresos, deberán publicar en la "Gaceta Municipal" de manera clara y entendible, todas y cada una de las partidas que lo integran, las remuneraciones de todo tipo aprobadas para los miembros del ayuntamiento y para los servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, a más tardar el 25 de febrero del año para el cual habrá de aplicar dicho presupuesto.
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+### CAPITULO SEGUNDO. DE LA CUENTA PUBLICA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 352.
 
@@ -15863,7 +16205,7 @@ La Secretaría y las tesorerías, clasificarán cuando sea necesario, la informa
 
 ## TITULO DECIMO SEGUNDO. DE LAS INFRACCIONES, SANCIONES Y DELITOS FISCALES
 
-### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 357.
 
@@ -15925,9 +16267,7 @@ A). En un 20% de su monto, siempre que el infractor pague o devuelva el importe 
 
 B). En un 100% el importe de la multa fijada por la omisión en el pago de contribuciones y aprovechamientos, en los casos de devolución de cheques, siempre que se pague dicha contribución o aprovechamiento y sus accesorios dentro de los cinco días siguientes a la fecha de notificación del requerimiento correspondiente.
 
-### CAPITULO TERCERO. DE LOS DELITOS FISCALES
-
-> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 361.
 
@@ -16026,6 +16366,12 @@ XIX. No presentar el aviso de dictamen correspondiente sobre la determinación d
 > <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 XX. No presentar el dictamen correspondiente sobre la determinación de la base del Impuesto Predial estando obligado a ello o habiendo optado por dictaminarse; presentar dicho dictamen en forma extemporánea a requerimiento de la autoridad fiscal competente, o cuando no obstante su presentación, se haya formulado por un dictaminador impedido en términos del artículo 47 E de este Código, lo cual se sancionará con una multa de ciento cincuenta y hasta trescientos días de salario mínimo general del área geográfica "A".
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXI. Prestar el servicio de traslado de personas a través de contrato electrónico de transporte privado sin licencia de operación estatal vigente o cancelada, y se sancionará con una multa de veinticinco a ciento veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -16181,7 +16527,9 @@ Las autoridades fiscales, deberán publicar en el portal electrónico o en la p�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO TERCERO. DE LOS DELITOS FISCALES
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 365.
 
@@ -18360,3 +18708,21 @@ OCTAVO.- Los ingresos excedentes derivados de ingresos de libre disposición a q
 En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
 
 NOVENO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
+
+G.G. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 162.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y Del CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2017.
+
+TERCERO.- Se autoriza al Ejecutivo del Estado para crear los Fondos, Organismos Auxiliares y Fideicomisos que sean necesarios, a fin de establecer los mecanismos que le permitan la administración, operación, mantenimiento y conexión de los Sistemas de Transporte de la Entidad, así como en su caso la recuperación de la inversión, incluyendo la creación de los fondos de reserva y líneas contingentes que sean necesarias, debiendo informar a la Legislatura de manera trimestral sobre las acciones realizadas para dar cumplimiento a la presente autorización.
+
+CUARTO.- Con la finalidad de facilitar y promover el cumplimiento de obligaciones en materia de seguridad social a cargo de los entes públicos del Estado y los Municipios, se les autoriza a destinar mediante donación y en calidad de pago, los bienes inmuebles que estimen necesarios y convenientes para dicho fin, cumpliendo con los requisitos que la Ley establezca, debiendo informar a la Legislatura de las acciones realizadas para dar cumplimiento a la presente autorización.
+
+QUINTO.- El Fideicomiso para la Promoción Turística previsto en este Decreto, deberá constituirse a más tardar el último día de enero de 2017. Debiendo informar a la Legislatura de manera trimestral de las acciones realizadas para el cumplimiento del presente Decreto.
+
+SEXTO.- Las reglas de operación del Fideicomiso para la Promoción Turística a que se refiere este Decreto se expedirán dentro de los 30 días naturales siguientes a su constitución.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
