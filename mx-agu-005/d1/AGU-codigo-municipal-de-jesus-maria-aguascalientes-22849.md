@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2014-02-24"
+last_updated: "2016-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -84,7 +84,9 @@ El nombre y el Escudo del Municipio son el signo de identidad y símbolo represe
 
 La descripción del escudo del Municipio de Jesús María, las figuras representadas en los diferentes cuadros, son la Tradición, Industria, Ganadería y Agricultura:
 
-1. Tradición: El cuadrante superior izquierdo representa el vestuario tradicional de los hombres que acompañaron a Santo Santiago.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+1. Tradición: El cuadrante superior izquierdo representa el vestuario tradicional de los hombres que acompañaron a Santo Santiago y el arco de cantera, símbolo de Jesús María.
 
 2. Religión: El cuadrante superior derecho representa en sí la religión por medio de la corona de Jesucristo y el estandarte del Santo Santiago, que representa las festividades que se celebran en esta ciudad.
 
@@ -424,7 +426,7 @@ VI. Los responsables de su ejecución;
 
 VII. Los mecanismos de evaluación; y
 
-VII. El subprograma de capacitación.
+VII (SIC). El subprograma de capacitación.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -882,7 +884,7 @@ El Ayuntamiento de Jesús María, para el eficaz desempeño de sus funciones y e
 
 14. Acción Social y Deportes;
 
-15. Relojes y Panteones; y (sic)
+15. Relojes y Panteones; y
 
 > <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -5010,7 +5012,7 @@ Los elementos de tránsito tendrán como atribuciones y obligaciones las siguien
 
 El personal del área operativa es la responsable de que la ciudadanía cuente con una vialidad segura, fluida y silenciosa;
 
-l.- Realizar el servicio ordinario de vigilancia y dirección del tránsito de vehículos y peatones en las vías públicas;
+I.- Realizar el servicio ordinario de vigilancia y dirección del tránsito de vehículos y peatones en las vías públicas;
 
 II.- Efectuar sus servicios en forma extraordinaria, cuando sean solicitados por acontecimientos o eventos especiales;
 
@@ -5068,7 +5070,7 @@ II.- Acercarse con toda propiedad al conductor e identificarse con su credencial
 
 III.- Señalar al conductor el o los artículos infringidos del presente ordenamiento, así como la sanción a la que se ha hecho acreedor;
 
-IV,- Solicitar al conductor que muestre su licencia, tarjeta de circulación en su caso, los permisos que correspondan respecto del tipo de vehículo que conduce;
+IV.- Solicitar al conductor que muestre su licencia, tarjeta de circulación en su caso, los permisos que correspondan respecto del tipo de vehículo que conduce;
 
 V.- Levantar la boleta de infracción y entregar al infractor el ejemplar o ejemplares que correspondan. Anotar las observaciones que el conductor considere hacer constar, y permitir que éste firme la boleta si así lo desea;
 
@@ -5084,7 +5086,7 @@ I.- Cuando las placas del vehículo no coincidan con los números y las letras d
 
 II.- Abandonar el vehículo o convertir la vía pública en pensión;
 
-III,- Cuando el conductor muestre síntomas claros de estado de ebriedad, o bajo el influjo de estupefaciente o aliento alcohólico y éste no reconoce su intoxicación, se procederá a su examen correspondiente.
+III.- Cuando el conductor muestre síntomas claros de estado de ebriedad, o bajo el influjo de estupefaciente o aliento alcohólico y éste no reconoce su intoxicación, se procederá a su examen correspondiente.
 
 En el caso del conductor designado, si su o sus acompañantes alteran el orden público, se procederá a su detención y se notificará a la autoridad correspondiente.
 
@@ -5610,7 +5612,7 @@ La regulación de tránsito en la vía pública se realizará, utilizando ademá
 
 ###### ARTICULO 615.
 
-Quienes ejecuten obras en las vías públicas, deberán fijar dispositivos preventivos de seguridad peatonal y de vehículos, así corno (sic) de los necesarios para el control de tránsito en el lugar de la obra, así como en una zona de influencia, la que nunca será menor a 50 metros, de acuerdo a la magnitud de la obra.
+Quienes ejecuten obras en las vías públicas, deberán fijar dispositivos preventivos de seguridad peatonal y de vehículos, así como de los necesarios para el control de tránsito en el lugar de la obra, así como en una zona de influencia, la que nunca será menor a 50 metros, de acuerdo a la magnitud de la obra.
 
 ###### ARTICULO 616.
 
@@ -5760,7 +5762,7 @@ De los Accidentes de Tránsito
 
 La Dirección de Tránsito Municipal a través de este Reglamento, ha definido, cómo deberán proceder los conductores de vehículos y peatones involucrados en accidentes de tránsito, en el que resulten personas lesionadas o fallecidas, sino resultan ellos mismos lesionados de gravedad;
 
-l.- Permanecer en el lugar del accidente, cuando no exista causa justificada para retirarse;
+I.- Permanecer en el lugar del accidente, cuando no exista causa justificada para retirarse;
 
 II.- Prestar o facilitar la asistencia al lesionado o lesionados;
 
@@ -5892,7 +5894,7 @@ II.- Esté expuesta en la parte posterior por más de metro y medio sin protecci
 
 III.- Represente un peligro a conductores y peatones y que esté siendo arrastrada sobre la vía pública;
 
-IV- Dificulte la visibilidad del conductor y desestabilice el vehículo o entorpezca la conducción del mismo;
+IV.- Dificulte la visibilidad del conductor y desestabilice el vehículo o entorpezca la conducción del mismo;
 
 V.- Impida la proyección de las luces del vehículo, oculte los espejos laterales o sus placas de circulación;
 
@@ -14725,3 +14727,11 @@ Primero.- …
 Segundo.- Cuando en el presente Código se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que se forma, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
 
 Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “INICIATIVA DE MODIFICACIÓN DEL ESCUDO Y REFORMA DEL NUMERAL 1, DEL ARTÍCULO 6° DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
