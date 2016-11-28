@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2016-06-01"
+last_updated: "2016-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2016.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -101,6 +101,10 @@ IV bis 1.- La salud visual;
 > <small>(REFORMADA [N DE E. ANTES FRACCIÓN VI], D.O.F. 10 DE JUNIO DE 2011)</small>
 
 IV bis 2.- La salud auditiva;
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2016)</small>
+
+IV Bis 3.- Salud bucodental;
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -428,9 +432,9 @@ X.- Las demás que sean necesarias para hacer efectivas las facultades anteriore
 
 B. Corresponde a los gobiernos de las entidades federativas, en materia de salubridad general, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2016)</small>
 
-I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, II Bis, IV, IV Bis, IV Bis 1, IV Bis 2, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXVI Bis y XXVII Bis, del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
+I. Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, II Bis, IV, IV Bis, IV Bis 1, IV Bis 2, IV Bis 3, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXVI Bis y XXVII Bis, del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
 
 II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
 
@@ -8597,3 +8601,9 @@ D.O.F. 1 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 32 DE LA LEY GENERAL DE SALUD”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I, APARTADO B DEL ARTÍCULO 13 Y SE ADICIONA UNA FRACCIÓN IV BIS 3 AL ARTÍCULO 3o. DE LA LEY GENERAL DE SALUD”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
