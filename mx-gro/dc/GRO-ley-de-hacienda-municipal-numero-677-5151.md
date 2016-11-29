@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2011-12-30"
+last_updated: "2016-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-LEY DE HACIENDA MUNICIPAL NUMERO 677
+LEY DE HACIENDA MUNICIPAL NÚMERO 677
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -211,7 +211,7 @@ b) Cuando, las autoridades Municipales, practiquen avalúo o reavalúo catastral
 
 c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 9o.
 
@@ -259,11 +259,9 @@ VIII.- Los predios edificados propiedad de pensionados y jubilados de nacionalid
 
 En las mismas condiciones gozarán de este beneficio las personas mayores de 60 años inscritas en el Instituto Nacional de la Senectud, madres jefas de familia, padres solteros y personas con capacidades diferentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-(DEROGADO TERCER PARRAFO, P.O 29 DE DICIEMBRE DE 2009).
-
-En ningún caso la contribución a pagar será menor de un día de salario mínimo vigente con que se inicie el ejercicio fiscal en cualquiera de los Municipios del Estado de Guerrero.
+En ningún caso la contribución a pagar será menor de un día del valor de la Unidad de Medida y Actualización vigente con que se inicie el ejercicio fiscal en cualquiera de los Municipios del Estado de Guerrero.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -313,11 +311,11 @@ e) Para el quinto, el 30% del valor catastral actual determinado.
 
 El pago del impuesto deberá hacerse en las Tesorerías Municipales o Delegaciones autorizadas al efecto.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-El impuesto predial podrá pagarse por bimestres adelantados dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto, cuyas bases de tributación sean superiores a 1000 salarios mínimos vigentes en el Municipio.
+El impuesto predial podrá pagarse por bimestres adelantados dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto, cuyas bases de tributación sean superiores a 1000 veces al valor diario de la Unidad de Medida y Actualización vigentes (sic).
 
 ###### ARTICULO 18.
 
@@ -329,11 +327,11 @@ El hecho de ser aceptado el pago anual anticipado no impide el cobro de diferenc
 
 El pago anticipado de una anualidad, deberá hacerse durante los dos primeros meses del ejercicio fiscal correspondiente y gozará del descuento que establezca la Ley de Ingresos de los Municipios.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 20.
 
-Los contribuyentes cuyos predios tengan asignado un valor catastrado o no catastrado hasta mil salarios mínimos vigentes en el Municipio, pagarán el impuesto anual en una sola exhibición durante los dos primeros meses de cada año.
+Los contribuyentes cuyos predios tengan asignado un valor catastrado o no catastrado hasta mil veces al valor diario de la Unidad de Medida y Actualización, pagarán el impuesto anual en una sola exhibición durante los dos primeros meses de cada año.
 
 ###### ARTICULO 21.
 
@@ -485,7 +483,7 @@ I.- Tratándose de bienes inmuebles:
 
 a) El valor más alto que resulte de considerar entre el avalúo catastral, el avalúo con fines fiscales elaborado por peritos valuadores, autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado y el valor de operación.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
 a) BIS. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2004)
 
@@ -505,9 +503,9 @@ f) En los casos de prescripción positiva, será el valor más alto que resulte 
 
 II.- En caso de reducción de capital, disolución o liquidación de las Sociedades a que se refiere el artículo 1o. de la Ley General de Sociedades Mercantiles, el impuesto gravitará sobre el exceso de los bienes inmuebles distintos a los aportados o sobre el exceso de la aportación si el pago se hace en numerario.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -695,9 +693,13 @@ V.- Hasta el 7.5% sobre el boletaje vendido para juegos recreativos;
 
 VI.- Hasta el 7.5% sobre el boletaje vendido para bailes eventuales de especulación, si se cobra la entrada;
 
-VII.- Por evento hasta siete salarios mínimos para bailes eventuales de especulación, sin cobro de entrada;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-VIII.- Por evento hasta cuatro salarios mínimos, para bailes particulares no especulativos, cuando se desarrollen en algún espacio público;
+VII.- Por evento hasta siete veces al valor diario de la Unidad de Medida y Actualización para bailes eventuales de especulación, sin cobro de entrada;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+VIII.- Por evento hasta cuatro veces al valor diario de la Unidad de Medida y Actualización, para bailes particulares no especulativos, cuando se desarrollen en algún espacio público;
 
 IX.- Hasta el 17.5% sobre el boletaje vendido para excursiones y paseos terrestres o marítimos; y
 
@@ -705,11 +707,17 @@ X.- Hasta el 7.5% sobre el boletaje vendido para otras diversiones o espectácul
 
 Los establecimientos o locales comerciales que, independientemente de su giro, se dediquen de manera habitual o permanente a la explotación de diversiones o juegos de entretenimiento, cubrirán el importe de acuerdo a lo siguiente:
 
-I.- Hasta cinco salarios mínimos para las máquinas de video-juegos, por unidad y anualidad;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-II.- Hasta tres salarios mínimos para los juegos mecánicos para niños, por unidad y anualidad; y
+I.- Hasta cinco veces al valor diario de la Unidad de Medida y Actualización para las máquinas de video-juegos, por unidad y anualidad;
 
-III.- Hasta dos salarios mínimos para las máquinas de golosinas o futbolitos por unidad y anualidad.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+II.- Hasta tres veces al valor diario de la Unidad de Medida y Actualización para los juegos mecánicos para niños, por unidad y anualidad; y
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+III.- Hasta dos veces al valor diario de la Unidad de Medida y Actualización para las máquinas de golosinas o futbolitos por unidad y anualidad.
 
 ###### ARTICULO 43.
 
@@ -721,7 +729,7 @@ III.- Hasta dos salarios mínimos para las máquinas de golosinas o futbolitos p
 
 Los contribuyentes de este impuesto que de manera normal o permanente exploten este género de actividades, están obligados a empadronarse dentro de los treinta días siguientes a la fecha de iniciación de sus operaciones. La solicitud de empadronamiento deberá presentarse ante la Tesorería Municipal correspondiente, utilizando las formas oficiales aprobadas al efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 45.
 
@@ -813,7 +821,7 @@ Con el fin de mantener, conservar y ampliar las redes de abastecimiento de agua 
 
 Sobre el pago de impuestos y derechos, se cobrará adicionalmente un 15% por concepto de contribución estatal, excepto lo referente a predial, adquisición de inmuebles, servicios catastrales, tránsito y agua potable.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
 #### SECCION QUINTA. De Peritos Valuadores
 
@@ -891,7 +899,7 @@ El pago de los derechos de cooperación se hará a través de las Tesorerías Mu
 
 Los adquirientes de predios afectos al pago de derechos de cooperación que se establece en este capítulo, son solidariamente responsables del pago de los mismos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION TERCERA. Por Servicio de Alumbrado Público
 
@@ -1191,11 +1199,9 @@ La ubicación, en la clasificación presentada, de los diferentes tipos de casas
 
 ###### ARTICULO 62-C.
 
-Los ayuntamientos deberán publicar, durante el primer bimestre del ejercicio fiscal, la Constante Igualitaria que deberá ser multiplicada por el factor de proporcionalidad para la determinación del monto de la contribución por concepto del derecho "Por Servicio de Alumbrado Público". Los Ayuntamientos, durante el primer bimestre del ejercicio fiscal, en sesión de cabildo, deberán aprobar el factor de proporcionalidad, dentro de los rangos establecidos en el artículo 62-B de esta misma Ley, que será aplicable, durante el ejercicio fiscal vigente, a cada concepto. El factor
+Los ayuntamientos deberán publicar, durante el primer bimestre del ejercicio fiscal, la Constante Igualitaria que deberá ser multiplicada por el factor de proporcionalidad para la determinación del monto de la contribución por concepto del derecho "Por Servicio de Alumbrado Público". Los Ayuntamientos, durante el primer bimestre del ejercicio fiscal, en sesión de cabildo, deberán aprobar el factor de proporcionalidad, dentro de los rangos establecidos en el artículo 62-B de esta misma Ley, que será aplicable, durante el ejercicio fiscal vigente, a cada concepto. El factor de proporcionalidad que se determine, deberá ser publicado en todo el Municipio.
 
-de proporcionalidad que se determine, deberá ser publicado en todo el Municipio
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION CUARTA. Del Comercio Ambulante
 
@@ -1311,7 +1317,7 @@ DISPOSICIONES GENERALES
 
 BIS.- Contribuciones Especiales son las prestaciones establecidas en la Ley a cargo de las personas que obtengan un beneficio directo o derivado de la ejecución de obras públicas o de otras actividades regulares, continuas y uniformes desarrolladas para su satisfacción de las necesidades públicas municipales.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 #### SECCIÓN PRIMERA. De la Instalación, Mantenimiento y Conservación del Alumbrado Público
 
@@ -1471,7 +1477,7 @@ Los Municipios del Estado, tendrán derecho a participar del rendimiento de impu
 
 #### SECCION UNICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 69.
 
@@ -1501,7 +1507,7 @@ VII. Otros ingresos extraordinarios de carácter eventual, tales como bienes vac
 
 ## TITULO SEGUNDO. Disposiciones suspendidas en tanto el Estado de Guerrero permanezca coordinado con la Federación en materia del impuesto al valor agregado
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del comercio ambulante
 
@@ -1738,3 +1744,13 @@ P.O. 30 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de enero del año dos mil doce.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE GUERRERO NÚMERO 428 Y DE LA LEY DE HACIENDA MUNICIPAL NÚMERO 677”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en el portal electrónico del Poder Legislativo del Estado y en dos diarios de mayor circulación en el Estado para su conocimiento general.
