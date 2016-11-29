@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comisiones-del-consejo-general-del-instituto-1090
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-07-16"
-last_updated: "2015-07-16"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-06-06"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 16 de julio de 2015.
 
@@ -163,6 +163,10 @@ c) Su objeto específico y, en su caso, las actividades a realizar; y
 
 d) Los plazos o condiciones para dar por terminado el asunto, así como la obligación de su Presidente de informar al Consejo cuando se actualice este supuesto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+Con base en el resultado de los informes presentados, el Consejo podrá prorrogar su vigencia para que se cumpla con los objetivos para los que fue creada.
+
 ###### ARTÍCULO 7.
 
 Atribuciones de las Comisiones Permanentes.
@@ -207,7 +211,9 @@ Obligaciones de las Comisiones.
 
 a) Un Programa Anual de Trabajo acorde a los programas y políticas previamente establecidos; y
 
-b) El Informe Anual de Actividades del ejercicio anterior, en el que se precisen las tareas desarrolladas, su vinculación con las metas programadas, un reporte de asistencia a las sesiones y demás consideraciones que se estimen convenientes. Asimismo, el Informe Anual de Actividades deberá contener un anexo con la lista de todos los dictámenes, Proyectos de Acuerdo y de Resolución e informes votados, la fecha de la sesión, la votación y comentarios adicionales.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+b) El Informe Anual de Actividades del ejercicio anterior, en el que se precisen las tareas desarrolladas, su vinculación con las metas programadas, un reporte de asistencia a las sesiones y demás consideraciones que se estimen convenientes. Asimismo, el Informe Anual de Actividades deberá contener un anexo con la lista de todos los dictámenes, Proyectos de Acuerdo y de Resolución e informes votados, la fecha de la sesión, la votación y comentarios adicionales. Lo anterior con independencia de que al término de cada ciclo de presidencia, el presidente de la Comisión que corresponda, podrá informar al seno de dicha comisión sobre los trabajos desempeñados en ella.
 
 2. Tanto las Comisiones Permanentes como las Temporales, en todos los asuntos que les sean encomendados, deberán presentar al Consejo un informe, Dictamen o Proyecto de Acuerdo o Resolución, según el caso, dentro del plazo que determine la Ley o en el que haya sido fijado por el propio órgano máximo de dirección.
 
@@ -239,11 +245,19 @@ Integración de las Comisiones.
 
 Procedimiento de rotación de la Presidencia.
 
-1. En todas las Comisiones, el periodo de la Presidencia durará un año, contado a partir del día de la designación.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+1. En todas las Comisiones permanentes, el periodo de la Presidencia durará un año, contado a partir del día de la designación.
 
 2. A la conclusión de dicho periodo, los integrantes de la Comisión correspondiente, en la siguiente sesión que celebren, designarán de común acuerdo al Consejero que asumirá las funciones de Presidente, respetando las reglas de rotación entre todos sus integrantes. Dicha designación deberá ser ratificada por el Consejo.
 
-3. En todas las Comisiones, en caso de que el ausente a que se refiere el numeral 10 del artículo 10 del presente Reglamento fuera el Presidente, se convocará a sesión en términos de lo dispuesto en el artículo 17, numeral 3, inciso c) de este Reglamento, para que sus integrantes designen de común acuerdo al Consejero que la presidirá. Dicha designación deberá ser ratificada por el Consejo mediante el Acuerdo correspondiente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+3. La elección de integrantes y la rotación de presidencias se deberá llevar a cabo, en la primera semana del mes de septiembre.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+4. En todas las Comisiones, en caso de que el ausente a que se refiere el numeral 10 del artículo 10 del presente Reglamento fuera el Presidente, se convocará a sesión en términos de lo dispuesto en el artículo 17, numeral 3, inciso c) de este Reglamento, para que sus integrantes designen de común acuerdo al Consejero que la presidirá para concluir el periodo. Dicha designación deberá ser ratificada por el Consejo mediante el Acuerdo correspondiente.
 
 ###### ARTÍCULO 12.
 
@@ -427,9 +441,15 @@ Asistencia a Comisiones.
 
 ###### ARTÍCULO 17.
 
-Convocatoria.
+> <small>(REFORMADO SU ACÁPITE, D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+De la convocatoria y horarios de las Comisiones
 
 1. La convocatoria deberá realizarse por escrito, cuando menos con cinco días hábiles de anticipación a su celebración, en caso de ser ordinaria, y cuando menos con dos días hábiles de anticipación a su celebración, en caso de ser extraordinaria. Deberá contener el día, hora y lugar en el que la sesión deba celebrarse, la mención de ser ordinaria o extraordinaria y, en su caso, el carácter público o privado de la misma, así como el proyecto del orden del día a tratar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+Las comisiones deberán convocarse preferentemente para dar inicio entre las 9:00 y las 16:30 horas.
 
 2. Previo a la emisión de la convocatoria respectiva, el Presidente procurará cerciorarse de que los Consejeros que integren la Comisión de que se trate no se encuentren comprometidos en otros encargos o Comisiones institucionales que les impida su participación, salvo lo dispuesto por los artículos 15, numerales 6 y 7 de este Reglamento.
 
@@ -668,3 +688,25 @@ D.O.F. 16 DE JULIO DE 2015.
 ÚNICO.- La implementación de las transmisiones se iniciará con la infraestructura actualmente instalada en el instituto, de manera que, cuando por la simultaneidad no sea posible que todas las sesiones que se transmitan en tiempo real, se pondrán a disposición en el portal de Internet del Instituto en el orden en que se encuentren programadas originalmente, tan pronto sea posible.
 
 Asimismo, se instruye al Secretario Ejecutivo para que se realicen las acciones necesarias a fin de presentar en la próxima sesión ordinaria de Consejo General un informe sobre el estado que guarda la infraestructura con que cuenta el Instituto Nacional Electoral para llevar a cabo la implementación del presente Acuerdo y, en su caso, el estudio que refleje la necesidad de inversión, el cual debe incluir una propuesta de cronograma para la instrumentación de las transmisiones en tiempo real. En ese supuesto, se privilegiará la transmisión en tiempo real de las sesiones en las que no participan los Consejeros del Poder Legislativo y los Representantes de los Partidos Políticos Nacionales.
+
+D.O.F. 29 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN EL PUNTO CUARTO Y QUINTO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICAN LOS REGLAMENTOS INTERIOR Y DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+CUARTO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+QUINTO. Publíquese en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto Nacional Electoral.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICAN LOS REGLAMENTOS INTERIOR Y DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL”.]
+
+PRIMERO. Las actuales presidencias de todas las comisiones y su integración se extenderán a efecto de que su renovación se lleve a cabo durante la primera semana del mes de septiembre del año en curso y ajustarlo así con el inicio del Proceso Electoral correspondiente.
+
+SEGUNDO. Para la realización de las presentes disposiciones contenidas en la modificación del artículo 17 del Reglamento de Comisiones del Consejo General, el Secretario Ejecutivo, a través de la Unidad Técnica de Servicios de Informática y de la Dirección del Secretariado, acordará el diseño, instrumentalización y funcionamiento de un mecanismo informático que permita la organización, control y agenda de las convocatorias de las Comisiones.
+
+[…]
+
+Los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/ 2016/06_Junio/CGex201606-15/CGex201606-15_ap_4_voto.pdf
+
+http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/ 2016/06_Junio/CGex201606-15/CGex201606-15_ap_4_votos.pdf
