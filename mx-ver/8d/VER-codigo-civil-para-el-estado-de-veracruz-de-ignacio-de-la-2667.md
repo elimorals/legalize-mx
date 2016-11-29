@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2016-03-30"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -2055,13 +2055,19 @@ En caso de separación de quienes ejercen la patria potestad, ambos deberán con
 
 En este supuesto, con base en el interés superior del menor, éste quedará bajo el cuidado y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o la resolución judicial.
 
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+A la conducta que uno o ambos padres, en proceso de separación o separados, ejerza sobre sus hijas e hijos, con el objeto de obstaculizar o destruir sus vínculos con alguno de ellos, se le llamará manipulación y aleccionamiento parental; derivadas de la utilización de las y los menores en el conflicto parental.
+
 > <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
 ARTICULO 346
 
 Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen derecho de convivencia con sus descendientes, salvo que, por ésta, exista peligro para éstos.
 
-No podrán impedirse sin justa causa las relaciones personales entre el menor y sus parientes. En caso de oposición, a solicitud de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitase, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+No podrán impedirse sin justa causa las relaciones personales entre el menor y sus parientes. En caso de oposición, a solicitud de cualquiera de ellos, el juez resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial. Asimismo, podrá suspenderse la guarda y custodia, en caso de acreditarse la manipulación y aleccionamiento parental previsto en el artículo 345 del presente Código.
 
 > <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
@@ -16394,3 +16400,9 @@ G.O. 30 DE MARZO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 923 QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 345 Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 346 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ADICIONA TRES PÁRRAFOS AL ARTÍCULO 218 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA LA FRACCIÓN V, Y RECORRE LAS FRACCIONES SUBSECUENTES, DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
