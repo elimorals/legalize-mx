@@ -4,7 +4,7 @@ identifier: "MIC-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9327
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2013-03-12"
+last_updated: "2016-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el martes 12 de marzo de 2013.
 
@@ -137,6 +137,10 @@ X. Cultura Ambiental: El conjunto de conocimientos, hábitos y actitudes, que mu
 
 XI. Daño Ambiental: La alteración relevante que modifique negativamente el medio ambiente, sus recursos, el equilibrio de los ecosistemas, la salud humana o los bienes o valores ambientales colectivos;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+XI Bis. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+
 XII. Diversidad Biológica: La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y los ecosistemas;
 
 XIII. Ecología: La ciencia que estudia las relaciones existentes entre los seres vivos y el ambiente;
@@ -235,7 +239,9 @@ Estado;
 
 c) La participación en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil del Estado; y,
 
-d) El diseño e implementación de la Estrategia Estatal de Sustentabilidad Ambiental y Cambio Climático, como el instrumento marco para definir las acciones de mitigación y de adaptación al cambio climático en el largo plazo.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+d) El diseño e implementación de la Estrategia Estatal del Desarrollo Sustentable Ambiental, como el instrumento marco para definir las acciones mediante el uso racional y eficiente de los recursos naturales, así como de preservación del equilibrio ecológico.
 
 III. Promover el establecimiento de instrumentos económicos en materia ambiental, así como el otorgamiento de estímulos fiscales, crediticios o financieros, para incentivar las actividades relacionadas con la protección al ambiente, la prevención de la contaminación y el aprovechamiento sustentable de los recursos naturales;
 
@@ -323,6 +329,10 @@ XXXII. Promover la constitución de bancos y reservas de germoplasma, para el re
 
 XXXIII. Promover el cumplimiento de la normatividad ambiental ante las dependencias federales, estatales y municipales que corresponda, conforme a los respectivos ámbitos de aplicación de la legislación ambiental vigente; y,
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+XXXIII Bis. Proponer al Titular del Poder Ejecutivo del Estado, las políticas de desarrollo sustentable que tengan por objeto fomentar la preservación del equilibrio ecológico, la protección del ambiente y el aprovechamiento de los recursos naturales; y,
+
 XXXIV. Las demás que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
 
 ###### ARTÍCULO 9°.
@@ -331,9 +341,11 @@ Además de las facultades establecidas en el artículo anterior, la Secretaría 
 
 Asimismo, deberá informar y fomentar la educación de los habitantes del Estado de Michoacán, sobre el impacto negativo que producen los plásticos en el medio ambiente.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 10.
 
-La Secretaría asesorará a los ayuntamientos en la formulación y aplicación de las disposiciones conducentes a que los servicios públicos que presta a la comunidad, se enfoquen a la protección del medio ambiente.
+La Secretaría asesorará a los ayuntamientos en la formulación y aplicación de las disposiciones conducentes a que los servicios públicos que presta a la comunidad, se enfoquen al desarrollo sustentable y protección al medio ambiente.
 
 ###### ARTÍCULO 11.
 
@@ -455,7 +467,13 @@ XXVII. Atender y resolver las denuncias ciudadanas, presentadas conforme a lo di
 
 XXVIII. Expedir los reglamentos y demás disposiciones administrativas requeridas para coadyuvar con el cumplimiento de la presente Ley;
 
-XXIX. Crear y administrar zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por la legislación local; y,
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+XXIX. Crear y administrar zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por la legislación local;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+XXIX Bis. Promover el Desarrollo Sustentable para la preservación del equilibrio ecológico, la protección del medio ambiente y el aprovechamiento de los recursos naturales; y,
 
 XXX. Las demás que establezcan otras disposiciones aplicables.
 
@@ -471,7 +489,9 @@ Para la formulación, evaluación y ejecución de la política ambiental estatal
 
 I. Los ecosistemas son patrimonio común de la sociedad, y de su preservación depende que se asegure la calidad de vida acorde con las posibilidades productivas del país y del Estado;
 
-II. Los recursos naturales deben ser aprovechados de manera que se asegure una productividad óptima y sostenida, sin poner en riesgo los ecosistemas;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+II. Los recursos naturales deben ser aprovechados de manera que se asegure una productividad óptima y sostenida, sin poner en riesgo el futuro de los ecosistemas;
 
 III. La preservación de los procesos que hacen posible la prestación de servicios ambientales es una prioridad en el Estado, para lo cual deben considerarse en el diseño y aplicación de los programas que al efecto se integren, estímulos económicos y fiscales en favor de los propietarios o legítimos poseedores de los territorios donde estos se generan;
 
@@ -503,7 +523,9 @@ Los ayuntamientos, en el ámbito de su competencia, observarán y aplicarán los
 
 Para la prevención de los daños al ambiente, la conservación del patrimonio natural y el control de la contaminación, la sociedad y las autoridades del Estado de Michoacán de Ocampo dispondrán de los siguientes instrumentos de política ambiental:
 
-I. El Programa Estatal Ambiental;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+I. El Programa Estatal Ambiental para el Desarrollo Sustentable;
 
 II. La Caracterización de los Hábitats Naturales;
 
@@ -531,7 +553,9 @@ XIII. El Fondo Ambiental.
 
 ## TÍTULO SEGUNDO. DE LA PREVENCIÓN DEL DAÑO AMBIENTAL
 
-### Capítulo I. Del Programa Estatal Ambiental
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+### Capítulo I. Del Programa Estatal Ambiental para el Desarrollo Sustentable
 
 ###### ARTÍCULO 20.
 
@@ -2150,3 +2174,11 @@ ATENTAMENTE.- <<SUFRAGIO EFECTIVO. NO REELECCIÓ (SIC)>>.-PRESIDENTE DE LAMESADI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de febrero del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONALDELESTADO (SIC).- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 190.- SE REFORMA LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Único. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
