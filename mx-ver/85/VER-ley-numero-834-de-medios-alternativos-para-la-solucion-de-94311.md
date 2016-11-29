@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-834-de-medios-alternativos-para-la-solucion-de-94311
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-10"
-last_updated: "2013-05-10"
+last_updated: "2016-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 834 DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 10 de mayo de 2013.
 
@@ -119,9 +119,13 @@ III. Penal y de justicia para adolescentes, en las que tendrán efectos de acuer
 
 IV. De menores o incapaces, en las que los derechos y obligaciones pecuniarias podrán someterse a los medios alternativos por conducto de quienes ejerzan la patria potestad, la tutela o la curatela. La autoridad jurisdiccional dará vista al Ministerio Público con el convenio que resulte del procedimiento y procederá a su ejecución;
 
-V. Indígena, en la que los agentes municipales o jueces auxiliares nombrados por la comunidad colaborarán para la aplicación de los medios alternativos, procurando que en la solución de los conflictos se apliquen sus usos y costumbres. En caso de ser necesario, se utilizará la ayuda de un traductor proporcionado por el Estado; y
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-VI. En cualquiera otra, cuando lo soliciten las partes y siempre que el objeto no sea contrario a la moral ni a las buenas costumbres.
+V. De manipulación y aleccionamiento parental.
+
+VI. Indígena, en la que los agentes municipales o jueces auxiliares nombrados por la comunidad colaborarán para la aplicación de los medios alternativos, procurando que en la solución de los conflictos se apliquen sus usos y costumbres. En caso de ser necesario, se utilizará la ayuda de un traductor proporcionado por el Estado; y
+
+VII. En cualquiera otra, cuando lo soliciten las partes y siempre que el objeto no sea contrario a la moral ni a las buenas costumbres.
 
 ###### Artículo 7.
 
@@ -546,3 +550,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 923 QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 345 Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 346 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ADICIONA TRES PÁRRAFOS AL ARTÍCULO 218 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA LA FRACCIÓN V, Y RECORRE LAS FRACCIONES SUBSECUENTES, DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
