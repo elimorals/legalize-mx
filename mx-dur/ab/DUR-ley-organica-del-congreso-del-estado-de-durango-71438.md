@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2015-07-12"
+last_updated: "2016-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -961,9 +961,11 @@ I. Presidir las sesiones;
 
 II. Abrir, suspender y clausurar las sesiones, así como citar a los diputados, cuando fuere necesario;
 
-III.- Declarar el quórum legal y la falta de éste;
+III. Declarar el quórum legal y la falta de éste;
 
-IV. Someter a discusión los dictámenes que presenten las comisiones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+IV. Someter a discusión los dictámenes que presenten las comisiones, y en su caso emitir la declaratoria de lectura de los dictámenes de cuentas públicas, leyes de ingresos de los municipios, ley de ingresos del Estado y ley de egresos del Estado, sometiéndolos a discusión y votación en los términos de los artículos 186, 187, 188 y 189 de esta Ley, esta declaratoria surtirá efectos de lectura;
 
 V. Conducir los debates y las deliberaciones;
 
@@ -2218,6 +2220,10 @@ II. Las reformas, adiciones o derogaciones a la Constitución Política de los E
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2015)</small>
 
 La discusión y votación de los dictámenes relativos a la Constitución Política de los Estados Unidos Mexicanos se desarrollaran conforme a lo establecido en esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+Los dictámenes relativos a cuentas públicas, leyes de ingresos de los municipios, ley de ingresos del Estado y ley de egresos del Estado serán objeto de la declaratoria de lectura la cual surtirá efectos que señala esta ley.
 
 ### CAPÍTULO II. DE LAS INICIATIVAS
 
@@ -3716,5 +3722,13 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan a lo establecido po
 P.O. 12 DE JULIO DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 22.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 76 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTICULO 169 AMBOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
