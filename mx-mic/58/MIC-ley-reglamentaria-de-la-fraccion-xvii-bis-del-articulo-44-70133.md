@@ -4,7 +4,7 @@ identifier: "MIC-ley-reglamentaria-de-la-fraccion-xvii-bis-del-articulo-44-70133
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2011-05-24"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY REGLAMENTARIA DE LA FRACCION XVII BIS, DEL ARTICULO 44 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-LEY REGLAMENTARIA DE LA FRACCION XVII BIS, DEL ARTICULO 44 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
+LEY REGLAMENTARIA DE LA FRACCIÓN XVII BIS, DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 9 de septiembre de 2009.
 
@@ -65,7 +65,7 @@ Para los efectos de esta Ley se entenderá por:
 
 Ataque terrorista: Acción de violencia ejecutada en las personas o en las cosas, mediante: la utilización de explosivos, sustancias tóxicas, armas de fuego, incendio o cualquier otro medio violento, tendiente a producir en la población o sector de ella, el terror generalizado para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la misma para que tome una determinación.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 24 DE MAYO DE 2011)</small>
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
@@ -73,7 +73,7 @@ Ataque terrorista: Acción de violencia ejecutada en las personas o en las cosas
 
 Los michoacanos o avecindados en el Estado, conforme a lo establecido en el artículo 5° de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, afectados por un ataque terrorista en la Entidad, podrán solicitar las pensiones a las que se refiere la presente Ley, así como los premiados y recompensados que presten un servicio eminente al Estado o a la República, siempre que se encuentren ellos o sus familiares directos en precarias condiciones económicas y que no sean servidores públicos o trabajadores con derecho a algún tipo de indemnización o prestación económica en materia de seguridad social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -171,9 +171,11 @@ Cuando el daño físico sufrido cause la muerte, la pensión se otorgará bajo l
 
 Una vez aprobada la pensión por el Congreso del Estado, el Gobernador del Estado proveerá lo necesario para que la misma sea cubierta en los términos del Decreto correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 13.
 
-Anualmente, la Comisión de Programación, Presupuesto y Cuenta Pública revisará las pensiones aprobadas por el Congreso para la previsión presupuestal respecto a su refrendo o revocación, tomando en cuenta el Decreto y las condiciones actuales del beneficiario, así como las de sus dependientes.
+Anualmente, la Comisión de Programación, Presupuesto y Cuenta Pública revisará las pensiones aprobadas por el Congreso para la previsión presupuestal respecto a su refrendo, modificación o revocación, tomando en cuenta el Decreto y las condiciones actuales del beneficiario, así como las de sus dependientes. De igual forma cuando se trate de víctimas se considerará el dictamen emitido por la Comisión Ejecutiva Estatal de Atención a Víctimas de manera conjunta con el Ejecutivo del Estado, para efecto de aumentar, disminuir o extinguir las pensiones otorgadas.
 
 ###### Artículo 14.
 
@@ -203,9 +205,11 @@ VII. Los demás elementos que las Comisiones de Dictamen estimen pertinentes.
 
 Para que el Congreso del Estado conceda pensión, bajo cualquier modalidad, se requiere la aprobación de las dos terceras partes de los diputados presentes.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 17.
 
-El monto de las pensiones aprobado por el Congreso del Estado, se incrementará en la fecha y proporción en que aumente el salario mínimo general vigente en el Estado.
+El monto de las pensiones aprobado por el Congreso del Estado, se incrementará en la fecha y proporción en que aumente el salario mínimo general vigente en el Estado. Lo anterior sin perjuicio del incremento que se realice en los términos del artículo 21 de esta Ley.
 
 ###### Artículo 18.
 
@@ -215,7 +219,7 @@ Las pensiones reguladas en esta Ley tendrán carácter subsidiario respecto a la
 
 El Congreso del Estado no concederá pensión bajo ninguna modalidad, en los casos siguientes:
 
-I. Cuando el daño físico sufrido provenga de un acto intencional del solicitante; y, (sic)
+I. Cuando el daño físico sufrido provenga de un acto intencional del solicitante; y,
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
 
@@ -230,6 +234,14 @@ III. Los michoacanos o avecindados en el Estado que tengan una participación in
 ###### Artículo 20.
 
 El derecho a la pensión se hará efectivo a partir del día siguiente al de la publicación del Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo que autoriza al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo a otorgar la pensión.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 21.
+
+El Ejecutivo del Estado propondrá el aumento, reducción o extinción de las pensiones autorizadas por el Congreso del Estado en los términos de los artículos 4 y 14 de esta Ley.
+
+Para el caso de las pensiones otorgadas a víctimas, el Ejecutivo del Estado en conjunto con la Comisión Ejecutiva Estatal de Atención a Víctimas, establecerán un procedimiento expedito, considerando las condiciones de salud, económicas, mayoría de edad, conclusión de estudios o fallecimiento de los beneficiarios; asimismo emitirán los Lineamientos Generales en los que se establecerán los requisitos y demás elementos necesarios para aumento, reducción o extinción de las pensiones a víctimas concedidas por esta Ley.
 
 T R A N S I T O R I O S
 
@@ -247,7 +259,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE MAYO DE 2011.
 
@@ -262,3 +274,15 @@ Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO TERCERO.
 
 Una vez que se haya emitido el proyecto de resolución correspondiente a las solicitudes de pensión turnadas por pleno que se encuentran en trámite, deberá extinguirse la Comisión Especial creada en el Decreto Legislativo Número 119 de fecha 27 de agosto de 2009.
+
+P.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 191 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 13 Y 17 Y SE ADICIONA EL ARTÍCULO 21 DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XVII BIS, DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado deberá prever en el Presupuesto de Egresos correspondiente, los montos y partidas suficientes para cumplir a cabalidad el presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo en conjunto con la Comisión Ejecutiva Estatal de Atención a Víctimas dispondrán de sesenta días naturales para la emisión de los Lineamientos Generales, en los que se establecerán los requisitos y demás elementos necesarios para conceder aumento, reducción o extinción de las pensiones concedidas por esta Ley.
+
+CUARTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, a la Comisionada Presidenta de la Comisión Ejecutiva Estatal de Atención a Víctimas y al Titular de la Auditoría Superior de Michoacán, para su conocimiento y efectos conducentes.
