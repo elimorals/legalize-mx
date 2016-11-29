@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-electoral-109465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-19"
-last_updated: "2015-08-19"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el miércoles 19 de agosto de 2015.
 
@@ -395,7 +395,9 @@ II. Temporales: Aquellas creadas por el Consejo cuando las considere necesarias 
 
 a) Un programa anual de trabajo acorde a los programas y políticas previamente establecidos, en la primera sesión ordinaria que celebre el Consejo en el año del ejercicio correspondiente, y
 
-b) El informe de actividades en el que se precisen las tareas desarrolladas, su vinculación con las metas programadas, un reporte de asistencia a las sesiones y demás consideraciones que se estimen convenientes, el cual deberá presentarse en la primera sesión ordinaria del Consejo del año siguiente al del ejercicio que se informe.
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+b) El informe de actividades en el que se precisen las tareas desarrolladas, su vinculación con las metas programadas, un reporte de asistencia a las sesiones y demás consideraciones que se estimen convenientes, el cual deberá presentarse en la primera sesión ordinaria del Consejo del año siguiente al del ejercicio que se informe. Lo anterior con independencia de que al término de cada ciclo de presidencia, el presidente de la Comisión que corresponda, podrá informar al seno de dicha comisión sobre los trabajos desempeñados en ella.
 
 2. Las Comisiones Permanentes y Temporales, por cada asunto que se les encomiende, deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine la Ley Electoral o el Consejo.
 
@@ -412,6 +414,10 @@ b) El informe de actividades en el que se precisen las tareas desarrolladas, su 
 2. En los acuerdos de integración o creación de las Comisiones Temporales, el Consejo deberá precisar el objeto específico de la misma, sus atribuciones, así como los plazos y/o condiciones a los que esté sujeta su existencia.
 
 3. Las Comisiones Temporales darán cuenta de sus actividades realizadas en los plazos que al efecto determine el Consejo en los acuerdos de creación.
+
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2016)</small>
+
+4. El Consejo tendrá la facultad de prorrogar la vigencia de las Comisiones Temporales cuando lo estime necesario. Ello con la finalidad de dar cabal cumplimiento a los objetivos originalmente previstos.
 
 ###### ARTÍCULO 11.
 
@@ -2902,3 +2908,19 @@ Cuarto.- En razón de la desaparición del Centro para el Desarrollo Democrátic
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 19 de noviembre de dos mil catorce, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN EL PUNTO CUARTO Y QUINTO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICAN LOS REGLAMENTOS INTERIOR Y DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+CUARTO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+QUINTO. Publíquese en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto Nacional Electoral.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICAN LOS REGLAMENTOS INTERIOR Y DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL”.]
+
+PRIMERO. Las actuales presidencias de todas las comisiones y su integración se extenderán a efecto de que su renovación se lleve a cabo durante la primera semana del mes de septiembre del año en curso y ajustarlo así con el inicio del Proceso Electoral correspondiente.
+
+SEGUNDO. Para la realización de las presentes disposiciones contenidas en la modificación del artículo 17 del Reglamento de Comisiones del Consejo General, el Secretario Ejecutivo, a través de la Unidad Técnica de Servicios de Informática y de la Dirección del Secretariado, acordará el diseño, instrumentalización y funcionamiento de un mecanismo informático que permita la organización, control y agenda de las convocatorias de las Comisiones.
