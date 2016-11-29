@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2016-01-08"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -1662,6 +1662,18 @@ Cuando sin justa causa, después de hacerse el emplazamiento, el emplazado dejar
 ARTICULO 218 BIS
 
 Vencido el plazo previsto en el artículo 217 de este Código, de oficio o a petición de parte, el juez remitirá el conflicto al Centro Estatal de Justicia Alternativa de Veracruz, con el fin de que las partes lleguen a un arreglo; de no producirse éste, se procederá conforme a lo establecido en el numeral siguiente.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+De advertirse o presumirse la existencia de manipulación y aleccionamiento parental prevista en el artículo 345 del Código Civil, el Juez exhortará a los progenitores a acudir a la mediación, de no haber voluntariedad o acuerdo, se continuará la secuela procesal correspondiente, ordenando recabar de oficio las pruebas necesarias para determinar lo conducente.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+De confirmarse la existencia de la conducta señalada en el párrafo anterior, podrá ordenarse la suspensión de la guarda y custodia, la suspensión o limitación del régimen de visitas y convivencia, o de cualquier otra medida que garantice el interés superior del niño.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+El tratamiento para la niña o niño manipulado y aleccionado será proporcionado por el Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes o el área que determine el Juez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2013)</small>
 
@@ -6215,6 +6227,10 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355.- SE ADICIONA EL ARTÍCULO 251 DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
+G.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 923 QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 345 Y REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 346 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ; ADICIONA TRES PÁRRAFOS AL ARTÍCULO 218 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ Y REFORMA LA FRACCIÓN V, Y RECORRE LAS FRACCIONES SUBSECUENTES, DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ."]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91.- SE ADICIONAN, SE REFORMAN Y DEROGAN, DIVERSOS ARTÍCULOS Y FRACCIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE ESTADO (SIC) DE AGUASCALIENTES".]
