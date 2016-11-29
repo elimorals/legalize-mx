@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-fomento-educativo-110
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-10-19"
-last_updated: "2015-10-19"
+last_updated: "2016-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110231&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-06-29"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO, PUBLICADO EN EL D.O.F. DE 29 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de octubre de 2015.
 
@@ -782,3 +784,17 @@ SEXTO.- Una vez publicado el Decreto por el que se reorganiza el Consejo Naciona
 SÉPTIMO.- Los nombres de los puestos en vigor, hasta antes de la publicación del presente Estatuto, sin incremento, decremento o cambio de funciones, serán ajustados a la nueva nomenclatura de este Estatuto. Los asuntos en proceso de atención por las áreas del Estatuto que se abroga, serán atendidos hasta su conclusión por las áreas a las que se les reasigne o en las que se transformaron de acuerdo a la nueva nomenclatura del presente Estatuto Orgánico.
 
 En la Ciudad de México, Distrito Federal, a los veintinueve días del mes de junio de dos mil quince.- El Director General del Consejo Nacional de Fomento Educativo, Joel Guerrero Juárez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO”.]
+
+PRIMERO.- El presente Estatuto Orgánico una vez aprobado por el Órgano de Gobierno, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Consejo Nacional de Fomento Educativo, publicado en el Diario Oficial de la Federación el 19 de octubre de 2015; así como aquellas disposiciones internas que se opongan al presente ordenamiento.
+
+TERCERO.- El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Consejo Nacional de Fomento Educativo, en su Centésimo sexagésima cuarta sesión ordinaria, celebrada el día 19 de septiembre de 2016, mediante Acuerdo número SO/III-16/07,R (SO/164-16/07,R).
+
+CUARTO.- Los nombres de los puestos en vigor, hasta antes de la publicación del presente Estatuto, sin incremento, decremento o cambio de funciones, serán ajustados a la nueva nomenclatura de este Estatuto. Los asuntos en proceso de atención por las áreas del Estatuto que se abroga, serán atendidos hasta su conclusión por las áreas a las que se les reasigne o en las que se transformaron de acuerdo a la nueva nomenclatura del presente Estatuto Orgánico.
