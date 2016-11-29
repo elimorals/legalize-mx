@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2014-12-26"
+last_updated: "2016-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NÚMERO 428
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -357,7 +359,7 @@ Es base para el pago del impuesto el monto total de los ingresos obtenidos.
 
 Se considerará como ingreso del espectáculo público la cantidad total que se cobre por los boletos o cuotas de entradas, donativos, cooperaciones o cualquier concepto, al que se condicione el acceso al espectáculo ya sea directamente o por un tercero incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acuerdo al espectáculo público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEÁSE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -449,9 +451,11 @@ ARTICULO 17 B.- Los funcionar encargados de dar permiso o licencia para la celeb
 
 En los casos en que no se garantice el pago del impuesto, los interventores deberán retener al concluir el evento el pago del impuesto correspondiente, así como la multa estipulada en el artículo 106 fracción I párrafo primero del Código Fiscal del Estado, expidiendo un recibo provisional con el fin de que el mismo sea canjeado al siguiente día hábil por el recibo oficial respectivo en la oficina fiscal que le corresponda.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 19.
 
-La oficina recaudadora podrá nombrar interventores para cada uno de los espectáculos y diversiones en las distintas funciones, pagando los organizadores los honorarios correspondientes por dicha intervención, el equivalente a 10 salarios mínimos diarios, por cada uno de ellos.
+La oficina recaudadora podrá nombrar interventores para cada uno de los espectáculos y diversiones en las distintas funciones, pagando los organizadores los honorarios correspondientes por dicha intervención, el equivalente a 10 veces al valor diario de la Unidad de Medida y Actualización, por cada uno de ellos
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -791,9 +795,9 @@ q) Intereses por créditos al personal.
 
 En el caso de personas morales para que los conceptos mencionados en este precepto se excluyan como integrantes de la base del impuesto sobre remuneraciones al trabajo personal, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-r) Los pagos realizados a un trabajador cuyo salario no exceda de un salario mínimo del área geográfica del contribuyente elevado al mes, siempre y cuando este sea su ascendiente o descendiente en línea recta, por contribuyentes que tributen en el Régimen de Incorporación Fiscal de la Ley del Impuesto Sobre la Renta.
+r) Los pagos realizados a un trabajador cuyo salario no exceda del valor diario de la Unidad de Medida y Actualización del contribuyente elevado al mes, siempre y cuando este sea su ascendiente o descendiente en línea recta, por contribuyentes que tributen en el Régimen de Incorporación Fiscal de la Ley del Impuesto Sobre la Renta.
 
 II.- Las erogaciones que efectúen:
 
@@ -805,7 +809,9 @@ b) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 c) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2005)
 
-d) Las personas físicas que se dediquen a las actividades agrícolas, ganaderas, silvícolas y de pesca, con ingresos anuales menores de veinte veces el salario mínimo general correspondiente al área geográfica elevado al año.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+d) Las personas físicas que se dediquen a las actividades agrícolas, ganaderas, silvícolas y de pesca, con ingresos anuales menores de 20 veces al valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -2017,15 +2023,17 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 I.- Por la inscripción de sociedades mercantiles o incremento de su capital social; 4 al millar, sobre el monto del capital o de su incremento.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-Tratándose de protocolizaciones de las mismas, donde no implique aumento de capital causarán una cuota de 21 salarios mínimos en los elaborados dentro del Estado y 30 salarios mínimos a los elaborados fuera del mismo.
+Tratándose de protocolizaciones de las mismas, donde no implique aumento de capital causarán una cuota de 21 veces al valor diario de la Unidad de Medida y Actualización en los elaborados dentro del Estado y 30 veces al valor diario de la Unidad de Medida y Actualización a los elaborados fuera del mismo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 II.- Por el registro de documentos inscribibles, concernientes a todo tipo de bienes inmuebles incluyendo los contratos de división de cosa común, excepto los señalados en las fracciones XXII y XXIII de este artículo siempre y cuando dichos documentos sean elaborados en el Estado, el cobro se hará con base en el valor más alto que resulte entre el avalúo catastral, el valor de la operación consignado en la escritura respectiva y el avalúo con fines fiscales, el cual deberá ser elaborado por perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración; 4 al millar
 
-En ningún caso el pago por los Derechos del Registro Público, de cada documento, será inferior a 2 salarios mínimos.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+En ningún caso el pago por los Derechos del Registro Público, de cada documento, será inferior a 2 veces al valor diario de la Unidad de Medida y Actualización.
 
 III.- Por el registro de documentos inscribibles, relativos a todo tipo de bienes muebles, siempre y cuando dichos documentos sean elaborados en el Estado, se cobrará tomando como base el valor comercial de estos; 4 al millar
 
@@ -2147,11 +2155,9 @@ c ) De folios 3.0
 
 d) De inscripción en libros, por las tres primeras hojas 3.0
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-XXI.- Por la ratificación de firmas ante los funcionarios del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, se causará la tarifa equivalente a Cuatro días de salario mínimo vigente.
+XXI.- Por la ratificación de firmas ante los servidores públicos del Registro Público de la Propiedad y del Comercio, se causará la tarifa equivalente a 4 veces al valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -2165,13 +2171,13 @@ Por el registro de los derechos de los tiempo-compartidarios del Sistema de Tiem
 
 Cuando se solicite el registro de Sistemas de Tiempo Compartido que aún no se encuentren construidos o estén en proceso, la base para el cobro de este derecho será el valor fiscal que de acuerdo al proyecto tenga el inmueble. 4 al millar
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.50 salario (sic) mínimos.
+XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.50 veces al valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-XXV.- Por el servicio de Trámite Urgente o Agilización de documentos para ser entregados el mismo día, siempre y cuando la solicitud se haya entregado antes de las 11:00 horas se cobrará 5 salarios mínimos diarios vigentes en el área geográfica del contribuyente, adicionales al costo del servicio.
+XXV.- Por el servicio de Trámite Urgente o Agilización de documentos para ser entregados el mismo día, siempre y cuando la solicitud se haya entregado antes de las 11:00 horas se cobrará 5 veces al valor diario de la Unidad de Medida y Actualización, adicionales al costo del servicio.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2189,7 +2195,7 @@ DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, DICTÁMENES y EXPEDICIÓN
 
 ###### ARTICULO 84.
 
-Por la legalización de firmas, certificaciones, expedición de documentos y copias por funcionarios o empleados del Gobierno del Estado de Guerrero, así como la certificación, legalización, registros y expedición de documentos por la Coordinación Técnica del Registro Civil, se causarán derechos conforme a lo siguiente:
+Por legalización de firmas, certificaciones, expedición de documentos y copias por funcionarios o empleados del Gobierno del Estado de Guerrero, así como la certificación, legalización, registros y expedición de documentos por la Coordinación Técnica del Registro Civil, se causarán derechos conforme a lo siguiente:
 
 T A R I F A
 
@@ -2205,9 +2211,9 @@ II.- Certificaciones de otros documentos y actas de registro civil, cuando sean 
 
 A).- Registro de Nacimiento
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-1.- Registro de Nacimiento de 1 día de nacido hasta un año, Gratuito.
+1.- Registro de Nacimiento de 1 día de nacido hasta un año, así como la expedición de la primera copia certificada del acta de nacimiento, gratuito.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -2633,15 +2639,15 @@ V.- POR LAS CUOTAS DE RECUPERACIÓN POR LA PRESTACIÓN DE SERVICIOS MEDICOS.
 
 Las personas físicas y morales que utilicen los servicios médicos que prestan las instituciones dependientes de la Secretaría de Salud del Gobierno del Estado pagarán Derechos, los que tendrán el carácter de cuotas de recuperación del costo de los servicios conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
 El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante, conforme al siguiente Tabulador:
 
 > <small>N. DE E. VÉASE CATÁLOGO DE LOS SERVICIOS MÉDICOS ASISTENCIALES PARA EL COBRO DE CUOTAS DE RECUPERACIÓN ZONA GEOGRÁFICA "A", EN EL P.O. DE 28 DE DICIEMBRE DE 2012, PÁGINAS DE LA 11 A LA 76.</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta Dos veces el salario mínimo general de la zona económica correspondiente a la Localidad en que resida el solicitante de los servicios médicos, vigente en el momento de la prestación del servicio.
+Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta 2 veces al valor diario de la Unidad de Medida y Actualización, vigente en el momento de la prestación del servicio.
 
 La autoridad competente elaborará y aprobará los dictámenes por virtud de los cuales se establezcan las condiciones socioeconómicas de las personas que se mencionan en esta fracción.
 
@@ -2731,13 +2737,11 @@ c) Por el refrendo bimestral de la credencial a promotores de tiempo compartido,
 
 DERECHOS DE LA AUTORIZACION DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES DEL ESTADO.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+###### ARTÍCULO 89.
 
-###### ARTICULO 89.
-
-Por los trámites de recepción, revisión, evaluación, dictamen o en su caso resolución en materia de Impacto Ambiental y Análisis de Riesgo, a personas físicas o morales que realicen obras o actividades industriales y de servicios del sector público y privado, se autoriza el cobro de las siguientes tarifas, que se calcula en días de salario mínimo vigente en el Estado:
+Por los trámites de recepción, revisión, evaluación, dictamen o en su caso resolución en materia de Impacto Ambiental y Análisis de Riesgo, a personas físicas o morales que realicen obras o actividades industriales y de servicios del sector público y privado, se autoriza el cobro de las siguientes tarifas, que se calcula al valor diario de la Unidad de Medida y Actualización:
 
 I.- A la micro industria o servicio
 
@@ -3015,9 +3019,13 @@ El pago por este Derecho se realizará conforme al Tabulador que publique en el 
 
 Por la autorización e inscripción al Registro Estatal de Peritos Valuadores de bienes inmuebles, para fines fiscales:
 
-I.- Expedición Inicial 170.0 S.M.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-II.- Refrendo Anual 58.0 S.M.
+I.- Expedición Inicial 170.0 veces al valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+II.- Refrendo Anual 58.0 veces al valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3025,21 +3033,37 @@ II.- Refrendo Anual 58.0 S.M.
 
 Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se tomará como base y se aplicará la siguiente clasificación:
 
-a).- Valor Fiscal de hasta $42,400.00 se pagará un salario mínimo del área geográfica “A”.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-b).- Valor Fiscal de $42,401.00 hasta $58,300.00 se determinará y pagará considerando el monto total del avalúo dividido entre $42,401.00 multiplicado por una tarifa de 0.8303 Salarios Mínimos del área geográfica “A”, más $ 11.00.
+a).- Valor Fiscal de hasta $42,400.00 se pagará el valor diario de la Unidad de Medida y Actualización.
 
-c).- Valor Fiscal de $58,301.00 hasta $113,950.00 se determinará y pagará considerando el monto total del avalúo dividido entre $58,301.00 multiplicado por una tarifa de 0.8832 Salarios Mínimos del área geográfica “A”, más $27.00.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-d).- Valor Fiscal de $113,951.00 hasta $561,800.00 se determinará y pagará considerando el monto total del avalúo dividido entre $113,951.00 multiplicado por una tarifa de 1.6087 Salarios Mínimos del área geográfica “A”, más $34.00
+b).- Valor Fiscal de $42,401.00 hasta $58,300.00 se determinará y pagará considerando el total del avalúo dividido entre $42,401.00 multiplicado por una tarifa de 0.8303 veces al valor diario de la Unidad de Medida y Actualización más $ 11.00.
 
-e).- Valor Fiscal de $561,801.00 hasta $1´698,650.00 se determinará y pagará considerando el monto total del avalúo dividido entre $561,801.00 multiplicado por una tarifa de 5.3075 Salarios Mínimos del área geográfica “A”, más $196.00
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-f).- Valor Fiscal de $1´698,651.00 hasta $4´584,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $1´698,651.00 multiplicado por una tarifa de 14.1323 Salarios Mínimos del área geográfica “A”, más $314.00
+c).- Valor Fiscal de $58,301.00 hasta $113,950.00 se determinará y pagará considerando el monto total del avalúo dividido entre $58,301.00 multiplicado por una tarifa de 0.8832 veces al valor diario de la Unidad de Medida y Actualización, más $27.00.
 
-g).- Valor Fiscal de $4´584,501.00 hasta $8´718,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $4´584,501.00 multiplicado por una tarifa de 24.9872 Salarios Mínimos del área geográfica “A”, más $1,124.00
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-h).- Valor Fiscal de $8´718.501.00 en adelante se determinará y pagará considerando el monto total del avalúo dividido entre $8´718,501.00 multiplicado por una tarifa de 45.8800 Salarios Mínimos del área geográfica “A”, más $1,225.00
+d).- Valor Fiscal de $113,951.00 hasta $561,800.00 se determinará y pagará considerando el monto total del avalúo dividido entre $113,951.00 multiplicado por una tarifa de 1.6087 veces al valor diario de la Unidad de Medida y Actualización, más $34.00
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+e).- Valor Fiscal de $561,801.00 hasta $1´698,650.00 se determinará y pagará considerando el monto total del avalúo dividido entre $561,801.00 multiplicado por una tarifa de 5.3075 veces al valor diario de la Unidad de Medida y Actualización, más $196.00
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+f).- Valor Fiscal de $1´698,651.00 hasta $4´584,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $1´698,651.00 multiplicado por una tarifa de 14.1323 veces al valor diario de la Unidad de Medida y Actualización, más $314.00
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+g).- Valor Fiscal de $4´584,501.00 hasta $8´718,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $4´584,501.00 multiplicado por una tarifa de 24.9872 veces al valor diario de la Unidad de Medida y Actualización, más $1,124.00
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+h).- Valor Fiscal de $8´718.501.00 en adelante se determinará y pagará considerando el monto total del avalúo dividido entre $8´718,501.00 multiplicado por una tarifa de 45.8800 veces al valor diario de la Unidad de Medida y Actualización, más $1,225.00
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3049,73 +3073,59 @@ ARTICULO 99 Bis I.- Para el cobro de los derechos por el servicio de cartografí
 
 I.- Planos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+A. Ortofoto (Plano 45 cm x 30 cm) 8.25 veces al valor diario de la Unidad de Medida y Actualización.
 
-A. Ortofoto (Plano 45 cm x 30 cm) 8.25 Salarios Mínimos Diarios del Área Geográfica “A”,
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+B. Curvas de Nivel (Planos 45 cm x 30 cm). 6.25 veces al valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-B. Curvas de Nivel (Planos 45 cm x 30 cm). 6.25 Salarios Mínimos Diarios del Área Geográfica “A”,
+C. Plano 45 cm x 30 cm (de una a tres coberturas). 4.12 veces al valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-C. Plano 45 cm x 30 cm (de una a .tres coberturas). 4.12 Salarios Mínimos Diarios del Área Geográfica “A”,
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-D. Cada capa o cobertura adicional. 1.03 Salarios Mínimos Diarios del Área Geográfica “A”,
+D. Cada capa o cobertura adicional. 1.03 veces al valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 II.- Servicios
 
-A. Renta de computadora y cartografía por hora o fracción. 2 Salarios Mínimos Diarios del Área Geográfica “A”
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+A. Renta de computadora y cartografía por hora o fracción. 2 veces al valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 III.- Conexión al servidor
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+A. Dependencias Estatales y OPDS 26 veces al valor diario de la Unidad de Medida y Actualización
 
-A. Dependencias Estatales y OPDS 26 SMG.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+B. Instituciones de Educación Pública 52 veces al valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-B. Instituciones de Educación Pública 52 SMG.
+C. Instituciones de Educación Privada 77.25 veces al valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+D. Dependencias Federales 103 veces al valor diario de la Unidad de Medida y Actualización.
 
-C. Instituciones de Educación Privada 77.25 SMG.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+E. Instituciones Extranjeras 206 veces al valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-D. Dependencias Federales 103 SMG.
+###### ARTICULO 99
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-E. Instituciones Extranjeras 206 SMG.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 99 Bis II.- Para el cobro de los derechos por copia certificada del Avalúo de bienes inmuebles con fines fiscales, se aplicará conforme a la siguiente tarifa: 2 Salarios Mínimos Diarios del Área Geográfica “A”.
+Bis II.- Para el cobro de los derechos por copia certificada del Avalúo de bienes inmuebles con fines fiscales, se aplicará conforme a la siguiente tarifa: 2 veces al valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 100.
 
@@ -3301,33 +3311,41 @@ ARTICULO 101 Bis II.- Por los servicios que preste el Instituto de la Policía A
 
 I.- Por los servicios de seguridad y protección de personas y vigilancia interior y exterior de lugares y establecimientos públicos y privados de seguridad y vigilancia de eventos públicos y de particulares:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 175 salarios mínimos, mensuales;
+a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 175 veces al valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-b).- Por dos elementos alternados con servicios de 24 horas, 350 salarios mínimos, mensuales;
+b).- Por dos elementos alternados con servicios de 24 horas, 350 veces al valor mensual de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 11 salarios mínimos diarios; y
+c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 11 veces al valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 11 salarios mínimos diarios, por servicio de 12 horas y 22 salarios mínimos diarios, por servicio de 24 horas.
+d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 11 veces al valor diario de la Unidad de Medida y Actualización, por servicio de 12 horas y 22 veces al valor diario de la Unidad de Medida y Actualización, por servicio de 24 horas.
 
-II.- Por asesoría para la presentación de proyectos integrales de seguridad, 30 salarios mínimos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+II.- Por asesoría para la presentación de proyectos integrales de seguridad, 30 veces al valor diario de la Unidad de Medida y Actualización;
 
 III.- Por los servicios de custodia de bienes y valores, incluyendo su traslado:
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
 a).- 5% sobre el valor declarado por los servicios prestados dentro de la localidad en que se contrate; y
 
-b).- 5% sobre el valor declarado, más un salario mínimo por cada 5 kilómetros recorridos, en tratándose fuera de la localidad en que se contrate el servicio.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+b).- 5% sobre el valor declarado, más el valor diario de la Unidad de Medida y Actualización por cada 5 kilómetros recorridos, tratándose fuera de la localidad en que se contrate el servicio.
 
-IV.- Por los servicios de seguridad y protección de personas, en la modalidad de resguardante personal o escolta, 75 salarios mínimos, mensuales por persona acreditada; y
+Para los efectos a que se contrae el presente artículo, el valor diario de la Unidad de Medida y Actualización en el Estado, se entenderá el emitido por el Instituto Nacional de Estadística y Geografía.
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+IV.- Por los servicios de seguridad y protección de personas, en la modalidad de resguardante personal o escolta, 75 veces al valor mensual de la Unidad de Medida y Actualización, por persona acreditada; y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -3335,19 +3353,23 @@ V.- Por los servicios análogos que se relacionan con el cumplimiento de su obje
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINAS DE LA 11 A LA 12.</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 29 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45.]</small>
+
 Cuando el contratante de servicio no cubra en tiempo y forma el pago correspondiente serán objeto del cobro de recargos y actualizaciones, conforme los artículos 107 y 108 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-Para los efectos a que se contrae el presente artículo, por salario mínimo, se entenderá el que corresponda a la zona económica "A" en el Estado. Así mismo los pagos que tengan la característica de ser mensuales, se realizaran a más tardar el día 17 del mes en que se preste el servicio.
+Para los efectos a que se contrae el presente artículo, el valor diario de la Unidad de Medida y Actualización en el Estado, se entenderá el emitido por el Instituto Nacional de Estadística y Geografía. Así mismo los pagos que tengan la característica de ser mensuales, se realizaran a más tardar el día 17 del mes en que se preste el servicio.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 Por cada uno de los servicios establecidos en el presente artículo; el solicitante del servicio deberá haber cubierto el pago de impuestos federales a que haya lugar.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTICULO 102.
 
-Los diversos derechos no especificados en esta Ley se causarán aplicando los días de salario mínimo regional que determine la Secretaría de Finanzas y Administración, para el efecto, el pago resultante no excederá la tarifa aplicable a otro servicio con el cual tenga similitud, siempre y cuando no se oponga a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal.
+Los diversos derechos no especificados en esta Ley se causarán aplicando los días del valor diario de la Unidad de Medida y Actualización que determine la Secretaría de Finanzas y Administración, para el efecto, el pago resultante no excederá la tarifa aplicable a otro servicio con el cual tenga similitud, siempre y cuando no se oponga a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3561,11 +3583,11 @@ Están exentas del pago de las cuotas respectivas, las publicaciones que se haga
 
 Únicamente estarán exentas del pago de la cuota indicada en el artículo 104, fracción V, inciso D las Dependencias del Poder Ejecutivo Estatal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 106.
 
-Para la conversión de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicados en el Diario Oficial de la Federación. El salario mínimo aplicable será el del Área Geográfica “A”. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
+Para la conversión de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el valor diario de la Unidad de Medida y Actualización vigente determinado por el Instituto Nacional de Geografía y Estadística y publicados en el Diario Oficial de la Federación. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
 
 ## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
@@ -4743,6 +4765,8 @@ ARTICULO 114 Bis VII.- Por la prestación de los servicios proporcionados por el
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINA 13.</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 29 DE NOVIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 46.]</small>
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ARTICULO 114 Bis VIII.- Por la prestación de los servicios proporcionados por el Parque Papagayo, se aplicarán las siguientes tarifas:
@@ -5629,45 +5653,43 @@ Aportación para libros 200.00 Pago Único
 
 ARTICULO 114 Bis XIV.- Por la prestación de los servicios proporcionados por el Fideicomiso para el Desarrollo Económico y Social de Acapulco, se aplicarán las siguientes tarifas:
 
-> <small>(REFORMADA P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
-DERECHOS:
+CONCEPTO VALOR DE LA UNIDAD DE
 
-CONCEPTO SALARIOS
-
-MINIMOS
+MEDIDA Y ACTUALIZACIÓN
 
 CONSTANCIA DE NO
 
 PROPIEDAD 0.802
 
-INSPECCIÓN DE ESTUDIO
+INSPECCION DE ESTUDIO
 
-SOCIOECONÓMICO 5.615
+SOCIOECONOMICO 5.615
 
-COSNTANCIA (SIC) DE
+CONSTANCIA DE
 
 NO ADEUDO 5.294
 
-ESCRITURACIÓN (HASTA 200M2) 44.922
+ESCRITURACION (HASTA 200M2) 44.922
 
 EXCEDENTE POR METRO
 
 CUADRADO 0.240
 
-CESIÓN DE DERECHOS ENTRE
+CESION DE DERECHOS ENTRE
 
 FAMILIARES 48.130
 
-CESIÓN DE DERECHOS ENTRE
+CESION DE DERECHOS ENTRE
 
 PARTICULARES 80.218
 
-CANCELACIÓN DE CLÁUSULAS
+CANCELACION DE CLAUSULAS
 
 Y DERECHO AL TANTO 80.218
 
-SUBDIVSIÓN (SIC) O FUSIÓN
+SUBDIVSION (SIC) O FUSION
 
 DE LOTES 32.087
 
@@ -7278,3 +7300,23 @@ P.O. 26 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 253 POR EL QUE SE REFORMA EL ARTÍCULO 84 FRACCIÓN II INCISO A) NUMERAL 1 DE LA LEY DE HACIENDA DEL ESTADO DE GUERRERO NÚMERO 428”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en el portal electrónico del Poder Legislativo del Estado y en dos diarios de mayor circulación en el Estado para su conocimiento general.
+
+P.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE GUERRERO NÚMERO 428 Y DE LA LEY DE HACIENDA MUNICIPAL NÚMERO 677".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en el portal electrónico del Poder Legislativo del Estado y en dos diarios de mayor circulación en el Estado para su conocimiento general.
