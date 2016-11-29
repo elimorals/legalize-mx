@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2015-06-22"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 22 DE JUNIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -4005,9 +4003,11 @@ Este tipo de fraccionamientos se deberán ubicar fuera de los límites de las á
 
 En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, cuyo objetivo será la creación de un fideicomiso para la adquisición de reserva territorial municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 323.
 
-Los Fraccionamientos Comerciales deberán ajustarse a las especificaciones que en cada caso fije el Ayuntamiento, de acuerdo a las características siguientes:
+Los desarrollos comerciales deberán ajustarse a las especificaciones que en cada caso fije el Ayuntamiento, de acuerdo con las normas generales siguientes:
 
 I. Lotificación. Sus lotes no podrán tener un frente menor de 3.50 metros y una superficie menor de 30 metros cuadrados;
 
@@ -4027,7 +4027,9 @@ VIII. Zonificación de los giros o servicios comerciales;
 
 IX. Espacios libres y su aprovechamiento;
 
-X. Áreas para estacionamiento de vehículos y para maniobras de carga y descarga de productos, de conformidad con lo dispuesto por el reglamento de construcciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2016)</small>
+
+X. Dispondrán de cajones para estacionamiento de vehículos y áreas para maniobras de carga y descarga de productos, de conformidad con lo dispuesto por el Reglamento de Construcciones o en el Sistema Normativo de Equipamiento Urbano. Aquéllos cajones de estacionamiento determinados por el Ayuntamiento como obligatorios en la expedición de licencia de construcción, serán sin costo para el usuario; sin que éstos puedan ser destinados para otro fin.
 
 XI. Hidrantes contra incendios; y,
 
@@ -5372,3 +5374,11 @@ La Secretaría de Urbanismo y Medio Ambiente deberá expedir las Guías Metodol�
 ###### ARTÍCULO QUINTO.
 
 Los Programas de Desarrollo Urbano que se formulen, modifiquen o actualicen posterior a la entrada en vigor del presente decreto, deberán ajustarse a lo dispuesto en el mismo.
+
+P.O. 29 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 179.- SE REFORMA EL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se otorga un término de noventa días para que los Ayuntamientos del Estado y Concejos Municipales, elaboren, actualicen y regulen en sus reglamentos el contenido de esta reforma, para que en el ámbito de sus facultades, se eficientice la inspección y vigilancia de la prestación de servicio de los estacionamientos, de conformidad con el presente Decreto.
