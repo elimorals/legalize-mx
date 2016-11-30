@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-santa-41181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-29"
-last_updated: "2011-07-04"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de septiembre de 2004.
 
@@ -2200,3 +2202,15 @@ La Sanción prevista en el numero 22 del tabulador de Sanciones del Artículo 13
 ## TRANSITORIOS
 
 ÚNICO.- El presente acuerdo surtirá efectos al momento de su aprobación y Publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 27 DE OCTUBRE DE 2016, SE APRUEBA REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, N.L”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día 01-uno de Enero del 2017-dos mil diecisiete.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se Abroga el Reglamento de Tránsito y Vialidad del Municipio de Santa Catarina, Nuevo León, vigente a la fecha.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO.- Envíese al Ejecutivo para su Publicación en el Periódico Oficial del Estado de Nuevo León, y una vez en vigencia publíquese en la Gaceta Municipal y en el portal de internet del Municipio, para su mejor difusión y cumplimiento.
