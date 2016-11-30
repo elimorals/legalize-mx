@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-municipal-para-regular-las-festividades-que-se-64738
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-19"
-last_updated: "2008-11-19"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 ---
 # REGLAMENTO MUNICIPAL PARA REGULAR LAS FESTIVIDADES QUE SE REALIZAN DENTRO DEL MUNICIPIO DE JIUTEPEC, MORELOS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DEL REGLAMENTO DEL CARNAVAL DE JIUTEPEC, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2016; ESTE ÚLTIMO ORDENAMIENTO ENTRA VIGOR EL DOS DE ENERO DE DOS MIL DIECISÉIS.]</small>
+
 REGLAMENTO MUNICIPAL PARA REGULAR LAS FESTIVIDADES QUE SE REALIZAN DENTRO DEL MUNICIPIO DE JIUTEPEC, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de noviembre de 2008.
 
@@ -458,3 +460,19 @@ C. Ernesto Jiménez Tovar
 Secretario Municipal
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL CARNAVAL DE JIUTEPEC”.]
+
+Primero.- Remítase el presente Reglamento al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado y publíquese en la Gaceta Municipal.
+
+Segundo.- El presente Reglamento entró en vigor el dos de enero del dos mil dieciséis, día de su aprobación por el Pleno del Cabildo Municipal de Jiutepec, Morelos.
+
+Tercero.- Se abroga el REGLAMENTO MUNICIPAL PARA REGULAR LAS FESTIVIDADES QUE SE REALIZAN DENTRO DEL MUNICIPIO DE JIUTEPEC, MORELOS, publicado en el Periódico Oficial "Tierra y Libertad" número 4656, de fecha 19 de noviembre del 2008.
+
+Cuarto.- El presente Reglamento deroga todas las disposiciones sobre la materia que se opongan a lo contenido en el presente ordenamiento.
+
+Quinto.- Una vez publicado el presente Reglamento, remítase al Honorable Congreso del Estado, para los efectos legales conducentes.
