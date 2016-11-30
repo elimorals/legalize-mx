@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-ambiental-para-el-desarrollo-sustentable-6950
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2015-03-13"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,553 +21,243 @@ state: "QUE"
 ---
 # LEY DE PROTECCION AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERETARO
 
-LEY DE PROTECCIÓN AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERÉTARO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 25 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
-LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
+Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 26 de mayo de 2008.
 
-LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
-CONSIDERANDO.
+FIDEL HERRERA BELTRÁN, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en ejercicio de las facultades que me confiere el Artículo 49, fracción III, de la Constitución Política del Estado de Veracruz de Ignacio de la Llave y 8, fracción II, de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, he tenido a bien expedir el
 
-Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCION CIVIL
 
-LEY DE PROTECCIÓN AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERÉTARO
+## TITULO PRIMERO. Disposiciones Generales
 
-## Título Primero. Disposiciones generales
-
-### Capítulo Único. Normas preliminares
+### CAPITULO UNICO
 
 ###### Artículo 1.
 
-La presente Ley es reglamentaria de la Constitución Política del Estado de Querétaro en materia de preservación y restauración del equilibrio ecológico y protección al ambiente.
+El presente ordenamiento tiene por objeto establecer y reglamentar la estructura y funcionamiento de la Secretaría de Protección Civil del Estado de Veracruz de Ignacio de la Llave, que tiene a su cargo las facultades que le encomienda La Ley Orgánica del Poder Ejecutivo del Estado de Veracruz, la Ley General de Protección Civil, la Ley de Protección Civil del Estado de Veracruz de Ignacio de la Llave, y demás disposiciones aplicables en la materia, así como las órdenes del Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 2.
 
-Esta Ley es de interés social y orden público; tiene por objeto fijar las bases para:
+Para los efectos de este Reglamento se entenderá por:
 
-I. Garantizar el derecho de quienes se encuentren en el territorio del Estado, a vivir en un ambiente propicio para su desarrollo, salud y bienestar;
+I. Titular del Ejecutivo: El Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
 
-II. Definir la competencia de las autoridades estatal y municipales; la concurrencia entre ellas; y la coordinación entre sus dependencias, en la materia regulada por esta Ley;
+II. Secretario: el Titular de la Secretaría de Protección Civil;
 
-III. Determinar los principios e instrumentos rectores de la política ambiental estatal;
+III. Ley: la Ley de Protección Civil del Estado de Veracruz de Ignacio de la Llave;
 
-IV. Establecer y ejecutar el ordenamiento ecológico del territorio;
-
-V. Determinar, administrar e incrementar las áreas naturales protegidas; y
-
-VI. Hacer efectiva la participación corresponsable del Estado y la sociedad en la preservación y restauración del equilibrio ecológico, la protección del ambiente y el desarrollo sustentable.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+IV. Reglamento; el Reglamento Interior de la Secretaría de Protección Civil.
 
 ###### Artículo 3.
 
-En lo no previsto por la presente Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley de Procedimientos Administrativos del Estado de Querétaro, el Código de Procedimientos Civiles del Estado de Querétaro y la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Para la administración, operación y cumplimiento de las funciones y atribuciones que le competen, la Secretaría contará con los órganos y estructura administrativa que establece el Reglamento. Las áreas subalternas serán creadas, modificadas y suprimidas por el Secretario, atendiendo a las necesidades del servicio, conforme al presupuesto autorizado, previo análisis y validación de su estructura, y tendrán las funciones y responsabilidades que en cada caso se les asigne.
 
 ###### Artículo 4.
 
-Se considera de interés social y utilidad pública:
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-I. Los ordenamientos ecológicos regionales y locales en el territorio del Estado, en los casos previstos por ésta y demás disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-II. El establecimiento, administración, protección y conservación de las áreas naturales protegidas previstas por ésta y demás disposiciones legales aplicables;
-
-III. La prevención y el control de la contaminación de la atmósfera, del agua y del suelo en el territorio estatal, y la construcción de las obras necesarias para su restauración;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-IV. La ejecución de acciones, obras e instalaciones necesarias para proteger la biodiversidad en el territorio estatal;
-
-V. El establecimiento de medidas y la realización de acciones para controlar la erosión y la desertificación de los suelos; y
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-VI. Las demás acciones que se requieran para cumplir los objetivos de este ordenamiento, conforme a la Ley de Expropiación del Estado de Querétaro y demás normas jurídicas aplicables, sin perjuicio de lo reservado a la Federación.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+La Secretaría estará ubicada en la ciudad de Xalapa, Veracruz. Sin perjuicio de su domicilio, las áreas que integran la Secretaría podrán tener domicilio diferente y esté será el del lugar en que se establezcan.
 
 ###### Artículo 5.
 
-Para los efectos de la presente Ley, se entiende por:
+La Secretaría se conformará además del Secretario con las instancias siguientes:
 
-I. Actividad riesgosa: aquella de la que puede derivarse algún daño en la salud o el ambiente en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen y que al no ser considerada altamente riesgosa por la legislación federal, es de competencia estatal;
+I. Dirección General de Planeación y Normatividad en Materia de Protección Civil;
 
-II. Aguas de jurisdicción estatal: las que no sean consideradas nacionales en los términos del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, así como las provenientes de los servicios de agua potable, hasta antes de ser depositadas en cuerpos o corrientes de propiedad nacional;
+II. Dirección General de Prevención de Riesgos;
 
-III. Aguas residuales: las que por acción de la actividad humana, contengan contaminantes en detrimento de su calidad original;
+III. Dirección General de Administración de Emergencias;
 
-IV. Ambiente: el conjunto de elementos naturales o inducidos por el ser humano, que hacen posible la existencia y desarrollo de los seres vivos que interactúan en un espacio y tiempo determinados;
+IV. Coordinación del Centro de Estudios Climáticos;
 
-V. Aprovechamiento sustentable: la utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte;
+V. Dirección Jurídica; y
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+VI. Unidad Administrativa.
 
-VI. Arbolado: las formaciones vegetales que van desde ejemplares aislados a árboles sistemáticamente ordenados, que se ubican en terrenos periurbanos, sistemas agroforestales, parques, jardines y áreas verdes urbanas. Se caracterizan por presentar un tallo leñoso, de ciclo perene que crecen y se desarrollan de forma natural o inducida, muestran un solo tallo principal o en el caso de arbustos que están presentes en el monte bajo, varios tallos que forman una copa definida, se incluyen las especies crasas y exóticas;
+Las Subdirecciones, Jefaturas de Departamento y demás áreas subalternas que se establezcan por acuerdo del Secretario, tendrán además de las funciones que dispone el presente Reglamento Interior, aquellas contenidas en el artículo 15 de la Ley Orgánica del Poder Ejecutivo del Estado y el Manual de Organización de la Secretaría de Protección Civil.
 
-VII. Áreas naturales protegidas: las zonas de la Entidad que han quedado sujetas al régimen de protección, para preservar y conservar ambientes naturales y salvaguardar la biodiversidad, lograr el aprovechamiento sustentable de los recursos naturales, preservar y mejorar la calidad del entorno y los servicios ambientales que los ecosistemas otorgan;
+## TITULO SEGUNDO. De los Órganos, Estructura Administrativa y Funcionamiento de la Secretaría
 
-VIII. Auditoría ambiental: los procesos de verificación y autorregulación ambiental que desarrollen voluntariamente las empresas, productores y organizaciones empresariales, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y alcanzar mayores niveles, metas o beneficios en materia de protección ambiental;
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-IX. Autorización de desmonte de arbolado y limpieza de terrenos: el documento emitido por la autoridad municipal correspondiente, mediante el cual se le da permiso al propietario de un terreno para realizar acciones de desmonte de arbolado y limpieza;
-
-X. Banco de material: depósito natural o yacimiento geológico de grava, piedra, tezontle, tepetate, arena, arenilla, tepecil o cualquier material no metálico derivado de las rocas o de procesos de sedimentación o metamorfismo que sean susceptibles de utilizarse como material de construcción, como agregado de estos o como elementos de ornamentación;
-
-XI. Biodiversidad: la variedad de la vida y sus procesos; de los organismos vivos, sus diferencias genéticas, las comunidades y ecosistemas en los cuales ocurren y los mantienen funcionando, cambiando y adaptándose;
-
-XII. Cambio climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables;
-
-XIII. Conservación: la gestión de los recursos naturales tales como el aire, agua, suelo y organismos vivos, que incluye el estudio, investigación, legislación, administración, preservación, utilización, educación y formación de la cultura ambiental;
-
-XIV. Contaminación: la presencia en el ambiente de contaminantes en cantidades, concentraciones o niveles capaces de interferir negativamente en el bienestar y la salud de los organismos vivos;
-
-XV. Contaminación visual: la alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio, cuya presencia resulte no armónica con la estética del lugar;
-
-XVI. Contaminante: toda materia o energía que al incorporarse al ambiente resulte nociva para los organismos vivos que lo habitan;
-
-XVII. Contingencia ambiental: la situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
-
-XVIII. Control: los actos de inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
-
-XIX. Criterios ambientales: los lineamientos obligatorios derivados de la presente Ley y demás disposiciones legales aplicables, orientados a restaurar y preservar el equilibrio ecológico, proteger el ambiente y propiciar el desarrollo sustentable;
-
-XX. Cultura ambiental: el conjunto de conocimientos, hábitos y actitudes que estimulan a la sociedad a actuar en armonía con la naturaleza;
-
-XXI. Daño ambiental: el menoscabo actual o remoto que se ocasiona o puede ocasionarse a los intereses particulares o colectivos, a partir de los efectos adversos que operan sobre la calidad de vida de los seres vivos;
-
-XXII. Desarrollo sustentable: el proceso participativo para mejorar continuamente la calidad de vida de las actuales y futuras generaciones, que implica el respeto a la naturaleza y la distribución equitativa de los beneficios del progreso;
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-XXIII. Desmonte de arbolado: el retiro total o parcial del arbolado, que por exclusión, no es de competencia federal al no caracterizarse el terreno como forestal;
-
-XXIV. Ecosistema: la unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el medio físico, en un espacio y tiempo determinados;
-
-XXV. Educación ambiental: el proceso permanente y sistematizado de enseñanza aprendizaje, mediante el cual el individuo adquiere conciencia de ser parte integrante de la naturaleza, para actuar positivamente hacia ella;
-
-XXVI. Elementos naturales: los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin inducción del ser humano;
-
-XXVII. Emergencia ambiental: la situación derivada de actividades humanas o fenómenos naturales que, al afectar severamente a sus elementos, pone en peligro la integridad de uno o varios ecosistemas;
-
-XXVIII. Equilibrio ecológico: la relación armónica de interdependencia entre los elementos que conforman el ambiente y hace posible la existencia, transformación y desarrollo de los seres vivos;
-
-XXIX. Especie amenazada: la especie que se encuentra amenazada de extinción por factores que ocasionen el deterioro o modificación de su hábitat o que disminuyan sus poblaciones;
-
-XXX. Especie endémica: aquélla cuyo ámbito de distribución natural se encuentra circunscrito únicamente al territorio nacional y las zonas donde la Nación ejerce su soberanía y jurisdicción;
-
-XXXI. Especie en peligro de extinción: la especie cuyas áreas de distribución o tamaño poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica en todo su rango de distribución;
-
-XXXII. Especie rara: la especie cuya población es biológicamente viable, pero muy escasa de manera natural, pudiendo estar restringida a un área de distribución reducida o hábitats muy específicos;
-
-XXXIII. Especie sujeta a protección especial: la especie sujeta a limitaciones o vedas en su aprovechamiento, por tener poblaciones reducidas o una distribución geográfica restringida o para propiciar su recuperación y conservación o la recuperación y conservación de especies asociadas;
-
-XXXIV. Evaluación de impacto ambiental: el procedimiento mediante el cual las autoridades competentes determinan la pertinencia de la ejecución de obras o actividades específicas, estableciendo, en su caso, las condiciones a que éstas deban sujetarse para evitar o atenuar sus efectos negativos en el equilibrio ecológico o al ambiente;
-
-XXXV. Fauna silvestre: las especies animales terrestres que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio estatal y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del ser humano, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
-
-XXXVI. Flora silvestre: las especies vegetales terrestres que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal, incluyendo las poblaciones o individuos de éstas, que se encuentran bajo control del ser humano;
-
-XXXVII. Flora y fauna acuáticas: las especies biológicas y elementos biogénicos que tienen como medio de vida temporal, parcial o permanentemente el agua;
-
-XXXVIII. Fondo Ambiental: el Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro;
-
-XXXIX. Gestión ambiental: las acciones de las entidades de la administración pública y de los particulares, que se realizan o tienen efectos sobre el ambiente;
-
-XL. Impacto ambiental: la modificación del ambiente ocasionada por la acción de la naturaleza o del ser humano;
-
-XLI. Información ambiental: la información en materia de agua, aire, suelo, flora, fauna y recursos naturales, en general, así como de las actividades o medidas relacionadas con su adaptación, preservación, mitigación, restauración o afectación;
-
-XLII. Licencia ambiental: documento por el cual la Secretaría autoriza las condiciones de operación y funcionamiento de los establecimientos de competencial (sic) estatal en materia de prevención y control de contaminación atmosférica;
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-XLIII. Limpieza de terrenos: el recogimiento de todo tipo de residuos, excluyendo los considerados como peligrosos o de manejo especial y de la vegetación herbácea inducida o estacional que se encuentra en predios ubicados en zonas urbanas y rurales;
-
-XLIV. Manejo integral: el conjunto de operaciones que incluyen recolección, separación, almacenamiento temporal, tratamiento, transferencia, transporte y disposición final de los residuos sólidos urbanos y de manejo especial;
-
-XLV. Manifestación de impacto ambiental: el documento mediante el cual se da a conocer el impacto ambiental significativo que podría generar la ejecución de una obra o actividad específicas, así como la forma de evitarlo o atenuarlo, si fuere éste negativo;
-
-XLVI. Material peligroso: el elemento, sustancia, compuesto o la mezcla o residuo de ellos que, independientemente de su forma o estado físico, represente riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
-
-XLVII. Mercado local de bonos de carbono: mecanismo de transacción para el mercado local del Estado, regulado y voluntario de bonos de carbono que permite mitigar la generación de gases invernadero, haciendo pagar a las que emiten más de lo permitido;
-
-XLVIII. Norma Oficial Mexicana: la regla, método o parámetro científico o tecnológico emitido por la dependencia federal competente, para establecer los requisitos, especificaciones, condicionantes, procedimientos o límites permisibles a observarse en el desarrollo de las actividades humanas o destino de bienes que causen o puedan causar desequilibrio ecológico o que permitan uniformar los principios, criterios y políticas en la materia;
-
-XLIX. Norma técnica ambiental estatal: la regla, método o parámetro científico o tecnológico emitido por la dependencia competente del Estado de Querétaro, para establecer los requisitos, especificaciones, condicionantes, procedimientos o límites permisibles a observarse en el desarrollo de las actividades humanas o destino de bienes que causen o puedan causar desequilibrio ecológico o que permitan uniformar los principios, criterios y políticas en la materia;
-
-L. Ordenamiento ecológico: instrumento de política ambiental integrada por el proceso de planeación y aplicación de las medidas conducentes para regular, inducir y evaluar el uso de suelo y programar el manejo de los recursos naturales y de las actividades productivas, a fin de proteger el ambiente y lograr su aprovechamiento sustentable, con base en el análisis de su deterioro, su posible recuperación y las potencialidades de su aprovechamiento;
-
-LI. Política ambiental: conjunto de principios, lineamientos, criterios e instrumentos ambientales, para orientar la estrategia y planeación del desarrollo; la formulación de programas y proyectos; la aplicación en las acciones; y la observancia en los derechos y obligaciones de la sociedad;
-
-LII. Preservación: el conjunto de medidas y políticas para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
-
-LIII. Prestadores de servicios ambientales: las personas físicas o morales que realicen asesorías, estudios, proyectos, actividades y mediciones relacionados con aspectos de los componentes ambientales y con la prevención y control de la contaminación;
-
-LIV. Prevención: el conjunto de disposiciones y medidas anticipadas para prevenir y evitar el deterioro del ambiente;
-
-LV. Procuraduría: la Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano;
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-LVI. Programa de rescate y reubicación: el conjunto de actividades planeadas que gravita en cambiar un árbol, arbusto o cualquier planta del lugar físico donde se encuentra a uno distinto que presente las mismas condiciones ambientales del sitio de donde fue extraído;
-
-LVII. Protección: el conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
-
-LVIII. Recurso natural: el elemento natural susceptible de ser aprovechado por el ser humano;
-
-LIX. Registro de Emisiones y Transferencias de Contaminantes: es el instrumento por el que se integra la información de los establecimientos sujetos a reportes sobre emisiones y transferencias de contaminantes, materiales y residuos que alteran el aire, agua, suelo y subsuelo del territorio, cuya información se integrará con los datos de las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones emitidos por las autoridades competentes en materia ambiental;
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-LX. Rescate y reubicación de especies de flora: la actividad tendiente a cambiar de un sitio a otro los árboles, arbustos y otras especies, incluidas las crasas que, por razones de su ubicación, no son compatibles con el proyecto de arquitectura de paisaje, es necesaria su reubicación a consecuencia de la introducción de infraestructura, presentan un estado de salud físico bueno y sin daño aparente que permite prever un éxito en su trasplante, o que por motivos de representación de la especie o legado cultural, amerita ser rescatado y preservado;
-
-LXI. Residuo: el material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
-
-LXII. Residuos peligrosos: todos aquellos residuos en cualquier estado físico, que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que les confieran peligrosidad y representen un peligro para el equilibrio ecológico o el ambiente;
-
-LXIII. Restauración: el conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones previas al disturbio que propician la evolución y continuidad de los procesos naturales;
-
-LXIV. Secretaría: la Secretaría de Desarrollo Sustentable del Estado de Querétaro;
-
-LXV. Servicios ambientales: el conjunto de componentes, condiciones y procesos naturales, incluyendo especies y genes, que la sociedad puede utilizar y que ofrecen las áreas naturales protegidas por su simple existencia, tales como la biodiversidad, el mantenimiento del germoplasma con uso potencial para el beneficio humano, el mantenimiento de valores estéticos y filosóficos, la estabilidad climática, la contribución a ciclos básicos del agua, carbono y otros nutrientes y la conservación de suelos, entre otros;
-
-LXVI. Tratamiento de agua residual: el proceso a que se someten las aguas residuales, con el objetivo de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
-
-LXVII. Unidad de gestión ambiental: unidad mínima del territorio a la que se asignan determinados atributos, lineamientos y estrategias ecológicas;
-
-LXVIII. Visita de inspección: la supervisión que realiza el personal autorizado para verificar el cumplimiento de medidas, condicionantes u otras obligaciones a cargo del visitado, establecidas en el acto administrativo correspondiente;
-
-LXIX. Vocación natural: la aptitud que por sus condiciones presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos y para mantener la capacidad de renovación de las especies; y
-
-LXX. Zona de Influencia: aquella superficie aledaña a un área natural protegida, que mantiene una estrecha interacción, ecológica, social y económica con ésta.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-## Título Segundo. De la gestión ambiental
-
-### Capítulo Primero. De las competencias en materia de gestión ambiental
+### CAPITULO I. De la Integración
 
 ###### Artículo 6.
 
-Son autoridades responsables de aplicar la presente Ley:
+Le corresponde al Secretario la representación de la Secretaría, así como también el trámite y resolución de todos los asuntos que son competencia de ésta. Para el despacho de sus asuntos, el Secretario podrá delegar sus facultades en los servidores públicos subalternos de la estructura de la Secretaría, con excepción de aquellas que deban ser ejercidas directamente en los términos que señala el Reglamento. El Secretario contará con las siguientes facultades indelegables:
 
-I. El Poder Ejecutivo del Estado, directamente o a través de la Secretaría o de las dependencias o entidades paraestatales que por disposición de esta Ley o de cualquier otro ordenamiento legal, deban participar en las actividades relacionadas con la protección del ambiente y el desarrollo sustentable en el Estado de Querétaro; y
+I. Fijar, dirigir y controlar la política de la Secretaría, así como planear, coordinar y evaluar las actividades de la misma en los términos de la legislación aplicable. Para tal efecto, procederá de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado y de acuerdo con los objetivos, metas y prioridades que determine el Titular del Ejecutivo;
 
-II. Las autoridades municipales del Estado de Querétaro, atendiendo a su naturaleza y competencia.
+II. Disponer la elaboración de los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones legales sobre los asuntos de la competencia de la Secretaría, y someterlos a la consideración del Titular del Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+III. Proponer al Titular del Ejecutivo la elaboración de las solicitudes de declaratoria de emergencia o desastre, en términos de lo dispuesto por la normatividad aplicable;
 
-III. La Procuraduría Estatal de Protección al Medio Ambiente y Desarrollo Urbano, la cual tendrá las facultades establecidas en la presente Ley y en el Código Urbano del Estado de Querétaro
+IV. Someter al acuerdo del Titular del Ejecutivo, los asuntos encomendados a la Secretaría y desempeñar las comisiones y funciones especiales que él le confiera;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2012)</small>
+V. Emitir las disposiciones, lineamientos, reglas, normas técnicas, términos de referencia y bases de carácter general para el ejercicio de las atribuciones que las leyes otorgan a la Secretaría;
+
+VI. Ejecutar las normas y lineamientos, que dicte el Consejo Estatal de Protección Civil, para la organización y funcionamiento del Sistema Estatal;
+
+VII. Informar al Titular del Poder Ejecutivo del Estado acerca del riesgo de afectación que pueda sufrir la población del Estado o de la presencia de algún agente perturbador en la Entidad;
+
+VIII. Realizar, en el ámbito de su competencia y previo acuerdo con el Titular del Ejecutivo, las acciones de auxilio que se requieran a fin de proteger la vida de la población y sus bienes, la planta productiva y el medio ambiente, así como para evitar o mitigar los efectos del impacto y garantizar el funcionamiento de los servicios estratégicos a fin de proteger y salvaguardar a la población de la Entidad ante la eventualidad de un agente perturbador;
+
+IX. Supervisar la ejecución de los planes y programas básicos de prevención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores;
+
+X. Coordinar el cumplimiento de las responsabilidades inherentes al Gobierno del Estado en relación con el Plan de Emergencia Radiológica Externo;
+
+XI. Fungir como Secretario Ejecutivo del Consejo Estatal de Protección Civil y presidirlo cuando así lo determine el Titular del Ejecutivo;
+
+XII. Someter a la consideración y autorización del Gobernador del Estado, los mecanismos de coordinación con las dependencias y entidades de la administración pública en todos sus niveles en materia de Protección Civil;
+
+XIII. Apoyar al Titular del Ejecutivo en el ejercicio de sus atribuciones como Titular del Comando Operativo Unificado para el Control de Riesgos y Atención de Emergencias;
+
+XIV. Representar, previa autorización escrita por parte del Titular del Poder Ejecutivo, al Gobierno del Estado en la firma de convenios de coordinación, colaboración y apoyo con las dependencias y entidades del Gobierno Federal, en materia de Protección Civil;
+
+XV. Expedir los Manuales de Organización, Procedimientos, Políticas y Servicios de la Secretaría;
+
+XVI. Nombrar y en su caso, remover a los representantes de la Secretaría en las comisiones, organismos, consejos, órganos de gobierno, instituciones y entidades, de conformidad con las disposiciones legales aplicables;
+
+XVII. Aprobar el proyecto de presupuesto de egresos de la Dependencia, así como sus modificaciones, y remitirlo a la Secretaría de Finanzas y Planeación;
+
+XVIII. Comparecer ante el Congreso del Estado, en los términos y bajo las condiciones establecidas por la Ley Orgánica del Poder Ejecutivo del Estado, para informar sobre el estado que guardan los asuntos competencia de la Secretaría;
+
+XIX. Emitir, dentro del ámbito competencial de la Secretaría, los dictámenes técnicos de vulnerabilidad y riesgo de las instalaciones públicas y privadas; así como aquellos referentes a la reubicación de los asentamientos humanos en zonas de riesgo;
+
+XX. Participar, en coordinación con las dependencias y entidades competentes, en el ordenamiento territorial y de los asentamientos humanos; en la planeación del desarrollo regional y urbano; y en la formulación de las declaratorias de zonas de riesgo en los términos que dispone la normatividad en la materia;
+
+XXI. Autorizar con su firma, en la esfera de su competencia, contratos en los términos señalados por esta ley y demás leyes del Estado;
+
+XXII. Otorgar, revocar y sustituir, a favor de los servidores públicos de la dependencia, poderes generales y especiales; y
+
+XXIII. Las demás que señale el Titular del Ejecutivo, y las que le confieran las disposiciones legales relativas.
 
 ###### Artículo 7.
 
-Corresponde al Poder Ejecutivo del Estado, a través de la Secretaría o la Procuraduría, según corresponda:
+Son atribuciones comunes de los Titulares de las Direcciones Generales, Unidad Administrativa, Dirección Jurídica, y Coordinaciones, las siguientes:
 
-I. Formular, conducir y evaluar la política ambiental en el Estado, con la participación que corresponda de las dependencias o entidades de la administración pública relacionadas con esta materia, en congruencia con las disposiciones de carácter federal;
+I. Coadyuvar en la aplicación de las políticas para el desarrollo sustentable del Estado, de acuerdo con la Ley de Planeación Estatal, Plan Veracruzano de Desarrollo y conforme a las directrices que establezca el Titular del Ejecutivo a través del Secretario;
 
-II. Aplicar los principios e instrumentos de la política ambiental previstos en esta Ley;
+II. Acordar con el Secretario o con los titulares de las áreas que integran la Dependencia, según corresponda y en el ámbito de su competencia, la planeación y los mecanismos de coordinación para la atención de los asuntos a su cargo;
 
-III. Formular, ejecutar y evaluar el Programa Estatal de Protección al Ambiente, que establecerá subprogramas y acciones para la restauración, conservación y aprovechamiento sustentable de los recursos naturales;
+III. Elaborar los dictámenes, opiniones, estudios e informes que les sean solicitados por la superioridad;
 
-IV. (DEROGADA, P.O. 5 DE OCTUBRE DE 2012)
+IV. Proporcionar la información, asesoría y cooperación técnica en las materias de su competencia que les soliciten las demás áreas de la Secretaría;
 
-V. Preservar y restaurar el equilibrio ecológico y garantizar la protección al ambiente en áreas y bienes de jurisdicción estatal o en zonas comprendidas entre dos o más municipios;
+V. Recibir en audiencia al público que así lo requiera, brindando la atención oportuna en el ámbito de su competencia;
 
-VI. Expedir las concesiones, licencias, permisos y autorizaciones que correspondan, para el uso y aprovechamiento de las aguas de jurisdicción estatal y de los recursos acuáticos asociados;
+VI. Planear, programar, organizar, dirigir y evaluar las actividades de las áreas a su cargo, conforme a las disposiciones legales aplicables, así como aquellas que les determine el Secretario;
 
-VII. Prevenir y controlar, en su ámbito de competencia:
+VII. Elaborar el proyecto de presupuesto de egresos y el Programa Operativo Anual del área o las áreas que se encuentran bajo su responsabilidad;
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+VIII. Participar con el área responsable en la formulación de los proyectos de manuales de organización, procedimientos, políticas y servicios del área a su cargo, de acuerdo con la normatividad aplicable;
 
-a) La contaminación atmosférica y la generada por emisión de ruido, vibraciones, energía térmica, lumínica y olores perjudiciales al ambiente que provengan de zonas o fuentes emisoras de jurisdicción estatal, mediante la emisión de licencias, permisos o autorizaciones que correspondan.
+IX. Suscribir los documentos relativos al ejercicio de sus facultades o de las que les sean señaladas por delegación de la superioridad, así como aquellos instrumentos que sean sometidos al Secretario para su emisión;
 
-b) La contaminación de las aguas de jurisdicción estatal y de las nacionales que el Estado tenga asignadas o concesionadas o se asignen o concesionen para la prestación de servicios públicos o que se descarguen en redes de alcantarillado de los centros de población, sin perjuicio de las facultades de la federación en materia de tratamiento, descarga, infiltración y reuso de aguas residuales.
+X. Tramitar ante la Unidad Administrativa, los movimientos del personal que labora en las áreas bajo su responsabilidad, así como los recursos materiales y financieros necesarios para el cumplimiento de sus funciones;
 
-c) La contaminación del suelo, con arreglo a las disposiciones de esta Ley.
+XI. Integrar y resguardar el archivo de las áreas a su cargo, conforme a las normas establecidas;
 
-d) Las emergencias y contingencias ambientales que afecten las áreas de dos o más municipios de la Entidad;
+XII. Desempeñar las comisiones y funciones específicas que les confiera Secretario, informándole por escrito el resultado de su desarrollo;
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+XIII. Rendir al Secretario, por escrito, el informe mensual y anual de las actividades realizadas por la unidad a su cargo; y
 
-VIII. Regular y autorizar el aprovechamiento, explotación y restauración de bancos de materiales de construcción y ornamento no reservados a la Federación y de aquellas actividades donde se exploten o beneficien productos derivados de la descomposición o fragmentación de las rocas, mediante trabajos a cielo abierto;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-IX. Elaborar y publicar la lista de actividades consideradas riesgosas y regular su uso;
-
-X. Expedir la declaratoria para la creación de áreas naturales protegidas de competencia estatal, así como la elaboración y aplicación de programas de manejo, ordenamiento territorial, zonificación, regulación, administración y vigilancia, con la participación de los municipios, de conformidad con la presente Ley y demás disposiciones legales y administrativas aplicables;
-
-XI. Expedir, en su caso, la declaratoria para la creación de zonas de reservas ecológicas en la jurisdicción territorial del municipio que los ayuntamientos propongan al Poder Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XII. Expedir, vigilar y aplicar el ordenamiento ecológico estatal y regional, con el apoyo de los municipios y la participación de las dependencias de la administración pública vinculadas a este objeto;
-
-XIII. Expedir y aplicar normas técnicas ambientales estatales, en los casos que corresponda;
-
-XIV. Evaluar y dictaminar, con la participación, en su caso, de los municipios respectivos, el impacto y el riesgo ambiental que, por su ubicación, dimensiones o características, puedan producir las obras o actividades que señala la presente ley;
-
-XV. Solicitar a las autoridades competentes, la realización de estudios de evaluación de impacto y riesgo ambiental de obras o actividades de competencia federal que se realicen en el territorio estatal;
-
-XVI. Conducir la política estatal de información y difusión en materia ambiental;
-
-XVII. Supervisar la adecuada conservación y el aprovechamiento sustentable de los recursos naturales, desde su extracción hasta su transformación en materias primas, promoviendo, además, la utilización de los subproductos;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XVIII. Regular los sistemas de manejo y disposición final de residuos sólidos no peligrosos, de conformidad con la ley aplicable y, en su caso, las condiciones y criterios a que deberá sujetarse el diseño, la ubicación, la construcción y la operación de las instalaciones y equipos destinados a estos fines;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XIX. Concesionar y reglamentar los servicios de verificación de fuentes de contaminación que sean competencia del Estado y, en su caso, conceder las autorizaciones para la operación de laboratorios ambientales;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XX. Regular y vigilar las instalaciones, equipos y actividades para la preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, relacionados con los servicios municipales;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXI. Ejecutar las actividades que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, le transfiera la federación, respecto de:
-
-a) Administración y vigilancia de áreas naturales protegidas de competencia federal.
-
-b) Control de residuos peligrosos.
-
-c) Prevención y control de la contaminación atmosférica proveniente de fuentes fijas o móviles de competencia federal.
-
-d) Protección, preservación, restauración y aprovechamiento sustentable de recursos naturales de competencia federal, agua, suelo, forestal, flora y fauna silvestre.
-
-e) La evaluación del impacto ambiental de las obras o actividades susceptibles de transferencia conforme a lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y, en su caso, la expedición de las autorizaciones correspondientes.
-
-f) La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes.
-
-g) La inspección y vigilancia del cumplimiento de la legislación ambiental y recursos naturales y demás disposiciones que de ella deriven.
-
-h) Cualquiera que, conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás disposiciones aplicables, sea susceptible de transferencia;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXII. Participar en la coordinación que la federación implemente para atender los asuntos que en materia ambiental afecten el equilibrio ecológico del Estado u otras entidades federativas, así como las acciones de mitigación y adaptación en materia de Cambio Climático;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXIII. Celebrar convenios en las materias a que se refiere la presente Ley, de conformidad con lo que señala la fracción VII, del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos y realizar los convenios de concertación correspondientes con las personas físicas o morales para la administración de las áreas naturales protegidas y para llevar a cabo acciones ambientales, conforme a esta Ley;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXIV. Integrar y actualizar el Registro de Emisiones y Transferencia de Contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente, cuya información se integrará con los datos e información contenida en las autorizaciones, cédulas, informes, reportes, licencias, permisos, y concesiones en materia ambiental que se tramiten ante la Secretaría, y en su caso de los Municipios;
-
-XXV. Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
-
-XXVI. Ordenar y practicar las visitas de inspección que la presente Ley autoriza y supervisar directamente las actividades de las fuentes fijas y móviles de contaminación en el ámbito de su competencia, a efecto de comprobar el cumplimiento de las disposiciones en esta materia;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXVII. Establecer las bases para la autorregulación voluntaria de organizaciones, establecimientos industriales, comerciales y de servicios, así como Dependencias del sector público estatal;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXVIII. Otorgar apoyo técnico a los ayuntamientos y a los organismos operadores del agua, para el cumplimiento de las atribuciones que la presente Ley les confiere;
-
-XXIX. Intervenir, en su ámbito de competencia, en asuntos ambientales que involucren a dos o más municipios de la Entidad;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXX. Establecer las medidas necesarias y emitir las disposiciones conducentes para el cumplimiento de la presente Ley y sus reglamentos, aplicando las sanciones administrativas por su incumplimiento;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXXI. Promover y fomentar la reducción del uso, o en su caso, la sustitución de las sustancias sujetas a reporte en el Registro de Emisiones y Transferencia de Contaminantes;
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXXII. Establecer el Fondo para la Protección Ambiental y el Desarrollo Sustentable de Querétaro, de conformidad con lo establecido en el Reglamento de esta Ley; y
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXXIII. Las demás atribuciones que le señala la presente Ley y otras disposiciones legales aplicables.
+XIV. Las demás que les atribuyan las leyes, reglamentos y otras disposiciones legales aplicables, así como las que les sean conferidas por el Secretario.
 
 ###### Artículo 8.
 
-Corresponde a los municipios del Estado:
-
-I. Formular, conducir y evaluar la política ambiental municipal, en congruencia con la que formulen los gobiernos estatal y federal;
-
-II. Preservar y restaurar el equilibrio ecológico y proteger el ambiente dentro de su territorio, salvo en asuntos de competencia estatal o federal;
-
-III. Prevenir y controlar, en coordinación con el Poder Ejecutivo del Estado:
-
-a) La contaminación atmosférica generada por fuentes fijas que operen como establecimientos mercantiles o de servicios, fuentes naturales y quemas.
-
-b) Las medidas de tránsito y vialidad que correspondan, para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles.
-
-c) Las acciones conducentes para evitar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como la de las aguas nacionales que tengan asignadas o concesionadas.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-d) Las emergencias y contingencias ambientales, dentro de su demarcación territorial.
-
-e) Las acciones que correspondan para evitar la contaminación visual en su territorio;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-IV. Formular y expedir los programas de ordenamiento ecológico local, así como el control y vigilancia del uso y cambio de suelo establecidos en dichos programas, en congruencia con el ordenamiento regional formulado por el Poder Ejecutivo del Estado;
-
-V. Participar con el Poder Ejecutivo del Estado en la creación de áreas naturales protegidas de competencia estatal, así como en la elaboración y aplicación de los programas de manejo, el ordenamiento territorial y zonificación, su regulación, administración y vigilancia, de conformidad con lo que señala la presente Ley y demás disposiciones aplicables;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-VI. Crear y administrar zonas de preservación ecológica en centros de población, en dentro de su jurisdicción;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-VII. Participar con la Secretaría en la evaluación y dictamen de estudios de impacto ambiental, cuando las obras o actividades se realicen en el ámbito de su circunscripción territorial;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-VIII. Expedir, suspender, negar, condicionar o revocar las licencias, permisos y autorizaciones de uso de suelo y las licencias de construcción u operación según corresponda, al resultado de la respectiva evaluación, en congruencia con el ordenamiento regional y/o local, la zonificación de los programas o planes parciales de desarrollo urbano, el atlas de riesgo estatal y el programa estatal hidráulico; y al previo dictamen de la autoridad estatal, en los casos en que afecte o modifique la categoría, atributos y zonificación de una o varias Unidades de Gestión Ambiental del Ordenamiento Ecológico Regional del Territorio;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-IX. Formular y conducir la política municipal de información y difusión en materia ambiental;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-X. Contar con la infraestructura y prestación de los servicios municipales para los objetivos de la presente Ley;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XI. Establecer un órgano administrativo ambiental, dentro de la estructura orgánica municipal;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XII. Celebrar convenios con la Federación, estados, municipios o con personas físicas o morales de derecho público, social o privado, para la realización de acciones ambientales en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XIII. Establecer y operar sistemas de monitoreo de contaminación atmosférica en su territorio, con apego a las normas oficiales mexicanas;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XIV. Instalar y operar sistemas municipales de tratamiento de aguas residuales, de conformidad con la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XV. Autorizar, conforme a los lineamientos que determine la Secretaría y demás disposiciones aplicables, los sistemas de manejo de residuos sólidos urbanos y los de manejo especial;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XVI. Participar, conforme a esta Ley, en la realización de auditorías ambientales, de conformidad con lo establecido en la Sección Quinta del Capítulo Segundo del Título Tercero de la presente Ley;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XVII. Expedir el Programa Municipal de Educación Ambiental de conformidad con los lineamientos emitidos por la Secretaría;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XVIII. Expedir el Programa Municipal de Protección al Ambiente, con base en las disposiciones de esta Ley y demás ordenamientos aplicables;
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XIX. Establecer, implementar y expedir los instrumentos legales, técnicos, administrativos y financieros necesarios para el cumplimiento de la presente Ley y su reglamento;
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XX. Crear el Fondo Municipal para la Protección Ambiental y el Desarrollo Sustentable, de conformidad con lo establecido en el Reglamento de esta Ley;
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
-
-XXI. Expedir los permisos y autorizaciones que, por exclusión, no sean terrenos con vegetación forestal de competencia federal en materia de desmonte y limpieza de terrenos, en coordinación con la Secretaría y demás autoridades competentes; la norma técnica ambiental estatal en la materia fijará las bases para su aplicación;
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXII. Ordenar y practicar las visitas de inspección, con el objeto de verificar el cumplimiento de las disposiciones normativas de su competencia;
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXIII. Aplicar las sanciones administrativas y medidas de seguridad que correspondan, en su ámbito de competencia, por violaciones a la presente Ley y demás disposiciones legales aplicables;
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXIV. Coadyuvar con la Secretaría, en la integración y actualización del Registro de Emisiones y Transferencia de Contaminantes; y
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-XXV. Las demás atribuciones que le señala la presente Ley y otras disposiciones legales aplicables.
+Las diversas áreas integrantes de la Secretaría, deberán coordinar entre si sus actividades, proporcionarse ayuda mutua, cooperación y asesoría; planearán y programarán sus actividades de conformidad con las estrategias, políticas y prioridades que para el logro de los objetivos y metas de los programas a cargo de la Dependencia, establezca el Titular del Ejecutivo y determine el Secretario.
 
 ###### Artículo 9.
 
-El Poder Ejecutivo del Estado, atendiendo a las condiciones económicas, infraestructura, proyección y planes de desarrollo y políticas de medio ambiente de los municipios del Estado, deberá celebrar con ellos convenios de coordinación y colaboración, a efecto de delegar aquellas funciones y facultades que permitan la adecuada aplicación de la presente ley.
-
-El Poder Ejecutivo del Estado procurará que en dichos convenios se establezcan condiciones que faciliten la descentralización de facultades y aplicación de recursos financieros para el mejor cumplimiento de la ley.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Los servidores públicos a los que se refiere este capítulo, ejercerán sus cargos bajo las denominaciones antes señaladas y estarán obligados a guardar estricta reserva y confidencialidad sobre asuntos de sus respectivas competencias. La misma obligación tendrán aquellos servidores públicos que dependan orgánicamente de las mencionadas áreas administrativas.
 
 ###### Artículo 10.
 
-La Comisión Estatal de Cambio Climático del Estado de Querétaro, es el órgano permanente de coordinación institucional, cuyo objeto es definir la estrategia estatal, enfocada a la mitigación y adaptación al cambio climático que promoverá y ejecutará acciones en coordinación con los Municipios, así como con las Dependencias y Entidades del Poder Ejecutivo Estatal y los sectores de la sociedad civil.
+Son atribuciones del Director General de planeación y Normatividad en Materia de protección Civil las siguientes:
 
-La Comisión Estatal de Cambio Climático del Estado de Querétaro, se integra de la siguiente manera:
+I. Proponer al Secretario los proyectos de normas y lineamientos para supervisar la organización y el funcionamiento del Sistema Estatal de Protección Civil, de los Programas Internos y los Especiales; así como de las normas técnicas complementarias y los términos de referencia, especificaciones, condiciones y parámetros para el desarrollo de actividades o acciones en materia de protección Civil;
 
-I. Un presidente honorario, que será el Gobernador del Estado de Querétaro;
+II. Coordinar a las diferentes áreas de la Secretaría, en la elaboración del Programa Operativo Anual, así como proponer el proyecto final al Secretario para su expedición;
 
-II. Un Presidente permanente, que será el Secretario de Desarrollo Sustentable;
+III. Implementar los indicadores de gestión de la Secretaría a fin de evaluar sus avances;
 
-III. Un Coordinador Ejecutivo, que será el titular de la Procuraduría;
+IV. Requerir y evaluar, los informes de avance y cumplimiento de objetivos y metas del Programa Operativo Anual, responsabilidad de cada unidad de la Dependencia;
 
-IV. Un Secretario Técnico, que será el subsecretario del Medio Ambiente de la Secretaría;
+V. Formular y suscribir conjuntamente con la Unidad Administrativa, los informes de avance físico financiero del Programa Operativo Anual a cargo de la Secretaría;
 
-V. Un integrante de la Comisión de Desarrollo Sustentable de la Legislatura del Estado;
+VI. Brindar asesoría a las diversas áreas de la Secretaría en lo referente a las actividades de planeación, programación de las acciones responsabilidad de la Dependencia;
 
-VI. Los vocales siguientes:
+VII. Supervisar las inspecciones, en el ámbito competencial de la Secretaría, encaminadas a verificar el cumplimiento de la normatividad en materia de Protección Civil;
 
-a) Secretario de Gobierno.
+VIII. Verificar que las empresas registradas ante la Secretaría, consideradas de mediano y alto riesgo, cuenten con su respectiva Unidad Interna de Protección Civil y el correspondiente Programa Interno;
 
-b) Secretario de Planeación y Finanzas.
+IX. Formular los proyectos de dictámenes técnicos de riesgo y vulnerabilidad;
 
-c) Secretario de Desarrollo Agropecuario.
+X. Integrar y mantener actualizados, de acuerdo con la información proporcionada por los obligados en términos de ley, los registros estatales relativos a:
 
-d) Secretario de Educación.
+a) Asociaciones y colegios de profesionales capacitadores en materia de Protección Civil;
 
-e) Secretario de la Juventud.
+b) Empresas dedicadas a la emisión de estudios de riesgo vulnerabilidad; y
 
-f) Secretario de Seguridad Ciudadana.
+c) Empresas consideradas de mediano y alto riesgo;
 
-g) Secretario de Salud.
+XI. Promover e impulsar, entre las dependencias y entidades de la Administración Pública Federal, Estatal, Municipal y la población en general, cursos de capacitación en materia de Protección Civil;
 
-h) Secretario de Desarrollo Urbano y Obras Públicas.
+XII. Asesorar a las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como a la población en general en la elaboración de los planes y programas en materia de Protección Civil;
 
-i) Secretario de Turismo.
+XIII. Supervisar, en coordinación con las dependencias y entidades competentes, que las obras encaminadas a la creación de nuevos asentamientos humanos cumplan con las disposiciones reglamentarias en materia de Protección Civil;
 
-j) Vocal Ejecutivo de la Comisión Estatal de Aguas.
+XIV. Contribuir a la promoción del estudio, la investigación y la capacitación en materia de Protección Civil;
 
-k) Procurador de Protección Ambiental del Estado de Querétaro.
+XV. Participar, en coordinación con las dependencias y entidades competentes, en la formulación de los proyectos de declaratorias de zonas de riesgo;
 
-l) Un representante de la sociedad.
+XVI. Formular los proyectos de dictámenes referentes a la reubicación de los asentamientos humanos en zonas de riesgo, así como los relativos a la prohibición de la ocupación de dichas zonas;
 
-La Comisión Estatal de Cambio Climático del Estado de Querétaro ejercerá las facultades y funciones que establece esta Ley y su reglamento.
+XVII. Fungir como enlace técnico entre el Gobierno del Estado y los responsables de los servicios vitales y sistemas estratégicos asentados en el Estado, a efecto de mantener una adecuada comunicación que permita la coordinación eficaz en la atención de emergencias;
 
-La Comisión Estatal de Cambio Climático del Estado de Querétaro podrá contar con un Consejo Consultivo, el cual se integrará de conformidad con lo establecido en el Reglamento Interior de la Comisión.
+XVIII. Gestionar ante la Secretaría de Educación, la incorporación de contenidos relativos a la Protección Civil en el sistema educativo estatal público y privado; y
+
+XIX. Las demás que le atribuyan las leyes y reglamentos, así como las que le encomiende el Secretario.
 
 ###### Artículo 11.
 
-(DEROGADO, P.O. 5 DE OCTUBRE DE 2012)
+Corresponde al Director General de Prevención de Riesgos:
 
-### Capítulo Segundo. De la participación de la sociedad
+I. Coordinar las acciones que se requieran para promover la instalación de unidades internas y programas de protección civil en los inmuebles señalados en la Ley;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2012)</small>
+II. Supervisar, por instrucciones del Secretario, los programas especiales que se requieran en la materia;
+
+III. Diseñar y producir campañas encaminadas a la difusión de la autoprotección ciudadana a efecto de concientizar a la población sobre su corresponsabilidad en las acciones de prevención y auxilio en situaciones de emergencia;
+
+IV. Coordinar las acciones de prevención con las dependencias y entidades competentes ante la posible presencia de agentes perturbadores;
+
+V. Participar en coordinación con las dependencias y entidades competentes, en la difusión de los programas, establecimiento de las medidas y aplicación de las acciones, que permitan mejorar la calidad de vida de los pueblos indígenas, mujeres, niños, personas de la tercera edad, personas con capacidades diferentes, migrantes, jornaleros agrícolas, organizaciones de la sociedad civil y grupos vulnerables en general;
+
+VI. Validar, previo cumplimiento de la normatividad en la materia, los Programas Internos de Protección Civil y el establecimiento de las Unidades Internas;
+
+VII. Contribuir a la educación de la autoprotección ciudadana que convoque y sume el interés de la población en general, así como su participación individual y colectiva;
+
+VIII. Fomentar la conformación de grupos de Brigadistas comunitarios, organizaciones civiles afines a la Protección Civil, grupos voluntarios y comités locales de ayuda mutua;
+
+IX. Actualizar el Atlas Estatal de Riesgos con el fin de identificar la presencia de riesgos potenciales;
+
+X. Contribuir, en coordinación con las dependencias y entidades competentes, en la elaboración de programas y desarrollo de acciones tendientes a la solución de los problemas ambientales y del manejo de residuos sólidos urbanos y los que requieren manejo especial;
+
+XI. Coordinar y en su caso supervisar redes de detección, monitoreo, pronóstico y medición de riesgos;
+
+XII. Supervisar el estudio y evaluación de los riesgos y daños provenientes de agentes perturbadores en coordinación con Instituciones de investigación, Academias, así como con las dependencias y entidades de los órdenes Federal, Estatal y Municipal;
+
+XIII. Contribuir en la elaboración de los diagnósticos relativos al impacto social, económico y ecológico de los riesgos que conllevan los agentes perturbadores;
+
+XIV. Concertar acciones en coordinación con las dependencias y entidades de la Administración Publica tanto Federal, Estatal y Municipal, que se encuentren relacionadas con el monitoreo y saneamiento de los cuerpos de agua; y
+
+XV. Las demás que atribuyan las leyes y reglamentos, así como las que le encomiende el Secretario.
+
+### CAPITULO II. Del Secretario
 
 #### Sección Primera. Del registro de personas con actividades ambientalistas
 
@@ -575,21 +265,69 @@ La Comisión Estatal de Cambio Climático del Estado de Querétaro podrá contar
 
 ###### Artículo 12.
 
-La Secretaría llevará un registro de personas físicas o morales, habitualmente dedicadas a desarrollar actividades ambientales, sean de derecho público, privado o social; dicho registro deberá incluirse en el Sistema Estatal de Información Ambiental, será voluntario para los interesados y tendrá por finalidad hacer efectivos los derechos de participación social establecidos en este ordenamiento.
+Corresponde al Director General de Administración de Emergencias:
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+I. Coordinar, previo acuerdo con el Secretario, las acciones para la identificación y atención de emergencias, cuando se afecten los servicios estratégicos del Estado, se prevea que la acción de los agentes perturbadores puedan afectar dos o mas municipios, o se vea superada la capacidad de respuesta de los ayuntamientos, en este ultimo caso se actuara a solicitud expresa de dichas autoridades;
+
+II. Coordinar la participación de los brigadistas comunitarios, comités científicos, comités locales de ayuda mutua, organizaciones civiles y de los grupos voluntarios, en la atención de las emergencias, así como en el restablecimiento de la normalidad;
+
+III. Organizar y dirigir la participación de las coordinaciones regionales en la identificación y atención de emergencias, así como en la elaboración y aplicación de los Planes Regionales de Protección Civil;
+
+IV. Realizar, en coordinación con las autoridades municipales de Protección Civil, la evaluación de daños y el análisis de necesidades en las zonas afectadas;
+
+V. Operar el centro de comunicaciones y el centro estatal de información sobre emergencias y desastres;
+
+VI. Coordinar el monitoreo de información y recabar los reportes relacionados con el estado que guardan los servicios vitales, los sistemas estratégicos y en general la Entidad, durante todas las horas y días del año;
+
+VII. Recabar los reportes relativos a los daños causados por agentes perturbadores en los distintos municipios que conforman la Entidad;
+
+VIII. Mantener informado al Secretario, de manera constante y previa verificación, con la síntesis de los asuntos a que se hace mención en las fracciones anteriores;
+
+IX. Alertar a los órganos municipales y población en general acerca de la presencia de agentes perturbadores en su demarcación territorial, orientándolos a efecto de que se tomen las medidas de seguridad a que haya lugar;
+
+X. Apoyar, a la Dirección General de Prevención de Riesgos en la elaboración del Atlas Estatal de Riesgos, a través del informe de datos recabados en operativos;
+
+XI. Integrar y mantener actualizado el registro estatal de brigadistas comunitarios, comités científicos, comités locales de ayuda mutua, organizaciones civiles y grupos voluntarios;
+
+XII. Las demás que le atribuyan las leyes y reglamentos, así como las que le encomiende el Secretario.
 
 ###### Artículo 13.
 
-Las personas morales que deseen obtener el registro a que se refiere esta sección, deberán acreditar su constitución, a través de los documentos y estatutos correspondientes, en los que, de manera expresa, conste la actividad ambiental.
+La Secretaría contará con Coordinaciones Regionales, dependientes de la Dirección General de Administración de Emergencias, las cuales tendrán la sede que el Secretario designe y la circunscripción territorial siguiente:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+I. Coordinación Regional Huasteca Alta.- Pánuco, El Higo, Puebla Viejo, Tampico Alto, Tempoal, Ozuluama, Chiconamel, Platón Sánchez, Chalma, Tantoyuca, Tantita, Tamalín, Chinampa de Gorostiza, Naranjos Amatlán y Tamiahua;
+
+II. Coordinación Regional Huasteca Baja.- Benito Juárez, Castillo de Teayo, Cerro Azul, Chicontepec, Chontla, Citlaltépetl, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Tancoco, Temapache, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán;
+
+III. Coordinación Regional Totonaca.- Cazones de Herrera, Chumatlán, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo;
+
+IV. Coordinación Regional Nautla.- Atzalan, Colipa, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, San Rafael, Tenochtitlán, Tlapacoyan, Vega de Alatorre y Yecuatla;
+
+V. Coordinación Regional Capital.- Acajete, Acatlán, Actopan, Alto Lucero de Gutiérrez Barrio, Altotonga, Apazapan, Ayahualulco, Banderilla, Chiconquiaco, Coacoatzintla, Coatepec, Cosautlán de Carvajal, Emiliano Zapata, Ixhuacán de los Reyes, Jalacingo, Jalcomulco, Jilotepec, Landero y Coss, Las Minas, Las Vigas de Ramírez, Miahuatlán, Naolinco, Perote, Rafael Lucio, Tatatila, Teocelo, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tonayán, Villa Aldama, Xalapa y Xico;
+
+VI. Coordinación Regional Sotavento.- Boca del Río, Cotaxtla, Jamapa, La Antigua, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tlalixcoyan, Úrsulo Galván y Veracruz;
+
+VII. Coordinación Regional Montaña.- Acultzingo, Alpatláhuac, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Chocamán, Coetzala, Comapa, Córdoba, Coscomatepec, Cuichapa, Cuitláhuac, Fortín, Huatusco, Huiloapan de Cuauhtémoc, Ixhuatlán del Café, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Sochiapa, Soledad Atzompa, Tehuipango, Tenampa, Tepatlaxco, Tequila, Texhuacán, Tezonapa, Tlacotepec de Mejía, Tlaltetela, Tlaquilpa, Tlilapan, Tomatlán, Totutla, Xoxocotla, Yanga, Zentla y Zongolica;
+
+VIII. Coordinación Regional Papaloapán.- Acula, Alvarado, Amatitlán, Ángel R. Cabada, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan, Ignacio de la Llave, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Lerdo de Tejada, Otatitlán, Playa Vicente, Saltabarranca, Santiago Sochiapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tres Valles, Tuxtilla;
+
+IX. Coordinación Regional Los Tuxtlas.- Catemaco, Hueyapan de Ocampo, San Andrés Tuxtla y Santiago Tuxtla; y
+
+X. Coordinación Regional Olmeca.- Acayucan, Agua Dulce, Chinameca, Coatzacoalcos, Cosoleacaque, Hidalgotitlán, Ixhuatlán, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan, Texistepec, Uxpanapa y Zaragoza.
+
+Cuando por circunstancias operativas se requiera, y por acuerdo escrito del Secretario, las Coordinaciones Regionales podrán cambiar de sede o circunscripción territorial en forma temporal o definitiva, o en su caso desaparecer.
 
 ###### Artículo 14.
 
-Las personas registradas son responsables de mantener actualizados sus datos en el registro.
+Son atribuciones del Coordinador circunscripción territorial, las siguientes:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2012)</small>
+I. Coordinar, con las autoridades municipales en Protección Civil, las acciones de prevención, mitigación de riesgos, auxilio de la población y la implementación de las medidas de seguridad, durante la presencia de agentes perturbadores o de situaciones de emergencia;
+
+II. Representar a la Secretaría ante las oficinas regionales o representaciones de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+
+III. Asesorar a las empresas consideradas de mediano y pequeño riesgo en la elaboración de su Programa Interno de Protección Civil; y
+
+IV. Las demás que le atribuyan las leyes y reglamentos, así como las que le encomienden el Secretario o el Director General de Administración de Emergencias.
 
 #### Sección Segunda. De los prestadores de servicios y verificadores ambientales
 
@@ -597,193 +335,235 @@ Las personas registradas son responsables de mantener actualizados sus datos en 
 
 ###### Artículo 15.
 
-Podrán prestar servicios ambientales las personas físicas que cuenten con cédula profesional con efectos de patente o estén autorizadas para el ejercicio de la profesión respectiva o las morales cuyo objeto social sea la prestación de esos servicios.
+Corresponde al Coordinador del Centro de Estudios Climáticos:
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+I. Desarrollar, promover y fomentar los estudios, la capacitación y la implementación de tecnología para coadyuvar en la prevención y acciones a efectuar ante los efectos de agentes perturbadores de origen climático;
+
+II. Realizar acopio, procesamiento, registro, e interpretación de información atmosférica, hidrometeorológica y meteorológica;
+
+III. Analizar los factores y procesos, a escala sinóptica y regional, que generan situaciones de riesgo en las cuencas del Estado, a fin de ayudar en la mejora de su predicción;
+
+IV. Dictar líneas de atención y coordinación en la prevención, atención y mitigación de los riesgos ocasionados por la presencia de agentes perturbadores de carácter climático;
+
+V. Dar seguimiento a la evaluación de variables meteorológicas, principalmente sobre precipitación pluvial;
+
+VI. Emitir dictámenes técnicos respecto del impacto de los agentes perturbadores de origen climático;
+
+VII. Fungir como enlace entre el Gobierno del Estado y el Servicio Meteorológico Nacional, y con otras instituciones similares y afines del país e internacionales; y
+
+VIII. Las demás que le atribuyan las leyes y reglamentos, así como las que le encomiende el Secretario.
 
 ###### Artículo 16.
 
-No podrán prestar servicios ambientales, directamente ni a través de terceros, los servidores públicos que intervengan en cualquier forma en la aplicación de la presente Ley, ni las personas con las que tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda generar en beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas morales de las que el servidor público o las personas antes referidas formen o hayan formado parte. La infracción a lo anterior será sancionada en los términos de la presente Ley y los demás ordenamientos jurídicos aplicables.
+Son atribuciones del Director Jurídico, las siguientes:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+I. Fungir como el Consejero Jurídico y representar a la Secretaría en los juicios en que sea parte;
+
+II. Coordinar la elaboración y revisión de los proyectos de iniciativa de leyes o decretos, así como los proyectos de reglamentos, acuerdos, lineamientos y disposiciones en las materias competencia de la Secretaría, en coordinación con las diversas áreas administrativas que la integran;
+
+III. Resolver las consultas jurídicas que le formulen los titulares de las Direcciones Generales, Unidad Administrativa, Coordinación, Subdirecciones, Departamentos y demás áreas administrativas de la Secretaría, sobre asuntos relativos al desempeño de sus funciones;
+
+IV. Establecer los criterios generales respecto de la interpretación y aplicación del Marco Jurídico, los cuales tendrán el carácter de obligatorios para las áreas administrativas de la Secretaría;
+
+V. Fijar el criterio jurídico, cuando dos o más Direcciones Generales, Dirección de Área, Coordinación, Subdirecciones o Departamentos de la Secretaría, emitan opiniones contradictorias entre sí;
+
+VI. Proponer medidas para la aplicación de las disposiciones legales, compilar y divulgar las leyes, reglamentos, decretos, acuerdos, circulares, tesis jurisprudenciales, así como otras disposiciones legales relacionadas con la esfera de la competencia de la Secretaría;
+
+VII. Validar los contratos de adquisiciones, arrendamientos, prestación de servicios o de cualquier otro tipo en los que sea parte la Secretaría, así como llevar el registro correspondiente;
+
+VIII. Conforme a las disposiciones aplicables, presentar denuncias, acusaciones o querellas y ratificarlas, en asuntos que afecten a la Secretaría;
+
+IX. Intervenir ante los órganos jurisdiccionales y comparecer ante todo tipo de autoridades Federales, Estatales y Municipales en representación de la Secretaría, en las controversias y asuntos en que sea parte;
+
+X. Asesorar a las áreas administrativas de la Secretaría en los asuntos laborales relativos a su personal, incluso en la práctica y levantamiento de constancias y actas administrativas en esta materia;
+
+XI. Coadyuvar con el Ministerio Público Estatal o Federal en representación de la Secretaría, en procesos penales de los que tenga conocimiento o los que sean de su interés, así como proporcionar los elementos necesarios para la mejor atención de los asuntos, cuando así lo soliciten o cuando la representación del Gobierno del Estado le corresponda;
+
+XII. Supervisar el estado que guardan los juicios de amparo que hayan sido promovidos en contra de las autoridades de la Secretaría, así como elaborar los informes previos y justificados que en dicha materia se deban rendir;
+
+XIII. Expedir copias certificadas de los documentos que obran en los archivos y expedientes de la Dependencia a petición de particulares y autoridades competentes;
+
+XIV. Coordinarse con las áreas jurídicas de las diferentes Dependencias y Entidades, de la Administración Publica tanto Federal, Estatal o Municipal en asuntos de su competencia;
+
+XV. Participar en la elaboración de los manuales, circulares, instructivos y otras disposiciones reglamentarias de carácter administrativo que competan a la Secretaría, así como emitir opinión sobre las formalidades y requisitos jurídicos de los documentos oficiales de la misma;
+
+XVI. Conocer y tramitar los recursos de revocación que se interpongan en contra de actos o resoluciones administrativas, dictadas por cualquiera de los funcionarios referidos en el segundo párrafo del artículo 5 del presente Reglamento, que deberán ser suscritos por el servidor público que resulte competente en términos del Código de Procedimientos Administrativos para el Estado; y
+
+XVII. Las demás que le atribuyan las leyes, reglamentos y otras disposiciones normativas aplicables, así como las que le sean conferidas por el Secretario.
 
 ###### Artículo 17.
 
-Las empresas o particulares que presten servicios en materia de impacto y riesgo ambiental, cuyos informes, manifestaciones o estudios contengan datos falsos o incorrectos y omitan la identificación de impactos negativos por negligencia, dolo o mala fe, serán sancionados en los términos de la presente Ley y los demás ordenamientos jurídicos aplicables.
+Son atribuciones del Jefe de la Unidad Administrativa, además de las señaladas en el Código Financiero para el Estado de Veracruz, las siguientes:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+I. Exponer a la aprobación del Secretario, las políticas, bases y lineamientos necesarios para el ejercicio de los recursos humanos, materiales y financieros de la Secretaría;
+
+II. Por acuerdo del Secretario, planear, organizar, coordinar y dirigir las funciones administrativas de la Dependencia;
+
+III. Formular el proyecto de presupuesto de egresos de la Secretaría, de acuerdo con la normatividad de la materia y los lineamientos que emita la Secretaría de Finanzas y Planeación, así como someterlo a la consideración del Secretario;
+
+IV. Llevar el control presupuestal y contable de la Secretaría, y custodiar su documentación, en cumplimiento a los lineamientos que emita la Secretaría de Finanzas y Planeación;
+
+V. Presentar ante la Secretaría de Finanzas y Planeación en tiempo y forma, los reportes de avance presupuestal, estados financieros, y el cierre presupuestal y contable de la Dependencia;
+
+VI. Realizar las afectaciones, transferencias y recalendarizaciones presupuestales de acuerdo a los lineamientos establecidos por la Secretaría de Finanzas y Planeación;
+
+VII. Integrar y remitir a la Secretaría de Finanzas y Planeación, los expedientes de rescisión de contratos en los que se hayan otorgado garantías de cumplimiento a favor del Gobierno del Estado para el requerimiento del pago correspondiente;
+
+VIII. Integrar, registrar y controlar el inventario interno de bienes muebles de la Secretaría, e informar oportunamente a la Secretaría de Finanzas y Planeación los movimientos que se realicen para su registro en el inventario general;
+
+IX. Proponer al Secretario, previo acuerdo con los Directores Generales, el nombramiento de los empleados de base y de confianza y, en su caso, el cese o rescisión de la relación laboral cuando así proceda;
+
+X. Llevar el control de los movimientos de personal y aplicar su operación en el sistema de pagos correspondiente;
+
+XI. Integrar, elaborar y presentar el programa anual de adquisiciones de la Secretaría, y someterlo a consideración del Subcomité de Adquisiciones y Obras Publicas;
+
+XII. Planear, ejecutar y controlar el programa de arrendamientos, conservación, uso, destino, afectación, enajenación, baja, almacenamiento, control de inventarios y en general, todo acto relacionado con bienes muebles de propiedad estatal asignados a la Secretaría;
+
+XIII. Evaluar y autorizar las solicitudes de recursos humanos, materiales y financieros de las áreas operativas de la Dependencia;
+
+XIV. Autorizar los pagos de las adquisiciones, arrendamientos y prestación de servicios de acuerdo con las bases y normas aplicables;
+
+XV. Tramitar por conducto de la Secretaría de Finanzas y Planeación, la autorización ante el Congreso del Estado de los casos de enajenación de bienes muebles;
+
+XVI. Autorizar y llevar el control de las asignaciones y resguardos, uso, destino, mantenimiento y baja de maquinaria, vehículos y transportes asignados a la Secretaría;
+
+XVII. Proporcionar y controlar los servicios generales que requieran las distintas áreas de la Secretaría para el cumplimiento de sus atribuciones, incluyendo los servicios de informática;
+
+XVIII. Celebrar contratos de prestación de servicios y de arrendamientos de bienes muebles e inmuebles, previa validación de la Dirección Jurídica, ajustándose en todo momento a la normatividad aplicable;
+
+XIX. Analizar y revisar en forma periódica, la estructura ocupacional y la eficiencia de los servicios administrativos que proporciona, y proponer al Secretario medidas para su mejoramiento;
+
+XX. Verificar que el manejo y aplicación de los recursos humanos, materiales y financieros, se realicen bajo los criterios de racionalidad, austeridad y disciplina presupuestaria;
+
+XXI. Desarrollar y mantener en óptimas condiciones los sistemas informáticos, que permitan la automatización de las tareas y la información veraz y oportuna para la toma de decisiones;
+
+XXII. Dar a los equipos informáticos de la dependencia el soporte técnico de carácter preventivo o correctivo que se requiera; y
+
+XXII (SIC). Las demás que le atribuyan las leyes, reglamentos y otras disposiciones legales aplicables, así como las que le sean conferidas por el Secretario.
 
 ###### Artículo 18.
 
-La Secretaría, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de contaminación que sean de su competencia, deberá expedir autorizaciones a los interesados que cumplan los requisitos correspondientes.
+Son atribuciones de la Unidad de Acceso a la Información:
 
-Para tal efecto, emitirá previamente convocatoria pública en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", o bajo invitación restringida, en la cual se determinará la capacidad técnica y financiera y las demás condiciones que deban reunir para obtener la autorización; las normas y procedimientos de verificación que se deberán de observar, así como el número y ubicación de las instalaciones de verificadores ambientales que correspondan.
+I. Recabar y difundir la información de oficio a que se refiere a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+II. Recibir y tramitar dentro del plazo establecido en la Ley, las solicitudes de acceso a la información pública;
+
+III. Entregar o negar la información requerida, fundando y motivando su resolución en los términos de la ley;
+
+VI (SIC). Diseñar procedimientos que faciliten la tramitación y adecuada atención a las solicitudes de acceso a la información de la Secretaría;
+
+VII. Aplicar los criterios y lineamientos prescritos por la Ley y el Instituto de Acceso a la información Pública en materia de ordenamiento, manejo, clasificación y conservación de los documentos, registros y archivos;
+
+VIII. Preparar, conforme a los lineamientos de la Ley, los formatos sugeridos para las solicitudes de acceso a la información pública, así como para la corrección de datos estrictamente personales;
+
+IX. Realizar los trámites internos necesarios para localizar y entregar la información pública requerida;
+
+Dependencias que pudieran poseer la información pública que solicitan y de la que no se dispone;
+
+XI (SIC). Llevar un registro de las solicitudes de acceso a la información sus resultados y los costos de atención de este servicio, así como los tiempos observados para las respuestas;
+
+XIII (SIC). Las demás necesarias para garantizar y agilizar el flujo de información entre la Secretaría y los particulares.
 
 ###### Artículo 19.
 
-La Secretaría deberá autorizar a los verificadores ambientales de fuentes móviles, para el ejercicio de sus actividades.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+La Unidad de Acceso a la Información Pública contará con un comité de información de acceso restringido, el cual tendrá la responsabilidad de emitir un acuerdo que clasifique la información reservada y confidencial. De conformidad con la Ley de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 20.
 
-Queda estrictamente prohibido realizar funciones de verificadores ambientales sin contar con la autorización correspondiente; la violación al presente artículo será sancionada en los términos de las leyes penales y administrativas vigentes.
+El Comité de Información y Acceso Restringido de la Secretaría estará integrado por:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+I. El Titular de la Secretaría de Protección Civil;
+
+II. El Titular o Responsable de la Unidad de Acceso;
+
+III. El Titular del Área Jurídica;
+
+IV. Los demás colaboradores que así se determinen;
+
+V. Los integrantes señalados en las fracciones I, II y III tendrán carácter de vocales.
+
+El Secretario designará a un colaborador que fungirá como Secretario del Comité, quien contara con voz, pero no con voto.
 
 ###### Artículo 21.
 
-En la autorización respectiva para prestar el servicio de verificación de emisiones contaminantes, deberá señalarse plazo específico, términos, y condiciones para el inicio de operaciones por parte de los responsables.
-
-La Secretaría, fijará el monto de la fianza que deberá otorgar, misma que será expedida por compañía autorizada.
-
-La fianza deberá permanecer vigente por todo el tiempo que dure la autorización.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Los miembros del Comité podrán nombrar suplentes que los representen en las sesiones.
 
 ###### Artículo 22.
 
-La autorización para prestar el servicio de verificación de emisiones contaminantes tendrá la vigencia de tres años, sujeto a refrendo anual, pudiendo revalidarse en los términos del reglamento que al efecto expida el titular del Poder Ejecutivo del Estado.
-
-La Secretaría podrá revocar la autorización anticipadamente, por resolución fundada y motivada, oyendo previamente al interesado.
-
-A quien se le revoque la autorización, no podrá volver a otorgársele.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+El Comité de Información de Acceso Restringido sesionará de manera ordinaria una vez al mes, y en forma extraordinaria las veces que sean necesarias, a solicitud de cualquier miembro del Comité.
 
 ###### Artículo 23.
 
-Los verificadores ambientales están obligados a:
-
-I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, en la norma oficial mexicana y en las normas técnicas ambientales estatales, así como el programa de verificación, la convocatoria y la autorización respectiva;
-
-II. Acreditar que el personal que efectúe las verificaciones esté debidamente capacitado;
-
-III. Mantener sus instalaciones y equipos calibrados y en óptimas condiciones, observando los requisitos que fije la Secretaría para la debida prestación del servicio;
-
-IV. Destinar zonas exclusivas para verificación de emisiones contaminantes en sus respectivos establecimientos, sin efectuar en éstas reparaciones mecánicas, venta de refacciones o cualquier otra actividad industrial, comercial o de servicios distinta a la verificación;
-
-V. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría, los datos obtenidos en los términos fijados por ésta;
-
-VI. Dar aviso inmediato a la Secretaría, cuando dejen de prestar el servicio de verificación o cuando los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
-
-VII. Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría, para acreditar la aprobación de la verificación, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
-
-VIII. Dar aviso inmediato a la Secretaría, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación, independientemente de la denuncia del ilícito ante el Ministerio Público;
-
-IX. Enviar a la Secretaría, en los términos establecidos por ésta, la documentación requerida para la supervisión y control de la verificación; y
-
-X. Mantener en vigor la fianza correspondiente durante la vigencia de la autorización para prestar el servicio de verificación.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+En la sesiones del Comité de Información de acceso restringido. Los integrantes tendrán derecho a voz y voto, y adoptarán sus decisiones por mayoría de votos. El Presidente tendrá voto de calidad en caso de empate.
 
 ###### Artículo 24.
 
-El incumplimiento de cualquiera de las obligaciones a que se refiere el artículo anterior, será causa de revocación de la autorización o concesión correspondiente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Las sesiones ordinarias se convocaran con al menos una anticipación de tres días hábiles a la fecha de su celebración. Y la convocatoria, en la que se señalará la fecha, lugar y hora de la sesión, deberá ir acompañada del orden del día propuesto y de la documentación relativa a los asuntos a tratar.
 
 ###### Artículo 25.
 
-Sólo serán reconocidos los laboratorios especializados que hayan logrado su acreditación conforme a la Ley Federal sobre Metrología y Normalización.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+De las sesiones del Comité se levantará acta que será firmada por los miembros participantes, la cual servirá de base para la elaboración del acuerdo de clasificación de información reservada y confidencial.
 
 ###### Artículo 26.
 
-La Secretaría, conforme al Reglamento que para el efecto se expida, establecerá y mantendrá actualizado un registro de prestadores de servicios ambientales que se integrará al Sistema Estatal de Información Ambiental. Para quedar inscritos en este registro, los interesados deberán:
+En cumplimiento de los (sic) a lo que dispone la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, le corresponde al comité realizar las siguientes funciones:
 
-I. Presentar solicitud de inscripción ante la Secretaría, en los términos de la convocatoria respectiva;
+I. Determinar sobre la clasificación de la información que los titulares de cada área realicen;
 
-II. Acreditar su capacidad técnica, proporcionando la información y documentación que la Secretaría determine;
+II. Atender los Lineamientos que emita el Instituto Veracruzano de acceso a la Información;
 
-III. Pagar los derechos correspondientes;
+III. Formular observaciones y recomendaciones a las áreas de la Secretaría de
 
-IV. Obtener el refrendo, en su caso, de conformidad con las disposiciones reglamentarias; y
-
-V. Cumplir los demás requisitos en los términos de la convocatoria que al efecto se emita y de las disposiciones reglamentarias que resulten aplicables.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Protección Civil para la realización de las acciones que en el ámbito de su competencia, sean necesarias para el cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 27.
 
-La Secretaría podrá cancelar en cualquier momento el registro de prestadores de servicios ambientales, cuando el registrado:
+Corresponde a los miembros del Comité:
 
-I. Dolosamente haya presentado datos falsos en la solicitud de registro o refrendo;
+I. Asistir a las sesiones del Comité;
 
-II. Pierda la capacidad técnica que acreditó para obtener el registro o refrendo o se haga imposible la prestación del servicio;
+II. Sugerir al Presidente del Comité, los asuntos que deban tratarse en las sesiones del Comité;
 
-III. Incumpla los trabajos que le fueren contratados;
+III. Intervenir en las discusiones del Comité;
 
-IV. En su caso, le sea decretada alguna de las medidas de seguridad que para las personas jurídicas colectivas establece el Código Penal para el Estado de Querétaro;
+IV. Emitir su voto respecto a los asuntos tratados en las sesiones;
 
-V. Sea declarado culpable en sentencia ejecutoriada, de los delitos de fraude genérico, falsificación y uso indebido de documentos, uso de documentos falsos o alterados o usurpación de profesiones; y
+V. Proponer la asistencia de servidores públicos que por la naturaleza de los asuntos a tratar deban asistir a sesiones del Comité; y
 
-VI. Lo solicite expresamente ante la Secretaría.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+VI. Las demás atribuciones que se requieran para el ejercicio de sus funciones.
 
 ###### Artículo 28.
 
-Las personas físicas o morales inscritas en el Registro, estarán obligadas a citar su clave de registro en cualquier trabajo de carácter ambiental que realicen en la Entidad y que deba ser tramitado o presentado ante autoridades estatales o municipales.
+Corresponde al Presidente del Comité:
 
-> <small>N. DE E. DEROGADA, P.O. 5 DE OCTUBRE DE 2012</small>
+I. Convocar y presidir las sesiones;
+
+II. Proponer el orden del día;
+
+III. Tener el voto de calidad en caso de empate en la toma de decisiones del Comité: y
+
+IV. Las demás atribuciones que se requieran para el ejercicio de sus funciones.
 
 #### Sección Tercera. De los prestadores de servicios y verificadores ambientales
 
 ## Título Tercero. De la política y la planeación ambiental en el Estado
 
-### Capítulo Primero. De la formulación y conducción de la política
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+### CAPITULO III. De las Direcciones Generales, Unidad Administrativa, Dirección Jurídica y Coordinaciones
 
 ###### Artículo 29.
 
-Para la formulación y conducción de la política ambiental y la expedición de los instrumentos previstos en esta Ley, se observarán los siguientes principios:
+La Secretaría contara con un Órgano Interno de Control dependiente jerárquica y funcionalmente de la Contraloría General.
 
-I. Los ecosistemas y la atmósfera terrestre, son patrimonio común de la humanidad y de su equilibrio dependen la vida y el desarrollo sustentable del país y la Entidad;
+El titular de la Contraloría Interna será designado en términos de los artículos 8, fracción VI y 34 fracción XIII de la Ley Orgánica del Poder Ejecutivo, mismo que en el ejercicio de sus facultades, se auxiliará por los servidores públicos que serán designados en los términos del Reglamento Interior de la Contraloría General.
 
-II. Los ecosistemas y sus elementos deben ser aprovechados eficientemente, de manera que se asegure su aprovechamiento sostenido, sin alterar su integridad y equilibrio;
-
-III. Las autoridades y los particulares deben asumir la responsabilidad de la preservación y restauración del equilibrio ecológico y la protección del ambiente;
-
-IV. Los sujetos de la concertación ecológica son los individuos, los grupos y las organizaciones sociales y su propósito es armonizar las relaciones entre la sociedad y la naturaleza;
-
-V. La prevención de las causas que generan el desequilibrio ecológico, es el medio más eficaz para evitarlo;
-
-VI. Los recursos naturales no renovables deben utilizarse evitando el peligro de su agotamiento y la generación de efectos ecológicos adversos;
-
-VII. La coordinación entre los diversos niveles de gobierno y la concertación con la sociedad, son indispensables para la eficacia de las acciones ambientales;
-
-VIII. La preservación y restauración del equilibrio ecológico estatal en el ejercicio de las atribuciones que las leyes confieren al Estado y a los municipios para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los sectores económico y social;
-
-IX. Toda persona tiene derecho a disfrutar de un ambiente sano. Las autoridades, en los términos de ésta y otras leyes, tomarán las medidas para preservar ese derecho;
-
-X. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural de los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida de la población;
-
-XI. Es interés del Estado que las actividades que se lleven a cabo dentro de su territorio, no afecten el equilibrio ecológico de otros Estados o zonas de jurisdicción federal;
-
-XII. Las autoridades competentes, en igualdad de circunstancias ante los demás Estados, promoverán la preservación y restauración del equilibrio de los ecosistemas regionales y globales, tanto terrestres como acuáticos, así como la protección de la atmósfera; con esta finalidad, las autoridades del Estado podrán actuar conjunta y coordinadamente con autoridades de la Federación u otras entidades federativas;
-
-XIII. Quien realice obras o actividades que afecten o puedan afectar al ambiente, está obligado a prevenir y minimizar los impactos adversos y a reparar el daño material que provoque, así como a asumir los costos que implique tal afectación;
-
-XIV. Las autoridades competentes deben buscar y establecer incentivos y reconocimientos dirigidos a quienes protejan el ambiente y aprovechen de manera sustentable los recursos naturales;
-
-XV. Los patrones de producción y consumo deben orientarse con criterios ambientales hacia la minimización y valorización de los residuos, para la utilización de productos reciclados; y
-
-XVI. La atmósfera es un bien ambiental que debe protegerse y preservarse, pues cualquier transformación que sufra en las concentraciones de los gases que forman parte de ella, afecta a los ecosistemas y a los grupos humanos en su conjunto.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Los servidores públicos de la Secretaría están obligados a proporcionar las facilidades que requiera el Titular la (sic) Contraloría Interna para el desempeño de sus facultades.
 
 ###### Artículo 30.
 
-Con arreglo a las disposiciones de este Título, los municipios del Estado deberán aprobar los principios y fines de su política ambiental y expedirán los Programas Municipales de Protección al Ambiente, en concordancia con el programa formulado por el Poder Ejecutivo del Estado, al que dará amplia difusión entre la población del municipio.
+Durante las ausencias del Secretario, la resolución de los asuntos correspondientes a la Dependencia, estarán a cargo del servidor público que éste designe.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2012)</small>
-
-### Capítulo Segundo. De la planeación ambiental
+### CAPITULO IV. De la Dirección General de planeación y Normatividad
 
 #### Sección Primera. De la planeación ambiental
 
@@ -791,33 +571,19 @@ Con arreglo a las disposiciones de este Título, los municipios del Estado deber
 
 ###### Artículo 31.
 
-En la planeación del desarrollo estatal, será considerada la política ambiental y el ordenamiento ecológico que se establezcan de conformidad con esta Ley y demás disposiciones aplicables.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Durante las ausencias de Directores Generales, Coordinadores, Subdirectores y Jefes de Departamento, estos serán sustituidos por el servidor público que en cada caso designe el titular del área.
 
 ###### Artículo 32.
 
-En la planeación del desarrollo estatal y municipal, y de conformidad con la política ambiental, deberán incluirse los estudios y evaluación del impacto ambiental, análisis de riesgo, geológico e hidrometereológico de las obras, acciones o servicios que se realicen en el Estado, y que puedan generar un deterioro sensible en los ecosistemas.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Las remuneraciones del Secretario, Director General, Directores, Coordinadores y demás personal de Dirección, Administración e Inspección, serán las fijadas en el presupuesto anual del poder ejecutivo.
 
 ###### Artículo 33.
 
-El Poder Ejecutivo del Estado a través de la Secretaría, emitirá, durante el primer año de su ejercicio constitucional, la política ambiental de la Entidad, mediante el Programa Estatal de Protección al Ambiente que con la participación de los sectores público, privado y social, elabore de conformidad con esta Ley, la Ley de Planeación del Estado de Querétaro y demás disposiciones aplicables. El programa, que se incorporará al Sistema Estatal de Información Ambiental, deberá ser publicado por una sola ocasión en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en dos de los periódicos de mayor circulación en la Entidad.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Las relaciones de trabajo entre la Secretaría y su personal de base se regirán por la Ley estatal del servicio civil del Estado de Veracruz y sus Municipios, reglamentos y demás disposiciones jurídicas laborales aplicables.
 
 ###### Artículo 34.
 
-El Programa Estatal de Protección al Ambiente establecerá por lo menos:
-
-I. El diagnóstico ambiental de la Entidad;
-
-II. Los objetivos planteados;
-
-III. Las estrategias y acciones prioritarias que permitan revertir o frenar el deterioro ambiental; y
-
-IV. Los mecanismos y autoridades implicados en su ejecución, evaluación y vigilancia.
+Son servidores públicos de confianza: el Secretario, los Directores Generales, Directores de área, coordinadores y demás personal que tenga facultades de inspección, supervisión, vigilancia, auditoria, asesoría, custodia de bienes y demás que señalen la Ley y los reglamentos correspondientes.
 
 #### Sección Segunda. Del ordenamiento ecológico
 
@@ -825,29 +591,13 @@ IV. Los mecanismos y autoridades implicados en su ejecución, evaluación y vigi
 
 ###### Artículo 35.
 
-El ordenamiento ecológico del territorio del Estado se realizará a través de los programas de ordenamiento ecológico de ámbito regional o local correspondiente, conforme a lo siguiente:
-
-I. Serán de ámbito regional, los programas que abarquen la totalidad o una parte del territorio del Estado; y
-
-II. Serán de ámbito local, los programas que abarquen la totalidad o una parte del territorio de un municipio.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+La Secretaría, por conducto de sus unidades administrativas, planeara sus actividades y conducirá las mismas en forma programada, con base en las políticas, prioridades y restricciones que para el logro de los objetivos y metas del Plan Veracruzano de Desarrollo, y del Programa Estatal de Protección Civil, establezca el Titular del Ejecutivo, a través del Secretario.
 
 ###### Artículo 36.
 
-Para establecer y regular el ordenamiento ecológico en la Entidad, se considerarán los siguientes criterios:
+El Titular del Ejecutivo nombrará y removerá libremente al Secretario.
 
-I. Cada ecosistema tiene características y funciones que deben ser respetadas;
-
-II. Las áreas o zonas dentro de los asentamientos tienen una vocación que es función de sus recursos naturales, de la distribución de la población y de las actividades económicas predominantes;
-
-III. Los asentamientos y actividades humanos y los fenómenos naturales pueden causar desequilibrio en los ecosistemas tanto terrestres como acuáticos y en la atmósfera;
-
-IV. El cambio climático generado por la acumulación de gases de efecto invernadero puede causar desequilibrio en los ecosistemas tanto terrestres como acuáticos y en la atmósfera; y
-
-V. Para alcanzar las metas del ordenamiento ecológico, debe considerarse la opinión de las personas físicas y morales interesadas.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+Los Directores Generales, Jefe de Unidad Administrativa, Director Jurídico, Coordinadores, Subdirectores, Jefes de Departamento y los demás servidores públicos adscritos a las diferentes áreas de la Dependencia serán designados, nombrados y removidos por el Secretario.
 
 ###### Artículo 37.
 
@@ -1431,9 +1181,7 @@ X. Fomentará la evaluación de los resultados de la política ambiental.
 
 ## Título Cuarto. De la preservación y restauración del equilibrio ecológico y conservación de los recursos naturales
 
-### Capítulo Primero. De las áreas naturales protegidas
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+### CAPITULO V. De la Dirección General de Prevención de Riesgos
 
 ###### Artículo 78.
 
@@ -1573,7 +1321,7 @@ Los parques periurbanos se definen como cinturones periféricos o cuasiperiféri
 
 En estas subcategorías se podrán establecer usos mixtos, destinados al uso de servicios y comercio bajo criterios sustentables hasta un máximo de 5% del total de la superficie, quedando a criterio de la autoridad, en base al dictamen técnico, la determinación de la localización, su superficie, condicionantes y aprobación del reglamento interior, siempre y cuando no afecte la estructura, conectividad y funciones ecosistémicas dentro de la zona de preservación ecológica de los centros de población que corresponda.
 
-### Capítulo Segundo. Del Sistema Estatal de Áreas Naturales Protegidas
+### CAPITULO VI. De la Dirección General de Administración de Emergencias
 
 ###### Artículo 89.
 
@@ -1615,9 +1363,7 @@ Tratándose de zonas de preservación ecológica de centros de población, la de
 
 Las áreas naturales protegidas de jurisdicción estatal, no podrán establecerse en áreas previamente establecidas por la federación, salvo en el caso de la categoría de áreas de protección de recursos naturales sobre las cuales se pueden establecer reservas y parques estatales. Del mismo modo, las autoridades municipales no podrán establecer áreas protegidas sobre áreas ya protegidas por las autoridades estatales.
 
-### Capítulo Tercero. De las declaratorias para el establecimiento, conservación, administración, desarrollo y vigilancia de áreas naturales protegidas
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+### CAPITULO VII. Del Centro de Estudios Climáticos
 
 ###### Artículo 93.
 
@@ -1779,7 +1525,7 @@ La Secretaría o los ayuntamientos publicarán en el Periódico Oficial del Gobi
 
 Todos los actos relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas, deberán contener referencia de la declaratoria de establecimiento correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad y del Comercio. Los notarios o cualesquiera otros fedatarios públicos, sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente artículo. Serán nulos los actos que contravengan las prevenciones contenidas en la declaratoria respectiva.
 
-### Capítulo Cuarto. De la preservación y restauración del equilibrio ecológico
+### CAPITULO VIII. De la Dirección Jurídica
 
 ###### Artículo 107.
 
@@ -1833,9 +1579,7 @@ El titular del Poder Ejecutivo del Estado propondrá al Poder Ejecutivo Federal,
 
 Para efectos de preservar y restaurar las condiciones que propicien el desarrollo sustentable en la Entidad, el titular del Poder Ejecutivo del Estado y/o la Secretaría, propondrán al Poder Ejecutivo Federal la celebración de acuerdos de coordinación para la vigilancia del cumplimiento de las normas oficiales mexicanas y términos de las concesiones, autorizaciones y permisos expedidos por la Federación, para el uso, aprovechamiento, exploración y explotación de recursos naturales.
 
-### Capítulo Quinto. De la preservación y aprovechamiento sustentable del agua
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+### CAPITULO IX. De la Unidad Administrativa
 
 ###### Artículo 112.
 
@@ -1913,7 +1657,7 @@ IX. El abastecimiento de agua a la población, mediante una dotación mensual m�
 
 X. La sustitución de agua potable, por agua residual tratada, en los usos productivos que así lo permitan.
 
-### Capítulo Sexto. De la preservación y aprovechamiento sustentable del suelo y sus recursos
+### CAPITULO X. De la Unidad Interna de Acceso a la Información
 
 ###### Artículo 117.
 
@@ -1997,9 +1741,7 @@ Los propietarios o poseedores de terrenos erosionados, en proceso de erosión o 
 
 ## Título Quinto. Protección ambiental
 
-### Capítulo Primero. De la prevención y control de la contaminación de la atmósfera
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+### CAPITULO XI. Del Comité de Información y Acceso Restringido
 
 ###### Artículo 122.
 
@@ -2159,9 +1901,7 @@ XV. Las demás fuentes fijas que funcionen como establecimientos comerciales o d
 
 No se permitirá en las zonas habitacionales, ni en áreas próximas a los servicios de equipamiento urbano, la instalación de establos, hornos productores de ladrillo y materiales análogos, curtidurías o explotaciones avícolas o pecuarias, así como la instalación de industrias o servicios que produzcan olores que generen molestias a la población. Esta disposición será considerada en la formulación de los planes de desarrollo urbano de los centros de población.
 
-### Capítulo Segundo. Del cambio climático
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+### CAPITULO XII. De la Contraloría Interna
 
 ###### Artículo 132.
 
@@ -2239,7 +1979,7 @@ La Secretaría deberá ejecutar el Programa Estatal de Cambio Climático e inclu
 
 El titular del Poder Ejecutivo del Estado, a propuesta de la Secretaría, podrá incluir en forma anual, dentro del Presupuesto de Egresos, una partida destinada a la aplicación del Programa Estatal de Cambio Climático.
 
-### Capítulo Tercero. De la prevención y control de la contaminación del agua y los ecosistemas acuáticos
+### CAPITULO XIII. De las Suplencias de los Funcionarios
 
 ###### Artículo 139.
 
@@ -2335,7 +2075,7 @@ El otorgamiento de asignaciones, autorizaciones, concesiones o permisos para la 
 
 El organismo operador, con la participación de la Secretaría, los municipios y demás autoridades competentes, realizará un monitoreo sistemático y permanente de la calidad de las aguas de jurisdicción estatal para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan o, en su caso, promover su ejecución.
 
-### Capítulo Cuarto. De la prevención y control de la contaminación del suelo
+### CAPITULO XIV. Disposiciones Complementarias
 
 ###### Artículo 149.
 
@@ -2937,74 +2677,32 @@ Para los efectos del presente artículo, tendrán interés legítimo las persona
 
 En lo que se refiere al ejercicio de los derechos difusos, cualquier persona que radique en el Estado, los podrá hacer valer, de conformidad con las disposiciones legales aplicables.
 
-## TRANSITORIOS
+## ARTÍCULOS TRANSITORIOS
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-Artículo Segundo. Se abroga la Ley Estatal de Equilibrio Ecológico y la Protección al Medio Ambiente, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 22, de fecha 26 de mayo de 1998.
+Artículo Segundo. Se derogan todas aquellas disposiciones que regulen las funciones de la Secretaría de Seguridad Pública en materia de Protección Civil, a excepción de las relacionas con la Unidad Interna de Protección Civil.
 
-Artículo Tercero. La Comisión Estatal de Ecología deberá aprobar su reglamento interior en un plazo que no deberá exceder de noventa días, contados a partir de su instalación.
+Dado en la residencia del Poder Ejecutivo del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en la ciudad de Xalapa-Enríquez, Ver. a los dos días del mes de mayo de dos mil ocho.
 
-Artículo Cuarto. El Gobernador del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+LIC. FIDEL HERRERA BELTRÁN
 
-Artículo Quinto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia, hasta en tanto, deberán sujetarse a las bases y disposiciones que señala la presente Ley.
+Gobernador del Estado
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
-
-DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES DE 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS OCHO DÍAS DEL MES DE ENERO DEL AÑO DOS MIL NUEVE.
-
-A T E N T A M E N T E
-
-LV LEGISLATURA DEL ESTADO DE QUERÉTARO
-
-MESA DIRECTIVA
-
-DIP. MIGUEL MARTÍNEZ PEÑALOZA
-
-PRESIDENTE
-
-Rúbrica
-
-DIP. JOSÉ GUADALUPE GARCÍA RAMÍREZ
-
-PRIMER SECRETARIO
-
-Rúbrica
-
-Lic. Francisco Garrido Patrón, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 22, fracción I de la Constitución Política del Estado de Querétaro; expido y promulgo la presente Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro.
-
-Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro., el día treinta del mes de julio del año dos mil nueve, para su debida publicación y observancia.
-
-Lic. Francisco Garrido Patrón
-
-Gobernador Constitucional del Estado de Querétaro
-
-Rúbrica
-
-Lic. José Alfredo Botello Montes
-
-Secretario de Gobierno
-
-Rúbrica
+Rúbrica.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 5 DE OCTUBRE DE 2012.
+G.O. 25 DE ENERO DE 2012.
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-Artículo Segundo. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al contenido de esta Ley.
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Protección Civil de fecha 2 de mayo del año 2008, publicado en la Gaceta Oficial del estado el día 26 de ese mismo mes y año.
 
-Artículo Tercero. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+Tercero. Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan a lo establecido en este reglamento.
 
-Artículo Cuarto. La Secretaría tendrá un plazo no mayor a ciento veinte días naturales contados a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" para expedir las guías y el listado relativos a las actividades riesgosas.
+Cuarto. La Secretaría de Protección Civil, deberá emitir los Manuales de Organización, Procedimientos, Trámites y Servicios al Público, en un plazo no mayor a 180 días a partir de la publicación de este reglamento.
 
-Artículo Quinto. Los Ayuntamientos del Estado de Querétaro, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias exclusivas de su competencia.
+En tanto se expiden los Manuales de Organización, Procedimientos, Trámites y Servicios al Público, el Titular de Secretaría (sic) de Protección Civil estará facultado para resolver las cuestiones que deben regular dichos Manuales.
 
-P.O. 13 DE MARZO DE 2015.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-Artículo Segundo. Dentro de los 180 días naturales siguientes a la entrada en vigor de esta Ley, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro, emitirá la norma técnica ambiental estatal a que hace referencia el artículo 8, fracción XXI, de la presente Ley.
-
-Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+Quinto. Los asuntos que en virtud de la entrada en vigor de este reglamento deban transferirse de un área administrativa a otra, continuarán su trámite hasta su conclusión en la que se iniciaron; salvo que por su naturaleza especial deban ser resueltos por el área que los reciba, en cuyo caso les serán remitidos de inmediato.
