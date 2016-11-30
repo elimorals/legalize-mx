@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2016-08-31"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2886,9 +2886,9 @@ Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-Los Ayuntamientos deberán otorgar capacitación turística a los ciudadanos residentes y avecindados en su ámbito territorial.
+Los Ayuntamientos deberán otorgar orientación e información turística a los ciudadanos, residentes, avecindados, turistas y visitantes en su ámbito territorial.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -5109,3 +5109,13 @@ TERCERA. Las reformas a la Ley Orgánica Municipal del Estado de Morelos y Ley d
 CUARTA. Las menciones que en otros ordenamientos se hagan del Municipio de Jonacatepec, se entenderán referidas al Municipio de Jonacatepec de Leandro Valle.
 
 QUINTA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Municipio de Jonacatepec en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, se entenderán asumidos por el Municipio de Jonacatepec de Leandro Valle, de acuerdo con la presente reforma.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y OCHO.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTICULO 114 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
