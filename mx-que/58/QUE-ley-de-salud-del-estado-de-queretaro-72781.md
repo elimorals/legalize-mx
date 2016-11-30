@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2014-10-31"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -31,7 +31,7 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -147,17 +147,17 @@ XVIII. Prevención de fármacodependencia: el conjunto de acciones dirigidas a e
 
 XIX. Tratamiento contra la fármacodependencia: el conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de narcóticos, reducir los riesgos y daños que implican el uso y abuso de dichas sustancias, abatir los padecimientos asociados al consumo e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de dichas sustancias, como de su familia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+XX. Investigación en materia de farmacodependencia: tiene por objeto determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; construyendo las bases científicas para la construcción de políticas públicas y los trámites adecuados para los diversos tipos y niveles de adicción, respetando los derechos humanos y su integridad;
 
-XX. Investigación en materia de farmacodependencia: tiene por objeto determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; construyendo las bases científicas para la construcción de políticas públicas y los trámites adecuados para los diversos tipos y niveles de adicción, respetando los derechos humanos y su integridad; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXI. Suspensión de la farmacodependencia: proceso mediante el cual el farmacodependiente participa en la superación de su dependencia, con el apoyo del entorno comunitario en la identificación y solución de problemas comunes que la provocaron; y
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXI. Suspensión de la farmacodependencia: proceso mediante el cual el farmacodependiente participa en la superación de su dependencia, con el apoyo del entorno comunitario en la identificación y solución de problemas comunes que la provocaron.
+XXII. Medicina tradicional: conjunto de conocimientos, aptitudes y prácticas basados en teorías, creencias y experiencias indígenas de las diferentes culturas, usados para el mantenimiento de la salud, así como para la prevención, el diagnóstico, la mejora o el tratamiento de enfermedades físicas o mentales.
 
 ###### Artículo 3.
 
@@ -295,9 +295,11 @@ VI. La Dirección de Fomento y Regulación Sanitaria.
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 6.
 
-El Sistema de Salud del Estado de Querétaro tendrá como principal objetivo, prestar los servicios de salud en el Estado a la población en general y asegurar el acceso efectivo a dichos servicios a las comunidades indígenas, mediante la ampliación de la cobertura.
+El Sistema de Salud del Estado de Querétaro tendrá como principal objetivo, prestar los servicios de salud en el Estado a la población en general y asegurar el acceso efectivo a dichos servicios a las comunidades indígenas, mediante la ampliación de la cobertura y la implementación de programas prioritarios.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
 
@@ -583,19 +585,29 @@ XIII. La creación y funcionamiento de centros especializados en la prevención,
 
 XIV. Elaborar y tener a su cargo el Registro Estatal de los Centros de Atención a Farmacodependientes, que contendrá el padrón de instituciones y organismos de carácter público, social o privado, que operen en el Estado y realicen o tengan por objeto realizar las actividades a que se refiere la fracción anterior;
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XV. Cuando se reciba reporte del no ejercicio de la acción penal por parte de la Fiscalía General del Estado, en términos del artículo 478 de la Ley General de Salud, citar al farmacodependiente o consumidor, a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la fármacodependencia o en aquellos preventivos de la misma.
+
+Al tercer reporte de la Fiscalía General del Estado, el tratamiento del farmacodependiente será obligatorio;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XVI. Instrumentar programas prioritarios de atención médica tradicional en los pueblos y comunidades indígenas, dotados de una visión basada en el reconocimiento y respeto de la diversidad cultural de nuestro Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XVII. Reconocer y regular la medicina tradicional, diseñando las estrategias y programas indispensables para su ejercicio;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XVIII. Supervisar que el ejercicio de la medicina tradicional se lleve a cabo de acuerdo a los lineamientos de la presente Ley; y
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-XV. Cuando se reciba reporte del no ejercicio de la acción penal por parte del Ministerio Público, en términos del artículo 478 de la Ley General de Salud, citar al farmacodependiente o consumidor, a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la fármacodependencia o en aquellos preventivos de la misma.
-
-Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente será obligatorio; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
-
-XVI. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud en el Estado de Querétaro y las demás disposiciones generales aplicables.
+XIX. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud en el Estado de Querétaro y las demás disposiciones generales aplicables.
 
 ###### Artículo 20.
 
@@ -803,6 +815,10 @@ Los trabajadores de los establecimientos estatales de salud, podrán participar 
 
 Los usuarios tendrán derecho, previo consentimiento libre e informado, a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los servicios de atención médica que se desarrollen en comunidades indígenas, deberán adaptarse a su estructura social y administrativa, así como a su concepción de la salud y de la relación del paciente con el médico, a fin de proteger el derecho a la salud.
+
 Si el usuario exigiera de los prestadores de servicios de salud, un procedimiento que por razones de conciencia o convicción clínica éstos juzguen inaceptable, quedarán dispensados de actuar siempre y cuando no sea caso de urgencia o se deteriore la salud del mismo, debiendo informarlo sin demora al usuario y, en su caso, a la institución otorgante del servicio.
 
 El personal sanitario, aun absteniéndose de practicar el acto objetado, está obligado a prestar cualquier otra atención médica a la persona que lo requiera.
@@ -825,41 +841,43 @@ La Secretaría de Salud coadyuvará con las autoridades educativas competentes, 
 
 Para los efectos de esta Ley, se considera usuario de servicios de salud, a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme con las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 50.
 
 La población tiene derecho a la atención médica apropiada, independientemente de su condición económica, cultural, identidad étnica y género.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 51.
 
 Los usuarios de los servicios de salud tienen derecho a:
 
 I. Ser atendidos por un médico;
 
-II. Ser tratados con respeto;
+II. Ser tratado con respeto a su dignidad, vida privada, cultura y valores;
 
 III. Recibir un tratamiento conforme a los principios médicos científicamente aceptados;
 
-IV. Recibir, con calidad y continuidad, la atención médica que requieran, independientemente del tipo o unidad médica donde reciba el servicio; y
+IV. Recibir, con calidad y continuidad, la atención médica que requieran, independientemente del tipo o unidad médica donde reciba el servicio;
 
-V. Cuando esté en riesgo la vida del paciente, recibir los servicios de urgencias por parte de las instituciones públicas y privadas de manera gratuita, desde el momento en que ingresa hasta que su salud sea estable y estén en condiciones de ser trasladados a otra institución, si así lo desean el usuario o sus familiares.
+V. Cuando esté en riesgo la vida del paciente, recibir los servicios de urgencias por parte de las instituciones públicas y privadas de manera gratuita, desde el momento en que ingresa hasta que su salud sea estable y estén en condiciones de ser trasladados a otra institución, si así lo desean el usuario o sus familiares;
 
-###### Artículo 51.
+VI. Recibir atención terminal humanitaria;
 
-El usuario tendrá derecho a:
+VII. Tener información apropiada sobre su historia médica y condiciones de salud;
 
-I. Ser tratado con respeto a su dignidad, vida privada, cultura y valores;
+VIII. Obtener confidencialidad y protección de los informes sobre su estado de salud;
 
-II. Recibir atención terminal humanitaria;
-
-III. Tener información apropiada sobre su historia médica y condiciones de salud;
-
-IV. Obtener confidencialidad y protección de los informes sobre su estado de salud;
-
-V. Recibir la prescripción médica con una redacción comprensible y legible, identificando los medicamentos de forma genérica.
+IX. Recibir la prescripción médica con una redacción comprensible y legible, identificando los medicamentos de forma genérica.
 
 Excepcionalmente, se le negará información cuando exista el pleno conocimiento que dicha información representa un peligro para su vida o su salud;
 
-VI. Solicitar cambio del médico tratante, si considera que éste, no procede de manera profesional y eficiente durante su tratamiento, fundándose en su derecho a tomar decisiones libremente con relación a su persona; y
+X. Solicitar cambio del médico tratante, si considera que éste, no procede de manera profesional y eficiente durante su tratamiento, fundándose en su derecho a tomar decisiones libremente con relación a su persona;
 
-VII. Negar su consentimiento para participar en la investigación o enseñanza de la medicina.
+XI. Negar su consentimiento para participar en la investigación o enseñanza de la medicina; y
+
+XII. Elegir la medicina tradicional como forma de atención médica, especialmente cuando el paciente por motivo de sus creencias así lo manifieste.
 
 ###### Artículo 52.
 
@@ -1240,6 +1258,14 @@ Las autoridades sanitarias estatales y municipales, en coordinación con las aut
 La Secretaría establecerá programas de salud bucal escolar para los niños y adolescentes del nivel básico, comprendidos en el Sistema de Salud del Estado de Querétaro, para que se implementen acciones preventivas y de detección de enfermedades bucales, de conformidad con las disposiciones legales aplicables y normas oficiales mexicanas.
 
 El Poder Ejecutivo del Estado, en coordinación con las autoridades federales competentes, promoverá programas que puedan ser difundidos en los medios masivos de comunicación social del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 97 Bis.
+
+La Secretaría de Salud y la Secretaría de Educación generarán información sobre la eficacia terapéutica de la medicina tradicional, su concordancia con los programas sanitarios vigentes y su disponibilidad, para coadyuvar a la actualización de los profesionales de la salud y a que los usuarios tomen decisiones informadas sobre el tipo de atención que aspiran a recibir.
+
+La Secretaría de Educación podrá considerar la incorporación de asignaturas tales como Antropología Médica y Herbolaria, e Interculturalidad en Salud en los programas de educación superior de aquellas Universidades pertenecientes al Estado.
 
 ### Capítulo Segundo. De la nutrición
 
@@ -2194,3 +2220,11 @@ P.O. 31 DE OCTUBRE DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, LEY DE SALUD DEL ESTADO DE QUERÉTARO Y LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
