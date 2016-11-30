@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2016-07-09"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -203,31 +203,39 @@ IV. Consejeros;
 
 V. Secretaría Ejecutiva;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 VI. Dirección Jurídica Consultiva y Protección de Datos Personales;
 
 VII. Dirección de Administración y Finanzas;
 
-VIII. Dirección de Capacitación Vinculación y Difusión;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Dirección de Capacitación, Vinculación y Difusión;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
 IX. Dirección de Informática;
 
-X. Órgano de Control Interno; y (sic)
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+X. Órgano de Control de (sic) Interno;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 XI. Unidad de Archivos;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XII. Unidad de Comunicación Social; y
+XII. Unidad de Comunicación Social;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XIII. Las demás unidades, personal técnico o administrativo que conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
+XIII. Unidad de Planeación y Evaluación al Desempeño Institucional; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XIV. Las demás unidades, personal técnico o administrativo que, conforme a la disponibilidad presupuestaria, autorice el Pleno a propuesta de su Presidente.
 
 ### Capítulo III. Del Pleno
 
@@ -593,9 +601,9 @@ III. Auxiliar al Presidente en la elaboración del anteproyecto de presupuesto a
 
 IV. Conducir, en el ámbito de su competencia, la operación y racionalización del presupuesto del Instituto;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-V. Elaborar los manuales administrativos que de acuerdo a su competencia le correspondan;
+V. Coadyuvar con la Unidad de Planeación y Evaluación al Desempeño Institucional, en la elaboración y actualización de los diferentes manuales administrativos del Instituto;
 
 VI. Instrumentar el sistema del Servicio Profesional y del Personal Administrativo del Instituto en los términos previstos en las bases fijadas por el Pleno y conforme a la disponibilidad presupuestal;
 
@@ -791,6 +799,34 @@ VIII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presiden
 
 IX. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 33 TRIS (Sic).- La Unidad de Planeación y Evaluación al Desempeño Institucional tendrá las siguientes atribuciones específicas:
+
+I. Asesorar a las diferentes unidades administrativas del Instituto en la formulación e integración de sus respectivos planes de trabajo;
+
+II. Evaluar y elaborar de manera cuatrimestral un informe con los resultados obtenidos de los planes de trabajo de las diferentes áreas administrativas del Instituto;
+
+III. Coadyuvar en la elaboración, seguimiento y actualización del Programa Institucional de Transparencia y Acceso a la Información Pública;
+
+IV. Someter a la consideración del Pleno, las bases necesarias para llevar el proceso de evaluación interna de las áreas del Instituto;
+
+V. Elaborar y actualizar los diferentes manuales administrativos del Instituto;
+
+VI. Coordinar la obtención y organización de la estadística del Instituto, así como apoyar a las áreas en materia de construcción y uso de las matrices de marco lógico e indicadores de resultados;
+
+VII. Proponer al Presidente programas y acciones a concertar con entes de interés privado, social y público, con el propósito de coadyuvar a alcanzar los objetivos planteados en la Ley y en el Programa Institucional;
+
+VIII. Establecer las medidas necesarias para gestionar y recibir fondos ante la Federación y el Estado, así como con organismos nacionales e internacionales, que contribuyan a consolidar la cultura de la transparencia en el Estado;
+
+IX. Establecer un Programa Anual de Evaluaciones;
+
+X. Proponer los lineamientos a que deberán ajustarse las áreas del Instituto, para la evaluación de desempeño;
+
+XI. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+
+XII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO IX. De las Responsabilidades y suplencias
@@ -878,3 +914,11 @@ P.O. 9 DE JULIO DE 2016.
 PRIMERO.- La presente Reforma entrará en vigor al siguiente día hábil de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del Pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 21 Y, LA FRACCIÓN V DEL ARTÍCULO 29 Y SE ADICIONA LA FRACCION XIV DEL ARTÍCULO 21 Y, EL ARTÍCULO 33 TRIS (SIC), TODOS DEL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al momento de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del Pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
