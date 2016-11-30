@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-del-estado-de-queretaro-34294"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-03"
-last_updated: "2015-09-28"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRÁNSITO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de octubre de 2003.
 
@@ -911,15 +911,25 @@ XXI.- Quien sea propietario o conductor de algún vehículo de carga, no cuente 
 
 B) PARA LA PRESERVACIÓN DEL MEDIO AMBIENTE Y LA PROTECCIÓN ECOLOGICA.
 
-I.- Quien sea propietario de algún vehículo de motor registrado en el Estado de Querétaro, no cumpla con la verificación de emisión de contaminantes en los períodos y lugares determinados por la Dirección o la instancia correspondiente;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-II.- Quien sea propietario de un vehículo que habiendo excedido los límites permisibles de emisión de contaminantes, al momento de efectuar la verificación correspondiente, no haya realizado las reparaciones necesarias a fin de que se satisfagan las normas técnicas y ecológicas en el plazo que para tal efecto haya establecido la Dirección o la instancia correspondiente;
+I.- Quien sea propietario de algún vehículo de motor registrado en el Estado de Querétaro o en alguna otra entidad federativa, y no cumpla con la verificación de emisión de contaminantes en los períodos y lugares determinados por la Dirección o la instancia correspondiente;
 
-III.- Se conduzca un vehículo que emita humo y gases tóxicos en forma excesiva;
+Se exceptúan de lo anterior los vehículos registrados en otras entidades federativas que posean verificación vehicular actualizada o vigente de su lugar de registro, o que haya sido obtenida de manera voluntaria en el Estado.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+II.- Quien sea propietario o poseedor de un vehículo que, habiendo excedido los límites permisibles de emisión de contaminantes al momento de efectuar la verificación correspondiente, no haya realizado las reparaciones necesarias a fin de que se satisfagan las normas técnicas y ecológicas en el plazo que para tal efecto haya establecido la Dirección o la instancia correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+III.- Se conduzca un vehículo que emita humo y gases contaminantes ostensiblemente;
 
 IV.- Se conduzca un vehículo que circule en días restringidos para ello, por presentarse una situación de contingencia ambiental o de emergencia ecológica y;
 
-V.- Se modifique en un vehículo el claxon o silenciador de fábrica, por cualquier dispositivo que produzca ruido excesivo.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+V.- Se modifique en un vehículo el claxon o silenciador de fábrica, por cualquier dispositivo que produzca ruido excesivo que exceda los decibeles de acuerdo a la Norma Oficial Mexicana vigente.
 
 C) DE LAS LICENCIAS Y PERMISOS PARA CONDUCIR
 
@@ -1350,3 +1360,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los municipios del Estado de Querétaro, deberán actualizar sus respectivos reglamentos de tránsito, en un plazo no mayor a 60 días, contados a partir de la entrada en vigor de esta Ley.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERÉTARO Y DE LA LEY DE TRÁNSITO DEL ESTADO DE QUERÉTARO, EN MATERIA DE VERIFICACIÓN VEHICULAR Y MOVILIDAD SUSTENTABLE".]
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado deberá adecuar los reglamentos correspondientes, así como los programas y demás disposiciones administrativas aplicables que hagan operativa esta Ley.
