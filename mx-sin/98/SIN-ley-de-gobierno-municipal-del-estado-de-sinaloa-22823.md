@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2016-07-01"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -197,7 +197,15 @@ Los ayuntamientos deberán resolver colectivamente todos los asuntos de su compe
 
 En casos especiales a juicio del Ayuntamiento, podrá sesionarse en lugar diferente al señalado en el párrafo anterior.
 
-De cada sesión se levantará un acta donde se asentarán los acuerdos que se tomen, registrándose éstas en un libro que para tal efecto llevará el Secretario del Ayuntamiento, firmándola en unión del Presidente Municipal, del Síndico Procurador y de los Regidores presentes.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Asimismo, el Ayuntamiento sesionará en cabildo abierto cuando menos una vez cada dos meses para recibir directamente de las personas, propuestas, opiniones o proyectos relacionados con temas de interés general, buscando fomentar la participación de los habitantes de los municipios.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+De cada sesión se levantará un acta donde se asentarán los acuerdos que se tomen, registrándose éstas en un libro que para tal efecto llevará el Secretario del Ayuntamiento, firmándola en unión del Presidente Municipal, Síndico Procurador y Regidores presentes.
+
+(REPUBLICADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 El Reglamento Interior del Ayuntamiento normará pormenorizadamente lo relativo a las sesiones.
 
@@ -1594,3 +1602,15 @@ P.O. 1 DE JULIO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. El presente Decreto no será aplicable a los integrantes de los Ayuntamientos que se encuentren en funciones a la fecha de inicio de vigencia del mismo.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 25, RECORRIÉNDOSE SUBSECUENTEMENTE LOS SIGUIENTES DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos en un plazo de noventa días posteriores al inicio de vigencia del presente Decreto realizarán las adecuaciones normativas correspondientes para dar cumplimiento al mismo.
