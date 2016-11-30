@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2016-06-17"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,525 +20,25 @@ abbreviation: "CFF"
 ---
 # CODIGO FISCAL DE LA FEDERACION
 
-CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE TABASCO
+CÓDIGO FISCAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
 
-Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 12 de febrero de 2020
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 12 DE ENERO DE 2016.
 
-CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
+Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
-> <small>[N. DE E. VÉASE IMÁGEN EN EL P.O. DE 12 DE FEBRERO DE 2020, PÁGINA 2.]</small>
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-CONTENIDO:
+JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-1.1. MARCO JURÍDICO.
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 
-2.1. OBJETIVOS DEL CÓDIGO DE CONDUCTA
+DECRETO:
 
-3.1. MISIÓN
+"El Congreso de los Estados Unidos Mexicanos, Decreta:
 
-4.1. VISIÓN
-
-5.1. PRINCIPIOS CONSTITUCIONALES QUE RIGEN AL SERVICIO PÚBLICO.
-
-5.2. PRINCIPIOS CONSTITUCIONALES.
-
-6.1. VALORES DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA, QUE DEBEN ANTEPONER (SIC) EL DESEMPEÑO DE SU EMPLEO, CARGO O COMISIÓN.
-
-7.1 REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA.
-
-7.1.1. ACTUACIÓN PÚBLICA.
-
-7.1.2. INFORMACIÓN PÚBLICA.
-
-7.1.3. CONTRATACIONES PÚBLICAS, LICENCIAS, PERMISOS, AUTORIZACIONES Y CONCESIONES.
-
-7.1.4. PROGRAMAS GUBERNAMENTALES.
-
-7.1.5. TRÁMITES Y SERVICIOS.
-
-7.1.6. RECURSOS HUMANOS.
-
-7.1.7. ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES.
-
-7.1.8. PROCESOS DE EVALUACIÓN.
-
-7.1.9. CONTROL INTERNO.
-
-7.1.10. PROCEDIMIENTO ADMINISTRATIVO.
-
-7.1.11. DESEMPEÑO PERMANENTE CON INTEGRIDAD.
-
-7.1.12. COOPERACIÓN CON LA INTEGRIDAD.
-
-7.1.13. COMPORTAMIENTO DIGNO.
-
-8.1. EL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA.
-
-9.1. CARTA COMPROMISO.
-
-10.1. GLOSARIO.
-
-1.1. MARCO JURÍDICO
-
-I. Constitución Política de los Estados Unidos Mexicanos. (Artículos 109 y 113).
-
-II. Constitución Política del Estado Libre y Soberano del Estado de Tabasco. (Artículo 2 y Titulo VII).
-
-III. Código de Ética de las Personas Servidoras Públicas de la Administración Pública Estatal. (Publicado en el D.O. el 19 de noviembre de 2019).
-
-IV. Ley General de Responsabilidades Administrativas. (Título 4to.).
-
-V. Ley General del Sistema Nacional Anticorrupción. (Publicada en el D.O. el 18 de julio de 2016).
-
-VI. Ley del Sistema Anticorrupción del Estado de Tabasco. (Publicada en el D.O. el 15 de julio de 2017).
-
-VII. Ley General del Sistema Nacional de Seguridad Pública. (Publicada en el D.O. el 27 de mayo de 2019).
-
-VIII. Ley del Sistema de Seguridad Pública del Estado de Tabasco. (Artículos 3, 39 y 58 fracción IX).
-
-IX. Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco. (Artículo 182).
-
-X. Reglamento Interior de la Secretaría de Seguridad Pública. (CONSIDERANDO PRIMERO Y QUINTO, artículos 2 y 11).
-
-2.1. OBJETIVOS DEL CÓDIGO DE CONDUCTA
-
-El Código de Conducta tiene como objetivo orientar a los servidores públicos que laboran en la Secretaría de Seguridad y Protección Ciudadana del Estado de Tabasco, respecto del comportamiento ético que deben tener en su quehacer diario, para prevenir conflictos de interés que delimiten su actuación y, aplicando los principios constitucionales que convergen de manera permanente con los valores y reglas de integridad, los cuales deben ser respetados, observados y promovidos por los servidores públicos de esta Secretaría, procurando la excelencia en el desempeño de su empleo, cargo o comisión.
-
-El presente Código de Conducta es de aplicación general y de observancia obligatoria para todos los servidores, sin perjuicio de lo establecido en otras normas o disposiciones que regulan su desempeño, por ende, toda persona que ingrese o se encuentre adscrita tiene la ineludible obligación de conocerlo y asumir el compromiso de su debido cumplimiento.
-
-3.1. MISIÓN
-
-Fortalecer el estado de derecho, garantizando la seguridad y el orden público, con la finalidad de que prevalezca un ambiente de armonía, administrando el uso responsable a los recursos, y procurar la integridad física y patrimonial de las personas.
-
-4.1. VISIÓN
-
-Consolidar a la Secretaría como una dependencia que goce de la confianza de la ciudadanía, apegada a estándares internacionales de calidad, rigiendo su actuación bajo los principios de legalidad, eficiencia, honradez, ética profesional, transparencia, y respeto a los derechos humanos.
-
-5.1. PRINCIPIOS CONSTITUCIONALES QUE RIGEN AL SERVICIO PÚBLICO
-
-El 9 de noviembre de 2019, la Secretaría de la Función Pública del Estado, publicó en la Edición número 8053, Suplemento C, del Periódico Oficial del Estado, el Acuerdo por el cual se emite el “Código de Ética de las personas servidoras públicas de la Administración Pública Estatal”, en el que establecen los valores que deben observar los servidores públicos en el desempeño de su empleo, cargo o comisión, en beneficio de la sociedad.
-
-Los principios y valores constitucionales señalados en dicho Acuerdo, son los que se encuentran establecidos en los lineamientos para la emisión del Código de Ética a que hace referencia el artículo 16 de la Ley General de Responsabilidades Administrativas, en los cuales el Comité Coordinador del Sistema Nacional Anticorrupción, estableció los elementos a considerar.
-
-La Ética y Conducta de los Servidores Públicos, de la Secretaría de Seguridad y Protección Ciudadana del Estado, se rige por los principios constitucionales de Legalidad, Objetividad, Profesionalismo, Honradez, Respeto a los Derechos Humanos, Lealtad, Imparcialidad y Eficiencia, indicados en el artículo 21 de nuestra Carta Magna, y que convergen de manera recíproca con los principios de legalidad, valores y reglas de integridad, mismos que están obligados a cumplir como base de una conducta que los lleve a la excelencia en el desempeño de sus empleos, cargos o comisiones.
-
-5.2. PRINCIPIOS CONSTITUCIONALES:
-
-l. LEGALIDAD. El servidor público se obliga a cumplir en el desempeño de su empleo, cargo o comisión con las disposiciones jurídicas existentes, con un estricto sentido de vocación de servicio a la sociedad, garantizando el profesionalismo, así como los valores de respeto a los derechos humanos, satisfaciendo el interés superior de las necesidades colectivas;
-
-2. HONRRADEZ. Se obliga a actuar con probidad, rectitud e integridad, rechazando en todo momento cualquier beneficio, provecho, dádivas u obsequios de cualquier índole, ventaja personal o a favor de terceros en el desempeño de sus funciones, garantizando la transparencia y la rendición de cuentas, así como el valor de respeto;
-
-3. LEALTAD. El servidor púbico se obliga y compromete a cumplir con la confianza que el Estado le ha conferido, teniendo una vocación de servicio con la sociedad, por encima de los intereses particulares o personales, ajenos al interés general de la población, al entorno cultural y ecológico;
-
-4. IMPARCIALIDAD: Ejercerá sus funciones fomentando el acceso neutral y sin discriminación de todas las personas, a las mismas condiciones, oportunidades y beneficios institucionales y gubernamentales, garantizando así la equidad de género e igualdad y no discriminación, y la regla de integridad de comportamiento digno, proporcionando un trato equitativo, sin conceder privilegios o preferencias en razón de intereses personales, familiares o de negocios, sin concederles preferencias;
-
-5. EFICIENCIA: El servidor público en el ejercicio de su actividad, actuará en apego a los planes y programas previamente establecidos, optimizando el uso y la asignación de los recursos públicos en el desarrollo de sus actividades, garantizando la eficacia, la economía y la disciplina;
-
-6. ECONOMÍA: El servidor público está comprometido, en el ejercicio de su empleo, cargo o comisión, en el ejercicio del gasto público, hacer uso racional de los bienes y servicios, con legalidad, austeridad y disciplina; satisfaciendo los objetivos y metas, utilizándolos para los fines que han sido destinados;
-
-7. DISCIPLINA: hará prevalecer el orden entre los servidores públicos, observando el cumplimiento del marco legal;
-
-8. PROFESIONALISMO: El servidor público deberá conocer y cumplir con las funciones y atribuciones que tiene encomendadas, en términos de lo establecido en las leyes, reglamentos y demás normas jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto tanto a los demás servidores públicos como a los particulares;
-
-9. OBJETIVIDAD: el servidor público está comprometido (sic) actuar de acuerdo a la Ley, sin inclinarse por alguna postura en razón de situaciones personales;
-
-10. TRANSPARENCIA: Derecho del que gozan las personas de acceder a la información pública, en los términos establecidos por la Ley de la materia;
-
-11. RENDICIÓN DE CUENTAS: El servidor público, durante el desempeño de su empleo, cargo o comisión, está obligado ante la sociedad y las autoridades, a informar y justificar sus decisiones y acciones, y se encuentra sujeto a un sistema de sanciones, así como a la evaluación y escrutinio público de sus funciones;
-
-12. COMPETENCIA POR MÉRITO: El servidor público es contratado para llevar a cabo de manera eficiente y eficaz un empleo, cargo o comisión dentro de la Secretaría de Seguridad y Protección Ciudadana, seleccionado de acuerdo a su preparación académica, profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, seleccionando a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos;
-
-13. EFICACIA: El servidor público está obligado a cumplir con los objetivos específicos de su función en el tiempo establecido;
-
-14. INTEGRIDAD: El servidor público actuará siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo o comisión, convencidos en el compromiso de ajustar su conducta para que impere, en su desempeño, una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar;
-
-15. EQUIDAD: Es ejercer las funciones conforme a la normatividad aplicable, garantizando a las personas el trato sin distinción y bajo las mismas condiciones.
-
-6.1. VALORES, DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA, QUE DEBEN ANTEPONER EN EL DESEMPEÑO DE SU EMPLEO, CARGO O COMISIÓN:
-
-l. COOPERACIÓN: El servidor público de la Secretaría de Seguridad y Protección Ciudadana, asume la obligación y se compromete a regir su actuación conforme a las normas y valores establecidos, propiciando el trabajo en equipo para alcanzar los objetivos comunes previstos en el Plan Estatal de Desarrollo, que redunde en beneficio de la colectividad, generando confianza de la ciudadanía en la institución;
-
-2. ENTORNO CULTURAL Y ECOLÓGICO: El servidor público adquiere la responsabilidad, en el ejercicio de su empleo, cargo o comisión, de poner en riesgo la salud, la seguridad y la afectación del patrimonio cultural y del ecosistema, asumiendo una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, promoviendo su protección, conservación y sustentabilidad;
-
-3. EQUIDAD DE GÉNERO: El servidor público, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servidos públicos; a los programas y beneficios institucionales, a los empleos, cargos y comisiones gubernamentales;
-
-4. IGUALDAD Y NO DISCRIMINACIÓN: El servidor público se compromete y obliga a prestar sus servicios apegado a los derechos humanos, sin importar el origen étnico o nacional, raza, género, edad, discapacidad, diferencias sociales, condiciones de salud, religión, libertad de expresión, manifestaciones públicas, preferencias sexuales, estado civil o cualquier otra situación que genere violencia y/o atente contra la dignidad humana.
-
-5. INTERES PÚBLICO: El servidor público se obliga y compromete, en todo momento, a buscar la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
-
-6. LIDERAZGO: El servidor público, es guía, ejemplo y promotor del Código de Ética y las Reglas de Integridad; fomenta y aplica en el desempeño de sus funciones los principios que la Constitución y la Ley les impone, así como aquellos valores adicionales que por su importancia son esenciales a la función pública.
-
-7. RESPETO: las personas servidoras públicas se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeros de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propician el dialogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
-
-8. RESPETO A LOS DERECHOS HUMANOS: Las personas servidoras públicas se comprometen y obligan, a respetar los Derechos Humanos y en el ámbito de su competencia y atribuciones, los garantizan, promueven y protegen de conformidad con los principios de:
-
-I. UNIVERSALIDAD.- Que establece que los Derechos Humanos corresponden a toda persona por el simple hecho de serlo;
-
-II. INTERDEPENDENCIA.- Que implica que los derechos humanos se encuentran vinculados íntimamente, entre sí;
-
-III. INDIVISIBILIDAD.- Que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y;
-
-IV. PROGRESIVIDAD.- Que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
-
-7.1. REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA
-
-Para salvaguardar los principios y valores que rigen el servicio público en la Administración Pública del Estado, se observarán las reglas de integridad con las que deben conducirse los servidores públicos de la Secretaría de Seguridad y Protección Ciudadana, en el desempeño de su empleo, cargo o comisión.
-
-Las reglas de integridad para los distintos ámbitos del servicio público, y en el área de trabajo que le corresponda a cada servidor público, de manera enunciativa, mas no limitativa, son las siguientes:
-
-- Actuación pública:
-
-- Información pública;
-
-- Contrataciones públicas, Licencias, Permisos, Autorizaciones y Concesiones;
-
-- Programas Gubernamentales;
-
-- Trámites y Servicios;
-
-- Recursos Humanos;
-
-- Administración de bienes muebles e inmuebles;
-
-- Procesos de evaluación;
-
-- Control interno;
-
-- Procedimiento administrativo;
-
-- Desempeño permanente con integridad;
-
-- Cooperación con la integridad, y
-
-- Comportamiento digno.
-
-7.1.1. ACTUACIÓN PÚBLICA
-
-Las personas servidoras públicas que desempeñan un empleo, cargo o comisión, dentro de la Secretaría de Seguridad y Protección Ciudadana, se comprometen y obligan a realizar su actuación con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público; deben conocer y cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Tabasco y demás normas jurídicas que rigen la actuación del servidor público en la Administración Pública Estatal.
-
-Las personas servidoras públicas de la Secretaría de Seguridad y Protección Ciudadana, vulneran esta regla, de manera enunciativa y no limitativa, si cometen las siguientes conductas:
-
-a) Abstenerse de ejercer las atribuciones y facultades que le impone el servicio público, y que le confieren los ordenamientos legales correspondientes;
-
-b) Utilizar las atribuciones que le son conferidas en su empleo, cargo o comisión, para beneficio personal o de terceros en contravención a la ley;
-
-c) Favorecer o ayudar a otras personas u organizaciones a cambio de promesa de recibir dinero, dadivas, obsequios, regalos o beneficios personales o para terceros;
-
-d) Ignorar las recomendaciones de los organismos públicos protectores de los derechos humanos, y de prevención contra la discriminación;
-
-e) Actuar como abogado defensor en juicios de carácter penal, civil, mercantil o laboral que se promuevan en contra de instituciones públicas de cualquiera de los tres niveles de gobierno;
-
-f) Permitir que servidores públicos subordinados incumplan total o parcialmente su jornada u horario laboral;
-
-g) Dejar de establecer medidas preventivas o correctivas cuando en el ejercicio de sus funciones llegare a advertir actos u omisiones que pudieren constituir faltas administrativas;
-
-h) Dejar de colaborar con otros servidores públicos y propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en el Plan Estatal de Desarrollo;
-
-i) Agredir, acosar, hostigar, intimidar, amenazar o extorsionar a personal subordinado o compañeros de trabajo;
-
-j) Desempeñar dos o más cargos públicos o celebrar dos o más contratos de prestación de servicios en la Administración Pública, federal, estatal o municipal, que contravenga la normatividad en materia de incompatibilidad de los servicios públicos aplicables;
-
-k) Utilizar recursos humanos, materiales o financieros de la Secretaría o Dependencia, para fines distintos a los que fueron asignados;
-
-l) Hacer proselitismo en su jornada laboral u orientar su desempeño laboral con fines político electorales, religiosos o de otra índole.
-
-7.1.2. INFORMACIÓN PÚBLICA
-
-Las personas servidoras públicas que desempeñan un empleo, cargo o comisión, dentro de la Secretaría de Seguridad y Protección Ciudadana, se obliga y compromete a cuidar con confidencialidad total la información que tienen bajo su responsabilidad, ofrecerá solo aquella que no se encuentre reservada por razones legales o por respeto a la privacidad de terceros, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
-
-Vulneran esta regla, de manera enunciativa, mas no limitativa, las personas servidoras públicas de esta Secretaría, si cometen las siguientes conductas:
-
-a. Alterar, ocultar o eliminar de manera deliberada la documentación pública;
-
-b. Teniendo las atribuciones o facultades legales, se Jedare incompetente para la atención de una solicitud de acceso a la información pública;
-
-c. Proporcionar indebidamente documentación o información que, de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado, se encuentre clasificada como reservada o confidencial;
-
-d. Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a información pública;
-
-e. Ocultar o sustraer información o documentación pública en archivos personales;
-
-f. Sustraer o utilizar con fines lucrativos la información o documentación de la Secretaría de Seguridad y Protección Ciudadana, que se tiene en las bases de datos y a las que tienen acceso con motivo de su empleo, cargo o comisión;
-
-g. Declarar la inexistencia de información pública, sin realizar una búsqueda exhaustiva y minuciosa en los expedientes y base de datos que tiene bajo su resguardo;
-
-h. Permitir o facilitar la sustracción, destrucción o alteración, de la información o documentación pública bajo su resguardo.
-
-7.1.3. CONTRATACIONES PÚBLICAS, LICENCIAS, PERMISOS, AUTORIZACIONES Y CONCESIONES
-
-Las personas servidoras públicas que con motivo de su empleo, cargo o comisión, dentro de esta Secretaría, participe en contrataciones públicas o en el otorgamiento de licencias, permisos, autorizaciones y concesiones, se compromete y obliga a conducirse con transparencia, imparcialidad y legalidad, orientando sus decisiones a las necesidades e intereses de la sociedad, garantizando las mejores condiciones para el Estado; por ello las operaciones y transacciones que realice con los proveedores deben estar subordinadas a los principios legítimos de libre acuerdo, en concordancia con los principios de la ley y la normatividad aplicable, sin exigir requisitos o condiciones adicionales a las señaladas por las disposiciones jurídicas que regulan los trámites y servicios.
-
-Las personas servidoras públicas de esta Secretaría, vulneran esta regla, de manera enunciativa, más no limitativa, si cometen las siguientes conductas:
-
-a. No aplicar el principio de equidad que debe prevalecer entre los participantes en el proceso de contratación;
-
-b. Establecer condiciones en las invitaciones o convocatorias que representen ventajas o den un trato diferenciado a los licitantes;
-
-c. En los procedimientos de contratación, actuar de manera parcial en la selección, designación, contratación, así corno en la remoción o rescisión del contrato;
-
-d. Reunirse con licitantes, proveedores, contratistas y concesionarios fuera de esta Secretaría, con excepción de los actos que por la naturaleza de la licitación o del contrato así lo requiera;
-
-e. Solicitar requisitos sin sustento para el otorgamiento y prorroga de licencias, permisos, autorizaciones y concesiones;
-
-f. Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento y prorroga de licencias, permisos, autorizaciones y concesiones;
-
-g. Simular o favorecer a los licitantes dando por satisfechos los requisitos previstos en las invitaciones o convocatorias, cuando estos no lo están;
-
-h. Dejar de imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables;
-
-i. Omitir declarar los posibles conflictos de interés, negocios o transacciones comerciales que de manera particular tenga o haya tenido con personas u organizaciones inscritas en el Registro Único de contratistas para la Administración Pública Estatal.
-
-7.1.4. PROGRAMAS GUBERNAMENTALES
-
-El servidor público que derivado de su empleo, cargo o comisión, que tiene en la Secretaría de Seguridad y Participación Ciudadana, participe en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales, se obliga y compromete a llevar su ejecución en base a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto, y conforme a lo establecido en las reglas de operación de los programas a ejecutar, sin hacer uso indebido de la información relacionada con el control de los mismos.
-
-El servidor público de la Secretaría de Seguridad y Protección Ciudadana, infringe esta regla de manera enunciativa, mas no limitativa, si comete las siguientes conductas:
-
-a. Otorgar subsidios o apoyos gubernamentales en tiempos que la legislación electoral prohíbe, con excepción de los que la autoridad competente determine;
-
-b. Negar la participación de cualquier interesado para ingresar a los apoyos o beneficios de los programas de gobierno;
-
-c. Participe o se otorgue a través de familiares o amistades, los beneficios de los programas de subsidios o apoyos de la dependencia en la que preste sus servicios;
-
-d. Altere, oculte, o niegue la información a las autoridades fiscalizadoras de los programas gubernamentales, impidiendo la evaluación respecto al otorgamiento de los beneficios a personas o agrupaciones;
-
-e. Otorgarles el beneficio o apoyo de los programas gubernamentales a personas, agrupaciones o entes, que no cumplan con los requisitos establecidos en las reglas de operación;
-
-f. Entregar o disponer de la información de los padrones de beneficiarios de los programas gubernamentales;
-
-7.1.5. TRÁMITES Y SERVICIOS
-
-El servidor público, como parte de su ética en el servicio de la Administración Pública Estatal, se compromete, obliga y tomar (sic) conciencia de la responsabilidad que implica ser un servidor público en todos los ámbitos de acción, principalmente ante la sociedad, ante otras dependencias del fuero federal, estatal o municipal y está comprometido al fortalecimiento institucional y mejora continua de las instituciones que forman parte del Sistema Nacional, Estatal y Municipal de Seguridad Pública, transparentando los recursos federales que se destinan a este (sic) Secretaría, bajo los principios de legalidad, objetividad, equidad, eficiencia, profesionalismo honradez y el respeto a los derechos humanos.
-
-El servidor público, que derivado de su empleo, cargo o comisión participa en los trámites y servicios que ofrece a la sociedad, la Secretaría de Seguridad y Protección Ciudadana, se obliga y compromete a brindar al usuario su servicio de forma, respetuosa, eficiente, responsable, oportuna e imparcial; vulnera esta regla de manera enunciativa, mas no limitativa, quien comete las conductas siguientes:
-
-a. Pedir, por cualquier medio, requisitos que no se encuentran señalados en las disposiciones jurídicas que regulan los trámites y servicios;
-
-b. Recibir, solicitar o insinuar cualquier tipo de compensación, dádiva, obsequio o regalo, en la gestión que realice el usuario para el otorgamiento del trámite y servicio;
-
-c. Proporcionar información falsa sobre el proceso y requisitos para acceder a consultas, trámites y servicios;
-
-d. Discriminar por cualquier motivo, durante el trámite y prestación del servicio que le brinda al usuario;
-
-e. Realizar trámites y otorgar servicios de forma deficiente, retrasando los tiempos de respuesta, consulta, trámite y servicio.
-
-7.1.6. RECURSOS HUMANOS
-
-El servidor público de la SSyPC, se obliga y compromete actuar de manera congruente con los principias éticos que debe observar en el desempeño de su empleo, cargo o comisión, ser respetuoso del horario de trabajo, actualizando sus conocimientos, mostrando la mejor disposición para acceder y aprender constantemente para que mejore su desempeño laboral y desarrollo personal, generando así una plena vocación de servicio público en beneficio de la colectividad.
-
-El servidor público de la SSyPC, se obliga y compromete a respetar, dentro de esta dependencia, los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas, vulneran estas reglas de manera enunciativas, mas no limitativas, quien comete las siguientes conductas:
-
-a. Seleccionar, contratar, designar o nombrar directa o indirectamente como subalternos a familiares hasta el cuarto grado de parentesco;
-
-b. Omitir excusarse de conocer asuntos en los que tienen o puedan implicarles cualquier asunto de interés;
-
-c. Proporcionar a un tercero, no autorizado, información contenida en el expediente del personal que tenga bajo su resguardo;
-
-d. Suministrar información a terceros, correspondiente a las evaluaciones de control de confianza que le son practicados al personal de la SSyPC, así como los exámenes que son practicados para la ocupación de plazas vacantes;
-
-e. Remover, cesar, despedir, separar o dar de baja a servidores públicos, sin tener las atribuciones previstas en las leyes aplicables;
-
-f. Presentar información y documentación falsa sobre el cumplimiento de metas de evaluación de su desempeño;
-
-g. Seleccionar, contratar, nombrar o designar a personas para el servicio público, sin haber obtenido previamente los requisitos establecidos en las normas jurídicas;
-
-7.1.7. ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES
-
-El servidor público de la SSyPC, administra los recursos públicos que estén bajo su responsabilidad, conforme a los principios de eficiencia, eficacia, economía, transparencia y honradez, para cumplir los objetivos a los· que estén destinados, con la finalidad de fomentar la cultura de austeridad y cumplir el objetivo de garantizar la transparencia y la transformación del buen gobierno; considerando que los recursos utilizados son proporcionados por la sociedad.
-
-El servidor público que, con motivo de su empleo, cargo o comisión, tiene dentro de la SSyPC, participa en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administra los recursos con eficiencia, transparencia y honradez, con la finalidad de lograr los objetivos a los que están destinados, esta regla la vulneran, de manera enunciativa mas no limitativa, quienes cometan las siguientes conductas:
-
-a. Quien solicite la baja, enajenación o destrucción de bienes muebles, cuando estos aún son útiles;
-
-b. Si dispone de los bienes muebles o inmuebles para un uso distinto al que tiene destinado;
-
-c. Si dispone, para uso particular o familiar, los bienes muebles e inmuebles de carácter oficial, contraviniendo con ello lo establecido por la SSyPC;
-
-d. A cambio de beneficiar a los que participen en los procedimientos de enajenación de bienes muebles o inmuebles, reciba o solicite por cualquier medio, obsequios, regalos o dádivas;
-
-e. Tomar decisiones en los procedimientos de enajenación de bienes muebles o inmuebles de la SSyPC, anteponiendo intereses particulares;
-
-f. Intervenir en las decisiones que corresponden a otros servidores públicos de la SSyPC, para beneficiar algún participante en los procesos de enajenación de bienes muebles o inmuebles.
-
-7.1.8. PROCESOS DE EVALUACIÓN
-
-El servidor público que, con motivo de su empleo, cargo o comisión, participe en los procesos de evaluación, está obligado y se compromete, a realizar sus actos conforme lo establecido por la ley y a la normatividad aplicable, actuando siempre con lealtad, honradez, transparencia y apego a los principios y valores de legalidad, imparcialidad y rendición de cuentas.
-
-El servidor público de la SSyPC vulnera esta regla, de manera enunciativa más no limitativa, si comete las siguientes conductas:
-
-a. Proporcionar los datos contenidos en los sistemas; de información de la SSyPC, accediendo a estos o a los de la Administración Pública Estatal, sin tener las atribuciones que su empleo, cargo o comisión le otorgan;
-
-b. Alterar los resultados de las evaluaciones que realice cualquier instancia externa o interna en materia de evaluación o rendición de cuentas;
-
-c. Dejar de atender las evaluaciones realizadas a la SSyPC por emes públicos autorizados, ya sean internos o externos;
-
-d. Alterar los registros de cualquier índole para simular o modificar los resultados de las funciones, programas y proyectos gubernamentales.
-
-7.1.9. CONTROL INTERNO.
-
-El servidor público se abstendrá de otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones, retrasar los tiempos de respuesta a las solicitudes, no manipulará, ni alterará la información o documentos de los que tiene acceso con motivo de su empleo, cargo o comisión y en caso de renuncia o separación entregará a sus superiores la documentación, expedientes bienes o valores que tiene bajo su resguardo de acuerdo con las disposiciones aplicables.
-
-El servidor público de la SSyPC que, en el ejercicio de su empleo, cargo o comisión, genera, obtiene, utiliza y comunica información suficiente, oportuna y confiable, se obliga y compromete a cumplir los principios de legalidad, imparcialidad y rendición de cuentas. Vulnera lo anterior, de manera enunciativa, mas no limitativa, quien comete las siguientes conductas:
-
-a. Dejar de observar las políticas, procedimientos, mecanismos y acciones necesarias para asegurar el cumplimiento de los programas de información, procesos y proyectos institucionales, así como la mejora continua;
-
-b. Dejar de modificar los procesos de control interno, conforme a sus atribuciones, en áreas en las que se detecten conductas contrarias al Código de Ética, las Reglas de Integridad o al Código de Conducta;
-
-c. Dejar de implementar o de adoptar mejores prácticas y procesos para evitar la corrupción y prevenir cualquier conflicto de interés;
-
-d. Generar información financiera y presupuestaria sin tener el soporte financiero;
-
-e. Omitir supervisar los planes, programas o proyectos que tiene bajo su responsabilidad; así como las actividades y el debido cumplimiento de las actividades del personal que le reporta;
-
-f. Dejar de implementar los procesos que se tengan establecidos para evitar la corrupción y prevenir cualquier conflicto ele interés;
-
-g. Omitir salvaguardar toda documentación o información que, por su relevancia jurídica. económica o de seguridad, se deban conservar.
-
-7.1.10. PROCEDMIENTO ADMINISTRATIVO
-
-El servidor público que participe en los procedimientos administrativos asume una cultura de denuncia, de respeto a las formalidades esenciales del procedimiento y de la garantía de audiencia conforme al principio de legalidad.
-
-Vulneran esta regla, de manera enunciativa mas no limitativa, el servidor público de la SSyPC quien comete las siguientes conductas:
-
-a. Omitir notificar el inicio del procedimiento administrativo y sus consecuencias;
-
-b. Negarse a informar, declarar o testificar sobre los hechos que le consten relacionados con conductas contrarias a la Ley del Sistema de Seguridad Pública, Ley General de Responsabilidades Administrativas, Código de Ética, las Reglas de Integridad, al Código de Conducta y demás normas;
-
-c. Dejar de proporcionar o negar documentación o información que el Comité o la autoridad competente requiera para el ejercicio de sus funciones, o evitar colaborar con éstos en sus actividades;
-
-d. Dejar de observar los criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos que intervenga, tenga conocimiento y que sean contrarios a la Ley del Sistema de Seguridad Pública, a la Ley General de Responsabilidades Administrativas, al Código de Ética, a las Reglas de Integridad, al Código de Conducta y demás normas.
-
-7.1.11. DESEMPEÑO PERMANENTE CON INTEGRIDAD
-
-El servidor público está obligado a capacitarse y actualizarse profesionalmente, con la finalidad de cooperar con la SSyPC y con las instancias encargadas de vigilar los principios y valores intrínsecos de la función pública, para el fortalecimiento de la cultura ética y de servicio a la sociedad.
-
-El servidor público de la SSyPC, se obliga y compromete a conducir su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad. Vulnera esta regla, de manera enunciativa mas no limitativa, quien realiza las siguientes conductas:
-
-a. Omite conducirse con un trato digno, y amable, como lo establecen los protocolos de atención al público y de cooperación entre servidores públicos;
-
-b. Retrasar, de manera negligente, las actividades que permitan atender de forma ágil y expedita al público en general;
-
-c. Realizar actividades particulares en horarios de trabajo, contraviniendo las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos;
-
-d. Acosar, hostigar, amedrentar o amenazar a compañeros de trabajo o personal subordinado;
-
-e. Omitir excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar, de negocios o en los que tenga conflicto de interés;
-
-f. Obstruir la presentación de denuncias, acusaciones o delaciones sobre el uso indebido de recursos económicos que impidan o propicien la rendición de cuentas.
-
-7.1.12. COOPERACIÓN CON LA INTEGRIDAD
-
-El servidor público en el desempeño de su empleo, cargo o comisión, debe observar los principios y valores intrínsecos de la función pública, cooperando íntegramente en el fortalecimiento de la cultura ética y de servicio a la sociedad.
-
-Vulnera estos principios el servidor de la SSyPC quien en el ejercicio de su empleo, cargo y comisión comete las siguientes conductas:
-
-a. Siendo conocedor de probable falta administrativa o hecho de corrupción, omite denunciarlo;
-
-b. Omitir proponer, diseñar y establecer mejores prácticas a favor del servicio público;
-
-c. Cometer abuso de autoridad, y autorizar inasistencias sin causas justificadas.
-
-7.1.13. COMPORTAMIENTO DIGNO
-
-El servidor público de la SSyPC en el desempeño de su empleo, cargo o comisión, se compromete y obliga a cumplirlo en forma digna sin proferir expresiones insultantes, sin usar lenguajes ofensivos, ni realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacía todas las personas con las que tiene una relación en la función pública.
-
-Vulneran estas reglas, de manera enunciativa mas no limitativa, el servidor público que comete las siguientes conductas:
-
-a. Llevar a cabo conductas agresivas, intimidatorias, hacia cualquier persona para que se someta a sus deseos o intereses sexuales;
-
-b. Condicionar la obtención de un empleo, su permanencia en él o las condiciones del mismo a cambio de aceptar conductas de naturaleza sexual;
-
-c. Obligar a realizar actividades que no competen a su labor, en represalia por rechazar proposiciones de carácter sexual;
-
-d. Condicionar la prestación de un trámite o servicio público o evaluación a cambio de que la persona solicitante acceda a sostener relaciones sexuales de cualquier naturaleza;
-
-e. Difundir rumores sobre la vida sexual de una persona.
-
-8.1 EL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS, DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
-
-El Comité de Ética y de Prevención de Conflicto de Interés, de la Secretaría de Seguridad y Protección Ciudadana, es el órgano colegiado competente para vigilar, interpretar, aplicar, difundir y evaluar el cumplimiento del presente Código de Conducta.
-
-En caso de que el servidor público incumpla con lo establecido en el Código de Conducta de la Secretaría de Seguridad y Protección Ciudadana, se faculta a cualquier persona - servidor público o particular - hacer del conocimiento del Comité de Ética y de Prevención de Conflicto de Interés o del Órgano Interno de Control.
-
-9.1 CARTA COMPROMISO
-
-He recibido y se me ha hecho del conocimiento, el contenido del Código de Ética de las personas servidoras públicas de la Administración Pública Estatal, y del Código de Conducta de los servidores públicos de la Secretaría de Seguridad y Protección Ciudadana del Estado de Tabasco; de igual forma, ME COMPROMETO a cumplirlo y vigilar su plena observancia, para ser cada vez una mejor persona servidora pública.
-
-Asimismo, estoy enterado(a) que existen leyes que, en caso de incumplimiento, serán aplicadas en mi perjuicio como medida disciplinaria.
-
-NOMBRE COMPLETO: …………………
-
-CARGO A OCUPAR: …………………
-
-ADSCRIPCIÓN A: …………………
-
-LUGAR Y FECHA: …………………
-
-10.1 GLOSARIO
-
-Para efectos del Código de Conducta de la SSyPC, se entenderá por:
-
-Acoso sexual: Definido como “una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realicen uno o varios eventos”
-
-Ambiente laboral: Es el medio físico, psicológico y social en el que se desarrolla el trabajo diario de los individuos. La calidad y calidez que exista en ese medio influye en la productividad y satisfacción de los servidores públicos de la SSyPC, por lo que se deben fortalecer permanentemente factores como la organización, el liderazgo, las relaciones interpersonales, la comunicación y el grado de compromiso del personal en todos los niveles.
-
-Cargo público: Funciones que ejecuta un individuo en la administración pública de gobierno, dentro de un organismo del Estado como la SSyPC, derivado de un proceso de selección.
-
-Código de Conducta: Es el documento emitido por la Secretaría de Seguridad y Protección Ciudadana a través del Comité de Ética y de Prevención de Conflictos de Interés (CEPCI), cuyo objetivo es orientar y dar certeza plena a las personas servidoras públicas de la SSyPC, respecto al comportamiento ético al que deben sujetarse en su quehacer cotidiano, de forma que prevengan conflictos de interés, y delimiten su actuación en situaciones específicas que -puedan presentarse y que involucren riesgos de posibles actos de corrupción.
-
-Código de Ética: Instrumento deontológico, señalado en el artículo 16 de la Ley General de Responsabilidades Administrativas, que establece los parámetros generales de valoración y actuación respecto al comportamiento al que aspira una persona servidora pública, en el ejercicio de su empleo, cargo o comisión, a fin de promover un gobierno, democrático, transparente, íntegro y cercano a la ciudadanía.
-
-Comité de Ética y de Prevención de Conflictos de Interés (CEPCI): Conjunto de personas que fueron propuestos y elegidos por los servidores públicos de la Secretaría de Seguridad y Protección Ciudadana (SSyPC), que tiene como propósito promover el comportamiento ético al que deben sujetarse las personas servidoras públicas de la SSyPC en el ejercicio de sus quehaceres cotidianos, así como identificar, conocer, dictaminar y resolver sobre situaciones específicas que pudieran conducir al posible incumplimiento de los preceptos establecidos en el Código de Conducta de la SSyPC.
-
-Conflicto de interés: La situación que se presenta cuando los intereses personales, familiares o de negocios de las personas servidoras públicas puedan afectar el desempeño independiente e imparcial de sus empleos, cargos, comisiones o funciones.
-
-Cooperación: Las personas servidoras públicas colaboran entre sí y propician el trabajo en equipo para alcanzar los objetivos comunes previstos en el Plan Estatal de Desarrollo, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de los ciudadanos en sus instituciones.
-
-Eficiencia: Busca consolidar los objetivos gubernamentales a través de una cultura de servicio público austero, orientada a resultados y basada en la optimización de recursos, garantizando la eficacia, la economía y la disciplina, así como el valor de cooperación.
-
-Entorno Cultural y Ecológico: Las personas servidoras públicas en el desarrollo de sus actividades evitan la afectación del patrimonio cultural de la nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
-
-Ética: Rama de la filosofía que estudia el comportamiento del ser humano, en cuanto si es correcto o incorrecto. Asimismo, Estudia los actos que el ser humano realiza de forma libre y consciente, para promover los comportamientos deseables de los miembros de un grupo, una comunidad o sociedad (comportamientos éticamente buenos o éticamente malos), por lo que contribuye a la justa aplicación de las normas legales en un Estado de derecho. En el caso del servicio público busca regular la actuación de quienes desempeñan un cargo público.
-
-Equidad de género: Las personas servidoras públicas, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servidos públicos; a los programas y benéficos institucionales, y a los empleos, cargos y comisiones gubernamentales.
-
-Honradez: Fomenta la rectitud en el ejercicio del empleo, cargo o comisión promoviendo un gobierno abierto que promueva la máxima publicidad y el escrutinio público de sus funciones ante la sociedad, garantizando la transparencia y la rendición de cuentas, así como el valor de respeto.
-
-Hostigamiento sexual: Es el ejercicio del poder en una relación de subordinación de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva, Según la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la violencia laboral “[ ... ] es la negativa ilegal a contratar a la víctima o a repasar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género”.
-
-Igualdad y no discriminación: Las personas servidoras públicas prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social; económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
-
-Imparcialidad: Busca fomentar el acceso neutral y sin discriminación de todas las personas, con las mismas condiciones, oportunidades y beneficios institucionales y gubernamentales, garantizando así la equidad, la objetividad y la competencia por mérito; los valores de equidad de género e igualdad y no discriminación y la regla de integridad de comportamiento digno.
-
-Integridad: Las personas servidoras públicas actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo o comisión, convencidos en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vincule u observen su actuar.
-
-Integridad pública: Se refiere a hacer siempre lo correcto al desempeñar un cargo público, significando esto que cada persona servidora pública debe hacer todo aquello que considere bueno para sí misma y para la institución en la que labora. observando la normatividad correspondiente, sin afectar los intereses de otras personas, y existiendo coherencia entre lo que se hace, los principios y valores personales e institucionales, los métodos de trabajo, las expectativas y los resultados que se espera alcanzar, con la finalidad de fortalecer la credibilidad y confianza de la sociedad en las instituciones.
-
-Interés Público; Las personas servidoras públicas actúan buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
-
-Lealtad: Busca que las personas servidoras públicas correspondan a la confianza que la Administración Pública Estatal les ha conferido, a fin de satisfacer el interés superior de las necesidades colectivas y generar certeza plena de su conducta frente a todas las personas, garantizando la integridad, los valores de interés público y entorno cultural y ecológico, así como las reglas de integridad, de cooperación y desempeño permanente con la integridad.
-
-Legalidad: Fomenta el cumplimiento a las normas jurídicas, con un estricto sentido de vocación de servicio a la sociedad, garantizando el profesionalismo, así como los valores de respeto a los derechos humanos y liderazgo.
-
-Liderazgo: Las personas servidoras públicas son guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentan y aplican en el desempeño de sus funciones los principios que la Constitución y la ley les impone, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
-
-Lineamientos generales: Los Lineamientos generales para propiciar la integridad de las personas servidoras públicas y para implementar acciones permanentes que favorezcan su comportamiento ético, a través del Comité de Ética y de Prevención de Conflictos de Interés.
-
-Reglas de integridad: Las Reglas de Integridad para el ejercicio de la función pública, señaladas en el artículo 19 del “ACUERDO por el que se emite el Código de Ética de las Personas Servidoras Públicas de la Administración Pública Estatal”.
-
-Rendición. de Cuentas: Las personas servidoras públicas asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
-
-Respeto: Las personas servidoras públicas se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeros de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
-
-Respeto a los Derechos Humanos: Las personas servidoras públicas respetan los derechos humanos; y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con 1os Principios de: Universalidad que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia que implica que los derechos humanos se encuentran vinculados íntimamente entre sí; de Indivisibilidad que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
-
-Riesgo ético: Situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificados a partir del diagnóstico que realicen las dependencias, entidades o empresas productivas del Estado, en términos de lo ordenado por el artículo 15 de la Ley General de Responsabilidades Administrativas.
-
-SSyPC: Secretaría de Seguridad y Protección Ciudadana: Es una función de Seguridad Pública a cargo del Estado, realizada en el ámbito de su competencia por conducto de la SSyPC, Fiscalía General del Estado, de las Instituciones Policiales, y de los Ayuntamientos Municipales, y tienen como fin salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del sentenciado, en términos de esta Ley , en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
-
-Transparencia: Las personas servidoras públicas en el ejercicio de sus funciones protegen los datos personales que estén bajo su custodia; privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto.
+CODIGO FISCAL DE LA FEDERACION
 
 ## TITULO I. Disposiciones Generales
 
@@ -1178,6 +678,12 @@ b) Proporcionar los servicios de acceso al registro de certificados. A dicho reg
 
 Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el Servicio de Administración Tributaria, pudiendo hacerlo en forma separada o conjunta con las personas autorizadas en los términos de esta fracción.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los particulares que acuerden el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
+
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 ###### Artículo 17-G.
@@ -1285,6 +791,16 @@ I. La autoridad fiscal realizará la notificación de cualquier acto o resoluci�
 II. Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
 
 Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por el Servicio de Administración Tributaria mediante los mecanismos de comunicación que el contribuyente elija de entre los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante el mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 17-L.
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá autorizar el uso del buzón tributario previsto en el artículo 17-K de este Código cuando las autoridades de la administración pública centralizada y paraestatal del gobierno federal, estatal o municipal, o los organismos constitucionalmente autónomos tengan el consentimiento de los particulares, o bien, estos últimos entre sí acepten la utilización del citado buzón.
+
+Las bases de información depositadas en el mencionado buzón en términos de este artículo, no podrán tener un uso fiscal para los efectos de lo dispuesto en el artículo 63, primer párrafo de este Código.
 
 ## TITULO II. De los Derechos y Obligaciones de los Contribuyentes
 
@@ -1938,9 +1454,11 @@ Los contribuyentes obligados al pago del impuesto sobre la renta en los término
 
 Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes fiscales digitales por Internet por los actos o actividades que realicen o por los ingresos que perciban, o que hayan abierto una cuenta a su nombre en las entidades del sistema financiero o en las sociedades cooperativas de ahorro y préstamo, en las que reciban depósitos o realicen operaciones susceptibles de ser sujetas de contribuciones, deberán solicitar su inscripción en el registro federal de contribuyentes, proporcionar la información relacionada con su identidad, su domicilio y, en general, sobre su situación fiscal, mediante los avisos que se establecen en el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al registro federal de contribuyentes su domicilio fiscal; en caso de cambio de domicilio fiscal deberán presentar el aviso correspondiente dentro de los diez días siguientes al día en el que tenga lugar dicho cambio, salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 10 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto. Las personas morales y las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes fiscales por los actos o actividades que realicen o por los ingresos que perciban, deberán solicitar su certificado de firma electrónica avanzada. En caso de que el contribuyente presente el aviso de cambio de domicilio y no sea localizado en este último, el aviso no tendrá efectos legales. El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer mecanismos simplificados de inscripción al registro federal de contribuyentes, atendiendo a las características del régimen de tributación del contribuyente.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Asimismo, deberán solicitar su inscripción en el registro federal de contribuyentes y su certificado de firma electrónica avanzada, así como presentar los avisos que señale el Reglamento de este Código, los socios y accionistas de las personas morales a que se refiere el párrafo anterior, salvo los miembros de las personas morales con fines no lucrativos a que se refiere el Título III de la Ley del Impuesto sobre la Renta, así como las personas que hubiesen adquirido sus acciones a través de mercados reconocidos o de amplia bursatilidad y dichas acciones se consideren colocadas entre el gran público inversionista, siempre que, en este último supuesto, el socio o accionista no hubiere solicitado su registro en el libro de socios y accionistas.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Asimismo, deberán solicitar su inscripción en el registro federal de contribuyentes y su certificado de firma electrónica avanzada, así como presentar los avisos que señale el Reglamento de este Código, los representantes legales y los socios y accionistas de las personas morales a que se refiere el párrafo anterior, salvo los miembros de las personas morales con fines no lucrativos a que se refiere el Título III de la Ley del Impuesto sobre la Renta, así como las personas que hubiesen adquirido sus acciones a través de mercados reconocidos o de amplia bursatilidad y dichas acciones se consideren colocadas entre el gran público inversionista, siempre que, en este último supuesto, el socio o accionista no hubiere solicitado su registro en el libro de socios y accionistas.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1962,9 +1480,11 @@ Las personas físicas y las morales, residentes en el extranjero sin establecimi
 
 Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión, escisión o de liquidación de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el registro federal de contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión al Servicio de Administración Tributaria dentro del mes siguiente a la autorización de la escritura.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Asimismo, los fedatarios públicos deberán asentar en las escrituras públicas en que hagan constar actas constitutivas y demás actas de asamblea de personas morales cuyos socios o accionistas deban solicitar su inscripción en el registro federal de contribuyentes, la clave correspondiente a cada socio o accionista o, en su caso, verificar que dicha clave aparezca en los documentos señalados. Para ello, se cerciorarán de que dicha clave concuerde con la cédula respectiva.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Asimismo, los fedatarios públicos deberán asentar en las escrituras públicas en que hagan constar actas constitutivas y demás actas de asamblea de personas morales cuyos socios o accionistas y sus representantes legales deban solicitar su inscripción en el registro federal de contribuyentes, la clave correspondiente a cada socio o accionista y representante legal o, en su caso, verificar que dicha clave aparezca en los documentos señalados. Para ello, se cerciorarán de que dicha clave concuerde con la cédula respectiva.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -2142,6 +1662,18 @@ Los comprobantes fiscales digitales por Internet que se generen para efectos de 
 
 Las cantidades que estén amparadas en los comprobantes fiscales que no reúnan algún requisito de los establecidos en esta disposición o en el artículo 29 de este Código, según sea el caso, o cuando los datos contenidos en los mismos se plasmen en forma distinta a lo señalado por las disposiciones fiscales, no podrán deducirse o acreditarse fiscalmente.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEXTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los comprobantes fiscales digitales por Internet sólo podrán cancelarse cuando la persona a favor de quien se expidan acepte su cancelación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEXTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá la forma y los medios en los que se deberá manifestar dicha aceptación.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 29-B.
@@ -2236,13 +1768,9 @@ Las personas deberán presentar las solicitudes en materia de registro federal d
 
 Los contribuyentes podrán cumplir con la obligación a que se refiere el párrafo anterior, en las oficinas de asistencia al contribuyente del Servicio de Administración Tributaria, proporcionando la información necesaria a fin de que sea enviada por medios electrónicos a las direcciones electrónicas correspondientes y, en su caso, ordenando la transferencia electrónica de fondos.
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
-
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá autorizar a las organizaciones que agrupen a los contribuyentes que en las mismas reglas se señalen, para que a nombre de éstos presenten las declaraciones, avisos, solicitudes y demás documentos que exijan las disposiciones fiscales.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -2287,6 +1815,18 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 A petición del contribuyente, el Servicio de Administración Tributaria emitirá una constancia en la que se señalen las declaraciones presentadas por el citado contribuyente en el ejercicio de que se trate y la fecha de presentación de las mismas. Dicha constancia únicamente tendrá carácter informativo y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo. Para ello, el Servicio de Administración Tributaria contará con un plazo de 20 días contados a partir de que sea enviada la solicitud correspondiente en documento digital con firma electrónica avanzada, a la dirección electrónica que señale el citado Servicio mediante reglas de carácter general y siempre que se hubieran pagado los derechos que al efecto se establezcan en la ley de la materia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+El Servicio de Administración Tributaria podrá autorizar a proveedores de certificación de documentos digitales para que incorporen el sello digital de dicho órgano administrativo desconcentrado a los documentos digitales que cumplan con los requisitos establecidos en las disposiciones fiscales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Dichos proveedores para obtener y conservar la autorización deberán cumplir con los requisitos y obligaciones que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2370,7 +1910,11 @@ Los contribuyentes que hayan optado por presentar el dictamen de los estados fin
 
 En el caso de que en el dictamen se determinen diferencias de impuestos a pagar, éstas deberán enterarse mediante declaración complementaria en las oficinas autorizadas dentro de los diez días posteriores a la presentación del dictamen.
 
-Los contribuyentes que ejerzan la opción a que se refiere este artículo, tendrán por cumplida la obligación de presentar la declaración informativa sobre su situación fiscal a que se refiere el artículo 32-H de este Código.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los contribuyentes que ejerzan la opción a que se refiere este artículo, tendrán por cumplida la obligación de presentar la información a que se refiere el artículo 32-H de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2602,13 +2146,13 @@ II. Los proveedores a los que les hubiere efectuado pagos, desglosando el valor 
 
 La información a que se refiere el párrafo anterior se deberá presentar a más tardar el día 17 del mes posterior al que corresponda dicha información.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 32-H.
 
-A más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio de que se trate, los contribuyentes que a continuación se señalan, deberán presentar ante las autoridades fiscales, la declaración informativa sobre su situación fiscal que mediante reglas de carácter general establezca el Servicio de Administración Tributaria, a través de los medios y formatos que se señalen en dichas reglas.
+Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
@@ -2616,13 +2160,41 @@ I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la 
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 II. Las sociedades mercantiles que pertenezcan al régimen fiscal opcional para grupos de sociedades en los términos del Capítulo VI, Título II de la Ley del Impuesto sobre la Renta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 III. Las entidades paraestatales de la administración pública federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 IV. Las personas morales residentes en el extranjero que tengan establecimiento permanente en el país, únicamente por las actividades que desarrollen en dichos establecimientos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 V. Cualquier persona moral residente en México, respecto de las operaciones llevadas a cabo con residentes en el extranjero.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 32-I.
+
+El Servicio de Administración Tributaria podrá autorizar a personas morales para que funjan como órganos certificadores que se encargarán de garantizar y verificar que los terceros autorizados cumplan con los requisitos y obligaciones para obtener y conservar las autorizaciones que para tales efectos emita el citado órgano administrativo desconcentrado.
+
+Dichos órganos certificadores deberán cumplir con los requisitos y obligaciones que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+Los terceros autorizados deberán otorgar las facilidades necesarias para que los órganos certificadores que hayan contratado, lleven a cabo las verificaciones que corresponda a fin de obtener la certificación que permita mantener la autorización de que se trate.
 
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
@@ -3018,11 +2590,13 @@ No se considerará que las autoridades fiscales inician el ejercicio de sus facu
 
 Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al registro federal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 42.
 
-Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
+Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y aduaneras y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -3042,13 +2616,25 @@ III. Practicar visitas a los contribuyentes, los responsables solidarios o terce
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y sobre las operaciones de enajenación de acciones que realicen, así como cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de expedición de comprobantes fiscales digitales por Internet y de presentación de solicitudes o avisos en materia del registro federal de contribuyentes; el cumplimiento de obligaciones en materia aduanera derivadas de autorizaciones o concesiones o de cualquier padrón o registro establecidos en las disposiciones relativas a dicha materia; verificar que la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar los contribuyentes, se realice conforme lo establecen las disposiciones fiscales; así como para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, posesión, estancia, tenencia o importación de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos y verificar que las cajetillas de cigarros para su venta en México contengan impreso el código de seguridad o, en su caso, que éste sea auténtico, de conformidad con el procedimiento previsto en el artículo 49 de este Código.
+V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar que cumplan con las siguientes obligaciones:
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+a) Las relativas a la expedición de comprobantes fiscales digitales por Internet y de presentación de solicitudes o avisos en materia del registro federal de contribuyentes;
+
+b) Las relativas a la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar conforme lo establecen las disposiciones fiscales;
+
+c) La consistente en que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos;
+
+d) La relativa a que las cajetillas de cigarros para su venta en México contengan impreso el código de seguridad o, en su caso, que éste sea auténtico;
+
+e) La de contar con la documentación o comprobantes que acrediten la legal propiedad, posesión, estancia, tenencia o importación de las mercancías de procedencia extranjera, debiéndola exhibir a la autoridad durante la visita, y
+
+f) Las inherentes y derivadas de autorizaciones, concesiones, padrones, registros o patentes establecidos en la Ley Aduanera, su Reglamento y las Reglas Generales de Comercio Exterior que emita el Servicio de Administración Tributaria.
+
+La visita domiciliaria que tenga por objeto verificar todos o cualquiera de las obligaciones referidas en los incisos anteriores, deberá realizarse conforme al procedimiento previsto en el artículo 49 de este Código y demás formalidades que resulten aplicables, en términos de la Ley Aduanera.
 
 Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
 
@@ -3056,9 +2642,7 @@ VI. Practicar u ordenar se practique avalúo o verificación física de toda cla
 
 VII. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-VIII. Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la Secretaría de Hacienda y Crédito Público, a través de los abogados hacendarios que designe, será coadyuvante del ministerio público federal, en los términos del Código Federal de Procedimientos Penales.
+VIII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3580,7 +3164,9 @@ Para los efectos de lo dispuesto en el artículo 42, fracción IX de este Códig
 
 I. Con base en la información y documentación que obre en su poder, las autoridades fiscales darán a conocer los hechos que deriven en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional a la cual, en su caso, se le podrá acompañar un oficio de preliquidación, cuando los hechos consignados sugieran el pago de algún crédito fiscal.
 
-El oficio de preliquidación se considerará definitivo, sólo en los supuestos de que el contribuyente acepte voluntariamente los hechos e irregularidades contenidos en la resolución provisional y entere el crédito fiscal propuesto o bien, cuando no ejerza el derecho a que se refiere la fracción II de este artículo o cuando ejerciéndolo, no logre desvirtuar los hechos e irregularidades contenidos en la resolución provisional.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 II. En la resolución provisional se le requerirá al contribuyente, responsable solidario o tercero, para que en un plazo de quince días siguientes a la notificación de la citada resolución, manifieste lo que a su derecho convenga y proporcione la información y documentación, tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones o aprovechamientos consignados en la resolución provisional.
 
@@ -3590,25 +3176,43 @@ II. En la resolución provisional se le requerirá al contribuyente, responsable
 
 En caso de que el contribuyente acepte los hechos e irregularidades contenidos en la resolución provisional y el oficio de preliquidación, podrá optar por corregir su situación fiscal dentro del plazo señalado en el párrafo que antecede, mediante el pago total de las contribuciones y aprovechamientos omitidos, junto con sus accesorios, en los términos contenidos en el oficio de preliquidación, en cuyo caso, gozará del beneficio de pagar una multa equivalente al 20% de las contribuciones omitidas.
 
-III. Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-a) Efectuará un segundo requerimiento al contribuyente, dentro del plazo de los diez días siguientes a aquél en que la autoridad fiscal reciba las pruebas, el cual deberá ser atendido por el contribuyente dentro del plazo de diez días siguientes contados a partir de la notificación del segundo requerimiento, mismo que suspenderá el plazo señalado en la fracción IV, primer párrafo de este artículo.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-b) Solicitará información y documentación de un tercero, en cuyo caso, desde el día en que se formule la solicitud y hasta aquel en que el tercero conteste, se suspenderá el plazo previsto en la fracción IV de este artículo, situación que deberá notificársele al contribuyente dentro de los diez días siguientes a la solicitud de la información. Dicha suspensión no podrá exceder de seis meses, excepto en materia de comercio exterior, supuesto en el cual el plazo no podrá exceder de dos años.
+III. Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, dentro de los diez días siguientes a aquél en que venza el plazo previsto en la fracción II de este artículo, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
 
-Una vez obtenida la información solicitada, la autoridad fiscal contará con un plazo máximo de cuarenta días para la emisión y notificación de la resolución, salvo tratándose de pruebas periciales, caso en el cual el plazo se computará a partir de su desahogo.
+a) Efectuará un segundo requerimiento al contribuyente, el cual deberá ser atendido dentro del plazo de diez días siguientes a partir de la notificación del segundo requerimiento.
 
-IV. En caso de que el contribuyente exhiba pruebas, la autoridad contará con un plazo máximo de cuarenta días contados a partir de su desahogo para la emisión y notificación de la resolución con base en la información que se cuente en el expediente.
+b) Solicitará información y documentación de un tercero, situación que deberá notificársele al contribuyente dentro de los diez días siguientes a la solicitud de la información.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+El tercero deberá atender la solicitud dentro de los diez días siguientes a la notificación del requerimiento; la información y documentación que aporte el tercero deberá darse a conocer al contribuyente dentro de los diez días siguientes a aquel en que el tercero la haya aportado; para lo cual el contribuyente contará con un plazo de diez días contados a partir de que le sea notificada la información adicional del tercero para manifestar lo que a su derecho convenga.
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-En caso de que el contribuyente no aporte pruebas, ni manifieste lo que a su derecho convenga para desvirtuar los hechos u omisiones dentro del plazo establecido en la fracción II de este artículo, la resolución provisional y, en su caso, el oficio de preliquidación que se haya acompañado, se volverán definitivos y las cantidades determinadas en el oficio de preliquidación se harán efectivas mediante el procedimiento administrativo de ejecución.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV. La autoridad contará con un plazo máximo de cuarenta días para la emisión y notificación de la resolución con base en la información y documentación con que se cuente en el expediente. El cómputo de este plazo, según sea el caso, iniciará a partir de que:
+
+a) Haya vencido el plazo previsto en la fracción II de este artículo o, en su caso, se hayan desahogado las pruebas ofrecidas por el contribuyente;
+
+b) Haya vencido el plazo previsto en la fracción III, inciso a) de este artículo o, en su caso, se hayan desahogado las pruebas ofrecidas por el contribuyente, o
+
+c) Haya vencido el plazo de 10 días previsto en la fracción III, inciso b) de este artículo para que el contribuyente manifieste lo que a su derecho convenga respecto de la información o documentación aportada por el tercero.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción IX del artículo 42 de este Código, se tendrá por perdido el derecho para realizarlo.
 
 Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se refiere este artículo, se notificarán y presentarán en documentos digitales a través del buzón tributario.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Las autoridades fiscales deberán concluir el procedimiento de revisión electrónica a que se refiere este artículo dentro de un plazo máximo de seis meses contados a partir de la notificación de la resolución provisional, excepto en materia de comercio exterior, en cuyo caso el plazo no podrá exceder de dos años. El plazo para concluir el procedimiento de revisión electrónica a que se refiere este párrafo se suspenderá en los casos señalados en las fracciones I, II, III, V y VI y penúltimo párrafo del artículo 46-A de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4044,6 +3648,12 @@ III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la
 
 IV. Se levante el acta de incumplimiento de la obligación garantizada, en un plazo que no excederá de cuatro meses, contados a partir del día siguiente al de la exigibilidad de las fianzas a favor de la Federación constituidas para garantizar el interés fiscal, la cual será notificada a la afianzadora.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+V. Concluya el mes en el cual el contribuyente deba realizar el ajuste previsto en el artículo 5o., fracción VI, cuarto párrafo de la Ley del Impuesto al Valor Agregado, tratándose del acreditamiento o devolución del impuesto al valor agregado correspondiente a periodos preoperativos.
+
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Federal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas, o no se presente en la declaración del impuesto sobre la renta la información que respecto del impuesto al valor agregado o del impuesto especial sobre producción y servicios se solicite en dicha declaración; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquél en el que se debió haber presentado la declaración señalada. En los casos en los que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
@@ -4222,13 +3832,13 @@ La Procuraduría de la Defensa del Contribuyente, una vez que acuse recibo de la
 
 Para mejor proveer a la adopción del acuerdo conclusivo, la Procuraduría de la Defensa del Contribuyente podrá convocar a mesas de trabajo, promoviendo en todo momento la emisión consensuada del acuerdo entre autoridad y contribuyente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 69-F.
 
-El procedimiento de acuerdo conclusivo suspende los plazos a que se refieren los artículos 46-A, primer párrafo y 50, primer párrafo, de este Código, a partir de que el contribuyente presente ante la Procuraduría de la Defensa del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en este Capítulo.
+El procedimiento de acuerdo conclusivo suspende los plazos a que se refieren los artículos 46-A, primer párrafo; 50, primer párrafo; 53-B y 67, antepenúltimo párrafo de este Código, a partir de que el contribuyente presente ante la Procuraduría de la Defensa del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en este Capítulo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4778,11 +4388,11 @@ XXXVII. No cumplir con las obligaciones establecidas en el artículo 82, fracci�
 
 XXXVIII. Incumplir con la restricción prevista en el artículo 82, fracción II de la Ley del Impuesto sobre la Renta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXIX. No proporcionar la información a que se refiere el artículo 82, fracción V de la Ley del Impuesto sobre la Renta.
+XXXIX. No destinar la totalidad del patrimonio o los donativos correspondientes, en los términos del artículo 82, fracción V de la Ley del Impuesto sobre la Renta.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4795,6 +4405,24 @@ XL. No proporcionar la información a que se refieren los artículos 31-A de est
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 XLI. No ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria estando obligado a ello; ingresarla fuera de los plazos establecidos en las disposiciones fiscales, o bien, no ingresarla de conformidad con las reglas de carácter general previstas en el artículo 28, fracción IV del Código, así como ingresarla con alteraciones que impidan su lectura.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XLII. No proporcionar la información a que se refiere el artículo 82-Bis de la Ley del Impuesto sobre la Renta, o presentarla incompleta o con errores.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XLIII. No cumplir con las especificaciones tecnológicas determinadas por el Servicio de Administración Tributaria, a que se refiere el artículo 29, fracción VI de este Código al enviar comprobantes fiscales digitales por Internet a dicho órgano administrativo desconcentrado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XLIV. No cumplir con las obligaciones establecidas en el artículo 82, fracción VI de la Ley del Impuesto sobre la Renta.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5070,11 +4698,11 @@ XXXV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. De $80,000.00 a $100,000.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII y XXXIX y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
+XXXVI. De $80,000.00 a $100,000.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5087,6 +4715,18 @@ XXXVII. De $140,540.00 a $200,090.00, para la establecida en la fracción XL.
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 XXXVIII. Respecto de las señaladas en la fracción XLI de $5,000.00 a $15,000.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX. De $140,540.00 a $200,090.00 a la establecida en la fracción XXXIX.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XL. De $1.00 a $5.00 a la establecida en la fracción XLIII, por cada comprobante fiscal digital por Internet enviado que contenga información que no cumple con las especificaciones tecnológicas determinadas por el Servicio de Administración Tributaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5842,7 +5482,11 @@ Al contador público que cometa las infracciones a que se refiere el artículo 9
 
 ### CAPITULO II. De los Delitos Fiscales
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], D.O.F. 17 DE JUNIO DE 2016)</small>
+
 ###### Artículo 92.
+
+La Secretaría de Hacienda y Crédito Público tendrá el carácter de víctima u ofendida en los procedimientos penales y juicios relacionados con delitos previstos en este Código. Los abogados hacendarios podrán actuar como asesores jurídicos dentro de dichos procedimientos.
 
 Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Hacienda y Crédito Público:
 
@@ -5850,21 +5494,37 @@ Para proceder penalmente por los delitos fiscales previstos en este Capítulo, s
 
 I. Formule querella, tratándose de los previstos en los artículos 105, 108, 109, 110, 111, 112 y 114, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
 
-II. Declare que el Fisco Federal ha sufrido o pudo sufrir perjuicio en los establecidos en los artículos 102 y 115.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Declare que el Fisco Federal ha sufrido o pudo sufrir perjuicio en lo establecido en los artículos 102, 103 y 115.
 
 III. Formule la declaratoria correspondiente, en los casos de contrabando de mercancías por las que no deban pagarse impuestos y requieran permiso de autoridad competente, o de mercancías de tráfico prohibido.
 
 En los demás casos no previstos en las fracciones anteriores bastará la denuncia de los hechos ante el Ministerio Público Federal.
 
-Los procesos por los delitos fiscales a que se refieren las tres fracciones de este artículo se sobreseerán a petición de la Secretaría de Hacienda y Crédito Público, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministro (sic) Público Federal formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Los procesos por los delitos fiscales a que se refieren las tres fracciones de este artículo se sobreseerán a petición de la Secretaría de Hacienda y Crédito Público, cuando los imputados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien esos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público Federal y el asesor jurídico formulen el alegato de clausura, y surtirá efectos respecto de las personas a que la misma se refiera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE JUNIO DE 2016)</small>
+
+La Secretaría de Hacienda y Crédito Público, con el fin de formular ante el Ministerio Público el requisito de procedibilidad que corresponda, podrá allegarse de los datos necesarios para documentar hechos probablemente constitutivos de delitos fiscales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, la Secretaría de Hacienda y Crédito Público hará la cuantificación correspondiente en la propia declaratoria o querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, excepto tratándose de los delitos graves previstos en este Código, para efectos de lo previsto en el artículo 194 del Código Federal de Procedimientos Penales, el monto de la caución que fije la autoridad judicial comprenderá, en su caso, la suma de la cuantificación antes mencionada y las contribuciones adeudadas, incluyendo actualización y recargos que hubiera determinado la autoridad fiscal a la fecha en que se promueva la libertad provisional. La caución que se otorgue en los términos de este párrafo, no sustituye a la garantía del interés fiscal.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE JUNIO DE 2016)</small>
 
-En caso de que el inculpado hubiera pagado o garantizado el interés fiscal a entera satisfacción de la Secretaría de Hacienda y Crédito Público, la autoridad judicial, a solicitud del inculpado, podrá reducir hasta en un 50% el monto de la caución, siempre que existan motivos o razones que justifiquen dicha reducción.
+Al resolver sobre las providencias precautorias la autoridad competente tomará como base la cuantificación anterior, adicionando la actualización y recargos que haya determinado la autoridad fiscal a la fecha de que se ordene la providencia. En caso de que el imputado no cuente con bienes suficientes para satisfacer la providencia precautoria, el juez fijará en todos los casos una medida cautelar consistente en garantía económica por el mismo monto que correspondería a la providencia precautoria. En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida esta sea citado para comparecer ante el juez e incumpla la cita, se requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos, el garante y el imputado, de que si no lo hicieren o no justificaren la incomparecencia, se hará efectiva a favor del Fisco Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE JUNIO DE 2016)</small>
+
+Para efectos de la condena a la reparación del daño, la autoridad competente deberá considerar la cuantificación referida en este artículo, incluyendo la actualización y los recargos que hubiere determinado la autoridad fiscal a la fecha en la que se dicte dicha condena.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+En caso de que el imputado hubiera pagado el interés fiscal a entera satisfacción de la Secretaría de Hacienda y Crédito Público, la autoridad judicial, a solicitud del imputado, podrá considerar dicho pago para efecto de la determinación de providencias precautorias, la imposición o modificación de las medidas cautelares.
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
@@ -5918,7 +5578,9 @@ Es respnsable (sic) de encubrimiento en los delitos fiscales, quien, sin previo 
 
 I. Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítimaprocedencia (sic), o ayude a otro a los mismos fines.
 
-II. Ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse de la acción de ésta, u oculte, altere, destruya o haga desaparecer las huellas, pruebas o instrumentos del delito o asegure para el inculpado el objeto o provecho del mismo.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+II. Ayude en cualquier forma al imputado para eludir las investigaciones de la autoridad o sustraerse de la acción de esta u oculte, altere, destruya, o haga desaparecer los indicios, evidencia, vestigios, objetos, instrumentos o productos del hecho delictivo o asegure para el imputado el objeto o provecho del mismo.
 
 El encumbrimiento (sic) a que se refiere este artículo se sancionará con prisión de tres meses a seis años.
 
@@ -5982,9 +5644,7 @@ También comete delito de contrabando quien interne mercancías extranjeras proc
 
 No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $155,610.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
-
-No se formulará declaratoria de perjuicio, a que se refiere la fracción II del artículo 92 de este Código, si quien encontrándose en los supuestos previstos en las fracciones XI, XII, XIII, XV, XVII y XVIII del artículo 103 de este Código, cumple con sus obligaciones fiscales y de comercio exterior y, en su caso, entera espontáneamente, con sus recargos y actualización, el monto de la contribución o cuotas compensatorias omitidas o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales y de comercio exterior.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -6061,6 +5721,10 @@ XX. Declare inexactamente la descripción o clasificación arancelaria de las me
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 Para los efectos de las fracciones XV y XVI de este artículo, no será responsable el agente o apoderado aduanal, si la comisión del delito se originó por la omisión del importador de presentar al agente o apoderado aduanal la constancia de que cumplió con la obligación de presentar al Registro Federal de Contribuyentes los avisos correspondientes a una fusión, escisión o cambio de denominación social que hubiera realizado, así como cuando la comisión del delito se origine respecto de mercancías cuyo plazo de importación temporal hubiera vencido.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+No se formulará declaratoria de perjuicio, a que se refiere la fracción II del artículo 92 de este Código, si quien encontrándose en los supuestos previstos en las fracciones XI, XII, XIII, XV, XVII y XVIII de este artículo, cumple con sus obligaciones fiscales y de comercio exterior y, en su caso, entera espontáneamente, con sus recargos y actualización, el monto de la contribución o cuotas compensatorias omitidas o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales y del comercio exterior.
 
 ###### Artículo 104.
 
@@ -8408,17 +8072,59 @@ BIS.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCED
 
 (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-## ARTÍCULOS TRANSITORIOS
+## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-SEGUNDO.- El presente Acuerdo abroga el Código de Ética y Conducta de la Secretaría de Seguridad Pública, emitido el 17 de diciembre de 2016, en el Suplemento 7751 B, del Periódico Oficial, así como cualquier otro Código de Ética y Conducta que haya sido emitido con anterioridad en este (sic) Secretaría.
+Artículo Primero.- Este Código entrará en vigor en toda la República el día 1o. de enero de 1983, excepción hecha del Título VI, del Procedimiento Contencioso Administrativo, que iniciará su vigencia el 1o. de abril de 1983.
 
-DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL·ESTADO DE TABASCO, A LOS 22 DIAS DEL MES DE ENERO DEL AÑO DOS MIL VEINTE.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-LIC. HERNÁN BERMÚDEZ REQUENA
+Artículo Segundo.- A partir de la entrada en vigor de este Código, se deroga el Código Fiscal de la Federación de fecha 30 de diciembre de 1966.
 
-SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA
+El Reglamento del Registro Federal de Contribuyentes de fecha 13 de junio de 1980, el Reglamento del Artículo 85 del Código Fiscal de la Federación de fecha 9 de abril de 1980, el Reglamento para el Cobro y Aplicación de los Gastos de Ejecución y Pago de Honorarios por Notificación de Créditos de fecha 29 de diciembre de 1973, continuarán aplicándose en lo que no se oponga al presente Código hasta en tanto se expida su Reglamento.
+
+Artículo Tercero.- Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en este Código.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Artículo Cuarto.- Cuando con anterioridad a la fecha de entrada en vigor de este Código se hubieran causado recargos sobre contribuciones federales no pagadas, que hubieran alcanzado el 100% del importe de dichas contribuciones a partir del primero de enero de 1983, se reanudará la causación de recargos sobre las mismas, conforme a este Código, aún cuando exceda del porciento mencionado.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Artículo Quinto.- Si con anterioridad al primero de septiembre de 1982, se hubieran solicitado devoluciones, cumpliéndose los requisitos que para estos efectos establecen las disposiciones fiscales y no se hubiera obtenido al primero de enero de 1983, a partir de esta fecha dichas cantidades empezarán a causar intereses conforme al artículo 22 del presente Código.
+
+Cuando la solicitud de devolución se hubiera presentado dentro de los 4 meses anteriores a la entrada en vigor de este Código, las cantidades a devolver empezarán a causar intereses, en su caso, a partir de la fecha en que se cumplan los 4 meses contados a partir de la fecha de presentación de la solicitud debidamente requisitada.
+
+> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+
+Artículo Sexto.- Los delitos y las infracciones cometidos durante la vigencia del Código que se abroga, se sancionarán en los términos preceptuados, por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Artículo Séptimo.- La interposición de los recursos administrativos o del juicio contencioso administrativo a que se refiere este Código, en contra de los actos que hubieran sido notificados con anterioridad al 1o. de enero o 1o. de abril de 1983, según el caso, podrán hacerse valer durante el plazo de cuarenta y cinco días contados a partir de la fecha en que surtió efectos la notificación, cuando no hubiese vencido el plazo para su interposición.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Artículo Octavo.- Los recursos administrativos que se hubieran interpuesto hasta el 31 de diciembre de 1982, se tramitarán y resolverán de conformidad con lo dispuesto por el presente Código.
+
+Artículo Noveno.- En los casos en que se haya interpuesto algún medio de defensa previsto en este Código y no se hubiera garantizado el interés fiscal o habiéndose efectuado deba ampliarse la garantía, ésta deberá otorgarse o ampliarse en un plazo de quince días contados a partir de la fecha de entrada en vigor de este Código, excepto cuando se trate de instituciones nacionales de crédito.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Artículo Décimo.- Los juicios contenciosos administrativos que se hubieran interpuesto antes de la entrada en vigor de este Código, se tramitarán y resolverán de conformidad con sus disposiciones.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Artículo Décimo Primero.- Para los efectos de la aplicación de este Código, respecto de los convenios de colaboración administrativa celebrados por la Secretaría de Hacienda y Crédito Público con los Estados y el Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para su coordinación en impuestos federales vigentes; así como del Reglamento Interior de la Secretaría de Hacienda y Crédito Público y demás ordenamientos a los que les sea aplicables, ya sea cuando sus cláusulas o disposiciones hagan referencia a materias reguladas en él, o bien, cuando las mismas deban aplicarse o interpretarse en función, de las disposiciones del propio Código, deberán seguirse aplicando o interpretando en la misma forma y términos como se venía haciendo en relación con el Código Fiscal de la Federación vigente hasta el 31 de diciembre de 1982, aún cuando en este Código se utilice terminología diferente para regular las mismas materias, salvo que alguna disposición establezca lo contrario o regule de manera diferente alguna materia.
+
+México, D. F., a 30 de diciembre de 1981.- Blas Chumacero Sánchez, S.P.- Marco Antonio Aguilar Cortés, D.P.- Luis León Aponte, S.S.- Silvio Lagos Martinez, D.S.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+
+D.O.F. 30 DE SEPTIEMBRE DE 1982.
 
 ###### ARTICULO UNICO.
 
@@ -10079,3 +9785,41 @@ Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del pr
 D.O.F. 12 DE ENERO DE 2016.
 
 LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 17 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+
+Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+
+Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+
+Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+
+Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO Y TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS.]</small>
+
+DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
+
+Artículo Sexto.- En relación con las modificaciones a las que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+
+I. La adición de los párrafos cuarto y quinto del artículo 29-A del Código Fiscal de la Federación, entrará en vigor el 1 de mayo de 2017.
+
+II. La declaración informativa de situación fiscal de los contribuyentes correspondiente al ejercicio fiscal de 2016, a que se refiere el artículo 32-H del Código Fiscal de la Federación vigente hasta el 31 de diciembre de 2016, deberá presentarse conforme a las disposiciones vigentes hasta dicha fecha.
+
+III. El Servicio de Administración Tributaria mediante reglas de carácter general, deberá emitir un sistema simplificado para llevar los registros contables de las personas físicas que obtengan ingresos por actividades agrícolas, ganaderas, silvícolas o pesqueras, cuyos ingresos no excedan de 16 veces el valor anual de la Unidad de Medida y Actualización y que los ingresos por su actividad primaria representen cuando menos el 25% de sus ingresos totales en el ejercicio, en sustitución de la obligación de llevar contabilidad conforme a los sistemas contables que establece el Código Fiscal de la Federación y su Reglamento.
+
+## Transitorio
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
