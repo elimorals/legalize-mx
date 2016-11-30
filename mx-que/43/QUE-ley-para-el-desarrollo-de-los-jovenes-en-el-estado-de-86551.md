@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2016-11-11"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -727,9 +727,13 @@ El servicio social a que se refiere el artículo anterior, no será menor a 6 me
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 65.
 
-La Secretaría promoverá ante la Legislatura del Estado, a través de los integrantes de la Comisión de Juventud y Deporte, la instalación anual de un Parlamento, mismo que tendrá por objeto promover la cultura legislativa entre los jóvenes, el cual se realizará durante la primera semana del mes de febrero.
+La Secretaría de la Juventud promoverá ante la Legislatura del Estado, a través de la Comisión de Juventud y Deporte, la instalación anual de un Parlamento Juvenil, el cual se realizará durante dos días en la última semana del mes de agosto y que tendrá por objeto promover la cultura legislativa entre los jóvenes,
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 66.
 
@@ -737,11 +741,13 @@ El Parlamento contará con un Comité Organizador, que será honorífico y se in
 
 I. El Secretario de la Juventud o en su caso la persona que éste designe; y
 
-II. Los integrantes de la Comisión de Juventud y Deporte del Poder Legislativo del Estado de Querétaro.
+II. La Comisión de Juventud y Deporte del Poder Legislativo del Estado de Querétaro o en su caso la persona que éste designe.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 67.
 
-La organización, así como el establecimiento de bases y lineamientos para la convocatoria, selección de aspirantes, logística y desarrollo del Parlamento de la Juventud, estará a cargo del Comité Organizador.
+La organización, así como el establecimiento de bases y lineamientos para la convocatoria, selección de aspirantes, logística y desarrollo del Parlamento Juvenil, estará a cargo del Comité Organizador en coordinación con la Dirección de Investigación y Estadística de la Legislatura del Estado, estableciendo que cada Parlamento Juvenil tendrá como objetivo tratar una determinada materia, tal como se establezca en el Reglamento que para esos efectos expida el Comité Organizador.
 
 ###### Artículo 68.
 
@@ -864,5 +870,13 @@ P.O. 11 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 65, 66 Y 67 DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
