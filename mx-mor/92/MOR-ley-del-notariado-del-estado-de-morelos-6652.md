@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2016-06-15"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -330,6 +330,16 @@ VI.- Ser árbitro o secretario en juicio arbitral.
 VII.- Patrocinar a los interesados en los procedimientos Judiciales necesarios para el Registro de escrituras; y
 
 VIII.- Patrocinar a los interesados en los procedimientos administrativos necesarios para el otorgamiento, registro o trámite fiscal de las escrituras que otorgare.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+IX.- A solicitud y opción de los interesados, se consideran asuntos susceptibles de ser formalizados por el Notario Público, mediante el ejercicio de su fe pública, en términos de esta Ley, el Divorcio Administrativo previsto en términos del Código Procesal Familiar para el Estado Libre y Soberano de Morelos, el cual podrá celebrarse ante Notario Público, por mutuo acuerdo de ambos cónyuges de forma personalísima, mediante escritura pública, sin perjuicio de la competencia asignada a las autoridades administrativas y judiciales establecidas en la ley de la materia.
+
+El divorcio administrativo ante notario público, producirá los mismos efectos que el efectuado judicialmente, y
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+X.- También serán de competencia de los notarios las capitulaciones, constitución, y en su caso, la disolución de los matrimonios contraídos bajo el régimen de sociedad conyugal y la liquidación de los bienes adquiridos durante el mismo.
 
 ###### ARTICULO 30.
 
@@ -1470,3 +1480,13 @@ SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
 
 CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias al Reglamento de la Ley del Registro Público de la Propiedad y del Comercio del Estado de Morelos y al Reglamento de la Ley del Notariado del Estado de Morelos y demás disposiciones jurídicas de igual o menor rango jerárquico normativo aplicable.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMA EL CUARTO PÁRRAFO, DEL ARTÍCULO 174 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, SE REFORMA EL ARTÍCULO 503 Y SE ADICIONA UN 503 BIS AL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, ASÍ COMO SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 29 DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que contravengan lo dispuesto en el presente Decreto.
