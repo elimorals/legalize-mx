@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2016-06-17"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 12 DE ENERO DE 2016.
 
@@ -678,6 +678,12 @@ b) Proporcionar los servicios de acceso al registro de certificados. A dicho reg
 
 Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el Servicio de Administración Tributaria, pudiendo hacerlo en forma separada o conjunta con las personas autorizadas en los términos de esta fracción.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los particulares que acuerden el uso de la firma electrónica avanzada como medio de autenticación o firmado de documentos digitales, podrán solicitar al Servicio de Administración Tributaria que preste el servicio de verificación y autenticación de los certificados de firmas electrónicas avanzadas. Los requisitos para otorgar la prestación de dicho servicio se establecerán mediante reglas de carácter general que emita dicho órgano administrativo desconcentrado.
+
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 ###### Artículo 17-G.
@@ -785,6 +791,16 @@ I. La autoridad fiscal realizará la notificación de cualquier acto o resoluci�
 II. Los contribuyentes presentarán promociones, solicitudes, avisos, o darán cumplimiento a requerimientos de la autoridad, a través de documentos digitales, y podrán realizar consultas sobre su situación fiscal.
 
 Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por el Servicio de Administración Tributaria mediante los mecanismos de comunicación que el contribuyente elija de entre los que se den a conocer mediante reglas de carácter general. La autoridad enviará por única ocasión, mediante el mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 17-L.
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá autorizar el uso del buzón tributario previsto en el artículo 17-K de este Código cuando las autoridades de la administración pública centralizada y paraestatal del gobierno federal, estatal o municipal, o los organismos constitucionalmente autónomos tengan el consentimiento de los particulares, o bien, estos últimos entre sí acepten la utilización del citado buzón.
+
+Las bases de información depositadas en el mencionado buzón en términos de este artículo, no podrán tener un uso fiscal para los efectos de lo dispuesto en el artículo 63, primer párrafo de este Código.
 
 ## TITULO II. De los Derechos y Obligaciones de los Contribuyentes
 
@@ -1438,9 +1454,11 @@ Los contribuyentes obligados al pago del impuesto sobre la renta en los término
 
 Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes fiscales digitales por Internet por los actos o actividades que realicen o por los ingresos que perciban, o que hayan abierto una cuenta a su nombre en las entidades del sistema financiero o en las sociedades cooperativas de ahorro y préstamo, en las que reciban depósitos o realicen operaciones susceptibles de ser sujetas de contribuciones, deberán solicitar su inscripción en el registro federal de contribuyentes, proporcionar la información relacionada con su identidad, su domicilio y, en general, sobre su situación fiscal, mediante los avisos que se establecen en el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al registro federal de contribuyentes su domicilio fiscal; en caso de cambio de domicilio fiscal deberán presentar el aviso correspondiente dentro de los diez días siguientes al día en el que tenga lugar dicho cambio, salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 10 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto. Las personas morales y las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes fiscales por los actos o actividades que realicen o por los ingresos que perciban, deberán solicitar su certificado de firma electrónica avanzada. En caso de que el contribuyente presente el aviso de cambio de domicilio y no sea localizado en este último, el aviso no tendrá efectos legales. El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer mecanismos simplificados de inscripción al registro federal de contribuyentes, atendiendo a las características del régimen de tributación del contribuyente.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Asimismo, deberán solicitar su inscripción en el registro federal de contribuyentes y su certificado de firma electrónica avanzada, así como presentar los avisos que señale el Reglamento de este Código, los socios y accionistas de las personas morales a que se refiere el párrafo anterior, salvo los miembros de las personas morales con fines no lucrativos a que se refiere el Título III de la Ley del Impuesto sobre la Renta, así como las personas que hubiesen adquirido sus acciones a través de mercados reconocidos o de amplia bursatilidad y dichas acciones se consideren colocadas entre el gran público inversionista, siempre que, en este último supuesto, el socio o accionista no hubiere solicitado su registro en el libro de socios y accionistas.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Asimismo, deberán solicitar su inscripción en el registro federal de contribuyentes y su certificado de firma electrónica avanzada, así como presentar los avisos que señale el Reglamento de este Código, los representantes legales y los socios y accionistas de las personas morales a que se refiere el párrafo anterior, salvo los miembros de las personas morales con fines no lucrativos a que se refiere el Título III de la Ley del Impuesto sobre la Renta, así como las personas que hubiesen adquirido sus acciones a través de mercados reconocidos o de amplia bursatilidad y dichas acciones se consideren colocadas entre el gran público inversionista, siempre que, en este último supuesto, el socio o accionista no hubiere solicitado su registro en el libro de socios y accionistas.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1462,9 +1480,11 @@ Las personas físicas y las morales, residentes en el extranjero sin establecimi
 
 Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión, escisión o de liquidación de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el registro federal de contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión al Servicio de Administración Tributaria dentro del mes siguiente a la autorización de la escritura.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Asimismo, los fedatarios públicos deberán asentar en las escrituras públicas en que hagan constar actas constitutivas y demás actas de asamblea de personas morales cuyos socios o accionistas deban solicitar su inscripción en el registro federal de contribuyentes, la clave correspondiente a cada socio o accionista o, en su caso, verificar que dicha clave aparezca en los documentos señalados. Para ello, se cerciorarán de que dicha clave concuerde con la cédula respectiva.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Asimismo, los fedatarios públicos deberán asentar en las escrituras públicas en que hagan constar actas constitutivas y demás actas de asamblea de personas morales cuyos socios o accionistas y sus representantes legales deban solicitar su inscripción en el registro federal de contribuyentes, la clave correspondiente a cada socio o accionista y representante legal o, en su caso, verificar que dicha clave aparezca en los documentos señalados. Para ello, se cerciorarán de que dicha clave concuerde con la cédula respectiva.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1642,6 +1662,18 @@ Los comprobantes fiscales digitales por Internet que se generen para efectos de 
 
 Las cantidades que estén amparadas en los comprobantes fiscales que no reúnan algún requisito de los establecidos en esta disposición o en el artículo 29 de este Código, según sea el caso, o cuando los datos contenidos en los mismos se plasmen en forma distinta a lo señalado por las disposiciones fiscales, no podrán deducirse o acreditarse fiscalmente.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEXTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los comprobantes fiscales digitales por Internet sólo podrán cancelarse cuando la persona a favor de quien se expidan acepte su cancelación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEXTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá la forma y los medios en los que se deberá manifestar dicha aceptación.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 29-B.
@@ -1736,13 +1768,9 @@ Las personas deberán presentar las solicitudes en materia de registro federal d
 
 Los contribuyentes podrán cumplir con la obligación a que se refiere el párrafo anterior, en las oficinas de asistencia al contribuyente del Servicio de Administración Tributaria, proporcionando la información necesaria a fin de que sea enviada por medios electrónicos a las direcciones electrónicas correspondientes y, en su caso, ordenando la transferencia electrónica de fondos.
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
-
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá autorizar a las organizaciones que agrupen a los contribuyentes que en las mismas reglas se señalen, para que a nombre de éstos presenten las declaraciones, avisos, solicitudes y demás documentos que exijan las disposiciones fiscales.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -1787,6 +1815,18 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 A petición del contribuyente, el Servicio de Administración Tributaria emitirá una constancia en la que se señalen las declaraciones presentadas por el citado contribuyente en el ejercicio de que se trate y la fecha de presentación de las mismas. Dicha constancia únicamente tendrá carácter informativo y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo. Para ello, el Servicio de Administración Tributaria contará con un plazo de 20 días contados a partir de que sea enviada la solicitud correspondiente en documento digital con firma electrónica avanzada, a la dirección electrónica que señale el citado Servicio mediante reglas de carácter general y siempre que se hubieran pagado los derechos que al efecto se establezcan en la ley de la materia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+El Servicio de Administración Tributaria podrá autorizar a proveedores de certificación de documentos digitales para que incorporen el sello digital de dicho órgano administrativo desconcentrado a los documentos digitales que cumplan con los requisitos establecidos en las disposiciones fiscales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Dichos proveedores para obtener y conservar la autorización deberán cumplir con los requisitos y obligaciones que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1870,7 +1910,11 @@ Los contribuyentes que hayan optado por presentar el dictamen de los estados fin
 
 En el caso de que en el dictamen se determinen diferencias de impuestos a pagar, éstas deberán enterarse mediante declaración complementaria en las oficinas autorizadas dentro de los diez días posteriores a la presentación del dictamen.
 
-Los contribuyentes que ejerzan la opción a que se refiere este artículo, tendrán por cumplida la obligación de presentar la declaración informativa sobre su situación fiscal a que se refiere el artículo 32-H de este Código.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los contribuyentes que ejerzan la opción a que se refiere este artículo, tendrán por cumplida la obligación de presentar la información a que se refiere el artículo 32-H de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2102,13 +2146,13 @@ II. Los proveedores a los que les hubiere efectuado pagos, desglosando el valor 
 
 La información a que se refiere el párrafo anterior se deberá presentar a más tardar el día 17 del mes posterior al que corresponda dicha información.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 32-H.
 
-A más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio de que se trate, los contribuyentes que a continuación se señalan, deberán presentar ante las autoridades fiscales, la declaración informativa sobre su situación fiscal que mediante reglas de carácter general establezca el Servicio de Administración Tributaria, a través de los medios y formatos que se señalen en dichas reglas.
+Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
@@ -2116,13 +2160,41 @@ I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la 
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 II. Las sociedades mercantiles que pertenezcan al régimen fiscal opcional para grupos de sociedades en los términos del Capítulo VI, Título II de la Ley del Impuesto sobre la Renta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 III. Las entidades paraestatales de la administración pública federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 IV. Las personas morales residentes en el extranjero que tengan establecimiento permanente en el país, únicamente por las actividades que desarrollen en dichos establecimientos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 V. Cualquier persona moral residente en México, respecto de las operaciones llevadas a cabo con residentes en el extranjero.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 32-I.
+
+El Servicio de Administración Tributaria podrá autorizar a personas morales para que funjan como órganos certificadores que se encargarán de garantizar y verificar que los terceros autorizados cumplan con los requisitos y obligaciones para obtener y conservar las autorizaciones que para tales efectos emita el citado órgano administrativo desconcentrado.
+
+Dichos órganos certificadores deberán cumplir con los requisitos y obligaciones que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+Los terceros autorizados deberán otorgar las facilidades necesarias para que los órganos certificadores que hayan contratado, lleven a cabo las verificaciones que corresponda a fin de obtener la certificación que permita mantener la autorización de que se trate.
 
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
@@ -2518,11 +2590,13 @@ No se considerará que las autoridades fiscales inician el ejercicio de sus facu
 
 Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al registro federal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 42.
 
-Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
+Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y aduaneras y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2542,13 +2616,25 @@ III. Practicar visitas a los contribuyentes, los responsables solidarios o terce
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y sobre las operaciones de enajenación de acciones que realicen, así como cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de expedición de comprobantes fiscales digitales por Internet y de presentación de solicitudes o avisos en materia del registro federal de contribuyentes; el cumplimiento de obligaciones en materia aduanera derivadas de autorizaciones o concesiones o de cualquier padrón o registro establecidos en las disposiciones relativas a dicha materia; verificar que la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar los contribuyentes, se realice conforme lo establecen las disposiciones fiscales; así como para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, posesión, estancia, tenencia o importación de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos y verificar que las cajetillas de cigarros para su venta en México contengan impreso el código de seguridad o, en su caso, que éste sea auténtico, de conformidad con el procedimiento previsto en el artículo 49 de este Código.
+V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar que cumplan con las siguientes obligaciones:
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+a) Las relativas a la expedición de comprobantes fiscales digitales por Internet y de presentación de solicitudes o avisos en materia del registro federal de contribuyentes;
+
+b) Las relativas a la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar conforme lo establecen las disposiciones fiscales;
+
+c) La consistente en que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos;
+
+d) La relativa a que las cajetillas de cigarros para su venta en México contengan impreso el código de seguridad o, en su caso, que éste sea auténtico;
+
+e) La de contar con la documentación o comprobantes que acrediten la legal propiedad, posesión, estancia, tenencia o importación de las mercancías de procedencia extranjera, debiéndola exhibir a la autoridad durante la visita, y
+
+f) Las inherentes y derivadas de autorizaciones, concesiones, padrones, registros o patentes establecidos en la Ley Aduanera, su Reglamento y las Reglas Generales de Comercio Exterior que emita el Servicio de Administración Tributaria.
+
+La visita domiciliaria que tenga por objeto verificar todos o cualquiera de las obligaciones referidas en los incisos anteriores, deberá realizarse conforme al procedimiento previsto en el artículo 49 de este Código y demás formalidades que resulten aplicables, en términos de la Ley Aduanera.
 
 Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
 
@@ -3078,7 +3164,9 @@ Para los efectos de lo dispuesto en el artículo 42, fracción IX de este Códig
 
 I. Con base en la información y documentación que obre en su poder, las autoridades fiscales darán a conocer los hechos que deriven en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional a la cual, en su caso, se le podrá acompañar un oficio de preliquidación, cuando los hechos consignados sugieran el pago de algún crédito fiscal.
 
-El oficio de preliquidación se considerará definitivo, sólo en los supuestos de que el contribuyente acepte voluntariamente los hechos e irregularidades contenidos en la resolución provisional y entere el crédito fiscal propuesto o bien, cuando no ejerza el derecho a que se refiere la fracción II de este artículo o cuando ejerciéndolo, no logre desvirtuar los hechos e irregularidades contenidos en la resolución provisional.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 II. En la resolución provisional se le requerirá al contribuyente, responsable solidario o tercero, para que en un plazo de quince días siguientes a la notificación de la citada resolución, manifieste lo que a su derecho convenga y proporcione la información y documentación, tendiente a desvirtuar las irregularidades o acreditar el pago de las contribuciones o aprovechamientos consignados en la resolución provisional.
 
@@ -3088,25 +3176,43 @@ II. En la resolución provisional se le requerirá al contribuyente, responsable
 
 En caso de que el contribuyente acepte los hechos e irregularidades contenidos en la resolución provisional y el oficio de preliquidación, podrá optar por corregir su situación fiscal dentro del plazo señalado en el párrafo que antecede, mediante el pago total de las contribuciones y aprovechamientos omitidos, junto con sus accesorios, en los términos contenidos en el oficio de preliquidación, en cuyo caso, gozará del beneficio de pagar una multa equivalente al 20% de las contribuciones omitidas.
 
-III. Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-a) Efectuará un segundo requerimiento al contribuyente, dentro del plazo de los diez días siguientes a aquél en que la autoridad fiscal reciba las pruebas, el cual deberá ser atendido por el contribuyente dentro del plazo de diez días siguientes contados a partir de la notificación del segundo requerimiento, mismo que suspenderá el plazo señalado en la fracción IV, primer párrafo de este artículo.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-b) Solicitará información y documentación de un tercero, en cuyo caso, desde el día en que se formule la solicitud y hasta aquel en que el tercero conteste, se suspenderá el plazo previsto en la fracción IV de este artículo, situación que deberá notificársele al contribuyente dentro de los diez días siguientes a la solicitud de la información. Dicha suspensión no podrá exceder de seis meses, excepto en materia de comercio exterior, supuesto en el cual el plazo no podrá exceder de dos años.
+III. Una vez recibidas y analizadas las pruebas aportadas por el contribuyente, dentro de los diez días siguientes a aquél en que venza el plazo previsto en la fracción II de este artículo, si la autoridad fiscal identifica elementos adicionales que deban ser verificados, podrá actuar indistintamente conforme a cualquiera de los siguientes procedimientos:
 
-Una vez obtenida la información solicitada, la autoridad fiscal contará con un plazo máximo de cuarenta días para la emisión y notificación de la resolución, salvo tratándose de pruebas periciales, caso en el cual el plazo se computará a partir de su desahogo.
+a) Efectuará un segundo requerimiento al contribuyente, el cual deberá ser atendido dentro del plazo de diez días siguientes a partir de la notificación del segundo requerimiento.
 
-IV. En caso de que el contribuyente exhiba pruebas, la autoridad contará con un plazo máximo de cuarenta días contados a partir de su desahogo para la emisión y notificación de la resolución con base en la información que se cuente en el expediente.
+b) Solicitará información y documentación de un tercero, situación que deberá notificársele al contribuyente dentro de los diez días siguientes a la solicitud de la información.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+El tercero deberá atender la solicitud dentro de los diez días siguientes a la notificación del requerimiento; la información y documentación que aporte el tercero deberá darse a conocer al contribuyente dentro de los diez días siguientes a aquel en que el tercero la haya aportado; para lo cual el contribuyente contará con un plazo de diez días contados a partir de que le sea notificada la información adicional del tercero para manifestar lo que a su derecho convenga.
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-En caso de que el contribuyente no aporte pruebas, ni manifieste lo que a su derecho convenga para desvirtuar los hechos u omisiones dentro del plazo establecido en la fracción II de este artículo, la resolución provisional y, en su caso, el oficio de preliquidación que se haya acompañado, se volverán definitivos y las cantidades determinadas en el oficio de preliquidación se harán efectivas mediante el procedimiento administrativo de ejecución.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV. La autoridad contará con un plazo máximo de cuarenta días para la emisión y notificación de la resolución con base en la información y documentación con que se cuente en el expediente. El cómputo de este plazo, según sea el caso, iniciará a partir de que:
+
+a) Haya vencido el plazo previsto en la fracción II de este artículo o, en su caso, se hayan desahogado las pruebas ofrecidas por el contribuyente;
+
+b) Haya vencido el plazo previsto en la fracción III, inciso a) de este artículo o, en su caso, se hayan desahogado las pruebas ofrecidas por el contribuyente, o
+
+c) Haya vencido el plazo de 10 días previsto en la fracción III, inciso b) de este artículo para que el contribuyente manifieste lo que a su derecho convenga respecto de la información o documentación aportada por el tercero.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción IX del artículo 42 de este Código, se tendrá por perdido el derecho para realizarlo.
 
 Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se refiere este artículo, se notificarán y presentarán en documentos digitales a través del buzón tributario.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Las autoridades fiscales deberán concluir el procedimiento de revisión electrónica a que se refiere este artículo dentro de un plazo máximo de seis meses contados a partir de la notificación de la resolución provisional, excepto en materia de comercio exterior, en cuyo caso el plazo no podrá exceder de dos años. El plazo para concluir el procedimiento de revisión electrónica a que se refiere este párrafo se suspenderá en los casos señalados en las fracciones I, II, III, V y VI y penúltimo párrafo del artículo 46-A de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3542,6 +3648,12 @@ III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la
 
 IV. Se levante el acta de incumplimiento de la obligación garantizada, en un plazo que no excederá de cuatro meses, contados a partir del día siguiente al de la exigibilidad de las fianzas a favor de la Federación constituidas para garantizar el interés fiscal, la cual será notificada a la afianzadora.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+V. Concluya el mes en el cual el contribuyente deba realizar el ajuste previsto en el artículo 5o., fracción VI, cuarto párrafo de la Ley del Impuesto al Valor Agregado, tratándose del acreditamiento o devolución del impuesto al valor agregado correspondiente a periodos preoperativos.
+
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Federal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas, o no se presente en la declaración del impuesto sobre la renta la información que respecto del impuesto al valor agregado o del impuesto especial sobre producción y servicios se solicite en dicha declaración; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquél en el que se debió haber presentado la declaración señalada. En los casos en los que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
@@ -3720,13 +3832,13 @@ La Procuraduría de la Defensa del Contribuyente, una vez que acuse recibo de la
 
 Para mejor proveer a la adopción del acuerdo conclusivo, la Procuraduría de la Defensa del Contribuyente podrá convocar a mesas de trabajo, promoviendo en todo momento la emisión consensuada del acuerdo entre autoridad y contribuyente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 69-F.
 
-El procedimiento de acuerdo conclusivo suspende los plazos a que se refieren los artículos 46-A, primer párrafo y 50, primer párrafo, de este Código, a partir de que el contribuyente presente ante la Procuraduría de la Defensa del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en este Capítulo.
+El procedimiento de acuerdo conclusivo suspende los plazos a que se refieren los artículos 46-A, primer párrafo; 50, primer párrafo; 53-B y 67, antepenúltimo párrafo de este Código, a partir de que el contribuyente presente ante la Procuraduría de la Defensa del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en este Capítulo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4276,11 +4388,11 @@ XXXVII. No cumplir con las obligaciones establecidas en el artículo 82, fracci�
 
 XXXVIII. Incumplir con la restricción prevista en el artículo 82, fracción II de la Ley del Impuesto sobre la Renta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXIX. No proporcionar la información a que se refiere el artículo 82, fracción V de la Ley del Impuesto sobre la Renta.
+XXXIX. No destinar la totalidad del patrimonio o los donativos correspondientes, en los términos del artículo 82, fracción V de la Ley del Impuesto sobre la Renta.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4293,6 +4405,24 @@ XL. No proporcionar la información a que se refieren los artículos 31-A de est
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 XLI. No ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria estando obligado a ello; ingresarla fuera de los plazos establecidos en las disposiciones fiscales, o bien, no ingresarla de conformidad con las reglas de carácter general previstas en el artículo 28, fracción IV del Código, así como ingresarla con alteraciones que impidan su lectura.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XLII. No proporcionar la información a que se refiere el artículo 82-Bis de la Ley del Impuesto sobre la Renta, o presentarla incompleta o con errores.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XLIII. No cumplir con las especificaciones tecnológicas determinadas por el Servicio de Administración Tributaria, a que se refiere el artículo 29, fracción VI de este Código al enviar comprobantes fiscales digitales por Internet a dicho órgano administrativo desconcentrado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XLIV. No cumplir con las obligaciones establecidas en el artículo 82, fracción VI de la Ley del Impuesto sobre la Renta.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4568,11 +4698,11 @@ XXXV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 3 DE ENERO DE 2014.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXXVI. De $80,000.00 a $100,000.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII y XXXIX y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
+XXXVI. De $80,000.00 a $100,000.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4585,6 +4715,18 @@ XXXVII. De $140,540.00 a $200,090.00, para la establecida en la fracción XL.
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 XXXVIII. Respecto de las señaladas en la fracción XLI de $5,000.00 a $15,000.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XXXIX. De $140,540.00 a $200,090.00 a la establecida en la fracción XXXIX.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XL. De $1.00 a $5.00 a la establecida en la fracción XLIII, por cada comprobante fiscal digital por Internet enviado que contenga información que no cumple con las especificaciones tecnológicas determinadas por el Servicio de Administración Tributaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -9663,3 +9805,21 @@ Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal,
 Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
 
 Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO Y TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS.]</small>
+
+DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
+
+Artículo Sexto.- En relación con las modificaciones a las que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+
+I. La adición de los párrafos cuarto y quinto del artículo 29-A del Código Fiscal de la Federación, entrará en vigor el 1 de mayo de 2017.
+
+II. La declaración informativa de situación fiscal de los contribuyentes correspondiente al ejercicio fiscal de 2016, a que se refiere el artículo 32-H del Código Fiscal de la Federación vigente hasta el 31 de diciembre de 2016, deberá presentarse conforme a las disposiciones vigentes hasta dicha fecha.
+
+III. El Servicio de Administración Tributaria mediante reglas de carácter general, deberá emitir un sistema simplificado para llevar los registros contables de las personas físicas que obtengan ingresos por actividades agrícolas, ganaderas, silvícolas o pesqueras, cuyos ingresos no excedan de 16 veces el valor anual de la Unidad de Medida y Actualización y que los ingresos por su actividad primaria representen cuando menos el 25% de sus ingresos totales en el ejercicio, en sustitución de la obligación de llevar contabilidad conforme a los sistemas contables que establece el Código Fiscal de la Federación y su Reglamento.
+
+## Transitorio
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
