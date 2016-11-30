@@ -4,7 +4,7 @@ identifier: "LISR"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-11"
-last_updated: "2015-11-18"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96834&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2016. ASIMISMO, VÉASE DISPOSICIONES TRANSITORIAS ARTÍCULO SEGUNDO Y DISPOSICIONES DE VIGENCIA TEMPORAL ARTÍCULO TERCERO DEL CITADO DECRETO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2013.
 
@@ -400,6 +398,18 @@ Las personas morales residentes en el país, incluida la asociación en particip
 
 Para los efectos de este Título, no se consideran ingresos los que obtenga el contribuyente por aumento de capital, por pago de la pérdida por sus accionistas, por primas obtenidas por la colocación de acciones que emita la propia sociedad o por utilizar para valuar sus acciones el método de participación ni los que obtengan con motivo de la revaluación de sus activos y de su capital.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Tampoco se consideran ingresos acumulables para efectos de este Título, los ingresos por apoyos económicos o monetarios que reciban los contribuyentes a través de los programas previstos en los presupuestos de egresos, de la Federación o de las Entidades Federativas, siempre que los programas cuenten con un padrón de beneficiarios; los recursos se distribuyan a través de transferencia electrónica de fondos a nombre de los beneficiarios; los beneficiarios cumplan con las obligaciones que se hayan establecido en las reglas de operación de los citados programas, y cuenten con opinión favorable por parte de la autoridad competente respecto del cumplimiento de obligaciones fiscales, cuando estén obligados a solicitarla en los términos de las disposiciones fiscales. Los gastos o erogaciones que se realicen con los apoyos económicos a que se refiere este párrafo, que no se consideren ingresos acumulables, no serán deducibles para efectos de este impuesto. Las dependencias o entidades, federales o estatales, encargadas de otorgar o administrar los apoyos económicos o monetarios, deberán poner a disposición del público en general y mantener actualizado en sus respectivos medios electrónicos, el padrón de beneficiarios a que se refiere este párrafo, mismo que deberá contener los siguientes datos: denominación social de las personas morales beneficiarias, el monto, recurso, beneficio o apoyo otorgado para cada una de ellas y la unidad territorial.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Otros ingresos que no se considerarán acumulables para efectos de este Título, son las contraprestaciones en especie a favor del contratista a que se refieren los artículos 6, apartado B y 12, fracción II de la Ley de Ingresos sobre Hidrocarburos, siempre que para la determinación del impuesto sobre la renta a su cargo no se considere como costo de lo vendido deducible en los términos del artículo 25, fracción II de esta Ley, el valor de las mencionadas contraprestaciones cuando éstas se enajenen o transfieran a un tercero. Los ingresos que se obtengan por la enajenación de los bienes recibidos como contraprestaciones serán acumulables en los términos establecidos en la presente Ley.
+
 Las personas morales residentes en el extranjero, así como cualquier entidad que se considere como persona moral para efectos impositivos en su país, que tengan uno o varios establecimientos permanentes en el país, acumularán la totalidad de los ingresos atribuibles a los mismos. No se considerará ingreso atribuible a un establecimiento permanente la simple remesa que obtenga de la oficina central de la persona moral o de otro establecimiento de ésta.
 
 No serán acumulables para los contribuyentes de este Título, los ingresos por dividendos o utilidades que perciban de otras personas morales residentes en México.
@@ -706,6 +716,12 @@ V. Cumplir con las obligaciones establecidas en esta Ley en materia de retenció
 
 Los pagos que a la vez sean ingresos en los términos del Capítulo I del Título IV, de esta Ley, se podrán deducir siempre que las erogaciones por concepto de remuneración, las retenciones correspondientes y las deducciones del impuesto local por salarios y, en general, por la prestación de un servicio personal independiente, consten en comprobantes fiscales emitidos en términos del Código Fiscal de la Federación y se cumpla con las obligaciones a que se refiere el artículo 99, fracciones I, II, III y V de la presente Ley, así como las disposiciones que, en su caso, regulen el subsidio para el empleo y los contribuyentes cumplan con la obligación de inscribir a los trabajadores en el Instituto Mexicano del Seguro Social cuando estén obligados a ello, en los términos de las leyes de seguridad social.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Tratándose de subcontratación laboral en términos de la Ley Federal del Trabajo, el contratante deberá obtener del contratista copia de los comprobantes fiscales por concepto de pago de salarios de los trabajadores que le hayan proporcionado el servicio subcontratado, de los acuses de recibo, así como de la declaración de entero de las retenciones de impuestos efectuadas a dichos trabajadores y de pago de las cuotas obrero patronales al Instituto Mexicano del Seguro Social. Los contratistas estarán obligados a entregar al contratante los comprobantes y la información a que se refiere este párrafo.
+
 VI. Que cuando los pagos cuya deducción se pretenda realizar se hagan a contribuyentes que causen el impuesto al valor agregado, dicho impuesto se traslade en forma expresa y por separado en el comprobante fiscal correspondiente.
 
 En los casos en los que las disposiciones fiscales establezcan la obligación de adherir marbetes o precintos en los envases y recipientes que contengan los productos que se adquieran, la deducción a que se refiere la fracción II del artículo 25 de esta Ley, sólo podrá efectuarse cuando dichos productos tengan adherido el marbete o precinto correspondiente.
@@ -718,9 +734,11 @@ En el caso de capitales tomados en préstamo para la adquisición de inversiones
 
 Tratándose de los intereses derivados de los préstamos a que se refiere la fracción III del artículo 143 de la presente Ley, éstos se deducirán hasta que se paguen en efectivo, en bienes o en servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VIII. Que tratándose de pagos que a su vez sean ingresos de contribuyentes personas físicas, de los contribuyentes a que se refieren los artículos 72, 73 y 74 de esta Ley, así como de aquéllos realizados a los contribuyentes a que hace referencia el último párrafo de la fracción I del artículo 17 de esta Ley y de los donativos, éstos sólo se deduzcan cuando hayan sido efectivamente erogados en el ejercicio de que se trate, se entenderán como efectivamente erogados cuando hayan sido pagados en efectivo, mediante transferencias electrónicas de fondos desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México; o en otros bienes que no sean títulos de crédito. Tratándose de pagos con cheque, se considerará efectivamente erogado en la fecha en la que el mismo haya sido cobrado o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración. También se entiende que es efectivamente erogado cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Que tratándose de pagos que a su vez sean ingresos de contribuyentes personas físicas, de los contribuyentes a que se refieren los artículos 72, 73, 74 y 196 de esta Ley, así como de aquéllos realizados a los contribuyentes a que hace referencia el último párrafo de la fracción I del artículo 17 de esta Ley y de los donativos, éstos sólo se deduzcan cuando hayan sido efectivamente erogados en el ejercicio de que se trate, se entenderán como efectivamente erogados cuando hayan sido pagados en efectivo, mediante transferencias electrónicas de fondos desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México; o en otros bienes que no sean títulos de crédito. Tratándose de pagos con cheque, se considerará efectivamente erogado en la fecha en la que el mismo haya sido cobrado o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración. También se entiende que es efectivamente erogado cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones.
 
 Cuando los pagos a que se refiere el párrafo anterior se efectúen con cheque, la deducción se efectuará en el ejercicio en que éste se cobre, siempre que entre la fecha consignada en el comprobante fiscal que se haya expedido y la fecha en que efectivamente se cobre dicho cheque no hayan transcurrido más de cuatro meses, excepto cuando ambas fechas correspondan al mismo ejercicio.
 
@@ -866,7 +884,11 @@ XIII. Los pagos por el uso o goce temporal de aviones y embarcaciones, que no te
 
 Tratándose de pagos por el uso o goce temporal de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Las casas de recreo, en ningún caso serán deducibles.
 
-Tratándose de automóviles, sólo serán deducibles los pagos efectuados por el uso o goce temporal de automóviles hasta por un monto que no exceda de $200.00, diarios por automóvil, siempre que además de cumplir con los requisitos que para la deducción de automóviles establece la fracción II del artículo 36 de esta Ley, los mismos sean estrictamente indispensables para la actividad del contribuyente. Lo dispuesto en este párrafo no será aplicable tratándose de arrendadoras, siempre que los destinen exclusivamente al arrendamiento durante todo el periodo en el que le sea otorgado su uso o goce temporal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Tratándose de automóviles, sólo serán deducibles los pagos efectuados por el uso o goce temporal de automóviles hasta por un monto que no exceda de $200.00, diarios por automóvil o $285.00, diarios por automóvil cuya propulsión sea a través de baterías eléctricas recargables, así como por automóviles eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, siempre que además de cumplir con los requisitos que para la deducción de automóviles establece la fracción II del artículo 36 de esta Ley, los mismos sean estrictamente indispensables para la actividad del contribuyente. Lo dispuesto en este párrafo no será aplicable tratándose de arrendadoras, siempre que los destinen exclusivamente al arrendamiento durante todo el periodo en el que le sea otorgado su uso o goce temporal.
 
 XIV. Las pérdidas derivadas de la enajenación, así como por caso fortuito o fuerza mayor, de los activos cuya inversión no es deducible conforme a lo dispuesto por esta Ley.
 
@@ -1134,6 +1156,12 @@ Para los efectos del párrafo anterior, son fuentes renovables aquéllas que por
 
 Lo dispuesto en esta fracción será aplicable siempre que la maquinaria y equipo se encuentren en operación o funcionamiento durante un periodo mínimo de 5 años inmediatos siguientes al ejercicio en el que se efectúe la deducción, salvo en los casos a que se refiere el artículo 37 de esta Ley. Los contribuyentes que incumplan con el plazo mínimo establecido en este párrafo, deberán cubrir, en su caso, el impuesto correspondiente por la diferencia que resulte entre el monto deducido conforme a esta fracción y el monto que se debió deducir en cada ejercicio en los términos de este artículo o del artículo 35 de esta Ley, de no haberse aplicado la deducción del 100%. Para estos efectos, el contribuyente deberá presentar declaraciones complementarias por cada uno de los ejercicios correspondientes, a más tardar dentro del mes siguiente a aquél en el que se incumpla con el plazo establecido en esta fracción, debiendo cubrir los recargos y la actualización correspondiente, desde la fecha en la que se efectuó la deducción y hasta el último día en el que operó o funcionó la maquinaria y equipo.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XIV. 25% para bicicletas convencionales, bicicletas y motocicletas cuya propulsión sea a través de baterías eléctricas recargables.
+
 ###### Artículo 35.
 
 Para la maquinaria y equipo distintos de los señalados en el artículo anterior, se aplicarán, de acuerdo a la actividad en que sean utilizados, los por cientos siguientes:
@@ -1142,13 +1170,21 @@ I. 5% en la generación, conducción, transformación y distribución de electri
 
 II. 6% en la producción de metal obtenido en primer proceso; en la fabricación de productos de tabaco y derivados del carbón natural.
 
-III. 7% en la fabricación de pulpa, papel y productos similares; en la extracción y procesamiento de petróleo crudo y gas natural.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+III. 7% en la fabricación de pulpa, papel y productos similares.
 
 IV. 8% en la fabricación de vehículos de motor y sus partes; en la construcción de ferrocarriles y navíos; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados.
 
 V. 9% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica.
 
-VI. 10% en el transporte eléctrico.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+VI. 10% en el transporte eléctrico; en infraestructura fija para el transporte, almacenamiento y procesamiento de hidrocarburos, en plataformas y embarcaciones de perforación de pozos, y embarcaciones de procesamiento y almacenamiento de hidrocarburos.
 
 VII. 11% en la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido.
 
@@ -1176,9 +1212,11 @@ I. Las reparaciones, así como las adaptaciones a las instalaciones se considera
 
 En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación, que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $175,000.00.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $175,000.00. Tratándose de inversiones realizadas en automóviles cuya propulsión sea a través de baterías eléctricas recargables, así como los automóviles eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, sólo serán deducibles hasta por un monto de $250,000.00.
 
 Lo dispuesto en esta fracción no será aplicable tratándose de contribuyentes cuya actividad consista en el otorgamiento del uso o goce temporal de automóviles, siempre y cuando los destinen exclusivamente a dicha actividad.
 
@@ -1938,7 +1976,11 @@ c) Información y documentación sobre las operaciones con partes relacionadas y
 
 d) El método aplicado conforme al artículo 180 de esta Ley, incluyendo la información y la documentación sobre operaciones o empresas comparables por cada tipo de operación.
 
-Los contribuyentes que realicen actividades empresariales cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $13'000,000.00, así como los contribuyentes cuyos ingresos derivados de prestación de servicios profesionales no hubiesen excedido en dicho ejercicio de $3'000,000.00 no estarán obligados a cumplir con la obligación establecida en esta fracción, excepto aquéllos que se encuentren en el supuesto a que se refiere el penúltimo párrafo del artículo 179 de esta Ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los contribuyentes que realicen actividades empresariales cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $13’000,000.00, así como los contribuyentes cuyos ingresos derivados de prestación de servicios profesionales no hubiesen excedido en dicho ejercicio de $3’000,000.00 no estarán obligados a cumplir con la obligación establecida en esta fracción, excepto aquéllos que se encuentren en el supuesto a que se refiere el penúltimo párrafo del artículo 179 de esta Ley y los que tengan el carácter de contratistas o asignatarios en términos de la Ley de Ingresos sobre Hidrocarburos.
 
 El ejercicio de las facultades de comprobación respecto a la obligación prevista en esta fracción solamente se podrá realizar por lo que hace a ejercicios terminados.
 
@@ -2246,6 +2288,12 @@ h) Prestación de servicios de apoyo a la creación y fortalecimiento de organiz
 
 i) Promoción y defensa de los derechos de los consumidores.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+j) Apoyo a proyectos de productores agrícolas y de artesanos, con ingresos en el ejercicio inmediato anterior de hasta 4 veces el valor anual de la Unidad de Medida y Actualización, que se ubiquen en las zonas con mayor rezago del país de acuerdo con el Consejo Nacional de Población y que cumplan con las reglas de carácter general que emita el Servicio de Administración Tributaria.
+
 XXVI. Asociaciones Deportivas reconocidas por la Comisión Nacional del Deporte, siempre y cuando éstas sean miembros del Sistema Nacional del Deporte, en términos de la Ley General de Cultura Física y Deporte.
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
@@ -2270,7 +2318,11 @@ Los integrantes o accionistas de las personas morales a que se refiere este Tít
 
 En el caso de que las personas morales a que se refiere este Título enajenen bienes distintos de su activo fijo o presten servicios a personas distintas de sus miembros o socios, deberán determinar el impuesto que corresponda a la utilidad por los ingresos derivados de las actividades mencionadas, en los términos del Título II de esta Ley, a la tasa prevista en el artículo 9 de la misma, siempre que dichos ingresos excedan del 5% de los ingresos totales de la persona moral en el ejercicio de que se trate.
 
-Las personas morales y fideicomisos autorizados para recibir donativos deducibles de impuestos podrán obtener ingresos por actividades distintas a los fines para los que fueron autorizados para recibir dichos donativos, siempre que no excedan del 10% de sus ingresos totales en el ejercicio de que se trate. No se consideran ingresos por actividades distintas a los referidos fines los que reciban por donativos; apoyos o estímulos proporcionados por la Federación, entidades federativas, o municipios; enajenación de bienes de su activo fijo o intangible; cuotas de sus integrantes; intereses; derechos patrimoniales derivados de la propiedad intelectual; uso o goce temporal de bienes inmuebles, o rendimientos obtenidos de acciones u otros títulos de crédito, colocados entre el gran público inversionista en los términos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria. En el caso de que sus ingresos no relacionados con los fines para los que fueron autorizadas para recibir dichos donativos excedan del límite señalado, las citadas personas morales deberán determinar el impuesto que corresponda a dicho excedente, de conformidad con lo establecido en el párrafo anterior.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Las personas morales y fideicomisos autorizados para recibir donativos deducibles de impuestos podrán obtener ingresos por actividades distintas a los fines para los que fueron autorizados para recibir dichos donativos, siempre que no excedan del 10% de sus ingresos totales en el ejercicio de que se trate. No se consideran ingresos por actividades distintas a los referidos fines los que reciban por donativos; apoyos o estímulos proporcionados por la Federación, entidades federativas, o municipios; enajenación de bienes de su activo fijo o intangible; cuotas de sus integrantes; cuotas de recuperación; intereses; derechos patrimoniales derivados de la propiedad intelectual; uso o goce temporal de bienes inmuebles, o rendimientos obtenidos de acciones u otros títulos de crédito, colocados entre el gran público inversionista en los términos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria. En el caso de que sus ingresos no relacionados con los fines para los que fueron autorizadas para recibir dichos donativos excedan del límite señalado, las citadas personas morales deberán determinar el impuesto que corresponda a dicho excedente, de conformidad con lo establecido en el párrafo anterior.
 
 ###### Artículo 81.
 
@@ -2306,15 +2358,39 @@ g) Cualquier otra información relacionada que determine el Servicio de Administ
 
 IV. Que destinen sus activos exclusivamente a los fines propios de su objeto social, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales, salvo que se trate, en este último caso, de alguna de las personas morales o fideicomisos autorizados para recibir donativos deducibles de impuestos o se trate de la remuneración de servicios efectivamente recibidos.
 
-V. Que al momento de su liquidación y con motivo de la misma, destinen la totalidad de su patrimonio a entidades autorizadas para recibir donativos deducibles.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+V. Que al momento de su liquidación o cambio de residencia para efectos fiscales, destinen la totalidad de su patrimonio a entidades autorizadas para recibir donativos deducibles.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA ARTÍCULO SEGUNDO FRACCIÓN I Y TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+En los casos de revocación de la autorización o cuando su vigencia haya concluido y no se haya obtenido nuevamente o renovado la misma dentro de los doce meses siguientes a la fecha en que surta efectos la notificación correspondiente, se deberá acreditar que los donativos recibidos fueron utilizados para los fines propios de su objeto social. Respecto de los donativos que no fueron destinados para esos fines, los deberán destinar a otras entidades autorizadas para recibir donativos deducibles.
+
+Las personas morales a que se refiere el párrafo anterior que continúen realizando sus actividades como instituciones organizadas sin fines de lucro, mantendrán los activos que integran su patrimonio para realizar dichas actividades y tributarán en los términos y condiciones establecidos en este Título para las no donatarias. Los recursos que se deban destinar a otras donatarias autorizadas deberán ser transmitidos dentro de los 6 meses siguientes contados a partir de que concluyó el plazo para obtener nuevamente la autorización cuando fue revocada o la renovación de la misma en el caso de conclusión de su vigencia.
 
 VI. Mantener a disposición del público en general la información relativa a la autorización para recibir donativos, al uso y destino que se haya dado a los donativos recibidos, así como al cumplimiento de sus obligaciones fiscales, y en su caso, la información a que se refiere la fracción II de este artículo, por el plazo y en los términos que mediante reglas de carácter general fije el Servicio de Administración Tributaria.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+En los casos en que a las personas morales con fines no lucrativos o a los fideicomisos se les haya revocado o no se les haya renovado la autorización para recibir donativos derivado del incumplimiento de la obligación de poner a disposición del público en general la información relativa al uso o destino de los donativos recibidos a que se refiere el párrafo anterior, sólo estarán en posibilidad de obtener una nueva autorización si cumplen con la citada obligación omitida, previamente a la obtención de la nueva autorización.
 
 VII. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
 
 VIII. Informar a las autoridades fiscales, en los términos que señale el Servicio de Administración Tributaria mediante reglas de carácter general, de las operaciones que celebren con partes relacionadas y de los servicios que reciban o de los bienes que adquieran, de personas que les hayan otorgado donativos deducibles en los términos de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIONES TRANSITORIAS ARTÍCULO SEGUNDO FRACCIÓN X DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+IX. Que cuenten con las estructuras y procesos de un gobierno corporativo, para la dirección y el control de la persona moral, de conformidad con las reglas de carácter general que emita el Servicio de Administración Tributaria.
+
+Lo dispuesto en esta fracción sólo será aplicable tratándose de personas morales con fines no lucrativos con ingresos totales anuales de más de 100 millones de pesos o que tengan un patrimonio de más de 500 millones de pesos.
 
 Los requisitos a que se refieren las fracciones IV y V de este artículo, deberán constar en la escritura constitutiva de la persona moral de que se trate con el carácter de irrevocable.
 
@@ -2331,6 +2407,28 @@ a) Destinen la totalidad de sus ingresos a los fines para los que fueron creadas
 b) Los establecidos en este artículo, salvo lo dispuesto en su fracción I.
 
 El requisito a que se refiere el inciso a) del párrafo anterior deberá constar en la escritura constitutiva de la persona moral de que se trate con el carácter de irrevocable.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 82
+
+Bis. Las instituciones autorizadas para recibir donativos deducibles en términos de esta Ley, que se encuentren en los supuestos a que se refiere el artículo 82, fracción V, del presente ordenamiento, deberán informar a las autoridades fiscales el importe y los datos de identificación de los bienes, así como los de identidad de las personas morales a quienes se destinó la totalidad de su patrimonio, a través de los medios y formatos que para tal efecto emita el Servicio de Administración Tributaria mediante reglas de carácter general. En caso de no cumplir con lo anterior, el valor de los bienes susceptibles de transmisión se considerará como ingreso omitido y se deberá pagar el impuesto sobre la renta de conformidad con lo dispuesto en el Título II, de esta Ley.
+
+La entidad autorizada para recibir donativos deducibles que reciba el patrimonio a que se refiere el párrafo anterior, tendrá que emitir el comprobante fiscal correspondiente por concepto de donativo conforme a las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria. En este caso, el donativo no será deducible para efectos del impuesto sobre la renta.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 82
+
+Ter. Las instituciones autorizadas para recibir donativos deducibles en términos del artículo 82 de esta Ley, podrán optar por sujetarse a un proceso de certificación de cumplimiento de obligaciones fiscales, de transparencia y de evaluación de impacto social. El Servicio de Administración Tributaria establecerá, mediante reglas de carácter general, facilidades administrativas para los contribuyentes que obtengan la certificación a que se refiere este párrafo.
+
+El proceso de certificación a que se refiere el párrafo anterior estará a cargo de instituciones especializadas en la materia, las cuales deberán contar con la autorización del Servicio de Administración Tributaria, quien establecerá, mediante reglas de carácter general, los requisitos y obligaciones que deberán cumplir las citadas instituciones para obtener y conservar la autorización correspondiente, así como los elementos que deberán medir y observar durante el proceso de certificación.
+
+El Servicio de Administración Tributaria publicará en su página de Internet la lista de las instituciones especializadas autorizadas, así como de las donatarias autorizadas que cuenten con la certificación prevista en este artículo.
 
 ###### Artículo 83.
 
@@ -2384,7 +2482,11 @@ Las personas a que se refieren las fracciones V a XIX y XXV del artículo 79 de 
 
 Los partidos y asociaciones políticas, legalmente reconocidos, tendrán las obligaciones de retener y enterar el impuesto y exigir comprobantes fiscales, cuando hagan pagos a terceros y estén obligados a ello en términos de ley, así como llevar contabilidad y conservarla de conformidad con el Código Fiscal de la Federación y su Reglamento.
 
-La Federación, las entidades federativas, los municipios y las instituciones que por Ley estén obligadas a entregar al Gobierno Federal el importe íntegro de su remanente de operación, sólo tendrán las obligaciones de retener y enterar el impuesto y exigir comprobantes fiscales cuando hagan pagos a terceros y estén obligados a ellos en términos de ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+La Federación, las entidades federativas, los municipios y las instituciones que por Ley estén obligadas a entregar al Gobierno Federal el importe íntegro de su remanente de operación, sólo tendrán las obligaciones de retener y enterar el impuesto, emitir comprobantes fiscales por las contribuciones, productos y aprovechamientos que cobran así como por los apoyos o estímulos que otorguen y exigir comprobantes fiscales cuando hagan pagos a terceros y estén obligados a ello en términos de ley.
 
 Los organismos descentralizados que no tributen conforme al Título II de esta Ley, sólo tendrán las obligaciones a que se refiere el párrafo anterior.
 
@@ -2489,6 +2591,18 @@ Las personas físicas residentes en México están obligadas a informar, en la d
 Las personas físicas residentes en México deberán informar a las autoridades fiscales, a través de los medios y formatos que para tal efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general, respecto de las cantidades recibidas por los conceptos señalados en el párrafo anterior al momento de presentar la declaración anual del ejercicio fiscal en el que se obtengan.
 
 No se consideran ingresos obtenidos por los contribuyentes, los rendimientos de bienes entregados en fideicomiso, en tanto dichos rendimientos únicamente se destinen a fines científicos, políticos o religiosos o a los establecimientos de enseñanza y a las instituciones de asistencia o de beneficencia, señalados en la fracción III del artículo 151 de esta Ley, o a financiar la educación hasta nivel licenciatura de sus descendientes en línea recta, siempre que los estudios cuenten con reconocimiento de validez oficial.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Tampoco se consideran ingresos para efectos de este Título, los ingresos por apoyos económicos o monetarios que reciban los contribuyentes a través de los programas previstos en los presupuestos de egresos, de la Federación o de las Entidades Federativas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Para efectos del párrafo anterior, en el caso de que los recursos que reciban los contribuyentes se destinen al apoyo de actividades empresariales, los programas correspondientes deberán contar con un padrón de beneficiarios; los recursos se deberán distribuir a través de transferencia electrónica de fondos a nombre de los beneficiarios quienes, a su vez, deberán cumplir con las obligaciones que se hayan establecido en las reglas de operación de los citados programas y deberán contar con la opinión favorable por parte de la autoridad competente respecto del cumplimiento de obligaciones fiscales, cuando estén obligados a solicitarla en los términos de las disposiciones fiscales. Los gastos o erogaciones que se realicen con los apoyos económicos a que se refiere este párrafo, que no se consideren ingresos, no serán deducibles para efectos de este impuesto. Las dependencias o entidades, federales o estatales, encargadas de otorgar o administrar los apoyos económicos o monetarios, deberán poner a disposición del público en general y mantener actualizado en sus respectivos medios electrónicos, el padrón de beneficiarios a que se refiere este párrafo, mismo que deberá contener los siguientes datos: nombre de la persona física beneficiaria, el monto, recurso, beneficio o apoyo otorgado para cada una de ellas, la unidad territorial, edad y sexo.
 
 Cuando las personas tengan deudas o créditos, en moneda extranjera, y obtengan ganancia cambiaria derivada de la fluctuación de dicha moneda, considerarán como ingreso la ganancia determinada conforme a lo previsto en el artículo 143 de esta Ley.
 
@@ -3071,6 +3185,12 @@ Esta tarifa se actualizará en los términos y condiciones que establece el art�
 Contra el impuesto reducido, no podrá deducirse crédito o rebaja alguno por concepto de exenciones o subsidios.
 
 Los contribuyentes que opten por aplicar lo dispuesto en esta Sección, sólo podrán permanecer en el régimen que prevé la misma, durante un máximo de diez ejercicios fiscales consecutivos. Una vez concluido dicho periodo, deberán tributar conforme al régimen de personas físicas con actividades empresariales y profesionales a que se refiere la Sección I del Capítulo II del Título IV de la presente Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos de este artículo, los contribuyentes podrán optar por determinar los pagos bimestrales aplicando al ingreso acumulable del periodo de que se trate, el coeficiente de utilidad que corresponda en los términos de lo dispuesto en el artículo 14 de esta Ley, considerando la totalidad de sus ingresos en el periodo de pago de que se trate. Los contribuyentes que opten por calcular sus pagos bimestrales utilizando el coeficiente de utilidad mencionado, deberán considerarlos como pagos provisionales y estarán obligados a presentar declaración del ejercicio. Esta opción no se podrá variar en el ejercicio.
 
 ###### Artículo 112.
 
@@ -3848,7 +3968,11 @@ Los contribuyentes que obtengan ingresos por la prestación de un servicio perso
 
 Las personas físicas residentes en el país que obtengan ingresos de los señalados en este Título, para calcular su impuesto anual, podrán hacer, además de las deducciones autorizadas en cada Capítulo de esta Ley que les correspondan, las siguientes deducciones personales:
 
-I. Los pagos por honorarios médicos y dentales, así como los gastos hospitalarios, efectuados por el contribuyente para sí, para su cónyuge o para la persona con quien viva en concubinato y para sus ascendientes o descendientes en línea recta, siempre que dichas personas no perciban durante el año de calendario ingresos en cantidad igual o superior a la que resulte de calcular el salario mínimo general del área geográfica del contribuyente elevado al año, y se efectúen mediante cheque nominativo del contribuyente, transferencias electrónicas de fondos, desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México o mediante tarjeta de crédito, de débito, o de servicios.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+I. Los pagos por honorarios médicos, dentales y por servicios profesionales en materia de psicología y nutrición prestados por personas con título profesional legalmente expedido y registrado por las autoridades educativas competentes, así como los gastos hospitalarios, efectuados por el contribuyente para sí, para su cónyuge o para la persona con quien viva en concubinato y para sus ascendientes o descendientes en línea recta, siempre que dichas personas no perciban durante el año de calendario ingresos en cantidad igual o superior a la que resulte de calcular el salario mínimo general del área geográfica del contribuyente elevado al año, y se efectúen mediante cheque nominativo del contribuyente, transferencias electrónicas de fondos, desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México o mediante tarjeta de crédito, de débito, o de servicios.
 
 Las autoridades fiscales podrán liberar de la obligación de pagar las erogaciones a través de los medios establecidos en el párrafo anterior, cuando las mismas se efectúen en poblaciones o en zonas rurales sin servicios financieros.
 
@@ -3894,9 +4018,11 @@ Los integrantes del sistema financiero, a que se refiere el párrafo anterior, d
 
 V. Las aportaciones complementarias de retiro realizadas directamente en la subcuenta de aportaciones complementarias de retiro, en los términos de la Ley de los Sistemas de Ahorro para el Retiro o a las cuentas de planes personales de retiro, así como las aportaciones voluntarias realizadas a la subcuenta de aportaciones voluntarias, siempre que en este último caso dichas aportaciones cumplan con los requisitos de permanencia establecidos para los planes de retiro conforme al segundo párrafo de esta fracción. El monto de la deducción a que se refiere esta fracción será de hasta el 10% de los ingresos acumulables del contribuyente en el ejercicio, sin que dichas aportaciones excedan del equivalente a cinco salarios mínimos generales del área geográfica del contribuyente elevados al año.
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para los efectos del párrafo anterior, se consideran planes personales de retiro, aquellas cuentas o canales de inversión, que se establezcan con el único fin de recibir y administrar recursos destinados exclusivamente para ser utilizados cuando el titular llegue a la edad de 65 años o en los casos de invalidez o incapacidad del titular para realizar un trabajo personal remunerado de conformidad con las leyes de seguridad social, siempre que sean administrados en cuentas individualizadas por instituciones de seguros, instituciones de crédito, casas de bolsa, administradoras de fondos para el retiro o sociedades operadoras de fondos de inversión con autorización para operar en el país, y siempre que obtengan autorización previa del Servicio de Administración Tributaria.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Para los efectos del párrafo anterior, se consideran planes personales de retiro, aquellas cuentas o canales de inversión, que se establezcan con el único fin de recibir y administrar recursos destinados exclusivamente para ser utilizados cuando el titular llegue a la edad de 65 años o en los casos de invalidez o incapacidad del titular para realizar un trabajo personal remunerado de conformidad con las leyes de seguridad social, siempre que sean administrados en cuentas individualizadas por instituciones de seguros, instituciones de crédito, casas de bolsa, administradoras de fondos para el retiro o sociedades operadoras de fondos de inversión con autorización para operar en el país, y siempre que obtengan autorización previa del Servicio de Administración Tributaria. En el caso de que los planes personales de retiro sean contratados de manera colectiva, se deberá identificar a cada una de las personas físicas que integran dichos planes, además de cumplir con los requisitos que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general. En estos casos, cada persona física estará sujeta al monto de la deducción a que se refiere el párrafo anterior.
 
 Cuando los recursos invertidos en las subcuentas de aportaciones complementarias de retiro, en las subcuentas de aportaciones voluntarias o en los planes personales de retiro, así como los rendimientos que ellos generen, se retiren antes de que se cumplan los requisitos establecidos en esta fracción, el retiro se considerará ingreso acumulable en los términos del Capítulo IX de este Título.
 
@@ -4924,23 +5050,29 @@ IV. El Comité Interinstitucional publicará a más tardar el último día de fe
 
 V. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 190.
 
-Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en la producción teatral nacional, contra el impuesto sobre la renta del ejercicio y de los pagos provisionales del mismo ejercicio, causado en el ejercicio en el que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en la producción teatral nacional; de artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto, y jazz; contra el impuesto sobre la renta del ejercicio y de los pagos provisionales del mismo ejercicio, causado en el ejercicio en el que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
 
 Cuando el crédito a que se refiere el párrafo anterior sea mayor al impuesto sobre la renta causado en el ejercicio en el que se aplique el estímulo, los contribuyentes podrán aplicar la diferencia que resulte contra el impuesto sobre la renta causado en los diez ejercicios siguientes hasta agotarla.
 
-Para los efectos de este artículo, se considerarán como proyectos de inversión en la producción teatral nacional, las inversiones en territorio nacional, destinadas específicamente al montaje de obras dramáticas a través de un proceso en el que se conjugan la creación y realización teatral, así como los recursos humanos, materiales y financieros necesarios para dicho objeto.
+Para los efectos de este artículo, se considerarán como proyectos de inversión en la producción teatral nacional; artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz, las inversiones en territorio nacional, destinadas específicamente al montaje de obras dramáticas; de artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz; a través de un proceso en el que se conjugan la creación y realización, así como los recursos humanos, materiales y financieros necesarios para dicho objeto.
 
 Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
 
-I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional para la Cultura y las Artes, uno del Instituto Nacional de Bellas Artes y Literatura y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité y tendrá voto de calidad.
+I. Se creará un Comité Interinstitucional que estará formado por un representante de la Secretaría de Cultura, uno del Instituto Nacional de Bellas Artes y Literatura y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité y tendrá voto de calidad.
 
-II. El monto total del estímulo fiscal a distribuir entre los aspirantes del beneficio no excederá de 50 millones de pesos por cada ejercicio fiscal ni de 2 millones de pesos por cada contribuyente y proyecto de inversión en la producción teatral nacional.
+II. El monto total del estímulo fiscal a distribuir entre los aspirantes del beneficio no excederá de 150 millones de pesos por cada ejercicio fiscal ni de 2 millones de pesos por cada contribuyente y proyecto de inversión en la producción teatral nacional; de artes visuales, danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz.
 
 III. El Comité Interinstitucional a que se refiere la fracción I de este artículo publicará a más tardar el último día de febrero de cada ejercicio fiscal, el monto del estímulo fiscal distribuido durante el ejercicio anterior, así como los contribuyentes beneficiados y los proyectos por los cuales fueron merecedores de dicho beneficio.
 
 IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional a que se refiere la fracción I de este artículo.
+
+El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
 
 ### CAPÍTULO V. DE LOS CONTRIBUYENTES DEDICADOS A LA CONSTRUCCIÓN Y ENAJENACIÓN DE DESARROLLOS INMOBILIARIOS
 
@@ -5055,6 +5187,204 @@ IV. Los rendimientos y los anticipos que otorguen las sociedades cooperativas a 
 ###### Artículo 195.
 
 Las sociedades cooperativas de producción que opten por aplicar lo dispuesto en el presente Capítulo, no podrán variar su opción en ejercicios posteriores, salvo cuando se cumpla con los requisitos que se establezcan en el Reglamento de esta Ley. Cuando los contribuyentes dejen de pagar el impuesto en los términos de este Capítulo, en ningún caso podrán volver a tributar en los términos del mismo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO VIII. DE LA OPCIÓN DE ACUMULACIÓN DE INGRESOS POR PERSONAS MORALES
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 196.
+
+Las personas morales que se encuentren constituidas únicamente por personas físicas, y que tributen en los términos del Título II de esta Ley, cuyos ingresos totales obtenidos en el ejercicio inmediato anterior no hubieran excedido de la cantidad de cinco millones de pesos, pagarán el impuesto sobre la renta aplicando lo dispuesto en el citado Título II, y podrán optar por lo previsto en este Capítulo.
+
+Los contribuyentes señalados en el párrafo anterior que inicien actividades, podrán calcular el impuesto conforme a lo establecido en este Capítulo si estiman que los ingresos del ejercicio fiscal de que se trate no excederán del límite a que dicho párrafo se refiere. Cuando en el ejercicio citado realicen operaciones por un periodo menor de doce meses, para determinar el monto a que se refiere el párrafo anterior, dividirán los ingresos manifestados entre el número de días que comprende el periodo y el resultado se multiplicará por 365 días.
+
+Cuando los ingresos obtenidos por el contribuyente en el periodo transcurrido desde el inicio del ejercicio y hasta el mes de que se trate, excedan de la cantidad señalada en el primer párrafo de este artículo, el contribuyente dejará de aplicar lo dispuesto en este Capítulo y deberá pagar el impuesto sobre la renta en los términos de la presente Ley en el régimen correspondiente, a partir del ejercicio siguiente a aquél en que se excedió el monto citado.
+
+No podrán optar por aplicar lo dispuesto en este Capítulo:
+
+I. Las personas morales cuando uno o varios de sus socios, accionistas o integrantes participen en otras sociedades mercantiles donde tengan el control de la sociedad o de su administración, o cuando sean partes relacionadas en los términos del artículo 90 de esta Ley.
+
+Se entenderá por control, cuando una de las partes tenga sobre la otra el control efectivo o el de su administración, a grado tal, que pueda decidir el momento de reparto o distribución de los ingresos, utilidades o dividendos de ellas, ya sea directamente o por interpósita persona.
+
+II. Los contribuyentes que realicen actividades a través de fideicomiso o asociación en participación.
+
+III. Quienes tributen conforme al Capítulo VI, del Título II de esta Ley.
+
+IV. Las personas morales cuyos socios, accionistas o integrantes hayan sido socios, accionistas o integrantes de otras personas morales que hayan tributado conforme a este Capítulo.
+
+V. Los contribuyentes que dejen de aplicar la opción prevista en este Capítulo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 197.
+
+Para efectos de este Capítulo, los ingresos se consideran acumulables en el momento en que sean efectivamente percibidos.
+
+Los ingresos se consideran efectivamente percibidos cuando se reciban en efectivo, en bienes o en servicios, aun cuando aquéllos correspondan a anticipos, a depósitos o a cualquier otro concepto, sin importar el nombre con el que se les designe. Igualmente se considera percibido el ingreso cuando el contribuyente reciba títulos de crédito emitidos por una persona distinta de quien efectúa el pago; tratándose de cheques, se considerará percibido el ingreso en la fecha de cobro del mismo o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración. También se entenderá que el ingreso es efectivamente percibido, cuando el interés del acreedor quede satisfecho mediante cualquier forma de extinción de las obligaciones.
+
+Tratándose de condonaciones, quitas o remisiones, de deudas, o de las deudas que se dejen de pagar por prescripción de la acción del acreedor, se considerará ingreso acumulable la diferencia que resulte de restar del principal actualizado por inflación, el monto de la quita, condonación o remisión, al momento de su liquidación o reestructuración, siempre y cuando la liquidación total sea menor al principal actualizado y se trate de quitas, condonaciones o remisiones otorgadas por instituciones del sistema financiero.
+
+En el caso de condonaciones, quitas o remisiones de deudas otorgadas por personas distintas a instituciones del sistema financiero, se acumulará el monto total en dichas condonaciones, quitas o remisiones.
+
+Los contribuyentes sujetos a un procedimiento de concurso estarán a lo previsto en el artículo 15 de esta Ley.
+
+Tratándose de los ingresos derivados de las condonaciones, quitas, remisiones o de deudas que hayan sido otorgadas por personas distintas a instituciones del sistema financiero, o de deudas perdonadas conforme al convenio suscrito con los acreedores reconocidos sujetos a un procedimiento de concurso mercantil, se considerarán efectivamente percibidos en la fecha en que se convenga la condonación, la quita o la remisión, o en la que se consuma la prescripción.
+
+En el caso de enajenación de bienes que se exporten se deberá acumular el ingreso cuando efectivamente se perciba. Si el ingreso no se percibe dentro de los doce meses siguientes a aquél en el que se realice la exportación se deberá acumular el ingreso transcurrido en dicho plazo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 198.
+
+Los contribuyentes que opten por aplicar lo dispuesto en este Capítulo, deberán efectuar las deducciones establecidas en el Título II, Capítulo II, Sección I de esta Ley.
+
+Para los efectos del párrafo anterior, en lugar de aplicar la deducción del costo de lo vendido, deberán deducir las adquisiciones de mercancías; así como de materias primas, productos semiterminados o terminados que utilicen para prestar servicios, para fabricar bienes o para enajenarlos, disminuidas con las devoluciones, descuentos y bonificaciones sobre las mismas efectuadas, inclusive, en ejercicios posteriores, cuando aún no hayan aplicado dicha deducción.
+
+No serán deducibles conforme al párrafo anterior, los activos fijos, los terrenos, las acciones, partes sociales, obligaciones y otros valores mobiliarios, así como los títulos valor que representen la propiedad de bienes, excepto certificados de depósito de bienes o mercancías; la moneda extranjera, las piezas de oro o de plata que hubieran tenido el carácter de moneda nacional o extranjera ni las piezas denominadas onzas troy.
+
+Para los efectos de las deducciones autorizadas a que se refiere este artículo, deberán cumplir con el requisito de que hayan sido efectivamente erogadas en el ejercicio de que se trate. Se entenderán como efectivamente erogadas cuando hayan sido pagadas en efectivo, mediante transferencias electrónicas de fondos desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México; o en otros bienes que no sean títulos de crédito. Tratándose de pagos con cheque, se considerará efectivamente erogado en la fecha en la que el mismo haya sido cobrado o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración; de igual forma, se considerarán efectivamente erogadas cuando el contribuyente entregue títulos de crédito suscritos por una persona distinta. También se entiende que es efectivamente erogado cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones.
+
+Cuando los pagos a que se refiere el párrafo anterior se efectúen con cheque, la deducción se efectuará en el ejercicio en que éste se cobre, siempre que entre la fecha consignada en el comprobante fiscal que se haya expedido y la fecha en que efectivamente se cobre dicho cheque no hayan transcurrido más de cuatro meses, excepto cuando ambas fechas correspondan al mismo ejercicio.
+
+Tratándose de inversiones, éstas deberán deducirse en el ejercicio en el que inicie su utilización o en el ejercicio siguiente, aun cuando en dicho ejercicio no se haya erogado en su totalidad el monto original de la inversión y estarán a lo dispuesto en el Título II, Capítulo II, Sección II de esta Ley.
+
+Las personas morales a que se refiere este Capítulo no tendrán la obligación de determinar al cierre del ejercicio el ajuste anual por inflación a que se refiere el Título II, Capítulo III de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 199.
+
+Los contribuyentes a que se refiere este Capítulo efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará restando de la totalidad de los ingresos a que se refiere el Título II de esta Ley, obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas a que se refiere el citado Titulo II, correspondientes al mismo periodo y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieran disminuido.
+
+Para los efectos del párrafo anterior, los contribuyentes podrán optar por determinar los pagos provisionales aplicando al ingreso acumulable del periodo de que se trate, el coeficiente de utilidad que corresponda en los términos de lo dispuesto en el artículo 14 de esta Ley, considerando la totalidad de sus ingresos en el periodo de pago de que se trate. Esta opción no se podrá variar en el ejercicio.
+
+Al resultado que se obtenga conforme a lo señalado en los párrafos anteriores, se le aplicará la tasa establecida en el artículo 9 de esta Ley.
+
+Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales del mismo ejercicio efectuados con anterioridad.
+
+Las declaraciones de pagos provisionales del ejercicio y el registro de operaciones se podrán realizar a través de los medios y formatos que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 200.
+
+Los contribuyentes a que se refiere este Capítulo deberán calcular el impuesto del ejercicio a su cargo en los términos del Título II de esta Ley.
+
+Cuando las personas morales que tributen en los términos de este Capítulo distribuyan a sus socios, accionistas o integrantes dividendos o utilidades, estarán a lo dispuesto en el artículo 140 de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 201.
+
+Los contribuyentes que dejen de aplicar lo dispuesto en este Capítulo deberán cumplir con las obligaciones previstas en el Título II de esta Ley a partir del ejercicio inmediato siguiente a aquél en que decidan dejar dicha opción o no cumplan los requisitos para continuar ejerciendo esta opción.
+
+Para los efectos del párrafo anterior, respecto de los pagos provisionales que se deban efectuar en términos del artículo 14 de esta Ley, correspondientes al primer ejercicio inmediato siguiente a aquél en que se dejó de aplicar lo dispuesto en este Capítulo, se deberá considerar como coeficiente de utilidad el que corresponda a la actividad preponderante de los contribuyentes conforme al artículo 58 del Código Fiscal de la Federación.
+
+Los contribuyentes a que se refiere este artículo deberán presentar a más tardar el día 31 de enero del ejercicio inmediato siguiente a aquél en que dejen de aplicar lo dispuesto en este Capítulo un aviso ante el Servicio de Administración Tributaria en el que señalen que dejan de ejercer la opción de aplicar este Capítulo.
+
+Los contribuyentes a que se refiere este artículo no deberán efectuar la acumulación de los ingresos que hubieran percibido hasta antes de la fecha en que dejen de aplicar lo dispuesto en este Capítulo, siempre que los mismos hubieran sido acumulados de conformidad con el artículo 197 de esta Ley. En caso de que los contribuyentes hubieran efectuado las deducciones en los términos de este Capítulo, no podrán volver a efectuarlas.
+
+El Servicio de Administración Tributaria podrá instrumentar, mediante reglas de carácter general, los mecanismos operativos de transición para la presentación de declaraciones, avisos y otro tipo de información para los contribuyentes que dejen de aplicar la opción prevista en este Capítulo y tengan que pagar el impuesto en los términos del Título II de esta Ley, así como para los contribuyentes que se encuentren tributando conforme al Título II de la citada Ley y opten por aplicar lo dispuesto en este Capítulo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO IX. DEL ESTÍMULO FISCAL A LA INVESTIGACIÓN Y DESARROLLO DE TECNOLOGÍA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 202.
+
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta que efectúen proyectos de investigación y desarrollo tecnológico, consistente en aplicar un crédito fiscal equivalente al 30% de los gastos e inversiones realizados en el ejercicio en investigación o desarrollo de tecnología, contra el impuesto sobre la renta causado en el ejercicio en que se determine dicho crédito. El crédito fiscal no será acumulable para efectos del impuesto sobre la renta.
+
+Para los efectos del párrafo anterior, el crédito fiscal sólo podrá aplicarse sobre la base incremental de los gastos e inversiones efectuados en el ejercicio correspondiente, respecto al promedio de aquéllos realizados en los tres ejercicios fiscales anteriores.
+
+Cuando dicho crédito fiscal sea mayor al impuesto sobre la renta que tengan a su cargo en el ejercicio fiscal en el que se aplique el estímulo, los contribuyentes podrán acreditar la diferencia que resulte contra el impuesto sobre la renta que tengan a su cargo en los diez ejercicios siguientes hasta agotarla. En el caso de que el contribuyente no aplique el crédito en el ejercicio en el que pudiera hacerlo, perderá el derecho a acreditarlo en los ejercicios posteriores y hasta por la cantidad en la que pudo haberlo efectuado.
+
+Para los efectos de este artículo, se consideran gastos e inversiones en investigación y desarrollo de tecnología, los realizados en territorio nacional, destinados directa y exclusivamente a la ejecución de proyectos propios que se encuentren dirigidos al desarrollo de productos, materiales o procesos de producción, que representen un avance científico o tecnológico, de conformidad con las reglas generales que publique el Comité Interinstitucional.
+
+Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
+
+I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional de Ciencia y Tecnología, uno de la Secretaría de Economía, uno de la Presidencia de la República responsable de los temas de ciencia y tecnología, uno del Servicio de Administración Tributaria y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité Interinstitucional y tendrá voto de calidad. La Secretaría Técnica del Comité estará a cargo del Consejo Nacional de Ciencia y Tecnología.
+
+II. El monto total del estímulo a distribuir entre los aspirantes del beneficio, no excederá de 1,500 millones de pesos por cada ejercicio fiscal ni de 50 millones de pesos por contribuyente.
+
+III. El Comité Interinstitucional publicará a más tardar el último día de febrero de cada ejercicio fiscal, los proyectos y montos autorizados durante el ejercicio anterior, así como los contribuyentes beneficiados.
+
+IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional. Estas reglas también establecerán compromisos de desarrollo de prototipos y otros entregables equivalentes, así como de generación de patentes que se deberán registrar en México.
+
+Los contribuyentes a que se refiere el primer párrafo de este artículo, además de cumplir las obligaciones establecidas en otros artículos de esta Ley, deberán presentar en el mes de febrero de cada año, ante las oficinas autorizadas, una declaración informativa en la que se detallen los gastos e inversiones realizados correspondientes al proyecto de investigación y desarrollo de tecnología autorizado, validado por contador público registrado, así como llevar un sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información relacionada con la aplicación de los recursos del estímulo en cada uno de los rubros de gasto e inversión que dicho órgano desconcentrado determine. El Servicio de Administración Tributaria establecerá mediante reglas de carácter general las características técnicas, de seguridad y requerimientos de información del sistema de cómputo señalado.
+
+El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO X. DEL ESTÍMULO FISCAL AL DEPORTE DE ALTO RENDIMIENTO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 203.
+
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en infraestructura e instalaciones deportivas altamente especializadas, así como a programas diseñados para el desarrollo, entrenamiento y competencia de atletas mexicanos de alto rendimiento, contra el impuesto sobre la renta causado en el ejercicio en que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso, el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
+
+Cuando dicho crédito fiscal sea mayor al impuesto sobre la renta que tengan a su cargo en el ejercicio fiscal en el que se aplique el estímulo, los contribuyentes podrán acreditar la diferencia que resulte contra el impuesto sobre la renta que tengan a su cargo en los diez ejercicios siguientes hasta agotarla. En el caso de que el contribuyente no aplique el crédito en el ejercicio en el que pudiera hacerlo, perderá el derecho a acreditarlo en los ejercicios posteriores y hasta por la cantidad en la que pudo haberlo efectuado.
+
+Para los efectos de este artículo, se considerarán como proyectos de inversión, las inversiones en territorio nacional que se destinen al desarrollo de infraestructura e instalaciones deportivas altamente especializadas, las cuales no deberán tener fines preponderantemente económicos o de lucro y no estar vinculadas directa o indirectamente con la práctica profesional del deporte, así como los gastos de operación y mantenimiento de las citadas instalaciones deportivas. Asimismo, se considerarán como programas aquéllos diseñados para su aplicación en el territorio nacional, dirigidos al desarrollo, entrenamiento y competencia de los atletas mexicanos de alto rendimiento.
+
+Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
+
+I. Se creará un Comité Interinstitucional que estará formado por un representante de la Comisión Nacional de Cultura Física y Deporte, uno del Comité Olímpico Mexicano, uno del Servicio de Administración Tributaria y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité Interinstitucional y tendrá voto de calidad.
+
+II. El monto total del estímulo a distribuir entre los aspirantes del beneficio, no excederá de 400 millones de pesos por cada ejercicio fiscal ni de 20 millones de pesos por cada contribuyente aportante, proyecto de inversión o programa.
+
+El Comité podrá autorizar un monto superior al límite de 20 millones de pesos a que se refiere el párrafo anterior, cuando se trate de proyectos o programas que por su naturaleza e importancia dentro del ámbito del deporte de alto rendimiento requieran inversiones superiores a dicho monto.
+
+III. El Comité Interinstitucional publicará a más tardar el último día de febrero de cada ejercicio fiscal, el nombre de los contribuyentes beneficiados, los montos autorizados durante el ejercicio anterior, así como los proyectos de inversión y los programas correspondientes.
+
+IV. Los contribuyentes deberán cumplir con lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional.
+
+Los contribuyentes a que se refiere el primer párrafo de este artículo, además de cumplir las obligaciones establecidas en otros artículos de esta Ley, deberán presentar en el mes de febrero de cada año, ante las oficinas autorizadas, una declaración informativa en la que se detallen los gastos e inversiones realizados en los proyectos de inversión y programas que tengan por objeto la formación de deportistas de alto rendimiento, validado por contador público registrado, así como llevar un sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información relacionada con la aplicación de los recursos del estímulo en cada uno de los rubros de gasto e inversión que dicho órgano desconcentrado determine. El Servicio de Administración Tributaria establecerá, mediante reglas de carácter general, las características técnicas, de seguridad y requerimientos de información del sistema de cómputo señalado.
+
+El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO XI. DE LOS EQUIPOS DE ALIMENTACIÓN PARA VEHÍCULOS ELÉCTRICOS
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 204.
+
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al 30% del monto de las inversiones que en el ejercicio fiscal de que se trate, realicen en equipos de alimentación para vehículos eléctricos, siempre que éstos se encuentren conectados y sujetos de manera fija en lugares públicos, contra el impuesto sobre la renta que tengan a su cargo en el ejercicio en el que se determine el crédito. El crédito fiscal no será acumulable para efectos del impuesto sobre la renta.
+
+Cuando dicho crédito sea mayor al impuesto sobre la renta que tengan a su cargo en el ejercicio fiscal en el que se aplique el estímulo, los contribuyentes podrán acreditar la diferencia que resulte contra el impuesto sobre la renta que tengan a su cargo en los diez ejercicios siguientes hasta agotarla. En el caso de que el contribuyente no aplique el crédito en el ejercicio en el que pudiera hacerlo, perderá el derecho a acreditarlo en los ejercicios posteriores y hasta por la cantidad en la que pudo haberlo efectuado.
 
 DISPOSICIONES DE VIGENCIA TEMPORAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
@@ -5820,7 +6150,7 @@ iii) Quienes realicen inversiones en las actividades previstas en el artículo 2
 
 El estímulo consiste en efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo, en lugar de las previstas en los artículos 34 y 35 de esta Ley, deduciendo en el ejercicio en el que se adquieran los bienes, la cantidad que resulte de aplicar al monto original de la inversión, únicamente los por cientos que se establecen en esta fracción. La parte de dicho monto que exceda de la cantidad que resulte de aplicar al mismo el por ciento que se autoriza en esta fracción, será deducible únicamente en los términos de la fracción III.
 
-Los por cientos que se podrán aplicar para deducir las inversiones a que se refiere esta fracción, para los contribuyentes a que se refiere el inciso i) de está (sic) fracción, son los que a continuación se señalan:
+Los por cientos que se podrán aplicar para deducir las inversiones a que se refiere esta fracción, para los contribuyentes a que se refiere el inciso i) de está fracción, son los que a continuación se señalan:
 
 % deducción
 
@@ -6160,7 +6490,7 @@ c) Cuando los bienes se enajenen, se pierdan o dejen de ser útiles, se podrá e
 
 Para los contribuyentes a que se refiere el inciso i) de la fracción II, aplicarán respectivamente para 2016 y 2017, las siguientes tablas.
 
-> <small>N. DE E. VÉASE TABLA PUBLICADA EN LA PRIMERA SECCIÓN DEL D.O. F. DEL 18 DE NOVIEMBRE DE 2015, PÁGINAS 92 Y 93.</small>
+> <small>N. DE E. VÉASE TABLA PUBLICADA EN LA PRIMERA SECCIÓN DEL D.O.F. DEL 18 DE NOVIEMBRE DE 2015, PÁGINAS 92 Y 93.</small>
 
 Para los efectos de esta fracción, cuando sea impar el número de meses del periodo a que se refieren los incisos a) y c) de esta fracción, se considerará como último mes de la primera mitad el mes inmediato anterior al que corresponda la mitad del periodo.
 
@@ -6173,3 +6503,45 @@ Para los efectos del artículo 14, fracción I de la Ley del Impuesto sobre la R
 ## Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA Y TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS".]</small>
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+Artículo Segundo.- En relación con las modificaciones a las que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. Lo dispuesto en el artículo 82, fracción V, segundo párrafo de la Ley del Impuesto sobre la Renta, que entrará en vigor a partir del 1 de enero de 2017 no será aplicable a los contribuyentes que a más tardar el 31 de diciembre de 2016, se les haya notificado el oficio de revocación o no renovación de la autorización para recibir donativos deducibles conforme al artículo 82, cuarto párrafo de la Ley del Impuesto sobre la Renta, y se encuentren sujetos al procedimiento descrito en la regla 3.10.16. de la Resolución Miscelánea Fiscal para 2016 emitida por el Servicio de Administración Tributaria.
+
+II. Para efectos del artículo 86, quinto párrafo de la Ley del Impuesto sobre la Renta, las dependencias públicas podrán cumplir con su obligación de emitir comprobantes fiscales cuatro meses después de que haya entrado en vigor dicha obligación.
+
+Una vez transcurrido el plazo previsto en el párrafo anterior, las dependencias públicas tendrán la obligación de emitir el comprobante fiscal que corresponda a las operaciones que efectuaron durante dicho periodo cuando así se solicite por los receptores de dichos comprobantes.
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, otorgará facilidades administrativas para el cumplimiento de esta obligación a aquellas dependencias públicas cuyo domicilio se ubique en el listado de poblaciones rurales sin acceso a Internet, contenido en el portal de dicho órgano administrativo.
+
+III. Los contribuyentes que a la entrada en vigor del presente Decreto se encuentren tributando conforme a lo dispuesto en el Título II de la Ley del Impuesto sobre la Renta, podrán optar por aplicar lo dispuesto en el Título VII, Capítulo VIII de esta Ley, siempre que cumplan con los requisitos contenidos en dicho Capítulo y presenten a más tardar el 31 de enero de 2017 un aviso ante el Servicio de Administración Tributaria en el que señalen que ejercerán dicha opción.
+
+IV. Los contribuyentes que hasta el 31 de diciembre de 2016 tributen en los términos del Título II de la Ley del Impuesto sobre la Renta y opten por aplicar la opción prevista en el Título VII, Capítulo VIII de esta Ley, no deberán efectuar la acumulación de los ingresos percibidos efectivamente durante 2017, cuando dichos ingresos hayan sido acumulados hasta el 31 de diciembre de 2016, de conformidad con el citado Título II.
+
+V. Los contribuyentes que tributen en los términos del Título II de la Ley del Impuesto sobre la Renta y opten por aplicar la opción prevista en el Título VII, Capítulo VIII de dicha Ley, que hubieran efectuado las deducciones correspondientes conforme al citado Título II, no podrán volver a efectuarlas conforme al citado Capítulo VIII.
+
+VI. Los contribuyentes que al 31 de diciembre de 2016 tributen en los términos del Título II de la Ley del Impuesto sobre la Renta y a partir del 1 de enero de 2017 apliquen la opción prevista en el Título VII, Capítulo VIII de la citada Ley, deberán seguir aplicando los porcientos máximos de deducción de inversiones que les correspondan de acuerdo con los plazos que hayan trascurrido, respecto de las inversiones realizadas hasta el 31 de diciembre de 2016.
+
+VII. Los contribuyentes que a la entrada en vigor del presente Decreto, se encuentren tributando conforme a lo dispuesto en el Título II de la Ley del Impuesto sobre la Renta, y opten por aplicar lo dispuesto en el Título VII, Capítulo VIII de la Ley del Impuesto sobre la Renta, que al 31 de diciembre de 2016 tengan inventario de mercancías, materias primas, productos semiterminados o terminados, y que a dicha fecha estén pendientes de deducir, deberán seguir aplicando lo dispuesto en el Título II, Sección III de la Ley del Impuesto sobre la Renta, hasta que se agote dicho inventario.
+
+Respecto de las materias primas, productos semiterminados o terminados que adquieran a partir del 1 de enero de 2017, les será aplicable lo dispuesto en el artículo 198 de esta Ley.
+
+Para efectos de lo dispuesto en esta fracción se considerará que lo primero que se enajena es lo primero que se había adquirido con anterioridad al 1 de enero de 2017.
+
+VIII. El Comité Interinstitucional a que se refiere el artículo 202 de la Ley del Impuesto sobre la Renta, dará a conocer dentro de los 90 días naturales siguientes a la publicación del presente Decreto, las reglas generales para el otorgamiento del estímulo.
+
+IX. El Comité Interinstitucional a que se refiere el artículo 203 de la Ley del Impuesto sobre la Renta, dará a conocer dentro de los 90 días naturales siguientes a la publicación del presente Decreto, las reglas generales para el otorgamiento del estímulo.
+
+X. Lo dispuesto en la fracción IX del artículo 82 de la Ley del Impuesto sobre la Renta, entrará en vigor a partir del 1 de enero de 2018.
+
+XI. El Comité Interinstitucional a que se refiere el artículo 190 de la Ley del Impuesto sobre la Renta, dará a conocer dentro de los 120 días naturales contados a partir de la entrada en vigor del presente Decreto, las reglas generales para el otorgamiento del estímulo aplicable a los proyectos de inversión en la producción de artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto, y jazz.
+
+## Transitorio
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
