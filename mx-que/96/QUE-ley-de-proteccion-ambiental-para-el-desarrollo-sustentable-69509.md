@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-ambiental-para-el-desarrollo-sustentable-6950
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2015-03-13"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -2037,7 +2037,9 @@ III. Convendrán con quienes realicen actividades contaminantes, para controlar,
 
 IV. Integrarán y mantendrán actualizados los inventarios de las fuentes de contaminación de la atmósfera, que formarán parte del Inventario Estatal de Emisiones. Quienes realicen actividades contaminantes, deberán proporcionar toda la información que en esta materia les sea requerida por las autoridades competentes;
 
-V. Establecerán y operarán sistemas de verificación de emisiones de vehículos automotores en circulación y sancionarán a los propietarios o poseedores de aquellos que no cumplan con las medidas de control dispuestas y, en su caso, retirarán de la vía pública a aquellos que rebasen los límites máximos permisibles que determinen los reglamentos, la norma oficial mexicana y las normas técnicas ambientales correspondientes;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+V. Establecerán y operarán sistemas de verificación de emisiones de vehículos automotores registrados en el Estado, o en otras entidades federativas, que estén en circulación en el Estado, y sancionarán a los propietarios o poseedores de aquellos que no cumplan con las medidas de control dispuestas, o en su caso, se retirarán de circulación a aquellos vehículos que rebasen los límites máximos permisibles que se determinen en los reglamentos, en la Norma Oficial Mexicana y en las normas técnicas ambientales correspondientes.
 
 VI. Llevarán a cabo campañas para:
 
@@ -2049,7 +2051,9 @@ b) Fomentar la afinación y el mantenimiento de los motores.
 
 c) Promover la utilización de combustibles alternos a la gasolina y al diesel, que generen menores niveles de contaminación, siempre y cuando se cumpla con los ordenamientos, normas oficiales y autorizaciones aplicables en vigor;
 
-VII. Promoverán el mejoramiento de los sistemas de transporte urbano y suburbano y la modernización de las unidades;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+VII. Promoverán el mejoramiento de los sistemas de transporte urbano y suburbano, la modernización de las unidades incluyendo el servicio de taxis en todas sus modalidades, en los términos establecidos en la Ley de Movilidad para el Transporte del Estado de Querétaro.
 
 VIII. Establecerán y operarán coordinadamente los sistemas de monitoreo de calidad del aire en las zonas más críticas, los que podrán contar con el apoyo técnico de la federación. La Secretaría concentrará los informes locales de monitoreo para su incorporación a los sistemas de información estatal y federal, de conformidad con el acuerdo de coordinación que al efecto se celebre;
 
@@ -2087,13 +2091,17 @@ IV. Proporcionar la información ambiental que les sea requerida por las autorid
 
 V. Presentar su informe anual de registro de emisiones y transferencia de contaminantes a la atmósfera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 128.
 
-Los propietarios de vehículos automotores de uso particular o de servicio público deberán:
+Los propietarios de vehículos automotores registrados en el Estado o en otra entidad federativa y que sean de uso particular o de servicio público, deberán:
 
 I. Realizar el mantenimiento de las unidades y observar los límites permisibles de emisiones señalados en la normatividad en la materia;
 
-II. Verificar periódicamente las emisiones de contaminantes a la atmósfera, de acuerdo con los programas, mecanismos y disposiciones establecidos; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+II. Verificar obligatoriamente las emisiones contaminantes a la atmósfera, con la periodicidad que se establezca en los programas, mecanismos y disposiciones establecidos; y
 
 III. Observar las medidas y restricciones que las autoridades competentes dicten para la prevención, control de emergencias y contingencias ambientales.
 
@@ -3008,3 +3016,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Dentro de los 180 días naturales siguientes a la entrada en vigor de esta Ley, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro, emitirá la norma técnica ambiental estatal a que hace referencia el artículo 8, fracción XXI, de la presente Ley.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE QUERÉTARO Y DE LA LEY DE TRÁNSITO DEL ESTADO DE QUERÉTARO, EN MATERIA DE VERIFICACIÓN VEHICULAR Y MOVILIDAD SUSTENTABLE.”]
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado deberá adecuar los reglamentos correspondientes, así como los programas y demás disposiciones administrativas aplicables que hagan operativa esta Ley.
