@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-89288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-04"
-last_updated: "2015-08-29"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 30 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de agosto de 2012.
 
@@ -1648,3 +1650,61 @@ Cuarto. El Estatuto Orgánico del organismo descentralizado Régimen Estatal de 
 Quinto. El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, dotará de los recursos financieros necesarios para la consecución de los fines de la Secretaría de Salud.
 
 Sexto. En tanto se realizan los ajustes en la normatividad respectiva, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el 1 de enero de 2017, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Zacatecas, publicada en Suplemento número 3 al 62 del Periódico Oficial, Órgano del Gobierno del Estado publicada en fecha 4 de agosto del 2012 mediante el Decreto número 378.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto 568 por el que se establecen las bases de regularización y cambio al dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales y crea al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en Suplemento 5 al número 24 del Periódico Oficial, Órgano del Gobierno del Estado correspondiente al día fecha (sic) 23 de marzo del 2013.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena la extinción del Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, el cual transferirá su patrimonio, sus recursos humanos, financieros y materiales, así como sus archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo a la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, quien dará continuidad a los expedientes y trámites que aún queden pendientes por resolver de dicho organismo.
+
+###### ARTÍCULO QUINTO.
+
+Por lo que respecta a los expedientes y trámites que aún quedan pendientes por resolver de los extintos organismos Instituto Zacatecano de la Vivienda Social y el Consejo Promotor de la Vivienda Popular, pasarán a la competencia de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, quien deberá darles el trámite correspondiente para su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Dentro de los 180 días siguientes a la publicación del presente, la Legislatura del Estado deberá expedir las leyes y reformas necesarias que permitan el ejercicio pleno de las facultades consignadas en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las atribuciones conferidas a la Secretaría de Desarrollo Social dispuestas en las fracciones XV, XXI, XXII, XXIII de la Ley Orgánica que se abroga y demás contenidas en diversas disposiciones en materia de atención e inclusión a personas con discapacidad y de atención a los jóvenes del Estado de Zacatecas, seguirán vigentes hasta en tanto entren en vigor las Leyes que crearán los Institutos para la Atención e Inclusión a las Personas con Discapacidad, así como el Instituto de la Juventud del Estado de Zacatecas.
+
+###### ARTÍCULO OCTAVO.
+
+El artículo 38 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas que se abroga, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Zacatecas y las demás disposiciones legales vigentes que le concedan el ejercicio del Ministerio Público a la Procuraduría General de Justicia del Estado de Zacatecas, continuarán su vigencia hasta en tanto la Fiscalía General de Justicia del Estado se constituya como Organismo Autónomo y entre en vigor su Ley Orgánica.
+
+Siempre que esta Ley haga referencia a la Fiscalía General de Justicia del Estado, habrá de entenderse como Procuraduría General de Justicia hasta en tanto se expida y entre en vigor la Ley Orgánica de la Fiscalía General de Justicia del Estado de Zacatecas.
+
+###### ARTÍCULO NOVENO.
+
+Las disposiciones contenidas en los artículos 15; 29, fracción I; 30 entrarán en vigor una vez que se expidan y entren en vigor las reformas constitucionales y leyes que ordena el artículo Transitorio Cuarto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015.
+
+Hasta en tanto, la Secretaría de Administración ejercerá la atribución que le concede la fracción I del artículo 26 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas que abroga el presente Decreto y la Secretaría de la Función del Gobierno del Estado, continuará con el ejercicio de las atribuciones que le confiere actualmente el artículo 27 de la citada Ley Orgánica de la Administración Pública.
+
+###### ARTÍCULO DÉCIMO.
+
+El Gobierno del Estado realizará la transferencia al Instituto de la Juventud del Estado de Zacatecas y al Instituto para la Atención e Inclusión de las Personas con Discapacidad de los recursos humanos y materiales que se requieran para el cumplimiento de sus atribuciones.
+
+En el Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2017 y subsecuentes, deberán incluirse las partidas correspondientes para el funcionamiento adecuado de los Organismos Públicos referidos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La entrada en vigor del presente Decreto no afectará de forma alguna los derechos laborales adquiridos por los trabajadores de las Dependencias y Entidades Públicas previstas en esta Ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Dentro de un plazo que no excederá de 180 días naturales a partir de la entrada en vigor del presente ordenamiento, las Dependencias y Entidades Públicas deberán expedir sus reglamentos y estatutos o bien, las adecuaciones normativas internas de conformidad con el presente Decreto.
