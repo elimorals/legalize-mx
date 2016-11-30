@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2015-07-10"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -103,9 +103,9 @@ La función educativa de las universidades y demás instituciones de educación 
 
 La educación que imparta el Estado, los municipios, los organismos descentralizados y los particulares, con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos y modalidades, se ajustará a lo establecido en los artículos 3o., de la Constitución Federal y 4 de la Constitución Política del Estado de Querétaro, en los tratados internacionales de los que México sea parte, en las leyes educativas federales, en la legislación aplicable a niños y jóvenes, en esta Ley y en los demás ordenamientos que de ellas emanen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-El criterio que orientará a la educación que se imparte en la Entidad, se basará en los resultados del progreso científico y tecnológico, combatirá la ignorancia en sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos y la discriminación, así como la violencia, especialmente la que se ejerce contra las mujeres, adolescentes y niños, debiendo implementar políticas públicas, orientadas a la transversalidad de criterios en los órdenes de gobierno estatal y municipales. Además:
+El criterio que orientará a la educación que se imparte en la Entidad, se basará en los resultados del progreso científico y tecnológico, combatirá la ignorancia en sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, y la discriminación, así como la violencia, especialmente la que se ejerce contra las mujeres, niñas, niños, jóvenes y adolescentes, debiendo implementar políticas públicas, orientadas a la transversalidad de criterios en los órdenes de gobierno estatal y municipales. Además:
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2011)</small>
 
@@ -127,13 +127,21 @@ IV. Promoverá la práctica del respeto entre la relación ser humano-sociedad-m
 
 V. Promoverá la incorporación de hábitos alimenticios sanos, la actividad física y la práctica de ejercicio, como medios para que los educandos accedan a un adecuado desarrollo físico y social, de conformidad con las leyes aplicables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-VI. Promoverá el acceso a las redes de comunicación internacional denominadas internet, como parte de la educación que se imparta en el Estado, con lo que se contribuirá a procurar las condiciones de libertad de expresión, comunicación e información de los educandos; y
+VI. Promoverá el acceso a las redes de comunicación internacional denominadas internet, como parte de la educación que se imparta en el Estado, con lo que se contribuirá a procurar las condiciones de libertad de expresión, comunicación e información de los educandos;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-VII. Será de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
+VII. Será de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Prevendrá la comisión de delitos en materia de tecnologías y cibernética, advirtiendo de los riesgos por el uso de internet y las redes sociales, en los términos de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la protección y Asistencia a las Víctimas de estos Delitos y la Ley para Prevenir, Investigar, Sancionar y Reparar la Desaparición de Personas en el Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+IX. Fomentará entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer uso adecuado de internet y de las redes sociales.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -255,13 +263,17 @@ XVIII. Formular y ejecutar programas y acciones tendientes a fortalecer la auton
 
 XIX. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XX. Proporcionar los principios básicos de protección civil, migración y adaptación ante los efectos que presenta el cambio climático y otros fenómenos naturales; y
+XX. Proporcionar los principios básicos de protección civil, migración y adaptación ante los efectos que presenta el cambio climático y otros fenómenos naturales;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXI. Fomentar programas, políticas y foros, tendientes a sensibilizar y concientizar a educandos y padres de familia, sobre el problema del acoso escolar y violencia entre los alumnos, con la finalidad de diagnosticar, prevenir y erradicar estas prácticas en el sistema educativo.
+XXI. Fomentar programas, políticas y foros, tendientes a sensibilizar y concientizar a educandos y padres de familia, sobre el problema del acoso escolar y violencia entre los alumnos, con la finalidad de diagnosticar, prevenir y erradicar estas prácticas en el sistema educativo; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Promover el uso responsable y seguro de internet y de las redes sociales digitales.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -349,11 +361,15 @@ XVI. Participar con la autoridad educativa federal, en la operación de los meca
 
 XVII. Realizar la planeación y la programación globales del sistema educativo estatal, atendiendo las directrices emitidas por el Instituto Nacional para la Evaluación de la Educación y participar en las tareas de evaluación de su competencia, de conformidad con los lineamientos que para tal efecto emita dicho organismo;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XVIII. Fomentar programas, políticas y foros, tendientes a sensibilizar y concientizar a educandos y padres de familia, sobre el problema del acoso escolar y violencia entre los alumnos, con la finalidad de diagnosticar, prevenir y erradicar estas prácticas en el sistema educativo; y
+XVIII. Fomentar programas, políticas y foros, tendientes a sensibilizar y concientizar a educandos y padres de familia, sobre el problema del acoso escolar y violencia entre los alumnos, con la finalidad de diagnosticar, prevenir y erradicar estas prácticas en el sistema educativo;
 
-XIX. Las demás que establezcan las leyes federales educativas, esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XIX. Generar, en conjunto con la Secretaría de Salud del Estado, información sobre la eficacia terapéutica de la medicina tradicional, su concordancia con los programas sanitarios vigentes y su disponibilidad; para coadyuvar a la atención de la salud con base en las necesidades terapéuticas de los pacientes, incorporando la dimensión sociocultural de los pacientes; y
+
+XX. Las demás que establezcan las leyes federales educativas, esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -1804,3 +1820,19 @@ P.O. 10 DE JULIO DE 2015.
 Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, LEY DE SALUD DEL ESTADO DE QUERÉTARO Y LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
