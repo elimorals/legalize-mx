@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2008-del-pleno-del-consejo-de-la-60760"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-30"
-last_updated: "2016-10-28"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-04-16"
 
 ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de abril de 2008.
 
@@ -57,9 +57,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR TRANSITORIO SEXTO DEL ACUERDO GENERAL 44/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; cinco tribunales unitarios de Circuito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Tercera Región, está conformado por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; dos Tribunales Unitarios de Circuito Auxiliares con sede en Guadalajara, Jalisco y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
 
 > <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 20/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2015)</small>
 
@@ -77,11 +77,11 @@ b) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Reg
 
 II. Los tribunales unitarios se denominarán:
 
-a) Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+a) (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
-b) Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+b) (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
-c) Tercer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+c) (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
 d) Sexto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
 
@@ -103,9 +103,9 @@ TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 54/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Tercera Región contará con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato y Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco; éstas se integrarán con las plazas que fije la Dirección General de Estadística Judicial.
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Tercera Región contará con la Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco; ésta se integrará con las plazas que fije la Dirección General de Estadística Judicial.
 
 QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
@@ -586,3 +586,65 @@ a) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Regió
 b) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
 
 II. …”.
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 50/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES UNITARIOS PRIMERO, SEGUNDO Y TERCERO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO, Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL DECIMOSEXTO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, FECHA DE COMIENZO DE FUNCIONES Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN LA MATERIA, CIRCUITO Y RESIDENCIA INDICADOS, ASÍ COMO A LA CREACIÓN DE SU OFICINA DE CORRESPONDENCIA COMÚN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el treinta de noviembre de dos mil dieciséis, con excepción de lo previsto en el transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La integración del Pleno en Materia Penal del Decimosexto Circuito, se realizará conforme a lo establecido en el diverso Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado para la recepción y distribución de asuntos en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Penal del Decimosexto Circuito.
+
+QUINTO. La Secretaría Ejecutiva de Adscripción certificará las nuevas adscripciones de los magistrados de los tribunales unitarios que se transforman.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción XVI, número 1; y QUINTO, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a XV. ...
+
+XVI. ...
+
+1. Nueve tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y dos en materia de trabajo, todos con residencia en Guanajuato, Guanajuato.
+
+2. a 3. ...
+
+XVII. a XXXII. ...
+
+QUINTO. ...
+
+1. a 2. ...
+
+3. El Centro Auxiliar de la Tercera Región, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; dos tribunales unitarios de Circuito Auxiliares con sede en Guadalajara, Jalisco, y dos juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+4. a 11. ...
+
+...”.
+
+SÉPTIMO. Se reforman los numerales PRIMERO, primer párrafo; y CUARTO; y se derogan los incisos a) a c) de la fracción II, del numeral PRIMERO, del Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Tercera Región, está conformado por dos tribunales colegiados de Circuito Auxiliares, uno con sede en Guadalajara, Jalisco y uno con residencia en Morelia, Michoacán; dos Tribunales Unitarios de Circuito Auxiliares con sede en Guadalajara, Jalisco y, dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+
+...
+
+I. ...
+
+II. ...
+
+a) Derogado.
+
+b) Derogado.
+
+c) Derogado.
+
+d) a e) ...
+
+III. ...
+
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Tercera Región contará con la Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco; ésta se integrará con las plazas que fije la Dirección General de Estadística Judicial.”
