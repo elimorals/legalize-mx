@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-victimas-para-el-estado-de-chihuahua-113286"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-27"
-last_updated: "2016-06-11"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "CHH"
 LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE NOVIEMBRE DE 2016.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2016.
 
@@ -791,9 +793,11 @@ Rubro sobre derechos humanos.
 
 Todo procedimiento de ingreso, selección, permanencia, estímulo, promoción y reconocimiento de servidores públicos que, por su competencia, tengan trato directo o brinden su servicio a víctimas en cumplimento de medidas de asistencia, ayuda, apoyo, reparación integral o cualquier mecanismo de acceso a la justicia, deberá incluir, dentro de los criterios de valoración, un rubro relativo a derechos humanos.
 
+> <small>(F. DE E., P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 49.
 
-Programa de capacitación y capacitación.
+Programa de capacitación y formación.
 
 El Poder Ejecutivo del Estado creará un programa continuado de capacitación y formación para servidores públicos que atienden víctimas. Este programa deberá garantizar como mínimo:
 
