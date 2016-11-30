@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-69505"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2016-02-05"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -131,15 +131,19 @@ II. Autoridades tradicionales: Aquellas que los pueblos y comunidades indígenas
 
 III. Comunidad indígena: Conjunto de personas que pertenecen a un pueblo indígena, que forman una unidad social, económica y cultural, asentadas dentro del territorio del Estado y que reconocen autoridades propias de acuerdo con sus usos, costumbres y tradiciones;
 
-IV. Patrimonio cultural tangible: Todos aquellos elementos que dentro del ámbito cultural y sagrado de los pueblos y comunidades indígenas, tienen una existencia material, tales como sitios arqueológicos, centros ceremoniales, lugares sagrados y monumentos históricos, ofrendas, objetos sagrados, elementos de la flora y la fauna, entre otros;
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-V. Patrimonio cultural intangible: Todos aquellos elementos inmateriales que integran la cosmovisión indígena, como los ritos, ceremonias, cantos, danzas, literatura, música, conocimiento técnico y científico;
+IV. Medicina tradicional: Conjunto de conocimientos, aptitudes y prácticas basados en teorías, creencias y experiencias indígenas de las diferentes culturas, usados para el mantenimiento de la salud, así como para la prevención, el diagnóstico, la mejora o el tratamiento de enfermedades físicas o mentales;
 
-VI. Pueblo indígena: Colectividad humana, cuyos miembros son descendientes de pobladores que, desde antes del inicio de la colonización, habitaban en el territorio del Estado de Querétaro, que han dado continuidad histórica a las instituciones políticas, económicas, sociales y culturales o parte de ellas, que poseían sus ancestros antes de la conformación del Estado de Querétaro, que afirman libre y voluntariamente su pertenencia a cualquiera de los pueblos señalados en la presente Ley;
+V. Patrimonio cultural tangible: Todos aquellos elementos que dentro del ámbito cultural y sagrado de los pueblos y comunidades indígenas, tienen una existencia material, tales como sitios arqueológicos, centros ceremoniales, lugares sagrados y monumentos históricos, ofrendas, objetos sagrados, elementos de la flora y la fauna, entre otros;
 
-VII. Sistemas normativos internos: Conjunto de prácticas jurídicas de carácter consuetudinario, que los pueblos y las comunidades indígenas reconocen como válidas y utilizan para regular sus actos y que sus autoridades aplican para la resolución de sus conflictos internos; y
+VI. Patrimonio cultural intangible: Todos aquellos elementos inmateriales que integran la cosmovisión indígena, como los ritos, ceremonias, cantos, danzas, literatura, música, conocimiento técnico y científico;
 
-VIII. Territorio indígena: Porción del territorio estatal, constituido por espacios continuos y discontinuos, ocupados o en posesión de las comunidades indígenas, en cuyo ámbito se manifiesta su vida comunitaria y confirman su cosmovisión, sin detrimento de la integridad nacional del Estado Mexicano, ni de la libertad y soberanía del Estado de Querétaro y sus municipios.
+VII. Pueblo indígena: Colectividad humana, cuyos miembros son descendientes de pobladores que, desde antes del inicio de la colonización, habitaban en el territorio del Estado de Querétaro, que han dado continuidad histórica a las instituciones políticas, económicas, sociales y culturales o parte de ellas, que poseían sus ancestros antes de la conformación del Estado de Querétaro, que afirman libre y voluntariamente su pertenencia a cualquiera de los pueblos señalados en la presente Ley;
+
+VIII. Sistemas normativos internos: Conjunto de prácticas jurídicas de carácter consuetudinario, que los pueblos y las comunidades indígenas reconocen como válidas y utilizan para regular sus actos y que sus autoridades aplican para la resolución de sus conflictos internos; y
+
+IX. Territorio indígena: Porción del territorio estatal, constituido por espacios continuos y discontinuos, ocupados o en posesión de las comunidades indígenas, en cuyo ámbito se manifiesta su vida comunitaria y confirman su cosmovisión, sin detrimento de la integridad nacional del Estado Mexicano, ni de la libertad y soberanía del Estado de Querétaro y sus municipios.
 
 ###### Artículo 5.
 
@@ -385,11 +389,19 @@ Las comunidades indígenas deberán participar en el diseño, desarrollo y aplic
 
 ## Título Quinto. De la salud y asistencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 40.
 
-El Poder Ejecutivo del Estado, en el ámbito de su competencia y posibilidad presupuestal, garantizará el acceso efectivo de los pueblos y comunidades indígenas a los servicios de salud, a través de la ampliación de su cobertura, mediante la implementación de programas prioritarios de atención médica.
+El Poder Ejecutivo del Estado, a través de la Secretaria de Salud garantizará el acceso efectivo de los pueblos y comunidades indígenas a los servicios de salud, a través de la ampliación de su cobertura, mediante la implementación de programas prioritarios de atención médica.
 
-Instrumentará programas específicos para el mejoramiento y construcción de clínicas de salud regionales, así como el funcionamiento de unidades móviles de salud, en las comunidades indígenas más apartadas.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Instrumentará programas específicos para el mejoramiento y fortalecimiento de las clínicas de salud regionales, así como el funcionamiento de unidades móviles y jornadas de salud itinerantes en las comunidades indígenas más apartadas, donde la vulnerabilidad las excluye de atención médica; ofreciéndoles así alternativas de atención que puedan incidir en sus niveles de bienestar, convirtiéndose la medicina tradicional en una opción asequible.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Los servicios de atención básica que se desarrollan en comunidades indígenas, deberán adaptarse a su estructura social y administrativa, así como su concepción de la salud y de la relación del paciente con el médico, a fin de proteger el derecho a la salud, la libertad de elección y la seguridad de los usuarios que opten por la medicina tradicional como forma de atender sus malestares físicos, emocionales y/o mentales.
 
 ###### Artículo 41.
 
@@ -410,6 +422,20 @@ Se considera de orden preferente, que cuenten con los conocimientos básicos sob
 Las comunidades indígenas, tienen derecho a la utilización de la medicina tradicional y a la utilización de la herbolaria, para uso medicinal y ritual.
 
 El Gobernador del Estado promoverá la conservación y desarrollo de la medicina tradicional, a fin de que se preserve como parte de su cultura y patrimonio.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 44 Bis.
+
+El reconocimiento y la regulación de la medicina tradicional será facultad de la Secretaría de Salud, la cual indicará su denominación, sustentada en el reconocimiento a la diversidad cultural del Estado; y diseñará las estrategias y programas indispensables para su ejercicio, incrementando el impacto clínico de los servicios de salud.
+
+La Secretaría de Salud será también la encargada de establecer las formas de supervisión de la medicina tradicional, para que se lleve a cabo de acuerdo a los lineamientos que establece la Ley de Salud del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 44 Ter.
+
+La Secretaría de Salud y la Secretaría de Educación generarán información sobre la eficacia terapéutica de la medicina tradicional, su concordancia con los programas sanitarios vigentes y su disponibilidad; para coadyuvar a la atención de la salud con base en las necesidades terapéuticas de los pacientes, más allá de la dimensión científica y tecnológica, incorporando la dimensión sociocultural de los pacientes.
 
 ## Título Sexto. De las mujeres, niños y adultos mayores
 
@@ -585,7 +611,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 21 DE ENERO DE 2011.
 
@@ -612,3 +638,11 @@ P.O. 5 DE FEBRERO DE 2016.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, LEY DE SALUD DEL ESTADO DE QUERÉTARO Y LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
