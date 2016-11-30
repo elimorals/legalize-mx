@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-atencion-y-proteccion-a-victimas-u-ofendidos-del-52078"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-21"
-last_updated: "2016-06-11"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "CHH"
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE NOVIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 915/2015 II P.O. PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 21 de octubre del 2006.
 
