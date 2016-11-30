@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-tecnica-del-gabinete-41198
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-29"
-last_updated: "2004-09-29"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA TECNICA DEL GABINETE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA TECNICA DEL GABINETE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA TÉCNICA DEL GABINETE, PUBLICADO EN LA G.G. DE 30 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA TÉCNICA DEL GABINETE
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE NOVIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 29 de septiembre de 2004.
 
@@ -272,3 +274,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA TÉCNICA DEL GABINETE".]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría Técnica del Gabinete, publicado en el Periódico Oficial "Gaceta del Gobierno" el 29 de septiembre de 2004.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento jurídico.
