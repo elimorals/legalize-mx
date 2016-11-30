@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-10-19"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1597,7 +1597,9 @@ DIVORCIO INCAUSADO. Es la disolución del vínculo matrimonial, solicitada por c
 
 DIVORCIO VOLUNTARIO. Es la disolución del vínculo matrimonial, solicitada por ambos cónyuges a la autoridad judicial, manifestando su voluntad de no querer continuar con el matrimonio.
 
-DIVORCIO ADMINISTRATIVO. Es la disolución del vínculo matrimonial, solicitada por ambos cónyuges al Oficial del Registro Civil, manifestando su voluntad de no querer continuar con el matrimonio, debiendo acreditar los requisitos exigidos por la Ley.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+DIVORCIO ADMINISTRATIVO. Es la disolución del vínculo matrimonial, solicitada por ambos cónyuges ante el Oficial del Registro Civil o Notario Público del estado de Morelos, manifestando su voluntad de no querer continuar con el matrimonio, debiendo acreditar los requisitos exigidos por la Ley.
 
 ###### ARTÍCULO 175.
 
@@ -6430,3 +6432,13 @@ P.O. 19 DE OCTUBRE DE 2016.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMA EL CUARTO PÁRRAFO, DEL ARTÍCULO 174 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, SE REFORMA EL ARTÍCULO 503 Y SE ADICIONA UN 503 BIS AL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, ASÍ COMO SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 29 DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que contravengan lo dispuesto en el presente Decreto.
