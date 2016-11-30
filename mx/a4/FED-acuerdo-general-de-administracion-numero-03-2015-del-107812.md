@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-03-2015-del-107812"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-15"
-last_updated: "2016-05-16"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107812&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-05-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO 03/2015 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REDEFINE LA ESTRUCTURA ORGANICA Y FUNCIONAL DE SU ADMINISTRACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, DEL VEINTICUATRO DE NOVIEMBRE DE DOS MIL DIECISÉIS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE QUINCE DE MAYO DE DOS MIL QUINCE, Y SE DEROGAN LOS ACUERDOS GENERALES DE ADMINISTRACIÓN 1/2015, DEL QUINCE DE ENERO DE DOS MIL QUINCE, 3/2015, DEL SEIS DE MAYO DEL MISMO AÑO, Y 1/2016, DE SEIS DE MAYO DE DOS MIL DIECISÉIS, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 03/2015 DE SEIS DE MAYO DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REDEFINE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE SU ADMINISTRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016 (DEROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2015.
 
@@ -256,3 +258,21 @@ Artículo Quinto. La Oficialía Mayor llevará a cabo las acciones administrativ
 Artículo Sexto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
 
 Artículo Séptimo. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación y al Acuerdo General de Administración número 03/2015, a fin de que el contenido de éstos se encuentren debidamente actualizados, en el portal de este Alto Tribunal, así como en todo tipo de publicaciones.
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, DEL VEINTICUATRO DE NOVIEMBRE DE DOS MIL DIECISÉIS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE QUINCE DE MAYO DE DOS MIL QUINCE, Y SE DEROGAN LOS ACUERDOS GENERALES DE ADMINISTRACIÓN 1/2015, DEL QUINCE DE ENERO DE DOS MIL QUINCE, 3/2015, DEL SEIS DE MAYO DEL MISMO AÑO, Y 1/2016, DE SEIS DE MAYO DE DOS MIL DIECISÉIS” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Se derogan los acuerdos 1/2015, del quince de enero de dos mil quince, 3/2015, del seis de mayo del mismo año, y 1/2016, de seis de mayo de dos mil dieciséis, expedidos por el Presidente de la Suprema Corte de Justicia de la Nación.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, DEL VEINTICUATRO DE NOVIEMBRE DE DOS MIL DIECISÉIS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE QUINCE DE MAYO DE DOS MIL QUINCE, Y SE DEROGAN LOS ACUERDOS GENERALES DE ADMINISTRACIÓN 1/2015, DEL QUINCE DE ENERO DE DOS MIL QUINCE, 3/2015, DEL SEIS DE MAYO DEL MISMO AÑO, Y 1/2016, DE SEIS DE MAYO DE DOS MIL DIECISÉIS
+
+Artículo Primero. El presente Acuerdo General entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Además de las expresamente señaladas, se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
+
+Artículo Tercero. La Oficialía Mayor llevará a cabo las acciones administrativas conducentes para la instrumentación del presente Acuerdo General.
+
+Artículo Cuarto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+Artículo Quinto. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, a fin de que el contenido de éste se encuentre debidamente actualizado, dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
