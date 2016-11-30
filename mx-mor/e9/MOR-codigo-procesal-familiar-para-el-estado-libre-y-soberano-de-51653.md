@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-08-17"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1475,7 +1475,9 @@ Si se trata de persona moral en el domicilio social, y en sus oficinas o princip
 
 El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarlo, comprobar su personalidad en caso de representación y demás particulares;
 
-III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
+III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado.
+
+La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
 
 IV. Cuando la persona a quien deba emplearse radique dentro de la República, pero fuera del Estado de Morelos, y fuere conocido su domicilio, el emplazamiento se le hará por despacho o exhorto de acuerdo con la forma prevista en el capítulo anterior. Si una vez despachado el exhorto sobreviniere un cambio de domicilio de la persona a quien se pretende emplazar, dentro de la jurisdicción del juez requerido, éste se entenderá facultado para hacer el emplazamiento en el nuevo domicilio, sin necesidad de nuevo exhorto basando que así lo pida la parte interesada ente (sic) el juez exhortado;
 
@@ -4211,29 +4213,67 @@ COPIA DE LA SENTENCIA EJECUTORIADA DE DIVORCIO AL REGISTRO CIVIL. Ejecutoriada l
 
 EL DIVORCIO ADMINISTRATIVO.- El divorcio administrativo procede a petición expresa de los cónyuges casados dentro del Estado de Morelos o tengan su domicilio habitual en él, bajo el régimen de separación de bienes o que habiendo tenido algún tipo de sociedad conyugal, ésta se haya liquidado de común acuerdo. Debe tramitarse ante la Oficialía del Registro Civil del lugar donde tuvieron su último domicilio o donde contrajeron matrimonio comprobando con copias certificadas lo siguiente:
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-I. Ser mayores de edad,
+I. Puede tramitarse ante la Oficialía del Registro Civil, o bien, ante Notario Público del estado de Morelos, según sea el caso;
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
 II. No tener hijos en común o teniéndolos sean mayores de 25 años que ya no tengan derecho a recibir alimentos, o siendo menores de 25 no tengan derecho a recibirlos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-Se deberá presenta (sic) además, documento original de certificado médico, en donde conste que la cónyuge no está embarazada.
+III. Se deberá presentar, documento original de certificado médico, en donde conste que la cónyuge no está embarazada, y
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV. El matrimonio que se haya celebrado bajo el régimen de sociedad conyugal, previamente deberá de disolverse y liquidarse en el momento mismo del divorcio mediante convenio que se celebre para tal efecto ante el Notario Público del estado de Morelos, quien tendrá plenas facultades de ley, tanto para declarar disuelto el vínculo matrimonial, como para liquidar los bienes relativos al régimen de sociedad conyugal de dicho matrimonio.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 La Oficialía del Registro Civil correspondiente, previa identificación de los consortes levantará un acta en la que se hará constar la solicitud de divorcio y citará a los cónyuges a que se presenten a ratificarla dentro de los quince días siguientes.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-Si los consortes ratifican, en ese acto se recibirán dos testigos debidamente identificados a quienes les consten los datos manifestados en la solicitud de divorcio y la Oficialía del Registro Civil correspondiente los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el acta de matrimonio y en la de nacimiento.
+Si los consortes ratifican, en ese acto se recibirán dos testigos debidamente identificados a quienes les consten los datos manifestados en la solicitud de divorcio y la Oficialía del Registro Civil, los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el acta de matrimonio y en la de nacimiento.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+En caso de que el divorcio se realice ante Notario Público, éste deberá enviar el instrumento notarial dentro de los tres días hábiles siguientes al Oficial del Registro Civil del lugar en que el matrimonio se efectuó para su inscripción, con el propósito de que realice la anotación marginal en el acta de matrimonio correspondiente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 El divorcio así obtenido, no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de veinticinco años de edad con los que tengan obligación alimentaria o que siendo mayores de esa edad dependen económicamente de los divorciantes o que se acredite fehacientemente que la cónyuge se encontraba embarazada al momento de realizar el trámite de divorcio administrativo, lo mismo sucederá si se acredita que no han liquidado la sociedad conyugal, sufriendo ambos las penas que establezca el código de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+ARTÍCULO 503 BIS. EL DIVORCIO ADMINISTRATIVO ANTE NOTARIO PÚBLICO. El divorcio administrativo, podrá tramitarse ante Notario Público del estado de Morelos que elijan los interesados y se formalizará mediante escritura pública. La petición de divorcio del matrimonio, será presentada por los cónyuges interesados y contendrá como mínimo lo siguiente:
+
+I. Los nombres, apellidos, documento de identidad, edad y residencia de los cónyuges;
+
+II. Que exista mutuo consentimiento de los cónyuges para divorciarse;
+
+III. Copia certificada del acta de matrimonio con fecha máxima de seis meses de expedición;
+
+IV. Declaración por escrito, bajo protesta de decir verdad, de no haber procreado hijos antes y durante el matrimonio, o que, teniéndolos, sean mayores de edad y no sean acreedores alimentarios, en este último caso, deberán exhibir actas de nacimiento de los hijos;
+
+V. Certificado médico en el que se haga constar que la cónyuge no se encuentra embarazada, con fecha de expedición no mayor a 5 días al momento de la solicitud de divorcio, y
+
+VI. Si el matrimonio se contrajo bajo el régimen de sociedad conyugal y durante el matrimonio se adquirieron bienes, derechos, cargas u obligaciones, se presentará el convenio de liquidación de la sociedad conyugal, el cual deberá ser efectuado en ese mismo acto ante el Notario Público del estado de Morelos, en él se establecerá la disolución de la sociedad conyugal y su correspondiente liquidación, en los términos que por mutuo acuerdo decidan ambos cónyuges.
+
+En caso de que los cónyuges solicitantes no hayan obtenido bienes, derechos, cargas u obligaciones susceptibles de liquidación, lo manifestarán bajo protesta de decir verdad, con la salvedad de las penas en que incurrieran en falsedad de declaración.
+
+Se considerará que los interesados han desistido de la solicitud de divorcio ante Notario Público, si transcurre un mes desde la fecha en que el instrumento fue puesto a su disposición, sin que concurran a su otorgamiento.
+
+En el documento notarial de divorcio administrativo, se protocolizará la solicitud, las copias certificadas de los registros civiles, así como el convenio de liquidación de la sociedad conyugal en su caso. El Notario Público procederá a la liquidación de los bienes.
+
+Satisfechos los requisitos sustanciales y formales exigidos en la ley, el Notario Público autorizará el instrumento notarial de divorcio administrativo.
+
+Una vez inscrito el protocolo notarial de divorcio en el Libro de Registro de Gobierno, el Notario Público comunicará dentro de los tres días hábiles siguientes, la inscripción al Oficial del Registro Civil de la Jurisdicción en donde se haya celebrado el matrimonio, quien hará las anotaciones marginales en el Libro de Registro Civil correspondiente, a costa de los interesados.
+
+El trámite del divorcio causará, por concepto de derechos notariales, la tarifa fijada para los actos sin cuantía, y se liquidará con la presentación completa de la respectiva solicitud.
+
+El divorcio administrativo ante notario público, producirá los mismos efectos que el efectuado judicialmente.
 
 ## TÍTULO SÉPTIMO. PETICIÓN DE SEPARACIÓN DE CÓNYUGES
 
@@ -6982,3 +7022,13 @@ SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERA.- Respecto de las personas que hayan contraído matrimonio hasta antes de la entrada en vigor la presente reforma siendo menores de dieciocho años y mediante dispensa, se regirá de acuerdo a las disposiciones legales que se encontraban vigentes a la celebración del mismo.
 
 CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMA EL CUARTO PÁRRAFO, DEL ARTÍCULO 174 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, SE REFORMA EL ARTÍCULO 503 Y SE ADICIONA UN 503 BIS AL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, ASÍ COMO SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 29 DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que contravengan lo dispuesto en el presente Decreto.
