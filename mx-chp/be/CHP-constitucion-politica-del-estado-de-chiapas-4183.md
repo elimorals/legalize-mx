@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2016-08-17"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1577,7 +1577,9 @@ VIII. Atención de los Delitos relacionados con Servidores Públicos.
 
 IX. Secuestro.
 
-X. Contra la Delincuencia Organizada.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+X. Atención de Delitos de Alto Impacto.
 
 Además de las Fiscalías Especiales que cree el Gobernador del Estado o el Consejo de Procuración de Justicia a propuesta del Procurador General de Justicia del Estado, las que tendrán las atribuciones que el propio Consejo determine.
 
@@ -4628,3 +4630,17 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero. Se deberá expedir en un término no mayor a 60 días hábiles siguientes a la publicación del presente Decreto, las adecuaciones necesarias a la normatividad en la materia, a efecto de hacerla acorde al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 021 POR EL QUE SE ESTABLECE LA TRIGÉSIMA SEGUNDA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación (sic) el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Artículo Tercero.- Respecto a los procedimientos penales iniciados en la Fiscalía Especializada Contra la Delincuencia Organizada, con anterioridad a la entrada en vigor del presente Decreto, se estará a lo dispuesto por el artículo tercero transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, publicado en el Diario Oficial de la Federación el 16 de junio de 2016.
+
+Artículo Cuarto.- Los recursos humanos, financieros y materiales que hasta la entrada en vigor del presente decreto, se encontraban asignados a la Fiscalía Especializada Contra la Delincuencia Organizada, pasarán a formar parte de la Fiscalía Especializada para Delitos de Alto Impacto, en términos de la normatividad aplicable.
+
+Artículo Quinto.- Las atribuciones y/o referencias que las disposiciones legales otorgaban a la Fiscalía Especializada Contra la Delincuencia Organizada serán asumidas inmediatamente y se entenderán conferidas a la ahora Fiscalía Especializada para Delitos de Alto Impacto.
