@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2016-01-13"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFISAN"
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 13 DE ENERO DE 2016.
 
@@ -193,6 +193,12 @@ El precio a que se refiere el párrafo anterior, se actualizará en el mes de en
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- En la importación de vehículos en franquicia, de conformidad con el artículo 62, fracción I, de la Ley Aduanera, o con los tratados o acuerdos internacionales suscritos por México, siempre que se cumpla con los requisitos y condiciones que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV.- En la enajenación o importación definitiva de automóviles cuya propulsión sea a través de baterías eléctricas recargables, así como de automóviles eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno.
 
 ###### ARTICULO 9o.
 
@@ -2805,3 +2811,9 @@ fracción II segundo párrafo: $222,032.20 y hasta $281,240.78
 C. Código de claves vehiculares
 
 > <small>N. DE E. VÉASE TARIFAS EN LA SEGUNDA SECCIÓN, PÁGINAS 1 A 112, EN LA TERCERA SECCIÓN, PÁGINAS 1 A 112, EN LA CUARTA SECCIÓN, PÁGINAS 1 A 128 Y EN LA QUINTA SECCIÓN, PÁGINAS 1 A 128 DEL D.O.F. 13 DE ENERO DE 2016.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS”.]
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
