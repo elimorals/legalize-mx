@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2016-05-27"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1505,9 +1505,11 @@ d) Apercibir al cónyuge que corresponda, de que, en caso de desobediencia, se p
 
 e) Fijar el plazo de que dispondrá el solicitante para presentar la demanda o la acusación, que podrá ser hasta de quince días hábiles, contados a partir del día siguiente de efectuada la separación. A juicio del juez, podrá concederse por una sola vez una prórroga por igual plazo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 202.
 
-Además de las disposiciones señaladas en el artículo que antecede, tratándose de violencia familiar, en los casos en que el juez lo considere pertinente, de conformidad con los hechos expuestos, las causales invocadas, las pruebas hasta ese momento exhibidas, los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole y con el fin de salvaguardar la integridad y seguridad de los interesados, podrá decretar las siguientes medidas:
+Además de las disposiciones señaladas en el artículo que antecede, tratándose de violencia familiar, en los casos en que el juez lo considere pertinente, de conformidad con los hechos expuestos, las disposiciones legales aplicables, las pruebas hasta ese momento exhibidas, los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole y con el fin de salvaguardar la integridad y seguridad de los interesados, podrá decretar las siguientes medidas:
 
 a) Ordenar, sin audiencia e inmediatamente, la salida del cónyuge agresor del domicilio donde habita el grupo familiar.
 
@@ -4807,19 +4809,25 @@ Cuando ambos consortes convengan en divorciarse, en los términos del artículo 
 
 ###### Artículo 712.
 
-Hecha la solicitud, citará el Tribunal a los cónyuges y al representante del Ministerio Público, a una junta que se efectuará después de los ocho y antes de los quince días siguientes, donde se identificarán plenamente ante el juez y en la que éste, si asisten ambos cónyuges, los exhortará para procurar su reconciliación.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 713.
 
-Si en la misma junta los cónyuges insistiesen en su propósito de divorciarse y en el convenio que celebraron para tal efecto quedaren bien garantizados los derechos de los hijos menores o incapacitados, el juez, oyendo el parecer del represente ante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+Si en el convenio presentado por los cónyuges quedaren bien garantizados los derechos de los hijos menores o incapacitados, el juez, solicitando el parecer del representante social de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro sobre el mismo, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
 
 ###### Artículo 714.
 
-El cónyuge menor de edad necesita de un tutor especial para solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 715.
 
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 712 y 713, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+Para tal efecto, el juez señalará fecha con el objeto de que ambos solicitantes ratifiquen su interés en divorciarse, así como en las cláusulas del convenio exhibido.
+
+Los cónyuges no pueden hacerse representar por procuradores en la diligencia a que se refiere el párrafo anterior, sino que deben comparecer personalmente y, en su caso, acompañados de tutor especial.
 
 ###### Artículo 716.
 
@@ -4833,9 +4841,11 @@ En caso de que no las acepten, el Tribunal resolverá en la sentencia lo que pro
 
 Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 718.
 
-La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en ambos efectos.
+La sentencia que decrete el divorcio por mutuo consentimiento es inapelable. La que lo niegue, es apelable en el efecto suspensivo.
 
 ###### Artículo 719.
 
@@ -4940,6 +4950,12 @@ La liquidación de los daños y perjuicios se hará en la ejecución de la sente
 Las sentencias definitivas son apelables cuando recaigan en negocios cuyo valor exceda de trescientas veces el salario mínimo general diario vigente en la zona y en aquellos cuyo interés no sea susceptible de calcularse en dinero. En estos casos la relación se admitirá en ambos efectos, salvo cuando la Ley expresamente determine que lo sea solo en efecto devolutivo.
 
 Las sentencias interlocutorias y los autos, sólo son apelables cuando lo sea la sentencia definitiva del juicio, debiendo los segundos tener fuerza de definitivos o disponerlo este Código. La apelación contra estas resoluciones procede sólo en el efecto devolutivo, salvo que exista en contrario disposición expresa de la ley.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 736 Bis.
+
+En cuanto a los juicios de divorcio, la resolución que declara la disolución del vínculo matrimonial, según lo dispuesto en el artículo 247 del Código Civil del Estado de Querétaro, es inapelable.
 
 ###### Artículo 737.
 
@@ -6555,7 +6571,9 @@ Los gastos generales del apeo se harán por el que lo promueva. Los que importen
 
 Se tramitará en vía de jurisdicción voluntaria, con intervención del Ministerio Público, en todo caso:
 
-I. La autorización judicial que soliciten los emancipados por razón del matrimonio para enajenar o gravar bienes inmuebles o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+I. La autorización Judicial que soliciten los emancipados por razón del matrimonio para enajenar o gravar bienes inmuebles o para comparecer en juicio;
 
 II. El permiso para contratar con su marido o para obligarse solidariamente con él o para ser su fiadora, que solicite la mujer casada; y
 
@@ -6565,11 +6583,17 @@ III. La calificación de la excusa de la patria potestad en los casos a que se r
 
 Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad y a tutela, cuando fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos, a juicio del juez o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados, cuando queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al juez determine sobre su custodia.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-En ambos casos, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias respectivas.
+El menor de edad que desee contraer matrimonio puede solicitar al juez determine sobre su custodia.
 
-En el primer caso las diligencias se levantarán a petición de cualquier persona o institución que tenga conocimientos de los hechos.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+No son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias respectivas.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Las diligencias se levantarán a petición de cualquier persona o institución que tenga conocimientos de los hechos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6904,6 +6928,22 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 P.O. 27 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA LOS ARTÍCULOS 598 BIS Y 874 BIS Y DEROGA EL ARTÍCULO 688 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
