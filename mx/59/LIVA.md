@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2013-12-11"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
 
 ÚLTIMA MODIFICACIÓN MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2003.
 
@@ -360,13 +360,15 @@ Para que sea acreditable el impuesto al valor agregado deberán reunirse los sig
 
 I. Que el impuesto al valor agregado corresponda a bienes, servicios o al uso o goce temporal de bienes, estrictamente indispensables para la realización de actividades distintas de la importación, por las que se deba pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0%. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para los fines del impuesto sobre la renta, únicamente se considerará para los efectos del acreditamiento a que se refiere esta Ley, el monto equivalente al impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto al valor agregado que haya pagado con motivo de la importación, en la proporción en la que dichas erogaciones sean deducibles para los fines del impuesto sobre la renta.
 
-Tratándose de inversiones o gastos en períodos preoperativos, se podrá estimar el destino de los mismos y acreditar el impuesto al valor agregado que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley. Si de dicha estimación resulta diferencia de impuesto que no exceda de 10% del impuesto pagado, no se cobrarán recargos, siempre que el pago se efectúe espontáneamente;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II. Que el impuesto al valor agregado haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes fiscales a que se refiere la fracción III del artículo 32 de esta Ley;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+II. Que el impuesto al valor agregado haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes fiscales a que se refiere la fracción III del artículo 32 de esta Ley. Adicionalmente, cuando se trate de actividades de subcontratación laboral en términos de la Ley Federal del Trabajo, el contratante deberá obtener del contratista copia simple de la declaración correspondiente y del acuse de recibo del pago del impuesto, así como de la información reportada al Servicio de Administración Tributaria sobre el pago de dicho impuesto. A su vez, el contratista estará obligado a proporcionar al contratante copia de la documentación mencionada, misma que deberá ser entregada en el mes en el que el contratista haya efectuado el pago. El contratante, para efectos del acreditamiento en el mes a que se refiere el segundo párrafo del artículo 4o. de esta Ley, en el caso de que no recabe la documentación a que se refiere esta fracción deberá presentar declaración complementaria para disminuir el acreditamiento mencionado;
 
 III. Que el impuesto al valor agregado trasladado al contribuyente haya sido efectivamente pagado en el mes de que se trate;
 
@@ -397,6 +399,46 @@ Los contribuyentes que efectúen el acreditamiento en los términos previstos en
 A las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 5o.-B de esta Ley, no les será aplicable el procedimiento establecido en el primer párrafo de este numeral.
 
 4. Cuando las inversiones a que se refieren los numerales 1 y 2 de este inciso dejen de destinarse en forma exclusiva a las actividades previstas en dichos numerales, en el mes en el que ello ocurra, se deberá aplicar el ajuste previsto en el artículo 5o.-A de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+VI. Tratándose de gastos e inversiones en periodos preoperativos el impuesto al valor agregado trasladado y el pagado en la importación que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%, será acreditable en la proporción y en los términos establecidos en esta Ley, conforme a las opciones que a continuación se mencionan:
+
+a) Realizar el acreditamiento en la declaración correspondiente al primer mes en el que el contribuyente realice las actividades mencionadas, en la proporción y en los términos establecidos en esta Ley. Para estos efectos, el contribuyente podrá actualizar las cantidades del impuesto que proceda acreditar en cada uno de los meses durante el periodo preoperativo, por el periodo comprendido desde el mes en el que se le haya trasladado el impuesto o haya pagado el impuesto en la importación hasta el mes en el que presente la declaración a que se refiere este inciso.
+
+b) Solicitar la devolución del impuesto que corresponda en el mes siguiente a aquél en el que se realicen los gastos e inversiones, conforme a la estimativa que se haga de la proporción en que se destinarán dichos gastos e inversiones a la realización de actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%, respecto del total de actividades a realizar. En caso de que se ejerza esta opción, se deberá presentar a la autoridad fiscal, conjuntamente con la primera solicitud de devolución, lo siguiente:
+
+1. La estimación y descripción de los gastos e inversiones que se realizarán en el periodo preoperativo, así como una descripción de las actividades que realizará el contribuyente. Para estos efectos, se deberán presentar, entre otros documentos, los títulos de propiedad, contratos, convenios, autorizaciones, licencias, permisos, avisos, registros, planos y licitaciones que, en su caso, sean necesarios para acreditar que se llevarán a cabo las actividades.
+
+2. La estimación de la proporción que representará el valor de las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%, respecto del total de actividades a realizar.
+
+3. Los mecanismos de financiamiento para realizar los gastos e inversiones.
+
+4. La fecha estimada para realizar las actividades objeto de esta Ley, así como, en su caso, el prospecto o proyecto de inversión cuya ejecución dará lugar a la realización de las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%.
+
+La información a que se refiere este inciso deberá presentarse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
+Cuando se ejerza cualquiera de las opciones a que se refieren los incisos a) o b) de esta fracción, el contribuyente deberá calcular en el doceavo mes, contado a partir del mes inmediato posterior a aquél en el que el contribuyente inició actividades, la proporción en la que el valor de las actividades por las que se pagó el impuesto al valor agregado o a las que se aplicó la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente haya realizado en los doce meses anteriores a dicho mes y compararla contra la proporción aplicada para acreditar el impuesto que le fue trasladado o el pagado en la importación en los gastos e inversiones realizados en el periodo preoperativo, conforme a los incisos a) o b) de esta fracción, según se trate.
+
+Cuando de la comparación a que se refiere el párrafo anterior, la proporción aplicada para acreditar el impuesto correspondiente a los gastos o inversiones realizados en el periodo preoperativo se modifique en más del 3%, se deberá ajustar dicho acreditamiento en la forma siguiente:
+
+1. Cuando disminuya la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente deberá reintegrar el acreditamiento efectuado en exceso, actualizado desde el mes en el que se realizó el acreditamiento o se obtuvo la devolución y hasta el mes en el que se haga el reintegro. En este caso, el monto del acreditamiento en exceso será la cantidad que resulte de disminuir del monto del impuesto efectivamente acreditado en el mes de que se trate, la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en los gastos e inversiones en el citado mes.
+
+2. Cuando aumente la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente podrá incrementar el acreditamiento realizado, actualizado desde el mes en el que se realizó el acreditamiento o se obtuvo la devolución y hasta el doceavo mes, contado a partir del mes en el que se iniciaron las actividades. En este caso, el monto del acreditamiento a incrementar será la cantidad que resulte de disminuir de la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en los gastos e inversiones en el mes de que se trate, el monto del impuesto efectivamente acreditado en dicho mes.
+
+El reintegro o el incremento del acreditamiento, que corresponda de conformidad con los numerales 1 y 2, del párrafo anterior, según se trate, deberá realizarse en el mes en el que se calcule la proporción a que se refiere el párrafo segundo de esta fracción, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
+Para los efectos de esta Ley, se entenderá como periodo preoperativo aquél en el que se realizan gastos e inversiones en forma previa al inicio de las actividades de enajenación de bienes, prestación de servicios independientes u otorgamiento del uso o goce temporal de bienes, a que se refiere el artículo 1o. de la presente Ley. Tratándose de industrias extractivas comprende la exploración para la localización y cuantificación de nuevos yacimientos susceptibles de explotarse.
+
+Para los efectos de esta fracción, el periodo preoperativo tendrá una duración máxima de un año, contado a partir de que se presente la primera solicitud de devolución del impuesto al valor agregado, salvo que el interesado acredite ante la autoridad fiscal que su periodo preoperativo tendrá una duración mayor conforme al prospecto o proyecto de inversión cuya ejecución dará lugar a la realización de las actividades gravadas por esta Ley.
+
+En el caso de que no se inicien las actividades gravadas por esta Ley una vez transcurrido el periodo preoperativo a que se refiere el párrafo anterior, se deberá reintegrar el monto de las devoluciones que se hayan obtenido, actualizado desde el mes en el que se obtuvo la devolución y hasta el mes en el que se efectúe dicho reintegro. Además, se causarán recargos en los términos del artículo 21 del Código Fiscal de la Federación sobre las cantidades actualizadas. Lo dispuesto en este párrafo se aplicará sin perjuicio del derecho del contribuyente a realizar el acreditamiento del impuesto trasladado o el pagado en la importación en el periodo preoperativo, cuando inicie las actividades por las que deba pagar el impuesto que establece esta Ley o a las que se aplique la tasa del 0%, conforme a lo establecido en el inciso a) de esta fracción.
+
+Tratándose de la industria extractiva no se aplicará lo dispuesto en el párrafo anterior cuando por causas ajenas a la empresa la extracción de los recursos asociados a los yacimientos no sea factible o cuando por circunstancias económicas no imputables a la empresa resulte incosteable la extracción de los recursos mencionados. Cuando la empresa deje de realizar las actividades previas a la extracción comercial regular de los recursos asociados a los yacimientos por causas diversas a las mencionadas, deberá reintegrar, en el mes inmediato posterior a aquél en que dejó de realizar las actividades mencionadas, el impuesto al valor agregado que le haya sido devuelto. El reintegro del impuesto deberá actualizarse desde el mes en que se obtuvo la devolución y hasta el mes en que realice el reintegro.
+
+Las actualizaciones a que se refiere esta fracción, deberán calcularse aplicando el factor de actualización que se obtenga de conformidad con el artículo 17-A del Código Fiscal de la Federación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -442,7 +484,27 @@ La actualización a que se refiere el presente artículo deberá calcularse apli
 
 Los contribuyentes, en lugar de aplicar lo previsto en el artículo 5o., fracción V, incisos c) y d), numeral 3 y en el artículo 5o.-A de esta Ley, podrán acreditar el impuesto al valor agregado que les haya sido trasladado al realizar erogaciones por la adquisición de bienes, adquisición de servicios o por el uso o goce temporal de bienes o el pagado en su importación, en la cantidad que resulte de aplicar al impuesto mencionado la proporción que el valor de las actividades por las que se deba pagar el impuesto o a las que se les aplique la tasa de 0%, correspondientes al año de calendario inmediato anterior al mes por el que se calcula el impuesto acreditable, represente en el valor total de las actividades, realizadas por el contribuyente en dicho año de calendario.
 
-Durante el año de calendario en el que los contribuyentes inicien las actividades por las que deban pagar el impuesto que establece esta Ley y en el siguiente, la proporción aplicable en cada uno de los meses de dichos años se calculará considerando los valores mencionados en el párrafo anterior, correspondientes al período comprendido desde el mes en el que se iniciaron las actividades y hasta el mes por el que se calcula el impuesto acreditable.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+Durante el año de calendario en el que los contribuyentes inicien las actividades por las que deban pagar el impuesto que establece esta Ley y en el siguiente, la proporción aplicable en cada uno de los meses de dichos años se calculará considerando los valores mencionados en el párrafo anterior, correspondientes al periodo comprendido desde el mes en el que se iniciaron las actividades y hasta el mes por el que se calcula el impuesto acreditable. Tratándose de inversiones, el impuesto acreditable se calculará tomando en cuenta la proporción del periodo mencionado y deberá efectuarse un ajuste en el doceavo mes, contado a partir del mes inmediato posterior a aquél en el que el contribuyente inició actividades, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria. Para ello, se deberá considerar la proporción correspondiente al periodo de los primeros doce meses de actividades del contribuyente, misma que se comparará con la proporción inicialmente aplicada al impuesto trasladado o pagado en la importación de la inversión realizada. En caso de existir una modificación en más del 3%, se deberá ajustar dicho acreditamiento en la forma siguiente:
+
+I. Cuando disminuya la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente deberá reintegrar el acreditamiento efectuado en exceso, actualizado desde el mes en el que se realizó el acreditamiento y hasta el mes en el que se haga el reintegro. En este caso, el monto del acreditamiento en exceso será la cantidad que resulte de disminuir del monto del impuesto efectivamente acreditado en el mes de que se trate, la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en las inversiones realizadas en el citado mes.
+
+II. Cuando aumente la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente podrá incrementar el acreditamiento realizado, actualizado desde el mes en el que se realizó el acreditamiento y hasta el doceavo mes, contado a partir del mes en el que se iniciaron las actividades. En este caso, el monto del acreditamiento a incrementar será la cantidad que resulte de disminuir de la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en las inversiones en el mes de que se trate, el monto del impuesto efectivamente acreditado en dicho mes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+La actualización a que se refieren las fracciones I y II del párrafo anterior, deberá calcularse aplicando el factor de actualización que se obtenga de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+El reintegro o el incremento del acreditamiento, que corresponda de conformidad con las fracciones I y II del párrafo segundo de este artículo, según se trate, deberá realizarse en el mes en el que deba efectuarse el ajuste del acreditamiento a que se refiere dicho párrafo, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
 Los contribuyentes que ejerzan la opción prevista en este artículo deberán aplicarla respecto de todas las erogaciones por la adquisición de bienes, adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto al valor agregado o a las que se les aplique la tasa de 0%, en un período de sesenta meses, contados a partir del mes en el que se haya realizado el acreditamiento en los términos del presente artículo.
 
@@ -938,9 +1000,9 @@ II.- Inmuebles destinados o utilizados exclusivamente para casa-habitación. Si 
 
 III.- Fincas dedicadas o utilizadas sólo a fines agrícolas o ganaderos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO]</small>
 
-IV.- Bienes tangibles cuyo uso o goce sea otorgado por residentes en el extranjero sin establecimiento permanente en territorio nacional, por los que se hubiera pagado el impuesto en los términos del artículo 24 de esta Ley.
+IV.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
 V.- Libros, periódicos y revistas.
 
@@ -988,7 +1050,11 @@ II.- La adquisición por personas residentes en el país de bienes intangibles e
 
 III.- El uso o goce temporal, en territorio nacional, de bienes intangibles proporcionados por personas no residentes en el país.
 
-IV.- El uso o goce temporal, en territorio nacional, de bienes tangibles cuya entrega material se hubiera efectuado en el extranjero.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV. El uso o goce temporal, en territorio nacional, de bienes tangibles cuya entrega material se hubiera efectuado en el extranjero. Lo dispuesto en esta fracción no será aplicable cuando se trate de bienes por los que se haya pagado efectivamente el impuesto al valor agregado por su introducción al país. No se entiende efectivamente pagado el impuesto cuando éste se realice mediante la aplicación de un crédito fiscal.
 
 V.- El aprovechamiento en territorio nacional de los servicios a que se refiere el artículo 14, cuando se presten por no residentes en el país. Esta fracción no es aplicable al transporte internacional.
 
@@ -1060,7 +1126,11 @@ III.- Tratándose de los casos previstos en las fracciones II a IV del artículo
 
 Cuando se pacten contraprestaciones periódicas, se atenderá al momento en que se pague cada contraprestación.
 
-IV.- En el caso de aprovechamiento en territorio nacional de servicios prestados en el extranjero se estará a los términos del artículo 17 de esta Ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV. En el caso de aprovechamiento en territorio nacional de servicios prestados en el extranjero, en el momento en el que se pague efectivamente la contraprestación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1076,9 +1146,11 @@ Para calcular el impuesto al valor agregado tratándose de importación de biene
 
 Tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, para calcular el impuesto al valor agregado se considerará el valor en aduana a que se refiere la Ley Aduanera, adicionado del monto de las contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva.
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II, III y V del artículo 24, será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II, III, IV y V del artículo 24, será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1178,6 +1250,42 @@ g).- Filmación o grabación, siempre que cumplan con los requisitos que al efec
 
 h).- Servicio de atención en centros telefónicos de llamadas originadas en el extranjero, que sea contratado y pagado por un residente en el extranjero sin establecimiento permanente en México.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+i) Servicios de tecnologías de la información siguientes:
+
+1. Desarrollo, integración y mantenimiento de aplicaciones informáticas o de sistemas computacionales.
+
+2. Procesamiento, almacenamiento, respaldos de información, así como la administración de bases de datos.
+
+3. Alojamiento de aplicaciones informáticas.
+
+4. Modernización y optimización de sistemas de seguridad de la información.
+
+5. La continuidad en la operación de los servicios anteriores.
+
+Lo previsto en este inciso será aplicable siempre que las empresas cumplan con lo siguiente:
+
+1. Utilicen en su totalidad infraestructura tecnológica, recursos humanos y materiales, ubicados en territorio nacional.
+
+2. Que la dirección IP de los dispositivos electrónicos a través de los cuales se prestan los servicios, así como la de su proveedor del servicio de Internet se encuentren en territorio nacional y que la dirección IP de los dispositivos electrónicos del receptor del servicio y la de su proveedor del servicio de Internet se encuentren en el extranjero.
+
+Para efectos de esta Ley se considera como dirección IP al identificador numérico único formado por valores binarios asignado a un dispositivo electrónico. Dicho identificador es imprescindible para que los dispositivos electrónicos se puedan conectar, anunciar y comunicar a través del protocolo de Internet. El identificador permite ubicar la localización geográfica del dispositivo.
+
+3. Consignen en el comprobante fiscal el registro o número fiscal del residente en el extranjero que contrató y pagó el servicio, sin perjuicio de los demás requisitos que deban cumplir de conformidad con las disposiciones fiscales.
+
+4. Que el pago se realice a través de medios electrónicos y provenga de cuentas de instituciones financieras ubicadas en el extranjero, mismo que deberá realizarse a una cuenta del prestador del servicio en instituciones de crédito en México.
+
+Las obligaciones mencionadas en los numerales anteriores deberán cumplirse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
+Los servicios de tecnologías de la información previstos en este inciso no se considerarán exportados en los supuestos siguientes:
+
+1. Cuando para proporcionar dichos servicios se utilicen redes privadas virtuales. Para los efectos de esta Ley se considera como red privada virtual la tecnología de red que permite una extensión de una red local sobre una red pública, creando una conexión privada segura a través de una red pública y admitiendo la conexión de usuarios externos desde otro lugar geográfico de donde se encuentre el servidor o los aplicativos de la organización.
+
+2. Cuando los servicios se proporcionen, recaigan o se apliquen en bienes ubicados en el territorio nacional.
+
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 V.- La transportación internacional de bienes prestada por residentes en el país y los servicios portuarios de carga, descarga, alijo, almacenaje, custodia, estiba y acarreo dentro de los puertos e instalaciones portuarias, siempre que se presten en maniobras para la exportación de mercancías.
@@ -1276,9 +1384,11 @@ VI.- Las personas que efectúen de manera regular las retenciones a que se refie
 
 VII.- Proporcionar la información que del impuesto al valor agregado se les solicite en las declaraciones del impuesto sobre la renta.
 
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VIII.- Proporcionar mensualmente a las autoridades fiscales, a través de los medios y formatos electrónicos que señale el Servicio de Administración Tributaria, la información correspondiente sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, desglosando el valor de los actos o actividades por tasa a la cual trasladó o le fue trasladado el impuesto al valor agregado, incluyendo actividades por las que el contribuyente no está obligado al pago, dicha información se presentará, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+VIII. Proporcionar mensualmente a las autoridades fiscales, a través de los medios y formatos electrónicos que señale el Servicio de Administración Tributaria, la información correspondiente sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, desglosando el valor de los actos o actividades por tasa a la cual trasladó o le fue trasladado el impuesto al valor agregado, incluyendo actividades por las que el contribuyente no está obligado al pago, dicha información se presentará, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información. Tratándose de operaciones de subcontratación laboral, el contratista deberá informar al citado órgano administrativo desconcentrado la cantidad del impuesto al valor agregado que le trasladó en forma específica a cada uno de sus clientes, así como el que pagó en la declaración mensual respectiva.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2273,6 +2383,22 @@ III. Lo dispuesto en los artículos 24, fracción I, segundo y tercer párrafos;
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2014.
 
 Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO Y TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS.]</small>
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
+Artículo Cuarto.- En relación con las modificaciones a las que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
+
+I. Para los efectos de lo dispuesto en el artículo 5o., fracción VI de la Ley del Impuesto al Valor Agregado, el acreditamiento del impuesto en el periodo preoperativo correspondiente a los gastos e inversiones realizados hasta el 31 de diciembre de 2016, deberá efectuarse conforme a las disposiciones vigentes hasta dicha fecha, siempre que a la fecha mencionada cumplan con los requisitos que para la procedencia del acreditamiento establece la Ley del Impuesto al Valor Agregado.
+
+II. Para los efectos de lo dispuesto en el artículo 5o.-B, párrafos segundo, tercero y cuarto de la Ley del Impuesto al Valor Agregado, el ajuste del acreditamiento será aplicable a las inversiones que se realicen a partir del 1 de enero de 2017.
+
+## Transitorio
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
