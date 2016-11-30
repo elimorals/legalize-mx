@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2016-10-31"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -1079,6 +1079,28 @@ VII. Ingresos provenientes de organizaciones descentralizadas o de participació
 
 VIII. Otros aprovechamientos no especificados.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 129 Bis.
+
+Los turistas extranjeros que ingresen al Estado pagarán el aprovechamiento a que se refiere el presente Artículo por el uso y aprovechamiento de obras que realiza el Estado destinadas a infraestructura sobre bienes de dominio público y por la prestación de servicios en el ejercicio de sus funciones de derecho público, tendientes a prevenir, mitigar o compensar las alteraciones o afectaciones a éstas.
+
+Es sujeto de este aprovechamiento todo visitante extranjero con fines turísticos que ingrese al Estado de Baja California Sur y permanezca por más de 24 horas en el Estado. Para efectos de este aprovechamiento se entiende por turista lo establecido en el artículo 3 de la Ley General de Turismo.
+
+El aprovechamiento se fijará a razón de una cuota de $350.00 pesos, misma que será actualizada anualmente el primero de enero de cada año, considerando el periodo comprendido desde el decimotercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización. Para tal efecto, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo del periodo.
+
+El presente aprovechamiento se causará al momento en que el visitante extranjero con fines turísticos ingrese al territorio del Estado.
+
+Tratándose de visitantes extranjeros con fines turísticos que ingresen al Estado vía aérea, el aprovechamiento previsto en el primer párrafo, deberá ser recaudado y enterado por las empresas de transporte aéreo de pasajeros.
+
+Por lo que se refiere a los visitantes extranjeros con fines turísticos que ingresen al Estado vía marítima, el aprovechamiento deberá ser recaudado y enterado por la Administración Portuaria Integral.
+
+Tratándose de visitantes extranjeros con fines turísticos que ingresen al Estado en medios distintos al aéreo y marítimo, el aprovechamiento será recaudado y enterado por las personas físicas o morales que presten servicios de hospedaje en hoteles, moteles, casas de huéspedes, campamentos, paradero de casas rodantes, establecimientos de tiempo compartido o cualquier otra instalación utilizada de manera ocasional o permanente, de manera directa o a través de operadores turísticos, intermediarios, representantes, o como se les designe.
+
+Los prestadores de servicio señalados en los párrafos que anteceden, deberán enterar el pago del aprovechamiento en las oficinas o instituciones que esta ley prevé en su artículo 4, a más tardar el día 15 del mes siguiente a aquel en que se causó.
+
+La Secretaría de Finanzas y Administración a través de Reglas de Carácter General determinará el mecanismo en que se deberá enterar el aprovechamiento referido.
+
 ## Título Séptimo. De las participaciones e incentivos federales
 
 ### Capítulo Único
@@ -1246,3 +1268,13 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2382 SE ADICIONA EL ARTÍCULO 129 BIS A LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Secretaría de Finanzas y Administración, dentro del término de 180 días naturales, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberá emitir las reglas de carácter general en las que se determine la forma en que se recaudará y enterará el aprovechamiento materia de este Decreto.
+
+TERCERO.- El aprovechamiento señalado en el presente Decreto, se empezará a causar a partir de los 30 días naturales siguientes a aquel en que sean publicadas en el Boletín Oficial del Gobierno del Estado de Baja California Sur, las reglas de carácter general a que se refiere el Artículo Transitorio anterior.
