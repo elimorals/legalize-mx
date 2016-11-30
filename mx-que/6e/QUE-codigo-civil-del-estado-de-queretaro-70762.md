@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2015-10-29"
+last_updated: "2016-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -811,7 +811,9 @@ II. Si son mayores o menores de edad;
 
 III. Los nombres, apellidos, ocupación y domicilio de los padres;
 
-IV. El consentimiento de éstos, de los abuelos o tutores o de las autoridades que deban suplirlo, si los contrayentes son menores de edad;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV. El consentimiento de la autoridad cuando los contrayentes sean menores de edad;
 
 V. Que no hubo impedimento para el matrimonio o que este se dispensó;
 
@@ -1079,21 +1081,23 @@ El matrimonio tiene como fin la creación de una comunidad íntima de vida entre
 
 Artículo 139 bis. Las personas que pretendan contraer matrimonio deberán acudir ante el Oficial del Registro Civil del domicilio correspondiente, para que les sean impartidas asesorías en materia de violencia familiar, derechos y obligaciones del matrimonio y de los hijos, mismas que deberán ser proporcionadas antes de que los pretendientes contraigan matrimonio.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 140.
 
-Para contraer matrimonio, el hombre y la mujer necesitan haber cumplido 18 años. Los jueces competentes pueden conceder dispensa de edad, por causa justificada, hasta un mínimo de 16 años.
+Para contraer matrimonio, ambos contrayentes deberán tener 18 años cumplidos. Los jueces competentes, basándose en motivos excepcionales pueden permitir el matrimonio de menores de 18 años, siempre y cuando tengan como mínimo 16 años de edad.
 
 ###### Artículo 141.
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieran ambos o del que sobreviva. Este derecho lo tiene el progenitor a cuyo lado vive el hijo, aunque haya contraído segundas nupcias. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos maternos o paternos, en caso de que faltare alguno de ellos, por el que sobreviva.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 142.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el juez competente de la residencia del menor, podrá otorgar la autorización para que contraiga matrimonio.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 143.
 
-Los interesados pueden ocurrir al juez competente respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. El juez, después de levantar una información sobre el particular, podrá otorgar la autorización para que contraigan matrimonio.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 144.
 
@@ -1101,11 +1105,11 @@ Si el juez se niega a otorgar la autorización para que se celebre un matrimonio
 
 ###### Artículo 145.
 
-El ascendiente o tutor que ha prestado su consentimiento, firmado la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlos después, a menos que haya justa causa para ello.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 146.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre éste, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del plazo de treinta días hábiles.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 147.
 
@@ -1119,7 +1123,9 @@ Son impedimentos para celebrar matrimonio:
 
 I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
-II. La falta de consentimiento del que o de los que ejerzan la patria potestad, del tutor o del juez en sus respectivos casos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+II. La falta de consentimiento del juez;
 
 III. El parentesco de consanguinidad sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1245,9 +1251,11 @@ Si se trata de disolución de sociedad conyugal o del régimen de comunidad de b
 
 Las capitulaciones matrimoniales pueden comprender bienes determinados que sean propiedad de los esposos al momento de realizar el pacto y todos los que adquieran a partir del mismo.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 168.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio, u obtiene la autorización judicial si las capitulaciones se pactan después de celebrado el matrimonio.
+El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones después de celebrado el matrimonio las cuales serán válidas si se obtiene la autorización judicial.
 
 ###### Artículo 169.
 
@@ -1473,9 +1481,11 @@ Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño,
 
 Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 211.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con la intervención de sus padres o tutores o con aprobación judicial.
+Los menores pueden hacer donaciones antenupciales, siempre y cuando exista aprobación judicial.
 
 ###### Artículo 212.
 
@@ -1523,27 +1533,27 @@ II. Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho 
 
 ###### Artículo 219.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquellos a quienes tocaba prestar dicho consentimiento y dentro, de noventa días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 220.
 
-Cesa esta causa de nulidad:
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
-I. Si han pasado los noventa días sin que se haya pedido; y
-
-II. Si dentro de este plazo, el ascendiente ha consentido expresamente en el matrimonio o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como habida dentro del matrimonio al Registro Civil o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 221.
 
-La nulidad por falta de consentimiento del tutor o el juez, podrá pedirse dentro del plazo de treinta días por cualquiera de los cónyuges o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+La nulidad por falta de consentimiento del juez, podrá pedirse dentro del plazo de treinta días por cualquiera de los cónyuges; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la autorización judicial, confirmando el matrimonio.
 
 ###### Artículo 222.
 
 El parentesco de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Juez del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 223.
 
-La acción que nace de esta clase de nulidad, puede ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+La acción que nace de esta clase de nulidad, puede ejercitarse por cualquiera de los cónyuges y por el Ministerio Público.
 
 La acción de nulidad que nace del adulterio, podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio y sólo por el Ministerio Público si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
 
@@ -1675,61 +1685,23 @@ II. Cuando no se ha otorgado la previa dispensa para que el tutor pueda contraer
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 246.
 
-Son causales de divorcio necesario:
+El divorcio podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo solicite ante la autoridad judicial, manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
 
-I. El adulterio debidamente probado de uno de los cónyuges;
-
-II. El hecho de que la mujer de a luz, durante el matrimonio, un hijo concebido antes de celebrarse el contrato y que judicialmente se haya desconocido la paternidad;
-
-III. La propuesta de un cónyuge al otro para prostituirse, no sólo cuando directamente él mismo lo haya hecho, sino cuando se pruebe que ha recibido dinero o cualquier otro tipo de beneficio, con el objeto expreso de permitir que otra persona tenga relaciones sexuales con su cónyuge;
-
-IV. La incitación a la violencia hecha por un cónyuge a otro para cometer algún delito;
-
-V. Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción, ya sea que los hijos sean de ambos, ya de uno sólo de ellos. Para que la tolerancia en la corrupción dé derecho a pedir el divorcio, se debe demostrar que el marido o la mujer conocían los hechos y no hicieron nada por impedirlos;
-
-VI. Padecer cualquier enfermedad crónica o incurable que sea, además, contagiosa o hereditaria;
-
-VII. Padecer enajenación mental incurable, previa declaración de interdicción que se haga respecto del cónyuge que la sufra;
-
-VIII. La separación del hogar conyugal por más de seis meses sin causa justificada;
-
-IX. La separación del hogar conyugal por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-X. La declaración de ausencia legalmente hecha o de la presunción de muerte, en los casos de excepción en que no se necesita para que se haga que proceda la declaración de ausencia;
-
-XI. La sevicia, las amenazas, los golpes o las injurias graves de un cónyuge para el otro o para los hijos;
-
-XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones propias del matrimonio, así como el incumplimiento injustificado de uno de los cónyuges, de la sentencia ejecutoriada, respecto del manejo del hogar, la formación y educación de los hijos y la administración de los bienes que les pertenezcan;
-
-XIII. La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor a dos años de prisión;
-
-XIV. El hecho de que uno de los cónyuges cometa un delito no político, infamante y que merezca prisión mayor a dos años;
-
-XV. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes o estupefacientes, cuando amenazan causar la ruina de la familia o constituyen un continuo motivo de desavenencia conyugal;
-
-XVI. Cometer un cónyuge, contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
-
-XVII. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
-
-XVIII. La negativa injustificada de uno de los cónyuges para tener relaciones sexuales con el otro, así como las prácticas homosexuales de cualquiera de ellos;
-
-XIX. La conducta de violencia familiar cometida o permitida por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos.
-
-Se entiende por violencia familiar la descrita en este Código; y
-
-XX. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 247.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causas que no haya justificado o que hayan resultado insuficientes, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+Verificada la legalidad del emplazamiento, los presupuestos procesales, y transcurrido el plazo para contestar la demanda, el juez decretará, mediante la resolución correspondiente, la disolución del vínculo matrimonial, y se continuará el proceso únicamente respecto de las demás cuestiones controvertidas por las partes.
+
+La resolución que decrete el divorcio a que se refiere el párrafo anterior, es inapelable.
 
 ###### Artículo 248.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
-
-No se observará lo anterior en el caso de adulterio de tracto sucesivo.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 249.
 
@@ -1743,23 +1715,27 @@ El oficial del Registro Civil, previa identificación de los consortes, levantar
 
 El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad y no han liquidado su sociedad conyugal.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 252.
 
-Los consortes que no puedan divorciarse de manera administrativa, podrán hacerlo por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles, en cuyo caso están obligados a presentar al juzgado un convenio en que se fijen los siguientes puntos:
+Los consortes que no puedan divorciarse de manera administrativa podrán hacerlo voluntariamente, ocurriendo al juez competente en los términos del Título Décimo Segundo del Código de Procedimientos Civiles del Estado, en cuyo caso están obligados a presentar al juzgado un convenio en que se fijen los siguientes puntos:
 
-I. Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+I. Designación de persona a quien sean confiados los hijos menores del matrimonio o incapaces, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-II. El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+II. El modo de subvenir a las necesidades de los hijos y, en su caso, del cónyuge a quien debe darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III. La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
+III. El domicilio de habitación de cada uno de los cónyuges durante el procedimiento;
 
-IV. La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe otorgarse para asegurarlo; y
+IV. Las modalidades bajo las cuales el progenitor que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descansos y estudio de los hijos;
 
-V. La manera de administrar los bienes de la comunidad durante el procedimiento y de liquidarla después de ejecutoriado el divorcio y, en caso de estimarlo necesario, hacer la designación de liquidadores. A ese efecto, se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+V. La manera de administrar los bienes de la comunidad durante el procedimiento y de liquidarla después de ejecutoriado el divorcio y, en caso de estimarlo necesario, hacer la designación de liquidadores. A ese efecto, se acompañará, en su caso, las capitulaciones matrimoniales, un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad, así como el proyecto de partición; y
+
+VI. Cuando por convenio tácito o expreso, uno de los cónyuges se hubiere dedicado íntegramente la mayor parte de su vida matrimonial al cuidado del hogar o, en su caso, a la atención de los hijos, si los bienes que tengan no sean proporcionales a aquellos obtenidos por el otro cónyuge durante la vigencia del matrimonio, los solicitantes deberán convenir lo relativo a la compensación a que se refiere el artículo 268 de este Código, misma que no podrá ser superior al 50% ni inferior al 10% del valor de la masa patrimonial formada o incrementada durante el matrimonio.
 
 ###### Artículo 253.
 
-El divorcio por mutuo consentimiento tramitado ante autoridad judicial, no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 254.
 
@@ -1767,31 +1743,35 @@ Mientras que se decreta el divorcio, el juez procederá a la separación de los 
 
 ###### Artículo 255.
 
-Tratándose de divorcio voluntario, los cónyuges no podrán volver a solicitar el divorcio por mutuo consentimiento, sino pasado un año desde su reconciliación.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 256.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causales relativas al padecimiento de cualquier enfermedad crónica o incurable contagiosa o hereditaria, o bien, enajenación mental incurable, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge; el juez, con conocimiento de causa, podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 257.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 258.
 
-Ninguna de las causales contempladas para la disolución del vínculo matrimonial pueden alegarse para pedir el divorcio, cuando haya mediado perdón expreso o tácito; no se considera perdón tácito, la mera suscripción de una solicitud de divorcio voluntario, ni los actos procesales posteriores.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 259.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria.
+La reconciliación de los cónyuges pone término a la petición de divorcio en cualquier estado en que se encuentre si aún no hubiere resolución firme.
 
 ###### Artículo 260.
 
-El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, desistirse de la acción y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 261.
 
-Al admitirse la demanda de divorcio o antes si hubiere urgencia, el juez proveerá provisionalmente y sólo mientras dure el juicio, lo siguiente:
+Al admitirse la solicitud de divorcio o antes si hubiere urgencia, el juez proveerá provisionalmente y sólo mientras dure el juicio, lo siguiente:
 
 I. Proceder a la separación de los cónyuges, teniendo en cuenta el interés superior del menor y el interés familiar, determinando cuál de los cónyuges continuará en el uso del domicilio familiar.
 
@@ -1813,7 +1793,9 @@ VI. Decretar las medidas necesarias para evitar que los hijos sean retenidos de 
 
 VII. Determinar lo que proceda para salvaguardar el derecho de los menores a convivir con sus hermanos y demás familiares, atendiendo en todo momento a la integridad física y emocional de los mismos;
 
-VIII. En los casos en que el juez lo considere pertinente, de conformidad con los hechos expuestos, las causales invocadas en la demanda, las pruebas hasta ese momento exhibidas y con el fin de salvaguardar la integridad y seguridad de los interesados, tratándose de violencia familiar, podrán decretarse las siguientes medidas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+VIII. En los casos en que el juez lo considere pertinente, de conformidad con los hechos expuestos y las pruebas hasta ese momento exhibidas, y con el fin de salvaguardar la integridad y seguridad de los interesados, tratándose de violencia familiar, podrán decretarse las siguientes medidas:
 
 a) Ordenar inmediatamente, sin audiencia, la salida del cónyuge agresor de la vivienda donde habita el grupo familiar.
 
@@ -1829,9 +1811,11 @@ f) Las demás que el juez considere necesarias.
 
 El cónyuge afectado podrá inconformarse contra las medidas que se hubieren decretado, en los términos del Capítulo Tercero, Título Quinto, del Código de Procedimientos Civiles del Estado de Querétaro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 262.
 
-La sentencia de divorcio fijará la situación de los hijos menores de edad, para lo cual deberá contener:
+En el procedimiento donde se haya decretado el divorcio, la sentencia que resuelva las demás cuestiones controvertidas planteadas por las partes fijará, en su caso, la situación de los hijos menores de edad, para lo cual deberá contener:
 
 I. Todo lo relativo a los derechos y obligaciones inherentes al ejercicio de la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores. Las convivencias sólo se limitarán cuando exista peligro para los menores;
 
@@ -1841,7 +1825,9 @@ III. Las medidas necesarias para garantizar la convivencia de los hijos con sus 
 
 IV. Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar;
 
-V. Para el caso de mayores incapaces sujetos a la tutela de alguno de los ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo, para su protección; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+V. Para el caso de mayores incapaces sujetos a la tutela de algunos de los ex cónyuges, en la sentencia deberán establecerse las medidas a que se refiere este artículo, para su protección;
 
 VI. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de los hijos menores de edad.
 
@@ -1859,31 +1845,43 @@ El padre y la madre, aunque pierdan el ejercicio de la patria potestad, quedan s
 
 ###### Artículo 265.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se hubiere dado o prometido por su consorte o por otra persona, en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
-Tratándose de las causales consistentes en la existencia de enfermedades crónicas o incurables o enajenación mental incurable, según lo dispuesto en el artículo 246, el cónyuge enfermo podrá conservar lo que se le hubiere dado o reclamar lo pactado en su provecho.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 266.
 
-Ejecutoriado el divorcio se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges y con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a la satisfacción de las necesidades de los hijos, a la subsistencia y a la educación de éstos.
+En el procedimiento donde se haya decretado el divorcio, una vez ejecutoriada la sentencia donde se hayan resuelto las demás cuestiones controvertidas planteadas por las partes, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges y con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a la satisfacción de las necesidades de los hijos, a la subsistencia y a la educación de éstos.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 267.
 
-En los casos de divorcio necesario, el juez, tomando en cuenta las circunstancias del caso, la capacidad para trabajar de los cónyuges y su situación económica, decidirá sobre el pago de alimentos que un cónyuge deberá dar al otro. En los casos de la fracciones VI y VII del artículo 246, el juez fijará la pensión alimenticia que el cónyuge sano deba dar al enfermo.
+En caso de divorcio, el juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, o al cuidado de los hijos, o esté imposibilitado para trabajar o carezca de bienes; para ello, tomará en cuenta las circunstancias siguientes:
 
-En el caso de divorcio por mutuo consentimiento, la mujer tendrá derecho a recibir alimentos, el cual disfrutará si no tiene ingresos suficientes y sólo mientras no contraiga nuevas nupcias o se una en concubinato y viva honestamente.
+I. La edad y el estado de salud de los cónyuges;
 
-El mismo derecho señalado en el párrafo anterior, tendrá el varón que se encuentre imposibilitado para trabajar y carezca de ingresos suficientes, mientras no contraiga nuevas nupcias o se una en concubinato y viva honestamente.
+II. Su calificación profesional y posibilidad de acceso a un empleo;
 
-Cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+III. Duración del matrimonio y dedicación, pasada y futura, a la familia;
+
+IV. Colaboración con su trabajo en las actividades del cónyuge;
+
+V. Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
+
+VI. Las demás obligaciones que tenga el cónyuge deudor.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 268.
 
-En el caso de divorcio necesario, cuando por convenio tácito o expreso, uno de los cónyuges se hubiere dedicado íntegramente la mayor parte de su vida matrimonial al cuidado del hogar o a la atención de los hijos, si careciere de bienes propios tendrá derecho a recibir del otro cónyuge una compensación.
+En el caso de divorcio, cuando por convenio tácito o expreso, uno de los cónyuges se hubiere dedicado íntegramente la mayor parte de su vida matrimonial al cuidado del hogar o, en su caso, a la atención de los hijos, si los bienes que tenga no sean proporcionales a aquellos obtenidos por el otro cónyuge durante la vigencia del matrimonio, tendrá derecho a recibir de este una compensación.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-El monto de la compensación será determinado por el juez al momento de dictar la sentencia del divorcio, tomando en cuenta la masa patrimonial formada o incrementada durante el matrimonio, así como las circunstancias especiales del caso, sin que ésta pueda ser inferior del diez por ciento o exceder el cincuenta por ciento del mismo.
+El monto de la compensación será determinado por el juez dentro del procedimiento donde se haya decretado el divorcio y al momento de dictar la sentencia que resuelva las demás cuestiones controvertidas planteadas por las partes, tomando en cuenta la masa patrimonial formada o incrementada durante el matrimonio, así como las circunstancias especiales del caso, sin que ésta pueda ser inferior al 10% o exceder del 50 % de la misma.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -1901,9 +1899,11 @@ Se presume que el cónyuge que solicite la compensación, contribuyó a la forma
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, conservando el cónyuge supérstite y los herederos del fallecido, los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 272.
 
-Ejecutoriada una sentencia de divorcio, el juez competente remitirá copia de ella a la oficina del Registro Civil donde se celebró el matrimonio, para que levante, en su caso, el acta correspondiente y además para que publique un extracto de la resolución, durante quince días, en los lugares destinados al efecto.
+Ejecutoriada la sentencia de divorcio voluntario o dictada la resolución que decreta el divorcio según lo dispuesto por el artículo 247 del presente Código, el juez competente remitirá copia de ella a la oficina del Registro Civil donde se celebró el matrimonio, para que levante, en su caso, el acta correspondiente y además para que publique un extracto de la resolución, durante quince días, en los lugares destinados al efecto.
 
 Capítulo Decimoprimero
 
@@ -15882,6 +15882,22 @@ P.O. 29 DE OCTUBRE DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO"].
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 ###### ARTÍCULO PRIMERO.
 
