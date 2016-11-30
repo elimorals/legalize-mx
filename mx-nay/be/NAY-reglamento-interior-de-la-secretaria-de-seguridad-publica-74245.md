@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-seguridad-publica-74245
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-15"
-last_updated: "2010-01-15"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el viernes 15 de enero de 2010.
 
@@ -59,7 +59,9 @@ II. Dirección General de la Policía Estatal Preventiva;
 
 III. Dirección General de Tránsito y Transporte;
 
-IV. Dirección General de Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+IV. Dirección General de Prevención y Reinserción Social.
 
 V. Dirección General de Prevención del Delito, Participación Ciudadana y Difusión;
 
@@ -99,11 +101,17 @@ VIII.- Organizar, dirigir, administrar y supervisar la Policía Estatal Preventi
 
 IX.- Celebrar acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento en la administración del servicio para la atención a las víctimas del delito.
 
-X.- Elaborar las políticas de readaptación social de los delincuentes, así como su ejecución y vigilancia.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XI.- Tramitar las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos de conformidad a la normatividad aplicable; acordar lo relativo a la libertad condicional, libertad preparatoria, condena condicional, libertad preliberacional y beneficios, exhortos.
+X.- Elaborar las políticas de reinserción social de conformidad a la Ley Nacional de Ejecución Penal;
 
-XII.- Administrar los Centros de Readaptación Social y Reintegración Social.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XI.- Tramitar y proponer los beneficios Preliberacionales y Traslados de Personas Privadas de su Libertad de conformidad con la Ley Nacional de Ejecución Penal;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XII.- Administrar los Centros de Reinserción Social y Centros de Internamiento para Personas Adolescentes;
 
 XIII.- Determinar, establecer y coordinar las políticas generales de la Secretaría, en congruencia con los objetivos y metas que determine el Gobernador del Estado.
 
@@ -135,9 +143,13 @@ XXVI.- Diseñar, implantar, difundir e impulsar programas preventivos y educativ
 
 XXVII.- Establecer la emisión de normas técnicas para el diseño, implantación y fortalecimiento de la selección, profesionalización y capacitación del personal de seguridad pública, así como el Servicio de (sic) Policial, y conducir a su desarrollo permanente con el fin de lograr una conducta policial basada en los principios de legalidad, eficiencia, profesionalismo y honradez;
 
-XXVIII.- Conducir las políticas, programas y bases para el tratamiento de los individuos que se encuentren en los Centros de Prevención y Readaptación Social, así como establecer, diseñar, conducir e implantar programas y actividades que tengan como fin la readaptación social del procesado o sentenciado durante la ejecución de la sentencia;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XXIX.- Crear, diseñar, implantar, conducir, coordinar y evaluar los programas de reinserción social de reos liberados, disponiendo para ello de todos los mecanismos de concertación y participación social;
+XXVIII.- Conducir las políticas, programas y bases para el tratamiento de los individuos que se encuentren en los Centros de Reinserción Social y Centros de Internamiento para Personas Adolescentes en el Estado, así como establecer, diseñar, conducir e implantar programas y actividades que tengan como fin la reinserción social de conformidad a la Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XXIX.- Crear, diseñar, implantar, conducir, coordinar y evaluar los programas de reinserción social de conformidad (sic) la Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, disponiendo para ello de todos los mecanismos de concertación y participación social;
 
 XXX.- Las demás que le confieran las disposiciones aplicables y las que le confiera el Gobernador del Estado.
 
@@ -175,7 +187,7 @@ VIII.- Coordinar sus actividades con las demás unidades administrativas cuando 
 
 IX.- Proponer al Secretario el Ingreso, licencias, promoción, remoción y cese del personal de la Dirección General a su cargo.
 
-X.- Certificar los documentos existentes en los archivos de la Secretaría cuando se refieran al despacho de asuntos de su competencia; y, (sic)
+X.- Certificar los documentos existentes en los archivos de la Secretaría cuando se refieran al despacho de asuntos de su competencia; y,
 
 XI.- Las atribuciones asignadas a los Directores Generales, las podrán ejercer por sí o mediante acuerdos delegatorios de facultades que otorguen en comunicación oficial a los servidores públicos que les sean subordinados.
 
@@ -203,7 +215,7 @@ V.- Las demás que señalen las Leyes y Reglamentos correspondientes.
 
 ###### Artículo 9º.
 
-Al frente de fa Dirección General de la Policía Estatal Preventiva habrá un Titular, quien ejercerá por sí o por medio de los agentes de la policía que le sean adscritos las siguientes funciones:
+Al frente de la Dirección General de la Policía Estatal Preventiva habrá un Titular, quien ejercerá por sí o por medio de los agentes de la policía que le sean adscritos las siguientes funciones:
 
 I. Conducir en el Estado las normas, políticas y programas que derivan de la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables, con el fin de lograr la conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado;
 
@@ -225,7 +237,7 @@ IX.- Practicar detenciones o aseguramientos en los casos de flagrancia, en los t
 
 X.- Colaborar, cuando asilo solicite el Ayuntamiento o el Presidente Municipal, para el ejercicio de sus funciones de vigilancia, verificación e inspección que tengan conferidas por disposición de las leyes;
 
-XI.- Colaborar, a solicitud de las autoridades competentes, con los servicios de protección en casos de alto riesgo o desastres por causas naturales; y, (sic)
+XI.- Colaborar, a solicitud de las autoridades competentes, con los servicios de protección en casos de alto riesgo o desastres por causas naturales; y,
 
 XII. Elaborar y emitir el Plan General de Operaciones, los Planes Especiales de Operaciones y los Planes Conjuntos de Operaciones;
 
@@ -355,41 +367,65 @@ Para el desempeño de las funciones que les son asignadas a esta Subdirección, 
 
 Así como las demás unidades administrativas que sean necesarias para el buen funcionamiento de esta Dirección General de Tránsito y Transporte y se incluyan en el Presupuesto de Egresos del Estado.
 
-### CAPITULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PREVENCIÓN Y READAPTACIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+### CAPITULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PREVENCIÓN Y REINSERCIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 13.
 
-La Dirección General de Prevención y Readaptación Social, Contará con un titular, quien tendrá las siguientes atribuciones:
+La Dirección General de Prevención y Reinsercíón Social, contará con un titular, quien tendrá las siguientes atribuciones:
 
-I.- Planificar, organizar, coordinar y dirigir la política penitenciaria del Estado, en lo que se refiere al cumplimiento de los programas para el tratamiento del delincuente y de los adolescentes sujetos a medidas decretadas por el juez especializado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-II.- Proponer al Subsecretario de Asuntos Jurídicos. los criterios generales y las normas administrativas y técnicas de las instituciones y autoridades de los sistemas penitenciarios, de prevención social y de los Centros de internamiento y de Reintegración Social para Adolescentes del Estado, con base en el respeto a los derechos humanos y la legalidad;
+I.- Planificar, organizar, coordinar y dirigir la política penitenciaria del Estado, en lo que se refiere al cumplimiento de los programas para el tratamiento de la Persona Privada de su Libertad y de Personas adolescentes sujetos a medidas decretadas por el Órgano Jurisdiccional de conformidad a (sic) Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
-III.- Planear, determinar y supervisar el funcionamiento de los sistemas y medidas de seguridad en los Centros Preventivos y de Readaptación Social y en los Centros de Internamiento y Reintegración Social para Adolescentes;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-IV.- Establecer en los Centros Preventivos y de Readaptación Social y en los Centros de internamiento y de Reintegración Social para Adolescentes las medidas necesarias que contribuyan a mejorar su funcionamiento administrativo y técnico, así como a atender las necesidades, de los internos, las sugerencias y las quejas de sus familiares y defensores;
+II.- Proponer al Secretario de Seguridad Publica, los criterios generales y las normas administrativas y técnicas de las instituciones y autoridades de los sistemas penitenciarios de reinserción social y de los Centros de internamiento para Personas Adolescentes del Estado, con base en el respeto a los derechos humanos y la legalidad;
 
-V.- Proponer al Secretario los convenios que deba celebrar el Gobierno del Estado en materia de prestación de servicios técnico penitenciarios, de intercambio, de custodia, traslados y vigilancia de personas privadas de su libertad, así como los convenios con las instituciones públicas y privadas para la ejecución de medidas a adolescentes;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-VI.- Planificar y supervisar el trabajo de las instituciones penitenciarias desde el punto de vista a que se refiere la Constitución Política de los Estados Unidos Mexicanos, la Ley de Ejecución de Sanciones del Estado de Nayarit, la Ley de Justicia para Adolescentes del Estado de Nayarit, el Código Penal para el Estado, el Código de Procedimientos Penales para el Estado, los Principios de la Comisión Nacional de Derechos Humanos y las recomendaciones de la Organización de las Naciones Unidas;
+III.- Planear, determinar y supervisar el funcionamiento de los sistemas y medidas de seguridad en los Centros de Reinserción Social y en los Centros de Internamiento para Personas Adolescentes;
 
-VII.- Supervisar y vigilar el cumplimiento de las disposiciones de la Ley de Ejecución de Sanciones Penales del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-VIII.- Supervisar y vigilar, a las personas que gocen de alguno o varios de los beneficios de libertad anticipada a fin de ratificar y rectificar el beneficio concedido;
+IV.- Establecer en los Centros de Reinserción Social y en los Centros de Internamiento para Personas Adolescentes las medidas necesarias que contribuyan a mejorar su funcionamiento administrativo y técnico, así como a atender las necesidades, de los internos, las sugerencias y las quejas de sus familiares y defensores;
 
-IX.- Fortalecer con propuestas de proyectos productivos y programas a la industria penitenciaria para ampliar la capacidad laboral de los centros de reclusión;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-X.- Coordinar y evaluar los programas de capacitación educativa y ocupacional de los internos de los Centros de Readaptación, y Centros de internamiento y de Reintegración Social para Adolescentes;
+V.- Proponer al Secretario los convenios que deba celebrar el Gobierno del Estado en materia de prestación de servicios técnicos penitenciarios, de intercambio, de custodia, traslados y vigilancia de personas privadas de su libertad, así como los convenios con las instituciones públicas y privadas para la ejecución de medidas para personas adolescentes;
 
-XI.- Definir y establecer sistemas de seguridad eficiente de acuerdo a las necesidades y características de los Centros de Readaptación Social y de los Centros de internamiento y de Reintegración Social para Adolescentes;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-XII.- Supervisar y vigilar el cumplimiento de las disposiciones de la Ley de Justicia para Adolescentes en el Estado de Nayarit; y
+VI.- Planificar y supervisar el trabajo de las instituciones penitenciarías desde el punto de vista a que se refiere la Constitución Política de los Estados Unidos Mexicanos, Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, el Código Penal para el Estado, el Código de Procedimientos Penales para el Estado, los Principios de la Comisión Nacional de Derechos Humanos y las recomendaciones de la Organización de las Naciones Unidas;
+
+VII .- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2016)
+
+VIII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2016)
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+IX.- Fortalecer con propuestas de proyectos productivos y programas a la industria penitenciaria para ampliar la capacidad laboral de los Centros de Reinserción Social y de los Centros de Internamiento para Personas Adolescentes;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+X.- Coordinar y evaluar los programas de capacitación, educación, salud y deporte de las personas privadas de su libertad en los Centros de Reinserción Social, y Centros de Internamiento para Personas Adolescentes;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+XI.- Definir y establecer sistemas de seguridad eficientes de acuerdo a las necesidades y características de los Centros de Reinserción Social y de los Centros de Internamiento para Personas Adolescentes;
+
+XII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2016)
 
 XIII.- Las demás que surjan de las leyes sustantivas y adjetivas penales, Estatales o Federales; o le encomiende su superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Para el desempeño de las funciones que le son atribuidas en los términos de las Leyes y Reglamentos respectivos, la Dirección General de Prevención y Readaptación Social, contará con las siguientes unidades administrativas: Unidad Técnica Jurídica, Dirección de Reintegración Social para Adolescentes, Dirección de Readaptación Social, Dirección Operativa, las que contarán con un titular y tendrán las siguientes atribuciones:
+Para el desempeño de las funciones que le son atribuidas en los términos de las Leyes y Reglamentos respectivos, la Dirección General de Prevención y Reinserción Social, contará con las siguientes Unidades Administrativas: Unidad Técnica Jurídica, Dirección de Ejecución de Medidas para Personas Adolescentes, Dirección de Reinserción Social, Dirección Operativa, Dirección del Centro de Reinserción Social "Venustiano Carranza", Dirección del Centro de Reinserción Social "Bucerias", Dirección del Centro de Reinserción Social "Paso Hondo" las que contarán con un titular y tendrán las siguientes atribuciones:
 
 I.- Subdirector de la Unidad técnica Jurídica
 
@@ -399,69 +435,79 @@ b).- Recabar toda la información necesaria para la integración de los expedien
 
 c).- Verificar que los trámites jurídicos de los internos se realicen con eficiencia y oportunidad, garantizando el respeto a sus garantías individuales;
 
-d).- Mantener coordinación con las autoridades Federales para determinar y vigilar el otorgamiento de beneficios preliberacionales o condicionales de los internos que son competencia del Fuero Federal;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-e).- Informar a la Dirección General sobre las anomalías encontradas en las revisiones documentales de los Centros Penitenciarios del Estado;
+d).- Mantener coordinación con las autoridades Penitenciarias Federales y Estatales para dar cumplimiento a la Ley Nacional de Ejecución Penal; así como con las Autoridades Jurisdiccionales cuando se requiera el seguimiento y vigilancia de las personas privadas de su libertad en su etapa de ejecución y que gocen de algún beneficio de libertad anticipada;
 
-f).- Supervisar que los trámites de salida preliberacional y control post-institucional se realicen con la debida eficiencia, acatando las disposiciones legales establecidas para tal efecto;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+e).- Informar a la Dirección General sobre las anomalías encontradas en las revisiones documentales de los Centros de Reinserción Social del Estado;
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+f).- Supervisar que los trámites que se propongan relativos a los beneficios Preliberacionales y de Traslados de Personas Privadas de su Libertad sean de conformidad con la Ley Nacional de Ejecución Penal;
 
 g).- Desarrollar las demás funciones inherentes al área de su competencia; y,
 
 h).- Las demás que le señalen otros ordenamientos legales y las que le encomienden sus superiores.
 
-II. Director de Prevención y Atención a Menores Infractores
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-a).- Aplicar la Ley de Justicia para Adolescentes respecto la ejecución y vigilancia de las medidas de tratamiento internas y externas, dictadas por el juez especializado y que estén a cargo del poder ejecutivo del estado;
+II. Director (a) de Ejecución de Medidas para Personas Adolescentes
 
-b).- Designar a la institución pública o privada que se responsabilizara de la ejecución de la medida señalando a los profesionistas responsables;
+a).- Celebrar convenios con instituciones públicas y privadas para el cumplimiento de lo dispuesto en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
-c).- Nombrar personal especializado para la ejecución y vigilancia de las medidas dictadas por el juez para adolescentes;
+b).- Coordinar acciones con las demás autoridades del Sistema Integral de Justicia Penal para Adolescentes;
 
-d).- Implementar programas preventivos de delincuencia juvenil y de conductas antisociales y para sociales en los niños, niñas y adolescentes en el Estado, evaluando constantemente su funcionamiento;
+c).- Diseñar y Ejecutar el Plan Individualizado de Actividades, así como el Plan Individualizado de Ejecución;
 
-e).- Coadyuvar en los programas relativos a la prevención de la delincuencia con otras dependencias relacionadas con el ramo;
+d).- Realizar entrevistas, así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre la persona adolescente;
 
-f).- Vigilar que la custodia y resguardo de los adolescentes internos, sea de manera integral y proteja su estado físico y emocional, recibiendo los servicios que el Centro de Internamiento y Reintegración Social para Adolescentes ofrezca;
+e).- Verificar la localización de la persona adolescente en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar, suspensión condicional del proceso o medida de sanción impuesta por la autoridad judicial, así lo requiera;
 
-g).- Coadyuvar con las áreas técnicas en la integración de expedientes para su análisis y resolución a través del Consejo de Menores del Estado y el Comité Técnico Interdisciplinario;
+f).- Requerir a la persona adolescente proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas, o el resultado del examen de las mismas, cuando así se requiera por la autoridad administrativa o judicial;
 
-h).- Vigilar que la aplicación y coordinar el funcionamiento de las Áreas Técnicas, Administrativas, y operativas que se encuentren a su cargo;
+g).- Proporcionar todos los servicios disponibles para la plena reinserción y reintegración familiar y social de las personas adolescentes, en coordinación con las autoridades corresponsables y coadyuvantes que se considere conveniente;
 
-i).- Vigilar que la aplicación de los programas personalizados y generales respecto de las medidas de tratamiento interno y externo sea integral, secuencial, interdisciplinario y dirigido al adolescente con el apoyo de su familia;
+h).- Conservar actualizada una base de datos sobre las medidas y condiciones impuestas, su seguimiento y conclusión;
 
-j).- Informar periódicamente al titular de la Dirección General de Prevención y Readaptación Social, sobre los asuntos más relevantes que se presentan durante el desarrollo de sus funciones;
+i).- Solicitar a la persona adolescente la información que sea necesaria para verificar el cumplimiento de las medidas y condiciones impuestas;
 
-k).- Elaborar los programas personalizados de ejecución para cada adolescente;
+j).- Canalizar a la persona adolescente a servicios sociales de asistencia, públicos o privados, en materia de salud, educación, vivienda, apoyo jurídico y de adquisición de habilidades y destrezas para el desempeño de un oficio, arte, industria o profesión, cuando la modalidad de la medida cautelar, de la suspensión condicional del proceso, o la medida de sanción impuesta así lo requiera;
 
-l).- Informar semestralmente al poder judicial del estado de los planes y programas conducentes con los que se cuente en el estado, para la reintegración social del adolescente;
+k).- Adoptar las acciones necesarias para proteger la integridad física y psicológica de las personas adolescentes que estén bajo su responsabilidad en la medida de sanción de internamiento; solicitar y proporcionar información a las instituciones públicas, así como atender las solicitudes de apoyo que se le realicen;
 
-m).- Proponer a la Dirección General de Prevención y Readaptación Social los convenios o acuerdos de colaboración necesarios con instituciones públicas o privadas conforme lo establece la ley en materia de adolescentes;
+l).- Llevar un registro actualizado de las instituciones públicas y privadas que participen en la ejecución de las medidas cautelares o de sanción, y los planes para su cumplimiento, así como de las condiciones impuestas en la suspensión condicional del proceso, y disponer lo conducente para que esté a disposición del Órgano Jurisdiccional, en caso de que se solicite;
 
-n).- Coordinar las acciones necesarias a fin de que los adolescentes que ingresan al Centro de Internamiento y Reintegración Social para Adolescentes, conozcan las normas que deben cumplir y los derechos de que gozarán en su permanencia como menores en internamiento;
+m).- Supervisar a las áreas que la componen;
 
-o).- Solicitar al juez para adolescentes la aplicación de medios de apremio a los adolescentes que incumplan con la medida, conforme lo establece la ley en la materia;
+n).- Asegurar que todo el personal que tiene trato con las personas adolescentes, incluyendo el de seguridad, sea especializado;
 
-p).- Designar al profesional, institución pública o privada que se responsabilizara de la ejecución de la medida impuesta y si esta fuera de internamiento designar al centro mas adecuado para su ejecución de entre los más cercanos al domicilio;
+ñ).- Implementar los criterios relativos a los procedimientos de ingreso, permanencia, evaluación, estímulos, promoción y remoción del personal especializado, de acuerdo a lo establecido en la Ley;
 
-q).- Llevar un expediente personal único por cada adolescente conforme lo establece la ley en materia;
+o).- Participar en el diseño e implementar la política pública correspondiente al Sistema;
 
-r).- Remitir al juez para adolescentes, a la comisión estatal de derechos humanos, al agente del ministerio público especializado en adolescentes, un informe final, una vez que se tenga por cumplida la medida por el adolescente;
+p).- Llevar un registro de las fechas de cumplimiento de las medidas impuestas a las personas sujetas a la Ley;
 
-s).- Remitir al juez para adolescentes y al agente del ministerio publico informes sobre la ejecución de la medida y sus incidencias, y sobre la evolución personal de los adolescentes sometidos, a las mismas, con la periodicidad que se establezca;
+q).- Informar a las autoridades correspondientes y a las partes de cualquier violación a los derechos de las personas adolescentes, así como las circunstancias que podrían afectar el ejercicio de los mismos;
 
-t).- Solicitar al agente del ministerio público, cuando así lo estime procedente la revisión judicial de las medidas, conforme lo establece la ley en la materia;
+r).- Informar a la defensa de la fecha de cumplimiento de la mitad de la duración de las medidas privativas de libertad;
 
-u).- Velar por la integridad física y la salud de los adolescentes internos para que en ningún caso sean sometidos a tratos degradantes o a malos tratos de palabra o de obra, ni ser objeto de un rigor arbitrario o innecesario en la aplicación de las normas;
+s).- Previo acuerdo con el superior jerárquico otorgar nombramientos a jefes de departamento, jefes de área y demás personal administrativo que integran esta Dirección; y
 
-v).- Vigilar que los centros de internamiento cumplan con la aplicación de su reglamento interno, así como de los programas personalizados de ejecución y de los programas generales que se elaboren en dichos centros;
+t).- Las demás atribuciones que la Ley le asigne y las que se establezcan en otras leyes siempre que no se opongan a lo dispuesto en este reglamento.
 
-w).- Las demás que le señalen otros ordenamientos legales y las que le encomiende sus superiores.
+Para el desempeño de las funciones que les son asignadas a esta Dirección, contara con las siguientes unidades administrativas: Departamento de Supervisión y Seguimiento de Medidas para Personas Adolescentes, Departamento del Centro de Internamiento para Personas Adolescentes y el Departamento de Coordinación de Guías Técnicos, las cuales darán cumplimiento a lo establecido en la Ley Nacional de Sistema Integral de Justicia para Adolescentes y su reglamentación respectiva.
 
-III. Director de Readaptación Social
+III. Director de Reinserción Social
 
-a) Ordenar y vigilar que en los Centros Preventivos y de Readaptación Social y los Centros de Prevención, Tratamiento y Observación de Menores se imparta a los internos educación especial, bajo la orientación de las autoridades correspondientes;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
 
-b) Procurar trabajo para los internos, mediante la creación de unidades de producción industrial y artesanal, logrando con ello su capacitación;
+a).- Ordenar y vigilar que en los Centros de Reinserción Social y los Centros (sic) Internamiento para Personas Adolescentes se imparta a la Persona Privada de su Libertad educación especial, bajo la orientación de las autoridades correspondientes;
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+b).- Procurar trabajo para las personas privadas de su libertad, mediante la creación de unidades de producción industrial y artesanal, logrando con ello su capacitación;
 
 c) Ordenar, vigilar la planeación, organización, aplicación y evaluación del tratamiento de readaptación social que se lleva a cabo en los centros penitenciarios;
 
@@ -485,15 +531,19 @@ l) Supervisar en todos los Centros Penitenciarios, los sistemas de control de ar
 
 m) Informar de manera inmediata a la Dirección General de las irregularidades que se presenten en los centros penitenciarios del Estado, para que dicte las medidas necesarias;
 
-n) Supervisar el funcionamiento de la institución abierta y los sistemas extramuros que dicte la Dirección General; y,
+n) (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2016)
 
 o) Las demás que le señalen otros ordenamientos legales y las que le encomiende sus superiores.
 
-Para el desempeño de las funciones que les son asignadas a esta Dirección, contará con las siguientes unidades administrativas: Departamento de Industria Penitenciaria; Departamento de Trabajo Social y Educación; Departamento de Medicina General y Psicología y Centro de Readaptación Social “Venustiano Carranza”.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Para el desempeño de las funciones que les son asignadas a esta Dirección, contará con las siguientes unidades administrativas: Departamento de Industria Penitenciaria; Departamento de Trabajo Social y Educación y Departamento de Medicina General y Psicología.
 
 IV. Director Operativo
 
-a) Establecer los lineamientos de sistema de seguridad con base en los cuales deberán de operar y administrarse los Centros de Readaptación Social, Instituciones de Puertas Abiertas, el Centro de Prevención, Tratamiento y Observación de Menores y las Preceptorías Juveniles;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+a) Establecer los lineamientos de (sic) sistema de seguridad con base en los cuales deberán de operar y administrarse los Centros de Reinserción Social, el Centro de Internamiento para Personas Adolescentes y en la Coordinación de Guías Técnicos;
 
 b) Vigilar que se observen las reglas de higiene personal y que se preste oportunamente atención médica a los internos;
 
@@ -507,13 +557,45 @@ f) Coordinar con las Instituciones especializadas en materia de seguridad, a efe
 
 g) Mantener en condiciones normales de funcionamiento, el sistema de seguridad y custodia en los centros penitenciarios a través de eficientes planes y programas, en cumplimiento de la normatividad vigente;
 
-h) Elaborar y vigilar el cumplimiento de los planes y programas que contribuyan a mejorar los sistemas de seguridad de los Centros de Readaptación Social, el Centro de Prevención, Tratamiento y Observación de Menores y las Preceptorias Juveniles; y,
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+h).- Elaborar y vigilar el cumplimiento de los planes y programas que contribuyan a mejorar los sistemas de seguridad de los Centros de Reinserción Social, el Centro (sic) Internamiento para Personas Adolescentes y en la Coordinación de Guías Técnicos; y
 
 i) Las demás que le señalen otros ordenamientos legales y las que le encomiende sus superiores.
 
 Para el desempeño de las funciones que les son asignadas a esta Dirección, contará con las siguientes unidades administrativas: Departamento de Seguridad y Traslado y Departamento de Custodia.
 
-Así como las demás unidades administrativas que sean necesarias para el buen funcionamiento de esta Dirección General de Prevención y Readaptación Social y se incluyan en el Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+Así como las demás unidades administrativas que sean necesarias para el buen funcionamiento de esta Dirección General de Prevención y Reinserción Social y se incluyan en el Presupuesto de Egresos del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+
+V. Direcciones de los Centros de Reinserción Social
+
+Las y los titulares de los Centros Penitenciarios, tendrán las siguientes obligaciones:
+
+a) Administrar, organizar y operar los Centros conforme a lo que disponga la Ley Nacional de Ejecución Penal y de más (sic) disposiciones aplicables;
+
+b) Representar al Centro ante las diferentes autoridades y particulares;
+
+c) Garantizar el cumplimiento de las leyes, reglamentos, manuales, instructivos, criterios, lineamientos o disposiciones aplicables;
+
+d) Implementar las medidas necesarias de seguridad en el Centro;
+
+e) Declarar al Centro en estado de alerta o de alerta máxima, e informar inmediatamente a su superior jerárquico, en términos de las normas aplicables;
+
+f) Solicitar el apoyo de las fuerzas de seguridad pública local y federal en casos de emergencia;
+
+g) Asegurar el cumplimiento de las sanciones disciplinarias aplicables a las personas privadas de la libertad que incurran en infracciones, con respeto a sus derechos humanos;
+
+h) Expedir y vigilar que se emitan los documentos que le (sic) sean requeridos de conformidad con las disposiciones jurídicas aplicables; así como, expedir certificaciones que le (sic) requieran las autoridades o instituciones públicas, el Ministerio Público, la víctima u ofendido y el asesor jurídico, la persona sentenciada y su defensor de los documentos que obren en los archivos del Centro Penitenciario;
+
+i) Dar cumplimiento en el ámbito de sus atribuciones a las determinaciones del Juez de Ejecución u órgano jurisdiccional correspondiente;
+
+j) Realizar las demás funciones que señalen los ordenamientos jurídicos aplicables, en el ámbito de su competencia, y
+
+k) Además de las señaladas en la Ley Nacional de Ejecución Penal, sus reglamentos y las que prevea la normatividad de la administración penitenciaria.
 
 ### CAPITULO VII. De la Dirección General de Prevención del Delito, Participación Ciudadana y Difusión
 
@@ -830,3 +912,15 @@ Sexto.- En tanto se expiden el Manual de Organización de la Secretaría y otros
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los quince días del mes de Enero del dos mil diez.
 
 A T E N T A M E N T E "SUFRAGIO EFECTIVO; NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- RÚBRICA.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- RÚBRICA.- LIC. FERNANDO ALONSO CARVAJAL CAZOLA, SECRETARIO DE SEGURIDAD PÚBLICA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2016,
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un periodo no mayor de noventa días contados a partir de la entrada en vigor de este Decreto, se emitirán los Manuales de Operación de las diferentes aéreas (sic) componen las Unidades Administrativas de la Secretaria.
+
+TERCERO.- Derivado de las reformas a este decreto, se deberán emitir los nombramientos a los Titulares de las Aéreas (sic) que así corresponda, para estar acorde con la Legislación Federal.
