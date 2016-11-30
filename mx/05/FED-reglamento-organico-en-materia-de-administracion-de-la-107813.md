@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-en-materia-de-administracion-de-la-107813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-05-15"
-last_updated: "2016-05-16"
+last_updated: "2016-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-05-11"
 
 REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2015.
 
@@ -51,11 +51,13 @@ REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN
 
 ### CAPÍTULO PRIMERO. DE LA ESTRUCTURA ADMINISTRATIVA
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
 ###### Artículo 1o.
 
-El presente Reglamento Orgánico en Materia de Administración tiene por objeto establecer la organización y las atribuciones de los órganos y áreas de la administración de la Suprema Corte de Justicia de la Nación.
+El presente Reglamento Orgánico en Materia de Administración, así como su Anexo, tienen por objeto establecer, respectivamente, la organización y las atribuciones de los órganos y áreas de la Suprema Corte de Justicia de la Nación, así como su nivel jerárquico y adscripción.
 
-Se exceptúan del ámbito de aplicación del presente ordenamiento la organización, facultades y funcionamiento del Pleno; los Ministros; las Salas; los Presidentes de las Salas; la Comisión de Receso, así como la Secretaría General de Acuerdos; la Subsecretaría General de Acuerdos; la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Estudios Constitucionales, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, y la Coordinación de Compilación y Sistematización de Tesis.
+Se exceptúan del ámbito de aplicación del presente ordenamiento la organización, facultades y funcionamiento del Pleno, los Ministros, las Salas, los Presidentes de las Salas y la Comisión de Receso; así como las facultades y funcionamiento de la Secretaría General de Acuerdos; la Subsecretaría General de Acuerdos; la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Estudios Constitucionales, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, y la Coordinación de Compilación y Sistematización de Tesis.
 
 ###### Artículo 2o.
 
@@ -67,9 +69,9 @@ II. Comités: aquellos Comités de la Suprema Corte previstos en la normativa in
 
 III. Órganos: la Secretaría General de Acuerdos; la Secretaría General de la Presidencia; la Oficialía Mayor, la Contraloría, la Secretaría Jurídica de la Presidencia; y
 
-> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-IV. Áreas: la Subsecretaría General de Acuerdos, la Subsecretaría General de Imagen Institucional de la Presidencia, la Coordinación de Compilación y Sistematización de Tesis, el Centro de Estudios Constitucionales, la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, la Unidad General de Transparencia y Sistematización de la Información Judicial; las direcciones generales de Comunicación y Vinculación Social, del Canal Judicial, Atención y Servicios, Servicios Médicos, Casas de la Cultura Jurídica, Estudios, Promoción y Desarrollo de los Derechos Humanos, Recursos Humanos e Innovación Administrativa, la Tesorería, Infraestructura Física, Seguridad, Presupuesto y Contabilidad, Recursos Materiales, Tecnologías de la Información, Auditoría, Responsabilidades Administrativas y de Registro Patrimonial y de Relaciones Institucionales, así como la Unidad General de Igualdad de Género.
+IV. Áreas: la Subsecretaría General de Acuerdos, la Coordinación de Compilación y Sistematización de Tesis, el Centro de Estudios Constitucionales, la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, la Unidad General de Transparencia y Sistematización de la Información Judicial, la Unidad General de Enlace con los Poderes Federales, la Unidad General de Igualdad de Género; las direcciones generales de Comunicación y Vinculación Social, del Canal Judicial, de Atención y Servicios, de Servicios Médicos, de Casas de la Cultura Jurídica, de Estudios, Promoción y Desarrollo de los Derechos Humanos, de Recursos Humanos e Innovación Administrativa, de la Tesorería, de Infraestructura Física, de Seguridad, de Presupuesto y Contabilidad, de Recursos Materiales, de Tecnologías de la Información, de Auditoría, de Responsabilidades Administrativas y de Registro Patrimonial, y de Relaciones Institucionales.
 
 V. Pleno: el Tribunal Pleno de la Suprema Corte;
 
@@ -89,11 +91,11 @@ A. Gobierno y Administración;
 
 B. Los demás que resulten necesarios para la Suprema Corte.
 
-II. Órganos Administrativos
+II. Órganos Administrativos.
 
 A. Secretaría General de la Presidencia.
 
-1. Subsecretaría General de Imagen Institucional de la Presidencia
+1. (DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
 2. Dirección General de Comunicación y Vinculación Social.
 
@@ -139,9 +141,13 @@ E. Dirección General de Estudios, Promoción y Desarrollo de los Derechos Human
 
 F. Unidad General de Transparencia y Sistematización de la Información Judicial.
 
-> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-G. Unidad General de Igualdad de Género.
+G. Unidad General de Enlace con los Poderes Federales.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+H. Unidad General de Igualdad de Género.
 
 ### CAPÍTULO SEGUNDO. DE LA PRESIDENCIA
 
@@ -351,7 +357,7 @@ XI. Las demás que le confieran las disposiciones aplicables, así como las que 
 
 Para el ejercicio de sus atribuciones, la Secretaría General de la Presidencia contará con las siguientes áreas:
 
-I. Subsecretaría General de Imagen Institucional de la Presidencia
+I. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
 II. Dirección General de Comunicación y Vinculación Social
 
@@ -367,21 +373,7 @@ VI. Dirección General de Relaciones Institucionales.
 
 ###### Artículo 13.
 
-La Subsecretaría General de Imagen Institucional de la Presidencia tendrá las siguientes atribuciones:
-
-I. Coordinar, en el ámbito de su competencia, las acciones para el fortalecimiento de la presencia institucional del Presidente de la Suprema Corte;
-
-II. Coordinar una estrategia de comunicación eficiente y eficaz para transmitir información sobre la actuación del Presidente de la Suprema Corte a los medios de comunicación, generada en la Dirección General de Comunicación y Vinculación Social y la Dirección General del Canal Judicial;
-
-III. Coordinar la comunicación, acercamiento y relaciones con periodistas, analistas, columnistas y reporteros de la fuente para la eficaz difusión de las actividades de la Presidencia de la Suprema Corte;
-
-IV. Coordinar la información generada en los distintos medios de comunicación que coadyuven a la consolidación de la imagen de la Presidencia de la Suprema Corte;
-
-V. Dar seguimiento en los medios de comunicación a las actividades del Ministro Presidente y de sus representantes, en eventos nacionales o internacionales.
-
-VI. Coordinar estudios, análisis e investigaciones correspondientes para el cumplimiento de sus atribuciones;
-
-VII. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente o la Secretaría General de la Presidencia de la Suprema Corte.
+(DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
 ###### Artículo 14.
 
@@ -407,7 +399,7 @@ IX. Ejecutar los programas aprobados de difusión de la cultura jurídica y juri
 
 X. Ejecutar los programas de difusión en las entidades federativas, previamente aprobados y en coordinación con la Dirección General de Casas de la Cultura Jurídica;
 
-XI. Acordar con la Subsecretaría General de Imagen Institucional de la Presidencia estrategias para la difusión del quehacer institucional en que intervenga el Presidente;
+XI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)
 
 XII. Coordinar el diseño de la imagen del portal de Internet y la red interna institucional, con el apoyo técnico de la Dirección General de Tecnologías de la Información, con la participación de los órganos y áreas, en cuanto a los contenidos que deben publicarse, de conformidad con los lineamientos respectivos;
 
@@ -515,9 +507,13 @@ XVIII. Las demás que le confieran las disposiciones de observancia general apli
 
 La Dirección General de Relaciones Institucionales tendrá las siguientes atribuciones:
 
-I. Proponer y auxiliar a la Secretaría General de la Presidencia en la elaboración y en la ejecución de las políticas de vinculación y colaboración institucional con los Poderes Federales y de las entidades federativas de la República Mexicana y de otros países, órganos, organismos e instituciones nacionales e internacionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-II. Auxiliar a la Secretaría General de la Presidencia en la propuesta y diagnóstico de compromisos y acuerdos a celebrar con órganos, organismos e instituciones nacionales e internacionales, así como en la coordinación de acciones para su cumplimiento;
+I. Proponer y auxiliar a la Secretaría General de la Presidencia en la elaboración y en la ejecución de las políticas de vinculación y colaboración institucional con las entidades federativas de la República Mexicana y de otros países, órganos, organismos e instituciones nacionales e internacionales, con excepción de los poderes legislativo y ejecutivo federales;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+II. Auxiliar a la Secretaría General de la Presidencia en la propuesta y diagnóstico de compromisos y acuerdos a celebrar con órganos, organismos e instituciones nacionales e internacionales, así como en la coordinación de acciones para su cumplimiento, lo anterior con excepción de aquellos a celebrar con los poderes legislativo y ejecutivo federales;
 
 III. Apoyar a la Secretaría General de la Presidencia en el establecimiento y mantenimiento de relaciones de colaboración con las áreas encargadas de las relaciones internacionales del Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación;
 
@@ -527,7 +523,9 @@ V. Proponer y elaborar proyectos de convenios marco y específicos de cooperaci�
 
 VI. Auxiliar a la Secretaría General de la Presidencia en la coordinación de la participación de la Suprema Corte en las cumbres y reuniones internacionales de organismos jurisdiccionales y fungir como enlace;
 
-VII. Proponer a la Secretaría General de la Presidencia las políticas de relaciones institucionales e internacionales de la Presidencia de la Suprema Corte de Justicia de la Nación;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+VII. Proponer a la Secretaría General de la Presidencia las políticas de relaciones institucionales e internacionales de la Presidencia de la Suprema Corte de Justicia de la Nación, con excepción de las políticas de relaciones con los poderes legislativo y ejecutivo federales;
 
 VIII. Apoyar a la Secretaría General de la Presidencia en el registro de las participaciones de los Ministros en los diversos foros nacionales e internacionales;
 
@@ -535,7 +533,13 @@ IX. Auxiliar a la Secretaría General de la Presidencia en la organización y re
 
 X. Auxiliar a la Secretaría General de la Presidencia en las demás tareas encomendadas por el Presidente.
 
-XI. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por la Secretaría General de la Presidencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XI. Colaborar con la Unidad de Enlace con los Poderes Federales en la recopilación y sistematización de información relevante relativa a los poderes legislativo y ejecutivo federales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+XII. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por la Secretaría General de la Presidencia.
 
 ### CAPÍTULO SEXTO. DE LA OFICIALÍA MAYOR
 
@@ -1279,13 +1283,41 @@ XIX. Dirigir el servicio de atención ciudadana respecto de cualquier petición 
 
 XX. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente, el Pleno o los Comités de Ministros.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016 [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO UNDÉCIMO. DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO
+### CAPÍTULO UNDÉCIMO. DE LA UNIDAD GENERAL DE ENLACE CON LOS PODERES FEDERALES
 
-> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016 [N. DE E. ADICIONADO], D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 43.
+
+La Unidad General de Enlace con los Poderes Federales tendrá las siguientes atribuciones:
+
+I. Apoyar al Presidente en la conducción de las relaciones que, con motivo de su papel de representante de la Suprema Corte de Justicia de la Nación, se susciten entre ésta y los poderes legislativo y ejecutivo federales.
+
+II. Diseñar, proponer al Presidente y en su caso ejecutar las políticas de vinculación y colaboración institucional con los poderes legislativo y ejecutivo federales.
+
+III. Elaborar y sugerir al Presidente líneas de acción para posicionar los intereses de la Suprema Corte de Justicia de la Nación en las agendas de los poderes legislativo y ejecutivo federales.
+
+IV. Recopilar y sistematizar la información que considere relevante relativa a los poderes legislativo y ejecutivo federales.
+
+V. Analizar e interpretar la información que obtenga en términos de la fracción anterior a efecto de construir escenarios de prospectiva que permitan al Presidente representar adecuadamente los intereses de la Suprema Corte de Justicia de la Nación en las relaciones que conforme a la Constitución y las leyes se susciten con los poderes legislativo y ejecutivo federales.
+
+VI. Proponer proyectos de convenios marco y específicos de cooperación con los poderes legislativo y ejecutivo federales.
+
+VII. Diseñar y operar un sistema que permita dar seguimiento puntual a los acuerdos y convenios que deriven de las relaciones con los poderes legislativo y ejecutivo federales.
+
+VIII. Coordinar los estudios e investigaciones necesarias, incluso en cooperación con instituciones externas, para el cumplimiento de sus atribuciones.
+
+IX. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016 [N. DE E. REUBICADO -ANTES CAPÍTULO UNDÉCIMO-], D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO DUODÉCIMO. DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016 [N. DE E. REUBICADO], D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+###### Artículo 44.
 
 La Unidad General de Igualdad de Género tendrá las siguientes atribuciones:
 
@@ -1319,6 +1351,126 @@ Así lo acordó y firma el señor Ministro Luis María Aguilar Morales, Presiden
 
 EL LICENCIADO ALEJANDRO MANUAL GONZÁLEZ GARCÍA, SECRETARIO JURÍDICO DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de cuarenta y cinco fojas útiles concuerda fiel y exactamente con el original del REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, que obra en los archivos de esta Secretaría y se expide para su difusión.- México, Distrito Federal, a once de mayo de dos mil quince.- Rúbrica.
 
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
+ANEXO
+
+NIVEL JERÁRQUICO
+
+La estructura orgánica básica administrativa de la Suprema Corte de Justicia de la Nación se divide en los siguientes niveles jerárquicos:
+
+Nivel jerárquico I:
+
+Ministro Presidente.
+
+Nivel jerárquico II:
+
+Secretaría General de Acuerdos.
+
+Secretaría General de la Presidencia.
+
+Oficialía Mayor.
+
+Contraloría.
+
+Nivel jerárquico III:
+
+Secretaría Jurídica de la Presidencia.
+
+Nivel jerárquico IV:
+
+Subsecretaría General de Acuerdos.
+
+Nivel jerárquico V:
+
+Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad.
+
+Coordinación de Compilación y Sistematización de Tesis.
+
+Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
+
+Centro de Estudios Constitucionales.
+
+Unidad General de Transparencia y Sistematización de la Información Judicial.
+
+Unidad General de Enlace con los Poderes Federales.
+
+Unidad General de Igualdad de Género.
+
+Direcciones Generales.
+
+ADSCRIPCIÓN
+
+La adscripción de los órganos y áreas para la administración de la Suprema Corte de Justicia de la Nación es la siguiente:
+
+I. A la Presidencia quedan adscritas:
+
+a) La Secretaría General de Acuerdos.
+
+b) La Secretaría General de la Presidencia.
+
+c) La Oficialía Mayor.
+
+d) La Contraloría.
+
+e) La Secretaría Jurídica de la Presidencia.
+
+f) El Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
+
+g) La Coordinación de Compilación y Sistematización de Tesis.
+
+h) El Centro de Estudios Constitucionales.
+
+i) La Unidad General de Transparencia y Sistematización de la Información Judicial.
+
+j) La Unidad General de Enlace con los Poderes Federales.
+
+k) La Unidad General de Igualdad de Género.
+
+l) La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos.
+
+II. A la Secretaría General de Acuerdos queda adscrita:
+
+a) La Subsecretaría General de Acuerdos, que a su vez tiene bajo su adscripción a la Sección de Trámite de Controversias Constitucionales y Acciones de Inconstitucionalidad.
+
+III. A la Secretaría General de la Presidencia quedan adscritas:
+
+a) La Dirección General de Comunicación y Vinculación Social.
+
+b) La Dirección General del Canal Judicial.
+
+c) La Dirección General de Atención y Servicios.
+
+d) La Dirección General de Servicios Médicos.
+
+e) La Dirección General de Relaciones Institucionales
+
+IV. A la Oficialía Mayor quedan adscritas:
+
+a) La Dirección General de Recursos Humanos e Innovación Administrativa.
+
+b) La Dirección General de Presupuesto y Contabilidad.
+
+c) La Dirección General de la Tesorería.
+
+d) La Dirección General de Recursos Materiales.
+
+e) La Dirección General de Infraestructura Física.
+
+f) La Dirección General de Tecnologías de la Información.
+
+g) La Dirección General de Seguridad.
+
+V. A la Contraloría quedan adscritas:
+
+a) La Dirección General de Auditoría.
+
+b) La Dirección General de Responsabilidades Administrativas y de Registro Patrimonial.
+
+VI. A la Secretaría Jurídica de la Presidencia queda adscrita:
+
+a) La Dirección General de Casas de la Cultura Jurídica.
+
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 16 DE MAYO DE 2016.
@@ -1338,3 +1490,17 @@ Artículo Quinto. La Oficialía Mayor llevará a cabo las acciones administrativ
 Artículo Sexto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
 
 Artículo Séptimo. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación y al Acuerdo General de Administración número 03/2015, a fin de que el contenido de éstos se encuentren debidamente actualizados, en el portal de este Alto Tribunal, así como en todo tipo de publicaciones.
+
+D.O.F. 30 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 3/2016, DEL VEINTICUATRO DE NOVIEMBRE DE DOS MIL DIECISÉIS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE QUINCE DE MAYO DE DOS MIL QUINCE, Y SE DEROGAN LOS ACUERDOS GENERALES DE ADMINISTRACIÓN 1/2015, DEL QUINCE DE ENERO DE DOS MIL QUINCE, 3/2015, DEL SEIS DE MAYO DEL MISMO AÑO, Y 1/2016, DE SEIS DE MAYO DE DOS MIL DIECISÉIS”.]
+
+Artículo Primero. El presente Acuerdo General entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Además de las expresamente señaladas, se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
+
+Artículo Tercero. La Oficialía Mayor llevará a cabo las acciones administrativas conducentes para la instrumentación del presente Acuerdo General.
+
+Artículo Cuarto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+Artículo Quinto. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, a fin de que el contenido de éste se encuentre debidamente actualizado, dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
