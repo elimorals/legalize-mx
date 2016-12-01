@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2015-12-19"
+last_updated: "2016-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -231,17 +231,17 @@ d) Los indigentes.
 
 e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su cargo niñas, niños y adolescentes, personas con discapacidad o adultos mayores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+V. Las personas adictas o farmacodependientes que se encuentren recluidas o internadas en centros de tratamiento y rehabilitación de adicciones y que sean objeto de actos que violen sus derechos humanos por parte de las personas encargadas o internos de éstos;
 
-V. Las personas adictas o farmacodependientes que se encuentren recluidas o internadas en centros de tratamiento y rehabilitación de adicciones y que sean objeto de actos que violen sus derechos humanos por parte de las personas encargadas o internos de éstos, y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. Las que se encuentren en situación de violencia familiar, y
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-VI. Las que se encuentren en situación de violencia familiar.
+VII. Dependientes de personas privadas de su libertad, de desaparecidos, de enfermos terminales, de alcohólicos, o de fármaco dependientes.
 
 ###### ARTICULO 7º.
 
@@ -525,7 +525,7 @@ Las personas que integran el Consejo desempeñarán sus funciones en forma honor
 
 ARTICULO 21 TER. El Consejo Estatal de Adopciones tendrá las siguientes atribuciones:
 
-l. Unificar todos los programas de adopción que se apliquen en el Estado, con el fin de lograr la uniformidad de los mismos en las instituciones públicas y privadas;
+I. Unificar todos los programas de adopción que se apliquen en el Estado, con el fin de lograr la uniformidad de los mismos en las instituciones públicas y privadas;
 
 II. Establecer los requisitos administrativos para adoptar;
 
@@ -1606,3 +1606,11 @@ QUINTO. Los asuntos, trámites y procedimientos que actualmente se encuentren en
 SEXTO. Quien ejercía el cargo de Procurador de la Defensa del Menor, la Mujer y la Familia, si cumple con los requisitos previstos en el artículo 40 de esta Ley, continuará como titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor; de no ser así, el titular del Poder Ejecutivo del Estado, designará a la persona que asuma dicho encargo, dentro del término de cinco días hábiles a la entrada en vigencia de este Decreto.
 
 SÉPTIMO. Se derogan las disposiciones que se contrapongan al presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0429.- SE REFORMA EL ARTÍCULO 6° EN SUS FRACCIONES, V, Y VI; Y ADICIONA AL MISMO ARTÍCULO 6° LA FRACCIÓN VII, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
