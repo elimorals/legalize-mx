@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-y-disciplina-financiera-del-estado-de-1174
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-26"
-last_updated: "2016-11-26"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "JAL"
 ---
 # LEY DE DEUDA PUBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 1 DE DICIEMBRE DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 TEXTO ORIGINAL.
 
-Ley publicada en la Sección L al Número 8 del Periódico Oficial, el sábado 26 de noviembre de 2016.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2016.]</small>
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2016)</small>
+
+Ley publicada en la Sección LI al Número 8 del Periódico Oficial, el sábado 26 de noviembre de 2016.
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
