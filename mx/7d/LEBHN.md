@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2015-12-17"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -141,6 +141,12 @@ Las Banderas para los inmuebles a que se refieren los artículos anteriores, ten
 En los términos del artículo 15 de esta Ley, la Bandera Nacional deberá izarse:
 
 a) A toda asta en las siguientes fechas y conmemoraciones:
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+16 de enero:
+
+Aniversario del nacimiento de Mariano Escobedo, en 1826.
 
 21 de enero:
 
@@ -367,6 +373,12 @@ Conmemoración de la muerte de los pilotos de la Fuerza Aérea Expedicionaria Me
 21 de mayo:
 
 Aniversario de la muerte de Venustiano Carranza en 1920.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+22 de mayo:
+
+Aniversario de la muerte de Mariano Escobedo, en 1902.
 
 17 de julio:
 
@@ -869,3 +881,9 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN LAS FECHAS 16 DE ENERO "ANIVERSARIO DEL NACIMIENTO DE MARIANO ESCOBEDO", EN 1826 AL INCISO A) Y 22 DE MAYO "ANIVERSARIO DE LA MUERTE DE MARIANO ESCOBEDO", EN 1902 AL INCISO B) DEL ARTÍCULO 18 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
