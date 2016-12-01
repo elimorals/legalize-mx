@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2016-10-18"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -43,9 +43,11 @@ LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS 
 
 ### CAPITULO UNICO. Principios, Conceptos y Derechos de las Personas Adultas Mayores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley de orden público e interés social y observancia general en el Estado; establece las acciones de concurrencia que corresponden al Estado y Municipios, conforme a la Ley de los Derechos de las Personas Adultas Mayores.
+La presente Ley es de orden público e interés social y observancia general en el Estado; establece las acciones de concurrencia que corresponden al Estado y Municipios, conforme a la Ley de los Derechos de las Personas Adultas Mayores.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -443,7 +445,9 @@ o) titular de la Secretaría del Trabajo.
 
 p) titular del Instituto Potosino del Deporte.
 
-q) Tres personas adultas mayores, a propuesta del Delegado del INAPAM, y designados por el Presidente del Consejo.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2016)</small>
+
+q) Tres personas adultas mayores, conforme a lo establecido en el reglamento de la presente Ley, y avaladas por del (sic) Delegado del INAPAM; y el Presidente del Consejo.
 
 r) Dos representantes de organismos no gubernamentales dedicados a la atención de las personas adultas mayores, que serán designadas entre ellos mismos.
 
@@ -917,13 +921,17 @@ ARTICULO 44 BIS. Las instituciones públicas y privadas que proporcionen servici
 
 Para tal efecto, se deberán colocar en un lugar visible, rótulos con la señalética de la materia que indiquen los lugares designados.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 44 TER. Las instituciones públicas o privadas que brinden atención al público, deben adecuar su infraestructura arquitectónica, con la finalidad de brindar atención preferente a las personas beneficiarias de la presente Ley.
+ARTICULO 44 TER. Las instituciones públicas o privadas que brinden atención al público deben adecuar su infraestructura arquitectónica y equipamiento, de conformidad con la NOM-233-SSA1-2003, con la finalidad de brindar atención preferente a las personas beneficiarias de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ARTICULO 44 QUATER. Las instituciones públicas y privadas que proporcionen servicios o brinden atención al público, deben exhibir en un lugar visible, lo relacionado con los derechos que otorga la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, brindar atención preferente en todos los casos a las personas beneficiarias de esta Ley.
 
 ## TITULO CUARTO. SOCIEDAD Y FAMILIA
 
@@ -1077,19 +1085,9 @@ Igual obligación tendrán las autoridades y personal que labore en estancias de
 
 El incumplimiento de los preceptos establecidos por esta Ley, será sancionado conforme lo prevé la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, así como demás ordenamientos legales.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
-
 ###### ARTICULO 59.
 
-El incumplimiento a las disposiciones contenidas en esta Ley, será motivo para la aplicación de las siguientes sanciones:
-
-I. Amonestación;
-
-II. Trabajo comunitario en favor de las personas adultas mayores, en instituciones públicas o privadas dedicadas a su atención, y
-
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
-
-III. Multa equivalente de entre veinte a trescientos días de la Unidad de Medida y Actualización vigente.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -1143,7 +1141,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 4 DE JULIO DE 2009.
 
@@ -1188,3 +1186,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se concede plazo de seis meses, a partir de la entrada en vigor del presente Decreto; para que los concesionarios de transporte público urbano en las modalidades de, colectivo, colectivo de primera clase, y colectivo masivo, realicen las adecuaciones necesarias a las unidades destinadas a este tipo de servicios de transporte, y cumplan con las medidas de accesibilidad y lineamientos que ahora establece el artículo 44 de la Ley de Transporte Público del Estado.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0428.- SE REFORMA (SIC) LOS ARTÍCULOS, 1° EN SU PÁRRAFO PRIMERO, 12 EN SU FRACCIÓN III EL INCISO Q), Y 44 TER; ADICIONA AL ARTÍCULO 44 QUÁTER PÁRRAFO SEGUNDO; Y DEROGA EL ARTÍCULO 59, DE Y A LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
