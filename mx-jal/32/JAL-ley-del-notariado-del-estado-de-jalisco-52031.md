@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2016-11-26"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 1 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 25907/LXI/16 PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
