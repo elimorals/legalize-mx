@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-80429
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-14"
-last_updated: "2011-03-14"
+last_updated: "2016-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE URUAPAN, MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE URUAPAN MICHOACÁN, PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE URUAPAN, MICHOACAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 14 de marzo de 2011.
 
@@ -354,3 +356,13 @@ La Secretaria de Educación
 Graciela Carmina Andrade García Peláez
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE URUAPAN”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Uruapan, publicado en la Cuarta Sección, Tomo CLI del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 14 de marzo de 2011, y demás disposiciones administrativas en lo que se opongan al presente Reglamento.
