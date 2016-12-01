@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-heroica-escuela-naval-militar-12520"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-09"
-last_updated: "1999-05-25"
+last_updated: "2016-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12520&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-11-02"
 ---
 # REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR, PUBLICADO EN EL D.O.F. DEL 1 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 9 de noviembre de 1998.
 
@@ -431,7 +433,7 @@ III.- Expresarse dolosa y tendenciosamente ya sea de palabra o por escrito, acer
 
 Los cadetes con grado no tendrán familiaridades con los demás cadetes ni abusarán de su jerarquía, serán los responsables de conservar la disciplina y supervisar el cumplimiento de las órdenes y disposiciones superiores.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 25 DE MAYO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ### CAPÍTULO III. De los becarios de nacionalidad extranjera
 
@@ -609,7 +611,7 @@ Los cadetes que pertenezcan al "Grupo de Cadetes Distinguidos" tendrán derecho 
 
 Los cadetes que a criterio de la Dirección General y a propuesta del Comandante del Cuerpo de Cadetes reúnan aptitud para el mando, tengan buen aprovechamiento académico y buena conducta civil y militar, serán promovidos al grado inmediato, de acuerdo a la planilla orgánica del Cuerpo de Cadetes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 51.
 
@@ -623,7 +625,7 @@ III.- Aspirante de segunda, y
 
 IV.- Aspirante de primera, que invariablemente pertenecerán al último año lectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 52.
 
@@ -909,8 +911,22 @@ Artículo Segundo.- Se abroga el Reglamento de la Escuela Naval de la Armada de 
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 25 DE MAYO DE 1999.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de la Heroica Escuela Naval Militar publicado el 9 de noviembre de 1998 en el Diario Oficial de la Federación, y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+Tercero.- Los trámites que se encuentren pendientes de resolución al momento de la entrada en vigor del presente ordenamiento, se resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento se realizarán con cargo al presupuesto autorizado a la Secretaría de Marina, por lo que no requerirá recursos adicionales para el ejercicio fiscal de que se trate.
+
+Quinto.- La Heroica Escuela Naval Militar expedirá los manuales administrativos necesarios para su organización, operación y funcionamiento, dentro del plazo de noventa días contando a partir del día siguiente al de la publicación del presente Reglamento en el Diario Oficial de la Federación.
