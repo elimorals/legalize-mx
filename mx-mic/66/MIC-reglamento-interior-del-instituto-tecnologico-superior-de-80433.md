@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-80433
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-15"
-last_updated: "2011-03-15"
+last_updated: "2016-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE APATZINGAN, MICHOACAN
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE APATZINGAN, MICHOACAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE APATZINGÁN, PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE APATZINGÁN, MICHOACÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el martes 15 de marzo de 2011.
 
 LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las facultades que al Ejecutivo a mi cargo le confieren los artículos 60 fracciones VI y XXII, 62, 65 y 66 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; 2º, 3°, 4º, 5º, 9º, 11, 13, 14, 16, 17, 18, 46 fracción I y 47 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; y,
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo expuesto, he tenido a bien emitir el siguiente Acuerdo que contiene el:
 
@@ -344,3 +348,13 @@ El Secretario de Gobierno
 Fidel Calderón Torreblanca
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE APATZINGÁN”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Apatzingán, publicado en la Tercera Sección, Tomo CLI número 26 del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 15 de marzo de 2011, y se dejan sin efecto todas las disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
