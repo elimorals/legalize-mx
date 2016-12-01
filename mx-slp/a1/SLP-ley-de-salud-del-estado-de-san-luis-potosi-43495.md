@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2016-11-03"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -89,41 +89,45 @@ I. Atención médica: el conjunto de los servicios que se proporcionan a las per
 
 II. Accidente: suceso eventual o acción que involuntariamente resulta daño para las personas o las cosas;
 
-III. Cuidados básicos: la higiene, alimentación e hidratación y, en su caso, el manejo de la vía aérea permeable;
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-IV. Cuidados paliativos: son los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en fase terminal que no respondan a tratamientos curativos. Así como la atención de aspectos psicológicos, sociales y espirituales;
+III. Brigada médica: unidad compuesta por médicos generales y, en la medida de lo posible médicos especialistas, así como el personal auxiliar, a fin de brindar atención primaria de salud a las comunidades rurales; y además por personas voluntarias que prestan auxilio para el traslado de aquellos pacientes que, por su condición de salud, deban acudir al centro de salud para recibir atención médica;
+
+IV. Cuidados básicos: la higiene, alimentación e hidratación y, en su caso, el manejo de la vía aérea permeable;
+
+V. Cuidados paliativos: son los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en fase terminal que no respondan a tratamientos curativos. Así como la atención de aspectos psicológicos, sociales y espirituales;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-V. Derecho a la protección social en salud: el mecanismo por el cual el estado garantiza el acceso efectivo, oportuno, de calidad, con perspectiva y equidad de género, sin desembolso al momento de su utilización y sin discriminación de ningún tipo a los servicios medicoquirúrgicos, farmacéutico y hospitalario, que satisfagan de manera integral las necesidades en salud;
+VI. Derecho a la protección social en salud: el mecanismo por el cual el estado garantiza el acceso efectivo, oportuno, de calidad, con perspectiva y equidad de género, sin desembolso al momento de su utilización y sin discriminación de ningún tipo a los servicios medicoquirúrgicos, farmacéutico y hospitalario, que satisfagan de manera integral las necesidades en salud;
 
-VI. Estado de fase terminal: todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado, y cuyo pronóstico de vida para la persona sea menor a seis meses;
+VII. Estado de fase terminal: todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado, y cuyo pronóstico de vida para la persona sea menor a seis meses;
 
-VII. Obsesión terapéutica: la adopción de medidas innecesarias o inútiles con el objeto de alargar la vida en situación de fase terminal de un paciente;
+VIII. Obsesión terapéutica: la adopción de medidas innecesarias o inútiles con el objeto de alargar la vida en situación de fase terminal de un paciente;
 
-VIII. Paciente en fase terminal: persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
+IX. Paciente en fase terminal: persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
 
-IX. Medios innecesarios: son aquéllos cuyo perjuicio es mayor que los beneficios, en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+X. Medios innecesarios: son aquéllos cuyo perjuicio es mayor que los beneficios, en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
 
-X. Médico responsable: el profesional que tiene a su cargo coordinar la información y la asistencia clínica del paciente en fase terminal, con el carácter de interlocutor principal del mismo, en todo lo referente a su atención e información durante el proceso asistencial, sin perjuicio de las obligaciones de otros profesionales que participan en las actuaciones asistenciales;
+XI. Médico responsable: el profesional que tiene a su cargo coordinar la información y la asistencia clínica del paciente en fase terminal, con el carácter de interlocutor principal del mismo, en todo lo referente a su atención e información durante el proceso asistencial, sin perjuicio de las obligaciones de otros profesionales que participan en las actuaciones asistenciales;
 
-XI. Medios proporcionados: los que son útiles para conservar la calidad de vida de un paciente en fase terminal, que no constituyen para él, una carga grave o desproporcionada a los beneficios que se pueden obtener;
+XII. Medios proporcionados: los que son útiles para conservar la calidad de vida de un paciente en fase terminal, que no constituyen para él, una carga grave o desproporcionada a los beneficios que se pueden obtener;
 
-XII. Muerte natural: el proceso de fallecimiento natural de una persona en fase terminal, contando con asistencia física, psicológica y, en su caso, espiritual;
+XIII. Muerte natural: el proceso de fallecimiento natural de una persona en fase terminal, contando con asistencia física, psicológica y, en su caso, espiritual;
 
-XIII. Norma: las normas oficiales mexicanas de carácter obligatorio emitidas por la autoridad competente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salud, con el objeto de uniformar principios, criterios, políticas y estrategias;
+XIV. Norma: las normas oficiales mexicanas de carácter obligatorio emitidas por la autoridad competente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salud, con el objeto de uniformar principios, criterios, políticas y estrategias;
 
-XIV. Tratamiento del dolor: todas aquéllas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físicos y emocionales, destinadas a garantizar la dignidad de las personas en fase terminal;
+XV. Tratamiento del dolor: todas aquéllas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físicos y emocionales, destinadas a garantizar la dignidad de las personas en fase terminal;
 
-XV. Salubridad general: las facultades contenidas en el artículo 3°. de la Ley General de Salud, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos;
+XVI. Salubridad general: las facultades contenidas en el artículo 3°. de la Ley General de Salud, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos;
 
-XVI. Salubridad local: el ejercicio de facultades exclusivas del Estado previstas en la presente Ley, por parte de las autoridades sanitarias señaladas en el artículo 3°. fracciones I y II de la misma;
+XVII. Salubridad local: el ejercicio de facultades exclusivas del Estado previstas en la presente Ley, por parte de las autoridades sanitarias señaladas en el artículo 3°. fracciones I y II de la misma;
 
-XVII. Secretaría de Salud federal: la dependencia centralizada de la administración pública de la Federación;
+XVIII. Secretaría de Salud federal: la dependencia centralizada de la administración pública de la Federación;
 
-XVIII. Secretaría de Salud del Estado: la dependencia centralizada de la administración pública del Estado de San Luis Potosí, y
+XIX. Secretaría de Salud del Estado: la dependencia centralizada de la administración pública del Estado de San Luis Potosí, y
 
-XIX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta.
+XX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -475,9 +479,15 @@ XI. Promoción de la salud;
 
 XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XIII. El control sanitario de los bienes y servicios contenidos en las fracciones XXI, XXII, XXIII, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXV contenidas en el Apartado A del artículo 5º. de esta Ley, y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-XIV. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
+XIII. El control sanitario de los bienes y servicios contenidos en las fracciones XXI, XXII, XXIII, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXV contenidas en el Apartado A del artículo 5º. de esta Ley;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
+
+XIV. La coordinación con las autoridades municipales para implementar brigadas médicas, mismas que, en la medida de sus posibilidades presupuestales, recorrerán cada tres meses las comunidades más alejadas de los centros de salud, con el fin de atender y proporcionar los medicamentos del cuadro básico de salud, así como difundir medidas de prevención para generar estilos de vida saludables, privilegiando a los grupos vulnerables de dichas comunidades, y
+
+XV. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
 
 ###### ARTICULO 15.
 
@@ -1037,6 +1047,10 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 La planificación familiar tiene carácter prioritario; en sus actividades se debe incluir la orientación educativa para las personas adolescentes, jóvenes y adultas, mediante una correcta información oportuna, eficaz y completa.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2016)</small>
+
+Conforme al párrafo anterior, se deberán impulsar e instrumentar políticas y acciones específicas en todo el Estado, conforme al ámbito de su competencia.
+
 Los servicios que se prestan en la materia constituyen un medio para el ejercicio del derecho al que tienen hombres y mujeres por igual, de decidir de manera libre, responsable e informada sobre el número y espaciamiento de las hijas e hijos, con pleno respeto a su libertad y dignidad.
 
 Quienes practiquen esterilización sin la voluntad de la o el paciente, o ejerzan presión para que la admitan, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
@@ -1095,9 +1109,11 @@ VIII. El desarrollo de programas en materia de salud dirigidos específicamente 
 
 Los comités de salud a que se refiere el artículo 48 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas, rurales e indígenas del Estado, se impartan pláticas de orientación en materia de planificación familiar y educación sexual. Las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 60.
 
-La Secretaría de Salud del Estado coadyuvará con las autoridades federales en la aplicación de las políticas, objetivos y acciones del Programa de Planificación Familiar y Salud Reproductiva que formulen el Consejo Nacional de Población y el Sector Salud.
+La Secretaría de Salud del Estado coadyuvará con las autoridades federales en la aplicación de las políticas, objetivos y acciones del Programa de Planificación Familiar y Salud Reproductiva que formulen el Consejo Nacional de Población y el Sector Salud; la que dará especial atención a la población adolescente que incluyan la información de riesgos y prevención del embarazo.
 
 ### CAPITULO VIII. Donación y Trasplantes
 
@@ -1199,7 +1215,7 @@ El sector salud promoverá asimismo, cursos, talleres y diplomados con valor cur
 
 ###### ARTICULO 66.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades federales, así como con el Consejo Nacional, y el Centro Estatal de Trasplantes, se encargará del control sanitario de las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, en los términos de la Ley General del (sic) Salud y su Reglamento, así como la Ley de Donación y Trasplantes de Organos, Tejidos, y Componentes para el Estado de San Luis Potosí.
+La Secretaría de Salud del Estado, en coordinación con las autoridades federales, así como con el Consejo Nacional, y el Centro Estatal de Trasplantes, se encargará del control sanitario de las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, en los términos de la Ley General del (sic) Salud y su Reglamento, así como la Ley de Donación y Trasplantes de Órganos, Tejidos, y Componentes para el Estado de San Luis Potosí.
 
 Además, su titular, o quien éste designe, será parte integrante del Consejo Estatal de Trasplantes en los términos de la ley de la materia.
 
@@ -1499,9 +1515,9 @@ II. Fomentar en la población el desarrollo de actitudes conductas que le permit
 
 III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-IV. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes y detección oportuna de enfermedades.
+IV. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, prevención del embarazo adolescente, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2016)</small>
 
@@ -2181,7 +2197,7 @@ Corresponde al Ejecutivo del Estado, por conducto de los Servicios de Salud, en 
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-I. Proveer los servicios de salud con perspectiva de género y en los términos de este Titulo, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
+I. Proveer los servicios de salud con perspectiva de género y en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
 
 II. Identificar e incorporar beneficiarios al régimen estatal de protección social en salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el Estado, conforme a los lineamientos vigentes;
 
@@ -4168,3 +4184,19 @@ P.O. 3 DE NOVIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al (sic) este Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0430.- SE REFORMA EL ARTÍCULO 14 EN SU FRACCIÓN XIII; Y ADICIONA FRACCIÓN A LOS ARTÍCULOS, 4°, ÉSTA COMO III, POR LO QUE LAS ACTUALES III A XIX PASAN A SER FRACCIONES IV A XX, Y 14, ÉSTA COMO XIV, PASA A SER XV, DE Y A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0431.- SE REFORMA LOS ARTÍCULOS, 60, Y 92 EN SU FRACCIÓN IV; Y ADICIONA PÁRRAFO AL ARTÍCULO 57, ÉSTE COMO SEGUNDO, POR LO QUE ACTUALES (SIC) SEGUNDO Y TERCERO PASAN A SER PÁRRAFOS, TERCERO, Y CUARTO, DE Y A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
