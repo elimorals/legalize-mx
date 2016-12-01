@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2015-01-21"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -106,9 +106,17 @@ XIV. Sistema: El Sistema Nacional para el Desarrollo de la Competitividad de la 
 
 XV. Consejo: El Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
-XVI. Consejo Estatal: El Consejo que en cada Entidad Federativa o en el Distrito Federal se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa, y
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
 
-XVII. Reglamento: El Reglamento de esta Ley.
+XVI. Consejo Estatal: El Consejo que en cada Entidad Federativa o en el Distrito Federal se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa;
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+XVII. Reglamento: El Reglamento de esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+XVIII. INADEM: Instituto Nacional del Emprendedor.
 
 ###### Artículo 4.
 
@@ -352,7 +360,9 @@ VIII. El Secretario de Comunicaciones y Transportes;
 
 IX. El Secretario de Turismo;
 
-X. El Subsecretario para la Pequeña y Mediana Empresa de la Secretaría de Economía;
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+X. El Presidente del INADEM;
 
 XI. El Director General de Nacional Financiera, S.N.C.;
 
@@ -382,11 +392,15 @@ El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a
 
 Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso de las dependencias y entidades de la Administración Pública Federal, deberá tener al menos el nivel de director general o su equivalente.
 
-En las ausencias del presidente del Consejo, el Subsecretario para la Pequeña y Mediana Empresa asumirá dichas funciones.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+En las ausencias del presidente del Consejo, el Presidente del INADEM asumirá dichas funciones.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
 
-El Consejo contará con un secretario técnico, a cargo de la Subsecretaría para la Pequeña y Mediana Empresa, quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Congreso de la Unión sobre la evolución de los Programas y los resultados alcanzados; y se coordinará con los Consejos Estatales en lo conducente.
+El Consejo contará con un secretario técnico, a cargo del Presidente del INADEM, quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Congreso de la Unión sobre la evolución de los Programas y los resultados alcanzados; y se coordinará con los Consejos Estatales en lo conducente.
 
 ###### Artículo 20.
 
@@ -501,3 +515,13 @@ D.O.F. 18 DE ENERO DE 2012.
 D.O.F. 21 DE ENERO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3, 18 Y 19 DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro del término de 180 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
+
+TERCERO. En tanto no sea modificado el Reglamento a que se refiere el transitorio segundo, respecto a las facultades y obligaciones de la Subsecretaría para la Pequeña y Mediana Empresa, continuarán aplicándose las normas vigentes al Instituto Nacional del Emprendedor.
