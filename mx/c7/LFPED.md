@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2014-03-20"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -84,7 +84,9 @@ Corresponde al Estado promover las condiciones para que la libertad y la igualda
 
 Cada uno de los poderes públicos federales adoptará las medidas que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio correspondiente, para que toda persona goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y en los tratados internacionales de los que el estado mexicano sea parte.
 
-En el Presupuesto de Egresos de la Federación, para cada ejercicio fiscal, se incluirán las asignaciones correspondientes para promover las acciones de nivelación, de inclusión y las acciones afirmativas a que se refiere el capítulo III de esta Ley.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+En el Presupuesto de Egresos de la Federación, para cada ejercicio fiscal, se incluirán las asignaciones correspondientes para promover las acciones de nivelación, de inclusión y las acciones afirmativas a que se refiere el Capítulo IV de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2014)</small>
 
@@ -760,9 +762,13 @@ IX. Promover y celebrar convenios de colaboración con dependencias y entidades 
 
 X. Proponer a la Junta de Gobierno, para su aprobación, el tabulador salarial del Consejo y prestaciones al personal de nivel operativo del Consejo, siempre que su presupuesto lo permita;
 
-> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
 
-XI. Solicitar a la Asamblea Consultiva opiniones relacionadas con el desarrollo de los programas y actividades que realice el Consejo, y con cuestiones en materia de prevención y eliminación de la discriminación, y
+XI. Solicitar a la Asamblea Consultiva opiniones relacionadas con el desarrollo de los programas y actividades que realice el Consejo, y con cuestiones en materia de prevención y eliminación de la discriminación;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+
+XI Bis. Emitir y suscribir resoluciones por disposición e informes especiales, así como establecer medidas administrativas y de reparación derivadas de las quejas que por los presuntos actos, omisiones o prácticas sociales discriminatorias a que se refiere esta Ley resulten y sean atribuidas a particulares, personas físicas o morales, a personas servidoras públicas federales y a los poderes públicos federales, teniendo la facultad de delegar dichas atribuciones a la persona titular de la Dirección General Adjunta de Quejas, y
 
 > <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2014)</small>
 
@@ -822,11 +828,11 @@ VII. (DEROGADA, D.O.F. 20 DE MARZO DE 2014)
 
 VIII. Las demás que señalen el Estatuto Orgánico y otras disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-Las personas integrantes de la Asamblea Consultiva durarán en su cargo tres años, y podrán ser ratificadas por un período igual, en los términos de lo dispuesto en el Estatuto Orgánico. Cada año se renovará al menos cuatro de sus integrantes.
+Las personas integrantes de la Asamblea Consultiva durarán en su cargo tres años, y podrán ser ratificadas por un período igual, en los términos de lo dispuesto en el Estatuto Orgánico. Cada año podrán renovarse máximo seis de sus integrantes.
 
 ###### Artículo 36.
 
@@ -1441,3 +1447,13 @@ QUINTO. Dentro de los sesenta días siguientes a la entrada en vigor del present
 SEXTO. Conforme a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, las modificaciones previstas en el presente Decreto para los artículos 38, 39, 73 Ter y 86 de esta Ley, exclusivamente por lo que se refiere a la desaparición y transferencia de las atribuciones de la Secretaría de la Función Pública, entrarán en vigor en la fecha en que el órgano constitucional autónomo que se propone crear en materia anticorrupción entre en funciones, conforme a las disposiciones constitucionales y legales que le den existencia jurídica.
 
 Entre tanto se expiden y entran en vigor las disposiciones a que se refiere este artículo, la Secretaría de la Función Pública continuará ejerciendo sus atribuciones conforme a los ordenamientos vigentes al momento de expedición de este decreto.
+
+D.O.F. 1 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente Decreto.
+
+Tercero. Todo lo relativo a la renovación a la que hace alusión el artículo 35 de la Ley Federal para Prevenir y Eliminar la Discriminación, que se reforma con motivo del presente Decreto, se propondrá mediante acuerdo de la Asamblea Consultiva y se pondrá a consideración de la Junta de Gobierno para su aprobación.
