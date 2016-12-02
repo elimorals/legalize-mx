@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg173-2016-del-consejo-general-del-instituto-117391
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-11-25"
-last_updated: "2016-11-25"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-03-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE MODIFICA EL ACUERDO INE/CG78/2016, CON MOTIVO DE LAS SOLICITUDES DEL INSTITUTO NACIONAL DE LAS MUJERES, LA PROCURADURÍA GENERAL DE LA REPÚBLICA Y LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2016.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 25 de noviembre de 2016.
 
@@ -33,7 +33,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -80,3 +80,33 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 El anexo puede ser consultado en la siguiente dirección electrónica:
 
 http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/03_Marzo/CGex201603-30_1a/CGex201603-30_ap_23.pdf
+
+D.O.F. 2 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG280/2016, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se modifican los Acuerdos INE/CG78/2016 e INE/CG173/2016 para vincular a los conceptos de educación y salud, como excepciones a las prohibiciones que en materia de propaganda gubernamental prevé el artículo 41, párrafo segundo, Base III, Apartado C, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos siempre y cuando no incluyan nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público, ni contengan logotipos, slogans o cualquier otro tipo de referencias al gobierno federal o a algún otro gobierno o administración, o a sus campañas institucionales, la siguiente campaña:
+
+- Secretaria de Salud de la Ciudad de México. Campaña “Semáforo de riesgos a la salud por contaminación atmosférica”
+
+La propaganda referida deberá tener carácter institucional y abstenerse de incluir frases, imágenes, voces o símbolos que pudieran ser constitutivos de propaganda política o electoral, o bien elementos de propaganda personalizada de servidor público alguno.
+
+Es decir, no podrá difundir logros de gobierno, obra pública, e incluso, emitir información dirigida a justificar o convencer a la población de la pertinencia de una administración en particular.
+
+Su contenido se limitará a identificar el nombre de la institución de que se trata sin hacer alusión a cualquiera de las frases, imágenes, voces o símbolos que pudieran ser constitutivos de propaganda política o electoral.
+
+La propaganda podrá incluir el nombre de la dependencia y su escudo oficial como medio identificativo, siempre y cuando éstos no se relacionen de manera directa con la gestión de algún gobierno o administración federal o local.
+
+La propaganda no podrá contener logotipos, slogans o cualquier otro tipo de referencias al gobierno federal o a algún otro gobierno o administración, o a sus campañas institucionales, ni incluir elementos de propaganda personalizada de servidor público alguno.
+
+La propaganda exceptuada mediante este Acuerdo, en todo momento, deberá tener fines informativos sobre la prestación de un servicio, alguna campaña de educación o de orientación social, por lo que no está permitida la exaltación, promoción o justificación de algún programa o logro obtenido en los gobiernos local o federal o de alguna administración específica.
+
+La difusión de la propaganda que se encuadre en los supuestos establecidos en el artículo 41, Base III, Apartado C, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, deberá hacerse durante el periodo que sea estrictamente indispensable para cumplir con sus objetivos.
+
+SEGUNDO.- Por lo que hace a las demás normas reglamentarias de propaganda gubernamental, sujetos obligados y en general cualquier otra disposición, quedan en los mismos términos establecidos en los Acuerdos INE/CG78/2016 e INE/CG173/2016.
+
+TERCERO.- Se instruye al Secretario Ejecutivo a que notifique, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, el presente Acuerdo a la Secretaría de la Gestión Pública del Estado de Quintana Roo, al Instituto Nacional para la Evaluación de la Educación, al Municipio de Aguascalientes, al Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, a la Secretaría de Medio Ambiente de la Ciudad de México, a la Secretaria de Salud de la Ciudad de México, a la Junta Municipal de Agua y Saneamiento del Gobierno de Chihuahua y a la Secretaría de Innovación Digital y Comunicaciones del Gobierno Municipal de Puebla.
+
+CUARTO.- Se instruye al Secretario Ejecutivo a que implemente las medidas necesarias para la oportuna publicación de este Acuerdo en el Diario Oficial de la Federación.
