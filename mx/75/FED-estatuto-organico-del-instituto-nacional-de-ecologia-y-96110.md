@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ecologia-y-96110"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-04"
-last_updated: "2014-11-19"
+last_updated: "2016-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-09-25"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE ECOLOGIA Y CAMBIO CLIMATICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO, PUBLICADO EN LA TERCERA SECCIÓN DEL D.O.F. DE 2 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de octubre de 2013.
 
@@ -886,3 +888,25 @@ PRIMERO.- A fin de ajustar administrativamente todas las referencias a la Coordi
 SEGUNDO.- A partir de la entrada en vigor del presente acuerdo, se deberán realizar todos los trámites administrativos ante las dependencias competentes, para registrar el cambio de nomenclatura y funciones de la Coordinación General de Evaluación de Políticas de Mitigación y Adaptación al Cambio Climático.
 
 TERCERO.- El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO”.]
+
+Primero. El presente Estatuto entrará en vigor a partir del día siguiente al de su publicación.
+
+Segundo. Se abroga el Estatuto Orgánico del Instituto Nacional de Ecología y Cambio Climático publicado en el Diario Oficial de la Federación el 4 de octubre de 2013.
+
+Tercero. Publíquese en el Diario Oficial de la Federación.
+
+Cuarto. Inscríbase en el Registro Público de Organismos Descentralizados para los efectos a que haya lugar.
+
+Quinto. La Dirección General expedirá el Manual General de Organización del INECC en un plazo no mayor a un año, contado a partir del día siguiente a que el presente Estatuto se publique en el Diario Oficial de la Federación.
+
+Sexto. La Dirección General expedirá las Condiciones Generales de Trabajo que regirán las relaciones laborales entre el INECC y sus trabajadores de base; en tanto seguirán rigiendo las Condiciones Generales de Trabajo de la Secretaría de Medio Ambiente y Recursos Naturales, así como las disposiciones emanadas o relacionadas con las mismas.
+
+Séptimo. En tanto se obtiene por parte de las instancias competentes la autorización formal de la estructura que prevé este Estatuto y las plazas respectivas, las atribuciones conferidas a las Coordinaciones Generales que a continuación se enuncian, se ejercerán por los responsables de las unidades administrativas del INECC que a la fecha se encuentran autorizadas, de la siguiente forma:
+
+a) Las correspondientes a la Coordinación General de Mitigación del Cambio Climático por la Coordinación General de Cambio Climático y Desarrollo Bajo en Carbono;
+
+b) Las correspondientes a la Coordinación General de Cambio Climático para la Evaluación de las Políticas de Mitigación y Adaptación por la Coordinación General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático.
