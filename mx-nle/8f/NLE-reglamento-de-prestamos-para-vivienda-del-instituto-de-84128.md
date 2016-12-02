@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-prestamos-para-vivienda-del-instituto-de-84128"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-25"
-last_updated: "2014-09-10"
+last_updated: "2016-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PRESTAMOS PARA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL ISSSTELEON DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de noviembre de 2011.
 
@@ -227,13 +229,13 @@ Los contratos y convenios a que se refieren los artículos anteriores, así como
 
 AJUSTE DEL SALDO Y TASA DE INTERÉS
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 16.
 
-El monto destinado a la amortización de los préstamos otorgados a los servidores públicos se revisará cada vez que se modifiquen los salarios mínimos, ajustándose en la misma proporción en que se modifique el salario mínimo general que rija en el Distrito Federal.
+Los préstamos para vivienda que otorga el Instituto son a un plazo de amortización máximo de 30 años y devengarán intereses sobre una tasa fija durante toda la vida del préstamo, la cual se calculará tomando en cuenta la base de la inflación anual registrada para el año inmediato anterior, más 3-tres puntos porcentuales misma que en ningún caso deberá ser inferior al 6% anual. De igual manera, el descuento quincenal se ajustará conforme a los incrementos salariares del servidor público anualmente.
 
-Los préstamos para vivienda que otorga el Instituto son a un plazo de amortización máximo de 30 años y devengarán intereses sobre el saldo ajustado de los mismos sobre la base de la inflación anual registrada para el año inmediato anterior mas la mitad de la tasa real registrada para las cuentas individuales del sistema certificado para jubilación para el año inmediato anterior, de conformidad con el artículo 84 de la Ley.
-
-Si transcurrido un plazo de 30 años de pagos, en los montos correspondientes, que está obligado a efectuar el acreditado para la amortización del préstamo otorgado, existiere todavía algún saldo insoluto a cargo del servidor público, el Instituto lo liberará de dicho saldo pendiente, cancelando los gravámenes que se tengan constituidos a esa fecha sobre la vivienda objeto del préstamo, excepto en los casos que existan pagos omisos del servidor público o en prórrogas concedidas
+Si transcurrido un plazo de 30 años de pagos, en los montos correspondientes, que está obligado a efectuar el acreditado para la amortización del préstamo otorgado, existiere todavía algún saldo insoluto a cargo del servidor público, el Instituto lo liberará de dicho saldo pendiente, cancelando los gravámenes que se tengan constituidos a esa fecha sobre la vivienda objeto del préstamo, excepto en los casos que existan pagos omisos del servidor público o en prórrogas concedidas.
 
 PAGOS ANTICIPADOS
 
@@ -554,3 +556,11 @@ Director General y Secretario del Consejo Directivo del ISSSTELEON
 P.O. 10 DE SEPTIEMBRE DE 2014.
 
 Único.- La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León. A treinta de julio del dos mil catorce, así lo acuerdan y firman los integrantes del H. Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
+
+P.O. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO DE PRÉSTAMO PARA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN".
+
+PRIMERO: La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor a partir del día 1-primero de Enero del año 2017-dos mil diecisiete.
+
+SEGUNDO: Los servidores públicos que a la fecha gocen de un préstamo de vivienda, una vez que entre en vigor la presente reforma, podrán migrar al nuevo esquema para la fijación de la tasa de interés, previa solicitud por escrito que se formule al Instituto.
