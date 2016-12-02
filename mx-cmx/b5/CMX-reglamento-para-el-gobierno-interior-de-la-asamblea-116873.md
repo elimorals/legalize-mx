@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-116873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-18"
-last_updated: "2016-10-19"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116873&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-10-12"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN Y EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 18 de octubre de 2016 y en la Gaceta Oficial de la Ciudad de México, el miércoles 18 de octubre de 2016.
 
@@ -516,9 +516,11 @@ h) Texto normativo que se somete a la consideración del Pleno y los artículos 
 
 Las diputadas o los diputados no podrán cambiar el sentido de su voto plasmado en el dictamen, ni retirar su firma.
 
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2016 Y G.O. 2 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-Las comisiones deberán emitir los dictámenes a más tardar el 30 de noviembre de 2016. Si esto no ocurriera, la Mesa Directiva deberá ejercer la facultad de atracción y presentarlos a consideración del Pleno.
+Las comisiones deberán emitir los dictámenes a más tardar el 10 de diciembre de 2016. Si esto no ocurriera, la Mesa Directiva deberá ejercer la facultad de atracción y presentarlos a consideración del Pleno.
 
 ### CAPÍTULO I. Voto Particular
 
@@ -765,3 +767,13 @@ Segundo.- La Mesa Directiva con auxilio de los órganos establecidos en el artí
 Tercero.- Publíquese en el Diario Oficial de la Federación, en la Gaceta Oficial de la Ciudad de México y en la Parlamentaria de la Asamblea Constituyente.
 
 Ciudad de México, a 12 de octubre de 2016.- Dip. Alejandro de Jesús Encinas Rodríguez.- Rúbrica.- Dip. Margarita Saldaña Hernández, Secretaria.- Rúbrica.- Dip. Aída Arregui Guerrero, Secretaria.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE DICIEMBRE DE 2016 Y G.O. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN AL ARTÍCULO 38 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO".]
+
+Primero.- Este Reglamento entrará en vigor al ser aprobado por el Pleno de la Asamblea Constituyente de la Ciudad de México.
+
+Segundo.- Publíquese en el Diario Oficial de la Federación, en la Gaceta Oficial de la Ciudad de México y en la Parlamentaria de la Asamblea Constituyente.
