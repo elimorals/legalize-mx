@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2016-10-04"
+last_updated: "2016-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -233,19 +233,19 @@ VI. Gestionar y administrar los recursos necesarios para el adecuado funcionamie
 
 VII. Coordinar a la representación del Gobierno del Estado en el Distrito Federal;
 
-VIII. Conocer e integrar las propuestas de gasto de inversión pública e inversión pública que formulen las dependencias y entidades que integran la administración pública estatal y autorizar los montos globales de inversión pública del estado, en el ámbito de su competencia;
+VIII. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2016)
 
-IX. Someter al gobernador para su aprobación, los programas de inversión pública y autorizar los proyectos derivados de los mismos;
+IX. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2016)
 
-X. Programar y operar, los recursos destinados a la inversión pública de las dependencias del ejecutivo, de sus organismos auxiliares y de las entidades paraestatales;
+X. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2016)
 
-XI. Establecer y operar un sistema de evaluación y seguimiento de los programas federales y estatales de inversión pública, conforme a las leyes y acuerdos de coordinación;
+XI. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2016)
 
-XII. Coordinar y registrar, la entrega oportuna de los fondos descentralizados para inversión pública que la federación participe al estado y de los recursos estatales que se descentralicen a los municipios;
+XII. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2016)
 
-XIII. Coadyuvar con la Secretaría de Finanzas, proporcionando información y documentación que le requiera para el cumplimiento de sus atribuciones en el ámbito de su competencia;
+XIII. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2016)
 
-XIV. Programar y revisar la inversión pública en los términos de las leyes y de los convenios aplicables, las participaciones de impuestos federales que les corresponden a los municipios para su distribución;
+XIV. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2016)
 
 XV. Tramitar y atender las solicitudes de acceso a la información dirigidas al titular del Ejecutivo;
 
@@ -1133,9 +1133,9 @@ XI. Convenir con los ayuntamientos para que, cuando así se requiera, el Tesorer
 
 XII. Recibir, revisar y distribuir en los términos de las leyes y de los convenios aplicables, las participaciones de impuestos federales que les corresponden a los municipios;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-XIII. Recibir, coordinar y registrar, la entrega oportuna de los fondos descentralizados que la federación participe al estado y de los recursos estatales que se descentralicen a los municipios;
+XIII. Recibir, coordinar y registrar, la entrega oportuna de los fondos descentralizados para inversión que la federación participe al estado y de los recursos estatales que se descentralicen a los municipios;
 
 XIV. Obtener, revisar, aplicar y, en su caso, reclamar las participaciones de impuestos federales a favor del estado y acudir en auxilio de los municipios, cuando éstos lo soliciten, para gestionar lo que a ellos les corresponda;
 
@@ -1149,9 +1149,9 @@ XVIII. Presentar al Congreso del Estado la cuenta pública estatal, para efectos
 
 XIX. Proporcionar al Congreso del Estado, por conducto de la Comisión de Hacienda y Cuenta Pública, la información que se solicite con relación al funcionamiento de la dependencia;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-XX. Conocer e integrar, las propuestas de gasto corriente que formulen las dependencias y entidades que integran la administración pública estatal;
+XX. Conocer e integrar las propuestas de gasto e inversión pública que formulen las dependencias y entidades que integran la administración pública estatal y autorizar los montos globales de inversión pública del estado;
 
 XXI. Determinar los criterios y montos globales de los estímulos fiscales, estudiar y proyectar sus efectos en los ingresos del estado y evaluar sus resultados conforme a sus objetivos, atendiendo para ello a los sectores beneficiados;
 
@@ -1159,17 +1159,17 @@ XXII. Otorgar los estímulos fiscales necesarios para el desarrollo económico y
 
 XXIII. Otorgar los estímulos y apoyos que apruebe el gabinete para atraer la inversión al estado;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-XXIV. Someter al gobernador para su aprobación, los programas y autorizar los proyectos derivados de los mismos;
+XXIV. Someter al gobernador para su aprobación, los programas de inversión pública y autorizar los proyectos derivados de los mismos;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-XXV. Programar y operar, los recursos de las dependencias del ejecutivo, de sus organismos auxiliares y de las entidades paraestatales;
+XXV. Programar y operar, los recursos destinados a la inversión pública de las dependencias del ejecutivo, de sus organismos auxiliares y de las entidades paraestatales;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-XXVI. Establecer y operar un sistema de seguimiento de los programas federales y estatales, conforme a las leyes y acuerdos de coordinación;
+XXVI. Establecer y operar un sistema de evaluación y seguimiento de los programas federales y estatales de inversión pública, conforme a las leyes y acuerdos de coordinación;
 
 XXVII. Representar al gobernador en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado;
 
@@ -1197,9 +1197,9 @@ XXXVII. Administrar y vigilar los almacenes generales en donde se depositan bien
 
 XXXVIII. Emitir lineamientos sobre contabilidad gubernamental y forma de consolidación de la información financiera, conforme a la normativa aplicable.
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-XXXIX. Licitar y adjudicar contratos de obra pública, adquisiciones, arrendamientos y servicios, de conformidad con la normativa aplicable;
+XXXIX. Licitar y adjudicar contratos de adquisiciones, arrendamientos y servicios, de conformidad con la normativa aplicable.
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
 
@@ -1227,9 +1227,9 @@ III. Construir y conservar las obras públicas y la infraestructura de la red de
 
 IV. Brindar la asesoría técnica a las dependencias y entidades, así como a los municipios que lo soliciten, para la planeación, proyección, contratación, ejecución y supervisión de obras públicas y la conservación de las mismas;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-V. Elaborar los proyectos de obra pública a cargo del Estado, así como supervisar y vigilar el cumplimiento a la normatividad aplicable y requisitos técnicos de los mismos;
+V. Licitar y adjudicar contratos de obra pública, así como supervisar y vigilar el cumplimiento a la normatividad vigente y los requisitos técnicos de los proyectos;
 
 VI. Integrar y mantener actualizado el inventario de la infraestructura de vías de comunicación de jurisdicción estatal;
 
@@ -1994,3 +1994,17 @@ P.O. 4 DE OCTUBRE DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 608.- SE REFORMAN LAS FRACCIONES XIII, XX, XXIV. XXV, XXVI Y XXIX DEL ARTÍCULO 29. LA FRACCIÓN V DEL ARTÍCULO 31; SE DEROGAN LAS FRACCIONES VIII, IX, X, XI, XII, XIII Y XIV DEL ARTICULO 11, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Los recursos humanos, financieros y materiales, así como los archivos documentales que tengan las dependencias objeto de la presente reforma, se reasignarán a las dependencias que correspondan conforme a las actividades que desempeñan y las atribuciones que el presente decreto establece para cada secretaría.
+
+TERCERO.- Los asuntos en trámite que con motivo de esta reforma deban pasar de una dependencia a otra, permanecerán en el estado que se encuentren hasta que las unidades administrativas que las deban recibir tomen conocimiento de ellos, a excepción, de los asuntos sujetos a plazos improrrogables, en cuyo caso conocerá de inmediato la secretaría que corresponda conforme al presente decreto.
+
+CUARTO.- En un plazo de veinte días posteriores a la entrada en vigor del presente decreto, se deberá realizar la adecuación de los reglamentos interiores y demás disposiciones aplicables de las secretarías Técnica y de Planeación, de Finanzas y de Infraestructura y Transporte, conforme a las nuevas atribuciones que les otorga la presente reforma.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a este decreto.
