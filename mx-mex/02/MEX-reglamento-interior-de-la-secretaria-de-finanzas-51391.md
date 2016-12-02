@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-finanzas-51391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2016-06-20"
+last_updated: "2016-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de julio de 2006.
 
@@ -153,9 +153,11 @@ En materia de impuestos federales coordinados, el Secretario podrá delegar sus 
 
 El Secretario podrá ejercer directamente en cualquier momento las atribuciones que corresponden a esta dependencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-Son atribuciones no delegables del Secretario:
+Son atribuciones del Secretario:
 
 I. Fijar, dirigir y controlar la política general de la Secretaría.
 
@@ -3254,3 +3256,13 @@ PRIMERO. Publíquese el presente Acuerdo en el periódico oficial “Gaceta del 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMA EL ARTÍCULO 7 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
