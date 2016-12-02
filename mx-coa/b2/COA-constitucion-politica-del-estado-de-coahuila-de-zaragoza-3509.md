@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2016-10-04"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,9 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -858,11 +856,11 @@ VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo c
 
 VIII. A la Procuraduría General de Justicia en todo lo concerniente a sus funciones y competencias. La Iniciativa se presentará por conducto del Procurador General de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 60.
 
-Las iniciativas presentadas por el Ejecutivo, Tribunal Superior, Organismos Públicos Autónomos o Ayuntamientos pasarán desde luego, a Comisión. Las de los diputados, se sujetarán al trámite que disponga la Ley Orgánica del Congreso.
+Las Iniciativas presentadas por el Ejecutivo, Tribunal Superior, Organismos Públicos Autónomos, la Procuraduría General de Justicia del Estado o Ayuntamientos pasarán desde luego, a Comisión. Las de los Diputados, se sujetarán al trámite que disponga la Ley Orgánica del Congreso.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
@@ -876,11 +874,11 @@ Cuando se trate de una iniciativa de ley o decreto en materia municipal, el Pres
 
 En este caso, el envío será a todos los Ayuntamientos cuando se trate de una ley o decreto que tenga aplicación en todos los municipios, pero cuando se trate de una ley o decreto que sólo tenga aplicación en algún o algunos municipios, el envío únicamente se realizará al Ayuntamiento o Ayuntamientos involucrados. Será innecesario el envío de la ley o decreto al Ayuntamiento que inicio el proceso legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-Cuando un Ayuntamiento presente una ley o decreto en materia municipal, el Congreso del Estado podrá pedir la opinión del Ejecutivo del Estado, antes de hacer el dictamen.
+Cuando un Ayuntamiento presente una ley o decreto en materia municipal, el Congreso del Estado podrá pedir la opinión del Ejecutivo del Estado, antes de elaborar el dictamen.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001) (REPUBLICADO, P.O. 2 DE DICIEMBRE DE 2016)
 
 Por ley o decreto en materia municipal se entenderá sólo aquella norma o normas secundarias a que se refieren los incisos del a) al e) de la fracción IX del artículo 67 de esta Constitución. No serán leyes o decretos en materia municipal aquellas normas fiscales o presupuestales que deban ser aprobadas para el ejercicio fiscal del año siguiente.
 
@@ -3316,9 +3314,9 @@ V. En materia de hacienda pública municipal:
 
 1. Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del municipio, estableciendo un órgano de funciones de control y evaluación del gasto público municipal.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 31 de octubre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
+2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 15 de octubre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
 
 3. Discutir y analizar el Presupuesto de Egresos del Municipio y aprobarlo a más tardar el día 31 de diciembre del año anterior a su ejercicio y disponer su publicación en el Periódico Oficial del Gobierno del Estado y difundirlo por los medios más amplios de que se disponga.
 
@@ -3330,9 +3328,9 @@ V. En materia de hacienda pública municipal:
 
 7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda; asimismo verificar la presentación de la cuenta pública del sector paramunicipal.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-8. Proponer al Congreso del Estado, a más tardar el 31 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.
+8. Proponer al Congreso del Estado a más tardar el 15 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.
 
 9. Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo.
 
@@ -3914,13 +3912,13 @@ La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conform
 
 La Ley Suprema Coahuilense puede ser adicionada o reformada por el Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte del bloque de la constitucionalidad local, deben observarse los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-I. Iniciativa suscrita por el Gobernador o por uno o varios Diputados, a la que se le darán dos lecturas con un intervalo de diez días naturales.
+I. Iniciativa suscrita por el Gobernador o por uno o varios Diputados, a la que se le dará una lectura y se turnará a la Comisión correspondiente.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
-II. Dictamen de la Comisión respectiva al que se darán dos lecturas con un intervalo de seis días naturales.
+II. Dictamen de la Comisión respectiva al que se le dará una lectura.
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
@@ -5033,3 +5031,29 @@ P.O. 4 DE OCTUBRE DE 2016.
 PRIMERO.- Publiquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 578.- SE REFORMA EL ARTÍCULO 60 Y LAS FRACCIONES I Y II DEL ARTÍCULO 196 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Iniciativas presentadas con anterioridad a la entrada en vigor del presente Decreto, continuarán con su proceso legislativo en los términos establecidos en la Constitución Política del Estado de Coahuila de Zaragoza, al momento de su presentación.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, tendrá un plazo de treinta días contados a partir de la publicación del presente Decreto para realizar las adecuaciones a la legislación correspondiente, a fin de dar cumplimiento al mismo.
+
+P.O. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 579.- SE REFORMA EL ARTÍCULO 158-U, FRACCIÓN V, NUMERALES 2 Y 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
