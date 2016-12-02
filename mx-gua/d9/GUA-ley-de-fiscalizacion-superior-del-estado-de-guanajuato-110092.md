@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-110092"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2016-10-28"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2016.]
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -223,11 +223,11 @@ El Programa General de Fiscalización deberá emitirse en el primer bimestre del
 
 Integración, publicación y difusión de la cuenta pública
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2016) (F. DE E., P.O. 2 DE DICIEMBRE DE 2016)
 
 ###### Artículo 19.
 
-La información financiera y la cuenta pública se organizará, integrará sistematizará, publicará y difundirá en el tiempo y con la forma que establezca la Ley General de Contabilidad Gubernamental, las decisiones y acuerdos establecidos por el Consejo Nacional de Armonización Contable, la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, así como los lineamientos que para tal efecto emita el Congreso.
+La información financiera y la cuenta pública se organizará, integrará sistematizará, publicará y difundirá en el tiempo y con la forma que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, las decisiones y acuerdos establecidos por el Consejo Nacional de Armonización Contable, la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, así como los lineamientos que para tal efecto emita el Congreso.
 
 Presentación de la cuenta pública
 
