@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-la-maternidad-en-el-estado-de-coahuila-6461
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-24"
-last_updated: "2015-11-13"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 24 de octubre de 2008.
 
@@ -46,6 +46,14 @@ El objeto de la presente ley es asegurar la observancia y protección de los der
 ###### Artículo 2.
 
 La protección de esta ley, incluye las etapas de embarazo, parto y maternidad en infancia temprana.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+Conforme a lo ordenado por el Artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, las mujeres embarazadas gozarán de los derechos humanos reconocidos por dicho ordenamiento así como de los establecidos en los tratados internacionales, brindándoseles en todo tiempo la protección más amplia.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+Todas las autoridades, tienen la obligación de promover, respetar, proteger y garantizar los derechos de la mujer embarazada. En consecuencia, las autoridades del estado y municipios de Coahuila deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos y bajo las condiciones y competencias que establezca la ley correspondiente.
 
 ###### Artículo 3.
 
@@ -179,7 +187,11 @@ II. A gozar de estabilidad en el empleo, cargo u ocupación que desarrolle, a no
 
 III. A ocupar cargos de elección popular o de designación en los órganos de Gobierno de Coahuila en igualdad de condiciones que lo hacen los hombres o mujeres no embarazadas;
 
-IV. Al acceso y continuidad en la educación, por lo que no podrá restringirse el acceso de las mujeres embarazadas a los centros de educación públicos o privados;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+IV. Al acceso y continuidad en la educación, por lo que no podrá restringirse el acceso de las mujeres embarazadas a los centros de educación públicos o privados; Para tal efecto, las instituciones educativas públicas o privadas, deberán establecer mecanismos para flexibilizar los planes de estudios y horarios de la mujer embarazada, así como a justificar su inasistencia por motivos de atención médica, en su caso, se autorizarán bajas temporales, a efecto de garantizar la continuidad en sus estudios.
+
+Corresponde a la Secretaría de Educación del Estado, velar por el cumplimiento de esta disposición, así como implementar las condiciones necesarias para optimizar el rendimiento académico de la embarazada y estimular la continuidad en sus estudios;
 
 V. A contar con asesoría legal por cualquier acto de discriminación, vejación y vulneración de sus derechos como mujer embarazada, durante las veinticuatro horas del día. En los casos que se considere necesario, gozará de los servicios de defensoría de oficio, para interponer los recursos, juicios o medios legales de defensa necesarios para proteger o reivindicar sus derechos así como en relación con los diferentes procedimientos de adopción; en este último caso, a través del Sistema para el Desarrollo Integral de la Familia de Coahuila y de las demás instancias legales competentes.
 
@@ -193,7 +205,17 @@ VII. Recibir la ayuda psicológica o psiquiátrica durante el embarazo y despué
 
 VIII. A obtener incentivos o descuentos fiscales por parte del Gobierno de Coahuila conforme a lo previsto en la Ley de Asistencia Social y Protección de Derechos del Estado y en otros ordenamientos aplicables.
 
-IX. A contar con descuentos en el transporte público, cuando su situación económica lo amerite, previo estudio y dictamen de las autoridades correspondientes, quienes le deberán extender una credencial temporal para que se le hagan efectivos los descuentos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+Los beneficios correspondientes se aplicarán preferentemente a mujeres embarazadas que carezcan de los medios suficientes para la satisfacción de sus necesidades y que se encuentren en un estado de desamparo o desventaja;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+IX. A contar con descuentos en el transporte público, cuando su situación económica lo amerite, previo estudio y dictamen de las autoridades correspondientes, quienes le deberán extender una credencial temporal para que se le hagan efectivos los descuentos. Asimismo, a contar con cajones preferenciales en estacionamientos públicos.
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+X. Gozar de noventa días de descanso, mismos que podrá distribuir de la manera que desee la madre, ya sea antes o después del parto.
 
 A efecto de dar cumplimiento a lo dispuesto por la fracción IV de este artículo, el Gobierno de Coahuila, implementará un programa de incentivos fiscales para las personas físicas o morales que contraten a mujeres embarazadas.
 
@@ -234,6 +256,26 @@ I. En cualquier actividad que desarrolle la mujer embarazada, no podrá ser expu
 Las mujeres que realicen actividades de pie en su trabajo, contarán con el derecho a sillas o asientos cómodos que les permitan reducir el agotamiento y los riesgos de salud inherentes.
 
 II. No se podrá negar el acceso a mujeres embarazadas con hijos en infancia temprana, a los establecimientos mercantiles de acceso al público bajo regulación del Estado o los Municipios, a menos que se trate de prohibiciones fundadas y acreditadas en la misma ley o que pongan en riesgo su salud o la de sus hijos.
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+III. Las mujeres embarazadas no sufrirán discriminación bajo ningún concepto;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+IV. Está prohibido ejercer violencia física o moral a las mujeres embarazadas. La contravención a esta disposición se sancionará de manera agravada en los términos dispuestos por el Código Penal para el Estado de Coahuila de Zaragoza;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+V. Bajo ningún concepto se podrá negar a la mujer embarazada el derecho al trabajo, independientemente de la etapa del embarazo en el que se encuentre, siempre y cuando no perjudique o ponga en riesgo a su hijo en gestación;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+VI. No se restringirá o limitará el derecho a la educación a las mujeres embarazadas;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2016)</small>
+
+VII. Las mujeres embarazadas no podrán realizar jornadas nocturnas de trabajo;
 
 ### CAPITULO III. DE LOS DERECHOS DURANTE EL EMBARAZO EN RELACION CON LOS SERVICIOS DE SALUD
 
@@ -430,3 +472,11 @@ P.O. 13 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 580.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 2; SE REFORMAN LAS FRACCIONES IV, VIII, IX Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 15; Y SE ADICIONAN LAS FRACCIONES III, IV, V, VI Y VII AL ARTÍCULO 19 DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al siguiente Decreto.
