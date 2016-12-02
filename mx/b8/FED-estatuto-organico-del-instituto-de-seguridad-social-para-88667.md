@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-88667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-30"
-last_updated: "2015-10-01"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-07-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2016.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de julio de 2012.
 
@@ -525,7 +525,13 @@ XI. Coordinar con las demás Unidades Administrativas, los estudios y proyectos 
 
 XII. Promover el desarrollo de las relaciones Institucionales en el ámbito nacional, y
 
-XIII. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE DICIEMBRE DE 2016)</small>
+
+XIII. Fungir como la Unidad de Transparencia de este Instituto.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 2 DE DICIEMBRE DE 2016)</small>
+
+XIV. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
 
 ART. 22.- La Dirección Administrativa tendrá las siguientes funciones y facultades.
 
@@ -609,7 +615,7 @@ XII. Coordinar y dar seguimiento a los programas establecidos por el Gobierno Fe
 
 XIII. Dirigir, proponer y dar seguimiento a proyectos institucionales, encaminados a mejorar las prestaciones y servicios, establecidos en el artículo 18 de la Ley de este Instituto;
 
-XIV. Coordinar y dar seguimiento a las actividades inherentes a la Transparencia y Acceso a la Información Pública Gubernamental;
+XIV. (DEROGADA, D.O.F. 2 DE DICIEMBRE DE 2016)
 
 XV. Conformar el banco estadístico de las funciones sustantivas y adjetivas del Instituto, dejando evidencia en diferentes documentos institucionales;
 
@@ -712,5 +718,11 @@ D.O.F. 8 DE SEPTIEMBRE DE 2015.
 ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 1 DE OCTUBRE DE 2015.
+
+ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
 
 ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
