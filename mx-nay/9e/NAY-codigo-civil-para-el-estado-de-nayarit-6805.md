@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2016-11-08"
+last_updated: "2016-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -10029,6 +10029,8 @@ Del mutuo.
 
 Del mutuo con interés.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1756.
 
 El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuatario, quien se obliga a devolver otro tanto de la misma especie y calidad.
@@ -10081,19 +10083,17 @@ Disposiciones generales.
 
 ###### Artículo 1765.
 
-Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
+Es permitido estipular interés por el mutuo, ya consista en dinero, ya en especies.
 
 ###### Artículo 1766.
 
 El interés es legal o convencional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1767.
 
-El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal, sin perjuicio de la responsabilidad penal en que pudiere haber incurrido el mutuante.
+El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal, sin perjuicio de la responsabilidad penal en que pudiere haber incurrido el mutuante. Si el interés pactado se estipuló en especie, el importe del interés que se cause, se estimará tomando en cuenta el precio del mercado de la especie convenida en el tiempo y lugar en que el deudor deba hacer la devolución o por el que determinen peritos, si aquéllas estuvieren extinguidas al tiempo de hacerse su evaluación.
 
 ###### Artículo 1768.
 
@@ -16362,3 +16362,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS NUMERALES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
