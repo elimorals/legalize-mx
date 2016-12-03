@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2014-12-31"
+last_updated: "2016-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL MUNICIPIO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 3 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL MUNICIPIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2016. (ABROGADA)
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -2560,3 +2562,43 @@ Artículo segundo.- Se derogan las disposiciones que contravengan el presente De
 P.O. 31 DE DICIEMBRE DE 2014.
 
 Artículo Único.- El presente decreto entrara en vigor al momento de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 3 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Vigencia y difusión
+
+Artículo Primero. La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley Orgánica del Municipio publicada mediante Decreto #351 en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 14 de septiembre de 2001.
+
+Derogación
+
+Artículo Tercero. Se derogan todas las disposiciones legales que se opongan a esta ley.
+
+Vigencia especifica
+
+Artículo Cuarto. La obligación a que se refieren los artículos 60 fracción III inciso c, y 202 quinto párrafo, relativa a la aprobación del Presupuesto de Egresos entrará en vigor para el ejercicio fiscal 2018. En lo correspondiente al ejercicio fiscal 2017, podrá aprobarse a más tardar el treinta de enero de 2017.
+
+Vigencia escalonada
+
+Artículo Quinto. Las disposiciones de esta ley relativas a la materia de disciplina financiera, entrarán en vigor en los plazos señalados en los artículos transitorios de la Ley de Disciplina Financiera.
+
+Plazo para reglamentación
+
+Artículo Sexto. Los Ayuntamientos, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente ley, expedirán o, en su caso, adecuarán, el Bando de Policía y Gobierno, los reglamentos y disposiciones administrativas necesarias, conforme lo establecido en esta ley.
+
+Seguimiento de la Auditoría
+
+Artículo Séptimo. La Auditoría Superior del Estado dará seguimiento a las contrataciones y basificaciones del personal de la administración pública municipal. En específico las llevadas a cabo en los últimos seis meses de su ejercicio, a que se refiere el artículo 62 fracción VII de esta ley.
+
+Plazo para expedir Gaceta Municipal
+
+Artículo Octavo. Los Ayuntamientos expedirán, en un plazo de ciento veinte días naturales, su Gaceta del Municipio Libre.
+
+Irretroactividad
+
+Artículo Noveno. Los actos jurídicos, asuntos, trámites y los recursos administrativos instaurados antes de la entrada en vigor de la presente ley, se substanciarán y resolverán conforme a las disposiciones de la ley que se abroga.
