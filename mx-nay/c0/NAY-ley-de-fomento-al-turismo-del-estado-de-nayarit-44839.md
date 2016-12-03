@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-al-turismo-del-estado-de-nayarit-44839"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-04"
-last_updated: "2012-03-24"
+last_updated: "2016-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2016..
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el miércoles 4 de mayo de 2005.
 
@@ -75,21 +75,23 @@ VIII. Estimular y apoyar a las empresas y prestadores de servicios turísticos q
 
 IX. Propiciar los mecanismos para la participación del sector privado y social en el cumplimiento de esta ley.
 
-X Establecer las medidas pertinentes para lograr que el gobierno del estado y los ayuntamientos cuenten con mayores recursos para impulsar el desarrollo turístico.
+X. Establecer las medidas pertinentes para lograr que el gobierno del estado y los ayuntamientos cuenten con mayores recursos para impulsar el desarrollo turístico.
 
 XI. Garantizar a las personas con discapacidad la igualdad de oportunidades dentro de los programas de desarrollo del sector turismo.
 
-XII. Elaborar los planes y programas de uso del suelo, ordenamiento urbano y territorial, y los demás que sean necesarios para el desarrollo Turístico, por los niveles de gobierno a que corresponda.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+XII. Elaborar los planes y programas de uso del suelo, ordenamiento urbano y territorial, y los demás que sean necesarios para el desarrollo turístico sustentable, por los niveles de gobierno a que corresponda.
 
-XIII. Determinar y definir zonas y áreas sobre todo en las playas costeras, para el turismo social y el gran turismo.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XIII. Identificar y definir zonas y áreas sobre todo en las playas costeras, para el turismo social y el gran turismo, en el mismo tenor atendiendo la legislación aplicable y en coordinación con la autoridad competente garantizar los accesos correspondientes a los sitios antes referidos.
 
 XIV. Promover el turismo en general propugnando por la preservación de la riqueza turística, por la generación de empleo, por lograr una mayor captación de divisas y derrama económica, para el beneficio de la población en su conjunto, así como de las empresas y prestadores de servicios turísticos y por una mayor captación de recursos por parte del sector gobierno para el mejor cumplimiento de sus fines.
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-XV. Impulsar el desarrollo sustentable a través del turismo, por medio de los segmentos ecológico, de aventura, rural y cultural atendiendo las modalidades de gran turismo, accesible y social;
+XV. Impulsar el desarrollo sustentable a través del Turismo de Naturaleza y cultural atendiendo las modalidades de gran turismo, accesible y social;
 
 XVI. Propugnar por la implantación de estilos arquitectónicos armónicos en las zonas y centros de atracción turística.
 
@@ -111,7 +113,9 @@ I. Consejo: El Consejo Consultivo Estatal de Turismo;
 
 II. Consejo Municipal: Los Consejos Consultivos Municipales de Turismo en el Estado;
 
-III. Desarrollo Sustentable: El proceso constante, sostenido y evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+III. Desarrollo Sustentable: El proceso constante, sostenido y evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, garantizando la funcionalidad ecosistémica de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
 IV. Prestadores de Servicios Turísticos: Las personas físicas o morales que proporcionen, intermedien o contraten con el turista la prestación de los servicios turísticos, considerados en esta Ley de Fomento al Turismo dentro del Estado;
 
@@ -121,7 +125,9 @@ VI. Ruta Turística.- El circuito temático o geográfico que se basa en un patr
 
 VII. Secretaría: La Secretaría de Turismo del Estado de Nayarit;
 
-VIII. Turismo Sustentable.- Aquél que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquel que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y aquel, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida de sus habitantes;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VIII. Turismo Sustentable.- Aquél que cumple con dar un uso sustentable a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquel que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos naturales, culturales, sus valores tradicionales y arquitectónicos; y aquel, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida de sus habitantes; con equilibrio entre economía-sociedad-ambiente, garantizando la funcionalidad ecosistémica;
 
 IX. Turista: La persona que temporalmente viaja fuera de su lugar de residencia habitual y que utiliza o disfruta dentro del estado algún servicio turístico referido en la presente ley, y
 
@@ -139,7 +145,9 @@ III. Empresas de sistemas de intercambio de servicios turísticos;
 
 IV. Arrendadoras de automóviles y transportadoras terrestres exclusivas de Turismo;
 
-V. Empresas que ofrezcan actividades de turismo ecológico;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+V. Empresas que ofrezcan actividades de ecoturismo;
 
 VI. Organizadores de congresos, convenciones, ferias, exposiciones y reuniones de grupos de trabajo o capacitación que generen flujos de Turismo;
 
@@ -177,13 +185,17 @@ III. Atención y gestión a las necesidades de vivienda, adiestramiento y capaci
 
 IV. Las demás que se consideren como necesarias o complementarias de las anteriores.
 
-El Gobernador impulsará el desarrollo de programas específicos de turismo social, en coordinación con los gobiernos municipales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+El Gobernador impulsará el desarrollo de programas específicos de turismo social y capacitación en desarrollo turístico sustentable, en coordinación con los gobiernos municipales.
 
 ###### ARTICULO 7°.
 
 La Secretaría, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo, tendrá las siguientes:
 
-I. La Secretaría gestionará ante las autoridades correspondientes el otorgamiento de facilidades, beneficios y estímulos a los inversionistas de la actividad turística, aprovechando los mecanismos ya existentes, para aquellos prestadores de servicios turísticos que inviertan en la actividad
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+I. La Secretaría gestionará ante las autoridades correspondientes el otorgamiento de facilidades, beneficios y estímulos a los inversionistas de la actividad turística, aprovechando los mecanismos ya existentes, para aquellos prestadores de servicios turísticos que inviertan en la actividad, impulsando el desarrollo turístico sustentable;
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -209,7 +221,9 @@ X. Coordinar las acciones de información y difusión turística que realice el 
 
 XI. Realizar una labor permanente de edición, promoción y difusión tanto de los centros y lugares turísticos, como de los valores culturales del estado considerados estos como atractivos turísticos:
 
-XII. Promover el turismo en general que propicien el desarrollo económico, social y cultural de los centros y zonas turísticas de la Entidad, preservando el patrimonio turístico, el medio ambiente, la biodiversidad y los ecosistemas;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XII. Promover el turismo en general que propicien el desarrollo económico, social y cultural de los centros y zonas turísticas de la Entidad, preservando el patrimonio turístico, el medio ambiente, la biodiversidad y la funcionalidad de los ecosistemas;
 
 XIII. Proponer a los gobiernos municipales convenios de colaboración conjunta en materia de promoción y fomento al turismo;
 
@@ -217,7 +231,9 @@ XIII. Proponer a los gobiernos municipales convenios de colaboración conjunta e
 
 XIV. Proporcionar asesoría y apoyo a los Prestadores de Servicios Turísticos, así como a los ayuntamientos que lo soliciten;
 
-XV. Facilitar la integración de las comunidades rurales y serranas a proyectos turísticos, de acuerdo con las propuestas que presenten los gobiernos municipales;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XV. Facilitar la integración de las comunidades rurales y serranas a proyectos turísticos sustentables, de acuerdo con las propuestas que presenten los gobiernos municipales;
 
 XVI. Promover la señalización turística en las vías públicas y las carreteras, así como la difusión de imágenes turísticas en los vehículos del servicio público;
 
@@ -227,9 +243,9 @@ XVIII. Imponer las sanciones administrativas que esta ley señale sin perjuicio 
 
 XIX. Coordinar el programa sectorial, turístico, que se sujetará a lo previsto en el Plan Estatal de Desarrollo, cumpliendo con las tareas que le correspondan en el marco de la Ley de Planeación del Estado de Nayarit y en congruencia con el Plan Nacional de Desarrollo y el programa sectorial de turismo nacional, y (sic)
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-XX. Promover en coordinación con la Secretaría de Cultura, el patrimonio histórico, artístico, arqueológico y cultural del Estado;
+XX. Promover en coordinación con la Secretaría de Educación, el patrimonio natural, histórico, artístico, arqueológico y cultural del Estado;
 
 > <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -239,13 +255,29 @@ XXI. Coordinarse con la Secretaría de Turismo Federal y la Secretaría de Agric
 
 XXII. Requerir a los Ayuntamientos los datos económicos y demás información estadística que generen en materia de Turismo;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-XXIII. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado, conforme a los convenios que al efecto se suscriban, y
+XXIII. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado, conforme a los convenios que al efecto se suscriban;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-XXIV. Las demás que señalen las leyes y reglamentos vigentes o que le encomiende el Gobernador, conforme esta ley.
+XXIV. Coadyuvar con el titular del Poder Ejecutivo del Estado en la aplicación de los instrumentos de política ambiental y de cambio climático, en materia de turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXV. Colaborar con la Secretaría del Trabajo, Productividad y Desarrollo Económico en las acciones tendientes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXVI. Participar con las dependencias y entidades de la Administración Pública, para impulsar proyectos productivos y de inversión turística, que cumplan con las disposiciones legales y normativas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXVII. Impulsar la elaboración del Índice de Competitividad Turística del Estado, en los términos de esta Ley y su Reglamento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XXVIII. Las demás que señalen las leyes y reglamentos vigentes o que le encomiende el Gobernador, conforme a esta ley.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -319,9 +351,17 @@ XIII. Respetar los usos y costumbres de los turistas, siempre que éstos no sean
 
 XIV. Coadyuvar a la preservación del medio ambiente y los recursos turísticos de conformidad con esta Ley y demás legislación de la materia;
 
-XV. Procurar la buena imagen de los servicios turísticos que presten, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-XVI. Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
+XV. Procurar la buena imagen de los servicios turísticos que presten;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XVI. Prestar servicios atendiendo lo establecido en la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como la Ley General de Vida Silvestre, y demás legislación en la materia, y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XVII. Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -331,13 +371,17 @@ XVI. Las demás que establezcan esta Ley y otras disposiciones legales y reglame
 
 #### Sección Primera. Consejo Consultivo Estatal de Turismo
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 12.
 
-El Consejo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la administración pública, con el fin de lograr un desarrollo integral de las actividades turísticas en el estado, utilizando entre otros mecanismo (sic) foros de consulta y memorias publicadas.
+El Consejo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la administración pública, con el fin de lograr un desarrollo integral y sustentable de las actividades turísticas en el estado, utilizando entre otros mecanismos foros de consulta y memorias publicadas.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 El Consejo será presidido por el Titular del Ejecutivo del Estado, y estará integrado por aquellos que éste determine, incluyendo al Titular de la Secretaría, y por los Presidentes Municipales conforme lo dispuesto en el reglamento de la presente ley.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 Podrán ser invitados al Consejo con derecho a voz, los representantes de instituciones públicas federales, locales o municipales, privadas, sociales, asociaciones y sociedades jurídicamente reconocidas relacionadas al turismo, así como al sector académico, entre otras que puedan hacer aportaciones a los temas que se traten.
 
@@ -371,7 +415,7 @@ El Ayuntamiento deberá emitir las disposiciones reglamentarias correspondientes
 
 #### Sección Primera. Planeación Turística
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO III. De la Planeación Turística, Cadenas Productivas y del Ordenamiento Turístico del Territorio
 
@@ -395,13 +439,17 @@ En la elaboración del Plan Rector Sectorial en materia de Turismo participarán
 
 ###### ARTICULO 16.
 
-La planeación turística es la ordenación racional y sistemática de las acciones de promoción, fomento y desarrollo de las actividades turísticas cuyo objeto es consolidar al Estado en la materia turística, así como fortalecer la economía estatal, a través de procesos fundados en criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado.
+La planeación turística sustentable es la ordenación racional y sistemática de las acciones de promoción, fomento y desarrollo de las actividades turísticas cuyo objeto es consolidar al Estado en la materia turística, así como fortalecer la economía estatal, a través de procesos fundados en criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 Son objetivos de la planeación turística:
 
 I. Proteger y resaltar las expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales típicas del Estado;
 
-II. Garantizar la conservación y preservación del patrimonio natural del Estado, de los ecosistemas, de la diversidad biológica, de la flora, de la fauna, de las especies en peligro de extinción y de los espacios particularmente vulnerables, tales como, regiones litorales o humedales, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+II. Garantizar la conservación, preservación y funcionalidad del patrimonio natural del Estado, de los ecosistemas, de la diversidad biológica, de la flora, de la fauna, de las especies en peligro de extinción y de los espacios particularmente vulnerables, tales como, regiones litorales o humedales, y
 
 III. Garantizar el acceso y trato equitativo de toda persona a las diferentes modalidades del turismo, en especial a aquellas que sufran algún tipo de discapacidad, a los indígenas y personas de la tercera edad, evitando cualquier trato discriminatorio.
 
@@ -415,29 +463,69 @@ La planeación turística será acorde a lo establecido en el Plan Estatal de De
 
 #### Sección Tercera. Programa Sectorial Turístico
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 17 B.- El Programa Sectorial Turístico, en concordancia con los contenidos del Plan Rector Sectorial en materia de turismo y el Plan Estatal de Desarrollo, debe contener al menos:
+ARTICULO 17 B.- El Programa Sectorial Turístico, en concordancia con los contenidos del Plan Nacional de Desarrollo, el Programa Sectorial de Turismo Nacional, el Plan Rector Sectorial en materia de turismo y el Plan Estatal de Desarrollo, debe contener al menos:
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
 I. Los objetivos y metas del Estado en materia de turismo, a corto, mediano y largo plazo;
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
 II. El diagnóstico y la prospectiva de la situación turística en el Estado;
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
 III. Las acciones a través de las cuales, el Gobierno Estatal impulsará el crecimiento de las zonas turísticas de la entidad y así satisfacer la demanda de servicios turísticos;
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+
 IV. La enumeración de los estudios ambientales y de las materias que las leyes determinen, de las áreas geográficas turísticas o que se pretendan convertir en tales, los cuales tendrán como fin motivar el cumplimiento de las disposiciones normativas aplicables y satisfacer las necesidades de los prestadores de servicios turísticos y turistas;
 
-V. El desarrollo de las políticas públicas que la Secretaría pretenderá aplicar;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-VI. Los mecanismos de evaluación de las políticas públicas, y
+V. El diagnóstico y prospectiva del impacto sinérgico y/o acumulativo del desarrollo turístico en el estado;
 
-VII. Descripción de los instrumentos de promoción del Sector Turístico.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VI. Acciones que impulsen el desarrollo de aquellas regiones en donde existan atractivos e intereses para la inversión turística;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VII. El estudio comparativo de los principales indicadores del sector a nivel nacional e internacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VIII. El desarrollo de las políticas públicas que la Secretaría pretenderá aplicar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+IX. Los mecanismos de evaluación de las políticas públicas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA],P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+X. Descripción de los instrumentos de promoción del Sector Turístico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+El Programa Sectorial propondrá acciones para fomentar la diversificación, consolidación y modernización del sector turístico, así como para desarrollar la competitividad de las regiones del Estado, de acuerdo a su vocación turística.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+El Programa Sectorial promoverá el financiamiento y crecimiento de la infraestructura turística, en coordinación con el sector privado y social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría procurará que en la región que se pretenda desarrollar turísticamente, se realicen obras que satisfagan las necesidades fundamentales de los prestadores de servicios y de los turistas, para tal efecto se coordinará con las autoridades correspondientes.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ARTICULO 17 C.- El Programa Sectorial Turístico deberá ser aprobado por la Secretaría y publicado en el Periódico Oficial.
 
-La Secretaría evaluará anualmente el Programa Sectorial Turístico para efectos de verificar el avance del cumplimiento de los objetivos a corto, mediano y largo plazo en el sector turístico.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría se encargará anualmente de revisar, evaluar y en su caso actualizar el Programa Sectorial Turístico, para efectos de mantener vigentes las acciones y verificar el avance del cumplimiento de los objetivos a corto, mediano y largo plazo en el sector turístico. Los datos y la información obtenida serán publicados en la página de internet de la Secretaría.
 
 Los ayuntamientos podrán elaborar su Programa Sectorial Turístico Municipal, el cual deberá de ser acorde al Plan Municipal de Desarrollo. El programa, deberá aprobarse por el cabildo y publicarlo en la Gaceta Municipal.
 
@@ -451,7 +539,9 @@ En todos los casos, los municipios deberán procurar la armonización con el Pro
 
 ARTICULO 17 D.- La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía del Estado y de los municipios y con ello, buscar el desarrollo regional sustentable.
 
-Los instrumentos para promover el desarrollo regional sustentable realizarán estudios socioeconómicos, ambientales y de mercado turístico, tomando en cuenta la información disponible en el Registro Nacional de Turismo y el Atlas Turístico de México.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+Los instrumentos para promover el desarrollo regional sustentable realizarán estudios socioeconómicos, ambientales y de mercado turístico, tomando en cuenta la información disponible en el Registro Nacional de Turismo, el Atlas Turístico de México y el Atlas de Vulnerabilidad Hídrica en México ante el Cambio Climático.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -488,6 +578,50 @@ IV. Proponer los criterios para la determinación de los planes o programas de d
 El Programa de Ordenamiento Turístico Territorial será evaluado anualmente por la Secretaría, la cual instrumentará los mecanismos necesarios que permitan determinar el impacto y avances en la implementación.
 
 ### CAPÍTULO IV. Promoción, Fomento y Desarrollo Turístico
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 I.- Corresponde a la Secretaría la promoción turística de la Entidad, en los ámbitos local, nacional e internacional. Los Ayuntamientos deberán promover la actividad turística dentro de su ámbito territorial, en el marco de lo dispuesto en el Programa Sectorial.
+
+En el caso de la promoción internacional, esta se llevará a cabo en coordinación con las autoridades federales en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 J.- La Secretaría se encargará de expedir los lineamientos técnicos para el diseño y producción de las campañas turísticas publicitarias en la entidad.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 K.- La Secretaría promoverá el uso de las marcas y regiones turísticas de Nayarit en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 L.- La promoción turística nacional e internacional comprenderá entre otras, las siguientes actividades, estrategias y acciones:
+
+I. La participación de la Secretaría y de los prestadores de servicios turísticos en eventos, congresos y exposiciones turísticas nacionales e internacionales.
+
+La promoción de la oferta turística del Estado en mercados estratégicos nacionales o internacionales, en coordinación con instituciones, organismos oficiales, asociaciones, empresas y particulares que tengan relación directa con el sector turístico en la entidad;
+
+II. La publicación y distribución de libros, revistas, folletos y otros materiales audiovisuales o electrónicos, dedicados a la difusión de los atractivos naturales, el patrimonio cultural, así como las categorías y los servicios turísticos del Estado;
+
+III. La promoción de Nayarit como destino para la inversión entre empresarios nacionales y extranjeros;
+
+IV. La difusión de las marcas turísticas de Nayarit y sus regiones, imágenes y servicios turísticos, así como los atractivos naturales de Nayarit, en medios de comunicación masiva;
+
+V. El apoyo, información y asesoría a los turistas en la entidad;
+
+VI. La gestión para que espectáculos o eventos deportivos, culturales, turísticos, o de naturaleza similar que representen especial relevancia o alto impacto se desarrollen en los diferentes destinos turísticos del Estado, y
+
+VII. Cualquier otra actividad que tenga por objeto la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en el Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 M.- La Secretaría difundirá la información turística a través de internet, centros y módulos de información turística, entre otros medios.
+
+La Secretaría determinará el sitio o sitios de Internet oficiales del Gobierno del Estado para la información y promoción turística de la Entidad.
+
+La dirección electrónica del sitio o sitios de Internet deberán aparecer en todos los materiales de promoción y oficiales de la Secretaría.
+
+Los centros de información turística ofrecerán información, orientación y asesoramiento acerca de los servicios y atractivos de interés de un sitio turístico y deberán estar en lugares estratégicos y visibles para facilitar su localización, para tal efecto deberán contar con personal capacitado en la materia.
 
 ###### ARTICULO 18.
 
@@ -537,35 +671,65 @@ XV. Impulsar la actividad turística en las Zonas de Desarrollo Turístico Suste
 
 XVI. En general, todas aquellas que permitan la realización de su objeto.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 19 A.- La Secretaría fomentará la actividad turística a través de programas y proyectos que tendrán por objeto el otorgamiento de financiamiento, estímulos e incentivos a los prestadores de servicios turísticos, con la finalidad de impulsar la inversión en infraestructura turística.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 19 B.- La Secretaría apoyará a los prestadores de servicios turísticos, ante las instancias respectivas, para que obtengan financiamiento para construir, mejorar o remodelar la infraestructura turística.
+
+Asimismo, la Secretaría coadyuvará en la gestión ante las autoridades correspondientes, para el otorgamiento de facilidades, incentivos y estímulos tendientes al desarrollo de la actividad turística.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 19 C.- La Secretaría será la encargada de impulsar la elaboración del Índice de Competitividad Turística del Estado, apoyándose en su caso en las instituciones educativas de la entidad, a efecto de medir la efectividad y competitividad, identificar fortalezas y áreas de oportunidad, permitiendo crear, ofrecer y sostener actividades, productos y servicios turísticos con valor añadido, capaces de generar desarrollo económico y social.
+
+El Índice de Competitividad Turística tomará en consideración los principios de rentabilidad, sustentabilidad, evaluación continua, los criterios y estándares establecidos por el Foro Económico Mundial, entre otros elementos que se consideren necesarios.
+
 ### CAPÍTULO V. Capacitación y Cultura Turística
 
 ###### ARTICULO 20.
 
 El Gobernador y los Ayuntamientos, en ejercicio de sus atribuciones, celebrarán convenios con instituciones federales y municipales, así como con instituciones universitarias y tecnológicas, en materia de educación y capacitación para el turismo, concertando acciones con los particulares, el sector social y los empresarios para ese fin.
 
+> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría, en coordinación con los Ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística.
+
+> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría en coordinación con la Secretaría de Educación del Estado, impulsarán programas y acciones específicas que difundan la importancia de respetar y conservar el patrimonio natural, histórico, artístico, arqueológico y cultural, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional y extranjero.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 21.
 
-En la Comisión de Fomento al Turismo habrá un Centro de Capacitación Turística que tendrá por objeto la formación, capacitación, adiestramiento y actualización de técnicos y profesionales en la actividad turística. Dicho Centro se integrará con una directiva compuesta por un coordinador que será un representante del sector privado, un secretario y cinco vocales, dándose intervención a representantes de las instituciones de educación superior del estado.
+En la Comisión de Fomento al Turismo habrá un Centro de Coordinación Turística que tendrá por objeto gestionar e impulsar programas que garanticen la formación, capacitación, adiestramiento y actualización de los técnicos y profesionales de la actividad turística, el fomento del desarrollo de la cultura turística local, de alta calidad y competitividad, así como promover investigaciones y estudios del sector. Dicho Centro se integrará con una directiva compuesta por un coordinador que será un representante del sector privado, un secretario y cinco vocales, dándose intervención a representantes de las instituciones de educación superior del estado.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 22.
 
-Para cumplir con su objetivo, el Centro de Capacitación Turística realizará las siguientes funciones:
+Para cumplir con su objetivo, el Centro de Coordinación Turística realizará las siguientes funciones:
 
-I. Impartir cursos de información, capacitación, adiestramiento y actualización a técnicos y profesionales en la actividad turística.
+I. Detectar las necesidades de capacitación en la materia a través de reuniones con empresarios y representantes del sector de los diferentes municipios del estado;
 
-II. Promover y realizar investigaciones y estudios del sector.
+II. Gestionar, planear y programar cursos de información, capacitación, adiestramiento y actualización a técnicos y profesionales en la actividad turística, impartidos por instituciones o empresas públicas o privadas;
 
-III. Prestar asesoría y asistencia técnica a organismos públicos y privados del sector turístico que lo soliciten.
+III. Promover la realización de investigaciones y estudios del sector, vinculándose para ese fin con instituciones académicas, empresas públicas o privadas, así como con instancias especializadas;
 
-IV. Impulsar programas que fomenten el desarrollo de la cultura turística local o nacional, de alta calidad y competitividad.
+IV. Efectuar los trámites necesarios ante las instancias correspondientes para que los organismos públicos y privados del sector turístico que lo soliciten obtengan asesoría y asistencia técnica, y
+
+V. Impulsar programas que fomenten el desarrollo de la cultura turística local o nacional, de alta calidad y competitividad.
 
 ### CAPÍTULO VI. De las Ramas del Turismo
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 23.
 
-Para los efectos de esta Ley, el turismo en general se subdivide en diversas vertientes o ramas como son: el turismo accesible, de aventura, cultural, ecológico, rural, social, de salud y gran turismo.
+Para los efectos de esta Ley, el turismo en general se subdivide en diversas vertientes o ramas como son: el turismo accesible, de compras, cultural, deportivo, gastronómico, de naturaleza, de negocios, religioso o espiritual, social, de salud y gran turismo.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -575,51 +739,85 @@ La conceptualización genérica de los tipos de turismo, es la siguiente:
 
 I. Turismo Accesible.- Es el que tiene por objeto promover la prestación de servicios turísticos con accesibilidad de toda naturaleza, para beneficiar a la población con alguna discapacidad, la Secretaría con apoyo y coordinación de las dependencias y entidades en el Estado, municipios y prestadores de servicios turísticos, deberán proveer lo necesario para garantizar que las personas con discapacidad cuenten con accesibilidad a los servicios turísticos;
 
-II. Turismo de Aventura.- Son los viajes que tienen como fin realizar actividades recreativas, deportivas, asociadas a desafíos impuestos por la naturaleza y su conformación;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+II. Turismo de Compras.- Es aquél que se encuentra vinculado a las compras o bienes exclusivos; como artículos de lujo, arte, artesanía y artículos de uso común, entre otros;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
 III. Turismo Cultural.- Son los viajes turísticos motivados por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos espirituales, materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico;
 
-IV. Turismo Ecológico.- Es el que tiene como fin realizar las actividades turísticas en sus diversas modalidades, aprovechando los elementos naturales, geográficos y de los ecosistemas que existen en el Estado.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
-Quien preste algún servicio turístico que esté relacionado con el turismo ecológico, o quien realice actividades en esta materia, está obligado a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado.
+IV. Turismo Deportivo.- Es aquél cuya principal motivación es practicar algún deporte o presenciar algún evento deportivo;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+V. Turismo Gastronómico.- Es aquél que se encuentra vinculado a la comida tradicional de la zona, o derivado de eventos realizados en el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VI. Turismo de Naturaleza.- Los viajes que tienen como fin realizar actividades recreativas en contacto directo con la naturaleza y las expresiones culturales que le envuelven con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales.
+
+El Turismo de Naturaleza es dividido en tres grandes segmentos, cada uno compuesto por diversas actividades:
+
+a) Ecoturismo.- Es el que tiene como fin realizar actividades recreativas de apreciación y conocimiento de la naturaleza en sus diversas modalidades, aprovechando los elementos naturales, geográficos y de los ecosistemas que existen en el Estado.
+
+Quien preste algún servicio turístico que esté relacionado con el ecoturismo, o quien realice actividades en esta materia, está obligado a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado.
 
 Las empresas que desarrollen actividades turísticas ecológicas, deberán realizarlas con apego a las leyes de la materia y se someterán a las limitaciones impuestas por la Secretaría y por aquellas autoridades que tengan competencia en materia ecológica y de protección al ambiente.
 
-En el desarrollo del turismo ecológico, la Secretaría deberá buscar acciones para minimizar el impacto negativo en el ambiente, así como para la comunidad que genera la actividad.
+En el desarrollo del ecoturismo, la Secretaría deberá buscar acciones para minimizar el impacto negativo en el ambiente, así como para la comunidad que genera la actividad.
 
-La Secretaría y los ayuntamientos tendrán la obligación de promover la educación y conciencia ambiental, como parte primordial de las actividades turísticas ecológicas, con el objeto de proporcionar experiencias positivas a los turistas y Prestadores de Servicios Turísticos.
+La Secretaría y los ayuntamientos tendrán la obligación de promover la educación y conciencia ambiental, como parte primordial de las actividades turísticas ecológicas, con el objeto de proporcionar experiencias positivas a los turistas y Prestadores de Servicios Turísticos;
 
-V. Turismo Rural.- Son los viajes que tienen como fin realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, y
+b) Turismo de Aventura.- Son los viajes que tienen como fin realizar actividades recreativas, deportivas, asociadas a desafíos impuestos por la naturaleza y su conformación con diversas actividades agrupadas de acuerdo al espacio natural en que se desarrollan, y
 
-VI. Turismo Social.- Es el conjunto de actividades que involucra familias y grupos sociales de jóvenes, adultos mayores, y personas con discapacidad, mediante el uso de instrumentos y programas que otorgan facilidades para permitirles viajar con fines recreativos, deportivos, educativos y culturales en condiciones adecuadas de accesibilidad económica, seguridad y comodidad.
+c) Turismo Rural.- Son los viajes que tienen como fin realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VII. Turismo de Negocios.- Es el segmento de turismo cuyo motivo de viaje está vinculado con la realización de actividades profesionales y laborales, el cual abarca congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+VIII. Turismo Religioso o Espiritual.- Es aquél que se encuentra ligado a la oferta de lugares o acontecimientos de carácter religioso de relevancia, o bien de recogimiento y meditación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+IX. Turismo Social.- Es el conjunto de actividades que involucra familias y grupos sociales de jóvenes, adultos mayores, y personas con discapacidad, mediante el uso de instrumentos y programas que otorgan facilidades para permitirles viajar con fines recreativos, deportivos, educativos y culturales en condiciones adecuadas de accesibilidad económica, seguridad y comodidad.
 
 La Secretaría podrá coordinarse con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para apoyar a los prestadores de servicios turísticos que se dediquen al turismo social y para promover la constitución de empresas que tengan por objeto la prestación de estos servicios accesibles a la población.
 
 Se consideran acciones primordiales para lograr el desarrollo del turismo social en el Estado, las siguientes:
 
-I. Incrementar la participación de los prestadores de servicios turísticos, organismos públicos, privados y sociales para lograr una oferta razonable con tarifas y cuotas reducidas;
+a) Incrementar la participación de los prestadores de servicios turísticos, organismos públicos, privados y sociales para lograr una oferta razonable con tarifas y cuotas reducidas;
 
-II. Fomentar programas turísticos destinados al sector social, en los que se tomen en consideración necesidades, características específicas y periodos vacacionales;
+b) Fomentar programas turísticos destinados al sector social, en los que se tomen en consideración necesidades, características específicas y periodos vacacionales;
 
-III. Estimular y apoyar las inversiones destinadas a programas de turismo social, a través de la formación de sociedades cooperativas, asociaciones, comités y patronatos, así como proporcionar la asesoría que requieran las personas físicas o morales interesadas en este tipo de inversiones;
+c) Estimular y apoyar las inversiones destinadas a programas de turismo social, a través de la formación de sociedades cooperativas, asociaciones, comités y patronatos, así como proporcionar la asesoría que requieran las personas físicas o morales interesadas en este tipo de inversiones;
 
-IV. Orientar a quienes justifiquen el destino social de su inversión, en las acciones que realicen ante las autoridades competentes, con el fin de obtener un tratamiento crediticio preferencial;
+d) Orientar a quienes justifiquen el destino social de su inversión, en las acciones que realicen ante las autoridades competentes, con el fin de obtener un tratamiento crediticio preferencial;
 
-V. Propiciar la celebración de reuniones, congresos y seminarios regionales, estatales, nacionales e internacionales de turismo social, y (sic)
+e) Propiciar la celebración de reuniones, congresos y seminarios regionales, estatales, nacionales e internacionales de turismo social, y
 
-VI. Las demás que la Secretaría considere oportunas.
+f) Las demás que la Secretaría considere oportunas.
 
-La Secretaría en coordinación con la Secretaría de Cultura y el Instituto Nayarita de la Juventud del Estado, elaborarán y ejecutarán de manera coordinada programas tendientes a fomentar el turismo social en el Estado de Nayarit.
+La Secretaría en coordinación con la Secretaría de Educación y el Instituto Nayarita de la Juventud del Estado, elaborarán y ejecutarán de manera coordinada programas tendientes a fomentar el turismo social en el Estado de Nayarit.
 
-A los Ayuntamientos del Estado les corresponderán establecer programas municipales que impulsen y promuevan el turismo social.
+A los Ayuntamientos del Estado les corresponderán establecer programas municipales que impulsen y promuevan el turismo social;
 
-VII. Turismo de Salud.- Es el que tiene como fin que el turista puede realizar actividades de prevención y cuidado de la salud aprovechando los recursos, infraestructura y atención médica con que cuenta el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+X. Turismo de Salud.- Es el que tiene como fin que el turista puede realizar actividades de prevención y cuidado de la salud aprovechando los recursos, infraestructura y atención médica con que cuenta el Estado.
 
 La Secretaría deberá fomentar la coordinación con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para incentivar, capacitar y desarrollar programas de promoción de prestadores de servicios turísticos que se dediquen al turismo de salud; así como promover y promocionar a las empresas y los avances en equipamiento que tengan por objeto la prestación de servicios de salud.
 
-Las entidades y organismos descentralizados de la administración pública municipal que tengan atribuciones en materia de turismo, están obligados a coordinarse en el ejercicio de sus funciones con el Ayuntamiento.
+Las entidades y organismos descentralizados de la administración pública municipal que tengan atribuciones en materia de turismo, están obligados a coordinarse en el ejercicio de sus funciones con el Ayuntamiento, y
 
-VIII. Gran Turismo.- Es una categoría que se da en la clasificación hotelera siendo este el que se otorga con los estándares de la más alta calidad en el servicio y es reconocido en el ámbito nacional e internacional.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+
+XI. Gran Turismo.- Es una categoría que se da en la clasificación hotelera siendo este el que se otorga con los estándares de la más alta calidad en el servicio y es reconocido en el ámbito nacional e internacional.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -930,3 +1128,9 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El Gobernador del Estado, deberá emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
 
 Artículo Tercero.- El Gobernador del Estado y los ayuntamientos constituirán sus respectivos Consejos Consultivos, dentro de los 180 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA ARTÍCULOS DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
