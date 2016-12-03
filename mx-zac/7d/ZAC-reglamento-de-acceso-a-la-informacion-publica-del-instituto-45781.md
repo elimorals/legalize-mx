@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-acceso-a-la-informacion-publica-del-instituto-457
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-03"
-last_updated: "2009-11-25"
+last_updated: "2016-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE ACCESO A LA INFORMACIÓN PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2009, Y TRANSITORIO PRIMERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2016 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de agosto de 2005.
 
@@ -675,7 +675,7 @@ CUARTO. En caso de que el solicitante requiera de la reproducción de la informa
 
 QUINTO.- La Unidad de Enlace contará con un plazo de treinta días naturales, a partir de la aprobación del presente Reglamento, para elaborar su Manual de Operaciones.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 ACUERDO:
 
@@ -689,7 +689,7 @@ Dado en la Sala de Sesiones del Consejo General del Instituto Electoral del Esta
 
 Lic. Juan Francisco Valerio Quintero: Consejero Presidente; Lic. José Manuel Ortega Cisneros: Secretario Ejecutivo. Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 25 DE NOVIEMBRE DE 2009.
 
@@ -698,3 +698,17 @@ PRIMERO.- Se abroga el Reglamento para el Acceso a la información Pública apro
 SEGUNDO.- Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 TERCERO.- El presente Reglamento entrará en vigor a partir del día hábil siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P. O. 3 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO.- ACG-IEEZ-106/VI/2016 POR EL QUE SE APRUEBA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL IEEZ. Y ANEXO”.]
+
+Primero.- Se abroga el Reglamento de Acceso a la Información Pública del Instituto Electoral del Estado de Zacatecas, aprobado en sesión ordinaria del Consejo General, celebrada el 13 de julio de 2005, mediante Acuerdo ACG/016/II/2005.
+
+Segundo.- El presente Reglamento entrará en vigor y surtirá sus efectos a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de Zacatecas.
+
+Tercero.- Las referencias que se hagan en otros ordenamientos internos a la Comisión de Transparencia y Acceso a la Información Pública del Consejo General del Instituto Electoral del Estado de Zacatecas y a la Unidad de Transparencia y Acceso a la Información Pública del Instituto Electoral del Estado de Zacatecas, se entenderán referidos al Comité de Transparencia y a la Unidad de Transparencia, respectivamente.
+
+Cuarto.- El Comité de Transparencia se renovará anualmente en el mes de diciembre de cada año, los integrantes durarán un año con opción a ser ratificados, en este caso, la presidencia será rotativa.
+
+Quinto.- Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, así como en la página de internet del Instituto Electoral.
