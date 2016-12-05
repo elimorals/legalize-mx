@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2016-11-02"
+last_updated: "2016-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 2 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -575,9 +573,11 @@ VII. No haber sido dirigente de ningún partido o asociación política a nivel 
 
 VIII. No haber sido postulado como candidato para algún cargo de elección popular en el período de tres años anteriores a la fecha de la propuesta de su designación.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 46.
 
-Los Comisionados, previa convocatoria pública, serán designados por el Congreso del Estado en sesión pública, por el voto de la mitad más uno de los Diputados asistentes a la Sesión, de no alcanzarse dicha votación, se procederá a la designación mediante insaculación.
+Los Comisionados, previa convocatoria pública, serán designados por el Congreso del Estado en sesión pública, mediante el voto de las dos terceras partes de sus integrantes, de no alcanzarse dicha votación, se procederá a la designación mediante insaculación.
 
 ###### Artículo 47.
 
@@ -1925,7 +1925,7 @@ La Comisión deberá notificar la resolución al denunciante y al sujeto obligad
 
 Las resoluciones que emita la Comisión serán definitivas e inatacables para los sujetos obligados. El particular podrá impugnar la resolución por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
 
-El sujeto obligado deberá cumplir con la resolución en un plazo de quince días, a partir del día siguiente al (sic) en que se le notifique la misma.
+El sujeto obligado deberá cumplir con la resolución en un plazo de quince días, a partir del día siguiente al en que se le notifique la misma.
 
 ###### Artículo 123.
 
@@ -1937,7 +1937,7 @@ Cuando la Comisión considere que existe un incumplimiento total o parcial de la
 
 ###### Artículo 124.
 
-En caso de que la Comisión considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
+En caso de que la Comisión considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
 
 ## TÍTULO SEXTO. INFORMACIÓN CLASIFICADA
 
@@ -2804,3 +2804,11 @@ MANUEL FLORENTINO GONZÁLEZ FLORES
 LA C. CONTRALORA GENERAL DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 NORA ELIA CANTÚ SUÁREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 173. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 46 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
