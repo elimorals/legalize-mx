@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg35-2013-del-consejo-general-del-instituto-federal-921
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-12"
-last_updated: "2013-02-12"
+last_updated: "2016-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-01-23"
 ---
 # ACUERDO CG35/2013 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA EL ACCESO, VERIFICACION Y ENTREGA DE LOS DATOS PERSONALES EN POSESION DEL REGISTRO FEDERAL DE ELECTORES POR LOS INTEGRANTES DE LOS CONSEJOS GENERAL, LOCALES Y DISTRITALES, LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES, LOS PARTIDOS POLITICOS Y LOS ORGANISMOS ELECTORALES LOCALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO DE ACUERDO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS "LINEAMIENTOS PARA EL ACCESO, VERIFICACIÓN Y ENTREGA DE LOS DATOS PERSONALES EN POSESIÓN DEL REGISTRO FEDERAL DE ELECTORES POR LOS INTEGRANTES DE LOS CONSEJOS GENERAL, LOCALES Y DISTRITALES, LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES Y LOS ORGANISMOS PÚBLICOS LOCALES", PUBLICADO EN EL D.O.F. DE 5 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA EL ACCESO, VERIFICACIÓN Y ENTREGA DE LOS DATOS PERSONALES EN POSESIÓN DEL REGISTRO FEDERAL DE ELECTORES POR LOS INTEGRANTES DE LOS CONSEJOS GENERAL, LOCALES Y DISTRITALES, LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES, LOS PARTIDOS POLÍTICOS Y LOS ORGANISMOS ELECTORALES LOCALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de febrero de 2013.
 
@@ -530,3 +532,31 @@ e) Los mecanismos de control y seguridad para garantizar que el manejo de los da
 48. El Organismo Electoral Local, deberá cubrir los costos que se generen de la elaboración, entrega, seguridad, devolución o destrucción de los instrumentos y documentos electorales con datos personales contenidos en el Padrón Electoral.
 
 49. Los Organismos Electorales Locales garantizarán en todo momento la confidencialidad, salvaguarda y custodia de la información, instrumentos y productos electorales que les sean entregados.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMIENTOS PARA EL ACCESO, VERIFICACIÓN Y ENTREGA DE LOS DATOS PERSONALES EN POSESIÓN DEL REGISTRO FEDERAL DE ELECTORES POR LOS INTEGRANTES DE LOS CONSEJOS GENERAL, LOCALES Y DISTRITALES, LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES Y LOS ORGANISMOS PÚBLICOS LOCALES”.]</small>
+
+PRIMERO. Se aprueban los “Lineamientos para el Acceso, Verificación y Entrega de los Datos Personales en posesión del Registro Federal de Electores por los integrantes de los Consejos General, Locales y Distritales, las Comisiones de Vigilancia del Registro Federal de Electores y los Organismos Públicos Locales”, de conformidad con el Anexo que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se abrogan los “Lineamientos para el Acceso, Verificación y Entrega de los datos personales en posesión del Registro Federal de Electores por los integrantes de los Consejos General, Locales y Distritales, las Comisiones de Vigilancia del Registro Federal de Electores, los Partidos Políticos y los Organismos Electorales Locales”, aprobados mediante Acuerdo CG35/2013 del Consejo General del otrora Instituto Federal Electoral.
+
+TERCERO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores presente a la Comisión Nacional de Vigilancia y a la Comisión del Registro Federal de Electores las propuestas de protocolos de seguridad para el acceso y el manejo por parte de los integrantes de los Consejos General, Locales y Distritales, las Comisiones de Vigilancia del Registro Federal de Electores, los partidos políticos y los Organismos Públicos Locales, de los datos del Padrón Electoral y la entrega de las listas nominales de electores, así como los relativos a los procedimientos para la devolución, borrado seguro y/o destrucción de los listados nominales, conforme a lo establecido en los Lineamientos que acompañan el presente Acuerdo y forman parte integral del mismo, en un plazo no mayor a sesenta días hábiles contados a partir de la aprobación del presente Acuerdo.
+
+CUARTO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+PRIMERO. Para efectos de la aplicación de lo previsto en el numeral 40 de los Lineamientos que acompañan el presente Acuerdo y forman parte integral del mismo, en las elecciones locales ordinarias con Jornada Electoral el día cinco de junio de 2016, los representantes de los partidos políticos y de los candidatos independientes entregarán los tantos impresos de las Listas Nominales de Electores Definitivas con Fotografía que estén en su poder, en las juntas distritales ejecutivas del Instituto Nacional Electoral, a más tardar cinco días naturales después de la Jornada Electoral.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo para que a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales, se haga del conocimiento lo aprobado en el presente Acuerdo a los Organismos Públicos Locales de las entidades federativas.
+
+Se instruye a las Direcciones Ejecutivas de Administración, de Capacitación Electoral y Educación Cívica, de Organización Electoral, y del Registro Federal de Electores, que adopten las medidas necesarias para el cumplimiento del presente Acuerdo.
+
+El anexo puede ser consultado en la siguiente dirección electrónica:
+
+http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/05_Mayo/CGex201605-04_01/CG1ex201605-04_ap_11_x1.pdf
