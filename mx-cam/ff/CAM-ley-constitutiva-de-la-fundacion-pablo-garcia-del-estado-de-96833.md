@@ -4,7 +4,7 @@ identifier: "CAM-ley-constitutiva-de-la-fundacion-pablo-garcia-del-estado-de-968
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2013-11-15"
+last_updated: "2016-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY CONSTITUTIVA DE LA FUNDACIÓN PABLO GARCÍA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 73, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR TRES DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Campeche, el viernes 15 de noviembre de 2013.
 
@@ -59,7 +57,7 @@ I. La Fundación: la Fundación Pablo García;
 
 II. Ley: La Ley Constitutiva de la Fundación Pablo García;
 
-III. Reglamento Interior: Reglamento Interior de la Fundación Pablo García; (sic)
+III. Reglamento Interior: Reglamento Interior de la Fundación Pablo García;
 
 ###### Artículo 2.
 
@@ -99,11 +97,15 @@ V. Acordar con las Dependencias de la Administración Pública Estatal, en su ca
 
 VI. Realizar acciones de gestión para el fortalecimiento de su patrimonio, así como celebrar acuerdos para la suma de recursos con instituciones públicas, privadas y personas físicas, con la finalidad de aumentar las metas en los programas sustantivos de la Fundación;
 
-VII. Impartir doctorados, maestrías, especialidades, diplomados, certificaciones y, en general, toda formación educativa y capacitación laboral que fomente el desarrollo profesional, ya sea de manera gratuita u onerosa;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+VII. Impartir talleres, cursos, diplomados, certificaciones y, en general, toda formación educativa y capacitación laboral que fomente el desarrollo profesional, ya sea de manera gratuita u onerosa;
 
 VIII. Participar, a través de las personas beneficiadas en sus programas, en la realización de asesorías, elaboración y análisis de proyectos técnicos, administrativos y jurídicos, realización de investigaciones y emisión de dictámenes u opiniones técnicas que le sean planteados;
 
-IX. Emitir el programa "Compromisos Solidarios por Campeche", a efecto de que los becarios y acreditados cumplan un servicio de acción solidaria y de corresponsabilidad social con el Estado de Campeche y sus habitantes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+IX. Emitir el programa “Servicio Social por Campeche”, a efecto de que los becarios y acreditados cumplan un servicio de acción solidaria y de corresponsabilidad social con el Estado de Campeche y sus habitantes;
 
 X. Supervisar el adecuado desempeño académico de los becarios y acreditados, integrar la información socioeconómica y de aprovechamiento escolar necesaria para la renovación de becas, becas - crédito, créditos educativos y el otorgamiento de apoyos, así como coordinar acciones de tutoría e intervención en caso de advertirse riesgo en el desempeño del estudiante;
 
@@ -167,21 +169,21 @@ Formarán parte de la Fundación las unidades administrativas y el personal téc
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-La Junta de Gobierno es el órgano máximo de decisión y establecimiento de políticas de la Fundación, estará integrada por:
+La Junta de Gobierno es el órgano máximo de decisión y establecimiento de políticas de la Fundación y se integra por:
 
-I. Un Presidente, que será el Ejecutivo Estatal;
+I. Un Presidente, que será el Secretario de Educación;
 
-II. Un Vicepresidente, que será el Secretario de Educación; y
-
-III. Diez Vocales, que serán:
+II. Nueve Vocales, que serán:
 
 a) El Secretario de Finanzas;
 
 b) El Secretario de Administración e Innovación Gubernamental;
 
-c) El Secretario de Desarrollo Industrial y Comercial;
+c) El Secretario de Desarrollo Económico;
 
 d) El Secretario de Desarrollo Rural;
 
@@ -191,13 +193,11 @@ f) El Secretario de Turismo;
 
 g) El Secretario de Salud;
 
-h) El Secretario de Desarrollo Social y Regional;
+h) El Secretario de Desarrollo Social y Humano y (sic);
 
-i) El Secretario de la Contraloría; y
+i) El Secretario de la Contraloría.
 
-j) El Secretario de Medio Ambiente y Aprovechamiento Sustentable.
-
-El Director General de la Fundación fungirá como Secretario Técnico de la Junta de Gobierno con voz, pero sin voto.
+El Director General de la Fundación fungirá como Secretario Técnico de la Junta de Gobierno y contará con voz, pero sin voto.
 
 ###### Artículo 10.
 
@@ -209,15 +209,19 @@ El cargo de miembro de la Junta de Gobierno será honorífico, por lo que no dar
 
 La Junta de Gobierno, con la aprobación de la mayoría de sus miembros y de acuerdo al tema que se aborde en cada sesión, podrá invitar a los representantes de otras dependencias e instituciones públicas federales, estatales o municipales, no comprendidas en el artículo 9 de la presente Ley, así como a organizaciones privadas o personas físicas, los cuales tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno celebrará sesiones ordinarias cada tres meses, para lo cual se convocará y entregará a los miembros el correspondiente orden del día y demás documentación pertinente, con al menos cinco días hábiles de anticipación, por parte del Presidente o Vicepresidente de la misma. La Junta de Gobierno podrá sesionar también de manera extraordinaria en el momento que sea requerido por el Presidente o Vicepresidente de la misma, en estos casos, bastará la comunicación por cualquier vía para que se tenga formalmente realizada.
+La Junta de Gobierno celebrará sesiones ordinarias cada tres meses, para lo cual se convocará y entregará a los miembros el correspondiente orden del día y demás documentación pertinente, con al menos cinco días hábiles de anticipación, por parte del Presidente de la misma. La Junta de Gobierno podrá sesionar también de manera extraordinaria en el momento en que sea requerido por el Presidente de la misma, en estos casos bastará la comunicación por cualquier vía para que se tenga como formalmente realizada.
 
 La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. En caso de que no asista la mayoría de los miembros se convocará a nueva sesión. Si en la nueva sesión no asiste la mayoría de los miembros se llevará a cabo la sesión con los miembros presentes. Las resoluciones se tomarán por votación mayoritaria de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
 
 De toda sesión se levantará el acta correspondiente, misma que será sometida a aprobación por parte de los miembros de la Junta de Gobierno en la sesión siguiente que corresponda.
 
-Ninguna sesión será válida sin la presencia del Presidente o Vicepresidente de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+Ninguna sesión será válida sin la presencia del Presidente de la Junta de Gobierno o de su suplente.
 
 ###### Artículo 13.
 
@@ -233,7 +237,9 @@ IV. Aprobar el Manual de Organización, de Estructuras y el de Procedimientos de
 
 V. Evaluar el cumplimiento de los programas, las metas y los indicadores de desempeño institucional que la Fundación haya emitido;
 
-VI. Aprobar los informes periódicos de avances presupuestales y estados financieros del organismo, así como los estados financieros y la cuenta pública de la Fundación; además del informe final de ejercicio del presupuesto y el informe anual que emita el Director General respecto a la gestión de la Fundación en la última sesión del año; lo anterior, con estricto apego a los señalamientos que emita el Comisario del organismo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+VI. Aprobar los informes periódicos de avances presupuestales y estados financieros del organismo, y la cuenta pública de la Fundación; además del informe final de ejercicio del presupuesto y el informe anual que emita el Director General respecto a la gestión de la Fundación, previo informe del órgano interno de control de la Fundación, del auditor externo y con base en la opinión del comisario;
 
 VII. Nombrar y remover, a propuesta del Director General, a los servidores públicos de la Fundación, aprobar la fijación de sus sueldos y prestaciones, y concederles licencia, en los términos que señale el Reglamento Interior;
 
@@ -245,15 +251,19 @@ Las facultades de la Junta de Gobierno a las que se refieren las fracciones I, I
 
 ### CAPÍTULO III. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-El Director General de la Fundación será designado y removido por el Gobernador del Estado.
+El Director General de la Fundación será designado y removido por el Gobernador del Estado o, a indicación de éste, por el Secretario de Educación.
 
 ###### Artículo 15.
 
 Son requisitos para ser designado Director General de la Fundación:
 
-I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+I. Ser mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Contar, de preferencia, con un nivel académico de posgrado;
 
@@ -313,7 +323,9 @@ El Comité Consultivo tendrá las siguientes funciones:
 
 I. Fungir como órgano de consulta respecto de las políticas, estrategias y acciones que implemente la Fundación, a efecto de lograr que en el otorgamiento de las becas, becas - crédito, créditos educativos y apoyos para la investigación y apoyos educativos, exista la mayor alineación posible con la demanda del sector productivo, así como con la intención de prioridades o problemáticas locales;
 
-II. Servir como enlace para el desarrollo del programa de solidaridad social y de inserción laboral y económica de los becarios; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+II. Fungir como enlace para el desarrollo del programa “Servicio Social por Campeche", así como para lograr la inserción laboral y económica de los becarios; y
 
 III. Otorgar opiniones, asesorías, desarrollar proyectos e implementar programas o acciones que le sean solicitados en apoyo al sector público, productivo, social o académico del Estado, de conformidad con lo establecido en el Reglamento Interior de la Fundación y los lineamientos emitidos por la Junta de Gobierno respecto a los becarios o beneficiarios de los programas de la Fundación.
 
@@ -471,13 +483,17 @@ Cuando la Fundación pague el préstamo en varias parcialidades y exista un laps
 
 De ésta forma, el acreditado inicia el pago proporcional de cada aportación de recursos de la Fundación al mes de recibirla, computándose para cada inicio de pago un nuevo plazo de pago.
 
-###### Articulo 39.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
-La Fundación podrá modificar unilateralmente montos y plazos convenidos en contrato con los beneficiarios, ya sea por limitaciones de orden presupuestal o bien, porque tenga información de que el beneficiario cuenta con algún otro esquema de financiamiento de sus estudios y no le fue notificado oportunamente a la Fundación.
+###### Artículo 39.
+
+La Fundación podrá modificar montos y plazos convenidos en contrato con los beneficiarios, ya sea por limitaciones de orden presupuestal, conforme a lo dispuesto en la Ley de Presupuesto de Egresos del Estado o bien, porque tenga información de que el beneficiario cuenta con algún otro esquema de financiamiento de sus estudios y no le fue notificado oportunamente a la Fundación, de acuerdo a lo que establece el reglamento aplicable para tal fin de la Fundación y a lo señalado de la Ley de la Administración Pública Paraestatal del Estado de Campeche.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 40.
 
-La Fundación podrá suspender el pago del monto comprometido en crédito educativo o apoyo educativo si el beneficiario incumple con alguno de sus pagos mensuales.
+La Fundación podrá suspender el pago del monto comprometido en crédito educativo o apoyo educativo si el beneficiario incumple con alguna de las obligaciones establecidas en las disposiciones jurídicas aplicables para la Fundación en estos casos.
 
 En caso de que hubiere la omisión de pago de tres o más mensualidades, sin causa justificada, la Fundación podrá rescindir administrativamente el contrato suscrito con el beneficiario.
 
@@ -495,21 +511,13 @@ Esta suspensión no podrá exceder de seis meses a partir de su otorgamiento.
 
 Si el beneficiario del programa llegaré a fallecer o presentare algún tipo de incapacidad parcial o total para laborar, la Fundación podrá condonar la totalidad de su adeudo.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 44.
 
-En el caso de becas - crédito y apoyos educativos aplica la condonación parcial de pago del monto otorgado en su totalidad, conforme a los siguientes porcentajes:
+El beneficiario de una beca-crédito y/o apoyo educativo tendrá derecho a condonación parcial de pago del monto otorgado en su totalidad, bajo las condiciones descritas en las disposiciones jurídicas aplicables de la Fundación para tal fin.
 
-I. Se condonará hasta un 90% del monto otorgado en el caso de que el beneficiario, una vez que haya concluido sus estudios haya obtenido su grado académico con mención honorífica o con resultados académicos de excelencia, siempre y cuando en caso de haber realizado estudios en el extranjero o en alguna otra entidad federativa haya retornado al Estado de Campeche con fines de residencia, o realizados sus estudios en el Estado mantengan su residencia en la entidad y en todo caso labore en alguna empresa, institución educativa o de investigación o en el Gobierno del Estado;
-
-II. Se condonará de un 40% a un 80% del monto otorgado en el caso de que el beneficiario, una vez que haya concluido sus estudios fuera del Estado retorne a Campeche, o realizados sus estudios en la entidad mantenga su residencia en el Estado y en todo caso labore en alguna empresa, institución educativa o de investigación o en el Gobierno del Estado;
-
-III. Se condonará un 10% en el caso de que el beneficiario, una vez que haya concluido sus estudios y obtenido el grado académico, resida en algún otro Estado de la República Mexicana; y
-
-IV. Cuando por circunstancias propias de los estudios realizados y debido al nivel de excelencia académica obtenida por el beneficiario, éste no regrese a radicar al Estado de Campeche y continúe sus estudios o investigaciones científicas contratado o becado por alguna institución educativa o de investigación científica de prestigio a tiempo completo, a petición del interesado y una vez que éste haya asumido algún compromiso de retribución a favor de nuestra entidad en los términos del programa de "Compromisos Solidarios por Campeche", la Fundación podrá considerar la posibilidad ya sea de suspender por tiempo definido los plazos para determinar y requerir el pago hasta el retorno del beneficiario o condonar hasta un 40% del monto otorgado.
-
-V. En caso de que el beneficiario no retorne a Campeche y no se encuentre en ninguno de los supuestos de la fracción anterior, deberá cubrir la totalidad del monto otorgado y, en su caso, los intereses aplicables.
-
-Para determinar el porcentaje a aplicar según el caso entre el máximo y el mínimo, el Reglamento Interior de la Fundación deberá establecer una tabla donde asigne el porcentaje a aplicar dentro del margen previsto para cada caso según el monto de ingresos netos que el beneficiario reciba como ingreso propio o que la persona que lo mantiene reciba como ingreso propio, el sector laboral en el cual se encuentre empleado y su desempeño académico.
+Para determinar el porcentaje a aplicar según el caso entre el máximo y el mínimo, el Reglamento Interior deberá establecer una tabla donde se asigne el porcentaje a aplicar dentro del margen previsto para cada caso según el monto de ingresos netos que el beneficiario reciba como ingreso propio o que la persona que lo mantiene reciba como ingreso propio, el sector laboral en el cual se encuentre empleado y su desempeño académico.
 
 ###### Artículo 45.
 
@@ -571,15 +579,21 @@ De decretarse dicha rescisión, el beneficiario estará obligado a devolverle a 
 
 La misma circunstancia se aplicará en caso de que el beneficiario deje de estudiar sin causa justificada.
 
-## TÍTULO CUARTO. DEL PROGRAMA COMPROMISOS SOLIDARIOS POR CAMPECHE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO CUARTO. DEL PROGRAMA SERVICIO SOCIAL POR CAMPECHE
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 50.
 
-Con el objeto de promover un espíritu de solidaridad social y retribución al Estado, los beneficiarios de alguno de los programas previsto en la presente Ley tendrán la obligación de participar por el tiempo que determine el Reglamento Interior de La Fundación en el programa "Compromisos Solidarios por Campeche".
+Con el objeto de promover un espíritu de solidaridad social y retribución al Estado, los beneficiarios de los programas previstos en la presente Ley, tendrán la obligación de participar por el tiempo que determine el Reglamento Interior respecto del programa "Servicio social por Campeche".
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
-El programa "Compromisos Solidarios por Campeche" tiene por objeto:
+El programa "Servicio Social por Campeche" tiene por objeto:
 
 I. Brindar apoyo mediante capacitaciones, organización de talleres, actividades cívicas, culturales o deportivas a favor de habitantes de comunidades de nuestra entidad;
 
@@ -595,13 +609,27 @@ VI. Dar conferencias orientadas a motivar el deseo de superación personal y de 
 
 VII. Las demás que prevea el Reglamento Interior de la Fundación.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-La participación dentro del programa "Compromisos Solidarios por Campeche" no generara ningún honorario para sus participantes.
+La participación dentro del programa "Servicio Social por Campeche'' no generará ningún honorario para sus participantes.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 53.
 
-Sin afectar el programa de estudios, los beneficiarios de La Fundación podrán participar en el programa "Compromisos Solidarios por Campeche" ya sea al inicio, durante sus estudios o al finalizar los mismos.
+Sin afectar el programa de estudios, los beneficiarios de la Fundación podrán participar en el programa "Servicio Social por Campeche" ya sea al inicio, durante sus estudios o al finalizar los mismos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO QUINTO. DISPOSICIONES LABORALES
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 54.
+
+Las relaciones laborales entre la Fundación y sus trabajadores se regirán por el Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables en la materia.
 
 T R A N S I T O R I O S
 
@@ -620,3 +648,15 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, a los cinco días del mes de noviembre del año dos mil trece.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 89 POR EL QUE "SE REFORMAN LAS FRACCIONES VII Y IX DEL ARTÍCULO 4, LOS ARTÍCULOS 9, 12, LA FRACCIÓN VI DEL ARTÍCULO 13, EL ARTÍCULO 14, LA FRACCIÓN I DEL ARTÍCULO 15, LA FRACCIÓN II DEL ARTÍCULO 18, LOS ARTÍCULOS 39, 40, 44, LA DENOMINACIÓN DEL TÍTULO CUARTO PARA QUEDAR "DEL PROGRAMA SERVICIO SOCIAL POR CAMPECHE", LOS ARTÍCULOS 50, 51, 52 Y 53, TODOS DE LA LEY CONSTITUTIVA DE LA FUNDACIÓN PABLO GARCÍA" ASÍ COMO "SE ADICIONA UN TÍTULO QUINTO DENOMINADO "DISPOSICIONES LABORALES", CON UN ARTÍCULO 54 A LA LEY CONSTITUTIVA DE LA FUNDACIÓN PABLO GARCÍA".]
+
+PRIMERO.- La presente Ley entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Junta de Gobierno realizará dentro del plazo de 60 días naturales siguientes a la entrada en vigor del presente decreto, las adecuaciones necesarias a los reglamentos y manuales vigentes de la Fundación Pablo García del Estado de Campeche, para la correcta observancia de las reformas contenidas en la presente Ley.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
