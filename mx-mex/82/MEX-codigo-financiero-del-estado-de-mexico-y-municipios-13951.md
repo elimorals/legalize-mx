@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2016-11-28"
+last_updated: "2016-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-[NOTA 1. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.]
-
-[NOTA 2. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE DICIEMBRE DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 5 DE DICIEMBRE DE 2016.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -2669,7 +2669,7 @@ Cuando en el desarrollo de la revisión se conozcan hechos u omisiones de los co
 
 > <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-Para estos efectos, el contribuyente o su representante legal podrán acudir a la invitación de la autoridad fiscal acompañados por el director general, administrador único, socios o accionistas, miembros del consejo directivo o de administración o las personas que tengan funciones o puestos homólogos. La autoridad fiscal levantará una constancia de los hechos que acontezcan en la reunión que se lleve a cabo con motivo de la invitación referida, otorgándole al contribuyente un plazo de 10 días contados a partir del día siguiente a aquél en que se celebre la reunión, para que le exhiba por escrito el recibo de pago de la totalidad de las contribuciones omitidas actualizadas y de sus accesorios, como prueba de la corrección de su situación fiscal. En caso de que el contribuyente o su representante legal no acudan a la invitación que le formule la autoridad fiscal en los términos del párrafo anterior o no corrija su situación fiscal en el plazo referido o cuando el contribuyente no se encuentre localizado, se perderá el beneficio de la condonación de las multas a que se refiere esta disposición.
+Para estos efectos, el contribuyente o su representante legal podrán, acudir a la invitación de la autoridad fiscal acompañados por el director general, administrador único, socios o accionistas, miembros del consejo directivo o de administración o las personas que tengan funciones o puestos homólogos. La autoridad fiscal levantará una constancia de los hechos que acontezcan en la reunión que se lleve a cabo con motivo de la invitación referida, otorgándole al contribuyente un plazo de 10 días contados a partir del día siguiente a aquél en que se celebre la reunión, para que se exhiba por escrito el recibo de pago de la totalidad de las contribuciones omitidas actualizadas y de sus accesorios, como prueba de la corrección de su situación fiscal. En caso de que el contribuyente o su representante legal no acudan a la invitación que le formule la autoridad fiscal en los términos del párrafo anterior o no corrija su situación fiscal en el plazo referido o cuando el contribuyente no se encuentre localizado, se perderá el beneficio de la condonación de las multas a que se refiere esta disposición.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
@@ -6841,7 +6841,7 @@ Por la inscripción de hipotecas, en las que intervengan el Fondo Instituido en 
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016) (F. DE E., G.G. 5 DE DICIEMBRE DE 2016)
 
 Por la inscripción de hipotecas, para garantizar el crédito principal o refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán.
 
@@ -7935,7 +7935,7 @@ A). De no inscripción. $717
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016) (F. DE E., G.G. 5 DE DICIEMBRE DE 2016)
 
 B). De no propiedad por cada nombre, denominación o razón social del que se realice la búsqueda.
 
@@ -9545,9 +9545,9 @@ Los usuarios que se abastezcan de agua de fuente propia o distinta a la red muni
 
 Los adquirentes de lotes no están obligados al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de subdivisiones o conjuntos urbanos de carácter habitacional, industrial, agroindustrial y de abasto, comercio y servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 136.
 
