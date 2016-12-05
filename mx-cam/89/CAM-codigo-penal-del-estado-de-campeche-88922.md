@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2016-05-16"
+last_updated: "2016-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1503,6 +1503,10 @@ Cuando las lesiones sean calificadas, la sanción correspondiente a las lesiones
 
 ### CAPÍTULO IV. OMISIÓN DE AUXILIO O DE CUIDADO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 141.
 
 Al que en estado de emoción violenta cometa homicidio o inflinja lesiones, se le impondrá una tercera parte de las sanciones que correspondan por su comisión. El estado de emoción violenta consiste en una reacción motora, circulatoria y secretoria hacia un sentimiento de gran intensidad, el cual produce una perturbación psicológica transitoria que se manifiesta a través de formas violentas de expresión, falta de razonamiento, de discernimiento y de voluntad y, como consecuencia, se atenúa la imputabilidad del agente.
@@ -1577,7 +1581,13 @@ En todos los casos de homicidio, además de la sanción señalada para cada uno 
 
 ###### Artículo 149.
 
-A quien abandone a una persona incapaz de valerse por sí misma y tenga la obligación de cuidarla, se le impondrán de tres meses a tres años de prisión si no resultare lesión o daño alguno. Si el sujeto activo fuese médico o profesionista similar o auxiliar, también se le suspenderá en el ejercicio de su profesión hasta por un término igual al de la sanción de prisión.
+los descendientes consanguíneos en línea recta o cualquier otro familiar que conforme a la legislación civil, tenga la obligación de cuidar a un adulto mayor y lo abandone sin causa justificada se le impondrán de seis meses a cinco años de prisión si no resultare lesión o daño alguno.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+A quien abandone a cualquier otra persona incapaz de valerse por sí misma y tenga la obligación de cuidarla, se le impondrán de tres meses a tres años si no resultare lesión o daño alguno. Si el sujeto activo fuese médico o profesionista similar o auxiliar, también se le suspenderá en el ejercicio de su profesión hasta por un término igual al de la sanción de prisión.
 
 Las mismas sanciones se aplicarán a quien, cuando se encuentre a cargo de un establecimiento asistencial, público o privado, realice la conducta descrita en el párrafo anterior.
 
@@ -1729,9 +1739,17 @@ III. Ocurra en un centro de reinserción, internamiento o separo de alguna insti
 
 IV. Sea cometido por un pariente de la víctima, sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el padrastro o madrastra en contra del hijastro o hijastra, por la pareja o por la persona que vive en concubinato con el padre o la madre de la víctima. En estos casos, el culpable perderá además todos los derechos familiares y sucesorios que le puedan corresponder por su vínculo con la víctima;
 
-V. Sea cometido por persona que tenga a la víctima bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en ella depositada; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VI. Sea cometido por agente que ejerciere autoridad sobre la víctima o se trate de un ministro de culto religioso o por quien se ostente como tal.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+V. Sea cometido por servidor público o por persona que tenga a la víctima bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en ella depositada; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+VI. Sea cometido por agente con cualidad de servidor público o que ejerciere autoridad sobre la víctima o se trate de un ministro de culto religioso o por quien se ostente como tal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1793,9 +1811,19 @@ I.- Se hiciera uso de violencia física o psicológica;
 
 II.- Sea cometido por dos o más personas;
 
-III.- Si existe relación de autoridad, de parentesco o de amistad, entre el agente y la víctima o aquél aproveche para su comisión los medios o circunstancias del empleo, cargo o comisión, profesión u oficio que ejerza, o sea ministro de algún culto o se haya ostentado como tal. Además, en su caso, a juicio de la autoridad jurisdiccional competente, se le impondrá al agente suspensión, destitución e inhabilitación del empleo, cargo o comisión, profesión u oficio, por un tiempo igual al de la sanción de prisión;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+III.- Si existe relación de autoridad, de parentesco o de amistad, entre el agente y la víctima o aquel aproveche para su comisión los medios o circunstancias del empleo, cargo o comisión, profesión u oficio que ejerza, o sea servidor público o ministro de algún culto o se haya ostentado como tal. Además, en su caso, a juicio de la autoridad judicial, se le impondrá al agente suspensión, destitución e inhabilitación del empleo, cargo o comisión, profesión u oficio, por un tiempo igual al de la sanción de prisión:
 
 IV.- Se hubiera administrado a la víctima alguna sustancia tóxica que afecte su comportamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+V.- Si la víctima fuere menor de edad;
 
 Este delito se perseguirá por querella de parte.
 
@@ -3307,7 +3335,7 @@ V. Incomunique al imputado, o niegue, a quien tiene derecho a saber, que una per
 
 VI. Practique un cateo fuera de los casos autorizados y sin cumplir los requisitos exigidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes correspondientes;
 
-VII. No le haga saber al imputado, desde el primer momento de su intervención, sus derechos, omita informarle la naturaleza y causa de la imputación o el delito que se le atribuye o no le nombre un defensor público si el imputado no cuenta con defensor particular o se niega a nombrar uno;
+VII. No le haga saber al imputado, desde el primer momento de su intervención, sus derechos, omita informarle la naturaleza y causa de la imputación o el delito que se le atribuye o no le nombre un defensor público si el imputado no cuenta con defensor particular o se niegue a nombrar uno;
 
 VIII. No realice los trámites necesarios o los retarde para celebrar la audiencia inicial, una vez que el imputado haya manifestado su derecho a declarar;
 
@@ -4062,3 +4090,11 @@ P.O. 16 DE MAYO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+P.O. 5 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 91 POR EL QUE “SE REFORMA EL ARTÍCULO 149; LAS FRACCIONES V Y VI DEL ARTÍCULO 163; LA FRACCIÓN III Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 169, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
