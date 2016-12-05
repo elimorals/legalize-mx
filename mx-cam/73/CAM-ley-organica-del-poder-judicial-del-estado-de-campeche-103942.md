@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-de-campeche-103942"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2016-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 28 de noviembre de 2014.
 
@@ -1447,13 +1447,17 @@ La Escuela Judicial contará con un consejo académico, una secretaría académi
 
 El personal docente estará formado por académicos que reúnan los requisitos siguientes:
 
-I. Contar con título profesional a nivel licenciatura con antigüedad mínima de cinco años en el ejercicio de su profesión;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
-II. Poseer grado académico de maestro o doctor afín a la asignatura que impartirá; y
+I. Contar con el grado de Maestro o Doctor en el área del Derecho o Ciencias, a excepción de que el profesor sea de reconocido y excepcional prestigio nacional e internacional;
 
-III. Acreditar el examen de oposición que elabore el Tribunal Pleno, con la finalidad de concursar las horas clase que impartirá.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
-El Tribunal Pleno podrá invitar a docentes de reconocida trayectoria académica para impartir cualquiera de las asignaturas contenidas en los planes de estudio de la Escuela Judicial y, en su caso, dispensar alguno o algunos de los requisitos para ser docente.
+II. Contar con una reconocida trayectoria académica o experiencia jurídica o judicial; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+III. Ser autorizado por el Consejo Académico para ejercer la docencia en la Escuela Judicial.
 
 ###### Artículo 156.
 
@@ -2184,3 +2188,13 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintisiete días del mes de noviembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLlAM ROBERTO SARMIENTO URSINA.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 92 POR EL QUE “SE REFORMA EL ARTÍCULO 155 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarías de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
